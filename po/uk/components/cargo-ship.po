@@ -1,116 +1,122 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: crosscode 0.0.0\n"
+"PO-Revision-Date: 2021-01-11 00:54+0000\n"
+"Last-Translator: Lumisentius <soulstaleproject@gmail.com>\n"
+"Language-Team: Ukrainian <https://weblate.crosscode.ru/projects/crosscode/"
+"cargo-ship/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.4\n"
 
 #: data/areas/cargo-ship.json name #1
 #, max-length:100
 msgid "[00219] data/areas/cargo-ship.json name #1\n----------------\nCargo Ship"
-msgstr ""
+msgstr "Вантажне судно"
 
 #: data/areas/cargo-ship.json floors/0/name #2
 #, max-length:100
 msgid "[00220] data/areas/cargo-ship.json floors/0/name #2\n----------------\nCargo Hold"
-msgstr ""
+msgstr "Вантажний відсік"
 
 #: data/areas/cargo-ship.json floors/0/maps/0/name #15
 #, max-length:100
 msgid "[00221] data/areas/cargo-ship.json floors/0/maps/0/name #15\n----------------\nTeleporter"
-msgstr ""
+msgstr "Телепорт"
 
 #: data/areas/cargo-ship.json floors/0/maps/1/name #17
 #, max-length:120
 msgid "[00222] data/areas/cargo-ship.json floors/0/maps/1/name #17\n----------------\nCargo Hold 1"
-msgstr ""
+msgstr "Вантажний відсік 1"
 
 #: data/areas/cargo-ship.json floors/0/maps/2/name #18
 #, max-length:120
 msgid "[00223] data/areas/cargo-ship.json floors/0/maps/2/name #18\n----------------\nCargo Hold 2"
-msgstr ""
+msgstr "Вантажний відсік 2"
 
 #: data/areas/cargo-ship.json floors/0/maps/3/name #19
 #, max-length:120
 msgid "[00224] data/areas/cargo-ship.json floors/0/maps/3/name #19\n----------------\nCargo Hold 3"
-msgstr ""
+msgstr "Вантажний відсік 3"
 
 #: data/areas/cargo-ship.json floors/0/maps/4/name #20
 #, max-length:120
 msgid "[00225] data/areas/cargo-ship.json floors/0/maps/4/name #20\n----------------\nCargo Hold 4"
-msgstr ""
+msgstr "Вантажний відсік 4"
 
 #: data/areas/cargo-ship.json floors/0/maps/5/name #21
 #, max-length:120
 msgid "[00226] data/areas/cargo-ship.json floors/0/maps/5/name #21\n----------------\nCargo Hold 5"
-msgstr ""
+msgstr "Вантажний відсік 5"
 
 #: data/areas/cargo-ship.json floors/0/maps/6/name #22
 #, max-length:190
 msgid "[00227] data/areas/cargo-ship.json floors/0/maps/6/name #22\n----------------\nCargo Hold Elevator"
-msgstr ""
+msgstr "Ліфт вантажного відсіку"
 
 #: data/areas/cargo-ship.json floors/1/name #3
 #, max-length:40
 msgid "[00228] data/areas/cargo-ship.json floors/1/name #3\n----------------\nDeck"
-msgstr ""
+msgstr "Палуба"
 
 #: data/areas/cargo-ship.json floors/1/maps/0/name #23
 #, max-length:40
 msgid "[00229] data/areas/cargo-ship.json floors/1/maps/0/name #23\n----------------\nDeck"
-msgstr ""
+msgstr "Палуба"
 
 #: data/areas/cargo-ship.json floors/1/maps/1/name #24
 #, max-length:210
 msgid "[00230] data/areas/cargo-ship.json floors/1/maps/1/name #24\n----------------\nGround Floor Elevator"
-msgstr ""
+msgstr "Ліфт нижнього поверху"
 
 #: data/areas/cargo-ship.json floors/2/name #4
 #, max-length:80
 msgid "[00231] data/areas/cargo-ship.json floors/2/name #4\n----------------\nCabins 1"
-msgstr ""
+msgstr "Каюти 1"
 
 #: data/areas/cargo-ship.json floors/2/maps/0/name #25
 #, max-length:80
 msgid "[00232] data/areas/cargo-ship.json floors/2/maps/0/name #25\n----------------\nCabins 1"
-msgstr ""
+msgstr "Каюти 1"
 
 #: data/areas/cargo-ship.json floors/3/name #5
 #, max-length:80
 msgid "[00233] data/areas/cargo-ship.json floors/3/name #5\n----------------\nCabins 2"
-msgstr ""
+msgstr "Каюти 2"
 
 #: data/areas/cargo-ship.json floors/3/maps/0/name #26
 #, max-length:80
 msgid "[00234] data/areas/cargo-ship.json floors/3/maps/0/name #26\n----------------\nCabins 2"
-msgstr ""
+msgstr "Каюти 2"
 
 #: data/areas/cargo-ship.json floors/4/name #6
 #, max-length:60
 msgid "[00235] data/areas/cargo-ship.json floors/4/name #6\n----------------\nBridge"
-msgstr ""
+msgstr "Місток"
 
 #: data/areas/cargo-ship.json floors/4/maps/0/name #27
 #, max-length:60
 msgid "[00236] data/areas/cargo-ship.json floors/4/maps/0/name #27\n----------------\nBridge"
-msgstr ""
+msgstr "Місток"
 
 #: data/areas/cargo-ship.json floors/4/maps/1/name #29
 #, max-length:40
 msgid "[00237] data/areas/cargo-ship.json floors/4/maps/1/name #29\n----------------\nDeck"
-msgstr ""
+msgstr "Палуба"
 
 #: data/maps/cargo-ship/boss.json entities/15/settings/event/17/message #1
 #, max-length:370
 msgid "[19770] data/maps/cargo-ship/boss.json entities/15/settings/event/17/message #1\nEventTrigger intro\nantagonists.designer @LAUGH\n----------------\nWhat a convenient stage we have here!"
-msgstr ""
+msgstr "Яка нагідна у нас тут арена!"
 
 #: data/maps/cargo-ship/boss.json entities/15/settings/event/18/message #2
 #, max-length:350
 msgid "[19771] data/maps/cargo-ship/boss.json entities/15/settings/event/18/message #2\nEventTrigger intro\nantagonists.designer @DOWN_TALK\n----------------\nNow, it is time to face your trial!"
-msgstr ""
+msgstr "Тепер, час зіткнутися з твоїм випробуванням!"
 
 #: data/maps/cargo-ship/boss.json entities/15/settings/event/29/message #3
 #, max-length:420
@@ -120,17 +126,17 @@ msgstr ""
 #: data/maps/cargo-ship/boss.json entities/15/settings/event/30/message #4
 #, max-length:490
 msgid "[19773] data/maps/cargo-ship/boss.json entities/15/settings/event/30/message #4\nEventTrigger intro\nantagonists.designer @DOWN_TALK\n----------------\nA display of your talents shall suffice as proof!"
-msgstr ""
+msgstr "Демонстрація твоїх навичок послугує доказом!"
 
 #: data/maps/cargo-ship/boss.json entities/15/settings/event/41/message #5
 #, max-length:200
 msgid "[19774] data/maps/cargo-ship/boss.json entities/15/settings/event/41/message #5\nEventTrigger intro\nmain.sergey @SERIOUS\n----------------\nLea, do you hear me?"
-msgstr ""
+msgstr "Лія, ти мене чуєш?"
 
 #: data/maps/cargo-ship/boss.json entities/15/settings/event/42/message #6
 #, max-length:630
 msgid "[19775] data/maps/cargo-ship/boss.json entities/15/settings/event/42/message #6\nEventTrigger intro\nmain.sergey @EYES_CLOSED\n----------------\n I am just as confused about this whole situation as you are..."
-msgstr ""
+msgstr "Я теж, як і ти збита з пантелику цією ситуацією..."
 
 #: data/maps/cargo-ship/boss.json entities/15/settings/event/43/message #7
 #, max-length:560
