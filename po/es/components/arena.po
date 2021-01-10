@@ -1,276 +1,354 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: crosscode 0.0.0\n"
+"PO-Revision-Date: 2021-01-11 00:54+0000\n"
+"Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
+"Language-Team: Spanish <https://weblate.crosscode.ru/projects/crosscode/"
+"arena/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.4\n"
 
 #: data/arena/boss-cup.json core/name #4
 #, max-length:160
 msgid "[00773] data/arena/boss-cup.json core/name #4\nSOLO_CUP\n----------------\nDungeon Boss Cup"
-msgstr ""
+msgstr "Copa de Jefes de Mazmorra"
 
 #: data/arena/boss-cup.json core/info #1
 #, max-length:770
 msgid "[00774] data/arena/boss-cup.json core/info #1\nSOLO_CUP\n----------------\nTake on stronger versions of the boss fights of all the temples and dungeons."
 msgstr ""
+"Pelea contra versiones más desafiantes de los jefes de todos los templos y "
+"mazmorras."
 
 #: data/arena/boss-cup.json core/creator #44
 #, max-length:70
 msgid "[00775] data/arena/boss-cup.json core/creator #44\nSOLO_CUP\n----------------\nLachsen"
-msgstr ""
+msgstr "Lachsen"
 
 #: data/arena/boss-cup.json rounds/0/name #28
 #, max-length:170
 msgid "[00776] data/arena/boss-cup.json rounds/0/name #28\nDEFAULT\n----------------\nThe Lethal Turret"
-msgstr ""
+msgstr "La Torreta Letal"
 
 #: data/arena/boss-cup.json rounds/0/objective #29
 #, max-length:1150
 msgid "[00777] data/arena/boss-cup.json rounds/0/objective #29\nDEFAULT\n----------------\nBeat a stronger version of the \\c[3]\\v[combat.name.turret-boss]\\c[0] boss from \\c[3]\\v[area.rhombus-dng.name]\\c[0]!"
 msgstr ""
+"¡Derrota a una versión más fuerte del jefe \\c[3]\\v[combat.name.turret-boss]"
+"\\c[0] de la \\c[3]\\v[area.rhombus-dng.name]\\c[0]!"
 
 #: data/arena/boss-cup.json rounds/1/name #42
 #, max-length:160
 msgid "[00778] data/arena/boss-cup.json rounds/1/name #42\nDEFAULT\n----------------\nThe Frozen Robot"
-msgstr ""
+msgstr "El Robot Congelado"
 
 #: data/arena/boss-cup.json rounds/1/objective #43
 #, max-length:1210
 msgid "[00779] data/arena/boss-cup.json rounds/1/objective #43\nDEFAULT\n----------------\nBeat a stronger version of the \\c[3]\\v[combat.name.mine-diggingbot-cold]\\c[0] boss from \\c[3]\\v[area.cold-dng.name]\\c[0]!"
 msgstr ""
+"¡Derrota a una versión más fuerte del jefe \\c[3]\\v[combat.name.mine-"
+"diggingbot-cold]\\c[0] del \\c[3]\\v[area.cold-dng.name]\\c[0]!"
 
 #: data/arena/boss-cup.json rounds/2/name #26
 #, max-length:170
 msgid "[00780] data/arena/boss-cup.json rounds/2/name #26\nDEFAULT\n----------------\nThe Collosal Gear"
-msgstr ""
+msgstr "El Engranaje Colosal"
 
 #: data/arena/boss-cup.json rounds/2/objective #33
 #, max-length:1130
 msgid "[00781] data/arena/boss-cup.json rounds/2/objective #33\nDEFAULT\n----------------\nBeat a stronger version of the \\c[3]\\v[combat.name.boss-driller]\\c[0] boss from \\c[3]\\v[area.cold-dng.name]\\c[0]!"
 msgstr ""
+"¡Derrota a una versión más fuerte del jefe \\c[3]\\v[combat.name.boss-"
+"driller]\\c[0] del \\c[3]\\v[area.cold-dng.name]\\c[0]!"
 
 #: data/arena/boss-cup.json rounds/3/name #30
 #, max-length:180
 msgid "[00782] data/arena/boss-cup.json rounds/3/name #30\nDEFAULT\n----------------\nThe Fierce Antlion"
-msgstr ""
+msgstr "La Fiera Hormiga León"
 
 #: data/arena/boss-cup.json rounds/3/objective #31
 #, max-length:1130
 msgid "[00783] data/arena/boss-cup.json rounds/3/objective #31\nDEFAULT\n----------------\nBeat a stronger version of the \\c[3]\\v[combat.name.heat/antlion]\\c[0] boss from \\c[3]\\v[area.heat-dng.name]\\c[0]!"
 msgstr ""
+"¡Derrota a una versión más fuerte del jefe \\c[3]\\v[combat.name.heat/"
+"antlion]\\c[0] del \\c[3]\\v[area.heat-dng.name]\\c[0]!"
 
 #: data/arena/boss-cup.json rounds/4/name #32
 #, max-length:170
 msgid "[00784] data/arena/boss-cup.json rounds/4/name #32\nDEFAULT\n----------------\nThe Gigantic Moth"
-msgstr ""
+msgstr "La Gigantesca Polilla"
 
 #: data/arena/boss-cup.json rounds/4/objective #27
 #, max-length:1140
 msgid "[00785] data/arena/boss-cup.json rounds/4/objective #27\nDEFAULT\n----------------\nBeat a stronger version of the \\c[3]\\v[combat.name.heat/megamoth]\\c[0] boss from \\c[3]\\v[area.heat-dng.name]\\c[0]!"
 msgstr ""
+"¡Derrota a una versión más fuerte del jefe \\c[3]\\v[combat.name.heat/"
+"megamoth]\\c[0] del \\c[3]\\v[area.heat-dng.name]\\c[0]!"
 
 #: data/arena/boss-cup.json rounds/5/name #36
 #, max-length:220
 msgid "[00786] data/arena/boss-cup.json rounds/5/name #36\nDEFAULT\n----------------\nThe Ghost of Lightning"
-msgstr ""
+msgstr "El Fantasma del Rayo"
 
 #: data/arena/boss-cup.json rounds/5/objective #37
 #, max-length:1180
 msgid "[00787] data/arena/boss-cup.json rounds/5/objective #37\nDEFAULT\n----------------\nBeat a stronger version of the \\c[3]\\v[combat.name.jungle/shockboss]\\c[0] boss from \\c[3]\\v[area.shock-dng.name]\\c[0]!"
 msgstr ""
+"¡Derrota a una versión más fuerte del jefe \\c[3]\\v[combat.name.jungle/"
+"shockboss]\\c[0] del \\c[3]\\v[area.shock-dng.name]\\c[0]!"
 
 #: data/arena/boss-cup.json rounds/6/name #34
 #, max-length:150
 msgid "[00788] data/arena/boss-cup.json rounds/6/name #34\nDEFAULT\n----------------\nThe Mighty Blob"
-msgstr ""
+msgstr "La Poderosa Baba"
 
 #: data/arena/boss-cup.json rounds/6/objective #35
 #, max-length:1160
 msgid "[00789] data/arena/boss-cup.json rounds/6/objective #35\nDEFAULT\n----------------\nBeat a stronger version of the \\c[3]\\v[combat.name.jungle/waveboss]\\c[0] boss from \\c[3]\\v[area.wave-dng.name]\\c[0]!"
 msgstr ""
+"¡Derrota a una versión más fuerte del jefe \\c[3]\\v[combat.name.jungle/"
+"waveboss]\\c[0] del \\c[3]\\v[area.wave-dng.name]\\c[0]!"
 
 #: data/arena/boss-cup.json rounds/7/name #38
 #, max-length:150
 msgid "[00790] data/arena/boss-cup.json rounds/7/name #38\nDEFAULT\n----------------\nThe Ape Warrior"
-msgstr ""
+msgstr "El Primate Guerrero"
 
 #: data/arena/boss-cup.json rounds/7/objective #39
 #, max-length:1160
 msgid "[00791] data/arena/boss-cup.json rounds/7/objective #39\nDEFAULT\n----------------\nBeat a stronger version of the \\c[3]\\v[combat.name.jungle/ape-boss]\\c[0] boss from \\c[3]\\v[area.tree-dng.name]\\c[0]!"
 msgstr ""
+"¡Derrota a una versión más fuerte del jefe  \\c[3]\\v[combat.name.jungle/ape-"
+"boss]\\c[0] del \\c[3]\\v[area.tree-dng.name]\\c[0]!"
 
 #: data/arena/boss-cup.json rounds/8/name #40
 #, max-length:190
 msgid "[00792] data/arena/boss-cup.json rounds/8/name #40\nDEFAULT\n----------------\nThe Monstrous Whale"
-msgstr ""
+msgstr "La Monstruosa Ballena"
 
 #: data/arena/boss-cup.json rounds/8/objective #41
 #, max-length:1630
 msgid "[00793] data/arena/boss-cup.json rounds/8/objective #41\nDEFAULT\n----------------\nBeat stronger versions of the \\c[3]\\v[combat.name.jungle/ape-boss]\\c[0] and \\c[3]\\v[combat.name.jungle/whale-boss]\\c[0] boss from \\c[3]\\v[area.tree-dng.name]\\c[0]!"
 msgstr ""
+"¡Derrota versiones más fuertes de los jefes \\c[3]\\v[combat.name.jungle/ape-"
+"boss]\\c[0] y \\c[3]\\v[combat.name.jungle/whale-boss]\\c[0] del \\c[3]\\v"
+"[area.tree-dng.name]\\c[0]!"
 
 #: data/arena/faction-cup-1.json core/name #4
 #, max-length:180
 msgid "[00794] data/arena/faction-cup-1.json core/name #4\nSOLO_CUP\n----------------\nFaction Rookie Cup"
-msgstr ""
+msgstr "Copa Novato de las Facciones"
 
 #: data/arena/faction-cup-1.json core/info #1
 #, max-length:720
 msgid "[00795] data/arena/faction-cup-1.json core/info #1\nSOLO_CUP\n----------------\nRefight several early battles found during your quests for the factions!"
 msgstr ""
+"¡Vuelve a pelear varias viejas batallas que te has encontrado en tus "
+"misiones para las facciones!"
 
 #: data/arena/faction-cup-1.json rounds/0/name #28
 #, max-length:160
 msgid "[00796] data/arena/faction-cup-1.json rounds/0/name #28\nDEFAULT\n----------------\nHillkat Hoodlums"
-msgstr ""
+msgstr "Colicatas Matonas"
 
 #: data/arena/faction-cup-1.json rounds/0/objective #29
 #, max-length:1520
 msgid "[00797] data/arena/faction-cup-1.json rounds/0/objective #29\nDEFAULT\n----------------\nRefight the \\c[3]\\v[combat.name.meerkat-special-command-1]\\c[0] and his gang of \\c[3]Hillkats\\c[0] in their cave in \\c[3]\\v[area.autumn-area.name]\\c[0]!"
 msgstr ""
+"¡Vuelve a pelear contra \\c[3]\\v[combat.name.meerkat-special-command-1]\\c"
+"[0] y su pandilla de \\c[3]Colicatas\\c[0] en su cueva en el \\c[3]\\v[area."
+"autumn-area.name]\\c[0]!"
 
 #: data/arena/faction-cup-1.json rounds/1/name #48
 #, max-length:150
 msgid "[00798] data/arena/faction-cup-1.json rounds/1/name #48\nDEFAULT\n----------------\nTurret Troubles"
-msgstr ""
+msgstr "Problemas de Torretas"
 
 #: data/arena/faction-cup-1.json rounds/1/objective #31
 #, max-length:1190
 msgid "[00799] data/arena/faction-cup-1.json rounds/1/objective #31\nDEFAULT\n----------------\nDefeat the \\c[3]\\v[combat.name.turret-rhg-1]\\c[0] that got you in a crossfire in \\c[3]\\v[area.rookie-harbor.name]\\c[0]!"
 msgstr ""
+"¡Derrota a la \\c[3]\\v[combat.name.turret-rhg-1]\\c[0] contra la que te "
+"enfrentaste en \\c[3]\\v[area.rookie-harbor.name]\\c[0]!"
 
 #: data/arena/faction-cup-1.json rounds/2/name #30
 #, max-length:150
 msgid "[00800] data/arena/faction-cup-1.json rounds/2/name #30\nDEFAULT\n----------------\nBesmirched Buns"
-msgstr ""
+msgstr "Conejitos Sucios"
 
 #: data/arena/faction-cup-1.json rounds/2/objective #49
 #, max-length:1500
 msgid "[00801] data/arena/faction-cup-1.json rounds/2/objective #49\nDEFAULT\n----------------\nDefeat the \\c[3]\\v[combat.name.cold/frobbit-quest-dirty]s\\c[0] in \\c[3]\\v[area.bergen-trails.name]\\c[0]!\nRemember to \\c[3]give them a bath\\c[0] first!"
 msgstr ""
+"¡Derrota al \\c[3]\\v[combat.name.cold/frobbit-quest-dirty]s\\c[0] en el \\c"
+"[3]\\v[area.bergen-trails.name]\\c[0]!\n"
+"¡Recuerda \\c[3]darles un baño\\c[0] primero!"
 
 #: data/arena/faction-cup-1.json rounds/3/name #32
 #, max-length:220
 msgid "[00802] data/arena/faction-cup-1.json rounds/3/name #32\nDEFAULT\n----------------\nThe Goatfather, Part I"
-msgstr ""
+msgstr "El Cabrino, Parte I"
 
 #: data/arena/faction-cup-1.json rounds/3/objective #33
 #, max-length:1680
 msgid "[00803] data/arena/faction-cup-1.json rounds/3/objective #33\nDEFAULT\n----------------\nMeet the \\c[3]\\v[combat.name.cold/goat-father]\\c[0] again and \\c[3]defeat his subordinates\\c[0] in \\c[3]\\v[area.bergen-trails.name]\\c[0]!\nBe careful of \\c[3]bombs\\c[0]!"
 msgstr ""
+"¡Enfréntate al \\c[3]\\v[combat.name.cold/goat-father]\\c[0] otra vez y \\c"
+"[3]derrota a sus subordinados\\c[0] en el \\c[3]\\v[area.bergen-trails.name]"
+"\\c[0]!\n"
+"¡Atento a las \\c[3]bombas\\c[0]!"
 
 #: data/arena/faction-cup-1.json rounds/4/name #34
 #, max-length:160
 msgid "[00804] data/arena/faction-cup-1.json rounds/4/name #34\nDEFAULT\n----------------\nTenacious Toises"
-msgstr ""
+msgstr "Tortugas Tenaces"
 
 #: data/arena/faction-cup-1.json rounds/4/objective #35
 #, max-length:2940
 msgid "[00805] data/arena/faction-cup-1.json rounds/4/objective #35\nDEFAULT\n----------------\nCrack the shells of \\c[3]\\v[combat.name.heat/drillertoise]s\\c[0] with the help of your trusty \\c[3]\\v[combat.name.heat/special/kamikatze-helper]\\c[0]!\nHitting the \\c[3]\\v[combat.name.heat/special/kamikatze-helper]\\c[0] with \\c[3]charged projectiles\\c[0] will make it dispense \\c[3]bombs\\c[0]!\n\n"
 msgstr ""
+"¡Rompe los caparazones de las \\c[3]\\v[combat.name.heat/drillertoise]s\\c[0]"
+" con la ayuda de tu confiable \\c[3]\\v[combat.name.heat/special/kamikatze-"
+"helper]\\c[0]!\n"
+"¡Pegarle al \\c[3]\\v[combat.name.heat/special/kamikatze-helper]\\c[0] con "
+"\\c[3]proyectiles cargados\\c[0] lo hará dispensar \\c[3]bombas\\c[0]!\n"
+"\n"
 
 #: data/arena/faction-cup-1.json rounds/5/name #36
 #, max-length:210
 msgid "[00806] data/arena/faction-cup-1.json rounds/5/name #36\nDEFAULT\n----------------\nSearing Circuit Squad"
-msgstr ""
+msgstr "Escuadrón de Circuitos Abrasadores"
 
 #: data/arena/faction-cup-1.json rounds/5/objective #37
 #, max-length:2540
 msgid "[00807] data/arena/faction-cup-1.json rounds/5/objective #37\nDEFAULT\n----------------\nFight the favored machinery of treacherous Baki'Kum guards, \\c[3]\\v[combat.name.heat/special/baki-turret_1]s\\c[0] led by a \\c[3]\\v[combat.name.heat/special/baki-cmd_bot]\\c[0]!\n\\c[3]Break the leader\\c[0] to deactivate the \\c[3]shields\\c[0] of the turrets!"
 msgstr ""
+"¡Pelea contra la favorecida maquinaria de los guardias traidores de "
+"Baki'Kum, \\c[3]\\v[combat.name.heat/special/baki-turret_1]s\\c[0] dirigida "
+"por \\c[3]\\v[combat.name.heat/special/baki-cmd_bot]\\c[0]!\n"
+"¡\\c[3]Aturde al líder\\c[0] para desactivar los \\c[3]escudos\\c[0] de las "
+"torretas!"
 
 #: data/arena/faction-cup-2.json core/name #4
 #, max-length:200
 msgid "[00808] data/arena/faction-cup-2.json core/name #4\nSOLO_CUP\n----------------\nFaction Advanced Cup"
-msgstr ""
+msgstr "Copa de Facciones Avanzada"
 
 #: data/arena/faction-cup-2.json core/info #1
 #, max-length:740
 msgid "[00809] data/arena/faction-cup-2.json core/info #1\nSOLO_CUP\n----------------\nRefight several midgame battles found during your quests for the factions!"
 msgstr ""
+"¡Vuelve a pelear contra varios enemigos de la mitad del juego que te has "
+"encontrado en las misiones para las facciones!"
 
 #: data/arena/faction-cup-2.json rounds/0/name #54
 #, max-length:130
 msgid "[00810] data/arena/faction-cup-2.json rounds/0/name #54\nDEFAULT\n----------------\nBurning Birbs"
-msgstr ""
+msgstr "Aves Ardientes"
 
 #: data/arena/faction-cup-2.json rounds/0/objective #51
 #, max-length:1570
 msgid "[00811] data/arena/faction-cup-2.json rounds/0/objective #51\nDEFAULT\n----------------\nDefeat the \\c[3]\\v[combat.name.heat/special/volturbine-cave]s\\c[0] in \\c[3]\\v[area.heat-area.name]\\c[0]!\nDon't let them \\c[3]regenerate over the flames\\c[0]!"
 msgstr ""
+"¡Derrota las \\c[3]\\v[combat.name.heat/special/volturbine-cave]s\\c[0] en "
+"\\c[3]\\v[area.heat-area.name]\\c[0]!\n"
+"¡No las dejes \\c[3]regenerarse sobre las llamas\\c[0]!"
 
 #: data/arena/faction-cup-2.json rounds/1/name #50
 #, max-length:180
 msgid "[00812] data/arena/faction-cup-2.json rounds/1/name #50\nDEFAULT\n----------------\nMalicious Mustache"
-msgstr ""
+msgstr "Mostacho Malicioso"
 
 #: data/arena/faction-cup-2.json rounds/1/objective #55
 #, max-length:2120
 msgid "[00813] data/arena/faction-cup-2.json rounds/1/objective #55\nDEFAULT\n----------------\nHave another duel with \\c[3]\\v[combat.name.heat/special/guard-hostile-mustache]\\c[0], Bakii'Kums most treasonous guard!\nAnd also trash his \\c[3]\\v[combat.name.heat/special/baki-turret_2]s\\c[0] while you're at it!"
 msgstr ""
+"¡Ten otro duelo con \\c[3]\\v[combat.name.heat/special/guard-hostile-"
+"mustache]\\c[0], el guardia de Bakii'Kum más traicionero!\n"
+"¡Y también contra su \\c[3]\\v[combat.name.heat/special/baki-turret_2]s\\c[0]"
+" ya que estás!"
 
 #: data/arena/faction-cup-2.json rounds/2/name #40
 #, max-length:130
 msgid "[00814] data/arena/faction-cup-2.json rounds/2/name #40\nDEFAULT\n----------------\nHeater Beater"
-msgstr ""
+msgstr "Matón Calentito"
 
 #: data/arena/faction-cup-2.json rounds/2/objective #41
 #, max-length:1820
 msgid "[00815] data/arena/faction-cup-2.json rounds/2/objective #41\nDEFAULT\n----------------\nDefeat the mighty metallic \\c[3]\\v[combat.name.cold/mine-diggingbot-quest]\\c[0] in the \\c[3]\\v[area.cold-dng.name]\\c[0]!\nTry to keep its \\c[3]heat\\c[0] in a \\c[3]balanced state\\c[0]!"
 msgstr ""
+"¡Derrota al poderoso y metálico \\c[3]\\v[combat.name.cold/mine-diggingbot-"
+"quest]\\c[0] en el \\c[3]\\v[area.cold-dng.name]\\c[0]!\n"
+"¡Mantén el \\c[3]calor\\c[0] en un \\c[3]estado balanceado\\c[0]!"
 
 #: data/arena/faction-cup-2.json rounds/3/name #42
 #, max-length:140
 msgid "[00816] data/arena/faction-cup-2.json rounds/3/name #42\nDEFAULT\n----------------\nBlazing Buffel"
-msgstr ""
+msgstr "Búfalo Ardiente"
 
 #: data/arena/faction-cup-2.json rounds/3/objective #43
 #, max-length:1610
 msgid "[00817] data/arena/faction-cup-2.json rounds/3/objective #43\nDEFAULT\n----------------\nDefeat the \\c[3]\\v[combat.name.autumn-fall/buffalo-fire-quest]\\c[0] in \\c[3]\\v[area.autumn-fall.name]\\c[0]!\nOvercome it using \\c[3]ice\\c[0] and \\c[3]angles\\c[0]!"
 msgstr ""
+"¡Derrota al \\c[3]\\v[combat.name.autumn-fall/buffalo-fire-quest]\\c[0] en "
+"\\c[3]\\v[area.autumn-fall.name]\\c[0]!\n"
+"¡Véncelo usando \\c[3]hielo\\c[0] y \\c[3]ángulos\\c[0]!"
 
 #: data/arena/faction-cup-2.json rounds/4/name #44
 #, max-length:170
 msgid "[00818] data/arena/faction-cup-2.json rounds/4/name #44\nDEFAULT\n----------------\nTourist of Terror"
-msgstr ""
+msgstr "Turista del Terror"
 
 #: data/arena/faction-cup-2.json rounds/4/objective #45
 #, max-length:2160
 msgid "[00819] data/arena/faction-cup-2.json rounds/4/objective #45\nDEFAULT\n----------------\nDefeat the \\c[3]\\v[combat.name.jungle/special/snowman-jungle-boss]\\c[0] who has resettled to \\c[3]\\v[area.jungle.name]\\c[0]!\nBreak his defense by using the teleporting \\c[3]\\v[combat.name.jungle/special/heater]\\c[0]!"
 msgstr ""
+"¡Derrota al \\c[3]\\v[combat.name.jungle/special/snowman-jungle-boss]\\c[0] "
+"quien se ha mudado al \\c[3]\\v[area.jungle.name]\\c[0]!\n"
+"¡Rompe su defensa utilizando el \\c[3]\\v[combat.name.jungle/special/heater]"
+"\\c[0] teleportador!"
 
 #: data/arena/faction-cup-2.json rounds/5/name #46
 #, max-length:110
 msgid "[00820] data/arena/faction-cup-2.json rounds/5/name #46\nDEFAULT\n----------------\nPerky Plant"
-msgstr ""
+msgstr "Planta Alegre"
 
 #: data/arena/faction-cup-2.json rounds/5/objective #47
 #, max-length:1050
 msgid "[00821] data/arena/faction-cup-2.json rounds/5/objective #47\nDEFAULT\n----------------\nDefeat the \\c[3]\\v[combat.name.jungle/special/powerplant-quest-1]\\c[0] in \\c[3]\\v[area.jungle.name]\\c[0]!"
 msgstr ""
+"¡Derrota a la \\c[3]\\v[combat.name.jungle/special/powerplant-quest-1]\\c[0] "
+"en el \\c[3]\\v[area.jungle.name]\\c[0]!"
 
 #: data/arena/faction-cup-2.json rounds/6/name #52
 #, max-length:160
 msgid "[00822] data/arena/faction-cup-2.json rounds/6/name #52\nDEFAULT\n----------------\nDreaded Dry Dude"
-msgstr ""
+msgstr "Tenebroso Hombre Seco"
 
 #: data/arena/faction-cup-2.json rounds/6/objective #53
 #, max-length:1760
 msgid "[00823] data/arena/faction-cup-2.json rounds/6/objective #53\nDEFAULT\n----------------\nDefeat the \\c[3]\\v[combat.name.heat/special/sandman-1]\\c[0] in \\c[3]\\v[area.heat-area.name]\\c[0]!\n\\c[3]Quicksand\\c[0] may be annoying but \\c[3]teleporters\\c[0] are your friend!"
 msgstr ""
+"¡Derrota al \\c[3]\\v[combat.name.heat/special/sandman-1]\\c[0] en el \\c[3]"
+"\\v[area.heat-area.name]\\c[0]!\n"
+"¡Las \\c[3]arenas movedizas\\c[0] puede que sean molestas pero los \\c[3]"
+"teleportadores\\c[0] son tus amigos!"
 
 #: data/arena/faction-team-cup-1.json core/name #4
 #, max-length:160
 msgid "[00824] data/arena/faction-team-cup-1.json core/name #4\nTEAM_CUP\n----------------\nFaction Team Cup"
-msgstr ""
+msgstr "Copa de Facciones en Equipo"
 
 #: data/arena/faction-team-cup-1.json core/info #1
 #, max-length:770
 msgid "[00825] data/arena/faction-team-cup-1.json core/info #1\nTEAM_CUP\n----------------\nRefight several battles found during your quests for the factions, as a team!"
 msgstr ""
+"¡Vuelve a pelear contra varias batallas que te has encontrado en tus "
+"misiones para las facciones, en equipo!"
 
 #: data/arena/faction-team-cup-1.json rounds/0/name #28
 #, max-length:160
