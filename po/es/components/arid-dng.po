@@ -1,9 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: crosscode 0.0.0\n"
-"PO-Revision-Date: 2021-01-10 01:59+0000\n"
-"Last-Translator: CrossCode Weblate Admin <dmytro.meleshko+weblate.crosscode."
-"ru@gmail.com>\n"
+"PO-Revision-Date: 2021-01-11 00:54+0000\n"
+"Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.crosscode.ru/projects/crosscode/"
 "arid-dng/es/>\n"
 "Language: es\n"
@@ -76,7 +75,7 @@ msgstr "[asiente]"
 #: data/maps/arid-dng/first/outside.json entities/86/settings/event/26/message #9
 #, max-length:70
 msgid "[10782] data/maps/arid-dng/first/outside.json entities/86/settings/event/26/message #9\nEventTrigger MuchDramaScene START IF party.has.Schneider2\nSHOW_OFFSCREEN_MSG\n----------------\nL-Lea?!"
-msgstr ""
+msgstr "¡¿L-Lea?!"
 
 #: data/maps/arid-dng/first/outside.json entities/86/settings/event/35/message #10
 #, max-length:240
@@ -256,7 +255,7 @@ msgstr "No hay escape de este lugar. ¡No para los avatares como tú!"
 #: data/maps/arid-dng/first/outside.json entities/86/settings/event/182/message #862
 #, max-length:210
 msgid "[10818] data/maps/arid-dng/first/outside.json entities/86/settings/event/182/message #862\nEventTrigger MuchDramaScene START IF party.has.Schneider2\nSHOW_OFFSCREEN_MSG\n----------------\nWe'll see about that!"
-msgstr ""
+msgstr "¡Ya veremos!"
 
 #: data/maps/arid-dng/first/outside.json entities/86/settings/event/199/message #285
 #, max-length:380
@@ -361,7 +360,7 @@ msgstr "[asiente]"
 #: data/maps/arid-dng/first/room-01.json entities/27/settings/event/49/task #864
 #, max-length:290
 msgid "[10839] data/maps/arid-dng/first/room-01.json entities/27/settings/event/49/task #864\nEventTrigger intro\nSET_PERMA_TASK\n----------------\nFollow Sergey's instructions."
-msgstr ""
+msgstr "Sigue las instrucciones de Sergey."
 
 #: data/maps/arid-dng/first/room-02.json entities/2/settings/blockEvent/2/message #6
 #, max-length:650
@@ -486,7 +485,7 @@ msgstr "Ahora, intenta interactuar con el símbolo."
 #: data/maps/arid-dng/first/room-03.json entities/49/settings/interact/hoverText #18
 #, max-length:90
 msgid "[10864] data/maps/arid-dng/first/room-03.json entities/49/settings/interact/hoverText #18\nProp exitSign SPAWN IF map.exitSign\n----------------\nTake off."
-msgstr ""
+msgstr "Salir."
 
 #: data/maps/arid-dng/first/room-03.json entities/49/settings/interact/event/4/thenStep/12/message #26
 #, max-length:130
@@ -661,7 +660,7 @@ msgstr "Por lo que parece, deberías poder llegar al punto."
 #: data/maps/arid-dng/first/room-04.json entities/26/settings/interact/hoverText #18
 #, max-length:90
 msgid "[10899] data/maps/arid-dng/first/room-04.json entities/26/settings/interact/hoverText #18\nProp exitSign SPAWN IF map.exitSign\n----------------\nTake off."
-msgstr ""
+msgstr "Salir."
 
 #: data/maps/arid-dng/first/room-05.json entities/0/settings/blockEvent/1/message #23
 #, max-length:400
@@ -686,7 +685,7 @@ msgstr "Puedes ignorar el puzzle en esta habitación..."
 #: data/maps/arid-dng/first/room-05.json entities/68/settings/interact/hoverText #18
 #, max-length:90
 msgid "[10904] data/maps/arid-dng/first/room-05.json entities/68/settings/interact/hoverText #18\nProp exitSign SPAWN IF map.exitSign\n----------------\nTake off."
-msgstr ""
+msgstr "Salir."
 
 #: data/maps/arid-dng/first/room-06.json entities/0/settings/blockEvent/1/message #24
 #, max-length:700
@@ -716,7 +715,7 @@ msgstr "¡Esta vez saldremos por la pared al este!"
 #: data/maps/arid-dng/first/room-06.json entities/44/settings/interact/hoverText #18
 #, max-length:90
 msgid "[10910] data/maps/arid-dng/first/room-06.json entities/44/settings/interact/hoverText #18\nProp exitSign SPAWN IF map.exitSign\n----------------\nTake off."
-msgstr ""
+msgstr "Salir."
 
 #: data/maps/arid-dng/first/room-06.json entities/44/settings/interact/event/9/thenStep/2/message #41
 #, max-length:80
@@ -766,17 +765,17 @@ msgstr "Bueno... ¿ahora dónde?"
 #: data/maps/arid-dng/first/room-07.json entities/3/settings/event/19/text #24
 #, max-length:110
 msgid "[10920] data/maps/arid-dng/first/room-07.json entities/3/settings/event/19/text #24\nEventTrigger startProper\nSHOW_DREAM_MSG\n----------------\nHelp me...."
-msgstr ""
+msgstr "Ayúdame..."
 
 #: data/maps/arid-dng/first/room-07.json entities/3/settings/event/23/text #26
 #, max-length:90
 msgid "[10921] data/maps/arid-dng/first/room-07.json entities/3/settings/event/23/text #26\nEventTrigger startProper\nSHOW_DREAM_MSG\n----------------\nPlease..."
-msgstr ""
+msgstr "Por favor..."
 
 #: data/maps/arid-dng/first/room-07.json entities/3/settings/event/26/text #27
 #, max-length:100
 msgid "[10922] data/maps/arid-dng/first/room-07.json entities/3/settings/event/26/text #27\nEventTrigger startProper\nSHOW_DREAM_MSG\n----------------\nHelp me..."
-msgstr ""
+msgstr "Ayúdame..."
 
 #: data/maps/arid-dng/first/room-07.json entities/3/settings/event/29/message #28
 #, max-length:60
@@ -846,7 +845,7 @@ msgstr "¡Corre hasta el siguiente símbolo tan rápido como puedas!"
 #: data/maps/arid-dng/first/room-07.json entities/31/settings/interact/hoverText #18
 #, max-length:90
 msgid "[10936] data/maps/arid-dng/first/room-07.json entities/31/settings/interact/hoverText #18\nProp exitSign SPAWN IF map.exitSign\n----------------\nTake off."
-msgstr ""
+msgstr "Salir."
 
 #: data/maps/arid-dng/first/room-07.json entities/32/settings/event/1/thenStep/0/message #856
 #, max-length:140
@@ -871,7 +870,7 @@ msgstr "¡Tienes que llegar al \\c[3]otro lado\\c[0] de esta habitación! ¡Haci
 #: data/maps/arid-dng/first/room-08.json entities/37/settings/interact/hoverText #18
 #, max-length:90
 msgid "[10941] data/maps/arid-dng/first/room-08.json entities/37/settings/interact/hoverText #18\nProp exitSign SPAWN IF map.exitSign\n----------------\nTake off."
-msgstr ""
+msgstr "Salir."
 
 #: data/maps/arid-dng/first/room-08.json entities/40/settings/event/1/thenStep/0/message #856
 #, max-length:140
@@ -896,7 +895,7 @@ msgstr "¡Más hacia el \\c[3]este\\c[0]! ¡Tienes que llegar a la \\c[3]pared\\
 #: data/maps/arid-dng/first/room-09.json entities/40/settings/interact/hoverText #18
 #, max-length:90
 msgid "[10946] data/maps/arid-dng/first/room-09.json entities/40/settings/interact/hoverText #18\nProp exitSign SPAWN IF map.exitSign\n----------------\nTake off."
-msgstr ""
+msgstr "Salir."
 
 #: data/maps/arid-dng/first/room-09.json entities/45/settings/event/1/thenStep/0/message #856
 #, max-length:140
@@ -921,12 +920,12 @@ msgstr "¡Ya casi! ¡Al \\c[3]east\\c[0]!"
 #: data/maps/arid-dng/first/room-10.json entities/10/settings/interact/hoverText #18
 #, max-length:90
 msgid "[10951] data/maps/arid-dng/first/room-10.json entities/10/settings/interact/hoverText #18\nProp exitSign SPAWN IF map.exitSign\n----------------\nTake off."
-msgstr ""
+msgstr "Salir."
 
 #: data/maps/arid-dng/first/room-10.json entities/27/settings/interact/hoverText #855
 #, max-length:140
 msgid "[10952] data/maps/arid-dng/first/room-10.json entities/27/settings/interact/hoverText #855\nProp hackPunch SPAWN IF tmp.pk.hackReady\n----------------\nBreak through!"
-msgstr ""
+msgstr "¡Atravesar!"
 
 #: data/maps/arid-dng/first/room-10.json entities/27/settings/interact/event/27/message #884
 #, max-length:70
@@ -1356,47 +1355,51 @@ msgstr "..."
 #: data/maps/arid-dng/first/room-12.json entities/52/settings/analyzable/text #39
 #, max-length:80
 msgid "[11038] data/maps/arid-dng/first/room-12.json entities/52/settings/analyzable/text #39\nNPC\n----------------\nCrossCod"
-msgstr ""
+msgstr "CrossCod"
 
 #: data/maps/arid-dng/first/room-12.json entities/61/settings/interact/hoverText #11
 #, max-length:40
 msgid "[11039] data/maps/arid-dng/first/room-12.json entities/61/settings/interact/hoverText #11\nProp\n----------------\nRead"
-msgstr ""
+msgstr "Leer"
 
 #: data/maps/arid-dng/first/room-12.json entities/61/settings/interact/event/1/text #8
 #, max-length:510
 msgid "[11040] data/maps/arid-dng/first/room-12.json entities/61/settings/interact/event/1/text #8\nProp\nSHOW_BOARD_MSG\n----------------\nThis is just a salmon.\nPosition: Creative Director."
 msgstr ""
+"Es sólo un salmón.\n"
+"Cargo: Director Creativo."
 
 #: data/maps/arid-dng/first/room-12.json entities/61/settings/interact/event/2/text #12
 #, max-length:900
 msgid "[11041] data/maps/arid-dng/first/room-12.json entities/61/settings/interact/event/2/text #12\nProp\nSHOW_BOARD_MSG\n----------------\nIn case of creative disagreement, please listen to this salmon.\nThis is not a self-insert."
 msgstr ""
+"En caso de desacuerdo creativo, escuche a este salmón.\n"
+"Esto no ha sido autoinsertado."
 
 #: data/maps/arid-dng/first/room-12.json entities/66/settings/text #21
 #, max-length:200
 msgid "[11042] data/maps/arid-dng/first/room-12.json entities/66/settings/text #21\nAnalyzable\n----------------\nThe Secret of L.E.A."
-msgstr ""
+msgstr "El Secreto de L.E.A."
 
 #: data/maps/arid-dng/first/room-12.json entities/67/settings/text #22
 #, max-length:250
 msgid "[11043] data/maps/arid-dng/first/room-12.json entities/67/settings/text #22\nAnalyzable\n----------------\nGet Gud: Game Dev Edition"
-msgstr ""
+msgstr "Git Gud: Edición Desarrollador de Videojuegos"
 
 #: data/maps/arid-dng/first/room-12.json entities/68/settings/text #23
 #, max-length:160
 msgid "[11044] data/maps/arid-dng/first/room-12.json entities/68/settings/text #23\nAnalyzable\n----------------\nA literal cactus"
-msgstr ""
+msgstr "Un cactus literal"
 
 #: data/maps/arid-dng/first/room-12.json entities/69/settings/text #24
 #, max-length:200
 msgid "[11045] data/maps/arid-dng/first/room-12.json entities/69/settings/text #24\nAnalyzable\n----------------\nSir Radfish van Blob"
-msgstr ""
+msgstr "Sir Radfish van Blob"
 
 #: data/maps/arid-dng/first/room-12.json entities/70/settings/text #27
 #, max-length:210
 msgid "[11046] data/maps/arid-dng/first/room-12.json entities/70/settings/text #27\nAnalyzable\n----------------\nThere is nothing here"
-msgstr ""
+msgstr "No hay nada aquí"
 
 #: data/maps/arid-dng/first/room-12.json entities/81/settings/npcStates/0/event/2/message #34
 #, max-length:490
@@ -1416,12 +1419,12 @@ msgstr "¡...!"
 #: data/maps/arid-dng/first/room-12.json entities/83/settings/text #37
 #, max-length:160
 msgid "[11050] data/maps/arid-dng/first/room-12.json entities/83/settings/text #37\nAnalyzable\n----------------\nIt's complicated"
-msgstr ""
+msgstr "Es complicado"
 
 #: data/maps/arid-dng/first/room-12.json entities/84/settings/text #38
 #, max-length:100
 msgid "[11051] data/maps/arid-dng/first/room-12.json entities/84/settings/text #38\nAnalyzable\n----------------\nA blessing"
-msgstr ""
+msgstr "Una bendición"
 
 #: data/maps/arid-dng/first/room-12.json entities/85/settings/npcStates/0/event/2/message #40
 #, max-length:850
@@ -1446,52 +1449,52 @@ msgstr "¡¿Cómo?!"
 #: data/maps/arid-dng/second/f0/center.json entities/1/settings/destinations/0/label #6
 #, max-length:90
 msgid "[11056] data/maps/arid-dng/second/f0/center.json entities/1/settings/destinations/0/label #6\nElevator elevator\nIF map.elevator\n----------------\nEnd Floor"
-msgstr ""
+msgstr "Último Piso"
 
 #: data/maps/arid-dng/second/f0/center.json entities/1/settings/destinations/1/label #5
 #, max-length:70
 msgid "[11057] data/maps/arid-dng/second/f0/center.json entities/1/settings/destinations/1/label #5\nElevator elevator\nIF map.elevator\n----------------\nFloor 4"
-msgstr ""
+msgstr "Piso 4"
 
 #: data/maps/arid-dng/second/f0/center.json entities/1/settings/destinations/2/label #4
 #, max-length:70
 msgid "[11058] data/maps/arid-dng/second/f0/center.json entities/1/settings/destinations/2/label #4\nElevator elevator\nIF map.elevator\n----------------\nFloor 3"
-msgstr ""
+msgstr "Piso 3"
 
 #: data/maps/arid-dng/second/f0/center.json entities/1/settings/destinations/3/label #3
 #, max-length:70
 msgid "[11059] data/maps/arid-dng/second/f0/center.json entities/1/settings/destinations/3/label #3\nElevator elevator\nIF map.elevator\n----------------\nFloor 2"
-msgstr ""
+msgstr "Piso 2"
 
 #: data/maps/arid-dng/second/f0/center.json entities/1/settings/destinations/4/label #2
 #, max-length:70
 msgid "[11060] data/maps/arid-dng/second/f0/center.json entities/1/settings/destinations/4/label #2\nElevator elevator\nIF map.elevator\n----------------\nFloor 1"
-msgstr ""
+msgstr "Piso 1"
 
 #: data/maps/arid-dng/second/f0/center.json entities/1/settings/destinations/5/label #1
 #, max-length:70
 msgid "[11061] data/maps/arid-dng/second/f0/center.json entities/1/settings/destinations/5/label #1\nElevator elevator\nIF map.elevator\n----------------\nFloor 0"
-msgstr ""
+msgstr "Piso 0"
 
 #: data/maps/arid-dng/second/f0/center.json entities/15/settings/event/1/thenStep/3/text #15
 #, max-length:460
 msgid "[11062] data/maps/arid-dng/second/f0/center.json entities/15/settings/event/1/thenStep/3/text #15\nEventTrigger Battle Start START IF tmp.battleStart\nIF plot.metaSpace\nSHOW_DREAM_MSG\n----------------\nYou feel like you've seen this place before..."
-msgstr ""
+msgstr "Sientes como que ya has visto este lugar..."
 
 #: data/maps/arid-dng/second/f0/center.json entities/15/settings/event/1/thenStep/5/text #16
 #, max-length:400
 msgid "[11063] data/maps/arid-dng/second/f0/center.json entities/15/settings/event/1/thenStep/5/text #16\nEventTrigger Battle Start START IF tmp.battleStart\nIF plot.metaSpace\nSHOW_MODAL_CHOICE\n----------------\nDo you want to skip through the dungeon?"
-msgstr ""
+msgstr "¿Quieres saltearte la mazmorra?"
 
 #: data/maps/arid-dng/second/f0/center.json entities/15/settings/event/1/thenStep/5/options/0/label #17
 #, max-length:30
 msgid "[11064] data/maps/arid-dng/second/f0/center.json entities/15/settings/event/1/thenStep/5/options/0/label #17\nEventTrigger Battle Start START IF tmp.battleStart\nIF plot.metaSpace\nSHOW_MODAL_CHOICE\n----------------\nYes"
-msgstr ""
+msgstr "Si"
 
 #: data/maps/arid-dng/second/f0/center.json entities/15/settings/event/1/thenStep/5/options/1/label #18
 #, max-length:20
 msgid "[11065] data/maps/arid-dng/second/f0/center.json entities/15/settings/event/1/thenStep/5/options/1/label #18\nEventTrigger Battle Start START IF tmp.battleStart\nIF plot.metaSpace\nSHOW_MODAL_CHOICE\n----------------\nNo"
-msgstr ""
+msgstr "No"
 
 #: data/maps/arid-dng/second/f0/center.json entities/30/settings/event/13/message #10
 #, max-length:320
@@ -1556,32 +1559,32 @@ msgstr "¡...!"
 #: data/maps/arid-dng/second/f1/center.json entities/14/settings/destinations/0/label #6
 #, max-length:90
 msgid "[11078] data/maps/arid-dng/second/f1/center.json entities/14/settings/destinations/0/label #6\nElevator elevator\nIF !tmp.elevatorOff || tmp.elevatorOn\n----------------\nEnd Floor"
-msgstr ""
+msgstr "Último piso"
 
 #: data/maps/arid-dng/second/f1/center.json entities/14/settings/destinations/1/label #5
 #, max-length:70
 msgid "[11079] data/maps/arid-dng/second/f1/center.json entities/14/settings/destinations/1/label #5\nElevator elevator\nIF !tmp.elevatorOff || tmp.elevatorOn\n----------------\nFloor 4"
-msgstr ""
+msgstr "Piso 4"
 
 #: data/maps/arid-dng/second/f1/center.json entities/14/settings/destinations/2/label #4
 #, max-length:70
 msgid "[11080] data/maps/arid-dng/second/f1/center.json entities/14/settings/destinations/2/label #4\nElevator elevator\nIF !tmp.elevatorOff || tmp.elevatorOn\n----------------\nFloor 3"
-msgstr ""
+msgstr "Piso 3"
 
 #: data/maps/arid-dng/second/f1/center.json entities/14/settings/destinations/3/label #3
 #, max-length:70
 msgid "[11081] data/maps/arid-dng/second/f1/center.json entities/14/settings/destinations/3/label #3\nElevator elevator\nIF !tmp.elevatorOff || tmp.elevatorOn\n----------------\nFloor 2"
-msgstr ""
+msgstr "Piso 2"
 
 #: data/maps/arid-dng/second/f1/center.json entities/14/settings/destinations/4/label #2
 #, max-length:70
 msgid "[11082] data/maps/arid-dng/second/f1/center.json entities/14/settings/destinations/4/label #2\nElevator elevator\nIF !tmp.elevatorOff || tmp.elevatorOn\n----------------\nFloor 1"
-msgstr ""
+msgstr "Piso 1"
 
 #: data/maps/arid-dng/second/f1/center.json entities/14/settings/destinations/5/label #1
 #, max-length:70
 msgid "[11083] data/maps/arid-dng/second/f1/center.json entities/14/settings/destinations/5/label #1\nElevator elevator\nIF !tmp.elevatorOff || tmp.elevatorOn\n----------------\nFloor 0"
-msgstr ""
+msgstr "Piso 0"
 
 #: data/maps/arid-dng/second/f1/center.json entities/35/settings/event/14/message #10
 #, max-length:320
@@ -1606,32 +1609,32 @@ msgstr "Verdadera libertad creativa es lo que necesitábamos."
 #: data/maps/arid-dng/second/f2/center.json entities/14/settings/destinations/0/label #6
 #, max-length:90
 msgid "[11088] data/maps/arid-dng/second/f2/center.json entities/14/settings/destinations/0/label #6\nElevator elevator\nIF !tmp.elevatorOff\n----------------\nEnd Floor"
-msgstr ""
+msgstr "Último Piso"
 
 #: data/maps/arid-dng/second/f2/center.json entities/14/settings/destinations/1/label #5
 #, max-length:70
 msgid "[11089] data/maps/arid-dng/second/f2/center.json entities/14/settings/destinations/1/label #5\nElevator elevator\nIF !tmp.elevatorOff\n----------------\nFloor 4"
-msgstr ""
+msgstr "Piso 4"
 
 #: data/maps/arid-dng/second/f2/center.json entities/14/settings/destinations/2/label #4
 #, max-length:70
 msgid "[11090] data/maps/arid-dng/second/f2/center.json entities/14/settings/destinations/2/label #4\nElevator elevator\nIF !tmp.elevatorOff\n----------------\nFloor 3"
-msgstr ""
+msgstr "Piso 3"
 
 #: data/maps/arid-dng/second/f2/center.json entities/14/settings/destinations/3/label #3
 #, max-length:70
 msgid "[11091] data/maps/arid-dng/second/f2/center.json entities/14/settings/destinations/3/label #3\nElevator elevator\nIF !tmp.elevatorOff\n----------------\nFloor 2"
-msgstr ""
+msgstr "Piso 2"
 
 #: data/maps/arid-dng/second/f2/center.json entities/14/settings/destinations/4/label #2
 #, max-length:70
 msgid "[11092] data/maps/arid-dng/second/f2/center.json entities/14/settings/destinations/4/label #2\nElevator elevator\nIF !tmp.elevatorOff\n----------------\nFloor 1"
-msgstr ""
+msgstr "Piso 1"
 
 #: data/maps/arid-dng/second/f2/center.json entities/14/settings/destinations/5/label #1
 #, max-length:70
 msgid "[11093] data/maps/arid-dng/second/f2/center.json entities/14/settings/destinations/5/label #1\nElevator elevator\nIF !tmp.elevatorOff\n----------------\nFloor 0"
-msgstr ""
+msgstr "Piso 0"
 
 #: data/maps/arid-dng/second/f2/center.json entities/35/settings/event/14/message #10
 #, max-length:320
@@ -1661,32 +1664,32 @@ msgstr "Finalmente, pudimos darle forma a todo lo que nuestra mente tenía para 
 #: data/maps/arid-dng/second/f3/center.json entities/12/settings/destinations/0/label #6
 #, max-length:90
 msgid "[11099] data/maps/arid-dng/second/f3/center.json entities/12/settings/destinations/0/label #6\nElevator elevator\nIF !tmp.elevatorOff\n----------------\nEnd Floor"
-msgstr ""
+msgstr "Último Piso"
 
 #: data/maps/arid-dng/second/f3/center.json entities/12/settings/destinations/1/label #5
 #, max-length:70
 msgid "[11100] data/maps/arid-dng/second/f3/center.json entities/12/settings/destinations/1/label #5\nElevator elevator\nIF !tmp.elevatorOff\n----------------\nFloor 4"
-msgstr ""
+msgstr "Piso 4"
 
 #: data/maps/arid-dng/second/f3/center.json entities/12/settings/destinations/2/label #4
 #, max-length:70
 msgid "[11101] data/maps/arid-dng/second/f3/center.json entities/12/settings/destinations/2/label #4\nElevator elevator\nIF !tmp.elevatorOff\n----------------\nFloor 3"
-msgstr ""
+msgstr "Piso 3"
 
 #: data/maps/arid-dng/second/f3/center.json entities/12/settings/destinations/3/label #3
 #, max-length:70
 msgid "[11102] data/maps/arid-dng/second/f3/center.json entities/12/settings/destinations/3/label #3\nElevator elevator\nIF !tmp.elevatorOff\n----------------\nFloor 2"
-msgstr ""
+msgstr "Piso 2"
 
 #: data/maps/arid-dng/second/f3/center.json entities/12/settings/destinations/4/label #2
 #, max-length:70
 msgid "[11103] data/maps/arid-dng/second/f3/center.json entities/12/settings/destinations/4/label #2\nElevator elevator\nIF !tmp.elevatorOff\n----------------\nFloor 1"
-msgstr ""
+msgstr "Piso 1"
 
 #: data/maps/arid-dng/second/f3/center.json entities/12/settings/destinations/5/label #1
 #, max-length:70
 msgid "[11104] data/maps/arid-dng/second/f3/center.json entities/12/settings/destinations/5/label #1\nElevator elevator\nIF !tmp.elevatorOff\n----------------\nFloor 0"
-msgstr ""
+msgstr "Piso 0"
 
 #: data/maps/arid-dng/second/f3/center.json entities/99/settings/event/13/thenStep/11/message #10
 #, max-length:320
@@ -1716,32 +1719,32 @@ msgstr "Un jugador...\\. para disfrutarla."
 #: data/maps/arid-dng/second/f4/center.json entities/12/settings/destinations/0/label #6
 #, max-length:90
 msgid "[11110] data/maps/arid-dng/second/f4/center.json entities/12/settings/destinations/0/label #6\nElevator elevator\nIF !tmp.elevatorOff\n----------------\nEnd Floor"
-msgstr ""
+msgstr "Último Piso"
 
 #: data/maps/arid-dng/second/f4/center.json entities/12/settings/destinations/1/label #5
 #, max-length:70
 msgid "[11111] data/maps/arid-dng/second/f4/center.json entities/12/settings/destinations/1/label #5\nElevator elevator\nIF !tmp.elevatorOff\n----------------\nFloor 4"
-msgstr ""
+msgstr "Piso 4"
 
 #: data/maps/arid-dng/second/f4/center.json entities/12/settings/destinations/2/label #4
 #, max-length:70
 msgid "[11112] data/maps/arid-dng/second/f4/center.json entities/12/settings/destinations/2/label #4\nElevator elevator\nIF !tmp.elevatorOff\n----------------\nFloor 3"
-msgstr ""
+msgstr "Piso 3"
 
 #: data/maps/arid-dng/second/f4/center.json entities/12/settings/destinations/3/label #3
 #, max-length:70
 msgid "[11113] data/maps/arid-dng/second/f4/center.json entities/12/settings/destinations/3/label #3\nElevator elevator\nIF !tmp.elevatorOff\n----------------\nFloor 2"
-msgstr ""
+msgstr "Piso 2"
 
 #: data/maps/arid-dng/second/f4/center.json entities/12/settings/destinations/4/label #2
 #, max-length:70
 msgid "[11114] data/maps/arid-dng/second/f4/center.json entities/12/settings/destinations/4/label #2\nElevator elevator\nIF !tmp.elevatorOff\n----------------\nFloor 1"
-msgstr ""
+msgstr "Piso 1"
 
 #: data/maps/arid-dng/second/f4/center.json entities/12/settings/destinations/5/label #1
 #, max-length:70
 msgid "[11115] data/maps/arid-dng/second/f4/center.json entities/12/settings/destinations/5/label #1\nElevator elevator\nIF !tmp.elevatorOff\n----------------\nFloor 0"
-msgstr ""
+msgstr "Piso 0"
 
 #: data/maps/arid-dng/second/f4/center.json entities/142/settings/event/17/message #10
 #, max-length:320
@@ -1841,37 +1844,37 @@ msgstr "¡¡Alto en el cielo subiremos!!"
 #: data/maps/arid-dng/second/f99/boss-2.json entities/2/settings/event/21/text #9
 #, max-length:180
 msgid "[11135] data/maps/arid-dng/second/f99/boss-2.json entities/2/settings/event/21/text #9\nEventTrigger start\nSHOW_DREAM_MSG\n----------------\nYears of creation."
-msgstr ""
+msgstr "Años creando."
 
 #: data/maps/arid-dng/second/f99/boss-2.json entities/2/settings/event/22/text #10
 #, max-length:470
 msgid "[11136] data/maps/arid-dng/second/f99/boss-2.json entities/2/settings/event/22/text #10\nEventTrigger start\nSHOW_DREAM_MSG\n----------------\nYears of searching for the ultimate experience."
-msgstr ""
+msgstr "Años buscando la experiencia final."
 
 #: data/maps/arid-dng/second/f99/boss-2.json entities/2/settings/event/24/text #11
 #, max-length:410
 msgid "[11137] data/maps/arid-dng/second/f99/boss-2.json entities/2/settings/event/24/text #11\nEventTrigger start\nSHOW_DREAM_MSG\n----------------\nIt has brought us together to this place."
-msgstr ""
+msgstr "Nos ha traído a este lugar."
 
 #: data/maps/arid-dng/second/f99/boss-2.json entities/2/settings/event/25/text #12
 #, max-length:290
 msgid "[11138] data/maps/arid-dng/second/f99/boss-2.json entities/2/settings/event/25/text #12\nEventTrigger start\nSHOW_DREAM_MSG\n----------------\nSo it shall all be concluded."
-msgstr ""
+msgstr "Para que todo concluya."
 
 #: data/maps/arid-dng/second/f99/boss-2.json entities/2/settings/event/26/text #13
 #, max-length:200
 msgid "[11139] data/maps/arid-dng/second/f99/boss-2.json entities/2/settings/event/26/text #13\nEventTrigger start\nSHOW_DREAM_MSG\n----------------\nWith one final duel."
-msgstr ""
+msgstr "Con un último duelo."
 
 #: data/maps/arid-dng/second/f99/boss-2.json entities/178/settings/event/4/text #1
 #, max-length:410
 msgid "[11140] data/maps/arid-dng/second/f99/boss-2.json entities/178/settings/event/4/text #1\nEventTrigger firstHpCharge START IF tmp.hpCharge.start\nSHOW_DREAM_MSG\n----------------\nThe time has come to rise further beyond!"
-msgstr ""
+msgstr "¡El tiempo ha llegado de alcanzar aún más lejos!"
 
 #: data/maps/arid-dng/second/f99/boss-2.json entities/178/settings/event/8/guiInfo/settings/taskTitle #7
 #, max-length:140
 msgid "[11141] data/maps/arid-dng/second/f99/boss-2.json entities/178/settings/event/8/guiInfo/settings/taskTitle #7\nEventTrigger firstHpCharge START IF tmp.hpCharge.start\nADD_GUI\nScoreHud\n----------------\n\\c[1]Boss HP x"
-msgstr ""
+msgstr "\\c[1]PV del Jefe x"
 
 #: data/maps/arid-dng/second/f99/boss-2.json entities/178/settings/event/10/message #2
 #, max-length:330
@@ -1886,7 +1889,7 @@ msgstr "¿Así que quieres jugar a ese juego, Gautham?"
 #: data/maps/arid-dng/second/f99/boss-2.json entities/178/settings/event/16/guiInfo/settings/taskTitle #6
 #, max-length:130
 msgid "[11144] data/maps/arid-dng/second/f99/boss-2.json entities/178/settings/event/16/guiInfo/settings/taskTitle #6\nEventTrigger firstHpCharge START IF tmp.hpCharge.start\nADD_GUI\nScoreHud\n----------------\n\\c[2]Attack x"
-msgstr ""
+msgstr "\\c[2]Ataque x"
 
 #: data/maps/arid-dng/second/f99/boss-2.json entities/178/settings/event/19/message #4
 #, max-length:660
@@ -1896,32 +1899,32 @@ msgstr "¡Lea, destruye las \\c[3]orbes\\c[0] para incrementar tu \\c[3]daño\\c
 #: data/maps/arid-dng/second/f99/center.json entities/12/settings/destinations/0/label #6
 #, max-length:90
 msgid "[11146] data/maps/arid-dng/second/f99/center.json entities/12/settings/destinations/0/label #6\nElevator elevator\n----------------\nEnd Floor"
-msgstr ""
+msgstr "Último Piso"
 
 #: data/maps/arid-dng/second/f99/center.json entities/12/settings/destinations/1/label #5
 #, max-length:70
 msgid "[11147] data/maps/arid-dng/second/f99/center.json entities/12/settings/destinations/1/label #5\nElevator elevator\n----------------\nFloor 4"
-msgstr ""
+msgstr "Piso 4"
 
 #: data/maps/arid-dng/second/f99/center.json entities/12/settings/destinations/2/label #4
 #, max-length:70
 msgid "[11148] data/maps/arid-dng/second/f99/center.json entities/12/settings/destinations/2/label #4\nElevator elevator\n----------------\nFloor 3"
-msgstr ""
+msgstr "Piso 3"
 
 #: data/maps/arid-dng/second/f99/center.json entities/12/settings/destinations/3/label #3
 #, max-length:70
 msgid "[11149] data/maps/arid-dng/second/f99/center.json entities/12/settings/destinations/3/label #3\nElevator elevator\n----------------\nFloor 2"
-msgstr ""
+msgstr "Piso 2"
 
 #: data/maps/arid-dng/second/f99/center.json entities/12/settings/destinations/4/label #2
 #, max-length:70
 msgid "[11150] data/maps/arid-dng/second/f99/center.json entities/12/settings/destinations/4/label #2\nElevator elevator\n----------------\nFloor 1"
-msgstr ""
+msgstr "Piso 1"
 
 #: data/maps/arid-dng/second/f99/center.json entities/12/settings/destinations/5/label #1
 #, max-length:70
 msgid "[11151] data/maps/arid-dng/second/f99/center.json entities/12/settings/destinations/5/label #1\nElevator elevator\n----------------\nFloor 0"
-msgstr ""
+msgstr "Piso 0"
 
 #: data/maps/arid-dng/second/f99/center.json entities/14/settings/event/8/message #7
 #, max-length:290
@@ -1976,17 +1979,17 @@ msgstr "La Experiencia Final...\\. ¡¡ha de comenzar!!"
 #: data/maps/arid-dng/second/f99/center.json entities/16/settings/event/43/thenStep/0/text #16
 #, max-length:410
 msgid "[11162] data/maps/arid-dng/second/f99/center.json entities/16/settings/event/43/thenStep/0/text #16\nEventTrigger letTheBattleBegin START IF tmp.finalBattleStart\nIF plot.metaSpace\nSHOW_MODAL_CHOICE\n----------------\nDo you want to skip the final boss fight?"
-msgstr ""
+msgstr "¿Quieres saltearte el jefe final?"
 
 #: data/maps/arid-dng/second/f99/center.json entities/16/settings/event/43/thenStep/0/options/0/label #26
 #, max-length:30
 msgid "[11163] data/maps/arid-dng/second/f99/center.json entities/16/settings/event/43/thenStep/0/options/0/label #26\nEventTrigger letTheBattleBegin START IF tmp.finalBattleStart\nIF plot.metaSpace\nSHOW_MODAL_CHOICE\n----------------\nYes"
-msgstr ""
+msgstr "Si"
 
 #: data/maps/arid-dng/second/f99/center.json entities/16/settings/event/43/thenStep/0/options/1/label #27
 #, max-length:20
 msgid "[11164] data/maps/arid-dng/second/f99/center.json entities/16/settings/event/43/thenStep/0/options/1/label #27\nEventTrigger letTheBattleBegin START IF tmp.finalBattleStart\nIF plot.metaSpace\nSHOW_MODAL_CHOICE\n----------------\nNo"
-msgstr ""
+msgstr "No"
 
 #: data/maps/arid-dng/second/f99/end-room.json entities/64/settings/event/21/message #2
 #, max-length:470
@@ -2016,7 +2019,7 @@ msgstr "¡¿Q-Qué haces aquí?!"
 #: data/maps/arid-dng/second/f99/end-room.json entities/64/settings/event/53/text #43
 #, max-length:260
 msgid "[11170] data/maps/arid-dng/second/f99/end-room.json entities/64/settings/event/53/text #43\nEventTrigger gauthamEnd\nSHOW_AR_MSG\n----------------\nForeign Substance Detected"
-msgstr ""
+msgstr "Sustancia Ajena Detectada"
 
 #: data/maps/arid-dng/second/f99/end-room.json entities/64/settings/event/57/message #44
 #, max-length:160
@@ -2171,17 +2174,17 @@ msgstr "\\s[6]¡¡¡Gautham, no!!!"
 #: data/maps/arid-dng/second/f99/pre-server.json entities/47/settings/event/13/text #2
 #, max-length:120
 msgid "[11201] data/maps/arid-dng/second/f99/pre-server.json entities/47/settings/event/13/text #2\nEventTrigger walkingToServer\nSHOW_AR_MSG\n----------------\nKey Accepted"
-msgstr ""
+msgstr "Clave Aceptada"
 
 #: data/maps/arid-dng/second/f99/pre-server.json entities/47/settings/event/17/text #3
 #, max-length:120
 msgid "[11202] data/maps/arid-dng/second/f99/pre-server.json entities/47/settings/event/17/text #3\nEventTrigger walkingToServer\nSHOW_AR_MSG\n----------------\nKey Accepted"
-msgstr ""
+msgstr "Clave Aceptada"
 
 #: data/maps/arid-dng/second/f99/pre-server.json entities/47/settings/event/20/text #4
 #, max-length:120
 msgid "[11203] data/maps/arid-dng/second/f99/pre-server.json entities/47/settings/event/20/text #4\nEventTrigger walkingToServer\nSHOW_AR_MSG\n----------------\nKey Accepted"
-msgstr ""
+msgstr "Clave Aceptada"
 
 #: data/maps/arid-dng/second/f99/server-room.json entities/27/settings/event/8/message #4
 #, max-length:110
@@ -2591,9 +2594,9 @@ msgstr "[asiente]"
 #: data/maps/arid-dng/test-elevator.json entities/2/settings/destinations/0/label #1
 #, max-length:20
 msgid "[11285] data/maps/arid-dng/test-elevator.json entities/2/settings/destinations/0/label #1\nElevator elevator\n----------------\nUp"
-msgstr ""
+msgstr "Arriba"
 
 #: data/maps/arid-dng/test-elevator.json entities/2/settings/destinations/1/label #2
 #, max-length:40
 msgid "[11286] data/maps/arid-dng/test-elevator.json entities/2/settings/destinations/1/label #2\nElevator elevator\n----------------\nDown"
-msgstr ""
+msgstr "Abajo"
