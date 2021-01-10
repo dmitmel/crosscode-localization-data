@@ -1,11 +1,17 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: crosscode 0.0.0\n"
+"PO-Revision-Date: 2021-01-11 00:54+0000\n"
+"Last-Translator: Lumisentius <soulstaleproject@gmail.com>\n"
+"Language-Team: Ukrainian <https://weblate.crosscode.ru/projects/crosscode/"
+"hideout/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.4\n"
 
 #: data/areas/hideout.json name #1
 #, max-length:80
@@ -15,102 +21,111 @@ msgstr ""
 #: data/areas/hideout.json floors/0/maps/0/name #3
 #, max-length:80
 msgid "[00511] data/areas/hideout.json floors/0/maps/0/name #3\n----------------\nEntrance"
-msgstr ""
+msgstr "Вхід"
 
 #: data/areas/hideout.json floors/0/maps/1/name #4
 #, max-length:90
 msgid "[00512] data/areas/hideout.json floors/0/maps/1/name #4\n----------------\nLeft Path"
-msgstr ""
+msgstr "Ліва доріжка"
 
 #: data/areas/hideout.json floors/0/maps/2/name #5
 #, max-length:100
 msgid "[00513] data/areas/hideout.json floors/0/maps/2/name #5\n----------------\nRight Path"
-msgstr ""
+msgstr "Права доріжка"
 
 #: data/areas/hideout.json floors/0/maps/3/name #6
 #, max-length:100
 msgid "[00514] data/areas/hideout.json floors/0/maps/3/name #6\n----------------\nUpper Path"
-msgstr ""
+msgstr "Верхня доріжка"
 
 #: data/areas/hideout.json floors/0/maps/4/name #7
 #, max-length:90
 msgid "[00515] data/areas/hideout.json floors/0/maps/4/name #7\n----------------\nCorridors"
-msgstr ""
+msgstr "Коридори"
 
 #: data/areas/hideout.json floors/0/maps/5/name #8
 #, max-length:210
 msgid "[00516] data/areas/hideout.json floors/0/maps/5/name #8\n----------------\nSatoshi's Workstation"
-msgstr ""
+msgstr "Робоче місце Сатоші"
 
 #: data/areas/hideout.json floors/0/maps/6/name #9
 #, max-length:110
 msgid "[00517] data/areas/hideout.json floors/0/maps/6/name #9\n----------------\nDinner Room"
-msgstr ""
+msgstr "Їдальня"
 
 #: data/maps/hideout/entrance.json entities/20/settings/event/6/titleText #48
 #, max-length:470
 msgid "[26768] data/maps/hideout/entrance.json entities/20/settings/event/6/titleText #48\nEventTrigger intro\nSHOW_CENTER_MSG\n----------------\n\\s[0]\\c[3]About Difficulty and Assist Mode\\c[0]"
-msgstr ""
+msgstr "\\s[0]\\c[3]Інформація про складність та допоміжний режим\\c[0]"
 
 #: data/maps/hideout/entrance.json entities/20/settings/event/6/text #49
 #, max-length:3910
 msgid "[26769] data/maps/hideout/entrance.json entities/20/settings/event/6/text #49\nEventTrigger intro\nSHOW_CENTER_MSG\n----------------\n\n\\s[1]CrossCode is designed with \\c[3]challenge\\c[0] in mind for both \\c[3]combat\\c[0] and \\c[3]puzzles\\c[0], and we encourage every player to try the game with its intended difficulty.\n\nHowever, if those challenges end up making the game less enjoyable or even inaccessible for you, we provide options to tweak the difficulty through the \\c[3]assists\\c[0] tab in the \\c[3]options\\c[0] menu."
 msgstr ""
+"\\s[1]CrossCode задуманий кидати \\c[3]виклик\\c[0] як у \\c[3]боях\\c[0], "
+"так і в \\c[3]головоломках\\c[0], тож ми радимо кожному гравцю спробувати "
+"гру із задуманими налаштуваннями складності.\n"
+"\n"
+"Однак якщо ці виклики роблять ваш ігровий досвід менш задовільним, або "
+"навіть неможливим - ми надаємо можливість налаштувати рівень складності у "
+"вкладці \\c[3]«поміч»\\c[0] в меню \\c[3]налаштувань\\c[0]."
 
 #: data/maps/hideout/entrance.json entities/20/settings/event/36/text #1
 #, max-length:190
 msgid "[26770] data/maps/hideout/entrance.json entities/20/settings/event/36/text #1\nEventTrigger intro\nSHOW_AR_MSG\n----------------\nInitializing avatar"
-msgstr ""
+msgstr "Ініціалізація аватару"
 
 #: data/maps/hideout/entrance.json entities/20/settings/event/45/message #2
 #, max-length:30
 msgid "[26771] data/maps/hideout/entrance.json entities/20/settings/event/45/message #2\nEventTrigger intro\nmain.shizuka @ANGRY\n----------------\n..."
-msgstr ""
+msgstr "..."
 
 #: data/maps/hideout/entrance.json entities/20/settings/event/46/message #3
 #, max-length:370
 msgid "[26772] data/maps/hideout/entrance.json entities/20/settings/event/46/message #3\nEventTrigger intro\nmain.shizuka @YELL\n----------------\nI know you can hear me! Where is he?!"
-msgstr ""
+msgstr "Я знаю, що ти мене чуєш! Де він?!"
 
 #: data/maps/hideout/entrance.json entities/20/settings/event/48/message #4
 #, max-length:360
 msgid "[26773] data/maps/hideout/entrance.json entities/20/settings/event/48/message #4\nEventTrigger intro\nantagonists.gautham @DEFAULT\n----------------\nShizuka, I have to ask you to leave."
-msgstr ""
+msgstr "Шізука, я змушений попросити тебе піти."
 
 #: data/maps/hideout/entrance.json entities/20/settings/event/49/message #5
 #, max-length:620
 msgid "[26774] data/maps/hideout/entrance.json entities/20/settings/event/49/message #5\nEventTrigger intro\nmain.shizuka @SUSPICIOUS\n----------------\nSo, you're keeping him here? What do you think you are doing?!"
-msgstr ""
+msgstr "Отже, ви тримаєте його в цьому місці? Якого біса ви робите?!"
 
 #: data/maps/hideout/entrance.json entities/20/settings/event/50/message #6
 #, max-length:460
 msgid "[26775] data/maps/hideout/entrance.json entities/20/settings/event/50/message #6\nEventTrigger intro\nantagonists.gautham @DEFAULT\n----------------\nTime is running short. We don't have a choice!"
-msgstr ""
+msgstr "Часу мало. У нас нема іншого виходу!"
 
 #: data/maps/hideout/entrance.json entities/20/settings/event/51/message #7
 #, max-length:810
 msgid "[26776] data/maps/hideout/entrance.json entities/20/settings/event/51/message #7\nEventTrigger intro\nmain.shizuka @YELL\n----------------\nSo you abduct a dying person and let him work until his last breath? Is that it?!"
 msgstr ""
+"Тож ви викрадаєте помираючу людину і дозволяєте їй працювати до скону? Так?!"
 
 #: data/maps/hideout/entrance.json entities/20/settings/event/52/message #8
 #, max-length:600
 msgid "[26777] data/maps/hideout/entrance.json entities/20/settings/event/52/message #8\nEventTrigger intro\nmain.shizuka @ANGRY\n----------------\nI am going to talk some sense into him! Don't get in my way!"
-msgstr ""
+msgstr "Я збираюсь його напоумити! Не вставайте у мене на шляху!"
 
 #: data/maps/hideout/entrance.json entities/20/settings/event/53/guiInfo/settings/text #9
 #, max-length:680
 msgid "[26778] data/maps/hideout/entrance.json entities/20/settings/event/53/guiInfo/settings/text #9\nEventTrigger intro\nADD_GUI\nInformation\n----------------\nPress \\i[key-up]\\i[key-left]\\i[key-down]\\i[key-right] to move around"
 msgstr ""
+"Натисніть \\i[key-up]\\i[key-left]\\i[key-down]\\i[key-right], щоб рухатися"
 
 #: data/maps/hideout/entrance.json entities/20/settings/event/53/guiInfo/settings/altText #10
 #, max-length:330
 msgid "[26779] data/maps/hideout/entrance.json entities/20/settings/event/53/guiInfo/settings/altText #10\nEventTrigger intro\nADD_GUI\nInformation\n----------------\nUse \\i[left-stick] to move around"
-msgstr ""
+msgstr "Використовуйте \\i[left-stick], щоб рухатися"
 
 #: data/maps/hideout/entrance.json entities/22/settings/event/1/message #11
 #, max-length:320
 msgid "[26780] data/maps/hideout/entrance.json entities/22/settings/event/1/message #11\nEventTrigger moreTalking START IF tmp.moreTalking\nantagonists.gautham @DEFAULT\n----------------\nShizuka, please don't do this..."
-msgstr ""
+msgstr "Шізука, прошу, не роби цього..."
 
 #: data/maps/hideout/entrance.json entities/234/settings/teleportLabel #45
 #, max-length:320
