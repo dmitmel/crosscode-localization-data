@@ -1,11 +1,17 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: crosscode 0.0.0\n"
+"PO-Revision-Date: 2021-01-10 01:59+0000\n"
+"Last-Translator: CrossCode Weblate Admin <dmytro.meleshko+weblate.crosscode."
+"ru@gmail.com>\n"
+"Language-Team: Spanish <https://weblate.crosscode.ru/projects/crosscode/arid/"
+"es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.4\n"
 
 #: data/areas/arid.json name #1
 #, max-length:80
@@ -1090,7 +1096,7 @@ msgstr "...Adiós."
 #: data/maps/arid/interior/barrack-room01.json entities/38/settings/event/8/message #29
 #, max-length:130
 msgid "[11471] data/maps/arid/interior/barrack-room01.json entities/38/settings/event/8/message #29\nEventTrigger GoToBed_Day4 tmp.goToBed && plot.line >= 13510\nmain.schneider2 @DEFAULT\n\nOkay then... "
-msgstr "Esta bien..."
+msgstr "Esta bien... "
 
 #: data/maps/arid/interior/barrack-room01.json entities/38/settings/event/9/message #30
 #, max-length:760
@@ -1640,7 +1646,7 @@ msgstr ""
 #: data/maps/arid/interior/gautham-room.json entities/31/settings/event/12/message #15
 #, max-length:220
 msgid "[11581] data/maps/arid/interior/gautham-room.json entities/31/settings/event/12/message #15\nEventTrigger scene2 plot.line == 15400\nantagonists.gautham-rl @DOWN_PANIC\n\nShe had assistance... "
-msgstr "Tuvo asistencia..."
+msgstr "Tuvo asistencia... "
 
 #: data/maps/arid/interior/gautham-room.json entities/31/settings/event/13/message #9
 #, max-length:570
@@ -2650,7 +2656,7 @@ msgstr "..."
 #: data/maps/arid/interior/the-room.json entities/33/settings/event/43/message #51
 #, max-length:500
 msgid "[11783] data/maps/arid/interior/the-room.json entities/33/settings/event/43/message #51\nEventTrigger GauthamEnters plot.line >= 10110\nantagonists.gautham-rl @DEFAULT\n\nAnyway, we have a little something for you to do. "
-msgstr "Como sea, tenemos un pequeño trabajito pari tí."
+msgstr "Como sea, tenemos un pequeño trabajito pari tí. "
 
 #: data/maps/arid/interior/the-room.json entities/33/settings/event/44/message #52
 #, max-length:270
@@ -2685,7 +2691,9 @@ msgstr "..."
 #: data/maps/arid/interior/the-room.json entities/33/settings/event/61/message #58
 #, max-length:910
 msgid "[11790] data/maps/arid/interior/the-room.json entities/33/settings/event/61/message #58\nEventTrigger GauthamEnters plot.line >= 10110\nmain.sergey @EYES_CLOSED\n\nHe used to be an old colleague of mine. One that went \\c[3]missing several years ago\\c[0]. "
-msgstr "Solía ser un viejo colega mío. Uno que ha estado \\c[3]desaparecido por varios años\\c[0]."
+msgstr ""
+"Solía ser un viejo colega mío. Uno que ha estado \\c[3]desaparecido por "
+"varios años\\c[0]. "
 
 #: data/maps/arid/interior/the-room.json entities/33/settings/event/62/message #59
 #, max-length:40
@@ -2825,7 +2833,7 @@ msgstr "[asiente]"
 #: data/maps/arid/interior/the-room.json entities/34/settings/event/27/message #84
 #, max-length:500
 msgid "[11818] data/maps/arid/interior/the-room.json entities/34/settings/event/27/message #84\nEventTrigger GoToBed_Day1 plot.line >= 11200\nmain.sergey @EYES_CLOSED\n\nWell... I suppose there is no point in hiding it. "
-msgstr "Bueno... Supongo que no hay motivo para ocultarlo."
+msgstr "Bueno... Supongo que no hay motivo para ocultarlo. "
 
 #: data/maps/arid/interior/the-room.json entities/34/settings/event/28/message #85
 #, max-length:1200
@@ -3180,7 +3188,9 @@ msgstr "Si...\\. Sé algunas cosas sobre tí.\\. Nos conocimos en el pasado."
 #: data/maps/arid/interior/the-room.json entities/35/settings/event/54/message #536
 #, max-length:830
 msgid "[11889] data/maps/arid/interior/the-room.json entities/35/settings/event/54/message #536\nEventTrigger Start_Day2 plot.line >= 11400\nmain.sergey @NOTIFYING\n\nHowever...\\. I thought it was safest for you to recover your memories by yourself. "
-msgstr "Sin embargo...\\. Creí que lo más seguro era que recuperaras tus recuerdos tú misma."
+msgstr ""
+"Sin embargo...\\. Creí que lo más seguro era que recuperaras tus recuerdos "
+"tú misma. "
 
 #: data/maps/arid/interior/the-room.json entities/35/settings/event/55/message #537
 #, max-length:530
@@ -3255,7 +3265,7 @@ msgstr "Y créeme... lo intenté."
 #: data/maps/arid/interior/the-room.json entities/35/settings/event/71/message #551
 #, max-length:570
 msgid "[11904] data/maps/arid/interior/the-room.json entities/35/settings/event/71/message #551\nEventTrigger Start_Day2 plot.line >= 11400\nmain.sergey @WORRIED\n\nThat was until I found you again.\\. Lying in a hospital. "
-msgstr "Eso fue hasta que te encontré.\\. Postrada en un hospital."
+msgstr "Eso fue hasta que te encontré.\\. Postrada en un hospital. "
 
 #: data/maps/arid/interior/the-room.json entities/35/settings/event/72/message #552
 #, max-length:30
@@ -3755,7 +3765,7 @@ msgstr "Es porque somos \\c[3]la misma persona\\c[0]."
 #: data/maps/arid/interior/the-room.json entities/40/settings/event/86/message #669
 #, max-length:480
 msgid "[12004] data/maps/arid/interior/the-room.json entities/40/settings/event/86/message #669\nEventTrigger ShizukaAppears plot.line >= 12620\nmain.shizuka @DENYING\n\nNo...\\. that's not right.\\. We're not the same. "
-msgstr "No...\\. no exactamente.\\. No somos iguales."
+msgstr "No...\\. no exactamente.\\. No somos iguales. "
 
 #: data/maps/arid/interior/the-room.json entities/40/settings/event/87/message #670
 #, max-length:510
@@ -3810,7 +3820,7 @@ msgstr "[niega con la cabeza]"
 #: data/maps/arid/interior/the-room.json entities/40/settings/event/110/message #680
 #, max-length:480
 msgid "[12015] data/maps/arid/interior/the-room.json entities/40/settings/event/110/message #680\nEventTrigger ShizukaAppears plot.line >= 12620\nmain.shizuka @ANGRY\n\nAnd all those memories you see? Those are mine. "
-msgstr "¿Y todos esos recuerdos que ves? Esos son míos."
+msgstr "¿Y todos esos recuerdos que ves? Esos son míos. "
 
 #: data/maps/arid/interior/the-room.json entities/40/settings/event/111/message #681
 #, max-length:490
@@ -4690,7 +4700,7 @@ msgstr "Debe haber una forma de ayudarte un poco."
 #: data/maps/arid/lake-1.json entities/511/settings/event/19/message #152
 #, max-length:420
 msgid "[12191] data/maps/arid/lake-1.json entities/511/settings/event/19/message #152\nEventTrigger LakeScene1 plot.line >= 13010\nmain.schneider2 @WORRIED\n\nWe gotta try to talk about this. Somehow. "
-msgstr "Tenemos que hablar de esto. De algún modo."
+msgstr "Tenemos que hablar de esto. De algún modo. "
 
 #: data/maps/arid/lake-1.json entities/511/settings/event/20/message #90
 #, max-length:30
@@ -4905,7 +4915,7 @@ msgstr "..."
 #: data/maps/arid/lake-1.json entities/512/settings/event/13/message #199
 #, max-length:560
 msgid "[12234] data/maps/arid/lake-1.json entities/512/settings/event/13/message #199\nEventTrigger LakeScene2 plot.line >= 13400\nmain.schneider2 @PONDERING\n\nHow the hell do they even know what my room looks like? "
-msgstr "¿Cómo diablos saben como se ve mi habitación?"
+msgstr "¿Cómo diablos saben como se ve mi habitación? "
 
 #: data/maps/arid/lake-1.json entities/512/settings/event/14/message #200
 #, max-length:650
@@ -4930,7 +4940,7 @@ msgstr "Como el lugar en donde vivo...\\. el lugar en donde trabajo..."
 #: data/maps/arid/lake-1.json entities/512/settings/event/20/message #204
 #, max-length:400
 msgid "[12239] data/maps/arid/lake-1.json entities/512/settings/event/20/message #204\nEventTrigger LakeScene2 plot.line >= 13400\nmain.schneider2 @WONDERING\n\nWhat was the name of the company again? "
-msgstr "¿Cómo se llamaba la compañía?"
+msgstr "¿Cómo se llamaba la compañía? "
 
 #: data/maps/arid/lake-1.json entities/512/settings/event/21/message #205
 #, max-length:480
@@ -5120,7 +5130,9 @@ msgstr "[asiente]"
 #: data/maps/arid/lake-1.json entities/512/settings/event/58/message #242
 #, max-length:930
 msgid "[12277] data/maps/arid/lake-1.json entities/512/settings/event/58/message #242\nEventTrigger LakeScene2 plot.line >= 13400\nmain.schneider2 @SKEPTICAL\n\nAnd heck, I know a few people that would be happy being logged into CrossWorlds permanently. "
-msgstr "E incluso conozco un par de personas que estarían muy felices de estar conectados a CrossWorlds permanentemente."
+msgstr ""
+"E incluso conozco un par de personas que estarían muy felices de estar "
+"conectados a CrossWorlds permanentemente. "
 
 #: data/maps/arid/lake-1.json entities/512/settings/event/59/message #243
 #, max-length:30
@@ -5525,7 +5537,7 @@ msgstr "Bien... así que este es un \\c[3]Edificio de Prueba\\c[0]."
 #: data/maps/arid/river-2.json entities/390/settings/event/9/message #20
 #, max-length:550
 msgid "[12358] data/maps/arid/river-2.json entities/390/settings/event/9/message #20\nEventTrigger BeforeTrailBuldingEnter tmp.beforeTrialBuilding\nmain.schneider2 @SKEPTICAL\n\nDoes that mean more of those low-level virus thingies? "
-msgstr "¿Eso significa que habrá más de esos virus?"
+msgstr "¿Eso significa que habrá más de esos virus? "
 
 #: data/maps/arid/river-2.json entities/390/settings/event/10/message #21
 #, max-length:430
@@ -6330,7 +6342,7 @@ msgstr "Estamos creando Evotares para extraer información."
 #: data/maps/arid/tower-1.json entities/288/settings/event/117/message #1130
 #, max-length:480
 msgid "[12519] data/maps/arid/tower-1.json entities/288/settings/event/117/message #1130\nEventTrigger GetReadyForDungeon plot.line >= 29300\nmain.shizuka @CONFLICTED\n\nAnd once that is done, we just throw them away! "
-msgstr "Y cuando terminamos, ¡simplemente los desechamos!"
+msgstr "Y cuando terminamos, ¡simplemente los desechamos! "
 
 #: data/maps/arid/tower-1.json entities/288/settings/event/118/message #1131
 #, max-length:140
@@ -6450,7 +6462,7 @@ msgstr "Pero desvalorizas los logros que Satoshi y el resto han conseguido hacer
 #: data/maps/arid/tower-1.json entities/288/settings/event/154/message #1153
 #, max-length:640
 msgid "[12543] data/maps/arid/tower-1.json entities/288/settings/event/154/message #1153\nEventTrigger GetReadyForDungeon plot.line >= 29300\nmain.grumpy @UP\n\nThose Evotars...\\. they have the potential to change the world. "
-msgstr "Esos Evotares...\\. tienen el potencial de cambiar el mundo."
+msgstr "Esos Evotares...\\. tienen el potencial de cambiar el mundo. "
 
 #: data/maps/arid/tower-1.json entities/288/settings/event/155/message #1154
 #, max-length:520
@@ -6480,7 +6492,7 @@ msgstr "¡Desalmado!\\. ¡Tu engañoso discurso no nos cegará!"
 #: data/maps/arid/tower-1.json entities/288/settings/event/182/message #1159
 #, max-length:480
 msgid "[12549] data/maps/arid/tower-1.json entities/288/settings/event/182/message #1159\nEventTrigger GetReadyForDungeon plot.line >= 29300\nmain.emilie @SHOUT\n\nOui!\\. Now shut up and get down here in person! "
-msgstr "¡Oui!\\. ¡Ahora cállate y ven aquí en persona!"
+msgstr "¡Oui!\\. ¡Ahora cállate y ven aquí en persona! "
 
 #: data/maps/arid/tower-1.json entities/288/settings/event/183/message #1160
 #, max-length:290
@@ -6565,7 +6577,7 @@ msgstr "¡Ahora!"
 #: data/maps/arid/tower-1.json entities/288/settings/event/205/message #1176
 #, max-length:420
 msgid "[12566] data/maps/arid/tower-1.json entities/288/settings/event/205/message #1176\nEventTrigger GetReadyForDungeon plot.line >= 29300\nantagonists.shady @MASKED_DOWN_SMILE\n\nThat was quite the fuss you put up there. "
-msgstr "Estuvieron haciendo bastante lío."
+msgstr "Estuvieron haciendo bastante lío. "
 
 #: data/maps/arid/tower-1.json entities/288/settings/event/206/message #1177
 #, max-length:290
@@ -6970,7 +6982,7 @@ msgstr "[asiente]"
 #: data/maps/arid/town-1.json entities/292/settings/event/37/message #23
 #, max-length:350
 msgid "[12647] data/maps/arid/town-1.json entities/292/settings/event/37/message #23\nEventTrigger areaIntro\nmain.schneider2 @PONDERING\n\nI see.\\. Man, this place is weird. "
-msgstr "Ya veo.\\. Uf, que lugar más raro."
+msgstr "Ya veo.\\. Uf, que lugar más raro. "
 
 #: data/maps/arid/town-1.json entities/292/settings/event/38/message #24
 #, max-length:820
@@ -7250,7 +7262,7 @@ msgstr "Algunos jugadores aquí me contaron sobre ella."
 #: data/maps/arid/town-1.json entities/297/settings/event/25/message #124
 #, max-length:540
 msgid "[12703] data/maps/arid/town-1.json entities/297/settings/event/25/message #124\nEventTrigger SchneiderTourEnd plot.line >= 12200\nmain.schneider2 @DEFAULT\n\nIt seems like there is a way to get up to this tower. "
-msgstr "Parece que hay una forma de subir hacia la torre."
+msgstr "Parece que hay una forma de subir hacia la torre. "
 
 #: data/maps/arid/town-1.json entities/297/settings/event/26/message #125
 #, max-length:610
@@ -7975,7 +7987,7 @@ msgstr "¡Ey, ustedes dos! ¿Qué es este lugar?"
 #: data/maps/arid/town-2.json entities/408/settings/event/10/message #69
 #, max-length:480
 msgid "[12848] data/maps/arid/town-2.json entities/408/settings/event/10/message #69\nEventTrigger SchneiderMad plot.line >= 10900\ncross-worlds.triblader-female-purple @DEFAULT\n\nAdd the sesame, season with pepper and oregano. "
-msgstr "Agrega el sésamo, sazona con pimienta y orégano."
+msgstr "Agrega el sésamo, sazona con pimienta y orégano. "
 
 #: data/maps/arid/town-2.json entities/408/settings/event/12/message #70
 #, max-length:140
@@ -8715,7 +8727,7 @@ msgstr "¿Cómo consiguieron entrar a este lugar...\\. y salir otra vez?"
 #: data/maps/arid/town-2.json entities/462/settings/npcStates/0/event/43/message #1073
 #, max-length:50
 msgid "[12996] data/maps/arid/town-2.json entities/462/settings/npcStates/0/event/43/message #1073\nNPC\ng.codeKnight >= 2 && plot.line >= 30000\nmain.lea @ANNOYED\n\nHow? "
-msgstr "¿Cómo?"
+msgstr "¿Cómo? "
 
 #: data/maps/arid/town-2.json entities/462/settings/npcStates/0/event/44/message #1074
 #, max-length:350
