@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: crosscode 0.0.0\n"
-"PO-Revision-Date: 2021-01-11 00:54+0000\n"
+"PO-Revision-Date: 2021-01-11 09:44+0000\n"
 "Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.crosscode.ru/projects/crosscode/"
 "autumn/es/>\n"
@@ -75,37 +75,37 @@ msgstr "Si ya has derrotado al jefe, simplemente ve a la habitación final y cog
 #: data/maps/autumn/cubaum.json entities/526/settings/event/1/thenStep/0/thenStep/0/thenStep/0/text #296
 #, max-length:190
 msgid "[13827] data/maps/autumn/cubaum.json entities/526/settings/event/1/thenStep/0/thenStep/0/thenStep/0/text #296\nEventTrigger questBall-controls START IF tmp.questBall-start\nIF tmp.questBall-returnPointArea != \"\"\nCOMBAT_IF\nIF test\nSHOW_AR_MSG\n----------------\n<ReturnPos Changed>"
-msgstr ""
+msgstr "<PosRetorno Cambiada>"
 
 #: data/maps/autumn/cubaum.json entities/527/settings/event/0/elseStep/1/thenStep/0/thenStep/0/text #205
 #, max-length:280
 msgid "[13828] data/maps/autumn/cubaum.json entities/527/settings/event/0/elseStep/1/thenStep/0/thenStep/0/text #205\nEventTrigger questBall-camera START IF tmp.questBall-start && tmp.questBall-onMarkChange\nIF NOT tmp.questBall-onMark\nIF tmp.questBall-markerActive == 1\nIF !tmp.questBall-afterScene\nSHOW_AR_MSG\n----------------\n\\v[tmp.questBall-markerText]"
-msgstr ""
+msgstr "\\v[tmp.questBall-markerText]"
 
 #: data/maps/autumn/cubaum.json entities/527/settings/event/0/elseStep/2/thenStep/0/thenStep/0/text #203
 #, max-length:280
 msgid "[13829] data/maps/autumn/cubaum.json entities/527/settings/event/0/elseStep/2/thenStep/0/thenStep/0/text #203\nEventTrigger questBall-camera START IF tmp.questBall-start && tmp.questBall-onMarkChange\nIF NOT tmp.questBall-onMark\nIF tmp.questBall-markerActive == 2\nIF !tmp.questBall-afterScene\nSHOW_AR_MSG\n----------------\n\\v[tmp.questBall-markerText]"
-msgstr ""
+msgstr "\\v[tmp.questBall-markerText]"
 
 #: data/maps/autumn/cubaum.json entities/527/settings/event/0/elseStep/3/thenStep/0/thenStep/0/text #762
 #, max-length:280
 msgid "[13830] data/maps/autumn/cubaum.json entities/527/settings/event/0/elseStep/3/thenStep/0/thenStep/0/text #762\nEventTrigger questBall-camera START IF tmp.questBall-start && tmp.questBall-onMarkChange\nIF NOT tmp.questBall-onMark\nIF tmp.questBall-markerActive == 3\nIF !tmp.questBall-afterScene\nSHOW_AR_MSG\n----------------\n\\v[tmp.questBall-markerText]"
-msgstr ""
+msgstr "\\v[tmp.questBall-markerText]"
 
 #: data/maps/autumn/cubaum.json entities/527/settings/event/0/elseStep/4/thenStep/0/thenStep/0/text #763
 #, max-length:280
 msgid "[13831] data/maps/autumn/cubaum.json entities/527/settings/event/0/elseStep/4/thenStep/0/thenStep/0/text #763\nEventTrigger questBall-camera START IF tmp.questBall-start && tmp.questBall-onMarkChange\nIF NOT tmp.questBall-onMark\nIF tmp.questBall-markerActive == 4\nIF !tmp.questBall-afterScene\nSHOW_AR_MSG\n----------------\n\\v[tmp.questBall-markerText]"
-msgstr ""
+msgstr "\\v[tmp.questBall-markerText]"
 
 #: data/maps/autumn/cubaum.json entities/527/settings/event/0/elseStep/5/thenStep/0/thenStep/0/text #764
 #, max-length:280
 msgid "[13832] data/maps/autumn/cubaum.json entities/527/settings/event/0/elseStep/5/thenStep/0/thenStep/0/text #764\nEventTrigger questBall-camera START IF tmp.questBall-start && tmp.questBall-onMarkChange\nIF NOT tmp.questBall-onMark\nIF tmp.questBall-markerActive == 5\nIF !tmp.questBall-afterScene\nSHOW_AR_MSG\n----------------\n\\v[tmp.questBall-markerText]"
-msgstr ""
+msgstr "\\v[tmp.questBall-markerText]"
 
 #: data/maps/autumn/cubaum.json entities/528/settings/npcStates/0/event/quest/2/name #711
 #, max-length:70
 msgid "[13833] data/maps/autumn/cubaum.json entities/528/settings/npcStates/0/event/quest/2/name #711\nNPC questBall-dude\nIF quest.fd-3-ball_egg_1.task.2\nadventurers.male-bald-white @DEFAULT\n----------------\nDeggart"
-msgstr ""
+msgstr "Deggart"
 
 #: data/maps/autumn/cubaum.json entities/528/settings/npcStates/0/event/quest/4/message #198
 #, max-length:30
@@ -125,7 +125,7 @@ msgstr "[asiente]"
 #: data/maps/autumn/cubaum.json entities/528/settings/npcStates/0/event/quest/14/name #720
 #, max-length:70
 msgid "[13837] data/maps/autumn/cubaum.json entities/528/settings/npcStates/0/event/quest/14/name #720\nNPC questBall-dude\nIF quest.fd-3-ball_egg_1.task.2\nadventurers.male-bald-white @DEFAULT\n----------------\nDeggart"
-msgstr ""
+msgstr "Deggart"
 
 #: data/maps/autumn/cubaum.json entities/528/settings/npcStates/0/event/quest/16/message #740
 #, max-length:770
@@ -155,7 +155,7 @@ msgstr "Aunque parece ser algo inestable y fluctuante esta vez.\\. Deberías est
 #: data/maps/autumn/cubaum.json entities/528/settings/npcStates/0/event/quest/29/name #734
 #, max-length:70
 msgid "[13843] data/maps/autumn/cubaum.json entities/528/settings/npcStates/0/event/quest/29/name #734\nNPC questBall-dude\nIF quest.fd-3-ball_egg_1.task.2\nadventurers.male-bald-white @DEFAULT\n----------------\nDeggart"
-msgstr ""
+msgstr "Deggart"
 
 #: data/maps/autumn/cubaum.json entities/528/settings/npcStates/0/event/quest/31/message #733
 #, max-length:1040
@@ -175,7 +175,7 @@ msgstr "Estoy listo cuando tú lo estés.\\. Sólo dame la señal, \\v[lore.titl
 #: data/maps/autumn/cubaum.json entities/528/settings/npcStates/1/event/quest/3/name #712
 #, max-length:70
 msgid "[13847] data/maps/autumn/cubaum.json entities/528/settings/npcStates/1/event/quest/3/name #712\nNPC questBall-dude\nIF quest.fd-3-ball_egg_1.task.3\nadventurers.male-bald-white @DEFAULT\n----------------\nDeggart"
-msgstr ""
+msgstr "Deggart"
 
 #: data/maps/autumn/cubaum.json entities/528/settings/npcStates/1/event/quest/5/message #212
 #, max-length:470
@@ -195,7 +195,7 @@ msgstr "¡Bien, entonces déjame prender esta cosa!"
 #: data/maps/autumn/cubaum.json entities/528/settings/npcStates/1/event/quest/8/0/23/name #713
 #, max-length:70
 msgid "[13851] data/maps/autumn/cubaum.json entities/528/settings/npcStates/1/event/quest/8/0/23/name #713\nNPC questBall-dude\nIF quest.fd-3-ball_egg_1.task.3\nmain.lea @DEFAULT\nadventurers.male-bald-white @DEFAULT\n----------------\nDeggart"
-msgstr ""
+msgstr "Deggart"
 
 #: data/maps/autumn/cubaum.json entities/528/settings/npcStates/1/event/quest/8/0/25/message #702
 #, max-length:580
@@ -205,17 +205,17 @@ msgstr "La sonda se ha iniciado.\\. Pepárate para que aparezca el primer punto.
 #: data/maps/autumn/cubaum.json entities/528/settings/npcStates/1/event/quest/8/0/34/value #777
 #, max-length:170
 msgid "[13853] data/maps/autumn/cubaum.json entities/528/settings/npcStates/1/event/quest/8/0/34/value #777\nNPC questBall-dude\nIF quest.fd-3-ball_egg_1.task.3\nmain.lea @DEFAULT\nCHANGE_VAR_LANG\n----------------\n[Expecting Probe]"
-msgstr ""
+msgstr "[Esperando Sonda]"
 
 #: data/maps/autumn/cubaum.json entities/528/settings/npcStates/1/event/quest/8/0/38/text #202
 #, max-length:280
 msgid "[13854] data/maps/autumn/cubaum.json entities/528/settings/npcStates/1/event/quest/8/0/38/text #202\nNPC questBall-dude\nIF quest.fd-3-ball_egg_1.task.3\nmain.lea @DEFAULT\nSHOW_AR_MSG\n----------------\n\\v[tmp.questBall-markerText]"
-msgstr ""
+msgstr "\\v[tmp.questBall-markerText]"
 
 #: data/maps/autumn/cubaum.json entities/528/settings/npcStates/1/event/quest/8/0/40/name #714
 #, max-length:70
 msgid "[13855] data/maps/autumn/cubaum.json entities/528/settings/npcStates/1/event/quest/8/0/40/name #714\nNPC questBall-dude\nIF quest.fd-3-ball_egg_1.task.3\nmain.lea @DEFAULT\nadventurers.male-bald-white @DEFAULT\n----------------\nDeggart"
-msgstr ""
+msgstr "Deggart"
 
 #: data/maps/autumn/cubaum.json entities/528/settings/npcStates/1/event/quest/8/0/42/message #707
 #, max-length:1150
@@ -225,7 +225,7 @@ msgstr "Muy bien, igual que antes.\\. ¡Empuja nuestro dispositivo hacie el Punt
 #: data/maps/autumn/cubaum.json entities/528/settings/npcStates/1/event/quest/8/0/50/name #715
 #, max-length:70
 msgid "[13857] data/maps/autumn/cubaum.json entities/528/settings/npcStates/1/event/quest/8/0/50/name #715\nNPC questBall-dude\nIF quest.fd-3-ball_egg_1.task.3\nmain.lea @DEFAULT\nadventurers.male-bald-white @DEFAULT\n----------------\nDeggart"
-msgstr ""
+msgstr "Deggart"
 
 #: data/maps/autumn/cubaum.json entities/528/settings/npcStates/1/event/quest/8/0/52/message #709
 #, max-length:680
@@ -246,6 +246,9 @@ msgstr "[asiente]"
 #, max-length:1120
 msgid "[13861] data/maps/autumn/cubaum.json entities/528/settings/npcStates/1/event/quest/8/0/56/task #749\nNPC questBall-dude\nIF quest.fd-3-ball_egg_1.task.3\nmain.lea @DEFAULT\nSET_TASK\n----------------\nKnock the \\c[3]Probe\\c[0] on the \\c[3]Powerpoints\\c[0].\n\\c[3]Heat\\c[0]: More knockback\n\\c[3]Cold\\c[0]: Stabilize"
 msgstr ""
+"Empuja la \\c[3]Sonda\\c[0] hacia los \\c[3]Puntos de Poder\\c[0].\n"
+"\\c[3]Fuego\\c[0]: Empuja más lejos\n"
+"\\c[3]Hielo\\c[0]: Estabiliza"
 
 #: data/maps/autumn/cubaum.json entities/528/settings/npcStates/1/event/quest/8/1/0/message #50
 #, max-length:130
@@ -310,57 +313,57 @@ msgstr "Espero que entiendas ahora, \\v[lore.title.seeker]a."
 #: data/maps/autumn/cubaum.json entities/528/settings/npcStates/1/event/quest/8/options/0/label #199
 #, max-length:30
 msgid "[13874] data/maps/autumn/cubaum.json entities/528/settings/npcStates/1/event/quest/8/options/0/label #199\nNPC questBall-dude\nIF quest.fd-3-ball_egg_1.task.3\nmain.lea @DEFAULT\n----------------\nYes"
-msgstr ""
+msgstr "Si"
 
 #: data/maps/autumn/cubaum.json entities/528/settings/npcStates/1/event/quest/8/options/1/label #200
 #, max-length:20
 msgid "[13875] data/maps/autumn/cubaum.json entities/528/settings/npcStates/1/event/quest/8/options/1/label #200\nNPC questBall-dude\nIF quest.fd-3-ball_egg_1.task.3\nmain.lea @DEFAULT\n----------------\nNo"
-msgstr ""
+msgstr "No"
 
 #: data/maps/autumn/cubaum.json entities/528/settings/npcStates/1/event/quest/8/options/2/label #208
 #, max-length:190
 msgid "[13876] data/maps/autumn/cubaum.json entities/528/settings/npcStates/1/event/quest/8/options/2/label #208\nNPC questBall-dude\nIF quest.fd-3-ball_egg_1.task.3\nmain.lea @DEFAULT\n----------------\nRepeat Instructions"
-msgstr ""
+msgstr "Repetir Instrucciones"
 
 #: data/maps/autumn/cubaum.json entities/528/settings/analyzable/text #297
 #, max-length:70
 msgid "[13877] data/maps/autumn/cubaum.json entities/528/settings/analyzable/text #297\nNPC questBall-dude\n----------------\nDeggart"
-msgstr ""
+msgstr "Deggart"
 
 #: data/maps/autumn/cubaum.json entities/531/settings/event/1/thenStep/2/text #765
 #, max-length:200
 msgid "[13878] data/maps/autumn/cubaum.json entities/531/settings/event/1/thenStep/2/text #765\nEventTrigger questBall-rotateMarker START IF tmp.questBall-start && tmp.questBall-wave1\nIF tmp.questBall-start\nSHOW_AR_MSG\n----------------\n[Powerspot unstable]"
-msgstr ""
+msgstr "[Punto de Poder inestable]"
 
 #: data/maps/autumn/cubaum.json entities/531/settings/event/1/thenStep/5/thenStep/4/0_0/1/text #757
 #, max-length:280
 msgid "[13879] data/maps/autumn/cubaum.json entities/531/settings/event/1/thenStep/5/thenStep/4/0_0/1/text #757\nEventTrigger questBall-rotateMarker START IF tmp.questBall-start && tmp.questBall-wave1\nIF tmp.questBall-start\nIF tmp.questBall-start\nSELECT_RANDOM\nSHOW_AR_MSG\n----------------\n\\v[tmp.questBall-markerText]"
-msgstr ""
+msgstr "\\v[tmp.questBall-markerText]"
 
 #: data/maps/autumn/cubaum.json entities/531/settings/event/1/thenStep/5/thenStep/4/1_0/1/text #758
 #, max-length:280
 msgid "[13880] data/maps/autumn/cubaum.json entities/531/settings/event/1/thenStep/5/thenStep/4/1_0/1/text #758\nEventTrigger questBall-rotateMarker START IF tmp.questBall-start && tmp.questBall-wave1\nIF tmp.questBall-start\nIF tmp.questBall-start\nSELECT_RANDOM\nSHOW_AR_MSG\n----------------\n\\v[tmp.questBall-markerText]"
-msgstr ""
+msgstr "\\v[tmp.questBall-markerText]"
 
 #: data/maps/autumn/cubaum.json entities/531/settings/event/1/thenStep/5/thenStep/4/2_0/1/text #759
 #, max-length:280
 msgid "[13881] data/maps/autumn/cubaum.json entities/531/settings/event/1/thenStep/5/thenStep/4/2_0/1/text #759\nEventTrigger questBall-rotateMarker START IF tmp.questBall-start && tmp.questBall-wave1\nIF tmp.questBall-start\nIF tmp.questBall-start\nSELECT_RANDOM\nSHOW_AR_MSG\n----------------\n\\v[tmp.questBall-markerText]"
-msgstr ""
+msgstr "\\v[tmp.questBall-markerText]"
 
 #: data/maps/autumn/cubaum.json entities/531/settings/event/1/thenStep/5/thenStep/4/3_0/1/text #760
 #, max-length:280
 msgid "[13882] data/maps/autumn/cubaum.json entities/531/settings/event/1/thenStep/5/thenStep/4/3_0/1/text #760\nEventTrigger questBall-rotateMarker START IF tmp.questBall-start && tmp.questBall-wave1\nIF tmp.questBall-start\nIF tmp.questBall-start\nSELECT_RANDOM\nSHOW_AR_MSG\n----------------\n\\v[tmp.questBall-markerText]"
-msgstr ""
+msgstr "\\v[tmp.questBall-markerText]"
 
 #: data/maps/autumn/cubaum.json entities/531/settings/event/1/thenStep/5/thenStep/4/4_0/1/text #761
 #, max-length:280
 msgid "[13883] data/maps/autumn/cubaum.json entities/531/settings/event/1/thenStep/5/thenStep/4/4_0/1/text #761\nEventTrigger questBall-rotateMarker START IF tmp.questBall-start && tmp.questBall-wave1\nIF tmp.questBall-start\nIF tmp.questBall-start\nSELECT_RANDOM\nSHOW_AR_MSG\n----------------\n\\v[tmp.questBall-markerText]"
-msgstr ""
+msgstr "\\v[tmp.questBall-markerText]"
 
 #: data/maps/autumn/cubaum.json entities/556/settings/event/28/name #747
 #, max-length:70
 msgid "[13884] data/maps/autumn/cubaum.json entities/556/settings/event/28/name #747\nEventTrigger questBall-fightEnd START IF tmp.questBall-start && tmp.questBall-fightCount >= 13\nadventurers.male-bald-white @DEFAULT\n----------------\nDeggart"
-msgstr ""
+msgstr "Deggart"
 
 #: data/maps/autumn/cubaum.json entities/556/settings/event/30/message #755
 #, max-length:800
@@ -390,187 +393,209 @@ msgstr "...adiós."
 #: data/maps/autumn/cubaum.json entities/556/settings/event/39/action/3/text #748
 #, max-length:260
 msgid "[13890] data/maps/autumn/cubaum.json entities/556/settings/event/39/action/3/text #748\nEventTrigger questBall-fightEnd START IF tmp.questBall-start && tmp.questBall-fightCount >= 13\nDO_ACTION\nSHOW_AR_MSG\n----------------\n[Remote Control activated]"
-msgstr ""
+msgstr "[Control Remoto Activado]"
 
 #: data/maps/autumn/cubaum.json entities/563/settings/event/0/message #778
 #, max-length:370
 msgid "[13891] data/maps/autumn/cubaum.json entities/563/settings/event/0/message #778\nLocationEvent emilie-comment START IF party.alive.Emilie\nmain.emilie @DEFAULT\n----------------\nWhat a nice and regular laser bridge!"
-msgstr ""
+msgstr "¡Que bonito y regular Puente de Luz!"
 
 #: data/maps/autumn/entrance.json entities/92/settings/analyzable/text #213
 #, max-length:130
 msgid "[13892] data/maps/autumn/entrance.json entities/92/settings/analyzable/text #213\nNPC equip-quest\n----------------\nHumble Helper"
-msgstr ""
+msgstr "Humilde Ayudante"
 
 #: data/maps/autumn/entrance.json entities/92/settings/npcStates/0/event/quest/0/name #214
 #, max-length:130
 msgid "[13893] data/maps/autumn/entrance.json entities/92/settings/npcStates/0/event/quest/0/name #214\nNPC equip-quest\nIF\nrookie-harbor.man-big-black @DEFAULT\n----------------\nHumble Helper"
-msgstr ""
+msgstr "Humilde Ayudante"
 
 #: data/maps/autumn/entrance.json entities/92/settings/npcStates/0/event/quest/2/message #6
 #, max-length:30
 msgid "[13894] data/maps/autumn/entrance.json entities/92/settings/npcStates/0/event/quest/2/message #6\nNPC equip-quest\nIF\nmain.lea @PROUD\n----------------\nHi!"
-msgstr ""
+msgstr "¡Hola!"
 
 #: data/maps/autumn/entrance.json entities/92/settings/npcStates/0/event/quest/3/message #7
 #, max-length:850
 msgid "[13895] data/maps/autumn/entrance.json entities/92/settings/npcStates/0/event/quest/3/message #7\nNPC equip-quest\nIF\nrookie-harbor.man-big-black @DEFAULT\n----------------\nHello Ms. \\v[lore.title.seeker]!\\. So great to see you here on \\v[lore.title.planet]."
 msgstr ""
+"¡Hola Srta. \\v[lore.title.seeker]a!\\. Es tan bueno verte aquí en \\v[lore."
+"title.planet]."
 
 #: data/maps/autumn/entrance.json entities/92/settings/npcStates/0/event/quest/4/message #9
 #, max-length:30
 msgid "[13896] data/maps/autumn/entrance.json entities/92/settings/npcStates/0/event/quest/4/message #9\nNPC equip-quest\nIF\nmain.lea @SURPRISED_TOWARD\n----------------\n..."
-msgstr ""
+msgstr "..."
 
 #: data/maps/autumn/entrance.json entities/92/settings/npcStates/0/event/quest/5/message #10
 #, max-length:730
 msgid "[13897] data/maps/autumn/entrance.json entities/92/settings/npcStates/0/event/quest/5/message #10\nNPC equip-quest\nIF\nrookie-harbor.man-big-black @DEFAULT\n----------------\nAs a humble part of our endeavor here I am trying my best to aid Seekers."
 msgstr ""
+"Como una humilde parte de nuestro esfuerzo aquí, hago todo lo posible para "
+"ayudar a los Buscadores."
 
 #: data/maps/autumn/entrance.json entities/92/settings/npcStates/0/event/quest/6/message #11
 #, max-length:30
 msgid "[13898] data/maps/autumn/entrance.json entities/92/settings/npcStates/0/event/quest/6/message #11\nNPC equip-quest\nIF\nmain.lea @ASTONISHED\n----------------\n..."
-msgstr ""
+msgstr "..."
 
 #: data/maps/autumn/entrance.json entities/92/settings/npcStates/0/event/quest/7/message #12
 #, max-length:590
 msgid "[13899] data/maps/autumn/entrance.json entities/92/settings/npcStates/0/event/quest/7/message #12\nNPC equip-quest\nIF\nrookie-harbor.man-big-black @DEFAULT\n----------------\nBut, my skills are just not on the same level as yours are."
-msgstr ""
+msgstr "Pero, mis habilidades no están al mismo nivel que las tuyas."
 
 #: data/maps/autumn/entrance.json entities/92/settings/npcStates/0/event/quest/8/message #14
 #, max-length:590
 msgid "[13900] data/maps/autumn/entrance.json entities/92/settings/npcStates/0/event/quest/8/message #14\nNPC equip-quest\nIF\nrookie-harbor.man-big-black @DEFAULT\n----------------\nMight I ask you to help me out, dear \\v[lore.title.seeker]?"
-msgstr ""
+msgstr "¿Podría pedirte un favor, querida \\v[lore.title.seeker]?"
 
 #: data/maps/autumn/entrance.json entities/92/settings/npcStates/0/event/quest/9/message #42
 #, max-length:40
 msgid "[13901] data/maps/autumn/entrance.json entities/92/settings/npcStates/0/event/quest/9/message #42\nNPC equip-quest\nIF\nmain.lea @ASTONISHED\n----------------\n...!"
-msgstr ""
+msgstr "¡...!"
 
 #: data/maps/autumn/entrance.json entities/92/settings/npcStates/0/event/quest/10/accepted/1/message #40
 #, max-length:770
 msgid "[13902] data/maps/autumn/entrance.json entities/92/settings/npcStates/0/event/quest/10/accepted/1/message #40\nNPC equip-quest\nIF\nOPEN_QUEST_DIALOG\nrookie-harbor.man-big-black @DEFAULT\n----------------\nSuperb!\\. Come back to me when you've defeated the \\v[combat.name.hedgehog]s."
 msgstr ""
+"¡Genial!\\. Habla conmigo cuando hayas derrotado a los \\v[combat.name."
+"hedgehog]s."
 
 #: data/maps/autumn/entrance.json entities/92/settings/npcStates/0/event/quest/10/declined/1/message #41
 #, max-length:940
 msgid "[13903] data/maps/autumn/entrance.json entities/92/settings/npcStates/0/event/quest/10/declined/1/message #41\nNPC equip-quest\nIF\nOPEN_QUEST_DIALOG\nrookie-harbor.man-big-black @DEFAULT\n----------------\nOh, okay!\\. No Problem Ms. \\v[lore.title.seeker].\\. Please come back if you changed your mind."
 msgstr ""
+"¡Oh, está bien!\\. No hay problema Srta. \\v[lore.title.seeker]a.\\. Por "
+"favor, avísame si cambias de opinión."
 
 #: data/maps/autumn/entrance.json entities/92/settings/npcStates/1/event/0/name #215
 #, max-length:130
 msgid "[13904] data/maps/autumn/entrance.json entities/92/settings/npcStates/1/event/0/name #215\nNPC equip-quest\nIF quest.my-first-quest.started\nrookie-harbor.man-big-black @DEFAULT\n----------------\nHumble Helper"
-msgstr ""
+msgstr "Humilde Ayudante"
 
 #: data/maps/autumn/entrance.json entities/92/settings/npcStates/1/event/2/message #25
 #, max-length:30
 msgid "[13905] data/maps/autumn/entrance.json entities/92/settings/npcStates/1/event/2/message #25\nNPC equip-quest\nIF quest.my-first-quest.started\nmain.lea @PROUD\n----------------\nHi!"
-msgstr ""
+msgstr "¡Hola!"
 
 #: data/maps/autumn/entrance.json entities/92/settings/npcStates/1/event/3/message #26
 #, max-length:570
 msgid "[13906] data/maps/autumn/entrance.json entities/92/settings/npcStates/1/event/3/message #26\nNPC equip-quest\nIF quest.my-first-quest.started\nrookie-harbor.man-big-black @DEFAULT\n----------------\nHello Ms. \\v[lore.title.seeker]!\\. Enjoying your Journey?"
-msgstr ""
+msgstr "¡Hola Srta. \\v[lore.title.seeker]a!\\. ¿Disfrutando de la aventura?"
 
 #: data/maps/autumn/entrance.json entities/92/settings/npcStates/1/event/4/message #27
 #, max-length:30
 msgid "[13907] data/maps/autumn/entrance.json entities/92/settings/npcStates/1/event/4/message #27\nNPC equip-quest\nIF quest.my-first-quest.started\nmain.lea @NOD\n----------------\n..."
-msgstr ""
+msgstr "..."
 
 #: data/maps/autumn/entrance.json entities/92/settings/npcStates/1/event/5/message #28
 #, max-length:470
 msgid "[13908] data/maps/autumn/entrance.json entities/92/settings/npcStates/1/event/5/message #28\nNPC equip-quest\nIF quest.my-first-quest.started\nrookie-harbor.man-big-black @DEFAULT\n----------------\nOf course you do, haha!\\. Oh to be young again!"
-msgstr ""
+msgstr "¡Por supuesto que si, jajaja!\\. ¡Oh, ser jóven otra vez!"
 
 #: data/maps/autumn/entrance.json entities/92/settings/npcStates/1/event/6/message #29
 #, max-length:1450
 msgid "[13909] data/maps/autumn/entrance.json entities/92/settings/npcStates/1/event/6/message #29\nNPC equip-quest\nIF quest.my-first-quest.started\nrookie-harbor.man-big-black @DEFAULT\n----------------\nBut... back to work.\\. It looks like you still need to defeat \\c[3]\\v[quest.my-first-quest.subrequire.0] of these \\v[combat.name.hedgehog]s\\c[0]."
 msgstr ""
+"Pero... volviendo al trabajo.\\. Parece que aún debes derrotar a \\c[3]\\v"
+"[quest.my-first-quest.subrequire.0] de estos \\v[combat.name.hedgehog]s\\c"
+"[0]."
 
 #: data/maps/autumn/entrance.json entities/92/settings/npcStates/2/event/quest/0/name #216
 #, max-length:130
 msgid "[13910] data/maps/autumn/entrance.json entities/92/settings/npcStates/2/event/quest/0/name #216\nNPC equip-quest\nIF quest.my-first-quest.task.1\nrookie-harbor.man-big-black @DEFAULT\n----------------\nHumble Helper"
-msgstr ""
+msgstr "Humilde Ayudante"
 
 #: data/maps/autumn/entrance.json entities/92/settings/npcStates/2/event/quest/2/message #37
 #, max-length:790
 msgid "[13911] data/maps/autumn/entrance.json entities/92/settings/npcStates/2/event/quest/2/message #37\nNPC equip-quest\nIF quest.my-first-quest.task.1\nrookie-harbor.man-big-black @DEFAULT\n----------------\nWow Ms. \\v[lore.title.seeker], you really did it!\\. Here's your rewards for it!"
 msgstr ""
+"Wow Srta. \\v[lore.title.seeker]a, ¡lo has conseguido!\\. ¡Aquí está tu "
+"recompensa!"
 
 #: data/maps/autumn/entrance.json entities/92/settings/npcStates/2/event/quest/3/message #43
 #, max-length:40
 msgid "[13912] data/maps/autumn/entrance.json entities/92/settings/npcStates/2/event/quest/3/message #43\nNPC equip-quest\nIF quest.my-first-quest.task.1\nmain.lea @EXCITED\n----------------\n...!"
-msgstr ""
+msgstr "¡...!"
 
 #: data/maps/autumn/entrance.json entities/92/settings/npcStates/3/event/quest/0/name #217
 #, max-length:130
 msgid "[13913] data/maps/autumn/entrance.json entities/92/settings/npcStates/3/event/quest/0/name #217\nNPC equip-quest\nIF quest.my-first-quest.solved\nrookie-harbor.man-big-black @DEFAULT\n----------------\nHumble Helper"
-msgstr ""
+msgstr "Humilde Ayudante"
 
 #: data/maps/autumn/entrance.json entities/92/settings/npcStates/3/event/quest/2/message #60
 #, max-length:990
 msgid "[13914] data/maps/autumn/entrance.json entities/92/settings/npcStates/3/event/quest/2/message #60\nNPC equip-quest\nIF quest.my-first-quest.solved\nrookie-harbor.man-big-black @DEFAULT\n----------------\nHello Ms. \\v[lore.title.seeker], ready for another quest?\\. I even have more equipment as a reward."
 msgstr ""
+"Hola Srta. \\v[lore.title.seeker]a, ¿estás lista para otra misión?\\. Tengo "
+"más equipamiento como recompensa."
 
 #: data/maps/autumn/entrance.json entities/92/settings/npcStates/3/event/quest/3/accepted/1/message #58
 #, max-length:740
 msgid "[13915] data/maps/autumn/entrance.json entities/92/settings/npcStates/3/event/quest/3/accepted/1/message #58\nNPC equip-quest\nIF quest.my-first-quest.solved\nOPEN_QUEST_DIALOG\nrookie-harbor.man-big-black @DEFAULT\n----------------\nHappy collecting and remember that different plants yield different items!"
 msgstr ""
+"¡Diviértete recolectando! ¡Y recuerda que cada planta da objetos distintos!"
 
 #: data/maps/autumn/entrance.json entities/92/settings/npcStates/3/event/quest/3/declined/1/message #59
 #, max-length:940
 msgid "[13916] data/maps/autumn/entrance.json entities/92/settings/npcStates/3/event/quest/3/declined/1/message #59\nNPC equip-quest\nIF quest.my-first-quest.solved\nOPEN_QUEST_DIALOG\nrookie-harbor.man-big-black @DEFAULT\n----------------\nOh, okay!\\. No Problem Ms. \\v[lore.title.seeker].\\. Please come back if you changed your mind."
 msgstr ""
+"¡Oh, está bien!\\. No hay problema Srta. \\v[lore.title.seeker]a.\\. Por "
+"favor, avísame si cambias de opinión."
 
 #: data/maps/autumn/entrance.json entities/92/settings/npcStates/4/event/0/name #218
 #, max-length:130
 msgid "[13917] data/maps/autumn/entrance.json entities/92/settings/npcStates/4/event/0/name #218\nNPC equip-quest\nIF quest.my-first-quest_2.started\nrookie-harbor.man-big-black @DEFAULT\n----------------\nHumble Helper"
-msgstr ""
+msgstr "Humilde Ayudante"
 
 #: data/maps/autumn/entrance.json entities/92/settings/npcStates/4/event/2/message #50
 #, max-length:30
 msgid "[13918] data/maps/autumn/entrance.json entities/92/settings/npcStates/4/event/2/message #50\nNPC equip-quest\nIF quest.my-first-quest_2.started\nmain.lea @PROUD\n----------------\nHi!"
-msgstr ""
+msgstr "¡Hola!"
 
 #: data/maps/autumn/entrance.json entities/92/settings/npcStates/4/event/3/message #51
 #, max-length:580
 msgid "[13919] data/maps/autumn/entrance.json entities/92/settings/npcStates/4/event/3/message #51\nNPC equip-quest\nIF quest.my-first-quest_2.started\nrookie-harbor.man-big-black @DEFAULT\n----------------\nHello Ms. \\v[lore.title.seeker]!\\. Enjoying the adventure?"
-msgstr ""
+msgstr "¡Hola Srta. \\v[lore.title.seeker]a!\\. ¿Disfrutando de la aventura?"
 
 #: data/maps/autumn/entrance.json entities/92/settings/npcStates/4/event/4/message #52
 #, max-length:30
 msgid "[13920] data/maps/autumn/entrance.json entities/92/settings/npcStates/4/event/4/message #52\nNPC equip-quest\nIF quest.my-first-quest_2.started\nmain.lea @NOD\n----------------\n..."
-msgstr ""
+msgstr "..."
 
 #: data/maps/autumn/entrance.json entities/92/settings/npcStates/4/event/5/message #210
 #, max-length:470
 msgid "[13921] data/maps/autumn/entrance.json entities/92/settings/npcStates/4/event/5/message #210\nNPC equip-quest\nIF quest.my-first-quest_2.started\nrookie-harbor.man-big-black @DEFAULT\n----------------\nOf course you do, haha!\\. Oh to be young again!"
-msgstr ""
+msgstr "¡Por supuesto que si, jajaja!\\. ¡Oh, ser jóven otra vez!"
 
 #: data/maps/autumn/entrance.json entities/92/settings/npcStates/4/event/6/message #211
 #, max-length:910
 msgid "[13922] data/maps/autumn/entrance.json entities/92/settings/npcStates/4/event/6/message #211\nNPC equip-quest\nIF quest.my-first-quest_2.started\nrookie-harbor.man-big-black @DEFAULT\n----------------\nBut... back to work.\\. It looks like you still need to collect some of the \\c[3]items\\c[0]."
 msgstr ""
+"Pero... volviendo al trabajo.\\. Parece que aún debes coleccionar algunos \\c"
+"[3]objetos\\c[0]."
 
 #: data/maps/autumn/entrance.json entities/92/settings/npcStates/5/event/quest/0/name #219
 #, max-length:130
 msgid "[13923] data/maps/autumn/entrance.json entities/92/settings/npcStates/5/event/quest/0/name #219\nNPC equip-quest\nIF quest.my-first-quest_2.task.1\nrookie-harbor.man-big-black @DEFAULT\n----------------\nHumble Helper"
-msgstr ""
+msgstr "Humilde Ayudante"
 
 #: data/maps/autumn/entrance.json entities/92/settings/npcStates/5/event/quest/2/message #55
 #, max-length:790
 msgid "[13924] data/maps/autumn/entrance.json entities/92/settings/npcStates/5/event/quest/2/message #55\nNPC equip-quest\nIF quest.my-first-quest_2.task.1\nrookie-harbor.man-big-black @DEFAULT\n----------------\nWow Ms. \\v[lore.title.seeker], you really did it!\\. Here's your rewards for it!"
 msgstr ""
+"Wow Srta. \\v[lore.title.seeker], ¡lo has conseguido!\\. ¡Aquí tienes tu "
+"recompensa!"
 
 #: data/maps/autumn/entrance.json entities/92/settings/npcStates/5/event/quest/3/message #56
 #, max-length:40
 msgid "[13925] data/maps/autumn/entrance.json entities/92/settings/npcStates/5/event/quest/3/message #56\nNPC equip-quest\nIF quest.my-first-quest_2.task.1\nmain.lea @EXCITED\n----------------\n...!"
-msgstr ""
+msgstr "¡...!"
 
 #: data/maps/autumn/entrance.json entities/92/settings/npcStates/6/event/0/name #220
 #, max-length:130
 msgid "[13926] data/maps/autumn/entrance.json entities/92/settings/npcStates/6/event/0/name #220\nNPC equip-quest\nIF quest.my-first-quest_2.solved\nrookie-harbor.man-big-black @DEFAULT\n----------------\nHumble Helper"
-msgstr ""
+msgstr "Humilde Ayudante"
 
 #: data/maps/autumn/entrance.json entities/92/settings/npcStates/6/event/2/message #44
 #, max-length:650
