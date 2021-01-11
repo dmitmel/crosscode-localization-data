@@ -1,8 +1,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: crosscode 0.0.0\n"
-"PO-Revision-Date: 2021-01-11 00:54+0000\n"
-"Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
+"PO-Revision-Date: 2021-01-12 16:54+0000\n"
+"Last-Translator: CrossCode Weblate Admin <dmytro.meleshko+weblate.crosscode."
+"ru@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.crosscode.ru/projects/crosscode/"
 "arena/es/>\n"
 "Language: es_ES\n"
@@ -12,251 +13,251 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.4\n"
 
-#: data/arena/boss-cup.json core/name #4
-#, max-length:160
 #. [00773] data/arena/boss-cup.json core/name #4
 #. SOLO_CUP
+#: data/arena/boss-cup.json core/name #4
+#, max-length:160
 msgid "data/arena/boss-cup.json/core/name"
 msgstr "Copa de Jefes de Mazmorra"
 
-#: data/arena/boss-cup.json core/info #1
-#, max-length:770
 #. [00774] data/arena/boss-cup.json core/info #1
 #. SOLO_CUP
+#: data/arena/boss-cup.json core/info #1
+#, max-length:770
 msgid "data/arena/boss-cup.json/core/info"
 msgstr ""
 "Pelea contra versiones más desafiantes de los jefes de todos los templos y "
 "mazmorras."
 
-#: data/arena/boss-cup.json core/creator #44
-#, max-length:70
 #. [00775] data/arena/boss-cup.json core/creator #44
 #. SOLO_CUP
+#: data/arena/boss-cup.json core/creator #44
+#, max-length:70
 msgid "data/arena/boss-cup.json/core/creator"
 msgstr "Lachsen"
 
-#: data/arena/boss-cup.json rounds/0/name #28
-#, max-length:170
 #. [00776] data/arena/boss-cup.json rounds/0/name #28
 #. DEFAULT
+#: data/arena/boss-cup.json rounds/0/name #28
+#, max-length:170
 msgid "data/arena/boss-cup.json/rounds/0/name"
 msgstr "La Torreta Letal"
 
-#: data/arena/boss-cup.json rounds/0/objective #29
-#, max-length:1150
 #. [00777] data/arena/boss-cup.json rounds/0/objective #29
 #. DEFAULT
+#: data/arena/boss-cup.json rounds/0/objective #29
+#, max-length:1150
 msgid "data/arena/boss-cup.json/rounds/0/objective"
 msgstr ""
 "¡Derrota a una versión más fuerte del jefe \\c[3]\\v[combat.name.turret-boss]"
 "\\c[0] de la \\c[3]\\v[area.rhombus-dng.name]\\c[0]!"
 
-#: data/arena/boss-cup.json rounds/1/name #42
-#, max-length:160
 #. [00778] data/arena/boss-cup.json rounds/1/name #42
 #. DEFAULT
+#: data/arena/boss-cup.json rounds/1/name #42
+#, max-length:160
 msgid "data/arena/boss-cup.json/rounds/1/name"
 msgstr "El Robot Congelado"
 
-#: data/arena/boss-cup.json rounds/1/objective #43
-#, max-length:1210
 #. [00779] data/arena/boss-cup.json rounds/1/objective #43
 #. DEFAULT
+#: data/arena/boss-cup.json rounds/1/objective #43
+#, max-length:1210
 msgid "data/arena/boss-cup.json/rounds/1/objective"
 msgstr ""
 "¡Derrota a una versión más fuerte del jefe \\c[3]\\v[combat.name.mine-"
 "diggingbot-cold]\\c[0] del \\c[3]\\v[area.cold-dng.name]\\c[0]!"
 
-#: data/arena/boss-cup.json rounds/2/name #26
-#, max-length:170
 #. [00780] data/arena/boss-cup.json rounds/2/name #26
 #. DEFAULT
+#: data/arena/boss-cup.json rounds/2/name #26
+#, max-length:170
 msgid "data/arena/boss-cup.json/rounds/2/name"
 msgstr "El Engranaje Colosal"
 
-#: data/arena/boss-cup.json rounds/2/objective #33
-#, max-length:1130
 #. [00781] data/arena/boss-cup.json rounds/2/objective #33
 #. DEFAULT
+#: data/arena/boss-cup.json rounds/2/objective #33
+#, max-length:1130
 msgid "data/arena/boss-cup.json/rounds/2/objective"
 msgstr ""
 "¡Derrota a una versión más fuerte del jefe \\c[3]\\v[combat.name.boss-"
 "driller]\\c[0] del \\c[3]\\v[area.cold-dng.name]\\c[0]!"
 
-#: data/arena/boss-cup.json rounds/3/name #30
-#, max-length:180
 #. [00782] data/arena/boss-cup.json rounds/3/name #30
 #. DEFAULT
+#: data/arena/boss-cup.json rounds/3/name #30
+#, max-length:180
 msgid "data/arena/boss-cup.json/rounds/3/name"
 msgstr "La Fiera Hormiga León"
 
-#: data/arena/boss-cup.json rounds/3/objective #31
-#, max-length:1130
 #. [00783] data/arena/boss-cup.json rounds/3/objective #31
 #. DEFAULT
+#: data/arena/boss-cup.json rounds/3/objective #31
+#, max-length:1130
 msgid "data/arena/boss-cup.json/rounds/3/objective"
 msgstr ""
 "¡Derrota a una versión más fuerte del jefe \\c[3]\\v[combat.name.heat/"
 "antlion]\\c[0] del \\c[3]\\v[area.heat-dng.name]\\c[0]!"
 
-#: data/arena/boss-cup.json rounds/4/name #32
-#, max-length:170
 #. [00784] data/arena/boss-cup.json rounds/4/name #32
 #. DEFAULT
+#: data/arena/boss-cup.json rounds/4/name #32
+#, max-length:170
 msgid "data/arena/boss-cup.json/rounds/4/name"
 msgstr "La Gigantesca Polilla"
 
-#: data/arena/boss-cup.json rounds/4/objective #27
-#, max-length:1140
 #. [00785] data/arena/boss-cup.json rounds/4/objective #27
 #. DEFAULT
+#: data/arena/boss-cup.json rounds/4/objective #27
+#, max-length:1140
 msgid "data/arena/boss-cup.json/rounds/4/objective"
 msgstr ""
 "¡Derrota a una versión más fuerte del jefe \\c[3]\\v[combat.name.heat/"
 "megamoth]\\c[0] del \\c[3]\\v[area.heat-dng.name]\\c[0]!"
 
-#: data/arena/boss-cup.json rounds/5/name #36
-#, max-length:220
 #. [00786] data/arena/boss-cup.json rounds/5/name #36
 #. DEFAULT
+#: data/arena/boss-cup.json rounds/5/name #36
+#, max-length:220
 msgid "data/arena/boss-cup.json/rounds/5/name"
 msgstr "El Fantasma del Rayo"
 
-#: data/arena/boss-cup.json rounds/5/objective #37
-#, max-length:1180
 #. [00787] data/arena/boss-cup.json rounds/5/objective #37
 #. DEFAULT
+#: data/arena/boss-cup.json rounds/5/objective #37
+#, max-length:1180
 msgid "data/arena/boss-cup.json/rounds/5/objective"
 msgstr ""
 "¡Derrota a una versión más fuerte del jefe \\c[3]\\v[combat.name.jungle/"
 "shockboss]\\c[0] del \\c[3]\\v[area.shock-dng.name]\\c[0]!"
 
-#: data/arena/boss-cup.json rounds/6/name #34
-#, max-length:150
 #. [00788] data/arena/boss-cup.json rounds/6/name #34
 #. DEFAULT
+#: data/arena/boss-cup.json rounds/6/name #34
+#, max-length:150
 msgid "data/arena/boss-cup.json/rounds/6/name"
 msgstr "La Poderosa Baba"
 
-#: data/arena/boss-cup.json rounds/6/objective #35
-#, max-length:1160
 #. [00789] data/arena/boss-cup.json rounds/6/objective #35
 #. DEFAULT
+#: data/arena/boss-cup.json rounds/6/objective #35
+#, max-length:1160
 msgid "data/arena/boss-cup.json/rounds/6/objective"
 msgstr ""
 "¡Derrota a una versión más fuerte del jefe \\c[3]\\v[combat.name.jungle/"
 "waveboss]\\c[0] del \\c[3]\\v[area.wave-dng.name]\\c[0]!"
 
-#: data/arena/boss-cup.json rounds/7/name #38
-#, max-length:150
 #. [00790] data/arena/boss-cup.json rounds/7/name #38
 #. DEFAULT
+#: data/arena/boss-cup.json rounds/7/name #38
+#, max-length:150
 msgid "data/arena/boss-cup.json/rounds/7/name"
 msgstr "El Primate Guerrero"
 
-#: data/arena/boss-cup.json rounds/7/objective #39
-#, max-length:1160
 #. [00791] data/arena/boss-cup.json rounds/7/objective #39
 #. DEFAULT
+#: data/arena/boss-cup.json rounds/7/objective #39
+#, max-length:1160
 msgid "data/arena/boss-cup.json/rounds/7/objective"
 msgstr ""
-"¡Derrota a una versión más fuerte del jefe  \\c[3]\\v[combat.name.jungle/ape-"
+"¡Derrota a una versión más fuerte del jefe \\c[3]\\v[combat.name.jungle/ape-"
 "boss]\\c[0] del \\c[3]\\v[area.tree-dng.name]\\c[0]!"
 
-#: data/arena/boss-cup.json rounds/8/name #40
-#, max-length:190
 #. [00792] data/arena/boss-cup.json rounds/8/name #40
 #. DEFAULT
+#: data/arena/boss-cup.json rounds/8/name #40
+#, max-length:190
 msgid "data/arena/boss-cup.json/rounds/8/name"
 msgstr "La Monstruosa Ballena"
 
-#: data/arena/boss-cup.json rounds/8/objective #41
-#, max-length:1630
 #. [00793] data/arena/boss-cup.json rounds/8/objective #41
 #. DEFAULT
+#: data/arena/boss-cup.json rounds/8/objective #41
+#, max-length:1630
 msgid "data/arena/boss-cup.json/rounds/8/objective"
 msgstr ""
 "¡Derrota versiones más fuertes de los jefes \\c[3]\\v[combat.name.jungle/ape-"
 "boss]\\c[0] y \\c[3]\\v[combat.name.jungle/whale-boss]\\c[0] del \\c[3]\\v"
 "[area.tree-dng.name]\\c[0]!"
 
-#: data/arena/faction-cup-1.json core/name #4
-#, max-length:180
 #. [00794] data/arena/faction-cup-1.json core/name #4
 #. SOLO_CUP
+#: data/arena/faction-cup-1.json core/name #4
+#, max-length:180
 msgid "data/arena/faction-cup-1.json/core/name"
 msgstr "Copa Novato de las Facciones"
 
-#: data/arena/faction-cup-1.json core/info #1
-#, max-length:720
 #. [00795] data/arena/faction-cup-1.json core/info #1
 #. SOLO_CUP
+#: data/arena/faction-cup-1.json core/info #1
+#, max-length:720
 msgid "data/arena/faction-cup-1.json/core/info"
 msgstr ""
 "¡Vuelve a pelear varias viejas batallas que te has encontrado en tus "
 "misiones para las facciones!"
 
-#: data/arena/faction-cup-1.json rounds/0/name #28
-#, max-length:160
 #. [00796] data/arena/faction-cup-1.json rounds/0/name #28
 #. DEFAULT
+#: data/arena/faction-cup-1.json rounds/0/name #28
+#, max-length:160
 msgid "data/arena/faction-cup-1.json/rounds/0/name"
 msgstr "Colicatas Matonas"
 
-#: data/arena/faction-cup-1.json rounds/0/objective #29
-#, max-length:1520
 #. [00797] data/arena/faction-cup-1.json rounds/0/objective #29
 #. DEFAULT
+#: data/arena/faction-cup-1.json rounds/0/objective #29
+#, max-length:1520
 msgid "data/arena/faction-cup-1.json/rounds/0/objective"
 msgstr ""
 "¡Vuelve a pelear contra \\c[3]\\v[combat.name.meerkat-special-command-1]\\c"
 "[0] y su pandilla de \\c[3]Colicatas\\c[0] en su cueva en el \\c[3]\\v[area."
 "autumn-area.name]\\c[0]!"
 
-#: data/arena/faction-cup-1.json rounds/1/name #48
-#, max-length:150
 #. [00798] data/arena/faction-cup-1.json rounds/1/name #48
 #. DEFAULT
+#: data/arena/faction-cup-1.json rounds/1/name #48
+#, max-length:150
 msgid "data/arena/faction-cup-1.json/rounds/1/name"
 msgstr "Problemas de Torretas"
 
-#: data/arena/faction-cup-1.json rounds/1/objective #31
-#, max-length:1190
 #. [00799] data/arena/faction-cup-1.json rounds/1/objective #31
 #. DEFAULT
+#: data/arena/faction-cup-1.json rounds/1/objective #31
+#, max-length:1190
 msgid "data/arena/faction-cup-1.json/rounds/1/objective"
 msgstr ""
 "¡Derrota a la \\c[3]\\v[combat.name.turret-rhg-1]\\c[0] contra la que te "
 "enfrentaste en \\c[3]\\v[area.rookie-harbor.name]\\c[0]!"
 
-#: data/arena/faction-cup-1.json rounds/2/name #30
-#, max-length:150
 #. [00800] data/arena/faction-cup-1.json rounds/2/name #30
 #. DEFAULT
+#: data/arena/faction-cup-1.json rounds/2/name #30
+#, max-length:150
 msgid "data/arena/faction-cup-1.json/rounds/2/name"
 msgstr "Conejitos Sucios"
 
-#: data/arena/faction-cup-1.json rounds/2/objective #49
-#, max-length:1500
 #. [00801] data/arena/faction-cup-1.json rounds/2/objective #49
 #. DEFAULT
+#: data/arena/faction-cup-1.json rounds/2/objective #49
+#, max-length:1500
 msgid "data/arena/faction-cup-1.json/rounds/2/objective"
 msgstr ""
 "¡Derrota al \\c[3]\\v[combat.name.cold/frobbit-quest-dirty]s\\c[0] en el \\c"
 "[3]\\v[area.bergen-trails.name]\\c[0]!\n"
 "¡Recuerda \\c[3]darles un baño\\c[0] primero!"
 
-#: data/arena/faction-cup-1.json rounds/3/name #32
-#, max-length:220
 #. [00802] data/arena/faction-cup-1.json rounds/3/name #32
 #. DEFAULT
+#: data/arena/faction-cup-1.json rounds/3/name #32
+#, max-length:220
 msgid "data/arena/faction-cup-1.json/rounds/3/name"
 msgstr "El Cabrino, Parte I"
 
-#: data/arena/faction-cup-1.json rounds/3/objective #33
-#, max-length:1680
 #. [00803] data/arena/faction-cup-1.json rounds/3/objective #33
 #. DEFAULT
+#: data/arena/faction-cup-1.json rounds/3/objective #33
+#, max-length:1680
 msgid "data/arena/faction-cup-1.json/rounds/3/objective"
 msgstr ""
 "¡Enfréntate al \\c[3]\\v[combat.name.cold/goat-father]\\c[0] otra vez y \\c"
@@ -264,17 +265,17 @@ msgstr ""
 "\\c[0]!\n"
 "¡Atento a las \\c[3]bombas\\c[0]!"
 
-#: data/arena/faction-cup-1.json rounds/4/name #34
-#, max-length:160
 #. [00804] data/arena/faction-cup-1.json rounds/4/name #34
 #. DEFAULT
+#: data/arena/faction-cup-1.json rounds/4/name #34
+#, max-length:160
 msgid "data/arena/faction-cup-1.json/rounds/4/name"
 msgstr "Tortugas Tenaces"
 
-#: data/arena/faction-cup-1.json rounds/4/objective #35
-#, max-length:2940
 #. [00805] data/arena/faction-cup-1.json rounds/4/objective #35
 #. DEFAULT
+#: data/arena/faction-cup-1.json rounds/4/objective #35
+#, max-length:2940
 msgid "data/arena/faction-cup-1.json/rounds/4/objective"
 msgstr ""
 "¡Rompe los caparazones de las \\c[3]\\v[combat.name.heat/drillertoise]s\\c[0]"
@@ -284,17 +285,17 @@ msgstr ""
 "\\c[3]proyectiles cargados\\c[0] lo hará dispensar \\c[3]bombas\\c[0]!\n"
 "\n"
 
-#: data/arena/faction-cup-1.json rounds/5/name #36
-#, max-length:210
 #. [00806] data/arena/faction-cup-1.json rounds/5/name #36
 #. DEFAULT
+#: data/arena/faction-cup-1.json rounds/5/name #36
+#, max-length:210
 msgid "data/arena/faction-cup-1.json/rounds/5/name"
 msgstr "Escuadrón de Circuitos Abrasadores"
 
-#: data/arena/faction-cup-1.json rounds/5/objective #37
-#, max-length:2540
 #. [00807] data/arena/faction-cup-1.json rounds/5/objective #37
 #. DEFAULT
+#: data/arena/faction-cup-1.json rounds/5/objective #37
+#, max-length:2540
 msgid "data/arena/faction-cup-1.json/rounds/5/objective"
 msgstr ""
 "¡Pelea contra la favorecida maquinaria de los guardias traidores de "
@@ -303,50 +304,50 @@ msgstr ""
 "¡\\c[3]Aturde al líder\\c[0] para desactivar los \\c[3]escudos\\c[0] de las "
 "torretas!"
 
-#: data/arena/faction-cup-2.json core/name #4
-#, max-length:200
 #. [00808] data/arena/faction-cup-2.json core/name #4
 #. SOLO_CUP
+#: data/arena/faction-cup-2.json core/name #4
+#, max-length:200
 msgid "data/arena/faction-cup-2.json/core/name"
 msgstr "Copa de Facciones Avanzada"
 
-#: data/arena/faction-cup-2.json core/info #1
-#, max-length:740
 #. [00809] data/arena/faction-cup-2.json core/info #1
 #. SOLO_CUP
+#: data/arena/faction-cup-2.json core/info #1
+#, max-length:740
 msgid "data/arena/faction-cup-2.json/core/info"
 msgstr ""
 "¡Vuelve a pelear contra varios enemigos de la mitad del juego que te has "
 "encontrado en las misiones para las facciones!"
 
-#: data/arena/faction-cup-2.json rounds/0/name #54
-#, max-length:130
 #. [00810] data/arena/faction-cup-2.json rounds/0/name #54
 #. DEFAULT
+#: data/arena/faction-cup-2.json rounds/0/name #54
+#, max-length:130
 msgid "data/arena/faction-cup-2.json/rounds/0/name"
 msgstr "Aves Ardientes"
 
-#: data/arena/faction-cup-2.json rounds/0/objective #51
-#, max-length:1570
 #. [00811] data/arena/faction-cup-2.json rounds/0/objective #51
 #. DEFAULT
+#: data/arena/faction-cup-2.json rounds/0/objective #51
+#, max-length:1570
 msgid "data/arena/faction-cup-2.json/rounds/0/objective"
 msgstr ""
 "¡Derrota las \\c[3]\\v[combat.name.heat/special/volturbine-cave]s\\c[0] en "
 "\\c[3]\\v[area.heat-area.name]\\c[0]!\n"
 "¡No las dejes \\c[3]regenerarse sobre las llamas\\c[0]!"
 
-#: data/arena/faction-cup-2.json rounds/1/name #50
-#, max-length:180
 #. [00812] data/arena/faction-cup-2.json rounds/1/name #50
 #. DEFAULT
+#: data/arena/faction-cup-2.json rounds/1/name #50
+#, max-length:180
 msgid "data/arena/faction-cup-2.json/rounds/1/name"
 msgstr "Mostacho Malicioso"
 
-#: data/arena/faction-cup-2.json rounds/1/objective #55
-#, max-length:2120
 #. [00813] data/arena/faction-cup-2.json rounds/1/objective #55
 #. DEFAULT
+#: data/arena/faction-cup-2.json rounds/1/objective #55
+#, max-length:2120
 msgid "data/arena/faction-cup-2.json/rounds/1/objective"
 msgstr ""
 "¡Ten otro duelo con \\c[3]\\v[combat.name.heat/special/guard-hostile-"
@@ -354,51 +355,51 @@ msgstr ""
 "¡Y también contra su \\c[3]\\v[combat.name.heat/special/baki-turret_2]s\\c[0]"
 " ya que estás!"
 
-#: data/arena/faction-cup-2.json rounds/2/name #40
-#, max-length:130
 #. [00814] data/arena/faction-cup-2.json rounds/2/name #40
 #. DEFAULT
+#: data/arena/faction-cup-2.json rounds/2/name #40
+#, max-length:130
 msgid "data/arena/faction-cup-2.json/rounds/2/name"
 msgstr "Matón Calentito"
 
-#: data/arena/faction-cup-2.json rounds/2/objective #41
-#, max-length:1820
 #. [00815] data/arena/faction-cup-2.json rounds/2/objective #41
 #. DEFAULT
+#: data/arena/faction-cup-2.json rounds/2/objective #41
+#, max-length:1820
 msgid "data/arena/faction-cup-2.json/rounds/2/objective"
 msgstr ""
 "¡Derrota al poderoso y metálico \\c[3]\\v[combat.name.cold/mine-diggingbot-"
 "quest]\\c[0] en el \\c[3]\\v[area.cold-dng.name]\\c[0]!\n"
 "¡Mantén el \\c[3]calor\\c[0] en un \\c[3]estado balanceado\\c[0]!"
 
-#: data/arena/faction-cup-2.json rounds/3/name #42
-#, max-length:140
 #. [00816] data/arena/faction-cup-2.json rounds/3/name #42
 #. DEFAULT
+#: data/arena/faction-cup-2.json rounds/3/name #42
+#, max-length:140
 msgid "data/arena/faction-cup-2.json/rounds/3/name"
 msgstr "Búfalo Ardiente"
 
-#: data/arena/faction-cup-2.json rounds/3/objective #43
-#, max-length:1610
 #. [00817] data/arena/faction-cup-2.json rounds/3/objective #43
 #. DEFAULT
+#: data/arena/faction-cup-2.json rounds/3/objective #43
+#, max-length:1610
 msgid "data/arena/faction-cup-2.json/rounds/3/objective"
 msgstr ""
 "¡Derrota al \\c[3]\\v[combat.name.autumn-fall/buffalo-fire-quest]\\c[0] en "
 "\\c[3]\\v[area.autumn-fall.name]\\c[0]!\n"
 "¡Véncelo usando \\c[3]hielo\\c[0] y \\c[3]ángulos\\c[0]!"
 
-#: data/arena/faction-cup-2.json rounds/4/name #44
-#, max-length:170
 #. [00818] data/arena/faction-cup-2.json rounds/4/name #44
 #. DEFAULT
+#: data/arena/faction-cup-2.json rounds/4/name #44
+#, max-length:170
 msgid "data/arena/faction-cup-2.json/rounds/4/name"
 msgstr "Turista del Terror"
 
-#: data/arena/faction-cup-2.json rounds/4/objective #45
-#, max-length:2160
 #. [00819] data/arena/faction-cup-2.json rounds/4/objective #45
 #. DEFAULT
+#: data/arena/faction-cup-2.json rounds/4/objective #45
+#, max-length:2160
 msgid "data/arena/faction-cup-2.json/rounds/4/objective"
 msgstr ""
 "¡Derrota al \\c[3]\\v[combat.name.jungle/special/snowman-jungle-boss]\\c[0] "
@@ -406,33 +407,33 @@ msgstr ""
 "¡Rompe su defensa utilizando el \\c[3]\\v[combat.name.jungle/special/heater]"
 "\\c[0] teleportador!"
 
-#: data/arena/faction-cup-2.json rounds/5/name #46
-#, max-length:110
 #. [00820] data/arena/faction-cup-2.json rounds/5/name #46
 #. DEFAULT
+#: data/arena/faction-cup-2.json rounds/5/name #46
+#, max-length:110
 msgid "data/arena/faction-cup-2.json/rounds/5/name"
 msgstr "Planta Alegre"
 
-#: data/arena/faction-cup-2.json rounds/5/objective #47
-#, max-length:1050
 #. [00821] data/arena/faction-cup-2.json rounds/5/objective #47
 #. DEFAULT
+#: data/arena/faction-cup-2.json rounds/5/objective #47
+#, max-length:1050
 msgid "data/arena/faction-cup-2.json/rounds/5/objective"
 msgstr ""
 "¡Derrota a la \\c[3]\\v[combat.name.jungle/special/powerplant-quest-1]\\c[0] "
 "en el \\c[3]\\v[area.jungle.name]\\c[0]!"
 
-#: data/arena/faction-cup-2.json rounds/6/name #52
-#, max-length:160
 #. [00822] data/arena/faction-cup-2.json rounds/6/name #52
 #. DEFAULT
+#: data/arena/faction-cup-2.json rounds/6/name #52
+#, max-length:160
 msgid "data/arena/faction-cup-2.json/rounds/6/name"
 msgstr "Tenebroso Hombre Seco"
 
-#: data/arena/faction-cup-2.json rounds/6/objective #53
-#, max-length:1760
 #. [00823] data/arena/faction-cup-2.json rounds/6/objective #53
 #. DEFAULT
+#: data/arena/faction-cup-2.json rounds/6/objective #53
+#, max-length:1760
 msgid "data/arena/faction-cup-2.json/rounds/6/objective"
 msgstr ""
 "¡Derrota al \\c[3]\\v[combat.name.heat/special/sandman-1]\\c[0] en el \\c[3]"
@@ -440,2060 +441,2060 @@ msgstr ""
 "¡Las \\c[3]arenas movedizas\\c[0] puede que sean molestas pero los \\c[3]"
 "teleportadores\\c[0] son tus amigos!"
 
-#: data/arena/faction-team-cup-1.json core/name #4
-#, max-length:160
 #. [00824] data/arena/faction-team-cup-1.json core/name #4
 #. TEAM_CUP
+#: data/arena/faction-team-cup-1.json core/name #4
+#, max-length:160
 msgid "data/arena/faction-team-cup-1.json/core/name"
 msgstr "Copa de Facciones en Equipo"
 
-#: data/arena/faction-team-cup-1.json core/info #1
-#, max-length:770
 #. [00825] data/arena/faction-team-cup-1.json core/info #1
 #. TEAM_CUP
+#: data/arena/faction-team-cup-1.json core/info #1
+#, max-length:770
 msgid "data/arena/faction-team-cup-1.json/core/info"
 msgstr ""
 "¡Vuelve a pelear contra varias batallas que te has encontrado en tus "
 "misiones para las facciones, en equipo!"
 
-#: data/arena/faction-team-cup-1.json rounds/0/name #28
-#, max-length:160
 #. [00826] data/arena/faction-team-cup-1.json rounds/0/name #28
 #. DEFAULT
+#: data/arena/faction-team-cup-1.json rounds/0/name #28
+#, max-length:160
 msgid "data/arena/faction-team-cup-1.json/rounds/0/name"
 msgstr ""
 
-#: data/arena/faction-team-cup-1.json rounds/0/objective #29
-#, max-length:1520
 #. [00827] data/arena/faction-team-cup-1.json rounds/0/objective #29
 #. DEFAULT
+#: data/arena/faction-team-cup-1.json rounds/0/objective #29
+#, max-length:1520
 msgid "data/arena/faction-team-cup-1.json/rounds/0/objective"
 msgstr ""
 
-#: data/arena/faction-team-cup-1.json rounds/1/name #48
-#, max-length:150
 #. [00828] data/arena/faction-team-cup-1.json rounds/1/name #48
 #. DEFAULT
+#: data/arena/faction-team-cup-1.json rounds/1/name #48
+#, max-length:150
 msgid "data/arena/faction-team-cup-1.json/rounds/1/name"
 msgstr ""
 
-#: data/arena/faction-team-cup-1.json rounds/1/objective #31
-#, max-length:1190
 #. [00829] data/arena/faction-team-cup-1.json rounds/1/objective #31
 #. DEFAULT
+#: data/arena/faction-team-cup-1.json rounds/1/objective #31
+#, max-length:1190
 msgid "data/arena/faction-team-cup-1.json/rounds/1/objective"
 msgstr ""
 
-#: data/arena/faction-team-cup-1.json rounds/2/name #30
-#, max-length:150
 #. [00830] data/arena/faction-team-cup-1.json rounds/2/name #30
 #. DEFAULT
+#: data/arena/faction-team-cup-1.json rounds/2/name #30
+#, max-length:150
 msgid "data/arena/faction-team-cup-1.json/rounds/2/name"
 msgstr ""
 
-#: data/arena/faction-team-cup-1.json rounds/2/objective #49
-#, max-length:1500
 #. [00831] data/arena/faction-team-cup-1.json rounds/2/objective #49
 #. DEFAULT
+#: data/arena/faction-team-cup-1.json rounds/2/objective #49
+#, max-length:1500
 msgid "data/arena/faction-team-cup-1.json/rounds/2/objective"
 msgstr ""
 
-#: data/arena/faction-team-cup-1.json rounds/3/name #32
-#, max-length:220
 #. [00832] data/arena/faction-team-cup-1.json rounds/3/name #32
 #. DEFAULT
+#: data/arena/faction-team-cup-1.json rounds/3/name #32
+#, max-length:220
 msgid "data/arena/faction-team-cup-1.json/rounds/3/name"
 msgstr ""
 
-#: data/arena/faction-team-cup-1.json rounds/3/objective #33
-#, max-length:1680
 #. [00833] data/arena/faction-team-cup-1.json rounds/3/objective #33
 #. DEFAULT
+#: data/arena/faction-team-cup-1.json rounds/3/objective #33
+#, max-length:1680
 msgid "data/arena/faction-team-cup-1.json/rounds/3/objective"
 msgstr ""
 
-#: data/arena/faction-team-cup-1.json rounds/4/name #36
-#, max-length:210
 #. [00834] data/arena/faction-team-cup-1.json rounds/4/name #36
 #. DEFAULT
+#: data/arena/faction-team-cup-1.json rounds/4/name #36
+#, max-length:210
 msgid "data/arena/faction-team-cup-1.json/rounds/4/name"
 msgstr ""
 
-#: data/arena/faction-team-cup-1.json rounds/4/objective #37
-#, max-length:2540
 #. [00835] data/arena/faction-team-cup-1.json rounds/4/objective #37
 #. DEFAULT
+#: data/arena/faction-team-cup-1.json rounds/4/objective #37
+#, max-length:2540
 msgid "data/arena/faction-team-cup-1.json/rounds/4/objective"
 msgstr ""
 
-#: data/arena/faction-team-cup-1.json rounds/5/name #54
-#, max-length:130
 #. [00836] data/arena/faction-team-cup-1.json rounds/5/name #54
 #. DEFAULT
+#: data/arena/faction-team-cup-1.json rounds/5/name #54
+#, max-length:130
 msgid "data/arena/faction-team-cup-1.json/rounds/5/name"
 msgstr ""
 
-#: data/arena/faction-team-cup-1.json rounds/5/objective #51
-#, max-length:1570
 #. [00837] data/arena/faction-team-cup-1.json rounds/5/objective #51
 #. DEFAULT
+#: data/arena/faction-team-cup-1.json rounds/5/objective #51
+#, max-length:1570
 msgid "data/arena/faction-team-cup-1.json/rounds/5/objective"
 msgstr ""
 
-#: data/arena/faction-team-cup-1.json rounds/6/name #50
-#, max-length:180
 #. [00838] data/arena/faction-team-cup-1.json rounds/6/name #50
 #. DEFAULT
+#: data/arena/faction-team-cup-1.json rounds/6/name #50
+#, max-length:180
 msgid "data/arena/faction-team-cup-1.json/rounds/6/name"
 msgstr ""
 
-#: data/arena/faction-team-cup-1.json rounds/6/objective #55
-#, max-length:2120
 #. [00839] data/arena/faction-team-cup-1.json rounds/6/objective #55
 #. DEFAULT
+#: data/arena/faction-team-cup-1.json rounds/6/objective #55
+#, max-length:2120
 msgid "data/arena/faction-team-cup-1.json/rounds/6/objective"
 msgstr ""
 
-#: data/arena/faction-team-cup-1.json rounds/7/name #46
-#, max-length:110
 #. [00840] data/arena/faction-team-cup-1.json rounds/7/name #46
 #. DEFAULT
+#: data/arena/faction-team-cup-1.json rounds/7/name #46
+#, max-length:110
 msgid "data/arena/faction-team-cup-1.json/rounds/7/name"
 msgstr ""
 
-#: data/arena/faction-team-cup-1.json rounds/7/objective #47
-#, max-length:1050
 #. [00841] data/arena/faction-team-cup-1.json rounds/7/objective #47
 #. DEFAULT
+#: data/arena/faction-team-cup-1.json rounds/7/objective #47
+#, max-length:1050
 msgid "data/arena/faction-team-cup-1.json/rounds/7/objective"
 msgstr ""
 
-#: data/arena/lily-cup.json core/name #4
-#, max-length:110
 #. [00842] data/arena/lily-cup.json core/name #4
 #. SOLO_CUSTOM
+#: data/arena/lily-cup.json core/name #4
+#, max-length:110
 msgid "data/arena/lily-cup.json/core/name"
 msgstr ""
 
-#: data/arena/lily-cup.json core/info #1
-#, max-length:290
 #. [00843] data/arena/lily-cup.json core/info #1
 #. SOLO_CUSTOM
+#: data/arena/lily-cup.json core/info #1
+#, max-length:290
 msgid "data/arena/lily-cup.json/core/info"
 msgstr ""
 
-#: data/arena/lily-cup.json core/creator #28
-#, max-length:40
 #. [00844] data/arena/lily-cup.json core/creator #28
 #. SOLO_CUSTOM
+#: data/arena/lily-cup.json core/creator #28
+#, max-length:40
 msgid "data/arena/lily-cup.json/core/creator"
 msgstr ""
 
-#: data/arena/lily-cup.json rounds/0/name #33
-#, max-length:90
 #. [00845] data/arena/lily-cup.json rounds/0/name #33
 #. DEFAULT
+#: data/arena/lily-cup.json rounds/0/name #33
+#, max-length:90
 msgid "data/arena/lily-cup.json/rounds/0/name"
 msgstr ""
 
-#: data/arena/lily-cup.json rounds/0/objective #34
-#, max-length:400
 #. [00846] data/arena/lily-cup.json rounds/0/objective #34
 #. DEFAULT
+#: data/arena/lily-cup.json rounds/0/objective #34
+#, max-length:400
 msgid "data/arena/lily-cup.json/rounds/0/objective"
 msgstr ""
 
-#: data/arena/parkour-rookie-cup.json core/name #1
-#, max-length:140
 #. [00847] data/arena/parkour-rookie-cup.json core/name #1
 #. SOLO_CUP
+#: data/arena/parkour-rookie-cup.json core/name #1
+#, max-length:140
 msgid "data/arena/parkour-rookie-cup.json/core/name"
 msgstr ""
 
-#: data/arena/parkour-rookie-cup.json core/info #2
-#, max-length:500
 #. [00848] data/arena/parkour-rookie-cup.json core/info #2
 #. SOLO_CUP
+#: data/arena/parkour-rookie-cup.json core/info #2
+#, max-length:500
 msgid "data/arena/parkour-rookie-cup.json/core/info"
 msgstr ""
 
-#: data/arena/parkour-rookie-cup.json core/creator #8
-#, max-length:70
 #. [00849] data/arena/parkour-rookie-cup.json core/creator #8
 #. SOLO_CUP
+#: data/arena/parkour-rookie-cup.json core/creator #8
+#, max-length:70
 msgid "data/arena/parkour-rookie-cup.json/core/creator"
 msgstr ""
 
+#. [00850] data/arena/parkour-rookie-cup.json rounds/0/name #7
 #: data/arena/parkour-rookie-cup.json rounds/0/name #7
 #, max-length:200
-#. [00850] data/arena/parkour-rookie-cup.json rounds/0/name #7
 msgid "data/arena/parkour-rookie-cup.json/rounds/0/name"
 msgstr ""
 
+#. [00851] data/arena/parkour-rookie-cup.json rounds/0/objective #9
 #: data/arena/parkour-rookie-cup.json rounds/0/objective #9
 #, max-length:180
-#. [00851] data/arena/parkour-rookie-cup.json rounds/0/objective #9
 msgid "data/arena/parkour-rookie-cup.json/rounds/0/objective"
 msgstr ""
 
+#. [00852] data/arena/parkour-rookie-cup.json rounds/0/description #10
 #: data/arena/parkour-rookie-cup.json rounds/0/description #10
 #, max-length:370
-#. [00852] data/arena/parkour-rookie-cup.json rounds/0/description #10
 msgid "data/arena/parkour-rookie-cup.json/rounds/0/description"
 msgstr ""
 
-#: data/arena/rookie-cup.json core/name #4
-#, max-length:100
 #. [00853] data/arena/rookie-cup.json core/name #4
 #. SOLO_CUP
+#: data/arena/rookie-cup.json core/name #4
+#, max-length:100
 msgid "data/arena/rookie-cup.json/core/name"
 msgstr ""
 
-#: data/arena/rookie-cup.json core/info #1
-#, max-length:570
 #. [00854] data/arena/rookie-cup.json core/info #1
 #. SOLO_CUP
+#: data/arena/rookie-cup.json core/info #1
+#, max-length:570
 msgid "data/arena/rookie-cup.json/core/info"
 msgstr ""
 
-#: data/arena/rookie-cup.json core/creator #47
-#, max-length:40
 #. [00855] data/arena/rookie-cup.json core/creator #47
 #. SOLO_CUP
+#: data/arena/rookie-cup.json core/creator #47
+#, max-length:40
 msgid "data/arena/rookie-cup.json/core/creator"
 msgstr ""
 
-#: data/arena/rookie-cup.json rounds/0/name #5
-#, max-length:190
 #. [00856] data/arena/rookie-cup.json rounds/0/name #5
 #. DEFAULT
+#: data/arena/rookie-cup.json rounds/0/name #5
+#, max-length:190
 msgid "data/arena/rookie-cup.json/rounds/0/name"
 msgstr ""
 
-#: data/arena/rookie-cup.json rounds/0/objective #21
-#, max-length:640
 #. [00857] data/arena/rookie-cup.json rounds/0/objective #21
 #. DEFAULT
+#: data/arena/rookie-cup.json rounds/0/objective #21
+#, max-length:640
 msgid "data/arena/rookie-cup.json/rounds/0/objective"
 msgstr ""
 
-#: data/arena/rookie-cup.json rounds/1/name #22
-#, max-length:210
 #. [00858] data/arena/rookie-cup.json rounds/1/name #22
 #. DEFAULT
+#: data/arena/rookie-cup.json rounds/1/name #22
+#, max-length:210
 msgid "data/arena/rookie-cup.json/rounds/1/name"
 msgstr ""
 
-#: data/arena/rookie-cup.json rounds/1/objective #23
-#, max-length:730
 #. [00859] data/arena/rookie-cup.json rounds/1/objective #23
 #. DEFAULT
+#: data/arena/rookie-cup.json rounds/1/objective #23
+#, max-length:730
 msgid "data/arena/rookie-cup.json/rounds/1/objective"
 msgstr ""
 
-#: data/arena/rookie-cup.json rounds/2/name #3
-#, max-length:150
 #. [00860] data/arena/rookie-cup.json rounds/2/name #3
 #. DEFAULT
+#: data/arena/rookie-cup.json rounds/2/name #3
+#, max-length:150
 msgid "data/arena/rookie-cup.json/rounds/2/name"
 msgstr ""
 
-#: data/arena/rookie-cup.json rounds/2/objective #16
-#, max-length:660
 #. [00861] data/arena/rookie-cup.json rounds/2/objective #16
 #. DEFAULT
+#: data/arena/rookie-cup.json rounds/2/objective #16
+#, max-length:660
 msgid "data/arena/rookie-cup.json/rounds/2/objective"
 msgstr ""
 
-#: data/arena/rookie-cup.json rounds/2/featuring/0 #7
-#, max-length:140
 #. [00862] data/arena/rookie-cup.json rounds/2/featuring/0 #7
 #. DEFAULT
+#: data/arena/rookie-cup.json rounds/2/featuring/0 #7
+#, max-length:140
 msgid "data/arena/rookie-cup.json/rounds/2/featuring/0"
 msgstr ""
 
-#: data/arena/rookie-cup.json rounds/3/name #29
-#, max-length:180
 #. [00863] data/arena/rookie-cup.json rounds/3/name #29
 #. DEFAULT
+#: data/arena/rookie-cup.json rounds/3/name #29
+#, max-length:180
 msgid "data/arena/rookie-cup.json/rounds/3/name"
 msgstr ""
 
-#: data/arena/rookie-cup.json rounds/3/objective #30
-#, max-length:750
 #. [00864] data/arena/rookie-cup.json rounds/3/objective #30
 #. DEFAULT
+#: data/arena/rookie-cup.json rounds/3/objective #30
+#, max-length:750
 msgid "data/arena/rookie-cup.json/rounds/3/objective"
 msgstr ""
 
-#: data/arena/rookie-cup.json rounds/3/featuring/0 #31
-#, max-length:140
 #. [00865] data/arena/rookie-cup.json rounds/3/featuring/0 #31
 #. DEFAULT
+#: data/arena/rookie-cup.json rounds/3/featuring/0 #31
+#, max-length:140
 msgid "data/arena/rookie-cup.json/rounds/3/featuring/0"
 msgstr ""
 
-#: data/arena/rookie-cup.json rounds/4/name #32
-#, max-length:130
 #. [00866] data/arena/rookie-cup.json rounds/4/name #32
 #. DEFAULT
+#: data/arena/rookie-cup.json rounds/4/name #32
+#, max-length:130
 msgid "data/arena/rookie-cup.json/rounds/4/name"
 msgstr ""
 
-#: data/arena/rookie-cup.json rounds/4/objective #33
-#, max-length:620
 #. [00867] data/arena/rookie-cup.json rounds/4/objective #33
 #. DEFAULT
+#: data/arena/rookie-cup.json rounds/4/objective #33
+#, max-length:620
 msgid "data/arena/rookie-cup.json/rounds/4/objective"
 msgstr ""
 
-#: data/arena/rookie-cup.json rounds/4/featuring/0 #34
-#, max-length:140
 #. [00868] data/arena/rookie-cup.json rounds/4/featuring/0 #34
 #. DEFAULT
+#: data/arena/rookie-cup.json rounds/4/featuring/0 #34
+#, max-length:140
 msgid "data/arena/rookie-cup.json/rounds/4/featuring/0"
 msgstr ""
 
-#: data/arena/rookie-cup.json rounds/5/name #35
-#, max-length:130
 #. [00869] data/arena/rookie-cup.json rounds/5/name #35
 #. DEFAULT
+#: data/arena/rookie-cup.json rounds/5/name #35
+#, max-length:130
 msgid "data/arena/rookie-cup.json/rounds/5/name"
 msgstr ""
 
-#: data/arena/rookie-cup.json rounds/5/objective #36
-#, max-length:640
 #. [00870] data/arena/rookie-cup.json rounds/5/objective #36
 #. DEFAULT
+#: data/arena/rookie-cup.json rounds/5/objective #36
+#, max-length:640
 msgid "data/arena/rookie-cup.json/rounds/5/objective"
 msgstr ""
 
-#: data/arena/rookie-cup.json rounds/5/featuring/0 #37
-#, max-length:140
 #. [00871] data/arena/rookie-cup.json rounds/5/featuring/0 #37
 #. DEFAULT
+#: data/arena/rookie-cup.json rounds/5/featuring/0 #37
+#, max-length:140
 msgid "data/arena/rookie-cup.json/rounds/5/featuring/0"
 msgstr ""
 
-#: data/arena/rookie-cup.json rounds/6/name #38
-#, max-length:110
 #. [00872] data/arena/rookie-cup.json rounds/6/name #38
 #. DEFAULT
+#: data/arena/rookie-cup.json rounds/6/name #38
+#, max-length:110
 msgid "data/arena/rookie-cup.json/rounds/6/name"
 msgstr ""
 
-#: data/arena/rookie-cup.json rounds/6/objective #39
-#, max-length:590
 #. [00873] data/arena/rookie-cup.json rounds/6/objective #39
 #. DEFAULT
+#: data/arena/rookie-cup.json rounds/6/objective #39
+#, max-length:590
 msgid "data/arena/rookie-cup.json/rounds/6/objective"
 msgstr ""
 
-#: data/arena/rookie-cup.json rounds/6/featuring/0 #40
-#, max-length:140
 #. [00874] data/arena/rookie-cup.json rounds/6/featuring/0 #40
 #. DEFAULT
+#: data/arena/rookie-cup.json rounds/6/featuring/0 #40
+#, max-length:140
 msgid "data/arena/rookie-cup.json/rounds/6/featuring/0"
 msgstr ""
 
-#: data/arena/rookie-cup.json rounds/7/name #41
-#, max-length:130
 #. [00875] data/arena/rookie-cup.json rounds/7/name #41
 #. DEFAULT
+#: data/arena/rookie-cup.json rounds/7/name #41
+#, max-length:130
 msgid "data/arena/rookie-cup.json/rounds/7/name"
 msgstr ""
 
-#: data/arena/rookie-cup.json rounds/7/objective #42
-#, max-length:640
 #. [00876] data/arena/rookie-cup.json rounds/7/objective #42
 #. DEFAULT
+#: data/arena/rookie-cup.json rounds/7/objective #42
+#, max-length:640
 msgid "data/arena/rookie-cup.json/rounds/7/objective"
 msgstr ""
 
-#: data/arena/rookie-cup.json rounds/7/featuring/0 #43
-#, max-length:140
 #. [00877] data/arena/rookie-cup.json rounds/7/featuring/0 #43
 #. DEFAULT
+#: data/arena/rookie-cup.json rounds/7/featuring/0 #43
+#, max-length:140
 msgid "data/arena/rookie-cup.json/rounds/7/featuring/0"
 msgstr ""
 
-#: data/arena/rookie-cup.json rounds/8/name #44
-#, max-length:120
 #. [00878] data/arena/rookie-cup.json rounds/8/name #44
 #. DEFAULT
+#: data/arena/rookie-cup.json rounds/8/name #44
+#, max-length:120
 msgid "data/arena/rookie-cup.json/rounds/8/name"
 msgstr ""
 
-#: data/arena/rookie-cup.json rounds/8/objective #45
-#, max-length:590
 #. [00879] data/arena/rookie-cup.json rounds/8/objective #45
 #. DEFAULT
+#: data/arena/rookie-cup.json rounds/8/objective #45
+#, max-length:590
 msgid "data/arena/rookie-cup.json/rounds/8/objective"
 msgstr ""
 
-#: data/arena/rookie-cup.json rounds/8/featuring/0 #46
-#, max-length:140
 #. [00880] data/arena/rookie-cup.json rounds/8/featuring/0 #46
 #. DEFAULT
+#: data/arena/rookie-cup.json rounds/8/featuring/0 #46
+#, max-length:140
 msgid "data/arena/rookie-cup.json/rounds/8/featuring/0"
 msgstr ""
 
-#: data/arena/rookie-team-cup.json core/name #4
-#, max-length:150
 #. [00881] data/arena/rookie-team-cup.json core/name #4
 #. TEAM_CUP
+#: data/arena/rookie-team-cup.json core/name #4
+#, max-length:150
 msgid "data/arena/rookie-team-cup.json/core/name"
 msgstr ""
 
-#: data/arena/rookie-team-cup.json core/info #1
-#, max-length:620
 #. [00882] data/arena/rookie-team-cup.json core/info #1
 #. TEAM_CUP
+#: data/arena/rookie-team-cup.json core/info #1
+#, max-length:620
 msgid "data/arena/rookie-team-cup.json/core/info"
 msgstr ""
 
-#: data/arena/rookie-team-cup.json core/creator #47
-#, max-length:40
 #. [00883] data/arena/rookie-team-cup.json core/creator #47
 #. TEAM_CUP
+#: data/arena/rookie-team-cup.json core/creator #47
+#, max-length:40
 msgid "data/arena/rookie-team-cup.json/core/creator"
 msgstr ""
 
-#: data/arena/rookie-team-cup.json rounds/0/name #5
-#, max-length:190
 #. [00884] data/arena/rookie-team-cup.json rounds/0/name #5
 #. DEFAULT
+#: data/arena/rookie-team-cup.json rounds/0/name #5
+#, max-length:190
 msgid "data/arena/rookie-team-cup.json/rounds/0/name"
 msgstr ""
 
-#: data/arena/rookie-team-cup.json rounds/0/objective #21
-#, max-length:640
 #. [00885] data/arena/rookie-team-cup.json rounds/0/objective #21
 #. DEFAULT
+#: data/arena/rookie-team-cup.json rounds/0/objective #21
+#, max-length:640
 msgid "data/arena/rookie-team-cup.json/rounds/0/objective"
 msgstr ""
 
-#: data/arena/rookie-team-cup.json rounds/1/name #22
-#, max-length:210
 #. [00886] data/arena/rookie-team-cup.json rounds/1/name #22
 #. DEFAULT
+#: data/arena/rookie-team-cup.json rounds/1/name #22
+#, max-length:210
 msgid "data/arena/rookie-team-cup.json/rounds/1/name"
 msgstr ""
 
-#: data/arena/rookie-team-cup.json rounds/1/objective #23
-#, max-length:730
 #. [00887] data/arena/rookie-team-cup.json rounds/1/objective #23
 #. DEFAULT
+#: data/arena/rookie-team-cup.json rounds/1/objective #23
+#, max-length:730
 msgid "data/arena/rookie-team-cup.json/rounds/1/objective"
 msgstr ""
 
-#: data/arena/rookie-team-cup.json rounds/2/name #3
-#, max-length:150
 #. [00888] data/arena/rookie-team-cup.json rounds/2/name #3
 #. DEFAULT
+#: data/arena/rookie-team-cup.json rounds/2/name #3
+#, max-length:150
 msgid "data/arena/rookie-team-cup.json/rounds/2/name"
 msgstr ""
 
-#: data/arena/rookie-team-cup.json rounds/2/objective #16
-#, max-length:660
 #. [00889] data/arena/rookie-team-cup.json rounds/2/objective #16
 #. DEFAULT
+#: data/arena/rookie-team-cup.json rounds/2/objective #16
+#, max-length:660
 msgid "data/arena/rookie-team-cup.json/rounds/2/objective"
 msgstr ""
 
-#: data/arena/rookie-team-cup.json rounds/2/featuring/0 #7
-#, max-length:140
 #. [00890] data/arena/rookie-team-cup.json rounds/2/featuring/0 #7
 #. DEFAULT
+#: data/arena/rookie-team-cup.json rounds/2/featuring/0 #7
+#, max-length:140
 msgid "data/arena/rookie-team-cup.json/rounds/2/featuring/0"
 msgstr ""
 
-#: data/arena/rookie-team-cup.json rounds/3/name #29
-#, max-length:180
 #. [00891] data/arena/rookie-team-cup.json rounds/3/name #29
 #. DEFAULT
+#: data/arena/rookie-team-cup.json rounds/3/name #29
+#, max-length:180
 msgid "data/arena/rookie-team-cup.json/rounds/3/name"
 msgstr ""
 
-#: data/arena/rookie-team-cup.json rounds/3/objective #30
-#, max-length:750
 #. [00892] data/arena/rookie-team-cup.json rounds/3/objective #30
 #. DEFAULT
+#: data/arena/rookie-team-cup.json rounds/3/objective #30
+#, max-length:750
 msgid "data/arena/rookie-team-cup.json/rounds/3/objective"
 msgstr ""
 
-#: data/arena/rookie-team-cup.json rounds/3/featuring/0 #31
-#, max-length:140
 #. [00893] data/arena/rookie-team-cup.json rounds/3/featuring/0 #31
 #. DEFAULT
+#: data/arena/rookie-team-cup.json rounds/3/featuring/0 #31
+#, max-length:140
 msgid "data/arena/rookie-team-cup.json/rounds/3/featuring/0"
 msgstr ""
 
-#: data/arena/rookie-team-cup.json rounds/4/name #32
-#, max-length:130
 #. [00894] data/arena/rookie-team-cup.json rounds/4/name #32
 #. DEFAULT
+#: data/arena/rookie-team-cup.json rounds/4/name #32
+#, max-length:130
 msgid "data/arena/rookie-team-cup.json/rounds/4/name"
 msgstr ""
 
-#: data/arena/rookie-team-cup.json rounds/4/objective #33
-#, max-length:620
 #. [00895] data/arena/rookie-team-cup.json rounds/4/objective #33
 #. DEFAULT
+#: data/arena/rookie-team-cup.json rounds/4/objective #33
+#, max-length:620
 msgid "data/arena/rookie-team-cup.json/rounds/4/objective"
 msgstr ""
 
-#: data/arena/rookie-team-cup.json rounds/4/featuring/0 #34
-#, max-length:140
 #. [00896] data/arena/rookie-team-cup.json rounds/4/featuring/0 #34
 #. DEFAULT
+#: data/arena/rookie-team-cup.json rounds/4/featuring/0 #34
+#, max-length:140
 msgid "data/arena/rookie-team-cup.json/rounds/4/featuring/0"
 msgstr ""
 
-#: data/arena/rookie-team-cup.json rounds/5/name #35
-#, max-length:130
 #. [00897] data/arena/rookie-team-cup.json rounds/5/name #35
 #. DEFAULT
+#: data/arena/rookie-team-cup.json rounds/5/name #35
+#, max-length:130
 msgid "data/arena/rookie-team-cup.json/rounds/5/name"
 msgstr ""
 
-#: data/arena/rookie-team-cup.json rounds/5/objective #36
-#, max-length:640
 #. [00898] data/arena/rookie-team-cup.json rounds/5/objective #36
 #. DEFAULT
+#: data/arena/rookie-team-cup.json rounds/5/objective #36
+#, max-length:640
 msgid "data/arena/rookie-team-cup.json/rounds/5/objective"
 msgstr ""
 
-#: data/arena/rookie-team-cup.json rounds/5/featuring/0 #37
-#, max-length:140
 #. [00899] data/arena/rookie-team-cup.json rounds/5/featuring/0 #37
 #. DEFAULT
+#: data/arena/rookie-team-cup.json rounds/5/featuring/0 #37
+#, max-length:140
 msgid "data/arena/rookie-team-cup.json/rounds/5/featuring/0"
 msgstr ""
 
-#: data/arena/rookie-team-cup.json rounds/6/name #38
-#, max-length:110
 #. [00900] data/arena/rookie-team-cup.json rounds/6/name #38
 #. DEFAULT
+#: data/arena/rookie-team-cup.json rounds/6/name #38
+#, max-length:110
 msgid "data/arena/rookie-team-cup.json/rounds/6/name"
 msgstr ""
 
-#: data/arena/rookie-team-cup.json rounds/6/objective #39
-#, max-length:590
 #. [00901] data/arena/rookie-team-cup.json rounds/6/objective #39
 #. DEFAULT
+#: data/arena/rookie-team-cup.json rounds/6/objective #39
+#, max-length:590
 msgid "data/arena/rookie-team-cup.json/rounds/6/objective"
 msgstr ""
 
-#: data/arena/rookie-team-cup.json rounds/6/featuring/0 #40
-#, max-length:140
 #. [00902] data/arena/rookie-team-cup.json rounds/6/featuring/0 #40
 #. DEFAULT
+#: data/arena/rookie-team-cup.json rounds/6/featuring/0 #40
+#, max-length:140
 msgid "data/arena/rookie-team-cup.json/rounds/6/featuring/0"
 msgstr ""
 
-#: data/arena/rookie-team-cup.json rounds/7/name #41
-#, max-length:130
 #. [00903] data/arena/rookie-team-cup.json rounds/7/name #41
 #. DEFAULT
+#: data/arena/rookie-team-cup.json rounds/7/name #41
+#, max-length:130
 msgid "data/arena/rookie-team-cup.json/rounds/7/name"
 msgstr ""
 
-#: data/arena/rookie-team-cup.json rounds/7/objective #42
-#, max-length:640
 #. [00904] data/arena/rookie-team-cup.json rounds/7/objective #42
 #. DEFAULT
+#: data/arena/rookie-team-cup.json rounds/7/objective #42
+#, max-length:640
 msgid "data/arena/rookie-team-cup.json/rounds/7/objective"
 msgstr ""
 
-#: data/arena/rookie-team-cup.json rounds/7/featuring/0 #43
-#, max-length:140
 #. [00905] data/arena/rookie-team-cup.json rounds/7/featuring/0 #43
 #. DEFAULT
+#: data/arena/rookie-team-cup.json rounds/7/featuring/0 #43
+#, max-length:140
 msgid "data/arena/rookie-team-cup.json/rounds/7/featuring/0"
 msgstr ""
 
-#: data/arena/rookie-team-cup.json rounds/8/name #44
-#, max-length:120
 #. [00906] data/arena/rookie-team-cup.json rounds/8/name #44
 #. DEFAULT
+#: data/arena/rookie-team-cup.json rounds/8/name #44
+#, max-length:120
 msgid "data/arena/rookie-team-cup.json/rounds/8/name"
 msgstr ""
 
-#: data/arena/rookie-team-cup.json rounds/8/objective #45
-#, max-length:590
 #. [00907] data/arena/rookie-team-cup.json rounds/8/objective #45
 #. DEFAULT
+#: data/arena/rookie-team-cup.json rounds/8/objective #45
+#, max-length:590
 msgid "data/arena/rookie-team-cup.json/rounds/8/objective"
 msgstr ""
 
-#: data/arena/rookie-team-cup.json rounds/8/featuring/0 #46
-#, max-length:140
 #. [00908] data/arena/rookie-team-cup.json rounds/8/featuring/0 #46
 #. DEFAULT
+#: data/arena/rookie-team-cup.json rounds/8/featuring/0 #46
+#, max-length:140
 msgid "data/arena/rookie-team-cup.json/rounds/8/featuring/0"
 msgstr ""
 
-#: data/arena/seeker-cup-old.json core/name #4
-#, max-length:160
 #. [00909] data/arena/seeker-cup-old.json core/name #4
 #. SOLO_CUP
+#: data/arena/seeker-cup-old.json core/name #4
+#, max-length:160
 msgid "data/arena/seeker-cup-old.json/core/name"
 msgstr ""
 
-#: data/arena/seeker-cup-old.json core/info #1
-#, max-length:750
 #. [00910] data/arena/seeker-cup-old.json core/info #1
 #. SOLO_CUP
+#: data/arena/seeker-cup-old.json core/info #1
+#, max-length:750
 msgid "data/arena/seeker-cup-old.json/core/info"
 msgstr ""
 
-#: data/arena/seeker-cup-old.json rounds/0/name #22
-#, max-length:120
 #. [00911] data/arena/seeker-cup-old.json rounds/0/name #22
 #. DEFAULT
+#: data/arena/seeker-cup-old.json rounds/0/name #22
+#, max-length:120
 msgid "data/arena/seeker-cup-old.json/rounds/0/name"
 msgstr ""
 
-#: data/arena/seeker-cup-old.json rounds/0/objective #23
-#, max-length:610
 #. [00912] data/arena/seeker-cup-old.json rounds/0/objective #23
 #. DEFAULT
+#: data/arena/seeker-cup-old.json rounds/0/objective #23
+#, max-length:610
 msgid "data/arena/seeker-cup-old.json/rounds/0/objective"
 msgstr ""
 
-#: data/arena/seeker-cup-old.json rounds/1/name #5
-#, max-length:110
 #. [00913] data/arena/seeker-cup-old.json rounds/1/name #5
 #. DEFAULT
+#: data/arena/seeker-cup-old.json rounds/1/name #5
+#, max-length:110
 msgid "data/arena/seeker-cup-old.json/rounds/1/name"
 msgstr ""
 
-#: data/arena/seeker-cup-old.json rounds/1/objective #21
-#, max-length:610
 #. [00914] data/arena/seeker-cup-old.json rounds/1/objective #21
 #. DEFAULT
+#: data/arena/seeker-cup-old.json rounds/1/objective #21
+#, max-length:610
 msgid "data/arena/seeker-cup-old.json/rounds/1/objective"
 msgstr ""
 
-#: data/arena/seeker-cup-old.json rounds/2/name #24
-#, max-length:130
 #. [00915] data/arena/seeker-cup-old.json rounds/2/name #24
 #. DEFAULT
+#: data/arena/seeker-cup-old.json rounds/2/name #24
+#, max-length:130
 msgid "data/arena/seeker-cup-old.json/rounds/2/name"
 msgstr ""
 
-#: data/arena/seeker-cup-old.json rounds/2/objective #25
-#, max-length:620
 #. [00916] data/arena/seeker-cup-old.json rounds/2/objective #25
 #. DEFAULT
+#: data/arena/seeker-cup-old.json rounds/2/objective #25
+#, max-length:620
 msgid "data/arena/seeker-cup-old.json/rounds/2/objective"
 msgstr ""
 
-#: data/arena/seeker-cup-old.json rounds/3/name #26
-#, max-length:140
 #. [00917] data/arena/seeker-cup-old.json rounds/3/name #26
 #. DEFAULT
+#: data/arena/seeker-cup-old.json rounds/3/name #26
+#, max-length:140
 msgid "data/arena/seeker-cup-old.json/rounds/3/name"
 msgstr ""
 
-#: data/arena/seeker-cup-old.json rounds/3/objective #27
-#, max-length:610
 #. [00918] data/arena/seeker-cup-old.json rounds/3/objective #27
 #. DEFAULT
+#: data/arena/seeker-cup-old.json rounds/3/objective #27
+#, max-length:610
 msgid "data/arena/seeker-cup-old.json/rounds/3/objective"
 msgstr ""
 
-#: data/arena/seeker-cup.json core/name #4
-#, max-length:100
 #. [00919] data/arena/seeker-cup.json core/name #4
 #. SOLO_CUP
+#: data/arena/seeker-cup.json core/name #4
+#, max-length:100
 msgid "data/arena/seeker-cup.json/core/name"
 msgstr ""
 
-#: data/arena/seeker-cup.json core/info #1
-#, max-length:590
 #. [00920] data/arena/seeker-cup.json core/info #1
 #. SOLO_CUP
+#: data/arena/seeker-cup.json core/info #1
+#, max-length:590
 msgid "data/arena/seeker-cup.json/core/info"
 msgstr ""
 
-#: data/arena/seeker-cup.json core/creator #30
-#, max-length:40
 #. [00921] data/arena/seeker-cup.json core/creator #30
 #. SOLO_CUP
+#: data/arena/seeker-cup.json core/creator #30
+#, max-length:40
 msgid "data/arena/seeker-cup.json/core/creator"
 msgstr ""
 
-#: data/arena/seeker-cup.json rounds/0/name #22
-#, max-length:120
 #. [00922] data/arena/seeker-cup.json rounds/0/name #22
 #. DEFAULT
+#: data/arena/seeker-cup.json rounds/0/name #22
+#, max-length:120
 msgid "data/arena/seeker-cup.json/rounds/0/name"
 msgstr ""
 
-#: data/arena/seeker-cup.json rounds/0/objective #23
-#, max-length:610
 #. [00923] data/arena/seeker-cup.json rounds/0/objective #23
 #. DEFAULT
+#: data/arena/seeker-cup.json rounds/0/objective #23
+#, max-length:610
 msgid "data/arena/seeker-cup.json/rounds/0/objective"
 msgstr ""
 
-#: data/arena/seeker-cup.json rounds/1/name #28
-#, max-length:150
 #. [00924] data/arena/seeker-cup.json rounds/1/name #28
 #. DEFAULT
+#: data/arena/seeker-cup.json rounds/1/name #28
+#, max-length:150
 msgid "data/arena/seeker-cup.json/rounds/1/name"
 msgstr ""
 
-#: data/arena/seeker-cup.json rounds/1/objective #29
-#, max-length:1220
 #. [00925] data/arena/seeker-cup.json rounds/1/objective #29
 #. DEFAULT
+#: data/arena/seeker-cup.json rounds/1/objective #29
+#, max-length:1220
 msgid "data/arena/seeker-cup.json/rounds/1/objective"
 msgstr ""
 
-#: data/arena/seeker-cup.json rounds/2/name #5
-#, max-length:110
 #. [00926] data/arena/seeker-cup.json rounds/2/name #5
 #. DEFAULT
+#: data/arena/seeker-cup.json rounds/2/name #5
+#, max-length:110
 msgid "data/arena/seeker-cup.json/rounds/2/name"
 msgstr ""
 
-#: data/arena/seeker-cup.json rounds/2/objective #21
-#, max-length:610
 #. [00927] data/arena/seeker-cup.json rounds/2/objective #21
 #. DEFAULT
+#: data/arena/seeker-cup.json rounds/2/objective #21
+#, max-length:610
 msgid "data/arena/seeker-cup.json/rounds/2/objective"
 msgstr ""
 
-#: data/arena/seeker-cup.json rounds/3/name #31
-#, max-length:180
 #. [00928] data/arena/seeker-cup.json rounds/3/name #31
 #. DEFAULT
+#: data/arena/seeker-cup.json rounds/3/name #31
+#, max-length:180
 msgid "data/arena/seeker-cup.json/rounds/3/name"
 msgstr ""
 
-#: data/arena/seeker-cup.json rounds/3/objective #32
-#, max-length:1180
 #. [00929] data/arena/seeker-cup.json rounds/3/objective #32
 #. DEFAULT
+#: data/arena/seeker-cup.json rounds/3/objective #32
+#, max-length:1180
 msgid "data/arena/seeker-cup.json/rounds/3/objective"
 msgstr ""
 
-#: data/arena/seeker-cup.json rounds/4/name #24
-#, max-length:130
 #. [00930] data/arena/seeker-cup.json rounds/4/name #24
 #. DEFAULT
+#: data/arena/seeker-cup.json rounds/4/name #24
+#, max-length:130
 msgid "data/arena/seeker-cup.json/rounds/4/name"
 msgstr ""
 
-#: data/arena/seeker-cup.json rounds/4/objective #25
-#, max-length:620
 #. [00931] data/arena/seeker-cup.json rounds/4/objective #25
 #. DEFAULT
+#: data/arena/seeker-cup.json rounds/4/objective #25
+#, max-length:620
 msgid "data/arena/seeker-cup.json/rounds/4/objective"
 msgstr ""
 
-#: data/arena/seeker-cup.json rounds/5/name #33
-#, max-length:190
 #. [00932] data/arena/seeker-cup.json rounds/5/name #33
 #. DEFAULT
+#: data/arena/seeker-cup.json rounds/5/name #33
+#, max-length:190
 msgid "data/arena/seeker-cup.json/rounds/5/name"
 msgstr ""
 
-#: data/arena/seeker-cup.json rounds/5/objective #34
-#, max-length:1230
 #. [00933] data/arena/seeker-cup.json rounds/5/objective #34
 #. DEFAULT
+#: data/arena/seeker-cup.json rounds/5/objective #34
+#, max-length:1230
 msgid "data/arena/seeker-cup.json/rounds/5/objective"
 msgstr ""
 
-#: data/arena/seeker-cup.json rounds/6/name #26
-#, max-length:140
 #. [00934] data/arena/seeker-cup.json rounds/6/name #26
 #. DEFAULT
+#: data/arena/seeker-cup.json rounds/6/name #26
+#, max-length:140
 msgid "data/arena/seeker-cup.json/rounds/6/name"
 msgstr ""
 
-#: data/arena/seeker-cup.json rounds/6/objective #27
-#, max-length:610
 #. [00935] data/arena/seeker-cup.json rounds/6/objective #27
 #. DEFAULT
+#: data/arena/seeker-cup.json rounds/6/objective #27
+#, max-length:610
 msgid "data/arena/seeker-cup.json/rounds/6/objective"
 msgstr ""
 
-#: data/arena/seeker-cup.json rounds/7/name #35
-#, max-length:180
 #. [00936] data/arena/seeker-cup.json rounds/7/name #35
 #. DEFAULT
+#: data/arena/seeker-cup.json rounds/7/name #35
+#, max-length:180
 msgid "data/arena/seeker-cup.json/rounds/7/name"
 msgstr ""
 
-#: data/arena/seeker-cup.json rounds/7/objective #36
-#, max-length:1200
 #. [00937] data/arena/seeker-cup.json rounds/7/objective #36
 #. DEFAULT
+#: data/arena/seeker-cup.json rounds/7/objective #36
+#, max-length:1200
 msgid "data/arena/seeker-cup.json/rounds/7/objective"
 msgstr ""
 
-#: data/arena/test-cup.json core/name #4
-#, max-length:80
 #. [00938] data/arena/test-cup.json core/name #4
 #. SOLO_CUP
+#: data/arena/test-cup.json core/name #4
+#, max-length:80
 msgid "data/arena/test-cup.json/core/name"
 msgstr ""
 
-#: data/arena/test-cup.json core/info #1
-#, max-length:250
 #. [00939] data/arena/test-cup.json core/info #1
 #. SOLO_CUP
+#: data/arena/test-cup.json core/info #1
+#, max-length:250
 msgid "data/arena/test-cup.json/core/info"
 msgstr ""
 
-#: data/arena/test-cup.json rounds/0/name #5
-#, max-length:120
 #. [00940] data/arena/test-cup.json rounds/0/name #5
 #. DEFAULT
+#: data/arena/test-cup.json rounds/0/name #5
+#, max-length:120
 msgid "data/arena/test-cup.json/rounds/0/name"
 msgstr ""
 
-#: data/arena/test-cup.json rounds/0/objective #21
-#, max-length:640
 #. [00941] data/arena/test-cup.json rounds/0/objective #21
 #. DEFAULT
+#: data/arena/test-cup.json rounds/0/objective #21
+#, max-length:640
 msgid "data/arena/test-cup.json/rounds/0/objective"
 msgstr ""
 
-#: data/arena/test-cup.json rounds/1/name #22
-#, max-length:120
 #. [00942] data/arena/test-cup.json rounds/1/name #22
 #. DEFAULT
+#: data/arena/test-cup.json rounds/1/name #22
+#, max-length:120
 msgid "data/arena/test-cup.json/rounds/1/name"
 msgstr ""
 
-#: data/arena/test-cup.json rounds/1/objective #23
-#, max-length:640
 #. [00943] data/arena/test-cup.json rounds/1/objective #23
 #. DEFAULT
+#: data/arena/test-cup.json rounds/1/objective #23
+#, max-length:640
 msgid "data/arena/test-cup.json/rounds/1/objective"
 msgstr ""
 
-#: data/arena/test-cup.json rounds/2/name #24
-#, max-length:130
 #. [00944] data/arena/test-cup.json rounds/2/name #24
 #. DEFAULT
+#: data/arena/test-cup.json rounds/2/name #24
+#, max-length:130
 msgid "data/arena/test-cup.json/rounds/2/name"
 msgstr ""
 
-#: data/arena/test-cup.json rounds/2/objective #25
-#, max-length:640
 #. [00945] data/arena/test-cup.json rounds/2/objective #25
 #. DEFAULT
+#: data/arena/test-cup.json rounds/2/objective #25
+#, max-length:640
 msgid "data/arena/test-cup.json/rounds/2/objective"
 msgstr ""
 
-#: data/arena/test-cup.json rounds/3/name #26
-#, max-length:110
 #. [00946] data/arena/test-cup.json rounds/3/name #26
 #. DEFAULT
+#: data/arena/test-cup.json rounds/3/name #26
+#, max-length:110
 msgid "data/arena/test-cup.json/rounds/3/name"
 msgstr ""
 
-#: data/arena/test-cup.json rounds/3/objective #27
-#, max-length:640
 #. [00947] data/arena/test-cup.json rounds/3/objective #27
 #. DEFAULT
+#: data/arena/test-cup.json rounds/3/objective #27
+#, max-length:640
 msgid "data/arena/test-cup.json/rounds/3/objective"
 msgstr ""
 
-#: data/arena/test-cup.json rounds/4/name #38
-#, max-length:220
 #. [00948] data/arena/test-cup.json rounds/4/name #38
 #. DEFAULT
+#: data/arena/test-cup.json rounds/4/name #38
+#, max-length:220
 msgid "data/arena/test-cup.json/rounds/4/name"
 msgstr ""
 
-#: data/arena/test-cup.json rounds/4/objective #39
-#, max-length:230
 #. [00949] data/arena/test-cup.json rounds/4/objective #39
 #. DEFAULT
+#: data/arena/test-cup.json rounds/4/objective #39
+#, max-length:230
 msgid "data/arena/test-cup.json/rounds/4/objective"
 msgstr ""
 
-#: data/arena/test-custom-cup.json core/name #4
-#, max-length:150
 #. [00950] data/arena/test-custom-cup.json core/name #4
 #. SOLO_CUSTOM
+#: data/arena/test-custom-cup.json core/name #4
+#, max-length:150
 msgid "data/arena/test-custom-cup.json/core/name"
 msgstr ""
 
-#: data/arena/test-custom-cup.json core/info #1
-#, max-length:250
 #. [00951] data/arena/test-custom-cup.json core/info #1
 #. SOLO_CUSTOM
+#: data/arena/test-custom-cup.json core/info #1
+#, max-length:250
 msgid "data/arena/test-custom-cup.json/core/info"
 msgstr ""
 
-#: data/arena/test-custom-cup.json core/creator #28
-#, max-length:190
 #. [00952] data/arena/test-custom-cup.json core/creator #28
 #. SOLO_CUSTOM
+#: data/arena/test-custom-cup.json core/creator #28
+#, max-length:190
 msgid "data/arena/test-custom-cup.json/core/creator"
 msgstr ""
 
-#: data/arena/test-custom-cup.json rounds/0/name #5
-#, max-length:120
 #. [00953] data/arena/test-custom-cup.json rounds/0/name #5
 #. DEFAULT
+#: data/arena/test-custom-cup.json rounds/0/name #5
+#, max-length:120
 msgid "data/arena/test-custom-cup.json/rounds/0/name"
 msgstr ""
 
-#: data/arena/test-custom-cup.json rounds/0/objective #21
-#, max-length:640
 #. [00954] data/arena/test-custom-cup.json rounds/0/objective #21
 #. DEFAULT
+#: data/arena/test-custom-cup.json rounds/0/objective #21
+#, max-length:640
 msgid "data/arena/test-custom-cup.json/rounds/0/objective"
 msgstr ""
 
-#: data/arena/test-custom-cup.json rounds/1/name #22
-#, max-length:120
 #. [00955] data/arena/test-custom-cup.json rounds/1/name #22
 #. DEFAULT
+#: data/arena/test-custom-cup.json rounds/1/name #22
+#, max-length:120
 msgid "data/arena/test-custom-cup.json/rounds/1/name"
 msgstr ""
 
-#: data/arena/test-custom-cup.json rounds/1/objective #23
-#, max-length:640
 #. [00956] data/arena/test-custom-cup.json rounds/1/objective #23
 #. DEFAULT
+#: data/arena/test-custom-cup.json rounds/1/objective #23
+#, max-length:640
 msgid "data/arena/test-custom-cup.json/rounds/1/objective"
 msgstr ""
 
-#: data/arena/test-custom-cup.json rounds/2/name #24
-#, max-length:130
 #. [00957] data/arena/test-custom-cup.json rounds/2/name #24
 #. DEFAULT
+#: data/arena/test-custom-cup.json rounds/2/name #24
+#, max-length:130
 msgid "data/arena/test-custom-cup.json/rounds/2/name"
 msgstr ""
 
-#: data/arena/test-custom-cup.json rounds/2/objective #25
-#, max-length:640
 #. [00958] data/arena/test-custom-cup.json rounds/2/objective #25
 #. DEFAULT
+#: data/arena/test-custom-cup.json rounds/2/objective #25
+#, max-length:640
 msgid "data/arena/test-custom-cup.json/rounds/2/objective"
 msgstr ""
 
-#: data/arena/test-custom-cup.json rounds/3/name #26
-#, max-length:110
 #. [00959] data/arena/test-custom-cup.json rounds/3/name #26
 #. DEFAULT
+#: data/arena/test-custom-cup.json rounds/3/name #26
+#, max-length:110
 msgid "data/arena/test-custom-cup.json/rounds/3/name"
 msgstr ""
 
-#: data/arena/test-custom-cup.json rounds/3/objective #27
-#, max-length:640
 #. [00960] data/arena/test-custom-cup.json rounds/3/objective #27
 #. DEFAULT
+#: data/arena/test-custom-cup.json rounds/3/objective #27
+#, max-length:640
 msgid "data/arena/test-custom-cup.json/rounds/3/objective"
 msgstr ""
 
-#: data/arena/test-team-cup.json core/name #4
-#, max-length:130
 #. [00961] data/arena/test-team-cup.json core/name #4
 #. TEAM_CUP
+#: data/arena/test-team-cup.json core/name #4
+#, max-length:130
 msgid "data/arena/test-team-cup.json/core/name"
 msgstr ""
 
-#: data/arena/test-team-cup.json core/info #1
-#, max-length:250
 #. [00962] data/arena/test-team-cup.json core/info #1
 #. TEAM_CUP
+#: data/arena/test-team-cup.json core/info #1
+#, max-length:250
 msgid "data/arena/test-team-cup.json/core/info"
 msgstr ""
 
-#: data/arena/test-team-cup.json rounds/0/name #5
-#, max-length:120
 #. [00963] data/arena/test-team-cup.json rounds/0/name #5
 #. DEFAULT
+#: data/arena/test-team-cup.json rounds/0/name #5
+#, max-length:120
 msgid "data/arena/test-team-cup.json/rounds/0/name"
 msgstr ""
 
-#: data/arena/test-team-cup.json rounds/0/objective #21
-#, max-length:640
 #. [00964] data/arena/test-team-cup.json rounds/0/objective #21
 #. DEFAULT
+#: data/arena/test-team-cup.json rounds/0/objective #21
+#, max-length:640
 msgid "data/arena/test-team-cup.json/rounds/0/objective"
 msgstr ""
 
-#: data/arena/test-team-cup.json rounds/1/name #22
-#, max-length:120
 #. [00965] data/arena/test-team-cup.json rounds/1/name #22
 #. DEFAULT
+#: data/arena/test-team-cup.json rounds/1/name #22
+#, max-length:120
 msgid "data/arena/test-team-cup.json/rounds/1/name"
 msgstr ""
 
-#: data/arena/test-team-cup.json rounds/1/objective #23
-#, max-length:640
 #. [00966] data/arena/test-team-cup.json rounds/1/objective #23
 #. DEFAULT
+#: data/arena/test-team-cup.json rounds/1/objective #23
+#, max-length:640
 msgid "data/arena/test-team-cup.json/rounds/1/objective"
 msgstr ""
 
-#: data/arena/test-team-cup.json rounds/2/name #24
-#, max-length:130
 #. [00967] data/arena/test-team-cup.json rounds/2/name #24
 #. DEFAULT
+#: data/arena/test-team-cup.json rounds/2/name #24
+#, max-length:130
 msgid "data/arena/test-team-cup.json/rounds/2/name"
 msgstr ""
 
-#: data/arena/test-team-cup.json rounds/2/objective #25
-#, max-length:640
 #. [00968] data/arena/test-team-cup.json rounds/2/objective #25
 #. DEFAULT
+#: data/arena/test-team-cup.json rounds/2/objective #25
+#, max-length:640
 msgid "data/arena/test-team-cup.json/rounds/2/objective"
 msgstr ""
 
-#: data/arena/test-team-cup.json rounds/3/name #26
-#, max-length:110
 #. [00969] data/arena/test-team-cup.json rounds/3/name #26
 #. DEFAULT
+#: data/arena/test-team-cup.json rounds/3/name #26
+#, max-length:110
 msgid "data/arena/test-team-cup.json/rounds/3/name"
 msgstr ""
 
-#: data/arena/test-team-cup.json rounds/3/objective #27
-#, max-length:640
 #. [00970] data/arena/test-team-cup.json rounds/3/objective #27
 #. DEFAULT
+#: data/arena/test-team-cup.json rounds/3/objective #27
+#, max-length:640
 msgid "data/arena/test-team-cup.json/rounds/3/objective"
 msgstr ""
 
-#: data/maps/arena/boss/cold-midboss.json entities/5/settings/event/8/action/0/text #1
-#, max-length:150
 #. [10652] data/maps/arena/boss/cold-midboss.json entities/5/settings/event/8/action/0/text #1
 #. EventTrigger BattleStart START IF true
 #. DO_ACTION
 #. SHOW_AR_MSG
+#: data/maps/arena/boss/cold-midboss.json entities/5/settings/event/8/action/0/text #1
+#, max-length:150
 msgid "data/maps/arena/boss/cold-midboss.json/entities/5/settings/event/8/action/0/text"
 msgstr ""
 
-#: data/maps/arena/boss/shock-boss.json entities/13/settings/teleportLabel #2
-#, max-length:160
 #. [10653] data/maps/arena/boss/shock-boss.json entities/13/settings/teleportLabel #2
 #. TeleportField entrance
+#: data/maps/arena/boss/shock-boss.json entities/13/settings/teleportLabel #2
+#, max-length:160
 msgid "data/maps/arena/boss/shock-boss.json/entities/13/settings/teleportLabel"
 msgstr ""
 
-#: data/maps/arena/boss/shock-boss.json entities/42/settings/teleportLabel #1
-#, max-length:140
 #. [10654] data/maps/arena/boss/shock-boss.json entities/42/settings/teleportLabel #1
 #. TeleportField exit SPAWN IF map.exitThere
+#: data/maps/arena/boss/shock-boss.json entities/42/settings/teleportLabel #1
+#, max-length:140
 msgid "data/maps/arena/boss/shock-boss.json/entities/42/settings/teleportLabel"
 msgstr ""
 
-#: data/maps/arena/boss/turret-boss.json entities/18/settings/event/0/message #9
-#, max-length:110
 #. [10655] data/maps/arena/boss/turret-boss.json entities/18/settings/event/0/message #9
 #. EventTrigger noGoingBack START IF map.wall1
 #. main.sergey @JOKING
+#: data/maps/arena/boss/turret-boss.json entities/18/settings/event/0/message #9
+#, max-length:110
 msgid "data/maps/arena/boss/turret-boss.json/entities/18/settings/event/0/message"
 msgstr "Ahí vienen..."
 
-#: data/maps/arena/boss/turret-boss.json entities/18/settings/event/1/message #10
-#, max-length:40
 #. [10656] data/maps/arena/boss/turret-boss.json entities/18/settings/event/1/message #10
 #. EventTrigger noGoingBack START IF map.wall1
 #. main.lea @MOPING
+#: data/maps/arena/boss/turret-boss.json entities/18/settings/event/1/message #10
+#, max-length:40
 msgid "data/maps/arena/boss/turret-boss.json/entities/18/settings/event/1/message"
 msgstr "¿...?"
 
-#: data/maps/arena/boss/wave-boss.json entities/179/settings/teleportLabel #1
-#, max-length:140
 #. [10657] data/maps/arena/boss/wave-boss.json entities/179/settings/teleportLabel #1
 #. TeleportField exit SPAWN IF map.exitThere
+#: data/maps/arena/boss/wave-boss.json entities/179/settings/teleportLabel #1
+#, max-length:140
 msgid "data/maps/arena/boss/wave-boss.json/entities/179/settings/teleportLabel"
 msgstr ""
 
-#: data/maps/arena/faction/autumn-meerkat-1.json entities/6/settings/event/13/text #1
-#, max-length:220
 #. [10658] data/maps/arena/faction/autumn-meerkat-1.json entities/6/settings/event/13/text #1
 #. EventTrigger battle-starter
 #. SHOW_AR_MSG
+#: data/maps/arena/faction/autumn-meerkat-1.json entities/6/settings/event/13/text #1
+#, max-length:220
 msgid "data/maps/arena/faction/autumn-meerkat-1.json/entities/6/settings/event/13/text"
 msgstr ""
 
-#: data/maps/arena/faction/baki-bots-1.json entities/32/settings/interact/hoverText #1
-#, max-length:590
 #. [10659] data/maps/arena/faction/baki-bots-1.json entities/32/settings/interact/hoverText #1
 #. Prop
+#: data/maps/arena/faction/baki-bots-1.json entities/32/settings/interact/hoverText #1
+#, max-length:590
 msgid "data/maps/arena/faction/baki-bots-1.json/entities/32/settings/interact/hoverText"
 msgstr ""
 
-#: data/maps/arena/faction/baki-bots-1.json entities/32/settings/interact/title #2
-#, max-length:240
 #. [10660] data/maps/arena/faction/baki-bots-1.json entities/32/settings/interact/title #2
 #. Prop
+#: data/maps/arena/faction/baki-bots-1.json entities/32/settings/interact/title #2
+#, max-length:240
 msgid "data/maps/arena/faction/baki-bots-1.json/entities/32/settings/interact/title"
 msgstr ""
 
-#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/analyzable/text #575
-#, max-length:50
 #. [10661] data/maps/arena/faction/baki-bots-1.json entities/330/settings/analyzable/text #575
 #. NPC quest-thief1
+#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/analyzable/text #575
+#, max-length:50
 msgid "data/maps/arena/faction/baki-bots-1.json/entities/330/settings/analyzable/text"
 msgstr ""
 
-#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/1/name #618
-#, max-length:50
 #. [10662] data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/1/name #618
 #. NPC quest-thief1
 #. IF quest.bakiGuard-1-basar_thief_1.task.3
 #. baki.thief-man-dude @DEFAULT
+#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/1/name #618
+#, max-length:50
 msgid "data/maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/1/name"
 msgstr ""
 
-#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/5/message #577
-#, max-length:400
 #. [10663] data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/5/message #577
 #. NPC quest-thief1
 #. IF quest.bakiGuard-1-basar_thief_1.task.3
 #. baki.thief-man-dude @DEFAULT
+#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/5/message #577
+#, max-length:400
 msgid "data/maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/5/message"
 msgstr "¿Algún problema?\\. Sólo estoy por aquí sentado."
 
-#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/6/message #579
-#, max-length:30
 #. [10664] data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/6/message #579
 #. NPC quest-thief1
 #. IF quest.bakiGuard-1-basar_thief_1.task.3
 #. main.lea @DETERMINED
+#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/6/message #579
+#, max-length:30
 msgid "data/maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/6/message"
 msgstr "¡Hola!"
 
-#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/7/message #580
-#, max-length:780
 #. [10665] data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/7/message #580
 #. NPC quest-thief1
 #. IF quest.bakiGuard-1-basar_thief_1.task.3
 #. baki.thief-man-dude @DEFAULT
+#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/7/message #580
+#, max-length:780
 msgid "data/maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/7/message"
 msgstr "¿C-Crímenes en el bazaar?\\. ¿De qué estás hablando?\\. ¡No sé nada!"
 
-#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/8/message #581
-#, max-length:30
 #. [10666] data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/8/message #581
 #. NPC quest-thief1
 #. IF quest.bakiGuard-1-basar_thief_1.task.3
 #. main.lea @ANNOYED
+#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/8/message #581
+#, max-length:30
 msgid "data/maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/8/message"
 msgstr "..."
 
-#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/9/message #582
-#, max-length:580
 #. [10667] data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/9/message #582
 #. NPC quest-thief1
 #. IF quest.bakiGuard-1-basar_thief_1.task.3
 #. baki.thief-man-dude @DEFAULT
+#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/9/message #582
+#, max-length:580
 msgid "data/maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/9/message"
 msgstr "¿Así que eras tú en el comunicador?\\. Demonios, ese Billston..."
 
-#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/10/message #583
-#, max-length:680
 #. [10668] data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/10/message #583
 #. NPC quest-thief1
 #. IF quest.bakiGuard-1-basar_thief_1.task.3
 #. baki.thief-man-dude @DEFAULT
+#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/10/message #583
+#, max-length:680
 msgid "data/maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/10/message"
 msgstr "Creí que alguien tan despiadado como el al menos tendría algo de cuidado."
 
-#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/11/message #584
-#, max-length:30
 #. [10669] data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/11/message #584
 #. NPC quest-thief1
 #. IF quest.bakiGuard-1-basar_thief_1.task.3
 #. main.lea @WHISTLING
+#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/11/message #584
+#, max-length:30
 msgid "data/maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/11/message"
 msgstr "..."
 
-#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/12/message #585
-#, max-length:1000
 #. [10670] data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/12/message #585
 #. NPC quest-thief1
 #. IF quest.bakiGuard-1-basar_thief_1.task.3
 #. baki.thief-man-dude @DEFAULT
+#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/12/message #585
+#, max-length:1000
 msgid "data/maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/12/message"
 msgstr "¡El me metió en esto, lo juro!\\. ¡Me convenció con el dinero, me amenazó si me negaba y todo eso!"
 
-#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/13/message #586
-#, max-length:1230
 #. [10671] data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/13/message #586
 #. NPC quest-thief1
 #. IF quest.bakiGuard-1-basar_thief_1.task.3
 #. baki.thief-man-dude @DEFAULT
+#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/13/message #586
+#, max-length:1230
 msgid "data/maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/13/message"
 msgstr "\"A nadie le importará,\"\\. me dijo. \"¡Esos escamosos idiotas no saben como manejar el dinero de todos modos!\"\\. Parece que se equivocó."
 
-#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/17/message #587
-#, max-length:880
 #. [10672] data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/17/message #587
 #. NPC quest-thief1
 #. IF quest.bakiGuard-1-basar_thief_1.task.3
 #. baki.thief-man-dude @DEFAULT
+#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/17/message #587
+#, max-length:880
 msgid "data/maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/17/message"
 msgstr "Bueno, es momento de confesar, supongo.\\. Al menos puedo hacer caer a ese idiota conmigo."
 
-#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/18/message #588
-#, max-length:60
 #. [10673] data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/18/message #588
 #. NPC quest-thief1
 #. IF quest.bakiGuard-1-basar_thief_1.task.3
 #. main.lea @NOD
+#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/18/message #588
+#, max-length:60
 msgid "data/maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/18/message"
 msgstr "[asiente]"
 
-#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/37/name #619
-#, max-length:50
 #. [10674] data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/37/name #619
 #. NPC quest-thief1
 #. IF quest.bakiGuard-1-basar_thief_1.task.3
 #. baki.thief-man-dude @DEFAULT
+#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/37/name #619
+#, max-length:50
 msgid "data/maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/37/name"
 msgstr ""
 
-#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/38/name #620
-#, max-length:80
 #. [10675] data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/38/name #620
 #. NPC quest-thief1
 #. IF quest.bakiGuard-1-basar_thief_1.task.3
 #. guards.quest-male-mustache-white @DEFAULT
+#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/38/name #620
+#, max-length:80
 msgid "data/maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/38/name"
 msgstr ""
 
-#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/40/message #589
-#, max-length:490
 #. [10676] data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/40/message #589
 #. NPC quest-thief1
 #. IF quest.bakiGuard-1-basar_thief_1.task.3
 #. guards.quest-male-mustache-white @DEFAULT
+#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/40/message #589
+#, max-length:490
 msgid "data/maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/40/message"
 msgstr "Bien, bien, bien.\\. ¿Adónde podrían ir?"
 
-#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/41/message #590
-#, max-length:30
 #. [10677] data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/41/message #590
 #. NPC quest-thief1
 #. IF quest.bakiGuard-1-basar_thief_1.task.3
 #. main.lea @DETERMINED
+#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/41/message #590
+#, max-length:30
 msgid "data/maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/41/message"
 msgstr "¡Hola!"
 
-#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/42/message #591
-#, max-length:1170
 #. [10678] data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/42/message #591
 #. NPC quest-thief1
 #. IF quest.bakiGuard-1-basar_thief_1.task.3
 #. guards.quest-male-mustache-white @DEFAULT
+#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/42/message #591
+#, max-length:1170
 msgid "data/maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/42/message"
 msgstr "Sabía que algo andaba mal apenas me di cuenta de que mi comunicador no estaba.\\. Ustedes los \\v[lore.title.seeker]es son escurridizos, ¿no?"
 
-#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/44/message #592
-#, max-length:480
 #. [10679] data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/44/message #592
 #. NPC quest-thief1
 #. IF quest.bakiGuard-1-basar_thief_1.task.3
 #. baki.thief-man-dude @DEFAULT
+#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/44/message #592
+#, max-length:480
 msgid "data/maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/44/message"
 msgstr "¡Olvídalo!\\. ¡Metiste la pata!\\. ¡Se acabó!"
 
-#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/46/message #604
-#, max-length:240
 #. [10680] data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/46/message #604
 #. NPC quest-thief1
 #. IF quest.bakiGuard-1-basar_thief_1.task.3
 #. baki.thief-man-dude @DEFAULT
+#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/46/message #604
+#, max-length:240
 msgid "data/maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/46/message"
 msgstr "Se acabó,\\.\\. ¿n-\\.no...?"
 
-#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/47/message #593
-#, max-length:930
 #. [10681] data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/47/message #593
 #. NPC quest-thief1
 #. IF quest.bakiGuard-1-basar_thief_1.task.3
 #. guards.quest-male-mustache-white @DEFAULT
+#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/47/message #593
+#, max-length:930
 msgid "data/maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/47/message"
 msgstr "Oh, para tí si.\\. ¿Para mí?\\.\\. ¡Preparé algo especial para momentos como este!"
 
-#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/48/message #594
-#, max-length:50
 #. [10682] data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/48/message #594
 #. NPC quest-thief1
 #. IF quest.bakiGuard-1-basar_thief_1.task.3
 #. main.lea @SURPRISED
+#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/48/message #594
+#, max-length:50
 msgid "data/maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/48/message"
 msgstr "¿¡...!?"
 
-#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/90/name #621
-#, max-length:50
 #. [10683] data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/90/name #621
 #. NPC quest-thief1
 #. IF quest.bakiGuard-1-basar_thief_1.task.3
 #. baki.thief-man-dude @DEFAULT
+#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/90/name #621
+#, max-length:50
 msgid "data/maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/90/name"
 msgstr ""
 
-#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/91/name #622
-#, max-length:80
 #. [10684] data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/91/name #622
 #. NPC quest-thief1
 #. IF quest.bakiGuard-1-basar_thief_1.task.3
 #. guards.quest-male-mustache-white @DEFAULT
+#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/91/name #622
+#, max-length:80
 msgid "data/maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/91/name"
 msgstr ""
 
-#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/93/message #596
-#, max-length:640
 #. [10685] data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/93/message #596
 #. NPC quest-thief1
 #. IF quest.bakiGuard-1-basar_thief_1.task.3
 #. guards.quest-male-mustache-white @DEFAULT
+#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/93/message #596
+#, max-length:640
 msgid "data/maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/93/message"
 msgstr "¡Este será tu fin y nadie jamás sabrá la verdad!"
 
-#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/94/message #606
-#, max-length:30
 #. [10686] data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/94/message #606
 #. NPC quest-thief1
 #. IF quest.bakiGuard-1-basar_thief_1.task.3
 #. main.lea @DETERMINED
+#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/94/message #606
+#, max-length:30
 msgid "data/maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/94/message"
 msgstr "..."
 
-#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/95/message #598
-#, max-length:490
 #. [10687] data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/95/message #598
 #. NPC quest-thief1
 #. IF quest.bakiGuard-1-basar_thief_1.task.3
 #. baki.thief-man-dude @DEFAULT
+#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/95/message #598
+#, max-length:490
 msgid "data/maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/95/message"
 msgstr "E-Ey, mira donde estamos...\\.\\. ¡esto es una locura!"
 
-#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/96/message #605
-#, max-length:830
 #. [10688] data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/96/message #605
 #. NPC quest-thief1
 #. IF quest.bakiGuard-1-basar_thief_1.task.3
 #. guards.quest-male-mustache-white @DEFAULT
+#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/96/message #605
+#, max-length:830
 msgid "data/maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/96/message"
 msgstr "¡Silencio!\\. Estas costosas preparaciones no se desperdiciarán.\\.\\. ¡Me largo de aquí!"
 
-#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/97/message #597
-#, max-length:40
 #. [10689] data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/97/message #597
 #. NPC quest-thief1
 #. IF quest.bakiGuard-1-basar_thief_1.task.3
 #. main.lea @ANNOYED
+#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/97/message #597
+#, max-length:40
 msgid "data/maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/97/message"
 msgstr "¡Adiós!"
 
-#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/113/name #623
-#, max-length:50
 #. [10690] data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/113/name #623
 #. NPC quest-thief1
 #. IF quest.bakiGuard-1-basar_thief_1.task.3
 #. baki.thief-man-dude @DEFAULT
+#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/113/name #623
+#, max-length:50
 msgid "data/maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/113/name"
 msgstr ""
 
-#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/115/message #599
-#, max-length:450
 #. [10691] data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/115/message #599
 #. NPC quest-thief1
 #. IF quest.bakiGuard-1-basar_thief_1.task.3
 #. baki.thief-man-dude @DEFAULT
+#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/115/message #599
+#, max-length:450
 msgid "data/maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/115/message"
 msgstr "B-Bueno... sabes como solucionar esto, ¿no?"
 
-#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/116/message #600
-#, max-length:30
 #. [10692] data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/116/message #600
 #. NPC quest-thief1
 #. IF quest.bakiGuard-1-basar_thief_1.task.3
 #. main.lea @ANNOYED
+#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/116/message #600
+#, max-length:30
 msgid "data/maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/116/message"
 msgstr "..."
 
-#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/117/message #601
-#, max-length:60
 #. [10693] data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/117/message #601
 #. NPC quest-thief1
 #. IF quest.bakiGuard-1-basar_thief_1.task.3
 #. main.lea @NOD
+#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/117/message #601
+#, max-length:60
 msgid "data/maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/117/message"
 msgstr "[asiente]"
 
-#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/118/message #602
-#, max-length:660
 #. [10694] data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/118/message #602
 #. NPC quest-thief1
 #. IF quest.bakiGuard-1-basar_thief_1.task.3
 #. baki.thief-man-dude @DEFAULT
+#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/118/message #602
+#, max-length:660
 msgid "data/maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/118/message"
 msgstr "Bien... así que... me esconderé en esa esquina.\\. ¡Buena suerte!"
 
-#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/120/message #603
-#, max-length:30
 #. [10695] data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/120/message #603
 #. NPC quest-thief1
 #. IF quest.bakiGuard-1-basar_thief_1.task.3
 #. main.lea @DETERMINED
+#: data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/120/message #603
+#, max-length:30
 msgid "data/maps/arena/faction/baki-bots-1.json/entities/330/settings/npcStates/0/event/quest/120/message"
 msgstr "..."
 
-#: data/maps/arena/faction/heat-firebirds-1.json entities/23/settings/analyzable/text #137
-#, max-length:30
 #. [10696] data/maps/arena/faction/heat-firebirds-1.json entities/23/settings/analyzable/text #137
 #. NPC myterious1
+#: data/maps/arena/faction/heat-firebirds-1.json entities/23/settings/analyzable/text #137
+#, max-length:30
 msgid "data/maps/arena/faction/heat-firebirds-1.json/entities/23/settings/analyzable/text"
 msgstr ""
 
-#: data/maps/arena/faction/heat-firebirds-1.json entities/24/settings/analyzable/text #136
-#, max-length:30
 #. [10697] data/maps/arena/faction/heat-firebirds-1.json entities/24/settings/analyzable/text #136
 #. NPC myterious2
+#: data/maps/arena/faction/heat-firebirds-1.json entities/24/settings/analyzable/text #136
+#, max-length:30
 msgid "data/maps/arena/faction/heat-firebirds-1.json/entities/24/settings/analyzable/text"
 msgstr ""
 
-#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/12/name #637
-#, max-length:80
 #. [10698] data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/12/name #637
 #. EventTrigger battleEnd START IF false
 #. guards.quest-male-mustache-white @DEFAULT
+#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/12/name #637
+#, max-length:80
 msgid "data/maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/12/name"
 msgstr ""
 
-#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/14/message #14
-#, max-length:30
 #. [10699] data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/14/message #14
 #. EventTrigger battleEnd START IF false
 #. main.lea @WHISTLING
+#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/14/message #14
+#, max-length:30
 msgid "data/maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/14/message"
 msgstr "..."
 
-#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/15/message #15
-#, max-length:560
 #. [10700] data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/15/message #15
 #. EventTrigger battleEnd START IF false
 #. guards.quest-male-mustache-white @DEFAULT
+#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/15/message #15
+#, max-length:560
 msgid "data/maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/15/message"
 msgstr "¡D-Demonios!.\\. Todas esas preparaciones... para nada."
 
-#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/28/name #638
-#, max-length:80
 #. [10701] data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/28/name #638
 #. EventTrigger battleEnd START IF false
 #. guards.quest-male-mustache-white @DEFAULT
+#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/28/name #638
+#, max-length:80
 msgid "data/maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/28/name"
 msgstr ""
 
-#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/30/name #639
-#, max-length:50
 #. [10702] data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/30/name #639
 #. EventTrigger battleEnd START IF false
 #. guards.female-hairs-black @DEFAULT
+#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/30/name #639
+#, max-length:50
 msgid "data/maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/30/name"
 msgstr ""
 
-#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/31/message #17
-#, max-length:840
 #. [10703] data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/31/message #17
 #. EventTrigger battleEnd START IF false
 #. guards.female-hairs-black @DEFAULT
+#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/31/message #17
+#, max-length:840
 msgid "data/maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/31/message"
 msgstr "¡Tú vienes conmigo, traidor!\\. ¡Eres una mancha en el honor de la Policía de Ba'kii!"
 
-#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/32/message #16
-#, max-length:60
 #. [10704] data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/32/message #16
 #. EventTrigger battleEnd START IF false
 #. main.lea @PROUD
+#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/32/message #16
+#, max-length:60
 msgid "data/maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/32/message"
 msgstr "¡Hola...!"
 
-#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/33/message #625
-#, max-length:1140
 #. [10705] data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/33/message #625
 #. EventTrigger battleEnd START IF false
 #. guards.female-hairs-black @DEFAULT
+#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/33/message #625
+#, max-length:1140
 msgid "data/maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/33/message"
 msgstr "Ah, hola Señorita \\v[lore.title.seeker]a.\\. Has hecho un buen trabajo en apresarlo.\\. Ahora se lo traerá frente a la justicia."
 
-#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/34/message #621
-#, max-length:710
 #. [10706] data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/34/message #621
 #. EventTrigger battleEnd START IF false
 #. guards.quest-male-mustache-white @DEFAULT
+#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/34/message #621
+#, max-length:710
 msgid "data/maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/34/message"
 msgstr "¿Que, tú?\\. Era tu superior y así es como me muestras respeto?"
 
-#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/35/message #631
-#, max-length:1150
 #. [10707] data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/35/message #631
 #. EventTrigger battleEnd START IF false
 #. guards.female-hairs-black @DEFAULT
+#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/35/message #631
+#, max-length:1150
 msgid "data/maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/35/message"
 msgstr "Soy un guardia de \\v[area.heat-village.name] y he jurado proteger a los Shad y a la humanidad de todo mal.\\. Como tú, traidor."
 
-#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/36/message #632
-#, max-length:430
 #. [10708] data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/36/message #632
 #. EventTrigger battleEnd START IF false
 #. guards.quest-male-mustache-white @DEFAULT
+#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/36/message #632
+#, max-length:430
 msgid "data/maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/36/message"
 msgstr "Ya veo...\\. el guardia se ha hecho débil."
 
-#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/40/name #640
-#, max-length:80
 #. [10709] data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/40/name #640
 #. EventTrigger battleEnd START IF false
 #. guards.quest-male-mustache-white @DEFAULT
+#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/40/name #640
+#, max-length:80
 msgid "data/maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/40/name"
 msgstr ""
 
-#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/42/name #641
-#, max-length:50
 #. [10710] data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/42/name #641
 #. EventTrigger battleEnd START IF false
 #. guards.female-hairs-black @DEFAULT
+#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/42/name #641
+#, max-length:50
 msgid "data/maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/42/name"
 msgstr ""
 
-#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/43/message #624
-#, max-length:330
 #. [10711] data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/43/message #624
 #. EventTrigger battleEnd START IF false
 #. guards.quest-male-mustache-white @DEFAULT
+#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/43/message #624
+#, max-length:330
 msgid "data/maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/43/message"
 msgstr "Y tú, \\v[lore.title.seeker]..."
 
-#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/44/message #626
-#, max-length:40
 #. [10712] data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/44/message #626
 #. EventTrigger battleEnd START IF false
 #. main.lea @DETERMINED
+#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/44/message #626
+#, max-length:40
 msgid "data/maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/44/message"
 msgstr "¿...?"
 
-#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/45/message #627
-#, max-length:870
 #. [10713] data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/45/message #627
 #. EventTrigger battleEnd START IF false
 #. guards.quest-male-mustache-white @DEFAULT
+#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/45/message #627
+#, max-length:870
 msgid "data/maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/45/message"
 msgstr "¡...no creas que me ves por última vez!\\. ¡Mi ingenio humano siempre encontrará una forma!"
 
-#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/46/message #628
-#, max-length:30
 #. [10714] data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/46/message #628
 #. EventTrigger battleEnd START IF false
 #. main.lea @NERVOUS
+#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/46/message #628
+#, max-length:30
 msgid "data/maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/46/message"
 msgstr "..."
 
-#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/48/message #629
-#, max-length:690
 #. [10715] data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/48/message #629
 #. EventTrigger battleEnd START IF false
 #. guards.female-hairs-black @DEFAULT
+#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/48/message #629
+#, max-length:690
 msgid "data/maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/48/message"
 msgstr "Ya veremos.\\. Por ahora estás bajo arresto.\\. ¡Muévete!"
 
-#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/49/message #633
-#, max-length:380
 #. [10716] data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/49/message #633
 #. EventTrigger battleEnd START IF false
 #. guards.quest-male-mustache-white @DEFAULT
+#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/49/message #633
+#, max-length:380
 msgid "data/maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/49/message"
 msgstr "Si, si.\\. Lo que diga, oficial."
 
-#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/50/message #634
-#, max-length:70
 #. [10717] data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/50/message #634
 #. EventTrigger battleEnd START IF false
 #. main.lea @ANNOYED
+#: data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/50/message #634
+#, max-length:70
 msgid "data/maps/arena/faction/maroon-billston-1.json/entities/57/settings/event/50/message"
 msgstr "...adiós."
 
-#: data/maps/arena/faction/maroon-turtlecave-1.json entities/15/settings/event/7/action/0/text #13
-#, max-length:230
 #. [10718] data/maps/arena/faction/maroon-turtlecave-1.json entities/15/settings/event/7/action/0/text #13
 #. EventTrigger map-deactivateHelper START IF false
 #. DO_ACTION
 #. SHOW_AR_MSG
+#: data/maps/arena/faction/maroon-turtlecave-1.json entities/15/settings/event/7/action/0/text #13
+#, max-length:230
 msgid "data/maps/arena/faction/maroon-turtlecave-1.json/entities/15/settings/event/7/action/0/text"
 msgstr ""
 
-#: data/maps/arena/faction/maroon-turtlecave-1.json entities/15/settings/event/7/action/4/text #14
-#, max-length:120
 #. [10719] data/maps/arena/faction/maroon-turtlecave-1.json entities/15/settings/event/7/action/4/text #14
 #. EventTrigger map-deactivateHelper START IF false
 #. DO_ACTION
 #. SHOW_AR_MSG
+#: data/maps/arena/faction/maroon-turtlecave-1.json entities/15/settings/event/7/action/4/text #14
+#, max-length:120
 msgid "data/maps/arena/faction/maroon-turtlecave-1.json/entities/15/settings/event/7/action/4/text"
 msgstr ""
 
-#: data/maps/arena/faction/mine-heatbot-1.json entities/37/settings/event/7/action/0/text #6
-#, max-length:150
 #. [10720] data/maps/arena/faction/mine-heatbot-1.json entities/37/settings/event/7/action/0/text #6
 #. EventTrigger BattleStart
 #. DO_ACTION
 #. SHOW_AR_MSG
+#: data/maps/arena/faction/mine-heatbot-1.json entities/37/settings/event/7/action/0/text #6
+#, max-length:150
 msgid "data/maps/arena/faction/mine-heatbot-1.json/entities/37/settings/event/7/action/0/text"
 msgstr ""
 
-#: data/maps/arena/faction/mine-heatbot-1.json entities/39/settings/event/1/guiInfo/settings/text #7
-#, max-length:100
 #. [10721] data/maps/arena/faction/mine-heatbot-1.json entities/39/settings/event/1/guiInfo/settings/text #7
 #. EventTrigger BattleFirstHPBreak START IF tmp.questFirstHPBreak
 #. ADD_GUI
 #. BarWidget
+#: data/maps/arena/faction/mine-heatbot-1.json entities/39/settings/event/1/guiInfo/settings/text #7
+#, max-length:100
 msgid "data/maps/arena/faction/mine-heatbot-1.json/entities/39/settings/event/1/guiInfo/settings/text"
 msgstr ""
 
-#: data/maps/arena/faction/rh-turrets-1.json entities/248/settings/event/0/message #18
-#, max-length:90
 #. [10722] data/maps/arena/faction/rh-turrets-1.json entities/248/settings/event/0/message #18
 #. EventTrigger RailingRide START IF tmp.railingRideStart
 #. rookie-harbor.man-small-black @DEFAULT
+#: data/maps/arena/faction/rh-turrets-1.json entities/248/settings/event/0/message #18
+#, max-length:90
 msgid "data/maps/arena/faction/rh-turrets-1.json/entities/248/settings/event/0/message"
 msgstr "¡Vamos!"
 
-#: data/maps/arena/faction/rh-turrets-1.json entities/248/settings/event/3/thenStep/0/message #19
-#, max-length:170
 #. [10723] data/maps/arena/faction/rh-turrets-1.json entities/248/settings/event/3/thenStep/0/message #19
 #. EventTrigger RailingRide START IF tmp.railingRideStart
 #. IF tmp.playerPos.z <= 0
 #. rookie-harbor.man-small-black @DEFAULT
+#: data/maps/arena/faction/rh-turrets-1.json entities/248/settings/event/3/thenStep/0/message #19
+#, max-length:170
 msgid "data/maps/arena/faction/rh-turrets-1.json/entities/248/settings/event/3/thenStep/0/message"
 msgstr "¡Te caíste! ¡Que pena!"
 
-#: data/maps/arena/faction/rh-turrets-1.json entities/248/settings/event/3/elseStep/0/thenStep/0/message #20
-#, max-length:170
 #. [10724] data/maps/arena/faction/rh-turrets-1.json entities/248/settings/event/3/elseStep/0/thenStep/0/message #20
 #. EventTrigger RailingRide START IF tmp.railingRideStart
 #. IF NOT tmp.playerPos.z <= 0
 #. IF map.railingRideGoal
 #. rookie-harbor.man-small-black @DEFAULT
+#: data/maps/arena/faction/rh-turrets-1.json entities/248/settings/event/3/elseStep/0/thenStep/0/message #20
+#, max-length:170
 msgid "data/maps/arena/faction/rh-turrets-1.json/entities/248/settings/event/3/elseStep/0/thenStep/0/message"
 msgstr "¡Lo hiciste muy bien! ¡Genial!"
 
-#: data/maps/arena/faction/rh-turrets-1.json entities/248/settings/event/3/elseStep/0/thenStep/1/message #48
-#, max-length:340
 #. [10725] data/maps/arena/faction/rh-turrets-1.json entities/248/settings/event/3/elseStep/0/thenStep/1/message #48
 #. EventTrigger RailingRide START IF tmp.railingRideStart
 #. IF NOT tmp.playerPos.z <= 0
 #. IF map.railingRideGoal
 #. rookie-harbor.man-small-black @DEFAULT
+#: data/maps/arena/faction/rh-turrets-1.json entities/248/settings/event/3/elseStep/0/thenStep/1/message #48
+#, max-length:340
 msgid "data/maps/arena/faction/rh-turrets-1.json/entities/248/settings/event/3/elseStep/0/thenStep/1/message"
 msgstr "¡Ven aquí para recoger tu recompensa!"
 
-#: data/maps/arena/faction/rh-turrets-1.json entities/258/settings/teleportLabel #1
-#, max-length:120
 #. [10726] data/maps/arena/faction/rh-turrets-1.json entities/258/settings/teleportLabel #1
 #. TeleportField exit(2)
+#: data/maps/arena/faction/rh-turrets-1.json entities/258/settings/teleportLabel #1
+#, max-length:120
 msgid "data/maps/arena/faction/rh-turrets-1.json/entities/258/settings/teleportLabel"
 msgstr ""
 
-#: data/maps/arena/faction/rh-turrets-1.json entities/263/settings/analyzable/text #413
-#, max-length:180
 #. [10727] data/maps/arena/faction/rh-turrets-1.json entities/263/settings/analyzable/text #413
 #. NPC guard-quest1
+#: data/maps/arena/faction/rh-turrets-1.json entities/263/settings/analyzable/text #413
+#, max-length:180
 msgid "data/maps/arena/faction/rh-turrets-1.json/entities/263/settings/analyzable/text"
 msgstr ""
 
-#: data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/0/event/1/name #508
-#, max-length:60
 #. [10728] data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/0/event/1/name #508
 #. NPC guard-quest1
 #. IF
 #. rookie-harbor.faction-rhg-man-offcr-black @DEFAULT
+#: data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/0/event/1/name #508
+#, max-length:60
 msgid "data/maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/0/event/1/name"
 msgstr ""
 
-#: data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/0/event/2/message #414
-#, max-length:1150
 #. [10729] data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/0/event/2/message #414
 #. NPC guard-quest1
 #. IF
 #. rookie-harbor.faction-rhg-man-offcr-black @DEFAULT
+#: data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/0/event/2/message #414
+#, max-length:1150
 msgid "data/maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/0/event/2/message"
 msgstr "Bienvenido, \\v[lore.title.seeker]. Tengo que estar atento al puerto para proteger a nuestros ciudadanos, por favor, discúlpame."
 
-#: data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/1/event/quest/1/name #509
-#, max-length:60
 #. [10730] data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/1/event/quest/1/name #509
 #. NPC guard-quest1
 #. IF quest.rhg-2-crate_smuggle.started
 #. rookie-harbor.faction-rhg-man-offcr-black @DEFAULT
+#: data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/1/event/quest/1/name #509
+#, max-length:60
 msgid "data/maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/1/event/quest/1/name"
 msgstr ""
 
-#: data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/1/event/quest/2/message #415
-#, max-length:980
 #. [10731] data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/1/event/quest/2/message #415
 #. NPC guard-quest1
 #. IF quest.rhg-2-crate_smuggle.started
 #. rookie-harbor.faction-rhg-man-offcr-black @DEFAULT
+#: data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/1/event/quest/2/message #415
+#, max-length:980
 msgid "data/maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/1/event/quest/2/message"
 msgstr "Hola, \\v[lore.title.seeker].\\. ¿Asumo que te han envíado para investigar este caso de contrabando?"
 
-#: data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/1/event/quest/3/message #416
-#, max-length:60
 #. [10732] data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/1/event/quest/3/message #416
 #. NPC guard-quest1
 #. IF quest.rhg-2-crate_smuggle.started
 #. main.lea @NOD
+#: data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/1/event/quest/3/message #416
+#, max-length:60
 msgid "data/maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/1/event/quest/3/message"
 msgstr "[asiente]"
 
-#: data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/1/event/quest/4/message #417
-#, max-length:800
 #. [10733] data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/1/event/quest/4/message #417
 #. NPC guard-quest1
 #. IF quest.rhg-2-crate_smuggle.started
 #. rookie-harbor.faction-rhg-man-offcr-black @DEFAULT
+#: data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/1/event/quest/4/message #417
+#, max-length:800
 msgid "data/maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/1/event/quest/4/message"
 msgstr "Excelente.\\. Quiero que examines las cajas en la parte este del puerto."
 
-#: data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/1/event/quest/5/message #433
-#, max-length:1070
 #. [10734] data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/1/event/quest/5/message #433
 #. NPC guard-quest1
 #. IF quest.rhg-2-crate_smuggle.started
 #. rookie-harbor.faction-rhg-man-offcr-black @DEFAULT
+#: data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/1/event/quest/5/message #433
+#, max-length:1070
 msgid "data/maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/1/event/quest/5/message"
 msgstr "Te acabamos de enviar la firma de los archivos de los bienes sospechosos, deberías poder sentirlos."
 
-#: data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/1/event/quest/6/message #434
-#, max-length:30
 #. [10735] data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/1/event/quest/6/message #434
 #. NPC guard-quest1
 #. IF quest.rhg-2-crate_smuggle.started
 #. main.lea @PROUD
+#: data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/1/event/quest/6/message #434
+#, max-length:30
 msgid "data/maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/1/event/quest/6/message"
 msgstr "¡Hola!"
 
-#: data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/1/event/quest/7/message #435
-#, max-length:1000
 #. [10736] data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/1/event/quest/7/message #435
 #. NPC guard-quest1
 #. IF quest.rhg-2-crate_smuggle.started
 #. rookie-harbor.faction-rhg-man-offcr-black @DEFAULT
+#: data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/1/event/quest/7/message #435
+#, max-length:1000
 msgid "data/maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/1/event/quest/7/message"
 msgstr "Me quedaré aquí investigando las pruebas a potenciales sospechosos.\\. Vuelve cuando hayas encontrado algo."
 
-#: data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/1/event/quest/8/message #420
-#, max-length:60
 #. [10737] data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/1/event/quest/8/message #420
 #. NPC guard-quest1
 #. IF quest.rhg-2-crate_smuggle.started
 #. main.lea @NOD
+#: data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/1/event/quest/8/message #420
+#, max-length:60
 msgid "data/maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/1/event/quest/8/message"
 msgstr "[asiente]"
 
-#: data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/2/event/1/name #510
-#, max-length:60
 #. [10738] data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/2/event/1/name #510
 #. NPC guard-quest1
 #. IF quest.rhg-2-crate_smuggle.task.1
 #. rookie-harbor.faction-rhg-man-offcr-black @DEFAULT
+#: data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/2/event/1/name #510
+#, max-length:60
 msgid "data/maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/2/event/1/name"
 msgstr ""
 
-#: data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/2/event/2/message #422
-#, max-length:640
 #. [10739] data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/2/event/2/message #422
 #. NPC guard-quest1
 #. IF quest.rhg-2-crate_smuggle.task.1
 #. rookie-harbor.faction-rhg-man-offcr-black @DEFAULT
+#: data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/2/event/2/message #422
+#, max-length:640
 msgid "data/maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/2/event/2/message"
 msgstr "¡La caja debe estar en algún lugar por aquí así que será mejor que la encuentres!"
 
-#: data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/4/event/1/name #511
-#, max-length:60
 #. [10740] data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/4/event/1/name #511
 #. NPC guard-quest1
 #. IF quest.rhg-2-crate_smuggle.currentTask >= 3 && !quest.rhg-2-crate_smuggle.solved
 #. rookie-harbor.faction-rhg-man-offcr-black @DEFAULT
+#: data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/4/event/1/name #511
+#, max-length:60
 msgid "data/maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/4/event/1/name"
 msgstr ""
 
-#: data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/4/event/2/message #446
-#, max-length:870
 #. [10741] data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/4/event/2/message #446
 #. NPC guard-quest1
 #. IF quest.rhg-2-crate_smuggle.currentTask >= 3 && !quest.rhg-2-crate_smuggle.solved
 #. rookie-harbor.faction-rhg-man-offcr-black @DEFAULT
+#: data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/4/event/2/message #446
+#, max-length:870
 msgid "data/maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/4/event/2/message"
 msgstr "¡Tú ve a buscar a ese trabajador sospechoso!\\. Yo me aseguraré de que no se escape."
 
-#: data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/7/event/1/name #512
-#, max-length:60
 #. [10742] data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/7/event/1/name #512
 #. NPC guard-quest1
 #. IF quest.rhg-2-crate_smuggle.solved
 #. rookie-harbor.faction-rhg-man-offcr-black @DEFAULT
+#: data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/7/event/1/name #512
+#, max-length:60
 msgid "data/maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/7/event/1/name"
 msgstr ""
 
-#: data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/7/event/2/message #460
-#, max-length:1150
 #. [10743] data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/7/event/2/message #460
 #. NPC guard-quest1
 #. IF quest.rhg-2-crate_smuggle.solved
 #. rookie-harbor.faction-rhg-man-offcr-black @DEFAULT
+#: data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/7/event/2/message #460
+#, max-length:1150
 msgid "data/maps/arena/faction/rh-turrets-1.json/entities/263/settings/npcStates/7/event/2/message"
 msgstr "Bien hecho, \\v[lore.title.seeker]. No ha habido más problemas en los muelles por ahora, pero deberíamos estar alerta."
 
-#: data/maps/arena/faction/rh-turrets-1.json entities/277/settings/event/4/thenStep/1/message #602
-#, max-length:440
 #. [10744] data/maps/arena/faction/rh-turrets-1.json entities/277/settings/event/4/thenStep/1/message #602
 #. EventTrigger backDoorRespawn START IF tmp.backDoor
 #. IF !map.waterFall.emilie && party.has.Emilie
 #. main.emilie @SHOCKED
+#: data/maps/arena/faction/rh-turrets-1.json entities/277/settings/event/4/thenStep/1/message #602
+#, max-length:440
 msgid "data/maps/arena/faction/rh-turrets-1.json/entities/277/settings/event/4/thenStep/1/message"
 msgstr "¡Sacrebleu! ¡¿Por qué pondrían una puerta aquí?!"
 
-#: data/maps/arena/faction/rh-turrets-1.json entities/277/settings/event/4/elseStep/0/thenStep/1/message #601
-#, max-length:710
 #. [10745] data/maps/arena/faction/rh-turrets-1.json entities/277/settings/event/4/elseStep/0/thenStep/1/message #601
 #. EventTrigger backDoorRespawn START IF tmp.backDoor
 #. IF NOT !map.waterFall.emilie && party.has.Emilie
 #. IF !map.waterFall.ctron && party.has.Glasses
 #. main.glasses @EXHAUSTED
+#: data/maps/arena/faction/rh-turrets-1.json entities/277/settings/event/4/elseStep/0/thenStep/1/message #601
+#, max-length:710
 msgid "data/maps/arena/faction/rh-turrets-1.json/entities/277/settings/event/4/elseStep/0/thenStep/1/message"
 msgstr "Sinceramente, esa puerta está donde debe. Muy consistente."
 
-#: data/maps/arena/faction/rh-turrets-1.json entities/277/settings/event/4/elseStep/0/elseStep/0/thenStep/1/message #600
-#, max-length:520
 #. [10746] data/maps/arena/faction/rh-turrets-1.json entities/277/settings/event/4/elseStep/0/elseStep/0/thenStep/1/message #600
 #. EventTrigger backDoorRespawn START IF tmp.backDoor
 #. IF NOT !map.waterFall.emilie && party.has.Emilie
 #. IF NOT !map.waterFall.ctron && party.has.Glasses
 #. IF !map.waterFall.sergey
 #. main.sergey @ROLL_EYES
+#: data/maps/arena/faction/rh-turrets-1.json entities/277/settings/event/4/elseStep/0/elseStep/0/thenStep/1/message #600
+#, max-length:520
 msgid "data/maps/arena/faction/rh-turrets-1.json/entities/277/settings/event/4/elseStep/0/elseStep/0/thenStep/1/message"
 msgstr "¿Qué dices? ¿En serio lo diseñaron así?"
 
-#: data/maps/arena/pvp/pvp-lily.json entities/300/settings/event/11/message #3
-#, max-length:300
 #. [10747] data/maps/arena/pvp/pvp-lily.json entities/300/settings/event/11/message #3
 #. EventTrigger Start
 #. guests.lily @DEFAULT
+#: data/maps/arena/pvp/pvp-lily.json entities/300/settings/event/11/message #3
+#, max-length:300
 msgid "data/maps/arena/pvp/pvp-lily.json/entities/300/settings/event/11/message"
 msgstr "Es hora de nuestro pequeño duelo."
 
-#: data/maps/arena/pvp/pvp-lily.json entities/300/settings/event/12/message #12
-#, max-length:230
 #. [10748] data/maps/arena/pvp/pvp-lily.json entities/300/settings/event/12/message #12
 #. EventTrigger Start
 #. guests.lily @DEFAULT
+#: data/maps/arena/pvp/pvp-lily.json entities/300/settings/event/12/message #12
+#, max-length:230
 msgid "data/maps/arena/pvp/pvp-lily.json/entities/300/settings/event/12/message"
 msgstr "¡Demos lo mejor!"
 
-#: data/maps/arena/pvp/pvp-lily.json entities/300/settings/event/13/message #4
-#, max-length:60
 #. [10749] data/maps/arena/pvp/pvp-lily.json entities/300/settings/event/13/message #4
 #. EventTrigger Start
 #. main.lea @NOD
+#: data/maps/arena/pvp/pvp-lily.json entities/300/settings/event/13/message #4
+#, max-length:60
 msgid "data/maps/arena/pvp/pvp-lily.json/entities/300/settings/event/13/message"
 msgstr "[asiente]"
 
-#: data/maps/arena/pvp/pvp-lily.json entities/300/settings/event/14/message #13
-#, max-length:40
 #. [10750] data/maps/arena/pvp/pvp-lily.json entities/300/settings/event/14/message #13
 #. EventTrigger Start
 #. main.lea @DETERMINED
+#: data/maps/arena/pvp/pvp-lily.json entities/300/settings/event/14/message #13
+#, max-length:40
 msgid "data/maps/arena/pvp/pvp-lily.json/entities/300/settings/event/14/message"
 msgstr "¡Lea!"
 
-#: data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/thenStep/0/thenStep/0/message #11
-#, max-length:310
 #. [10751] data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/thenStep/0/thenStep/0/message #11
 #. EventTrigger pvpBrake START IF pvp.brake
 #. IF pvp.lastWinPlayer
 #. IF pvp.playerPoints == 1
 #. guests.lily @DEFAULT
+#: data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/thenStep/0/thenStep/0/message #11
+#, max-length:310
 msgid "data/maps/arena/pvp/pvp-lily.json/entities/304/settings/event/0/thenStep/0/thenStep/0/message"
 msgstr "¡Nada mal! ¡Estoy entrando en calor!"
 
-#: data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/thenStep/1/thenStep/0/message #14
-#, max-length:400
 #. [10752] data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/thenStep/1/thenStep/0/message #14
 #. EventTrigger pvpBrake START IF pvp.brake
 #. IF pvp.lastWinPlayer
 #. IF pvp.playerPoints == 2
 #. guests.lily @DEFAULT
+#: data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/thenStep/1/thenStep/0/message #14
+#, max-length:400
 msgid "data/maps/arena/pvp/pvp-lily.json/entities/304/settings/event/0/thenStep/1/thenStep/0/message"
 msgstr "Uf, ¡eres bastante habilidosa!"
 
-#: data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/thenStep/2/thenStep/0/message #15
-#, max-length:260
 #. [10753] data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/thenStep/2/thenStep/0/message #15
 #. EventTrigger pvpBrake START IF pvp.brake
 #. IF pvp.lastWinPlayer
 #. IF pvp.playerPoints == 3
 #. guests.lily @DEFAULT
+#: data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/thenStep/2/thenStep/0/message #15
+#, max-length:260
 msgid "data/maps/arena/pvp/pvp-lily.json/entities/304/settings/event/0/thenStep/2/thenStep/0/message"
 msgstr "¡Me pondré en serio!"
 
-#: data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/thenStep/3/thenStep/0/message #16
-#, max-length:80
 #. [10754] data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/thenStep/3/thenStep/0/message #16
 #. EventTrigger pvpBrake START IF pvp.brake
 #. IF pvp.lastWinPlayer
 #. IF pvp.playerPoints == 4
 #. guests.lily @DEFAULT
+#: data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/thenStep/3/thenStep/0/message #16
+#, max-length:80
 msgid "data/maps/arena/pvp/pvp-lily.json/entities/304/settings/event/0/thenStep/3/thenStep/0/message"
 msgstr "Oh no..."
 
-#: data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/elseStep/0/thenStep/0/message #17
-#, max-length:220
 #. [10755] data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/elseStep/0/thenStep/0/message #17
 #. EventTrigger pvpBrake START IF pvp.brake
 #. IF NOT pvp.lastWinPlayer
 #. IF pvp.enemyPoints == 1
 #. guests.lily @DEFAULT
+#: data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/elseStep/0/thenStep/0/message #17
+#, max-length:220
 msgid "data/maps/arena/pvp/pvp-lily.json/entities/304/settings/event/0/elseStep/0/thenStep/0/message"
 msgstr "¡Esa ronda va para mí!"
 
-#: data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/elseStep/1/thenStep/0/message #18
-#, max-length:340
 #. [10756] data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/elseStep/1/thenStep/0/message #18
 #. EventTrigger pvpBrake START IF pvp.brake
 #. IF NOT pvp.lastWinPlayer
 #. IF pvp.enemyPoints == 2
 #. guests.lily @DEFAULT
+#: data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/elseStep/1/thenStep/0/message #18
+#, max-length:340
 msgid "data/maps/arena/pvp/pvp-lily.json/entities/304/settings/event/0/elseStep/1/thenStep/0/message"
 msgstr "¡Creo que ya entiendo como va esto!"
 
-#: data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/elseStep/2/thenStep/0/thenStep/0/message #19
-#, max-length:190
 #. [10757] data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/elseStep/2/thenStep/0/thenStep/0/message #19
 #. EventTrigger pvpBrake START IF pvp.brake
 #. IF NOT pvp.lastWinPlayer
 #. IF pvp.enemyPoints == 3
 #. IF pvp.playerPoints >= 2
 #. guests.lily @DEFAULT
+#: data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/elseStep/2/thenStep/0/thenStep/0/message #19
+#, max-length:190
 msgid "data/maps/arena/pvp/pvp-lily.json/entities/304/settings/event/0/elseStep/2/thenStep/0/thenStep/0/message"
 msgstr "¡Wow, qué batalla!"
 
-#: data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/elseStep/2/thenStep/0/elseStep/0/message #20
-#, max-length:340
 #. [10758] data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/elseStep/2/thenStep/0/elseStep/0/message #20
 #. EventTrigger pvpBrake START IF pvp.brake
 #. IF NOT pvp.lastWinPlayer
 #. IF pvp.enemyPoints == 3
 #. IF NOT pvp.playerPoints >= 2
 #. guests.lily @DEFAULT
+#: data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/elseStep/2/thenStep/0/elseStep/0/message #20
+#, max-length:340
 msgid "data/maps/arena/pvp/pvp-lily.json/entities/304/settings/event/0/elseStep/2/thenStep/0/elseStep/0/message"
 msgstr "¡Vamos! ¡Sé que puedes hacerlo mejor!"
 
-#: data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/elseStep/3/thenStep/0/message #21
-#, max-length:180
 #. [10759] data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/elseStep/3/thenStep/0/message #21
 #. EventTrigger pvpBrake START IF pvp.brake
 #. IF NOT pvp.lastWinPlayer
 #. IF pvp.enemyPoints == 4
 #. guests.lily @DEFAULT
+#: data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/elseStep/3/thenStep/0/message #21
+#, max-length:180
 msgid "data/maps/arena/pvp/pvp-lily.json/entities/304/settings/event/0/elseStep/3/thenStep/0/message"
 msgstr "¡Un punto más...!"
 
-#: data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/thenStep/1/message #8
-#, max-length:180
 #. [10760] data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/thenStep/1/message #8
 #. EventTrigger pvpEnd START IF pvp.finished
 #. IF pvp.lastWinPlayer
 #. guests.lily @DEFAULT
+#: data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/thenStep/1/message #8
+#, max-length:180
 msgid "data/maps/arena/pvp/pvp-lily.json/entities/305/settings/event/14/thenStep/1/message"
 msgstr "Uf...\\. ganaste."
 
-#: data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/thenStep/2/message #7
-#, max-length:30
 #. [10761] data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/thenStep/2/message #7
 #. EventTrigger pvpEnd START IF pvp.finished
 #. IF pvp.lastWinPlayer
 #. main.lea @SMUG
+#: data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/thenStep/2/message #7
+#, max-length:30
 msgid "data/maps/arena/pvp/pvp-lily.json/entities/305/settings/event/14/thenStep/2/message"
 msgstr "¡Hola!"
 
-#: data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/thenStep/3/message #22
-#, max-length:230
 #. [10762] data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/thenStep/3/message #22
 #. EventTrigger pvpEnd START IF pvp.finished
 #. IF pvp.lastWinPlayer
 #. guests.lily @DEFAULT
+#: data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/thenStep/3/message #22
+#, max-length:230
 msgid "data/maps/arena/pvp/pvp-lily.json/entities/305/settings/event/14/thenStep/3/message"
 msgstr "Eso estuvo genial igualmente."
 
-#: data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/thenStep/4/message #23
-#, max-length:340
 #. [10763] data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/thenStep/4/message #23
 #. EventTrigger pvpEnd START IF pvp.finished
 #. IF pvp.lastWinPlayer
 #. guests.lily @DEFAULT
+#: data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/thenStep/4/message #23
+#, max-length:340
 msgid "data/maps/arena/pvp/pvp-lily.json/entities/305/settings/event/14/thenStep/4/message"
 msgstr "¡Ansío una revancha!"
 
-#: data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/elseStep/1/message #9
-#, max-length:140
 #. [10764] data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/elseStep/1/message #9
 #. EventTrigger pvpEnd START IF pvp.finished
 #. IF NOT pvp.lastWinPlayer
 #. guests.lily @DEFAULT
+#: data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/elseStep/1/message #9
+#, max-length:140
 msgid "data/maps/arena/pvp/pvp-lily.json/entities/305/settings/event/14/elseStep/1/message"
 msgstr "¡Lo tengo, sí!"
 
-#: data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/elseStep/2/message #24
-#, max-length:30
 #. [10765] data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/elseStep/2/message #24
 #. EventTrigger pvpEnd START IF pvp.finished
 #. IF NOT pvp.lastWinPlayer
 #. main.lea @EXHAUSTED
+#: data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/elseStep/2/message #24
+#, max-length:30
 msgid "data/maps/arena/pvp/pvp-lily.json/entities/305/settings/event/14/elseStep/2/message"
 msgstr "..."
 
-#: data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/elseStep/3/message #25
-#, max-length:60
 #. [10766] data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/elseStep/3/message #25
 #. EventTrigger pvpEnd START IF pvp.finished
 #. IF NOT pvp.lastWinPlayer
 #. main.lea @NOD
+#: data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/elseStep/3/message #25
+#, max-length:60
 msgid "data/maps/arena/pvp/pvp-lily.json/entities/305/settings/event/14/elseStep/3/message"
 msgstr "[asiente]"
 
-#: data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/elseStep/4/message #26
-#, max-length:270
 #. [10767] data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/elseStep/4/message #26
 #. EventTrigger pvpEnd START IF pvp.finished
 #. IF NOT pvp.lastWinPlayer
 #. guests.lily @DEFAULT
+#: data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/elseStep/4/message #26
+#, max-length:270
 msgid "data/maps/arena/pvp/pvp-lily.json/entities/305/settings/event/14/elseStep/4/message"
 msgstr "¡Esa fue una buena pelea, Lea!"
 
-#: data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/elseStep/5/message #27
-#, max-length:460
 #. [10768] data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/elseStep/5/message #27
 #. EventTrigger pvpEnd START IF pvp.finished
 #. IF NOT pvp.lastWinPlayer
 #. guests.lily @DEFAULT
+#: data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/elseStep/5/message #27
+#, max-length:460
 msgid "data/maps/arena/pvp/pvp-lily.json/entities/305/settings/event/14/elseStep/5/message"
 msgstr "¡Sólo dime si quieres una revancha!"
 
-#: data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/elseStep/6/message #10
-#, max-length:40
 #. [10769] data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/elseStep/6/message #10
 #. EventTrigger pvpEnd START IF pvp.finished
 #. IF NOT pvp.lastWinPlayer
 #. main.lea @DETERMINED
+#: data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/elseStep/6/message #10
+#, max-length:40
 msgid "data/maps/arena/pvp/pvp-lily.json/entities/305/settings/event/14/elseStep/6/message"
 msgstr "¡...!"
