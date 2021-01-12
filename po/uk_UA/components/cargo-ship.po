@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: crosscode 0.0.0\n"
-"PO-Revision-Date: 2021-01-12 16:54+0000\n"
+"PO-Revision-Date: 2021-01-13 08:43+0000\n"
 "Last-Translator: Lumisentius <soulstaleproject@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.crosscode.ru/projects/crosscode/"
 "cargo-ship/uk/>\n"
@@ -6190,7 +6190,7 @@ msgstr ""
 #: data/maps/cargo-ship/room4.json entities/21/settings/event/1/message #1
 #, max-length:280
 msgid "data/maps/cargo-ship/room4.json/entities/21/settings/event/1/message"
-msgstr ""
+msgstr "Гаразд, хай тобі там щастить!"
 
 #. [20469] data/maps/cargo-ship/room4.json entities/32/settings/event/2/message #2
 #. EventTrigger wave2 START IF map.wave1Post
@@ -6199,6 +6199,8 @@ msgstr ""
 #, max-length:790
 msgid "data/maps/cargo-ship/room4.json/entities/32/settings/event/2/message"
 msgstr ""
+"Дам тобі невеличку пораду!\\. Метай у них \\i[tech]заряджені шари, щоб "
+"перервати їх атаки!"
 
 #. [20470] data/maps/cargo-ship/room4.json entities/37/settings/npcStates/1/event/2/message #3
 #. NPC carla
@@ -6217,6 +6219,7 @@ msgstr ""
 #, max-length:650
 msgid "data/maps/cargo-ship/room4.json/entities/37/settings/npcStates/3/event/2/message"
 msgstr ""
+"Якщо тобі сподобалась ця кімната, то повір мені - тебе вразить наступна!"
 
 #. [20472] data/maps/cargo-ship/room4.json entities/42/settings/event/6/message #5
 #. EventTrigger allDone START IF map.wave3Pre
@@ -6225,6 +6228,8 @@ msgstr ""
 #, max-length:1010
 msgid "data/maps/cargo-ship/room4.json/entities/42/settings/event/6/message"
 msgstr ""
+"Ура!!\\. Дівчино, це було неймовірно!\\. Сергій, ти не жартував! Вона і "
+"справді вправна у боях."
 
 #. [20473] data/maps/cargo-ship/room4.json entities/42/settings/event/7/message #6
 #. EventTrigger allDone START IF map.wave3Pre
@@ -6232,7 +6237,7 @@ msgstr ""
 #: data/maps/cargo-ship/room4.json entities/42/settings/event/7/message #6
 #, max-length:300
 msgid "data/maps/cargo-ship/room4.json/entities/42/settings/event/7/message"
-msgstr ""
+msgstr "Еге, це нагадує мені колишні часи."
 
 #. [20474] data/maps/cargo-ship/room4.json entities/42/settings/event/8/message #7
 #. EventTrigger allDone START IF map.wave3Pre
@@ -6361,6 +6366,8 @@ msgstr ""
 #, max-length:860
 msgid "data/maps/cargo-ship/room4.json/entities/50/settings/event/22/message"
 msgstr ""
+"А він правий!\\. А тепер, будь ласка, піди вправо щоб приступити до "
+"надирання дуп."
 
 #. [20489] data/maps/cargo-ship/room4.json entities/50/settings/event/25/guiInfo/settings/text #21
 #. EventTrigger CarlaEnter START IF map.carlaEnter
@@ -6370,6 +6377,8 @@ msgstr ""
 #, max-length:1170
 msgid "data/maps/cargo-ship/room4.json/entities/50/settings/event/25/guiInfo/settings/text"
 msgstr ""
+"Натисніть \\i[dash] коли рухаєтесь, щоб зробити ривок до трьох разів "
+"поспіль. Ви можете зробити ривок в будь-який момент, навіть коли націлюєтесь."
 
 #. [20490] data/maps/cargo-ship/room4.json entities/60/settings/blockEvent/3/message #22
 #. Door endDoor
@@ -6421,7 +6430,7 @@ msgstr ""
 #: data/maps/cargo-ship/room5.json entities/0/settings/event/3/elseStep/0/message #1
 #, max-length:460
 msgid "data/maps/cargo-ship/room5.json/entities/0/settings/event/3/elseStep/0/message"
-msgstr ""
+msgstr "Гарна робота!\\. Кількість - ніщо в порівнянні з умінням."
 
 #. [20496] data/maps/cargo-ship/room5.json entities/0/settings/event/3/elseStep/1/thenStep/0/message #62
 #. EventTrigger fight3prewin START IF map.fight3-prewin
@@ -6439,7 +6448,7 @@ msgstr ""
 #: data/maps/cargo-ship/room5.json entities/7/settings/event/7/message #2
 #, max-length:530
 msgid "data/maps/cargo-ship/room5.json/entities/7/settings/event/7/message"
-msgstr ""
+msgstr "Ти подивись - ці боягузи накинулися на тебе з усіх боків!"
 
 #. [20498] data/maps/cargo-ship/room5.json entities/7/settings/event/8/thenStep/0/message #58
 #. EventTrigger fight3start START IF map.fight3
@@ -6457,7 +6466,7 @@ msgstr ""
 #: data/maps/cargo-ship/room5.json entities/7/settings/event/8/elseStep/0/message #3
 #, max-length:520
 msgid "data/maps/cargo-ship/room5.json/entities/7/settings/event/8/elseStep/0/message"
-msgstr ""
+msgstr "Але не час панікувати,\\. просто не зупинайся та якнайшвидше атакуй!"
 
 #. [20500] data/maps/cargo-ship/room5.json entities/16/settings/event/2/message #4
 #. EventTrigger fight2prewin START IF map.fight2-prewin
@@ -6465,7 +6474,7 @@ msgstr ""
 #: data/maps/cargo-ship/room5.json entities/16/settings/event/2/message #4
 #, max-length:550
 msgid "data/maps/cargo-ship/room5.json/entities/16/settings/event/2/message"
-msgstr ""
+msgstr "І-і-і ще одна перемога нашої безстрашної гладіаторки Лії!\\."
 
 #. [20501] data/maps/cargo-ship/room5.json entities/16/settings/event/3/message #5
 #. EventTrigger fight2prewin START IF map.fight2-prewin
@@ -6473,7 +6482,7 @@ msgstr ""
 #: data/maps/cargo-ship/room5.json entities/16/settings/event/3/message #5
 #, max-length:210
 msgid "data/maps/cargo-ship/room5.json/entities/16/settings/event/3/message"
-msgstr ""
+msgstr "Боксуючий гладіатор?\\."
 
 #. [20502] data/maps/cargo-ship/room5.json entities/23/settings/event/5/message #6
 #. EventTrigger fight2start START IF map.fight2
@@ -6481,7 +6490,7 @@ msgstr ""
 #: data/maps/cargo-ship/room5.json entities/23/settings/event/5/message #6
 #, max-length:450
 msgid "data/maps/cargo-ship/room5.json/entities/23/settings/event/5/message"
-msgstr ""
+msgstr "Нумо, покажи мені правий хук! \\.\\. А тепер - лівий!"
 
 #. [20503] data/maps/cargo-ship/room5.json entities/23/settings/event/6/message #7
 #. EventTrigger fight2start START IF map.fight2
@@ -6489,7 +6498,7 @@ msgstr ""
 #: data/maps/cargo-ship/room5.json entities/23/settings/event/6/message #7
 #, max-length:500
 msgid "data/maps/cargo-ship/room5.json/entities/23/settings/event/6/message"
-msgstr ""
+msgstr "Стандартний ВББ був змодельований не за боксом\\..\\..\\.."
 
 #. [20504] data/maps/cargo-ship/room5.json entities/23/settings/event/7/message #8
 #. EventTrigger fight2start START IF map.fight2
@@ -6497,7 +6506,7 @@ msgstr ""
 #: data/maps/cargo-ship/room5.json entities/23/settings/event/7/message #8
 #, max-length:220
 msgid "data/maps/cargo-ship/room5.json/entities/23/settings/event/7/message"
-msgstr ""
+msgstr "Тихше будь,\\. розумнику!"
 
 #. [20505] data/maps/cargo-ship/room5.json entities/35/settings/event/2/message #9
 #. EventTrigger fight1prewin START IF map.fight1-prewin
@@ -6505,7 +6514,7 @@ msgstr ""
 #: data/maps/cargo-ship/room5.json entities/35/settings/event/2/message #9
 #, max-length:450
 msgid "data/maps/cargo-ship/room5.json/entities/35/settings/event/2/message"
-msgstr ""
+msgstr "Непогано!\\. Такого вони не очікували."
 
 #. [20506] data/maps/cargo-ship/room5.json entities/40/settings/event/8/message #10
 #. EventTrigger fight1prep START IF map.fight1prep
@@ -6513,7 +6522,7 @@ msgstr ""
 #: data/maps/cargo-ship/room5.json entities/40/settings/event/8/message #10
 #, max-length:270
 msgid "data/maps/cargo-ship/room5.json/entities/40/settings/event/8/message"
-msgstr ""
+msgstr "Зачекай-но!"
 
 #. [20507] data/maps/cargo-ship/room5.json entities/40/settings/event/9/message #11
 #. EventTrigger fight1prep START IF map.fight1prep
@@ -6529,7 +6538,7 @@ msgstr ""
 #: data/maps/cargo-ship/room5.json entities/40/settings/event/10/message #12
 #, max-length:570
 msgid "data/maps/cargo-ship/room5.json/entities/40/settings/event/10/message"
-msgstr ""
+msgstr "Так, я розумію,\\. що чим більше чекаємо тим менше махаємо. "
 
 #. [20509] data/maps/cargo-ship/room5.json entities/40/settings/event/12/message #13
 #. EventTrigger fight1prep START IF map.fight1prep
@@ -6538,6 +6547,8 @@ msgstr ""
 #, max-length:870
 msgid "data/maps/cargo-ship/room5.json/entities/40/settings/event/12/message"
 msgstr ""
+"Але ти повинна знати, що твої удари мають достатню силу, щоб перервати деякі "
+"атаки."
 
 #. [20510] data/maps/cargo-ship/room5.json entities/40/settings/event/13/message #14
 #. EventTrigger fight1prep START IF map.fight1prep
@@ -6545,7 +6556,7 @@ msgstr ""
 #: data/maps/cargo-ship/room5.json entities/40/settings/event/13/message #14
 #, max-length:820
 msgid "data/maps/cargo-ship/room5.json/entities/40/settings/event/13/message"
-msgstr ""
+msgstr "Тож ти можеш лупити своїх опонентів, не дозволяючи їм контратакувати."
 
 #. [20511] data/maps/cargo-ship/room5.json entities/40/settings/event/14/thenStep/1/message #55
 #. EventTrigger fight1prep START IF map.fight1prep
@@ -6599,7 +6610,7 @@ msgstr ""
 #: data/maps/cargo-ship/room5.json entities/40/settings/event/14/elseStep/1/message #16
 #, max-length:480
 msgid "data/maps/cargo-ship/room5.json/entities/40/settings/event/14/elseStep/1/message"
-msgstr ""
+msgstr "Звучить чудово, чи не так?\\. Тож давай, спробуй!"
 
 #. [20517] data/maps/cargo-ship/room5.json entities/41/settings/event/6/message #17
 #. EventTrigger fight1start START IF map.fight1
@@ -6607,7 +6618,7 @@ msgstr ""
 #: data/maps/cargo-ship/room5.json entities/41/settings/event/6/message #17
 #, max-length:420
 msgid "data/maps/cargo-ship/room5.json/entities/41/settings/event/6/message"
-msgstr ""
+msgstr "Швидко скороти дистанцію та колошмать їх з усієї сили!"
 
 #. [20518] data/maps/cargo-ship/room5.json entities/51/settings/blockEvent/3/message #18
 #. Door end
@@ -6624,7 +6635,7 @@ msgstr ""
 #: data/maps/cargo-ship/room5.json entities/61/settings/event/7/message #19
 #, max-length:550
 msgid "data/maps/cargo-ship/room5.json/entities/61/settings/event/7/message"
-msgstr ""
+msgstr "Так чемпіоне, знизь на хвилинку рівень свого адреналіну."
 
 #. [20520] data/maps/cargo-ship/room5.json entities/61/settings/event/8/message #20
 #. EventTrigger intro
@@ -6632,7 +6643,7 @@ msgstr ""
 #: data/maps/cargo-ship/room5.json entities/61/settings/event/8/message #20
 #, max-length:710
 msgid "data/maps/cargo-ship/room5.json/entities/61/settings/event/8/message"
-msgstr ""
+msgstr "Ми повинні додати ще дещо до твого арсеналу.\\.\\. Дещо гостре!"
 
 #. [20521] data/maps/cargo-ship/room5.json entities/61/settings/event/9/message #21
 #. EventTrigger intro
@@ -6648,7 +6659,7 @@ msgstr ""
 #: data/maps/cargo-ship/room5.json entities/61/settings/event/10/message #22
 #, max-length:560
 msgid "data/maps/cargo-ship/room5.json/entities/61/settings/event/10/message"
-msgstr ""
+msgstr "О, я бачу ти зацікавлена.\\.\\. Сергій, ти закінчив?"
 
 #. [20523] data/maps/cargo-ship/room5.json entities/61/settings/event/12/message #23
 #. EventTrigger intro
@@ -6656,7 +6667,7 @@ msgstr ""
 #: data/maps/cargo-ship/room5.json entities/61/settings/event/12/message #23
 #, max-length:610
 msgid "data/maps/cargo-ship/room5.json/entities/61/settings/event/12/message"
-msgstr ""
+msgstr "Так.\\.\\.\\. Розблоковую віртуальний ближній бій\\..\\..\\..\\. вже."
 
 #. [20524] data/maps/cargo-ship/room5.json entities/61/settings/event/14/object #24
 #. EventTrigger intro
@@ -6664,7 +6675,7 @@ msgstr ""
 #: data/maps/cargo-ship/room5.json entities/61/settings/event/14/object #24
 #, max-length:130
 msgid "data/maps/cargo-ship/room5.json/entities/61/settings/event/14/object"
-msgstr ""
+msgstr "\\i[tech]Ближній бій"
 
 #. [20525] data/maps/cargo-ship/room5.json entities/61/settings/event/15/message #25
 #. EventTrigger intro
@@ -6672,7 +6683,7 @@ msgstr ""
 #: data/maps/cargo-ship/room5.json entities/61/settings/event/15/message #25
 #, max-length:450
 msgid "data/maps/cargo-ship/room5.json/entities/61/settings/event/15/message"
-msgstr ""
+msgstr "Чудово!\\. За допомогою ближнього бою...\\."
 
 #. [20526] data/maps/cargo-ship/room5.json entities/61/settings/event/16/message #26
 #. EventTrigger intro
@@ -6680,7 +6691,7 @@ msgstr ""
 #: data/maps/cargo-ship/room5.json entities/61/settings/event/16/message #26
 #, max-length:180
 msgid "data/maps/cargo-ship/room5.json/entities/61/settings/event/16/message"
-msgstr ""
+msgstr "...під назвою ВББ...\\."
 
 #. [20527] data/maps/cargo-ship/room5.json entities/61/settings/event/17/message #27
 #. EventTrigger intro
@@ -6688,7 +6699,7 @@ msgstr ""
 #: data/maps/cargo-ship/room5.json entities/61/settings/event/17/message #27
 #, max-length:690
 msgid "data/maps/cargo-ship/room5.json/entities/61/settings/event/17/message"
-msgstr ""
+msgstr "...ти за раз можеш прорубувати наскрізь декілька цілей на своєму шляху."
 
 #. [20528] data/maps/cargo-ship/room5.json entities/61/settings/event/19/message #28
 #. EventTrigger intro
@@ -6697,6 +6708,8 @@ msgstr ""
 #, max-length:500
 msgid "data/maps/cargo-ship/room5.json/entities/61/settings/event/19/message"
 msgstr ""
+"Звісно,\\. це стосується лише цілей, що знаходяться на близькій дистанції.\\"
+". Зрозуміла?"
 
 #. [20529] data/maps/cargo-ship/room5.json entities/61/settings/event/20/message #29
 #. EventTrigger intro
@@ -6712,7 +6725,7 @@ msgstr ""
 #: data/maps/cargo-ship/room5.json entities/61/settings/event/22/message #30
 #, max-length:680
 msgid "data/maps/cargo-ship/room5.json/entities/61/settings/event/22/message"
-msgstr ""
+msgstr "А в тебе гострий розум!\\. Гаразд, тепер розчистиш нам шлях?"
 
 #. [20531] data/maps/cargo-ship/room5.json entities/61/settings/event/24/guiInfo/settings/text #31
 #. EventTrigger intro
@@ -6722,6 +6735,8 @@ msgstr ""
 #, max-length:1170
 msgid "data/maps/cargo-ship/room5.json/entities/61/settings/event/24/guiInfo/settings/text"
 msgstr ""
+"Натисніть \\i[throw] поряд з Лією всередині кола, щоб здійснити атаку у "
+"ближньому бою, або просто натисніть \\i[key-melee]."
 
 #. [20532] data/maps/cargo-ship/room5.json entities/61/settings/event/24/guiInfo/settings/altText #32
 #. EventTrigger intro
@@ -6740,6 +6755,7 @@ msgstr ""
 #, max-length:540
 msgid "data/maps/cargo-ship/room5.json/entities/65/settings/npcStates/1/event/2/message"
 msgstr ""
+"Просто зроби декілька розігрівочних змахів у бік цих надокучливих перешкод."
 
 #. [20534] data/maps/cargo-ship/room5.json entities/65/settings/npcStates/2/event/2/message #34
 #. NPC carla
@@ -6749,6 +6765,7 @@ msgstr ""
 #, max-length:540
 msgid "data/maps/cargo-ship/room5.json/entities/65/settings/npcStates/2/event/2/message"
 msgstr ""
+"Просто зроби декілька розігрівочних змахів у бік цих надокучливих перешкод."
 
 #. [20535] data/maps/cargo-ship/room5.json entities/65/settings/npcStates/3/event/2/message #35
 #. NPC carla
@@ -6810,7 +6827,7 @@ msgstr ""
 #: data/maps/cargo-ship/room5.json entities/68/settings/event/6/message #41
 #, max-length:510
 msgid "data/maps/cargo-ship/room5.json/entities/68/settings/event/6/message"
-msgstr ""
+msgstr "І-і-і фініш!\\. Можу тебе привітати!"
 
 #. [20542] data/maps/cargo-ship/room5.json entities/68/settings/event/7/message #42
 #. EventTrigger lastScene START IF map.lastScene
@@ -6826,7 +6843,7 @@ msgstr ""
 #: data/maps/cargo-ship/room5.json entities/68/settings/event/8/message #43
 #, max-length:360
 msgid "data/maps/cargo-ship/room5.json/entities/68/settings/event/8/message"
-msgstr ""
+msgstr "Серйозно, дівча...\\. це було ШВИДКО!"
 
 #. [20544] data/maps/cargo-ship/room5.json entities/68/settings/event/9/thenStep/0/message #63
 #. EventTrigger lastScene START IF map.lastScene
@@ -6843,7 +6860,7 @@ msgstr ""
 #: data/maps/cargo-ship/room5.json entities/68/settings/event/10/message #44
 #, max-length:510
 msgid "data/maps/cargo-ship/room5.json/entities/68/settings/event/10/message"
-msgstr ""
+msgstr "Ніби ти ніколи і не забувала засади."
 
 #. [20546] data/maps/cargo-ship/room5.json entities/68/settings/event/11/message #45
 #. EventTrigger lastScene START IF map.lastScene
@@ -6859,7 +6876,7 @@ msgstr ""
 #: data/maps/cargo-ship/room5.json entities/68/settings/event/12/message #46
 #, max-length:480
 msgid "data/maps/cargo-ship/room5.json/entities/68/settings/event/12/message"
-msgstr ""
+msgstr "Ох, ти досі виглядаєш спантеличеною."
 
 #. [20548] data/maps/cargo-ship/room5.json entities/68/settings/event/14/message #47
 #. EventTrigger lastScene START IF map.lastScene
@@ -6867,7 +6884,7 @@ msgstr ""
 #: data/maps/cargo-ship/room5.json entities/68/settings/event/14/message #47
 #, max-length:600
 msgid "data/maps/cargo-ship/room5.json/entities/68/settings/event/14/message"
-msgstr ""
+msgstr "Думаю, час пояснити що відбувається."
 
 #. [20549] data/maps/cargo-ship/room5.json entities/68/settings/event/15/message #48
 #. EventTrigger lastScene START IF map.lastScene
@@ -6875,7 +6892,7 @@ msgstr ""
 #: data/maps/cargo-ship/room5.json entities/68/settings/event/15/message #48
 #, max-length:640
 msgid "data/maps/cargo-ship/room5.json/entities/68/settings/event/15/message"
-msgstr ""
+msgstr "Справді.\\. Але перед цим, давай зробимо невеличку перерву, гаразд?"
 
 #. [20550] data/maps/cargo-ship/room5.json entities/68/settings/event/16/message #49
 #. EventTrigger lastScene START IF map.lastScene
@@ -6884,6 +6901,8 @@ msgstr ""
 #, max-length:700
 msgid "data/maps/cargo-ship/room5.json/entities/68/settings/event/16/message"
 msgstr ""
+"Я все ще мушу доповісти про все капітану.\\. Також він хоче зустрітися з "
+"Лією."
 
 #. [20551] data/maps/cargo-ship/room5.json entities/68/settings/event/17/message #50
 #. EventTrigger lastScene START IF map.lastScene
@@ -6891,7 +6910,7 @@ msgstr ""
 #: data/maps/cargo-ship/room5.json entities/68/settings/event/17/message #50
 #, max-length:520
 msgid "data/maps/cargo-ship/room5.json/entities/68/settings/event/17/message"
-msgstr ""
+msgstr "Слушна думка.\\. Краще не змушувати Джета довго чекати."
 
 #. [20552] data/maps/cargo-ship/room5.json entities/68/settings/event/21/message #51
 #. EventTrigger lastScene START IF map.lastScene
@@ -6899,7 +6918,7 @@ msgstr ""
 #: data/maps/cargo-ship/room5.json entities/68/settings/event/21/message #51
 #, max-length:260
 msgid "data/maps/cargo-ship/room5.json/entities/68/settings/event/21/message"
-msgstr ""
+msgstr "Нумо Лія, сюди!"
 
 #. [20553] data/maps/cargo-ship/room5.json entities/70/settings/event/1/message #52
 #. EventTrigger DesignerWarning START IF plot.line>= 700 && tmp.designerSay
