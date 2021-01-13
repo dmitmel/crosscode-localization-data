@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: crosscode 0.0.0\n"
-"PO-Revision-Date: 2021-01-13 08:43+0000\n"
+"PO-Revision-Date: 2021-01-14 13:23+0000\n"
 "Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.crosscode.ru/projects/crosscode/"
 "rookie-harbor/es/>\n"
@@ -52,7 +52,7 @@ msgstr "Puerto Sur"
 #, max-length:140
 msgctxt "data/areas/rookie-harbor.json/floors/2/maps/2/name"
 msgid "Alley Quarters"
-msgstr "Cuartos de Callejón"
+msgstr "Cuarteles del Callejón"
 
 #. [00662] data/areas/rookie-harbor.json floors/2/maps/3/name #15
 #: data/areas/rookie-harbor.json floors/2/maps/3/name #15
@@ -171,7 +171,7 @@ msgstr "El Golpe de Tripa"
 #, max-length:140
 msgctxt "data/areas/rookie-harbor.json/floors/2/maps/19/name"
 msgid "Traders Kontor"
-msgstr "Kontor de Comerciantes"
+msgstr "Centro de Comerciantes"
 
 #. [00679] data/areas/rookie-harbor.json floors/2/maps/20/name #169
 #: data/areas/rookie-harbor.json floors/2/maps/20/name #169
@@ -206,7 +206,7 @@ msgstr "Centro de Buscadores 2do Piso "
 #, max-length:170
 msgctxt "data/areas/rookie-harbor.json/floors/3/maps/1/name"
 msgid "Traders Kontor 2F"
-msgstr "Kontor de Comerciantes P2"
+msgstr "Centro de Comerciantes P2"
 
 #. [33423] data/maps/rookie-harbor/center.json entities/399/settings/interact/hoverText #2
 #. Prop
@@ -215,7 +215,7 @@ msgstr "Kontor de Comerciantes P2"
 msgctxt "data/maps/rookie-harbor/center.json/entities/399/settings/interact/hoverText"
 msgid "\\i[arrow-nw] Alley Quarters\n\\i[arrow-e] Falling Exit\n\\i[arrow-sw] Harbors"
 msgstr ""
-"\\i[arrow-nw] Cuartos de Callejón\n"
+"\\i[arrow-nw] Cuarteles del Callejón\n"
 "\\i[arrow-e] Salida del Anochecer\n"
 "\\i[arrow-sw] Puertos"
 
@@ -256,7 +256,7 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/403/settings/interact/hoverText"
 msgid "\\i[arrow-ne] Alley Quarters\n\\i[arrow-w] Rising Exit\n\\i[arrow-se] Harbors"
 msgstr ""
-"\\i[arrow-ne] Cuartos del Callejón\n"
+"\\i[arrow-ne] Cuarteles del Callejón\n"
 "\\i[arrow-w] Salida del Amanecer\n"
 "\\i[arrow-se] Puertos"
 
@@ -1924,6 +1924,8 @@ msgstr "Oh, que pena. Espero que lo encuentres."
 msgctxt "data/maps/rookie-harbor/center.json/entities/575/settings/npcStates/2/event/5/message"
 msgid "Some player told me it was hidden in \\c[3]\\v[area.autumn-area.name]\\c[0]."
 msgstr ""
+"Un jugador me dijo que está escondido en el \\c[3]\\v[area.autumn-area.name]"
+"\\c[0]."
 
 #. [33588] data/maps/rookie-harbor/center.json entities/575/settings/npcStates/2/event/6/message #176
 #. NPC DKar
@@ -1934,6 +1936,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/575/settings/npcStates/2/event/6/message"
 msgid "Apparently there is an area where you have to defeat lots of \\c[3]\\v[combat.name.hedgehog]s\\c[0] while it's raining. "
 msgstr ""
+"Aparentemente hay un área dónde debes derrotar a muchos \\c[3]\\v[combat.name"
+".hedgehog]s\\c[0] mientras llueve. "
 
 #. [33589] data/maps/rookie-harbor/center.json entities/575/settings/npcStates/3/event/quest/2/message #158
 #. NPC DKar
@@ -1944,6 +1948,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/575/settings/npcStates/3/event/quest/2/message"
 msgid "Welcome back young lady. Did you find the \\c[3]\\v[item.133.name]\\c[0] yet?"
 msgstr ""
+"Bienvenida de nuevo, jovencita. ¿Ya has encontrado el \\c[3]\\v[item.133."
+"name]\\c[0]?"
 
 #. [33590] data/maps/rookie-harbor/center.json entities/575/settings/npcStates/3/event/quest/3/message #159
 #. NPC DKar
@@ -1953,7 +1959,7 @@ msgstr ""
 #, max-length:60
 msgctxt "data/maps/rookie-harbor/center.json/entities/575/settings/npcStates/3/event/quest/3/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[asiente]"
 
 #. [33591] data/maps/rookie-harbor/center.json entities/575/settings/npcStates/3/event/quest/4/message #160
 #. NPC DKar
@@ -1963,7 +1969,7 @@ msgstr ""
 #, max-length:80
 msgctxt "data/maps/rookie-harbor/center.json/entities/575/settings/npcStates/3/event/quest/4/message"
 msgid "Really!?"
-msgstr ""
+msgstr "¿¡En serio!?"
 
 #. [33592] data/maps/rookie-harbor/center.json entities/575/settings/npcStates/3/event/quest/5/message #161
 #. NPC DKar
@@ -1973,7 +1979,7 @@ msgstr ""
 #, max-length:30
 msgctxt "data/maps/rookie-harbor/center.json/entities/575/settings/npcStates/3/event/quest/5/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. [33593] data/maps/rookie-harbor/center.json entities/575/settings/npcStates/3/event/quest/6/message #162
 #. NPC DKar
@@ -1983,7 +1989,7 @@ msgstr ""
 #, max-length:280
 msgctxt "data/maps/rookie-harbor/center.json/entities/575/settings/npcStates/3/event/quest/6/message"
 msgid "This is...\\.\\.\\. very good. "
-msgstr ""
+msgstr "Esto es...\\.\\.\\. muy bueno. "
 
 #. [33594] data/maps/rookie-harbor/center.json entities/575/settings/npcStates/3/event/quest/7/message #163
 #. NPC DKar
@@ -1993,7 +1999,7 @@ msgstr ""
 #, max-length:280
 msgctxt "data/maps/rookie-harbor/center.json/entities/575/settings/npcStates/3/event/quest/7/message"
 msgid "I knew I could count on you."
-msgstr ""
+msgstr "Sabía que podía confiar en tí."
 
 #. [33595] data/maps/rookie-harbor/center.json entities/575/settings/npcStates/3/event/quest/8/message #164
 #. NPC DKar
@@ -2003,7 +2009,7 @@ msgstr ""
 #, max-length:520
 msgctxt "data/maps/rookie-harbor/center.json/entities/575/settings/npcStates/3/event/quest/8/message"
 msgid "Such a fine young lady with expert listening skills."
-msgstr ""
+msgstr "Una jovencita tan fina con expertas habilidades para escuchar."
 
 #. [33596] data/maps/rookie-harbor/center.json entities/575/settings/npcStates/3/event/quest/9/message #165
 #. NPC DKar
@@ -2013,7 +2019,7 @@ msgstr ""
 #, max-length:40
 msgctxt "data/maps/rookie-harbor/center.json/entities/575/settings/npcStates/3/event/quest/9/message"
 msgid "...!"
-msgstr ""
+msgstr "¡...!"
 
 #. [33597] data/maps/rookie-harbor/center.json entities/575/settings/npcStates/3/event/quest/10/message #166
 #. NPC DKar
@@ -2023,7 +2029,7 @@ msgstr ""
 #, max-length:650
 msgctxt "data/maps/rookie-harbor/center.json/entities/575/settings/npcStates/3/event/quest/10/message"
 msgid "Thanks a lot. I even have a little something for you as a reward!"
-msgstr ""
+msgstr "Muchas gracias. ¡Tengo algo para tí como recompensa!"
 
 #. [33598] data/maps/rookie-harbor/center.json entities/575/settings/npcStates/3/event/quest/11/message #168
 #. NPC DKar
@@ -2033,7 +2039,7 @@ msgstr ""
 #, max-length:40
 msgctxt "data/maps/rookie-harbor/center.json/entities/575/settings/npcStates/3/event/quest/11/message"
 msgid "...!"
-msgstr ""
+msgstr "¡...!"
 
 #. [33599] data/maps/rookie-harbor/center.json entities/575/settings/npcStates/3/event/quest/12/message #178
 #. NPC DKar
@@ -2043,7 +2049,7 @@ msgstr ""
 #, max-length:360
 msgctxt "data/maps/rookie-harbor/center.json/entities/575/settings/npcStates/3/event/quest/12/message"
 msgid "Oh, I never asked you for your name!"
-msgstr ""
+msgstr "Oh, ¡nunca te pregunté tu nombre!"
 
 #. [33600] data/maps/rookie-harbor/center.json entities/575/settings/npcStates/3/event/quest/13/name #483
 #. NPC DKar
@@ -2053,7 +2059,7 @@ msgstr ""
 #, max-length:110
 msgctxt "data/maps/rookie-harbor/center.json/entities/575/settings/npcStates/3/event/quest/13/name"
 msgid "Ketin D'Kar"
-msgstr ""
+msgstr "Ketin D'Kar"
 
 #. [33601] data/maps/rookie-harbor/center.json entities/575/settings/npcStates/3/event/quest/14/message #179
 #. NPC DKar
@@ -2063,7 +2069,7 @@ msgstr ""
 #, max-length:500
 msgctxt "data/maps/rookie-harbor/center.json/entities/575/settings/npcStates/3/event/quest/14/message"
 msgid "I'm \\c[3]D'kar\\c[0]. \\.\\.\\. \\c[3]Ketin D'Kar\\c[0]."
-msgstr ""
+msgstr "Soy \\c[3]D'Kar\\c[0]. \\.\\.\\. \\c[3]Ketin D'Kar\\c[0]."
 
 #. [33602] data/maps/rookie-harbor/center.json entities/575/settings/npcStates/3/event/quest/15/message #180
 #. NPC DKar
@@ -2073,7 +2079,7 @@ msgstr ""
 #, max-length:80
 msgctxt "data/maps/rookie-harbor/center.json/entities/575/settings/npcStates/3/event/quest/15/message"
 msgid "Lea, Hi!"
-msgstr ""
+msgstr "¡Lea, Hola!"
 
 #. [33603] data/maps/rookie-harbor/center.json entities/575/settings/npcStates/3/event/quest/16/message #181
 #. NPC DKar
@@ -2083,7 +2089,7 @@ msgstr ""
 #, max-length:680
 msgctxt "data/maps/rookie-harbor/center.json/entities/575/settings/npcStates/3/event/quest/16/message"
 msgid "Well, I'm not good with long goodbyes, so let's keep this one short."
-msgstr ""
+msgstr "Bueno, no me gustan las despedidas así que me iré rápidamente."
 
 #. [33604] data/maps/rookie-harbor/center.json entities/575/settings/npcStates/3/event/quest/17/message #182
 #. NPC DKar
@@ -2093,7 +2099,7 @@ msgstr ""
 #, max-length:40
 msgctxt "data/maps/rookie-harbor/center.json/entities/575/settings/npcStates/3/event/quest/17/message"
 msgid "Bye!"
-msgstr ""
+msgstr "¡Adiós!"
 
 #. [33605] data/maps/rookie-harbor/center.json entities/575/settings/npcStates/3/event/quest/18/message #183
 #. NPC DKar
@@ -2103,7 +2109,7 @@ msgstr ""
 #, max-length:30
 msgctxt "data/maps/rookie-harbor/center.json/entities/575/settings/npcStates/3/event/quest/18/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. [33606] data/maps/rookie-harbor/center.json entities/575/settings/npcStates/3/event/quest/19/thenStep/0/message #432
 #. NPC DKar
@@ -2114,7 +2120,7 @@ msgstr ""
 #, max-length:60
 msgctxt "data/maps/rookie-harbor/center.json/entities/575/settings/npcStates/3/event/quest/19/thenStep/0/message"
 msgid "Bye..."
-msgstr ""
+msgstr "Adiós..."
 
 #. [33607] data/maps/rookie-harbor/center.json entities/575/settings/npcStates/3/event/quest/19/elseStep/0/message #184
 #. NPC DKar
@@ -2125,7 +2131,7 @@ msgstr ""
 #, max-length:30
 msgctxt "data/maps/rookie-harbor/center.json/entities/575/settings/npcStates/3/event/quest/19/elseStep/0/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. [33608] data/maps/rookie-harbor/center.json entities/576/settings/event/0/message #146
 #. EventTrigger DKarSideMessage START IF map.dkarSideMessageTrigger
@@ -2135,6 +2141,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/576/settings/event/0/message"
 msgid "That man just now... \\.\\.\\. He looked like he was wearing gear from each class."
 msgstr ""
+"Ese hombre de recién... \\.\\.\\. Parecía que estuviera vistiendo "
+"equipamiento de todas las clases."
 
 #. [33609] data/maps/rookie-harbor/center.json entities/576/settings/event/1/message #147
 #. EventTrigger DKarSideMessage START IF map.dkarSideMessageTrigger
@@ -2143,7 +2151,7 @@ msgstr ""
 #, max-length:30
 msgctxt "data/maps/rookie-harbor/center.json/entities/576/settings/event/1/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. [33610] data/maps/rookie-harbor/center.json entities/576/settings/event/2/message #148
 #. EventTrigger DKarSideMessage START IF map.dkarSideMessageTrigger
@@ -2153,6 +2161,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/576/settings/event/2/message"
 msgid "Normally that should not be possible. I wonder how he managed to sneak this past the developers."
 msgstr ""
+"Normalmente eso no es posible. Me pregunto como habrá conseguido hacerlo sin "
+"que se enteren los desarrolladores."
 
 #. [33611] data/maps/rookie-harbor/center.json entities/613/settings/npcStates/1/event/quest/2/message #213
 #. NPC present-14
@@ -2162,7 +2172,7 @@ msgstr ""
 #, max-length:40
 msgctxt "data/maps/rookie-harbor/center.json/entities/613/settings/npcStates/1/event/quest/2/message"
 msgid "...!"
-msgstr ""
+msgstr "¡...!"
 
 #. [33612] data/maps/rookie-harbor/center.json entities/613/settings/npcStates/1/event/quest/3/message #214
 #. NPC present-14
@@ -2172,7 +2182,7 @@ msgstr ""
 #, max-length:230
 msgctxt "data/maps/rookie-harbor/center.json/entities/613/settings/npcStates/1/event/quest/3/message"
 msgid "This is for me, right? "
-msgstr ""
+msgstr "Esto es para mí, ¿cierto? "
 
 #. [33613] data/maps/rookie-harbor/center.json entities/613/settings/npcStates/1/event/quest/4/message #215
 #. NPC present-14
@@ -2182,7 +2192,7 @@ msgstr ""
 #, max-length:60
 msgctxt "data/maps/rookie-harbor/center.json/entities/613/settings/npcStates/1/event/quest/4/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[asiente]"
 
 #. [33614] data/maps/rookie-harbor/center.json entities/613/settings/npcStates/1/event/quest/5/message #216
 #. NPC present-14
@@ -2193,6 +2203,7 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/613/settings/npcStates/1/event/quest/5/message"
 msgid "I really love all these gifts, but I sure would like to know where they're coming from."
 msgstr ""
+"En serio que me gustan estos regalos, pero me gustaría saber quién los envía."
 
 #. [33615] data/maps/rookie-harbor/center.json entities/613/settings/npcStates/1/event/quest/6/message #217
 #. NPC present-14
@@ -2202,7 +2213,7 @@ msgstr ""
 #, max-length:230
 msgctxt "data/maps/rookie-harbor/center.json/entities/613/settings/npcStates/1/event/quest/6/message"
 msgid "Where did you get this?"
-msgstr ""
+msgstr "¿Dónde lo conseguiste?"
 
 #. [33616] data/maps/rookie-harbor/center.json entities/613/settings/npcStates/1/event/quest/7/message #218
 #. NPC present-14
@@ -2212,7 +2223,7 @@ msgstr ""
 #, max-length:330
 msgctxt "data/maps/rookie-harbor/center.json/entities/613/settings/npcStates/1/event/quest/7/message"
 msgid "Lea... \\.\\.\\. Lea... \\.\\.\\. Hi..."
-msgstr ""
+msgstr "Lea... \\.\\.\\. Lea... \\.\\.\\. Hola..."
 
 #. [33617] data/maps/rookie-harbor/center.json entities/613/settings/npcStates/1/event/quest/8/message #219
 #. NPC present-14
@@ -2222,7 +2233,7 @@ msgstr ""
 #, max-length:360
 msgctxt "data/maps/rookie-harbor/center.json/entities/613/settings/npcStates/1/event/quest/8/message"
 msgid "Alright, I don't know what you mean."
-msgstr ""
+msgstr "Bien, no sé que quieres decir."
 
 #. [33618] data/maps/rookie-harbor/center.json entities/613/settings/npcStates/1/event/quest/9/message #220
 #. NPC present-14
@@ -2232,7 +2243,7 @@ msgstr ""
 #, max-length:30
 msgctxt "data/maps/rookie-harbor/center.json/entities/613/settings/npcStates/1/event/quest/9/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. [33619] data/maps/rookie-harbor/center.json entities/613/settings/npcStates/1/event/quest/10/message #221
 #. NPC present-14
@@ -2242,7 +2253,7 @@ msgstr ""
 #, max-length:420
 msgctxt "data/maps/rookie-harbor/center.json/entities/613/settings/npcStates/1/event/quest/10/message"
 msgid "Just forget I asked. I'll find out myself."
-msgstr ""
+msgstr "Olvídate que pregunté. Lo averiguaré yo misma."
 
 #. [33620] data/maps/rookie-harbor/center.json entities/617/settings/event/15/message #222
 #. EventTrigger LukasExpains1 START IF plot.line >= 0
@@ -2251,7 +2262,7 @@ msgstr ""
 #, max-length:360
 msgctxt "data/maps/rookie-harbor/center.json/entities/617/settings/event/15/message"
 msgid "Alright, next stop, the town center!"
-msgstr ""
+msgstr "De acuerdo, ¡siguiente parada, el centro!"
 
 #. [33621] data/maps/rookie-harbor/center.json entities/617/settings/event/19/message #223
 #. EventTrigger LukasExpains1 START IF plot.line >= 0
@@ -2260,7 +2271,7 @@ msgstr ""
 #, max-length:320
 msgctxt "data/maps/rookie-harbor/center.json/entities/617/settings/event/19/message"
 msgid "Oh, is that a market over there?"
-msgstr ""
+msgstr "Oh, ¿es ese mercado de ahí?"
 
 #. [33622] data/maps/rookie-harbor/center.json entities/617/settings/event/21/message #224
 #. EventTrigger LukasExpains1 START IF plot.line >= 0
@@ -2270,6 +2281,7 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/617/settings/event/21/message"
 msgid "Japp!\\. You'll find most of the \\c[3]traders\\c[0] around here."
 msgstr ""
+"¡Japp!\\. Encontrarás a la mayoría de los \\c[3]comerciantes\\c[0] aquí."
 
 #. [33623] data/maps/rookie-harbor/center.json entities/617/settings/event/22/message #225
 #. EventTrigger LukasExpains1 START IF plot.line >= 0
@@ -2278,7 +2290,7 @@ msgstr ""
 #, max-length:480
 msgctxt "data/maps/rookie-harbor/center.json/entities/617/settings/event/22/message"
 msgid "...Well, they're all over the place to be frank."
-msgstr ""
+msgstr "...Bueno, están por todos lados para ser sincero."
 
 #. [33624] data/maps/rookie-harbor/center.json entities/617/settings/event/28/message #226
 #. EventTrigger LukasExpains1 START IF plot.line >= 0
@@ -2287,7 +2299,7 @@ msgstr ""
 #, max-length:520
 msgctxt "data/maps/rookie-harbor/center.json/entities/617/settings/event/28/message"
 msgid "Those traders offer \\c[3]pretty good equipment\\c[3]."
-msgstr ""
+msgstr "Los comerciantes ofrecen \\c[3]muy buen equipamiento\\c[0]."
 
 #. [33625] data/maps/rookie-harbor/center.json entities/617/settings/event/29/message #227
 #. EventTrigger LukasExpains1 START IF plot.line >= 0
@@ -2297,6 +2309,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/617/settings/event/29/message"
 msgid "The catch: you first need to collect all the \\c[3]required trade items\\c[0] in the wild. "
 msgstr ""
+"El truco: primero tienes que recolectar todos los \\c[3]objetos de "
+"intercambio necesarios\\c[0] por el mundo. "
 
 #. [33626] data/maps/rookie-harbor/center.json entities/617/settings/event/30/message #228
 #. EventTrigger LukasExpains1 START IF plot.line >= 0
@@ -2305,7 +2319,7 @@ msgstr ""
 #, max-length:330
 msgctxt "data/maps/rookie-harbor/center.json/entities/617/settings/event/30/message"
 msgid "It takes time, but it's worth it."
-msgstr ""
+msgstr "Lleva tiempo, pero lo vale."
 
 #. [33627] data/maps/rookie-harbor/center.json entities/617/settings/event/31/message #229
 #. EventTrigger LukasExpains1 START IF plot.line >= 0
@@ -2314,7 +2328,7 @@ msgstr ""
 #, max-length:410
 msgctxt "data/maps/rookie-harbor/center.json/entities/617/settings/event/31/message"
 msgid "Further up is another important building."
-msgstr ""
+msgstr "Más adelante hay otor edifico importante."
 
 #. [33628] data/maps/rookie-harbor/center.json entities/617/settings/event/32/message #230
 #. EventTrigger LukasExpains1 START IF plot.line >= 0
@@ -2323,7 +2337,7 @@ msgstr ""
 #, max-length:90
 msgctxt "data/maps/rookie-harbor/center.json/entities/617/settings/event/32/message"
 msgid "This way!"
-msgstr ""
+msgstr "¡Por aquí!"
 
 #. [33629] data/maps/rookie-harbor/center.json entities/617/settings/event/35/thenStep/0/message #543
 #. EventTrigger LukasExpains1 START IF plot.line >= 0
@@ -2334,6 +2348,7 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/617/settings/event/35/thenStep/0/message"
 msgid "Well you pretty much already have \\c[1]all the equipment\\c[0], so...."
 msgstr ""
+"Bueno ya prácticamente tienes \\c[1]todo el equipamiento\\c[0], así que..."
 
 #. [33630] data/maps/rookie-harbor/center.json entities/619/settings/event/12/message #231
 #. EventTrigger SchneiderExplainsQuests START IF tmp.centerEntered
@@ -2342,7 +2357,7 @@ msgstr ""
 #, max-length:270
 msgctxt "data/maps/rookie-harbor/center.json/entities/619/settings/event/12/message"
 msgid "See that building up there?"
-msgstr ""
+msgstr "¿Ves ese edifico de ahí?"
 
 #. [33631] data/maps/rookie-harbor/center.json entities/619/settings/event/16/message #232
 #. EventTrigger SchneiderExplainsQuests START IF tmp.centerEntered
@@ -2352,6 +2367,7 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/619/settings/event/16/message"
 msgid "That's the \\c[3]Seeker Hub\\c[0] or \\c[3]Quest Hub\\c[0]."
 msgstr ""
+"Ese es el \\c[3]Centro de Buscadores\\c[0] o \\c[3]Centro de Misiones\\c[0]."
 
 #. [33632] data/maps/rookie-harbor/center.json entities/619/settings/event/17/message #233
 #. EventTrigger SchneiderExplainsQuests START IF tmp.centerEntered
@@ -2360,7 +2376,7 @@ msgstr ""
 #, max-length:540
 msgctxt "data/maps/rookie-harbor/center.json/entities/619/settings/event/17/message"
 msgid "Surprise, you'll find a lot of \\c[3]quests\\c[0] there!"
-msgstr ""
+msgstr "¡Sorpresa! ¡Encontrarás muchas \\c[3]misiones\\c[0] ahí!"
 
 #. [33633] data/maps/rookie-harbor/center.json entities/619/settings/event/18/message #234
 #. EventTrigger SchneiderExplainsQuests START IF tmp.centerEntered
@@ -2369,7 +2385,7 @@ msgstr ""
 #, max-length:570
 msgctxt "data/maps/rookie-harbor/center.json/entities/619/settings/event/18/message"
 msgid "... Just like in many other places in town and elsewhere."
-msgstr ""
+msgstr "... Al igual que en muchos otros lugares por el pueblo y otros lados."
 
 #. [33634] data/maps/rookie-harbor/center.json entities/619/settings/event/19/message #235
 #. EventTrigger SchneiderExplainsQuests START IF tmp.centerEntered
@@ -2379,6 +2395,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/619/settings/event/19/message"
 msgid "All those quests are optional, but the rewards usually make it worthwhile."
 msgstr ""
+"Todas esas misiones son opcionales, pero las recompensas generalmente hacen "
+"que lo valgan."
 
 #. [33635] data/maps/rookie-harbor/center.json entities/619/settings/event/25/message #243
 #. EventTrigger SchneiderExplainsQuests START IF tmp.centerEntered
@@ -2387,7 +2405,7 @@ msgstr ""
 #, max-length:310
 msgctxt "data/maps/rookie-harbor/center.json/entities/619/settings/event/25/message"
 msgid "Hey Lea, are you still with us?"
-msgstr ""
+msgstr "Ey Lea, ¿me sigues?"
 
 #. [33636] data/maps/rookie-harbor/center.json entities/619/settings/event/26/message #244
 #. EventTrigger SchneiderExplainsQuests START IF tmp.centerEntered
@@ -2396,7 +2414,7 @@ msgstr ""
 #, max-length:60
 msgctxt "data/maps/rookie-harbor/center.json/entities/619/settings/event/26/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[asiente]"
 
 #. [33637] data/maps/rookie-harbor/center.json entities/619/settings/event/27/message #245
 #. EventTrigger SchneiderExplainsQuests START IF tmp.centerEntered
@@ -2405,7 +2423,7 @@ msgstr ""
 #, max-length:240
 msgctxt "data/maps/rookie-harbor/center.json/entities/619/settings/event/27/message"
 msgid "Oui, she's a quiet one. "
-msgstr ""
+msgstr "Oui, es algo callada. "
 
 #. [33638] data/maps/rookie-harbor/center.json entities/619/settings/event/28/message #246
 #. EventTrigger SchneiderExplainsQuests START IF tmp.centerEntered
@@ -2414,7 +2432,7 @@ msgstr ""
 #, max-length:620
 msgctxt "data/maps/rookie-harbor/center.json/entities/619/settings/event/28/message"
 msgid "But she was really fast at the tutorial, almost beat me to it!"
-msgstr ""
+msgstr "Pero fue muy rápida en el tutorial, ¡casi me gana!"
 
 #. [33639] data/maps/rookie-harbor/center.json entities/619/settings/event/29/message #247
 #. EventTrigger SchneiderExplainsQuests START IF tmp.centerEntered
@@ -2423,7 +2441,7 @@ msgstr ""
 #, max-length:520
 msgctxt "data/maps/rookie-harbor/center.json/entities/619/settings/event/29/message"
 msgid "Well like they say -\\. still waters run deep, right?"
-msgstr ""
+msgstr "Bueno es como dicen -\\. las aguas tranquilas son profundas, ¿no?"
 
 #. [33640] data/maps/rookie-harbor/center.json entities/619/settings/event/30/thenStep/0/message #554
 #. EventTrigger SchneiderExplainsQuests START IF tmp.centerEntered
@@ -2433,7 +2451,7 @@ msgstr ""
 #, max-length:230
 msgctxt "data/maps/rookie-harbor/center.json/entities/619/settings/event/30/thenStep/0/message"
 msgid "Uhm...\\. wait a moment."
-msgstr ""
+msgstr "Um...\\. espera un momento."
 
 #. [33641] data/maps/rookie-harbor/center.json entities/619/settings/event/30/thenStep/1/message #544
 #. EventTrigger SchneiderExplainsQuests START IF tmp.centerEntered
@@ -2443,7 +2461,7 @@ msgstr ""
 #, max-length:440
 msgctxt "data/maps/rookie-harbor/center.json/entities/619/settings/event/30/thenStep/1/message"
 msgid "You are... \\c[1]level \\v[player.level]\\c[0]?"
-msgstr ""
+msgstr "¿Eres... \\c[1]nivel \\v[player.level]\\c[0]?"
 
 #. [33642] data/maps/rookie-harbor/center.json entities/619/settings/event/30/thenStep/2/message #545
 #. EventTrigger SchneiderExplainsQuests START IF tmp.centerEntered
@@ -2453,7 +2471,7 @@ msgstr ""
 #, max-length:50
 msgctxt "data/maps/rookie-harbor/center.json/entities/619/settings/event/30/thenStep/2/message"
 msgid "...!!"
-msgstr ""
+msgstr "¡¡...!!"
 
 #. [33643] data/maps/rookie-harbor/center.json entities/619/settings/event/30/thenStep/3/message #546
 #. EventTrigger SchneiderExplainsQuests START IF tmp.centerEntered
@@ -2463,7 +2481,7 @@ msgstr ""
 #, max-length:310
 msgctxt "data/maps/rookie-harbor/center.json/entities/619/settings/event/30/thenStep/3/message"
 msgid "Yeah...\\. her level is strange."
-msgstr ""
+msgstr "Si...\\. su nivel es extraño."
 
 #. [33644] data/maps/rookie-harbor/center.json entities/619/settings/event/30/thenStep/4/message #547
 #. EventTrigger SchneiderExplainsQuests START IF tmp.centerEntered
@@ -2473,7 +2491,7 @@ msgstr ""
 #, max-length:470
 msgctxt "data/maps/rookie-harbor/center.json/entities/619/settings/event/30/thenStep/4/message"
 msgid "Are you sure she just started the game as well?"
-msgstr ""
+msgstr "¿Estás segura de que acaba de empezar?"
 
 #. [33645] data/maps/rookie-harbor/center.json entities/619/settings/event/30/thenStep/5/message #548
 #. EventTrigger SchneiderExplainsQuests START IF tmp.centerEntered
@@ -2483,7 +2501,7 @@ msgstr ""
 #, max-length:60
 msgctxt "data/maps/rookie-harbor/center.json/entities/619/settings/event/30/thenStep/5/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[asiente]"
 
 #. [33646] data/maps/rookie-harbor/center.json entities/619/settings/event/30/thenStep/6/message #549
 #. EventTrigger SchneiderExplainsQuests START IF tmp.centerEntered
@@ -2493,7 +2511,7 @@ msgstr ""
 #, max-length:600
 msgctxt "data/maps/rookie-harbor/center.json/entities/619/settings/event/30/thenStep/6/message"
 msgid "Oui.\\. I saw her on Newcomer's Bridge, between the dungeons."
-msgstr ""
+msgstr "Oui.\\. La conocí en el Puente de los Novatos, entre las mazmorras."
 
 #. [33647] data/maps/rookie-harbor/center.json entities/619/settings/event/30/thenStep/7/message #550
 #. EventTrigger SchneiderExplainsQuests START IF tmp.centerEntered
@@ -2503,7 +2521,7 @@ msgstr ""
 #, max-length:510
 msgctxt "data/maps/rookie-harbor/center.json/entities/619/settings/event/30/thenStep/7/message"
 msgid "Gotta be honest, this sounds \\c[1]kinda fishy\\c[0]."
-msgstr ""
+msgstr "Para ser sincero, esto se ve \\c[1]algo sospechoso\\c[0]."
 
 #. [33648] data/maps/rookie-harbor/center.json entities/619/settings/event/30/thenStep/8/message #551
 #. EventTrigger SchneiderExplainsQuests START IF tmp.centerEntered
@@ -2513,7 +2531,7 @@ msgstr ""
 #, max-length:30
 msgctxt "data/maps/rookie-harbor/center.json/entities/619/settings/event/30/thenStep/8/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. [33649] data/maps/rookie-harbor/center.json entities/619/settings/event/30/thenStep/9/message #552
 #. EventTrigger SchneiderExplainsQuests START IF tmp.centerEntered
@@ -2523,7 +2541,7 @@ msgstr ""
 #, max-length:530
 msgctxt "data/maps/rookie-harbor/center.json/entities/619/settings/event/30/thenStep/9/message"
 msgid "Come on! You always worry too much about the details!"
-msgstr ""
+msgstr "¡Vamos! ¡Siempre te preocupas mucho con los detalles!"
 
 #. [33650] data/maps/rookie-harbor/center.json entities/619/settings/event/30/thenStep/10/message #553
 #. EventTrigger SchneiderExplainsQuests START IF tmp.centerEntered
@@ -2533,7 +2551,7 @@ msgstr ""
 #, max-length:370
 msgctxt "data/maps/rookie-harbor/center.json/entities/619/settings/event/30/thenStep/10/message"
 msgid "Anyway!\\. What about that main quest?"
-msgstr ""
+msgstr "¡A otra cosa!\\. ¿Qué hay de la misión principal?"
 
 #. [33651] data/maps/rookie-harbor/center.json entities/619/settings/event/30/elseStep/0/message #236
 #. EventTrigger SchneiderExplainsQuests START IF tmp.centerEntered
@@ -2543,7 +2561,7 @@ msgstr ""
 #, max-length:400
 msgctxt "data/maps/rookie-harbor/center.json/entities/619/settings/event/30/elseStep/0/message"
 msgid "Oui, oui.\\. What about that main quest? "
-msgstr ""
+msgstr "Oui, oui.\\. ¿Qué hay de la misión principal? "
 
 #. [33652] data/maps/rookie-harbor/center.json entities/619/settings/event/31/message #237
 #. EventTrigger SchneiderExplainsQuests START IF tmp.centerEntered
@@ -2552,7 +2570,7 @@ msgstr ""
 #, max-length:600
 msgctxt "data/maps/rookie-harbor/center.json/entities/619/settings/event/31/message"
 msgid "They kept talking about the \\c[3]Track of the Ancients\\c[0]."
-msgstr ""
+msgstr "Nos hablaban sobre el \\c[3]Camino de los Antiguos\\c[0]."
 
 #. [33653] data/maps/rookie-harbor/center.json entities/619/settings/event/32/message #238
 #. EventTrigger SchneiderExplainsQuests START IF tmp.centerEntered
@@ -2561,7 +2579,7 @@ msgstr ""
 #, max-length:370
 msgctxt "data/maps/rookie-harbor/center.json/entities/619/settings/event/32/message"
 msgid "Oh right, I almost forgot about that."
-msgstr ""
+msgstr "Oh cierto, casi me olvido."
 
 #. [33654] data/maps/rookie-harbor/center.json entities/619/settings/event/33/message #270
 #. EventTrigger SchneiderExplainsQuests START IF tmp.centerEntered
@@ -2570,7 +2588,7 @@ msgstr ""
 #, max-length:430
 msgctxt "data/maps/rookie-harbor/center.json/entities/619/settings/event/33/message"
 msgid "You'll have to enter the Quest Hub, anyway."
-msgstr ""
+msgstr "Tienen que entrar al Centro de Misiones de todos modos."
 
 #. [33655] data/maps/rookie-harbor/center.json entities/619/settings/event/34/message #271
 #. EventTrigger SchneiderExplainsQuests START IF tmp.centerEntered
@@ -2579,7 +2597,7 @@ msgstr ""
 #, max-length:540
 msgctxt "data/maps/rookie-harbor/center.json/entities/619/settings/event/34/message"
 msgid "There is a mandatory introduction for all new players."
-msgstr ""
+msgstr "Hay una introducción mandatoria para todos los jugadores."
 
 #. [33656] data/maps/rookie-harbor/center.json entities/619/settings/event/35/message #272
 #. EventTrigger SchneiderExplainsQuests START IF tmp.centerEntered
@@ -2588,7 +2606,7 @@ msgstr ""
 #, max-length:350
 msgctxt "data/maps/rookie-harbor/center.json/entities/619/settings/event/35/message"
 msgid "They'll explain all about it there."
-msgstr ""
+msgstr "Les explicarán las cosas ahí."
 
 #. [33657] data/maps/rookie-harbor/center.json entities/619/settings/event/36/message #273
 #. EventTrigger SchneiderExplainsQuests START IF tmp.centerEntered
@@ -2597,7 +2615,7 @@ msgstr ""
 #, max-length:570
 msgctxt "data/maps/rookie-harbor/center.json/entities/619/settings/event/36/message"
 msgid "I suggest you go in right away and just get it over with."
-msgstr ""
+msgstr "Sugiero que vayan para que se lo quiten de encima."
 
 #. [33658] data/maps/rookie-harbor/center.json entities/619/settings/event/37/message #274
 #. EventTrigger SchneiderExplainsQuests START IF tmp.centerEntered
@@ -2606,7 +2624,7 @@ msgstr ""
 #, max-length:200
 msgctxt "data/maps/rookie-harbor/center.json/entities/619/settings/event/37/message"
 msgid "I'll just wait here."
-msgstr ""
+msgstr "Esperaré aquí."
 
 #. [33659] data/maps/rookie-harbor/center.json entities/619/settings/event/38/message #275
 #. EventTrigger SchneiderExplainsQuests START IF tmp.centerEntered
@@ -2615,7 +2633,7 @@ msgstr ""
 #, max-length:260
 msgctxt "data/maps/rookie-harbor/center.json/entities/619/settings/event/38/message"
 msgid "D'accord!\\. Let's go, Lea!"
-msgstr ""
+msgstr "¡D'accord!\\. ¡Vamos, Lea!"
 
 #. [33660] data/maps/rookie-harbor/center.json entities/619/settings/event/44/task #60
 #. EventTrigger SchneiderExplainsQuests START IF tmp.centerEntered
@@ -2625,6 +2643,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/619/settings/event/44/task"
 msgid "Listen to the \\c[3]Mandatory Introduction\\c[0] inside the \\c[3]Quest Hub\\c[0] of Rookie Harbor. It's mandatory."
 msgstr ""
+"Escucha la \\c[3]Introducción Mandatoria\\c[0] dentro del \\c[3]Centro de "
+"Misiones\\c[0] de Rookie Harbor. Es mandatoria."
 
 #. [33661] data/maps/rookie-harbor/center.json entities/622/settings/event/6/message #248
 #. EventTrigger SchneiderPostExpo START IF tmp.centerEntered && plot.line >= 2560
@@ -2633,7 +2653,7 @@ msgstr ""
 #, max-length:460
 msgctxt "data/maps/rookie-harbor/center.json/entities/622/settings/event/6/message"
 msgid "So, how was it, Lea?\\. Enjoyed being in Space?"
-msgstr ""
+msgstr "Entonces, ¿que tal estuvo, Lea?\\. ¿Disfrutaste estar en el espacio?"
 
 #. [33662] data/maps/rookie-harbor/center.json entities/622/settings/event/7/message #276
 #. EventTrigger SchneiderPostExpo START IF tmp.centerEntered && plot.line >= 2560
@@ -2642,7 +2662,7 @@ msgstr ""
 #, max-length:60
 msgctxt "data/maps/rookie-harbor/center.json/entities/622/settings/event/7/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[asiente]"
 
 #. [33663] data/maps/rookie-harbor/center.json entities/622/settings/event/8/message #277
 #. EventTrigger SchneiderPostExpo START IF tmp.centerEntered && plot.line >= 2560
@@ -2652,6 +2672,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/622/settings/event/8/message"
 msgid "Well, now you should understand your task, being part of Track Walker and all."
 msgstr ""
+"Bueno, supongo que ahora entiendes tu tarea, ser parte de los Seguidores del "
+"Camino y todo eso."
 
 #. [33664] data/maps/rookie-harbor/center.json entities/622/settings/event/9/message #278
 #. EventTrigger SchneiderPostExpo START IF tmp.centerEntered && plot.line >= 2560
@@ -2660,7 +2682,7 @@ msgstr ""
 #, max-length:350
 msgctxt "data/maps/rookie-harbor/center.json/entities/622/settings/event/9/message"
 msgid "Let's go to the \\c[3]west\\c[0] now."
-msgstr ""
+msgstr "Vayamos al \\c[3]oeste\\c[0] ahora."
 
 #. [33665] data/maps/rookie-harbor/center.json entities/622/settings/event/19/message #251
 #. EventTrigger SchneiderPostExpo START IF tmp.centerEntered && plot.line >= 2560
@@ -2669,7 +2691,7 @@ msgstr ""
 #, max-length:530
 msgctxt "data/maps/rookie-harbor/center.json/entities/622/settings/event/19/message"
 msgid "By the way, Lea.\\. Spheromancer?\\. That's surprising."
-msgstr ""
+msgstr "Por cierto, Lea.\\. ¿Spheromancer?\\. Qué sorpresa."
 
 #. [33666] data/maps/rookie-harbor/center.json entities/622/settings/event/20/message #256
 #. EventTrigger SchneiderPostExpo START IF tmp.centerEntered && plot.line >= 2560
@@ -2678,7 +2700,7 @@ msgstr ""
 #, max-length:40
 msgctxt "data/maps/rookie-harbor/center.json/entities/622/settings/event/20/message"
 msgid "...?"
-msgstr ""
+msgstr "¿...?"
 
 #. [33667] data/maps/rookie-harbor/center.json entities/622/settings/event/21/message #253
 #. EventTrigger SchneiderPostExpo START IF tmp.centerEntered && plot.line >= 2560
@@ -2688,6 +2710,7 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/622/settings/event/21/message"
 msgid "They're pretty unpopular.\\. Don't ask me why - they're fine balance wise."
 msgstr ""
+"Son poco populares.\\. No me preguntes por qué - no están mal balanceados."
 
 #. [33668] data/maps/rookie-harbor/center.json entities/622/settings/event/22/message #254
 #. EventTrigger SchneiderPostExpo START IF tmp.centerEntered && plot.line >= 2560
@@ -2696,7 +2719,7 @@ msgstr ""
 #, max-length:470
 msgctxt "data/maps/rookie-harbor/center.json/entities/622/settings/event/22/message"
 msgid "What about Pentafist?\\. They're awesome, right?"
-msgstr ""
+msgstr "¿Qué hay de los Pentafist?\\. Son increíbles, ¿no?"
 
 #. [33669] data/maps/rookie-harbor/center.json entities/622/settings/event/23/message #255
 #. EventTrigger SchneiderPostExpo START IF tmp.centerEntered && plot.line >= 2560
@@ -2705,7 +2728,7 @@ msgstr ""
 #, max-length:540
 msgctxt "data/maps/rookie-harbor/center.json/entities/622/settings/event/23/message"
 msgid "Japp!\\. And I couldn't imagine you in any other class."
-msgstr ""
+msgstr "¡Japp!\\. Y no te podría haber imaginado en ninguna otra clase."
 
 #. [33670] data/maps/rookie-harbor/center.json entities/627/settings/analyzable/text #333
 #. NPC guard-quest1
@@ -2713,7 +2736,7 @@ msgstr ""
 #, max-length:100
 msgctxt "data/maps/rookie-harbor/center.json/entities/627/settings/analyzable/text"
 msgid "Guard Kima"
-msgstr ""
+msgstr "Guardia Kima"
 
 #. [33671] data/maps/rookie-harbor/center.json entities/627/settings/npcStates/0/event/1/name #484
 #. NPC guard-quest1
@@ -2723,7 +2746,7 @@ msgstr ""
 #, max-length:40
 msgctxt "data/maps/rookie-harbor/center.json/entities/627/settings/npcStates/0/event/1/name"
 msgid "Kima"
-msgstr ""
+msgstr "Kima"
 
 #. [33672] data/maps/rookie-harbor/center.json entities/627/settings/npcStates/0/event/2/message #281
 #. NPC guard-quest1
@@ -2734,6 +2757,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/627/settings/npcStates/0/event/2/message"
 msgid "Greetings, \\v[lore.title.seeker]. I have to keep watch on the market and protect our citizens, so please excuse me."
 msgstr ""
+"Saludos, \\v[lore.title.seeker]a. Tengo que mantener un ojo en el mercado y "
+"proteger a nuestros ciudadanos, así que por favor, si me disculpas."
 
 #. [33673] data/maps/rookie-harbor/center.json entities/627/settings/npcStates/1/event/quest/1/name #485
 #. NPC guard-quest1
@@ -2743,7 +2768,7 @@ msgstr ""
 #, max-length:40
 msgctxt "data/maps/rookie-harbor/center.json/entities/627/settings/npcStates/1/event/quest/1/name"
 msgid "Kima"
-msgstr ""
+msgstr "Kima"
 
 #. [33674] data/maps/rookie-harbor/center.json entities/627/settings/npcStates/1/event/quest/2/message #282
 #. NPC guard-quest1
@@ -2754,6 +2779,7 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/627/settings/npcStates/1/event/quest/2/message"
 msgid "Good day, \\v[lore.title.seeker].\\. Are you the reinforcements I was promised?"
 msgstr ""
+"Buen día, \\v[lore.title.seeker]a.\\. ¿Eres los refuerzos que me prometieron?"
 
 #. [33675] data/maps/rookie-harbor/center.json entities/627/settings/npcStates/1/event/quest/3/message #283
 #. NPC guard-quest1
@@ -2763,7 +2789,7 @@ msgstr ""
 #, max-length:60
 msgctxt "data/maps/rookie-harbor/center.json/entities/627/settings/npcStates/1/event/quest/3/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[asiente]"
 
 #. [33676] data/maps/rookie-harbor/center.json entities/627/settings/npcStates/1/event/quest/4/message #284
 #. NPC guard-quest1
@@ -2774,6 +2800,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/627/settings/npcStates/1/event/quest/4/message"
 msgid "Finally!\\. We got some really pesky thieves at the markets lately, stealing from both the stands and customers."
 msgstr ""
+"¡Finalmente!\\. Tenemos unos molestos ladrones en los mercados últimamente, "
+"robando de los puestos y de los clientes."
 
 #. [33677] data/maps/rookie-harbor/center.json entities/627/settings/npcStates/1/event/quest/5/message #285
 #. NPC guard-quest1
@@ -2784,6 +2812,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/627/settings/npcStates/1/event/quest/5/message"
 msgid "I just saw one committing theft at the stands but he was gone before I could catch him."
 msgstr ""
+"Acabo de ver a uno robando los puestos, pero se escapó antes de que pueda "
+"agarrarlo."
 
 #. [33678] data/maps/rookie-harbor/center.json entities/627/settings/npcStates/1/event/quest/6/message #286
 #. NPC guard-quest1
@@ -2794,6 +2824,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/627/settings/npcStates/1/event/quest/6/message"
 msgid "I have to remain here and keep watch, so it's up to you to catch him, understand?"
 msgstr ""
+"Tengo que quedarme aquí vigilando, así que está en tus manos atraparlo, "
+"¿entendido?"
 
 #. [33679] data/maps/rookie-harbor/center.json entities/627/settings/npcStates/1/event/quest/7/message #287
 #. NPC guard-quest1
@@ -2803,7 +2835,7 @@ msgstr ""
 #, max-length:60
 msgctxt "data/maps/rookie-harbor/center.json/entities/627/settings/npcStates/1/event/quest/7/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[asiente]"
 
 #. [33680] data/maps/rookie-harbor/center.json entities/627/settings/npcStates/1/event/quest/8/message #288
 #. NPC guard-quest1
@@ -2814,6 +2846,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/627/settings/npcStates/1/event/quest/8/message"
 msgid "Great. I saw him running towards the small park in the southeast, so go and get that crook!"
 msgstr ""
+"Genial. Acabo de verlo correr hacia el pequeño parque al sureste, ¡así que "
+"ve y atrapa a ese bandido!"
 
 #. [33681] data/maps/rookie-harbor/center.json entities/627/settings/npcStates/2/event/1/name #486
 #. NPC guard-quest1
@@ -2823,7 +2857,7 @@ msgstr ""
 #, max-length:40
 msgctxt "data/maps/rookie-harbor/center.json/entities/627/settings/npcStates/2/event/1/name"
 msgid "Kima"
-msgstr ""
+msgstr "Kima"
 
 #. [33682] data/maps/rookie-harbor/center.json entities/627/settings/npcStates/2/event/2/message #289
 #. NPC guard-quest1
@@ -2834,6 +2868,7 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/627/settings/npcStates/2/event/2/message"
 msgid "The thief should be in the small park in the southeast, so go and get him!"
 msgstr ""
+"El ladrón debería estar en el pequeño parque al sureste, ¡ve y atrápalo!"
 
 #. [33683] data/maps/rookie-harbor/center.json entities/627/settings/npcStates/3/event/quest/1/name #487
 #. NPC guard-quest1
@@ -2843,7 +2878,7 @@ msgstr ""
 #, max-length:40
 msgctxt "data/maps/rookie-harbor/center.json/entities/627/settings/npcStates/3/event/quest/1/name"
 msgid "Kima"
-msgstr ""
+msgstr "Kima"
 
 #. [33684] data/maps/rookie-harbor/center.json entities/627/settings/npcStates/3/event/quest/2/message #308
 #. NPC guard-quest1
@@ -2853,7 +2888,7 @@ msgstr ""
 #, max-length:700
 msgctxt "data/maps/rookie-harbor/center.json/entities/627/settings/npcStates/3/event/quest/2/message"
 msgid "Damn, I saw that he got away from you.\\. What the hell happened there?"
-msgstr ""
+msgstr "Demonios, lo vi escaparse.\\. ¿Qué demonios pasó allí?"
 
 #. [33685] data/maps/rookie-harbor/center.json entities/627/settings/npcStates/3/event/quest/3/message #309
 #. NPC guard-quest1
@@ -2863,7 +2898,7 @@ msgstr ""
 #, max-length:30
 msgctxt "data/maps/rookie-harbor/center.json/entities/627/settings/npcStates/3/event/quest/3/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. [33686] data/maps/rookie-harbor/center.json entities/627/settings/npcStates/3/event/quest/4/message #310
 #. NPC guard-quest1
@@ -2874,6 +2909,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/627/settings/npcStates/3/event/quest/4/message"
 msgid "Well, what's done is done.\\. I saw him running southwest to a dead-end alley by the sea. "
 msgstr ""
+"Bueno, lo hecho hecho está.\\. Lo vi correr hacia el suroeste al callejón "
+"sin salida cerca del mar. "
 
 #. [33687] data/maps/rookie-harbor/center.json entities/627/settings/npcStates/3/event/quest/5/message #311
 #. NPC guard-quest1
@@ -2883,7 +2920,7 @@ msgstr ""
 #, max-length:330
 msgctxt "data/maps/rookie-harbor/center.json/entities/627/settings/npcStates/3/event/quest/5/message"
 msgid "Make sure to catch him this time!"
-msgstr ""
+msgstr "¡Asegúrate de atraparlo esta vez!"
 
 #. [33688] data/maps/rookie-harbor/center.json entities/627/settings/npcStates/3/event/quest/6/message #312
 #. NPC guard-quest1
@@ -2893,7 +2930,7 @@ msgstr ""
 #, max-length:60
 msgctxt "data/maps/rookie-harbor/center.json/entities/627/settings/npcStates/3/event/quest/6/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[asiente]"
 
 #. [33689] data/maps/rookie-harbor/center.json entities/627/settings/npcStates/4/event/1/name #488
 #. NPC guard-quest1
@@ -2903,7 +2940,7 @@ msgstr ""
 #, max-length:40
 msgctxt "data/maps/rookie-harbor/center.json/entities/627/settings/npcStates/4/event/1/name"
 msgid "Kima"
-msgstr ""
+msgstr "Kima"
 
 #. [33690] data/maps/rookie-harbor/center.json entities/627/settings/npcStates/4/event/2/message #313
 #. NPC guard-quest1
@@ -2913,7 +2950,7 @@ msgstr ""
 #, max-length:600
 msgctxt "data/maps/rookie-harbor/center.json/entities/627/settings/npcStates/4/event/2/message"
 msgid "I saw him running southwest to a dead-end alley by the sea. "
-msgstr ""
+msgstr "Lo vi correr al suroeste hacia el callejón sin salida cerca del mar. "
 
 #. [33691] data/maps/rookie-harbor/center.json entities/627/settings/npcStates/4/event/3/message #314
 #. NPC guard-quest1
@@ -2923,7 +2960,7 @@ msgstr ""
 #, max-length:330
 msgctxt "data/maps/rookie-harbor/center.json/entities/627/settings/npcStates/4/event/3/message"
 msgid "Make sure to catch him this time!"
-msgstr ""
+msgstr "¡Asegúrate de atraparlo esta vez!"
 
 #. [33692] data/maps/rookie-harbor/center.json entities/627/settings/npcStates/5/event/1/name #489
 #. NPC guard-quest1
@@ -2933,7 +2970,7 @@ msgstr ""
 #, max-length:40
 msgctxt "data/maps/rookie-harbor/center.json/entities/627/settings/npcStates/5/event/1/name"
 msgid "Kima"
-msgstr ""
+msgstr "Kima"
 
 #. [33693] data/maps/rookie-harbor/center.json entities/627/settings/npcStates/5/event/2/message #331
 #. NPC guard-quest1
@@ -2944,6 +2981,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/627/settings/npcStates/5/event/2/message"
 msgid "He escaped again?! You've got to finally nail him down, before we become a laughingstock!"
 msgstr ""
+"¡¿Escapó otra vez?! ¡Tienes que atraparlo de una vez, antes de que nos "
+"hagamos unos hazmerreír!"
 
 #. [33694] data/maps/rookie-harbor/center.json entities/627/settings/npcStates/6/event/1/name #490
 #. NPC guard-quest1
@@ -2953,7 +2992,7 @@ msgstr ""
 #, max-length:40
 msgctxt "data/maps/rookie-harbor/center.json/entities/627/settings/npcStates/6/event/1/name"
 msgid "Kima"
-msgstr ""
+msgstr "Kima"
 
 #. [33695] data/maps/rookie-harbor/center.json entities/627/settings/npcStates/6/event/2/message #405
 #. NPC guard-quest1
@@ -2964,6 +3003,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/627/settings/npcStates/6/event/2/message"
 msgid "I put that scoundrel behind bars, thanks to you!\\. You better report back to Sgt. Brassler now."
 msgstr ""
+"Puse a ese sinvergüenza tras las rejas, ¡gracias a tí!\\. Será mejor que lo "
+"reportes al Sgto. Brassler."
 
 #. [33696] data/maps/rookie-harbor/center.json entities/627/settings/npcStates/7/event/1/name #491
 #. NPC guard-quest1
@@ -2973,7 +3014,7 @@ msgstr ""
 #, max-length:40
 msgctxt "data/maps/rookie-harbor/center.json/entities/627/settings/npcStates/7/event/1/name"
 msgid "Kima"
-msgstr ""
+msgstr "Kima"
 
 #. [33697] data/maps/rookie-harbor/center.json entities/627/settings/npcStates/7/event/2/message #332
 #. NPC guard-quest1
@@ -2984,6 +3025,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/627/settings/npcStates/7/event/2/message"
 msgid "Good to see you again, \\v[lore.title.seeker]. The market has been rather quiet since we nailed that pickpocket."
 msgstr ""
+"Es bueno verte otra vez, \\v[lore.title.seeker]a. El mercado ha estado "
+"tranquilo desde que atrapamos a ese hurtador."
 
 #. [33698] data/maps/rookie-harbor/center.json entities/628/settings/analyzable/text #334
 #. NPC thief-quest1
@@ -2991,7 +3034,7 @@ msgstr ""
 #, max-length:120
 msgctxt "data/maps/rookie-harbor/center.json/entities/628/settings/analyzable/text"
 msgid "Shady Shorsh"
-msgstr ""
+msgstr "El Sospechoso Shorsh"
 
 #. [33699] data/maps/rookie-harbor/center.json entities/628/settings/npcStates/0/event/quest/1/name #492
 #. NPC thief-quest1
@@ -3001,7 +3044,7 @@ msgstr ""
 #, max-length:120
 msgctxt "data/maps/rookie-harbor/center.json/entities/628/settings/npcStates/0/event/quest/1/name"
 msgid "Shady Shorsh"
-msgstr ""
+msgstr "El Sospechoso Shorsh"
 
 #. [33700] data/maps/rookie-harbor/center.json entities/628/settings/npcStates/0/event/quest/2/message #292
 #. NPC thief-quest1
@@ -3011,7 +3054,7 @@ msgstr ""
 #, max-length:30
 msgctxt "data/maps/rookie-harbor/center.json/entities/628/settings/npcStates/0/event/quest/2/message"
 msgid "Hi!"
-msgstr ""
+msgstr "¡Hola!"
 
 #. [33701] data/maps/rookie-harbor/center.json entities/628/settings/npcStates/0/event/quest/5/message #291
 #. NPC thief-quest1
@@ -3021,7 +3064,7 @@ msgstr ""
 #, max-length:400
 msgctxt "data/maps/rookie-harbor/center.json/entities/628/settings/npcStates/0/event/quest/5/message"
 msgid "Ahh!\\. What... what do you want from me?"
-msgstr ""
+msgstr "¡Ahh!\\. Qué... ¿qué quieres de mí?"
 
 #. [33702] data/maps/rookie-harbor/center.json entities/628/settings/npcStates/0/event/quest/6/message #299
 #. NPC thief-quest1
@@ -3031,7 +3074,7 @@ msgstr ""
 #, max-length:220
 msgctxt "data/maps/rookie-harbor/center.json/entities/628/settings/npcStates/0/event/quest/6/message"
 msgid "Hi?\\. .\\..\\.. Lea, hi!"
-msgstr ""
+msgstr "¿Hola?\\. .\\..\\.. ¡Lea, hola!"
 
 #. [33703] data/maps/rookie-harbor/center.json entities/628/settings/npcStates/0/event/quest/7/message #300
 #. NPC thief-quest1
@@ -3041,7 +3084,7 @@ msgstr ""
 #, max-length:550
 msgctxt "data/maps/rookie-harbor/center.json/entities/628/settings/npcStates/0/event/quest/7/message"
 msgid "I...\\. I see.\\. So you want to arrest me for my crimes?"
-msgstr ""
+msgstr "Ya...\\. ya veo.\\. ¿Así que piensas arrestarme por mis crímenes?"
 
 #. [33704] data/maps/rookie-harbor/center.json entities/628/settings/npcStates/0/event/quest/8/message #301
 #. NPC thief-quest1
@@ -3051,7 +3094,7 @@ msgstr ""
 #, max-length:60
 msgctxt "data/maps/rookie-harbor/center.json/entities/628/settings/npcStates/0/event/quest/8/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[asiente]"
 
 #. [33705] data/maps/rookie-harbor/center.json entities/628/settings/npcStates/0/event/quest/9/message #302
 #. NPC thief-quest1
@@ -3062,6 +3105,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/628/settings/npcStates/0/event/quest/9/message"
 msgid "Alright, it was only a matter of time.\\. But I just had to earn money somehow for...\\. for...\\. here let me show you..."
 msgstr ""
+"Bien, era cuestión de tiempo.\\. Pero tenía que hacer dinero de alguna forma "
+"para...\\. para...\\. mira déjame enseñarte..."
 
 #. [33706] data/maps/rookie-harbor/center.json entities/628/settings/npcStates/0/event/quest/21/message #330
 #. NPC thief-quest1
@@ -3071,7 +3116,7 @@ msgstr ""
 #, max-length:410
 msgctxt "data/maps/rookie-harbor/center.json/entities/628/settings/npcStates/0/event/quest/21/message"
 msgid "...my speedy escape!\\.\\. Byeeeee\\..\\..\\.."
-msgstr ""
+msgstr "...¡mi rápido escape!\\.\\. Adióóóóós\\..\\..\\.."
 
 #. [33707] data/maps/rookie-harbor/center.json entities/629/settings/analyzable/text #307
 #. NPC hintdude-thiefquest
@@ -3079,7 +3124,7 @@ msgstr ""
 #, max-length:120
 msgctxt "data/maps/rookie-harbor/center.json/entities/629/settings/analyzable/text"
 msgid "Mr. Brittles"
-msgstr ""
+msgstr "Sr. Brittles"
 
 #. [33708] data/maps/rookie-harbor/center.json entities/629/settings/npcStates/1/event/quest/1/name #493
 #. NPC hintdude-thiefquest
@@ -3089,7 +3134,7 @@ msgstr ""
 #, max-length:120
 msgctxt "data/maps/rookie-harbor/center.json/entities/629/settings/npcStates/1/event/quest/1/name"
 msgid "Mr. Brittles"
-msgstr ""
+msgstr "Sr. Brittles"
 
 #. [33709] data/maps/rookie-harbor/center.json entities/629/settings/npcStates/1/event/quest/2/message #318
 #. NPC hintdude-thiefquest
@@ -3100,6 +3145,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/629/settings/npcStates/1/event/quest/2/message"
 msgid "That mean scoundrel ran past here!\\. You must have given him a solid spanking. Good job!"
 msgstr ""
+"¡Ese sinvergüenza maleducado pasó corriendo por aquí!\\. De seguro le diste "
+"una buena paliza. ¡Buen trabajo!"
 
 #. [33710] data/maps/rookie-harbor/center.json entities/629/settings/npcStates/1/event/quest/3/message #320
 #. NPC hintdude-thiefquest
@@ -3109,7 +3156,7 @@ msgstr ""
 #, max-length:30
 msgctxt "data/maps/rookie-harbor/center.json/entities/629/settings/npcStates/1/event/quest/3/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. [33711] data/maps/rookie-harbor/center.json entities/629/settings/npcStates/1/event/quest/4/message #319
 #. NPC hintdude-thiefquest
@@ -3120,6 +3167,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/629/settings/npcStates/1/event/quest/4/message"
 msgid "Still not satisfied?\\. Well, he ran towards \\c[3]\\v[area.autumn-area.name]\\c[0] if you wanna whip him some more."
 msgstr ""
+"¿Aún no estás satisfecha?\\. Bueno, corrió hacia el \\c[3]\\v[area.autumn-"
+"area.name]\\c[0] si quieres pegarle un poco más."
 
 #. [33712] data/maps/rookie-harbor/center.json entities/629/settings/npcStates/1/event/quest/5/message #322
 #. NPC hintdude-thiefquest
@@ -3129,7 +3178,7 @@ msgstr ""
 #, max-length:60
 msgctxt "data/maps/rookie-harbor/center.json/entities/629/settings/npcStates/1/event/quest/5/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[asiente]"
 
 #. [33713] data/maps/rookie-harbor/center.json entities/629/settings/npcStates/2/event/1/name #494
 #. NPC hintdude-thiefquest
@@ -3139,7 +3188,7 @@ msgstr ""
 #, max-length:120
 msgctxt "data/maps/rookie-harbor/center.json/entities/629/settings/npcStates/2/event/1/name"
 msgid "Mr. Brittles"
-msgstr ""
+msgstr "Sr. Brittles"
 
 #. [33714] data/maps/rookie-harbor/center.json entities/629/settings/npcStates/2/event/2/message #323
 #. NPC hintdude-thiefquest
@@ -3149,7 +3198,7 @@ msgstr ""
 #, max-length:500
 msgctxt "data/maps/rookie-harbor/center.json/entities/629/settings/npcStates/2/event/2/message"
 msgid "Young people these days... no manners, I tell you."
-msgstr ""
+msgstr "Los jóvenes de hoy... ¡no tienen modales!"
 
 #. [33715] data/maps/rookie-harbor/center.json entities/630/settings/dialog/0/text #315
 #. XenoDialog SPAWN IF quest.rhg-1-pickpocket.currentTask >= 2 && quest.rhg-1-pickpocket.currentTask < 4
@@ -3158,7 +3207,7 @@ msgstr ""
 #, max-length:400
 msgctxt "data/maps/rookie-harbor/center.json/entities/630/settings/dialog/0/text"
 msgid "Young people these days have no manners."
-msgstr ""
+msgstr "¡Los jóvenes hoy no tienen modales!"
 
 #. [33716] data/maps/rookie-harbor/center.json entities/630/settings/dialog/1/text #316
 #. XenoDialog SPAWN IF quest.rhg-1-pickpocket.currentTask >= 2 && quest.rhg-1-pickpocket.currentTask < 4
@@ -3168,6 +3217,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/630/settings/dialog/1/text"
 msgid "Running through the streets \\c[5]like they're fleeing from the police\\c[0] without regard for others."
 msgstr ""
+"Corriendo por las calles \\c[5]como si estuvieran escapando de la policía\\c"
+"[0] sin cuidado por los demás."
 
 #. [33717] data/maps/rookie-harbor/center.json entities/630/settings/dialog/1/event/1/name #495
 #. XenoDialog SPAWN IF quest.rhg-1-pickpocket.currentTask >= 2 && quest.rhg-1-pickpocket.currentTask < 4
@@ -3176,7 +3227,7 @@ msgstr ""
 #, max-length:120
 msgctxt "data/maps/rookie-harbor/center.json/entities/630/settings/dialog/1/event/1/name"
 msgid "Mr. Brittles"
-msgstr ""
+msgstr "Sr. Brittles"
 
 #. [33718] data/maps/rookie-harbor/center.json entities/630/settings/dialog/1/event/2/message #317
 #. XenoDialog SPAWN IF quest.rhg-1-pickpocket.currentTask >= 2 && quest.rhg-1-pickpocket.currentTask < 4
@@ -3185,7 +3236,7 @@ msgstr ""
 #, max-length:30
 msgctxt "data/maps/rookie-harbor/center.json/entities/630/settings/dialog/1/event/2/message"
 msgid "Hi!"
-msgstr ""
+msgstr "¡Hola!"
 
 #. [33719] data/maps/rookie-harbor/center.json entities/630/settings/dialog/1/event/3/message #324
 #. XenoDialog SPAWN IF quest.rhg-1-pickpocket.currentTask >= 2 && quest.rhg-1-pickpocket.currentTask < 4
@@ -3195,6 +3246,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/630/settings/dialog/1/event/3/message"
 msgid "Hello, young lady.\\. Did you also see that unkempt ruffian running through the street like a madman?"
 msgstr ""
+"Hola, jovencita.\\. ¿Tú también viste a ese descuidado rufián corriendo por "
+"las calles como un loco?"
 
 #. [33720] data/maps/rookie-harbor/center.json entities/630/settings/dialog/1/event/4/message #325
 #. XenoDialog SPAWN IF quest.rhg-1-pickpocket.currentTask >= 2 && quest.rhg-1-pickpocket.currentTask < 4
@@ -3203,7 +3256,7 @@ msgstr ""
 #, max-length:640
 msgctxt "data/maps/rookie-harbor/center.json/entities/630/settings/dialog/1/event/4/message"
 msgid "He was stinking of smoke and looked very suspicious, I tell you!"
-msgstr ""
+msgstr "¡Apestaba a humo y se veía muy sospechoso!"
 
 #. [33721] data/maps/rookie-harbor/center.json entities/630/settings/dialog/1/event/5/message #326
 #. XenoDialog SPAWN IF quest.rhg-1-pickpocket.currentTask >= 2 && quest.rhg-1-pickpocket.currentTask < 4
@@ -3212,7 +3265,7 @@ msgstr ""
 #, max-length:40
 msgctxt "data/maps/rookie-harbor/center.json/entities/630/settings/dialog/1/event/5/message"
 msgid "...!"
-msgstr ""
+msgstr "¡...!"
 
 #. [33722] data/maps/rookie-harbor/center.json entities/630/settings/dialog/1/event/6/message #321
 #. XenoDialog SPAWN IF quest.rhg-1-pickpocket.currentTask >= 2 && quest.rhg-1-pickpocket.currentTask < 4
@@ -3222,6 +3275,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/630/settings/dialog/1/event/6/message"
 msgid "I saw him running to the southwest to a dead end by the sea if you wanna teach him a lesson."
 msgstr ""
+"Lo vi correr hacia el suroeste a un callejón sin salida, si es que quieres "
+"dare una lección."
 
 #. [33723] data/maps/rookie-harbor/center.json entities/633/settings/dialog/0/text #336
 #. XenoDialog SPAWN IF lore.unlocked.rookie-harbor.page-01-01
@@ -3230,7 +3285,7 @@ msgstr ""
 #, max-length:310
 msgctxt "data/maps/rookie-harbor/center.json/entities/633/settings/dialog/0/text"
 msgid "All this buzzing in the town..."
-msgstr ""
+msgstr "Todo este alboroto en la ciudad..."
 
 #. [33724] data/maps/rookie-harbor/center.json entities/633/settings/dialog/1/text #337
 #. XenoDialog SPAWN IF lore.unlocked.rookie-harbor.page-01-01
@@ -3239,7 +3294,7 @@ msgstr ""
 #, max-length:180
 msgctxt "data/maps/rookie-harbor/center.json/entities/633/settings/dialog/1/text"
 msgid "What about it, Pa?"
-msgstr ""
+msgstr "¿Qué pasa con eso, Pa?"
 
 #. [33725] data/maps/rookie-harbor/center.json entities/633/settings/dialog/2/text #348
 #. XenoDialog SPAWN IF lore.unlocked.rookie-harbor.page-01-01
@@ -3248,7 +3303,7 @@ msgstr ""
 #, max-length:100
 msgctxt "data/maps/rookie-harbor/center.json/entities/633/settings/dialog/2/text"
 msgid "I hate it."
-msgstr ""
+msgstr "Lo odio."
 
 #. [33726] data/maps/rookie-harbor/center.json entities/633/settings/dialog/3/text #339
 #. XenoDialog SPAWN IF lore.unlocked.rookie-harbor.page-01-01
@@ -3257,7 +3312,7 @@ msgstr ""
 #, max-length:200
 msgctxt "data/maps/rookie-harbor/center.json/entities/633/settings/dialog/3/text"
 msgid "Please don't, Pa...."
-msgstr ""
+msgstr "Por favor no, Pa..."
 
 #. [33727] data/maps/rookie-harbor/center.json entities/633/settings/dialog/4/text #340
 #. XenoDialog SPAWN IF lore.unlocked.rookie-harbor.page-01-01
@@ -3266,7 +3321,7 @@ msgstr ""
 #, max-length:170
 msgctxt "data/maps/rookie-harbor/center.json/entities/633/settings/dialog/4/text"
 msgid "Back in my day..."
-msgstr ""
+msgstr "En mis tiempos..."
 
 #. [33728] data/maps/rookie-harbor/center.json entities/633/settings/dialog/5/text #341
 #. XenoDialog SPAWN IF lore.unlocked.rookie-harbor.page-01-01
@@ -3275,7 +3330,7 @@ msgstr ""
 #, max-length:120
 msgctxt "data/maps/rookie-harbor/center.json/entities/633/settings/dialog/5/text"
 msgid "No, don't..."
-msgstr ""
+msgstr "No, no sigas..."
 
 #. [33729] data/maps/rookie-harbor/center.json entities/633/settings/dialog/6/text #342
 #. XenoDialog SPAWN IF lore.unlocked.rookie-harbor.page-01-01
@@ -3284,7 +3339,7 @@ msgstr ""
 #, max-length:370
 msgctxt "data/maps/rookie-harbor/center.json/entities/633/settings/dialog/6/text"
 msgid "Back in my day everything was better."
-msgstr ""
+msgstr "En mis tiempos todo era mejor."
 
 #. [33730] data/maps/rookie-harbor/center.json entities/633/settings/dialog/7/text #343
 #. XenoDialog SPAWN IF lore.unlocked.rookie-harbor.page-01-01
@@ -3293,7 +3348,7 @@ msgstr ""
 #, max-length:250
 msgctxt "data/maps/rookie-harbor/center.json/entities/633/settings/dialog/7/text"
 msgid "Oh boy, here we go again."
-msgstr ""
+msgstr "Puff, ahí va otra vez."
 
 #. [33731] data/maps/rookie-harbor/center.json entities/633/settings/dialog/8/text #344
 #. XenoDialog SPAWN IF lore.unlocked.rookie-harbor.page-01-01
@@ -3302,7 +3357,7 @@ msgstr ""
 #, max-length:610
 msgctxt "data/maps/rookie-harbor/center.json/entities/633/settings/dialog/8/text"
 msgid "People were nicer, greeting you on the street and everything."
-msgstr ""
+msgstr "La gente era más educada, saludándote por la calle y todo."
 
 #. [33732] data/maps/rookie-harbor/center.json entities/633/settings/dialog/9/text #345
 #. XenoDialog SPAWN IF lore.unlocked.rookie-harbor.page-01-01
@@ -3311,7 +3366,7 @@ msgstr ""
 #, max-length:530
 msgctxt "data/maps/rookie-harbor/center.json/entities/633/settings/dialog/9/text"
 msgid "Even the \\c[5]name of this damn city\\c[0] was better."
-msgstr ""
+msgstr "Incluso el \\c[5]nombre de la maldita ciudad\\c[0] era mejor."
 
 #. [33733] data/maps/rookie-harbor/center.json entities/633/settings/dialog/9/event/2/message #349
 #. XenoDialog SPAWN IF lore.unlocked.rookie-harbor.page-01-01
@@ -3321,6 +3376,7 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/633/settings/dialog/9/event/2/message"
 msgid "See? Look at that Seeker just staring at me, like I'm some decorative prop."
 msgstr ""
+"¿Ves? Mira a esa Buscadora mirándome, como si fuera algún mueble decorativo."
 
 #. [33734] data/maps/rookie-harbor/center.json entities/633/settings/dialog/9/event/3/message #350
 #. XenoDialog SPAWN IF lore.unlocked.rookie-harbor.page-01-01
@@ -3329,7 +3385,7 @@ msgstr ""
 #, max-length:40
 msgctxt "data/maps/rookie-harbor/center.json/entities/633/settings/dialog/9/event/3/message"
 msgid "...?"
-msgstr ""
+msgstr "¿...?"
 
 #. [33735] data/maps/rookie-harbor/center.json entities/633/settings/dialog/9/event/5/message #351
 #. XenoDialog SPAWN IF lore.unlocked.rookie-harbor.page-01-01
@@ -3338,7 +3394,7 @@ msgstr ""
 #, max-length:550
 msgctxt "data/maps/rookie-harbor/center.json/entities/633/settings/dialog/9/event/5/message"
 msgid "Ignore him. He just doesn't like it when things change."
-msgstr ""
+msgstr "Ignóralo. No le gusta cuando las cosas cambian."
 
 #. [33736] data/maps/rookie-harbor/center.json entities/633/settings/dialog/9/event/6/message #352
 #. XenoDialog SPAWN IF lore.unlocked.rookie-harbor.page-01-01
@@ -3348,6 +3404,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/633/settings/dialog/9/event/6/message"
 msgid "You're damn right! \\v[lore.unlock.rookie-harbor.Page-02-01]\\c[3]Port Harbor\\c[0] was such a nice name for this town."
 msgstr ""
+"¡Por supuesto que no! \\v[lore.unlock.rookie-harbor.Page-02-01]\\c[3]Puerto "
+"Harbor\\c[0] era un nombre tan perfecto para esta ciudad."
 
 #. [33737] data/maps/rookie-harbor/center.json entities/633/settings/dialog/9/event/7/message #353
 #. XenoDialog SPAWN IF lore.unlocked.rookie-harbor.page-01-01
@@ -3357,6 +3415,7 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/633/settings/dialog/9/event/7/message"
 msgid "But they changed it because of all the Seekers starting their journey here."
 msgstr ""
+"Pero lo cambiaron porque todos los Buscadores empezaban su aventura aquí."
 
 #. [33738] data/maps/rookie-harbor/center.json entities/633/settings/dialog/9/event/8/message #354
 #. XenoDialog SPAWN IF lore.unlocked.rookie-harbor.page-01-01
@@ -3366,6 +3425,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/633/settings/dialog/9/event/8/message"
 msgid "My only real solace is that I can still enjoy my fish with fresh apples."
 msgstr ""
+"Mi único consuelo es que aún puedo disfrutar de mi pescado con manzanas "
+"frescas."
 
 #. [33739] data/maps/rookie-harbor/center.json entities/633/settings/dialog/9/event/9/message #355
 #. XenoDialog SPAWN IF lore.unlocked.rookie-harbor.page-01-01
@@ -3374,7 +3435,7 @@ msgstr ""
 #, max-length:220
 msgctxt "data/maps/rookie-harbor/center.json/entities/633/settings/dialog/9/event/9/message"
 msgid "You just won't stop..."
-msgstr ""
+msgstr "No paras..."
 
 #. [33740] data/maps/rookie-harbor/center.json entities/633/settings/dialog/9/event/10/message #356
 #. XenoDialog SPAWN IF lore.unlocked.rookie-harbor.page-01-01
@@ -3383,7 +3444,7 @@ msgstr ""
 #, max-length:30
 msgctxt "data/maps/rookie-harbor/center.json/entities/633/settings/dialog/9/event/10/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. [33741] data/maps/rookie-harbor/center.json entities/633/settings/dialog/10/text #346
 #. XenoDialog SPAWN IF lore.unlocked.rookie-harbor.page-01-01
@@ -3392,7 +3453,7 @@ msgstr ""
 #, max-length:470
 msgctxt "data/maps/rookie-harbor/center.json/entities/633/settings/dialog/10/text"
 msgid "I can't stand all these Seekers buzzing around."
-msgstr ""
+msgstr "No soporto a todos estos buscadores correteando por todos lados."
 
 #. [33742] data/maps/rookie-harbor/center.json entities/633/settings/dialog/11/text #347
 #. XenoDialog SPAWN IF lore.unlocked.rookie-harbor.page-01-01
@@ -3401,7 +3462,7 @@ msgstr ""
 #, max-length:230
 msgctxt "data/maps/rookie-harbor/center.json/entities/633/settings/dialog/11/text"
 msgid "Whatever you say, Pa..."
-msgstr ""
+msgstr "Lo que digas, Pa..."
 
 #. [33743] data/maps/rookie-harbor/center.json entities/636/settings/analyzable/text #296
 #. NPC ctc-questgiver-1
@@ -3409,7 +3470,7 @@ msgstr ""
 #, max-length:130
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/analyzable/text"
 msgid "Mr. Nomsworth"
-msgstr ""
+msgstr "Sr. Nomsworth"
 
 #. [33744] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/0/event/1/name #496
 #. NPC ctc-questgiver-1
@@ -3419,7 +3480,7 @@ msgstr ""
 #, max-length:130
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/0/event/1/name"
 msgid "Mr. Nomsworth"
-msgstr ""
+msgstr "Sr. Nomsworth"
 
 #. [33745] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/0/event/2/message #367
 #. NPC ctc-questgiver-1
@@ -3429,7 +3490,7 @@ msgstr ""
 #, max-length:390
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/0/event/2/message"
 msgid "Please excuse me, I've got calls to do."
-msgstr ""
+msgstr "Por favor discúlpame, tengo que hacer unas llamadas."
 
 #. [33746] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/1/event/quest/1/name #497
 #. NPC ctc-questgiver-1
@@ -3439,7 +3500,7 @@ msgstr ""
 #, max-length:130
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/1/event/quest/1/name"
 msgid "Mr. Nomsworth"
-msgstr ""
+msgstr "Sr. Nomsworth"
 
 #. [33747] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/1/event/quest/2/message #14
 #. NPC ctc-questgiver-1
@@ -3450,6 +3511,9 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/1/event/quest/2/message"
 msgid "Ah, good day.\\. I appreciate your desire to work for us, but you should get your official faction-briefing in \\c[3]\\v[lore.title.seeker]-Central\\c[0] first."
 msgstr ""
+"Ah, buenos días.\\. Aprecio tu dedicación a trabajar para nosotros, pero "
+"deberías escuchar el informe oficial de tu facción en la \\c[3]\\v[lore.title"
+".seeker]-Central\\c[0] primero."
 
 #. [33748] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/1/event/quest/10/name #498
 #. NPC ctc-questgiver-1
@@ -3459,7 +3523,7 @@ msgstr ""
 #, max-length:130
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/1/event/quest/10/name"
 msgid "Mr. Nomsworth"
-msgstr ""
+msgstr "Sr. Nomsworth"
 
 #. [33749] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/1/event/quest/11/message #387
 #. NPC ctc-questgiver-1
@@ -3469,7 +3533,7 @@ msgstr ""
 #, max-length:530
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/1/event/quest/11/message"
 msgid "It is on the ground floor of this huge building here."
-msgstr ""
+msgstr "Está en la planta baja de este gigantesco edificio."
 
 #. [33750] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/2/event/quest/1/name #499
 #. NPC ctc-questgiver-1
@@ -3479,7 +3543,7 @@ msgstr ""
 #, max-length:130
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/2/event/quest/1/name"
 msgid "Mr. Nomsworth"
-msgstr ""
+msgstr "Sr. Nomsworth"
 
 #. [33751] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/2/event/quest/2/message #392
 #. NPC ctc-questgiver-1
@@ -3489,7 +3553,7 @@ msgstr ""
 #, max-length:620
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/2/event/quest/2/message"
 msgid "Ah, it is you again.\\. Are you interested in assisting me now?"
-msgstr ""
+msgstr "Ah, eres tú otra vez.\\. ¿Estás interesada en asistirme ahora?"
 
 #. [33752] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/2/event/quest/3/accepted/0/message #384
 #. NPC ctc-questgiver-1
@@ -3500,7 +3564,7 @@ msgstr ""
 #, max-length:60
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/2/event/quest/3/accepted/0/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[asiente]"
 
 #. [33753] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/2/event/quest/3/accepted/1/message #258
 #. NPC ctc-questgiver-1
@@ -3512,6 +3576,9 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/2/event/quest/3/accepted/1/message"
 msgid "It's a deal then.\\. My client requires \\c[3]two Fruit and Veggie Sets each\\c[0] and also a precious \\c[3]Spice Set\\c[0] to boot."
 msgstr ""
+"Es un trato entonces.\\. Mi cliente necesita \\c[3]dos Sets de Frutas y "
+"Verduras cada uno\\c[0] y también un preciado \\c[3]Set de Especias\\c[0] "
+"para empezar."
 
 #. [33754] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/2/event/quest/3/accepted/2/message #394
 #. NPC ctc-questgiver-1
@@ -3522,7 +3589,7 @@ msgstr ""
 #, max-length:720
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/2/event/quest/3/accepted/2/message"
 msgid "You can procure them right here on the central market near the fountain."
-msgstr ""
+msgstr "Puedes producirlos aquí mismo en el Mercado Central cerca de la fuente."
 
 #. [33755] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/2/event/quest/3/accepted/3/message #386
 #. NPC ctc-questgiver-1
@@ -3534,6 +3601,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/2/event/quest/3/accepted/3/message"
 msgid "For the exchange, you will need raw trading materials from the various plants of \\v[area.autumn-area.name]."
 msgstr ""
+"Para los intercambios, necesitarás recoger la materia prima de las plantas "
+"en el \\v[area.autumn-area.name]."
 
 #. [33756] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/2/event/quest/3/declined/0/message #385
 #. NPC ctc-questgiver-1
@@ -3544,7 +3613,7 @@ msgstr ""
 #, max-length:130
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/2/event/quest/3/declined/0/message"
 msgid "[shakes head]"
-msgstr ""
+msgstr "[niega con la cabeza]"
 
 #. [33757] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/2/event/quest/3/declined/1/message #261
 #. NPC ctc-questgiver-1
@@ -3556,6 +3625,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/2/event/quest/3/declined/1/message"
 msgid "That is unfortunate.\\. But you can change your mind as long as the job is still available for the taking."
 msgstr ""
+"Qué pena.\\. Pero siempre puedes cambiar de opinión mientras el trabajo esté "
+"disponible."
 
 #. [33758] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/3/event/1/name #500
 #. NPC ctc-questgiver-1
@@ -3565,7 +3636,7 @@ msgstr ""
 #, max-length:130
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/3/event/1/name"
 msgid "Mr. Nomsworth"
-msgstr ""
+msgstr "Sr. Nomsworth"
 
 #. [33759] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/3/event/2/message #395
 #. NPC ctc-questgiver-1
@@ -3576,6 +3647,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/3/event/2/message"
 msgid "You can get all the required goods on the central market near the fountain."
 msgstr ""
+"Puedes recoger todos los materiales necesarios en el Mercado Central cerca "
+"de la fuente."
 
 #. [33760] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/3/event/3/message #396
 #. NPC ctc-questgiver-1
@@ -3586,6 +3659,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/3/event/3/message"
 msgid "For the exchange you will need raw trading materials from the various plants of \\v[area.autumn-area.name]."
 msgstr ""
+"Para los intercambios, necesitarás recoger la materia prima de las plantas "
+"en el \\v[area.autumn-area.name]."
 
 #. [33761] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/4/event/quest/1/name #501
 #. NPC ctc-questgiver-1
@@ -3595,7 +3670,7 @@ msgstr ""
 #, max-length:130
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/4/event/quest/1/name"
 msgid "Mr. Nomsworth"
-msgstr ""
+msgstr "Sr. Nomsworth"
 
 #. [33762] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/4/event/quest/2/message #250
 #. NPC ctc-questgiver-1
@@ -3606,6 +3681,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/4/event/quest/2/message"
 msgid "I see you managed to get everything.\\. Quickly, go to the \\c[3]Pub at the Beginner's Arc\\c[0] and give it to the barkeep."
 msgstr ""
+"Veo que consegiste todo.\\. Rápido, ve a la \\c[3]Taverna en el Arco de los "
+"Principiantes\\c[0] y dáselo al tabernero."
 
 #. [33763] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/4/event/quest/3/message #263
 #. NPC ctc-questgiver-1
@@ -3615,7 +3692,7 @@ msgstr ""
 #, max-length:60
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/4/event/quest/3/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[asiente]"
 
 #. [33764] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/5/event/quest/1/name #502
 #. NPC ctc-questgiver-1
@@ -3625,7 +3702,7 @@ msgstr ""
 #, max-length:130
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/5/event/quest/1/name"
 msgid "Mr. Nomsworth"
-msgstr ""
+msgstr "Sr. Nomsworth"
 
 #. [33765] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/5/event/quest/2/message #397
 #. NPC ctc-questgiver-1
@@ -3636,6 +3713,7 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/5/event/quest/2/message"
 msgid "I've already gotten the message from our satisfied customer.\\. Good job!"
 msgstr ""
+"Ya he recibido el mensaje de nuestro cliente satisfecho.\\. ¡Buen trabajo!"
 
 #. [33766] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/5/event/quest/3/message #398
 #. NPC ctc-questgiver-1
@@ -3645,7 +3723,7 @@ msgstr ""
 #, max-length:690
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/5/event/quest/3/message"
 msgid "Here is your payment.\\. I hope I can count on your future assistance."
-msgstr ""
+msgstr "Aquí está tu paga.\\. Espero que pueda contar contigo en el futuro."
 
 #. [33767] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/5/event/quest/4/message #399
 #. NPC ctc-questgiver-1
@@ -3655,7 +3733,7 @@ msgstr ""
 #, max-length:60
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/5/event/quest/4/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[asiente]"
 
 #. [33768] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/6/event/quest/1/name #503
 #. NPC ctc-questgiver-1
@@ -3665,7 +3743,7 @@ msgstr ""
 #, max-length:130
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/6/event/quest/1/name"
 msgid "Mr. Nomsworth"
-msgstr ""
+msgstr "Sr. Nomsworth"
 
 #. [33769] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/6/event/quest/2/message #368
 #. NPC ctc-questgiver-1
@@ -3675,7 +3753,7 @@ msgstr ""
 #, max-length:200
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/6/event/quest/2/message"
 msgid "Oh my, oh my, oh my!"
-msgstr ""
+msgstr "¡Jo, jo, jo, jo!"
 
 #. [33770] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/6/event/quest/3/message #369
 #. NPC ctc-questgiver-1
@@ -3685,7 +3763,7 @@ msgstr ""
 #, max-length:30
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/6/event/quest/3/message"
 msgid "Hi!"
-msgstr ""
+msgstr "¡Hola!"
 
 #. [33771] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/6/event/quest/4/message #370
 #. NPC ctc-questgiver-1
@@ -3696,6 +3774,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/6/event/quest/4/message"
 msgid "Ah, there you are again.\\. I'm currently facing a high priority problem and it is giving me quite the headache."
 msgstr ""
+"Ah, ahí estás.\\. Estoy enfrentándome a un problema de alta prioridad y me "
+"está dando un buen dolor de cabeza."
 
 #. [33772] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/6/event/quest/5/message #371
 #. NPC ctc-questgiver-1
@@ -3705,7 +3785,7 @@ msgstr ""
 #, max-length:40
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/6/event/quest/5/message"
 msgid "...?"
-msgstr ""
+msgstr "¿...?"
 
 #. [33773] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/6/event/quest/6/message #372
 #. NPC ctc-questgiver-1
@@ -3716,6 +3796,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/6/event/quest/6/message"
 msgid "You see, I am waiting for an urgent delivery of fresh ingredients from one of our contracted food collectors."
 msgstr ""
+"Mira, estoy esperando una entrega urgente de ingredientes frescos de uno de "
+"nuestros recolectores de comida contratados."
 
 #. [33774] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/6/event/quest/8/message #373
 #. NPC ctc-questgiver-1
@@ -3725,7 +3807,7 @@ msgstr ""
 #, max-length:710
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/6/event/quest/8/message"
 msgid "An important business lunch will be ruined if she doesn't show up soon!"
-msgstr ""
+msgstr "¡Un almuerzo de trabajo importante se arruinará si no llega pronto!"
 
 #. [33775] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/6/event/quest/9/message #374
 #. NPC ctc-questgiver-1
@@ -3735,7 +3817,7 @@ msgstr ""
 #, max-length:70
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/6/event/quest/9/message"
 msgid "Hi...!?"
-msgstr ""
+msgstr "¿¡Hola...!?"
 
 #. [33776] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/6/event/quest/10/message #375
 #. NPC ctc-questgiver-1
@@ -3746,6 +3828,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/6/event/quest/10/message"
 msgid "Yes, thank you for asking.\\. It would indeed be very helpful if you could lend me a hand again and keep your eyes open for our collector."
 msgstr ""
+"Si, gracias por preguntar.\\. Nos sería muy útil si nos das una mano y te "
+"mantienes al tanto de nuestro recolectador."
 
 #. [33777] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/6/event/quest/11/message #376
 #. NPC ctc-questgiver-1
@@ -3756,6 +3840,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/6/event/quest/11/message"
 msgid "She should be somewhere in Autumn's Rise.\\. Could you try to find her and examine what happened?"
 msgstr ""
+"Debería estar en algún lugar del Amanecer del Otoño.\\. ¿Podrías intentar "
+"encontrarla y ver que pasó?"
 
 #. [33778] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/6/event/quest/12/accepted/0/message #528
 #. NPC ctc-questgiver-1
@@ -3766,7 +3852,7 @@ msgstr ""
 #, max-length:60
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/6/event/quest/12/accepted/0/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[asiente]"
 
 #. [33779] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/6/event/quest/12/accepted/1/message #377
 #. NPC ctc-questgiver-1
@@ -3777,7 +3863,7 @@ msgstr ""
 #, max-length:400
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/6/event/quest/12/accepted/1/message"
 msgid "Excellent! I am expecting swift results."
-msgstr ""
+msgstr "¡Excelente! Espero resultados rápidamente."
 
 #. [33780] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/6/event/quest/12/declined/0/message #529
 #. NPC ctc-questgiver-1
@@ -3788,7 +3874,7 @@ msgstr ""
 #, max-length:130
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/6/event/quest/12/declined/0/message"
 msgid "[shakes head]"
-msgstr ""
+msgstr "[niega con la cabeza]"
 
 #. [33781] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/6/event/quest/12/declined/1/message #378
 #. NPC ctc-questgiver-1
@@ -3800,6 +3886,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/6/event/quest/12/declined/1/message"
 msgid "Hrm, it can't be helped then.\\. Please come back if you change your mind, this is no joking matter!"
 msgstr ""
+"Hm, no puedo hacer nada entonces.\\. ¡Por favor vuelve si cambias de "
+"opinión, esto no es ningún chiste!"
 
 #. [33782] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/7/event/1/name #504
 #. NPC ctc-questgiver-1
@@ -3809,7 +3897,7 @@ msgstr ""
 #, max-length:130
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/7/event/1/name"
 msgid "Mr. Nomsworth"
-msgstr ""
+msgstr "Sr. Nomsworth"
 
 #. [33783] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/7/event/2/message #363
 #. NPC ctc-questgiver-1
@@ -3819,7 +3907,7 @@ msgstr ""
 #, max-length:710
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/7/event/2/message"
 msgid "Please concentrate on your task at hand.\\. Time is of the essence here!"
-msgstr ""
+msgstr "Por favor concéntrate en tu tarea.\\. ¡El tiempo es escaso!"
 
 #. [33784] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/8/event/quest/1/name #505
 #. NPC ctc-questgiver-1
@@ -3829,7 +3917,7 @@ msgstr ""
 #, max-length:130
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/8/event/quest/1/name"
 msgid "Mr. Nomsworth"
-msgstr ""
+msgstr "Sr. Nomsworth"
 
 #. [33785] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/8/event/quest/2/message #364
 #. NPC ctc-questgiver-1
@@ -3839,7 +3927,7 @@ msgstr ""
 #, max-length:640
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/8/event/quest/2/message"
 msgid "Ah, there you are. I've already received the package. Well done!"
-msgstr ""
+msgstr "Ah, ahí estás. Ya recibí la entrega. ¡Bien hecho!"
 
 #. [33786] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/8/event/quest/3/message #365
 #. NPC ctc-questgiver-1
@@ -3849,7 +3937,7 @@ msgstr ""
 #, max-length:40
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/8/event/quest/3/message"
 msgid "...!"
-msgstr ""
+msgstr "¡...!"
 
 #. [33787] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/8/event/quest/4/message #242
 #. NPC ctc-questgiver-1
@@ -3860,6 +3948,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/8/event/quest/4/message"
 msgid "This could finally mean a breakthrough for my career, I can feel it in my gut!\\. Along with a burning hunger for nutrition."
 msgstr ""
+"Esto podría significar un avance en mi carrera, ¡tengo una corazonada!\\. Y "
+"también muchas ganas de nutrirme."
 
 #. [33788] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/8/event/quest/5/message #366
 #. NPC ctc-questgiver-1
@@ -3869,7 +3959,7 @@ msgstr ""
 #, max-length:370
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/8/event/quest/5/message"
 msgid "In any case, here is your due reward."
-msgstr ""
+msgstr "De todos modos, aquí está tu merecida recompensa."
 
 #. [33789] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/9/event/quest/1/name #506
 #. NPC ctc-questgiver-1
@@ -3879,7 +3969,7 @@ msgstr ""
 #, max-length:120
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/9/event/quest/1/name"
 msgid "Mr Nomsworth"
-msgstr ""
+msgstr "Sr. Nomsworth"
 
 #. [33790] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/9/event/quest/2/message #406
 #. NPC ctc-questgiver-1
@@ -3890,6 +3980,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/9/event/quest/2/message"
 msgid "By Jove!\\. This is your big chance, Philamore.\\. All you need to do is find the right..."
 msgstr ""
+"¡Por Jove!\\. Esta es tu gran oportunidad, Philamore.\\. Todo lo que "
+"necesito es que encuentres el..."
 
 #. [33791] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/9/event/quest/3/message #519
 #. NPC ctc-questgiver-1
@@ -3899,7 +3991,7 @@ msgstr ""
 #, max-length:30
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/9/event/quest/3/message"
 msgid "Hi!"
-msgstr ""
+msgstr "¡Hola!"
 
 #. [33792] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/9/event/quest/5/message #520
 #. NPC ctc-questgiver-1
@@ -3910,6 +4002,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/9/event/quest/5/message"
 msgid "Ah, it is you again!\\. I say, you truly find the most opportune times to accost me."
 msgstr ""
+"¡Ah, ahí estás!\\. Debo decir, siempre te apareces en los momentos más "
+"oportunos."
 
 #. [33793] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/9/event/quest/6/message #521
 #. NPC ctc-questgiver-1
@@ -3919,7 +4013,7 @@ msgstr ""
 #, max-length:40
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/9/event/quest/6/message"
 msgid "...!"
-msgstr ""
+msgstr "¡...!"
 
 #. [33794] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/9/event/quest/7/message #522
 #. NPC ctc-questgiver-1
@@ -3930,6 +4024,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/9/event/quest/7/message"
 msgid "I have another task for you.\\. And this time the main headquarters are involved.\\. Truly, a huge opportunity!"
 msgstr ""
+"Tengo otra tarea para tí.\\. Y esta vez involucra a la sede central.\\. ¡"
+"Verdaderamente una gran oportunidad!"
 
 #. [33795] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/9/event/quest/8/message #523
 #. NPC ctc-questgiver-1
@@ -3939,7 +4035,7 @@ msgstr ""
 #, max-length:340
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/9/event/quest/8/message"
 msgid "So please lend me your assistance!"
-msgstr ""
+msgstr "¡Así que por favor, bríndame tus servicios!"
 
 #. [33796] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/9/event/quest/9/accepted/0/message #530
 #. NPC ctc-questgiver-1
@@ -3950,7 +4046,7 @@ msgstr ""
 #, max-length:60
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/9/event/quest/9/accepted/0/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[asiente]"
 
 #. [33797] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/9/event/quest/9/accepted/1/message #513
 #. NPC ctc-questgiver-1
@@ -3962,6 +4058,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/9/event/quest/9/accepted/1/message"
 msgid "Oh, what a relief, to hear that from one as reliable as yourself.\\. Now the road to success shall be smoothly paved."
 msgstr ""
+"Oh, que gusto oír eso de alguien tan confiable como tú.\\. Ahora el camino "
+"al éxito será pavimentado sin ningún problema."
 
 #. [33798] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/9/event/quest/9/accepted/2/message #525
 #. NPC ctc-questgiver-1
@@ -3972,7 +4070,7 @@ msgstr ""
 #, max-length:30
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/9/event/quest/9/accepted/2/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. [33799] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/9/event/quest/9/accepted/3/message #526
 #. NPC ctc-questgiver-1
@@ -3984,6 +4082,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/9/event/quest/9/accepted/3/message"
 msgid "In any case, I cannot tell you much about the mission itself.\\. My task was simply to acquire an able helper."
 msgstr ""
+"De todos modos, no puedo contarte mucho sobre la misión en cuestión.\\. Mi "
+"tarea es simplemente reclutar a un ayudante capaz."
 
 #. [33800] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/9/event/quest/9/accepted/4/message #531
 #. NPC ctc-questgiver-1
@@ -3994,7 +4094,7 @@ msgstr ""
 #, max-length:30
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/9/event/quest/9/accepted/4/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. [33801] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/9/event/quest/9/accepted/5/message #532
 #. NPC ctc-questgiver-1
@@ -4006,6 +4106,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/9/event/quest/9/accepted/5/message"
 msgid "So please go to the very North of the \\c[3]Alley Quarters\\c[0] and enter the \\c[3]Traders Kontor\\c[0]."
 msgstr ""
+"Así que por favor, ve al Norte de los \\c[3]Cuarteles del Callejón\\c[0] y "
+"entra al \\c[3]Centro de Comerciantes\\c[0]."
 
 #. [33802] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/9/event/quest/9/accepted/6/message #533
 #. NPC ctc-questgiver-1
@@ -4017,6 +4119,8 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/9/event/quest/9/accepted/6/message"
 msgid "Then go upstairs to talk to the high board.\\. I will announce your arrival and task so you can enter."
 msgstr ""
+"Luego sube las escaleras y habla con el jefe del lugar.\\. Anunciaré tu "
+"llegada y tu tarea así te dejarán entrar."
 
 #. [33803] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/9/event/quest/9/accepted/7/message #534
 #. NPC ctc-questgiver-1
@@ -4028,6 +4132,7 @@ msgstr ""
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/9/event/quest/9/accepted/7/message"
 msgid "And please, give the board my warmest of regards.\\. They will surely appreciate it."
 msgstr ""
+"Y por favor, dale al jefe mi más cordial saludo.\\. Seguro que lo apreciará."
 
 #. [33804] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/9/event/quest/9/accepted/8/message #536
 #. NPC ctc-questgiver-1
@@ -4038,7 +4143,7 @@ msgstr ""
 #, max-length:30
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/9/event/quest/9/accepted/8/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. [33805] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/9/event/quest/9/accepted/9/message #537
 #. NPC ctc-questgiver-1
@@ -4049,7 +4154,7 @@ msgstr ""
 #, max-length:60
 msgctxt "data/maps/rookie-harbor/center.json/entities/636/settings/npcStates/9/event/quest/9/accepted/9/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[asiente]"
 
 #. [33806] data/maps/rookie-harbor/center.json entities/636/settings/npcStates/9/event/quest/9/declined/0/message #535
 #. NPC ctc-questgiver-1
