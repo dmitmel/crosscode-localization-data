@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: crosscode 1.4.0-4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-12 23:31+0000\n"
-"PO-Revision-Date: 2021-03-12 23:31+0000\n"
+"POT-Creation-Date: 2021-03-12 23:33+0000\n"
+"PO-Revision-Date: 2021-03-12 23:33+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -179,7 +179,7 @@ msgstr "Сразитесь вновь с ранними врагами, найд
 #: data/arena/faction-cup-1.json+core/creator+%2350
 msgctxt "data/arena/faction-cup-1.json//core/creator"
 msgid "GFluegel"
-msgstr ""
+msgstr "GFluegel"
 
 #. data/arena/faction-cup-1.json rounds/0/name #28
 #. DEFAULT
@@ -301,7 +301,7 @@ msgstr "Сразитесь вновь со средними врагами, на
 #: data/arena/faction-cup-2.json+core/creator+%2350
 msgctxt "data/arena/faction-cup-2.json//core/creator"
 msgid "GFluegel"
-msgstr ""
+msgstr "GFluegel"
 
 #. data/arena/faction-cup-2.json rounds/0/name #54
 #. DEFAULT
@@ -430,28 +430,28 @@ msgstr ""
 #: data/arena/faction-cup-3.json+core/name+%234
 msgctxt "data/arena/faction-cup-3.json//core/name"
 msgid "Wanderer's Cup"
-msgstr ""
+msgstr "Кубок Скитальца"
 
 #. data/arena/faction-cup-3.json core/info #1
 #. SOLO_CUP
 #: data/arena/faction-cup-3.json+core/info+%231
 msgctxt "data/arena/faction-cup-3.json//core/info"
 msgid "Refight several challenging battles found during your endgame quests!"
-msgstr ""
+msgstr "Сразитесь вновь с сильными врагами, найденными во время ваших финальных квестов!"
 
 #. data/arena/faction-cup-3.json core/creator #50
 #. SOLO_CUP
 #: data/arena/faction-cup-3.json+core/creator+%2350
 msgctxt "data/arena/faction-cup-3.json//core/creator"
 msgid "GFluegel"
-msgstr ""
+msgstr "GFluegel"
 
 #. data/arena/faction-cup-3.json rounds/0/name #56
 #. DEFAULT
 #: data/arena/faction-cup-3.json+rounds/0/name+%2356
 msgctxt "data/arena/faction-cup-3.json//rounds/0/name"
 msgid "Sober Slaughter"
-msgstr ""
+msgstr "Трезвая Резня"
 
 #. data/arena/faction-cup-3.json rounds/0/objective #57
 #. DEFAULT
@@ -461,13 +461,15 @@ msgid ""
 "Defeat the \\c[3]\\v[combat.name.heat/special/jellyfish-booze]s and \\v[combat.name.heat/special/heat-golem-booze]\\c[0] in \\c[3]the Distillery of \\v[area.heat-village.name]\\c[0]!\n"
 "Throw \\c[3]ice into the ovens to deactivate the shields and onto the machine to prevent overheating\\c[0]!"
 msgstr ""
+"Победите \\c[3]Алкогольных медуз и Пьяных существ\\c[0] в \\c[3]Винокурне Ба'кии Кума\\c[0]!\n"
+"Бросайте \\c[3]лёд в печки чтобы снять щиты и в машину чтобы предотвратить перегрев\\c[0]!"
 
 #. data/arena/faction-cup-3.json rounds/1/name #54
 #. DEFAULT
 #: data/arena/faction-cup-3.json+rounds/1/name+%2354
 msgctxt "data/arena/faction-cup-3.json//rounds/1/name"
 msgid "Ocean Operation"
-msgstr ""
+msgstr "Операция в Океане"
 
 #. data/arena/faction-cup-3.json rounds/1/objective #51
 #. DEFAULT
@@ -477,13 +479,15 @@ msgid ""
 "Defeat the \\c[3]\\c[0] on \\c[3]the ocean\\c[0]!\n"
 "Make sure \\c[3]your turret-boat doesn't get destroyed!\\c[0]!"
 msgstr ""
+"Победите в \\c[3]океане\\c[0]!\n"
+"Убедитесь в том, что \\c[3]ваша турель-судно не будет уничтожена!\\c[0]!"
 
 #. data/arena/faction-cup-3.json rounds/2/name #58
 #. DEFAULT
 #: data/arena/faction-cup-3.json+rounds/2/name+%2358
 msgctxt "data/arena/faction-cup-3.json//rounds/2/name"
 msgid "Ghost of a Chance"
-msgstr ""
+msgstr "Призрак Шанса"
 
 #. data/arena/faction-cup-3.json rounds/2/objective #55
 #. DEFAULT
@@ -493,13 +497,15 @@ msgid ""
 "Work with a salty helper to defeat \\c[3]\\v[combat.name.jungle/special/ghost-toxic]\\c[0] at the entrance to \\v[area.jungle-city.name]!\n"
 "\\c[3]Defend your ally\\c[0] while \\c[3]it weakens the enemy\\c[0]!"
 msgstr ""
+"Поработайте с солевым помощником, чтобы победить \\c[3]Токсическое создание\\c[0] у входа в Крепость Бейзина!\n"
+"\\c[3]Защищайте своего союзника\\c[0] пока он \\c[3]ослабляет врага\\c[0]!"
 
 #. data/arena/faction-cup-3.json rounds/3/name #40
 #. DEFAULT
 #: data/arena/faction-cup-3.json+rounds/3/name+%2340
 msgctxt "data/arena/faction-cup-3.json//rounds/3/name"
 msgid "Tremoring Tech"
-msgstr ""
+msgstr "Дрожащая Технология"
 
 #. data/arena/faction-cup-3.json rounds/3/objective #41
 #. DEFAULT
@@ -509,13 +515,15 @@ msgid ""
 "Defeat the shaking \\c[3]\\v[combat.name.autumn-fall/runbot-tremor]\\c[0] in the hidden office in \\c[3]\\v[area.rhombus-sqr.name]\\c[0]!\n"
 "It's \\c[3]aura\\c[0] can be \\c[3]neutralized\\c[0] with \\c[3]Shock\\c[0]!"
 msgstr ""
+"Победите дрожжащего \\c[3]Дрожжи\\c[0] в тайном офисе на \\c[3]Площади Ромба\\c[0]!\n"
+"Его \\c[3]аура\\c[0] может быть \\c[3]нейтрализована\\c[0] с помощью \\c[3]Шока\\c[0]!"
 
 #. data/arena/faction-cup-3.json rounds/4/name #44
 #. DEFAULT
 #: data/arena/faction-cup-3.json+rounds/4/name+%2344
 msgctxt "data/arena/faction-cup-3.json//rounds/4/name"
 msgid "Pewpew Parrot"
-msgstr ""
+msgstr "Пиу-пиу попугай"
 
 #. data/arena/faction-cup-3.json rounds/4/objective #45
 #. DEFAULT
@@ -525,13 +533,15 @@ msgid ""
 "Defeat the \\c[3]\\v[combat.name.jungle/special/parrot-gangster-boss-1]\\c[0] who has resettled to \\c[3]\\v[area.jungle-city.name]\\c[0]!\n"
 "Try to \\c[3]shoot down the missiles\\c[0] before they overwhelm you!"
 msgstr ""
+"Победите \\c[3]Попубосса младшего\\c[0], который переселился в \\c[3]Крепость Бейзина\\c[0]! \n"
+"Попытайтесь \\c[3]сбить ракеты\\c[0] прежде чем они сокрушат вас!"
 
 #. data/arena/faction-cup-3.json rounds/5/name #46
 #. DEFAULT
 #: data/arena/faction-cup-3.json+rounds/5/name+%2346
 msgctxt "data/arena/faction-cup-3.json//rounds/5/name"
 msgid "The Goatfather, Part II"
-msgstr ""
+msgstr "Крёстный Козлец, часть II"
 
 #. data/arena/faction-cup-3.json rounds/5/objective #47
 #. DEFAULT
@@ -541,13 +551,15 @@ msgid ""
 "Defeat the \\c[3]\\v[combat.name.cold/goat-father-2]\\c[0] in \\c[3]\\v[area.thombus-sqr.name]\\c[0]!\n"
 "This time you fight him for real!"
 msgstr ""
+"Победите \\c[3]Козла\\c[0] на \\c[3]Площади Ромба\\c[0]!\n"
+"В этот раз вы сражаетесь серьёзно!"
 
 #. data/arena/faction-cup-3.json rounds/6/name #52
 #. DEFAULT
 #: data/arena/faction-cup-3.json+rounds/6/name+%2352
 msgctxt "data/arena/faction-cup-3.json//rounds/6/name"
 msgid "Ape Assault"
-msgstr ""
+msgstr "Атака обезьян"
 
 #. data/arena/faction-cup-3.json rounds/6/objective #53
 #. DEFAULT
@@ -557,6 +569,8 @@ msgid ""
 "Defeat the \\c[3]\\v[combat.name.beach/ape-beach]\\c[0] on the \\c[3]\\v[area.beach.name]\\c[0]!\n"
 "This is a duel for the ages!"
 msgstr ""
+"Победите \\c[3]Сына Пляжа\\c[0] на \\c[3]Лазурном архипелаге\\c[0]!\n"
+"Это дуэль на века!"
 
 #. data/arena/faction-team-cup-1.json core/name #4
 #. TEAM_CUP
@@ -577,7 +591,7 @@ msgstr "Сразитесь вновь с врагами, найденными в
 #: data/arena/faction-team-cup-1.json+core/creator+%2350
 msgctxt "data/arena/faction-team-cup-1.json//core/creator"
 msgid "GFluegel"
-msgstr ""
+msgstr "GFluegel"
 
 #. data/arena/faction-team-cup-1.json rounds/0/name #28
 #. DEFAULT
@@ -1581,117 +1595,117 @@ msgstr "Победите врагов из \\c[3]Расцвета Осени\\c[
 #: data/arena/vermillion-cup.json+core/name+%231
 msgctxt "data/arena/vermillion-cup.json//core/name"
 msgid "Vermillion Cup"
-msgstr ""
+msgstr "Кубок Вермиллиона"
 
 #. data/arena/vermillion-cup.json core/info #2
 #. SOLO_CUSTOM
 #: data/arena/vermillion-cup.json+core/info+%232
 msgctxt "data/arena/vermillion-cup.json//core/info"
 msgid "A cup featuring enemies from the \\v[area.arid.name] only Lea can access."
-msgstr ""
+msgstr "Кубок с участием врагов из Пустоши Вермиллион, доступными только Лее."
 
 #. data/arena/vermillion-cup.json core/creator #3
 #. SOLO_CUSTOM
 #: data/arena/vermillion-cup.json+core/creator+%233
 msgctxt "data/arena/vermillion-cup.json//core/creator"
 msgid "???"
-msgstr ""
+msgstr "???"
 
 #. data/arena/vermillion-cup.json rounds/0/name #7
 #: data/arena/vermillion-cup.json+rounds/0/name+%237
 msgctxt "data/arena/vermillion-cup.json//rounds/0/name"
 msgid "Multi Microbes"
-msgstr ""
+msgstr "Мульти микробы"
 
 #. data/arena/vermillion-cup.json rounds/0/objective #58
 #: data/arena/vermillion-cup.json+rounds/0/objective+%2358
 msgctxt "data/arena/vermillion-cup.json//rounds/0/objective"
 msgid "Defeat the virus enemies from \\c[3]\\v[area.arid.name]\\c[0]!"
-msgstr ""
+msgstr "Победите вирусов из \\c[3]Пустоши Вермиллион\\c[0]!"
 
 #. data/arena/vermillion-cup.json rounds/1/name #59
 #: data/arena/vermillion-cup.json+rounds/1/name+%2359
 msgctxt "data/arena/vermillion-cup.json//rounds/1/name"
 msgid "Basic Brutes"
-msgstr ""
+msgstr "Обычные вышибалы"
 
 #. data/arena/vermillion-cup.json rounds/1/objective #60
 #: data/arena/vermillion-cup.json+rounds/1/objective+%2360
 msgctxt "data/arena/vermillion-cup.json//rounds/1/objective"
 msgid "Defeat the brute enemies from \\c[3]\\v[area.arid.name]\\c[0]!"
-msgstr ""
+msgstr "Победите врагов-вышибал из \\c[3]Пустоши Вермиллион\\c[0]!"
 
 #. data/arena/vermillion-cup.json rounds/2/name #61
 #: data/arena/vermillion-cup.json+rounds/2/name+%2361
 msgctxt "data/arena/vermillion-cup.json//rounds/2/name"
 msgid "Rhino Rumble"
-msgstr ""
+msgstr "Носорожий грохот"
 
 #. data/arena/vermillion-cup.json rounds/2/objective #62
 #: data/arena/vermillion-cup.json+rounds/2/objective+%2362
 msgctxt "data/arena/vermillion-cup.json//rounds/2/objective"
 msgid "Defeat the rhino enemies from \\c[3]\\v[area.arid.name]\\c[0]!"
-msgstr ""
+msgstr "Победите врагов-носорогов из \\c[3]Пустоши Вермиллион\\c[0]!"
 
 #. data/arena/vermillion-cup.json rounds/3/name #63
 #: data/arena/vermillion-cup.json+rounds/3/name+%2363
 msgctxt "data/arena/vermillion-cup.json//rounds/3/name"
 msgid "Dice Dusters"
-msgstr ""
+msgstr "Пыльные игральные кости"
 
 #. data/arena/vermillion-cup.json rounds/3/objective #64
 #: data/arena/vermillion-cup.json+rounds/3/objective+%2364
 msgctxt "data/arena/vermillion-cup.json//rounds/3/objective"
 msgid "Defeat the dice mage enemies from \\c[3]\\v[area.arid.name]\\c[0]!"
-msgstr ""
+msgstr "Победите кубичных магов из \\c[3]Пустоши Вермиллион\\c[0]!"
 
 #. data/arena/vermillion-cup.json rounds/4/name #51
 #: data/arena/vermillion-cup.json+rounds/4/name+%2351
 msgctxt "data/arena/vermillion-cup.json//rounds/4/name"
 msgid "The Elemental Turrets"
-msgstr ""
+msgstr "Элементальные турели"
 
 #. data/arena/vermillion-cup.json rounds/4/objective #72
 #: data/arena/vermillion-cup.json+rounds/4/objective+%2372
 msgctxt "data/arena/vermillion-cup.json//rounds/4/objective"
 msgid "Beat a stronger version of the \\c[3]\\v[combat.name.arid/element-turret-boss]\\c[0] boss from the \\c[3]\\v[area.arid.name]\\c[0]!"
-msgstr ""
+msgstr "Победите усиленную версию \\c[3]Главного часового\\c[0] из \\c[3]Пустоши Вермиллион\\c[0]!"
 
 #. data/arena/vermillion-cup.json rounds/5/name #73
 #: data/arena/vermillion-cup.json+rounds/5/name+%2373
 msgctxt "data/arena/vermillion-cup.json//rounds/5/name"
 msgid "The Infinte Snail"
-msgstr ""
+msgstr "Бесконечная улитка"
 
 #. data/arena/vermillion-cup.json rounds/5/objective #74
 #: data/arena/vermillion-cup.json+rounds/5/objective+%2374
 msgctxt "data/arena/vermillion-cup.json//rounds/5/objective"
 msgid "Beat a stronger version of the \\c[3]\\v[combat.name.arid/snail]\\c[0] boss from the \\c[3]\\v[area.arid.name]\\c[0]!"
-msgstr ""
+msgstr "Победите усиленную версию \\c[3]Гастрополиса\\c[0] из \\c[3]Пустоши Вермиллион\\c[0]!"
 
 #. data/arena/vermillion-cup.json rounds/6/name #75
 #: data/arena/vermillion-cup.json+rounds/6/name+%2375
 msgctxt "data/arena/vermillion-cup.json//rounds/6/name"
 msgid "The Designer"
-msgstr ""
+msgstr "Дизайнер"
 
 #. data/arena/vermillion-cup.json rounds/6/objective #76
 #: data/arena/vermillion-cup.json+rounds/6/objective+%2376
 msgctxt "data/arena/vermillion-cup.json//rounds/6/objective"
 msgid "Beat a stronger version of the \\c[3]\\v[combat.name.boss/designer-2]\\c[0] boss from the \\c[3]\\v[area.arid.name]\\c[0]!"
-msgstr ""
+msgstr "Победите усиленную версию \\c[3]Дизайнера\\c[0] из \\c[3]Пустоши Вермиллион\\c[0]!"
 
 #. data/arena/vermillion-cup.json rounds/7/name #77
 #: data/arena/vermillion-cup.json+rounds/7/name+%2377
 msgctxt "data/arena/vermillion-cup.json//rounds/7/name"
 msgid "The Creator"
-msgstr ""
+msgstr "Создатель"
 
 #. data/arena/vermillion-cup.json rounds/7/objective #78
 #: data/arena/vermillion-cup.json+rounds/7/objective+%2378
 msgctxt "data/arena/vermillion-cup.json//rounds/7/objective"
 msgid "Beat a stronger version of \\c[3]\\v[combat.name.boss/elephant]\\c[0] boss from the \\c[3]\\v[area.arid.name]\\c[0]!"
-msgstr ""
+msgstr "Победите усиленную версию \\c[3]Создателя\\c[0] из \\c[3]Пустоши Вермиллион\\c[0]!"
 
 #. data/maps/arena/boss/cold-midboss.json entities/5/settings/event/8/action/0/text #1
 #. EventTrigger BattleStart START IF true

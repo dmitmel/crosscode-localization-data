@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: crosscode 1.4.0-4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-12 23:31+0000\n"
-"PO-Revision-Date: 2021-03-12 23:31+0000\n"
+"POT-Creation-Date: 2021-03-12 23:33+0000\n"
+"PO-Revision-Date: 2021-03-12 23:33+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -83,7 +83,7 @@ msgstr "Озвучка высокого качества \\c[3]отключен�
 #: data/lang/sc/gui.en_US.json+labels/arena/rushDisabled+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/rushDisabled"
 msgid "Disabled"
-msgstr ""
+msgstr "Отключено"
 
 #. data/lang/sc/gui.en_US.json labels/arena/arenaName #0
 #: data/lang/sc/gui.en_US.json+labels/arena/arenaName+%230
@@ -377,13 +377,13 @@ msgstr "\\c[5]Без использования предметов\\c[0]"
 #: data/lang/sc/gui.en_US.json+labels/arena/bonuses/PVP_FLAWLESS+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/bonuses/PVP_FLAWLESS"
 msgid "\\c[5]No Rounds Lost\\c[0]"
-msgstr ""
+msgstr "\\c[5]Без проигранных раундов\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/arena/challenges/descriptions/WEAPON_ADJUST #0
 #: data/lang/sc/gui.en_US.json+labels/arena/challenges/descriptions/WEAPON_ADJUST+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/challenges/descriptions/WEAPON_ADJUST"
 msgid "Ascended Gear Level will be adjusted to round level."
-msgstr ""
+msgstr "Уровень вознесённого снаряжения будет изменён на уровень раунда."
 
 #. data/lang/sc/gui.en_US.json labels/arena/challenges/descriptions/NO_MELEE #0
 #: data/lang/sc/gui.en_US.json+labels/arena/challenges/descriptions/NO_MELEE+%230
@@ -393,7 +393,6 @@ msgstr "Ближний бой и его техники отключены."
 
 #. data/lang/sc/gui.en_US.json labels/arena/challenges/descriptions/NO_RANGED #0
 #: data/lang/sc/gui.en_US.json+labels/arena/challenges/descriptions/NO_RANGED+%230
-#, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/challenges/descriptions/NO_RANGED"
 msgid "Throwing and Throw Arts are disabled."
 msgstr "Дальний бой и его техники отключены."
@@ -558,13 +557,13 @@ msgstr "Идеальное уклонение"
 #: data/lang/sc/gui.en_US.json+labels/arena/scoreTypes/PVP_ROUND_WON+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/scoreTypes/PVP_ROUND_WON"
 msgid "Rounds Won"
-msgstr ""
+msgstr "Выигранные раунды"
 
 #. data/lang/sc/gui.en_US.json labels/arena/scoreTypes/PVP_ROUND_LOST #0
 #: data/lang/sc/gui.en_US.json+labels/arena/scoreTypes/PVP_ROUND_LOST+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/scoreTypes/PVP_ROUND_LOST"
 msgid "Rounds Lost"
-msgstr ""
+msgstr "Проигранные раунды"
 
 #. data/lang/sc/gui.en_US.json labels/arena/medals/0 #0
 #: data/lang/sc/gui.en_US.json+labels/arena/medals/0+%230
@@ -780,7 +779,7 @@ msgstr "Завершите предыдущий раунд, чтобы разб�
 #: data/lang/sc/gui.en_US.json+labels/dlc/abr+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/dlc/abr"
 msgid "DLC"
-msgstr ""
+msgstr "DLC"
 
 #. data/lang/sc/gui.en_US.json labels/area/other #0
 #: data/lang/sc/gui.en_US.json+labels/area/other+%230
@@ -924,7 +923,7 @@ msgstr "Цена:"
 #: data/lang/sc/gui.en_US.json+labels/trade/compare+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/compare"
 msgid "compared to"
-msgstr ""
+msgstr "tr_ru:EMPTY_STRING"
 
 #. data/lang/sc/gui.en_US.json labels/trade/compareHEAD #0
 #: data/lang/sc/gui.en_US.json+labels/trade/compareHEAD+%230
@@ -1854,7 +1853,7 @@ msgstr "Нашли опечатку? Нажмите \\c[3]F7, чтобы отк�
 #: data/lang/sc/gui.en_US.json+labels/lang-edit/title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/lang-edit/title"
 msgid "Language Edit"
-msgstr "Изменить язык"
+msgstr "<span style=\"font-size: 0.8em;\">Редактор опечаток \"Хочешь - делай.\"</span>"
 
 #. data/lang/sc/gui.en_US.json labels/lang-edit/map #0
 #: data/lang/sc/gui.en_US.json+labels/lang-edit/map+%230
@@ -1866,7 +1865,7 @@ msgstr "Карта"
 #: data/lang/sc/gui.en_US.json+labels/lang-edit/recent+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/lang-edit/recent"
 msgid "Recent"
-msgstr "Текущий"
+msgstr "Недавние"
 
 #. data/lang/sc/gui.en_US.json labels/lang-edit/user-prefix #0
 #: data/lang/sc/gui.en_US.json+labels/lang-edit/user-prefix+%230
@@ -1878,13 +1877,13 @@ msgstr "Пользователь:"
 #: data/lang/sc/gui.en_US.json+labels/lang-edit/user-edit+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/lang-edit/user-edit"
 msgid "edit"
-msgstr "редактирование"
+msgstr "изменить"
 
 #. data/lang/sc/gui.en_US.json labels/lang-edit/user-credentials #0
 #: data/lang/sc/gui.en_US.json+labels/lang-edit/user-credentials+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/lang-edit/user-credentials"
 msgid "User Credentials"
-msgstr "Учётные данные пользователя"
+msgstr "<span style=\"font-size: 0.8em;\">Учётные данные пользователя</span>"
 
 #. data/lang/sc/gui.en_US.json labels/lang-edit/user-name #0
 #: data/lang/sc/gui.en_US.json+labels/lang-edit/user-name+%230

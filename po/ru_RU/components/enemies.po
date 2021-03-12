@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: crosscode 1.4.0-4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-12 23:31+0000\n"
-"PO-Revision-Date: 2021-03-12 23:31+0000\n"
+"POT-Creation-Date: 2021-03-12 23:33+0000\n"
+"PO-Revision-Date: 2021-03-12 23:33+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -724,27 +724,27 @@ msgstr ""
 #: data/enemies/autumn-fall/runbot-tremor.json+actions/Activate/1/text+%2338
 msgctxt "data/enemies/autumn-fall/runbot-tremor.json//actions/Activate/1/text"
 msgid "Threat detected"
-msgstr ""
+msgstr "Обнаружена угроза"
 
 #. data/enemies/autumn-fall/runbot-tremor.json actions/removeAura/4/text #47
 #. SHOW_AR_MSG
 #: data/enemies/autumn-fall/runbot-tremor.json+actions/removeAura/4/text+%2347
 msgctxt "data/enemies/autumn-fall/runbot-tremor.json//actions/removeAura/4/text"
 msgid "[ AURA DISPERSED ]"
-msgstr ""
+msgstr "[ АУРА РАССЕЯНА ]"
 
 #. data/enemies/autumn-fall/runbot-tremor.json actions/restoreAura/8/text #45
 #. SHOW_AR_MSG
 #: data/enemies/autumn-fall/runbot-tremor.json+actions/restoreAura/8/text+%2345
 msgctxt "data/enemies/autumn-fall/runbot-tremor.json//actions/restoreAura/8/text"
 msgid "[ RESTORED AURA ]"
-msgstr ""
+msgstr "[ ВОССТАНОВЛЕНИЕ АУРЫ ]"
 
 #. data/enemies/autumn-fall/runbot-tremor.json meta/species #36
 #: data/enemies/autumn-fall/runbot-tremor.json+meta/species+%2336
 msgctxt "data/enemies/autumn-fall/runbot-tremor.json//meta/species"
 msgid "Shaking Robot"
-msgstr ""
+msgstr "Дрожащий Робот"
 
 #. data/enemies/autumn-fall/runbot-tremor.json meta/descriptions/0/text #40
 #: data/enemies/autumn-fall/runbot-tremor.json+meta/descriptions/0/text+%2340
@@ -753,6 +753,8 @@ msgid ""
 "A variant of the \\v[combat.name.autumn-fall/runbot-tremor] that seems to be constantly shaking when active. This is because of the powerful \\c[3]Tremor Core\\c[0] that was implemented.\n"
 "Unlike its much colder design brethren, this unique machine attacks with a broader variety of elements and prefers powerful \\c[3]Wave\\c[0] attacks."
 msgstr ""
+"Вид Дрожжи, который постоянно трясётся в активном состоянии. Это из-за мощного \\c[3]Дрожащего Двигателя\\c[0], которое было встроено.\n"
+"В отличие от своих собратьев с более холодным дизайном, эта уникальная машина атакует с более широким набором элементов и предпочитает мощные атаки \\c[3]волной\\c[0]."
 
 #. data/enemies/autumn-fall/seahorse-fall.json actions/Flamethrower/6/text #4
 #. SHOW_AR_MSG
@@ -946,7 +948,7 @@ msgstr "\\v[entity.attrib.startingWave]"
 #: data/enemies/autumn-rh/suicider_float-quest_naval.json+actions/InitMove/4/thenStep/0/text+%2327
 msgctxt "data/enemies/autumn-rh/suicider_float-quest_naval.json//actions/InitMove/4/thenStep/0/text"
 msgid "MOVE"
-msgstr ""
+msgstr "ДВИЖЕНИЕ"
 
 #. data/enemies/autumn-rh/suicider_float-quest_naval.json actions/StartFullShield/0/thenStep/0/text #1
 #. IF test
@@ -1144,7 +1146,7 @@ msgstr ""
 #: data/enemies/autumn-rh/turret_boss-quest_naval.json+actions/Init/0/thenStep/0/text+%2311
 msgctxt "data/enemies/autumn-rh/turret_boss-quest_naval.json//actions/Init/0/thenStep/0/text"
 msgid "\\v[entity.attrib.startingWave]"
-msgstr ""
+msgstr "\\v[entity.attrib.startingWave]"
 
 #. data/enemies/autumn-rh/turret_boss-quest_naval.json actions/InitMove/2/thenStep/0/text #28
 #. IF test
@@ -1152,7 +1154,7 @@ msgstr ""
 #: data/enemies/autumn-rh/turret_boss-quest_naval.json+actions/InitMove/2/thenStep/0/text+%2328
 msgctxt "data/enemies/autumn-rh/turret_boss-quest_naval.json//actions/InitMove/2/thenStep/0/text"
 msgid "MOVE"
-msgstr ""
+msgstr "ДВИЖЕНИЕ"
 
 #. data/enemies/autumn-rh/turret_boss-quest_naval.json actions/StartFullShield/0/thenStep/0/text #1
 #. IF true
@@ -1160,7 +1162,7 @@ msgstr ""
 #: data/enemies/autumn-rh/turret_boss-quest_naval.json+actions/StartFullShield/0/thenStep/0/text+%231
 msgctxt "data/enemies/autumn-rh/turret_boss-quest_naval.json//actions/StartFullShield/0/thenStep/0/text"
 msgid "[ FullShield On ]"
-msgstr ""
+msgstr "[ Щит активирован ]"
 
 #. data/enemies/autumn-rh/turret_boss-quest_naval.json actions/StartPartShield/0/text #2
 #. SHOW_AR_MSG
@@ -1181,7 +1183,7 @@ msgstr ""
 #: data/enemies/autumn-rh/turret_boss-quest_naval.json+actions/Target/4/text+%235
 msgctxt "data/enemies/autumn-rh/turret_boss-quest_naval.json//actions/Target/4/text"
 msgid "[ TARGET ]"
-msgstr ""
+msgstr "[ ЦЕЛЬ ]"
 
 #. data/enemies/autumn-rh/turret_boss-quest_naval.json actions/AntiTurretShot/9/thenStep/0/text #39
 #. COMBAT_IF
@@ -1220,7 +1222,7 @@ msgstr ""
 #: data/enemies/autumn-rh/turret_boss-quest_naval.json+actions/ReachGoal/0/text+%2323
 msgctxt "data/enemies/autumn-rh/turret_boss-quest_naval.json//actions/ReachGoal/0/text"
 msgid "[ WEAPON ESCAPED! ]"
-msgstr ""
+msgstr "[ ОРУЖИЕ СМЫЛОСЬ! ]"
 
 #. data/enemies/autumn-rh/turret_boss-quest_naval.json actions/StunStart/0/text #32
 #. SHOW_AR_MSG
@@ -1233,7 +1235,7 @@ msgstr ""
 #: data/enemies/autumn-rh/turret_boss-quest_naval.json+meta/species+%2329
 msgctxt "data/enemies/autumn-rh/turret_boss-quest_naval.json//meta/species"
 msgid "Floating Coordinator Turret"
-msgstr ""
+msgstr "Парящая Турель-Наводчик"
 
 #. data/enemies/autumn-rh/turret_boss-quest_naval.json meta/descriptions/0/text #26
 #: data/enemies/autumn-rh/turret_boss-quest_naval.json+meta/descriptions/0/text+%2326
@@ -1242,6 +1244,8 @@ msgid ""
 "Heavily modified turrets made in \\c[3]\\v[area.rhombus-sqr.name]\\c[0] and meant for illegal activities all over \\v[lore.title.planet]. They are equipped with \\c[3]floating devices\\c[0] to cross the ocean on their own and might even have their own \\c[3]shielding system\\c[0].\n"
 "It is advised to only face them with the support of \\c[3]heavy artillery\\c[0]."
 msgstr ""
+"Сильно модифицированные турели, сделанные на \\c[3]Площади Ромба\\c[0] и предназначенные для нелегального рода деятельности по всему Шадуну. Они оснащены \\c[3]летающими платформами\\c[0] для самостоятельного пересечения океана и даже могут иметь собственный \\c[3]щит\\c[0].\n"
+"Рекомендуется сталкиваться с ними только при поддержке \\c[3]тяжёлой артиллерии\\c[0]."
 
 #. data/enemies/autumn-rh/turret_float-quest_naval.json actions/Init/0/thenStep/0/text #27
 #. IF test
@@ -1381,19 +1385,19 @@ msgstr ""
 #: data/enemies/avatar/apollo-4.json+actions/TrapEnd/0/text+%2314
 msgctxt "data/enemies/avatar/apollo-4.json//actions/TrapEnd/0/text"
 msgid "TRAP END!"
-msgstr ""
+msgstr "ЗАГНАН В УГОЛ!"
 
 #. data/enemies/avatar/apollo-4.json meta/species #4
 #: data/enemies/avatar/apollo-4.json+meta/species+%234
 msgctxt "data/enemies/avatar/apollo-4.json//meta/species"
 msgid "Warrior of Justice"
-msgstr ""
+msgstr "Воин справедливости"
 
 #. data/enemies/avatar/apollo-4.json meta/descriptions/0/text #6
 #: data/enemies/avatar/apollo-4.json+meta/descriptions/0/text+%236
 msgctxt "data/enemies/avatar/apollo-4.json//meta/descriptions/0/text"
 msgid "Look who's back! Apollo wants to settle things and is ready to use both heat and cold against you to show you the \"true potential\" of a seeker. Just like you, he can use level 2 Combat Arts which can pack quite a punch and break your guard too if you're not careful."
-msgstr ""
+msgstr "Смотрите, кто вернулся! Аполло хочет уладить дела и готов использовать как Пламя, так и Холод против вас, чтобы показать вам \"истинный потенциал\" Искателя. Как и вы, он может использовать техники боя 2-го уровня, которые могут нанести значительный удар и пробить вашу защиту, если вы будете неосторожны."
 
 #. data/enemies/avatar/apollo.json meta/species #4
 #: data/enemies/avatar/apollo.json+meta/species+%234
@@ -1409,17 +1413,15 @@ msgstr "Самопровозглашённый воин справедливос
 
 #. data/enemies/avatar/lily.json meta/species #4
 #: data/enemies/avatar/lily.json+meta/species+%234
-#, fuzzy
 msgctxt "data/enemies/avatar/lily.json//meta/species"
 msgid "A Flower?"
-msgstr "Воин справедливости"
+msgstr ""
 
 #. data/enemies/avatar/lily.json meta/descriptions/0/text #6
 #: data/enemies/avatar/lily.json+meta/descriptions/0/text+%236
-#, fuzzy
 msgctxt "data/enemies/avatar/lily.json//meta/descriptions/0/text"
 msgid "A hexacast player from a new guild called the Star Chasers. She is quite curious of her new surroundings (and new leader after their previous one was permabanned). While her sweet demeanor is disarming, she fights with the grace of a breeze and as fierce as the tempest!"
-msgstr "Смотрите, кто вернулся! Аполло хочет уладить дела и готов использовать как Пламя, так и Холод против вас, чтобы показать вам \"истинный потенциал\" Искателя. Как и вы, он может использовать техники боя 2-го уровня, которые могут нанести значительный удар и пробить вашу защиту, если вы будете неосторожны."
+msgstr "Гексагаст из новой гильдии под названием Звёздные Охотники. Ей очень любопытно её новое окружение (и новый лидер после того, как предыдущий был заблокирован навсегда). В то время как её милая манера поведения обезоруживает, она сражается с грацией легкого ветра и яростью, как буря!"
 
 #. data/enemies/avatar/shizuka.json meta/species #4
 #: data/enemies/avatar/shizuka.json+meta/species+%234
@@ -1475,20 +1477,20 @@ msgstr "Этот тренировочный манекен использует�
 #: data/enemies/beach/ape-beach.json+bossLabel+%235
 msgctxt "data/enemies/beach/ape-beach.json//bossLabel"
 msgid "Ape"
-msgstr ""
+msgstr "Обезьяна"
 
 #. data/enemies/beach/ape-beach.json actions/WhaleStablize/8/text #7
 #. SHOW_AR_MSG
 #: data/enemies/beach/ape-beach.json+actions/WhaleStablize/8/text+%237
 msgctxt "data/enemies/beach/ape-beach.json//actions/WhaleStablize/8/text"
 msgid "Stablizing"
-msgstr ""
+msgstr "Стабилизация"
 
 #. data/enemies/beach/ape-beach.json meta/species #4
 #: data/enemies/beach/ape-beach.json+meta/species+%234
 msgctxt "data/enemies/beach/ape-beach.json//meta/species"
 msgid "Ape on Vacation"
-msgstr ""
+msgstr "Обезьяна в отпуске"
 
 #. data/enemies/beach/ape-beach.json meta/descriptions/0/text #8
 #: data/enemies/beach/ape-beach.json+meta/descriptions/0/text+%238
@@ -1497,6 +1499,8 @@ msgid ""
 "A powerful ape, serving as the unbeaten guardian and champion of the \\c[3]\\v[area.beach.name]\\c[0]. The peaceful task has left him with an eternity of time to ponder the meaning of the universe and at this point he is terminally bored and craves a proper fight.\n"
 "Though at first glance this lanky primate might lack in style and grace, he is actually much more powerful than his distant cousin, the \\v[3]\\v[combat.name.jungle/ape-boss]\\c[0]. In fact, he is able to skillfully wield \\c[3]all four elements\\c[0], a feat almost unheard of outside of experienced \\v[lore.title.seeker]s."
 msgstr ""
+"Могущественная обезьяна, непобедимый защитник и чемпион Лазурного архипелага. Мирная задача оставила ему вечность времени, чтобы обдумать значение вселенной, и в этот момент ему смертельно скучно, и он жаждет достойной битвы.\n"
+"Хотя на первый взгляд этому долговязому примату может не хватать стиля и изящества, на самом деле он намного могущественнее своего дальнего кузена Сына Востока. Фактически, он способен умело владеть всеми четырьмя стихиями, что почти неслыханно, если не считать опытных Искателей."
 
 #. data/enemies/beat-boss.json meta/species #1
 #: data/enemies/beat-boss.json+meta/species+%231
@@ -1666,13 +1670,13 @@ msgstr ""
 #: data/enemies/boss/radfish-spawner.json+meta/species+%234
 msgctxt "data/enemies/boss/radfish-spawner.json//meta/species"
 msgid "????"
-msgstr ""
+msgstr "????"
 
 #. data/enemies/boss/radfish.json meta/species #4
 #: data/enemies/boss/radfish.json+meta/species+%234
 msgctxt "data/enemies/boss/radfish.json//meta/species"
 msgid "????"
-msgstr ""
+msgstr "????"
 
 #. data/enemies/buffalo-alt.json actions/Quest-MoveToTree/2/text #3
 #. SHOW_AR_MSG
@@ -1857,7 +1861,7 @@ msgstr ""
 #: data/enemies/cold/goat-father-2.json+bossLabel+%2316
 msgctxt "data/enemies/cold/goat-father-2.json//bossLabel"
 msgid "GOAT"
-msgstr ""
+msgstr "КОЗЁЛ"
 
 #. data/enemies/cold/goat-father-2.json actions/moveBomb/1/thenStep/0/text #6
 #. IF test
@@ -1865,7 +1869,7 @@ msgstr ""
 #: data/enemies/cold/goat-father-2.json+actions/moveBomb/1/thenStep/0/text+%236
 msgctxt "data/enemies/cold/goat-father-2.json//actions/moveBomb/1/thenStep/0/text"
 msgid "BOMB!"
-msgstr ""
+msgstr "БОМБА!"
 
 #. data/enemies/cold/goat-father-2.json actions/bombKick/1/thenStep/0/text #7
 #. IF test
@@ -1873,14 +1877,14 @@ msgstr ""
 #: data/enemies/cold/goat-father-2.json+actions/bombKick/1/thenStep/0/text+%237
 msgctxt "data/enemies/cold/goat-father-2.json//actions/bombKick/1/thenStep/0/text"
 msgid "KICK!"
-msgstr ""
+msgstr "БЕЙТЕ!"
 
 #. data/enemies/cold/goat-father-2.json actions/bombDaze/4/text #9
 #. SHOW_AR_MSG
 #: data/enemies/cold/goat-father-2.json+actions/bombDaze/4/text+%239
 msgctxt "data/enemies/cold/goat-father-2.json//actions/bombDaze/4/text"
 msgid "Off Balance"
-msgstr ""
+msgstr "Потеря баланса"
 
 #. data/enemies/cold/goat-father-2.json actions/bombKickPassive/0/thenStep/0/text #10
 #. IF test
@@ -1888,14 +1892,14 @@ msgstr ""
 #: data/enemies/cold/goat-father-2.json+actions/bombKickPassive/0/thenStep/0/text+%2310
 msgctxt "data/enemies/cold/goat-father-2.json//actions/bombKickPassive/0/thenStep/0/text"
 msgid "KICK!"
-msgstr ""
+msgstr "БЕЙТЕ!"
 
 #. data/enemies/cold/goat-father-2.json actions/bombKickPassive/1/text #12
 #. SHOW_AR_MSG
 #: data/enemies/cold/goat-father-2.json+actions/bombKickPassive/1/text+%2312
 msgctxt "data/enemies/cold/goat-father-2.json//actions/bombKickPassive/1/text"
 msgid "Preparing bomb..."
-msgstr ""
+msgstr "Готовит бомбу..."
 
 #. data/enemies/cold/goat-father-2.json actions/sceneKick/0/thenStep/0/text #11
 #. IF test
@@ -1903,19 +1907,19 @@ msgstr ""
 #: data/enemies/cold/goat-father-2.json+actions/sceneKick/0/thenStep/0/text+%2311
 msgctxt "data/enemies/cold/goat-father-2.json//actions/sceneKick/0/thenStep/0/text"
 msgid "KICK!"
-msgstr ""
+msgstr "БЕЙТЕ!"
 
 #. data/enemies/cold/goat-father-2.json meta/species #4
 #: data/enemies/cold/goat-father-2.json+meta/species+%234
 msgctxt "data/enemies/cold/goat-father-2.json//meta/species"
 msgid "Boss Goat"
-msgstr ""
+msgstr "Козёл-босс"
 
 #. data/enemies/cold/goat-father-2.json meta/descriptions/0/text #15
 #: data/enemies/cold/goat-father-2.json+meta/descriptions/0/text+%2315
 msgctxt "data/enemies/cold/goat-father-2.json//meta/descriptions/0/text"
 msgid "It can make offers, you can not refuse."
-msgstr ""
+msgstr "Он может сделать предложение, от которого вы не сможете отказаться."
 
 #. data/enemies/cold/goat-father.json actions/moveBomb/1/thenStep/0/text #6
 #. IF test
@@ -1981,7 +1985,7 @@ msgstr "Он может сделать предложение, от которо
 #: data/enemies/cold/goat-worker.json+actions/moveBomb/1/thenStep/0/text+%236
 msgctxt "data/enemies/cold/goat-worker.json//actions/moveBomb/1/thenStep/0/text"
 msgid "BOMB!"
-msgstr ""
+msgstr "БОМБА!"
 
 #. data/enemies/cold/goat-worker.json actions/bombKick/1/thenStep/0/text #7
 #. IF test
@@ -1989,14 +1993,14 @@ msgstr ""
 #: data/enemies/cold/goat-worker.json+actions/bombKick/1/thenStep/0/text+%237
 msgctxt "data/enemies/cold/goat-worker.json//actions/bombKick/1/thenStep/0/text"
 msgid "KICK!"
-msgstr ""
+msgstr "БЕЙТЕ!"
 
 #. data/enemies/cold/goat-worker.json actions/bombDaze/8/text #9
 #. SHOW_AR_MSG
 #: data/enemies/cold/goat-worker.json+actions/bombDaze/8/text+%239
 msgctxt "data/enemies/cold/goat-worker.json//actions/bombDaze/8/text"
 msgid "[Off Balance]"
-msgstr ""
+msgstr "[Потеря баланса]"
 
 #. data/enemies/cold/goat-worker.json actions/bombKickPassive/0/thenStep/0/text #10
 #. IF test
@@ -2004,7 +2008,7 @@ msgstr ""
 #: data/enemies/cold/goat-worker.json+actions/bombKickPassive/0/thenStep/0/text+%2310
 msgctxt "data/enemies/cold/goat-worker.json//actions/bombKickPassive/0/thenStep/0/text"
 msgid "KICK!"
-msgstr ""
+msgstr "БЕЙТЕ!"
 
 #. data/enemies/cold/goat-worker.json actions/bombKickPassive/1/text #12
 #. SHOW_AR_MSG
@@ -2019,7 +2023,7 @@ msgstr ""
 #: data/enemies/cold/goat-worker.json+actions/sceneKick/0/thenStep/0/text+%2311
 msgctxt "data/enemies/cold/goat-worker.json//actions/sceneKick/0/thenStep/0/text"
 msgid "KICK!"
-msgstr ""
+msgstr "БЕЙТЕ!"
 
 #. data/enemies/cold/goat-worker.json meta/species #4
 #: data/enemies/cold/goat-worker.json+meta/species+%234
@@ -2035,6 +2039,9 @@ msgid ""
 "Reports suggest that it might not have developed naturally but was actually \\c[3]created by human influence\\c[0].\n"
 "In any case it uses \\c[3]heat-based\\c[0] attacks and is even able to handle \\c[3]explosives\\c[0]."
 msgstr ""
+"Этот гораздо более сильный и умный подвид \\c[3]Козерога\\c[0] был обнаружен совсем недавно.\n"
+"Отчёты предполагают, что он, возможно, не развивался естественным путем, а был \\c[3]создан руками человека\\c[0].\n"
+"В любом случае, он использует \\c[3]Пламенные\\c[0] атаки и даже способен обращаться со \\c[3]взрывчаткой\\c[0]."
 
 #. data/enemies/cold/mine-coldbug-quest.json meta/species #4
 #: data/enemies/cold/mine-coldbug-quest.json+meta/species+%234
@@ -2105,42 +2112,42 @@ msgstr "Продвинутая версия \\c[3]Дигмо\\c[0], котора
 #: data/enemies/cold/parrot-gangster-3.json+actions/Init/0/thenStep/0/text+%2324
 msgctxt "data/enemies/cold/parrot-gangster-3.json//actions/Init/0/thenStep/0/text"
 msgid "\\v[entity.name]"
-msgstr ""
+msgstr "\\v[entity.name]"
 
 #. data/enemies/cold/parrot-gangster-3.json actions/GangsterShootCover/15/text #14
 #. SHOW_AR_MSG
 #: data/enemies/cold/parrot-gangster-3.json+actions/GangsterShootCover/15/text+%2314
 msgctxt "data/enemies/cold/parrot-gangster-3.json//actions/GangsterShootCover/15/text"
 msgid "[Shooting...]"
-msgstr ""
+msgstr "[Стрельба...]"
 
 #. data/enemies/cold/parrot-gangster-3.json actions/GangsterReactCharged/7/text #10
 #. SHOW_AR_MSG
 #: data/enemies/cold/parrot-gangster-3.json+actions/GangsterReactCharged/7/text+%2310
 msgctxt "data/enemies/cold/parrot-gangster-3.json//actions/GangsterReactCharged/7/text"
 msgid "[Lost control!]"
-msgstr ""
+msgstr "[Потерял контроль!]"
 
 #. data/enemies/cold/parrot-gangster-3.json actions/GangsterWarning/1/text #16
 #. SHOW_AR_MSG
 #: data/enemies/cold/parrot-gangster-3.json+actions/GangsterWarning/1/text+%2316
 msgctxt "data/enemies/cold/parrot-gangster-3.json//actions/GangsterWarning/1/text"
 msgid "[WARNING BIRDNOISES!]"
-msgstr ""
+msgstr "[ПРЕДУПРЕЖДАЮЩЕЕ ЩЕБЕТАНИЕ!]"
 
 #. data/enemies/cold/parrot-gangster-3.json actions/GangsterShootHostage/0/text #20
 #. SHOW_AR_MSG
 #: data/enemies/cold/parrot-gangster-3.json+actions/GangsterShootHostage/0/text+%2320
 msgctxt "data/enemies/cold/parrot-gangster-3.json//actions/GangsterShootHostage/0/text"
 msgid "[Shooting Hostage...]"
-msgstr ""
+msgstr "[Стрельба по заложнику...]"
 
 #. data/enemies/cold/parrot-gangster-3.json actions/GangsterRetreat/2/text #29
 #. SHOW_AR_MSG
 #: data/enemies/cold/parrot-gangster-3.json+actions/GangsterRetreat/2/text+%2329
 msgctxt "data/enemies/cold/parrot-gangster-3.json//actions/GangsterRetreat/2/text"
 msgid "RETREATING"
-msgstr ""
+msgstr "ОТСТУПЛЕНИЕ"
 
 #. data/enemies/cold/parrot-gangster-3.json actions/SceneBomb/0/thenStep/0/text #11
 #. IF test
@@ -2154,7 +2161,7 @@ msgstr ""
 #: data/enemies/cold/parrot-gangster-3.json+meta/species+%231
 msgctxt "data/enemies/cold/parrot-gangster-3.json//meta/species"
 msgid "Lawless Bird"
-msgstr ""
+msgstr "Беззаконная птица"
 
 #. data/enemies/cold/parrot-gangster-3.json meta/descriptions/0/text #26
 #: data/enemies/cold/parrot-gangster-3.json+meta/descriptions/0/text+%2326
@@ -2242,7 +2249,7 @@ msgstr "Часовой-новичок"
 #: data/enemies/final/god-planet.json+meta/species+%234
 msgctxt "data/enemies/final/god-planet.json//meta/species"
 msgid "????"
-msgstr ""
+msgstr "????"
 
 #. data/enemies/forest/bamboo-fountain.json meta/species #4
 #: data/enemies/forest/bamboo-fountain.json+meta/species+%234
@@ -2695,18 +2702,15 @@ msgstr ""
 #: data/enemies/guest/firespirit.json+meta/species+%234
 msgctxt "data/enemies/guest/firespirit.json//meta/species"
 msgid "Burning Something"
-msgstr ""
+msgstr "Горящее нечто"
 
 #. data/enemies/guest/firespirit.json meta/descriptions/0/text #6
 #: data/enemies/guest/firespirit.json+meta/descriptions/0/text+%236
-#, fuzzy
 msgctxt "data/enemies/guest/firespirit.json//meta/descriptions/0/text"
 msgid ""
 "A mysterious flame that has taken humanoid form. It is, in fact, so mysterious that barely anything is known about it.\n"
 "However, it is clear that its powerful flame has to \\c[3]first be extinguished\\c[0] before there is any hope of defeating it. Though it is said that the underlying source of the flames is \\c[3]electrical\\c[0] in nature, so beware!"
 msgstr ""
-"Эти склизкие создания проводят большую часть своей жизни наполовину под землёй, отчего выглядят почти как деформированный камень. Их тела очень эластичны и могут пролезть в дыру размером с руку.\n"
-"Иронично, что они не любят тепла и становятся крайне агрессивными, если подвергаются его воздействию слишком долго. В ярости они будут выплевывать горящие камни и двигаться гораздо быстрее."
 
 #. data/enemies/guest/glitch-boss.json meta/species #4
 #: data/enemies/guest/glitch-boss.json+meta/species+%234
@@ -3038,7 +3042,6 @@ msgstr ""
 #. data/enemies/heat/sandworm.json meta/descriptions/1/text #7
 #. IF enemyData.tim.heart
 #: data/enemies/heat/sandworm.json+meta/descriptions/1/text+%237
-#, fuzzy
 msgctxt "data/enemies/heat/sandworm.json//meta/descriptions/1/text"
 msgid "According to some insight by C'tron worms possess 5 hearts. It's a mystery how they fit into this elastic body."
 msgstr "Исходя из познаний Ци'трона, у червей пять сердец. Остаётся загадкой, как они все помещаются в это эластичное тело."
@@ -3231,10 +3234,9 @@ msgstr ""
 #. data/enemies/heat/special/brew-bubbler.json actions/BubbleSingle/4/text #7
 #. SHOW_AR_MSG
 #: data/enemies/heat/special/brew-bubbler.json+actions/BubbleSingle/4/text+%237
-#, fuzzy
 msgctxt "data/enemies/heat/special/brew-bubbler.json//actions/BubbleSingle/4/text"
 msgid "[ PREPARING BUBBLE ]"
-msgstr "[Пузырь готовится]"
+msgstr "[ ПУЗЫРЬ ГОТОВИТСЯ ]"
 
 #. data/enemies/heat/special/brew-bubbler.json actions/FireShot/1/text #10
 #. SHOW_AR_MSG
@@ -3442,7 +3444,7 @@ msgstr ""
 #: data/enemies/heat/special/heat-golem-booze.json+meta/species+%234
 msgctxt "data/enemies/heat/special/heat-golem-booze.json//meta/species"
 msgid "Drunken Being"
-msgstr ""
+msgstr "Пьяное существо"
 
 #. data/enemies/heat/special/heat-golem-booze.json meta/descriptions/0/text #6
 #: data/enemies/heat/special/heat-golem-booze.json+meta/descriptions/0/text+%236
@@ -3451,12 +3453,14 @@ msgid ""
 "Brought to life by fire and only the best of spirits, this golem burns even hotter than its more common brethren, the \\v[combat.name.heat/heat-golem]. It is born from a highly-powered distillery and could not long survive without being fueled by the energy of traditional Ancient beverage.\n"
 "Just like the \\c[3]\\v[combat.name.heat/special/jellyfish-booze]\\c[0] it receives a shield from the Distillery that spawned it. Some mechanism must be activated to make it vulnerable again."
 msgstr ""
+"Оживленный огнем и только лучшим из духов, этот голем горит даже сильнее, чем его более распространенные собратья, Магические существа. Он рожден на мощной винокурне и не сможет долго существовать, если не будет питаться энергией традиционного напитка Древних.\n"
+"Так же, как и Алкогольная медуза, он получает щит от Винокурни, которая его породила. Должен быть активирован некий механизм, чтобы снова сделать его уязвимым."
 
 #. data/enemies/heat/special/jellyfish-booze.json meta/species #1
 #: data/enemies/heat/special/jellyfish-booze.json+meta/species+%231
 msgctxt "data/enemies/heat/special/jellyfish-booze.json//meta/species"
 msgid "Alcoholic Jellyfish"
-msgstr ""
+msgstr "Алкогольная Медуза"
 
 #. data/enemies/heat/special/jellyfish-booze.json meta/descriptions/0/text #3
 #: data/enemies/heat/special/jellyfish-booze.json+meta/descriptions/0/text+%233
@@ -3465,6 +3469,8 @@ msgid ""
 "A variant of the \\v[combat.name.heat/jellyfish], but with a much higher amount of alcohol. There are no known natural habitats, but they tend to appear near distilleries with a powerful connection to Ancient energy.\n"
 "Like with their more common relative, they can be temporarily stunned by using their own bubbles against them. Though you might need to get rid of an external shield first!"
 msgstr ""
+"Вид летающей медузы, но с намного большей вместительностью алкоголя. Нет известных естественных мест обитания, но они, как правило, появляются возле винокурен, имеющих мощную связь с энергией Древних.\n"
+"Как и более распространенный родственник, их можно временно оглушить, применив против них собственные пузыри. Хотя, сначала вам придётся избавится от внешнего щита!"
 
 #. data/enemies/heat/special/kamikatze-helper.json actions/Activate/1/text #38
 #. SHOW_AR_MSG
@@ -4111,48 +4117,48 @@ msgstr ""
 #: data/enemies/jungle/special/capture-cage-1.json+meta/species+%231
 msgctxt "data/enemies/jungle/special/capture-cage-1.json//meta/species"
 msgid "Machinery"
-msgstr ""
+msgstr "Механизм"
 
 #. data/enemies/jungle/special/ghost-toxic.json actions/weakStart/3/text #30
 #. SHOW_AR_MSG
 #: data/enemies/jungle/special/ghost-toxic.json+actions/weakStart/3/text+%2330
 msgctxt "data/enemies/jungle/special/ghost-toxic.json//actions/weakStart/3/text"
 msgid "[ WEAK ]"
-msgstr ""
+msgstr "[ ОСЛАБЛЕН ]"
 
 #. data/enemies/jungle/special/ghost-toxic.json actions/dizzyStart/5/text #16
 #. SHOW_AR_MSG
 #: data/enemies/jungle/special/ghost-toxic.json+actions/dizzyStart/5/text+%2316
 msgctxt "data/enemies/jungle/special/ghost-toxic.json//actions/dizzyStart/5/text"
 msgid "[ DAZED ]"
-msgstr ""
+msgstr "[ ОШЕЛОМЛЁН ]"
 
 #. data/enemies/jungle/special/ghost-toxic.json actions/dizzyEnd/0/text #24
 #. SHOW_AR_MSG
 #: data/enemies/jungle/special/ghost-toxic.json+actions/dizzyEnd/0/text+%2324
 msgctxt "data/enemies/jungle/special/ghost-toxic.json//actions/dizzyEnd/0/text"
 msgid "[ DAZE OVER ]"
-msgstr ""
+msgstr "[ ВЫШЕЛ ИЗ ОШЕЛОМЛЕНИЯ ]"
 
 #. data/enemies/jungle/special/ghost-toxic.json actions/QuestShieldBreak/2/text #23
 #. SHOW_AR_MSG
 #: data/enemies/jungle/special/ghost-toxic.json+actions/QuestShieldBreak/2/text+%2323
 msgctxt "data/enemies/jungle/special/ghost-toxic.json//actions/QuestShieldBreak/2/text"
 msgid "[ SHIELD BREAK ]"
-msgstr ""
+msgstr "[ ПРОБИТИЕ ЩИТА ]"
 
 #. data/enemies/jungle/special/ghost-toxic.json actions/QuestFleeing/2/text #9
 #. SHOW_AR_MSG
 #: data/enemies/jungle/special/ghost-toxic.json+actions/QuestFleeing/2/text+%239
 msgctxt "data/enemies/jungle/special/ghost-toxic.json//actions/QuestFleeing/2/text"
 msgid "[ INEFFECTIVE ]"
-msgstr ""
+msgstr "[ БЕЗ ЭФФЕКТА ]"
 
 #. data/enemies/jungle/special/ghost-toxic.json meta/species #4
 #: data/enemies/jungle/special/ghost-toxic.json+meta/species+%234
 msgctxt "data/enemies/jungle/special/ghost-toxic.json//meta/species"
 msgid "Toxic Being"
-msgstr ""
+msgstr "Токсическое Создание"
 
 #. data/enemies/jungle/special/ghost-toxic.json meta/descriptions/0/text #6
 #: data/enemies/jungle/special/ghost-toxic.json+meta/descriptions/0/text+%236
@@ -4161,6 +4167,8 @@ msgid ""
 "A variant of the \\v[combat.name.jungle/ghost] but even further empowered by the toxic energy of the city \\v[area.jungle-city.name].\n"
 "It is unclear which did more to fuel it's toxicity: The city's waste or the negative feelings of its population."
 msgstr ""
+"Вид Призрачного существа, но ещё сильнее усиливается от токсической энергии Твердыни Бейзина.\n"
+"Неясно, что больше способствовало его токсичности: городские отходы или негативные чувства его населения."
 
 #. data/enemies/jungle/special/guard.json meta/species #4
 #: data/enemies/jungle/special/guard.json+meta/species+%234
@@ -4245,19 +4253,17 @@ msgstr "Cформированная замёрзшая вода"
 #. IF test
 #. SHOW_AR_MSG
 #: data/enemies/jungle/special/npc-escortee-greeny.json+actions/EscortMovePoint/0/thenStep/0/text+%238
-#, fuzzy
 msgctxt "data/enemies/jungle/special/npc-escortee-greeny.json//actions/EscortMovePoint/0/thenStep/0/text"
 msgid "[ MOVE ]"
-msgstr "[ДВИЖЕНИЕ]"
+msgstr "[ ДВИЖЕНИЕ ]"
 
 #. data/enemies/jungle/special/npc-escortee-greeny.json actions/EscortInspect/0/thenStep/0/text #12
 #. IF test
 #. SHOW_AR_MSG
 #: data/enemies/jungle/special/npc-escortee-greeny.json+actions/EscortInspect/0/thenStep/0/text+%2312
-#, fuzzy
 msgctxt "data/enemies/jungle/special/npc-escortee-greeny.json//actions/EscortInspect/0/thenStep/0/text"
 msgid "[ INSPECT ]"
-msgstr "[Изучаю]"
+msgstr "[ ИЗУЧАЮ ]"
 
 #. data/enemies/jungle/special/npc-escortee-greeny.json actions/EscortCombatIdle/2/thenStep/1/text #17
 #. IF entity.attrib.startSalting
@@ -4277,10 +4283,9 @@ msgstr ""
 #. data/enemies/jungle/special/npc-escortee-greeny.json actions/EscortHit/2/text #10
 #. SHOW_AR_MSG
 #: data/enemies/jungle/special/npc-escortee-greeny.json+actions/EscortHit/2/text+%2310
-#, fuzzy
 msgctxt "data/enemies/jungle/special/npc-escortee-greeny.json//actions/EscortHit/2/text"
 msgid "[ DANGER! ]"
-msgstr "[ОПАСНОСТЬ!]"
+msgstr ""
 
 #. data/enemies/jungle/special/npc-escortee-greeny.json actions/EscortHit/4/thenStep/1/text #29
 #. IF entity.attrib.startSalting
@@ -4293,31 +4298,30 @@ msgstr ""
 #. data/enemies/jungle/special/npc-escortee-greeny.json actions/EscortDead/3/text #9
 #. SHOW_AR_MSG
 #: data/enemies/jungle/special/npc-escortee-greeny.json+actions/EscortDead/3/text+%239
-#, fuzzy
 msgctxt "data/enemies/jungle/special/npc-escortee-greeny.json//actions/EscortDead/3/text"
 msgid "[ Linde is unconscious!!! ]"
-msgstr "[Линдэ без сознания!]"
+msgstr "[ Линдэ без сознания!!! ]"
 
 #. data/enemies/jungle/special/npc-escortee-greeny.json actions/EscortSuckEnemy/14/text #11
 #. SHOW_AR_MSG
 #: data/enemies/jungle/special/npc-escortee-greeny.json+actions/EscortSuckEnemy/14/text+%2311
 msgctxt "data/enemies/jungle/special/npc-escortee-greeny.json//actions/EscortSuckEnemy/14/text"
 msgid "[ ABSORBING ]"
-msgstr ""
+msgstr "[ ПОГЛОЩЕНИЕ ]"
 
 #. data/enemies/jungle/special/npc-escortee-greeny.json actions/EscortSuckCess/11/text #13
 #. SHOW_AR_MSG
 #: data/enemies/jungle/special/npc-escortee-greeny.json+actions/EscortSuckCess/11/text+%2313
 msgctxt "data/enemies/jungle/special/npc-escortee-greeny.json//actions/EscortSuckCess/11/text"
 msgid "[ ABSORBING DONE ]"
-msgstr ""
+msgstr "[ ПОГЛОЩЕНИЕ ЗАВЕРШЕНО ]"
 
 #. data/enemies/jungle/special/npc-escortee-greeny.json actions/EscortSuckCancel/1/text #18
 #. SHOW_AR_MSG
 #: data/enemies/jungle/special/npc-escortee-greeny.json+actions/EscortSuckCancel/1/text+%2318
 msgctxt "data/enemies/jungle/special/npc-escortee-greeny.json//actions/EscortSuckCancel/1/text"
 msgid "[ ABSORBING CANCELLED ]"
-msgstr ""
+msgstr "[ ПОГЛОЩЕНИЕ ОТМЕНЕНО ]"
 
 #. data/enemies/jungle/special/npc-escortee-greeny.json actions/EscortSaltSteam/12/text #25
 #. SHOW_AR_MSG
@@ -4468,7 +4472,7 @@ msgstr ""
 #: data/enemies/jungle/special/parrot-gangster-boss-1.json+proxies/missilesHoming/action/0/text+%2364
 msgctxt "data/enemies/jungle/special/parrot-gangster-boss-1.json//proxies/missilesHoming/action/0/text"
 msgid "!!!"
-msgstr ""
+msgstr "!!!"
 
 #. data/enemies/jungle/special/parrot-gangster-boss-1.json proxies/missilesHoming/action/15/hit/0/text #35
 #. GENERIC
@@ -4477,7 +4481,7 @@ msgstr ""
 #: data/enemies/jungle/special/parrot-gangster-boss-1.json+proxies/missilesHoming/action/15/hit/0/text+%2335
 msgctxt "data/enemies/jungle/special/parrot-gangster-boss-1.json//proxies/missilesHoming/action/15/hit/0/text"
 msgid "boom effects?"
-msgstr ""
+msgstr "эффекты взрыва?"
 
 #. data/enemies/jungle/special/parrot-gangster-boss-1.json proxies/missilesHoming/action/18/hit/0/text #38
 #. GENERIC
@@ -4486,7 +4490,7 @@ msgstr ""
 #: data/enemies/jungle/special/parrot-gangster-boss-1.json+proxies/missilesHoming/action/18/hit/0/text+%2338
 msgctxt "data/enemies/jungle/special/parrot-gangster-boss-1.json//proxies/missilesHoming/action/18/hit/0/text"
 msgid "boom effects?"
-msgstr ""
+msgstr "эффекты взрыва?"
 
 #. data/enemies/jungle/special/parrot-gangster-boss-1.json proxies/missilesHoming/action/18/missed/0/hit/0/text #42
 #. GENERIC
@@ -4496,7 +4500,7 @@ msgstr ""
 #: data/enemies/jungle/special/parrot-gangster-boss-1.json+proxies/missilesHoming/action/18/missed/0/hit/0/text+%2342
 msgctxt "data/enemies/jungle/special/parrot-gangster-boss-1.json//proxies/missilesHoming/action/18/missed/0/hit/0/text"
 msgid "boom effects?"
-msgstr ""
+msgstr "эффекты взрыва?"
 
 #. data/enemies/jungle/special/parrot-gangster-boss-1.json proxies/missilesExplosion/action/0/text #65
 #. GENERIC
@@ -4504,7 +4508,7 @@ msgstr ""
 #: data/enemies/jungle/special/parrot-gangster-boss-1.json+proxies/missilesExplosion/action/0/text+%2365
 msgctxt "data/enemies/jungle/special/parrot-gangster-boss-1.json//proxies/missilesExplosion/action/0/text"
 msgid "!!!"
-msgstr ""
+msgstr "!!!"
 
 #. data/enemies/jungle/special/parrot-gangster-boss-1.json proxies/missilesExplosion/action/15/hit/0/text #66
 #. GENERIC
@@ -4513,7 +4517,7 @@ msgstr ""
 #: data/enemies/jungle/special/parrot-gangster-boss-1.json+proxies/missilesExplosion/action/15/hit/0/text+%2366
 msgctxt "data/enemies/jungle/special/parrot-gangster-boss-1.json//proxies/missilesExplosion/action/15/hit/0/text"
 msgid "boom effects?"
-msgstr ""
+msgstr "эффекты взрыва?"
 
 #. data/enemies/jungle/special/parrot-gangster-boss-1.json proxies/missilesExplosion/action/18/hit/0/text #67
 #. GENERIC
@@ -4522,7 +4526,7 @@ msgstr ""
 #: data/enemies/jungle/special/parrot-gangster-boss-1.json+proxies/missilesExplosion/action/18/hit/0/text+%2367
 msgctxt "data/enemies/jungle/special/parrot-gangster-boss-1.json//proxies/missilesExplosion/action/18/hit/0/text"
 msgid "boom effects?"
-msgstr ""
+msgstr "эффекты взрыва?"
 
 #. data/enemies/jungle/special/parrot-gangster-boss-1.json proxies/missilesExplosion/action/18/missed/0/hit/0/text #68
 #. GENERIC
@@ -4532,56 +4536,55 @@ msgstr ""
 #: data/enemies/jungle/special/parrot-gangster-boss-1.json+proxies/missilesExplosion/action/18/missed/0/hit/0/text+%2368
 msgctxt "data/enemies/jungle/special/parrot-gangster-boss-1.json//proxies/missilesExplosion/action/18/missed/0/hit/0/text"
 msgid "boom effects?"
-msgstr ""
+msgstr "эффекты взрыва?"
 
 #. data/enemies/jungle/special/parrot-gangster-boss-1.json actions/CircleToCenter/0/text #62
 #. SHOW_AR_MSG
 #: data/enemies/jungle/special/parrot-gangster-boss-1.json+actions/CircleToCenter/0/text+%2362
 msgctxt "data/enemies/jungle/special/parrot-gangster-boss-1.json//actions/CircleToCenter/0/text"
 msgid "( TO CENTER )"
-msgstr ""
+msgstr "( К ЦЕНТРУ )"
 
 #. data/enemies/jungle/special/parrot-gangster-boss-1.json actions/GangsterShootCover/15/text #14
 #. SHOW_AR_MSG
 #: data/enemies/jungle/special/parrot-gangster-boss-1.json+actions/GangsterShootCover/15/text+%2314
 msgctxt "data/enemies/jungle/special/parrot-gangster-boss-1.json//actions/GangsterShootCover/15/text"
 msgid "[Shooting...]"
-msgstr ""
+msgstr "[Стрельба...]"
 
 #. data/enemies/jungle/special/parrot-gangster-boss-1.json actions/GangsterReactCharged/7/text #10
 #. SHOW_AR_MSG
 #: data/enemies/jungle/special/parrot-gangster-boss-1.json+actions/GangsterReactCharged/7/text+%2310
 msgctxt "data/enemies/jungle/special/parrot-gangster-boss-1.json//actions/GangsterReactCharged/7/text"
 msgid "[Lost control!]"
-msgstr ""
+msgstr "[Потерял контроль!]"
 
 #. data/enemies/jungle/special/parrot-gangster-boss-1.json actions/GangsterWarning/1/text #16
 #. SHOW_AR_MSG
 #: data/enemies/jungle/special/parrot-gangster-boss-1.json+actions/GangsterWarning/1/text+%2316
 msgctxt "data/enemies/jungle/special/parrot-gangster-boss-1.json//actions/GangsterWarning/1/text"
 msgid "[WARNING BIRDNOISES!]"
-msgstr ""
+msgstr "[ПРЕДУПРЕЖДАЮЩЕЕ ЩЕБЕТАНИЕ!]"
 
 #. data/enemies/jungle/special/parrot-gangster-boss-1.json actions/GangsterShootHostage/0/text #20
 #. SHOW_AR_MSG
 #: data/enemies/jungle/special/parrot-gangster-boss-1.json+actions/GangsterShootHostage/0/text+%2320
 msgctxt "data/enemies/jungle/special/parrot-gangster-boss-1.json//actions/GangsterShootHostage/0/text"
 msgid "[Shooting Hostage...]"
-msgstr ""
+msgstr "[Стрельба по заложнику...]"
 
 #. data/enemies/jungle/special/parrot-gangster-boss-1.json actions/OLD_GangsterReactCharged/6/text #21
 #. SHOW_AR_MSG
 #: data/enemies/jungle/special/parrot-gangster-boss-1.json+actions/OLD_GangsterReactCharged/6/text+%2321
 msgctxt "data/enemies/jungle/special/parrot-gangster-boss-1.json//actions/OLD_GangsterReactCharged/6/text"
 msgid "[Hit to free hostage!]"
-msgstr ""
+msgstr "[Попадите, чтобы освободить!]"
 
 #. data/enemies/jungle/special/parrot-gangster-boss-1.json meta/species #1
 #: data/enemies/jungle/special/parrot-gangster-boss-1.json+meta/species+%231
-#, fuzzy
 msgctxt "data/enemies/jungle/special/parrot-gangster-boss-1.json//meta/species"
 msgid "Lawless Birdboss"
-msgstr "Пляжное млекопитающее"
+msgstr "Беззаконный птицебосс"
 
 #. data/enemies/jungle/special/parrot-gangster-boss-1.json meta/descriptions/0/text #55
 #: data/enemies/jungle/special/parrot-gangster-boss-1.json+meta/descriptions/0/text+%2355
@@ -4590,6 +4593,8 @@ msgid ""
 "The young and hot-headed boss of the Papagang. He only just recently took over the leadership position as the old boss retired. \n"
 "Though he seems vain and undisciplined, he is in fact a master with his powerful weaponry. Precise \\c[3]machinegun fire\\c[0], explosive \\c[3]fruitbombs\\c[0] and especially his tenacious \\c[3]seeking missiles\\c[0] have destroyed many a rival in the past."
 msgstr ""
+"Молодой и вспыльчивый босс Папаганов. Он только недавно занял руководящую должность, когда старый босс ушел на пенсию.\n"
+"Хотя он кажется тщеславным и недисциплинированным, на самом деле он мастер со своим мощным оружием. Точный \\c[3]пламенный пулемёт\\c[0], взрывчатые \\c[3]фруктовые бомбы\\c[0] и особенно его цепкие \\c[3]поисковые ракеты\\c[0] в прошлом уничтожили многих соперников."
 
 #. data/enemies/jungle/special/plant-hidden-shock.json actions/init/0/thenStep/0/text #6
 #. IF test
@@ -4627,18 +4632,16 @@ msgstr "[Щит восстановлен]"
 #. COMBAT_IF
 #. SHOW_AR_MSG
 #: data/enemies/jungle/special/plant-hidden-shock.json+actions/StartFullShield/1/thenStep/1/text+%2332
-#, fuzzy
 msgctxt "data/enemies/jungle/special/plant-hidden-shock.json//actions/StartFullShield/1/thenStep/1/text"
 msgid "[ SHIELD RESTORED ]"
-msgstr "[Щит восстановлен]"
+msgstr ""
 
 #. data/enemies/jungle/special/plant-hidden-shock.json actions/EndFullShield/9/text #30
 #. SHOW_AR_MSG
 #: data/enemies/jungle/special/plant-hidden-shock.json+actions/EndFullShield/9/text+%2330
-#, fuzzy
 msgctxt "data/enemies/jungle/special/plant-hidden-shock.json//actions/EndFullShield/9/text"
 msgid "[ SHIELD NEUTRALIZED ]"
-msgstr "[Щит нейтрализован!]"
+msgstr "[ ЩИТ НЕЙТРАЛИЗОВАН ]"
 
 #. data/enemies/jungle/special/plant-hidden-shock.json meta/species #1
 #: data/enemies/jungle/special/plant-hidden-shock.json+meta/species+%231
@@ -4794,13 +4797,13 @@ msgstr ""
 #: data/enemies/jungle/special/quest_td_boss_slime_1.json+meta/species+%234
 msgctxt "data/enemies/jungle/special/quest_td_boss_slime_1.json//meta/species"
 msgid "Starfish"
-msgstr ""
+msgstr "Морская звезда"
 
 #. data/enemies/jungle/special/quest_td_boss_slime_1.json meta/descriptions/0/text #6
 #: data/enemies/jungle/special/quest_td_boss_slime_1.json+meta/descriptions/0/text+%236
 msgctxt "data/enemies/jungle/special/quest_td_boss_slime_1.json//meta/descriptions/0/text"
 msgid "This starfish is the leader of both the \\v[combat.name.jungle/blob] and the \\v[combat.name.jungle/blob-wave]. It can enter a strange synthesis with them to create a large mass that is almost impenetrable. Only by using compressed shock balls can the bond be broken."
-msgstr ""
+msgstr "Эта звезда является вожаком и \\v[combat.name.jungle/blob]ов, и \\v[combat.name.jungle/blob-wave]ов. Он может осуществлять с ними странный синтез, чтобы создать почти непроницаемую большую массу. Лишь используя уплотнённые шоковые шары, можно разорвать эту связь."
 
 #. data/enemies/jungle/special/quest_td_buffel_1.json actions/Init/2/thenStep/3/thenStep/0/text #34
 #. IF entity.attrib.goalID != null
@@ -6477,7 +6480,7 @@ msgstr "????"
 #: data/enemies/minibosses/raid-dispenser.json+actions/Recover/0/thenStep/1/thenStep/0/text+%237
 msgctxt "data/enemies/minibosses/raid-dispenser.json//actions/Recover/0/thenStep/1/thenStep/0/text"
 msgid "Switch Mode"
-msgstr ""
+msgstr "Смена Режима"
 
 #. data/enemies/minibosses/raid-dispenser.json meta/species #4
 #: data/enemies/minibosses/raid-dispenser.json+meta/species+%234
@@ -6497,7 +6500,7 @@ msgstr "????"
 #: data/enemies/minibosses/raid-laser.json+actions/TurnOn/0/thenStep/2/text+%237
 msgctxt "data/enemies/minibosses/raid-laser.json//actions/TurnOn/0/thenStep/2/text"
 msgid "ACTIVATE"
-msgstr ""
+msgstr "АКТИВАЦИЯ"
 
 #. data/enemies/minibosses/raid-laser.json meta/species #4
 #: data/enemies/minibosses/raid-laser.json+meta/species+%234
@@ -6516,7 +6519,7 @@ msgstr "????"
 #: data/enemies/minibosses/raid-turret.json+actions/FailDispenser/2/text+%237
 msgctxt "data/enemies/minibosses/raid-turret.json//actions/FailDispenser/2/text"
 msgid "ABSORBED"
-msgstr ""
+msgstr "ПОГЛОЩЕНО"
 
 #. data/enemies/minibosses/raid-turret.json meta/species #4
 #: data/enemies/minibosses/raid-turret.json+meta/species+%234
@@ -6714,7 +6717,7 @@ msgstr ""
 #: data/enemies/rhombus/meerkat-car.json+meta/descriptions/0/text+%238
 msgctxt "data/enemies/rhombus/meerkat-car.json//meta/descriptions/0/text"
 msgid "A more intelligent but reckless \\v[combat.name.meerkat] that likes to headbang while driving fast cars and engage in dangerous drive-by battles. To finance their expensive lifestyle they often take illegal road-jobs like smuggling and theft."
-msgstr ""
+msgstr "Более умный, но безрассудный горностай, который любит трясти головой, управляя быстрыми автомобилями, и участвовать в опасных битвах на проезжей части. Чтобы финансировать свой дорогостоящий образ жизни, они часто берутся за нелегальные дорожные работы, такие как контрабанда и воровство."
 
 #. data/enemies/rhombus/meerkat-delorean.json meta/species #6
 #: data/enemies/rhombus/meerkat-delorean.json+meta/species+%236
@@ -6726,7 +6729,7 @@ msgstr ""
 #: data/enemies/rhombus/meerkat-delorean.json+meta/descriptions/0/text+%238
 msgctxt "data/enemies/rhombus/meerkat-delorean.json//meta/descriptions/0/text"
 msgid "A unique specimen of \\v[combat.name.meerkat], easily recognized by his labcoat and eccentric hair."
-msgstr ""
+msgstr "Уникальный вид горностая, которого легко узнать по лабораторному халату и эксцентричным волосам."
 
 #. data/enemies/seahorse.json meta/species #1
 #: data/enemies/seahorse.json+meta/species+%231
@@ -6868,7 +6871,7 @@ msgstr "Взлом"
 #: data/enemies/special/sergey-hax3.json+proxies/playerHack/action/4/text+%234
 msgctxt "data/enemies/special/sergey-hax3.json//proxies/playerHack/action/4/text"
 msgid "Atk Buff"
-msgstr ""
+msgstr "Баф атаки"
 
 #. data/enemies/special/target-bot.json meta/species #1
 #: data/enemies/special/target-bot.json+meta/species+%231

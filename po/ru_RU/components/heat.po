@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: crosscode 1.4.0-4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-12 23:31+0000\n"
-"PO-Revision-Date: 2021-03-12 23:31+0000\n"
+"POT-Creation-Date: 2021-03-12 23:33+0000\n"
+"PO-Revision-Date: 2021-03-12 23:33+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -1150,7 +1150,7 @@ msgstr ""
 #: data/maps/heat/dng-exterior.json+entities/18/settings/blockEvent/0/thenStep/3/message+%23674
 msgctxt "data/maps/heat/dng-exterior.json//entities/18/settings/blockEvent/0/thenStep/3/message"
 msgid "Blue-haired Spheromancer! You're not thinking about skipping the duel, right?"
-msgstr "Синеволосый сферомант! Ты же не думаешь пропустить дуэль, верно?"
+msgstr "Синеволосый сферомант! Ты же не думаешь пропустить дуэль?"
 
 #. data/maps/heat/dng-exterior.json entities/18/settings/blockEvent/0/thenStep/8/message #673
 #. Door mainEntrance
@@ -6151,10 +6151,9 @@ msgstr "Нет...\\. это не так."
 #. EventTrigger seizuiBattleEnd START IF tmp.seizuiKills >= 9
 #. SHOW_MSG guests.reize @DEFAULT
 #: data/maps/heat/oasis/oasis-path-02.json+entities/668/settings/event/41/message+%23928
-#, fuzzy
 msgctxt "data/maps/heat/oasis/oasis-path-02.json//entities/668/settings/event/41/message"
 msgid "Oh crap, they're closing in again!"
-msgstr "Вот дерьмо, они снова приближаются!"
+msgstr "Вот чёрт, они снова приближаются!"
 
 #. data/maps/heat/oasis/oasis-path-02.json entities/668/settings/event/42/message #929
 #. EventTrigger seizuiBattleEnd START IF tmp.seizuiKills >= 9
@@ -6168,10 +6167,9 @@ msgstr "Тебя по-прежнему преследуют?!"
 #. EventTrigger seizuiBattleEnd START IF tmp.seizuiKills >= 9
 #. SHOW_MSG guests.reize @DEFAULT
 #: data/maps/heat/oasis/oasis-path-02.json+entities/668/settings/event/43/message+%23930
-#, fuzzy
 msgctxt "data/maps/heat/oasis/oasis-path-02.json//entities/668/settings/event/43/message"
 msgid "Yeah...\\. Also there are these \\c[3]huge mushrooms\\c[0] everywhere!"
-msgstr "Ага...\\. А ещё здесь повсюду эти \\c[3]большие грибы\\c[0]!"
+msgstr "Ага...\\. А ещё здесь повсюду эти \\c[3]огромные грибы\\c[0]!"
 
 #. data/maps/heat/oasis/oasis-path-02.json entities/668/settings/event/44/message #927
 #. EventTrigger seizuiBattleEnd START IF tmp.seizuiKills >= 9
@@ -6187,7 +6185,7 @@ msgstr "...!"
 #: data/maps/heat/oasis/oasis-path-02.json+entities/668/settings/event/45/message+%23931
 msgctxt "data/maps/heat/oasis/oasis-path-02.json//entities/668/settings/event/45/message"
 msgid "Argh, where am I?!"
-msgstr "Аррр, где я?!"
+msgstr "Аргх, где я?!"
 
 #. data/maps/heat/oasis/oasis-path-02.json entities/668/settings/event/46/message #957
 #. EventTrigger seizuiBattleEnd START IF tmp.seizuiKills >= 9
@@ -6259,7 +6257,7 @@ msgstr "Знаешь что?\\. Может быть, мы просто долж�
 #: data/maps/heat/oasis/oasis-path-02.json+entities/668/settings/event/59/message+%23936
 msgctxt "data/maps/heat/oasis/oasis-path-02.json//entities/668/settings/event/59/message"
 msgid "I feel he deserves to be smashed by whatever is following him!"
-msgstr "Я чувствую, что он заслуживает того, чтобы его раздавило всё, что преследует его!"
+msgstr "Я чувствую, что он заслуживает того, чтобы его раздавило всё, что там его преследует!"
 
 #. data/maps/heat/oasis/oasis-path-02.json entities/668/settings/event/60/message #937
 #. EventTrigger seizuiBattleEnd START IF tmp.seizuiKills >= 9
@@ -6347,7 +6345,7 @@ msgstr "Он наш друг.\\. Но он не в этом мире."
 #: data/maps/heat/oasis/oasis-path-02.json+entities/668/settings/event/70/message+%23947
 msgctxt "data/maps/heat/oasis/oasis-path-02.json//entities/668/settings/event/70/message"
 msgid "Instead he's sort of...\\. checking what we're doing.\\. I think?"
-msgstr "Вместо этого он, кажется...\\. смотрит, чем мы тут занимаемся.\\. Я так думаю?"
+msgstr "Вместо этого он вроде бы...\\. смотрит, чем мы тут занимаемся.\\. Я так думаю?"
 
 #. data/maps/heat/oasis/oasis-path-02.json entities/668/settings/event/71/message #948
 #. EventTrigger seizuiBattleEnd START IF tmp.seizuiKills >= 9
@@ -7451,7 +7449,7 @@ msgstr "Это было проще, чем ожидалось."
 #: data/maps/heat/path-02.json+entities/272/settings/dialog/1/event/9/message+%23412
 msgctxt "data/maps/heat/path-02.json//entities/272/settings/dialog/1/event/9/message"
 msgid "Someone just came and asked, funny looking guy."
-msgstr "Один просто пришёл и спросил, забавно выглядящий парень."
+msgstr "Один просто пришёл и спросил, забавный такой парень."
 
 #. data/maps/heat/path-02.json entities/272/settings/dialog/1/event/10/message #413
 #. XenoDialog XenoQuest SPAWN IF !quest.trailblaze-maroon.started && quest.trailblaze-bergen.solved
@@ -11476,7 +11474,7 @@ msgstr "...!"
 #: data/maps/heat/path-11.json+entities/458/settings/event/33/titleText+%23304
 msgctxt "data/maps/heat/path-11.json//entities/458/settings/event/33/titleText"
 msgid "You remembered a new location!"
-msgstr "Ты вспомнила новую локацию!"
+msgstr "Ты вспомнила новое место!"
 
 #. data/maps/heat/path-11.json entities/458/settings/event/33/text #305
 #. EventTrigger ctronRememberEvent2 START IF tmp.ctronEvent

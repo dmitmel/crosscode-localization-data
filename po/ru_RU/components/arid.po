@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: crosscode 1.4.0-4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-12 23:31+0000\n"
-"PO-Revision-Date: 2021-03-12 23:31+0000\n"
+"POT-Creation-Date: 2021-03-12 23:33+0000\n"
+"PO-Revision-Date: 2021-03-12 23:33+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -149,7 +149,7 @@ msgstr "Вход в общежитие"
 #: data/areas/arid.json+floors/2/maps/9/name+%23144
 msgctxt "data/areas/arid.json//floors/2/maps/9/name"
 msgid "Dormitory Floor 1"
-msgstr "Общежитие 1-ый этаж"
+msgstr "Общежитие - 1-й этаж"
 
 #. data/areas/arid.json floors/2/maps/10/name #145
 #: data/areas/arid.json+floors/2/maps/10/name+%23145
@@ -941,7 +941,7 @@ msgstr "Если серьёзно.\\. Эмили и её страх перед �
 #: data/maps/arid/forest-1.json+entities/510/settings/event/17/message+%23128
 msgctxt "data/maps/arid/forest-1.json//entities/510/settings/event/17/message"
 msgid "She made such a huge deal out of the Faj'ro Temple boss. That giant moth, right?"
-msgstr "Она переборола себя с этим боссом храма Фай'ро. Этот гигантский мотылек, верно?"
+msgstr "Она переборола себя с этим боссом храма Фай'ро. Ну, этот гигантский мотылёк."
 
 #. data/maps/arid/forest-1.json entities/510/settings/event/18/message #129
 #. EventTrigger SchneiderTour1 START IF plot.line >= 12000
@@ -1581,7 +1581,7 @@ msgstr ""
 #: data/maps/arid/harbor.json+entities/202/settings/event/34/message+%238
 msgctxt "data/maps/arid/harbor.json//entities/202/settings/event/34/message"
 msgid "Where?"
-msgstr ""
+msgstr "Где?"
 
 #. data/maps/arid/harbor.json entities/202/settings/event/36/message #9
 #. EventTrigger TheCrewArrives
@@ -3698,7 +3698,7 @@ msgstr "Я не знаю насчёт тебя, но я бы предпочёл 
 #: data/maps/arid/interior/quest-hub.json+entities/65/settings/event/28/message+%23553
 msgctxt "data/maps/arid/interior/quest-hub.json//entities/65/settings/event/28/message"
 msgid "Who knows what will await us in there, right? It might take some time."
-msgstr "Кто знает, что нас там ждёт, верно? Это может занять какое-то время."
+msgstr "Кто знает, что нас там ждёт, верно? Это может быть надолго."
 
 #. data/maps/arid/interior/quest-hub.json entities/65/settings/event/29/message #554
 #. EventTrigger PostQuestResolve_Day4 START IF plot.line >= 13500
@@ -3833,7 +3833,6 @@ msgstr "Будем надеяться, что выход теперь откры
 #. EventTrigger areaIntro START IF true
 #. SHOW_MSG main.schneider2 @SERIOUS
 #: data/maps/arid/interior/stealth-2.json+entities/91/settings/event/7/message+%235
-#, fuzzy
 msgctxt "data/maps/arid/interior/stealth-2.json//entities/91/settings/event/7/message"
 msgid "There's supposedly more guards down here."
 msgstr "Здесь внизу должно быть ещё больше охранников."
@@ -4116,7 +4115,7 @@ msgstr "Я не мог вернуть тебя в онлайн в течение
 #: data/maps/arid/interior/the-room.json+entities/31/settings/event/38/message+%2311
 msgctxt "data/maps/arid/interior/the-room.json//entities/31/settings/event/38/message"
 msgid "It seems to be working again, finally."
-msgstr "Кажется, наконец, снова работает."
+msgstr "Кажется, наконец, всё снова работает."
 
 #. data/maps/arid/interior/the-room.json entities/31/settings/event/39/message #12
 #. EventTrigger Start_Day1
@@ -4554,7 +4553,6 @@ msgstr "Это место изначально было разработано �
 #. EventTrigger GoToBed_Day1 START IF plot.line >= 11200
 #. SHOW_MSG main.sergey @DOWN
 #: data/maps/arid/interior/the-room.json+entities/34/settings/event/16/message+%2374
-#, fuzzy
 msgctxt "data/maps/arid/interior/the-room.json//entities/34/settings/event/16/message"
 msgid "They already developed a large part of the environment but ultimately the area was never integrated into the Playground."
 msgstr "Они уже разработали большую часть окружающей среды, но в конечном счёте территория так и не была интегрирована в игровую зону."
@@ -5789,7 +5787,7 @@ msgstr "Хорошо, понял..."
 #: data/maps/arid/interior/the-room.json+entities/37/settings/event/21/message+%23626
 msgctxt "data/maps/arid/interior/the-room.json//entities/37/settings/event/21/message"
 msgid "Well then, time to head out, correct?"
-msgstr "Ну тогда, время выходить на улицу, верно?"
+msgstr "Ну, тогда время выходить на улицу, верно?"
 
 #. data/maps/arid/interior/the-room.json entities/37/settings/event/22/message #627
 #. EventTrigger Start_Day3 START IF plot.line >= 12600
@@ -9267,7 +9265,6 @@ msgstr "Боюсь, что твоя способность \\c[1]\"с-одног
 #. EventTrigger StealthStart START IF plot.line >= 13620
 #. SHOW_MSG main.schneider2 @SERIOUS
 #: data/maps/arid/tower-1.json+entities/242/settings/event/11/message+%2353
-#, fuzzy
 msgctxt "data/maps/arid/tower-1.json//entities/242/settings/event/11/message"
 msgid "There's supposedly a door up there that we can enter."
 msgstr "Там должна быть дверь, в которую мы можем войти."
@@ -10023,7 +10020,7 @@ msgstr "Прости!!"
 #: data/maps/arid/tower-1.json+entities/287/settings/event/81/message+%231081
 msgctxt "data/maps/arid/tower-1.json//entities/287/settings/event/81/message"
 msgid "Lea, what's going-"
-msgstr "Лея, что происходит-"
+msgstr "Лея, что проис-"
 
 #. data/maps/arid/tower-1.json entities/287/settings/event/87/message #1082
 #. EventTrigger RaidEndFinal START IF plot.line >= 28900 && tmp.evoraid.zapped >= 4
@@ -10078,7 +10075,7 @@ msgstr "...Пока."
 #: data/maps/arid/tower-1.json+entities/288/settings/event/46/message+%231093
 msgctxt "data/maps/arid/tower-1.json//entities/288/settings/event/46/message"
 msgid "That was supposed to happen, right?"
-msgstr "Это должно было произойти, верно?"
+msgstr "Такое должно было произойти, да?"
 
 #. data/maps/arid/tower-1.json entities/288/settings/event/48/message #1094
 #. EventTrigger GetReadyForDungeon START IF plot.line >= 29300
@@ -10670,7 +10667,7 @@ msgstr "Нет..."
 #: data/maps/arid/tower-1.json+entities/288/settings/event/200/message+%231172
 msgctxt "data/maps/arid/tower-1.json//entities/288/settings/event/200/message"
 msgid "That's right. The command to clear the data doesn't go through the Evotar server."
-msgstr "Это верно. Команда очищения данных проходит не через сервер эвотаров."
+msgstr "Всё верно. Команда очищения данных проходит не через сервер эвотаров."
 
 #. data/maps/arid/tower-1.json entities/288/settings/event/201/message #1173
 #. EventTrigger GetReadyForDungeon START IF plot.line >= 29300
@@ -12801,7 +12798,7 @@ msgstr ""
 #: data/maps/arid/town-1.json+entities/350/settings/event/10/message+%231056
 msgctxt "data/maps/arid/town-1.json//entities/350/settings/event/10/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/arid/town-1.json entities/350/settings/event/11/message #1057
 #. EventTrigger EndingWalk START IF plot.line >= 50300
@@ -12817,7 +12814,7 @@ msgstr ""
 #: data/maps/arid/town-1.json+entities/350/settings/event/13/message+%231058
 msgctxt "data/maps/arid/town-1.json//entities/350/settings/event/13/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/arid/town-1.json entities/350/settings/event/15/message #1059
 #. EventTrigger EndingWalk START IF plot.line >= 50300
@@ -12825,7 +12822,7 @@ msgstr ""
 #: data/maps/arid/town-1.json+entities/350/settings/event/15/message+%231059
 msgctxt "data/maps/arid/town-1.json//entities/350/settings/event/15/message"
 msgid "What is it?"
-msgstr ""
+msgstr "Что такое?"
 
 #. data/maps/arid/town-1.json entities/350/settings/event/16/message #1060
 #. EventTrigger EndingWalk START IF plot.line >= 50300
@@ -12873,7 +12870,7 @@ msgstr ""
 #: data/maps/arid/town-1.json+entities/350/settings/event/21/message+%231065
 msgctxt "data/maps/arid/town-1.json//entities/350/settings/event/21/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/arid/town-1.json entities/350/settings/event/22/message #1066
 #. EventTrigger EndingWalk START IF plot.line >= 50300
@@ -12881,7 +12878,7 @@ msgstr ""
 #: data/maps/arid/town-1.json+entities/350/settings/event/22/message+%231066
 msgctxt "data/maps/arid/town-1.json//entities/350/settings/event/22/message"
 msgid "Oui..."
-msgstr ""
+msgstr "Oui (Да)..."
 
 #. data/maps/arid/town-1.json entities/350/settings/event/23/message #1067
 #. EventTrigger EndingWalk START IF plot.line >= 50300
@@ -12897,7 +12894,7 @@ msgstr ""
 #: data/maps/arid/town-1.json+entities/350/settings/event/24/message+%231068
 msgctxt "data/maps/arid/town-1.json//entities/350/settings/event/24/message"
 msgid "To stay in Homestedt?"
-msgstr ""
+msgstr "Остаться в Хоумштадте?"
 
 #. data/maps/arid/town-1.json entities/350/settings/event/25/message #1069
 #. EventTrigger EndingWalk START IF plot.line >= 50300
@@ -12913,7 +12910,7 @@ msgstr ""
 #: data/maps/arid/town-1.json+entities/350/settings/event/26/message+%231070
 msgctxt "data/maps/arid/town-1.json//entities/350/settings/event/26/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[кивает]"
 
 #. data/maps/arid/town-1.json entities/350/settings/event/32/message #1071
 #. EventTrigger EndingWalk START IF plot.line >= 50300
@@ -13681,7 +13678,7 @@ msgstr "...!"
 #: data/maps/arid/town-2.json+entities/412/settings/npcStates/0/event/quest/8/message+%23144
 msgctxt "data/maps/arid/town-2.json//entities/412/settings/npcStates/0/event/quest/8/message"
 msgid "Nobody actually knows what's in the pipes, though.\\. We're probably best off not knowing."
-msgstr "На самом деле никто не знает, что в трубах. Лучше, наверное, и не знать."
+msgstr "На самом деле никто не знает, что в трубах.\\. Лучше, наверное, и не знать."
 
 #. data/maps/arid/town-2.json entities/412/settings/npcStates/0/event/quest/9/message #145
 #. NPC schneider2
@@ -13975,7 +13972,6 @@ msgstr "На этом всё, вперёд!"
 #. EventTrigger startTheLaser START IF tmp.startTheLaser
 #. SHOW_SIDE_MSG main.sergey @SHOUTING
 #: data/maps/arid/town-2.json+entities/424/settings/event/81/message+%23867
-#, fuzzy
 msgctxt "data/maps/arid/town-2.json//entities/424/settings/event/81/message"
 msgid "Everyone, follow Lea and focus on fighting the Shredders!"
 msgstr "Следуйте за Леей и сосредоточьтесь на борьбе со Шредерами!"
@@ -14590,7 +14586,7 @@ msgstr ""
 #: data/maps/arid/town-2.json+entities/465/settings/blockEvent/10/message+%231089
 msgctxt "data/maps/arid/town-2.json//entities/465/settings/blockEvent/10/message"
 msgid "Hm..."
-msgstr ""
+msgstr "Хм..."
 
 #. data/maps/arid/town-2.json entities/465/settings/blockEvent/12/message #1090
 #. Door doorLab

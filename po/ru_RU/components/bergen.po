@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: crosscode 1.4.0-4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-12 23:31+0000\n"
-"PO-Revision-Date: 2021-03-12 23:31+0000\n"
+"POT-Creation-Date: 2021-03-12 23:33+0000\n"
+"PO-Revision-Date: 2021-03-12 23:33+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -420,7 +420,7 @@ msgstr "...?"
 #: data/maps/bergen/bergen.json+entities/836/settings/npcStates/0/event/quest/9/message+%2334
 msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/0/event/quest/9/message"
 msgid "You probably know who I am right?"
-msgstr "Ты, наверное, знаешь, кто я, верно?"
+msgstr "Ты наверняка знаешь, кто я?"
 
 #. data/maps/bergen/bergen.json entities/836/settings/npcStates/0/event/quest/10/message #35
 #. NPC holiday-man
@@ -445,7 +445,6 @@ msgstr "[мотает головой]"
 #. IF gamecode.holidayQuest
 #. SHOW_MSG bergen.one-holiday-man @DEFAULT
 #: data/maps/bergen/bergen.json+entities/836/settings/npcStates/0/event/quest/12/message+%2337
-#, fuzzy
 msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/0/event/quest/12/message"
 msgid "Wait, what? Really? \\.\\.\\. But I'm \\c[3]Holiday Man\\c[0]!"
 msgstr "Подожди, что? На самом деле?\\.\\.\\. Но я же \\c[3]Сантама\\c[0]!"
@@ -511,7 +510,7 @@ msgstr "Какая разница, у меня нет времени!"
 #: data/maps/bergen/bergen.json+entities/836/settings/npcStates/0/event/quest/20/message+%2344
 msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/0/event/quest/20/message"
 msgid "Look, I have to get all these presents here to certain players in CrossWorlds."
-msgstr "Слушай, я должен доставить все эти подарки определенным игрокам в CrossWorlds."
+msgstr "Слушай, я должен доставить все эти подарки определённым игрокам в CrossWorlds."
 
 #. data/maps/bergen/bergen.json entities/836/settings/npcStates/0/event/quest/21/message #45
 #. NPC holiday-man
@@ -6465,10 +6464,9 @@ msgstr "Привет!"
 #. IF quest.bg-3-goat_final.task.7
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/15/event/quest/3/message+%23581
-#, fuzzy
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/15/event/quest/3/message"
 msgid "\\v[lore.title.seeker], I have already heard the reports.\\. It seems like you travelled half of Shadoon to crack this case."
-msgstr "Искатель, мы уже ожидали твоего возвращения.\\. Твой успех в этой пещере чувствовался даже отсюда."
+msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/15/event/quest/4/message #582
 #. NPC leader-sterling
@@ -7217,7 +7215,7 @@ msgstr "МакЭдинтил"
 #: data/maps/bergen/inner-faction-miners.json+entities/34/settings/npcStates/6/event/quest/2/message+%23309
 msgctxt "data/maps/bergen/inner-faction-miners.json//entities/34/settings/npcStates/6/event/quest/2/message"
 msgid "Good to see you back, Sunshine.\\. Is the mine clear again?"
-msgstr "Рад, что ты вернулась, Солнышко.\\. В шахте снова чисто?"
+msgstr "Рад, что ты вернулась, солнышко.\\. В шахте снова чисто?"
 
 #. data/maps/bergen/inner-faction-miners.json entities/34/settings/npcStates/6/event/quest/3/message #310
 #. NPC leader-turis
@@ -8939,7 +8937,6 @@ msgstr "Кратос"
 #. IF quest.monks-jump_3_bonus.task.1
 #. SHOW_MSG monks.male-bald-brown @DEFAULT
 #: data/maps/bergen/inner-faction-monks.json+entities/56/settings/npcStates/7/event/quest/4/message+%23358
-#, fuzzy
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/56/settings/npcStates/7/event/quest/4/message"
 msgid "You have been successful once again, \\v[lore.title.seeker]."
 msgstr "Ты снова преуспела, Искатель."
@@ -9912,7 +9909,6 @@ msgstr "Если честно, кажется, что удобная сумка 
 #. NPC bag
 #. SHOW_MSG crossovers.bag @DEFAULT
 #: data/maps/bergen/inner-questhub-0.json+entities/122/settings/npcStates/0/event/18/message+%23931
-#, fuzzy
 msgctxt "data/maps/bergen/inner-questhub-0.json//entities/122/settings/npcStates/0/event/18/message"
 msgid "From what I saw, everyone is just collecting those small chips that magically pop out of monsters, plants, and everything."
 msgstr "Из того, что я увидел, все просто собирают эти маленькие чипы, которые волшебным образом появляются из монстров, растений и всего остального."
@@ -14860,7 +14856,7 @@ msgstr "Без обид, но ты немного припозднилась."
 #: data/maps/bergen/special/miners-bombquest-1.json+entities/93/settings/event/19/message+%23316
 msgctxt "data/maps/bergen/special/miners-bombquest-1.json//entities/93/settings/event/19/message"
 msgid "Got a bad feeling about things down here and time's not improving it."
-msgstr "У меня плохое предчувствие насчёт происходящего внизу, и оно не улучшается со временем."
+msgstr "У меня плохое предчувствие насчёт происходящего внизу, и поверь, со временем оно не улучшается."
 
 #. data/maps/bergen/special/miners-bombquest-1.json entities/93/settings/event/20/message #317
 #. EventTrigger first-enter START IF quest.miners-2-mine_bombing_1.task.0

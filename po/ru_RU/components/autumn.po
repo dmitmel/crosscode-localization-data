@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: crosscode 1.4.0-4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-12 23:31+0000\n"
-"PO-Revision-Date: 2021-03-12 23:31+0000\n"
+"POT-Creation-Date: 2021-03-12 23:33+0000\n"
+"PO-Revision-Date: 2021-03-12 23:33+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -775,7 +775,6 @@ msgstr "Привет!"
 #. IF
 #. SHOW_MSG rookie-harbor.man-big-black @DEFAULT
 #: data/maps/autumn/entrance.json+entities/92/settings/npcStates/0/event/quest/3/message+%237
-#, fuzzy
 msgctxt "data/maps/autumn/entrance.json//entities/92/settings/npcStates/0/event/quest/3/message"
 msgid "Hello, Ms. \\v[lore.title.seeker]!\\. So great to see you here on \\v[lore.title.planet]."
 msgstr "Здравствуй, мисс Искатель!\\. Приятно видеть тебя здесь, на Шадуне."
@@ -1270,7 +1269,7 @@ msgstr "Лея просто \\c[1]уничтожила их всех\\c[0], по
 #: data/maps/autumn/entrance.json+entities/148/settings/event/29/elseStep/0/message+%23231
 msgctxt "data/maps/autumn/entrance.json//entities/148/settings/event/29/elseStep/0/message"
 msgid "Those hedgehags were easy-peasy, right, Lea?"
-msgstr "Эти ёжики были легче лёгкого, верно, Лея?"
+msgstr "Эти ёжики были легче лёгкого, правда, Лея?"
 
 #. data/maps/autumn/entrance.json entities/148/settings/event/31/thenStep/0/message #917
 #. EventTrigger EndScene START IF plot.line >= 31400
@@ -3565,7 +3564,7 @@ msgstr "Привет, дорогая! Ты здесь ради больших н
 #: data/maps/autumn/guild/inner-fs-eg.json+entities/60/settings/npcStates/12/event/quest/7/message+%231615
 msgctxt "data/maps/autumn/guild/inner-fs-eg.json//entities/60/settings/npcStates/12/event/quest/7/message"
 msgid "We can start the meeting right away!"
-msgstr "Мы можем начать встречу сразу же!"
+msgstr "Мы можем сразу же начать встречу!"
 
 #. data/maps/autumn/guild/inner-fs-eg.json entities/60/settings/npcStates/12/event/quest/8/0/0/message #1616
 #. NPC hlin
@@ -10364,7 +10363,7 @@ msgstr "Сегодня вполне подходящий день!"
 #: data/maps/autumn/guild/inner-fs-eg.json+entities/76/settings/event/296/message+%231377
 msgctxt "data/maps/autumn/guild/inner-fs-eg.json//entities/76/settings/event/296/message"
 msgid "I was planning to do some shopping today."
-msgstr "Я планировал сделать покупки сегодня."
+msgstr "Я планировал сегодня пройтись по магазинам."
 
 #. data/maps/autumn/guild/inner-fs-eg.json entities/76/settings/event/307/message #1378
 #. EventTrigger FinalGetTogether2 START IF plot.line >= 25700
@@ -11546,7 +11545,7 @@ msgstr "Логично..."
 #: data/maps/autumn/guild/inner-fs-eg.json+entities/84/settings/event/54/message+%231722
 msgctxt "data/maps/autumn/guild/inner-fs-eg.json//entities/84/settings/event/54/message"
 msgid "It was the last thing we did before Lea disappeared."
-msgstr "Это была последняя вещь, которую мы сделали перед тем, как Лея пропала."
+msgstr "Это было последнее, что мы сделали, прежде чем Лея пропала."
 
 #. data/maps/autumn/guild/inner-fs-eg.json entities/84/settings/event/55/message #1723
 #. EventTrigger PostGameRaidBriefing START IF plot.line >= 41500
@@ -11594,7 +11593,7 @@ msgstr "Мы разделимся на две команды, которые б�
 #: data/maps/autumn/guild/inner-fs-eg.json+entities/84/settings/event/67/message+%231728
 msgctxt "data/maps/autumn/guild/inner-fs-eg.json//entities/84/settings/event/67/message"
 msgid "Team one will be \\c[3]Emilie\\c[0], \\c[3]Lea\\c[0] and \\c[3]Luke\\c[0]."
-msgstr "Команда номер один будет состоять из \\c[3]Эмили\\c[0], \\c[3]Леи\\c[0] и \\c[3]Люка\\c[0]."
+msgstr "Команда один будет состоять из \\c[3]Эмили\\c[0], \\c[3]Леи\\c[0] и \\c[3]Люка\\c[0]."
 
 #. data/maps/autumn/guild/inner-fs-eg.json entities/84/settings/event/68/message #1729
 #. EventTrigger PostGameRaidBriefing START IF plot.line >= 41500
@@ -11602,7 +11601,7 @@ msgstr "Команда номер один будет состоять из \\c[
 #: data/maps/autumn/guild/inner-fs-eg.json+entities/84/settings/event/68/message+%231729
 msgctxt "data/maps/autumn/guild/inner-fs-eg.json//entities/84/settings/event/68/message"
 msgid "Team two will be \\c[3]Lukas\\c[0], \\c[3]Buggy\\c[0] and \\c[3]me\\c[0]!"
-msgstr "В команде номер два будут \\c[3]Лукас\\c[0], \\c[3]Багги\\c[0] и \\c[3]я\\c[0]!"
+msgstr "В команде два будут \\c[3]Лукас\\c[0], \\c[3]Багги\\c[0] и \\c[3]я\\c[0]!"
 
 #. data/maps/autumn/guild/inner-fs-eg.json entities/84/settings/event/69/message #1730
 #. EventTrigger PostGameRaidBriefing START IF plot.line >= 41500
@@ -15350,7 +15349,7 @@ msgstr "Ооу! Милый маленький домик!"
 #: data/maps/autumn/guild/left.json+entities/283/settings/event/17/message+%2356
 msgctxt "data/maps/autumn/guild/left.json//entities/283/settings/event/17/message"
 msgid "Told you we're a small guild, right?"
-msgstr "Говорил же тебе, гильдия у нас небольшая, верно?"
+msgstr "Говорил же тебе, гильдия у нас небольшая."
 
 #. data/maps/autumn/guild/left.json entities/283/settings/event/23/message #57
 #. EventTrigger BeforeDoorScene START IF map.beforeDoor
@@ -15437,7 +15436,7 @@ msgstr "Привет!"
 #: data/maps/autumn/guild/left.json+entities/292/settings/event/11/message+%2378
 msgctxt "data/maps/autumn/guild/left.json//entities/292/settings/event/11/message"
 msgid "I see you made an appointment for the raid tomorrow?\n"
-msgstr "Я вижу вы договорились о встрече для завтрашнего рейда?"
+msgstr "Я вижу, вы договорились о встрече для завтрашнего рейда?"
 
 #. data/maps/autumn/guild/left.json entities/292/settings/event/12/message #79
 #. EventTrigger AfterPostRaidScene START IF plot.line >= 41600
@@ -15469,7 +15468,7 @@ msgstr "...Почему?"
 #: data/maps/autumn/guild/left.json+entities/292/settings/event/15/message+%2382
 msgctxt "data/maps/autumn/guild/left.json//entities/292/settings/event/15/message"
 msgid "Well...\\. it is highly unlikely that anyone would interfere again."
-msgstr "Ну...\\. мала вероятность того, что кто-то снова нам помешает."
+msgstr "Ну...\\. очень маловероятно, что кто-то снова нам помешает."
 
 #. data/maps/autumn/guild/left.json entities/292/settings/event/17/message #83
 #. EventTrigger AfterPostRaidScene START IF plot.line >= 41600
@@ -15477,7 +15476,7 @@ msgstr "Ну...\\. мала вероятность того, что кто-то 
 #: data/maps/autumn/guild/left.json+entities/292/settings/event/17/message+%2383
 msgctxt "data/maps/autumn/guild/left.json//entities/292/settings/event/17/message"
 msgid "Anyway, I wanted to let you know that you can \\c[3]go to sleep\\c[0] on your own now!"
-msgstr "В любом случае, я хотел сказать тебе о том, что теперь ты \\c[3]можешь пойти спать\\c[0], когда захочешь!"
+msgstr "В любом случае, я хотел сказать тебе, что теперь ты \\c[3]можешь пойти спать\\c[0], когда захочешь!"
 
 #. data/maps/autumn/guild/left.json entities/292/settings/event/18/message #84
 #. EventTrigger AfterPostRaidScene START IF plot.line >= 41600
@@ -15509,7 +15508,7 @@ msgstr "Ну это вполне очевидно, правда!"
 #: data/maps/autumn/guild/left.json+entities/292/settings/event/21/message+%2387
 msgctxt "data/maps/autumn/guild/left.json//entities/292/settings/event/21/message"
 msgid "Just go to your \\c[3]house\\c[0] in Homestedt and \\c[3]lay down in your bed\\c[0]."
-msgstr "Просто иди к своему \\c[3]дому\\c[0] в Хоумстеде и \\c[3]ложись на свою кровать\\c[0]."
+msgstr "Просто идите к своему \\c[3]дому\\c[0] в Хоумштадте и \\c[3]ложитесь спать\\c[0]."
 
 #. data/maps/autumn/guild/left.json entities/292/settings/event/22/message #88
 #. EventTrigger AfterPostRaidScene START IF plot.line >= 41600
@@ -15541,7 +15540,7 @@ msgstr "И это всё, что я хотел рассказать тебе."
 #: data/maps/autumn/guild/left.json+entities/292/settings/event/25/message+%2391
 msgctxt "data/maps/autumn/guild/left.json//entities/292/settings/event/25/message"
 msgid "I guess now is a good time to prepare for the raid, correct?"
-msgstr "Я полагаю, что сейчас хорошее время, чтобы подготовиться к рейду, правильно?"
+msgstr "Полагаю, сейчас хорошее время, чтобы подготовиться к рейду, верно?"
 
 #. data/maps/autumn/guild/left.json entities/292/settings/event/26/message #92
 #. EventTrigger AfterPostRaidScene START IF plot.line >= 41600
@@ -15557,7 +15556,7 @@ msgstr "[кивает]"
 #: data/maps/autumn/guild/left.json+entities/292/settings/event/30/task+%2393
 msgctxt "data/maps/autumn/guild/left.json//entities/292/settings/event/30/task"
 msgid "Go to \\c[3]Homestedt\\c[0] to your house and try to \\c[3]sleep in your bed\\c[0]."
-msgstr "Отправляйтесь в \\c[3]Хоумстед\\c[0] к своему дому и попробуйте \\c[3]поспать в своей кровати\\c[0]."
+msgstr "Отправляйтесь в \\c[3]Хоумштадт\\c[0] к своему дому и попробуйте \\c[3]поспать в своей кровати\\c[0]."
 
 #. data/maps/autumn/guild/lmh-inner-eg.json entities/117/settings/npcStates/0/event/1/name #9
 #. NPC puella
@@ -16991,9 +16990,7 @@ msgstr "..."
 #: data/maps/autumn/guild/lmh-inner-og.json+entities/161/settings/npcStates/1/event/2/message+%23736
 msgctxt "data/maps/autumn/guild/lmh-inner-og.json//entities/161/settings/npcStates/1/event/2/message"
 msgid "Sorry, we're really busy trying to handle stuff right now. "
-msgstr ""
-"К сожалению, мы очень заняты, пытаемся разобраться с делами.\n"
-"\n"
+msgstr "К сожалению, мы очень заняты, пытаемся разобраться с делами."
 
 #. data/maps/autumn/guild/lmh-inner-og.json entities/161/settings/npcStates/1/event/3/message #737
 #. NPC wervyn
@@ -17337,7 +17334,7 @@ msgstr "..."
 #: data/maps/autumn/guild/lmh-inner-og.json+entities/163/settings/event/55/message+%2336
 msgctxt "data/maps/autumn/guild/lmh-inner-og.json//entities/163/settings/event/55/message"
 msgid "Right. Anyway, finding players in need and arriving just in time isn't actually that easy."
-msgstr "Верно. В общем, искать игроков в нужде и прибывать точно вовремя не так уж и легко на самом деле."
+msgstr "Верно. В любом случае, искать игроков в нужде и прибывать точно вовремя на самом деле не так уж и легко."
 
 #. data/maps/autumn/guild/lmh-inner-og.json entities/163/settings/event/56/message #37
 #. EventTrigger questBriefing START IF tmp.questBriefing
@@ -18564,7 +18561,7 @@ msgstr "Понятия не имею, но приятно проверить и�
 #: data/maps/autumn/lake-observatory.json+entities/551/settings/event/6/message+%23303
 msgctxt "data/maps/autumn/lake-observatory.json//entities/551/settings/event/6/message"
 msgid "True, it must have been like half a year ago."
-msgstr "Верно, это было около полугода назад."
+msgstr "Ага, это было где-то полгода назад."
 
 #. data/maps/autumn/lake-observatory.json entities/551/settings/event/7/message #304
 #. EventTrigger dkarScene START IF map.startDkarScene
@@ -18662,7 +18659,7 @@ msgstr "...!"
 #: data/maps/autumn/lake-observatory.json+entities/551/settings/event/26/message+%23320
 msgctxt "data/maps/autumn/lake-observatory.json//entities/551/settings/event/26/message"
 msgid "Oh, so you do know something about our sender?"
-msgstr "Ох, так ты что-то знаешь о нашем отправителе?"
+msgstr "А, так ты что-то знаешь о нашем отправителе?"
 
 #. data/maps/autumn/lake-observatory.json entities/551/settings/event/27/message #321
 #. EventTrigger dkarScene START IF map.startDkarScene
@@ -18780,7 +18777,6 @@ msgstr "Это меняет дело. Что за секретность, пап
 #. EventTrigger dkarScene START IF map.startDkarScene
 #. SHOW_MSG main.dkar @DEFAULT
 #: data/maps/autumn/lake-observatory.json+entities/551/settings/event/63/message+%23336
-#, fuzzy
 msgctxt "data/maps/autumn/lake-observatory.json//entities/551/settings/event/63/message"
 msgid "Well, you see...\n"
 msgstr "Ну, видите ли..."
@@ -18949,7 +18945,6 @@ msgstr "..."
 #. EventTrigger dkarScene START IF map.startDkarScene
 #. SHOW_MSG cross-worlds-special.dkar-son-triblader @DEFAULT
 #: data/maps/autumn/lake-observatory.json+entities/551/settings/event/84/message+%23361
-#, fuzzy
 msgctxt "data/maps/autumn/lake-observatory.json//entities/551/settings/event/84/message"
 msgid "Oh boy, I'm sorry, Lea. I hope he wasn't too much of a problem. He can get very... dramatic sometimes."
 msgstr "Ох, прости, Лея. Я надеюсь, что он не доставил больших проблем. Иногда он может быть чересчур драматичным."
@@ -19552,7 +19547,6 @@ msgstr "Я и не знал, что есть такое событие!"
 #. EventTrigger openSesame START IF map.hlinScene
 #. SHOW_MSG main.guild-leader @THINKING
 #: data/maps/autumn/lake-observatory.json+entities/556/settings/event/29/message+%23443
-#, fuzzy
 msgctxt "data/maps/autumn/lake-observatory.json//entities/556/settings/event/29/message"
 msgid "Well, it's not easy to find as it's not connected to any other quest."
 msgstr "Ну, его нелегко найти, ведь оно не привязано ни к какому другому квесту."
@@ -19673,7 +19667,6 @@ msgstr "На самом деле, это довольно просто."
 #. EventTrigger openSesame START IF map.hlinScene
 #. SHOW_MSG main.guild-leader @THINKING
 #: data/maps/autumn/lake-observatory.json+entities/556/settings/event/44/message+%23460
-#, fuzzy
 msgctxt "data/maps/autumn/lake-observatory.json//entities/556/settings/event/44/message"
 msgid "First, each one of us needs to hold one of the relics."
 msgstr "Сначала каждый из нас должен взять одну из реликвий."
@@ -19762,7 +19755,6 @@ msgstr "Ух, клёво!"
 #. EventTrigger afterObs START IF quest.observatory.solved
 #. SHOW_MSG main.guild-leader @SMILE
 #: data/maps/autumn/lake-observatory.json+entities/557/settings/event/12/message+%23474
-#, fuzzy
 msgctxt "data/maps/autumn/lake-observatory.json//entities/557/settings/event/12/message"
 msgid "Oh, there you are, dear."
 msgstr "Ох, вот ты где, дорогая."
@@ -19811,7 +19803,6 @@ msgstr "Мне особенно понравились кролики на то�
 #. EventTrigger afterObs START IF quest.observatory.solved
 #. SHOW_MSG main.guild-leader @ANGRY
 #: data/maps/autumn/lake-observatory.json+entities/557/settings/event/19/message+%23480
-#, fuzzy
 msgctxt "data/maps/autumn/lake-observatory.json//entities/557/settings/event/19/message"
 msgid "Oh, come now, Buggy! Those were clearly meant to depict the Ancients themselves."
 msgstr "Ох, перестань, Багги! Они явно намеревались изобразить самих Древних."
@@ -19820,7 +19811,6 @@ msgstr "Ох, перестань, Багги! Они явно намеревал
 #. EventTrigger afterObs START IF quest.observatory.solved
 #. SHOW_MSG main.buggy @GRIN
 #: data/maps/autumn/lake-observatory.json+entities/557/settings/event/20/message+%23481
-#, fuzzy
 msgctxt "data/maps/autumn/lake-observatory.json//entities/557/settings/event/20/message"
 msgid "So, not bird people, but bunny people? "
 msgstr "Так что же, не люди-птицы, а люди-зайчики?"
@@ -19877,7 +19867,6 @@ msgstr "Да! Больше силы для меня!"
 #. EventTrigger afterObs START IF quest.observatory.solved
 #. SHOW_MSG main.emilie @SMILE
 #: data/maps/autumn/lake-observatory.json+entities/557/settings/event/48/message+%23488
-#, fuzzy
 msgctxt "data/maps/autumn/lake-observatory.json//entities/557/settings/event/48/message"
 msgid "All thanks to our chérie, Lea."
 msgstr "Всё благодаря нашей chérie (дорогой) Лее."
@@ -19942,7 +19931,6 @@ msgstr "Ненавижу так быстро расставаться, но мн
 #. EventTrigger afterObs START IF quest.observatory.solved
 #. SHOW_MSG main.guild-leader @EYES_CLOSED
 #: data/maps/autumn/lake-observatory.json+entities/557/settings/event/56/message+%23500
-#, fuzzy
 msgctxt "data/maps/autumn/lake-observatory.json//entities/557/settings/event/56/message"
 msgid "That's alright. Sadly, this is where the event ends anyway."
 msgstr "Всё в порядке. К сожалению, на этом событие и заканчивается."
@@ -19959,7 +19947,6 @@ msgstr "Я думаю, что вернусь в штаб, ладно?"
 #. EventTrigger afterObs START IF quest.observatory.solved
 #. SHOW_MSG main.buggy @DEFAULT
 #: data/maps/autumn/lake-observatory.json+entities/557/settings/event/58/message+%23502
-#, fuzzy
 msgctxt "data/maps/autumn/lake-observatory.json//entities/557/settings/event/58/message"
 msgid "See you soon, everyone!"
 msgstr "Всем до скорой встречи!"
@@ -20466,10 +20453,9 @@ msgstr "Наблюдатель"
 #. EventTrigger FirstTime
 #. SHOW_MSG main.emilie @SHOCKED
 #: data/maps/autumn/observatory/inner.json+entities/61/settings/event/7/message+%2336
-#, fuzzy
 msgctxt "data/maps/autumn/observatory/inner.json//entities/61/settings/event/7/message"
 msgid "Sacrebleu, what just happened?"
-msgstr "Sacrébleu (Боже мой), что только что произошло?"
+msgstr "Sacrebleu (Боже мой), что только что произошло?"
 
 #. data/maps/autumn/observatory/inner.json entities/61/settings/event/8/message #28
 #. EventTrigger FirstTime
@@ -20525,7 +20511,7 @@ msgstr "..."
 #: data/maps/autumn/observatory/inner.json+entities/61/settings/event/14/message+%2334
 msgctxt "data/maps/autumn/observatory/inner.json//entities/61/settings/event/14/message"
 msgid "Well, best to just have a look around, right?"
-msgstr "Ну, наверное, лучше стоит осмотреться вокруг, верно?\n"
+msgstr "Ну, наверное, лучше стоит осмотреться вокруг, верно?"
 
 #. data/maps/autumn/observatory/inner.json entities/61/settings/event/15/message #35
 #. EventTrigger FirstTime
@@ -20575,7 +20561,6 @@ msgstr ""
 #. EventTrigger SpaceScene START IF map.spaceScene
 #. SHOW_DREAM_MSG
 #: data/maps/autumn/observatory/inner.json+entities/62/settings/event/13/text+%2339
-#, fuzzy
 msgctxt "data/maps/autumn/observatory/inner.json//entities/62/settings/event/13/text"
 msgid "To seek wisdom of the gods, we built this observatory."
 msgstr "В поисках мудрости богов мы построили эту обсерваторию."
@@ -20596,7 +20581,6 @@ msgstr ""
 #. EventTrigger SpaceScene START IF map.spaceScene
 #. SHOW_DREAM_MSG
 #: data/maps/autumn/observatory/inner.json+entities/62/settings/event/15/text+%2341
-#, fuzzy
 msgctxt "data/maps/autumn/observatory/inner.json//entities/62/settings/event/15/text"
 msgid "For your achievements, we grant you the ability to become even stronger."
 msgstr "За твои достижения, мы дадим тебе возможность стать ещё сильнее."
@@ -20907,7 +20891,6 @@ msgstr "Н... но я и так собирался прийти.\\. Ты мне 
 #. IF quest.rhg-1-pickpocket.task.7
 #. SHOW_MSG rookie-harbor.faction-rhg-female-black @DEFAULT
 #: data/maps/autumn/path-1.json+entities/302/settings/npcStates/1/event/quest/32/message+%23342
-#, fuzzy
 msgctxt "data/maps/autumn/path-1.json//entities/302/settings/npcStates/1/event/quest/32/message"
 msgid "Sorry, pal.\\. Trust is nice and all but I won't take any more risks with you."
 msgstr "Прости, приятель. Доверие - это хорошо и всё такое, но я больше не хочу рисковать с тобой."
@@ -20926,7 +20909,6 @@ msgstr "Ладно, ладно.\\. Блин."
 #. IF quest.rhg-1-pickpocket.task.7
 #. SHOW_MSG rookie-harbor.faction-rhg-female-black @DEFAULT
 #: data/maps/autumn/path-1.json+entities/302/settings/npcStates/1/event/quest/39/message+%23345
-#, fuzzy
 msgctxt "data/maps/autumn/path-1.json//entities/302/settings/npcStates/1/event/quest/39/message"
 msgid "In any case, thanks, girl.\\. You did great work here.\\. Report back to the chief to get your reward."
 msgstr "В любом случае, спасибо, девочка.\\. Ты проделала отличную работу.\\. Доложи шефу, чтобы получить награду."
@@ -21870,7 +21852,6 @@ msgstr "Я c-с-составил список того, что мне нужно
 #. SHOW_CHOICE main.lea @SURPRISED_TOWARD
 #. SHOW_MSG misc.henry-researcher @DEFAULT
 #: data/maps/autumn/path-1.json+entities/313/settings/dialog/1/event/16/0/18/message+%23439
-#, fuzzy
 msgctxt "data/maps/autumn/path-1.json//entities/313/settings/dialog/1/event/16/0/18/message"
 msgid "F-First, I need some items and information on the local w-wildlife."
 msgstr "В-Во-первых, мне нужны некоторые вещи и информация о местной дикой п-природе."
@@ -21880,7 +21861,6 @@ msgstr "В-Во-первых, мне нужны некоторые вещи и �
 #. SHOW_CHOICE main.lea @SURPRISED_TOWARD
 #. SHOW_MSG misc.henry-researcher @DEFAULT
 #: data/maps/autumn/path-1.json+entities/313/settings/dialog/1/event/16/0/19/message+%23440
-#, fuzzy
 msgctxt "data/maps/autumn/path-1.json//entities/313/settings/dialog/1/event/16/0/19/message"
 msgid "Additionally, I n-n-need a list of all the landmarks in this a-area."
 msgstr "Кроме того, мне н-н-нужен список всех ориентиров в этой о-области."
@@ -21890,7 +21870,6 @@ msgstr "Кроме того, мне н-н-нужен список всех ор�
 #. SHOW_CHOICE main.lea @SURPRISED_TOWARD
 #. SHOW_MSG misc.henry-researcher @DEFAULT
 #: data/maps/autumn/path-1.json+entities/313/settings/dialog/1/event/16/0/20/message+%23441
-#, fuzzy
 msgctxt "data/maps/autumn/path-1.json//entities/313/settings/dialog/1/event/16/0/20/message"
 msgid "Finally, I need y-you to retrieve a p-probe I installed further ahead."
 msgstr "Наконец, мне нужно, чтобы т-ты достала з-зонд, который я установил заранее."
@@ -24464,7 +24443,6 @@ msgstr "[мотает головой]"
 #. SHOW_CHOICE main.lea @SURPRISED_AWAY
 #. SHOW_MSG guests.christophorus @DEFAULT
 #: data/maps/autumn/path-7-2.json+entities/741/settings/npcStates/0/event/3/elseStep/5/1/3/message+%2338
-#, fuzzy
 msgctxt "data/maps/autumn/path-7-2.json//entities/741/settings/npcStates/0/event/3/elseStep/5/1/3/message"
 msgid "So you think you can manage on your own?"
 msgstr "Так ты думаешь, что сможешь справиться самостоятельно?"
@@ -24477,7 +24455,7 @@ msgstr "Так ты думаешь, что сможешь справиться �
 #: data/maps/autumn/path-7-2.json+entities/741/settings/npcStates/0/event/3/elseStep/5/1/4/message+%2339
 msgctxt "data/maps/autumn/path-7-2.json//entities/741/settings/npcStates/0/event/3/elseStep/5/1/4/message"
 msgid "Good luck, then."
-msgstr "Ну тогда, удачи."
+msgstr "Ну, тогда, удачи."
 
 #. data/maps/autumn/path-7-2.json entities/741/settings/npcStates/0/event/3/elseStep/5/options/0/label #40
 #. NPC

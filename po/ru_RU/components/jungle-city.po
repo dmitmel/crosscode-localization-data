@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: crosscode 1.4.0-4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-12 23:31+0000\n"
-"PO-Revision-Date: 2021-03-12 23:31+0000\n"
+"POT-Creation-Date: 2021-03-12 23:33+0000\n"
+"PO-Revision-Date: 2021-03-12 23:33+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -2394,17 +2394,16 @@ msgstr "Привет."
 #: data/maps/jungle-city/east.json+entities/687/settings/npcStates/0/event/trade/event/5/message+%23440
 msgctxt "data/maps/jungle-city/east.json//entities/687/settings/npcStates/0/event/trade/event/5/message"
 msgid "Meet!"
-msgstr ""
+msgstr "Встреча!"
 
 #. data/maps/jungle-city/east.json entities/687/settings/npcStates/0/event/trade/event/6/message #435
 #. NPC bird-gangster
 #. IF quest.jungleGuard-3-papagang_goats_1.task.1
 #. SHOW_MSG basin.birdman-1 @DEFAULT
 #: data/maps/jungle-city/east.json+entities/687/settings/npcStates/0/event/trade/event/6/message+%23435
-#, fuzzy
 msgctxt "data/maps/jungle-city/east.json//entities/687/settings/npcStates/0/event/trade/event/6/message"
 msgid "... Human want trade?\\. Valuable trade.\\. Precious egg!"
-msgstr "..."
+msgstr ""
 
 #. data/maps/jungle-city/east.json entities/687/settings/npcStates/0/event/trade/event/7/message #444
 #. NPC bird-gangster
@@ -2413,7 +2412,7 @@ msgstr "..."
 #: data/maps/jungle-city/east.json+entities/687/settings/npcStates/0/event/trade/event/7/message+%23444
 msgctxt "data/maps/jungle-city/east.json//entities/687/settings/npcStates/0/event/trade/event/7/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/jungle-city/east.json entities/687/settings/npcStates/0/event/trade/event/9/traded/0/name #455
 #. NPC bird-gangster
@@ -2463,7 +2462,7 @@ msgstr ""
 #: data/maps/jungle-city/east.json+entities/687/settings/npcStates/0/event/trade/event/9/traded/5/message+%23452
 msgctxt "data/maps/jungle-city/east.json//entities/687/settings/npcStates/0/event/trade/event/9/traded/5/message"
 msgid "Wait!"
-msgstr ""
+msgstr "Подожди!"
 
 #. data/maps/jungle-city/east.json entities/687/settings/npcStates/0/event/trade/event/9/traded/15/text #436
 #. NPC bird-gangster
@@ -2516,7 +2515,7 @@ msgstr ""
 #: data/maps/jungle-city/east.json+entities/687/settings/npcStates/0/event/trade/event/9/canceled/5/message+%23446
 msgctxt "data/maps/jungle-city/east.json//entities/687/settings/npcStates/0/event/trade/event/9/canceled/5/message"
 msgid "Bye..."
-msgstr ""
+msgstr "Пока..."
 
 #. data/maps/jungle-city/east.json entities/687/settings/npcStates/1/event/quest/0/name #453
 #. NPC bird-gangster
@@ -2552,7 +2551,7 @@ msgstr ""
 #: data/maps/jungle-city/east.json+entities/687/settings/npcStates/1/event/quest/5/message+%23448
 msgctxt "data/maps/jungle-city/east.json//entities/687/settings/npcStates/1/event/quest/5/message"
 msgid "Wait!!"
-msgstr ""
+msgstr "Подожди!!"
 
 #. data/maps/jungle-city/entrance.json entities/380/settings/event/0/message #450
 #. EventTrigger ApolloSmallTalk START IF plot.line >= 16700 && tmp.weatherChange
@@ -2615,14 +2614,14 @@ msgstr "Отмазки!"
 #: data/maps/jungle-city/entrance.json+entities/384/settings/text+%23882
 msgctxt "data/maps/jungle-city/entrance.json//entities/384/settings/text"
 msgid "Unnatural Energy Signature"
-msgstr ""
+msgstr "Неестественный энергетический след"
 
 #. data/maps/jungle-city/entrance.json entities/386/settings/text #883
 #. Analyzable quest-analPlantRight SPAWN IF (quest.jungleGreens-3-escort_2.currentTask == 0) && !map.questPlantRight && !tmp.battleGreenieStarted
 #: data/maps/jungle-city/entrance.json+entities/386/settings/text+%23883
 msgctxt "data/maps/jungle-city/entrance.json//entities/386/settings/text"
 msgid "Unnatural Energy Signature"
-msgstr ""
+msgstr "Неестественный энергетический след"
 
 #. data/maps/jungle-city/entrance.json entities/390/settings/event/35/thenStep/2/name #778
 #. EventTrigger questGreens3-fight1Boss START IF (map.questPlantLeft && map.questPlantRight && quest.jungleGreens-3-escort_2.currentTask == 0) || tmp.lureBoss || test
@@ -2631,7 +2630,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/390/settings/event/35/thenStep/2/name+%23778
 msgctxt "data/maps/jungle-city/entrance.json//entities/390/settings/event/35/thenStep/2/name"
 msgid "Linde"
-msgstr ""
+msgstr "Линдэ"
 
 #. data/maps/jungle-city/entrance.json entities/390/settings/event/35/thenStep/3/message #1743
 #. EventTrigger questGreens3-fight1Boss START IF (map.questPlantLeft && map.questPlantRight && quest.jungleGreens-3-escort_2.currentTask == 0) || tmp.lureBoss || test
@@ -2640,7 +2639,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/390/settings/event/35/thenStep/3/message+%231743
 msgctxt "data/maps/jungle-city/entrance.json//entities/390/settings/event/35/thenStep/3/message"
 msgid "Eeeek... T-that thing looked way less scary on the photos."
-msgstr ""
+msgstr "Фуууу... Э-эта штука выглядела менее устрашающей на фотографиях."
 
 #. data/maps/jungle-city/entrance.json entities/390/settings/event/35/thenStep/4/message #1745
 #. EventTrigger questGreens3-fight1Boss START IF (map.questPlantLeft && map.questPlantRight && quest.jungleGreens-3-escort_2.currentTask == 0) || tmp.lureBoss || test
@@ -2649,7 +2648,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/390/settings/event/35/thenStep/4/message+%231745
 msgctxt "data/maps/jungle-city/entrance.json//entities/390/settings/event/35/thenStep/4/message"
 msgid "... "
-msgstr ""
+msgstr "..."
 
 #. data/maps/jungle-city/entrance.json entities/390/settings/event/35/thenStep/5/message #1768
 #. EventTrigger questGreens3-fight1Boss START IF (map.questPlantLeft && map.questPlantRight && quest.jungleGreens-3-escort_2.currentTask == 0) || tmp.lureBoss || test
@@ -2658,7 +2657,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/390/settings/event/35/thenStep/5/message+%231768
 msgctxt "data/maps/jungle-city/entrance.json//entities/390/settings/event/35/thenStep/5/message"
 msgid "And you really already fought it before, \\v[lore.title.seeker]??"
-msgstr ""
+msgstr "И ты действительно уже сражалась с ней раньше, Искатель??"
 
 #. data/maps/jungle-city/entrance.json entities/390/settings/event/35/thenStep/6/message #1769
 #. EventTrigger questGreens3-fight1Boss START IF (map.questPlantLeft && map.questPlantRight && quest.jungleGreens-3-escort_2.currentTask == 0) || tmp.lureBoss || test
@@ -2667,7 +2666,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/390/settings/event/35/thenStep/6/message+%231769
 msgctxt "data/maps/jungle-city/entrance.json//entities/390/settings/event/35/thenStep/6/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[кивает]"
 
 #. data/maps/jungle-city/entrance.json entities/390/settings/event/35/thenStep/7/message #1744
 #. EventTrigger questGreens3-fight1Boss START IF (map.questPlantLeft && map.questPlantRight && quest.jungleGreens-3-escort_2.currentTask == 0) || tmp.lureBoss || test
@@ -2676,7 +2675,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/390/settings/event/35/thenStep/7/message+%231744
 msgctxt "data/maps/jungle-city/entrance.json//entities/390/settings/event/35/thenStep/7/message"
 msgid "Wow, so impressive!\\.\\. I'll trust you to watch my back then, while I weaken it with our salt!"
-msgstr ""
+msgstr "Ух ты, так впечатляет!\\.\\. Я доверяю тебе тогда присматривать за моей спиной, пока я ослаблю её нашей солью!"
 
 #. data/maps/jungle-city/entrance.json entities/390/settings/event/35/thenStep/8/message #1770
 #. EventTrigger questGreens3-fight1Boss START IF (map.questPlantLeft && map.questPlantRight && quest.jungleGreens-3-escort_2.currentTask == 0) || tmp.lureBoss || test
@@ -2685,7 +2684,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/390/settings/event/35/thenStep/8/message+%231770
 msgctxt "data/maps/jungle-city/entrance.json//entities/390/settings/event/35/thenStep/8/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[кивает]"
 
 #. data/maps/jungle-city/entrance.json entities/390/settings/event/44/thenStep/3/guiInfo/settings/text #1765
 #. EventTrigger questGreens3-fight1Boss START IF (map.questPlantLeft && map.questPlantRight && quest.jungleGreens-3-escort_2.currentTask == 0) || tmp.lureBoss || test
@@ -2695,7 +2694,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/390/settings/event/44/thenStep/3/guiInfo/settings/text+%231765
 msgctxt "data/maps/jungle-city/entrance.json//entities/390/settings/event/44/thenStep/3/guiInfo/settings/text"
 msgid "Escortee Life"
-msgstr ""
+msgstr "Здоровье"
 
 #. data/maps/jungle-city/entrance.json entities/390/settings/event/44/thenStep/3/guiInfo/settings/taskTitle #1766
 #. EventTrigger questGreens3-fight1Boss START IF (map.questPlantLeft && map.questPlantRight && quest.jungleGreens-3-escort_2.currentTask == 0) || tmp.lureBoss || test
@@ -2705,7 +2704,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/390/settings/event/44/thenStep/3/guiInfo/settings/taskTitle+%231766
 msgctxt "data/maps/jungle-city/entrance.json//entities/390/settings/event/44/thenStep/3/guiInfo/settings/taskTitle"
 msgid "Energy"
-msgstr ""
+msgstr "Энергия"
 
 #. data/maps/jungle-city/entrance.json entities/394/settings/event/28/name #508
 #. EventTrigger questGreens3-fight1EndEscape START IF tmp.bossFlees || (tmp.bossKill && !quest.jungleGreens-3-escort_2.task.5)
@@ -2713,7 +2712,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/394/settings/event/28/name+%23508
 msgctxt "data/maps/jungle-city/entrance.json//entities/394/settings/event/28/name"
 msgid "Claude Reynes"
-msgstr ""
+msgstr "Клод Рэйнс"
 
 #. data/maps/jungle-city/entrance.json entities/394/settings/event/30/message #560
 #. EventTrigger questGreens3-fight1EndEscape START IF tmp.bossFlees || (tmp.bossKill && !quest.jungleGreens-3-escort_2.task.5)
@@ -2721,7 +2720,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/394/settings/event/30/message+%23560
 msgctxt "data/maps/jungle-city/entrance.json//entities/394/settings/event/30/message"
 msgid "\\v[lore.title.seeker], it's good that you survived this rampage.\\. Are you feeling well?"
-msgstr ""
+msgstr "Искатель, хорошо, что ты пережила это буйство.\\. Всё нормально?"
 
 #. data/maps/jungle-city/entrance.json entities/394/settings/event/31/message #913
 #. EventTrigger questGreens3-fight1EndEscape START IF tmp.bossFlees || (tmp.bossKill && !quest.jungleGreens-3-escort_2.task.5)
@@ -2729,7 +2728,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/394/settings/event/31/message+%23913
 msgctxt "data/maps/jungle-city/entrance.json//entities/394/settings/event/31/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/jungle-city/entrance.json entities/394/settings/event/32/message #439
 #. EventTrigger questGreens3-fight1EndEscape START IF tmp.bossFlees || (tmp.bossKill && !quest.jungleGreens-3-escort_2.task.5)
@@ -2737,7 +2736,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/394/settings/event/32/message+%23439
 msgctxt "data/maps/jungle-city/entrance.json//entities/394/settings/event/32/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[кивает]"
 
 #. data/maps/jungle-city/entrance.json entities/394/settings/event/33/message #909
 #. EventTrigger questGreens3-fight1EndEscape START IF tmp.bossFlees || (tmp.bossKill && !quest.jungleGreens-3-escort_2.task.5)
@@ -2745,7 +2744,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/394/settings/event/33/message+%23909
 msgctxt "data/maps/jungle-city/entrance.json//entities/394/settings/event/33/message"
 msgid "Good.\\. You've done well at least venting its anger.\\. I truly never saw such an unstoppable corrupted force before."
-msgstr ""
+msgstr "Хорошо.\\. Ты хорошо поработала, по крайней мере, высводив его гнев.\\. Я действительно никогда раньше не видел такой неудержимой коррумпированной силы."
 
 #. data/maps/jungle-city/entrance.json entities/394/settings/event/34/message #910
 #. EventTrigger questGreens3-fight1EndEscape START IF tmp.bossFlees || (tmp.bossKill && !quest.jungleGreens-3-escort_2.task.5)
@@ -2753,7 +2752,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/394/settings/event/34/message+%23910
 msgctxt "data/maps/jungle-city/entrance.json//entities/394/settings/event/34/message"
 msgid "... Why?"
-msgstr ""
+msgstr "...Почему?"
 
 #. data/maps/jungle-city/entrance.json entities/394/settings/event/35/message #911
 #. EventTrigger questGreens3-fight1EndEscape START IF tmp.bossFlees || (tmp.bossKill && !quest.jungleGreens-3-escort_2.task.5)
@@ -2761,7 +2760,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/394/settings/event/35/message+%23911
 msgctxt "data/maps/jungle-city/entrance.json//entities/394/settings/event/35/message"
 msgid "It was deeply corrupted, charged with massive toxic energy that even concentrated blasts of \\c[3]Wave\\c[0] could not disperse."
-msgstr ""
+msgstr "Он был сильно испорчен, заряжен огромной ядовитой энергией, которую не могли рассеять даже концентрированные удары \\c[3]Волны\\c[0]."
 
 #. data/maps/jungle-city/entrance.json entities/394/settings/event/36/message #912
 #. EventTrigger questGreens3-fight1EndEscape START IF tmp.bossFlees || (tmp.bossKill && !quest.jungleGreens-3-escort_2.task.5)
@@ -2769,7 +2768,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/394/settings/event/36/message+%23912
 msgctxt "data/maps/jungle-city/entrance.json//entities/394/settings/event/36/message"
 msgid "Such a threat will need special treatment to pacify.\\. One that can't be found within \\v[area.jungle.name]."
-msgstr ""
+msgstr "Чтобы усмирить такую ​​угрозу, потребуется особое лечение.\\. Но его нельзя найти в Саду Гаи."
 
 #. data/maps/jungle-city/entrance.json entities/394/settings/event/37/message #472
 #. EventTrigger questGreens3-fight1EndEscape START IF tmp.bossFlees || (tmp.bossKill && !quest.jungleGreens-3-escort_2.task.5)
@@ -2777,7 +2776,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/394/settings/event/37/message+%23472
 msgctxt "data/maps/jungle-city/entrance.json//entities/394/settings/event/37/message"
 msgid "... How?"
-msgstr ""
+msgstr "...Как?"
 
 #. data/maps/jungle-city/entrance.json entities/394/settings/event/38/message #888
 #. EventTrigger questGreens3-fight1EndEscape START IF tmp.bossFlees || (tmp.bossKill && !quest.jungleGreens-3-escort_2.task.5)
@@ -2785,7 +2784,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/394/settings/event/38/message+%23888
 msgctxt "data/maps/jungle-city/entrance.json//entities/394/settings/event/38/message"
 msgid "To cleanse such powerful toxic energy we must apply an equally powerful force of energized salt."
-msgstr ""
+msgstr "Чтобы очистить такую мощную ядовитую энергию, мы должны применить столь же мощную силу заряженной соли."
 
 #. data/maps/jungle-city/entrance.json entities/394/settings/event/39/message #994
 #. EventTrigger questGreens3-fight1EndEscape START IF tmp.bossFlees || (tmp.bossKill && !quest.jungleGreens-3-escort_2.task.5)
@@ -2793,7 +2792,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/394/settings/event/39/message+%23994
 msgctxt "data/maps/jungle-city/entrance.json//entities/394/settings/event/39/message"
 msgid "Where?"
-msgstr ""
+msgstr "Где?"
 
 #. data/maps/jungle-city/entrance.json entities/394/settings/event/40/message #889
 #. EventTrigger questGreens3-fight1EndEscape START IF tmp.bossFlees || (tmp.bossKill && !quest.jungleGreens-3-escort_2.task.5)
@@ -2801,7 +2800,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/394/settings/event/40/message+%23889
 msgctxt "data/maps/jungle-city/entrance.json//entities/394/settings/event/40/message"
 msgid "Go meet \\c[3]Linde\\c[0] on the \\c[3]Isle of Legend\\c[0] in \\c[3]\\v[area.beach.name]\\c[0] and help her extract it!"
-msgstr ""
+msgstr "Встреться с \\c[3]Линдэ\\c[0] на \\c[3]Острове легенд\\c[0] на \\c[3]Лазурном архипелаге\\c[0] и помогите её извлечь!"
 
 #. data/maps/jungle-city/entrance.json entities/394/settings/event/41/message #914
 #. EventTrigger questGreens3-fight1EndEscape START IF tmp.bossFlees || (tmp.bossKill && !quest.jungleGreens-3-escort_2.task.5)
@@ -2809,7 +2808,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/394/settings/event/41/message+%23914
 msgctxt "data/maps/jungle-city/entrance.json//entities/394/settings/event/41/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[кивает]"
 
 #. data/maps/jungle-city/entrance.json entities/400/settings/text #887
 #. Analyzable quest-analGhost SPAWN IF (quest.jungleGreens-3-escort_2.currentTask >= 1) && !quest.jungleGreens-3-escort_2.task.6 && !quest.jungleGreens-3-escort_2.solved && !tmp.battleGhostStarted
@@ -2823,21 +2822,21 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/401/settings/analyzable/text+%23247
 msgctxt "data/maps/jungle-city/entrance.json//entities/401/settings/analyzable/text"
 msgid "Claude Reynes"
-msgstr ""
+msgstr "Клод Рэйнс"
 
 #. data/maps/jungle-city/entrance.json entities/402/settings/analyzable/text #890
 #. NPC guardLeft
 #: data/maps/jungle-city/entrance.json+entities/402/settings/analyzable/text+%23890
 msgctxt "data/maps/jungle-city/entrance.json//entities/402/settings/analyzable/text"
 msgid "Claude Reynes"
-msgstr ""
+msgstr "Клод Рэйнс"
 
 #. data/maps/jungle-city/entrance.json entities/403/settings/analyzable/text #891
 #. NPC guardRight
 #: data/maps/jungle-city/entrance.json+entities/403/settings/analyzable/text+%23891
 msgctxt "data/maps/jungle-city/entrance.json//entities/403/settings/analyzable/text"
 msgid "Claude Reynes"
-msgstr ""
+msgstr "Клод Рэйнс"
 
 #. data/maps/jungle-city/entrance.json entities/404/settings/event/12/message #900
 #. EventTrigger questGreens3-bossMidScene START IF tmp.bossMidScene
@@ -2845,7 +2844,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/404/settings/event/12/message+%23900
 msgctxt "data/maps/jungle-city/entrance.json//entities/404/settings/event/12/message"
 msgid "\\v[lore.title.seeker]!!\\.\\. This rampaging spirit is a danger to everyone."
-msgstr ""
+msgstr "Искатель!!\\.\\. Этот яростный дух опасен для всех."
 
 #. data/maps/jungle-city/entrance.json entities/404/settings/event/13/message #899
 #. EventTrigger questGreens3-bossMidScene START IF tmp.bossMidScene
@@ -2853,7 +2852,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/404/settings/event/13/message+%23899
 msgctxt "data/maps/jungle-city/entrance.json//entities/404/settings/event/13/message"
 msgid "Hi?!"
-msgstr ""
+msgstr "Привет?!"
 
 #. data/maps/jungle-city/entrance.json entities/404/settings/event/20/message #901
 #. EventTrigger questGreens3-bossMidScene START IF tmp.bossMidScene
@@ -2861,7 +2860,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/404/settings/event/20/message+%23901
 msgctxt "data/maps/jungle-city/entrance.json//entities/404/settings/event/20/message"
 msgid "Use this to put it to rest!"
-msgstr ""
+msgstr "Используй это, чтобы успокоить его!"
 
 #. data/maps/jungle-city/entrance.json entities/404/settings/event/21/message #902
 #. EventTrigger questGreens3-bossMidScene START IF tmp.bossMidScene
@@ -2869,7 +2868,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/404/settings/event/21/message+%23902
 msgctxt "data/maps/jungle-city/entrance.json//entities/404/settings/event/21/message"
 msgid "Lea!"
-msgstr ""
+msgstr "Лея!"
 
 #. data/maps/jungle-city/entrance.json entities/405/settings/event/1/message #905
 #. EventTrigger questGreens3-bossNoEffect START IF tmp.bossNoEffect
@@ -2877,7 +2876,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/405/settings/event/1/message+%23905
 msgctxt "data/maps/jungle-city/entrance.json//entities/405/settings/event/1/message"
 msgid "... why?"
-msgstr ""
+msgstr "...почему?"
 
 #. data/maps/jungle-city/entrance.json entities/405/settings/event/2/message #906
 #. EventTrigger questGreens3-bossNoEffect START IF tmp.bossNoEffect
@@ -2885,7 +2884,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/405/settings/event/2/message+%23906
 msgctxt "data/maps/jungle-city/entrance.json//entities/405/settings/event/2/message"
 msgid "No effect? Impossible!"
-msgstr ""
+msgstr "Никакого эффекта? Невозможно!"
 
 #. data/maps/jungle-city/entrance.json entities/405/settings/event/3/message #907
 #. EventTrigger questGreens3-bossNoEffect START IF tmp.bossNoEffect
@@ -2893,7 +2892,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/405/settings/event/3/message+%23907
 msgctxt "data/maps/jungle-city/entrance.json//entities/405/settings/event/3/message"
 msgid "Such dense toxicity!"
-msgstr ""
+msgstr "Такая плотная токсичность!"
 
 #. data/maps/jungle-city/entrance.json entities/405/settings/event/4/message #908
 #. EventTrigger questGreens3-bossNoEffect START IF tmp.bossNoEffect
@@ -2901,14 +2900,14 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/405/settings/event/4/message+%23908
 msgctxt "data/maps/jungle-city/entrance.json//entities/405/settings/event/4/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/jungle-city/entrance.json entities/406/settings/analyzable/text #1767
 #. NPC quest-escortee
 #: data/maps/jungle-city/entrance.json+entities/406/settings/analyzable/text+%231767
 msgctxt "data/maps/jungle-city/entrance.json//entities/406/settings/analyzable/text"
 msgid "Linde"
-msgstr ""
+msgstr "Линдэ"
 
 #. data/maps/jungle-city/entrance.json entities/406/settings/npcStates/0/event/quest/6/name #1733
 #. NPC quest-escortee
@@ -2917,7 +2916,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/406/settings/npcStates/0/event/quest/6/name+%231733
 msgctxt "data/maps/jungle-city/entrance.json//entities/406/settings/npcStates/0/event/quest/6/name"
 msgid "Linde"
-msgstr ""
+msgstr "Линдэ"
 
 #. data/maps/jungle-city/entrance.json entities/406/settings/npcStates/0/event/quest/7/message #1734
 #. NPC quest-escortee
@@ -2926,7 +2925,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/406/settings/npcStates/0/event/quest/7/message+%231734
 msgctxt "data/maps/jungle-city/entrance.json//entities/406/settings/npcStates/0/event/quest/7/message"
 msgid "Hey there, \\v[lore.title.seeker]!\\. Ready to save the city? I sure am!"
-msgstr ""
+msgstr "Привет, Искатель!\\. Готова спасать город? Я точно готова!"
 
 #. data/maps/jungle-city/entrance.json entities/406/settings/npcStates/0/event/quest/9/0/1/message #1735
 #. NPC quest-escortee
@@ -2936,7 +2935,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/406/settings/npcStates/0/event/quest/9/0/1/message+%231735
 msgctxt "data/maps/jungle-city/entrance.json//entities/406/settings/npcStates/0/event/quest/9/0/1/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[кивает]"
 
 #. data/maps/jungle-city/entrance.json entities/406/settings/npcStates/0/event/quest/9/0/2/message #1736
 #. NPC quest-escortee
@@ -2946,7 +2945,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/406/settings/npcStates/0/event/quest/9/0/2/message+%231736
 msgctxt "data/maps/jungle-city/entrance.json//entities/406/settings/npcStates/0/event/quest/9/0/2/message"
 msgid "Alright!\\. I will get all of that ghost's toxic attention so you better be ready!"
-msgstr ""
+msgstr "Ладно!\\. Я возьму на себя всё внимание этого токсического призрака, так что тебе лучше быть готовым!"
 
 #. data/maps/jungle-city/entrance.json entities/406/settings/npcStates/0/event/quest/9/1/0/message #1737
 #. NPC quest-escortee
@@ -2956,7 +2955,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/406/settings/npcStates/0/event/quest/9/1/0/message+%231737
 msgctxt "data/maps/jungle-city/entrance.json//entities/406/settings/npcStates/0/event/quest/9/1/0/message"
 msgid "[shakes head]"
-msgstr ""
+msgstr "[мотает головой]"
 
 #. data/maps/jungle-city/entrance.json entities/406/settings/npcStates/0/event/quest/9/1/1/message #1738
 #. NPC quest-escortee
@@ -2966,7 +2965,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/406/settings/npcStates/0/event/quest/9/1/1/message+%231738
 msgctxt "data/maps/jungle-city/entrance.json//entities/406/settings/npcStates/0/event/quest/9/1/1/message"
 msgid "Aw, alright.\\. I will wait for you here."
-msgstr ""
+msgstr "Ах, ладно.\\. Я буду ждать тебя здесь."
 
 #. data/maps/jungle-city/entrance.json entities/406/settings/npcStates/0/event/quest/9/options/0/label #1739
 #. NPC quest-escortee
@@ -2975,7 +2974,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/406/settings/npcStates/0/event/quest/9/options/0/label+%231739
 msgctxt "data/maps/jungle-city/entrance.json//entities/406/settings/npcStates/0/event/quest/9/options/0/label"
 msgid "Yes"
-msgstr ""
+msgstr "Да"
 
 #. data/maps/jungle-city/entrance.json entities/406/settings/npcStates/0/event/quest/9/options/1/label #1740
 #. NPC quest-escortee
@@ -2984,7 +2983,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/406/settings/npcStates/0/event/quest/9/options/1/label+%231740
 msgctxt "data/maps/jungle-city/entrance.json//entities/406/settings/npcStates/0/event/quest/9/options/1/label"
 msgid "No"
-msgstr ""
+msgstr "Нет"
 
 #. data/maps/jungle-city/entrance.json entities/407/settings/event/1/thenStep/0/thenStep/0/message #793
 #. EventTrigger hpUpdate START IF tmp.escortCombat
@@ -2994,7 +2993,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/407/settings/event/1/thenStep/0/thenStep/0/message+%23793
 msgctxt "data/maps/jungle-city/entrance.json//entities/407/settings/event/1/thenStep/0/thenStep/0/message"
 msgid "Getting dizzy..."
-msgstr ""
+msgstr "Голова кружится..."
 
 #. data/maps/jungle-city/entrance.json entities/407/settings/event/1/thenStep/0/thenStep/1/message #792
 #. EventTrigger hpUpdate START IF tmp.escortCombat
@@ -3004,7 +3003,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/407/settings/event/1/thenStep/0/thenStep/1/message+%23792
 msgctxt "data/maps/jungle-city/entrance.json//entities/407/settings/event/1/thenStep/0/thenStep/1/message"
 msgid "...!"
-msgstr ""
+msgstr "...!"
 
 #. data/maps/jungle-city/entrance.json entities/407/settings/event/1/thenStep/0/elseStep/0/thenStep/0/message #790
 #. EventTrigger hpUpdate START IF tmp.escortCombat
@@ -3015,7 +3014,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/407/settings/event/1/thenStep/0/elseStep/0/thenStep/0/message+%23790
 msgctxt "data/maps/jungle-city/entrance.json//entities/407/settings/event/1/thenStep/0/elseStep/0/thenStep/0/message"
 msgid "Don't want to stress you, but this is getting a bit painful..."
-msgstr ""
+msgstr "Не хочу давить на тебя, но это становится немного больно..."
 
 #. data/maps/jungle-city/entrance.json entities/407/settings/event/1/thenStep/0/elseStep/0/thenStep/1/message #794
 #. EventTrigger hpUpdate START IF tmp.escortCombat
@@ -3026,7 +3025,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/407/settings/event/1/thenStep/0/elseStep/0/thenStep/1/message+%23794
 msgctxt "data/maps/jungle-city/entrance.json//entities/407/settings/event/1/thenStep/0/elseStep/0/thenStep/1/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/jungle-city/entrance.json entities/407/settings/event/1/thenStep/0/elseStep/0/elseStep/0/thenStep/0/message #791
 #. EventTrigger hpUpdate START IF tmp.escortCombat
@@ -3050,6 +3049,9 @@ msgid ""
 "\n"
 "Restart task to try again"
 msgstr ""
+"\\c[1]КВЕСТ ПРОВАЛЕН\\c[0]\n"
+"\n"
+"Перезапустите задание, чтобы попробовать снова"
 
 #. data/maps/jungle-city/entrance.json entities/409/settings/event/0/text #1772
 #. EventTrigger escortHeal START IF tmp.escortHeal
@@ -3081,7 +3083,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/410/settings/event/11/message+%231774
 msgctxt "data/maps/jungle-city/entrance.json//entities/410/settings/event/11/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[кивает]"
 
 #. data/maps/jungle-city/entrance.json entities/411/settings/event/40/name #1776
 #. EventTrigger questGreens3-fightBossEnd START IF tmp.bossKill && quest.jungleGreens-3-escort_2.task.5
@@ -3089,7 +3091,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/411/settings/event/40/name+%231776
 msgctxt "data/maps/jungle-city/entrance.json//entities/411/settings/event/40/name"
 msgid "Linde"
-msgstr ""
+msgstr "Линдэ"
 
 #. data/maps/jungle-city/entrance.json entities/411/settings/event/41/message #1777
 #. EventTrigger questGreens3-fightBossEnd START IF tmp.bossKill && quest.jungleGreens-3-escort_2.task.5
@@ -3097,7 +3099,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/411/settings/event/41/message+%231777
 msgctxt "data/maps/jungle-city/entrance.json//entities/411/settings/event/41/message"
 msgid "W-we did?\\. Right?\\. Did we...?"
-msgstr ""
+msgstr "М-мы сделали это?\\. Правда?\\. Так ведь...?"
 
 #. data/maps/jungle-city/entrance.json entities/411/settings/event/42/message #1778
 #. EventTrigger questGreens3-fightBossEnd START IF tmp.bossKill && quest.jungleGreens-3-escort_2.task.5
@@ -3105,7 +3107,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/411/settings/event/42/message+%231778
 msgctxt "data/maps/jungle-city/entrance.json//entities/411/settings/event/42/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[кивает]"
 
 #. data/maps/jungle-city/entrance.json entities/411/settings/event/44/message #1779
 #. EventTrigger questGreens3-fightBossEnd START IF tmp.bossKill && quest.jungleGreens-3-escort_2.task.5
@@ -3113,7 +3115,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/411/settings/event/44/message+%231779
 msgctxt "data/maps/jungle-city/entrance.json//entities/411/settings/event/44/message"
 msgid "Woohoo, we did it!"
-msgstr ""
+msgstr "Вуухуу, мы сделали это!"
 
 #. data/maps/jungle-city/entrance.json entities/411/settings/event/45/message #1780
 #. EventTrigger questGreens3-fightBossEnd START IF tmp.bossKill && quest.jungleGreens-3-escort_2.task.5
@@ -3121,7 +3123,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/411/settings/event/45/message+%231780
 msgctxt "data/maps/jungle-city/entrance.json//entities/411/settings/event/45/message"
 msgid "Meet!"
-msgstr ""
+msgstr "Встреча!"
 
 #. data/maps/jungle-city/entrance.json entities/411/settings/event/46/message #1781
 #. EventTrigger questGreens3-fightBossEnd START IF tmp.bossKill && quest.jungleGreens-3-escort_2.task.5
@@ -3129,7 +3131,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/411/settings/event/46/message+%231781
 msgctxt "data/maps/jungle-city/entrance.json//entities/411/settings/event/46/message"
 msgid "\\v[lore.title.seeker], this was such a thrill!\\. I was really worried, but you made me pull through, thank you!"
-msgstr ""
+msgstr "Искатель, это был такой кайф!\\. Я действительно волновалась, но ты помогла мне выжить, спасибо!"
 
 #. data/maps/jungle-city/entrance.json entities/411/settings/event/47/message #1784
 #. EventTrigger questGreens3-fightBossEnd START IF tmp.bossKill && quest.jungleGreens-3-escort_2.task.5
@@ -3137,7 +3139,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/411/settings/event/47/message+%231784
 msgctxt "data/maps/jungle-city/entrance.json//entities/411/settings/event/47/message"
 msgid "...!"
-msgstr ""
+msgstr "...!"
 
 #. data/maps/jungle-city/entrance.json entities/411/settings/event/48/message #1785
 #. EventTrigger questGreens3-fightBossEnd START IF tmp.bossKill && quest.jungleGreens-3-escort_2.task.5
@@ -3145,7 +3147,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/411/settings/event/48/message+%231785
 msgctxt "data/maps/jungle-city/entrance.json//entities/411/settings/event/48/message"
 msgid "Oh gosh... I'm so giddy but I better go back to report on our success, before my people worry."
-msgstr ""
+msgstr "Проклятье... У меня такое головокружение, но мне лучше вернуться, чтобы доложить о наших успехах, до того как мои люди не начнут беспокоится."
 
 #. data/maps/jungle-city/entrance.json entities/411/settings/event/49/message #1786
 #. EventTrigger questGreens3-fightBossEnd START IF tmp.bossKill && quest.jungleGreens-3-escort_2.task.5
@@ -3153,7 +3155,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/411/settings/event/49/message+%231786
 msgctxt "data/maps/jungle-city/entrance.json//entities/411/settings/event/49/message"
 msgid "So... see you around!\\. And don't forget to pay us another visit to get the reward.\\. Bye!"
-msgstr ""
+msgstr "Так что... увидимся!\\. И не забудь навестить нам ещё раз, чтобы получить награду.\\. Пока!"
 
 #. data/maps/jungle-city/entrance.json entities/411/settings/event/50/message #1782
 #. EventTrigger questGreens3-fightBossEnd START IF tmp.bossKill && quest.jungleGreens-3-escort_2.task.5
@@ -3161,7 +3163,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/411/settings/event/50/message+%231782
 msgctxt "data/maps/jungle-city/entrance.json//entities/411/settings/event/50/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[кивает]"
 
 #. data/maps/jungle-city/entrance.json entities/411/settings/event/51/message #1783
 #. EventTrigger questGreens3-fightBossEnd START IF tmp.bossKill && quest.jungleGreens-3-escort_2.task.5
@@ -3169,7 +3171,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/411/settings/event/51/message+%231783
 msgctxt "data/maps/jungle-city/entrance.json//entities/411/settings/event/51/message"
 msgid "Bye!"
-msgstr ""
+msgstr "Пока!"
 
 #. data/maps/jungle-city/halloween/boss.json entities/4/settings/event/5/name #23
 #. EventTrigger battleStart START IF tmp.battleStart
@@ -3435,7 +3437,6 @@ msgstr "[кивает]"
 #. EventTrigger QuestStart START IF map.startQuest
 #. SHOW_MSG business.male-sidecut-black @DEFAULT
 #: data/maps/jungle-city/interior/calzone-1.json+entities/26/settings/event/3/message+%23267
-#, fuzzy
 msgctxt "data/maps/jungle-city/interior/calzone-1.json//entities/26/settings/event/3/message"
 msgid "You there, \\c[3]Seeker\\c[0]. Blue Hair, Spheromancer, horns. "
 msgstr "Эй, \\c[3]Искатель\\c[0]. Синие волосы, сферомант, рога."
@@ -3476,7 +3477,6 @@ msgstr "[кивает]"
 #. EventTrigger QuestStart START IF map.startQuest
 #. SHOW_MSG business.male-sidecut-black @DEFAULT
 #: data/maps/jungle-city/interior/calzone-1.json+entities/26/settings/event/8/message+%23274
-#, fuzzy
 msgctxt "data/maps/jungle-city/interior/calzone-1.json//entities/26/settings/event/8/message"
 msgid "Good. In that case, I must ask you to go down the stairs and meet the boss."
 msgstr "Хорошо. В таком случае я должен попросить тебя спуститься по лестнице и встретиться с боссом."
@@ -3485,7 +3485,6 @@ msgstr "Хорошо. В таком случае я должен попроси�
 #. EventTrigger QuestStart START IF map.startQuest
 #. SHOW_MSG business.male-sidecut-black @DEFAULT
 #: data/maps/jungle-city/interior/calzone-1.json+entities/26/settings/event/9/message+%23275
-#, fuzzy
 msgctxt "data/maps/jungle-city/interior/calzone-1.json//entities/26/settings/event/9/message"
 msgid "A no is not acceptable, I'm afraid."
 msgstr "Боюсь, что ответ \"нет\" неприемлем."
@@ -3547,10 +3546,9 @@ msgstr "Фаззи Дункан"
 #. IF quest.jungleGuard-3-papagang_goats_1.task.0 && !quest.jungleGuard-3-papagang_goats_1.solved
 #. SHOW_MSG main.lea @NERVOUS
 #: data/maps/jungle-city/interior/calzone-1.json+entities/28/settings/npcStates/1/event/quest/3/message+%23287
-#, fuzzy
 msgctxt "data/maps/jungle-city/interior/calzone-1.json//entities/28/settings/npcStates/1/event/quest/3/message"
 msgid "Hi!"
-msgstr "..."
+msgstr "Привет!"
 
 #. data/maps/jungle-city/interior/calzone-1.json entities/28/settings/npcStates/1/event/quest/4/thenStep/1/message #286
 #. NPC birdquestInfo
@@ -3560,7 +3558,7 @@ msgstr "..."
 #: data/maps/jungle-city/interior/calzone-1.json+entities/28/settings/npcStates/1/event/quest/4/thenStep/1/message+%23286
 msgctxt "data/maps/jungle-city/interior/calzone-1.json//entities/28/settings/npcStates/1/event/quest/4/thenStep/1/message"
 msgid "What is it, \\v[lore.title.seeker]? Have have business to take care of."
-msgstr ""
+msgstr "Что такое, Искатель? Есть дела, которые нужно сделать."
 
 #. data/maps/jungle-city/interior/calzone-1.json entities/28/settings/npcStates/1/event/quest/4/thenStep/2/message #442
 #. NPC birdquestInfo
@@ -3570,7 +3568,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/calzone-1.json+entities/28/settings/npcStates/1/event/quest/4/thenStep/2/message+%23442
 msgctxt "data/maps/jungle-city/interior/calzone-1.json//entities/28/settings/npcStates/1/event/quest/4/thenStep/2/message"
 msgid "Where?"
-msgstr ""
+msgstr "Где?"
 
 #. data/maps/jungle-city/interior/calzone-1.json entities/28/settings/npcStates/1/event/quest/4/thenStep/3/message #441
 #. NPC birdquestInfo
@@ -3610,7 +3608,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/calzone-1.json+entities/28/settings/npcStates/1/event/quest/4/thenStep/6/message+%23445
 msgctxt "data/maps/jungle-city/interior/calzone-1.json//entities/28/settings/npcStates/1/event/quest/4/thenStep/6/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/jungle-city/interior/calzone-1.json entities/28/settings/npcStates/1/event/quest/4/thenStep/7/message #446
 #. NPC birdquestInfo
@@ -3620,7 +3618,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/calzone-1.json+entities/28/settings/npcStates/1/event/quest/4/thenStep/7/message+%23446
 msgctxt "data/maps/jungle-city/interior/calzone-1.json//entities/28/settings/npcStates/1/event/quest/4/thenStep/7/message"
 msgid "How?"
-msgstr ""
+msgstr "Как?"
 
 #. data/maps/jungle-city/interior/calzone-1.json entities/28/settings/npcStates/1/event/quest/4/thenStep/8/message #288
 #. NPC birdquestInfo
@@ -3719,7 +3717,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/calzone-1.json+entities/28/settings/npcStates/1/event/quest/6/0/6/message+%23456
 msgctxt "data/maps/jungle-city/interior/calzone-1.json//entities/28/settings/npcStates/1/event/quest/6/0/6/message"
 msgid "Why?!"
-msgstr ""
+msgstr "Почему?!"
 
 #. data/maps/jungle-city/interior/calzone-1.json entities/28/settings/npcStates/1/event/quest/6/0/7/message #457
 #. NPC birdquestInfo
@@ -3779,7 +3777,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/calzone-1.json+entities/28/settings/npcStates/1/event/quest/6/0/13/message+%23462
 msgctxt "data/maps/jungle-city/interior/calzone-1.json//entities/28/settings/npcStates/1/event/quest/6/0/13/message"
 msgid "Bye..."
-msgstr ""
+msgstr "Пока..."
 
 #. data/maps/jungle-city/interior/calzone-1.json entities/28/settings/npcStates/1/event/quest/6/1/0/message #440
 #. NPC birdquestInfo
@@ -3809,7 +3807,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/calzone-1.json+entities/28/settings/npcStates/1/event/quest/6/1/2/message+%23450
 msgctxt "data/maps/jungle-city/interior/calzone-1.json//entities/28/settings/npcStates/1/event/quest/6/1/2/message"
 msgid "... Bye."
-msgstr ""
+msgstr "...Пока."
 
 #. data/maps/jungle-city/interior/calzone-1.json entities/28/settings/npcStates/1/event/quest/6/options/0/label #289
 #. NPC birdquestInfo
@@ -3836,7 +3834,7 @@ msgstr "[Уйти]"
 #: data/maps/jungle-city/interior/calzone-1.json+entities/28/settings/npcStates/2/event/1/name+%23463
 msgctxt "data/maps/jungle-city/interior/calzone-1.json//entities/28/settings/npcStates/2/event/1/name"
 msgid "Fuzzy Duncan"
-msgstr ""
+msgstr "Фаззи Дункан"
 
 #. data/maps/jungle-city/interior/calzone-1.json entities/28/settings/npcStates/2/event/2/message #464
 #. NPC birdquestInfo
@@ -4843,7 +4841,6 @@ msgstr "Мадаки"
 #. IF quest.jungleAdv-1-turret_defense_1.task.4
 #. SHOW_MSG adventurers-jungle.leader-female @DEFAULT
 #: data/maps/jungle-city/interior/faction-adv-1.json+entities/67/settings/npcStates/3/event/quest/26/message+%23497
-#, fuzzy
 msgctxt "data/maps/jungle-city/interior/faction-adv-1.json//entities/67/settings/npcStates/3/event/quest/26/message"
 msgid "Great!\\. I will send a request over the Seeker Hub once we're ready."
 msgstr "Замечательно!\\. Я отправлю запрос через центр Искателей, как только мы будем готовы."
@@ -5219,7 +5216,7 @@ msgstr "Пока!"
 #: data/maps/jungle-city/interior/faction-adv-1.json+entities/67/settings/npcStates/8/event/quest/1/name+%23543
 msgctxt "data/maps/jungle-city/interior/faction-adv-1.json//entities/67/settings/npcStates/8/event/quest/1/name"
 msgid "Madaki"
-msgstr ""
+msgstr "Мадаки"
 
 #. data/maps/jungle-city/interior/faction-adv-1.json entities/67/settings/npcStates/8/event/quest/2/message #544
 #. NPC faction-leader
@@ -5228,7 +5225,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-adv-1.json+entities/67/settings/npcStates/8/event/quest/2/message+%23544
 msgctxt "data/maps/jungle-city/interior/faction-adv-1.json//entities/67/settings/npcStates/8/event/quest/2/message"
 msgid "Ah, \\v[lore.title.seeker], nice seeing you again.\\. Still interested in our temple excavation, I assume?"
-msgstr ""
+msgstr "Ах, Искатель, приятно видеть тебя снова.\\. По-прежнему заинтересована в наших храмовых раскопках, я полагаю?"
 
 #. data/maps/jungle-city/interior/faction-adv-1.json entities/67/settings/npcStates/8/event/quest/3/message #545
 #. NPC faction-leader
@@ -5237,7 +5234,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-adv-1.json+entities/67/settings/npcStates/8/event/quest/3/message+%23545
 msgctxt "data/maps/jungle-city/interior/faction-adv-1.json//entities/67/settings/npcStates/8/event/quest/3/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/jungle-city/interior/faction-adv-1.json entities/67/settings/npcStates/8/event/quest/4/message #546
 #. NPC faction-leader
@@ -5246,7 +5243,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-adv-1.json+entities/67/settings/npcStates/8/event/quest/4/message+%23546
 msgctxt "data/maps/jungle-city/interior/faction-adv-1.json//entities/67/settings/npcStates/8/event/quest/4/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[кивает]"
 
 #. data/maps/jungle-city/interior/faction-adv-1.json entities/67/settings/npcStates/8/event/quest/5/message #548
 #. NPC faction-leader
@@ -5255,7 +5252,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-adv-1.json+entities/67/settings/npcStates/8/event/quest/5/message+%23548
 msgctxt "data/maps/jungle-city/interior/faction-adv-1.json//entities/67/settings/npcStates/8/event/quest/5/message"
 msgid "...!"
-msgstr ""
+msgstr "...!"
 
 #. data/maps/jungle-city/interior/faction-adv-1.json entities/67/settings/npcStates/8/event/quest/6/accepted/0/message #551
 #. NPC faction-leader
@@ -5265,7 +5262,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-adv-1.json+entities/67/settings/npcStates/8/event/quest/6/accepted/0/message+%23551
 msgctxt "data/maps/jungle-city/interior/faction-adv-1.json//entities/67/settings/npcStates/8/event/quest/6/accepted/0/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[кивает]"
 
 #. data/maps/jungle-city/interior/faction-adv-1.json entities/67/settings/npcStates/8/event/quest/6/accepted/1/message #552
 #. NPC faction-leader
@@ -5275,7 +5272,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-adv-1.json+entities/67/settings/npcStates/8/event/quest/6/accepted/1/message+%23552
 msgctxt "data/maps/jungle-city/interior/faction-adv-1.json//entities/67/settings/npcStates/8/event/quest/6/accepted/1/message"
 msgid "Alright, reliable as before I see.\\. Let's hope that's also true for that tech you will be using again."
-msgstr ""
+msgstr "Хорошо, как всегда надёжна.\\. Будем надеяться, что это можно будет сказать и про ту технологию, которую ты будешь использовать снова."
 
 #. data/maps/jungle-city/interior/faction-adv-1.json entities/67/settings/npcStates/8/event/quest/6/accepted/2/message #553
 #. NPC faction-leader
@@ -5285,7 +5282,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-adv-1.json+entities/67/settings/npcStates/8/event/quest/6/accepted/2/message+%23553
 msgctxt "data/maps/jungle-city/interior/faction-adv-1.json//entities/67/settings/npcStates/8/event/quest/6/accepted/2/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/jungle-city/interior/faction-adv-1.json entities/67/settings/npcStates/8/event/quest/6/accepted/3/message #555
 #. NPC faction-leader
@@ -5295,7 +5292,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-adv-1.json+entities/67/settings/npcStates/8/event/quest/6/accepted/3/message+%23555
 msgctxt "data/maps/jungle-city/interior/faction-adv-1.json//entities/67/settings/npcStates/8/event/quest/6/accepted/3/message"
 msgid "...!"
-msgstr ""
+msgstr "...!"
 
 #. data/maps/jungle-city/interior/faction-adv-1.json entities/67/settings/npcStates/8/event/quest/6/accepted/4/message #556
 #. NPC faction-leader
@@ -5305,7 +5302,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-adv-1.json+entities/67/settings/npcStates/8/event/quest/6/accepted/4/message+%23556
 msgctxt "data/maps/jungle-city/interior/faction-adv-1.json//entities/67/settings/npcStates/8/event/quest/6/accepted/4/message"
 msgid "Go back to that \\c[3]Grubby Cave\\c[0] on \\c[3]Calm Backyard\\c[0] and go through that door inside."
-msgstr ""
+msgstr "Вернись в \\c[3]Грязную пещеру\\c[0] на \\c[3]Спокойных задворках\\c[0] и войди в дверь внутри пещеры."
 
 #. data/maps/jungle-city/interior/faction-adv-1.json entities/67/settings/npcStates/8/event/quest/6/accepted/5/message #558
 #. NPC faction-leader
@@ -5315,7 +5312,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-adv-1.json+entities/67/settings/npcStates/8/event/quest/6/accepted/5/message+%23558
 msgctxt "data/maps/jungle-city/interior/faction-adv-1.json//entities/67/settings/npcStates/8/event/quest/6/accepted/5/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[кивает]"
 
 #. data/maps/jungle-city/interior/faction-adv-1.json entities/67/settings/npcStates/8/event/quest/6/accepted/6/message #559
 #. NPC faction-leader
@@ -5325,7 +5322,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-adv-1.json+entities/67/settings/npcStates/8/event/quest/6/accepted/6/message+%23559
 msgctxt "data/maps/jungle-city/interior/faction-adv-1.json//entities/67/settings/npcStates/8/event/quest/6/accepted/6/message"
 msgid "Bye!"
-msgstr ""
+msgstr "Пока!"
 
 #. data/maps/jungle-city/interior/faction-adv-1.json entities/67/settings/npcStates/8/event/quest/6/accepted/7/message #560
 #. NPC faction-leader
@@ -5335,7 +5332,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-adv-1.json+entities/67/settings/npcStates/8/event/quest/6/accepted/7/message+%23560
 msgctxt "data/maps/jungle-city/interior/faction-adv-1.json//entities/67/settings/npcStates/8/event/quest/6/accepted/7/message"
 msgid "Yeah, goodbye.\\. And good luck!"
-msgstr ""
+msgstr "Ага, до свидания.\\. И удачи!"
 
 #. data/maps/jungle-city/interior/faction-adv-1.json entities/67/settings/npcStates/8/event/quest/6/declined/0/message #561
 #. NPC faction-leader
@@ -5345,7 +5342,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-adv-1.json+entities/67/settings/npcStates/8/event/quest/6/declined/0/message+%23561
 msgctxt "data/maps/jungle-city/interior/faction-adv-1.json//entities/67/settings/npcStates/8/event/quest/6/declined/0/message"
 msgid "[shakes head]"
-msgstr ""
+msgstr "[мотает головой]"
 
 #. data/maps/jungle-city/interior/faction-adv-1.json entities/67/settings/npcStates/8/event/quest/6/declined/1/message #562
 #. NPC faction-leader
@@ -5355,7 +5352,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-adv-1.json+entities/67/settings/npcStates/8/event/quest/6/declined/1/message+%23562
 msgctxt "data/maps/jungle-city/interior/faction-adv-1.json//entities/67/settings/npcStates/8/event/quest/6/declined/1/message"
 msgid "Dang, you must really be busy.\\. Hope you can find some time for us in the near future."
-msgstr ""
+msgstr "Чёрт, ты, должно быть, очень занята.\\. Надеюсь, ты сможешь найти время для нас в ближайшем будущем."
 
 #. data/maps/jungle-city/interior/faction-adv-1.json entities/67/settings/npcStates/8/event/quest/6/declined/2/message #563
 #. NPC faction-leader
@@ -5365,7 +5362,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-adv-1.json+entities/67/settings/npcStates/8/event/quest/6/declined/2/message+%23563
 msgctxt "data/maps/jungle-city/interior/faction-adv-1.json//entities/67/settings/npcStates/8/event/quest/6/declined/2/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/jungle-city/interior/faction-adv-1.json entities/67/settings/npcStates/9/event/1/name #564
 #. NPC faction-leader
@@ -5374,7 +5371,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-adv-1.json+entities/67/settings/npcStates/9/event/1/name+%23564
 msgctxt "data/maps/jungle-city/interior/faction-adv-1.json//entities/67/settings/npcStates/9/event/1/name"
 msgid "Madaki"
-msgstr ""
+msgstr "Мадаки"
 
 #. data/maps/jungle-city/interior/faction-adv-1.json entities/67/settings/npcStates/9/event/2/message #565
 #. NPC faction-leader
@@ -5383,7 +5380,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-adv-1.json+entities/67/settings/npcStates/9/event/2/message+%23565
 msgctxt "data/maps/jungle-city/interior/faction-adv-1.json//entities/67/settings/npcStates/9/event/2/message"
 msgid "The temple is behind that door in the \\c[3]Grubby Cave\\c[0] you visited last time."
-msgstr ""
+msgstr "Храм находится за той дверью в \\c[3]Грязной пещере\\c[0], в которой ты была в прошлый раз."
 
 #. data/maps/jungle-city/interior/faction-adv-1.json entities/67/settings/npcStates/9/event/3/message #566
 #. NPC faction-leader
@@ -5392,7 +5389,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-adv-1.json+entities/67/settings/npcStates/9/event/3/message+%23566
 msgctxt "data/maps/jungle-city/interior/faction-adv-1.json//entities/67/settings/npcStates/9/event/3/message"
 msgid "You can enter that cave from the \\c[3]Calm Backyard\\c[0] in \\c[3]\\v[area.jungle.name]\\c[0]."
-msgstr ""
+msgstr "Ты можешь войти в эту пещеру на \\c[3]Спокойных задворках\\c[0] в \\c[3]Саду Гайи\\c[0]."
 
 #. data/maps/jungle-city/interior/faction-adv-1.json entities/67/settings/npcStates/10/event/quest/1/name #567
 #. NPC faction-leader
@@ -5401,7 +5398,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-adv-1.json+entities/67/settings/npcStates/10/event/quest/1/name+%23567
 msgctxt "data/maps/jungle-city/interior/faction-adv-1.json//entities/67/settings/npcStates/10/event/quest/1/name"
 msgid "Madaki"
-msgstr ""
+msgstr "Мадаки"
 
 #. data/maps/jungle-city/interior/faction-adv-1.json entities/67/settings/npcStates/10/event/quest/2/message #568
 #. NPC faction-leader
@@ -5410,7 +5407,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-adv-1.json+entities/67/settings/npcStates/10/event/quest/2/message+%23568
 msgctxt "data/maps/jungle-city/interior/faction-adv-1.json//entities/67/settings/npcStates/10/event/quest/2/message"
 msgid "Hi!"
-msgstr ""
+msgstr "Привет!"
 
 #. data/maps/jungle-city/interior/faction-adv-1.json entities/67/settings/npcStates/10/event/quest/3/message #569
 #. NPC faction-leader
@@ -5419,7 +5416,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-adv-1.json+entities/67/settings/npcStates/10/event/quest/3/message+%23569
 msgctxt "data/maps/jungle-city/interior/faction-adv-1.json//entities/67/settings/npcStates/10/event/quest/3/message"
 msgid "Oh, hey!\\. The \\v[lore.title.seeker] makes her heroic return after once again taming the wild!"
-msgstr ""
+msgstr "О, хей!\\. Искатель героически возвращается после очередного укрощения дикой природы!"
 
 #. data/maps/jungle-city/interior/faction-adv-1.json entities/67/settings/npcStates/10/event/quest/4/message #570
 #. NPC faction-leader
@@ -5428,7 +5425,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-adv-1.json+entities/67/settings/npcStates/10/event/quest/4/message+%23570
 msgctxt "data/maps/jungle-city/interior/faction-adv-1.json//entities/67/settings/npcStates/10/event/quest/4/message"
 msgid "...!"
-msgstr ""
+msgstr "...!"
 
 #. data/maps/jungle-city/interior/faction-adv-1.json entities/67/settings/npcStates/10/event/quest/5/message #573
 #. NPC faction-leader
@@ -5437,7 +5434,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-adv-1.json+entities/67/settings/npcStates/10/event/quest/5/message+%23573
 msgctxt "data/maps/jungle-city/interior/faction-adv-1.json//entities/67/settings/npcStates/10/event/quest/5/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[кивает]"
 
 #. data/maps/jungle-city/interior/faction-adv-1.json entities/67/settings/npcStates/10/event/quest/6/message #575
 #. NPC faction-leader
@@ -5446,7 +5443,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-adv-1.json+entities/67/settings/npcStates/10/event/quest/6/message+%23575
 msgctxt "data/maps/jungle-city/interior/faction-adv-1.json//entities/67/settings/npcStates/10/event/quest/6/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[кивает]"
 
 #. data/maps/jungle-city/interior/faction-adv-1.json entities/67/settings/npcStates/10/event/quest/7/message #577
 #. NPC faction-leader
@@ -5455,7 +5452,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-adv-1.json+entities/67/settings/npcStates/10/event/quest/7/message+%23577
 msgctxt "data/maps/jungle-city/interior/faction-adv-1.json//entities/67/settings/npcStates/10/event/quest/7/message"
 msgid "Bye!"
-msgstr ""
+msgstr "Пока!"
 
 #. data/maps/jungle-city/interior/faction-adv-1.json entities/67/settings/npcStates/11/event/1/name #523
 #. NPC faction-leader
@@ -5471,10 +5468,9 @@ msgstr "Мадаки"
 #. IF quest.jungleAdv-3-turret_defense_3.solved
 #. SHOW_MSG adventurers-jungle.leader-female @DEFAULT
 #: data/maps/jungle-city/interior/faction-adv-1.json+entities/67/settings/npcStates/11/event/2/message+%23524
-#, fuzzy
 msgctxt "data/maps/jungle-city/interior/faction-adv-1.json//entities/67/settings/npcStates/11/event/2/message"
 msgid "Heya, \\v[lore.title.seeker].\\. We got nothing for you to do right now.\\. Nice to see you, though!"
-msgstr "Хейя, Искатель.\\. У нас ничего нет для тебя прямо сейчас.\\. Но всё равно рада тебя видеть!"
+msgstr ""
 
 #. data/maps/jungle-city/interior/faction-adv-1.json entities/89/settings/teleportLabel #12
 #. TeleportField td_cave-1 SPAWN IF tmp.td-teleporter || quest.jungleAdv-1-turret_defense_1.solved
@@ -5637,7 +5633,6 @@ msgstr "[кивает]"
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG greenies-jungle.male-leader-black @DEFAULT
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/1/event/quest/12/accepted/1/message+%23551
-#, fuzzy
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/1/event/quest/12/accepted/1/message"
 msgid "Wonderful!\\. The investigation is long overdue because of the dangerous location."
 msgstr "Замечательно!\\. Исследование уже давно откладывалось из-за опасности местности."
@@ -6329,7 +6324,7 @@ msgstr "Пока!"
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/10/event/quest/0/name+%23305
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/10/event/quest/0/name"
 msgid "Claude Reynes"
-msgstr ""
+msgstr "Клод Рэйнс"
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/10/event/quest/2/message #398
 #. NPC leader-greenie
@@ -6338,7 +6333,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/10/event/quest/2/message+%23398
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/10/event/quest/2/message"
 msgid "Hi!"
-msgstr ""
+msgstr "Привет!"
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/10/event/quest/3/message #433
 #. NPC leader-greenie
@@ -6347,7 +6342,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/10/event/quest/3/message+%23433
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/10/event/quest/3/message"
 msgid "\\v[lore.title.seeker], great to see you again.\\. You worked up a fine, respectable reputation here and everywhere."
-msgstr ""
+msgstr "Искатель, здорово увидеть тебя снова.\\. Ты заработала хорошую, достойную репутацию здесь и везде."
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/10/event/quest/4/message #434
 #. NPC leader-greenie
@@ -6356,7 +6351,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/10/event/quest/4/message+%23434
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/10/event/quest/4/message"
 msgid "Lea..."
-msgstr ""
+msgstr "Лея..."
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/10/event/quest/5/message #662
 #. NPC leader-greenie
@@ -6365,7 +6360,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/10/event/quest/5/message+%23662
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/10/event/quest/5/message"
 msgid "Having you back could really ease our nerves here.\\. Some trouble has been rekindling in the underbrush."
-msgstr ""
+msgstr "Если ты вернёшься, это действительно поможет нам расслабиться.\\. В кустах разгораются неприятности."
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/10/event/quest/6/message #664
 #. NPC leader-greenie
@@ -6374,7 +6369,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/10/event/quest/6/message+%23664
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/10/event/quest/6/message"
 msgid "... How?"
-msgstr ""
+msgstr "...Как?"
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/10/event/quest/7/message #663
 #. NPC leader-greenie
@@ -6383,7 +6378,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/10/event/quest/7/message+%23663
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/10/event/quest/7/message"
 msgid "Yes, \\v[lore.title.seeker].\\. The corruption you uprooted has returned and now it's even come right to our doorstep."
-msgstr ""
+msgstr "Да, Искатель.\\. Порча, которую ты искоренила, вернулась, и теперь она даже дошла до нашего порога."
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/10/event/quest/8/message #402
 #. NPC leader-greenie
@@ -6392,7 +6387,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/10/event/quest/8/message+%23402
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/10/event/quest/8/message"
 msgid "...!"
-msgstr ""
+msgstr "...!"
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/10/event/quest/9/message #665
 #. NPC leader-greenie
@@ -6401,7 +6396,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/10/event/quest/9/message+%23665
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/10/event/quest/9/message"
 msgid "Will you lend us your aid again, so we can bring back peace and balance once and for all?"
-msgstr ""
+msgstr "Ты сможешь снова оказать нам помощь, чтобы мы раз и навсегда вернули мир и равновесие?"
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/10/event/quest/10/accepted/0/message #406
 #. NPC leader-greenie
@@ -6411,7 +6406,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/10/event/quest/10/accepted/0/message+%23406
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/10/event/quest/10/accepted/0/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[кивает]"
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/10/event/quest/10/accepted/1/message #667
 #. NPC leader-greenie
@@ -6421,7 +6416,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/10/event/quest/10/accepted/1/message+%23667
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/10/event/quest/10/accepted/1/message"
 msgid "Excellent!\\. I knew we could count on your assistance."
-msgstr ""
+msgstr "Отлично!\\. Я знал, что мы можем рассчитывать на твою помощь."
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/10/event/quest/10/accepted/2/message #408
 #. NPC leader-greenie
@@ -6431,7 +6426,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/10/event/quest/10/accepted/2/message+%23408
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/10/event/quest/10/accepted/2/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/10/event/quest/10/accepted/3/message #668
 #. NPC leader-greenie
@@ -6441,7 +6436,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/10/event/quest/10/accepted/3/message+%23668
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/10/event/quest/10/accepted/3/message"
 msgid "We were notified of troubling incidents that gave off a similar energy reading as those corrupted plants you pacified."
-msgstr ""
+msgstr "Мы были уведомлены о тревожных инцидентах, которые источали похожую энергию, как и те испорченные растения, которых ты усмирила."
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/10/event/quest/10/accepted/4/message #669
 #. NPC leader-greenie
@@ -6451,7 +6446,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/10/event/quest/10/accepted/4/message+%23669
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/10/event/quest/10/accepted/4/message"
 msgid "But this time the attacks targetted people as close as the \\c[3]City Entrance\\c[0]!"
-msgstr ""
+msgstr "Но на этот раз нападения были нацелены на людей близко у \\c[3]входа к городу\\c[0]!"
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/10/event/quest/10/accepted/5/message #440
 #. NPC leader-greenie
@@ -6461,7 +6456,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/10/event/quest/10/accepted/5/message+%23440
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/10/event/quest/10/accepted/5/message"
 msgid "...!\\. How?"
-msgstr ""
+msgstr "...!\\. Как?"
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/10/event/quest/10/accepted/6/message #670
 #. NPC leader-greenie
@@ -6471,7 +6466,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/10/event/quest/10/accepted/6/message+%23670
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/10/event/quest/10/accepted/6/message"
 msgid "That is for you to find out, \\v[lore.title.seeker]!\\. Search for anomalies right at the entrance and try to cleanse them."
-msgstr ""
+msgstr "А это уже, должен найти ты, Искатель!\\. Ищи аномалии прямо у входа и попытайся её очистить."
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/10/event/quest/10/accepted/7/message #411
 #. NPC leader-greenie
@@ -6481,7 +6476,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/10/event/quest/10/accepted/7/message+%23411
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/10/event/quest/10/accepted/7/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[кивает]"
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/10/event/quest/10/accepted/8/message #413
 #. NPC leader-greenie
@@ -6491,7 +6486,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/10/event/quest/10/accepted/8/message+%23413
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/10/event/quest/10/accepted/8/message"
 msgid "Bye."
-msgstr ""
+msgstr "Пока."
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/10/event/quest/10/declined/0/message #414
 #. NPC leader-greenie
@@ -6501,7 +6496,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/10/event/quest/10/declined/0/message+%23414
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/10/event/quest/10/declined/0/message"
 msgid "[shakes head]"
-msgstr ""
+msgstr "[мотает головой]"
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/10/event/quest/10/declined/1/message #666
 #. NPC leader-greenie
@@ -6511,7 +6506,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/10/event/quest/10/declined/1/message+%23666
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/10/event/quest/10/declined/1/message"
 msgid "\\v[lore.title.seeker], please.\\. This is a matter of critical importance.\\. It might even threaten the entire city!"
-msgstr ""
+msgstr "Искатель, пожалуйста.\\. Это вопрос чрезвычайной важности.\\. От него зависит угроза всему городу!"
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/10/event/quest/10/declined/2/message #416
 #. NPC leader-greenie
@@ -6521,7 +6516,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/10/event/quest/10/declined/2/message+%23416
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/10/event/quest/10/declined/2/message"
 msgid ".\\..\\.."
-msgstr ""
+msgstr ".\\..\\.."
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/11/event/0/name #633
 #. NPC leader-greenie
@@ -6530,7 +6525,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/11/event/0/name+%23633
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/11/event/0/name"
 msgid "Claude Reynes"
-msgstr ""
+msgstr "Клод Рэйнс"
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/11/event/2/message #634
 #. NPC leader-greenie
@@ -6539,7 +6534,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/11/event/2/message+%23634
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/11/event/2/message"
 msgid "Investigate the \\c[3]outside entrance of the city\\c[0] and look for anything that could cause the disturbance."
-msgstr ""
+msgstr "Исследуй \\c[3]вход перед городом\\c[0] и найди всё, что может вызвать беспокойство."
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/12/event/0/name #645
 #. NPC leader-greenie
@@ -6548,7 +6543,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/12/event/0/name+%23645
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/12/event/0/name"
 msgid "Claude Reynes"
-msgstr ""
+msgstr "Клод Рэйнс"
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/12/event/2/message #646
 #. NPC leader-greenie
@@ -6557,7 +6552,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/12/event/2/message+%23646
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/12/event/2/message"
 msgid "Go meet \\c[3]Linde\\c[0] on the \\c[3]Isle of Legend\\c[0] in \\c[3]\\v[area.beach.name]\\c[0] and help her extract it!"
-msgstr ""
+msgstr "Встреться с \\c[3]Линдэ\\c[0] на \\c[3]Острове легенд\\c[0] на \\c[3]Лазурном архипелаге\\c[0] и помогите её извлечь!"
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/13/event/quest/0/name #636
 #. NPC leader-greenie
@@ -6566,7 +6561,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/13/event/quest/0/name+%23636
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/13/event/quest/0/name"
 msgid "Claude Reynes"
-msgstr ""
+msgstr "Клод Рэйнс"
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/13/event/quest/2/message #637
 #. NPC leader-greenie
@@ -6575,7 +6570,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/13/event/quest/2/message+%23637
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/13/event/quest/2/message"
 msgid "Hi!"
-msgstr ""
+msgstr "Привет!"
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/13/event/quest/3/message #638
 #. NPC leader-greenie
@@ -6584,7 +6579,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/13/event/quest/3/message+%23638
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/13/event/quest/3/message"
 msgid "\\v[lore.title.seeker], good to see you! The salt has been delivered and prepared!"
-msgstr ""
+msgstr "Искатель, рад тебя видеть! Соль была доставлена и подготовлена!"
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/13/event/quest/4/message #659
 #. NPC leader-greenie
@@ -6593,7 +6588,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/13/event/quest/4/message+%23659
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/13/event/quest/4/message"
 msgid "Hi!"
-msgstr ""
+msgstr "Привет!"
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/13/event/quest/5/message #640
 #. NPC leader-greenie
@@ -6602,7 +6597,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/13/event/quest/5/message+%23640
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/13/event/quest/5/message"
 msgid "Fascinating how much power is stored in this substance..\\. This should even cleanse that toxic spirit."
-msgstr ""
+msgstr "Поразительно, сколько энергии хранится в этой субстанции..\\. Это должно даже очистить этот токсический дух."
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/13/event/quest/6/message #658
 #. NPC leader-greenie
@@ -6611,7 +6606,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/13/event/quest/6/message+%23658
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/13/event/quest/6/message"
 msgid "...!"
-msgstr ""
+msgstr "...!"
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/13/event/quest/7/message #643
 #. NPC leader-greenie
@@ -6620,7 +6615,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/13/event/quest/7/message+%23643
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/13/event/quest/7/message"
 msgid "However, your support is still needed, \\v[lore.title.seeker]."
-msgstr ""
+msgstr "Однако, твоя помощь всё ещё нужна, Искатель."
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/13/event/quest/8/message #660
 #. NPC leader-greenie
@@ -6629,7 +6624,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/13/event/quest/8/message+%23660
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/13/event/quest/8/message"
 msgid "Meet up with Linde at the entrance of the city.\\. She will cleanse the ghost while you protect her."
-msgstr ""
+msgstr "Встреться с Линдэ у входа в город.\\. Она будет очищать призрака, пока ты будешь защищать её."
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/13/event/quest/9/message #639
 #. NPC leader-greenie
@@ -6638,7 +6633,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/13/event/quest/9/message+%23639
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/13/event/quest/9/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[кивает]"
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/13/event/quest/10/message #641
 #. NPC leader-greenie
@@ -6647,7 +6642,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/13/event/quest/10/message+%23641
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/13/event/quest/10/message"
 msgid "Meet!"
-msgstr ""
+msgstr "Встреча!"
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/13/event/quest/11/message #661
 #. NPC leader-greenie
@@ -6656,7 +6651,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/13/event/quest/11/message+%23661
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/13/event/quest/11/message"
 msgid "Indeed, together with her you will bring back peace to this city.\\. We are counting on you."
-msgstr ""
+msgstr "В самом деле, вместе с ней вы вернете мир в этот город.\\. Мы на тебя рассчитываем."
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/13/event/quest/12/message #644
 #. NPC leader-greenie
@@ -6665,7 +6660,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/13/event/quest/12/message+%23644
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/13/event/quest/12/message"
 msgid "Bye!"
-msgstr ""
+msgstr "Пока!"
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/14/event/0/name #647
 #. NPC leader-greenie
@@ -6674,7 +6669,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/14/event/0/name+%23647
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/14/event/0/name"
 msgid "Claude Reynes"
-msgstr ""
+msgstr "Клод Рэйнс"
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/14/event/2/message #648
 #. NPC leader-greenie
@@ -6683,7 +6678,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/14/event/2/message+%23648
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/14/event/2/message"
 msgid "Go meet \\c[3]Linde\\c[0] at the \\c[3]city entrance\\c[0]. Together you must lay the toxic spirit to rest!"
-msgstr ""
+msgstr "Встреться с \\c[3]Линдэ\\c[0] у \\c[3]входа в город\\c[0]. Вместе вы должны успокоить токсичного призрака!"
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/15/event/quest/0/name #649
 #. NPC leader-greenie
@@ -6692,7 +6687,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/15/event/quest/0/name+%23649
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/15/event/quest/0/name"
 msgid "Claude Reynes"
-msgstr ""
+msgstr "Клод Рэйнс"
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/15/event/quest/2/message #650
 #. NPC leader-greenie
@@ -6701,7 +6696,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/15/event/quest/2/message+%23650
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/15/event/quest/2/message"
 msgid "Hi!"
-msgstr ""
+msgstr "Привет!"
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/15/event/quest/3/message #651
 #. NPC leader-greenie
@@ -6710,7 +6705,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/15/event/quest/3/message+%23651
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/15/event/quest/3/message"
 msgid "Hey, \\v[lore.title.seeker]!\\. There's our savior, returning from her legendary deed!"
-msgstr ""
+msgstr "Эй, Искатель!\\. Вот наш спаситель, возвращается со своего легендарного подвига!"
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/15/event/quest/4/message #654
 #. NPC leader-greenie
@@ -6719,7 +6714,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/15/event/quest/4/message+%23654
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/15/event/quest/4/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/15/event/quest/5/message #671
 #. NPC leader-greenie
@@ -6728,7 +6723,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/15/event/quest/5/message+%23671
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/15/event/quest/5/message"
 msgid "There is no need for this humble silence, \\v[lore.title.seeker].\\. You have truly done great."
-msgstr ""
+msgstr "Нет нужды в этом скромном молчании, Искатель.\\. Ты действительно отлично справилась."
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/15/event/quest/6/message #672
 #. NPC leader-greenie
@@ -6737,7 +6732,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/15/event/quest/6/message+%23672
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/15/event/quest/6/message"
 msgid "Lea."
-msgstr ""
+msgstr "Лея."
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/15/event/quest/7/message #673
 #. NPC leader-greenie
@@ -6746,7 +6741,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/15/event/quest/7/message+%23673
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/15/event/quest/7/message"
 msgid "There is no telling what would have happened later, if no one took care of this infective unrest."
-msgstr ""
+msgstr "Никто не знает, что случилось бы позже, если бы никто не позаботился об этих заразных беспорядках."
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/15/event/quest/8/message #652
 #. NPC leader-greenie
@@ -6755,7 +6750,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/15/event/quest/8/message+%23652
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/15/event/quest/8/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[кивает]"
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/15/event/quest/9/message #674
 #. NPC leader-greenie
@@ -6764,7 +6759,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/15/event/quest/9/message+%23674
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/15/event/quest/9/message"
 msgid "Now it is up to us citizens to prevent something of this kind from ever happening again.\\. By leading healthier, less wasteful lives."
-msgstr ""
+msgstr "Теперь дело за нами, гражданами - не допустить повторения чего-то подобного.\\. Ведя более здоровый и менее расточительный образ жизни."
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/15/event/quest/10/message #675
 #. NPC leader-greenie
@@ -6773,7 +6768,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/15/event/quest/10/message+%23675
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/15/event/quest/10/message"
 msgid "I am sure even the mayor will agree.\\. He is a pragmatic man, who would not want such a catastrophe to repeat."
-msgstr ""
+msgstr "Я уверен, что даже мэр согласится.\\. Он прагматичный человек, который не хотел бы повторения такой катастрофы."
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/15/event/quest/11/message #676
 #. NPC leader-greenie
@@ -6782,7 +6777,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/15/event/quest/11/message+%23676
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/15/event/quest/11/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[кивает]"
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/15/event/quest/12/message #677
 #. NPC leader-greenie
@@ -6791,7 +6786,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/15/event/quest/12/message+%23677
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/15/event/quest/12/message"
 msgid "\\v[lore.title.seeker], you have my thanks.\\. Please always consider yourself a friend of this city.\\. Take care!"
-msgstr ""
+msgstr "Искатель, я благодарен тебе.\\. Пожалуйста, всегда считай себя другом этого города.\\. Береги себя!"
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/15/event/quest/13/message #657
 #. NPC leader-greenie
@@ -6800,7 +6795,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/15/event/quest/13/message+%23657
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/15/event/quest/13/message"
 msgid "Bye!"
-msgstr ""
+msgstr "Пока!"
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/16/event/0/name #594
 #. NPC leader-greenie
@@ -6926,10 +6921,9 @@ msgstr "[мотает головой]"
 #. IF !quest.jungleGuard-1-hostage_1.started
 #. SHOW_MSG guards.captain-male-normal-darkhair @DEFAULT
 #: data/maps/jungle-city/interior/faction-guard-1.json+entities/44/settings/npcStates/1/event/quest/6/message+%23514
-#, fuzzy
 msgctxt "data/maps/jungle-city/interior/faction-guard-1.json//entities/44/settings/npcStates/1/event/quest/6/message"
 msgid "Good, because that's already being eaten by this damn city.\\. Don't need no smartass adventurers pitching in."
-msgstr "Хорошо, потому что оно уже съедено этим чёртовым городом.\\. Не нужно никаких умных авантюристов, делающих то же самое."
+msgstr "Хорошо, потому что оно уже съедено этим чёртовым городом.\\. Не нужно тут никаких умников, помогающих ему с этим."
 
 #. data/maps/jungle-city/interior/faction-guard-1.json entities/44/settings/npcStates/1/event/quest/7/message #515
 #. NPC leader-bronzel
@@ -6996,10 +6990,9 @@ msgstr "...!"
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-male-normal-darkhair @DEFAULT
 #: data/maps/jungle-city/interior/faction-guard-1.json+entities/44/settings/npcStates/1/event/quest/8/accepted/5/message+%23521
-#, fuzzy
 msgctxt "data/maps/jungle-city/interior/faction-guard-1.json//entities/44/settings/npcStates/1/event/quest/8/accepted/5/message"
 msgid "Yes, it's a mess.\\. And we still don't know their demands or exact numbers."
-msgstr "Да, это беспорядок.\\. И мы до сих пор не знаем их требования и точные цифры."
+msgstr "Да, это беспорядок.\\. И мы до сих пор не знаем их требования или точные цифры."
 
 #. data/maps/jungle-city/interior/faction-guard-1.json entities/44/settings/npcStates/1/event/quest/8/accepted/6/message #522
 #. NPC leader-bronzel
@@ -7681,7 +7674,7 @@ msgstr "Ну, тут ничего не поделать.\\. Попуганза �
 #: data/maps/jungle-city/interior/faction-guard-1.json+entities/44/settings/npcStates/9/event/quest/8/message+%23607
 msgctxt "data/maps/jungle-city/interior/faction-guard-1.json//entities/44/settings/npcStates/9/event/quest/8/message"
 msgid "... Meet.\\. Sorry.\\. How!"
-msgstr ""
+msgstr "... Встреча.\\. Прости.\\. Как!"
 
 #. data/maps/jungle-city/interior/faction-guard-1.json entities/44/settings/npcStates/9/event/quest/9/message #637
 #. NPC leader-bronzel
@@ -7756,7 +7749,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-guard-1.json+entities/44/settings/npcStates/9/event/quest/15/accepted/2/message+%23642
 msgctxt "data/maps/jungle-city/interior/faction-guard-1.json//entities/44/settings/npcStates/9/event/quest/15/accepted/2/message"
 msgid "Where?"
-msgstr ""
+msgstr "Где?"
 
 #. data/maps/jungle-city/interior/faction-guard-1.json entities/44/settings/npcStates/9/event/quest/15/accepted/3/message #643
 #. NPC leader-bronzel
@@ -7784,10 +7777,9 @@ msgstr ""
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @NERVOUS
 #: data/maps/jungle-city/interior/faction-guard-1.json+entities/44/settings/npcStates/9/event/quest/15/accepted/5/message+%23645
-#, fuzzy
 msgctxt "data/maps/jungle-city/interior/faction-guard-1.json//entities/44/settings/npcStates/9/event/quest/15/accepted/5/message"
 msgid "How...?"
-msgstr "Как?"
+msgstr "Как...?"
 
 #. data/maps/jungle-city/interior/faction-guard-1.json entities/44/settings/npcStates/9/event/quest/15/accepted/6/message #614
 #. NPC leader-bronzel
@@ -7795,10 +7787,9 @@ msgstr "Как?"
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-male-normal-darkhair @DEFAULT
 #: data/maps/jungle-city/interior/faction-guard-1.json+entities/44/settings/npcStates/9/event/quest/15/accepted/6/message+%23614
-#, fuzzy
 msgctxt "data/maps/jungle-city/interior/faction-guard-1.json//entities/44/settings/npcStates/9/event/quest/15/accepted/6/message"
 msgid "Look, \\v[lore.title.seeker] I don't like this either.\\. But you better talk to \\c[3]someone living in that kind of environment\\c[0]."
-msgstr "(Поговорим насчёт квеста, Попуганза в городе с козлами), Искатель.\\"
+msgstr ""
 
 #. data/maps/jungle-city/interior/faction-guard-1.json entities/44/settings/npcStates/9/event/quest/15/accepted/7/message #646
 #. NPC leader-bronzel
@@ -7876,7 +7867,6 @@ msgstr "[мотает головой]"
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-male-normal-darkhair @DEFAULT
 #: data/maps/jungle-city/interior/faction-guard-1.json+entities/44/settings/npcStates/9/event/quest/15/declined/1/message+%23636
-#, fuzzy
 msgctxt "data/maps/jungle-city/interior/faction-guard-1.json//entities/44/settings/npcStates/9/event/quest/15/declined/1/message"
 msgid "Impossible!"
 msgstr "Невозможно!"
@@ -7961,7 +7951,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-guard-1.json+entities/44/settings/npcStates/11/event/quest/5/message+%23630
 msgctxt "data/maps/jungle-city/interior/faction-guard-1.json//entities/44/settings/npcStates/11/event/quest/5/message"
 msgid "... What. Meet. Lea. "
-msgstr ""
+msgstr "... Что. Встреча. Лея."
 
 #. data/maps/jungle-city/interior/faction-guard-1.json entities/44/settings/npcStates/11/event/quest/6/message #653
 #. NPC leader-bronzel
@@ -8004,10 +7994,9 @@ msgstr ""
 #. IF quest.jungleGuard-3-papagang_goats_1.task.4
 #. SHOW_MSG main.lea @SURPRISED
 #: data/maps/jungle-city/interior/faction-guard-1.json+entities/44/settings/npcStates/11/event/quest/10/message+%23656
-#, fuzzy
 msgctxt "data/maps/jungle-city/interior/faction-guard-1.json//entities/44/settings/npcStates/11/event/quest/10/message"
 msgid "Where?"
-msgstr "...Прости."
+msgstr "Где?"
 
 #. data/maps/jungle-city/interior/faction-guard-1.json entities/44/settings/npcStates/11/event/quest/11/message #657
 #. NPC leader-bronzel
@@ -8330,7 +8319,7 @@ msgstr "Миссис Басу"
 #: data/maps/jungle-city/interior/faction-traders-1.json+entities/21/settings/npcStates/12/event/2/message+%23724
 msgctxt "data/maps/jungle-city/interior/faction-traders-1.json//entities/21/settings/npcStates/12/event/2/message"
 msgid "Good day, \\v[lore.title.seeker].\\. There is no need for your help right now, but please enjoy your stay."
-msgstr ""
+msgstr "Добрый день, Искатель.\\. Нет необходимости в твоей помощи прямо сейчас, но, пожалуйста, будь как дома."
 
 #. data/maps/jungle-city/interior/faction-traders-1.json entities/23/settings/destinations/0/label #476
 #. Elevator elevator1
@@ -8468,7 +8457,7 @@ msgstr "Мистер Фриго"
 #: data/maps/jungle-city/interior/faction-traders-1.json+entities/61/settings/npcStates/10/event/2/message+%23661
 msgctxt "data/maps/jungle-city/interior/faction-traders-1.json//entities/61/settings/npcStates/10/event/2/message"
 msgid "Find out if we can market our devices to the Shad Village in the Southeast of \\v[area.jungle.name]."
-msgstr ""
+msgstr "Выясни, сможем ли мы продавать наши устройства деревне шадов, в юго-восточном Саду Гайи."
 
 #. data/maps/jungle-city/interior/faction-traders-1.json entities/61/settings/npcStates/12/event/1/name #725
 #. NPC fridgeMan
@@ -8698,10 +8687,9 @@ msgstr "...!"
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG business.leader-jungle @DEFAULT
 #: data/maps/jungle-city/interior/faction-traders-1.json+entities/62/settings/event/6/accepted/11/message+%23561
-#, fuzzy
 msgctxt "data/maps/jungle-city/interior/faction-traders-1.json//entities/62/settings/event/6/accepted/11/message"
 msgid "Indeed.\\. The investigating authorities lost the trail at \\c[3]Old Timber\\c[0] in eastern \\v[area.jungle.name]."
-msgstr "Действительно.\\. Когда власти проводили расследование, они потеряли след на \\c[3]Бывшей лесозаготовке\\c[0] в восточной части Сада Гайи."
+msgstr "Действительно.\\. Власти проводившие расследование потеряли след на \\c[3]Бывшей лесозаготовке\\c[0] в восточной части Сада Гайи."
 
 #. data/maps/jungle-city/interior/faction-traders-1.json entities/62/settings/event/6/accepted/12/message #571
 #. EventTrigger quest-talk-1-1 START IF tmp.quest-talk1-1 || tmp.quest-xeno1
@@ -9331,7 +9319,7 @@ msgstr "Привет."
 #: data/maps/jungle-city/interior/faction-traders-1.json+entities/84/settings/event/5/elseStep/3/message+%23672
 msgctxt "data/maps/jungle-city/interior/faction-traders-1.json//entities/84/settings/event/5/elseStep/3/message"
 msgid "Good day, \\v[lore.title.seeker].\\. It is good to see you again!"
-msgstr ""
+msgstr "Добрый день, \\v[lore.title.seeker].\\. Приятно видеть тебя снова!"
 
 #. data/maps/jungle-city/interior/faction-traders-1.json entities/84/settings/event/5/elseStep/4/message #706
 #. EventTrigger quest-talk-3-1 START IF tmp.quest-talk3-1 || tmp.quest-xeno3
@@ -9340,7 +9328,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/faction-traders-1.json+entities/84/settings/event/5/elseStep/4/message+%23706
 msgctxt "data/maps/jungle-city/interior/faction-traders-1.json//entities/84/settings/event/5/elseStep/4/message"
 msgid "Yes, indeed.\\. I just thought how nice it would be to employ someone as reliable as you again!"
-msgstr ""
+msgstr "Да, конечно.\\. Я просто подумал, как хорошо было бы нанять кого-то такого же надёжного, как ты, опять!"
 
 #. data/maps/jungle-city/interior/faction-traders-1.json entities/84/settings/event/5/elseStep/6/message #707
 #. EventTrigger quest-talk-3-1 START IF tmp.quest-talk3-1 || tmp.quest-xeno3
@@ -9509,10 +9497,9 @@ msgstr "Конечно. А поскольку у нашей организаци
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG business.leader-jungle @DEFAULT
 #: data/maps/jungle-city/interior/faction-traders-1.json+entities/84/settings/event/6/accepted/14/message+%23680
-#, fuzzy
 msgctxt "data/maps/jungle-city/interior/faction-traders-1.json//entities/84/settings/event/6/accepted/14/message"
 msgid "It would be best if you talked with a person of authority first.\\. I assume that it would be the \\c[3]village elder in Chief's Den\\c[0]."
-msgstr "Лучше всего тебе сначала поговорить с лицом у власти.\\. Полагаю, это \\c[3]старейшина в западном В'рда Виль\\c[0]."
+msgstr "Лучше всего тебе сначала поговорить с лицом у власти.\\. Полагаю, это \\c[3]старейшина в главном логове\\c[0]."
 
 #. data/maps/jungle-city/interior/faction-traders-1.json entities/84/settings/event/6/accepted/15/message #687
 #. EventTrigger quest-talk-3-1 START IF tmp.quest-talk3-1 || tmp.quest-xeno3
@@ -9628,7 +9615,6 @@ msgstr "Но, сэр, вы же не собираетесь продать эт�
 #. EventTrigger quest-talk-3-2 START IF tmp.quest-talk3-2
 #. SHOW_MSG business.fridgeguy-male-old-white @DEFAULT
 #: data/maps/jungle-city/interior/faction-traders-1.json+entities/85/settings/event/13/message+%23719
-#, fuzzy
 msgctxt "data/maps/jungle-city/interior/faction-traders-1.json//entities/85/settings/event/13/message"
 msgid "Well, of course not!\\. Frigo kitchen tools are always useful, I can assure you that!\\. My name's on them after all!"
 msgstr "Ну конечно нет!\\. Кухонные приборы Фриго всегда нужны, я это гарантирую!\\. На них всё-таки моё имя!"
@@ -11734,7 +11720,6 @@ msgstr "Заложник"
 #. EventTrigger firstHostage START IF tmp.fight1-counter >= 2
 #. SHOW_MSG business.female-hat-white @DEFAULT
 #: data/maps/jungle-city/special/hostage-1-1.json+entities/10/settings/event/18/message+%23485
-#, fuzzy
 msgctxt "data/maps/jungle-city/special/hostage-1-1.json//entities/10/settings/event/18/message"
 msgid "Ohhh, please, Ms. \\v[lore.title.seeker].\\. Free me from this scoundrel so I can get home safely!"
 msgstr "Ооох, пожалуйста, мисс Искатель.\\. Освободите меня от этого негодяя, чтобы я смогла благополучно вернуться домой!"
@@ -12039,7 +12024,6 @@ msgstr "[ЗАЛОЖНИК ПОТЕРЯН!]"
 #. EventTrigger firstHostage-end START IF tmp.fight1-counter >= 3
 #. SHOW_SIDE_MSG main.sergey @THINKING
 #: data/maps/jungle-city/special/hostage-1-1.json+entities/57/settings/event/10/message+%23505
-#, fuzzy
 msgctxt "data/maps/jungle-city/special/hostage-1-1.json//entities/57/settings/event/10/message"
 msgid "Apparently, NPCs with more refined communicative recognition have been implemented at this point."
 msgstr "По-видимому, на этом этапе были реализованы NPC с более продуманным коммуникативным распознаванием."
@@ -12637,10 +12621,9 @@ msgstr ""
 #. NPC parrotReceptionist
 #. SHOW_MSG main.lea @NERVOUS
 #: data/maps/jungle-city/special/parrot-hq-1.json+entities/13/settings/npcStates/0/event/3/message+%23554
-#, fuzzy
 msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/13/settings/npcStates/0/event/3/message"
 msgid "..."
-msgstr "...?"
+msgstr "..."
 
 #. data/maps/jungle-city/special/parrot-hq-1.json entities/13/settings/npcStates/1/event/1/name #560
 #. NPC parrotReceptionist
@@ -12694,7 +12677,7 @@ msgstr ""
 #: data/maps/jungle-city/special/parrot-hq-1.json+entities/16/settings/npcStates/0/event/quest/5/message+%23456
 msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/16/settings/npcStates/0/event/quest/5/message"
 msgid "WAIT!!"
-msgstr ""
+msgstr "ПОДОЖДИ!!"
 
 #. data/maps/jungle-city/special/parrot-hq-1.json entities/16/settings/npcStates/0/event/quest/7/message #459
 #. NPC bird-gangster-fleeing
@@ -12712,7 +12695,7 @@ msgstr ""
 #: data/maps/jungle-city/special/parrot-hq-1.json+entities/16/settings/npcStates/0/event/quest/9/message+%23448
 msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/16/settings/npcStates/0/event/quest/9/message"
 msgid "...!"
-msgstr ""
+msgstr "...!"
 
 #. data/maps/jungle-city/special/parrot-hq-1.json entities/21/settings/event/4/message #42
 #. EventTrigger civilianTalk START IF tmp.civilian-talk1
@@ -12720,7 +12703,7 @@ msgstr ""
 #: data/maps/jungle-city/special/parrot-hq-1.json+entities/21/settings/event/4/message+%2342
 msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/21/settings/event/4/message"
 msgid "Hi."
-msgstr ""
+msgstr "Привет."
 
 #. data/maps/jungle-city/special/parrot-hq-1.json entities/21/settings/event/5/message #536
 #. EventTrigger civilianTalk START IF tmp.civilian-talk1
@@ -12744,7 +12727,7 @@ msgstr ""
 #: data/maps/jungle-city/special/parrot-hq-1.json+entities/21/settings/event/7/message+%23538
 msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/21/settings/event/7/message"
 msgid "Why...?"
-msgstr ""
+msgstr "Почему...?"
 
 #. data/maps/jungle-city/special/parrot-hq-1.json entities/21/settings/event/8/message #539
 #. EventTrigger civilianTalk START IF tmp.civilian-talk1
@@ -12776,7 +12759,7 @@ msgstr ""
 #: data/maps/jungle-city/special/parrot-hq-1.json+entities/37/settings/event/1/text+%23512
 msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/37/settings/event/1/text"
 msgid "[aggressive squawking]"
-msgstr ""
+msgstr "[агрессивное кудахтанье]"
 
 #. data/maps/jungle-city/special/parrot-hq-1.json entities/37/settings/event/35/message #501
 #. EventTrigger firstBattle START IF tmp.firstBattle
@@ -12784,7 +12767,7 @@ msgstr ""
 #: data/maps/jungle-city/special/parrot-hq-1.json+entities/37/settings/event/35/message+%23501
 msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/37/settings/event/35/message"
 msgid "...!"
-msgstr ""
+msgstr "...!"
 
 #. data/maps/jungle-city/special/parrot-hq-1.json entities/37/settings/event/43/text #559
 #. EventTrigger firstBattle START IF tmp.firstBattle
@@ -12792,7 +12775,7 @@ msgstr ""
 #: data/maps/jungle-city/special/parrot-hq-1.json+entities/37/settings/event/43/text+%23559
 msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/37/settings/event/43/text"
 msgid "[aggressive squawking]"
-msgstr ""
+msgstr "[агрессивное кудахтанье]"
 
 #. data/maps/jungle-city/special/parrot-hq-1.json entities/37/settings/event/44/text #513
 #. EventTrigger firstBattle START IF tmp.firstBattle
@@ -12800,7 +12783,7 @@ msgstr ""
 #: data/maps/jungle-city/special/parrot-hq-1.json+entities/37/settings/event/44/text+%23513
 msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/37/settings/event/44/text"
 msgid "[aggressive squawking]"
-msgstr ""
+msgstr "[агрессивное кудахтанье]"
 
 #. data/maps/jungle-city/special/parrot-hq-1.json entities/38/settings/npcStates/0/event/2/message #552
 #. NPC gangster-1-bird
@@ -12809,7 +12792,7 @@ msgstr ""
 #: data/maps/jungle-city/special/parrot-hq-1.json+entities/38/settings/npcStates/0/event/2/message+%23552
 msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/38/settings/npcStates/0/event/2/message"
 msgid "Hi."
-msgstr ""
+msgstr "Привет."
 
 #. data/maps/jungle-city/special/parrot-hq-1.json entities/38/settings/npcStates/0/event/4/message #550
 #. NPC gangster-1-bird
@@ -12827,7 +12810,7 @@ msgstr "..."
 #: data/maps/jungle-city/special/parrot-hq-1.json+entities/38/settings/npcStates/0/event/5/message+%23561
 msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/38/settings/npcStates/0/event/5/message"
 msgid "Bye."
-msgstr ""
+msgstr "Пока."
 
 #. data/maps/jungle-city/special/parrot-hq-1.json entities/40/settings/npcStates/0/event/2/message #562
 #. NPC gangster-2-bird
@@ -12836,7 +12819,7 @@ msgstr ""
 #: data/maps/jungle-city/special/parrot-hq-1.json+entities/40/settings/npcStates/0/event/2/message+%23562
 msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/40/settings/npcStates/0/event/2/message"
 msgid "Hi."
-msgstr ""
+msgstr "Привет."
 
 #. data/maps/jungle-city/special/parrot-hq-1.json entities/40/settings/npcStates/0/event/4/message #563
 #. NPC gangster-2-bird
@@ -12845,7 +12828,7 @@ msgstr ""
 #: data/maps/jungle-city/special/parrot-hq-1.json+entities/40/settings/npcStates/0/event/4/message+%23563
 msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/40/settings/npcStates/0/event/4/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/jungle-city/special/parrot-hq-1.json entities/40/settings/npcStates/0/event/5/message #564
 #. NPC gangster-2-bird
@@ -12854,7 +12837,7 @@ msgstr ""
 #: data/maps/jungle-city/special/parrot-hq-1.json+entities/40/settings/npcStates/0/event/5/message+%23564
 msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/40/settings/npcStates/0/event/5/message"
 msgid "Bye."
-msgstr ""
+msgstr "Пока."
 
 #. data/maps/jungle-city/special/parrot-hq-1.json entities/41/settings/event/10/text #436
 #. EventTrigger firstBattle-end START IF tmp.enemyCounter >= 3
@@ -12893,7 +12876,7 @@ msgstr ""
 #: data/maps/jungle-city/special/parrot-hq-2.json+entities/15/settings/npcStates/0/event/3/message+%23264
 msgctxt "data/maps/jungle-city/special/parrot-hq-2.json//entities/15/settings/npcStates/0/event/3/message"
 msgid "... Bye."
-msgstr ""
+msgstr "...Пока."
 
 #. data/maps/jungle-city/special/parrot-hq-2.json entities/20/settings/event/3/0/4/message #562
 #. EventTrigger firstBattle START IF tmp.touchScene1
@@ -12920,7 +12903,7 @@ msgstr ""
 #: data/maps/jungle-city/special/parrot-hq-2.json+entities/20/settings/event/3/0/12/message+%23564
 msgctxt "data/maps/jungle-city/special/parrot-hq-2.json//entities/20/settings/event/3/0/12/message"
 msgid "... Why?"
-msgstr ""
+msgstr "...Почему?"
 
 #. data/maps/jungle-city/special/parrot-hq-2.json entities/20/settings/event/3/0/16/text #565
 #. EventTrigger firstBattle START IF tmp.touchScene1
@@ -12962,7 +12945,7 @@ msgstr ""
 #: data/maps/jungle-city/special/parrot-hq-2.json+entities/25/settings/event/10/text+%23553
 msgctxt "data/maps/jungle-city/special/parrot-hq-2.json//entities/25/settings/event/10/text"
 msgid "[aggressive squawking]"
-msgstr ""
+msgstr "[агрессивное кудахтанье]"
 
 #. data/maps/jungle-city/special/parrot-hq-2.json entities/25/settings/event/11/text #554
 #. EventTrigger firstBattleOLD START IF tmp.firstBattle
@@ -12970,7 +12953,7 @@ msgstr ""
 #: data/maps/jungle-city/special/parrot-hq-2.json+entities/25/settings/event/11/text+%23554
 msgctxt "data/maps/jungle-city/special/parrot-hq-2.json//entities/25/settings/event/11/text"
 msgid "[aggressive squawking]"
-msgstr ""
+msgstr "[агрессивное кудахтанье]"
 
 #. data/maps/jungle-city/special/parrot-hq-2.json entities/25/settings/event/16/message #555
 #. EventTrigger firstBattleOLD START IF tmp.firstBattle
@@ -12978,7 +12961,7 @@ msgstr ""
 #: data/maps/jungle-city/special/parrot-hq-2.json+entities/25/settings/event/16/message+%23555
 msgctxt "data/maps/jungle-city/special/parrot-hq-2.json//entities/25/settings/event/16/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/jungle-city/special/parrot-hq-2.json entities/25/settings/event/17/message #556
 #. EventTrigger firstBattleOLD START IF tmp.firstBattle
@@ -12986,7 +12969,7 @@ msgstr ""
 #: data/maps/jungle-city/special/parrot-hq-2.json+entities/25/settings/event/17/message+%23556
 msgctxt "data/maps/jungle-city/special/parrot-hq-2.json//entities/25/settings/event/17/message"
 msgid "...!"
-msgstr ""
+msgstr "...!"
 
 #. data/maps/jungle-city/special/parrot-hq-2.json entities/25/settings/event/45/text #557
 #. EventTrigger firstBattleOLD START IF tmp.firstBattle
@@ -13005,6 +12988,8 @@ msgid ""
 "\\c[3]Stun\\c[0] the Papagangster with \\c[3]a charged attack\\c[0] to \\c[3]free the hostage\\c[0].\n"
 "\\c[1]Be careful to not get too close or hurt the hostage!\\c[0]"
 msgstr ""
+"\\c[3]Оглушите\\c[0] Попугангстера с помощью \\c[3]заряженной атаки\\c[0], чтобы \\c[3]освободить заложника\\c[0]. \n"
+"\\c[1]Будьте осторожны, не заденьте заложника и не подходите слишком близко!\\c[0]"
 
 #. data/maps/jungle-city/special/parrot-hq-2.json entities/60/settings/analyzable/text #559
 #. NPC djPeps
@@ -13038,7 +13023,7 @@ msgstr ""
 #: data/maps/jungle-city/special/parrot-hq-2.json+entities/73/settings/npcStates/2/event/10/message+%23440
 msgctxt "data/maps/jungle-city/special/parrot-hq-2.json//entities/73/settings/npcStates/2/event/10/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/jungle-city/special/parrot-hq-2.json entities/78/settings/event/0/startAction/1/text #480
 #. EventTrigger firstBattle-reinforcements START IF tmp.fight1-counter >= 3
@@ -13047,7 +13032,7 @@ msgstr ""
 #: data/maps/jungle-city/special/parrot-hq-2.json+entities/78/settings/event/0/startAction/1/text+%23480
 msgctxt "data/maps/jungle-city/special/parrot-hq-2.json//entities/78/settings/event/0/startAction/1/text"
 msgid "[Angry bird noises]"
-msgstr ""
+msgstr "[злое щебетание]"
 
 #. data/maps/jungle-city/special/parrot-hq-2.json entities/78/settings/event/3/startAction/1/text #568
 #. EventTrigger firstBattle-reinforcements START IF tmp.fight1-counter >= 3
@@ -13065,7 +13050,7 @@ msgstr ""
 #: data/maps/jungle-city/special/parrot-hq-2.json+entities/78/settings/event/6/startAction/1/text+%23569
 msgctxt "data/maps/jungle-city/special/parrot-hq-2.json//entities/78/settings/event/6/startAction/1/text"
 msgid "[Angry bird noises]"
-msgstr ""
+msgstr "[злое щебетание]"
 
 #. data/maps/jungle-city/special/parrot-hq-2.json entities/78/settings/event/9/startAction/1/text #570
 #. EventTrigger firstBattle-reinforcements START IF tmp.fight1-counter >= 3
@@ -13083,7 +13068,7 @@ msgstr ""
 #: data/maps/jungle-city/special/parrot-hq-2.json+entities/81/settings/event/8/startAction/1/text+%23571
 msgctxt "data/maps/jungle-city/special/parrot-hq-2.json//entities/81/settings/event/8/startAction/1/text"
 msgid "[Angry bird noises]"
-msgstr ""
+msgstr "[злое щебетание]"
 
 #. data/maps/jungle-city/special/parrot-hq-2.json entities/81/settings/event/10/startAction/1/text #572
 #. EventTrigger firstBattle-bossStart START IF tmp.fight1-counter >= 8
@@ -13092,7 +13077,7 @@ msgstr ""
 #: data/maps/jungle-city/special/parrot-hq-2.json+entities/81/settings/event/10/startAction/1/text+%23572
 msgctxt "data/maps/jungle-city/special/parrot-hq-2.json//entities/81/settings/event/10/startAction/1/text"
 msgid "[Angry bird noises]"
-msgstr ""
+msgstr "[злое щебетание]"
 
 #. data/maps/jungle-city/special/parrot-hq-2.json entities/81/settings/event/14/startAction/1/text #573
 #. EventTrigger firstBattle-bossStart START IF tmp.fight1-counter >= 8
@@ -13101,7 +13086,7 @@ msgstr ""
 #: data/maps/jungle-city/special/parrot-hq-2.json+entities/81/settings/event/14/startAction/1/text+%23573
 msgctxt "data/maps/jungle-city/special/parrot-hq-2.json//entities/81/settings/event/14/startAction/1/text"
 msgid "[Angry bird noises]"
-msgstr ""
+msgstr "[злое щебетание]"
 
 #. data/maps/jungle-city/special/parrot-hq-2.json entities/81/settings/event/16/startAction/1/text #574
 #. EventTrigger firstBattle-bossStart START IF tmp.fight1-counter >= 8
@@ -13110,7 +13095,7 @@ msgstr ""
 #: data/maps/jungle-city/special/parrot-hq-2.json+entities/81/settings/event/16/startAction/1/text+%23574
 msgctxt "data/maps/jungle-city/special/parrot-hq-2.json//entities/81/settings/event/16/startAction/1/text"
 msgid "[Angry bird noises]"
-msgstr ""
+msgstr "[злое щебетание]"
 
 #. data/maps/jungle-city/special/parrot-hq-2.json entities/147/settings/analyzable/text #580
 #. NPC barkeep(2)
@@ -13126,7 +13111,7 @@ msgstr ""
 #: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/8/settings/states/1/action/0/text+%2310
 msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/8/settings/states/1/action/0/text"
 msgid "\\v[tmp.platformDelayString]"
-msgstr ""
+msgstr "\\v[tmp.platformDelayString]"
 
 #. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/8/settings/states/1/action/8/text #19
 #. DynamicPlatform platform3
@@ -13135,7 +13120,7 @@ msgstr ""
 #: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/8/settings/states/1/action/8/text+%2319
 msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/8/settings/states/1/action/8/text"
 msgid "\\v[tmp.platformWaitString]"
-msgstr ""
+msgstr "\\v[tmp.platformWaitString]"
 
 #. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/15/settings/event/1/thenStep/1/action/0/text #53
 #. EventTrigger playerReturner START IF tmp.cratingStarted && !tmp.playerReturning
@@ -13145,7 +13130,7 @@ msgstr ""
 #: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/15/settings/event/1/thenStep/1/action/0/text+%2353
 msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/15/settings/event/1/thenStep/1/action/0/text"
 msgid "Return to Roof"
-msgstr ""
+msgstr "Вернуться на крышу"
 
 #. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/16/settings/states/1/action/0/text #8
 #. DynamicPlatform platform1 SPAWN IF !tmp.sceneCrate && !(quest.jungleGuard-3-papagang_goats_1.task.5 || quest.jungleGuard-3-papagang_goats_1.solved)
@@ -13154,7 +13139,7 @@ msgstr ""
 #: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/16/settings/states/1/action/0/text+%238
 msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/16/settings/states/1/action/0/text"
 msgid "\\v[tmp.platformDelayString]"
-msgstr ""
+msgstr "\\v[tmp.platformDelayString]"
 
 #. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/16/settings/states/1/action/8/text #14
 #. DynamicPlatform platform1 SPAWN IF !tmp.sceneCrate && !(quest.jungleGuard-3-papagang_goats_1.task.5 || quest.jungleGuard-3-papagang_goats_1.solved)
@@ -13163,14 +13148,14 @@ msgstr ""
 #: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/16/settings/states/1/action/8/text+%2314
 msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/16/settings/states/1/action/8/text"
 msgid "\\v[tmp.platformWaitString]"
-msgstr ""
+msgstr "\\v[tmp.platformWaitString]"
 
 #. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/17/settings/analyzable/text #423
 #. NPC pet-goat
 #: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/17/settings/analyzable/text+%23423
 msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/17/settings/analyzable/text"
 msgid "Kid Goat Zira"
-msgstr ""
+msgstr "Козлёнок Зира"
 
 #. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/20/settings/event/8/message #562
 #. EventTrigger bossBattle START IF tmp.touchScene1
@@ -13194,7 +13179,7 @@ msgstr ""
 #: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/20/settings/event/11/message+%23564
 msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/20/settings/event/11/message"
 msgid "... Why?"
-msgstr ""
+msgstr "...Почему?"
 
 #. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/20/settings/event/13/text #565
 #. EventTrigger bossBattle START IF tmp.touchScene1
