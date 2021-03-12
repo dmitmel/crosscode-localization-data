@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.3.0-4\n"
+"Project-Id-Version: crosscode 1.4.0-4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-11 11:05+0000\n"
-"PO-Revision-Date: 2021-02-11 11:05+0000\n"
+"POT-Creation-Date: 2021-03-12 23:31+0000\n"
+"PO-Revision-Date: 2021-03-12 23:31+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -174,6 +174,13 @@ msgctxt "data/arena/faction-cup-1.json//core/info"
 msgid "Refight several early battles found during your quests for the factions!"
 msgstr "Сразитесь вновь с ранними врагами, найденными во время ваших квестов фракций!"
 
+#. data/arena/faction-cup-1.json core/creator #50
+#. SOLO_CUP
+#: data/arena/faction-cup-1.json+core/creator+%2350
+msgctxt "data/arena/faction-cup-1.json//core/creator"
+msgid "GFluegel"
+msgstr ""
+
 #. data/arena/faction-cup-1.json rounds/0/name #28
 #. DEFAULT
 #: data/arena/faction-cup-1.json+rounds/0/name+%2328
@@ -289,6 +296,13 @@ msgctxt "data/arena/faction-cup-2.json//core/info"
 msgid "Refight several midgame battles found during your quests for the factions!"
 msgstr "Сразитесь вновь со средними врагами, найденными во время ваших квестов фракций!"
 
+#. data/arena/faction-cup-2.json core/creator #50
+#. SOLO_CUP
+#: data/arena/faction-cup-2.json+core/creator+%2350
+msgctxt "data/arena/faction-cup-2.json//core/creator"
+msgid "GFluegel"
+msgstr ""
+
 #. data/arena/faction-cup-2.json rounds/0/name #54
 #. DEFAULT
 #: data/arena/faction-cup-2.json+rounds/0/name+%2354
@@ -307,9 +321,9 @@ msgstr ""
 "Победите \\c[3]Мегагрифов\\c[0] в \\c[3]Бордовой долине\\c[0]!\n"
 "Не позволяйте им \\c[3]регенерироваться над пламенем\\c[0]!"
 
-#. data/arena/faction-cup-2.json rounds/1/name #50
+#. data/arena/faction-cup-2.json rounds/1/name #56
 #. DEFAULT
-#: data/arena/faction-cup-2.json+rounds/1/name+%2350
+#: data/arena/faction-cup-2.json+rounds/1/name+%2356
 msgctxt "data/arena/faction-cup-2.json//rounds/1/name"
 msgid "Malicious Mustache"
 msgstr "Злобные усы"
@@ -411,6 +425,139 @@ msgstr ""
 "Победите \\c[3]Короля Какторро\\c[0] в \\c[3]Бордовой долине\\c[0]!\n"
 "\\c[3]Зыбучие пески\\c[0] могут раздражать, но \\c[3]телепорты\\c[0] - ваши друзья!"
 
+#. data/arena/faction-cup-3.json core/name #4
+#. SOLO_CUP
+#: data/arena/faction-cup-3.json+core/name+%234
+msgctxt "data/arena/faction-cup-3.json//core/name"
+msgid "Wanderer's Cup"
+msgstr ""
+
+#. data/arena/faction-cup-3.json core/info #1
+#. SOLO_CUP
+#: data/arena/faction-cup-3.json+core/info+%231
+msgctxt "data/arena/faction-cup-3.json//core/info"
+msgid "Refight several challenging battles found during your endgame quests!"
+msgstr ""
+
+#. data/arena/faction-cup-3.json core/creator #50
+#. SOLO_CUP
+#: data/arena/faction-cup-3.json+core/creator+%2350
+msgctxt "data/arena/faction-cup-3.json//core/creator"
+msgid "GFluegel"
+msgstr ""
+
+#. data/arena/faction-cup-3.json rounds/0/name #56
+#. DEFAULT
+#: data/arena/faction-cup-3.json+rounds/0/name+%2356
+msgctxt "data/arena/faction-cup-3.json//rounds/0/name"
+msgid "Sober Slaughter"
+msgstr ""
+
+#. data/arena/faction-cup-3.json rounds/0/objective #57
+#. DEFAULT
+#: data/arena/faction-cup-3.json+rounds/0/objective+%2357
+msgctxt "data/arena/faction-cup-3.json//rounds/0/objective"
+msgid ""
+"Defeat the \\c[3]\\v[combat.name.heat/special/jellyfish-booze]s and \\v[combat.name.heat/special/heat-golem-booze]\\c[0] in \\c[3]the Distillery of \\v[area.heat-village.name]\\c[0]!\n"
+"Throw \\c[3]ice into the ovens to deactivate the shields and onto the machine to prevent overheating\\c[0]!"
+msgstr ""
+
+#. data/arena/faction-cup-3.json rounds/1/name #54
+#. DEFAULT
+#: data/arena/faction-cup-3.json+rounds/1/name+%2354
+msgctxt "data/arena/faction-cup-3.json//rounds/1/name"
+msgid "Ocean Operation"
+msgstr ""
+
+#. data/arena/faction-cup-3.json rounds/1/objective #51
+#. DEFAULT
+#: data/arena/faction-cup-3.json+rounds/1/objective+%2351
+msgctxt "data/arena/faction-cup-3.json//rounds/1/objective"
+msgid ""
+"Defeat the \\c[3]\\c[0] on \\c[3]the ocean\\c[0]!\n"
+"Make sure \\c[3]your turret-boat doesn't get destroyed!\\c[0]!"
+msgstr ""
+
+#. data/arena/faction-cup-3.json rounds/2/name #58
+#. DEFAULT
+#: data/arena/faction-cup-3.json+rounds/2/name+%2358
+msgctxt "data/arena/faction-cup-3.json//rounds/2/name"
+msgid "Ghost of a Chance"
+msgstr ""
+
+#. data/arena/faction-cup-3.json rounds/2/objective #55
+#. DEFAULT
+#: data/arena/faction-cup-3.json+rounds/2/objective+%2355
+msgctxt "data/arena/faction-cup-3.json//rounds/2/objective"
+msgid ""
+"Work with a salty helper to defeat \\c[3]\\v[combat.name.jungle/special/ghost-toxic]\\c[0] at the entrance to \\v[area.jungle-city.name]!\n"
+"\\c[3]Defend your ally\\c[0] while \\c[3]it weakens the enemy\\c[0]!"
+msgstr ""
+
+#. data/arena/faction-cup-3.json rounds/3/name #40
+#. DEFAULT
+#: data/arena/faction-cup-3.json+rounds/3/name+%2340
+msgctxt "data/arena/faction-cup-3.json//rounds/3/name"
+msgid "Tremoring Tech"
+msgstr ""
+
+#. data/arena/faction-cup-3.json rounds/3/objective #41
+#. DEFAULT
+#: data/arena/faction-cup-3.json+rounds/3/objective+%2341
+msgctxt "data/arena/faction-cup-3.json//rounds/3/objective"
+msgid ""
+"Defeat the shaking \\c[3]\\v[combat.name.autumn-fall/runbot-tremor]\\c[0] in the hidden office in \\c[3]\\v[area.rhombus-sqr.name]\\c[0]!\n"
+"It's \\c[3]aura\\c[0] can be \\c[3]neutralized\\c[0] with \\c[3]Shock\\c[0]!"
+msgstr ""
+
+#. data/arena/faction-cup-3.json rounds/4/name #44
+#. DEFAULT
+#: data/arena/faction-cup-3.json+rounds/4/name+%2344
+msgctxt "data/arena/faction-cup-3.json//rounds/4/name"
+msgid "Pewpew Parrot"
+msgstr ""
+
+#. data/arena/faction-cup-3.json rounds/4/objective #45
+#. DEFAULT
+#: data/arena/faction-cup-3.json+rounds/4/objective+%2345
+msgctxt "data/arena/faction-cup-3.json//rounds/4/objective"
+msgid ""
+"Defeat the \\c[3]\\v[combat.name.jungle/special/parrot-gangster-boss-1]\\c[0] who has resettled to \\c[3]\\v[area.jungle-city.name]\\c[0]!\n"
+"Try to \\c[3]shoot down the missiles\\c[0] before they overwhelm you!"
+msgstr ""
+
+#. data/arena/faction-cup-3.json rounds/5/name #46
+#. DEFAULT
+#: data/arena/faction-cup-3.json+rounds/5/name+%2346
+msgctxt "data/arena/faction-cup-3.json//rounds/5/name"
+msgid "The Goatfather, Part II"
+msgstr ""
+
+#. data/arena/faction-cup-3.json rounds/5/objective #47
+#. DEFAULT
+#: data/arena/faction-cup-3.json+rounds/5/objective+%2347
+msgctxt "data/arena/faction-cup-3.json//rounds/5/objective"
+msgid ""
+"Defeat the \\c[3]\\v[combat.name.cold/goat-father-2]\\c[0] in \\c[3]\\v[area.thombus-sqr.name]\\c[0]!\n"
+"This time you fight him for real!"
+msgstr ""
+
+#. data/arena/faction-cup-3.json rounds/6/name #52
+#. DEFAULT
+#: data/arena/faction-cup-3.json+rounds/6/name+%2352
+msgctxt "data/arena/faction-cup-3.json//rounds/6/name"
+msgid "Ape Assault"
+msgstr ""
+
+#. data/arena/faction-cup-3.json rounds/6/objective #53
+#. DEFAULT
+#: data/arena/faction-cup-3.json+rounds/6/objective+%2353
+msgctxt "data/arena/faction-cup-3.json//rounds/6/objective"
+msgid ""
+"Defeat the \\c[3]\\v[combat.name.beach/ape-beach]\\c[0] on the \\c[3]\\v[area.beach.name]\\c[0]!\n"
+"This is a duel for the ages!"
+msgstr ""
+
 #. data/arena/faction-team-cup-1.json core/name #4
 #. TEAM_CUP
 #: data/arena/faction-team-cup-1.json+core/name+%234
@@ -424,6 +571,13 @@ msgstr "Командный кубок фракций"
 msgctxt "data/arena/faction-team-cup-1.json//core/info"
 msgid "Refight several battles found during your quests for the factions, as a team!"
 msgstr "Сразитесь вновь с врагами, найденными во время ваших квестов фракций, в команде!"
+
+#. data/arena/faction-team-cup-1.json core/creator #50
+#. TEAM_CUP
+#: data/arena/faction-team-cup-1.json+core/creator+%2350
+msgctxt "data/arena/faction-team-cup-1.json//core/creator"
+msgid "GFluegel"
+msgstr ""
 
 #. data/arena/faction-team-cup-1.json rounds/0/name #28
 #. DEFAULT
@@ -525,9 +679,9 @@ msgstr ""
 "Победите \\c[3]Мегагрифов\\c[0] в \\c[3]Бордовой долине\\c[0]!\n"
 "Не позволяйте им \\c[3]регенерироваться над пламенем\\c[0]!"
 
-#. data/arena/faction-team-cup-1.json rounds/6/name #50
+#. data/arena/faction-team-cup-1.json rounds/6/name #56
 #. DEFAULT
-#: data/arena/faction-team-cup-1.json+rounds/6/name+%2350
+#: data/arena/faction-team-cup-1.json+rounds/6/name+%2356
 msgctxt "data/arena/faction-team-cup-1.json//rounds/6/name"
 msgid "Malicious Mustache"
 msgstr "Злобные усы"
@@ -556,41 +710,6 @@ msgstr "Бодрое растение"
 msgctxt "data/arena/faction-team-cup-1.json//rounds/7/objective"
 msgid "Defeat the \\c[3]\\v[combat.name.jungle/special/powerplant-quest-1]\\c[0] in \\c[3]\\v[area.jungle.name]\\c[0]!"
 msgstr "Победите \\c[3]Бафоцветика\\c[0] в \\c[3]Саду Гайи\\c[0]!"
-
-#. data/arena/lily-cup.json core/name #4
-#. SOLO_CUSTOM
-#: data/arena/lily-cup.json+core/name+%234
-msgctxt "data/arena/lily-cup.json//core/name"
-msgid "PvP vs Lily"
-msgstr "PvP vs Лили"
-
-#. data/arena/lily-cup.json core/info #1
-#. SOLO_CUSTOM
-#: data/arena/lily-cup.json+core/info+%231
-msgctxt "data/arena/lily-cup.json//core/info"
-msgid "Fight Lily personally in PvP!"
-msgstr "Сразись с Лили лично в PvP!"
-
-#. data/arena/lily-cup.json core/creator #28
-#. SOLO_CUSTOM
-#: data/arena/lily-cup.json+core/creator+%2328
-msgctxt "data/arena/lily-cup.json//core/creator"
-msgid "Lily"
-msgstr "Лили"
-
-#. data/arena/lily-cup.json rounds/0/name #33
-#. DEFAULT
-#: data/arena/lily-cup.json+rounds/0/name+%2333
-msgctxt "data/arena/lily-cup.json//rounds/0/name"
-msgid "Fight me!"
-msgstr "Дерись со мной!"
-
-#. data/arena/lily-cup.json rounds/0/objective #34
-#. DEFAULT
-#: data/arena/lily-cup.json+rounds/0/objective+%2334
-msgctxt "data/arena/lily-cup.json//rounds/0/objective"
-msgid "Defeat me in a duel on top of the arena!"
-msgstr "Победи меня в дуэли на вершине арены!"
 
 #. data/arena/parkour-rookie-cup.json core/name #1
 #. SOLO_CUP
@@ -1457,6 +1576,123 @@ msgctxt "data/arena/test-team-cup.json//rounds/3/objective"
 msgid "Defeat enemies hailing from \\c[3]\\v[area.autumn-area.name]\\c[0]!"
 msgstr "Победите врагов из \\c[3]Расцвета Осени\\c[0]!"
 
+#. data/arena/vermillion-cup.json core/name #1
+#. SOLO_CUSTOM
+#: data/arena/vermillion-cup.json+core/name+%231
+msgctxt "data/arena/vermillion-cup.json//core/name"
+msgid "Vermillion Cup"
+msgstr ""
+
+#. data/arena/vermillion-cup.json core/info #2
+#. SOLO_CUSTOM
+#: data/arena/vermillion-cup.json+core/info+%232
+msgctxt "data/arena/vermillion-cup.json//core/info"
+msgid "A cup featuring enemies from the \\v[area.arid.name] only Lea can access."
+msgstr ""
+
+#. data/arena/vermillion-cup.json core/creator #3
+#. SOLO_CUSTOM
+#: data/arena/vermillion-cup.json+core/creator+%233
+msgctxt "data/arena/vermillion-cup.json//core/creator"
+msgid "???"
+msgstr ""
+
+#. data/arena/vermillion-cup.json rounds/0/name #7
+#: data/arena/vermillion-cup.json+rounds/0/name+%237
+msgctxt "data/arena/vermillion-cup.json//rounds/0/name"
+msgid "Multi Microbes"
+msgstr ""
+
+#. data/arena/vermillion-cup.json rounds/0/objective #58
+#: data/arena/vermillion-cup.json+rounds/0/objective+%2358
+msgctxt "data/arena/vermillion-cup.json//rounds/0/objective"
+msgid "Defeat the virus enemies from \\c[3]\\v[area.arid.name]\\c[0]!"
+msgstr ""
+
+#. data/arena/vermillion-cup.json rounds/1/name #59
+#: data/arena/vermillion-cup.json+rounds/1/name+%2359
+msgctxt "data/arena/vermillion-cup.json//rounds/1/name"
+msgid "Basic Brutes"
+msgstr ""
+
+#. data/arena/vermillion-cup.json rounds/1/objective #60
+#: data/arena/vermillion-cup.json+rounds/1/objective+%2360
+msgctxt "data/arena/vermillion-cup.json//rounds/1/objective"
+msgid "Defeat the brute enemies from \\c[3]\\v[area.arid.name]\\c[0]!"
+msgstr ""
+
+#. data/arena/vermillion-cup.json rounds/2/name #61
+#: data/arena/vermillion-cup.json+rounds/2/name+%2361
+msgctxt "data/arena/vermillion-cup.json//rounds/2/name"
+msgid "Rhino Rumble"
+msgstr ""
+
+#. data/arena/vermillion-cup.json rounds/2/objective #62
+#: data/arena/vermillion-cup.json+rounds/2/objective+%2362
+msgctxt "data/arena/vermillion-cup.json//rounds/2/objective"
+msgid "Defeat the rhino enemies from \\c[3]\\v[area.arid.name]\\c[0]!"
+msgstr ""
+
+#. data/arena/vermillion-cup.json rounds/3/name #63
+#: data/arena/vermillion-cup.json+rounds/3/name+%2363
+msgctxt "data/arena/vermillion-cup.json//rounds/3/name"
+msgid "Dice Dusters"
+msgstr ""
+
+#. data/arena/vermillion-cup.json rounds/3/objective #64
+#: data/arena/vermillion-cup.json+rounds/3/objective+%2364
+msgctxt "data/arena/vermillion-cup.json//rounds/3/objective"
+msgid "Defeat the dice mage enemies from \\c[3]\\v[area.arid.name]\\c[0]!"
+msgstr ""
+
+#. data/arena/vermillion-cup.json rounds/4/name #51
+#: data/arena/vermillion-cup.json+rounds/4/name+%2351
+msgctxt "data/arena/vermillion-cup.json//rounds/4/name"
+msgid "The Elemental Turrets"
+msgstr ""
+
+#. data/arena/vermillion-cup.json rounds/4/objective #72
+#: data/arena/vermillion-cup.json+rounds/4/objective+%2372
+msgctxt "data/arena/vermillion-cup.json//rounds/4/objective"
+msgid "Beat a stronger version of the \\c[3]\\v[combat.name.arid/element-turret-boss]\\c[0] boss from the \\c[3]\\v[area.arid.name]\\c[0]!"
+msgstr ""
+
+#. data/arena/vermillion-cup.json rounds/5/name #73
+#: data/arena/vermillion-cup.json+rounds/5/name+%2373
+msgctxt "data/arena/vermillion-cup.json//rounds/5/name"
+msgid "The Infinte Snail"
+msgstr ""
+
+#. data/arena/vermillion-cup.json rounds/5/objective #74
+#: data/arena/vermillion-cup.json+rounds/5/objective+%2374
+msgctxt "data/arena/vermillion-cup.json//rounds/5/objective"
+msgid "Beat a stronger version of the \\c[3]\\v[combat.name.arid/snail]\\c[0] boss from the \\c[3]\\v[area.arid.name]\\c[0]!"
+msgstr ""
+
+#. data/arena/vermillion-cup.json rounds/6/name #75
+#: data/arena/vermillion-cup.json+rounds/6/name+%2375
+msgctxt "data/arena/vermillion-cup.json//rounds/6/name"
+msgid "The Designer"
+msgstr ""
+
+#. data/arena/vermillion-cup.json rounds/6/objective #76
+#: data/arena/vermillion-cup.json+rounds/6/objective+%2376
+msgctxt "data/arena/vermillion-cup.json//rounds/6/objective"
+msgid "Beat a stronger version of the \\c[3]\\v[combat.name.boss/designer-2]\\c[0] boss from the \\c[3]\\v[area.arid.name]\\c[0]!"
+msgstr ""
+
+#. data/arena/vermillion-cup.json rounds/7/name #77
+#: data/arena/vermillion-cup.json+rounds/7/name+%2377
+msgctxt "data/arena/vermillion-cup.json//rounds/7/name"
+msgid "The Creator"
+msgstr ""
+
+#. data/arena/vermillion-cup.json rounds/7/objective #78
+#: data/arena/vermillion-cup.json+rounds/7/objective+%2378
+msgctxt "data/arena/vermillion-cup.json//rounds/7/objective"
+msgid "Beat a stronger version of \\c[3]\\v[combat.name.boss/elephant]\\c[0] boss from the \\c[3]\\v[area.arid.name]\\c[0]!"
+msgstr ""
+
 #. data/maps/arena/boss/cold-midboss.json entities/5/settings/event/8/action/0/text #1
 #. EventTrigger BattleStart START IF true
 #. DO_ACTION
@@ -2270,217 +2506,3 @@ msgstr "Эта дверь, честно говоря, ведёт туда, ку�
 msgctxt "data/maps/arena/faction/rh-turrets-1.json//entities/277/settings/event/4/elseStep/0/elseStep/0/thenStep/1/message"
 msgid "What was that? Did they honestly design it that way?"
 msgstr "Что это было? Они серьёзно спроектировали это таким образом?"
-
-#. data/maps/arena/pvp/pvp-lily.json entities/300/settings/event/11/message #3
-#. EventTrigger Start
-#. SHOW_MSG guests.lily @DEFAULT
-#: data/maps/arena/pvp/pvp-lily.json+entities/300/settings/event/11/message+%233
-msgctxt "data/maps/arena/pvp/pvp-lily.json//entities/300/settings/event/11/message"
-msgid "It's time for our little duel."
-msgstr "Настал час для нашей маленькой дуэли."
-
-#. data/maps/arena/pvp/pvp-lily.json entities/300/settings/event/12/message #12
-#. EventTrigger Start
-#. SHOW_MSG guests.lily @DEFAULT
-#: data/maps/arena/pvp/pvp-lily.json+entities/300/settings/event/12/message+%2312
-msgctxt "data/maps/arena/pvp/pvp-lily.json//entities/300/settings/event/12/message"
-msgid "Let's both do our best!"
-msgstr "Давай вместе постараемся!"
-
-#. data/maps/arena/pvp/pvp-lily.json entities/300/settings/event/13/message #4
-#. EventTrigger Start
-#. SHOW_MSG main.lea @NOD
-#: data/maps/arena/pvp/pvp-lily.json+entities/300/settings/event/13/message+%234
-msgctxt "data/maps/arena/pvp/pvp-lily.json//entities/300/settings/event/13/message"
-msgid "[nods]"
-msgstr "[кивает]"
-
-#. data/maps/arena/pvp/pvp-lily.json entities/300/settings/event/14/message #13
-#. EventTrigger Start
-#. SHOW_MSG main.lea @DETERMINED
-#: data/maps/arena/pvp/pvp-lily.json+entities/300/settings/event/14/message+%2313
-msgctxt "data/maps/arena/pvp/pvp-lily.json//entities/300/settings/event/14/message"
-msgid "Lea!"
-msgstr "Лея!"
-
-#. data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/thenStep/0/thenStep/0/message #11
-#. EventTrigger pvpBrake START IF pvp.brake
-#. IF pvp.lastWinPlayer
-#. IF pvp.playerPoints == 1
-#. SHOW_SIDE_MSG guests.lily @DEFAULT
-#: data/maps/arena/pvp/pvp-lily.json+entities/304/settings/event/0/thenStep/0/thenStep/0/message+%2311
-msgctxt "data/maps/arena/pvp/pvp-lily.json//entities/304/settings/event/0/thenStep/0/thenStep/0/message"
-msgid "Not bad! Getting warmed up now!"
-msgstr "Неплохо! Уже разогреваюсь!"
-
-#. data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/thenStep/1/thenStep/0/message #14
-#. EventTrigger pvpBrake START IF pvp.brake
-#. IF pvp.lastWinPlayer
-#. IF pvp.playerPoints == 2
-#. SHOW_SIDE_MSG guests.lily @DEFAULT
-#: data/maps/arena/pvp/pvp-lily.json+entities/304/settings/event/0/thenStep/1/thenStep/0/message+%2314
-msgctxt "data/maps/arena/pvp/pvp-lily.json//entities/304/settings/event/0/thenStep/1/thenStep/0/message"
-msgid "Phew, you're quite skilled at this game!"
-msgstr "Фух, а ты довольно опытна в этой игре!"
-
-#. data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/thenStep/2/thenStep/0/message #15
-#. EventTrigger pvpBrake START IF pvp.brake
-#. IF pvp.lastWinPlayer
-#. IF pvp.playerPoints == 3
-#. SHOW_SIDE_MSG guests.lily @DEFAULT
-#: data/maps/arena/pvp/pvp-lily.json+entities/304/settings/event/0/thenStep/2/thenStep/0/message+%2315
-msgctxt "data/maps/arena/pvp/pvp-lily.json//entities/304/settings/event/0/thenStep/2/thenStep/0/message"
-msgid "I'll get more serious now!"
-msgstr "Я сейчас стану серьёзнее!"
-
-#. data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/thenStep/3/thenStep/0/message #16
-#. EventTrigger pvpBrake START IF pvp.brake
-#. IF pvp.lastWinPlayer
-#. IF pvp.playerPoints == 4
-#. SHOW_SIDE_MSG guests.lily @DEFAULT
-#: data/maps/arena/pvp/pvp-lily.json+entities/304/settings/event/0/thenStep/3/thenStep/0/message+%2316
-msgctxt "data/maps/arena/pvp/pvp-lily.json//entities/304/settings/event/0/thenStep/3/thenStep/0/message"
-msgid "Oh no..."
-msgstr "О нет..."
-
-#. data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/elseStep/0/thenStep/0/message #17
-#. EventTrigger pvpBrake START IF pvp.brake
-#. IF NOT pvp.lastWinPlayer
-#. IF pvp.enemyPoints == 1
-#. SHOW_SIDE_MSG guests.lily @DEFAULT
-#: data/maps/arena/pvp/pvp-lily.json+entities/304/settings/event/0/elseStep/0/thenStep/0/message+%2317
-msgctxt "data/maps/arena/pvp/pvp-lily.json//entities/304/settings/event/0/elseStep/0/thenStep/0/message"
-msgid "That round goes to me!"
-msgstr "Этот раунд за мной!"
-
-#. data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/elseStep/1/thenStep/0/message #18
-#. EventTrigger pvpBrake START IF pvp.brake
-#. IF NOT pvp.lastWinPlayer
-#. IF pvp.enemyPoints == 2
-#. SHOW_SIDE_MSG guests.lily @DEFAULT
-#: data/maps/arena/pvp/pvp-lily.json+entities/304/settings/event/0/elseStep/1/thenStep/0/message+%2318
-msgctxt "data/maps/arena/pvp/pvp-lily.json//entities/304/settings/event/0/elseStep/1/thenStep/0/message"
-msgid "I think I got a hang for this now!"
-msgstr "Думаю, теперь я в этом разобралась!"
-
-#. data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/elseStep/2/thenStep/0/thenStep/0/message #19
-#. EventTrigger pvpBrake START IF pvp.brake
-#. IF NOT pvp.lastWinPlayer
-#. IF pvp.enemyPoints == 3
-#. IF pvp.playerPoints >= 2
-#. SHOW_SIDE_MSG guests.lily @DEFAULT
-#: data/maps/arena/pvp/pvp-lily.json+entities/304/settings/event/0/elseStep/2/thenStep/0/thenStep/0/message+%2319
-msgctxt "data/maps/arena/pvp/pvp-lily.json//entities/304/settings/event/0/elseStep/2/thenStep/0/thenStep/0/message"
-msgid "Wow, what a battle!"
-msgstr "Вау, какая битва!"
-
-#. data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/elseStep/2/thenStep/0/elseStep/0/message #20
-#. EventTrigger pvpBrake START IF pvp.brake
-#. IF NOT pvp.lastWinPlayer
-#. IF pvp.enemyPoints == 3
-#. IF NOT pvp.playerPoints >= 2
-#. SHOW_SIDE_MSG guests.lily @DEFAULT
-#: data/maps/arena/pvp/pvp-lily.json+entities/304/settings/event/0/elseStep/2/thenStep/0/elseStep/0/message+%2320
-msgctxt "data/maps/arena/pvp/pvp-lily.json//entities/304/settings/event/0/elseStep/2/thenStep/0/elseStep/0/message"
-msgid "Come on! I know you can do better!"
-msgstr "Давай же! Я знаю, ты можешь лучше!"
-
-#. data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/elseStep/3/thenStep/0/message #21
-#. EventTrigger pvpBrake START IF pvp.brake
-#. IF NOT pvp.lastWinPlayer
-#. IF pvp.enemyPoints == 4
-#. SHOW_SIDE_MSG guests.lily @DEFAULT
-#: data/maps/arena/pvp/pvp-lily.json+entities/304/settings/event/0/elseStep/3/thenStep/0/message+%2321
-msgctxt "data/maps/arena/pvp/pvp-lily.json//entities/304/settings/event/0/elseStep/3/thenStep/0/message"
-msgid "One more point...!"
-msgstr "Ещё одно очко...!"
-
-#. data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/thenStep/1/message #8
-#. EventTrigger pvpEnd START IF pvp.finished
-#. IF pvp.lastWinPlayer
-#. SHOW_MSG guests.lily @DEFAULT
-#: data/maps/arena/pvp/pvp-lily.json+entities/305/settings/event/14/thenStep/1/message+%238
-msgctxt "data/maps/arena/pvp/pvp-lily.json//entities/305/settings/event/14/thenStep/1/message"
-msgid "Phew...\\. you won."
-msgstr "Фух...\\. ты победила."
-
-#. data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/thenStep/2/message #7
-#. EventTrigger pvpEnd START IF pvp.finished
-#. IF pvp.lastWinPlayer
-#. SHOW_MSG main.lea @SMUG
-#: data/maps/arena/pvp/pvp-lily.json+entities/305/settings/event/14/thenStep/2/message+%237
-msgctxt "data/maps/arena/pvp/pvp-lily.json//entities/305/settings/event/14/thenStep/2/message"
-msgid "Hi!"
-msgstr "Привет!"
-
-#. data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/thenStep/3/message #22
-#. EventTrigger pvpEnd START IF pvp.finished
-#. IF pvp.lastWinPlayer
-#. SHOW_MSG guests.lily @DEFAULT
-#: data/maps/arena/pvp/pvp-lily.json+entities/305/settings/event/14/thenStep/3/message+%2322
-msgctxt "data/maps/arena/pvp/pvp-lily.json//entities/305/settings/event/14/thenStep/3/message"
-msgid "That was great, though."
-msgstr "Всё же, это было отлично."
-
-#. data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/thenStep/4/message #23
-#. EventTrigger pvpEnd START IF pvp.finished
-#. IF pvp.lastWinPlayer
-#. SHOW_MSG guests.lily @DEFAULT
-#: data/maps/arena/pvp/pvp-lily.json+entities/305/settings/event/14/thenStep/4/message+%2323
-msgctxt "data/maps/arena/pvp/pvp-lily.json//entities/305/settings/event/14/thenStep/4/message"
-msgid "I'm looking forward to my rematch!"
-msgstr "Жду не дождусь своего реванша!"
-
-#. data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/elseStep/1/message #9
-#. EventTrigger pvpEnd START IF pvp.finished
-#. IF NOT pvp.lastWinPlayer
-#. SHOW_MSG guests.lily @DEFAULT
-#: data/maps/arena/pvp/pvp-lily.json+entities/305/settings/event/14/elseStep/1/message+%239
-msgctxt "data/maps/arena/pvp/pvp-lily.json//entities/305/settings/event/14/elseStep/1/message"
-msgid "I got it, yay!"
-msgstr "У меня получилось, ура!"
-
-#. data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/elseStep/2/message #24
-#. EventTrigger pvpEnd START IF pvp.finished
-#. IF NOT pvp.lastWinPlayer
-#. SHOW_MSG main.lea @EXHAUSTED
-#: data/maps/arena/pvp/pvp-lily.json+entities/305/settings/event/14/elseStep/2/message+%2324
-msgctxt "data/maps/arena/pvp/pvp-lily.json//entities/305/settings/event/14/elseStep/2/message"
-msgid "..."
-msgstr "..."
-
-#. data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/elseStep/3/message #25
-#. EventTrigger pvpEnd START IF pvp.finished
-#. IF NOT pvp.lastWinPlayer
-#. SHOW_MSG main.lea @NOD
-#: data/maps/arena/pvp/pvp-lily.json+entities/305/settings/event/14/elseStep/3/message+%2325
-msgctxt "data/maps/arena/pvp/pvp-lily.json//entities/305/settings/event/14/elseStep/3/message"
-msgid "[nods]"
-msgstr "[кивает]"
-
-#. data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/elseStep/4/message #26
-#. EventTrigger pvpEnd START IF pvp.finished
-#. IF NOT pvp.lastWinPlayer
-#. SHOW_MSG guests.lily @DEFAULT
-#: data/maps/arena/pvp/pvp-lily.json+entities/305/settings/event/14/elseStep/4/message+%2326
-msgctxt "data/maps/arena/pvp/pvp-lily.json//entities/305/settings/event/14/elseStep/4/message"
-msgid "That was a good fight, Lea!"
-msgstr "Это был хороший бой, Лея!"
-
-#. data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/elseStep/5/message #27
-#. EventTrigger pvpEnd START IF pvp.finished
-#. IF NOT pvp.lastWinPlayer
-#. SHOW_MSG guests.lily @DEFAULT
-#: data/maps/arena/pvp/pvp-lily.json+entities/305/settings/event/14/elseStep/5/message+%2327
-msgctxt "data/maps/arena/pvp/pvp-lily.json//entities/305/settings/event/14/elseStep/5/message"
-msgid "Just hit me up, when you're ready for rematch!"
-msgstr "Просто позвони мне, когда будешь готова к реваншу!"
-
-#. data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/elseStep/6/message #10
-#. EventTrigger pvpEnd START IF pvp.finished
-#. IF NOT pvp.lastWinPlayer
-#. SHOW_MSG main.lea @DETERMINED
-#: data/maps/arena/pvp/pvp-lily.json+entities/305/settings/event/14/elseStep/6/message+%2310
-msgctxt "data/maps/arena/pvp/pvp-lily.json//entities/305/settings/event/14/elseStep/6/message"
-msgid "...!"
-msgstr "...!"

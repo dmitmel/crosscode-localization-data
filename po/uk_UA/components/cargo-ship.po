@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.3.0-4\n"
+"Project-Id-Version: crosscode 1.4.0-4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-11 11:05+0000\n"
-"PO-Revision-Date: 2021-02-11 11:05+0000\n"
+"POT-Creation-Date: 2021-03-12 23:31+0000\n"
+"PO-Revision-Date: 2021-03-12 23:31+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: uk_UA\n"
@@ -905,6 +905,42 @@ msgctxt "data/maps/cargo-ship/bridge.json//entities/23/settings/npcStates/8/even
 msgid "...!"
 msgstr ""
 
+#. data/maps/cargo-ship/bridge.json entities/23/settings/npcStates/10/event/2/message #113
+#. NPC captain
+#. IF plot.line >= 45400
+#. SHOW_MSG main.lea @DEFAULT
+#: data/maps/cargo-ship/bridge.json+entities/23/settings/npcStates/10/event/2/message+%23113
+msgctxt "data/maps/cargo-ship/bridge.json//entities/23/settings/npcStates/10/event/2/message"
+msgid "Hi!"
+msgstr ""
+
+#. data/maps/cargo-ship/bridge.json entities/23/settings/npcStates/10/event/3/message #112
+#. NPC captain
+#. IF plot.line >= 45400
+#. SHOW_MSG main.captain @DEFAULT
+#: data/maps/cargo-ship/bridge.json+entities/23/settings/npcStates/10/event/3/message+%23112
+msgctxt "data/maps/cargo-ship/bridge.json//entities/23/settings/npcStates/10/event/3/message"
+msgid "Good day, Lass.\\. Back on the ship?"
+msgstr ""
+
+#. data/maps/cargo-ship/bridge.json entities/23/settings/npcStates/10/event/4/message #114
+#. NPC captain
+#. IF plot.line >= 45400
+#. SHOW_MSG main.captain @TOWARD
+#: data/maps/cargo-ship/bridge.json+entities/23/settings/npcStates/10/event/4/message+%23114
+msgctxt "data/maps/cargo-ship/bridge.json//entities/23/settings/npcStates/10/event/4/message"
+msgid "Ye're always welcome of course.\\. Just remember that most people on this ship are working."
+msgstr ""
+
+#. data/maps/cargo-ship/bridge.json entities/23/settings/npcStates/10/event/5/message #115
+#. NPC captain
+#. IF plot.line >= 45400
+#. SHOW_MSG main.lea @NOD
+#: data/maps/cargo-ship/bridge.json+entities/23/settings/npcStates/10/event/5/message+%23115
+msgctxt "data/maps/cargo-ship/bridge.json//entities/23/settings/npcStates/10/event/5/message"
+msgid "[nods]"
+msgstr ""
+
 #. data/maps/cargo-ship/bridge.json entities/24/settings/npcStates/0/event/0/thenStep/2/message #98
 #. NPC steeringDude
 #. IF plot.line >= 15200
@@ -1518,6 +1554,195 @@ msgctxt "data/maps/cargo-ship/cabins1.json//entities/131/settings/text"
 msgid "Intero?"
 msgstr ""
 
+#. data/maps/cargo-ship/cabins1.json entities/132/settings/npcStates/0/event/2/message #34
+#. NPC avatarFan
+#. IF plot.line >= 40000
+#. SHOW_MSG main.lea @DEFAULT
+#: data/maps/cargo-ship/cabins1.json+entities/132/settings/npcStates/0/event/2/message+%2334
+msgctxt "data/maps/cargo-ship/cabins1.json//entities/132/settings/npcStates/0/event/2/message"
+msgid "Hi!"
+msgstr ""
+
+#. data/maps/cargo-ship/cabins1.json entities/132/settings/npcStates/0/event/3/message #35
+#. NPC avatarFan
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.fanboy @DEFAULT
+#: data/maps/cargo-ship/cabins1.json+entities/132/settings/npcStates/0/event/3/message+%2335
+msgctxt "data/maps/cargo-ship/cabins1.json//entities/132/settings/npcStates/0/event/3/message"
+msgid "Oh!!\\. Miss Ava...\\. I mean, Lea!"
+msgstr ""
+
+#. data/maps/cargo-ship/cabins1.json entities/132/settings/npcStates/0/event/4/message #36
+#. NPC avatarFan
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.fanboy @DEFAULT
+#: data/maps/cargo-ship/cabins1.json+entities/132/settings/npcStates/0/event/4/message+%2336
+msgctxt "data/maps/cargo-ship/cabins1.json//entities/132/settings/npcStates/0/event/4/message"
+msgid "You're back on the ship, that's great!"
+msgstr ""
+
+#. data/maps/cargo-ship/cabins1.json entities/132/settings/npcStates/0/event/5/message #37
+#. NPC avatarFan
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.fanboy @DEFAULT
+#: data/maps/cargo-ship/cabins1.json+entities/132/settings/npcStates/0/event/5/message+%2337
+msgctxt "data/maps/cargo-ship/cabins1.json//entities/132/settings/npcStates/0/event/5/message"
+msgid "I also saw that other avatar on ship, today!\\. A Pentafist, so cool!"
+msgstr ""
+
+#. data/maps/cargo-ship/cabins1.json entities/132/settings/npcStates/0/event/6/message #38
+#. NPC avatarFan
+#. IF plot.line >= 40000
+#. SHOW_MSG main.lea @PROUD
+#: data/maps/cargo-ship/cabins1.json+entities/132/settings/npcStates/0/event/6/message+%2338
+msgctxt "data/maps/cargo-ship/cabins1.json//entities/132/settings/npcStates/0/event/6/message"
+msgid "...!"
+msgstr ""
+
+#. data/maps/cargo-ship/cabins1.json entities/132/settings/npcStates/0/event/7/message #39
+#. NPC avatarFan
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.fanboy @DEFAULT
+#: data/maps/cargo-ship/cabins1.json+entities/132/settings/npcStates/0/event/7/message+%2339
+msgctxt "data/maps/cargo-ship/cabins1.json//entities/132/settings/npcStates/0/event/7/message"
+msgid "But you know what the greatest news is?"
+msgstr ""
+
+#. data/maps/cargo-ship/cabins1.json entities/132/settings/npcStates/0/event/8/message #40
+#. NPC avatarFan
+#. IF plot.line >= 40000
+#. SHOW_MSG main.lea @SURPRISED
+#: data/maps/cargo-ship/cabins1.json+entities/132/settings/npcStates/0/event/8/message+%2340
+msgctxt "data/maps/cargo-ship/cabins1.json//entities/132/settings/npcStates/0/event/8/message"
+msgid "What?"
+msgstr ""
+
+#. data/maps/cargo-ship/cabins1.json entities/132/settings/npcStates/0/event/9/message #41
+#. NPC avatarFan
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.fanboy @DEFAULT
+#: data/maps/cargo-ship/cabins1.json+entities/132/settings/npcStates/0/event/9/message+%2341
+msgctxt "data/maps/cargo-ship/cabins1.json//entities/132/settings/npcStates/0/event/9/message"
+msgid "Soon, I can finally play \\c[3]CrossWorlds myself\\c[0]!"
+msgstr ""
+
+#. data/maps/cargo-ship/cabins1.json entities/132/settings/npcStates/0/event/10/message #42
+#. NPC avatarFan
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.fanboy @DEFAULT
+#: data/maps/cargo-ship/cabins1.json+entities/132/settings/npcStates/0/event/10/message+%2342
+msgctxt "data/maps/cargo-ship/cabins1.json//entities/132/settings/npcStates/0/event/10/message"
+msgid "I'll be on vacation in a couple weeks, I saved up all the money for the hardware and subscription..."
+msgstr ""
+
+#. data/maps/cargo-ship/cabins1.json entities/132/settings/npcStates/0/event/11/message #43
+#. NPC avatarFan
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.fanboy @DEFAULT
+#: data/maps/cargo-ship/cabins1.json+entities/132/settings/npcStates/0/event/11/message+%2343
+msgctxt "data/maps/cargo-ship/cabins1.json//entities/132/settings/npcStates/0/event/11/message"
+msgid "Nothing can stop me, now!"
+msgstr ""
+
+#. data/maps/cargo-ship/cabins1.json entities/132/settings/npcStates/0/event/12/message #44
+#. NPC avatarFan
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.fanboy @DEFAULT
+#: data/maps/cargo-ship/cabins1.json+entities/132/settings/npcStates/0/event/12/message+%2344
+msgctxt "data/maps/cargo-ship/cabins1.json//entities/132/settings/npcStates/0/event/12/message"
+msgid "Once I'm in the game, I'll make sure to say hello!"
+msgstr ""
+
+#. data/maps/cargo-ship/cabins1.json entities/132/settings/npcStates/0/event/13/message #45
+#. NPC avatarFan
+#. IF plot.line >= 40000
+#. SHOW_MSG main.lea @EXCITED
+#: data/maps/cargo-ship/cabins1.json+entities/132/settings/npcStates/0/event/13/message+%2345
+msgctxt "data/maps/cargo-ship/cabins1.json//entities/132/settings/npcStates/0/event/13/message"
+msgid "...!"
+msgstr ""
+
+#. data/maps/cargo-ship/cabins1.json entities/133/settings/npcStates/0/event/2/message #46
+#. NPC Colleague
+#. IF plot.line >= 40000
+#. SHOW_MSG main.lea @DEFAULT
+#: data/maps/cargo-ship/cabins1.json+entities/133/settings/npcStates/0/event/2/message+%2346
+msgctxt "data/maps/cargo-ship/cabins1.json//entities/133/settings/npcStates/0/event/2/message"
+msgid "Hi!"
+msgstr ""
+
+#. data/maps/cargo-ship/cabins1.json entities/133/settings/npcStates/0/event/3/message #47
+#. NPC Colleague
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.colleague @DEFAULT
+#: data/maps/cargo-ship/cabins1.json+entities/133/settings/npcStates/0/event/3/message+%2347
+msgctxt "data/maps/cargo-ship/cabins1.json//entities/133/settings/npcStates/0/event/3/message"
+msgid "Oh hey...\\. you're back on our ship?"
+msgstr ""
+
+#. data/maps/cargo-ship/cabins1.json entities/133/settings/npcStates/0/event/4/message #48
+#. NPC Colleague
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.colleague @DEFAULT
+#: data/maps/cargo-ship/cabins1.json+entities/133/settings/npcStates/0/event/4/message+%2348
+msgctxt "data/maps/cargo-ship/cabins1.json//entities/133/settings/npcStates/0/event/4/message"
+msgid "Has been a while, hasn't it?"
+msgstr ""
+
+#. data/maps/cargo-ship/cabins1.json entities/133/settings/npcStates/0/event/5/message #49
+#. NPC Colleague
+#. IF plot.line >= 40000
+#. SHOW_MSG main.lea @NOD
+#: data/maps/cargo-ship/cabins1.json+entities/133/settings/npcStates/0/event/5/message+%2349
+msgctxt "data/maps/cargo-ship/cabins1.json//entities/133/settings/npcStates/0/event/5/message"
+msgid "[nods]"
+msgstr ""
+
+#. data/maps/cargo-ship/cabins1.json entities/133/settings/npcStates/0/event/6/message #50
+#. NPC Colleague
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.colleague @DEFAULT
+#: data/maps/cargo-ship/cabins1.json+entities/133/settings/npcStates/0/event/6/message+%2350
+msgctxt "data/maps/cargo-ship/cabins1.json//entities/133/settings/npcStates/0/event/6/message"
+msgid "We're currently busy as ever...\\. Instatainment has big plans."
+msgstr ""
+
+#. data/maps/cargo-ship/cabins1.json entities/133/settings/npcStates/0/event/7/message #51
+#. NPC Colleague
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.colleague @DEFAULT
+#: data/maps/cargo-ship/cabins1.json+entities/133/settings/npcStates/0/event/7/message+%2351
+msgctxt "data/maps/cargo-ship/cabins1.json//entities/133/settings/npcStates/0/event/7/message"
+msgid "Meanwhile, my geeky colleague will soon have his first long vacation in a while."
+msgstr ""
+
+#. data/maps/cargo-ship/cabins1.json entities/133/settings/npcStates/0/event/8/message #52
+#. NPC Colleague
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.colleague @DEFAULT
+#: data/maps/cargo-ship/cabins1.json+entities/133/settings/npcStates/0/event/8/message+%2352
+msgctxt "data/maps/cargo-ship/cabins1.json//entities/133/settings/npcStates/0/event/8/message"
+msgid "Not sure if he'd already told you what he plans to do..."
+msgstr ""
+
+#. data/maps/cargo-ship/cabins1.json entities/133/settings/npcStates/0/event/9/message #53
+#. NPC Colleague
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.colleague @DEFAULT
+#: data/maps/cargo-ship/cabins1.json+entities/133/settings/npcStates/0/event/9/message+%2353
+msgctxt "data/maps/cargo-ship/cabins1.json//entities/133/settings/npcStates/0/event/9/message"
+msgid "You know...\\. most people would just try to visit a nice place or something."
+msgstr ""
+
+#. data/maps/cargo-ship/cabins1.json entities/133/settings/npcStates/0/event/10/message #54
+#. NPC Colleague
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.colleague @DEFAULT
+#: data/maps/cargo-ship/cabins1.json+entities/133/settings/npcStates/0/event/10/message+%2354
+msgctxt "data/maps/cargo-ship/cabins1.json//entities/133/settings/npcStates/0/event/10/message"
+msgid "Not that guy."
+msgstr ""
+
 #. data/maps/cargo-ship/cabins2.json entities/0/settings/destinations/0/label #1
 #. Elevator elevator
 #: data/maps/cargo-ship/cabins2.json+entities/0/settings/destinations/0/label+%231
@@ -1815,6 +2040,69 @@ msgctxt "data/maps/cargo-ship/cabins2.json//entities/131/settings/npcStates/1/ev
 msgid "[nods]"
 msgstr "[киває]"
 
+#. data/maps/cargo-ship/cabins2.json entities/131/settings/npcStates/2/event/2/message #1246
+#. NPC
+#. IF plot.line >= 40000
+#. SHOW_MSG main.lea @DEFAULT
+#: data/maps/cargo-ship/cabins2.json+entities/131/settings/npcStates/2/event/2/message+%231246
+msgctxt "data/maps/cargo-ship/cabins2.json//entities/131/settings/npcStates/2/event/2/message"
+msgid "Hi!"
+msgstr ""
+
+#. data/maps/cargo-ship/cabins2.json entities/131/settings/npcStates/2/event/3/message #1247
+#. NPC
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.male-short @DEFAULT
+#: data/maps/cargo-ship/cabins2.json+entities/131/settings/npcStates/2/event/3/message+%231247
+msgctxt "data/maps/cargo-ship/cabins2.json//entities/131/settings/npcStates/2/event/3/message"
+msgid "Oh!\\. You're back the ship!\\. Haven't seen you for some time!"
+msgstr ""
+
+#. data/maps/cargo-ship/cabins2.json entities/131/settings/npcStates/2/event/4/message #1248
+#. NPC
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.male-short @DEFAULT
+#: data/maps/cargo-ship/cabins2.json+entities/131/settings/npcStates/2/event/4/message+%231248
+msgctxt "data/maps/cargo-ship/cabins2.json//entities/131/settings/npcStates/2/event/4/message"
+msgid "I heard somebody mentioning that you have your own house in the Playground now!"
+msgstr ""
+
+#. data/maps/cargo-ship/cabins2.json entities/131/settings/npcStates/2/event/5/message #1249
+#. NPC
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.male-short @DEFAULT
+#: data/maps/cargo-ship/cabins2.json+entities/131/settings/npcStates/2/event/5/message+%231249
+msgctxt "data/maps/cargo-ship/cabins2.json//entities/131/settings/npcStates/2/event/5/message"
+msgid "Is that true?"
+msgstr ""
+
+#. data/maps/cargo-ship/cabins2.json entities/131/settings/npcStates/2/event/6/message #1250
+#. NPC
+#. IF plot.line >= 40000
+#. SHOW_MSG main.lea @NOD
+#: data/maps/cargo-ship/cabins2.json+entities/131/settings/npcStates/2/event/6/message+%231250
+msgctxt "data/maps/cargo-ship/cabins2.json//entities/131/settings/npcStates/2/event/6/message"
+msgid "[nods]"
+msgstr ""
+
+#. data/maps/cargo-ship/cabins2.json entities/131/settings/npcStates/2/event/7/message #1251
+#. NPC
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.male-short @DEFAULT
+#: data/maps/cargo-ship/cabins2.json+entities/131/settings/npcStates/2/event/7/message+%231251
+msgctxt "data/maps/cargo-ship/cabins2.json//entities/131/settings/npcStates/2/event/7/message"
+msgid "Whoa, that's cool!\\. I suppose you have to play the game a lot to get something fancy like that."
+msgstr ""
+
+#. data/maps/cargo-ship/cabins2.json entities/131/settings/npcStates/2/event/8/message #1252
+#. NPC
+#. IF plot.line >= 40000
+#. SHOW_MSG main.lea @SURPRISED_TOWARD
+#: data/maps/cargo-ship/cabins2.json+entities/131/settings/npcStates/2/event/8/message+%231252
+msgctxt "data/maps/cargo-ship/cabins2.json//entities/131/settings/npcStates/2/event/8/message"
+msgid "..."
+msgstr ""
+
 #. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/0/event/2/message #28
 #. NPC carla
 #. IF plot.line >= 200
@@ -2065,6 +2353,316 @@ msgstr ""
 #: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/4/message+%231207
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/4/message"
 msgid "Hope you're having a good time over at the Playground!"
+msgstr ""
+
+#. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/2/message #1215
+#. NPC carla
+#. IF plot.line >= 45400
+#. IF subevent.carla.messy.progress == 30
+#. SHOW_MSG main.sergey @SERIOUS
+#: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/2/message+%231215
+msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/2/message"
+msgid "One moment, Carla!"
+msgstr ""
+
+#. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/3/message #1216
+#. NPC carla
+#. IF plot.line >= 45400
+#. IF subevent.carla.messy.progress == 30
+#. SHOW_MSG main.carla @WHISTLING
+#: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/3/message+%231216
+msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/3/message"
+msgid "Oh!\\. You're here as well, Sergey?"
+msgstr ""
+
+#. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/4/message #1217
+#. NPC carla
+#. IF plot.line >= 45400
+#. IF subevent.carla.messy.progress == 30
+#. SHOW_MSG main.sergey @SERIOUS
+#: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/4/message+%231217
+msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/4/message"
+msgid "I figured it out!"
+msgstr ""
+
+#. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/5/message #1218
+#. NPC carla
+#. IF plot.line >= 45400
+#. IF subevent.carla.messy.progress == 30
+#. SHOW_MSG main.carla @IRRITATED
+#: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/5/message+%231218
+msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/5/message"
+msgid "Figured what out?"
+msgstr ""
+
+#. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/6/message #1219
+#. NPC carla
+#. IF plot.line >= 45400
+#. IF subevent.carla.messy.progress == 30
+#. SHOW_MSG main.sergey @JOKING
+#: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/6/message+%231219
+msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/6/message"
+msgid "The reason why you can keep your room messy as it is, without Jet saying anything!"
+msgstr ""
+
+#. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/7/message #1220
+#. NPC carla
+#. IF plot.line >= 45400
+#. IF subevent.carla.messy.progress == 30
+#. SHOW_MSG main.carla @WONDERING
+#: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/7/message+%231220
+msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/7/message"
+msgid "Wha...?"
+msgstr ""
+
+#. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/8/message #1221
+#. NPC carla
+#. IF plot.line >= 45400
+#. IF subevent.carla.messy.progress == 30
+#. SHOW_MSG main.carla @EXCITED
+#: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/8/message+%231221
+msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/8/message"
+msgid "Oh my gosh!\\. That old story!"
+msgstr ""
+
+#. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/9/message #1222
+#. NPC carla
+#. IF plot.line >= 45400
+#. IF subevent.carla.messy.progress == 30
+#. SHOW_MSG main.carla @UP_GRIN
+#: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/9/message+%231222
+msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/9/message"
+msgid "Damn, when was it when you asked me about it?"
+msgstr ""
+
+#. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/10/message #1223
+#. NPC carla
+#. IF plot.line >= 45400
+#. IF subevent.carla.messy.progress == 30
+#. SHOW_MSG main.carla @SMUG
+#: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/10/message+%231223
+msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/10/message"
+msgid "Must have been ages ago!"
+msgstr ""
+
+#. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/11/message #1224
+#. NPC carla
+#. IF plot.line >= 45400
+#. IF subevent.carla.messy.progress == 30
+#. SHOW_MSG main.sergey @DRAMATIC
+#: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/11/message+%231224
+msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/11/message"
+msgid "Yes...\\. And I've never quite forgotten about it.\\. Even Jet himself wouldn't tell me why."
+msgstr ""
+
+#. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/12/message #1225
+#. NPC carla
+#. IF plot.line >= 45400
+#. IF subevent.carla.messy.progress == 30
+#. SHOW_MSG main.carla @WHISTLING
+#: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/12/message+%231225
+msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/12/message"
+msgid "Talk about dedication!"
+msgstr ""
+
+#. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/13/message #1226
+#. NPC carla
+#. IF plot.line >= 45400
+#. IF subevent.carla.messy.progress == 30
+#. SHOW_MSG main.carla @SMUG
+#: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/13/message+%231226
+msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/13/message"
+msgid "So, let's hear it!\\. What's my secret?"
+msgstr ""
+
+#. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/14/message #1227
+#. NPC carla
+#. IF plot.line >= 45400
+#. IF subevent.carla.messy.progress == 30
+#. SHOW_MSG main.sergey @SERIOUS
+#: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/14/message+%231227
+msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/14/message"
+msgid "Jet... hates water.\\. He can't swim."
+msgstr ""
+
+#. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/15/message #1228
+#. NPC carla
+#. IF plot.line >= 45400
+#. IF subevent.carla.messy.progress == 30
+#. SHOW_MSG main.carla @DEFAULT
+#: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/15/message+%231228
+msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/15/message"
+msgid "..."
+msgstr ""
+
+#. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/16/message #1229
+#. NPC carla
+#. IF plot.line >= 45400
+#. IF subevent.carla.messy.progress == 30
+#. SHOW_MSG main.sergey @THINKING
+#: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/16/message+%231229
+msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/16/message"
+msgid "That's why he's wearing that Jet pack all the time.\\. It suddenly all make sense."
+msgstr ""
+
+#. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/17/message #1230
+#. NPC carla
+#. IF plot.line >= 45400
+#. IF subevent.carla.messy.progress == 30
+#. SHOW_MSG main.carla @IRRITATED
+#: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/17/message+%231230
+msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/17/message"
+msgid "That's right..."
+msgstr ""
+
+#. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/18/message #1231
+#. NPC carla
+#. IF plot.line >= 45400
+#. IF subevent.carla.messy.progress == 30
+#. SHOW_MSG main.carla @WHISTLING
+#: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/18/message+%231231
+msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/18/message"
+msgid "And he's very self conscious about it, so I'd ask you to not share that information any further."
+msgstr ""
+
+#. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/19/message #1232
+#. NPC carla
+#. IF plot.line >= 45400
+#. IF subevent.carla.messy.progress == 30
+#. SHOW_MSG main.sergey @EYES_CLOSED
+#: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/19/message+%231232
+msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/19/message"
+msgid "Of course..."
+msgstr ""
+
+#. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/20/message #1233
+#. NPC carla
+#. IF plot.line >= 45400
+#. IF subevent.carla.messy.progress == 30
+#. SHOW_MSG main.sergey @COMPLEX
+#: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/20/message+%231233
+msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/20/message"
+msgid "But...\\. do I really get this right?"
+msgstr ""
+
+#. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/21/message #1234
+#. NPC carla
+#. IF plot.line >= 45400
+#. IF subevent.carla.messy.progress == 30
+#. SHOW_MSG main.sergey @SERIOUS
+#: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/21/message+%231234
+msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/21/message"
+msgid "Do you actually blackmail Jet with this information?"
+msgstr ""
+
+#. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/22/message #1235
+#. NPC carla
+#. IF plot.line >= 45400
+#. IF subevent.carla.messy.progress == 30
+#. SHOW_MSG main.carla @ANGRY
+#: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/22/message+%231235
+msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/22/message"
+msgid "Blackmailing?\\. Hell no!"
+msgstr ""
+
+#. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/23/message #1236
+#. NPC carla
+#. IF plot.line >= 45400
+#. IF subevent.carla.messy.progress == 30
+#. SHOW_MSG main.carla @IRRITATED
+#: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/23/message+%231236
+msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/23/message"
+msgid "Really Sergey, for who do you take me..."
+msgstr ""
+
+#. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/24/message #1237
+#. NPC carla
+#. IF plot.line >= 45400
+#. IF subevent.carla.messy.progress == 30
+#. SHOW_MSG main.sergey @SURPRISED
+#: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/24/message+%231237
+msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/24/message"
+msgid "Uhm..."
+msgstr ""
+
+#. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/25/message #1238
+#. NPC carla
+#. IF plot.line >= 45400
+#. IF subevent.carla.messy.progress == 30
+#. SHOW_MSG main.carla @WHISTLING
+#: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/25/message+%231238
+msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/25/message"
+msgid "We simply found an agreement."
+msgstr ""
+
+#. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/26/message #1239
+#. NPC carla
+#. IF plot.line >= 45400
+#. IF subevent.carla.messy.progress == 30
+#. SHOW_MSG main.carla @TOWARD
+#: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/26/message+%231239
+msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/26/message"
+msgid "I told him that I need my place to be this way to really concentrate on my work."
+msgstr ""
+
+#. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/27/message #1240
+#. NPC carla
+#. IF plot.line >= 45400
+#. IF subevent.carla.messy.progress == 30
+#. SHOW_MSG main.carla @WHISTLING
+#: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/27/message+%231240
+msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/27/message"
+msgid "I wouldn't ask him to take off his Jet pack either, you see?\\. It actually is a bit of a safety hazard."
+msgstr ""
+
+#. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/28/message #1241
+#. NPC carla
+#. IF plot.line >= 45400
+#. IF subevent.carla.messy.progress == 30
+#. SHOW_MSG main.sergey @ROLL_EYES
+#: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/28/message+%231241
+msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/28/message"
+msgid "Well...\\. alright.\\. I suppose it is not...\\. quite...\\. blackmailing?"
+msgstr ""
+
+#. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/29/message #1242
+#. NPC carla
+#. IF plot.line >= 45400
+#. IF subevent.carla.messy.progress == 30
+#. SHOW_MSG main.carla @SMUG
+#: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/29/message+%231242
+msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/29/message"
+msgid "It totally isn't!\\. We simply accept each other and our quirks!"
+msgstr ""
+
+#. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/30/message #1243
+#. NPC carla
+#. IF plot.line >= 45400
+#. IF subevent.carla.messy.progress == 30
+#. SHOW_MSG main.sergey @EYES_CLOSED
+#: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/30/message+%231243
+msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/30/message"
+msgid "Alright!\\. At least I now understand!"
+msgstr ""
+
+#. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/32/message #1244
+#. NPC carla
+#. IF plot.line >= 45400
+#. IF subevent.carla.messy.progress == 30
+#. SHOW_MSG main.lea @EXHAUSTED
+#: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/32/message+%231244
+msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/32/message"
+msgid "..."
+msgstr ""
+
+#. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/33/message #1245
+#. NPC carla
+#. IF plot.line >= 45400
+#. IF subevent.carla.messy.progress == 30
+#. SHOW_MSG main.carla @IRRITATED
+#: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/33/message+%231245
+msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/33/message"
+msgid "That Sergey never forgets, doesn't he?"
 msgstr ""
 
 #. data/maps/cargo-ship/cabins2.json entities/135/settings/event/0/message #46
@@ -2888,7 +3486,7 @@ msgstr ""
 #. SHOW_MSG main.carla @UP_GRIN
 #: data/maps/cargo-ship/cabins2.json+entities/145/settings/event/26/message+%23208
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/145/settings/event/26/message"
-msgid "Woah there, girl!"
+msgid "Whoa there, girl!"
 msgstr ""
 
 #. data/maps/cargo-ship/cabins2.json entities/145/settings/event/27/message #209
@@ -3072,7 +3670,7 @@ msgstr ""
 #. SHOW_MSG main.sergey-av @THINKING
 #: data/maps/cargo-ship/cabins2.json+entities/145/settings/event/85/message+%23232
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/145/settings/event/85/message"
-msgid "You have been on this planet for quite some time now."
+msgid "You have been on this moon for quite some time now."
 msgstr ""
 
 #. data/maps/cargo-ship/cabins2.json entities/145/settings/event/86/message #233
@@ -3288,7 +3886,7 @@ msgstr ""
 #. SHOW_MSG main.sergey-av @JOKING
 #: data/maps/cargo-ship/cabins2.json+entities/145/settings/event/167/message+%231202
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/145/settings/event/167/message"
-msgid "Doing things the unusual way."
+msgid "Doing things in unusual ways."
 msgstr ""
 
 #. data/maps/cargo-ship/cabins2.json entities/145/settings/event/169/message #1203
@@ -3974,6 +4572,248 @@ msgctxt "data/maps/cargo-ship/ground.json//entities/44/settings/event/27/message
 msgid "Yes!\\. Thank you so much, Ms. Avatar!"
 msgstr ""
 
+#. data/maps/cargo-ship/ground.json entities/46/settings/npcStates/0/event/2/message #63
+#. NPC carlaKit
+#. IF plot.line >= 45400
+#. SHOW_MSG main.lea @DEFAULT
+#: data/maps/cargo-ship/ground.json+entities/46/settings/npcStates/0/event/2/message+%2363
+msgctxt "data/maps/cargo-ship/ground.json//entities/46/settings/npcStates/0/event/2/message"
+msgid "Hi!"
+msgstr ""
+
+#. data/maps/cargo-ship/ground.json entities/46/settings/npcStates/0/event/3/message #64
+#. NPC carlaKit
+#. IF plot.line >= 45400
+#. SHOW_MSG main.carla-kid @DEFAULT
+#: data/maps/cargo-ship/ground.json+entities/46/settings/npcStates/0/event/3/message+%2364
+msgctxt "data/maps/cargo-ship/ground.json//entities/46/settings/npcStates/0/event/3/message"
+msgid "Ah, the horned lady is back!"
+msgstr ""
+
+#. data/maps/cargo-ship/ground.json entities/46/settings/npcStates/0/event/4/message #65
+#. NPC carlaKit
+#. IF plot.line >= 45400
+#. SHOW_MSG main.carla-kid @DEFAULT
+#: data/maps/cargo-ship/ground.json+entities/46/settings/npcStates/0/event/4/message+%2365
+msgctxt "data/maps/cargo-ship/ground.json//entities/46/settings/npcStates/0/event/4/message"
+msgid "Did you see our new cat already?"
+msgstr ""
+
+#. data/maps/cargo-ship/ground.json entities/46/settings/npcStates/0/event/9/message #66
+#. NPC carlaKit
+#. IF plot.line >= 45400
+#. SHOW_MSG main.carla-kid @DEFAULT
+#: data/maps/cargo-ship/ground.json+entities/46/settings/npcStates/0/event/9/message+%2366
+msgctxt "data/maps/cargo-ship/ground.json//entities/46/settings/npcStates/0/event/9/message"
+msgid "We call him Leim!"
+msgstr ""
+
+#. data/maps/cargo-ship/ground.json entities/46/settings/npcStates/0/event/10/message #67
+#. NPC carlaKit
+#. IF plot.line >= 45400
+#. SHOW_MSG main.carla-kid @DEFAULT
+#: data/maps/cargo-ship/ground.json+entities/46/settings/npcStates/0/event/10/message+%2367
+msgctxt "data/maps/cargo-ship/ground.json//entities/46/settings/npcStates/0/event/10/message"
+msgid "My mom said he was found walking on the Playground and they didn't know where to take him."
+msgstr ""
+
+#. data/maps/cargo-ship/ground.json entities/46/settings/npcStates/0/event/11/message #68
+#. NPC carlaKit
+#. IF plot.line >= 45400
+#. SHOW_MSG main.carla-kid @DEFAULT
+#: data/maps/cargo-ship/ground.json+entities/46/settings/npcStates/0/event/11/message+%2368
+msgctxt "data/maps/cargo-ship/ground.json//entities/46/settings/npcStates/0/event/11/message"
+msgid "That's why he's on our ship now!"
+msgstr ""
+
+#. data/maps/cargo-ship/ground.json entities/46/settings/npcStates/0/event/12/message #69
+#. NPC carlaKit
+#. IF plot.line >= 45400
+#. SHOW_MSG main.carla-kid @DEFAULT
+#: data/maps/cargo-ship/ground.json+entities/46/settings/npcStates/0/event/12/message+%2369
+msgctxt "data/maps/cargo-ship/ground.json//entities/46/settings/npcStates/0/event/12/message"
+msgid "And he's very lazy, always sleeping around here!"
+msgstr ""
+
+#. data/maps/cargo-ship/ground.json entities/46/settings/npcStates/0/event/13/message #70
+#. NPC carlaKit
+#. IF plot.line >= 45400
+#. SHOW_MSG main.carla-kid @DEFAULT
+#: data/maps/cargo-ship/ground.json+entities/46/settings/npcStates/0/event/13/message+%2370
+msgctxt "data/maps/cargo-ship/ground.json//entities/46/settings/npcStates/0/event/13/message"
+msgid "He also seems to be very afraid of water, just like the captain!"
+msgstr ""
+
+#. data/maps/cargo-ship/ground.json entities/46/settings/npcStates/0/event/15/message #71
+#. NPC carlaKit
+#. IF plot.line >= 45400
+#. SHOW_MSG main.lea @SURPRISED
+#: data/maps/cargo-ship/ground.json+entities/46/settings/npcStates/0/event/15/message+%2371
+msgctxt "data/maps/cargo-ship/ground.json//entities/46/settings/npcStates/0/event/15/message"
+msgid "What?"
+msgstr ""
+
+#. data/maps/cargo-ship/ground.json entities/46/settings/npcStates/0/event/22/message #72
+#. NPC carlaKit
+#. IF plot.line >= 45400
+#. SHOW_MSG main.carla-kid @DEFAULT
+#: data/maps/cargo-ship/ground.json+entities/46/settings/npcStates/0/event/22/message+%2372
+msgctxt "data/maps/cargo-ship/ground.json//entities/46/settings/npcStates/0/event/22/message"
+msgid "Yes!\\. Captain doesn't like water!\\. That's why he wears the jetpack!"
+msgstr ""
+
+#. data/maps/cargo-ship/ground.json entities/46/settings/npcStates/0/event/23/message #73
+#. NPC carlaKit
+#. IF plot.line >= 45400
+#. SHOW_MSG main.lea @SHOCKED
+#: data/maps/cargo-ship/ground.json+entities/46/settings/npcStates/0/event/23/message+%2373
+msgctxt "data/maps/cargo-ship/ground.json//entities/46/settings/npcStates/0/event/23/message"
+msgid "...?!"
+msgstr ""
+
+#. data/maps/cargo-ship/ground.json entities/46/settings/npcStates/0/event/24/message #74
+#. NPC carlaKit
+#. IF plot.line >= 45400
+#. SHOW_MSG main.carla-kid @DEFAULT
+#: data/maps/cargo-ship/ground.json+entities/46/settings/npcStates/0/event/24/message+%2374
+msgctxt "data/maps/cargo-ship/ground.json//entities/46/settings/npcStates/0/event/24/message"
+msgid "Oh...\\. Oh no!"
+msgstr ""
+
+#. data/maps/cargo-ship/ground.json entities/46/settings/npcStates/0/event/25/message #75
+#. NPC carlaKit
+#. IF plot.line >= 45400
+#. SHOW_MSG main.carla-kid @DEFAULT
+#: data/maps/cargo-ship/ground.json+entities/46/settings/npcStates/0/event/25/message+%2375
+msgctxt "data/maps/cargo-ship/ground.json//entities/46/settings/npcStates/0/event/25/message"
+msgid "Please don't tell anyone else!"
+msgstr ""
+
+#. data/maps/cargo-ship/ground.json entities/46/settings/npcStates/0/event/26/message #76
+#. NPC carlaKit
+#. IF plot.line >= 45400
+#. SHOW_MSG main.lea @SURPRISED_TOWARD
+#: data/maps/cargo-ship/ground.json+entities/46/settings/npcStates/0/event/26/message+%2376
+msgctxt "data/maps/cargo-ship/ground.json//entities/46/settings/npcStates/0/event/26/message"
+msgid "...?"
+msgstr ""
+
+#. data/maps/cargo-ship/ground.json entities/46/settings/npcStates/0/event/27/message #77
+#. NPC carlaKit
+#. IF plot.line >= 45400
+#. SHOW_MSG main.carla-kid @DEFAULT
+#: data/maps/cargo-ship/ground.json+entities/46/settings/npcStates/0/event/27/message+%2377
+msgctxt "data/maps/cargo-ship/ground.json//entities/46/settings/npcStates/0/event/27/message"
+msgid "I promised mom to keep it a secret!"
+msgstr ""
+
+#. data/maps/cargo-ship/ground.json entities/46/settings/npcStates/0/event/28/message #78
+#. NPC carlaKit
+#. IF plot.line >= 45400
+#. SHOW_MSG main.lea @NOD
+#: data/maps/cargo-ship/ground.json+entities/46/settings/npcStates/0/event/28/message+%2378
+msgctxt "data/maps/cargo-ship/ground.json//entities/46/settings/npcStates/0/event/28/message"
+msgid "[nods]"
+msgstr ""
+
+#. data/maps/cargo-ship/ground.json entities/46/settings/npcStates/0/event/29/message #79
+#. NPC carlaKit
+#. IF plot.line >= 45400
+#. SHOW_MSG main.carla-kid @DEFAULT
+#: data/maps/cargo-ship/ground.json+entities/46/settings/npcStates/0/event/29/message+%2379
+msgctxt "data/maps/cargo-ship/ground.json//entities/46/settings/npcStates/0/event/29/message"
+msgid "Thank you horned lady!"
+msgstr ""
+
+#. data/maps/cargo-ship/ground.json entities/46/settings/npcStates/1/event/1/message #80
+#. NPC carlaKit
+#. IF plot.line >= 45400 && map.carlaKitCatTalked
+#. SHOW_MSG main.carla-kid @DEFAULT
+#: data/maps/cargo-ship/ground.json+entities/46/settings/npcStates/1/event/1/message+%2380
+msgctxt "data/maps/cargo-ship/ground.json//entities/46/settings/npcStates/1/event/1/message"
+msgid "Leim, come down!\\. I wanna play!"
+msgstr ""
+
+#. data/maps/cargo-ship/ground.json entities/47/settings/event/4/message #86
+#. EventTrigger carlaSecret START IF map.carlaKitCatTalked && subevent.carla.messy.progress >= 20
+#. SHOW_MSG main.sergey @WORRIED
+#: data/maps/cargo-ship/ground.json+entities/47/settings/event/4/message+%2386
+msgctxt "data/maps/cargo-ship/ground.json//entities/47/settings/event/4/message"
+msgid "Wait a moment!"
+msgstr ""
+
+#. data/maps/cargo-ship/ground.json entities/47/settings/event/5/message #87
+#. EventTrigger carlaSecret START IF map.carlaKitCatTalked && subevent.carla.messy.progress >= 20
+#. SHOW_MSG main.lea @ANNOYED
+#: data/maps/cargo-ship/ground.json+entities/47/settings/event/5/message+%2387
+msgctxt "data/maps/cargo-ship/ground.json//entities/47/settings/event/5/message"
+msgid "...?"
+msgstr ""
+
+#. data/maps/cargo-ship/ground.json entities/47/settings/event/6/message #88
+#. EventTrigger carlaSecret START IF map.carlaKitCatTalked && subevent.carla.messy.progress >= 20
+#. SHOW_MSG main.sergey @WHISTLING
+#: data/maps/cargo-ship/ground.json+entities/47/settings/event/6/message+%2388
+msgctxt "data/maps/cargo-ship/ground.json//entities/47/settings/event/6/message"
+msgid "Oh yes...\\. I just overheard your conversation."
+msgstr ""
+
+#. data/maps/cargo-ship/ground.json entities/47/settings/event/7/message #89
+#. EventTrigger carlaSecret START IF map.carlaKitCatTalked && subevent.carla.messy.progress >= 20
+#. SHOW_MSG main.sergey @THINKING
+#: data/maps/cargo-ship/ground.json+entities/47/settings/event/7/message+%2389
+msgctxt "data/maps/cargo-ship/ground.json//entities/47/settings/event/7/message"
+msgid "What did Isabelle say?\\. Jet hates water?"
+msgstr ""
+
+#. data/maps/cargo-ship/ground.json entities/47/settings/event/8/message #90
+#. EventTrigger carlaSecret START IF map.carlaKitCatTalked && subevent.carla.messy.progress >= 20
+#. SHOW_MSG main.sergey @SERIOUS
+#: data/maps/cargo-ship/ground.json+entities/47/settings/event/8/message+%2390
+msgctxt "data/maps/cargo-ship/ground.json//entities/47/settings/event/8/message"
+msgid "And her mom told her to keep it a secret?"
+msgstr ""
+
+#. data/maps/cargo-ship/ground.json entities/47/settings/event/9/message #91
+#. EventTrigger carlaSecret START IF map.carlaKitCatTalked && subevent.carla.messy.progress >= 20
+#. SHOW_MSG main.lea @NOD
+#: data/maps/cargo-ship/ground.json+entities/47/settings/event/9/message+%2391
+msgctxt "data/maps/cargo-ship/ground.json//entities/47/settings/event/9/message"
+msgid "[nods]"
+msgstr ""
+
+#. data/maps/cargo-ship/ground.json entities/47/settings/event/10/message #92
+#. EventTrigger carlaSecret START IF map.carlaKitCatTalked && subevent.carla.messy.progress >= 20
+#. SHOW_MSG main.sergey @JOKING
+#: data/maps/cargo-ship/ground.json+entities/47/settings/event/10/message+%2392
+msgctxt "data/maps/cargo-ship/ground.json//entities/47/settings/event/10/message"
+msgid "Interesting!\\. I think I finally figured it out!"
+msgstr ""
+
+#. data/maps/cargo-ship/ground.json entities/47/settings/event/11/message #93
+#. EventTrigger carlaSecret START IF map.carlaKitCatTalked && subevent.carla.messy.progress >= 20
+#. SHOW_MSG main.lea @SURPRISED_TOWARD
+#: data/maps/cargo-ship/ground.json+entities/47/settings/event/11/message+%2393
+msgctxt "data/maps/cargo-ship/ground.json//entities/47/settings/event/11/message"
+msgid "...?"
+msgstr ""
+
+#. data/maps/cargo-ship/ground.json entities/47/settings/event/12/message #94
+#. EventTrigger carlaSecret START IF map.carlaKitCatTalked && subevent.carla.messy.progress >= 20
+#. SHOW_MSG main.sergey @DEFAULT
+#: data/maps/cargo-ship/ground.json+entities/47/settings/event/12/message+%2394
+msgctxt "data/maps/cargo-ship/ground.json//entities/47/settings/event/12/message"
+msgid "Lea, could you do me the favor and visit \\c[3]Carla in her cabin\\c[0]?"
+msgstr ""
+
+#. data/maps/cargo-ship/ground.json entities/47/settings/event/13/message #95
+#. EventTrigger carlaSecret START IF map.carlaKitCatTalked && subevent.carla.messy.progress >= 20
+#. SHOW_MSG main.lea @NOD
+#: data/maps/cargo-ship/ground.json+entities/47/settings/event/13/message+%2395
+msgctxt "data/maps/cargo-ship/ground.json//entities/47/settings/event/13/message"
+msgid "[nods]"
+msgstr ""
+
 #. data/maps/cargo-ship/puzzle-challenge.json entities/119/settings/event/8/titleText #1
 #. EventTrigger entermap
 #. SHOW_CENTER_MSG
@@ -4291,7 +5131,7 @@ msgstr ""
 #. SHOW_MSG main.sergey @WHISTLING
 #: data/maps/cargo-ship/room-end.json+entities/26/settings/event/18/message+%2331
 msgctxt "data/maps/cargo-ship/room-end.json//entities/26/settings/event/18/message"
-msgid "Unfortunately I did not have the routine to spawn these shortcuts ready back then."
+msgid "Unfortunately, I did not have the routine to spawn these shortcuts ready back then."
 msgstr ""
 
 #. data/maps/cargo-ship/room-end.json entities/26/settings/event/19/message #32
@@ -7080,6 +7920,150 @@ msgctxt "data/maps/cargo-ship/ship.json//entities/82/settings/npcStates/0/event/
 msgid "[nods]"
 msgstr ""
 
+#. data/maps/cargo-ship/ship.json entities/82/settings/npcStates/2/event/2/message #979
+#. NPC
+#. IF plot.line >= 40000
+#. SHOW_MSG main.lea @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/82/settings/npcStates/2/event/2/message+%23979
+msgctxt "data/maps/cargo-ship/ship.json//entities/82/settings/npcStates/2/event/2/message"
+msgid "Hi!"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/82/settings/npcStates/2/event/3/message #988
+#. NPC
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.male-short-blue @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/82/settings/npcStates/2/event/3/message+%23988
+msgctxt "data/maps/cargo-ship/ship.json//entities/82/settings/npcStates/2/event/3/message"
+msgid "..."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/82/settings/npcStates/2/event/4/message #989
+#. NPC
+#. IF plot.line >= 40000
+#. SHOW_MSG main.lea @SURPRISED_TOWARD
+#: data/maps/cargo-ship/ship.json+entities/82/settings/npcStates/2/event/4/message+%23989
+msgctxt "data/maps/cargo-ship/ship.json//entities/82/settings/npcStates/2/event/4/message"
+msgid "..."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/82/settings/npcStates/2/event/5/message #990
+#. NPC
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.male-short-blue @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/82/settings/npcStates/2/event/5/message+%23990
+msgctxt "data/maps/cargo-ship/ship.json//entities/82/settings/npcStates/2/event/5/message"
+msgid "..."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/82/settings/npcStates/2/event/6/message #991
+#. NPC
+#. IF plot.line >= 40000
+#. SHOW_MSG main.lea @NERVOUS
+#: data/maps/cargo-ship/ship.json+entities/82/settings/npcStates/2/event/6/message+%23991
+msgctxt "data/maps/cargo-ship/ship.json//entities/82/settings/npcStates/2/event/6/message"
+msgid "..."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/82/settings/npcStates/2/event/7/message #992
+#. NPC
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.male-short-blue @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/82/settings/npcStates/2/event/7/message+%23992
+msgctxt "data/maps/cargo-ship/ship.json//entities/82/settings/npcStates/2/event/7/message"
+msgid "Uhm...?"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/82/settings/npcStates/2/event/8/message #993
+#. NPC
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.male-short-blue @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/82/settings/npcStates/2/event/8/message+%23993
+msgctxt "data/maps/cargo-ship/ship.json//entities/82/settings/npcStates/2/event/8/message"
+msgid "So, I always wondered..."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/82/settings/npcStates/2/event/9/message #994
+#. NPC
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.male-short-blue @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/82/settings/npcStates/2/event/9/message+%23994
+msgctxt "data/maps/cargo-ship/ship.json//entities/82/settings/npcStates/2/event/9/message"
+msgid "Are you the avatar?"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/82/settings/npcStates/2/event/10/message #995
+#. NPC
+#. IF plot.line >= 40000
+#. SHOW_MSG main.lea @NOD
+#: data/maps/cargo-ship/ship.json+entities/82/settings/npcStates/2/event/10/message+%23995
+msgctxt "data/maps/cargo-ship/ship.json//entities/82/settings/npcStates/2/event/10/message"
+msgid "[nods]"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/82/settings/npcStates/2/event/11/message #996
+#. NPC
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.male-short-blue @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/82/settings/npcStates/2/event/11/message+%23996
+msgctxt "data/maps/cargo-ship/ship.json//entities/82/settings/npcStates/2/event/11/message"
+msgid "Ahhhh!\\. Finally I get it!"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/82/settings/npcStates/2/event/12/message #997
+#. NPC
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.male-short-blue @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/82/settings/npcStates/2/event/12/message+%23997
+msgctxt "data/maps/cargo-ship/ship.json//entities/82/settings/npcStates/2/event/12/message"
+msgid "That's what everybody was talking about, back then!"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/82/settings/npcStates/2/event/13/message #998
+#. NPC
+#. IF plot.line >= 40000
+#. SHOW_MSG main.lea @NERVOUS
+#: data/maps/cargo-ship/ship.json+entities/82/settings/npcStates/2/event/13/message+%23998
+msgctxt "data/maps/cargo-ship/ship.json//entities/82/settings/npcStates/2/event/13/message"
+msgid "..."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/82/settings/npcStates/2/event/14/message #999
+#. NPC
+#. IF plot.line >= 40000
+#. SHOW_MSG main.lea @ANNOYED
+#: data/maps/cargo-ship/ship.json+entities/82/settings/npcStates/2/event/14/message+%23999
+msgctxt "data/maps/cargo-ship/ship.json//entities/82/settings/npcStates/2/event/14/message"
+msgid "...?!"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/82/settings/npcStates/2/event/15/message #1000
+#. NPC
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.male-short-blue @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/82/settings/npcStates/2/event/15/message+%231000
+msgctxt "data/maps/cargo-ship/ship.json//entities/82/settings/npcStates/2/event/15/message"
+msgid "Yeah sorry...\\. I was just too busy checking the cargo back then."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/82/settings/npcStates/2/event/16/message #1001
+#. NPC
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.male-short-blue @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/82/settings/npcStates/2/event/16/message+%231001
+msgctxt "data/maps/cargo-ship/ship.json//entities/82/settings/npcStates/2/event/16/message"
+msgid "I tend to get absorbed in my task like that..."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/82/settings/npcStates/2/event/17/message #1002
+#. NPC
+#. IF plot.line >= 40000
+#. SHOW_MSG main.lea @ASTONISHED
+#: data/maps/cargo-ship/ship.json+entities/82/settings/npcStates/2/event/17/message+%231002
+msgctxt "data/maps/cargo-ship/ship.json//entities/82/settings/npcStates/2/event/17/message"
+msgid "..."
+msgstr ""
+
 #. data/maps/cargo-ship/ship.json entities/83/settings/npcStates/0/event/2/thenStep/0/thenStep/0/message #19
 #. NPC solarPanelMaintainer
 #. IF
@@ -7491,6 +8475,96 @@ msgctxt "data/maps/cargo-ship/ship.json//entities/83/settings/npcStates/0/event/
 msgid "I...\\. I see? Anyway, I hope you enjoy your stay! "
 msgstr ""
 
+#. data/maps/cargo-ship/ship.json entities/83/settings/npcStates/1/event/2/message #1043
+#. NPC solarPanelMaintainer
+#. IF plot.line >= 15000
+#. SHOW_MSG main.lea @EXCITED
+#: data/maps/cargo-ship/ship.json+entities/83/settings/npcStates/1/event/2/message+%231043
+msgctxt "data/maps/cargo-ship/ship.json//entities/83/settings/npcStates/1/event/2/message"
+msgid "Hi!"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/83/settings/npcStates/1/event/3/message #1044
+#. NPC solarPanelMaintainer
+#. IF plot.line >= 15000
+#. SHOW_MSG cargo-crew.male-bald @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/83/settings/npcStates/1/event/3/message+%231044
+msgctxt "data/maps/cargo-ship/ship.json//entities/83/settings/npcStates/1/event/3/message"
+msgid "Oh! Look who's back!"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/83/settings/npcStates/1/event/4/message #1045
+#. NPC solarPanelMaintainer
+#. IF plot.line >= 15000
+#. SHOW_MSG cargo-crew.male-bald @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/83/settings/npcStates/1/event/4/message+%231045
+msgctxt "data/maps/cargo-ship/ship.json//entities/83/settings/npcStates/1/event/4/message"
+msgid "It has been a while since we last had avatars running around here."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/83/settings/npcStates/1/event/5/message #1046
+#. NPC solarPanelMaintainer
+#. IF plot.line >= 15000
+#. SHOW_MSG cargo-crew.male-bald @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/83/settings/npcStates/1/event/5/message+%231046
+msgctxt "data/maps/cargo-ship/ship.json//entities/83/settings/npcStates/1/event/5/message"
+msgid "I wondered... is Instatainment planning to make this ship part of the Playground?"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/83/settings/npcStates/1/event/6/message #1047
+#. NPC solarPanelMaintainer
+#. IF plot.line >= 15000
+#. SHOW_MSG main.lea @SHOCKED
+#: data/maps/cargo-ship/ship.json+entities/83/settings/npcStates/1/event/6/message+%231047
+msgctxt "data/maps/cargo-ship/ship.json//entities/83/settings/npcStates/1/event/6/message"
+msgid "...?!"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/83/settings/npcStates/1/event/7/message #1048
+#. NPC solarPanelMaintainer
+#. IF plot.line >= 15000
+#. SHOW_MSG main.lea @SHAKE_EYE_CLOSED
+#: data/maps/cargo-ship/ship.json+entities/83/settings/npcStates/1/event/7/message+%231048
+msgctxt "data/maps/cargo-ship/ship.json//entities/83/settings/npcStates/1/event/7/message"
+msgid "[shakes head]"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/83/settings/npcStates/1/event/8/message #1049
+#. NPC solarPanelMaintainer
+#. IF plot.line >= 15000
+#. SHOW_MSG cargo-crew.male-bald @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/83/settings/npcStates/1/event/8/message+%231049
+msgctxt "data/maps/cargo-ship/ship.json//entities/83/settings/npcStates/1/event/8/message"
+msgid "Oh...\\. Alright.\\. That's reassuring."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/83/settings/npcStates/1/event/10/message #1050
+#. NPC solarPanelMaintainer
+#. IF plot.line >= 15000
+#. SHOW_MSG cargo-crew.male-bald @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/83/settings/npcStates/1/event/10/message+%231050
+msgctxt "data/maps/cargo-ship/ship.json//entities/83/settings/npcStates/1/event/10/message"
+msgid "It really would be distracting to have a lot of colorful avatars running around on deck all the time."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/83/settings/npcStates/1/event/11/message #1051
+#. NPC solarPanelMaintainer
+#. IF plot.line >= 15000
+#. SHOW_MSG cargo-crew.male-bald @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/83/settings/npcStates/1/event/11/message+%231051
+msgctxt "data/maps/cargo-ship/ship.json//entities/83/settings/npcStates/1/event/11/message"
+msgid "I could hardly concentrate on work!"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/83/settings/npcStates/1/event/12/message #1052
+#. NPC solarPanelMaintainer
+#. IF plot.line >= 15000
+#. SHOW_MSG main.lea @SMILE
+#: data/maps/cargo-ship/ship.json+entities/83/settings/npcStates/1/event/12/message+%231052
+msgctxt "data/maps/cargo-ship/ship.json//entities/83/settings/npcStates/1/event/12/message"
+msgid "..."
+msgstr ""
+
 #. data/maps/cargo-ship/ship.json entities/86/settings/npcStates/0/event/2/message #54
 #. NPC old-railing-dude
 #. SHOW_MSG cargo-crew.male-bald @DEFAULT
@@ -7529,6 +8603,96 @@ msgstr ""
 #: data/maps/cargo-ship/ship.json+entities/86/settings/npcStates/0/event/13/message+%2358
 msgctxt "data/maps/cargo-ship/ship.json//entities/86/settings/npcStates/0/event/13/message"
 msgid "Oi, make sure you don't fall into the sea.\\. I'm pretty sure avatars are bad at swimming."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/86/settings/npcStates/2/event/2/message #1022
+#. NPC old-railing-dude
+#. IF plot.line >= 40000
+#. SHOW_MSG main.lea @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/86/settings/npcStates/2/event/2/message+%231022
+msgctxt "data/maps/cargo-ship/ship.json//entities/86/settings/npcStates/2/event/2/message"
+msgid "Hi!"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/86/settings/npcStates/2/event/3/message #1023
+#. NPC old-railing-dude
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.male-bald @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/86/settings/npcStates/2/event/3/message+%231023
+msgctxt "data/maps/cargo-ship/ship.json//entities/86/settings/npcStates/2/event/3/message"
+msgid "Ah!\\. Long time no see!"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/86/settings/npcStates/2/event/4/message #1024
+#. NPC old-railing-dude
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.male-bald @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/86/settings/npcStates/2/event/4/message+%231024
+msgctxt "data/maps/cargo-ship/ship.json//entities/86/settings/npcStates/2/event/4/message"
+msgid "Are they letting avatars back on the ship now?"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/86/settings/npcStates/2/event/5/message #1025
+#. NPC old-railing-dude
+#. IF plot.line >= 40000
+#. SHOW_MSG main.lea @NOD
+#: data/maps/cargo-ship/ship.json+entities/86/settings/npcStates/2/event/5/message+%231025
+msgctxt "data/maps/cargo-ship/ship.json//entities/86/settings/npcStates/2/event/5/message"
+msgid "[nods]"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/86/settings/npcStates/2/event/6/message #1026
+#. NPC old-railing-dude
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.male-bald @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/86/settings/npcStates/2/event/6/message+%231026
+msgctxt "data/maps/cargo-ship/ship.json//entities/86/settings/npcStates/2/event/6/message"
+msgid "That's a bit surprising.\\. You left behind such a mess the first time you visited us."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/86/settings/npcStates/2/event/7/message #1027
+#. NPC old-railing-dude
+#. IF plot.line >= 40000
+#. SHOW_MSG main.lea @SCARED
+#: data/maps/cargo-ship/ship.json+entities/86/settings/npcStates/2/event/7/message+%231027
+msgctxt "data/maps/cargo-ship/ship.json//entities/86/settings/npcStates/2/event/7/message"
+msgid "..."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/86/settings/npcStates/2/event/8/message #1028
+#. NPC old-railing-dude
+#. IF plot.line >= 40000
+#. SHOW_MSG main.lea @EXHAUSTED
+#: data/maps/cargo-ship/ship.json+entities/86/settings/npcStates/2/event/8/message+%231028
+msgctxt "data/maps/cargo-ship/ship.json//entities/86/settings/npcStates/2/event/8/message"
+msgid "Sorry..."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/86/settings/npcStates/2/event/9/message #1029
+#. NPC old-railing-dude
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.male-bald @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/86/settings/npcStates/2/event/9/message+%231029
+msgctxt "data/maps/cargo-ship/ship.json//entities/86/settings/npcStates/2/event/9/message"
+msgid "Well...\\. To be frank, most of it was that flying blue-orange person."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/86/settings/npcStates/2/event/10/message #1030
+#. NPC old-railing-dude
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.male-bald @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/86/settings/npcStates/2/event/10/message+%231030
+msgctxt "data/maps/cargo-ship/ship.json//entities/86/settings/npcStates/2/event/10/message"
+msgid "Still, I could have sworn our captain strictly banned any running Instantmatter on deck ever since."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/86/settings/npcStates/2/event/11/message #1031
+#. NPC old-railing-dude
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.male-bald @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/86/settings/npcStates/2/event/11/message+%231031
+msgctxt "data/maps/cargo-ship/ship.json//entities/86/settings/npcStates/2/event/11/message"
+msgid "But I suppose he changed his mind!"
 msgstr ""
 
 #. data/maps/cargo-ship/ship.json entities/87/settings/npcStates/0/event/2/message #59
@@ -7657,6 +8821,186 @@ msgctxt "data/maps/cargo-ship/ship.json//entities/91/settings/npcStates/0/event/
 msgid "Anyway, I have to take care of my babies here.\\. So if you'll excuse me..."
 msgstr ""
 
+#. data/maps/cargo-ship/ship.json entities/91/settings/npcStates/6/event/2/message #1003
+#. NPC twatcake
+#. IF  plot.line >= 40000
+#. SHOW_MSG main.lea @EXCITED
+#: data/maps/cargo-ship/ship.json+entities/91/settings/npcStates/6/event/2/message+%231003
+msgctxt "data/maps/cargo-ship/ship.json//entities/91/settings/npcStates/6/event/2/message"
+msgid "Hi!"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/91/settings/npcStates/6/event/3/message #1004
+#. NPC twatcake
+#. IF  plot.line >= 40000
+#. SHOW_MSG cargo-crew.male-tall-blue @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/91/settings/npcStates/6/event/3/message+%231004
+msgctxt "data/maps/cargo-ship/ship.json//entities/91/settings/npcStates/6/event/3/message"
+msgid "Oh, look who's back!"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/91/settings/npcStates/6/event/4/message #1005
+#. NPC twatcake
+#. IF  plot.line >= 40000
+#. SHOW_MSG main.lea @SMUG
+#: data/maps/cargo-ship/ship.json+entities/91/settings/npcStates/6/event/4/message+%231005
+msgctxt "data/maps/cargo-ship/ship.json//entities/91/settings/npcStates/6/event/4/message"
+msgid "Lea!"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/91/settings/npcStates/6/event/5/message #1006
+#. NPC twatcake
+#. IF  plot.line >= 40000
+#. SHOW_MSG cargo-crew.male-tall-blue @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/91/settings/npcStates/6/event/5/message+%231006
+msgctxt "data/maps/cargo-ship/ship.json//entities/91/settings/npcStates/6/event/5/message"
+msgid "That's right!"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/91/settings/npcStates/6/event/6/message #1007
+#. NPC twatcake
+#. IF  plot.line >= 40000
+#. SHOW_MSG cargo-crew.male-tall-blue @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/91/settings/npcStates/6/event/6/message+%231007
+msgctxt "data/maps/cargo-ship/ship.json//entities/91/settings/npcStates/6/event/6/message"
+msgid "Say, do you still remember the experiment we had a while back?"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/91/settings/npcStates/6/event/7/message #1008
+#. NPC twatcake
+#. IF  plot.line >= 40000
+#. SHOW_MSG main.lea @EXHAUSTED
+#: data/maps/cargo-ship/ship.json+entities/91/settings/npcStates/6/event/7/message+%231008
+msgctxt "data/maps/cargo-ship/ship.json//entities/91/settings/npcStates/6/event/7/message"
+msgid "..."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/91/settings/npcStates/6/event/8/message #1009
+#. NPC twatcake
+#. IF  plot.line >= 40000
+#. SHOW_MSG main.lea @NOD
+#: data/maps/cargo-ship/ship.json+entities/91/settings/npcStates/6/event/8/message+%231009
+msgctxt "data/maps/cargo-ship/ship.json//entities/91/settings/npcStates/6/event/8/message"
+msgid "[nods]"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/91/settings/npcStates/6/event/9/message #1010
+#. NPC twatcake
+#. IF  plot.line >= 40000
+#. SHOW_MSG cargo-crew.male-tall-blue @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/91/settings/npcStates/6/event/9/message+%231010
+msgctxt "data/maps/cargo-ship/ship.json//entities/91/settings/npcStates/6/event/9/message"
+msgid "Yeah...\\. fun times."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/91/settings/npcStates/6/event/10/message #1011
+#. NPC twatcake
+#. IF  plot.line >= 40000
+#. SHOW_MSG cargo-crew.male-tall-blue @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/91/settings/npcStates/6/event/10/message+%231011
+msgctxt "data/maps/cargo-ship/ship.json//entities/91/settings/npcStates/6/event/10/message"
+msgid "So guess what?\\. They recently had a breakthrough with Instantmatter research."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/91/settings/npcStates/6/event/11/message #1012
+#. NPC twatcake
+#. IF  plot.line >= 40000
+#. SHOW_MSG cargo-crew.male-tall-blue @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/91/settings/npcStates/6/event/11/message+%231012
+msgctxt "data/maps/cargo-ship/ship.json//entities/91/settings/npcStates/6/event/11/message"
+msgid "Turns out they managed to make it water proof!"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/91/settings/npcStates/6/event/12/message #1013
+#. NPC twatcake
+#. IF  plot.line >= 40000
+#. SHOW_MSG main.lea @SHOCKED
+#: data/maps/cargo-ship/ship.json+entities/91/settings/npcStates/6/event/12/message+%231013
+msgctxt "data/maps/cargo-ship/ship.json//entities/91/settings/npcStates/6/event/12/message"
+msgid "...?!"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/91/settings/npcStates/6/event/13/message #1014
+#. NPC twatcake
+#. IF  plot.line >= 40000
+#. SHOW_MSG cargo-crew.male-tall-blue @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/91/settings/npcStates/6/event/13/message+%231014
+msgctxt "data/maps/cargo-ship/ship.json//entities/91/settings/npcStates/6/event/13/message"
+msgid "Yeah, at least within reasonable water pressure."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/91/settings/npcStates/6/event/14/message #1015
+#. NPC twatcake
+#. IF  plot.line >= 40000
+#. SHOW_MSG cargo-crew.male-tall-blue @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/91/settings/npcStates/6/event/14/message+%231015
+msgctxt "data/maps/cargo-ship/ship.json//entities/91/settings/npcStates/6/event/14/message"
+msgid "So who knows?\\. Maybe avatars will eventually learn to swim!"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/91/settings/npcStates/6/event/15/message #1016
+#. NPC twatcake
+#. IF  plot.line >= 40000
+#. SHOW_MSG main.lea @EXCITED
+#: data/maps/cargo-ship/ship.json+entities/91/settings/npcStates/6/event/15/message+%231016
+msgctxt "data/maps/cargo-ship/ship.json//entities/91/settings/npcStates/6/event/15/message"
+msgid "...!!"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/91/settings/npcStates/6/event/16/message #1017
+#. NPC twatcake
+#. IF  plot.line >= 40000
+#. SHOW_MSG cargo-crew.male-tall-blue @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/91/settings/npcStates/6/event/16/message+%231017
+msgctxt "data/maps/cargo-ship/ship.json//entities/91/settings/npcStates/6/event/16/message"
+msgid "Though I'm sure it will take some time until a company like Instatainment will adopt such new technology."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/91/settings/npcStates/6/event/17/message #1018
+#. NPC twatcake
+#. IF  plot.line >= 40000
+#. SHOW_MSG cargo-crew.male-tall-blue @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/91/settings/npcStates/6/event/17/message+%231018
+msgctxt "data/maps/cargo-ship/ship.json//entities/91/settings/npcStates/6/event/17/message"
+msgid "Then again...\\. I heard they recently integrated some really advanced A.I. technology."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/91/settings/npcStates/6/event/18/message #1068
+#. NPC twatcake
+#. IF  plot.line >= 40000
+#. SHOW_MSG cargo-crew.male-tall-blue @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/91/settings/npcStates/6/event/18/message+%231068
+msgctxt "data/maps/cargo-ship/ship.json//entities/91/settings/npcStates/6/event/18/message"
+msgid "Pretty wild move!"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/91/settings/npcStates/6/event/19/message #1019
+#. NPC twatcake
+#. IF  plot.line >= 40000
+#. SHOW_MSG main.lea @SMUG
+#: data/maps/cargo-ship/ship.json+entities/91/settings/npcStates/6/event/19/message+%231019
+msgctxt "data/maps/cargo-ship/ship.json//entities/91/settings/npcStates/6/event/19/message"
+msgid "..."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/91/settings/npcStates/6/event/20/message #1020
+#. NPC twatcake
+#. IF  plot.line >= 40000
+#. SHOW_MSG cargo-crew.male-tall-blue @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/91/settings/npcStates/6/event/20/message+%231020
+msgctxt "data/maps/cargo-ship/ship.json//entities/91/settings/npcStates/6/event/20/message"
+msgid "Hm?\\. What's with that look?"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/91/settings/npcStates/6/event/21/message #1021
+#. NPC twatcake
+#. IF  plot.line >= 40000
+#. SHOW_MSG main.lea @WHISTLING
+#: data/maps/cargo-ship/ship.json+entities/91/settings/npcStates/6/event/21/message+%231021
+msgctxt "data/maps/cargo-ship/ship.json//entities/91/settings/npcStates/6/event/21/message"
+msgid "..."
+msgstr ""
+
 #. data/maps/cargo-ship/ship.json entities/92/settings/npcStates/0/event/2/message #73
 #. NPC
 #. IF plot.line >= 160
@@ -7727,6 +9071,123 @@ msgstr ""
 #: data/maps/cargo-ship/ship.json+entities/92/settings/npcStates/0/event/10/message+%2380
 msgctxt "data/maps/cargo-ship/ship.json//entities/92/settings/npcStates/0/event/10/message"
 msgid "*whistle*"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/92/settings/npcStates/2/event/2/message #986
+#. NPC
+#. IF plot.line >= 40000
+#. SHOW_MSG main.lea @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/92/settings/npcStates/2/event/2/message+%23986
+msgctxt "data/maps/cargo-ship/ship.json//entities/92/settings/npcStates/2/event/2/message"
+msgid "Hi!"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/92/settings/npcStates/2/event/3/message #987
+#. NPC
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.female-short-blue @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/92/settings/npcStates/2/event/3/message+%23987
+msgctxt "data/maps/cargo-ship/ship.json//entities/92/settings/npcStates/2/event/3/message"
+msgid "Oh, you're back as well?\\. It has been a while!"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/92/settings/npcStates/2/event/4/message #1032
+#. NPC
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.female-short-blue @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/92/settings/npcStates/2/event/4/message+%231032
+msgctxt "data/maps/cargo-ship/ship.json//entities/92/settings/npcStates/2/event/4/message"
+msgid "But I also saw another avatar...\\. that orange dude with glasses."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/92/settings/npcStates/2/event/5/message #1033
+#. NPC
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.female-short-blue @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/92/settings/npcStates/2/event/5/message+%231033
+msgctxt "data/maps/cargo-ship/ship.json//entities/92/settings/npcStates/2/event/5/message"
+msgid "Is he a friend of yours?"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/92/settings/npcStates/2/event/6/message #1034
+#. NPC
+#. IF plot.line >= 40000
+#. SHOW_MSG main.lea @NOD
+#: data/maps/cargo-ship/ship.json+entities/92/settings/npcStates/2/event/6/message+%231034
+msgctxt "data/maps/cargo-ship/ship.json//entities/92/settings/npcStates/2/event/6/message"
+msgid "[nods]"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/92/settings/npcStates/2/event/7/message #1035
+#. NPC
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.female-short-blue @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/92/settings/npcStates/2/event/7/message+%231035
+msgctxt "data/maps/cargo-ship/ship.json//entities/92/settings/npcStates/2/event/7/message"
+msgid "My, my...\\. You avatars certainly are a special bunch."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/92/settings/npcStates/2/event/8/message #1036
+#. NPC
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.female-short-blue @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/92/settings/npcStates/2/event/8/message+%231036
+msgctxt "data/maps/cargo-ship/ship.json//entities/92/settings/npcStates/2/event/8/message"
+msgid "Combining a futuristic armor with a...\\. \\c[3]cravat\\c[0]?"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/92/settings/npcStates/2/event/9/message #1037
+#. NPC
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.female-short-blue @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/92/settings/npcStates/2/event/9/message+%231037
+msgctxt "data/maps/cargo-ship/ship.json//entities/92/settings/npcStates/2/event/9/message"
+msgid "That's quite the...\\. unique...\\. choice."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/92/settings/npcStates/2/event/10/message #1038
+#. NPC
+#. IF plot.line >= 40000
+#. SHOW_MSG main.lea @SMILE
+#: data/maps/cargo-ship/ship.json+entities/92/settings/npcStates/2/event/10/message+%231038
+msgctxt "data/maps/cargo-ship/ship.json//entities/92/settings/npcStates/2/event/10/message"
+msgid "..."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/92/settings/npcStates/2/event/11/message #1039
+#. NPC
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.female-short-blue @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/92/settings/npcStates/2/event/11/message+%231039
+msgctxt "data/maps/cargo-ship/ship.json//entities/92/settings/npcStates/2/event/11/message"
+msgid "Say, do all avatars in CrossWorlds look like his?"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/92/settings/npcStates/2/event/12/message #1040
+#. NPC
+#. IF plot.line >= 40000
+#. SHOW_MSG main.lea @THINKING
+#: data/maps/cargo-ship/ship.json+entities/92/settings/npcStates/2/event/12/message+%231040
+msgctxt "data/maps/cargo-ship/ship.json//entities/92/settings/npcStates/2/event/12/message"
+msgid "..."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/92/settings/npcStates/2/event/13/message #1041
+#. NPC
+#. IF plot.line >= 40000
+#. SHOW_MSG main.lea @SHAKE_EYE_CLOSED
+#: data/maps/cargo-ship/ship.json+entities/92/settings/npcStates/2/event/13/message+%231041
+msgctxt "data/maps/cargo-ship/ship.json//entities/92/settings/npcStates/2/event/13/message"
+msgid "[shakes head]"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/92/settings/npcStates/2/event/14/message #1042
+#. NPC
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.female-short-blue @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/92/settings/npcStates/2/event/14/message+%231042
+msgctxt "data/maps/cargo-ship/ship.json//entities/92/settings/npcStates/2/event/14/message"
+msgid "Huh...\\. I guess we got a couple outliers, then?"
 msgstr ""
 
 #. data/maps/cargo-ship/ship.json entities/93/settings/npcStates/0/event/2/message #81
@@ -7808,6 +9269,87 @@ msgstr ""
 #: data/maps/cargo-ship/ship.json+entities/93/settings/npcStates/0/event/12/message+%2389
 msgctxt "data/maps/cargo-ship/ship.json//entities/93/settings/npcStates/0/event/12/message"
 msgid "Just like in the old days of MMOs.\\. Some things never change."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/93/settings/npcStates/2/event/2/message #1053
+#. NPC flirter
+#. IF plot.line >= 40000
+#. SHOW_MSG main.lea @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/93/settings/npcStates/2/event/2/message+%231053
+msgctxt "data/maps/cargo-ship/ship.json//entities/93/settings/npcStates/2/event/2/message"
+msgid "Hi!"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/93/settings/npcStates/2/event/3/message #1054
+#. NPC flirter
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.male-short @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/93/settings/npcStates/2/event/3/message+%231054
+msgctxt "data/maps/cargo-ship/ship.json//entities/93/settings/npcStates/2/event/3/message"
+msgid "Oh, avatar on board!"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/93/settings/npcStates/2/event/4/message #1055
+#. NPC flirter
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.male-short @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/93/settings/npcStates/2/event/4/message+%231055
+msgctxt "data/maps/cargo-ship/ship.json//entities/93/settings/npcStates/2/event/4/message"
+msgid "The captain mentioned that people like you might show up again."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/93/settings/npcStates/2/event/5/message #1056
+#. NPC flirter
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.male-short @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/93/settings/npcStates/2/event/5/message+%231056
+msgctxt "data/maps/cargo-ship/ship.json//entities/93/settings/npcStates/2/event/5/message"
+msgid "I suppose this still works at the moment, since the ship is steering close to the Playground."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/93/settings/npcStates/2/event/6/message #1057
+#. NPC flirter
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.male-short @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/93/settings/npcStates/2/event/6/message+%231057
+msgctxt "data/maps/cargo-ship/ship.json//entities/93/settings/npcStates/2/event/6/message"
+msgid "I'm not sure if the connection will be stable enough once we start going for longer trips."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/93/settings/npcStates/2/event/7/message #1058
+#. NPC flirter
+#. IF plot.line >= 40000
+#. SHOW_MSG main.lea @SURPRISED_AWAY
+#: data/maps/cargo-ship/ship.json+entities/93/settings/npcStates/2/event/7/message+%231058
+msgctxt "data/maps/cargo-ship/ship.json//entities/93/settings/npcStates/2/event/7/message"
+msgid "..."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/93/settings/npcStates/2/event/8/message #1059
+#. NPC flirter
+#. IF plot.line >= 40000
+#. SHOW_MSG main.lea @NERVOUS
+#: data/maps/cargo-ship/ship.json+entities/93/settings/npcStates/2/event/8/message+%231059
+msgctxt "data/maps/cargo-ship/ship.json//entities/93/settings/npcStates/2/event/8/message"
+msgid "Why?"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/93/settings/npcStates/2/event/9/message #1060
+#. NPC flirter
+#. IF plot.line >= 40000
+#. SHOW_MSG cargo-crew.male-short @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/93/settings/npcStates/2/event/9/message+%231060
+msgctxt "data/maps/cargo-ship/ship.json//entities/93/settings/npcStates/2/event/9/message"
+msgid "Huh...?\\. Why longer trips? ...\\. Sorry, I'm not allowed to share details like that."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/93/settings/npcStates/2/event/10/message #1061
+#. NPC flirter
+#. IF plot.line >= 40000
+#. SHOW_MSG main.lea @EXHAUSTED
+#: data/maps/cargo-ship/ship.json+entities/93/settings/npcStates/2/event/10/message+%231061
+msgctxt "data/maps/cargo-ship/ship.json//entities/93/settings/npcStates/2/event/10/message"
+msgid "..."
 msgstr ""
 
 #. data/maps/cargo-ship/ship.json entities/122/settings/event/3/message #90
@@ -10295,7 +11837,7 @@ msgstr ""
 #. SHOW_MSG main.sergey @DOWN
 #: data/maps/cargo-ship/ship.json+entities/143/settings/npcStates/4/event/quest/319/message+%23447
 msgctxt "data/maps/cargo-ship/ship.json//entities/143/settings/npcStates/4/event/quest/319/message"
-msgid "I will soon start preparing things to get you back into the playground."
+msgid "I will soon start preparing things to get you back into the Playground."
 msgstr ""
 
 #. data/maps/cargo-ship/ship.json entities/143/settings/npcStates/4/event/quest/320/message #448
@@ -11673,7 +13215,7 @@ msgid "Head to the \\c[3]Teleporter\\c[0] on \\c[3]M.S. Solar\\c[0] to travel ba
 msgstr ""
 
 #. data/maps/cargo-ship/ship.json entities/177/settings/dialog/0/text #901
-#. XenoDialog DudesTalking2 SPAWN IF plot.line >= 15000
+#. XenoDialog DudesTalking2 SPAWN IF plot.line >= 15000 && plot.line < 40000
 #. cargo-crew.gamer-blond
 #: data/maps/cargo-ship/ship.json+entities/177/settings/dialog/0/text+%23901
 msgctxt "data/maps/cargo-ship/ship.json//entities/177/settings/dialog/0/text"
@@ -11681,7 +13223,7 @@ msgid "Cleaning duty again... That's like 5 times in a row now."
 msgstr ""
 
 #. data/maps/cargo-ship/ship.json entities/177/settings/dialog/1/text #902
-#. XenoDialog DudesTalking2 SPAWN IF plot.line >= 15000
+#. XenoDialog DudesTalking2 SPAWN IF plot.line >= 15000 && plot.line < 40000
 #. cargo-crew.male-tall-blue
 #: data/maps/cargo-ship/ship.json+entities/177/settings/dialog/1/text+%23902
 msgctxt "data/maps/cargo-ship/ship.json//entities/177/settings/dialog/1/text"
@@ -11689,7 +13231,7 @@ msgid "See? I warned you! Now you are the cleaning maniac of the ship."
 msgstr ""
 
 #. data/maps/cargo-ship/ship.json entities/177/settings/dialog/2/text #903
-#. XenoDialog DudesTalking2 SPAWN IF plot.line >= 15000
+#. XenoDialog DudesTalking2 SPAWN IF plot.line >= 15000 && plot.line < 40000
 #. cargo-crew.male-tall-blue
 #: data/maps/cargo-ship/ship.json+entities/177/settings/dialog/2/text+%23903
 msgctxt "data/maps/cargo-ship/ship.json//entities/177/settings/dialog/2/text"
@@ -11697,7 +13239,7 @@ msgid "People will keep loading off cleaning duty onto you as long as you keep b
 msgstr ""
 
 #. data/maps/cargo-ship/ship.json entities/177/settings/dialog/3/text #904
-#. XenoDialog DudesTalking2 SPAWN IF plot.line >= 15000
+#. XenoDialog DudesTalking2 SPAWN IF plot.line >= 15000 && plot.line < 40000
 #. cargo-crew.gamer-blond
 #: data/maps/cargo-ship/ship.json+entities/177/settings/dialog/3/text+%23904
 msgctxt "data/maps/cargo-ship/ship.json//entities/177/settings/dialog/3/text"
@@ -11705,7 +13247,7 @@ msgid "I'm not exactly complaining, you know?"
 msgstr ""
 
 #. data/maps/cargo-ship/ship.json entities/177/settings/dialog/4/text #905
-#. XenoDialog DudesTalking2 SPAWN IF plot.line >= 15000
+#. XenoDialog DudesTalking2 SPAWN IF plot.line >= 15000 && plot.line < 40000
 #. cargo-crew.gamer-blond
 #: data/maps/cargo-ship/ship.json+entities/177/settings/dialog/4/text+%23905
 msgctxt "data/maps/cargo-ship/ship.json//entities/177/settings/dialog/4/text"
@@ -11713,7 +13255,7 @@ msgid "I like this kind of work and the ship has been in a much better condition
 msgstr ""
 
 #. data/maps/cargo-ship/ship.json entities/177/settings/dialog/5/text #906
-#. XenoDialog DudesTalking2 SPAWN IF plot.line >= 15000
+#. XenoDialog DudesTalking2 SPAWN IF plot.line >= 15000 && plot.line < 40000
 #. cargo-crew.male-tall-blue
 #: data/maps/cargo-ship/ship.json+entities/177/settings/dialog/5/text+%23906
 msgctxt "data/maps/cargo-ship/ship.json//entities/177/settings/dialog/5/text"
@@ -11721,7 +13263,7 @@ msgid "Alright, whatever floats your boat, dude."
 msgstr ""
 
 #. data/maps/cargo-ship/ship.json entities/177/settings/dialog/6/text #907
-#. XenoDialog DudesTalking2 SPAWN IF plot.line >= 15000
+#. XenoDialog DudesTalking2 SPAWN IF plot.line >= 15000 && plot.line < 40000
 #. cargo-crew.gamer-blond
 #: data/maps/cargo-ship/ship.json+entities/177/settings/dialog/6/text+%23907
 msgctxt "data/maps/cargo-ship/ship.json//entities/177/settings/dialog/6/text"
@@ -11729,11 +13271,291 @@ msgid "Well, this boat probably doesn't float because of my cleaning, but it cer
 msgstr ""
 
 #. data/maps/cargo-ship/ship.json entities/177/settings/dialog/7/text #908
-#. XenoDialog DudesTalking2 SPAWN IF plot.line >= 15000
+#. XenoDialog DudesTalking2 SPAWN IF plot.line >= 15000 && plot.line < 40000
 #. cargo-crew.male-tall-blue
 #: data/maps/cargo-ship/ship.json+entities/177/settings/dialog/7/text+%23908
 msgctxt "data/maps/cargo-ship/ship.json//entities/177/settings/dialog/7/text"
 msgid "Dude."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/183/settings/event/24/message #939
+#. EventTrigger OffToEvoGround START IF plot.line >= 48600
+#. SHOW_MSG main.emilie @SHOCKED
+#: data/maps/cargo-ship/ship.json+entities/183/settings/event/24/message+%23939
+msgctxt "data/maps/cargo-ship/ship.json//entities/183/settings/event/24/message"
+msgid "SACREBLEU!"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/183/settings/event/30/message #940
+#. EventTrigger OffToEvoGround START IF plot.line >= 48600
+#. SHOW_MSG main.emilie @ASTONISHED
+#: data/maps/cargo-ship/ship.json+entities/183/settings/event/30/message+%23940
+msgctxt "data/maps/cargo-ship/ship.json//entities/183/settings/event/30/message"
+msgid "We really are on a cargo ship!!"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/183/settings/event/37/message #945
+#. EventTrigger OffToEvoGround START IF plot.line >= 48600
+#. SHOW_MSG main.glasses @THOUGHTFUL
+#: data/maps/cargo-ship/ship.json+entities/183/settings/event/37/message+%23945
+msgctxt "data/maps/cargo-ship/ship.json//entities/183/settings/event/37/message"
+msgid "This is not really part of the playground, is it?"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/183/settings/event/38/message #946
+#. EventTrigger OffToEvoGround START IF plot.line >= 48600
+#. SHOW_MSG main.sergey-av @SERIOUS
+#: data/maps/cargo-ship/ship.json+entities/183/settings/event/38/message+%23946
+msgctxt "data/maps/cargo-ship/ship.json//entities/183/settings/event/38/message"
+msgid "Neither is Vermillion Wasteland. "
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/183/settings/event/39/message #947
+#. EventTrigger OffToEvoGround START IF plot.line >= 48600
+#. SHOW_MSG main.sergey-av @EYES_CLOSED
+#: data/maps/cargo-ship/ship.json+entities/183/settings/event/39/message+%23947
+msgctxt "data/maps/cargo-ship/ship.json//entities/183/settings/event/39/message"
+msgid "And this is the safest way to go there."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/183/settings/event/52/message #944
+#. EventTrigger OffToEvoGround START IF plot.line >= 48600
+#. SHOW_MSG main.lea @EXCITED
+#: data/maps/cargo-ship/ship.json+entities/183/settings/event/52/message+%23944
+msgctxt "data/maps/cargo-ship/ship.json//entities/183/settings/event/52/message"
+msgid "Hi!!"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/183/settings/event/54/message #948
+#. EventTrigger OffToEvoGround START IF plot.line >= 48600
+#. SHOW_MSG main.carla @GLASS_GRIN
+#: data/maps/cargo-ship/ship.json+entities/183/settings/event/54/message+%23948
+msgctxt "data/maps/cargo-ship/ship.json//entities/183/settings/event/54/message"
+msgid "Would you look at that colorful trio!"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/183/settings/event/56/message #949
+#. EventTrigger OffToEvoGround START IF plot.line >= 48600
+#. SHOW_MSG main.emilie @SMILE
+#: data/maps/cargo-ship/ship.json+entities/183/settings/event/56/message+%23949
+msgctxt "data/maps/cargo-ship/ship.json//entities/183/settings/event/56/message"
+msgid "Uhm...\\. bonjour!\\. I'm Emilie!"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/183/settings/event/58/message #950
+#. EventTrigger OffToEvoGround START IF plot.line >= 48600
+#. SHOW_MSG main.captain @STERN_GLASS
+#: data/maps/cargo-ship/ship.json+entities/183/settings/event/58/message+%23950
+msgctxt "data/maps/cargo-ship/ship.json//entities/183/settings/event/58/message"
+msgid "No time for introductions."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/183/settings/event/59/message #951
+#. EventTrigger OffToEvoGround START IF plot.line >= 48600
+#. SHOW_MSG main.captain @DOWN_GLASS
+#: data/maps/cargo-ship/ship.json+entities/183/settings/event/59/message+%23951
+msgctxt "data/maps/cargo-ship/ship.json//entities/183/settings/event/59/message"
+msgid "I'll get ye dobbers over to that place and we're done."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/183/settings/event/60/message #952
+#. EventTrigger OffToEvoGround START IF plot.line >= 48600
+#. SHOW_MSG main.emilie @CURIOUS
+#: data/maps/cargo-ship/ship.json+entities/183/settings/event/60/message+%23952
+msgctxt "data/maps/cargo-ship/ship.json//entities/183/settings/event/60/message"
+msgid "Okay..."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/183/settings/event/61/message #953
+#. EventTrigger OffToEvoGround START IF plot.line >= 48600
+#. SHOW_MSG main.captain @CONCERNED_GLASS
+#: data/maps/cargo-ship/ship.json+entities/183/settings/event/61/message+%23953
+msgctxt "data/maps/cargo-ship/ship.json//entities/183/settings/event/61/message"
+msgid "Let's see, how do we do this..."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/183/settings/event/70/message #954
+#. EventTrigger OffToEvoGround START IF plot.line >= 48600
+#. SHOW_MSG main.captain @DOWN_GLASS
+#: data/maps/cargo-ship/ship.json+entities/183/settings/event/70/message+%23954
+msgctxt "data/maps/cargo-ship/ship.json//entities/183/settings/event/70/message"
+msgid "Hm..."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/183/settings/event/75/message #955
+#. EventTrigger OffToEvoGround START IF plot.line >= 48600
+#. SHOW_MSG main.captain @SHOUT_GLASS
+#: data/maps/cargo-ship/ship.json+entities/183/settings/event/75/message+%23955
+msgctxt "data/maps/cargo-ship/ship.json//entities/183/settings/event/75/message"
+msgid "You two!\\. Get close together!"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/183/settings/event/82/message #956
+#. EventTrigger OffToEvoGround START IF plot.line >= 48600
+#. SHOW_MSG main.captain @TOWARD_GLASS
+#: data/maps/cargo-ship/ship.json+entities/183/settings/event/82/message+%23956
+msgctxt "data/maps/cargo-ship/ship.json//entities/183/settings/event/82/message"
+msgid "The blue lass jumps on my back."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/183/settings/event/83/message #957
+#. EventTrigger OffToEvoGround START IF plot.line >= 48600
+#. SHOW_MSG main.captain @PLOTTING_GLASS
+#: data/maps/cargo-ship/ship.json+entities/183/settings/event/83/message+%23957
+msgctxt "data/maps/cargo-ship/ship.json//entities/183/settings/event/83/message"
+msgid "I can hold the other two.\n"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/183/settings/event/84/message #958
+#. EventTrigger OffToEvoGround START IF plot.line >= 48600
+#. SHOW_MSG main.captain @SMILE_GLASS
+#: data/maps/cargo-ship/ship.json+entities/183/settings/event/84/message+%23958
+msgctxt "data/maps/cargo-ship/ship.json//entities/183/settings/event/84/message"
+msgid "Ready?"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/183/settings/event/86/message #959
+#. EventTrigger OffToEvoGround START IF plot.line >= 48600
+#. SHOW_MSG main.lea @NOD
+#: data/maps/cargo-ship/ship.json+entities/183/settings/event/86/message+%23959
+msgctxt "data/maps/cargo-ship/ship.json//entities/183/settings/event/86/message"
+msgid "[nods]"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/183/settings/event/106/message #960
+#. EventTrigger OffToEvoGround START IF plot.line >= 48600
+#. SHOW_MSG main.emilie @SHOCKED
+#: data/maps/cargo-ship/ship.json+entities/183/settings/event/106/message+%23960
+msgctxt "data/maps/cargo-ship/ship.json//entities/183/settings/event/106/message"
+msgid "\\s[6]Whoaaaaaaaaaa!"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/183/settings/event/108/message #961
+#. EventTrigger OffToEvoGround START IF plot.line >= 48600
+#. SHOW_MSG main.glasses @SHOCKED
+#: data/maps/cargo-ship/ship.json+entities/183/settings/event/108/message+%23961
+msgctxt "data/maps/cargo-ship/ship.json//entities/183/settings/event/108/message"
+msgid "D-\\.Do you really think this'll work?!\n"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/183/settings/event/110/message #962
+#. EventTrigger OffToEvoGround START IF plot.line >= 48600
+#. SHOW_MSG main.captain @SMILE_GLASS
+#: data/maps/cargo-ship/ship.json+entities/183/settings/event/110/message+%23962
+msgctxt "data/maps/cargo-ship/ship.json//entities/183/settings/event/110/message"
+msgid "Aye, ye folks weigh next to nothing."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/183/settings/event/111/message #963
+#. EventTrigger OffToEvoGround START IF plot.line >= 48600
+#. SHOW_MSG main.captain @SHOUT_GLASS
+#: data/maps/cargo-ship/ship.json+entities/183/settings/event/111/message+%23963
+msgctxt "data/maps/cargo-ship/ship.json//entities/183/settings/event/111/message"
+msgid "Hold on tight!"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/187/settings/event/20/message #967
+#. EventTrigger Outro Start START IF plot.line >= 51400
+#. SHOW_MSG main.captain @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/187/settings/event/20/message+%23967
+msgctxt "data/maps/cargo-ship/ship.json//entities/187/settings/event/20/message"
+msgid "Sergey, I hope this won't be a regular thing."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/187/settings/event/22/message #971
+#. EventTrigger Outro Start START IF plot.line >= 51400
+#. SHOW_MSG main.sergey-av @SERIOUS
+#: data/maps/cargo-ship/ship.json+entities/187/settings/event/22/message+%23971
+msgctxt "data/maps/cargo-ship/ship.json//entities/187/settings/event/22/message"
+msgid "No, I promised this is an exception..."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/187/settings/event/30/message #970
+#. EventTrigger Outro Start START IF plot.line >= 51400
+#. SHOW_MSG antagonists.fancyguy @DUMBFOUNDED
+#: data/maps/cargo-ship/ship.json+entities/187/settings/event/30/message+%23970
+msgctxt "data/maps/cargo-ship/ship.json//entities/187/settings/event/30/message"
+msgid "It's a \\c[3]SOLAR CRUISER A590P\\c[0]!"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/187/settings/event/38/message #972
+#. EventTrigger Outro Start START IF plot.line >= 51400
+#. SHOW_MSG antagonists.fancyguy @DEFAULT
+#: data/maps/cargo-ship/ship.json+entities/187/settings/event/38/message+%23972
+msgctxt "data/maps/cargo-ship/ship.json//entities/187/settings/event/38/message"
+msgid "I never expected Instatainment to use such up-to-date models!\n"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/187/settings/event/40/message #973
+#. EventTrigger Outro Start START IF plot.line >= 51400
+#. SHOW_MSG main.carla @GRIN
+#: data/maps/cargo-ship/ship.json+entities/187/settings/event/40/message+%23973
+msgctxt "data/maps/cargo-ship/ship.json//entities/187/settings/event/40/message"
+msgid "Yeah...\\. it sure keeps the cargo floating!"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/187/settings/event/42/message #974
+#. EventTrigger Outro Start START IF plot.line >= 51400
+#. SHOW_MSG antagonists.sidekick @TOWARD
+#: data/maps/cargo-ship/ship.json+entities/187/settings/event/42/message+%23974
+msgctxt "data/maps/cargo-ship/ship.json//entities/187/settings/event/42/message"
+msgid "How much longer, Polly?"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/187/settings/event/45/message #975
+#. EventTrigger Outro Start START IF plot.line >= 51400
+#. SHOW_MSG antagonists.sidekick @AWWW
+#: data/maps/cargo-ship/ship.json+entities/187/settings/event/45/message+%23975
+msgctxt "data/maps/cargo-ship/ship.json//entities/187/settings/event/45/message"
+msgid "I think I'm getting seasick..."
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/190/settings/dialog/0/text #1062
+#. XenoDialog DudesTalking3 SPAWN IF plot.line >= 40000
+#. cargo-crew.male-tall-blue
+#: data/maps/cargo-ship/ship.json+entities/190/settings/dialog/0/text+%231062
+msgctxt "data/maps/cargo-ship/ship.json//entities/190/settings/dialog/0/text"
+msgid "Alright, I admit it, dude.\\. Your dedicated cleaning got you somewhere!"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/190/settings/dialog/1/text #1063
+#. XenoDialog DudesTalking3 SPAWN IF plot.line >= 40000
+#. cargo-crew.male-tall-blue
+#: data/maps/cargo-ship/ship.json+entities/190/settings/dialog/1/text+%231063
+msgctxt "data/maps/cargo-ship/ship.json//entities/190/settings/dialog/1/text"
+msgid "Promoted to boatswain this quickly, I'm impressed!"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/190/settings/dialog/2/text #1064
+#. XenoDialog DudesTalking3 SPAWN IF plot.line >= 40000
+#. cargo-crew.gamer-blond
+#: data/maps/cargo-ship/ship.json+entities/190/settings/dialog/2/text+%231064
+msgctxt "data/maps/cargo-ship/ship.json//entities/190/settings/dialog/2/text"
+msgid "Thank you very much!"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/190/settings/dialog/3/text #1065
+#. XenoDialog DudesTalking3 SPAWN IF plot.line >= 40000
+#. cargo-crew.male-tall-blue
+#: data/maps/cargo-ship/ship.json+entities/190/settings/dialog/3/text+%231065
+msgctxt "data/maps/cargo-ship/ship.json//entities/190/settings/dialog/3/text"
+msgid "So...\\. How come you are STILL CLEANING THE SHIP?!"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/190/settings/dialog/4/text #1066
+#. XenoDialog DudesTalking3 SPAWN IF plot.line >= 40000
+#. cargo-crew.gamer-blond
+#: data/maps/cargo-ship/ship.json+entities/190/settings/dialog/4/text+%231066
+msgctxt "data/maps/cargo-ship/ship.json//entities/190/settings/dialog/4/text"
+msgid "I told them, I'd only take the position if they still allow me to clean the deck!"
+msgstr ""
+
+#. data/maps/cargo-ship/ship.json entities/190/settings/dialog/5/text #1067
+#. XenoDialog DudesTalking3 SPAWN IF plot.line >= 40000
+#. cargo-crew.male-tall-blue
+#: data/maps/cargo-ship/ship.json+entities/190/settings/dialog/5/text+%231067
+msgctxt "data/maps/cargo-ship/ship.json//entities/190/settings/dialog/5/text"
+msgid "Dude...\\. you're a lost cause."
 msgstr ""
 
 #. data/maps/cargo-ship/teleporter.json entities/12/settings/event/30/text #3
@@ -12751,35 +14573,227 @@ msgctxt "data/maps/cargo-ship/teleporter.json//entities/100/settings/event/9/mes
 msgid "I just wanted to make sure the teleporter still works."
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/100/settings/event/10/message #133
+#. data/maps/cargo-ship/teleporter.json entities/100/settings/event/10/message #138
 #. EventTrigger SergeyThere START IF plot.line >= 45200
-#. SHOW_MSG main.sergey-av @THINKING
-#: data/maps/cargo-ship/teleporter.json+entities/100/settings/event/10/message+%23133
+#. SHOW_MSG main.lea @SURPRISED_TOWARD
+#: data/maps/cargo-ship/teleporter.json+entities/100/settings/event/10/message+%23138
 msgctxt "data/maps/cargo-ship/teleporter.json//entities/100/settings/event/10/message"
-msgid "Everyone is in the \\c[3]cabins on the third floor\\c[0]."
+msgid "...?"
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/100/settings/event/11/message #134
+#. data/maps/cargo-ship/teleporter.json entities/100/settings/event/12/message #139
+#. EventTrigger SergeyThere START IF plot.line >= 45200
+#. SHOW_MSG main.sergey-av @WORRIED
+#: data/maps/cargo-ship/teleporter.json+entities/100/settings/event/12/message+%23139
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/100/settings/event/12/message"
+msgid "Actually... there is something else."
+msgstr ""
+
+#. data/maps/cargo-ship/teleporter.json entities/100/settings/event/13/message #140
+#. EventTrigger SergeyThere START IF plot.line >= 45200
+#. SHOW_MSG main.sergey-av @SERIOUS
+#: data/maps/cargo-ship/teleporter.json+entities/100/settings/event/13/message+%23140
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/100/settings/event/13/message"
+msgid "Something I thought I would rather give you in private..."
+msgstr ""
+
+#. data/maps/cargo-ship/teleporter.json entities/100/settings/event/14/message #141
+#. EventTrigger SergeyThere START IF plot.line >= 45200
+#. SHOW_MSG main.lea @NERVOUS
+#: data/maps/cargo-ship/teleporter.json+entities/100/settings/event/14/message+%23141
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/100/settings/event/14/message"
+msgid "...?"
+msgstr ""
+
+#. data/maps/cargo-ship/teleporter.json entities/100/settings/event/19/object #137
+#. EventTrigger SergeyThere START IF plot.line >= 45200
+#. SHOW_GET_MSG
+#: data/maps/cargo-ship/teleporter.json+entities/100/settings/event/19/object+%23137
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/100/settings/event/19/object"
+msgid "Vermillion Arena Cup"
+msgstr ""
+
+#. data/maps/cargo-ship/teleporter.json entities/100/settings/event/22/message #142
+#. EventTrigger SergeyThere START IF plot.line >= 45200
+#. SHOW_MSG main.lea @SURPRISED
+#: data/maps/cargo-ship/teleporter.json+entities/100/settings/event/22/message+%23142
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/100/settings/event/22/message"
+msgid "...?"
+msgstr ""
+
+#. data/maps/cargo-ship/teleporter.json entities/100/settings/event/23/message #143
+#. EventTrigger SergeyThere START IF plot.line >= 45200
+#. SHOW_MSG main.sergey-av @EYES_CLOSED
+#: data/maps/cargo-ship/teleporter.json+entities/100/settings/event/23/message+%23143
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/100/settings/event/23/message"
+msgid "It is an arena cup with all sorts of battles you experienced in Vermillion Wasteland."
+msgstr ""
+
+#. data/maps/cargo-ship/teleporter.json entities/100/settings/event/24/message #144
+#. EventTrigger SergeyThere START IF plot.line >= 45200
+#. SHOW_MSG main.sergey-av @SERIOUS
+#: data/maps/cargo-ship/teleporter.json+entities/100/settings/event/24/message+%23144
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/100/settings/event/24/message"
+msgid "Including Gautham's \"Ultimate Experience\"."
+msgstr ""
+
+#. data/maps/cargo-ship/teleporter.json entities/100/settings/event/25/message #145
+#. EventTrigger SergeyThere START IF plot.line >= 45200
+#. SHOW_MSG main.lea @NERVOUS
+#: data/maps/cargo-ship/teleporter.json+entities/100/settings/event/25/message+%23145
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/100/settings/event/25/message"
+msgid "..."
+msgstr ""
+
+#. data/maps/cargo-ship/teleporter.json entities/100/settings/event/26/message #146
+#. EventTrigger SergeyThere START IF plot.line >= 45200
+#. SHOW_MSG main.sergey-av @WORRIED
+#: data/maps/cargo-ship/teleporter.json+entities/100/settings/event/26/message+%23146
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/100/settings/event/26/message"
+msgid "I thought you would have mixed feelings about this..."
+msgstr ""
+
+#. data/maps/cargo-ship/teleporter.json entities/100/settings/event/27/message #147
+#. EventTrigger SergeyThere START IF plot.line >= 45200
+#. SHOW_MSG main.sergey-av @EYES_CLOSED
+#: data/maps/cargo-ship/teleporter.json+entities/100/settings/event/27/message+%23147
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/100/settings/event/27/message"
+msgid "But at the same time...\\. this is \\c[3]Gautham's legacy\\c[0]."
+msgstr ""
+
+#. data/maps/cargo-ship/teleporter.json entities/100/settings/event/28/message #148
+#. EventTrigger SergeyThere START IF plot.line >= 45200
+#. SHOW_MSG main.sergey-av @WORRIED
+#: data/maps/cargo-ship/teleporter.json+entities/100/settings/event/28/message+%23148
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/100/settings/event/28/message"
+msgid "I am sure all these creations meant a great deal to him."
+msgstr ""
+
+#. data/maps/cargo-ship/teleporter.json entities/100/settings/event/29/message #149
+#. EventTrigger SergeyThere START IF plot.line >= 45200
+#. SHOW_MSG main.sergey-av @COMPLEX
+#: data/maps/cargo-ship/teleporter.json+entities/100/settings/event/29/message+%23149
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/100/settings/event/29/message"
+msgid "So the thought of it all getting lost... "
+msgstr ""
+
+#. data/maps/cargo-ship/teleporter.json entities/100/settings/event/30/message #150
+#. EventTrigger SergeyThere START IF plot.line >= 45200
+#. SHOW_MSG main.sergey-av @EYES_CLOSED
+#: data/maps/cargo-ship/teleporter.json+entities/100/settings/event/30/message+%23150
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/100/settings/event/30/message"
+msgid "If there is one thing Gautham would have wanted, it is to share his creations."
+msgstr ""
+
+#. data/maps/cargo-ship/teleporter.json entities/100/settings/event/31/message #151
 #. EventTrigger SergeyThere START IF plot.line >= 45200
 #. SHOW_MSG main.sergey-av @DEFAULT
-#: data/maps/cargo-ship/teleporter.json+entities/100/settings/event/11/message+%23134
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/100/settings/event/11/message"
+#: data/maps/cargo-ship/teleporter.json+entities/100/settings/event/31/message+%23151
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/100/settings/event/31/message"
+msgid "Right?"
+msgstr ""
+
+#. data/maps/cargo-ship/teleporter.json entities/100/settings/event/32/message #152
+#. EventTrigger SergeyThere START IF plot.line >= 45200
+#. SHOW_MSG main.lea @NERVOUS
+#: data/maps/cargo-ship/teleporter.json+entities/100/settings/event/32/message+%23152
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/100/settings/event/32/message"
+msgid "..."
+msgstr ""
+
+#. data/maps/cargo-ship/teleporter.json entities/100/settings/event/33/message #153
+#. EventTrigger SergeyThere START IF plot.line >= 45200
+#. SHOW_MSG main.lea @NOD
+#: data/maps/cargo-ship/teleporter.json+entities/100/settings/event/33/message+%23153
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/100/settings/event/33/message"
+msgid "[nods]"
+msgstr ""
+
+#. data/maps/cargo-ship/teleporter.json entities/100/settings/event/35/message #154
+#. EventTrigger SergeyThere START IF plot.line >= 45200
+#. SHOW_MSG main.sergey-av @EYES_CLOSED
+#: data/maps/cargo-ship/teleporter.json+entities/100/settings/event/35/message+%23154
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/100/settings/event/35/message"
+msgid "That is why I created this cup."
+msgstr ""
+
+#. data/maps/cargo-ship/teleporter.json entities/100/settings/event/36/message #155
+#. EventTrigger SergeyThere START IF plot.line >= 45200
+#. SHOW_MSG main.sergey-av @DEFAULT
+#: data/maps/cargo-ship/teleporter.json+entities/100/settings/event/36/message+%23155
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/100/settings/event/36/message"
+msgid "But I wanted to give it to you first.\\. You are my beta tester, so to speak."
+msgstr ""
+
+#. data/maps/cargo-ship/teleporter.json entities/100/settings/event/37/message #156
+#. EventTrigger SergeyThere START IF plot.line >= 45200
+#. SHOW_MSG main.sergey-av @DEFAULT
+#: data/maps/cargo-ship/teleporter.json+entities/100/settings/event/37/message+%23156
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/100/settings/event/37/message"
+msgid "If you feel up to the task, I would like to get your feedback on it."
+msgstr ""
+
+#. data/maps/cargo-ship/teleporter.json entities/100/settings/event/38/message #157
+#. EventTrigger SergeyThere START IF plot.line >= 45200
+#. SHOW_MSG main.lea @SURPRISED_AWAY
+#: data/maps/cargo-ship/teleporter.json+entities/100/settings/event/38/message+%23157
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/100/settings/event/38/message"
+msgid "..."
+msgstr ""
+
+#. data/maps/cargo-ship/teleporter.json entities/100/settings/event/39/message #158
+#. EventTrigger SergeyThere START IF plot.line >= 45200
+#. SHOW_MSG main.sergey-av @EYES_CLOSED
+#: data/maps/cargo-ship/teleporter.json+entities/100/settings/event/39/message+%23158
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/100/settings/event/39/message"
+msgid "There is no rush."
+msgstr ""
+
+#. data/maps/cargo-ship/teleporter.json entities/100/settings/event/40/message #159
+#. EventTrigger SergeyThere START IF plot.line >= 45200
+#. SHOW_MSG main.sergey-av @ROLL_EYES
+#: data/maps/cargo-ship/teleporter.json+entities/100/settings/event/40/message+%23159
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/100/settings/event/40/message"
+msgid "First, I will have to convince Instatainment to allow all those border-line game breaking mechanics."
+msgstr ""
+
+#. data/maps/cargo-ship/teleporter.json entities/100/settings/event/41/message #160
+#. EventTrigger SergeyThere START IF plot.line >= 45200
+#. SHOW_MSG main.lea @EXHAUSTED
+#: data/maps/cargo-ship/teleporter.json+entities/100/settings/event/41/message+%23160
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/100/settings/event/41/message"
+msgid "..."
+msgstr ""
+
+#. data/maps/cargo-ship/teleporter.json entities/100/settings/event/42/message #133
+#. EventTrigger SergeyThere START IF plot.line >= 45200
+#. SHOW_MSG main.sergey-av @EYES_CLOSED
+#: data/maps/cargo-ship/teleporter.json+entities/100/settings/event/42/message+%23133
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/100/settings/event/42/message"
+msgid "Anyway..."
+msgstr ""
+
+#. data/maps/cargo-ship/teleporter.json entities/100/settings/event/43/message #161
+#. EventTrigger SergeyThere START IF plot.line >= 45200
+#. SHOW_MSG main.sergey-av @THINKING
+#: data/maps/cargo-ship/teleporter.json+entities/100/settings/event/43/message+%23161
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/100/settings/event/43/message"
+msgid "Jet and the others are waiting in the \\c[3]cabins on the third floor\\c[0]."
+msgstr ""
+
+#. data/maps/cargo-ship/teleporter.json entities/100/settings/event/44/message #134
+#. EventTrigger SergeyThere START IF plot.line >= 45200
+#. SHOW_MSG main.sergey-av @DEFAULT
+#: data/maps/cargo-ship/teleporter.json+entities/100/settings/event/44/message+%23134
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/100/settings/event/44/message"
 msgid "I will go ahead, see you there!\n"
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/100/settings/event/18/message #135
-#. EventTrigger SergeyThere START IF plot.line >= 45200
-#. SHOW_MSG main.lea @ANNOYED
-#: data/maps/cargo-ship/teleporter.json+entities/100/settings/event/18/message+%23135
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/100/settings/event/18/message"
-msgid "Bye?"
-msgstr ""
-
-#. data/maps/cargo-ship/teleporter.json entities/100/settings/event/21/task #130
+#. data/maps/cargo-ship/teleporter.json entities/100/settings/event/52/task #130
 #. EventTrigger SergeyThere START IF plot.line >= 45200
 #. SET_PERMA_TASK
-#: data/maps/cargo-ship/teleporter.json+entities/100/settings/event/21/task+%23130
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/100/settings/event/21/task"
+#: data/maps/cargo-ship/teleporter.json+entities/100/settings/event/52/task+%23130
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/100/settings/event/52/task"
 msgid "Meet Sergey, Jet, and the others at \\c[3]Cargo Ship - Cabins 2\\c[0]"
 msgstr ""
 

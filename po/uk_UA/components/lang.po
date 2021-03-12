@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.3.0-4\n"
+"Project-Id-Version: crosscode 1.4.0-4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-11 11:05+0000\n"
-"PO-Revision-Date: 2021-02-11 11:05+0000\n"
+"POT-Creation-Date: 2021-03-12 23:31+0000\n"
+"PO-Revision-Date: 2021-03-12 23:31+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: uk_UA\n"
@@ -77,6 +77,12 @@ msgstr ""
 #: data/lang/sc/gimmick.en_US.json+labels/voiceActingRemove+%230
 msgctxt "data/lang/sc/gimmick.en_US.json//labels/voiceActingRemove"
 msgid "High Quality Voice Acting is now \\c[3]disabled\\c[0]! Enter the code again to enable it."
+msgstr ""
+
+#. data/lang/sc/gui.en_US.json labels/arena/rushDisabled #0
+#: data/lang/sc/gui.en_US.json+labels/arena/rushDisabled+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/arena/rushDisabled"
+msgid "Disabled"
 msgstr ""
 
 #. data/lang/sc/gui.en_US.json labels/arena/arenaName #0
@@ -367,6 +373,18 @@ msgctxt "data/lang/sc/gui.en_US.json//labels/arena/bonuses/NO_ITEMS_USED"
 msgid "\\c[5]No Items Used\\c[0]"
 msgstr ""
 
+#. data/lang/sc/gui.en_US.json labels/arena/bonuses/PVP_FLAWLESS #0
+#: data/lang/sc/gui.en_US.json+labels/arena/bonuses/PVP_FLAWLESS+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/arena/bonuses/PVP_FLAWLESS"
+msgid "\\c[5]No Rounds Lost\\c[0]"
+msgstr ""
+
+#. data/lang/sc/gui.en_US.json labels/arena/challenges/descriptions/WEAPON_ADJUST #0
+#: data/lang/sc/gui.en_US.json+labels/arena/challenges/descriptions/WEAPON_ADJUST+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/arena/challenges/descriptions/WEAPON_ADJUST"
+msgid "Ascended Gear Level will be adjusted to round level."
+msgstr ""
+
 #. data/lang/sc/gui.en_US.json labels/arena/challenges/descriptions/NO_MELEE #0
 #: data/lang/sc/gui.en_US.json+labels/arena/challenges/descriptions/NO_MELEE+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/challenges/descriptions/NO_MELEE"
@@ -376,7 +394,7 @@ msgstr ""
 #. data/lang/sc/gui.en_US.json labels/arena/challenges/descriptions/NO_RANGED #0
 #: data/lang/sc/gui.en_US.json+labels/arena/challenges/descriptions/NO_RANGED+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/challenges/descriptions/NO_RANGED"
-msgid "Throwing and Throw Arts are disabled"
+msgid "Throwing and Throw Arts are disabled."
 msgstr ""
 
 #. data/lang/sc/gui.en_US.json labels/arena/challenges/descriptions/NO_DASH #0
@@ -533,6 +551,18 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/arena/scoreTypes/PERFECT_DODGE+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/scoreTypes/PERFECT_DODGE"
 msgid "Perfect Dodge"
+msgstr ""
+
+#. data/lang/sc/gui.en_US.json labels/arena/scoreTypes/PVP_ROUND_WON #0
+#: data/lang/sc/gui.en_US.json+labels/arena/scoreTypes/PVP_ROUND_WON+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/arena/scoreTypes/PVP_ROUND_WON"
+msgid "Rounds Won"
+msgstr ""
+
+#. data/lang/sc/gui.en_US.json labels/arena/scoreTypes/PVP_ROUND_LOST #0
+#: data/lang/sc/gui.en_US.json+labels/arena/scoreTypes/PVP_ROUND_LOST+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/arena/scoreTypes/PVP_ROUND_LOST"
+msgid "Rounds Lost"
 msgstr ""
 
 #. data/lang/sc/gui.en_US.json labels/arena/medals/0 #0
@@ -743,6 +773,12 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/arena/menu/roundUnlockCond+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/menu/roundUnlockCond"
 msgid "Clear the previous round to unlock this round."
+msgstr ""
+
+#. data/lang/sc/gui.en_US.json labels/dlc/abr #0
+#: data/lang/sc/gui.en_US.json+labels/dlc/abr+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/dlc/abr"
+msgid "DLC"
 msgstr ""
 
 #. data/lang/sc/gui.en_US.json labels/area/other #0
@@ -12667,90 +12703,6 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/loading/questUpdate+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/loading/questUpdate"
 msgid "Some quests have changed. Those have been resetted. This means you might have to re-do some tasks or you get your rewards after you close this message."
-msgstr ""
-
-#. data/lang/sc/gui.en_US.json labels/combat-hud/pvp-round #0
-#: data/lang/sc/gui.en_US.json+labels/combat-hud/pvp-round+%230
-msgctxt "data/lang/sc/gui.en_US.json//labels/combat-hud/pvp-round"
-msgid "Round"
-msgstr ""
-
-#. data/lang/sc/gui.en_US.json labels/title-screen/changelog #0
-#: data/lang/sc/gui.en_US.json+labels/title-screen/changelog+%230
-msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/changelog"
-msgid "Changelog"
-msgstr ""
-
-#. data/lang/sc/gui.en_US.json labels/options/crosscode-ru/localized-labels-on-sprites/name #0
-#: data/lang/sc/gui.en_US.json+labels/options/crosscode-ru/localized-labels-on-sprites/name+%230
-msgctxt "data/lang/sc/gui.en_US.json//labels/options/crosscode-ru/localized-labels-on-sprites/name"
-msgid "Localized labels on sprites"
-msgstr ""
-
-#. data/lang/sc/gui.en_US.json labels/options/crosscode-ru/localized-labels-on-sprites/description #0
-#: data/lang/sc/gui.en_US.json+labels/options/crosscode-ru/localized-labels-on-sprites/description+%230
-msgctxt "data/lang/sc/gui.en_US.json//labels/options/crosscode-ru/localized-labels-on-sprites/description"
-msgid "Enables translated labels on sprites such as signs in the game world. \\c[1]Needs a restart!"
-msgstr ""
-
-#. data/lang/sc/gui.en_US.json labels/menu/option/mods #0
-#: data/lang/sc/gui.en_US.json+labels/menu/option/mods+%230
-msgctxt "data/lang/sc/gui.en_US.json//labels/menu/option/mods"
-msgid "Mods"
-msgstr ""
-
-#. data/lang/sc/gui.en_US.json labels/options/mods-description/description #0
-#: data/lang/sc/gui.en_US.json+labels/options/mods-description/description+%230
-msgctxt "data/lang/sc/gui.en_US.json//labels/options/mods-description/description"
-msgid "In this menu you can \\c[3]enable or disable installed mods\\c[0]. Mod descriptions are shown below. \\c[1]The game needs to be restarted\\c[0] if you change any options here!"
-msgstr ""
-
-#. data/lang/sc/gui.en_US.json labels/options/headers/logLevel #0
-#: data/lang/sc/gui.en_US.json+labels/options/headers/logLevel+%230
-msgctxt "data/lang/sc/gui.en_US.json//labels/options/headers/logLevel"
-msgid "Log levels"
-msgstr ""
-
-#. data/lang/sc/gui.en_US.json labels/options/logLevel-log/name #0
-#: data/lang/sc/gui.en_US.json+labels/options/logLevel-log/name+%230
-msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-log/name"
-msgid "Log level: Default"
-msgstr ""
-
-#. data/lang/sc/gui.en_US.json labels/options/logLevel-log/description #0
-#: data/lang/sc/gui.en_US.json+labels/options/logLevel-log/description+%230
-msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-log/description"
-msgid "Enables default message popups. \\c[1]Needs a restart!"
-msgstr ""
-
-#. data/lang/sc/gui.en_US.json labels/options/logLevel-warn/name #0
-#: data/lang/sc/gui.en_US.json+labels/options/logLevel-warn/name+%230
-msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-warn/name"
-msgid "Log level: Warnings"
-msgstr ""
-
-#. data/lang/sc/gui.en_US.json labels/options/logLevel-warn/description #0
-#: data/lang/sc/gui.en_US.json+labels/options/logLevel-warn/description+%230
-msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-warn/description"
-msgid "Enables warning popups. \\c[1]Needs a restart!"
-msgstr ""
-
-#. data/lang/sc/gui.en_US.json labels/options/logLevel-error/name #0
-#: data/lang/sc/gui.en_US.json+labels/options/logLevel-error/name+%230
-msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-error/name"
-msgid "Log level: Errors"
-msgstr ""
-
-#. data/lang/sc/gui.en_US.json labels/options/logLevel-error/description #0
-#: data/lang/sc/gui.en_US.json+labels/options/logLevel-error/description+%230
-msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-error/description"
-msgid "Enables error popups. \\c[1]Needs a restart!"
-msgstr ""
-
-#. data/lang/sc/gui.en_US.json labels/combat-hud/boss #0
-#: data/lang/sc/gui.en_US.json+labels/combat-hud/boss+%230
-msgctxt "data/lang/sc/gui.en_US.json//labels/combat-hud/boss"
-msgid "Boss"
 msgstr ""
 
 #. data/lang/sc/map-content.en_US.json labels/elevator/cancel #0

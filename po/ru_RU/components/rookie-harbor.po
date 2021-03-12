@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.3.0-4\n"
+"Project-Id-Version: crosscode 1.4.0-4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-11 11:05+0000\n"
-"PO-Revision-Date: 2021-02-11 11:05+0000\n"
+"POT-Creation-Date: 2021-03-12 23:31+0000\n"
+"PO-Revision-Date: 2021-03-12 23:31+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -3062,7 +3062,7 @@ msgstr "Он находится на первом этаже этого огро
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/2/event/quest/1/name #499
 #. NPC ctc-questgiver-1
-#. IF quest.faction-tutorial.started && !quest.rftc-1-collect_trade.solved
+#. IF quest.faction-tutorial.started && !quest.rftc-1-collect_trade.started
 #. ADD_MSG_PERSON rookie-harbor.man-business @DEFAULT
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/2/event/quest/1/name+%23499
 msgctxt "data/maps/rookie-harbor/center.json//entities/636/settings/npcStates/2/event/quest/1/name"
@@ -3071,7 +3071,7 @@ msgstr "Мистер Номсворт"
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/2/event/quest/2/message #392
 #. NPC ctc-questgiver-1
-#. IF quest.faction-tutorial.started && !quest.rftc-1-collect_trade.solved
+#. IF quest.faction-tutorial.started && !quest.rftc-1-collect_trade.started
 #. SHOW_MSG rookie-harbor.man-business @DEFAULT
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/2/event/quest/2/message+%23392
 msgctxt "data/maps/rookie-harbor/center.json//entities/636/settings/npcStates/2/event/quest/2/message"
@@ -3080,7 +3080,7 @@ msgstr "Ах, снова вы.\\. Теперь вы заинтересованы
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/2/event/quest/3/accepted/0/message #384
 #. NPC ctc-questgiver-1
-#. IF quest.faction-tutorial.started && !quest.rftc-1-collect_trade.solved
+#. IF quest.faction-tutorial.started && !quest.rftc-1-collect_trade.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @NOD
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/2/event/quest/3/accepted/0/message+%23384
@@ -3090,7 +3090,7 @@ msgstr "[кивает]"
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/2/event/quest/3/accepted/1/message #258
 #. NPC ctc-questgiver-1
-#. IF quest.faction-tutorial.started && !quest.rftc-1-collect_trade.solved
+#. IF quest.faction-tutorial.started && !quest.rftc-1-collect_trade.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.man-business @DEFAULT
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/2/event/quest/3/accepted/1/message+%23258
@@ -3100,7 +3100,7 @@ msgstr "По рукам.\\. Мой клиент запросил \\c[3]два ф
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/2/event/quest/3/accepted/2/message #394
 #. NPC ctc-questgiver-1
-#. IF quest.faction-tutorial.started && !quest.rftc-1-collect_trade.solved
+#. IF quest.faction-tutorial.started && !quest.rftc-1-collect_trade.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.man-business @DEFAULT
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/2/event/quest/3/accepted/2/message+%23394
@@ -3110,7 +3110,7 @@ msgstr "Вы можете приобрести их прямо здесь, на 
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/2/event/quest/3/accepted/3/message #386
 #. NPC ctc-questgiver-1
-#. IF quest.faction-tutorial.started && !quest.rftc-1-collect_trade.solved
+#. IF quest.faction-tutorial.started && !quest.rftc-1-collect_trade.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.man-business @DEFAULT
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/2/event/quest/3/accepted/3/message+%23386
@@ -3120,7 +3120,7 @@ msgstr "Для обмена вам понадобится сырьё, добыв
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/2/event/quest/3/declined/0/message #385
 #. NPC ctc-questgiver-1
-#. IF quest.faction-tutorial.started && !quest.rftc-1-collect_trade.solved
+#. IF quest.faction-tutorial.started && !quest.rftc-1-collect_trade.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @SHAKE
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/2/event/quest/3/declined/0/message+%23385
@@ -3130,7 +3130,7 @@ msgstr "[мотает головой]"
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/2/event/quest/3/declined/1/message #261
 #. NPC ctc-questgiver-1
-#. IF quest.faction-tutorial.started && !quest.rftc-1-collect_trade.solved
+#. IF quest.faction-tutorial.started && !quest.rftc-1-collect_trade.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.man-business @DEFAULT
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/2/event/quest/3/declined/1/message+%23261
@@ -3230,7 +3230,7 @@ msgstr "[кивает]"
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/6/event/quest/1/name #503
 #. NPC ctc-questgiver-1
-#. IF quest.rftc-1-collect_trade.solved && plot.line >= 3300 && !quest.bull-arena-1.solved
+#. IF quest.rftc-1-collect_trade.solved && plot.line >= 3300 && !quest.bull-arena-1.started
 #. ADD_MSG_PERSON rookie-harbor.man-business @DEFAULT
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/6/event/quest/1/name+%23503
 msgctxt "data/maps/rookie-harbor/center.json//entities/636/settings/npcStates/6/event/quest/1/name"
@@ -3239,7 +3239,7 @@ msgstr "Мистер Номсворт"
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/6/event/quest/2/message #368
 #. NPC ctc-questgiver-1
-#. IF quest.rftc-1-collect_trade.solved && plot.line >= 3300 && !quest.bull-arena-1.solved
+#. IF quest.rftc-1-collect_trade.solved && plot.line >= 3300 && !quest.bull-arena-1.started
 #. SHOW_MSG rookie-harbor.man-business @DEFAULT
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/6/event/quest/2/message+%23368
 msgctxt "data/maps/rookie-harbor/center.json//entities/636/settings/npcStates/6/event/quest/2/message"
@@ -3248,7 +3248,7 @@ msgstr "О нет, о нет, о нет!"
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/6/event/quest/3/message #369
 #. NPC ctc-questgiver-1
-#. IF quest.rftc-1-collect_trade.solved && plot.line >= 3300 && !quest.bull-arena-1.solved
+#. IF quest.rftc-1-collect_trade.solved && plot.line >= 3300 && !quest.bull-arena-1.started
 #. SHOW_MSG main.lea @SURPRISED_TOWARD
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/6/event/quest/3/message+%23369
 msgctxt "data/maps/rookie-harbor/center.json//entities/636/settings/npcStates/6/event/quest/3/message"
@@ -3257,7 +3257,7 @@ msgstr "Привет!"
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/6/event/quest/4/message #370
 #. NPC ctc-questgiver-1
-#. IF quest.rftc-1-collect_trade.solved && plot.line >= 3300 && !quest.bull-arena-1.solved
+#. IF quest.rftc-1-collect_trade.solved && plot.line >= 3300 && !quest.bull-arena-1.started
 #. SHOW_MSG rookie-harbor.man-business @DEFAULT
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/6/event/quest/4/message+%23370
 msgctxt "data/maps/rookie-harbor/center.json//entities/636/settings/npcStates/6/event/quest/4/message"
@@ -3266,7 +3266,7 @@ msgstr "Ах, это снова вы.\\. В настоящее время я з�
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/6/event/quest/5/message #371
 #. NPC ctc-questgiver-1
-#. IF quest.rftc-1-collect_trade.solved && plot.line >= 3300 && !quest.bull-arena-1.solved
+#. IF quest.rftc-1-collect_trade.solved && plot.line >= 3300 && !quest.bull-arena-1.started
 #. SHOW_MSG main.lea @ASTONISHED
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/6/event/quest/5/message+%23371
 msgctxt "data/maps/rookie-harbor/center.json//entities/636/settings/npcStates/6/event/quest/5/message"
@@ -3275,7 +3275,7 @@ msgstr "...?"
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/6/event/quest/6/message #372
 #. NPC ctc-questgiver-1
-#. IF quest.rftc-1-collect_trade.solved && plot.line >= 3300 && !quest.bull-arena-1.solved
+#. IF quest.rftc-1-collect_trade.solved && plot.line >= 3300 && !quest.bull-arena-1.started
 #. SHOW_MSG rookie-harbor.man-business @DEFAULT
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/6/event/quest/6/message+%23372
 msgctxt "data/maps/rookie-harbor/center.json//entities/636/settings/npcStates/6/event/quest/6/message"
@@ -3284,7 +3284,7 @@ msgstr "Видите ли, я жду срочной доставки свежи�
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/6/event/quest/8/message #373
 #. NPC ctc-questgiver-1
-#. IF quest.rftc-1-collect_trade.solved && plot.line >= 3300 && !quest.bull-arena-1.solved
+#. IF quest.rftc-1-collect_trade.solved && plot.line >= 3300 && !quest.bull-arena-1.started
 #. SHOW_MSG rookie-harbor.man-business @DEFAULT
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/6/event/quest/8/message+%23373
 msgctxt "data/maps/rookie-harbor/center.json//entities/636/settings/npcStates/6/event/quest/8/message"
@@ -3293,7 +3293,7 @@ msgstr "Важный бизнес-ланч будет сорван, если о�
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/6/event/quest/9/message #374
 #. NPC ctc-questgiver-1
-#. IF quest.rftc-1-collect_trade.solved && plot.line >= 3300 && !quest.bull-arena-1.solved
+#. IF quest.rftc-1-collect_trade.solved && plot.line >= 3300 && !quest.bull-arena-1.started
 #. SHOW_MSG main.lea @NERVOUS
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/6/event/quest/9/message+%23374
 msgctxt "data/maps/rookie-harbor/center.json//entities/636/settings/npcStates/6/event/quest/9/message"
@@ -3302,7 +3302,7 @@ msgstr "Привет...!?"
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/6/event/quest/10/message #375
 #. NPC ctc-questgiver-1
-#. IF quest.rftc-1-collect_trade.solved && plot.line >= 3300 && !quest.bull-arena-1.solved
+#. IF quest.rftc-1-collect_trade.solved && plot.line >= 3300 && !quest.bull-arena-1.started
 #. SHOW_MSG rookie-harbor.man-business @DEFAULT
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/6/event/quest/10/message+%23375
 msgctxt "data/maps/rookie-harbor/center.json//entities/636/settings/npcStates/6/event/quest/10/message"
@@ -3311,7 +3311,7 @@ msgstr "Да, спасибо, что спросили.\\. Было бы очен
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/6/event/quest/11/message #376
 #. NPC ctc-questgiver-1
-#. IF quest.rftc-1-collect_trade.solved && plot.line >= 3300 && !quest.bull-arena-1.solved
+#. IF quest.rftc-1-collect_trade.solved && plot.line >= 3300 && !quest.bull-arena-1.started
 #. SHOW_MSG rookie-harbor.man-business @DEFAULT
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/6/event/quest/11/message+%23376
 msgctxt "data/maps/rookie-harbor/center.json//entities/636/settings/npcStates/6/event/quest/11/message"
@@ -3320,7 +3320,7 @@ msgstr "Она должна быть где-то в Расцвете Осени.
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/6/event/quest/12/accepted/0/message #528
 #. NPC ctc-questgiver-1
-#. IF quest.rftc-1-collect_trade.solved && plot.line >= 3300 && !quest.bull-arena-1.solved
+#. IF quest.rftc-1-collect_trade.solved && plot.line >= 3300 && !quest.bull-arena-1.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @NOD
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/6/event/quest/12/accepted/0/message+%23528
@@ -3330,7 +3330,7 @@ msgstr "[кивает]"
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/6/event/quest/12/accepted/1/message #377
 #. NPC ctc-questgiver-1
-#. IF quest.rftc-1-collect_trade.solved && plot.line >= 3300 && !quest.bull-arena-1.solved
+#. IF quest.rftc-1-collect_trade.solved && plot.line >= 3300 && !quest.bull-arena-1.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.man-business @DEFAULT
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/6/event/quest/12/accepted/1/message+%23377
@@ -3340,7 +3340,7 @@ msgstr "Отлично! Я ожидаю быстрых результатов."
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/6/event/quest/12/declined/0/message #529
 #. NPC ctc-questgiver-1
-#. IF quest.rftc-1-collect_trade.solved && plot.line >= 3300 && !quest.bull-arena-1.solved
+#. IF quest.rftc-1-collect_trade.solved && plot.line >= 3300 && !quest.bull-arena-1.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @SHAKE
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/6/event/quest/12/declined/0/message+%23529
@@ -3350,7 +3350,7 @@ msgstr "[мотает головой]"
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/6/event/quest/12/declined/1/message #378
 #. NPC ctc-questgiver-1
-#. IF quest.rftc-1-collect_trade.solved && plot.line >= 3300 && !quest.bull-arena-1.solved
+#. IF quest.rftc-1-collect_trade.solved && plot.line >= 3300 && !quest.bull-arena-1.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.man-business @DEFAULT
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/6/event/quest/12/declined/1/message+%23378
@@ -3423,7 +3423,7 @@ msgstr "В любом случае, вот положенная вам нагр�
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/9/event/quest/1/name #506
 #. NPC ctc-questgiver-1
-#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.solved
+#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.started
 #. ADD_MSG_PERSON rookie-harbor.man-business @DEFAULT
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/9/event/quest/1/name+%23506
 msgctxt "data/maps/rookie-harbor/center.json//entities/636/settings/npcStates/9/event/quest/1/name"
@@ -3432,7 +3432,7 @@ msgstr "Мистер Номсворт"
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/9/event/quest/2/message #406
 #. NPC ctc-questgiver-1
-#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.solved
+#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.started
 #. SHOW_MSG rookie-harbor.man-business @DEFAULT
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/9/event/quest/2/message+%23406
 msgctxt "data/maps/rookie-harbor/center.json//entities/636/settings/npcStates/9/event/quest/2/message"
@@ -3441,7 +3441,7 @@ msgstr "Клянусь Юпитером!\\. Это хорошая возможн
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/9/event/quest/3/message #519
 #. NPC ctc-questgiver-1
-#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.solved
+#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.started
 #. SHOW_MSG main.lea @EXCITED
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/9/event/quest/3/message+%23519
 msgctxt "data/maps/rookie-harbor/center.json//entities/636/settings/npcStates/9/event/quest/3/message"
@@ -3450,7 +3450,7 @@ msgstr "Привет!"
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/9/event/quest/5/message #520
 #. NPC ctc-questgiver-1
-#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.solved
+#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.started
 #. SHOW_MSG rookie-harbor.man-business @DEFAULT
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/9/event/quest/5/message+%23520
 msgctxt "data/maps/rookie-harbor/center.json//entities/636/settings/npcStates/9/event/quest/5/message"
@@ -3459,7 +3459,7 @@ msgstr "Ах, это снова вы!\\. Я сказал бы, что вы на�
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/9/event/quest/6/message #521
 #. NPC ctc-questgiver-1
-#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.solved
+#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.started
 #. SHOW_MSG main.lea @PROUD
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/9/event/quest/6/message+%23521
 msgctxt "data/maps/rookie-harbor/center.json//entities/636/settings/npcStates/9/event/quest/6/message"
@@ -3468,7 +3468,7 @@ msgstr "...!"
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/9/event/quest/7/message #522
 #. NPC ctc-questgiver-1
-#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.solved
+#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.started
 #. SHOW_MSG rookie-harbor.man-business @DEFAULT
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/9/event/quest/7/message+%23522
 msgctxt "data/maps/rookie-harbor/center.json//entities/636/settings/npcStates/9/event/quest/7/message"
@@ -3477,7 +3477,7 @@ msgstr "У меня есть очередная задача для вас.\\. �
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/9/event/quest/8/message #523
 #. NPC ctc-questgiver-1
-#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.solved
+#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.started
 #. SHOW_MSG rookie-harbor.man-business @DEFAULT
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/9/event/quest/8/message+%23523
 msgctxt "data/maps/rookie-harbor/center.json//entities/636/settings/npcStates/9/event/quest/8/message"
@@ -3486,7 +3486,7 @@ msgstr "Поэтому, пожалуйста, предоставьте мне в
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/9/event/quest/9/accepted/0/message #530
 #. NPC ctc-questgiver-1
-#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.solved
+#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @NOD
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/9/event/quest/9/accepted/0/message+%23530
@@ -3496,7 +3496,7 @@ msgstr "[кивает]"
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/9/event/quest/9/accepted/1/message #513
 #. NPC ctc-questgiver-1
-#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.solved
+#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.man-business @DEFAULT
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/9/event/quest/9/accepted/1/message+%23513
@@ -3506,7 +3506,7 @@ msgstr "О, какое облегчение слышать это от тако�
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/9/event/quest/9/accepted/2/message #525
 #. NPC ctc-questgiver-1
-#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.solved
+#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @SMUG
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/9/event/quest/9/accepted/2/message+%23525
@@ -3516,7 +3516,7 @@ msgstr "..."
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/9/event/quest/9/accepted/3/message #526
 #. NPC ctc-questgiver-1
-#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.solved
+#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.man-business @DEFAULT
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/9/event/quest/9/accepted/3/message+%23526
@@ -3526,7 +3526,7 @@ msgstr "В любом случае, я не смогу рассказать ва
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/9/event/quest/9/accepted/4/message #531
 #. NPC ctc-questgiver-1
-#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.solved
+#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @ANNOYED
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/9/event/quest/9/accepted/4/message+%23531
@@ -3536,7 +3536,7 @@ msgstr "..."
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/9/event/quest/9/accepted/5/message #532
 #. NPC ctc-questgiver-1
-#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.solved
+#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.man-business @DEFAULT
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/9/event/quest/9/accepted/5/message+%23532
@@ -3546,7 +3546,7 @@ msgstr "Поэтому, пожалуйста, идите на самый сев�
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/9/event/quest/9/accepted/6/message #533
 #. NPC ctc-questgiver-1
-#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.solved
+#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.man-business @DEFAULT
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/9/event/quest/9/accepted/6/message+%23533
@@ -3556,7 +3556,7 @@ msgstr "Затем идите наверх, чтобы поговорить с �
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/9/event/quest/9/accepted/7/message #534
 #. NPC ctc-questgiver-1
-#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.solved
+#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.man-business @DEFAULT
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/9/event/quest/9/accepted/7/message+%23534
@@ -3566,7 +3566,7 @@ msgstr "И, пожалуйста, передайте управляющим мо
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/9/event/quest/9/accepted/8/message #536
 #. NPC ctc-questgiver-1
-#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.solved
+#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @SMILE
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/9/event/quest/9/accepted/8/message+%23536
@@ -3576,7 +3576,7 @@ msgstr "..."
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/9/event/quest/9/accepted/9/message #537
 #. NPC ctc-questgiver-1
-#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.solved
+#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @NOD
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/9/event/quest/9/accepted/9/message+%23537
@@ -3586,7 +3586,7 @@ msgstr "[кивает]"
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/9/event/quest/9/declined/0/message #535
 #. NPC ctc-questgiver-1
-#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.solved
+#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @SHAKE
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/9/event/quest/9/declined/0/message+%23535
@@ -3596,7 +3596,7 @@ msgstr "[мотает головой]"
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/9/event/quest/9/declined/1/message #514
 #. NPC ctc-questgiver-1
-#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.solved
+#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.man-business @DEFAULT
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/9/event/quest/9/declined/1/message+%23514
@@ -3606,7 +3606,7 @@ msgstr "О, нет, какая дилемма.\\. Пожалуйста, пере
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/9/event/quest/9/declined/2/message #538
 #. NPC ctc-questgiver-1
-#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.solved
+#. IF quest.rftc-1-collect_trade.solved && dungeons.heat.beaten && quest.bull-arena-1.solved && !quest.rftc-3-metalstuff.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @ANNOYED
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/9/event/quest/9/declined/2/message+%23538
@@ -6543,6 +6543,110 @@ msgctxt "data/maps/rookie-harbor/expo-space.json//entities/16/settings/event/19/
 msgid "Good luck and stay vigilant."
 msgstr "Удачи, и сохраняйте бдительность."
 
+#. data/maps/rookie-harbor/expo-space.json entities/17/settings/event/10/message #112
+#. EventTrigger PostBeach START IF plot.line >= 44600
+#. SHOW_MSG advisors.general @OFFLINE
+#: data/maps/rookie-harbor/expo-space.json+entities/17/settings/event/10/message+%23112
+msgctxt "data/maps/rookie-harbor/expo-space.json//entities/17/settings/event/10/message"
+msgid "Seeker."
+msgstr ""
+
+#. data/maps/rookie-harbor/expo-space.json entities/17/settings/event/11/message #113
+#. EventTrigger PostBeach START IF plot.line >= 44600
+#. SHOW_MSG advisors.general @OFFLINE
+#: data/maps/rookie-harbor/expo-space.json+entities/17/settings/event/11/message+%23113
+msgctxt "data/maps/rookie-harbor/expo-space.json//entities/17/settings/event/11/message"
+msgid "You just acquired the \\c[3]Ancient Shade\\c[0]."
+msgstr ""
+
+#. data/maps/rookie-harbor/expo-space.json entities/17/settings/event/12/message #114
+#. EventTrigger PostBeach START IF plot.line >= 44600
+#. SHOW_MSG advisors.general @OFFLINE
+#: data/maps/rookie-harbor/expo-space.json+entities/17/settings/event/12/message+%23114
+msgctxt "data/maps/rookie-harbor/expo-space.json//entities/17/settings/event/12/message"
+msgid "It is the last prerequisite to access the final part of the Track."
+msgstr ""
+
+#. data/maps/rookie-harbor/expo-space.json entities/17/settings/event/14/message #130
+#. EventTrigger PostBeach START IF plot.line >= 44600
+#. SHOW_MSG advisors.general @OFFLINE
+#: data/maps/rookie-harbor/expo-space.json+entities/17/settings/event/14/message+%23130
+msgctxt "data/maps/rookie-harbor/expo-space.json//entities/17/settings/event/14/message"
+msgid "The \\c[3]Temple of Ku'lero\\c[0]!"
+msgstr ""
+
+#. data/maps/rookie-harbor/expo-space.json entities/17/settings/event/15/message #131
+#. EventTrigger PostBeach START IF plot.line >= 44600
+#. SHOW_MSG advisors.general @OFFLINE
+#: data/maps/rookie-harbor/expo-space.json+entities/17/settings/event/15/message+%23131
+msgctxt "data/maps/rookie-harbor/expo-space.json//entities/17/settings/event/15/message"
+msgid "However, be aware the integration of this new location has yet to be finalized."
+msgstr ""
+
+#. data/maps/rookie-harbor/expo-space.json entities/17/settings/event/17/message #134
+#. EventTrigger PostBeach START IF plot.line >= 44600
+#. SHOW_MSG advisors.general @OFFLINE
+#: data/maps/rookie-harbor/expo-space.json+entities/17/settings/event/17/message+%23134
+msgctxt "data/maps/rookie-harbor/expo-space.json//entities/17/settings/event/17/message"
+msgid "Nevertheless, the preparations should be completed soon."
+msgstr ""
+
+#. data/maps/rookie-harbor/expo-space.json entities/17/settings/event/30/message #122
+#. EventTrigger PostBeach START IF plot.line >= 44600
+#. SHOW_MSG advisors.general @OFFLINE
+#: data/maps/rookie-harbor/expo-space.json+entities/17/settings/event/30/message+%23122
+msgctxt "data/maps/rookie-harbor/expo-space.json//entities/17/settings/event/30/message"
+msgid "Once the temple is integrated it can be accessed in the northern part of \\c[3]Sapphire Ridge\\c[0]."
+msgstr ""
+
+#. data/maps/rookie-harbor/expo-space.json entities/17/settings/event/31/message #133
+#. EventTrigger PostBeach START IF plot.line >= 44600
+#. SHOW_MSG advisors.general @OFFLINE
+#: data/maps/rookie-harbor/expo-space.json+entities/17/settings/event/31/message+%23133
+msgctxt "data/maps/rookie-harbor/expo-space.json//entities/17/settings/event/31/message"
+msgid "Seeker, make sure you are well prepared."
+msgstr ""
+
+#. data/maps/rookie-harbor/expo-space.json entities/17/settings/event/32/message #135
+#. EventTrigger PostBeach START IF plot.line >= 44600
+#. SHOW_MSG advisors.general @OFFLINE
+#: data/maps/rookie-harbor/expo-space.json+entities/17/settings/event/32/message+%23135
+msgctxt "data/maps/rookie-harbor/expo-space.json//entities/17/settings/event/32/message"
+msgid "This temple will truly pose the ultimate challenge of the track."
+msgstr ""
+
+#. data/maps/rookie-harbor/expo-space.json entities/17/settings/event/41/message #125
+#. EventTrigger PostBeach START IF plot.line >= 44600
+#. SHOW_MSG advisors.general @OFFLINE
+#: data/maps/rookie-harbor/expo-space.json+entities/17/settings/event/41/message+%23125
+msgctxt "data/maps/rookie-harbor/expo-space.json//entities/17/settings/event/41/message"
+msgid "For all your accomplishments, you shall receive one more reward as well."
+msgstr ""
+
+#. data/maps/rookie-harbor/expo-space.json entities/17/settings/event/45/object #126
+#. EventTrigger PostBeach START IF plot.line >= 44600
+#. SHOW_GET_MSG
+#: data/maps/rookie-harbor/expo-space.json+entities/17/settings/event/45/object+%23126
+msgctxt "data/maps/rookie-harbor/expo-space.json//entities/17/settings/event/45/object"
+msgid "\\v[item.428.name] x3"
+msgstr ""
+
+#. data/maps/rookie-harbor/expo-space.json entities/17/settings/event/49/message #127
+#. EventTrigger PostBeach START IF plot.line >= 44600
+#. SHOW_MSG advisors.general @OFFLINE
+#: data/maps/rookie-harbor/expo-space.json+entities/17/settings/event/49/message+%23127
+msgctxt "data/maps/rookie-harbor/expo-space.json//entities/17/settings/event/49/message"
+msgid "Seeker, once the preparation are completed, I'll be expecting you at the entrance of the \\c[3]Ku'lero Temple\\c[0]."
+msgstr ""
+
+#. data/maps/rookie-harbor/expo-space.json entities/17/settings/event/50/message #129
+#. EventTrigger PostBeach START IF plot.line >= 44600
+#. SHOW_MSG advisors.general @OFFLINE
+#: data/maps/rookie-harbor/expo-space.json+entities/17/settings/event/50/message+%23129
+msgctxt "data/maps/rookie-harbor/expo-space.json//entities/17/settings/event/50/message"
+msgid "Good bye and stay vigilant."
+msgstr ""
+
 #. data/maps/rookie-harbor/inner-equip-north.json entities/9/settings/displayName #5
 #. NPC shop
 #: data/maps/rookie-harbor/inner-equip-north.json+entities/9/settings/displayName+%235
@@ -6748,7 +6852,7 @@ msgstr "Это обязательно для получения заданий �
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/2/event/quest/1/name #432
 #. NPC chief-woodkeeper-manzana
-#. IF quest.faction-tutorial.started && !quest.foa-1-treedoc.solved
+#. IF quest.faction-tutorial.started && !quest.foa-1-treedoc.started
 #. ADD_MSG_PERSON rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/2/event/quest/1/name+%23432
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/npcStates/2/event/quest/1/name"
@@ -6757,7 +6861,7 @@ msgstr "Манзана"
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/2/event/quest/2/message #257
 #. NPC chief-woodkeeper-manzana
-#. IF quest.faction-tutorial.started && !quest.foa-1-treedoc.solved
+#. IF quest.faction-tutorial.started && !quest.foa-1-treedoc.started
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/2/event/quest/2/message+%23257
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/npcStates/2/event/quest/2/message"
@@ -6766,7 +6870,7 @@ msgstr "Ах, Искатель. Я рад, что ты вернулась к н�
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/2/event/quest/3/message #418
 #. NPC chief-woodkeeper-manzana
-#. IF quest.faction-tutorial.started && !quest.foa-1-treedoc.solved
+#. IF quest.faction-tutorial.started && !quest.foa-1-treedoc.started
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/2/event/quest/3/message+%23418
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/npcStates/2/event/quest/3/message"
@@ -6775,7 +6879,7 @@ msgstr "Ты хочешь помочь нам в нашем бедственно
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/2/event/quest/4/accepted/0/message #46
 #. NPC chief-woodkeeper-manzana
-#. IF quest.faction-tutorial.started && !quest.foa-1-treedoc.solved
+#. IF quest.faction-tutorial.started && !quest.foa-1-treedoc.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @NOD
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/2/event/quest/4/accepted/0/message+%2346
@@ -6785,7 +6889,7 @@ msgstr "[кивает]"
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/2/event/quest/4/accepted/1/message #258
 #. NPC chief-woodkeeper-manzana
-#. IF quest.faction-tutorial.started && !quest.foa-1-treedoc.solved
+#. IF quest.faction-tutorial.started && !quest.foa-1-treedoc.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/2/event/quest/4/accepted/1/message+%23258
@@ -6795,7 +6899,7 @@ msgstr "Отлично. Я дам тебе несколько бутылок, н
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/2/event/quest/4/accepted/3/message #259
 #. NPC chief-woodkeeper-manzana
-#. IF quest.faction-tutorial.started && !quest.foa-1-treedoc.solved
+#. IF quest.faction-tutorial.started && !quest.foa-1-treedoc.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/2/event/quest/4/accepted/3/message+%23259
@@ -6805,7 +6909,7 @@ msgstr "В прошлом он доказал, что оказывает бла�
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/2/event/quest/4/accepted/4/message #260
 #. NPC chief-woodkeeper-manzana
-#. IF quest.faction-tutorial.started && !quest.foa-1-treedoc.solved
+#. IF quest.faction-tutorial.started && !quest.foa-1-treedoc.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/2/event/quest/4/accepted/4/message+%23260
@@ -6815,7 +6919,7 @@ msgstr "Используй \\c[3]свои инстинкты Искателя\\c
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/2/event/quest/4/accepted/5/message #262
 #. NPC chief-woodkeeper-manzana
-#. IF quest.faction-tutorial.started && !quest.foa-1-treedoc.solved
+#. IF quest.faction-tutorial.started && !quest.foa-1-treedoc.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/2/event/quest/4/accepted/5/message+%23262
@@ -6825,7 +6929,7 @@ msgstr "Этого должно хватить, чтобы вылечить де
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/2/event/quest/4/declined/0/message #50
 #. NPC chief-woodkeeper-manzana
-#. IF quest.faction-tutorial.started && !quest.foa-1-treedoc.solved
+#. IF quest.faction-tutorial.started && !quest.foa-1-treedoc.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @SHAKE
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/2/event/quest/4/declined/0/message+%2350
@@ -6835,7 +6939,7 @@ msgstr "[мотает головой]"
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/2/event/quest/4/declined/1/message #261
 #. NPC chief-woodkeeper-manzana
-#. IF quest.faction-tutorial.started && !quest.foa-1-treedoc.solved
+#. IF quest.faction-tutorial.started && !quest.foa-1-treedoc.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/2/event/quest/4/declined/1/message+%23261
@@ -6899,7 +7003,7 @@ msgstr "[кивает]"
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/5/event/quest/1/name #435
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.solved
+#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.started
 #. ADD_MSG_PERSON rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/5/event/quest/1/name+%23435
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/npcStates/5/event/quest/1/name"
@@ -6908,7 +7012,7 @@ msgstr "Манзана"
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/5/event/quest/2/message #265
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.solved
+#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.started
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/5/event/quest/2/message+%23265
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/npcStates/5/event/quest/2/message"
@@ -6917,7 +7021,7 @@ msgstr "Приветствую, \\v[lore.title.seeker]. Рад видеть, ч�
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/5/event/quest/3/message #274
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.solved
+#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.started
 #. SHOW_MSG main.lea @PROUD
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/5/event/quest/3/message+%23274
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/npcStates/5/event/quest/3/message"
@@ -6926,7 +7030,7 @@ msgstr "Привет!"
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/5/event/quest/4/message #275
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.solved
+#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.started
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/5/event/quest/4/message+%23275
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/npcStates/5/event/quest/4/message"
@@ -6935,7 +7039,7 @@ msgstr "Так уж случилось, что благополучие прир
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/5/event/quest/5/message #276
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.solved
+#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.started
 #. SHOW_MSG main.lea @SURPRISED_TOWARD
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/5/event/quest/5/message+%23276
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/npcStates/5/event/quest/5/message"
@@ -6944,7 +7048,7 @@ msgstr "...?"
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/5/event/quest/6/message #277
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.solved
+#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.started
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/5/event/quest/6/message+%23277
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/npcStates/5/event/quest/6/message"
@@ -6953,7 +7057,7 @@ msgstr "В Расцвете Осени наблюдается ещё один с
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/5/event/quest/7/message #278
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.solved
+#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.started
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/5/event/quest/7/message+%23278
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/npcStates/5/event/quest/7/message"
@@ -6962,7 +7066,7 @@ msgstr "Хуже того, она поразила священное дерев
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/5/event/quest/8/message #284
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.solved
+#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.started
 #. SHOW_MSG main.lea @NERVOUS
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/5/event/quest/8/message+%23284
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/npcStates/5/event/quest/8/message"
@@ -6971,7 +7075,7 @@ msgstr "...!"
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/5/event/quest/9/message #279
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.solved
+#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.started
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/5/event/quest/9/message+%23279
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/npcStates/5/event/quest/9/message"
@@ -6980,7 +7084,7 @@ msgstr "Я боюсь, что исцеление будет более слож�
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/5/event/quest/10/message #280
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.solved
+#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.started
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/5/event/quest/10/message+%23280
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/npcStates/5/event/quest/10/message"
@@ -6989,7 +7093,7 @@ msgstr "Итак, могу я ещё раз попросить тебя о по�
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/5/event/quest/11/accepted/0/message #267
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.solved
+#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @NOD
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/5/event/quest/11/accepted/0/message+%23267
@@ -6999,7 +7103,7 @@ msgstr "[кивает]"
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/5/event/quest/11/accepted/1/message #268
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.solved
+#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/5/event/quest/11/accepted/1/message+%23268
@@ -7009,7 +7113,7 @@ msgstr "Отлично. Я дам тебе чашу, наполненную вы
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/5/event/quest/11/accepted/2/message #281
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.solved
+#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/5/event/quest/11/accepted/2/message+%23281
@@ -7019,7 +7123,7 @@ msgstr "С его помощью ты можешь лечить болезнь �
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/5/event/quest/11/accepted/3/message #282
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.solved
+#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/5/event/quest/11/accepted/3/message+%23282
@@ -7029,7 +7133,7 @@ msgstr "Во-первых, поскольку это состояние боле
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/5/event/quest/11/accepted/4/message #283
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.solved
+#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/5/event/quest/11/accepted/4/message+%23283
@@ -7039,7 +7143,7 @@ msgstr "Кроме того, сильный запах и вкус бальза�
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/5/event/quest/11/accepted/5/message #289
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.solved
+#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @SURPRISED
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/5/event/quest/11/accepted/5/message+%23289
@@ -7049,7 +7153,7 @@ msgstr "...!"
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/5/event/quest/11/accepted/6/message #285
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.solved
+#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/5/event/quest/11/accepted/6/message+%23285
@@ -7059,7 +7163,7 @@ msgstr "Таким образом, после применения бальза�
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/5/event/quest/11/accepted/7/message #286
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.solved
+#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @NOD
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/5/event/quest/11/accepted/7/message+%23286
@@ -7069,7 +7173,7 @@ msgstr "[кивает]"
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/5/event/quest/11/accepted/8/message #287
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.solved
+#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/5/event/quest/11/accepted/8/message+%23287
@@ -7079,7 +7183,7 @@ msgstr "Вижу, что ты всё поняла.\\. Теперь, пожалу
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/5/event/quest/11/declined/0/message #269
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.solved
+#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @SHAKE
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/5/event/quest/11/declined/0/message+%23269
@@ -7089,7 +7193,7 @@ msgstr "[мотает головой]"
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/5/event/quest/11/declined/1/message #270
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.solved
+#. IF quest.foa-1-treedoc.solved && plot.line >= 3300 && !quest.foa-2-tree_defense.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/5/event/quest/11/declined/1/message+%23270
@@ -7153,7 +7257,7 @@ msgstr "[кивает]"
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/8/event/quest/1/name #438
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-2-tree_defense.solved && dungeons.heat.beaten && !quest.foa-3-buffel_cave.solved
+#. IF quest.foa-2-tree_defense.solved && dungeons.heat.beaten && !quest.foa-3-buffel_cave.started
 #. ADD_MSG_PERSON rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/8/event/quest/1/name+%23438
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/npcStates/8/event/quest/1/name"
@@ -7162,7 +7266,7 @@ msgstr "Манзана"
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/8/event/quest/2/message #290
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-2-tree_defense.solved && dungeons.heat.beaten && !quest.foa-3-buffel_cave.solved
+#. IF quest.foa-2-tree_defense.solved && dungeons.heat.beaten && !quest.foa-3-buffel_cave.started
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/8/event/quest/2/message+%23290
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/npcStates/8/event/quest/2/message"
@@ -7171,7 +7275,7 @@ msgstr "Приветствую, \\v[lore.title.seeker]. Я рад видеть �
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/8/event/quest/3/message #410
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-2-tree_defense.solved && dungeons.heat.beaten && !quest.foa-3-buffel_cave.solved
+#. IF quest.foa-2-tree_defense.solved && dungeons.heat.beaten && !quest.foa-3-buffel_cave.started
 #. SHOW_MSG main.lea @SURPRISED
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/8/event/quest/3/message+%23410
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/npcStates/8/event/quest/3/message"
@@ -7180,7 +7284,7 @@ msgstr "...!?"
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/8/event/quest/4/message #411
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-2-tree_defense.solved && dungeons.heat.beaten && !quest.foa-3-buffel_cave.solved
+#. IF quest.foa-2-tree_defense.solved && dungeons.heat.beaten && !quest.foa-3-buffel_cave.started
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/8/event/quest/4/message+%23411
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/npcStates/8/event/quest/4/message"
@@ -7189,7 +7293,7 @@ msgstr "Гордый бычара стал жертвой гнусной бол�
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/8/event/quest/5/message #412
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-2-tree_defense.solved && dungeons.heat.beaten && !quest.foa-3-buffel_cave.solved
+#. IF quest.foa-2-tree_defense.solved && dungeons.heat.beaten && !quest.foa-3-buffel_cave.started
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/8/event/quest/5/message+%23412
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/npcStates/8/event/quest/5/message"
@@ -7198,7 +7302,7 @@ msgstr "Он уничтожил всё своё стадо в пламенной
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/8/event/quest/6/message #413
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-2-tree_defense.solved && dungeons.heat.beaten && !quest.foa-3-buffel_cave.solved
+#. IF quest.foa-2-tree_defense.solved && dungeons.heat.beaten && !quest.foa-3-buffel_cave.started
 #. SHOW_MSG main.lea @NERVOUS
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/8/event/quest/6/message+%23413
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/npcStates/8/event/quest/6/message"
@@ -7207,7 +7311,7 @@ msgstr "..."
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/8/event/quest/7/message #414
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-2-tree_defense.solved && dungeons.heat.beaten && !quest.foa-3-buffel_cave.solved
+#. IF quest.foa-2-tree_defense.solved && dungeons.heat.beaten && !quest.foa-3-buffel_cave.started
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/8/event/quest/7/message+%23414
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/npcStates/8/event/quest/7/message"
@@ -7216,7 +7320,7 @@ msgstr "Ты поможешь нам упокоить это измученно�
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/8/event/quest/8/accepted/0/message #401
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-2-tree_defense.solved && dungeons.heat.beaten && !quest.foa-3-buffel_cave.solved
+#. IF quest.foa-2-tree_defense.solved && dungeons.heat.beaten && !quest.foa-3-buffel_cave.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @NOD
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/8/event/quest/8/accepted/0/message+%23401
@@ -7226,7 +7330,7 @@ msgstr "[кивает]"
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/8/event/quest/8/accepted/1/message #402
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-2-tree_defense.solved && dungeons.heat.beaten && !quest.foa-3-buffel_cave.solved
+#. IF quest.foa-2-tree_defense.solved && dungeons.heat.beaten && !quest.foa-3-buffel_cave.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/8/event/quest/8/accepted/1/message+%23402
@@ -7236,7 +7340,7 @@ msgstr "Ты настоящий герой!\\. Я понимаю, какое о�
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/8/event/quest/8/accepted/2/message #415
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-2-tree_defense.solved && dungeons.heat.beaten && !quest.foa-3-buffel_cave.solved
+#. IF quest.foa-2-tree_defense.solved && dungeons.heat.beaten && !quest.foa-3-buffel_cave.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @SMILE
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/8/event/quest/8/accepted/2/message+%23415
@@ -7246,7 +7350,7 @@ msgstr "..."
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/8/event/quest/8/accepted/4/message #416
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-2-tree_defense.solved && dungeons.heat.beaten && !quest.foa-3-buffel_cave.solved
+#. IF quest.foa-2-tree_defense.solved && dungeons.heat.beaten && !quest.foa-3-buffel_cave.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/8/event/quest/8/accepted/4/message+%23416
@@ -7256,7 +7360,7 @@ msgstr "Благодаря огненному следу мы выяснили, 
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/8/event/quest/8/accepted/5/message #463
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-2-tree_defense.solved && dungeons.heat.beaten && !quest.foa-3-buffel_cave.solved
+#. IF quest.foa-2-tree_defense.solved && dungeons.heat.beaten && !quest.foa-3-buffel_cave.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/8/event/quest/8/accepted/5/message+%23463
@@ -7266,7 +7370,7 @@ msgstr "Ты можешь добраться до этого места, отп�
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/8/event/quest/8/accepted/6/thenStep/0/message #464
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-2-tree_defense.solved && dungeons.heat.beaten && !quest.foa-3-buffel_cave.solved
+#. IF quest.foa-2-tree_defense.solved && dungeons.heat.beaten && !quest.foa-3-buffel_cave.started
 #. OPEN_QUEST_DIALOG
 #. IF !quest.daft-frobbit.started
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
@@ -7277,7 +7381,7 @@ msgstr "Но будь осторожна: возможно, тебе потре�
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/8/event/quest/8/accepted/6/thenStep/1/message #465
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-2-tree_defense.solved && dungeons.heat.beaten && !quest.foa-3-buffel_cave.solved
+#. IF quest.foa-2-tree_defense.solved && dungeons.heat.beaten && !quest.foa-3-buffel_cave.started
 #. OPEN_QUEST_DIALOG
 #. IF !quest.daft-frobbit.started
 #. SHOW_MSG main.lea @SURPRISED
@@ -7288,7 +7392,7 @@ msgstr "...?"
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/8/event/quest/8/accepted/7/message #466
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-2-tree_defense.solved && dungeons.heat.beaten && !quest.foa-3-buffel_cave.solved
+#. IF quest.foa-2-tree_defense.solved && dungeons.heat.beaten && !quest.foa-3-buffel_cave.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/8/event/quest/8/accepted/7/message+%23466
@@ -7298,7 +7402,7 @@ msgstr "Поспеши, юный Искатель, прежде чем плам�
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/8/event/quest/8/accepted/8/message #467
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-2-tree_defense.solved && dungeons.heat.beaten && !quest.foa-3-buffel_cave.solved
+#. IF quest.foa-2-tree_defense.solved && dungeons.heat.beaten && !quest.foa-3-buffel_cave.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/8/event/quest/8/accepted/8/message+%23467
@@ -7308,7 +7412,7 @@ msgstr "Пока!"
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/8/event/quest/8/declined/0/message #403
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-2-tree_defense.solved && dungeons.heat.beaten && !quest.foa-3-buffel_cave.solved
+#. IF quest.foa-2-tree_defense.solved && dungeons.heat.beaten && !quest.foa-3-buffel_cave.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @SHAKE
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/8/event/quest/8/declined/0/message+%23403
@@ -7318,7 +7422,7 @@ msgstr "[мотает головой]"
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/8/event/quest/8/declined/1/message #404
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-2-tree_defense.solved && dungeons.heat.beaten && !quest.foa-3-buffel_cave.solved
+#. IF quest.foa-2-tree_defense.solved && dungeons.heat.beaten && !quest.foa-3-buffel_cave.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/8/event/quest/8/declined/1/message+%23404
@@ -7328,7 +7432,7 @@ msgstr "Многое будет поставлено на карту, если �
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/8/event/quest/8/declined/2/message #468
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-2-tree_defense.solved && dungeons.heat.beaten && !quest.foa-3-buffel_cave.solved
+#. IF quest.foa-2-tree_defense.solved && dungeons.heat.beaten && !quest.foa-3-buffel_cave.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @NERVOUS
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/8/event/quest/8/declined/2/message+%23468
@@ -7428,7 +7532,7 @@ msgstr "Пока."
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/11/event/quest/1/name #443
 #. NPC chief-woodkeeper-manzana
-#. IF false && quest.foa-3-buffel_cave.solved && dungeons.tree.beaten && !quest.foa-3-buffel_cave.solved
+#. IF false && quest.foa-3-buffel_cave.solved && dungeons.tree.beaten && !quest.foa-4-sick_bovine.started
 #. ADD_MSG_PERSON rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/11/event/quest/1/name+%23443
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/npcStates/11/event/quest/1/name"
@@ -7437,7 +7541,7 @@ msgstr "Манзана"
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/11/event/quest/2/message #444
 #. NPC chief-woodkeeper-manzana
-#. IF false && quest.foa-3-buffel_cave.solved && dungeons.tree.beaten && !quest.foa-3-buffel_cave.solved
+#. IF false && quest.foa-3-buffel_cave.solved && dungeons.tree.beaten && !quest.foa-4-sick_bovine.started
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/11/event/quest/2/message+%23444
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/npcStates/11/event/quest/2/message"
@@ -7446,7 +7550,7 @@ msgstr "Приветствую, \\v[lore.title.seeker]. Я рад видеть �
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/11/event/quest/3/message #445
 #. NPC chief-woodkeeper-manzana
-#. IF false && quest.foa-3-buffel_cave.solved && dungeons.tree.beaten && !quest.foa-3-buffel_cave.solved
+#. IF false && quest.foa-3-buffel_cave.solved && dungeons.tree.beaten && !quest.foa-4-sick_bovine.started
 #. SHOW_MSG main.lea @SURPRISED
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/11/event/quest/3/message+%23445
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/npcStates/11/event/quest/3/message"
@@ -7455,7 +7559,7 @@ msgstr "...!?"
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/11/event/quest/4/message #446
 #. NPC chief-woodkeeper-manzana
-#. IF false && quest.foa-3-buffel_cave.solved && dungeons.tree.beaten && !quest.foa-3-buffel_cave.solved
+#. IF false && quest.foa-3-buffel_cave.solved && dungeons.tree.beaten && !quest.foa-4-sick_bovine.started
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/11/event/quest/4/message+%23446
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/npcStates/11/event/quest/4/message"
@@ -7464,7 +7568,7 @@ msgstr "Гордый бычара стал жертвой болезни, что
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/11/event/quest/5/message #447
 #. NPC chief-woodkeeper-manzana
-#. IF false && quest.foa-3-buffel_cave.solved && dungeons.tree.beaten && !quest.foa-3-buffel_cave.solved
+#. IF false && quest.foa-3-buffel_cave.solved && dungeons.tree.beaten && !quest.foa-4-sick_bovine.started
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/11/event/quest/5/message+%23447
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/npcStates/11/event/quest/5/message"
@@ -7473,7 +7577,7 @@ msgstr "Он уничтожил всё своё стадо в пламенной
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/11/event/quest/6/message #448
 #. NPC chief-woodkeeper-manzana
-#. IF false && quest.foa-3-buffel_cave.solved && dungeons.tree.beaten && !quest.foa-3-buffel_cave.solved
+#. IF false && quest.foa-3-buffel_cave.solved && dungeons.tree.beaten && !quest.foa-4-sick_bovine.started
 #. SHOW_MSG main.lea @NERVOUS
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/11/event/quest/6/message+%23448
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/npcStates/11/event/quest/6/message"
@@ -7482,7 +7586,7 @@ msgstr "..."
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/11/event/quest/7/message #449
 #. NPC chief-woodkeeper-manzana
-#. IF false && quest.foa-3-buffel_cave.solved && dungeons.tree.beaten && !quest.foa-3-buffel_cave.solved
+#. IF false && quest.foa-3-buffel_cave.solved && dungeons.tree.beaten && !quest.foa-4-sick_bovine.started
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/11/event/quest/7/message+%23449
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/npcStates/11/event/quest/7/message"
@@ -7491,7 +7595,7 @@ msgstr "Ты поможешь нам упокоить это измученно�
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/11/event/quest/8/accepted/0/message #450
 #. NPC chief-woodkeeper-manzana
-#. IF false && quest.foa-3-buffel_cave.solved && dungeons.tree.beaten && !quest.foa-3-buffel_cave.solved
+#. IF false && quest.foa-3-buffel_cave.solved && dungeons.tree.beaten && !quest.foa-4-sick_bovine.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @NOD
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/11/event/quest/8/accepted/0/message+%23450
@@ -7501,7 +7605,7 @@ msgstr "[кивает]"
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/11/event/quest/8/accepted/1/message #451
 #. NPC chief-woodkeeper-manzana
-#. IF false && quest.foa-3-buffel_cave.solved && dungeons.tree.beaten && !quest.foa-3-buffel_cave.solved
+#. IF false && quest.foa-3-buffel_cave.solved && dungeons.tree.beaten && !quest.foa-4-sick_bovine.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/11/event/quest/8/accepted/1/message+%23451
@@ -7511,7 +7615,7 @@ msgstr "Ты настоящий герой!\\. Я понимаю, насколь
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/11/event/quest/8/accepted/2/message #452
 #. NPC chief-woodkeeper-manzana
-#. IF false && quest.foa-3-buffel_cave.solved && dungeons.tree.beaten && !quest.foa-3-buffel_cave.solved
+#. IF false && quest.foa-3-buffel_cave.solved && dungeons.tree.beaten && !quest.foa-4-sick_bovine.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @SMILE
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/11/event/quest/8/accepted/2/message+%23452
@@ -7521,7 +7625,7 @@ msgstr "..."
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/11/event/quest/8/accepted/3/message #453
 #. NPC chief-woodkeeper-manzana
-#. IF false && quest.foa-3-buffel_cave.solved && dungeons.tree.beaten && !quest.foa-3-buffel_cave.solved
+#. IF false && quest.foa-3-buffel_cave.solved && dungeons.tree.beaten && !quest.foa-4-sick_bovine.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/11/event/quest/8/accepted/3/message+%23453
@@ -7531,7 +7635,7 @@ msgstr "В докладах говорится, что бедный Бычара
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/11/event/quest/8/accepted/4/message #454
 #. NPC chief-woodkeeper-manzana
-#. IF false && quest.foa-3-buffel_cave.solved && dungeons.tree.beaten && !quest.foa-3-buffel_cave.solved
+#. IF false && quest.foa-3-buffel_cave.solved && dungeons.tree.beaten && !quest.foa-4-sick_bovine.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/11/event/quest/8/accepted/4/message+%23454
@@ -7541,7 +7645,7 @@ msgstr "Иди на \\c[3]Путь 3 в Расцвете Осени\\c[0] и в�
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/11/event/quest/8/declined/0/message #455
 #. NPC chief-woodkeeper-manzana
-#. IF false && quest.foa-3-buffel_cave.solved && dungeons.tree.beaten && !quest.foa-3-buffel_cave.solved
+#. IF false && quest.foa-3-buffel_cave.solved && dungeons.tree.beaten && !quest.foa-4-sick_bovine.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @SHAKE
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/11/event/quest/8/declined/0/message+%23455
@@ -7551,7 +7655,7 @@ msgstr "[мотает головой]"
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/11/event/quest/8/declined/1/message #456
 #. NPC chief-woodkeeper-manzana
-#. IF false && quest.foa-3-buffel_cave.solved && dungeons.tree.beaten && !quest.foa-3-buffel_cave.solved
+#. IF false && quest.foa-3-buffel_cave.solved && dungeons.tree.beaten && !quest.foa-4-sick_bovine.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/11/event/quest/8/declined/1/message+%23456
@@ -7561,7 +7665,7 @@ msgstr "Я понимаю, что твоя жизнь беспокойная, н
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/12/event/1/name #457
 #. NPC chief-woodkeeper-manzana
-#. IF false && quest.foa-3-buffel_cave.started && !quest.foa-3-buffel_cave.solved
+#. IF false && quest.foa-4-sick_bovine.started && !quest.foa-4-sick_bovine.solved
 #. ADD_MSG_PERSON rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/12/event/1/name+%23457
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/npcStates/12/event/1/name"
@@ -7570,7 +7674,7 @@ msgstr "Манзана"
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/12/event/2/message #458
 #. NPC chief-woodkeeper-manzana
-#. IF false && quest.foa-3-buffel_cave.started && !quest.foa-3-buffel_cave.solved
+#. IF false && quest.foa-4-sick_bovine.started && !quest.foa-4-sick_bovine.solved
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/12/event/2/message+%23458
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/npcStates/12/event/2/message"
@@ -7579,7 +7683,7 @@ msgstr "Пожалуйста, побыстрее встреться с наши�
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/13/event/quest/1/name #459
 #. NPC chief-woodkeeper-manzana
-#. IF false && quest.foa-3-buffel_cave.task.2
+#. IF false && quest.foa-4-sick_bovine.task.2
 #. ADD_MSG_PERSON rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/13/event/quest/1/name+%23459
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/npcStates/13/event/quest/1/name"
@@ -7588,7 +7692,7 @@ msgstr "Манзана"
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/13/event/quest/2/message #460
 #. NPC chief-woodkeeper-manzana
-#. IF false && quest.foa-3-buffel_cave.task.2
+#. IF false && quest.foa-4-sick_bovine.task.2
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/13/event/quest/2/message+%23460
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/npcStates/13/event/quest/2/message"
@@ -7597,7 +7701,7 @@ msgstr "Ах, ты справилась. Прекрасно!\\. Твои уси�
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/13/event/quest/3/message #461
 #. NPC chief-woodkeeper-manzana
-#. IF false && quest.foa-3-buffel_cave.task.2
+#. IF false && quest.foa-4-sick_bovine.task.2
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/13/event/quest/3/message+%23461
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/npcStates/13/event/quest/3/message"
@@ -7606,7 +7710,7 @@ msgstr "Выражаем нашу глубочайшую благодарнос�
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/13/event/quest/4/message #462
 #. NPC chief-woodkeeper-manzana
-#. IF false && quest.foa-3-buffel_cave.task.2
+#. IF false && quest.foa-4-sick_bovine.task.2
 #. SHOW_MSG main.lea @NOD
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/13/event/quest/4/message+%23462
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/npcStates/13/event/quest/4/message"
@@ -7615,7 +7719,7 @@ msgstr "[кивает]"
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/14/event/1/name #441
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-3-buffel_cave.solved
+#. IF quest.foa-4-sick_bovine.solved
 #. ADD_MSG_PERSON rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/14/event/1/name+%23441
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/npcStates/14/event/1/name"
@@ -7624,7 +7728,7 @@ msgstr "Манзана"
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/14/event/2/message #409
 #. NPC chief-woodkeeper-manzana
-#. IF quest.foa-3-buffel_cave.solved
+#. IF quest.foa-4-sick_bovine.solved
 #. SHOW_MSG rookie-harbor.faction-foa-man-chiefgarden @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/14/event/2/message+%23409
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/npcStates/14/event/2/message"
@@ -7831,7 +7935,7 @@ msgstr "Ты найдешь ответственного служащего на
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/2/event/quest/0/name #290
 #. NPC sgt
-#. IF quest.faction-tutorial.started && !quest.rhg-1-pickpocket.solved
+#. IF quest.faction-tutorial.started && !quest.rhg-1-pickpocket.started
 #. ADD_MSG_PERSON guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/2/event/quest/0/name+%23290
 msgctxt "data/maps/rookie-harbor/inner-faction-rhg-guard.json//entities/13/settings/npcStates/2/event/quest/0/name"
@@ -7840,7 +7944,7 @@ msgstr "Сержант Брасслер"
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/2/event/quest/2/message #3
 #. NPC sgt
-#. IF quest.faction-tutorial.started && !quest.rhg-1-pickpocket.solved
+#. IF quest.faction-tutorial.started && !quest.rhg-1-pickpocket.started
 #. SHOW_MSG guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/2/event/quest/2/message+%233
 msgctxt "data/maps/rookie-harbor/inner-faction-rhg-guard.json//entities/13/settings/npcStates/2/event/quest/2/message"
@@ -7849,7 +7953,7 @@ msgstr "Ах, похоже, юный Искатель вернулся к ста
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/2/event/quest/3/message #245
 #. NPC sgt
-#. IF quest.faction-tutorial.started && !quest.rhg-1-pickpocket.solved
+#. IF quest.faction-tutorial.started && !quest.rhg-1-pickpocket.started
 #. SHOW_MSG guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/2/event/quest/3/message+%23245
 msgctxt "data/maps/rookie-harbor/inner-faction-rhg-guard.json//entities/13/settings/npcStates/2/event/quest/3/message"
@@ -7858,7 +7962,7 @@ msgstr "Можешь наконец-то втиснуть кое-какую ра
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/2/event/quest/4/accepted/0/message #46
 #. NPC sgt
-#. IF quest.faction-tutorial.started && !quest.rhg-1-pickpocket.solved
+#. IF quest.faction-tutorial.started && !quest.rhg-1-pickpocket.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @NOD
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/2/event/quest/4/accepted/0/message+%2346
@@ -7868,7 +7972,7 @@ msgstr "[кивает]"
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/2/event/quest/4/accepted/2/message #40
 #. NPC sgt
-#. IF quest.faction-tutorial.started && !quest.rhg-1-pickpocket.solved
+#. IF quest.faction-tutorial.started && !quest.rhg-1-pickpocket.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/2/event/quest/4/accepted/2/message+%2340
@@ -7878,7 +7982,7 @@ msgstr "Приятно видеть, что юный Искатель призн
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/2/event/quest/4/accepted/3/message #47
 #. NPC sgt
-#. IF quest.faction-tutorial.started && !quest.rhg-1-pickpocket.solved
+#. IF quest.faction-tutorial.started && !quest.rhg-1-pickpocket.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/2/event/quest/4/accepted/3/message+%2347
@@ -7888,7 +7992,7 @@ msgstr "Ты сможешь найти нужного стражника в це
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/2/event/quest/4/accepted/4/message #48
 #. NPC sgt
-#. IF quest.faction-tutorial.started && !quest.rhg-1-pickpocket.solved
+#. IF quest.faction-tutorial.started && !quest.rhg-1-pickpocket.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/2/event/quest/4/accepted/4/message+%2348
@@ -7898,7 +8002,7 @@ msgstr "Узнай у неё о проблеме и разреши дело."
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/2/event/quest/4/accepted/5/message #49
 #. NPC sgt
-#. IF quest.faction-tutorial.started && !quest.rhg-1-pickpocket.solved
+#. IF quest.faction-tutorial.started && !quest.rhg-1-pickpocket.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @NOD
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/2/event/quest/4/accepted/5/message+%2349
@@ -7908,7 +8012,7 @@ msgstr "[кивает]"
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/2/event/quest/4/declined/0/message #50
 #. NPC sgt
-#. IF quest.faction-tutorial.started && !quest.rhg-1-pickpocket.solved
+#. IF quest.faction-tutorial.started && !quest.rhg-1-pickpocket.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @SHAKE
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/2/event/quest/4/declined/0/message+%2350
@@ -7918,7 +8022,7 @@ msgstr "[мотает головой]"
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/2/event/quest/4/declined/2/message #53
 #. NPC sgt
-#. IF quest.faction-tutorial.started && !quest.rhg-1-pickpocket.solved
+#. IF quest.faction-tutorial.started && !quest.rhg-1-pickpocket.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/2/event/quest/4/declined/2/message+%2353
@@ -7928,7 +8032,7 @@ msgstr "Ну, в таком случае тебе лучше идти.\\. Я у�
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/2/event/quest/4/declined/3/message #51
 #. NPC sgt
-#. IF quest.faction-tutorial.started && !quest.rhg-1-pickpocket.solved
+#. IF quest.faction-tutorial.started && !quest.rhg-1-pickpocket.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @MOPING
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/2/event/quest/4/declined/3/message+%2351
@@ -7992,7 +8096,7 @@ msgstr "В любом случае, мы будем рады, если ты ре
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/5/event/quest/0/name #293
 #. NPC sgt
-#. IF quest.rhg-1-pickpocket.solved && plot.line >= 3300 && !quest.rhg-2-crate_smuggle.solved
+#. IF quest.rhg-1-pickpocket.solved && plot.line >= 3300 && !quest.rhg-2-crate_smuggle.started
 #. ADD_MSG_PERSON guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/5/event/quest/0/name+%23293
 msgctxt "data/maps/rookie-harbor/inner-faction-rhg-guard.json//entities/13/settings/npcStates/5/event/quest/0/name"
@@ -8001,7 +8105,7 @@ msgstr "Сержант Брасслер"
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/5/event/quest/2/message #252
 #. NPC sgt
-#. IF quest.rhg-1-pickpocket.solved && plot.line >= 3300 && !quest.rhg-2-crate_smuggle.solved
+#. IF quest.rhg-1-pickpocket.solved && plot.line >= 3300 && !quest.rhg-2-crate_smuggle.started
 #. SHOW_MSG guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/5/event/quest/2/message+%23252
 msgctxt "data/maps/rookie-harbor/inner-faction-rhg-guard.json//entities/13/settings/npcStates/5/event/quest/2/message"
@@ -8010,7 +8114,7 @@ msgstr "Приятно видеть тебя снова, новичок.\\. На
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/5/event/quest/3/message #254
 #. NPC sgt
-#. IF quest.rhg-1-pickpocket.solved && plot.line >= 3300 && !quest.rhg-2-crate_smuggle.solved
+#. IF quest.rhg-1-pickpocket.solved && plot.line >= 3300 && !quest.rhg-2-crate_smuggle.started
 #. SHOW_MSG main.lea @SURPRISED_TOWARD
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/5/event/quest/3/message+%23254
 msgctxt "data/maps/rookie-harbor/inner-faction-rhg-guard.json//entities/13/settings/npcStates/5/event/quest/3/message"
@@ -8019,7 +8123,7 @@ msgstr "...?"
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/5/event/quest/4/message #270
 #. NPC sgt
-#. IF quest.rhg-1-pickpocket.solved && plot.line >= 3300 && !quest.rhg-2-crate_smuggle.solved
+#. IF quest.rhg-1-pickpocket.solved && plot.line >= 3300 && !quest.rhg-2-crate_smuggle.started
 #. SHOW_MSG guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/5/event/quest/4/message+%23270
 msgctxt "data/maps/rookie-harbor/inner-faction-rhg-guard.json//entities/13/settings/npcStates/5/event/quest/4/message"
@@ -8028,7 +8132,7 @@ msgstr "Как будто обычной борьбы с Путём недост
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/5/event/quest/5/message #271
 #. NPC sgt
-#. IF quest.rhg-1-pickpocket.solved && plot.line >= 3300 && !quest.rhg-2-crate_smuggle.solved
+#. IF quest.rhg-1-pickpocket.solved && plot.line >= 3300 && !quest.rhg-2-crate_smuggle.started
 #. SHOW_MSG guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/5/event/quest/5/message+%23271
 msgctxt "data/maps/rookie-harbor/inner-faction-rhg-guard.json//entities/13/settings/npcStates/5/event/quest/5/message"
@@ -8037,7 +8141,7 @@ msgstr "Похоже, что некоторые люди перевозят ко
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/5/event/quest/6/message #272
 #. NPC sgt
-#. IF quest.rhg-1-pickpocket.solved && plot.line >= 3300 && !quest.rhg-2-crate_smuggle.solved
+#. IF quest.rhg-1-pickpocket.solved && plot.line >= 3300 && !quest.rhg-2-crate_smuggle.started
 #. SHOW_MSG main.lea @SURPRISED
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/5/event/quest/6/message+%23272
 msgctxt "data/maps/rookie-harbor/inner-faction-rhg-guard.json//entities/13/settings/npcStates/5/event/quest/6/message"
@@ -8046,7 +8150,7 @@ msgstr "...!"
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/5/event/quest/7/message #273
 #. NPC sgt
-#. IF quest.rhg-1-pickpocket.solved && plot.line >= 3300 && !quest.rhg-2-crate_smuggle.solved
+#. IF quest.rhg-1-pickpocket.solved && plot.line >= 3300 && !quest.rhg-2-crate_smuggle.started
 #. SHOW_MSG guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/5/event/quest/7/message+%23273
 msgctxt "data/maps/rookie-harbor/inner-faction-rhg-guard.json//entities/13/settings/npcStates/5/event/quest/7/message"
@@ -8055,7 +8159,7 @@ msgstr "Излишне говорить, что это опасно для ка�
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/5/event/quest/8/message #274
 #. NPC sgt
-#. IF quest.rhg-1-pickpocket.solved && plot.line >= 3300 && !quest.rhg-2-crate_smuggle.solved
+#. IF quest.rhg-1-pickpocket.solved && plot.line >= 3300 && !quest.rhg-2-crate_smuggle.started
 #. SHOW_MSG guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/5/event/quest/8/message+%23274
 msgctxt "data/maps/rookie-harbor/inner-faction-rhg-guard.json//entities/13/settings/npcStates/5/event/quest/8/message"
@@ -8064,7 +8168,7 @@ msgstr "Итак, могу ли я снова рассчитывать на тв
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/5/event/quest/10/accepted/0/message #275
 #. NPC sgt
-#. IF quest.rhg-1-pickpocket.solved && plot.line >= 3300 && !quest.rhg-2-crate_smuggle.solved
+#. IF quest.rhg-1-pickpocket.solved && plot.line >= 3300 && !quest.rhg-2-crate_smuggle.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @NOD
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/5/event/quest/10/accepted/0/message+%23275
@@ -8074,7 +8178,7 @@ msgstr "[кивает]"
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/5/event/quest/10/accepted/2/message #255
 #. NPC sgt
-#. IF quest.rhg-1-pickpocket.solved && plot.line >= 3300 && !quest.rhg-2-crate_smuggle.solved
+#. IF quest.rhg-1-pickpocket.solved && plot.line >= 3300 && !quest.rhg-2-crate_smuggle.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/5/event/quest/10/accepted/2/message+%23255
@@ -8084,7 +8188,7 @@ msgstr "Отлично.\\. \\c[3]Офицер Седрик\\c[0] уже расс
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/5/event/quest/10/accepted/3/message #276
 #. NPC sgt
-#. IF quest.rhg-1-pickpocket.solved && plot.line >= 3300 && !quest.rhg-2-crate_smuggle.solved
+#. IF quest.rhg-1-pickpocket.solved && plot.line >= 3300 && !quest.rhg-2-crate_smuggle.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/5/event/quest/10/accepted/3/message+%23276
@@ -8094,7 +8198,7 @@ msgstr "Встреться с ним в гавани у \\c[3]Арки ново�
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/5/event/quest/10/accepted/4/message #256
 #. NPC sgt
-#. IF quest.rhg-1-pickpocket.solved && plot.line >= 3300 && !quest.rhg-2-crate_smuggle.solved
+#. IF quest.rhg-1-pickpocket.solved && plot.line >= 3300 && !quest.rhg-2-crate_smuggle.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @NOD
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/5/event/quest/10/accepted/4/message+%23256
@@ -8104,7 +8208,7 @@ msgstr "[кивает]"
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/5/event/quest/10/declined/0/message #257
 #. NPC sgt
-#. IF quest.rhg-1-pickpocket.solved && plot.line >= 3300 && !quest.rhg-2-crate_smuggle.solved
+#. IF quest.rhg-1-pickpocket.solved && plot.line >= 3300 && !quest.rhg-2-crate_smuggle.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @SHAKE
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/5/event/quest/10/declined/0/message+%23257
@@ -8114,7 +8218,7 @@ msgstr "[мотает головой]"
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/5/event/quest/10/declined/2/message #258
 #. NPC sgt
-#. IF quest.rhg-1-pickpocket.solved && plot.line >= 3300 && !quest.rhg-2-crate_smuggle.solved
+#. IF quest.rhg-1-pickpocket.solved && plot.line >= 3300 && !quest.rhg-2-crate_smuggle.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/5/event/quest/10/declined/2/message+%23258
@@ -8124,7 +8228,7 @@ msgstr "Что, слишком важная, чтобы заниматься с�
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/5/event/quest/10/declined/3/message #259
 #. NPC sgt
-#. IF quest.rhg-1-pickpocket.solved && plot.line >= 3300 && !quest.rhg-2-crate_smuggle.solved
+#. IF quest.rhg-1-pickpocket.solved && plot.line >= 3300 && !quest.rhg-2-crate_smuggle.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @MOPING
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/5/event/quest/10/declined/3/message+%23259
@@ -8233,7 +8337,7 @@ msgstr "[кивает]"
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/8/event/quest/0/name #296
 #. NPC sgt
-#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.solved
+#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.started
 #. ADD_MSG_PERSON guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/8/event/quest/0/name+%23296
 msgctxt "data/maps/rookie-harbor/inner-faction-rhg-guard.json//entities/13/settings/npcStates/8/event/quest/0/name"
@@ -8242,7 +8346,7 @@ msgstr "Сержант Брасслер"
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/8/event/quest/2/message #317
 #. NPC sgt
-#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.solved
+#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.started
 #. SHOW_MSG main.lea @PROUD
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/8/event/quest/2/message+%23317
 msgctxt "data/maps/rookie-harbor/inner-faction-rhg-guard.json//entities/13/settings/npcStates/8/event/quest/2/message"
@@ -8251,7 +8355,7 @@ msgstr "Привет!"
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/8/event/quest/3/message #268
 #. NPC sgt
-#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.solved
+#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.started
 #. SHOW_MSG guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/8/event/quest/3/message+%23268
 msgctxt "data/maps/rookie-harbor/inner-faction-rhg-guard.json//entities/13/settings/npcStates/8/event/quest/3/message"
@@ -8260,7 +8364,7 @@ msgstr "Ах, \\v[lore.title.seeker].\\. Нашла дорогу обратно 
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/8/event/quest/4/message #298
 #. NPC sgt
-#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.solved
+#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.started
 #. SHOW_MSG main.lea @NOD
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/8/event/quest/4/message+%23298
 msgctxt "data/maps/rookie-harbor/inner-faction-rhg-guard.json//entities/13/settings/npcStates/8/event/quest/4/message"
@@ -8269,7 +8373,7 @@ msgstr "[кивает]"
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/8/event/quest/5/message #316
 #. NPC sgt
-#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.solved
+#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.started
 #. SHOW_MSG guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/8/event/quest/5/message+%23316
 msgctxt "data/maps/rookie-harbor/inner-faction-rhg-guard.json//entities/13/settings/npcStates/8/event/quest/5/message"
@@ -8278,7 +8382,7 @@ msgstr "Если честно, ты очень вовремя.\\. Бизнес �
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/8/event/quest/6/message #318
 #. NPC sgt
-#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.solved
+#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.started
 #. SHOW_MSG main.lea @SURPRISED
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/8/event/quest/6/message+%23318
 msgctxt "data/maps/rookie-harbor/inner-faction-rhg-guard.json//entities/13/settings/npcStates/8/event/quest/6/message"
@@ -8287,7 +8391,7 @@ msgstr "...!"
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/8/event/quest/7/message #319
 #. NPC sgt
-#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.solved
+#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.started
 #. SHOW_MSG guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/8/event/quest/7/message+%23319
 msgctxt "data/maps/rookie-harbor/inner-faction-rhg-guard.json//entities/13/settings/npcStates/8/event/quest/7/message"
@@ -8296,7 +8400,7 @@ msgstr "На деле всё стало только хуже.\\. У тебя н
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/8/event/quest/8/accepted/0/message #320
 #. NPC sgt
-#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.solved
+#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @NOD
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/8/event/quest/8/accepted/0/message+%23320
@@ -8306,7 +8410,7 @@ msgstr "[кивает]"
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/8/event/quest/8/accepted/1/message #299
 #. NPC sgt
-#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.solved
+#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/8/event/quest/8/accepted/1/message+%23299
@@ -8316,7 +8420,7 @@ msgstr "Рад видеть, что ты не забыла свои корни.\
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/8/event/quest/8/accepted/2/message #300
 #. NPC sgt
-#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.solved
+#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/8/event/quest/8/accepted/2/message+%23300
@@ -8326,7 +8430,7 @@ msgstr "Проблема в том, что они не доставляют св
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/8/event/quest/8/accepted/3/message #321
 #. NPC sgt
-#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.solved
+#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/8/event/quest/8/accepted/3/message+%23321
@@ -8336,7 +8440,7 @@ msgstr "Вместо этого оружие самостоятельно пер
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/8/event/quest/8/accepted/4/message #322
 #. NPC sgt
-#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.solved
+#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @SURPRISED
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/8/event/quest/8/accepted/4/message+%23322
@@ -8346,7 +8450,7 @@ msgstr "...!"
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/8/event/quest/8/accepted/5/message #323
 #. NPC sgt
-#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.solved
+#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/8/event/quest/8/accepted/5/message+%23323
@@ -8356,7 +8460,7 @@ msgstr "По сути, мы должны поймать и уничтожить 
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/8/event/quest/8/accepted/6/message #324
 #. NPC sgt
-#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.solved
+#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @SURPRISED_TOWARD
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/8/event/quest/8/accepted/6/message+%23324
@@ -8366,7 +8470,7 @@ msgstr "...?"
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/8/event/quest/8/accepted/7/message #327
 #. NPC sgt
-#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.solved
+#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/8/event/quest/8/accepted/7/message+%23327
@@ -8376,7 +8480,7 @@ msgstr "Мы кое-что подготовили.\\. Иди к \\c[3]Арке �
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/8/event/quest/8/accepted/8/message #328
 #. NPC sgt
-#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.solved
+#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/8/event/quest/8/accepted/8/message+%23328
@@ -8386,7 +8490,7 @@ msgstr "Он даст тебе более подробную информаци�
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/8/event/quest/8/accepted/9/message #329
 #. NPC sgt
-#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.solved
+#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/8/event/quest/8/accepted/9/message+%23329
@@ -8396,7 +8500,7 @@ msgstr "Пока!"
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/8/event/quest/8/declined/0/message #302
 #. NPC sgt
-#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.solved
+#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @SHAKE
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/8/event/quest/8/declined/0/message+%23302
@@ -8406,7 +8510,7 @@ msgstr "[мотает головой]"
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/8/event/quest/8/declined/2/message #303
 #. NPC sgt
-#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.solved
+#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/8/event/quest/8/declined/2/message+%23303
@@ -8416,7 +8520,7 @@ msgstr "Нет больше времени для нашей глуши, да?\\
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/8/event/quest/8/declined/3/message #304
 #. NPC sgt
-#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.solved
+#. IF quest.rhg-2-crate_smuggle.solved && dungeons.heat.beaten && !quest.rhg-3-maritime_smuggle.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @MOPING
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/8/event/quest/8/declined/3/message+%23304
@@ -8426,7 +8530,7 @@ msgstr ".\\..\\.."
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/9/event/0/name #307
 #. NPC sgt
-#. IF quest.rhg-3-maritime_smuggle.started
+#. IF quest.rhg-3-maritime_smuggle.started && !quest.rhg-3-maritime_smuggle.solved
 #. ADD_MSG_PERSON guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/9/event/0/name+%23307
 msgctxt "data/maps/rookie-harbor/inner-faction-rhg-guard.json//entities/13/settings/npcStates/9/event/0/name"
@@ -8435,7 +8539,7 @@ msgstr "Сержант Брасслер"
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/9/event/2/message #335
 #. NPC sgt
-#. IF quest.rhg-3-maritime_smuggle.started
+#. IF quest.rhg-3-maritime_smuggle.started && !quest.rhg-3-maritime_smuggle.solved
 #. SHOW_MSG guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/9/event/2/message+%23335
 msgctxt "data/maps/rookie-harbor/inner-faction-rhg-guard.json//entities/13/settings/npcStates/9/event/2/message"
@@ -8444,7 +8548,7 @@ msgstr "Иди к \\c[3]Арке новобранцев\\c[0] и поговор�
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/9/event/3/message #336
 #. NPC sgt
-#. IF quest.rhg-3-maritime_smuggle.started
+#. IF quest.rhg-3-maritime_smuggle.started && !quest.rhg-3-maritime_smuggle.solved
 #. SHOW_MSG guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/9/event/3/message+%23336
 msgctxt "data/maps/rookie-harbor/inner-faction-rhg-guard.json//entities/13/settings/npcStates/9/event/3/message"
@@ -8543,7 +8647,7 @@ msgstr "Пока!"
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/11/event/quest/0/name #305
 #. NPC sgt
-#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.solved && extension.post-game.active
+#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.started && extension.post-game.active
 #. ADD_MSG_PERSON guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/11/event/quest/0/name+%23305
 msgctxt "data/maps/rookie-harbor/inner-faction-rhg-guard.json//entities/13/settings/npcStates/11/event/quest/0/name"
@@ -8552,7 +8656,7 @@ msgstr "Сержант Брасслер"
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/11/event/quest/2/message #398
 #. NPC sgt
-#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.solved && extension.post-game.active
+#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.started && extension.post-game.active
 #. SHOW_MSG main.lea @EXCITED
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/11/event/quest/2/message+%23398
 msgctxt "data/maps/rookie-harbor/inner-faction-rhg-guard.json//entities/13/settings/npcStates/11/event/quest/2/message"
@@ -8561,7 +8665,7 @@ msgstr "Привет!"
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/11/event/quest/3/message #433
 #. NPC sgt
-#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.solved && extension.post-game.active
+#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.started && extension.post-game.active
 #. SHOW_MSG guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/11/event/quest/3/message+%23433
 msgctxt "data/maps/rookie-harbor/inner-faction-rhg-guard.json//entities/13/settings/npcStates/11/event/quest/3/message"
@@ -8570,7 +8674,7 @@ msgstr "Искатель, снова как раз вовремя.\\. Полаг
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/11/event/quest/4/message #434
 #. NPC sgt
-#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.solved && extension.post-game.active
+#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.started && extension.post-game.active
 #. SHOW_MSG main.lea @SMILE
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/11/event/quest/4/message+%23434
 msgctxt "data/maps/rookie-harbor/inner-faction-rhg-guard.json//entities/13/settings/npcStates/11/event/quest/4/message"
@@ -8579,7 +8683,7 @@ msgstr "Лея..."
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/11/event/quest/5/message #435
 #. NPC sgt
-#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.solved && extension.post-game.active
+#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.started && extension.post-game.active
 #. SHOW_MSG guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/11/event/quest/5/message+%23435
 msgctxt "data/maps/rookie-harbor/inner-faction-rhg-guard.json//entities/13/settings/npcStates/11/event/quest/5/message"
@@ -8588,7 +8692,7 @@ msgstr "Ну, нет времени на воспоминания о прошл�
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/11/event/quest/6/message #402
 #. NPC sgt
-#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.solved && extension.post-game.active
+#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.started && extension.post-game.active
 #. SHOW_MSG main.lea @ASTONISHED
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/11/event/quest/6/message+%23402
 msgctxt "data/maps/rookie-harbor/inner-faction-rhg-guard.json//entities/13/settings/npcStates/11/event/quest/6/message"
@@ -8597,7 +8701,7 @@ msgstr "...!"
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/11/event/quest/7/message #436
 #. NPC sgt
-#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.solved && extension.post-game.active
+#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.started && extension.post-game.active
 #. SHOW_MSG guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/11/event/quest/7/message+%23436
 msgctxt "data/maps/rookie-harbor/inner-faction-rhg-guard.json//entities/13/settings/npcStates/11/event/quest/7/message"
@@ -8606,7 +8710,7 @@ msgstr "Можем ли мы рассчитывать на твою поддер
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/11/event/quest/8/accepted/0/message #406
 #. NPC sgt
-#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.solved && extension.post-game.active
+#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.started && extension.post-game.active
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @NOD
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/11/event/quest/8/accepted/0/message+%23406
@@ -8616,7 +8720,7 @@ msgstr "[кивает]"
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/11/event/quest/8/accepted/1/message #437
 #. NPC sgt
-#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.solved && extension.post-game.active
+#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.started && extension.post-game.active
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/11/event/quest/8/accepted/1/message+%23437
@@ -8626,7 +8730,7 @@ msgstr "Превосходно, Искатель.\\. Я знал, что мог�
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/11/event/quest/8/accepted/2/message #408
 #. NPC sgt
-#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.solved && extension.post-game.active
+#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.started && extension.post-game.active
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @EXCITED
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/11/event/quest/8/accepted/2/message+%23408
@@ -8636,7 +8740,7 @@ msgstr "..."
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/11/event/quest/8/accepted/3/message #438
 #. NPC sgt
-#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.solved && extension.post-game.active
+#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.started && extension.post-game.active
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/11/event/quest/8/accepted/3/message+%23438
@@ -8646,7 +8750,7 @@ msgstr "Эта операция будет тебе знакома. \\. Ты б�
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/11/event/quest/8/accepted/4/message #439
 #. NPC sgt
-#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.solved && extension.post-game.active
+#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.started && extension.post-game.active
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/11/event/quest/8/accepted/4/message+%23439
@@ -8656,7 +8760,7 @@ msgstr "Однако на этот раз мы покончим с контра�
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/11/event/quest/8/accepted/5/message #440
 #. NPC sgt
-#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.solved && extension.post-game.active
+#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.started && extension.post-game.active
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @WHISTLING
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/11/event/quest/8/accepted/5/message+%23440
@@ -8666,7 +8770,7 @@ msgstr "..."
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/11/event/quest/8/accepted/6/message #441
 #. NPC sgt
-#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.solved && extension.post-game.active
+#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.started && extension.post-game.active
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/11/event/quest/8/accepted/6/message+%23441
@@ -8676,7 +8780,7 @@ msgstr "В самом деле, уничтожить лидера.\\. Очеви
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/11/event/quest/8/accepted/7/message #442
 #. NPC sgt
-#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.solved && extension.post-game.active
+#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.started && extension.post-game.active
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/11/event/quest/8/accepted/7/message+%23442
@@ -8686,7 +8790,7 @@ msgstr "\\c[3]Капитан Турбайн\\c[0] расскажет тебе в
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/11/event/quest/8/accepted/8/message #411
 #. NPC sgt
-#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.solved && extension.post-game.active
+#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.started && extension.post-game.active
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @NOD
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/11/event/quest/8/accepted/8/message+%23411
@@ -8696,7 +8800,7 @@ msgstr "[кивает]"
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/11/event/quest/8/accepted/9/message #443
 #. NPC sgt
-#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.solved && extension.post-game.active
+#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.started && extension.post-game.active
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/11/event/quest/8/accepted/9/message+%23443
@@ -8706,7 +8810,7 @@ msgstr "Хорошей охоты, Искатель."
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/11/event/quest/8/accepted/10/message #413
 #. NPC sgt
-#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.solved && extension.post-game.active
+#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.started && extension.post-game.active
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/11/event/quest/8/accepted/10/message+%23413
@@ -8716,7 +8820,7 @@ msgstr "Пока."
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/11/event/quest/8/declined/0/message #414
 #. NPC sgt
-#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.solved && extension.post-game.active
+#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.started && extension.post-game.active
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @SHAKE
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/11/event/quest/8/declined/0/message+%23414
@@ -8726,7 +8830,7 @@ msgstr "[мотает головой]"
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/11/event/quest/8/declined/1/message #417
 #. NPC sgt
-#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.solved && extension.post-game.active
+#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.started && extension.post-game.active
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-male-normal-blonde @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/11/event/quest/8/declined/1/message+%23417
@@ -8736,7 +8840,7 @@ msgstr "Отказываешься защищать свой ностальги�
 
 #. data/maps/rookie-harbor/inner-faction-rhg-guard.json entities/13/settings/npcStates/11/event/quest/8/declined/2/message #416
 #. NPC sgt
-#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.solved && extension.post-game.active
+#. IF quest.rhg-3-maritime_smuggle.solved && (plot.line >= 32000) && !quest.rhg-4-maritime_smuggle_2.started && extension.post-game.active
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @MOPING
 #: data/maps/rookie-harbor/inner-faction-rhg-guard.json+entities/13/settings/npcStates/11/event/quest/8/declined/2/message+%23416
@@ -9122,7 +9226,7 @@ msgstr "Это раздражает, но даже мы должны следо�
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/2/event/quest/1/name #317
 #. NPC leader
-#. IF quest.faction-tutorial.started && !quest.wa-1-digging.solved
+#. IF quest.faction-tutorial.started && !quest.wa-1-digging.started
 #. ADD_MSG_PERSON rookie-harbor.faction-fd-female-leader @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/2/event/quest/1/name+%23317
 msgctxt "data/maps/rookie-harbor/inner-faction-wa-adv.json//entities/78/settings/npcStates/2/event/quest/1/name"
@@ -9131,7 +9235,7 @@ msgstr "Эления"
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/2/event/quest/2/message #254
 #. NPC leader
-#. IF quest.faction-tutorial.started && !quest.wa-1-digging.solved
+#. IF quest.faction-tutorial.started && !quest.wa-1-digging.started
 #. SHOW_MSG rookie-harbor.faction-fd-female-leader @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/2/event/quest/2/message+%23254
 msgctxt "data/maps/rookie-harbor/inner-faction-wa-adv.json//entities/78/settings/npcStates/2/event/quest/2/message"
@@ -9140,7 +9244,7 @@ msgstr "Хейя, Искатель.\\. Ты вернулась, чтобы по�
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/2/event/quest/3/accepted/0/message #46
 #. NPC leader
-#. IF quest.faction-tutorial.started && !quest.wa-1-digging.solved
+#. IF quest.faction-tutorial.started && !quest.wa-1-digging.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @NOD
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/2/event/quest/3/accepted/0/message+%2346
@@ -9150,7 +9254,7 @@ msgstr "[кивает]"
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/2/event/quest/3/accepted/1/message #263
 #. NPC leader
-#. IF quest.faction-tutorial.started && !quest.wa-1-digging.solved
+#. IF quest.faction-tutorial.started && !quest.wa-1-digging.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.faction-fd-female-leader @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/2/event/quest/3/accepted/1/message+%23263
@@ -9160,7 +9264,7 @@ msgstr "Потрясающе!\\. Я передам тебе координаты
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/2/event/quest/3/accepted/2/message #264
 #. NPC leader
-#. IF quest.faction-tutorial.started && !quest.wa-1-digging.solved
+#. IF quest.faction-tutorial.started && !quest.wa-1-digging.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.faction-fd-female-leader @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/2/event/quest/3/accepted/2/message+%23264
@@ -9170,7 +9274,7 @@ msgstr "Просто не забывай \\c[3]о своих инстинкта�
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/2/event/quest/3/declined/0/message #50
 #. NPC leader
-#. IF quest.faction-tutorial.started && !quest.wa-1-digging.solved
+#. IF quest.faction-tutorial.started && !quest.wa-1-digging.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @SHAKE
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/2/event/quest/3/declined/0/message+%2350
@@ -9180,7 +9284,7 @@ msgstr "[мотает головой]"
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/2/event/quest/3/declined/1/message #265
 #. NPC leader
-#. IF quest.faction-tutorial.started && !quest.wa-1-digging.solved
+#. IF quest.faction-tutorial.started && !quest.wa-1-digging.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.faction-fd-female-leader @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/2/event/quest/3/declined/1/message+%23265
@@ -9262,7 +9366,7 @@ msgstr "В любом случае, возьми эту награду.\\. Я н
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/5/event/quest/1/name #320
 #. NPC leader
-#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.solved
+#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.started
 #. ADD_MSG_PERSON rookie-harbor.faction-fd-female-leader @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/5/event/quest/1/name+%23320
 msgctxt "data/maps/rookie-harbor/inner-faction-wa-adv.json//entities/78/settings/npcStates/5/event/quest/1/name"
@@ -9271,7 +9375,7 @@ msgstr "Эления"
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/5/event/quest/2/message #270
 #. NPC leader
-#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.solved
+#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.started
 #. SHOW_MSG main.lea @PROUD
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/5/event/quest/2/message+%23270
 msgctxt "data/maps/rookie-harbor/inner-faction-wa-adv.json//entities/78/settings/npcStates/5/event/quest/2/message"
@@ -9280,7 +9384,7 @@ msgstr "Привет!"
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/5/event/quest/3/message #252
 #. NPC leader
-#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.solved
+#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.started
 #. SHOW_MSG rookie-harbor.faction-fd-female-leader @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/5/event/quest/3/message+%23252
 msgctxt "data/maps/rookie-harbor/inner-faction-wa-adv.json//entities/78/settings/npcStates/5/event/quest/3/message"
@@ -9289,7 +9393,7 @@ msgstr "Привет, милая, ты пришла в нужный момент
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/5/event/quest/4/message #282
 #. NPC leader
-#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.solved
+#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.started
 #. SHOW_MSG main.lea @SURPRISED_AWAY
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/5/event/quest/4/message+%23282
 msgctxt "data/maps/rookie-harbor/inner-faction-wa-adv.json//entities/78/settings/npcStates/5/event/quest/4/message"
@@ -9298,7 +9402,7 @@ msgstr "..."
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/5/event/quest/5/message #283
 #. NPC leader
-#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.solved
+#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.started
 #. SHOW_MSG rookie-harbor.faction-fd-female-leader @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/5/event/quest/5/message+%23283
 msgctxt "data/maps/rookie-harbor/inner-faction-wa-adv.json//entities/78/settings/npcStates/5/event/quest/5/message"
@@ -9307,7 +9411,7 @@ msgstr "Видишь ли, мы просмотрели данные Тукоса
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/5/event/quest/7/message #284
 #. NPC leader
-#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.solved
+#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.started
 #. SHOW_MSG rookie-harbor.faction-fd-female-leader @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/5/event/quest/7/message+%23284
 msgctxt "data/maps/rookie-harbor/inner-faction-wa-adv.json//entities/78/settings/npcStates/5/event/quest/7/message"
@@ -9316,7 +9420,7 @@ msgstr "Оказывается, что засада на него была не 
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/5/event/quest/8/message #285
 #. NPC leader
-#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.solved
+#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.started
 #. SHOW_MSG rookie-harbor.faction-fd-female-leader @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/5/event/quest/8/message+%23285
 msgctxt "data/maps/rookie-harbor/inner-faction-wa-adv.json//entities/78/settings/npcStates/5/event/quest/8/message"
@@ -9325,7 +9429,7 @@ msgstr "Хочешь верь, хочешь нет,\\. но наша инфор�
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/5/event/quest/9/message #286
 #. NPC leader
-#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.solved
+#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.started
 #. SHOW_MSG rookie-harbor.faction-fd-female-leader @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/5/event/quest/9/message+%23286
 msgctxt "data/maps/rookie-harbor/inner-faction-wa-adv.json//entities/78/settings/npcStates/5/event/quest/9/message"
@@ -9334,7 +9438,7 @@ msgstr "Они, видимо, прицепились к Тукосу сразу 
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/5/event/quest/10/message #287
 #. NPC leader
-#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.solved
+#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.started
 #. SHOW_MSG main.lea @SURPRISED
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/5/event/quest/10/message+%23287
 msgctxt "data/maps/rookie-harbor/inner-faction-wa-adv.json//entities/78/settings/npcStates/5/event/quest/10/message"
@@ -9343,7 +9447,7 @@ msgstr "...!"
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/5/event/quest/11/message #288
 #. NPC leader
-#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.solved
+#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.started
 #. SHOW_MSG rookie-harbor.faction-fd-female-leader @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/5/event/quest/11/message+%23288
 msgctxt "data/maps/rookie-harbor/inner-faction-wa-adv.json//entities/78/settings/npcStates/5/event/quest/11/message"
@@ -9352,7 +9456,7 @@ msgstr "Ну и история, верно?\\. Никогда не знаешь,
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/5/event/quest/12/message #289
 #. NPC leader
-#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.solved
+#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.started
 #. SHOW_MSG rookie-harbor.faction-fd-female-leader @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/5/event/quest/12/message+%23289
 msgctxt "data/maps/rookie-harbor/inner-faction-wa-adv.json//entities/78/settings/npcStates/5/event/quest/12/message"
@@ -9361,7 +9465,7 @@ msgstr "Но я полагаю, что стоило ожидать некото�
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/5/event/quest/14/message #290
 #. NPC leader
-#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.solved
+#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.started
 #. SHOW_MSG rookie-harbor.faction-fd-female-leader @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/5/event/quest/14/message+%23290
 msgctxt "data/maps/rookie-harbor/inner-faction-wa-adv.json//entities/78/settings/npcStates/5/event/quest/14/message"
@@ -9370,7 +9474,7 @@ msgstr "В любом случае, Тукос уже отправился ту�
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/5/event/quest/15/message #291
 #. NPC leader
-#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.solved
+#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.started
 #. SHOW_MSG rookie-harbor.faction-fd-female-leader @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/5/event/quest/15/message+%23291
 msgctxt "data/maps/rookie-harbor/inner-faction-wa-adv.json//entities/78/settings/npcStates/5/event/quest/15/message"
@@ -9379,7 +9483,7 @@ msgstr "Итак, как насчёт этого, данная страннос�
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/5/event/quest/16/accepted/0/message #292
 #. NPC leader
-#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.solved
+#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @NOD
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/5/event/quest/16/accepted/0/message+%23292
@@ -9389,7 +9493,7 @@ msgstr "[кивает]"
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/5/event/quest/16/accepted/1/message #271
 #. NPC leader
-#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.solved
+#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.faction-fd-female-leader @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/5/event/quest/16/accepted/1/message+%23271
@@ -9399,7 +9503,7 @@ msgstr "Я знала, что ты не сможешь удержаться.\\. 
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/5/event/quest/16/accepted/2/message #272
 #. NPC leader
-#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.solved
+#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.faction-fd-female-leader @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/5/event/quest/16/accepted/2/message+%23272
@@ -9409,7 +9513,7 @@ msgstr "Тукос хотел дождаться подкрепления на \
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/5/event/quest/16/accepted/3/message #293
 #. NPC leader
-#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.solved
+#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.faction-fd-female-leader @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/5/event/quest/16/accepted/3/message+%23293
@@ -9419,7 +9523,7 @@ msgstr "Лучше не заставляй его ждать! Он точно х
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/5/event/quest/16/accepted/4/message #297
 #. NPC leader
-#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.solved
+#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @NOD
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/5/event/quest/16/accepted/4/message+%23297
@@ -9429,7 +9533,7 @@ msgstr "[кивает]"
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/5/event/quest/16/declined/0/message #273
 #. NPC leader
-#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.solved
+#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @SHAKE
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/5/event/quest/16/declined/0/message+%23273
@@ -9439,7 +9543,7 @@ msgstr "[мотает головой]"
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/5/event/quest/16/declined/1/message #274
 #. NPC leader
-#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.solved
+#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.faction-fd-female-leader @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/5/event/quest/16/declined/1/message+%23274
@@ -9449,7 +9553,7 @@ msgstr "Ох, правда?\\. Я поставила бы свой обед на
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/5/event/quest/16/declined/2/message #294
 #. NPC leader
-#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.solved
+#. IF quest.wa-1-digging.solved && plot.line >= 3300 && !quest.fd-2-meerkat-cave.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.faction-fd-female-leader @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/5/event/quest/16/declined/2/message+%23294
@@ -9585,7 +9689,7 @@ msgstr "Привет!"
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/8/event/quest/1/name #325
 #. NPC leader
-#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.solved
+#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.started
 #. ADD_MSG_PERSON rookie-harbor.faction-fd-female-leader @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/8/event/quest/1/name+%23325
 msgctxt "data/maps/rookie-harbor/inner-faction-wa-adv.json//entities/78/settings/npcStates/8/event/quest/1/name"
@@ -9594,7 +9698,7 @@ msgstr "Эления"
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/8/event/quest/2/message #326
 #. NPC leader
-#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.solved
+#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.started
 #. SHOW_MSG main.lea @PROUD
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/8/event/quest/2/message+%23326
 msgctxt "data/maps/rookie-harbor/inner-faction-wa-adv.json//entities/78/settings/npcStates/8/event/quest/2/message"
@@ -9603,7 +9707,7 @@ msgstr "Привет!"
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/8/event/quest/3/message #327
 #. NPC leader
-#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.solved
+#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.started
 #. SHOW_MSG rookie-harbor.faction-fd-female-leader @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/8/event/quest/3/message+%23327
 msgctxt "data/maps/rookie-harbor/inner-faction-wa-adv.json//entities/78/settings/npcStates/8/event/quest/3/message"
@@ -9612,7 +9716,7 @@ msgstr "Добро пожаловать, Искатель, прошло нема
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/8/event/quest/4/message #328
 #. NPC leader
-#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.solved
+#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.started
 #. SHOW_MSG main.lea @SMUG
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/8/event/quest/4/message+%23328
 msgctxt "data/maps/rookie-harbor/inner-faction-wa-adv.json//entities/78/settings/npcStates/8/event/quest/4/message"
@@ -9621,7 +9725,7 @@ msgstr "..."
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/8/event/quest/5/message #341
 #. NPC leader
-#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.solved
+#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.started
 #. SHOW_MSG rookie-harbor.faction-fd-female-leader @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/8/event/quest/5/message+%23341
 msgctxt "data/maps/rookie-harbor/inner-faction-wa-adv.json//entities/78/settings/npcStates/8/event/quest/5/message"
@@ -9630,7 +9734,7 @@ msgstr "Твой опыт пригодится!\\. Мы добились про�
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/8/event/quest/6/message #342
 #. NPC leader
-#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.solved
+#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.started
 #. SHOW_MSG main.lea @ASTONISHED
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/8/event/quest/6/message+%23342
 msgctxt "data/maps/rookie-harbor/inner-faction-wa-adv.json//entities/78/settings/npcStates/8/event/quest/6/message"
@@ -9639,7 +9743,7 @@ msgstr "...!"
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/8/event/quest/7/message #343
 #. NPC leader
-#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.solved
+#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.started
 #. SHOW_MSG rookie-harbor.faction-fd-female-leader @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/8/event/quest/7/message+%23343
 msgctxt "data/maps/rookie-harbor/inner-faction-wa-adv.json//entities/78/settings/npcStates/8/event/quest/7/message"
@@ -9648,7 +9752,7 @@ msgstr "Да, было довольно много работы, но это д�
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/8/event/quest/8/message #344
 #. NPC leader
-#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.solved
+#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.started
 #. SHOW_MSG rookie-harbor.faction-fd-female-leader @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/8/event/quest/8/message+%23344
 msgctxt "data/maps/rookie-harbor/inner-faction-wa-adv.json//entities/78/settings/npcStates/8/event/quest/8/message"
@@ -9657,7 +9761,7 @@ msgstr "Как насчёт этого?\\. Мы можем воспользов�
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/8/event/quest/9/accepted/0/message #329
 #. NPC leader
-#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.solved
+#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @NOD
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/8/event/quest/9/accepted/0/message+%23329
@@ -9667,7 +9771,7 @@ msgstr "[кивает]"
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/8/event/quest/9/accepted/1/message #330
 #. NPC leader
-#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.solved
+#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.faction-fd-female-leader @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/8/event/quest/9/accepted/1/message+%23330
@@ -9677,7 +9781,7 @@ msgstr "Отлично!\\. Теперь, с твоей помощью, мы см
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/8/event/quest/9/accepted/2/message #345
 #. NPC leader
-#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.solved
+#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @PROUD
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/8/event/quest/9/accepted/2/message+%23345
@@ -9687,7 +9791,7 @@ msgstr "..."
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/8/event/quest/9/accepted/3/message #346
 #. NPC leader
-#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.solved
+#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.faction-fd-female-leader @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/8/event/quest/9/accepted/3/message+%23346
@@ -9697,7 +9801,7 @@ msgstr "Не могу много тебе рассказать об этом, н
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/8/event/quest/9/accepted/4/message #351
 #. NPC leader
-#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.solved
+#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.faction-fd-female-leader @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/8/event/quest/9/accepted/4/message+%23351
@@ -9707,7 +9811,7 @@ msgstr "Встреться с ним в \\c[3]Руинах деревни\\c[0] 
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/8/event/quest/9/accepted/5/message #352
 #. NPC leader
-#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.solved
+#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.faction-fd-female-leader @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/8/event/quest/9/accepted/5/message+%23352
@@ -9717,7 +9821,7 @@ msgstr "Это прямо на границе с \\c[3]Расцветом Осе
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/8/event/quest/9/accepted/6/message #347
 #. NPC leader
-#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.solved
+#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @SURPRISED_AWAY
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/8/event/quest/9/accepted/6/message+%23347
@@ -9727,7 +9831,7 @@ msgstr "..."
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/8/event/quest/9/accepted/7/message #331
 #. NPC leader
-#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.solved
+#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @NOD
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/8/event/quest/9/accepted/7/message+%23331
@@ -9737,7 +9841,7 @@ msgstr "[кивает]"
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/8/event/quest/9/accepted/8/message #348
 #. NPC leader
-#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.solved
+#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.faction-fd-female-leader @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/8/event/quest/9/accepted/8/message+%23348
@@ -9747,7 +9851,7 @@ msgstr "Хорошо, тогда удачи с этим.\\. И передай Д
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/8/event/quest/9/accepted/9/message #349
 #. NPC leader
-#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.solved
+#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @EXCITED
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/8/event/quest/9/accepted/9/message+%23349
@@ -9757,7 +9861,7 @@ msgstr "Пока!"
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/8/event/quest/9/declined/0/message #332
 #. NPC leader
-#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.solved
+#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @SHAKE
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/8/event/quest/9/declined/0/message+%23332
@@ -9767,7 +9871,7 @@ msgstr "[мотает головой]"
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/8/event/quest/9/declined/1/message #333
 #. NPC leader
-#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.solved
+#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG rookie-harbor.faction-fd-female-leader @DEFAULT
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/8/event/quest/9/declined/1/message+%23333
@@ -9777,7 +9881,7 @@ msgstr "Ах, чёрт, это разочаровывает.\\. Может, те
 
 #. data/maps/rookie-harbor/inner-faction-wa-adv.json entities/78/settings/npcStates/8/event/quest/9/declined/2/message #350
 #. NPC leader
-#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.solved
+#. IF quest.fd-2-meerkat-cave.solved && dungeons.heat.beaten && !fd-3-ball_egg_1.started
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @SURPRISED_AWAY
 #: data/maps/rookie-harbor/inner-faction-wa-adv.json+entities/78/settings/npcStates/8/event/quest/9/declined/2/message+%23350
@@ -16759,6 +16863,72 @@ msgctxt "data/maps/rookie-harbor/south.json//entities/185/settings/npcStates/0/e
 msgid "...that you're so slow!!\\.\\. Byeeeee\\..\\..\\.."
 msgstr "...что ты такая медленная!!\\.\\. Покаааа\\..\\..\\.."
 
+#. data/maps/rookie-harbor/south.json entities/194/settings/event/9/text #342
+#. EventTrigger Outro Start START IF plot.line >= 51000
+#. SHOW_DREAM_MSG
+#: data/maps/rookie-harbor/south.json+entities/194/settings/event/9/text+%23342
+msgctxt "data/maps/rookie-harbor/south.json//entities/194/settings/event/9/text"
+msgid ""
+"And so the days went by with a game \n"
+"populated by both players and Evotars."
+msgstr ""
+
+#. data/maps/rookie-harbor/south.json entities/194/settings/event/27/message #344
+#. EventTrigger Outro Start START IF plot.line >= 51000
+#. SHOW_MSG main.luke @DEFAULT
+#: data/maps/rookie-harbor/south.json+entities/194/settings/event/27/message+%23344
+msgctxt "data/maps/rookie-harbor/south.json//entities/194/settings/event/27/message"
+msgid "Finally we set foot on the great continent of the croissant!"
+msgstr ""
+
+#. data/maps/rookie-harbor/south.json entities/194/settings/event/28/message #345
+#. EventTrigger Outro Start START IF plot.line >= 51000
+#. SHOW_MSG main.luke @EYES_CLOSED
+#: data/maps/rookie-harbor/south.json+entities/194/settings/event/28/message+%23345
+msgctxt "data/maps/rookie-harbor/south.json//entities/194/settings/event/28/message"
+msgid "Entering \\c[3]Rookie Harbor\\c[0]!"
+msgstr ""
+
+#. data/maps/rookie-harbor/south.json entities/194/settings/event/34/message #346
+#. EventTrigger Outro Start START IF plot.line >= 51000
+#. SHOW_MSG main.luke @DEFAULT
+#: data/maps/rookie-harbor/south.json+entities/194/settings/event/34/message+%23346
+msgctxt "data/maps/rookie-harbor/south.json//entities/194/settings/event/34/message"
+msgid "To the right, you find the Info Hub."
+msgstr ""
+
+#. data/maps/rookie-harbor/south.json entities/194/settings/event/36/message #347
+#. EventTrigger Outro Start START IF plot.line >= 51000
+#. SHOW_MSG main.luke @UP
+#: data/maps/rookie-harbor/south.json+entities/194/settings/event/36/message+%23347
+msgctxt "data/maps/rookie-harbor/south.json//entities/194/settings/event/36/message"
+msgid "A great place if..."
+msgstr ""
+
+#. data/maps/rookie-harbor/south.json entities/194/settings/event/37/message #348
+#. EventTrigger Outro Start START IF plot.line >= 51000
+#. SHOW_MSG main.luke @SKEPTICAL
+#: data/maps/rookie-harbor/south.json+entities/194/settings/event/37/message+%23348
+msgctxt "data/maps/rookie-harbor/south.json//entities/194/settings/event/37/message"
+msgid "Japp, that's such a nice tree to run around to, isn't it?"
+msgstr ""
+
+#. data/maps/rookie-harbor/south.json entities/194/settings/event/39/message #349
+#. EventTrigger Outro Start START IF plot.line >= 51000
+#. SHOW_MSG main.luke @EYES_CLOSED
+#: data/maps/rookie-harbor/south.json+entities/194/settings/event/39/message+%23349
+msgctxt "data/maps/rookie-harbor/south.json//entities/194/settings/event/39/message"
+msgid "Look, I get it.\\. Who cares about the boring Info Hub!"
+msgstr ""
+
+#. data/maps/rookie-harbor/south.json entities/194/settings/event/42/message #350
+#. EventTrigger Outro Start START IF plot.line >= 51000
+#. SHOW_MSG main.luke @WINK
+#: data/maps/rookie-harbor/south.json+entities/194/settings/event/42/message+%23350
+msgctxt "data/maps/rookie-harbor/south.json//entities/194/settings/event/42/message"
+msgid "Still, it's a place you might want to remember for later.\\. Just saying."
+msgstr ""
+
 #. data/maps/rookie-harbor/special/quest-ocean-1.json entities/4/settings/event/13/text #185
 #. EventTrigger intro
 #. SHOW_AR_MSG
@@ -20399,8 +20569,9 @@ msgstr "Это был хороший тест для нашей П.И.У.\\. Я 
 #. EventTrigger patrolAfter1 START IF g.oceanPatrol.win && !quest.rhg-3-maritime_smuggle.solved
 #. SHOW_MSG guards.male-hairs-white @DEFAULT
 #: data/maps/rookie-harbor/teleporter.json+entities/480/settings/event/18/message+%23593
+#, fuzzy
 msgctxt "data/maps/rookie-harbor/teleporter.json//entities/480/settings/event/18/message"
-msgid "In any case you did well, but I'm sure you wanna be back on land again."
+msgid "In any case, you did well, but I'm sure you wanna be back on land again."
 msgstr "В любом случае, у тебя всё получилось, но я уверен, что ты хочешь вернуться на землю."
 
 #. data/maps/rookie-harbor/teleporter.json entities/480/settings/event/19/message #594

@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.3.0-4\n"
+"Project-Id-Version: crosscode 1.4.0-4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-11 11:05+0000\n"
-"PO-Revision-Date: 2021-02-11 11:05+0000\n"
+"POT-Creation-Date: 2021-03-12 23:31+0000\n"
+"PO-Revision-Date: 2021-03-12 23:31+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -258,6 +258,12 @@ msgstr "Казармы"
 msgctxt "data/areas/forest.json//floors/1/maps/36/name"
 msgid "The Bellow"
 msgstr "Беллоу"
+
+#. data/areas/forest.json floors/1/maps/37/name #263
+#: data/areas/forest.json+floors/1/maps/37/name+%23263
+msgctxt "data/areas/forest.json//floors/1/maps/37/name"
+msgid "The Rise"
+msgstr ""
 
 #. data/areas/forest.json floors/2/name #105
 #: data/areas/forest.json+floors/2/name+%23105
@@ -3700,13 +3706,13 @@ msgctxt "data/maps/forest/caves/spider-cave-01.json//entities/251/settings/event
 msgid "Hard"
 msgstr "Сложный режим"
 
-#. data/maps/forest/caves/spider-cave-01.json entities/251/settings/event/19/thenStep/0/thenStep/0/text #350
+#. data/maps/forest/caves/spider-cave-01.json entities/251/settings/event/21/thenStep/0/thenStep/0/text #350
 #. EventTrigger SurivalEnd START IF tmp.endFight2 && !player.hasLevelUp
 #. IF (tmp.score > tmp.bestScore)
 #. IF tmp.bestScore <= 0
 #. SHOW_BOARD_MSG
-#: data/maps/forest/caves/spider-cave-01.json+entities/251/settings/event/19/thenStep/0/thenStep/0/text+%23350
-msgctxt "data/maps/forest/caves/spider-cave-01.json//entities/251/settings/event/19/thenStep/0/thenStep/0/text"
+#: data/maps/forest/caves/spider-cave-01.json+entities/251/settings/event/21/thenStep/0/thenStep/0/text+%23350
+msgctxt "data/maps/forest/caves/spider-cave-01.json//entities/251/settings/event/21/thenStep/0/thenStep/0/text"
 msgid ""
 "\\s[0]\\c[3]New Survival [\\v[tmp.modeName]] Record!\\c[0]\n"
 "\\v[misc.localNumTempVar.scoreStringValue] Points"
@@ -3714,13 +3720,13 @@ msgstr ""
 "\\s[0]\\c[3]Выживание - [\\v[tmp.modeName]] Новый рекорд!\\c[0]\n"
 "\\v[misc.localNumTempVar.scoreStringValue] очков"
 
-#. data/maps/forest/caves/spider-cave-01.json entities/251/settings/event/19/thenStep/0/elseStep/0/text #351
+#. data/maps/forest/caves/spider-cave-01.json entities/251/settings/event/21/thenStep/0/elseStep/0/text #351
 #. EventTrigger SurivalEnd START IF tmp.endFight2 && !player.hasLevelUp
 #. IF (tmp.score > tmp.bestScore)
 #. IF NOT tmp.bestScore <= 0
 #. SHOW_BOARD_MSG
-#: data/maps/forest/caves/spider-cave-01.json+entities/251/settings/event/19/thenStep/0/elseStep/0/text+%23351
-msgctxt "data/maps/forest/caves/spider-cave-01.json//entities/251/settings/event/19/thenStep/0/elseStep/0/text"
+#: data/maps/forest/caves/spider-cave-01.json+entities/251/settings/event/21/thenStep/0/elseStep/0/text+%23351
+msgctxt "data/maps/forest/caves/spider-cave-01.json//entities/251/settings/event/21/thenStep/0/elseStep/0/text"
 msgid ""
 "\\s[0]\\c[3]New Surival [\\v[tmp.modeName]] Record!\\c[0]\n"
 "\\v[misc.localNumTempVar.scoreStringValue] Points\n"
@@ -3736,12 +3742,12 @@ msgstr ""
 "\n"
 "\\v[misc.localNumTempVar.bestScoreString] очков"
 
-#. data/maps/forest/caves/spider-cave-01.json entities/251/settings/event/19/elseStep/0/text #87
+#. data/maps/forest/caves/spider-cave-01.json entities/251/settings/event/21/elseStep/0/text #87
 #. EventTrigger SurivalEnd START IF tmp.endFight2 && !player.hasLevelUp
 #. IF NOT (tmp.score > tmp.bestScore)
 #. SHOW_BOARD_MSG
-#: data/maps/forest/caves/spider-cave-01.json+entities/251/settings/event/19/elseStep/0/text+%2387
-msgctxt "data/maps/forest/caves/spider-cave-01.json//entities/251/settings/event/19/elseStep/0/text"
+#: data/maps/forest/caves/spider-cave-01.json+entities/251/settings/event/21/elseStep/0/text+%2387
+msgctxt "data/maps/forest/caves/spider-cave-01.json//entities/251/settings/event/21/elseStep/0/text"
 msgid ""
 "\\s[0]\\c[3]Score Surival [\\v[tmp.modeName]]:\\c[0]\n"
 "\\v[misc.localNumTempVar.scoreStringValue] Points\n"
@@ -3755,13 +3761,13 @@ msgstr ""
 "Рекорд:\n"
 "\\v[misc.localNumTempVar.bestScoreString] очков"
 
-#. data/maps/forest/caves/spider-cave-01.json entities/259/settings/event/26/thenStep/0/thenStep/0/text #359
+#. data/maps/forest/caves/spider-cave-01.json entities/259/settings/event/28/thenStep/0/thenStep/0/text #359
 #. EventTrigger EndlessEnd START IF tmp.playerDead
 #. IF (tmp.score > tmp.bestScore)
 #. IF tmp.bestScore <= 0
 #. SHOW_BOARD_MSG
-#: data/maps/forest/caves/spider-cave-01.json+entities/259/settings/event/26/thenStep/0/thenStep/0/text+%23359
-msgctxt "data/maps/forest/caves/spider-cave-01.json//entities/259/settings/event/26/thenStep/0/thenStep/0/text"
+#: data/maps/forest/caves/spider-cave-01.json+entities/259/settings/event/28/thenStep/0/thenStep/0/text+%23359
+msgctxt "data/maps/forest/caves/spider-cave-01.json//entities/259/settings/event/28/thenStep/0/thenStep/0/text"
 msgid ""
 "\\s[0]\\c[3]New Endless Record!\\c[0]\n"
 "\\v[misc.localNumTempVar.scoreStringValue] Points\n"
@@ -3779,13 +3785,13 @@ msgstr ""
 "\\s[0]\\c[3]Истреблено\\c[0]\n"
 "\\v[map.killsValEndless]"
 
-#. data/maps/forest/caves/spider-cave-01.json entities/259/settings/event/26/thenStep/0/elseStep/0/text #363
+#. data/maps/forest/caves/spider-cave-01.json entities/259/settings/event/28/thenStep/0/elseStep/0/text #363
 #. EventTrigger EndlessEnd START IF tmp.playerDead
 #. IF (tmp.score > tmp.bestScore)
 #. IF NOT tmp.bestScore <= 0
 #. SHOW_BOARD_MSG
-#: data/maps/forest/caves/spider-cave-01.json+entities/259/settings/event/26/thenStep/0/elseStep/0/text+%23363
-msgctxt "data/maps/forest/caves/spider-cave-01.json//entities/259/settings/event/26/thenStep/0/elseStep/0/text"
+#: data/maps/forest/caves/spider-cave-01.json+entities/259/settings/event/28/thenStep/0/elseStep/0/text+%23363
+msgctxt "data/maps/forest/caves/spider-cave-01.json//entities/259/settings/event/28/thenStep/0/elseStep/0/text"
 msgid ""
 "\\s[0]\\c[3]New Surival Endless Record!\\c[0]\n"
 "\\v[misc.localNumTempVar.scoreStringValue] Points\n"
@@ -3803,12 +3809,12 @@ msgstr ""
 "\\s[0]\\c[3]Истреблено\\c[0]\n"
 "\\v[map.killsValEndless]"
 
-#. data/maps/forest/caves/spider-cave-01.json entities/259/settings/event/26/elseStep/0/text #364
+#. data/maps/forest/caves/spider-cave-01.json entities/259/settings/event/28/elseStep/0/text #364
 #. EventTrigger EndlessEnd START IF tmp.playerDead
 #. IF NOT (tmp.score > tmp.bestScore)
 #. SHOW_BOARD_MSG
-#: data/maps/forest/caves/spider-cave-01.json+entities/259/settings/event/26/elseStep/0/text+%23364
-msgctxt "data/maps/forest/caves/spider-cave-01.json//entities/259/settings/event/26/elseStep/0/text"
+#: data/maps/forest/caves/spider-cave-01.json+entities/259/settings/event/28/elseStep/0/text+%23364
+msgctxt "data/maps/forest/caves/spider-cave-01.json//entities/259/settings/event/28/elseStep/0/text"
 msgid ""
 "\\s[0]\\c[3]Score Endless:\\c[0]\n"
 "\\v[misc.localNumTempVar.scoreStringValue] Points\n"
@@ -8947,6 +8953,13 @@ msgstr "Ожидает анонса."
 msgctxt "data/maps/forest/interior/statue-room.json//entities/340/settings/dialog/6/text"
 msgid "Figures..."
 msgstr "Понятно..."
+
+#. data/maps/forest/interior/temple-inner.json entities/214/settings/teleportLabel #1
+#. TeleportField teleporter SPAWN IF plot.line >= 46500 && !tmp.teleporterHide
+#: data/maps/forest/interior/temple-inner.json+entities/214/settings/teleportLabel+%231
+msgctxt "data/maps/forest/interior/temple-inner.json//entities/214/settings/teleportLabel"
+msgid "Teleport Away"
+msgstr ""
 
 #. data/maps/forest/lab/room-2.json entities/10/settings/condAnims/0/interact/hoverText #6
 #. Prop
@@ -16042,7 +16055,7 @@ msgid "How did we even get up here?\\. I totally lost track."
 msgstr "Как мы вообще сюда попали?\\. Я совсем потерял след."
 
 #. data/maps/forest/path-12.json entities/693/settings/dialog/0/text #201
-#. XenoDialog angryPlayers
+#. XenoDialog angryPlayers SPAWN IF plot.line < 46200
 #. advisors.man-tall-gray
 #: data/maps/forest/path-12.json+entities/693/settings/dialog/0/text+%23201
 msgctxt "data/maps/forest/path-12.json//entities/693/settings/dialog/0/text"
@@ -16050,7 +16063,7 @@ msgid "Dear Seekers, thank you very much for your ongoing support."
 msgstr "Уважаемые Искатели, большое спасибо за вашу постоянную поддержку."
 
 #. data/maps/forest/path-12.json entities/693/settings/dialog/1/text #202
-#. XenoDialog angryPlayers
+#. XenoDialog angryPlayers SPAWN IF plot.line < 46200
 #. cross-worlds.pentafist-male-dark
 #: data/maps/forest/path-12.json+entities/693/settings/dialog/1/text+%23202
 msgctxt "data/maps/forest/path-12.json//entities/693/settings/dialog/1/text"
@@ -16058,7 +16071,7 @@ msgid "Final Dungeon when?!"
 msgstr "Завершающее подземелье, когда?!"
 
 #. data/maps/forest/path-12.json entities/693/settings/dialog/2/text #203
-#. XenoDialog angryPlayers
+#. XenoDialog angryPlayers SPAWN IF plot.line < 46200
 #. advisors.man-tall-gray
 #: data/maps/forest/path-12.json+entities/693/settings/dialog/2/text+%23203
 msgctxt "data/maps/forest/path-12.json//entities/693/settings/dialog/2/text"
@@ -16066,7 +16079,7 @@ msgid "It is thanks to all of you that operation \\c[3]Track Walker\\c[0] has co
 msgstr "Именно благодаря всем вам операция \\c[3]Путепроходец\\c[0] зашла так далеко."
 
 #. data/maps/forest/path-12.json entities/693/settings/dialog/3/text #204
-#. XenoDialog angryPlayers
+#. XenoDialog angryPlayers SPAWN IF plot.line < 46200
 #. cross-worlds.hexacast-male-dark
 #: data/maps/forest/path-12.json+entities/693/settings/dialog/3/text+%23204
 msgctxt "data/maps/forest/path-12.json//entities/693/settings/dialog/3/text"
@@ -16074,7 +16087,7 @@ msgid "Big Update still this year?"
 msgstr "Большое обновление всё ещё в этом году?"
 
 #. data/maps/forest/path-12.json entities/693/settings/dialog/4/text #205
-#. XenoDialog angryPlayers
+#. XenoDialog angryPlayers SPAWN IF plot.line < 46200
 #. advisors.man-tall-gray
 #: data/maps/forest/path-12.json+entities/693/settings/dialog/4/text+%23205
 msgctxt "data/maps/forest/path-12.json//entities/693/settings/dialog/4/text"
@@ -16082,7 +16095,7 @@ msgid "We are currently hard at work to make this Temple accessible in the near 
 msgstr "В настоящее время мы усердно работаем над тем, чтобы сделать этот Храм доступным в ближайшем будущем."
 
 #. data/maps/forest/path-12.json entities/693/settings/dialog/5/text #206
-#. XenoDialog angryPlayers
+#. XenoDialog angryPlayers SPAWN IF plot.line < 46200
 #. cross-worlds.triblader-male-blond
 #: data/maps/forest/path-12.json+entities/693/settings/dialog/5/text+%23206
 msgctxt "data/maps/forest/path-12.json//entities/693/settings/dialog/5/text"
@@ -16090,7 +16103,7 @@ msgid "I want my ending now!!"
 msgstr "Я хочу свой конец игры сейчас!!"
 
 #. data/maps/forest/path-12.json entities/693/settings/dialog/6/text #207
-#. XenoDialog angryPlayers
+#. XenoDialog angryPlayers SPAWN IF plot.line < 46200
 #. cross-worlds.quadroguard-female-gray
 #: data/maps/forest/path-12.json+entities/693/settings/dialog/6/text+%23207
 msgctxt "data/maps/forest/path-12.json//entities/693/settings/dialog/6/text"
@@ -16098,7 +16111,7 @@ msgid "You think anyone from Instatainment is listening to us?"
 msgstr "Ты думаешь, кто-нибудь из Instatainment слушает нас?"
 
 #. data/maps/forest/path-12.json entities/693/settings/dialog/7/text #208
-#. XenoDialog angryPlayers
+#. XenoDialog angryPlayers SPAWN IF plot.line < 46200
 #. cross-worlds.quadroguard-male-blond
 #: data/maps/forest/path-12.json+entities/693/settings/dialog/7/text+%23208
 msgctxt "data/maps/forest/path-12.json//entities/693/settings/dialog/7/text"
@@ -16106,7 +16119,7 @@ msgid "Probably not..."
 msgstr "Скорее всего, нет..."
 
 #. data/maps/forest/path-12.json entities/693/settings/dialog/8/text #209
-#. XenoDialog angryPlayers
+#. XenoDialog angryPlayers SPAWN IF plot.line < 46200
 #. cross-worlds.quadroguard-male-black
 #: data/maps/forest/path-12.json+entities/693/settings/dialog/8/text+%23209
 msgctxt "data/maps/forest/path-12.json//entities/693/settings/dialog/8/text"
@@ -16114,9 +16127,688 @@ msgid "It's always the same with these game productions."
 msgstr "Всегда так с этими играми."
 
 #. data/maps/forest/path-12.json entities/693/settings/dialog/9/text #210
-#. XenoDialog angryPlayers
+#. XenoDialog angryPlayers SPAWN IF plot.line < 46200
 #. cross-worlds.triblader-male-blond
 #: data/maps/forest/path-12.json+entities/693/settings/dialog/9/text+%23210
 msgctxt "data/maps/forest/path-12.json//entities/693/settings/dialog/9/text"
 msgid "Let me in!!!"
 msgstr "Впустите меня!!!"
+
+#. data/maps/forest/path-12.json entities/796/settings/npcStates/0/event/quest/2/message #213
+#. NPC hlin
+#. IF plot.line >= 46400
+#. SHOW_MSG main.guild-leader @SMILE
+#: data/maps/forest/path-12.json+entities/796/settings/npcStates/0/event/quest/2/message+%23213
+msgctxt "data/maps/forest/path-12.json//entities/796/settings/npcStates/0/event/quest/2/message"
+msgid "There you are, dear!"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/796/settings/npcStates/0/event/quest/3/message #215
+#. NPC hlin
+#. IF plot.line >= 46400
+#. SHOW_MSG main.guild-leader @TOWARDS
+#: data/maps/forest/path-12.json+entities/796/settings/npcStates/0/event/quest/3/message+%23215
+msgctxt "data/maps/forest/path-12.json//entities/796/settings/npcStates/0/event/quest/3/message"
+msgid "The \\c[3]Ku'lero Temple\\c[0] will open soon!"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/796/settings/npcStates/0/event/quest/4/message #216
+#. NPC hlin
+#. IF plot.line >= 46400
+#. SHOW_MSG main.guild-leader @SMILE
+#: data/maps/forest/path-12.json+entities/796/settings/npcStates/0/event/quest/4/message+%23216
+msgctxt "data/maps/forest/path-12.json//entities/796/settings/npcStates/0/event/quest/4/message"
+msgid "But there's still enough time to prepare."
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/796/settings/npcStates/0/event/quest/5/message #217
+#. NPC hlin
+#. IF plot.line >= 46400
+#. SHOW_MSG main.guild-leader @THINKING
+#: data/maps/forest/path-12.json+entities/796/settings/npcStates/0/event/quest/5/message+%23217
+msgctxt "data/maps/forest/path-12.json//entities/796/settings/npcStates/0/event/quest/5/message"
+msgid "Just talk to \\c[3]Lukas\\c[0] if you want your current stats evaluated."
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/796/settings/npcStates/0/event/quest/6/message #218
+#. NPC hlin
+#. IF plot.line >= 46400
+#. SHOW_MSG main.guild-leader @SMILE
+#: data/maps/forest/path-12.json+entities/796/settings/npcStates/0/event/quest/6/message+%23218
+msgctxt "data/maps/forest/path-12.json//entities/796/settings/npcStates/0/event/quest/6/message"
+msgid "Now with all that being said..."
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/796/settings/npcStates/0/event/quest/7/message #219
+#. NPC hlin
+#. IF plot.line >= 46400
+#. SHOW_MSG main.guild-leader @DETERMINED
+#: data/maps/forest/path-12.json+entities/796/settings/npcStates/0/event/quest/7/message+%23219
+msgctxt "data/maps/forest/path-12.json//entities/796/settings/npcStates/0/event/quest/7/message"
+msgid "Are you \\c[3]ready to run the temple\\c[0]?"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/796/settings/npcStates/0/event/quest/8/0/0/message #220
+#. NPC hlin
+#. IF plot.line >= 46400
+#. SHOW_CHOICE main.lea @SURPRISED_AWAY
+#. SHOW_MSG main.lea @NOD
+#: data/maps/forest/path-12.json+entities/796/settings/npcStates/0/event/quest/8/0/0/message+%23220
+msgctxt "data/maps/forest/path-12.json//entities/796/settings/npcStates/0/event/quest/8/0/0/message"
+msgid "[nods]"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/796/settings/npcStates/0/event/quest/8/0/1/message #221
+#. NPC hlin
+#. IF plot.line >= 46400
+#. SHOW_CHOICE main.lea @SURPRISED_AWAY
+#. SHOW_MSG main.guild-leader @SMILE
+#: data/maps/forest/path-12.json+entities/796/settings/npcStates/0/event/quest/8/0/1/message+%23221
+msgctxt "data/maps/forest/path-12.json//entities/796/settings/npcStates/0/event/quest/8/0/1/message"
+msgid "Alrighty!"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/796/settings/npcStates/0/event/quest/8/0/2/message #222
+#. NPC hlin
+#. IF plot.line >= 46400
+#. SHOW_CHOICE main.lea @SURPRISED_AWAY
+#. SHOW_MSG main.guild-leader @THINKING
+#: data/maps/forest/path-12.json+entities/796/settings/npcStates/0/event/quest/8/0/2/message+%23222
+msgctxt "data/maps/forest/path-12.json//entities/796/settings/npcStates/0/event/quest/8/0/2/message"
+msgid "Let's all try to get closer to the entrance!"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/796/settings/npcStates/0/event/quest/8/1/0/message #223
+#. NPC hlin
+#. IF plot.line >= 46400
+#. SHOW_CHOICE main.lea @SURPRISED_AWAY
+#. SHOW_MSG main.lea @SHAKE
+#: data/maps/forest/path-12.json+entities/796/settings/npcStates/0/event/quest/8/1/0/message+%23223
+msgctxt "data/maps/forest/path-12.json//entities/796/settings/npcStates/0/event/quest/8/1/0/message"
+msgid "[shakes head]"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/796/settings/npcStates/0/event/quest/8/1/1/message #224
+#. NPC hlin
+#. IF plot.line >= 46400
+#. SHOW_CHOICE main.lea @SURPRISED_AWAY
+#. SHOW_MSG main.guild-leader @EYES_CLOSED
+#: data/maps/forest/path-12.json+entities/796/settings/npcStates/0/event/quest/8/1/1/message+%23224
+msgctxt "data/maps/forest/path-12.json//entities/796/settings/npcStates/0/event/quest/8/1/1/message"
+msgid "Alright, dear.\\. Take your time to be well prepared!"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/796/settings/npcStates/0/event/quest/8/options/0/label #214
+#. NPC hlin
+#. IF plot.line >= 46400
+#. SHOW_CHOICE main.lea @SURPRISED_AWAY
+#: data/maps/forest/path-12.json+entities/796/settings/npcStates/0/event/quest/8/options/0/label+%23214
+msgctxt "data/maps/forest/path-12.json//entities/796/settings/npcStates/0/event/quest/8/options/0/label"
+msgid "Yes"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/796/settings/npcStates/0/event/quest/8/options/1/label #225
+#. NPC hlin
+#. IF plot.line >= 46400
+#. SHOW_CHOICE main.lea @SURPRISED_AWAY
+#: data/maps/forest/path-12.json+entities/796/settings/npcStates/0/event/quest/8/options/1/label+%23225
+msgctxt "data/maps/forest/path-12.json//entities/796/settings/npcStates/0/event/quest/8/options/1/label"
+msgid "No"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/798/settings/npcStates/0/event/2/message #138
+#. NPC schneider
+#. IF plot.line >= 46400
+#. SHOW_MSG main.schneider @DEFAULT
+#: data/maps/forest/path-12.json+entities/798/settings/npcStates/0/event/2/message+%23138
+msgctxt "data/maps/forest/path-12.json//entities/798/settings/npcStates/0/event/2/message"
+msgid "Hey there!\\. The final temple will open soon!"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/798/settings/npcStates/0/event/3/message #139
+#. NPC schneider
+#. IF plot.line >= 46400
+#. SHOW_MSG main.schneider @TOWARDS
+#: data/maps/forest/path-12.json+entities/798/settings/npcStates/0/event/3/message+%23139
+msgctxt "data/maps/forest/path-12.json//entities/798/settings/npcStates/0/event/3/message"
+msgid "Do you want me to have a look at your stats and equipment?"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/798/settings/npcStates/0/event/4/0/0/message #140
+#. NPC schneider
+#. IF plot.line >= 46400
+#. SHOW_CHOICE main.lea @SURPRISED_AWAY
+#. SHOW_MSG main.lea @NOD
+#: data/maps/forest/path-12.json+entities/798/settings/npcStates/0/event/4/0/0/message+%23140
+msgctxt "data/maps/forest/path-12.json//entities/798/settings/npcStates/0/event/4/0/0/message"
+msgid "[nods]"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/798/settings/npcStates/0/event/4/0/1/message #151
+#. NPC schneider
+#. IF plot.line >= 46400
+#. SHOW_CHOICE main.lea @SURPRISED_AWAY
+#. SHOW_MSG main.schneider @UP
+#: data/maps/forest/path-12.json+entities/798/settings/npcStates/0/event/4/0/1/message+%23151
+msgctxt "data/maps/forest/path-12.json//entities/798/settings/npcStates/0/event/4/0/1/message"
+msgid "Okay let's see..."
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/798/settings/npcStates/0/event/4/0/2/thenStep/0/message #152
+#. NPC schneider
+#. IF plot.line >= 46400
+#. SHOW_CHOICE main.lea @SURPRISED_AWAY
+#. IF player.paramAvg >= 450
+#. SHOW_MSG main.schneider @LAUGH
+#: data/maps/forest/path-12.json+entities/798/settings/npcStates/0/event/4/0/2/thenStep/0/message+%23152
+msgctxt "data/maps/forest/path-12.json//entities/798/settings/npcStates/0/event/4/0/2/thenStep/0/message"
+msgid "Jawohl! I see you're \\c[3]well prepared\\c[0]."
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/798/settings/npcStates/0/event/4/0/2/thenStep/1/message #163
+#. NPC schneider
+#. IF plot.line >= 46400
+#. SHOW_CHOICE main.lea @SURPRISED_AWAY
+#. IF player.paramAvg >= 450
+#. SHOW_MSG main.lea @SMUG
+#: data/maps/forest/path-12.json+entities/798/settings/npcStates/0/event/4/0/2/thenStep/1/message+%23163
+msgctxt "data/maps/forest/path-12.json//entities/798/settings/npcStates/0/event/4/0/2/thenStep/1/message"
+msgid "...!!"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/798/settings/npcStates/0/event/4/0/2/thenStep/2/message #153
+#. NPC schneider
+#. IF plot.line >= 46400
+#. SHOW_CHOICE main.lea @SURPRISED_AWAY
+#. IF player.paramAvg >= 450
+#. SHOW_MSG main.schneider @DEFAULT
+#: data/maps/forest/path-12.json+entities/798/settings/npcStates/0/event/4/0/2/thenStep/2/message+%23153
+msgctxt "data/maps/forest/path-12.json//entities/798/settings/npcStates/0/event/4/0/2/thenStep/2/message"
+msgid "Good equipment and stats for your level. You'll be fine!"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/thenStep/0/message #154
+#. NPC schneider
+#. IF plot.line >= 46400
+#. SHOW_CHOICE main.lea @SURPRISED_AWAY
+#. IF NOT player.paramAvg >= 450
+#. IF player.paramAvg >= 400
+#. SHOW_MSG main.schneider @WINK
+#: data/maps/forest/path-12.json+entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/thenStep/0/message+%23154
+msgctxt "data/maps/forest/path-12.json//entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/thenStep/0/message"
+msgid "Hm... I'd say you \\c[3]could do better\\c[0]."
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/thenStep/1/message #164
+#. NPC schneider
+#. IF plot.line >= 46400
+#. SHOW_CHOICE main.lea @SURPRISED_AWAY
+#. IF NOT player.paramAvg >= 450
+#. IF player.paramAvg >= 400
+#. SHOW_MSG main.lea @SURPRISED_TOWARD
+#: data/maps/forest/path-12.json+entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/thenStep/1/message+%23164
+msgctxt "data/maps/forest/path-12.json//entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/thenStep/1/message"
+msgid "...?"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/thenStep/2/message #155
+#. NPC schneider
+#. IF plot.line >= 46400
+#. SHOW_CHOICE main.lea @SURPRISED_AWAY
+#. IF NOT player.paramAvg >= 450
+#. IF player.paramAvg >= 400
+#. SHOW_MSG main.schneider @DEFAULT
+#: data/maps/forest/path-12.json+entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/thenStep/2/message+%23155
+msgctxt "data/maps/forest/path-12.json//entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/thenStep/2/message"
+msgid "Things might still work with those stats, but it won't be a breeze."
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/thenStep/3/message #156
+#. NPC schneider
+#. IF plot.line >= 46400
+#. SHOW_CHOICE main.lea @SURPRISED_AWAY
+#. IF NOT player.paramAvg >= 450
+#. IF player.paramAvg >= 400
+#. SHOW_MSG main.schneider @TOWARDS
+#: data/maps/forest/path-12.json+entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/thenStep/3/message+%23156
+msgctxt "data/maps/forest/path-12.json//entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/thenStep/3/message"
+msgid "I suggest you look for \\c[3]better equipment\\c[0]. It's the most important factor for your stats."
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/elseStep/0/message #157
+#. NPC schneider
+#. IF plot.line >= 46400
+#. SHOW_CHOICE main.lea @SURPRISED_AWAY
+#. IF NOT player.paramAvg >= 450
+#. IF NOT player.paramAvg >= 400
+#. SHOW_MSG main.schneider @SERIOUS
+#: data/maps/forest/path-12.json+entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/elseStep/0/message+%23157
+msgctxt "data/maps/forest/path-12.json//entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/elseStep/0/message"
+msgid "Oh junge. You really gotta \\c[3]work on your stats\\c[0]!"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/elseStep/1/message #165
+#. NPC schneider
+#. IF plot.line >= 46400
+#. SHOW_CHOICE main.lea @SURPRISED_AWAY
+#. IF NOT player.paramAvg >= 450
+#. IF NOT player.paramAvg >= 400
+#. SHOW_MSG main.lea @SURPRISED
+#: data/maps/forest/path-12.json+entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/elseStep/1/message+%23165
+msgctxt "data/maps/forest/path-12.json//entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/elseStep/1/message"
+msgid "...?"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/elseStep/2/message #158
+#. NPC schneider
+#. IF plot.line >= 46400
+#. SHOW_CHOICE main.lea @SURPRISED_AWAY
+#. IF NOT player.paramAvg >= 450
+#. IF NOT player.paramAvg >= 400
+#. SHOW_MSG main.schneider @SKEPTICAL
+#: data/maps/forest/path-12.json+entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/elseStep/2/message+%23158
+msgctxt "data/maps/forest/path-12.json//entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/elseStep/2/message"
+msgid "Those may have been sufficient back for the raid, but you'll have a \\c[3]hard time\\c[0] for the final temple."
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/elseStep/3/message #166
+#. NPC schneider
+#. IF plot.line >= 46400
+#. SHOW_CHOICE main.lea @SURPRISED_AWAY
+#. IF NOT player.paramAvg >= 450
+#. IF NOT player.paramAvg >= 400
+#. SHOW_MSG main.lea @NERVOUS
+#: data/maps/forest/path-12.json+entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/elseStep/3/message+%23166
+msgctxt "data/maps/forest/path-12.json//entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/elseStep/3/message"
+msgid "..."
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/elseStep/4/message #159
+#. NPC schneider
+#. IF plot.line >= 46400
+#. SHOW_CHOICE main.lea @SURPRISED_AWAY
+#. IF NOT player.paramAvg >= 450
+#. IF NOT player.paramAvg >= 400
+#. SHOW_MSG main.schneider @WHISTLING
+#: data/maps/forest/path-12.json+entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/elseStep/4/message+%23159
+msgctxt "data/maps/forest/path-12.json//entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/elseStep/4/message"
+msgid "No really, you really should \\c[3]improve your equipment\\c[0]. It's by far the most important factor for your stats."
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/elseStep/5/message #160
+#. NPC schneider
+#. IF plot.line >= 46400
+#. SHOW_CHOICE main.lea @SURPRISED_AWAY
+#. IF NOT player.paramAvg >= 450
+#. IF NOT player.paramAvg >= 400
+#. SHOW_MSG main.schneider @UP
+#: data/maps/forest/path-12.json+entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/elseStep/5/message+%23160
+msgctxt "data/maps/forest/path-12.json//entities/798/settings/npcStates/0/event/4/0/2/elseStep/0/elseStep/5/message"
+msgid "Also make sure to \\c[3]check your circuit tree\\c[0] if there are any more skills you can learn."
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/798/settings/npcStates/0/event/4/1/0/message #141
+#. NPC schneider
+#. IF plot.line >= 46400
+#. SHOW_CHOICE main.lea @SURPRISED_AWAY
+#. SHOW_MSG main.lea @SHAKE
+#: data/maps/forest/path-12.json+entities/798/settings/npcStates/0/event/4/1/0/message+%23141
+msgctxt "data/maps/forest/path-12.json//entities/798/settings/npcStates/0/event/4/1/0/message"
+msgid "[shakes head]"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/798/settings/npcStates/0/event/4/1/1/message #142
+#. NPC schneider
+#. IF plot.line >= 46400
+#. SHOW_CHOICE main.lea @SURPRISED_AWAY
+#. SHOW_MSG main.schneider @EYES_CLOSED
+#: data/maps/forest/path-12.json+entities/798/settings/npcStates/0/event/4/1/1/message+%23142
+msgctxt "data/maps/forest/path-12.json//entities/798/settings/npcStates/0/event/4/1/1/message"
+msgid "Sure thing!\\. Let me know when you change your mind."
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/798/settings/npcStates/0/event/4/options/0/label #137
+#. NPC schneider
+#. IF plot.line >= 46400
+#. SHOW_CHOICE main.lea @SURPRISED_AWAY
+#: data/maps/forest/path-12.json+entities/798/settings/npcStates/0/event/4/options/0/label+%23137
+msgctxt "data/maps/forest/path-12.json//entities/798/settings/npcStates/0/event/4/options/0/label"
+msgid "[yes]"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/798/settings/npcStates/0/event/4/options/1/label #143
+#. NPC schneider
+#. IF plot.line >= 46400
+#. SHOW_CHOICE main.lea @SURPRISED_AWAY
+#: data/maps/forest/path-12.json+entities/798/settings/npcStates/0/event/4/options/1/label+%23143
+msgctxt "data/maps/forest/path-12.json//entities/798/settings/npcStates/0/event/4/options/1/label"
+msgid "[no]"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/829/settings/event/29/message #226
+#. EventTrigger openingScene START IF tmp.openingScene
+#. SHOW_MSG main.emilie @SHOCKED
+#: data/maps/forest/path-12.json+entities/829/settings/event/29/message+%23226
+msgctxt "data/maps/forest/path-12.json//entities/829/settings/event/29/message"
+msgid "It's soooo crowded!"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/829/settings/event/31/message #227
+#. EventTrigger openingScene START IF tmp.openingScene
+#. SHOW_MSG main.schneider @LAUGH
+#: data/maps/forest/path-12.json+entities/829/settings/event/31/message+%23227
+msgctxt "data/maps/forest/path-12.json//entities/829/settings/event/31/message"
+msgid "I know, right?\\. Who would have thought?"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/829/settings/event/36/message #228
+#. EventTrigger openingScene START IF tmp.openingScene
+#. SHOW_MSG main.guild-leader @TOWARDS
+#: data/maps/forest/path-12.json+entities/829/settings/event/36/message+%23228
+msgctxt "data/maps/forest/path-12.json//entities/829/settings/event/36/message"
+msgid "Everyone is here, right?"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/829/settings/event/37/message #229
+#. EventTrigger openingScene START IF tmp.openingScene
+#. SHOW_MSG main.guild-leader @DETERMINED
+#: data/maps/forest/path-12.json+entities/829/settings/event/37/message+%23229
+msgctxt "data/maps/forest/path-12.json//entities/829/settings/event/37/message"
+msgid "It should start any moment, now!"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/829/settings/event/44/message #230
+#. EventTrigger openingScene START IF tmp.openingScene
+#. SHOW_MSG main.shizuka @BRIGHT
+#: data/maps/forest/path-12.json+entities/829/settings/event/44/message+%23230
+msgctxt "data/maps/forest/path-12.json//entities/829/settings/event/44/message"
+msgid "Hello everyone!"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/829/settings/event/47/message #231
+#. EventTrigger openingScene START IF tmp.openingScene
+#. SHOW_MSG main.lea @EXCITED
+#: data/maps/forest/path-12.json+entities/829/settings/event/47/message+%23231
+msgctxt "data/maps/forest/path-12.json//entities/829/settings/event/47/message"
+msgid "Hi!"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/829/settings/event/48/message #232
+#. EventTrigger openingScene START IF tmp.openingScene
+#. SHOW_MSG main.shizuka @TOWARD
+#: data/maps/forest/path-12.json+entities/829/settings/event/48/message+%23232
+msgctxt "data/maps/forest/path-12.json//entities/829/settings/event/48/message"
+msgid "I heard you're all going to run the new temple together?\n"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/829/settings/event/50/message #233
+#. EventTrigger openingScene START IF tmp.openingScene
+#. SHOW_MSG main.guild-leader @SMILE
+#: data/maps/forest/path-12.json+entities/829/settings/event/50/message+%23233
+msgctxt "data/maps/forest/path-12.json//entities/829/settings/event/50/message"
+msgid "Yes, my dear! Feel free to join us!"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/829/settings/event/51/message #234
+#. EventTrigger openingScene START IF tmp.openingScene
+#. SHOW_MSG main.shizuka @SMUG
+#: data/maps/forest/path-12.json+entities/829/settings/event/51/message+%23234
+msgctxt "data/maps/forest/path-12.json//entities/829/settings/event/51/message"
+msgid "Excellent!"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/829/settings/event/58/message #235
+#. EventTrigger openingScene START IF tmp.openingScene
+#. SHOW_MSG main.genius @ASKING
+#: data/maps/forest/path-12.json+entities/829/settings/event/58/message+%23235
+msgctxt "data/maps/forest/path-12.json//entities/829/settings/event/58/message"
+msgid "Those are a lot of players in one spot!"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/829/settings/event/59/message #236
+#. EventTrigger openingScene START IF tmp.openingScene
+#. SHOW_MSG main.genius @SERIOUS
+#: data/maps/forest/path-12.json+entities/829/settings/event/59/message+%23236
+msgctxt "data/maps/forest/path-12.json//entities/829/settings/event/59/message"
+msgid "I hope the servers can hold the load.\n"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/829/settings/event/61/message #237
+#. EventTrigger openingScene START IF tmp.openingScene
+#. SHOW_MSG main.guild-leader @ANGRY
+#: data/maps/forest/path-12.json+entities/829/settings/event/61/message+%23237
+msgctxt "data/maps/forest/path-12.json//entities/829/settings/event/61/message"
+msgid "Satoshi, keep the immersion, please!"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/829/settings/event/62/message #238
+#. EventTrigger openingScene START IF tmp.openingScene
+#. SHOW_MSG main.genius @AWAY
+#: data/maps/forest/path-12.json+entities/829/settings/event/62/message+%23238
+msgctxt "data/maps/forest/path-12.json//entities/829/settings/event/62/message"
+msgid "Oh...\\. pardon!"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/829/settings/event/71/message #239
+#. EventTrigger openingScene START IF tmp.openingScene
+#. SHOW_SIDE_MSG main.emilie @SHOCKED
+#: data/maps/forest/path-12.json+entities/829/settings/event/71/message+%23239
+msgctxt "data/maps/forest/path-12.json//entities/829/settings/event/71/message"
+msgid "It's the old geezer!\\. And he's flying!"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/829/settings/event/75/message #251
+#. EventTrigger openingScene START IF tmp.openingScene
+#. SHOW_MSG advisors.general @DEFAULT
+#: data/maps/forest/path-12.json+entities/829/settings/event/75/message+%23251
+msgctxt "data/maps/forest/path-12.json//entities/829/settings/event/75/message"
+msgid "Welcome, Seekers."
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/829/settings/event/76/message #246
+#. EventTrigger openingScene START IF tmp.openingScene
+#. SHOW_MSG advisors.general @DEFAULT
+#: data/maps/forest/path-12.json+entities/829/settings/event/76/message+%23246
+msgctxt "data/maps/forest/path-12.json//entities/829/settings/event/76/message"
+msgid "I am very grateful that all of you have assembled here."
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/829/settings/event/77/message #247
+#. EventTrigger openingScene START IF tmp.openingScene
+#. SHOW_MSG advisors.general @DEFAULT
+#: data/maps/forest/path-12.json+entities/829/settings/event/77/message+%23247
+msgctxt "data/maps/forest/path-12.json//entities/829/settings/event/77/message"
+msgid "Today is an important day."
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/829/settings/event/78/message #248
+#. EventTrigger openingScene START IF tmp.openingScene
+#. SHOW_MSG advisors.general @DEFAULT
+#: data/maps/forest/path-12.json+entities/829/settings/event/78/message+%23248
+msgctxt "data/maps/forest/path-12.json//entities/829/settings/event/78/message"
+msgid "It is possibly the biggest milestone of Project Trackwalker."
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/829/settings/event/79/message #249
+#. EventTrigger openingScene START IF tmp.openingScene
+#. SHOW_MSG advisors.general @DEFAULT
+#: data/maps/forest/path-12.json+entities/829/settings/event/79/message+%23249
+msgctxt "data/maps/forest/path-12.json//entities/829/settings/event/79/message"
+msgid "The \\c[3]Ku'lero Temple\\c[0], the final stage of the track, will finally open."
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/829/settings/event/80/message #250
+#. EventTrigger openingScene START IF tmp.openingScene
+#. SHOW_MSG advisors.general @DEFAULT
+#: data/maps/forest/path-12.json+entities/829/settings/event/80/message+%23250
+msgctxt "data/maps/forest/path-12.json//entities/829/settings/event/80/message"
+msgid "Within, we hope to finally find the answers."
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/829/settings/event/81/message #240
+#. EventTrigger openingScene START IF tmp.openingScene
+#. SHOW_MSG advisors.general @DEFAULT
+#: data/maps/forest/path-12.json+entities/829/settings/event/81/message+%23240
+msgctxt "data/maps/forest/path-12.json//entities/829/settings/event/81/message"
+msgid "To uncover the secret of the Ancients."
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/829/settings/event/82/message #252
+#. EventTrigger openingScene START IF tmp.openingScene
+#. SHOW_MSG advisors.general @DEFAULT
+#: data/maps/forest/path-12.json+entities/829/settings/event/82/message+%23252
+msgctxt "data/maps/forest/path-12.json//entities/829/settings/event/82/message"
+msgid "Now I am counting on you!"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/829/settings/event/83/message #253
+#. EventTrigger openingScene START IF tmp.openingScene
+#. SHOW_MSG advisors.general @DEFAULT
+#: data/maps/forest/path-12.json+entities/829/settings/event/83/message+%23253
+msgctxt "data/maps/forest/path-12.json//entities/829/settings/event/83/message"
+msgid "To master this final challenge the Ancients have prepared for us."
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/829/settings/event/84/message #254
+#. EventTrigger openingScene START IF tmp.openingScene
+#. SHOW_MSG advisors.general @DEFAULT
+#: data/maps/forest/path-12.json+entities/829/settings/event/84/message+%23254
+msgctxt "data/maps/forest/path-12.json//entities/829/settings/event/84/message"
+msgid "Good luck and stay vigilant!"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/829/settings/event/101/message #245
+#. EventTrigger openingScene START IF tmp.openingScene
+#. SHOW_SIDE_MSG main.buggy @LAUGHING
+#: data/maps/forest/path-12.json+entities/829/settings/event/101/message+%23245
+msgctxt "data/maps/forest/path-12.json//entities/829/settings/event/101/message"
+msgid "LET'S GOOOO!!"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/829/settings/event/105/message #244
+#. EventTrigger openingScene START IF tmp.openingScene
+#. SHOW_SIDE_MSG main.emilie @HAPPY
+#: data/maps/forest/path-12.json+entities/829/settings/event/105/message+%23244
+msgctxt "data/maps/forest/path-12.json//entities/829/settings/event/105/message"
+msgid "IT'S DUNGEON TIIIIMEE!!"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/829/settings/event/114/task #255
+#. EventTrigger openingScene START IF tmp.openingScene
+#. SET_PERMA_TASK
+#: data/maps/forest/path-12.json+entities/829/settings/event/114/task+%23255
+msgctxt "data/maps/forest/path-12.json//entities/829/settings/event/114/task"
+msgid "Complete the \\c[3]Ku'lero Temple\\c[0]."
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/835/settings/dialog/0/text #256
+#. XenoDialog SPAWN IF plot.line >= 46200 && plot.line < 46500 && !tmp.massNPCs
+#. cross-worlds.hexacast-female-height-chan
+#: data/maps/forest/path-12.json+entities/835/settings/dialog/0/text+%23256
+msgctxt "data/maps/forest/path-12.json//entities/835/settings/dialog/0/text"
+msgid "Another dungeon...\\. Okay...\\. I have to prepare mentally."
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/835/settings/dialog/1/text #257
+#. XenoDialog SPAWN IF plot.line >= 46200 && plot.line < 46500 && !tmp.massNPCs
+#. cross-worlds.pentafist-female-height-friend
+#: data/maps/forest/path-12.json+entities/835/settings/dialog/1/text+%23257
+msgctxt "data/maps/forest/path-12.json//entities/835/settings/dialog/1/text"
+msgid "Come on!\\. It might just be a very flat dungeon without any height difference at all."
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/835/settings/dialog/2/text #258
+#. XenoDialog SPAWN IF plot.line >= 46200 && plot.line < 46500 && !tmp.massNPCs
+#. cross-worlds.hexacast-female-height-chan
+#: data/maps/forest/path-12.json+entities/835/settings/dialog/2/text+%23258
+msgctxt "data/maps/forest/path-12.json//entities/835/settings/dialog/2/text"
+msgid "Yeah right... Just look at their track record. I bet it will be chasms and towers all over again!"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/836/settings/dialog/0/text #259
+#. XenoDialog SPAWN IF plot.line >= 46200 && plot.line < 46500 && !tmp.massNPCs
+#. cross-worlds.quadroguard-male-blond
+#: data/maps/forest/path-12.json+entities/836/settings/dialog/0/text+%23259
+msgctxt "data/maps/forest/path-12.json//entities/836/settings/dialog/0/text"
+msgid "So are you ready, bro?"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/836/settings/dialog/1/text #260
+#. XenoDialog SPAWN IF plot.line >= 46200 && plot.line < 46500 && !tmp.massNPCs
+#. cross-worlds.quadroguard-male-blond
+#: data/maps/forest/path-12.json+entities/836/settings/dialog/1/text+%23260
+msgctxt "data/maps/forest/path-12.json//entities/836/settings/dialog/1/text"
+msgid "Yes!\\. Ready to tank the final temple!"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/836/settings/dialog/2/text #261
+#. XenoDialog SPAWN IF plot.line >= 46200 && plot.line < 46500 && !tmp.massNPCs
+#. cross-worlds.quadroguard-male-blond
+#: data/maps/forest/path-12.json+entities/836/settings/dialog/2/text+%23261
+msgctxt "data/maps/forest/path-12.json//entities/836/settings/dialog/2/text"
+msgid "That's the way!\\. Twin tank bros forever!"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/836/settings/dialog/3/text #262
+#. XenoDialog SPAWN IF plot.line >= 46200 && plot.line < 46500 && !tmp.massNPCs
+#. cross-worlds.quadroguard-male-blond
+#: data/maps/forest/path-12.json+entities/836/settings/dialog/3/text+%23262
+msgctxt "data/maps/forest/path-12.json//entities/836/settings/dialog/3/text"
+msgid "Forever!"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/837/settings/dialog/0/text #263
+#. XenoDialog SPAWN IF plot.line >= 46200 && plot.line < 46500 && !tmp.massNPCs
+#. cross-worlds.table-chan-friend
+#: data/maps/forest/path-12.json+entities/837/settings/dialog/0/text+%23263
+msgctxt "data/maps/forest/path-12.json//entities/837/settings/dialog/0/text"
+msgid "Hey!\\. How long do plan to keep sitting there?"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/837/settings/dialog/1/text #264
+#. XenoDialog SPAWN IF plot.line >= 46200 && plot.line < 46500 && !tmp.massNPCs
+#. cross-worlds.table-chan
+#: data/maps/forest/path-12.json+entities/837/settings/dialog/1/text+%23264
+msgctxt "data/maps/forest/path-12.json//entities/837/settings/dialog/1/text"
+msgid "It's such a nice view from up here!"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/837/settings/dialog/2/text #265
+#. XenoDialog SPAWN IF plot.line >= 46200 && plot.line < 46500 && !tmp.massNPCs
+#. cross-worlds.table-chan-friend
+#: data/maps/forest/path-12.json+entities/837/settings/dialog/2/text+%23265
+msgctxt "data/maps/forest/path-12.json//entities/837/settings/dialog/2/text"
+msgid "This is not even a table!"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/837/settings/dialog/3/text #266
+#. XenoDialog SPAWN IF plot.line >= 46200 && plot.line < 46500 && !tmp.massNPCs
+#. cross-worlds.table-chan
+#: data/maps/forest/path-12.json+entities/837/settings/dialog/3/text+%23266
+msgctxt "data/maps/forest/path-12.json//entities/837/settings/dialog/3/text"
+msgid "You made me leave my holy table pyramid, so let me at least have this!"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/837/settings/dialog/4/text #267
+#. XenoDialog SPAWN IF plot.line >= 46200 && plot.line < 46500 && !tmp.massNPCs
+#. cross-worlds.table-chan-friend
+#: data/maps/forest/path-12.json+entities/837/settings/dialog/4/text+%23267
+msgctxt "data/maps/forest/path-12.json//entities/837/settings/dialog/4/text"
+msgid "Don't you want to run the dungeon as well?"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/837/settings/dialog/5/text #268
+#. XenoDialog SPAWN IF plot.line >= 46200 && plot.line < 46500 && !tmp.massNPCs
+#. cross-worlds.table-chan
+#: data/maps/forest/path-12.json+entities/837/settings/dialog/5/text+%23268
+msgctxt "data/maps/forest/path-12.json//entities/837/settings/dialog/5/text"
+msgid "I don't know...\\. You think there are tables in there?"
+msgstr ""
+
+#. data/maps/forest/path-12.json entities/837/settings/dialog/6/text #269
+#. XenoDialog SPAWN IF plot.line >= 46200 && plot.line < 46500 && !tmp.massNPCs
+#. cross-worlds.table-chan-friend
+#: data/maps/forest/path-12.json+entities/837/settings/dialog/6/text+%23269
+msgctxt "data/maps/forest/path-12.json//entities/837/settings/dialog/6/text"
+msgid "Seriously, you're a lost cause..."
+msgstr ""

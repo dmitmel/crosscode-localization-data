@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.3.0-4\n"
+"Project-Id-Version: crosscode 1.4.0-4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-11 11:05+0000\n"
-"PO-Revision-Date: 2021-02-11 11:05+0000\n"
+"POT-Creation-Date: 2021-03-12 23:31+0000\n"
+"PO-Revision-Date: 2021-03-12 23:31+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: vi_VN\n"
@@ -313,6 +313,13 @@ msgstr ""
 #: data/enemies/arid/virus-neutral.json+actions/EnchanterMerge/1/text+%2310
 msgctxt "data/enemies/arid/virus-neutral.json//actions/EnchanterMerge/1/text"
 msgid "Neutralizing!"
+msgstr ""
+
+#. data/enemies/arid/virus-neutral.json actions/INIT/0/text #13
+#. SHOW_AR_MSG
+#: data/enemies/arid/virus-neutral.json+actions/INIT/0/text+%2313
+msgctxt "data/enemies/arid/virus-neutral.json//actions/INIT/0/text"
+msgid "asdasd + \\v[tmp.virus.spawn]"
 msgstr ""
 
 #. data/enemies/arid/virus-neutral.json meta/species #4
@@ -686,6 +693,41 @@ msgctxt "data/enemies/autumn-fall/raid-pillar-small.json//meta/descriptions/0/te
 msgid ""
 "These small pillars are used to attack a \\v[combat.name.autumn-fall/raid-pillar-large]. Usually a group of them must be defeated to create a chain reaction that will hurt its bigger companion. \n"
 "To defend themselves they will jump on their attacker leaving symbols on the ground that will summon elemental attacks."
+msgstr ""
+
+#. data/enemies/autumn-fall/runbot-tremor.json actions/Activate/1/text #38
+#. SHOW_AR_MSG
+#: data/enemies/autumn-fall/runbot-tremor.json+actions/Activate/1/text+%2338
+msgctxt "data/enemies/autumn-fall/runbot-tremor.json//actions/Activate/1/text"
+msgid "Threat detected"
+msgstr ""
+
+#. data/enemies/autumn-fall/runbot-tremor.json actions/removeAura/4/text #47
+#. SHOW_AR_MSG
+#: data/enemies/autumn-fall/runbot-tremor.json+actions/removeAura/4/text+%2347
+msgctxt "data/enemies/autumn-fall/runbot-tremor.json//actions/removeAura/4/text"
+msgid "[ AURA DISPERSED ]"
+msgstr ""
+
+#. data/enemies/autumn-fall/runbot-tremor.json actions/restoreAura/8/text #45
+#. SHOW_AR_MSG
+#: data/enemies/autumn-fall/runbot-tremor.json+actions/restoreAura/8/text+%2345
+msgctxt "data/enemies/autumn-fall/runbot-tremor.json//actions/restoreAura/8/text"
+msgid "[ RESTORED AURA ]"
+msgstr ""
+
+#. data/enemies/autumn-fall/runbot-tremor.json meta/species #36
+#: data/enemies/autumn-fall/runbot-tremor.json+meta/species+%2336
+msgctxt "data/enemies/autumn-fall/runbot-tremor.json//meta/species"
+msgid "Shaking Robot"
+msgstr ""
+
+#. data/enemies/autumn-fall/runbot-tremor.json meta/descriptions/0/text #40
+#: data/enemies/autumn-fall/runbot-tremor.json+meta/descriptions/0/text+%2340
+msgctxt "data/enemies/autumn-fall/runbot-tremor.json//meta/descriptions/0/text"
+msgid ""
+"A variant of the \\v[combat.name.autumn-fall/runbot-tremor] that seems to be constantly shaking when active. This is because of the powerful \\c[3]Tremor Core\\c[0] that was implemented.\n"
+"Unlike its much colder design brethren, this unique machine attacks with a broader variety of elements and prefers powerful \\c[3]Wave\\c[0] attacks."
 msgstr ""
 
 #. data/enemies/autumn-fall/seahorse-fall.json actions/Flamethrower/6/text #4
@@ -1288,25 +1330,20 @@ msgctxt "data/enemies/avatar/apollo-3.json//meta/descriptions/0/text"
 msgid "Look who's back! Apollo wants to settle things and is ready to use both heat and cold against you to show you the \"true potential\" of a seeker. Just like you, he can use level 2 Combat Arts which can pack quite a punch and break your guard too if you're not careful."
 msgstr ""
 
-#. data/enemies/avatar/apollo-4.json actions/SelectStrat1/7/text #9
+#. data/enemies/avatar/apollo-4.json actions/SelectStrat1/7/thenStep/0/text #9
+#. IF false
 #. SHOW_AR_MSG
-#: data/enemies/avatar/apollo-4.json+actions/SelectStrat1/7/text+%239
-msgctxt "data/enemies/avatar/apollo-4.json//actions/SelectStrat1/7/text"
+#: data/enemies/avatar/apollo-4.json+actions/SelectStrat1/7/thenStep/0/text+%239
+msgctxt "data/enemies/avatar/apollo-4.json//actions/SelectStrat1/7/thenStep/0/text"
 msgid "STRAT1 \\v[entity.attrib.strat]"
 msgstr ""
 
-#. data/enemies/avatar/apollo-4.json actions/SelectStrat2/7/text #13
+#. data/enemies/avatar/apollo-4.json actions/SelectStrat2/7/thenStep/0/text #13
+#. IF false
 #. SHOW_AR_MSG
-#: data/enemies/avatar/apollo-4.json+actions/SelectStrat2/7/text+%2313
-msgctxt "data/enemies/avatar/apollo-4.json//actions/SelectStrat2/7/text"
+#: data/enemies/avatar/apollo-4.json+actions/SelectStrat2/7/thenStep/0/text+%2313
+msgctxt "data/enemies/avatar/apollo-4.json//actions/SelectStrat2/7/thenStep/0/text"
 msgid "STRAT2 \\v[entity.attrib.strat]"
-msgstr ""
-
-#. data/enemies/avatar/apollo-4.json actions/TrapStart/1/text #12
-#. SHOW_AR_MSG
-#: data/enemies/avatar/apollo-4.json+actions/TrapStart/1/text+%2312
-msgctxt "data/enemies/avatar/apollo-4.json//actions/TrapStart/1/text"
-msgid "SHOW WEAK FX!!"
 msgstr ""
 
 #. data/enemies/avatar/apollo-4.json actions/TrapEnd/0/text #14
@@ -1343,13 +1380,13 @@ msgstr ""
 #. data/enemies/avatar/lily.json meta/species #4
 #: data/enemies/avatar/lily.json+meta/species+%234
 msgctxt "data/enemies/avatar/lily.json//meta/species"
-msgid "Warrior of Justice"
+msgid "A Flower?"
 msgstr ""
 
 #. data/enemies/avatar/lily.json meta/descriptions/0/text #6
 #: data/enemies/avatar/lily.json+meta/descriptions/0/text+%236
 msgctxt "data/enemies/avatar/lily.json//meta/descriptions/0/text"
-msgid "Look who's back! Apollo wants to settle things and is ready to use both heat and cold against you to show you the \"true potential\" of a seeker. Just like you, he can use level 2 Combat Arts which can pack quite a punch and break your guard too if you're not careful."
+msgid "A hexacast player from a new guild called the Star Chasers. She is quite curious of her new surroundings (and new leader after their previous one was permabanned). While her sweet demeanor is disarming, she fights with the grace of a breeze and as fierce as the tempest!"
 msgstr ""
 
 #. data/enemies/avatar/shizuka.json meta/species #4
@@ -1400,208 +1437,31 @@ msgid ""
 " "
 msgstr ""
 
-#. data/enemies/beach/bug-samurai-beach.json meta/species #4
-#: data/enemies/beach/bug-samurai-beach.json+meta/species+%234
-msgctxt "data/enemies/beach/bug-samurai-beach.json//meta/species"
-msgid "Honorable Insect"
+#. data/enemies/beach/ape-beach.json bossLabel #5
+#: data/enemies/beach/ape-beach.json+bossLabel+%235
+msgctxt "data/enemies/beach/ape-beach.json//bossLabel"
+msgid "Ape"
 msgstr ""
 
-#. data/enemies/beach/bug-samurai-beach.json meta/descriptions/0/text #6
-#: data/enemies/beach/bug-samurai-beach.json+meta/descriptions/0/text+%236
-msgctxt "data/enemies/beach/bug-samurai-beach.json//meta/descriptions/0/text"
-msgid "This bug is a true warrior and master of the hidden arts of the blade. Trained by a master since its birth it takes down enemies with powerful strikes. Strikes so powerful they combust the air around them and create flames."
-msgstr ""
-
-#. data/enemies/beach/bug-samurai-beach.json meta/descriptions/1/text #8
-#: data/enemies/beach/bug-samurai-beach.json+meta/descriptions/1/text+%238
-msgctxt "data/enemies/beach/bug-samurai-beach.json//meta/descriptions/1/text"
-msgid "Its weapons of choice are dual swords known as \"Sun Blades\". When threatened it can summon a heat barrier and it uses a fake-out attack by jumping behind its enemies following up with a huge fire swirl."
-msgstr ""
-
-#. data/enemies/beach/fish-beach.json actions/QuestEscort-TargetEscortee/12/text #27
+#. data/enemies/beach/ape-beach.json actions/WhaleStablize/8/text #7
 #. SHOW_AR_MSG
-#: data/enemies/beach/fish-beach.json+actions/QuestEscort-TargetEscortee/12/text+%2327
-msgctxt "data/enemies/beach/fish-beach.json//actions/QuestEscort-TargetEscortee/12/text"
-msgid "!!!"
+#: data/enemies/beach/ape-beach.json+actions/WhaleStablize/8/text+%237
+msgctxt "data/enemies/beach/ape-beach.json//actions/WhaleStablize/8/text"
+msgid "Stablizing"
 msgstr ""
 
-#. data/enemies/beach/fish-beach.json meta/species #4
-#: data/enemies/beach/fish-beach.json+meta/species+%234
-msgctxt "data/enemies/beach/fish-beach.json//meta/species"
-msgid "Floating Fish"
+#. data/enemies/beach/ape-beach.json meta/species #4
+#: data/enemies/beach/ape-beach.json+meta/species+%234
+msgctxt "data/enemies/beach/ape-beach.json//meta/species"
+msgid "Ape on Vacation"
 msgstr ""
 
-#. data/enemies/beach/fish-beach.json meta/descriptions/0/text #29
-#: data/enemies/beach/fish-beach.json+meta/descriptions/0/text+%2329
-msgctxt "data/enemies/beach/fish-beach.json//meta/descriptions/0/text"
-msgid "Coming right at you from the deep, this angler fish found its way into the jungle and lives primarily in the rainy part of it. It mostly stays passive unless provoked in which case it will try to stay away and shoot wave projectiles at you. Shoot at it until it becomes mad and charges at you to release a large scream. Dodge it and melee attack it to break its guard."
-msgstr ""
-
-#. data/enemies/beach/hedgehog-beach.json actions/Quest-MoveToTree/2/text #3
-#. SHOW_AR_MSG
-#: data/enemies/beach/hedgehog-beach.json+actions/Quest-MoveToTree/2/text+%233
-msgctxt "data/enemies/beach/hedgehog-beach.json//actions/Quest-MoveToTree/2/text"
-msgid "[Hungry noises]"
-msgstr ""
-
-#. data/enemies/beach/hedgehog-beach.json actions/Quest-LickTree/5/text #4
-#. SHOW_AR_MSG
-#: data/enemies/beach/hedgehog-beach.json+actions/Quest-LickTree/5/text+%234
-msgctxt "data/enemies/beach/hedgehog-beach.json//actions/Quest-LickTree/5/text"
-msgid "[Licking Tree]"
-msgstr ""
-
-#. data/enemies/beach/hedgehog-beach.json actions/Quest-AddShield/1/thenStep/0/text #11
-#. IF test
-#. SHOW_AR_MSG
-#: data/enemies/beach/hedgehog-beach.json+actions/Quest-AddShield/1/thenStep/0/text+%2311
-msgctxt "data/enemies/beach/hedgehog-beach.json//actions/Quest-AddShield/1/thenStep/0/text"
-msgid "<SHIELD ON>"
-msgstr ""
-
-#. data/enemies/beach/hedgehog-beach.json actions/Quest-RemoveShield/2/thenStep/0/text #9
-#. IF test
-#. SHOW_AR_MSG
-#: data/enemies/beach/hedgehog-beach.json+actions/Quest-RemoveShield/2/thenStep/0/text+%239
-msgctxt "data/enemies/beach/hedgehog-beach.json//actions/Quest-RemoveShield/2/thenStep/0/text"
-msgid "<SHIELD OFF>"
-msgstr ""
-
-#. data/enemies/beach/hedgehog-beach.json actions/Quest-SwitchMarker/1/thenStep/0/text #12
-#. IF test
-#. SHOW_AR_MSG
-#: data/enemies/beach/hedgehog-beach.json+actions/Quest-SwitchMarker/1/thenStep/0/text+%2312
-msgctxt "data/enemies/beach/hedgehog-beach.json//actions/Quest-SwitchMarker/1/thenStep/0/text"
-msgid "<SWITCH MARKER>"
-msgstr ""
-
-#. data/enemies/beach/hedgehog-beach.json actions/Quest-AttackBall/8/text #10
-#. SHOW_AR_MSG
-#: data/enemies/beach/hedgehog-beach.json+actions/Quest-AttackBall/8/text+%2310
-msgctxt "data/enemies/beach/hedgehog-beach.json//actions/Quest-AttackBall/8/text"
-msgid "[Focussing Probe]"
-msgstr ""
-
-#. data/enemies/beach/hedgehog-beach.json meta/species #1
-#: data/enemies/beach/hedgehog-beach.json+meta/species+%231
-msgctxt "data/enemies/beach/hedgehog-beach.json//meta/species"
-msgid "Beach Mammal"
-msgstr ""
-
-#. data/enemies/beach/hedgehog-beach.json meta/descriptions/0/text #14
-#: data/enemies/beach/hedgehog-beach.json+meta/descriptions/0/text+%2314
-msgctxt "data/enemies/beach/hedgehog-beach.json//meta/descriptions/0/text"
+#. data/enemies/beach/ape-beach.json meta/descriptions/0/text #8
+#: data/enemies/beach/ape-beach.json+meta/descriptions/0/text+%238
+msgctxt "data/enemies/beach/ape-beach.json//meta/descriptions/0/text"
 msgid ""
-"This sub-species of the common \\v[combat.name.hedgehog] can only be found in \\c[3]\\v[area.autumn-fall.name]\\c[0]. Their needles are pitch black and the red patch on their back is meant to scare off potential predators since it looks like blood. \n"
-"Despite all this, these creatures are passive and only attack when attacked. They will use the same attacks \\v[combat.name.hedgehog] and \\v[combat.name.hedgehog-alt] use but will mix up the dash attack by attacking twice in a row."
-msgstr ""
-
-#. data/enemies/beach/penguin-beach.json actions/jumpWater/6/thenStep/0/thenStep/0/text #3
-#. COMBAT_IF
-#. IF test
-#. SHOW_AR_MSG
-#: data/enemies/beach/penguin-beach.json+actions/jumpWater/6/thenStep/0/thenStep/0/text+%233
-msgctxt "data/enemies/beach/penguin-beach.json//actions/jumpWater/6/thenStep/0/thenStep/0/text"
-msgid "Z-0"
-msgstr ""
-
-#. data/enemies/beach/penguin-beach.json actions/jumpWater/6/elseStep/0/thenStep/0/thenStep/0/text #4
-#. COMBAT_IF
-#. COMBAT_IF
-#. IF test
-#. SHOW_AR_MSG
-#: data/enemies/beach/penguin-beach.json+actions/jumpWater/6/elseStep/0/thenStep/0/thenStep/0/text+%234
-msgctxt "data/enemies/beach/penguin-beach.json//actions/jumpWater/6/elseStep/0/thenStep/0/thenStep/0/text"
-msgid "Z-1"
-msgstr ""
-
-#. data/enemies/beach/penguin-beach.json actions/jumpWater/6/elseStep/0/elseStep/0/thenStep/0/thenStep/0/text #5
-#. COMBAT_IF
-#. COMBAT_IF
-#. COMBAT_IF
-#. IF test
-#. SHOW_AR_MSG
-#: data/enemies/beach/penguin-beach.json+actions/jumpWater/6/elseStep/0/elseStep/0/thenStep/0/thenStep/0/text+%235
-msgctxt "data/enemies/beach/penguin-beach.json//actions/jumpWater/6/elseStep/0/elseStep/0/thenStep/0/thenStep/0/text"
-msgid "Z-2"
-msgstr ""
-
-#. data/enemies/beach/penguin-beach.json actions/jumpWater/6/elseStep/0/elseStep/0/elseStep/0/thenStep/0/thenStep/0/text #6
-#. COMBAT_IF
-#. COMBAT_IF
-#. COMBAT_IF
-#. COMBAT_IF
-#. IF test
-#. SHOW_AR_MSG
-#: data/enemies/beach/penguin-beach.json+actions/jumpWater/6/elseStep/0/elseStep/0/elseStep/0/thenStep/0/thenStep/0/text+%236
-msgctxt "data/enemies/beach/penguin-beach.json//actions/jumpWater/6/elseStep/0/elseStep/0/elseStep/0/thenStep/0/thenStep/0/text"
-msgid "Z-3"
-msgstr ""
-
-#. data/enemies/beach/penguin-beach.json actions/jumpWater/6/elseStep/0/elseStep/0/elseStep/0/elseStep/0/thenStep/0/thenStep/0/text #7
-#. COMBAT_IF
-#. COMBAT_IF
-#. COMBAT_IF
-#. COMBAT_IF
-#. COMBAT_IF
-#. IF test
-#. SHOW_AR_MSG
-#: data/enemies/beach/penguin-beach.json+actions/jumpWater/6/elseStep/0/elseStep/0/elseStep/0/elseStep/0/thenStep/0/thenStep/0/text+%237
-msgctxt "data/enemies/beach/penguin-beach.json//actions/jumpWater/6/elseStep/0/elseStep/0/elseStep/0/elseStep/0/thenStep/0/thenStep/0/text"
-msgid "Z-4"
-msgstr ""
-
-#. data/enemies/beach/penguin-beach.json actions/jumpWater/6/elseStep/0/elseStep/0/elseStep/0/elseStep/0/elseStep/0/thenStep/0/text #8
-#. COMBAT_IF
-#. COMBAT_IF
-#. COMBAT_IF
-#. COMBAT_IF
-#. COMBAT_IF
-#. IF test
-#. SHOW_AR_MSG
-#: data/enemies/beach/penguin-beach.json+actions/jumpWater/6/elseStep/0/elseStep/0/elseStep/0/elseStep/0/elseStep/0/thenStep/0/text+%238
-msgctxt "data/enemies/beach/penguin-beach.json//actions/jumpWater/6/elseStep/0/elseStep/0/elseStep/0/elseStep/0/elseStep/0/thenStep/0/text"
-msgid "Z-5+"
-msgstr ""
-
-#. data/enemies/beach/penguin-beach.json meta/species #1
-#: data/enemies/beach/penguin-beach.json+meta/species+%231
-msgctxt "data/enemies/beach/penguin-beach.json//meta/species"
-msgid "Bird"
-msgstr ""
-
-#. data/enemies/beach/penguin-beach.json meta/descriptions/0/text #10
-#: data/enemies/beach/penguin-beach.json+meta/descriptions/0/text+%2310
-msgctxt "data/enemies/beach/penguin-beach.json//meta/descriptions/0/text"
-msgid "A penguin on a mountain. How it made its way up here shall be forever unknown to mankind. It will throw snowballs at its enemies and slide at them. When pushed into the water they will jump out and attack with a fast divebomb, so watch out for your surroundings."
-msgstr ""
-
-#. data/enemies/beach/penguin-beach.json meta/descriptions/1/text #11
-#. IF stat.combat.killminibosses.penguin-rapper >= 1
-#: data/enemies/beach/penguin-beach.json+meta/descriptions/1/text+%2311
-msgctxt "data/enemies/beach/penguin-beach.json//meta/descriptions/1/text"
-msgid "The \\v[combat.name.minibosses/penguin-rapper] can use various forms of beatbox to animate it to attack in formation with other members of its kind."
-msgstr ""
-
-#. data/enemies/beach/sandworm-beach.json meta/species #4
-#: data/enemies/beach/sandworm-beach.json+meta/species+%234
-msgctxt "data/enemies/beach/sandworm-beach.json//meta/species"
-msgid "Worm"
-msgstr ""
-
-#. data/enemies/beach/sandworm-beach.json meta/descriptions/0/text #6
-#: data/enemies/beach/sandworm-beach.json+meta/descriptions/0/text+%236
-msgctxt "data/enemies/beach/sandworm-beach.json//meta/descriptions/0/text"
-msgid ""
-"These slimy creatures spend most of their time halfway underground almost looking like a deformed stone. Their bodies are extremely flexible and can fit into holes the size of a hand. \n"
-"Ironically they do not like overheating and will get extremely hostile when exposed to it for too long. In their enraged form they will spit out scorching hot rocks and move much faster."
-msgstr ""
-
-#. data/enemies/beach/sandworm-beach.json meta/descriptions/1/text #7
-#. IF enemyData.tim.heart
-#: data/enemies/beach/sandworm-beach.json+meta/descriptions/1/text+%237
-msgctxt "data/enemies/beach/sandworm-beach.json//meta/descriptions/1/text"
-msgid "According to some insight by C'tron worms posses 5 hearts. It's a mystery how they fit into this elastic body."
+"A powerful ape, serving as the unbeaten guardian and champion of the \\c[3]\\v[area.beach.name]\\c[0]. The peaceful task has left him with an eternity of time to ponder the meaning of the universe and at this point he is terminally bored and craves a proper fight.\n"
+"Though at first glance this lanky primate might lack in style and grace, he is actually much more powerful than his distant cousin, the \\v[3]\\v[combat.name.jungle/ape-boss]\\c[0]. In fact, he is able to skillfully wield \\c[3]all four elements\\c[0], a feat almost unheard of outside of experienced \\v[lore.title.seeker]s."
 msgstr ""
 
 #. data/enemies/beat-boss.json meta/species #1
@@ -1757,6 +1617,18 @@ msgid ""
 "The information has been redacted.\n"
 "\n"
 "\"The ultimate experience, my final challenge.\""
+msgstr ""
+
+#. data/enemies/boss/radfish-spawner.json meta/species #4
+#: data/enemies/boss/radfish-spawner.json+meta/species+%234
+msgctxt "data/enemies/boss/radfish-spawner.json//meta/species"
+msgid "????"
+msgstr ""
+
+#. data/enemies/boss/radfish.json meta/species #4
+#: data/enemies/boss/radfish.json+meta/species+%234
+msgctxt "data/enemies/boss/radfish.json//meta/species"
+msgid "????"
 msgstr ""
 
 #. data/enemies/buffalo-alt.json actions/Quest-MoveToTree/2/text #3
@@ -1928,6 +1800,70 @@ msgid ""
 "A \\c[3]\\v[combat.name.frobbit]\\c[0] that got dirty by hopping around mining machines.\n"
 "The thick filth has not only made its fur become \\c[3]almost impervious to damage\\c[0], it also enraged the usually peaceful animal to \\c[3]attack any human\\c[0] it sees.\n"
 "Only a \\c[3]forced bath\\c[0] will clean up their fur and make them vulnerable again."
+msgstr ""
+
+#. data/enemies/cold/goat-father-2.json bossLabel #16
+#: data/enemies/cold/goat-father-2.json+bossLabel+%2316
+msgctxt "data/enemies/cold/goat-father-2.json//bossLabel"
+msgid "GOAT"
+msgstr ""
+
+#. data/enemies/cold/goat-father-2.json actions/moveBomb/1/thenStep/0/text #6
+#. IF test
+#. SHOW_AR_MSG
+#: data/enemies/cold/goat-father-2.json+actions/moveBomb/1/thenStep/0/text+%236
+msgctxt "data/enemies/cold/goat-father-2.json//actions/moveBomb/1/thenStep/0/text"
+msgid "BOMB!"
+msgstr ""
+
+#. data/enemies/cold/goat-father-2.json actions/bombKick/1/thenStep/0/text #7
+#. IF test
+#. SHOW_AR_MSG
+#: data/enemies/cold/goat-father-2.json+actions/bombKick/1/thenStep/0/text+%237
+msgctxt "data/enemies/cold/goat-father-2.json//actions/bombKick/1/thenStep/0/text"
+msgid "KICK!"
+msgstr ""
+
+#. data/enemies/cold/goat-father-2.json actions/bombDaze/4/text #9
+#. SHOW_AR_MSG
+#: data/enemies/cold/goat-father-2.json+actions/bombDaze/4/text+%239
+msgctxt "data/enemies/cold/goat-father-2.json//actions/bombDaze/4/text"
+msgid "Off Balance"
+msgstr ""
+
+#. data/enemies/cold/goat-father-2.json actions/bombKickPassive/0/thenStep/0/text #10
+#. IF test
+#. SHOW_AR_MSG
+#: data/enemies/cold/goat-father-2.json+actions/bombKickPassive/0/thenStep/0/text+%2310
+msgctxt "data/enemies/cold/goat-father-2.json//actions/bombKickPassive/0/thenStep/0/text"
+msgid "KICK!"
+msgstr ""
+
+#. data/enemies/cold/goat-father-2.json actions/bombKickPassive/1/text #12
+#. SHOW_AR_MSG
+#: data/enemies/cold/goat-father-2.json+actions/bombKickPassive/1/text+%2312
+msgctxt "data/enemies/cold/goat-father-2.json//actions/bombKickPassive/1/text"
+msgid "Preparing bomb..."
+msgstr ""
+
+#. data/enemies/cold/goat-father-2.json actions/sceneKick/0/thenStep/0/text #11
+#. IF test
+#. SHOW_AR_MSG
+#: data/enemies/cold/goat-father-2.json+actions/sceneKick/0/thenStep/0/text+%2311
+msgctxt "data/enemies/cold/goat-father-2.json//actions/sceneKick/0/thenStep/0/text"
+msgid "KICK!"
+msgstr ""
+
+#. data/enemies/cold/goat-father-2.json meta/species #4
+#: data/enemies/cold/goat-father-2.json+meta/species+%234
+msgctxt "data/enemies/cold/goat-father-2.json//meta/species"
+msgid "Boss Goat"
+msgstr ""
+
+#. data/enemies/cold/goat-father-2.json meta/descriptions/0/text #15
+#: data/enemies/cold/goat-father-2.json+meta/descriptions/0/text+%2315
+msgctxt "data/enemies/cold/goat-father-2.json//meta/descriptions/0/text"
+msgid "It can make offers, you can not refuse."
 msgstr ""
 
 #. data/enemies/cold/goat-father.json actions/moveBomb/1/thenStep/0/text #6
@@ -2245,6 +2181,12 @@ msgstr ""
 #: data/enemies/final/ele-pillar-cold-old.json+meta/species+%231
 msgctxt "data/enemies/final/ele-pillar-cold-old.json//meta/species"
 msgid "Rookie Sentry"
+msgstr ""
+
+#. data/enemies/final/god-planet.json meta/species #4
+#: data/enemies/final/god-planet.json+meta/species+%234
+msgctxt "data/enemies/final/god-planet.json//meta/species"
+msgid "????"
 msgstr ""
 
 #. data/enemies/forest/bamboo-fountain.json meta/species #4
@@ -2682,6 +2624,14 @@ msgctxt "data/enemies/guest/firespirit.json//meta/species"
 msgid "Burning Something"
 msgstr ""
 
+#. data/enemies/guest/firespirit.json meta/descriptions/0/text #6
+#: data/enemies/guest/firespirit.json+meta/descriptions/0/text+%236
+msgctxt "data/enemies/guest/firespirit.json//meta/descriptions/0/text"
+msgid ""
+"A mysterious flame that has taken humanoid form. It is, in fact, so mysterious that barely anything is known about it.\n"
+"However, it is clear that its powerful flame has to \\c[3]first be extinguished\\c[0] before there is any hope of defeating it. Though it is said that the underlying source of the flames is \\c[3]electrical\\c[0] in nature, so beware!"
+msgstr ""
+
 #. data/enemies/guest/glitch-boss.json meta/species #4
 #: data/enemies/guest/glitch-boss.json+meta/species+%234
 msgctxt "data/enemies/guest/glitch-boss.json//meta/species"
@@ -2697,13 +2647,27 @@ msgstr ""
 #. data/enemies/guest/honeybear.json meta/species #4
 #: data/enemies/guest/honeybear.json+meta/species+%234
 msgctxt "data/enemies/guest/honeybear.json//meta/species"
-msgid "Bear"
+msgid "Bear "
+msgstr ""
+
+#. data/enemies/guest/honeybear.json meta/descriptions/0/text #7
+#: data/enemies/guest/honeybear.json+meta/descriptions/0/text+%237
+msgctxt "data/enemies/guest/honeybear.json//meta/descriptions/0/text"
+msgid ""
+"This powerful being is half machine, half bear and all danger. As if this was not enough, it has entered a symbiotic relationship with an entire hive filled with deadly bee weapons.\n"
+"Against the powerful armor a \\c[3]frontal assault seems hopeless\\c[0] so it might be a good idea to \\c[3]wait for a distraction\\c[0]. Thankfully, this bear is prone to \\c[3]playing with his food\\c[0]..."
 msgstr ""
 
 #. data/enemies/guest/sao.json meta/species #4
 #: data/enemies/guest/sao.json+meta/species+%234
 msgctxt "data/enemies/guest/sao.json//meta/species"
 msgid "Ninja"
+msgstr ""
+
+#. data/enemies/guest/sao.json meta/descriptions/0/text #6
+#: data/enemies/guest/sao.json+meta/descriptions/0/text+%236
+msgctxt "data/enemies/guest/sao.json//meta/descriptions/0/text"
+msgid "Nin!"
 msgstr ""
 
 #. data/enemies/heat/antlion.json meta/species #4
@@ -2985,7 +2949,7 @@ msgstr ""
 #. IF enemyData.tim.heart
 #: data/enemies/heat/sandworm.json+meta/descriptions/1/text+%237
 msgctxt "data/enemies/heat/sandworm.json//meta/descriptions/1/text"
-msgid "According to some insight by C'tron worms posses 5 hearts. It's a mystery how they fit into this elastic body."
+msgid "According to some insight by C'tron worms possess 5 hearts. It's a mystery how they fit into this elastic body."
 msgstr ""
 
 #. data/enemies/heat/scorpion-alt.json meta/species #4
@@ -3161,11 +3125,26 @@ msgctxt "data/enemies/heat/special/baki-turret_2.json//meta/descriptions/0/text"
 msgid "An improved variant of the popular \\c[3]Rhombus Turret\\c[0], used by the law-enforcement of \\c[3]\\v[area.heat-village.name]\\c[0]. This type does not have an accompanying \\c[3]\\v[combat.name.heat/special/baki-cmd_bot]\\c[0] for additional shielding but can still fire \\c[3]mortars\\c[0] at targets behind cover or on different height layers."
 msgstr ""
 
+#. data/enemies/heat/special/brew-bubbler.json proxies/fireBallProxy/action/0/text #9
+#. GENERIC
+#. SHOW_AR_MSG
+#: data/enemies/heat/special/brew-bubbler.json+proxies/fireBallProxy/action/0/text+%239
+msgctxt "data/enemies/heat/special/brew-bubbler.json//proxies/fireBallProxy/action/0/text"
+msgid "OVERHEAT ATTACK"
+msgstr ""
+
 #. data/enemies/heat/special/brew-bubbler.json actions/BubbleSingle/4/text #7
 #. SHOW_AR_MSG
 #: data/enemies/heat/special/brew-bubbler.json+actions/BubbleSingle/4/text+%237
 msgctxt "data/enemies/heat/special/brew-bubbler.json//actions/BubbleSingle/4/text"
-msgid "[Preparing Bubble]"
+msgid "[ PREPARING BUBBLE ]"
+msgstr ""
+
+#. data/enemies/heat/special/brew-bubbler.json actions/FireShot/1/text #10
+#. SHOW_AR_MSG
+#: data/enemies/heat/special/brew-bubbler.json+actions/FireShot/1/text+%2310
+msgctxt "data/enemies/heat/special/brew-bubbler.json//actions/FireShot/1/text"
+msgid "[ RELEASING FIRE ]"
 msgstr ""
 
 #. data/enemies/heat/special/brew-bubbler.json actions/TurnOn/0/thenStep/0/text #4
@@ -3187,6 +3166,20 @@ msgstr ""
 #: data/enemies/heat/special/brew-machine.json+actions/iceDisc-Hit/2/text+%234
 msgctxt "data/enemies/heat/special/brew-machine.json//actions/iceDisc-Hit/2/text"
 msgid "[Cooling down]"
+msgstr ""
+
+#. data/enemies/heat/special/brew-machine.json actions/activateShields/1/text #7
+#. SHOW_AR_MSG
+#: data/enemies/heat/special/brew-machine.json+actions/activateShields/1/text+%237
+msgctxt "data/enemies/heat/special/brew-machine.json//actions/activateShields/1/text"
+msgid "[ SHIELDS ON ]"
+msgstr ""
+
+#. data/enemies/heat/special/brew-machine.json actions/deactivateShields/1/text #8
+#. SHOW_AR_MSG
+#: data/enemies/heat/special/brew-machine.json+actions/deactivateShields/1/text+%238
+msgctxt "data/enemies/heat/special/brew-machine.json//actions/deactivateShields/1/text"
+msgid "[ RECHARGING SHIELDS... ]"
 msgstr ""
 
 #. data/enemies/heat/special/brew-machine.json meta/species #1
@@ -3342,6 +3335,34 @@ msgid ""
 "A corrupt guard that holds no respect for the Shad that are native on Shadoon. Did formerly hold a respectable position in the \\c[3]Maroon Baki Guard\\c[0], before his crimes were uncovered.\n"
 "\n"
 "While his sense of justice is warped, he is still a very capable fighter. He wields the standard issue \\c[3]Laserlance\\c[0] of the guards with great skill and always carries a few of \\c[3]his favorite sandwiches\\c[0], in case the battle tires him."
+msgstr ""
+
+#. data/enemies/heat/special/heat-golem-booze.json meta/species #4
+#: data/enemies/heat/special/heat-golem-booze.json+meta/species+%234
+msgctxt "data/enemies/heat/special/heat-golem-booze.json//meta/species"
+msgid "Drunken Being"
+msgstr ""
+
+#. data/enemies/heat/special/heat-golem-booze.json meta/descriptions/0/text #6
+#: data/enemies/heat/special/heat-golem-booze.json+meta/descriptions/0/text+%236
+msgctxt "data/enemies/heat/special/heat-golem-booze.json//meta/descriptions/0/text"
+msgid ""
+"Brought to life by fire and only the best of spirits, this golem burns even hotter than its more common brethren, the \\v[combat.name.heat/heat-golem]. It is born from a highly-powered distillery and could not long survive without being fueled by the energy of traditional Ancient beverage.\n"
+"Just like the \\c[3]\\v[combat.name.heat/special/jellyfish-booze]\\c[0] it receives a shield from the Distillery that spawned it. Some mechanism must be activated to make it vulnerable again."
+msgstr ""
+
+#. data/enemies/heat/special/jellyfish-booze.json meta/species #1
+#: data/enemies/heat/special/jellyfish-booze.json+meta/species+%231
+msgctxt "data/enemies/heat/special/jellyfish-booze.json//meta/species"
+msgid "Alcoholic Jellyfish"
+msgstr ""
+
+#. data/enemies/heat/special/jellyfish-booze.json meta/descriptions/0/text #3
+#: data/enemies/heat/special/jellyfish-booze.json+meta/descriptions/0/text+%233
+msgctxt "data/enemies/heat/special/jellyfish-booze.json//meta/descriptions/0/text"
+msgid ""
+"A variant of the \\v[combat.name.heat/jellyfish], but with a much higher amount of alcohol. There are no known natural habitats, but they tend to appear near distilleries with a powerful connection to Ancient energy.\n"
+"Like with their more common relative, they can be temporarily stunned by using their own bubbles against them. Though you might need to get rid of an external shield first!"
 msgstr ""
 
 #. data/enemies/heat/special/kamikatze-helper.json actions/Activate/1/text #38
@@ -3967,6 +3988,55 @@ msgctxt "data/enemies/jungle/special/capture-cage-1.json//meta/species"
 msgid "Machinery"
 msgstr ""
 
+#. data/enemies/jungle/special/ghost-toxic.json actions/weakStart/3/text #30
+#. SHOW_AR_MSG
+#: data/enemies/jungle/special/ghost-toxic.json+actions/weakStart/3/text+%2330
+msgctxt "data/enemies/jungle/special/ghost-toxic.json//actions/weakStart/3/text"
+msgid "[ WEAK ]"
+msgstr ""
+
+#. data/enemies/jungle/special/ghost-toxic.json actions/dizzyStart/5/text #16
+#. SHOW_AR_MSG
+#: data/enemies/jungle/special/ghost-toxic.json+actions/dizzyStart/5/text+%2316
+msgctxt "data/enemies/jungle/special/ghost-toxic.json//actions/dizzyStart/5/text"
+msgid "[ DAZED ]"
+msgstr ""
+
+#. data/enemies/jungle/special/ghost-toxic.json actions/dizzyEnd/0/text #24
+#. SHOW_AR_MSG
+#: data/enemies/jungle/special/ghost-toxic.json+actions/dizzyEnd/0/text+%2324
+msgctxt "data/enemies/jungle/special/ghost-toxic.json//actions/dizzyEnd/0/text"
+msgid "[ DAZE OVER ]"
+msgstr ""
+
+#. data/enemies/jungle/special/ghost-toxic.json actions/QuestShieldBreak/2/text #23
+#. SHOW_AR_MSG
+#: data/enemies/jungle/special/ghost-toxic.json+actions/QuestShieldBreak/2/text+%2323
+msgctxt "data/enemies/jungle/special/ghost-toxic.json//actions/QuestShieldBreak/2/text"
+msgid "[ SHIELD BREAK ]"
+msgstr ""
+
+#. data/enemies/jungle/special/ghost-toxic.json actions/QuestFleeing/2/text #9
+#. SHOW_AR_MSG
+#: data/enemies/jungle/special/ghost-toxic.json+actions/QuestFleeing/2/text+%239
+msgctxt "data/enemies/jungle/special/ghost-toxic.json//actions/QuestFleeing/2/text"
+msgid "[ INEFFECTIVE ]"
+msgstr ""
+
+#. data/enemies/jungle/special/ghost-toxic.json meta/species #4
+#: data/enemies/jungle/special/ghost-toxic.json+meta/species+%234
+msgctxt "data/enemies/jungle/special/ghost-toxic.json//meta/species"
+msgid "Toxic Being"
+msgstr ""
+
+#. data/enemies/jungle/special/ghost-toxic.json meta/descriptions/0/text #6
+#: data/enemies/jungle/special/ghost-toxic.json+meta/descriptions/0/text+%236
+msgctxt "data/enemies/jungle/special/ghost-toxic.json//meta/descriptions/0/text"
+msgid ""
+"A variant of the \\v[combat.name.jungle/ghost] but even further empowered by the toxic energy of the city \\v[area.jungle-city.name].\n"
+"It is unclear which did more to fuel it's toxicity: The city's waste or the negative feelings of its population."
+msgstr ""
+
 #. data/enemies/jungle/special/guard.json meta/species #4
 #: data/enemies/jungle/special/guard.json+meta/species+%234
 msgctxt "data/enemies/jungle/special/guard.json//meta/species"
@@ -4051,29 +4121,87 @@ msgstr ""
 #. SHOW_AR_MSG
 #: data/enemies/jungle/special/npc-escortee-greeny.json+actions/EscortMovePoint/0/thenStep/0/text+%238
 msgctxt "data/enemies/jungle/special/npc-escortee-greeny.json//actions/EscortMovePoint/0/thenStep/0/text"
-msgid "[MOVE]"
+msgid "[ MOVE ]"
 msgstr ""
 
-#. data/enemies/jungle/special/npc-escortee-greeny.json actions/EscortInspect/0/thenStep/0/text #11
+#. data/enemies/jungle/special/npc-escortee-greeny.json actions/EscortInspect/0/thenStep/0/text #12
 #. IF test
 #. SHOW_AR_MSG
-#: data/enemies/jungle/special/npc-escortee-greeny.json+actions/EscortInspect/0/thenStep/0/text+%2311
+#: data/enemies/jungle/special/npc-escortee-greeny.json+actions/EscortInspect/0/thenStep/0/text+%2312
 msgctxt "data/enemies/jungle/special/npc-escortee-greeny.json//actions/EscortInspect/0/thenStep/0/text"
-msgid "[Inspect]"
+msgid "[ INSPECT ]"
 msgstr ""
 
-#. data/enemies/jungle/special/npc-escortee-greeny.json actions/EscortHit/1/text #10
+#. data/enemies/jungle/special/npc-escortee-greeny.json actions/EscortCombatIdle/2/thenStep/1/text #17
+#. IF entity.attrib.startSalting
 #. SHOW_AR_MSG
-#: data/enemies/jungle/special/npc-escortee-greeny.json+actions/EscortHit/1/text+%2310
-msgctxt "data/enemies/jungle/special/npc-escortee-greeny.json//actions/EscortHit/1/text"
-msgid "[DANGER!]"
+#: data/enemies/jungle/special/npc-escortee-greeny.json+actions/EscortCombatIdle/2/thenStep/1/text+%2317
+msgctxt "data/enemies/jungle/special/npc-escortee-greeny.json//actions/EscortCombatIdle/2/thenStep/1/text"
+msgid "[ RECHARGING SALT ]"
 msgstr ""
 
-#. data/enemies/jungle/special/npc-escortee-greeny.json actions/EscortDead/1/text #9
+#. data/enemies/jungle/special/npc-escortee-greeny.json actions/EscortDodge/0/text #28
 #. SHOW_AR_MSG
-#: data/enemies/jungle/special/npc-escortee-greeny.json+actions/EscortDead/1/text+%239
-msgctxt "data/enemies/jungle/special/npc-escortee-greeny.json//actions/EscortDead/1/text"
-msgid "[Linde is unconscious!]"
+#: data/enemies/jungle/special/npc-escortee-greeny.json+actions/EscortDodge/0/text+%2328
+msgctxt "data/enemies/jungle/special/npc-escortee-greeny.json//actions/EscortDodge/0/text"
+msgid "DODGE"
+msgstr ""
+
+#. data/enemies/jungle/special/npc-escortee-greeny.json actions/EscortHit/2/text #10
+#. SHOW_AR_MSG
+#: data/enemies/jungle/special/npc-escortee-greeny.json+actions/EscortHit/2/text+%2310
+msgctxt "data/enemies/jungle/special/npc-escortee-greeny.json//actions/EscortHit/2/text"
+msgid "[ DANGER! ]"
+msgstr ""
+
+#. data/enemies/jungle/special/npc-escortee-greeny.json actions/EscortHit/4/thenStep/1/text #29
+#. IF entity.attrib.startSalting
+#. SHOW_AR_MSG
+#: data/enemies/jungle/special/npc-escortee-greeny.json+actions/EscortHit/4/thenStep/1/text+%2329
+msgctxt "data/enemies/jungle/special/npc-escortee-greeny.json//actions/EscortHit/4/thenStep/1/text"
+msgid "[ RECHARGING SALT ]"
+msgstr ""
+
+#. data/enemies/jungle/special/npc-escortee-greeny.json actions/EscortDead/3/text #9
+#. SHOW_AR_MSG
+#: data/enemies/jungle/special/npc-escortee-greeny.json+actions/EscortDead/3/text+%239
+msgctxt "data/enemies/jungle/special/npc-escortee-greeny.json//actions/EscortDead/3/text"
+msgid "[ Linde is unconscious!!! ]"
+msgstr ""
+
+#. data/enemies/jungle/special/npc-escortee-greeny.json actions/EscortSuckEnemy/14/text #11
+#. SHOW_AR_MSG
+#: data/enemies/jungle/special/npc-escortee-greeny.json+actions/EscortSuckEnemy/14/text+%2311
+msgctxt "data/enemies/jungle/special/npc-escortee-greeny.json//actions/EscortSuckEnemy/14/text"
+msgid "[ ABSORBING ]"
+msgstr ""
+
+#. data/enemies/jungle/special/npc-escortee-greeny.json actions/EscortSuckCess/11/text #13
+#. SHOW_AR_MSG
+#: data/enemies/jungle/special/npc-escortee-greeny.json+actions/EscortSuckCess/11/text+%2313
+msgctxt "data/enemies/jungle/special/npc-escortee-greeny.json//actions/EscortSuckCess/11/text"
+msgid "[ ABSORBING DONE ]"
+msgstr ""
+
+#. data/enemies/jungle/special/npc-escortee-greeny.json actions/EscortSuckCancel/1/text #18
+#. SHOW_AR_MSG
+#: data/enemies/jungle/special/npc-escortee-greeny.json+actions/EscortSuckCancel/1/text+%2318
+msgctxt "data/enemies/jungle/special/npc-escortee-greeny.json//actions/EscortSuckCancel/1/text"
+msgid "[ ABSORBING CANCELLED ]"
+msgstr ""
+
+#. data/enemies/jungle/special/npc-escortee-greeny.json actions/EscortSaltSteam/12/text #25
+#. SHOW_AR_MSG
+#: data/enemies/jungle/special/npc-escortee-greeny.json+actions/EscortSaltSteam/12/text+%2325
+msgctxt "data/enemies/jungle/special/npc-escortee-greeny.json//actions/EscortSaltSteam/12/text"
+msgid "[ BUILDING STEAM ]"
+msgstr ""
+
+#. data/enemies/jungle/special/npc-escortee-greeny.json actions/EscortSaltSteam/29/text #30
+#. SHOW_AR_MSG
+#: data/enemies/jungle/special/npc-escortee-greeny.json+actions/EscortSaltSteam/29/text+%2330
+msgctxt "data/enemies/jungle/special/npc-escortee-greeny.json//actions/EscortSaltSteam/29/text"
+msgid "[ RECHARGING SALT ]"
 msgstr ""
 
 #. data/enemies/jungle/special/npc-escortee-greeny.json meta/species #4
@@ -4201,6 +4329,134 @@ msgid ""
 "They are usually responsible for organized robberies, guard duty and moving stolen goods."
 msgstr ""
 
+#. data/enemies/jungle/special/parrot-gangster-boss-1.json proxies/missilesHoming/action/0/text #64
+#. GENERIC
+#. SHOW_AR_MSG
+#: data/enemies/jungle/special/parrot-gangster-boss-1.json+proxies/missilesHoming/action/0/text+%2364
+msgctxt "data/enemies/jungle/special/parrot-gangster-boss-1.json//proxies/missilesHoming/action/0/text"
+msgid "!!!"
+msgstr ""
+
+#. data/enemies/jungle/special/parrot-gangster-boss-1.json proxies/missilesHoming/action/15/hit/0/text #35
+#. GENERIC
+#. TACKLE
+#. SHOW_AR_MSG
+#: data/enemies/jungle/special/parrot-gangster-boss-1.json+proxies/missilesHoming/action/15/hit/0/text+%2335
+msgctxt "data/enemies/jungle/special/parrot-gangster-boss-1.json//proxies/missilesHoming/action/15/hit/0/text"
+msgid "boom effects?"
+msgstr ""
+
+#. data/enemies/jungle/special/parrot-gangster-boss-1.json proxies/missilesHoming/action/18/hit/0/text #38
+#. GENERIC
+#. TACKLE
+#. SHOW_AR_MSG
+#: data/enemies/jungle/special/parrot-gangster-boss-1.json+proxies/missilesHoming/action/18/hit/0/text+%2338
+msgctxt "data/enemies/jungle/special/parrot-gangster-boss-1.json//proxies/missilesHoming/action/18/hit/0/text"
+msgid "boom effects?"
+msgstr ""
+
+#. data/enemies/jungle/special/parrot-gangster-boss-1.json proxies/missilesHoming/action/18/missed/0/hit/0/text #42
+#. GENERIC
+#. TACKLE
+#. TACKLE
+#. SHOW_AR_MSG
+#: data/enemies/jungle/special/parrot-gangster-boss-1.json+proxies/missilesHoming/action/18/missed/0/hit/0/text+%2342
+msgctxt "data/enemies/jungle/special/parrot-gangster-boss-1.json//proxies/missilesHoming/action/18/missed/0/hit/0/text"
+msgid "boom effects?"
+msgstr ""
+
+#. data/enemies/jungle/special/parrot-gangster-boss-1.json proxies/missilesExplosion/action/0/text #65
+#. GENERIC
+#. SHOW_AR_MSG
+#: data/enemies/jungle/special/parrot-gangster-boss-1.json+proxies/missilesExplosion/action/0/text+%2365
+msgctxt "data/enemies/jungle/special/parrot-gangster-boss-1.json//proxies/missilesExplosion/action/0/text"
+msgid "!!!"
+msgstr ""
+
+#. data/enemies/jungle/special/parrot-gangster-boss-1.json proxies/missilesExplosion/action/15/hit/0/text #66
+#. GENERIC
+#. TACKLE
+#. SHOW_AR_MSG
+#: data/enemies/jungle/special/parrot-gangster-boss-1.json+proxies/missilesExplosion/action/15/hit/0/text+%2366
+msgctxt "data/enemies/jungle/special/parrot-gangster-boss-1.json//proxies/missilesExplosion/action/15/hit/0/text"
+msgid "boom effects?"
+msgstr ""
+
+#. data/enemies/jungle/special/parrot-gangster-boss-1.json proxies/missilesExplosion/action/18/hit/0/text #67
+#. GENERIC
+#. TACKLE
+#. SHOW_AR_MSG
+#: data/enemies/jungle/special/parrot-gangster-boss-1.json+proxies/missilesExplosion/action/18/hit/0/text+%2367
+msgctxt "data/enemies/jungle/special/parrot-gangster-boss-1.json//proxies/missilesExplosion/action/18/hit/0/text"
+msgid "boom effects?"
+msgstr ""
+
+#. data/enemies/jungle/special/parrot-gangster-boss-1.json proxies/missilesExplosion/action/18/missed/0/hit/0/text #68
+#. GENERIC
+#. TACKLE
+#. TACKLE
+#. SHOW_AR_MSG
+#: data/enemies/jungle/special/parrot-gangster-boss-1.json+proxies/missilesExplosion/action/18/missed/0/hit/0/text+%2368
+msgctxt "data/enemies/jungle/special/parrot-gangster-boss-1.json//proxies/missilesExplosion/action/18/missed/0/hit/0/text"
+msgid "boom effects?"
+msgstr ""
+
+#. data/enemies/jungle/special/parrot-gangster-boss-1.json actions/CircleToCenter/0/text #62
+#. SHOW_AR_MSG
+#: data/enemies/jungle/special/parrot-gangster-boss-1.json+actions/CircleToCenter/0/text+%2362
+msgctxt "data/enemies/jungle/special/parrot-gangster-boss-1.json//actions/CircleToCenter/0/text"
+msgid "( TO CENTER )"
+msgstr ""
+
+#. data/enemies/jungle/special/parrot-gangster-boss-1.json actions/GangsterShootCover/15/text #14
+#. SHOW_AR_MSG
+#: data/enemies/jungle/special/parrot-gangster-boss-1.json+actions/GangsterShootCover/15/text+%2314
+msgctxt "data/enemies/jungle/special/parrot-gangster-boss-1.json//actions/GangsterShootCover/15/text"
+msgid "[Shooting...]"
+msgstr ""
+
+#. data/enemies/jungle/special/parrot-gangster-boss-1.json actions/GangsterReactCharged/7/text #10
+#. SHOW_AR_MSG
+#: data/enemies/jungle/special/parrot-gangster-boss-1.json+actions/GangsterReactCharged/7/text+%2310
+msgctxt "data/enemies/jungle/special/parrot-gangster-boss-1.json//actions/GangsterReactCharged/7/text"
+msgid "[Lost control!]"
+msgstr ""
+
+#. data/enemies/jungle/special/parrot-gangster-boss-1.json actions/GangsterWarning/1/text #16
+#. SHOW_AR_MSG
+#: data/enemies/jungle/special/parrot-gangster-boss-1.json+actions/GangsterWarning/1/text+%2316
+msgctxt "data/enemies/jungle/special/parrot-gangster-boss-1.json//actions/GangsterWarning/1/text"
+msgid "[WARNING BIRDNOISES!]"
+msgstr ""
+
+#. data/enemies/jungle/special/parrot-gangster-boss-1.json actions/GangsterShootHostage/0/text #20
+#. SHOW_AR_MSG
+#: data/enemies/jungle/special/parrot-gangster-boss-1.json+actions/GangsterShootHostage/0/text+%2320
+msgctxt "data/enemies/jungle/special/parrot-gangster-boss-1.json//actions/GangsterShootHostage/0/text"
+msgid "[Shooting Hostage...]"
+msgstr ""
+
+#. data/enemies/jungle/special/parrot-gangster-boss-1.json actions/OLD_GangsterReactCharged/6/text #21
+#. SHOW_AR_MSG
+#: data/enemies/jungle/special/parrot-gangster-boss-1.json+actions/OLD_GangsterReactCharged/6/text+%2321
+msgctxt "data/enemies/jungle/special/parrot-gangster-boss-1.json//actions/OLD_GangsterReactCharged/6/text"
+msgid "[Hit to free hostage!]"
+msgstr ""
+
+#. data/enemies/jungle/special/parrot-gangster-boss-1.json meta/species #1
+#: data/enemies/jungle/special/parrot-gangster-boss-1.json+meta/species+%231
+msgctxt "data/enemies/jungle/special/parrot-gangster-boss-1.json//meta/species"
+msgid "Lawless Birdboss"
+msgstr ""
+
+#. data/enemies/jungle/special/parrot-gangster-boss-1.json meta/descriptions/0/text #55
+#: data/enemies/jungle/special/parrot-gangster-boss-1.json+meta/descriptions/0/text+%2355
+msgctxt "data/enemies/jungle/special/parrot-gangster-boss-1.json//meta/descriptions/0/text"
+msgid ""
+"The young and hot-headed boss of the Papagang. He only just recently took over the leadership position as the old boss retired. \n"
+"Though he seems vain and undisciplined, he is in fact a master with his powerful weaponry. Precise \\c[3]machinegun fire\\c[0], explosive \\c[3]fruitbombs\\c[0] and especially his tenacious \\c[3]seeking missiles\\c[0] have destroyed many a rival in the past."
+msgstr ""
+
 #. data/enemies/jungle/special/plant-hidden-shock.json actions/init/0/thenStep/0/text #6
 #. IF test
 #. SHOW_AR_MSG
@@ -4233,25 +4489,19 @@ msgctxt "data/enemies/jungle/special/plant-hidden-shock.json//actions/init/0/the
 msgid "[Restored Shield]"
 msgstr ""
 
-#. data/enemies/jungle/special/plant-hidden-shock.json actions/ShockRecharge/0/text #31
+#. data/enemies/jungle/special/plant-hidden-shock.json actions/StartFullShield/1/thenStep/1/text #32
+#. COMBAT_IF
 #. SHOW_AR_MSG
-#: data/enemies/jungle/special/plant-hidden-shock.json+actions/ShockRecharge/0/text+%2331
-msgctxt "data/enemies/jungle/special/plant-hidden-shock.json//actions/ShockRecharge/0/text"
-msgid "[Restored Shield]"
-msgstr ""
-
-#. data/enemies/jungle/special/plant-hidden-shock.json actions/StartFullShield/0/text #32
-#. SHOW_AR_MSG
-#: data/enemies/jungle/special/plant-hidden-shock.json+actions/StartFullShield/0/text+%2332
-msgctxt "data/enemies/jungle/special/plant-hidden-shock.json//actions/StartFullShield/0/text"
-msgid "[Restored Shield]"
+#: data/enemies/jungle/special/plant-hidden-shock.json+actions/StartFullShield/1/thenStep/1/text+%2332
+msgctxt "data/enemies/jungle/special/plant-hidden-shock.json//actions/StartFullShield/1/thenStep/1/text"
+msgid "[ SHIELD RESTORED ]"
 msgstr ""
 
 #. data/enemies/jungle/special/plant-hidden-shock.json actions/EndFullShield/9/text #30
 #. SHOW_AR_MSG
 #: data/enemies/jungle/special/plant-hidden-shock.json+actions/EndFullShield/9/text+%2330
 msgctxt "data/enemies/jungle/special/plant-hidden-shock.json//actions/EndFullShield/9/text"
-msgid "[Shield neutralized!]"
+msgid "[ SHIELD NEUTRALIZED ]"
 msgstr ""
 
 #. data/enemies/jungle/special/plant-hidden-shock.json meta/species #1
@@ -4395,6 +4645,18 @@ msgctxt "data/enemies/jungle/special/quest_td_blob_1.json//meta/descriptions/0/t
 msgid ""
 "A close relative to the regular \\c[3]\\v[combat.name.jungle/blob]\\c[0], this specimen prefers to live underground. Usually they have a close connection to intensive points of Ancient power that they are eager to protect.\n"
 "Since it is more prone to traverse on strict paths, one might think of it as very inflexible. It is, however, just as wobbly as its overworldly relative."
+msgstr ""
+
+#. data/enemies/jungle/special/quest_td_boss_slime_1.json meta/species #4
+#: data/enemies/jungle/special/quest_td_boss_slime_1.json+meta/species+%234
+msgctxt "data/enemies/jungle/special/quest_td_boss_slime_1.json//meta/species"
+msgid "Starfish"
+msgstr ""
+
+#. data/enemies/jungle/special/quest_td_boss_slime_1.json meta/descriptions/0/text #6
+#: data/enemies/jungle/special/quest_td_boss_slime_1.json+meta/descriptions/0/text+%236
+msgctxt "data/enemies/jungle/special/quest_td_boss_slime_1.json//meta/descriptions/0/text"
+msgid "This starfish is the leader of both the \\v[combat.name.jungle/blob] and the \\v[combat.name.jungle/blob-wave]. It can enter a strange synthesis with them to create a large mass that is almost impenetrable. Only by using compressed shock balls can the bond be broken."
 msgstr ""
 
 #. data/enemies/jungle/special/quest_td_buffel_1.json actions/Init/2/thenStep/3/thenStep/0/text #34
@@ -5022,20 +5284,20 @@ msgid ""
 "Though they are stubbornly following strict paths, unlike their less disciplined and decidedly more cuddly cousins, they still retain a Shokat's blinding agility. Expect them to \\c[3]dodge projectiles\\c[0] of automated turrets with ease! \\c[3]Dodging will disrupt their shields\\c[0], though, and thus make them \\c[3]especially vulnerable to charged shots\\c[0] for a few seconds."
 msgstr ""
 
-#. data/enemies/jungle/special/shockat-capture.json actions/CaptureStart/1/thenStep/0/text #31
+#. data/enemies/jungle/special/shockat-capture.json actions/CaptureStart/3/thenStep/0/text #31
 #. IF entity.hasTmpTarget
 #. SHOW_AR_MSG
-#: data/enemies/jungle/special/shockat-capture.json+actions/CaptureStart/1/thenStep/0/text+%2331
-msgctxt "data/enemies/jungle/special/shockat-capture.json//actions/CaptureStart/1/thenStep/0/text"
+#: data/enemies/jungle/special/shockat-capture.json+actions/CaptureStart/3/thenStep/0/text+%2331
+msgctxt "data/enemies/jungle/special/shockat-capture.json//actions/CaptureStart/3/thenStep/0/text"
 msgid "[ CAPTURING ]"
 msgstr ""
 
-#. data/enemies/jungle/special/shockat-capture.json actions/CaptureStart/1/thenStep/1/thenStep/0/text #26
+#. data/enemies/jungle/special/shockat-capture.json actions/CaptureStart/3/thenStep/1/thenStep/0/text #26
 #. IF entity.hasTmpTarget
 #. IF test
 #. SHOW_AR_MSG
-#: data/enemies/jungle/special/shockat-capture.json+actions/CaptureStart/1/thenStep/1/thenStep/0/text+%2326
-msgctxt "data/enemies/jungle/special/shockat-capture.json//actions/CaptureStart/1/thenStep/1/thenStep/0/text"
+#: data/enemies/jungle/special/shockat-capture.json+actions/CaptureStart/3/thenStep/1/thenStep/0/text+%2326
+msgctxt "data/enemies/jungle/special/shockat-capture.json//actions/CaptureStart/3/thenStep/1/thenStep/0/text"
 msgid "( CAPTURE START: \\v[entity.attrib.cageName] )"
 msgstr ""
 
@@ -5048,7 +5310,7 @@ msgid "(CAPTURE: \\v[tmp.temp] )"
 msgstr ""
 
 #. data/enemies/jungle/special/shockat-capture.json actions/CaptureFail/6/thenStep/0/text #27
-#. IF test
+#. IF true
 #. SHOW_AR_MSG
 #: data/enemies/jungle/special/shockat-capture.json+actions/CaptureFail/6/thenStep/0/text+%2327
 msgctxt "data/enemies/jungle/special/shockat-capture.json//actions/CaptureFail/6/thenStep/0/text"
@@ -5061,6 +5323,13 @@ msgstr ""
 #: data/enemies/jungle/special/shockat-capture.json+actions/InterruptCapture/5/thenStep/0/text+%2328
 msgctxt "data/enemies/jungle/special/shockat-capture.json//actions/InterruptCapture/5/thenStep/0/text"
 msgid "( INTERRUPT CAPTURE )"
+msgstr ""
+
+#. data/enemies/jungle/special/shockat-capture.json actions/KillSurvive/0/text #35
+#. SHOW_AR_MSG
+#: data/enemies/jungle/special/shockat-capture.json+actions/KillSurvive/0/text+%2335
+msgctxt "data/enemies/jungle/special/shockat-capture.json//actions/KillSurvive/0/text"
+msgid "\\c[3][ !!!\\c[0] \\c[1]HAX SURVIVAL\\c[0] \\c[3]!!! ]\\c[0]"
 msgstr ""
 
 #. data/enemies/jungle/special/shockat-capture.json meta/species #4
@@ -6254,6 +6523,30 @@ msgctxt "data/enemies/reflector-bot.json//meta/species"
 msgid "Auto Sentry"
 msgstr ""
 
+#. data/enemies/rhombus/meerkat-car.json meta/species #6
+#: data/enemies/rhombus/meerkat-car.json+meta/species+%236
+msgctxt "data/enemies/rhombus/meerkat-car.json//meta/species"
+msgid "Driving Mammal"
+msgstr ""
+
+#. data/enemies/rhombus/meerkat-car.json meta/descriptions/0/text #8
+#: data/enemies/rhombus/meerkat-car.json+meta/descriptions/0/text+%238
+msgctxt "data/enemies/rhombus/meerkat-car.json//meta/descriptions/0/text"
+msgid "A more intelligent but reckless \\v[combat.name.meerkat] that likes to headbang while driving fast cars and engage in dangerous drive-by battles. To finance their expensive lifestyle they often take illegal road-jobs like smuggling and theft."
+msgstr ""
+
+#. data/enemies/rhombus/meerkat-delorean.json meta/species #6
+#: data/enemies/rhombus/meerkat-delorean.json+meta/species+%236
+msgctxt "data/enemies/rhombus/meerkat-delorean.json//meta/species"
+msgid "Futuristic Mammal"
+msgstr ""
+
+#. data/enemies/rhombus/meerkat-delorean.json meta/descriptions/0/text #8
+#: data/enemies/rhombus/meerkat-delorean.json+meta/descriptions/0/text+%238
+msgctxt "data/enemies/rhombus/meerkat-delorean.json//meta/descriptions/0/text"
+msgid "A unique specimen of \\v[combat.name.meerkat], easily recognized by his labcoat and eccentric hair."
+msgstr ""
+
 #. data/enemies/seahorse.json meta/species #1
 #: data/enemies/seahorse.json+meta/species+%231
 msgctxt "data/enemies/seahorse.json//meta/species"
@@ -6381,6 +6674,14 @@ msgstr ""
 #: data/enemies/special/sergey-hax2.json+proxies/shredderShieldHack/action/3/text+%236
 msgctxt "data/enemies/special/sergey-hax2.json//proxies/shredderShieldHack/action/3/text"
 msgid "Hack"
+msgstr ""
+
+#. data/enemies/special/sergey-hax3.json proxies/playerHack/action/4/text #4
+#. GENERIC
+#. SHOW_AR_MSG
+#: data/enemies/special/sergey-hax3.json+proxies/playerHack/action/4/text+%234
+msgctxt "data/enemies/special/sergey-hax3.json//proxies/playerHack/action/4/text"
+msgid "Atk Buff"
 msgstr ""
 
 #. data/enemies/special/target-bot.json meta/species #1

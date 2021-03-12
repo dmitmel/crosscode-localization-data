@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.3.0-4\n"
+"Project-Id-Version: crosscode 1.4.0-4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-11 11:05+0000\n"
-"PO-Revision-Date: 2021-02-11 11:05+0000\n"
+"POT-Creation-Date: 2021-03-12 23:30+0000\n"
+"PO-Revision-Date: 2021-03-12 23:30+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: es_ES\n"
@@ -775,8 +775,9 @@ msgstr "¡Hola!"
 #. IF
 #. SHOW_MSG rookie-harbor.man-big-black @DEFAULT
 #: data/maps/autumn/entrance.json+entities/92/settings/npcStates/0/event/quest/3/message+%237
+#, fuzzy
 msgctxt "data/maps/autumn/entrance.json//entities/92/settings/npcStates/0/event/quest/3/message"
-msgid "Hello Ms. \\v[lore.title.seeker]!\\. So great to see you here on \\v[lore.title.planet]."
+msgid "Hello, Ms. \\v[lore.title.seeker]!\\. So great to see you here on \\v[lore.title.planet]."
 msgstr "¡Hola Srta. \\v[lore.title.seeker]a!\\. Es tan bueno verte aquí en \\v[lore.title.planet]."
 
 #. data/maps/autumn/entrance.json entities/92/settings/npcStates/0/event/quest/4/message #9
@@ -3118,7 +3119,7 @@ msgstr "¡Lea!"
 
 #. data/maps/autumn/guild/inner-fs-eg.json entities/60/settings/npcStates/8/event/2/message #1507
 #. NPC hlin
-#. IF plot.line >= 21300
+#. IF plot.line >= 21300 && plot.line < 25200
 #. SHOW_MSG main.lea @EXCITED
 #: data/maps/autumn/guild/inner-fs-eg.json+entities/60/settings/npcStates/8/event/2/message+%231507
 msgctxt "data/maps/autumn/guild/inner-fs-eg.json//entities/60/settings/npcStates/8/event/2/message"
@@ -3127,7 +3128,7 @@ msgstr "¡Hola!"
 
 #. data/maps/autumn/guild/inner-fs-eg.json entities/60/settings/npcStates/8/event/3/message #1508
 #. NPC hlin
-#. IF plot.line >= 21300
+#. IF plot.line >= 21300 && plot.line < 25200
 #. SHOW_MSG main.guild-leader @SMILE
 #: data/maps/autumn/guild/inner-fs-eg.json+entities/60/settings/npcStates/8/event/3/message+%231508
 msgctxt "data/maps/autumn/guild/inner-fs-eg.json//entities/60/settings/npcStates/8/event/3/message"
@@ -3136,7 +3137,7 @@ msgstr "Lea, querida. Es bueno verte."
 
 #. data/maps/autumn/guild/inner-fs-eg.json entities/60/settings/npcStates/8/event/4/message #1509
 #. NPC hlin
-#. IF plot.line >= 21300
+#. IF plot.line >= 21300 && plot.line < 25200
 #. SHOW_MSG main.guild-leader @TOWARDS
 #: data/maps/autumn/guild/inner-fs-eg.json+entities/60/settings/npcStates/8/event/4/message+%231509
 msgctxt "data/maps/autumn/guild/inner-fs-eg.json//entities/60/settings/npcStates/8/event/4/message"
@@ -3145,7 +3146,7 @@ msgstr "Estuve hablando con Tronny. ¿Ya te ha contado?"
 
 #. data/maps/autumn/guild/inner-fs-eg.json entities/60/settings/npcStates/8/event/5/message #1510
 #. NPC hlin
-#. IF plot.line >= 21300
+#. IF plot.line >= 21300 && plot.line < 25200
 #. SHOW_MSG main.lea @NOD
 #: data/maps/autumn/guild/inner-fs-eg.json+entities/60/settings/npcStates/8/event/5/message+%231510
 msgctxt "data/maps/autumn/guild/inner-fs-eg.json//entities/60/settings/npcStates/8/event/5/message"
@@ -3154,7 +3155,7 @@ msgstr "[asiente]"
 
 #. data/maps/autumn/guild/inner-fs-eg.json entities/60/settings/npcStates/8/event/6/message #1511
 #. NPC hlin
-#. IF plot.line >= 21300
+#. IF plot.line >= 21300 && plot.line < 25200
 #. SHOW_MSG main.guild-leader @EYES_CLOSED
 #: data/maps/autumn/guild/inner-fs-eg.json+entities/60/settings/npcStates/8/event/6/message+%231511
 msgctxt "data/maps/autumn/guild/inner-fs-eg.json//entities/60/settings/npcStates/8/event/6/message"
@@ -3163,7 +3164,7 @@ msgstr "Es una pena, pero así son las cosas."
 
 #. data/maps/autumn/guild/inner-fs-eg.json entities/60/settings/npcStates/8/event/7/message #1512
 #. NPC hlin
-#. IF plot.line >= 21300
+#. IF plot.line >= 21300 && plot.line < 25200
 #. SHOW_MSG main.guild-leader @DOWN
 #: data/maps/autumn/guild/inner-fs-eg.json+entities/60/settings/npcStates/8/event/7/message+%231512
 msgctxt "data/maps/autumn/guild/inner-fs-eg.json//entities/60/settings/npcStates/8/event/7/message"
@@ -3172,7 +3173,7 @@ msgstr "En momentos como este, la vida real viene primero."
 
 #. data/maps/autumn/guild/inner-fs-eg.json entities/60/settings/npcStates/8/event/8/message #1513
 #. NPC hlin
-#. IF plot.line >= 21300
+#. IF plot.line >= 21300 && plot.line < 25200
 #. SHOW_MSG main.lea @NERVOUS
 #: data/maps/autumn/guild/inner-fs-eg.json+entities/60/settings/npcStates/8/event/8/message+%231513
 msgctxt "data/maps/autumn/guild/inner-fs-eg.json//entities/60/settings/npcStates/8/event/8/message"
@@ -3181,7 +3182,7 @@ msgstr "..."
 
 #. data/maps/autumn/guild/inner-fs-eg.json entities/60/settings/npcStates/8/event/9/message #1514
 #. NPC hlin
-#. IF plot.line >= 21300
+#. IF plot.line >= 21300 && plot.line < 25200
 #. SHOW_MSG main.guild-leader @ANGRY
 #: data/maps/autumn/guild/inner-fs-eg.json+entities/60/settings/npcStates/8/event/9/message+%231514
 msgctxt "data/maps/autumn/guild/inner-fs-eg.json//entities/60/settings/npcStates/8/event/9/message"
@@ -3190,7 +3191,7 @@ msgstr "Hmm. Hoy no es el mejor de los días, ¿eh?"
 
 #. data/maps/autumn/guild/inner-fs-eg.json entities/60/settings/npcStates/8/event/10/message #1515
 #. NPC hlin
-#. IF plot.line >= 21300
+#. IF plot.line >= 21300 && plot.line < 25200
 #. SHOW_MSG main.lea @SURPRISED_TOWARD
 #: data/maps/autumn/guild/inner-fs-eg.json+entities/60/settings/npcStates/8/event/10/message+%231515
 msgctxt "data/maps/autumn/guild/inner-fs-eg.json//entities/60/settings/npcStates/8/event/10/message"
@@ -3199,7 +3200,7 @@ msgstr "¿...?"
 
 #. data/maps/autumn/guild/inner-fs-eg.json entities/60/settings/npcStates/8/event/11/message #1516
 #. NPC hlin
-#. IF plot.line >= 21300
+#. IF plot.line >= 21300 && plot.line < 25200
 #. SHOW_MSG main.guild-leader @WORRIED
 #: data/maps/autumn/guild/inner-fs-eg.json+entities/60/settings/npcStates/8/event/11/message+%231516
 msgctxt "data/maps/autumn/guild/inner-fs-eg.json//entities/60/settings/npcStates/8/event/11/message"
@@ -3208,7 +3209,7 @@ msgstr "No solo Tronny se va, pero he tenido que cancelar una misión especial m
 
 #. data/maps/autumn/guild/inner-fs-eg.json entities/60/settings/npcStates/8/event/12/message #1517
 #. NPC hlin
-#. IF plot.line >= 21300
+#. IF plot.line >= 21300 && plot.line < 25200
 #. SHOW_MSG main.guild-leader @ANGRY
 #: data/maps/autumn/guild/inner-fs-eg.json+entities/60/settings/npcStates/8/event/12/message+%231517
 msgctxt "data/maps/autumn/guild/inner-fs-eg.json//entities/60/settings/npcStates/8/event/12/message"
@@ -3217,7 +3218,7 @@ msgstr "¿Por qué? Porque va a \\c[3]juntarse con un viejo amigo\\c[0] en algú
 
 #. data/maps/autumn/guild/inner-fs-eg.json entities/60/settings/npcStates/8/event/13/message #1518
 #. NPC hlin
-#. IF plot.line >= 21300
+#. IF plot.line >= 21300 && plot.line < 25200
 #. SHOW_MSG main.lea @SURPRISED
 #: data/maps/autumn/guild/inner-fs-eg.json+entities/60/settings/npcStates/8/event/13/message+%231518
 msgctxt "data/maps/autumn/guild/inner-fs-eg.json//entities/60/settings/npcStates/8/event/13/message"
@@ -3226,7 +3227,7 @@ msgstr "¿...?"
 
 #. data/maps/autumn/guild/inner-fs-eg.json entities/60/settings/npcStates/8/event/14/message #1519
 #. NPC hlin
-#. IF plot.line >= 21300
+#. IF plot.line >= 21300 && plot.line < 25200
 #. SHOW_MSG main.guild-leader @EYES_CLOSED
 #: data/maps/autumn/guild/inner-fs-eg.json+entities/60/settings/npcStates/8/event/14/message+%231519
 msgctxt "data/maps/autumn/guild/inner-fs-eg.json//entities/60/settings/npcStates/8/event/14/message"
@@ -3235,7 +3236,7 @@ msgstr "No se supone que le diga a nadie, pero por qué habría de importarme si
 
 #. data/maps/autumn/guild/inner-fs-eg.json entities/60/settings/npcStates/8/event/15/message #1520
 #. NPC hlin
-#. IF plot.line >= 21300
+#. IF plot.line >= 21300 && plot.line < 25200
 #. SHOW_MSG main.lea @WHISTLING
 #: data/maps/autumn/guild/inner-fs-eg.json+entities/60/settings/npcStates/8/event/15/message+%231520
 msgctxt "data/maps/autumn/guild/inner-fs-eg.json//entities/60/settings/npcStates/8/event/15/message"
@@ -3244,7 +3245,7 @@ msgstr "¡...!"
 
 #. data/maps/autumn/guild/inner-fs-eg.json entities/60/settings/npcStates/8/event/16/message #1521
 #. NPC hlin
-#. IF plot.line >= 21300
+#. IF plot.line >= 21300 && plot.line < 25200
 #. SHOW_MSG main.guild-leader @EMBARRASSED
 #: data/maps/autumn/guild/inner-fs-eg.json+entities/60/settings/npcStates/8/event/16/message+%231521
 msgctxt "data/maps/autumn/guild/inner-fs-eg.json//entities/60/settings/npcStates/8/event/16/message"
@@ -18776,8 +18777,9 @@ msgstr "Eso tiene sentido. ¿Por qué el secretismo, Papá?"
 #. EventTrigger dkarScene START IF map.startDkarScene
 #. SHOW_MSG main.dkar @DEFAULT
 #: data/maps/autumn/lake-observatory.json+entities/551/settings/event/63/message+%23336
+#, fuzzy
 msgctxt "data/maps/autumn/lake-observatory.json//entities/551/settings/event/63/message"
-msgid "Well you see...\n"
+msgid "Well, you see...\n"
 msgstr "Bueno verán...\n"
 
 #. data/maps/autumn/lake-observatory.json entities/551/settings/event/64/message #337
@@ -18944,8 +18946,9 @@ msgstr "..."
 #. EventTrigger dkarScene START IF map.startDkarScene
 #. SHOW_MSG cross-worlds-special.dkar-son-triblader @DEFAULT
 #: data/maps/autumn/lake-observatory.json+entities/551/settings/event/84/message+%23361
+#, fuzzy
 msgctxt "data/maps/autumn/lake-observatory.json//entities/551/settings/event/84/message"
-msgid "Oh boy, I'm sorry Lea. I hope he wasn't too much of a problem. He can get very... dramatic sometimes."
+msgid "Oh boy, I'm sorry, Lea. I hope he wasn't too much of a problem. He can get very... dramatic sometimes."
 msgstr "Ah.... lo siento, Lea. Espero que no haya sido mucha molestia. Puede ponerse muy... dramático a veces."
 
 #. data/maps/autumn/lake-observatory.json entities/551/settings/event/85/message #362
@@ -19546,8 +19549,9 @@ msgstr "¡No sabía que tal evento existía!"
 #. EventTrigger openSesame START IF map.hlinScene
 #. SHOW_MSG main.guild-leader @THINKING
 #: data/maps/autumn/lake-observatory.json+entities/556/settings/event/29/message+%23443
+#, fuzzy
 msgctxt "data/maps/autumn/lake-observatory.json//entities/556/settings/event/29/message"
-msgid "Well it's not easy to find as it's not connected to any other quest."
+msgid "Well, it's not easy to find as it's not connected to any other quest."
 msgstr "Bueno no es fácil de encontrar ya que no está conectado a ningún otra misión."
 
 #. data/maps/autumn/lake-observatory.json entities/556/settings/event/30/message #444
@@ -19666,8 +19670,9 @@ msgstr "Es bastante simple, de hecho. "
 #. EventTrigger openSesame START IF map.hlinScene
 #. SHOW_MSG main.guild-leader @THINKING
 #: data/maps/autumn/lake-observatory.json+entities/556/settings/event/44/message+%23460
+#, fuzzy
 msgctxt "data/maps/autumn/lake-observatory.json//entities/556/settings/event/44/message"
-msgid "First each one of us needs to hold one of the relics."
+msgid "First, each one of us needs to hold one of the relics."
 msgstr "Primero, cada uno de nosotros tiene que sostener una reliquia."
 
 #. data/maps/autumn/lake-observatory.json entities/556/settings/event/45/message #461
@@ -19754,8 +19759,9 @@ msgstr "¡Wow, qué miedo!"
 #. EventTrigger afterObs START IF quest.observatory.solved
 #. SHOW_MSG main.guild-leader @SMILE
 #: data/maps/autumn/lake-observatory.json+entities/557/settings/event/12/message+%23474
+#, fuzzy
 msgctxt "data/maps/autumn/lake-observatory.json//entities/557/settings/event/12/message"
-msgid "Oh there you are, dear."
+msgid "Oh, there you are, dear."
 msgstr "Oh ahí estás, querida."
 
 #. data/maps/autumn/lake-observatory.json entities/557/settings/event/14/message #475
@@ -19802,16 +19808,18 @@ msgstr "Me gustó sobre todo los conejitos en el mural."
 #. EventTrigger afterObs START IF quest.observatory.solved
 #. SHOW_MSG main.guild-leader @ANGRY
 #: data/maps/autumn/lake-observatory.json+entities/557/settings/event/19/message+%23480
+#, fuzzy
 msgctxt "data/maps/autumn/lake-observatory.json//entities/557/settings/event/19/message"
-msgid "Oh come now, Buggy! Those were clearly meant to depict the Ancients themselves."
+msgid "Oh, come now, Buggy! Those were clearly meant to depict the Ancients themselves."
 msgstr "¡Oh vamos, Buggy! Esos claramente eran ilustraciones de los mismísimos Antiguos."
 
 #. data/maps/autumn/lake-observatory.json entities/557/settings/event/20/message #481
 #. EventTrigger afterObs START IF quest.observatory.solved
 #. SHOW_MSG main.buggy @GRIN
 #: data/maps/autumn/lake-observatory.json+entities/557/settings/event/20/message+%23481
+#, fuzzy
 msgctxt "data/maps/autumn/lake-observatory.json//entities/557/settings/event/20/message"
-msgid "So not bird people, but bunny people? "
+msgid "So, not bird people, but bunny people? "
 msgstr "¿Entonces no son personas pájaro, sino personas conejo? "
 
 #. data/maps/autumn/lake-observatory.json entities/557/settings/event/21/message #482
@@ -19866,8 +19874,9 @@ msgstr "¡Si! ¡Más poder para mí!"
 #. EventTrigger afterObs START IF quest.observatory.solved
 #. SHOW_MSG main.emilie @SMILE
 #: data/maps/autumn/lake-observatory.json+entities/557/settings/event/48/message+%23488
+#, fuzzy
 msgctxt "data/maps/autumn/lake-observatory.json//entities/557/settings/event/48/message"
-msgid "All thanks to our chérie Lea."
+msgid "All thanks to our chérie, Lea."
 msgstr "Todo gracias a nuestra chérie Lea."
 
 #. data/maps/autumn/lake-observatory.json entities/557/settings/event/49/message #509
@@ -19930,8 +19939,9 @@ msgstr "Lamento tener que irme tan pronto, pero tengo un apuro."
 #. EventTrigger afterObs START IF quest.observatory.solved
 #. SHOW_MSG main.guild-leader @EYES_CLOSED
 #: data/maps/autumn/lake-observatory.json+entities/557/settings/event/56/message+%23500
+#, fuzzy
 msgctxt "data/maps/autumn/lake-observatory.json//entities/557/settings/event/56/message"
-msgid "That's alright. Sadly this is where the event ends anyway."
+msgid "That's alright. Sadly, this is where the event ends anyway."
 msgstr "Está bien. Tristemente aquí es donde acaba el evento de todos modos."
 
 #. data/maps/autumn/lake-observatory.json entities/557/settings/event/57/message #501
@@ -19946,8 +19956,9 @@ msgstr "Supongo que volveré a la sede, ¿eh?"
 #. EventTrigger afterObs START IF quest.observatory.solved
 #. SHOW_MSG main.buggy @DEFAULT
 #: data/maps/autumn/lake-observatory.json+entities/557/settings/event/58/message+%23502
+#, fuzzy
 msgctxt "data/maps/autumn/lake-observatory.json//entities/557/settings/event/58/message"
-msgid "See you soon everyone!"
+msgid "See you soon, everyone!"
 msgstr "¡Nos vemos pronto!"
 
 #. data/maps/autumn/lake-observatory.json entities/557/settings/event/59/message #503
@@ -20452,8 +20463,9 @@ msgstr "El Observador"
 #. EventTrigger FirstTime
 #. SHOW_MSG main.emilie @SHOCKED
 #: data/maps/autumn/observatory/inner.json+entities/61/settings/event/7/message+%2336
+#, fuzzy
 msgctxt "data/maps/autumn/observatory/inner.json//entities/61/settings/event/7/message"
-msgid "Sacrébleu, what just happened?"
+msgid "Sacrebleu, what just happened?"
 msgstr "Sacrébleu, ¿qué acaba de pasar?"
 
 #. data/maps/autumn/observatory/inner.json entities/61/settings/event/8/message #28
@@ -20560,8 +20572,9 @@ msgstr ""
 #. EventTrigger SpaceScene START IF map.spaceScene
 #. SHOW_DREAM_MSG
 #: data/maps/autumn/observatory/inner.json+entities/62/settings/event/13/text+%2339
+#, fuzzy
 msgctxt "data/maps/autumn/observatory/inner.json//entities/62/settings/event/13/text"
-msgid "To seek wisdom of the gods we built this observatory."
+msgid "To seek wisdom of the gods, we built this observatory."
 msgstr "Para buscar sabiduría de los dioses, contruímos este observatorio."
 
 #. data/maps/autumn/observatory/inner.json entities/62/settings/event/14/text #40
@@ -20580,8 +20593,9 @@ msgstr ""
 #. EventTrigger SpaceScene START IF map.spaceScene
 #. SHOW_DREAM_MSG
 #: data/maps/autumn/observatory/inner.json+entities/62/settings/event/15/text+%2341
+#, fuzzy
 msgctxt "data/maps/autumn/observatory/inner.json//entities/62/settings/event/15/text"
-msgid "For your achievements we grant you the ability to become even stronger."
+msgid "For your achievements, we grant you the ability to become even stronger."
 msgstr "Por tus logros te otorgamos la habilidad de hacerte incluso más fuerte."
 
 #. data/maps/autumn/observatory/inner.json entities/62/settings/event/18/object #22
@@ -20890,8 +20904,9 @@ msgstr "P... Pero estaba yendo a entregarme de todos modos.\\. ¿No me crees?"
 #. IF quest.rhg-1-pickpocket.task.7
 #. SHOW_MSG rookie-harbor.faction-rhg-female-black @DEFAULT
 #: data/maps/autumn/path-1.json+entities/302/settings/npcStates/1/event/quest/32/message+%23342
+#, fuzzy
 msgctxt "data/maps/autumn/path-1.json//entities/302/settings/npcStates/1/event/quest/32/message"
-msgid "Sorry pal. Trust is nice and all but I won't take any more risks with you."
+msgid "Sorry, pal.\\. Trust is nice and all but I won't take any more risks with you."
 msgstr "Lo siento muchacho. La confianza está bien y todo, pero no me tomaré más riesgos contigo."
 
 #. data/maps/autumn/path-1.json entities/302/settings/npcStates/1/event/quest/33/message #344
@@ -20908,8 +20923,9 @@ msgstr "Bien, bien.\\. Cielos."
 #. IF quest.rhg-1-pickpocket.task.7
 #. SHOW_MSG rookie-harbor.faction-rhg-female-black @DEFAULT
 #: data/maps/autumn/path-1.json+entities/302/settings/npcStates/1/event/quest/39/message+%23345
+#, fuzzy
 msgctxt "data/maps/autumn/path-1.json//entities/302/settings/npcStates/1/event/quest/39/message"
-msgid "In any case, thanks girl.\\. You did great work here.\\. Report back to the chief to get your reward."
+msgid "In any case, thanks, girl.\\. You did great work here.\\. Report back to the chief to get your reward."
 msgstr "En todo caso, gracias chica.\\. Hiciste un gran trabajo aquí.\\. Repórtate al jefe para reclamar tu recompensa."
 
 #. data/maps/autumn/path-1.json entities/302/settings/npcStates/1/event/quest/40/message #333
@@ -21851,8 +21867,9 @@ msgstr "T-Tengo una l-lista de c-cosas que necesito."
 #. SHOW_CHOICE main.lea @SURPRISED_TOWARD
 #. SHOW_MSG misc.henry-researcher @DEFAULT
 #: data/maps/autumn/path-1.json+entities/313/settings/dialog/1/event/16/0/18/message+%23439
+#, fuzzy
 msgctxt "data/maps/autumn/path-1.json//entities/313/settings/dialog/1/event/16/0/18/message"
-msgid "F-First I need some items and information on the local w-wildlife."
+msgid "F-First, I need some items and information on the local w-wildlife."
 msgstr "P-Primero necesito algunos o-ob-objetos e informaci-ión de la v-vida s-salvaje l-l-lo-l-local."
 
 #. data/maps/autumn/path-1.json entities/313/settings/dialog/1/event/16/0/19/message #440
@@ -21860,8 +21877,9 @@ msgstr "P-Primero necesito algunos o-ob-objetos e informaci-ión de la v-vida s-
 #. SHOW_CHOICE main.lea @SURPRISED_TOWARD
 #. SHOW_MSG misc.henry-researcher @DEFAULT
 #: data/maps/autumn/path-1.json+entities/313/settings/dialog/1/event/16/0/19/message+%23440
+#, fuzzy
 msgctxt "data/maps/autumn/path-1.json//entities/313/settings/dialog/1/event/16/0/19/message"
-msgid "Additionally I n-n-need a list of all the landmarks in this a-area."
+msgid "Additionally, I n-n-need a list of all the landmarks in this a-area."
 msgstr "Adicio-io-ionalmente n-necesito una l-lista de todos los P-Puntos-s de Referencia del á-área."
 
 #. data/maps/autumn/path-1.json entities/313/settings/dialog/1/event/16/0/20/message #441
@@ -21869,8 +21887,9 @@ msgstr "Adicio-io-ionalmente n-necesito una l-lista de todos los P-Puntos-s de R
 #. SHOW_CHOICE main.lea @SURPRISED_TOWARD
 #. SHOW_MSG misc.henry-researcher @DEFAULT
 #: data/maps/autumn/path-1.json+entities/313/settings/dialog/1/event/16/0/20/message+%23441
+#, fuzzy
 msgctxt "data/maps/autumn/path-1.json//entities/313/settings/dialog/1/event/16/0/20/message"
-msgid "Finally I need y-you to retrieve a p-probe I installed further ahead."
+msgid "Finally, I need y-you to retrieve a p-probe I installed further ahead."
 msgstr "F-Finalmente necesito que re-recu-p-peres una s-sonda que instalé m-más adelante."
 
 #. data/maps/autumn/path-1.json entities/313/settings/dialog/1/event/16/0/21/message #442
@@ -24442,8 +24461,9 @@ msgstr "[niega con la cabeza]"
 #. SHOW_CHOICE main.lea @SURPRISED_AWAY
 #. SHOW_MSG guests.christophorus @DEFAULT
 #: data/maps/autumn/path-7-2.json+entities/741/settings/npcStates/0/event/3/elseStep/5/1/3/message+%2338
+#, fuzzy
 msgctxt "data/maps/autumn/path-7-2.json//entities/741/settings/npcStates/0/event/3/elseStep/5/1/3/message"
-msgid "So you think you can managed on your own?"
+msgid "So you think you can manage on your own?"
 msgstr "¿Así que crees que puedes hacerlo por tú misma?"
 
 #. data/maps/autumn/path-7-2.json entities/741/settings/npcStates/0/event/3/elseStep/5/1/4/message #39

@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.3.0-4\n"
+"Project-Id-Version: crosscode 1.4.0-4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-11 11:05+0000\n"
-"PO-Revision-Date: 2021-02-11 11:05+0000\n"
+"POT-Creation-Date: 2021-03-12 23:30+0000\n"
+"PO-Revision-Date: 2021-03-12 23:30+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: es_ES\n"
@@ -19,33 +19,27 @@ msgctxt "data/areas/jungle.json//name"
 msgid "untitled"
 msgstr ""
 
-#. data/areas/jungle.json floors/0/maps/0/name #355
-#: data/areas/jungle.json+floors/0/maps/0/name+%23355
+#. data/areas/jungle.json floors/0/maps/0/name #397
+#: data/areas/jungle.json+floors/0/maps/0/name+%23397
 msgctxt "data/areas/jungle.json//floors/0/maps/0/name"
-msgid "Lost Power Room"
-msgstr ""
-
-#. data/areas/jungle.json floors/0/maps/1/name #397
-#: data/areas/jungle.json+floors/0/maps/1/name+%23397
-msgctxt "data/areas/jungle.json//floors/0/maps/1/name"
 msgid "MM Entrance"
 msgstr ""
 
-#. data/areas/jungle.json floors/0/maps/2/name #422
-#: data/areas/jungle.json+floors/0/maps/2/name+%23422
-msgctxt "data/areas/jungle.json//floors/0/maps/2/name"
+#. data/areas/jungle.json floors/0/maps/1/name #422
+#: data/areas/jungle.json+floors/0/maps/1/name+%23422
+msgctxt "data/areas/jungle.json//floors/0/maps/1/name"
 msgid "Metal Room"
 msgstr ""
 
-#. data/areas/jungle.json floors/0/maps/3/name #424
-#: data/areas/jungle.json+floors/0/maps/3/name+%23424
-msgctxt "data/areas/jungle.json//floors/0/maps/3/name"
+#. data/areas/jungle.json floors/0/maps/2/name #424
+#: data/areas/jungle.json+floors/0/maps/2/name+%23424
+msgctxt "data/areas/jungle.json//floors/0/maps/2/name"
 msgid "Octo Office"
 msgstr ""
 
-#. data/areas/jungle.json floors/0/maps/4/name #423
-#: data/areas/jungle.json+floors/0/maps/4/name+%23423
-msgctxt "data/areas/jungle.json//floors/0/maps/4/name"
+#. data/areas/jungle.json floors/0/maps/3/name #423
+#: data/areas/jungle.json+floors/0/maps/3/name+%23423
+msgctxt "data/areas/jungle.json//floors/0/maps/3/name"
 msgid "Test Chamber"
 msgstr ""
 
@@ -71,6 +65,12 @@ msgstr ""
 #: data/areas/jungle.json+floors/1/maps/3/name+%23429
 msgctxt "data/areas/jungle.json//floors/1/maps/3/name"
 msgid "Lead Office"
+msgstr ""
+
+#. data/areas/jungle.json floors/1/maps/4/name #355
+#: data/areas/jungle.json+floors/1/maps/4/name+%23355
+msgctxt "data/areas/jungle.json//floors/1/maps/4/name"
+msgid "Lost Power Room"
 msgstr ""
 
 #. data/areas/jungle.json floors/2/maps/0/name #284
@@ -534,7 +534,7 @@ msgstr ""
 #. SHOW_BOARD_MSG
 #: data/maps/jungle/caves/questcave-snowman-boss.json+entities/13/settings/event/4/text+%23461
 msgctxt "data/maps/jungle/caves/questcave-snowman-boss.json//entities/13/settings/event/4/text"
-msgid "There is no way to break that icy wall alone. \\c[3]Report back to Mrs Basu in \\v[area.jungle-city.name]!\\c[0]"
+msgid "There is no way to break that icy wall alone. \\c[3]Report back to Mrs. Basu in \\v[area.jungle-city.name]!\\c[0]"
 msgstr ""
 
 #. data/maps/jungle/caves/questcave-snowman-boss.json entities/17/settings/event/5/thenStep/0/task #435
@@ -633,7 +633,7 @@ msgstr ""
 #. SHOW_MSG business.heatergirl-female @DEFAULT
 #: data/maps/jungle/caves/questcave-snowman-boss.json+entities/23/settings/event/33/message+%23436
 msgctxt "data/maps/jungle/caves/questcave-snowman-boss.json//entities/23/settings/event/33/message"
-msgid "Our engineers called it the \\c[3]Hyperforce Plasmaoven\\c[0].\\. A ridiculous name, to be sure, but its heating capacities are truly unmatched."
+msgid "Our engineers called it the \\c[3]Hyperforce Plasma Oven\\c[0].\\. A ridiculous name, to be sure, but its heating capacities are truly unmatched."
 msgstr ""
 
 #. data/maps/jungle/caves/questcave-snowman-boss.json entities/23/settings/event/34/message #441
@@ -754,7 +754,7 @@ msgstr ""
 #: data/maps/jungle/caves/questcave-snowman-boss.json+entities/23/settings/event/62/text+%23464
 msgctxt "data/maps/jungle/caves/questcave-snowman-boss.json//entities/23/settings/event/62/text"
 msgid ""
-"Use the \\c[3]Hyperforce Plasmaoven\\c[0]  to melt the icy walls.\n"
+"Use the \\c[3]Hyperforce Plasma Oven\\c[0]  to melt the icy walls.\n"
 "\\c[3]Teleport it with charged Wave projectiles\\c[0] and \\c[3]trigger heat-explosions with repeated Shock attacks\\c[0]."
 msgstr ""
 
@@ -2118,7 +2118,7 @@ msgstr ""
 #. SHOW_MSG adventurers-jungle.female-white-hat @DEFAULT
 #: data/maps/jungle/caves/questcave-td-1.json+entities/48/settings/npcStates/2/event/quest/28/message+%23704
 msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/48/settings/npcStates/2/event/quest/28/message"
-msgid "It's only one right now, but we will spawn more over time."
+msgid "It's just the one for now, but we will spawn more over time."
 msgstr ""
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/48/settings/npcStates/2/event/quest/29/message #705
@@ -3905,7 +3905,7 @@ msgstr ""
 #. SHOW_MSG adventurers-jungle.female-white-hat @DEFAULT
 #: data/maps/jungle/caves/questcave-td-2.json+entities/39/settings/npcStates/2/event/quest/4/message+%23768
 msgctxt "data/maps/jungle/caves/questcave-td-2.json//entities/39/settings/npcStates/2/event/quest/4/message"
-msgid "This should be similiar to last time you helped us out.\\. So just let me give you a short rundown."
+msgid "This should be similar to last time you helped us out.\\. So just let me give you a short rundown."
 msgstr ""
 
 #. data/maps/jungle/caves/questcave-td-2.json entities/39/settings/npcStates/2/event/quest/5/message #769
@@ -4917,7 +4917,7 @@ msgid ""
 msgstr ""
 
 #. data/maps/jungle/caves/questcave-td-2.json entities/160/settings/event/2/text #885
-#. EventTrigger tdTurretUpgrade START IF tmp.tdStarted && quest.jungleAdv-1-turret_defense_1.solved && tmp.tdEnergy >= tmp.tdUpgradeCost
+#. EventTrigger tdTurretUpgrade START IF tmp.tdStarted && quest.jungleAdv-2-turret_defense_2.solved && tmp.tdEnergy >= tmp.tdUpgradeCost
 #. SHOW_AR_MSG
 #: data/maps/jungle/caves/questcave-td-2.json+entities/160/settings/event/2/text+%23885
 msgctxt "data/maps/jungle/caves/questcave-td-2.json//entities/160/settings/event/2/text"
@@ -6925,7 +6925,7 @@ msgstr ""
 #. SHOW_MSG main.sergey @DEFAULT
 #: data/maps/jungle/clearing/clear-path-01.json+entities/784/settings/event/82/message+%23861
 msgctxt "data/maps/jungle/clearing/clear-path-01.json//entities/784/settings/event/82/message"
-msgid "Oh, C'tron is back I see."
+msgid "Oh, C'tron is back, I see."
 msgstr ""
 
 #. data/maps/jungle/clearing/clear-path-01.json entities/784/settings/event/83/message #862
@@ -7616,139 +7616,139 @@ msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/int
 msgid "Knock door"
 msgstr ""
 
-#. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/16/name #520
+#. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/20/name #520
 #. Prop door-prop SPAWN IF quest.jungleTrader-3-shad_fridge_1.currentTask == 1
 #. ADD_MSG_PERSON basin.shad-male-techie @DEFAULT
-#: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/16/name+%23520
-msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/16/name"
+#: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/20/name+%23520
+msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/20/name"
 msgid "Owo'kyari"
 msgstr ""
 
-#. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/17/message #521
+#. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/21/message #521
 #. Prop door-prop SPAWN IF quest.jungleTrader-3-shad_fridge_1.currentTask == 1
 #. SHOW_MSG basin.shad-male-techie @DEFAULT
-#: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/17/message+%23521
-msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/17/message"
+#: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/21/message+%23521
+msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/21/message"
 msgid "Yes, what is?"
 msgstr ""
 
-#. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/18/message #537
+#. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/22/message #537
 #. Prop door-prop SPAWN IF quest.jungleTrader-3-shad_fridge_1.currentTask == 1
 #. SHOW_MSG main.lea @ANNOYED
-#: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/18/message+%23537
-msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/18/message"
+#: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/22/message+%23537
+msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/22/message"
 msgid "Hi..."
 msgstr ""
 
-#. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/19/message #538
+#. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/23/message #538
 #. Prop door-prop SPAWN IF quest.jungleTrader-3-shad_fridge_1.currentTask == 1
 #. SHOW_MSG basin.shad-male-techie @DEFAULT
-#: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/19/message+%23538
-msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/19/message"
+#: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/23/message+%23538
+msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/23/message"
 msgid "\\.\\.Ohh... A \\v[lore.title.seeker], huh?\\. What is special occasion?"
 msgstr ""
 
-#. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/20/message #539
+#. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/24/message #539
 #. Prop door-prop SPAWN IF quest.jungleTrader-3-shad_fridge_1.currentTask == 1
 #. SHOW_MSG main.lea @SURPRISED
-#: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/20/message+%23539
-msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/20/message"
+#: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/24/message+%23539
+msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/24/message"
 msgid "...Lea.\\.\\. Meet!"
 msgstr ""
 
-#. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/21/message #540
+#. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/25/message #540
 #. Prop door-prop SPAWN IF quest.jungleTrader-3-shad_fridge_1.currentTask == 1
 #. SHOW_MSG basin.shad-male-techie @DEFAULT
-#: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/21/message+%23540
-msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/21/message"
+#: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/25/message+%23540
+msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/25/message"
 msgid "Ah, uncle sent you because power is needed for fridging devices?\\. How full of wonder!"
 msgstr ""
 
-#. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/23/message #541
+#. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/27/message #541
 #. Prop door-prop SPAWN IF quest.jungleTrader-3-shad_fridge_1.currentTask == 1
 #. SHOW_MSG basin.shad-male-techie @DEFAULT
-#: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/23/message+%23541
-msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/23/message"
+#: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/27/message+%23541
+msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/27/message"
 msgid "Yes, there no connection to human plant of power and chief won't ever allow dirty generator in village."
 msgstr ""
 
-#. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/24/message #542
+#. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/28/message #542
 #. Prop door-prop SPAWN IF quest.jungleTrader-3-shad_fridge_1.currentTask == 1
 #. SHOW_MSG basin.shad-male-techie @DEFAULT
-#: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/24/message+%23542
-msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/24/message"
+#: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/28/message+%23542
+msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/28/message"
 msgid "BUT, \\v[lore.title.seeker], I developed alternative!\\. Device powered by nature!"
 msgstr ""
 
-#. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/25/message #543
+#. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/29/message #543
 #. Prop door-prop SPAWN IF quest.jungleTrader-3-shad_fridge_1.currentTask == 1
 #. SHOW_MSG main.lea @ASTONISHED
-#: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/25/message+%23543
-msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/25/message"
+#: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/29/message+%23543
+msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/29/message"
 msgid "...!"
 msgstr ""
 
-#. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/26/message #682
+#. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/30/message #682
 #. Prop door-prop SPAWN IF quest.jungleTrader-3-shad_fridge_1.currentTask == 1
 #. SHOW_MSG basin.shad-male-techie @DEFAULT
-#: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/26/message+%23682
-msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/26/message"
+#: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/30/message+%23682
+msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/30/message"
 msgid "Only developed one prototype however.\\. Need parts for more.\\. \\v[lore.title.seeker] help?"
 msgstr ""
 
-#. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/27/message #683
+#. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/31/message #683
 #. Prop door-prop SPAWN IF quest.jungleTrader-3-shad_fridge_1.currentTask == 1
 #. SHOW_MSG main.lea @NOD
-#: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/27/message+%23683
-msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/27/message"
-msgid "[nods]"
-msgstr ""
-
-#. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/28/message #684
-#. Prop door-prop SPAWN IF quest.jungleTrader-3-shad_fridge_1.currentTask == 1
-#. SHOW_MSG basin.shad-male-techie @DEFAULT
-#: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/28/message+%23684
-msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/28/message"
-msgid "Good, good.\\. I will give you list.\\. \\c[3]Very precious metal\\c[0] is needed and some other things."
-msgstr ""
-
-#. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/29/message #685
-#. Prop door-prop SPAWN IF quest.jungleTrader-3-shad_fridge_1.currentTask == 1
-#. SHOW_MSG basin.shad-male-techie @DEFAULT
-#: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/29/message+%23685
-msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/29/message"
-msgid "\\c[3]\\v[item.281.name]\\c[0] is held by \\c[3]ghosts in local temples\\c[0], \\c[3]\\v[item.391.name]\\c[0] and \\c[3]\\v[item.409.name]\\c[0] can found in \\c[3]\\v[area.forest.name]\\c[0]."
-msgstr ""
-
-#. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/30/message #686
-#. Prop door-prop SPAWN IF quest.jungleTrader-3-shad_fridge_1.currentTask == 1
-#. SHOW_MSG main.lea @SURPRISED_AWAY
-#: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/30/message+%23686
-msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/30/message"
-msgid "..."
-msgstr ""
-
-#. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/31/message #687
-#. Prop door-prop SPAWN IF quest.jungleTrader-3-shad_fridge_1.currentTask == 1
-#. SHOW_MSG main.lea @NOD
-#: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/31/message+%23687
+#: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/31/message+%23683
 msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/31/message"
 msgid "[nods]"
 msgstr ""
 
-#. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/32/message #688
+#. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/32/message #684
 #. Prop door-prop SPAWN IF quest.jungleTrader-3-shad_fridge_1.currentTask == 1
 #. SHOW_MSG basin.shad-male-techie @DEFAULT
-#: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/32/message+%23688
+#: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/32/message+%23684
 msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/32/message"
+msgid "Good, good.\\. I will give you list.\\. \\c[3]Very precious metal\\c[0] is needed and some other things."
+msgstr ""
+
+#. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/33/message #685
+#. Prop door-prop SPAWN IF quest.jungleTrader-3-shad_fridge_1.currentTask == 1
+#. SHOW_MSG basin.shad-male-techie @DEFAULT
+#: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/33/message+%23685
+msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/33/message"
+msgid "\\c[3]\\v[item.281.name]\\c[0] is held by \\c[3]ghosts in local temples\\c[0], \\c[3]\\v[item.391.name]\\c[0] and \\c[3]\\v[item.409.name]\\c[0] can found in \\c[3]\\v[area.forest.name]\\c[0]."
+msgstr ""
+
+#. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/34/message #686
+#. Prop door-prop SPAWN IF quest.jungleTrader-3-shad_fridge_1.currentTask == 1
+#. SHOW_MSG main.lea @SURPRISED_AWAY
+#: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/34/message+%23686
+msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/34/message"
+msgid "..."
+msgstr ""
+
+#. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/35/message #687
+#. Prop door-prop SPAWN IF quest.jungleTrader-3-shad_fridge_1.currentTask == 1
+#. SHOW_MSG main.lea @NOD
+#: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/35/message+%23687
+msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/35/message"
+msgid "[nods]"
+msgstr ""
+
+#. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/36/message #688
+#. Prop door-prop SPAWN IF quest.jungleTrader-3-shad_fridge_1.currentTask == 1
+#. SHOW_MSG basin.shad-male-techie @DEFAULT
+#: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/36/message+%23688
+msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/36/message"
 msgid "Good.\\. Come back when materials acquired."
 msgstr ""
 
-#. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/33/message #689
+#. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/37/message #689
 #. Prop door-prop SPAWN IF quest.jungleTrader-3-shad_fridge_1.currentTask == 1
 #. SHOW_MSG main.lea @PROUD
-#: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/33/message+%23689
-msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/33/message"
+#: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/37/message+%23689
+msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/37/message"
 msgid "Bye!"
 msgstr ""
 
@@ -8299,7 +8299,7 @@ msgstr ""
 #. SHOW_MSG jungle.female-albino @DEFAULT
 #: data/maps/jungle/clearing/clear-path-03.json+entities/788/settings/event/11/message+%2335
 msgctxt "data/maps/jungle/clearing/clear-path-03.json//entities/788/settings/event/11/message"
-msgid "Hello again!"
+msgid "Hello, again!"
 msgstr ""
 
 #. data/maps/jungle/clearing/clear-path-03.json entities/788/settings/event/12/message #36
@@ -8531,7 +8531,7 @@ msgstr ""
 #. SHOW_MSG jungle.female-albino @DEFAULT
 #: data/maps/jungle/clearing/clear-path-03.json+entities/788/settings/event/66/message+%2363
 msgctxt "data/maps/jungle/clearing/clear-path-03.json//entities/788/settings/event/66/message"
-msgid "The more are gone, the happier everyone will be I imagine."
+msgid "The more are gone, the happier everyone will be, I imagine."
 msgstr ""
 
 #. data/maps/jungle/clearing/clear-path-03.json entities/788/settings/event/67/message #64
@@ -9398,7 +9398,7 @@ msgstr ""
 #. SHOW_MSG jungle.eldress-jungle @DEFAULT
 #: data/maps/jungle/clearing/interior/chiefs-house-01.json+entities/10/settings/npcStates/2/event/2/message+%23700
 msgctxt "data/maps/jungle/clearing/interior/chiefs-house-01.json//entities/10/settings/npcStates/2/event/2/message"
-msgid "Human machines full of dirt and hunger for fuel.\\ This can not become part of shad life."
+msgid "Human machines full of dirt and hunger for fuel.\\. This can not become part of shad life."
 msgstr ""
 
 #. data/maps/jungle/clearing/interior/chiefs-house-01.json entities/10/settings/npcStates/2/event/3/message #702
@@ -15697,166 +15697,174 @@ msgstr ""
 #. SHOW_DREAM_MSG
 #: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/31/text+%231182
 msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/31/text"
-msgid "Insert Flashback stuff here!"
+msgid "A sea of stars..."
 msgstr ""
 
-#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/48/message #1155
+#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/47/text #1204
+#. EventTrigger ctronRememberEvent START IF tmp.ctronEvent
+#. SHOW_DREAM_MSG
+#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/47/text+%231204
+msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/47/text"
+msgid "Thank..."
+msgstr ""
+
+#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/68/message #1155
 #. EventTrigger ctronRememberEvent START IF tmp.ctronEvent
 #. SHOW_MSG main.glasses @SURPRISED
-#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/48/message+%231155
-msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/48/message"
+#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/68/message+%231155
+msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/68/message"
 msgid "Oh..."
 msgstr ""
 
-#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/49/message #1183
+#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/69/message #1183
 #. EventTrigger ctronRememberEvent START IF tmp.ctronEvent
 #. SHOW_MSG main.glasses @PANIC
-#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/49/message+%231183
-msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/49/message"
+#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/69/message+%231183
+msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/69/message"
 msgid "Oh no..."
 msgstr ""
 
-#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/55/message #1184
+#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/75/message #1184
 #. EventTrigger ctronRememberEvent START IF tmp.ctronEvent
 #. SHOW_MSG main.glasses @PANIC
-#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/55/message+%231184
-msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/55/message"
+#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/75/message+%231184
+msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/75/message"
 msgid "I...\\. I need to quickly check something.\n"
 msgstr ""
 
-#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/63/message #1187
+#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/83/message #1187
 #. EventTrigger ctronRememberEvent START IF tmp.ctronEvent
 #. SHOW_MSG main.lea @SURPRISED
-#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/63/message+%231187
-msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/63/message"
+#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/83/message+%231187
+msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/83/message"
 msgid "Wait!"
 msgstr ""
 
-#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/65/message #1188
+#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/85/message #1188
 #. EventTrigger ctronRememberEvent START IF tmp.ctronEvent
 #. SHOW_MSG main.sergey @SURPRISED
-#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/65/message+%231188
-msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/65/message"
+#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/85/message+%231188
+msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/85/message"
 msgid "Uhm,\\. did he just leave?"
 msgstr ""
 
-#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/66/message #1189
+#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/86/message #1189
 #. EventTrigger ctronRememberEvent START IF tmp.ctronEvent
 #. SHOW_MSG main.lea @NOD_NERVOUS
-#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/66/message+%231189
-msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/66/message"
+#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/86/message+%231189
+msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/86/message"
 msgid "[nods]"
 msgstr ""
 
-#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/67/message #1190
+#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/87/message #1190
 #. EventTrigger ctronRememberEvent START IF tmp.ctronEvent
 #. SHOW_MSG main.sergey @WHISTLING
-#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/67/message+%231190
-msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/67/message"
+#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/87/message+%231190
+msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/87/message"
 msgid "Let me quickly check where he is."
 msgstr ""
 
-#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/68/message #1191
+#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/88/message #1191
 #. EventTrigger ctronRememberEvent START IF tmp.ctronEvent
 #. SHOW_MSG main.lea @SURPRISED
-#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/68/message+%231191
-msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/68/message"
+#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/88/message+%231191
+msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/88/message"
 msgid "How?"
 msgstr ""
 
-#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/69/message #1192
+#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/89/message #1192
 #. EventTrigger ctronRememberEvent START IF tmp.ctronEvent
 #. SHOW_MSG main.sergey @NOTIFYING
-#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/69/message+%231192
-msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/69/message"
+#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/89/message+%231192
+msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/89/message"
 msgid "I have access to the locations of all evotars.\n"
 msgstr ""
 
-#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/70/message #1193
+#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/90/message #1193
 #. EventTrigger ctronRememberEvent START IF tmp.ctronEvent
 #. SHOW_MSG main.lea @SURPRISED
-#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/70/message+%231193
-msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/70/message"
+#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/90/message+%231193
+msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/90/message"
 msgid "..."
 msgstr ""
 
-#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/71/message #1194
+#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/91/message #1194
 #. EventTrigger ctronRememberEvent START IF tmp.ctronEvent
 #. SHOW_MSG main.lea @NERVOUS
-#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/71/message+%231194
-msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/71/message"
+#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/91/message+%231194
+msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/91/message"
 msgid "Why?"
 msgstr ""
 
-#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/72/message #1195
+#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/92/message #1195
 #. EventTrigger ctronRememberEvent START IF tmp.ctronEvent
 #. SHOW_MSG main.sergey @WHISTLING
-#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/72/message+%231195
-msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/72/message"
+#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/92/message+%231195
+msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/92/message"
 msgid "Instatainment wanted to have you monitored, just in case.\n"
 msgstr ""
 
-#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/73/message #1196
+#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/93/message #1196
 #. EventTrigger ctronRememberEvent START IF tmp.ctronEvent
 #. SHOW_MSG main.lea @MOPING
-#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/73/message+%231196
-msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/73/message"
+#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/93/message+%231196
+msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/93/message"
 msgid "..."
 msgstr ""
 
-#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/74/message #1197
+#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/94/message #1197
 #. EventTrigger ctronRememberEvent START IF tmp.ctronEvent
 #. SHOW_MSG main.sergey @DOWN
-#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/74/message+%231197
-msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/74/message"
+#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/94/message+%231197
+msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/94/message"
 msgid "Okay, he's currently in \\c[3]Sapphire Ridge\\c[0]."
 msgstr ""
 
-#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/75/message #1198
+#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/95/message #1198
 #. EventTrigger ctronRememberEvent START IF tmp.ctronEvent
 #. SHOW_MSG main.sergey @WORRIED
-#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/75/message+%231198
-msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/75/message"
+#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/95/message+%231198
+msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/95/message"
 msgid "..."
 msgstr ""
 
-#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/76/message #1199
+#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/96/message #1199
 #. EventTrigger ctronRememberEvent START IF tmp.ctronEvent
 #. SHOW_MSG main.sergey @EYES_CLOSED
-#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/76/message+%231199
-msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/76/message"
+#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/96/message+%231199
+msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/96/message"
 msgid "Close to the entrance of \\c[3]Vermillion Wasteland\\c[0]."
 msgstr ""
 
-#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/77/message #1200
+#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/97/message #1200
 #. EventTrigger ctronRememberEvent START IF tmp.ctronEvent
 #. SHOW_MSG main.lea @SURPRISED
-#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/77/message+%231200
-msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/77/message"
+#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/97/message+%231200
+msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/97/message"
 msgid "...!"
 msgstr ""
 
-#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/78/message #1201
+#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/98/message #1201
 #. EventTrigger ctronRememberEvent START IF tmp.ctronEvent
 #. SHOW_MSG main.sergey @SERIOUS
-#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/78/message+%231201
-msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/78/message"
+#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/98/message+%231201
+msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/98/message"
 msgid "You better check on him quickly."
 msgstr ""
 
-#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/79/message #1202
+#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/99/message #1202
 #. EventTrigger ctronRememberEvent START IF tmp.ctronEvent
 #. SHOW_MSG main.lea @NOD
-#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/79/message+%231202
-msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/79/message"
+#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/99/message+%231202
+msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/99/message"
 msgid "[nods]"
 msgstr ""
 
-#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/84/task #1176
+#. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/104/task #1176
 #. EventTrigger ctronRememberEvent START IF tmp.ctronEvent
 #. SET_PERMA_TASK
-#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/84/task+%231176
-msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/84/task"
+#: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/104/task+%231176
+msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/104/task"
 msgid "Look for C'tron in \\c[3]Sapphrie Ridge - Hidden Entrance\\c[0]."
 msgstr ""
 
@@ -18582,85 +18590,85 @@ msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/891/settings/npcSta
 msgid "No"
 msgstr ""
 
-#. data/maps/jungle/grove/grove-path-02.json entities/892/settings/event/11/name #766
+#. data/maps/jungle/grove/grove-path-02.json entities/892/settings/event/12/name #766
 #. EventTrigger questEscort-Start START IF map.questEscort-start
 #. ADD_MSG_PERSON greenies-jungle.female-examiner-white @DEFAULT
-#: data/maps/jungle/grove/grove-path-02.json+entities/892/settings/event/11/name+%23766
-msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/892/settings/event/11/name"
+#: data/maps/jungle/grove/grove-path-02.json+entities/892/settings/event/12/name+%23766
+msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/892/settings/event/12/name"
 msgid "Linde"
 msgstr ""
 
-#. data/maps/jungle/grove/grove-path-02.json entities/892/settings/event/12/message #749
+#. data/maps/jungle/grove/grove-path-02.json entities/892/settings/event/13/message #749
 #. EventTrigger questEscort-Start START IF map.questEscort-start
 #. SHOW_MSG greenies-jungle.female-examiner-white @DEFAULT
-#: data/maps/jungle/grove/grove-path-02.json+entities/892/settings/event/12/message+%23749
-msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/892/settings/event/12/message"
+#: data/maps/jungle/grove/grove-path-02.json+entities/892/settings/event/13/message+%23749
+msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/892/settings/event/13/message"
 msgid "Good, I will mark the first spot I have to investigate!"
 msgstr ""
 
-#. data/maps/jungle/grove/grove-path-02.json entities/892/settings/event/21/name #767
+#. data/maps/jungle/grove/grove-path-02.json entities/892/settings/event/22/name #767
 #. EventTrigger questEscort-Start START IF map.questEscort-start
 #. ADD_MSG_PERSON greenies-jungle.female-examiner-white @DEFAULT
-#: data/maps/jungle/grove/grove-path-02.json+entities/892/settings/event/21/name+%23767
-msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/892/settings/event/21/name"
+#: data/maps/jungle/grove/grove-path-02.json+entities/892/settings/event/22/name+%23767
+msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/892/settings/event/22/name"
 msgid "Linde"
 msgstr ""
 
-#. data/maps/jungle/grove/grove-path-02.json entities/892/settings/event/22/message #745
+#. data/maps/jungle/grove/grove-path-02.json entities/892/settings/event/23/message #745
 #. EventTrigger questEscort-Start START IF map.questEscort-start
 #. SHOW_MSG greenies-jungle.female-examiner-white @DEFAULT
-#: data/maps/jungle/grove/grove-path-02.json+entities/892/settings/event/22/message+%23745
-msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/892/settings/event/22/message"
+#: data/maps/jungle/grove/grove-path-02.json+entities/892/settings/event/23/message+%23745
+msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/892/settings/event/23/message"
 msgid "All set, we can start now!\\. And please protect me from angry critters, okay?"
 msgstr ""
 
-#. data/maps/jungle/grove/grove-path-02.json entities/892/settings/event/23/message #746
+#. data/maps/jungle/grove/grove-path-02.json entities/892/settings/event/24/message #746
 #. EventTrigger questEscort-Start START IF map.questEscort-start
 #. SHOW_MSG main.lea @NOD
-#: data/maps/jungle/grove/grove-path-02.json+entities/892/settings/event/23/message+%23746
-msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/892/settings/event/23/message"
+#: data/maps/jungle/grove/grove-path-02.json+entities/892/settings/event/24/message+%23746
+msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/892/settings/event/24/message"
 msgid "[nods]"
 msgstr ""
 
-#. data/maps/jungle/grove/grove-path-02.json entities/892/settings/event/24/message #781
+#. data/maps/jungle/grove/grove-path-02.json entities/892/settings/event/25/message #781
 #. EventTrigger questEscort-Start START IF map.questEscort-start
 #. SHOW_MSG greenies-jungle.female-examiner-white @DEFAULT
-#: data/maps/jungle/grove/grove-path-02.json+entities/892/settings/event/24/message+%23781
-msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/892/settings/event/24/message"
+#: data/maps/jungle/grove/grove-path-02.json+entities/892/settings/event/25/message+%23781
+msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/892/settings/event/25/message"
 msgid "Alright, let's do this!"
 msgstr ""
 
-#. data/maps/jungle/grove/grove-path-02.json entities/892/settings/event/28/task #747
+#. data/maps/jungle/grove/grove-path-02.json entities/892/settings/event/29/task #747
 #. EventTrigger questEscort-Start START IF map.questEscort-start
 #. SET_TASK
-#: data/maps/jungle/grove/grove-path-02.json+entities/892/settings/event/28/task+%23747
-msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/892/settings/event/28/task"
+#: data/maps/jungle/grove/grove-path-02.json+entities/892/settings/event/29/task+%23747
+msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/892/settings/event/29/task"
 msgid "\\c[3]Protect Linde\\c[0] while she inspects the area"
 msgstr ""
 
-#. data/maps/jungle/grove/grove-path-02.json entities/892/settings/event/33/text #755
+#. data/maps/jungle/grove/grove-path-02.json entities/892/settings/event/34/text #755
 #. EventTrigger questEscort-Start START IF map.questEscort-start
 #. SHOW_AR_MSG
-#: data/maps/jungle/grove/grove-path-02.json+entities/892/settings/event/33/text+%23755
-msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/892/settings/event/33/text"
+#: data/maps/jungle/grove/grove-path-02.json+entities/892/settings/event/34/text+%23755
+msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/892/settings/event/34/text"
 msgid "\\v[tmp.questEscort-pointText]"
 msgstr ""
 
-#. data/maps/jungle/grove/grove-path-02.json entities/892/settings/event/36/guiInfo/settings/text #15
+#. data/maps/jungle/grove/grove-path-02.json entities/892/settings/event/37/guiInfo/settings/text #15
 #. EventTrigger questEscort-Start START IF map.questEscort-start
 #. ADD_GUI
 #. BarWidget
-#: data/maps/jungle/grove/grove-path-02.json+entities/892/settings/event/36/guiInfo/settings/text+%2315
-msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/892/settings/event/36/guiInfo/settings/text"
+#: data/maps/jungle/grove/grove-path-02.json+entities/892/settings/event/37/guiInfo/settings/text+%2315
+msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/892/settings/event/37/guiInfo/settings/text"
 msgid "Escortee Life"
 msgstr ""
 
-#. data/maps/jungle/grove/grove-path-02.json entities/892/settings/event/36/guiInfo/settings/taskTitle #16
+#. data/maps/jungle/grove/grove-path-02.json entities/892/settings/event/37/guiInfo/settings/taskTitle #16
 #. EventTrigger questEscort-Start START IF map.questEscort-start
 #. ADD_GUI
 #. BarWidget
-#: data/maps/jungle/grove/grove-path-02.json+entities/892/settings/event/36/guiInfo/settings/taskTitle+%2316
-msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/892/settings/event/36/guiInfo/settings/taskTitle"
+#: data/maps/jungle/grove/grove-path-02.json+entities/892/settings/event/37/guiInfo/settings/taskTitle+%2316
+msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/892/settings/event/37/guiInfo/settings/taskTitle"
 msgid "Energy"
 msgstr ""
 
@@ -18841,67 +18849,67 @@ msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/904/settings/event/
 msgid "\\v[tmp.questEscort-inspectText]"
 msgstr ""
 
-#. data/maps/jungle/grove/grove-path-02.json entities/904/settings/event/16/message #788
+#. data/maps/jungle/grove/grove-path-02.json entities/904/settings/event/17/message #788
 #. EventTrigger escortInspect3 START IF tmp.questEscort-started && tmp.escort-reachGoal && (tmp.escort-goalCount == 6)
 #. SHOW_SIDE_MSG greenies-jungle.female-examiner-white @DEFAULT
-#: data/maps/jungle/grove/grove-path-02.json+entities/904/settings/event/16/message+%23788
-msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/904/settings/event/16/message"
+#: data/maps/jungle/grove/grove-path-02.json+entities/904/settings/event/17/message+%23788
+msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/904/settings/event/17/message"
 msgid "Hang in there, we're almost done!"
 msgstr ""
 
-#. data/maps/jungle/grove/grove-path-02.json entities/904/settings/event/17/message #770
+#. data/maps/jungle/grove/grove-path-02.json entities/904/settings/event/18/message #770
 #. EventTrigger escortInspect3 START IF tmp.questEscort-started && tmp.escort-reachGoal && (tmp.escort-goalCount == 6)
 #. SHOW_SIDE_MSG main.lea @EXHAUSTED
-#: data/maps/jungle/grove/grove-path-02.json+entities/904/settings/event/17/message+%23770
-msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/904/settings/event/17/message"
+#: data/maps/jungle/grove/grove-path-02.json+entities/904/settings/event/18/message+%23770
+msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/904/settings/event/18/message"
 msgid "..."
 msgstr ""
 
-#. data/maps/jungle/grove/grove-path-02.json entities/910/settings/event/28/name #771
+#. data/maps/jungle/grove/grove-path-02.json entities/910/settings/event/29/name #771
 #. EventTrigger questEscort-END START IF tmp.escort-Inspect3Finished
 #. ADD_MSG_PERSON greenies-jungle.female-examiner-white @DEFAULT
-#: data/maps/jungle/grove/grove-path-02.json+entities/910/settings/event/28/name+%23771
-msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/910/settings/event/28/name"
+#: data/maps/jungle/grove/grove-path-02.json+entities/910/settings/event/29/name+%23771
+msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/910/settings/event/29/name"
 msgid "Linde"
 msgstr ""
 
-#. data/maps/jungle/grove/grove-path-02.json entities/910/settings/event/29/message #761
+#. data/maps/jungle/grove/grove-path-02.json entities/910/settings/event/30/message #761
 #. EventTrigger questEscort-END START IF tmp.escort-Inspect3Finished
 #. SHOW_MSG greenies-jungle.female-examiner-white @DEFAULT
-#: data/maps/jungle/grove/grove-path-02.json+entities/910/settings/event/29/message+%23761
-msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/910/settings/event/29/message"
+#: data/maps/jungle/grove/grove-path-02.json+entities/910/settings/event/30/message+%23761
+msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/910/settings/event/30/message"
 msgid "Okay, I got all the data we need for now.\\. Great job, \\v[lore.title.seeker]!"
 msgstr ""
 
-#. data/maps/jungle/grove/grove-path-02.json entities/910/settings/event/30/message #762
+#. data/maps/jungle/grove/grove-path-02.json entities/910/settings/event/31/message #762
 #. EventTrigger questEscort-END START IF tmp.escort-Inspect3Finished
 #. SHOW_MSG main.lea @PROUD
-#: data/maps/jungle/grove/grove-path-02.json+entities/910/settings/event/30/message+%23762
-msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/910/settings/event/30/message"
+#: data/maps/jungle/grove/grove-path-02.json+entities/910/settings/event/31/message+%23762
+msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/910/settings/event/31/message"
 msgid "..."
 msgstr ""
 
-#. data/maps/jungle/grove/grove-path-02.json entities/910/settings/event/31/message #782
+#. data/maps/jungle/grove/grove-path-02.json entities/910/settings/event/32/message #782
 #. EventTrigger questEscort-END START IF tmp.escort-Inspect3Finished
 #. SHOW_MSG greenies-jungle.female-examiner-white @DEFAULT
-#: data/maps/jungle/grove/grove-path-02.json+entities/910/settings/event/31/message+%23782
-msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/910/settings/event/31/message"
+#: data/maps/jungle/grove/grove-path-02.json+entities/910/settings/event/32/message+%23782
+msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/910/settings/event/32/message"
 msgid "I would love to chat a bit more with you, but I gotta bring the samples back to the HQ.\\. Before more angry critters appear."
 msgstr ""
 
-#. data/maps/jungle/grove/grove-path-02.json entities/910/settings/event/32/message #783
+#. data/maps/jungle/grove/grove-path-02.json entities/910/settings/event/33/message #783
 #. EventTrigger questEscort-END START IF tmp.escort-Inspect3Finished
 #. SHOW_MSG greenies-jungle.female-examiner-white @DEFAULT
-#: data/maps/jungle/grove/grove-path-02.json+entities/910/settings/event/32/message+%23783
-msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/910/settings/event/32/message"
+#: data/maps/jungle/grove/grove-path-02.json+entities/910/settings/event/33/message+%23783
+msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/910/settings/event/33/message"
 msgid "So this means goodbye for now.\\. Thanks again for everything and good luck on your adventures!"
 msgstr ""
 
-#. data/maps/jungle/grove/grove-path-02.json entities/910/settings/event/33/message #784
+#. data/maps/jungle/grove/grove-path-02.json entities/910/settings/event/34/message #784
 #. EventTrigger questEscort-END START IF tmp.escort-Inspect3Finished
 #. SHOW_MSG main.lea @EXCITED
-#: data/maps/jungle/grove/grove-path-02.json+entities/910/settings/event/33/message+%23784
-msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/910/settings/event/33/message"
+#: data/maps/jungle/grove/grove-path-02.json+entities/910/settings/event/34/message+%23784
+msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/910/settings/event/34/message"
 msgid "Bye!"
 msgstr ""
 
@@ -19227,7 +19235,7 @@ msgstr ""
 #. SHOW_MSG basin.don-mick @DEFAULT
 #: data/maps/jungle/infested/infested-path-01.json+entities/696/settings/npcStates/0/event/quest/5/message+%236
 msgctxt "data/maps/jungle/infested/infested-path-01.json//entities/696/settings/npcStates/0/event/quest/5/message"
-msgid "Now come on. Let's get this over with. And stay out of my way, capiche?"
+msgid "Now, come on. Let's get this over with. And stay out of my way, capiche?"
 msgstr ""
 
 #. data/maps/jungle/infested/infested-path-01.json entities/696/settings/npcStates/0/event/quest/18/message #3
@@ -19433,55 +19441,55 @@ msgctxt "data/maps/jungle/infested/infested-path-01.json//entities/726/settings/
 msgid "So, \\v[lore.title.seeker].\\. You ready to do the capture of powercats?"
 msgstr ""
 
-#. data/maps/jungle/infested/infested-path-01.json entities/726/settings/npcStates/1/event/quest/9/0/1/message #759
+#. data/maps/jungle/infested/infested-path-01.json entities/726/settings/npcStates/1/event/quest/9/0/2/message #759
 #. NPC fridgequest-techNephew
 #. IF quest.jungleTrader-3-shad_fridge_1.task.5
 #. SHOW_CHOICE basin.shad-male-techie @DEFAULT
 #. SHOW_MSG main.lea @NOD
-#: data/maps/jungle/infested/infested-path-01.json+entities/726/settings/npcStates/1/event/quest/9/0/1/message+%23759
-msgctxt "data/maps/jungle/infested/infested-path-01.json//entities/726/settings/npcStates/1/event/quest/9/0/1/message"
+#: data/maps/jungle/infested/infested-path-01.json+entities/726/settings/npcStates/1/event/quest/9/0/2/message+%23759
+msgctxt "data/maps/jungle/infested/infested-path-01.json//entities/726/settings/npcStates/1/event/quest/9/0/2/message"
 msgid "[nods]"
 msgstr ""
 
-#. data/maps/jungle/infested/infested-path-01.json entities/726/settings/npcStates/1/event/quest/9/0/2/message #777
+#. data/maps/jungle/infested/infested-path-01.json entities/726/settings/npcStates/1/event/quest/9/0/3/message #777
 #. NPC fridgequest-techNephew
 #. IF quest.jungleTrader-3-shad_fridge_1.task.5
 #. SHOW_CHOICE basin.shad-male-techie @DEFAULT
 #. SHOW_MSG basin.shad-male-techie @DEFAULT
-#: data/maps/jungle/infested/infested-path-01.json+entities/726/settings/npcStates/1/event/quest/9/0/2/message+%23777
-msgctxt "data/maps/jungle/infested/infested-path-01.json//entities/726/settings/npcStates/1/event/quest/9/0/2/message"
+#: data/maps/jungle/infested/infested-path-01.json+entities/726/settings/npcStates/1/event/quest/9/0/3/message+%23777
+msgctxt "data/maps/jungle/infested/infested-path-01.json//entities/726/settings/npcStates/1/event/quest/9/0/3/message"
 msgid "Good!\\. Machine will now lure the right kind of creatures.\\. Be ready!"
 msgstr ""
 
-#. data/maps/jungle/infested/infested-path-01.json entities/726/settings/npcStates/1/event/quest/9/0/6/thenStep/0/guiInfo/settings/text #760
+#. data/maps/jungle/infested/infested-path-01.json entities/726/settings/npcStates/1/event/quest/9/0/7/thenStep/0/guiInfo/settings/text #760
 #. NPC fridgequest-techNephew
 #. IF quest.jungleTrader-3-shad_fridge_1.task.5
 #. SHOW_CHOICE basin.shad-male-techie @DEFAULT
 #. IF false
 #. ADD_GUI
 #. BarWidget
-#: data/maps/jungle/infested/infested-path-01.json+entities/726/settings/npcStates/1/event/quest/9/0/6/thenStep/0/guiInfo/settings/text+%23760
-msgctxt "data/maps/jungle/infested/infested-path-01.json//entities/726/settings/npcStates/1/event/quest/9/0/6/thenStep/0/guiInfo/settings/text"
+#: data/maps/jungle/infested/infested-path-01.json+entities/726/settings/npcStates/1/event/quest/9/0/7/thenStep/0/guiInfo/settings/text+%23760
+msgctxt "data/maps/jungle/infested/infested-path-01.json//entities/726/settings/npcStates/1/event/quest/9/0/7/thenStep/0/guiInfo/settings/text"
 msgid "Capturing"
 msgstr ""
 
-#. data/maps/jungle/infested/infested-path-01.json entities/726/settings/npcStates/1/event/quest/9/0/20/name #778
+#. data/maps/jungle/infested/infested-path-01.json entities/726/settings/npcStates/1/event/quest/9/0/21/name #778
 #. NPC fridgequest-techNephew
 #. IF quest.jungleTrader-3-shad_fridge_1.task.5
 #. SHOW_CHOICE basin.shad-male-techie @DEFAULT
 #. ADD_MSG_PERSON basin.shad-male-techie @DEFAULT
-#: data/maps/jungle/infested/infested-path-01.json+entities/726/settings/npcStates/1/event/quest/9/0/20/name+%23778
-msgctxt "data/maps/jungle/infested/infested-path-01.json//entities/726/settings/npcStates/1/event/quest/9/0/20/name"
+#: data/maps/jungle/infested/infested-path-01.json+entities/726/settings/npcStates/1/event/quest/9/0/21/name+%23778
+msgctxt "data/maps/jungle/infested/infested-path-01.json//entities/726/settings/npcStates/1/event/quest/9/0/21/name"
 msgid "Owo'kyari"
 msgstr ""
 
-#. data/maps/jungle/infested/infested-path-01.json entities/726/settings/npcStates/1/event/quest/9/0/21/message #779
+#. data/maps/jungle/infested/infested-path-01.json entities/726/settings/npcStates/1/event/quest/9/0/22/message #779
 #. NPC fridgequest-techNephew
 #. IF quest.jungleTrader-3-shad_fridge_1.task.5
 #. SHOW_CHOICE basin.shad-male-techie @DEFAULT
 #. SHOW_MSG basin.shad-male-techie @DEFAULT
-#: data/maps/jungle/infested/infested-path-01.json+entities/726/settings/npcStates/1/event/quest/9/0/21/message+%23779
-msgctxt "data/maps/jungle/infested/infested-path-01.json//entities/726/settings/npcStates/1/event/quest/9/0/21/message"
+#: data/maps/jungle/infested/infested-path-01.json+entities/726/settings/npcStates/1/event/quest/9/0/22/message+%23779
+msgctxt "data/maps/jungle/infested/infested-path-01.json//entities/726/settings/npcStates/1/event/quest/9/0/22/message"
 msgid "Happy catching, \\v[lore.title.seeker].\\. I will wait here till one is inside cage."
 msgstr ""
 
@@ -19661,7 +19669,7 @@ msgid "Now other enemies must get mobbed to retrieve cage safely!"
 msgstr ""
 
 #. data/maps/jungle/infested/infested-path-01.json entities/728/settings/event/25/name #780
-#. EventTrigger battleEnd START IF tmp.capturedCats >= 1 && tmp.enemyCounter >= tmp.enemySpawned
+#. EventTrigger battleEnd START IF tmp.capturedEnough && tmp.enemyCounter >= tmp.enemySpawned
 #. ADD_MSG_PERSON basin.shad-male-techie @DEFAULT
 #: data/maps/jungle/infested/infested-path-01.json+entities/728/settings/event/25/name+%23780
 msgctxt "data/maps/jungle/infested/infested-path-01.json//entities/728/settings/event/25/name"
@@ -19669,7 +19677,7 @@ msgid "Owo'kyari"
 msgstr ""
 
 #. data/maps/jungle/infested/infested-path-01.json entities/728/settings/event/26/message #781
-#. EventTrigger battleEnd START IF tmp.capturedCats >= 1 && tmp.enemyCounter >= tmp.enemySpawned
+#. EventTrigger battleEnd START IF tmp.capturedEnough && tmp.enemyCounter >= tmp.enemySpawned
 #. SHOW_MSG basin.shad-male-techie @DEFAULT
 #: data/maps/jungle/infested/infested-path-01.json+entities/728/settings/event/26/message+%23781
 msgctxt "data/maps/jungle/infested/infested-path-01.json//entities/728/settings/event/26/message"
@@ -19677,7 +19685,7 @@ msgid "You did it.\\. Cage actually works well, what pleasant surprise!"
 msgstr ""
 
 #. data/maps/jungle/infested/infested-path-01.json entities/728/settings/event/27/message #756
-#. EventTrigger battleEnd START IF tmp.capturedCats >= 1 && tmp.enemyCounter >= tmp.enemySpawned
+#. EventTrigger battleEnd START IF tmp.capturedEnough && tmp.enemyCounter >= tmp.enemySpawned
 #. SHOW_MSG main.lea @NERVOUS
 #: data/maps/jungle/infested/infested-path-01.json+entities/728/settings/event/27/message+%23756
 msgctxt "data/maps/jungle/infested/infested-path-01.json//entities/728/settings/event/27/message"
@@ -19685,7 +19693,7 @@ msgid "... why?"
 msgstr ""
 
 #. data/maps/jungle/infested/infested-path-01.json entities/728/settings/event/28/message #782
-#. EventTrigger battleEnd START IF tmp.capturedCats >= 1 && tmp.enemyCounter >= tmp.enemySpawned
+#. EventTrigger battleEnd START IF tmp.capturedEnough && tmp.enemyCounter >= tmp.enemySpawned
 #. SHOW_MSG basin.shad-male-techie @DEFAULT
 #: data/maps/jungle/infested/infested-path-01.json+entities/728/settings/event/28/message+%23782
 msgctxt "data/maps/jungle/infested/infested-path-01.json//entities/728/settings/event/28/message"
@@ -19693,7 +19701,7 @@ msgid "Well, is that not fine specimen?\\. Teeming with power, just ideal."
 msgstr ""
 
 #. data/maps/jungle/infested/infested-path-01.json entities/728/settings/event/29/message #751
-#. EventTrigger battleEnd START IF tmp.capturedCats >= 1 && tmp.enemyCounter >= tmp.enemySpawned
+#. EventTrigger battleEnd START IF tmp.capturedEnough && tmp.enemyCounter >= tmp.enemySpawned
 #. SHOW_MSG main.lea @ANNOYED
 #: data/maps/jungle/infested/infested-path-01.json+entities/728/settings/event/29/message+%23751
 msgctxt "data/maps/jungle/infested/infested-path-01.json//entities/728/settings/event/29/message"
@@ -19701,7 +19709,7 @@ msgid "... why??"
 msgstr ""
 
 #. data/maps/jungle/infested/infested-path-01.json entities/728/settings/event/30/message #783
-#. EventTrigger battleEnd START IF tmp.capturedCats >= 1 && tmp.enemyCounter >= tmp.enemySpawned
+#. EventTrigger battleEnd START IF tmp.capturedEnough && tmp.enemyCounter >= tmp.enemySpawned
 #. SHOW_MSG basin.shad-male-techie @DEFAULT
 #: data/maps/jungle/infested/infested-path-01.json+entities/728/settings/event/30/message+%23783
 msgctxt "data/maps/jungle/infested/infested-path-01.json//entities/728/settings/event/30/message"
@@ -19709,7 +19717,7 @@ msgid "Though, we be needing 2 more and they not be catched themselves.\\. So fo
 msgstr ""
 
 #. data/maps/jungle/infested/infested-path-01.json entities/728/settings/event/31/message #784
-#. EventTrigger battleEnd START IF tmp.capturedCats >= 1 && tmp.enemyCounter >= tmp.enemySpawned
+#. EventTrigger battleEnd START IF tmp.capturedEnough && tmp.enemyCounter >= tmp.enemySpawned
 #. SHOW_MSG basin.shad-male-techie @DEFAULT
 #: data/maps/jungle/infested/infested-path-01.json+entities/728/settings/event/31/message+%23784
 msgctxt "data/maps/jungle/infested/infested-path-01.json//entities/728/settings/event/31/message"
@@ -19717,7 +19725,7 @@ msgid "Cage with capture cat will teleport home meanwhile.\\. Wish that was me, 
 msgstr ""
 
 #. data/maps/jungle/infested/infested-path-01.json entities/728/settings/event/32/message #785
-#. EventTrigger battleEnd START IF tmp.capturedCats >= 1 && tmp.enemyCounter >= tmp.enemySpawned
+#. EventTrigger battleEnd START IF tmp.capturedEnough && tmp.enemyCounter >= tmp.enemySpawned
 #. SHOW_MSG main.lea @EXHAUSTED
 #: data/maps/jungle/infested/infested-path-01.json+entities/728/settings/event/32/message+%23785
 msgctxt "data/maps/jungle/infested/infested-path-01.json//entities/728/settings/event/32/message"
@@ -19725,7 +19733,7 @@ msgid "..."
 msgstr ""
 
 #. data/maps/jungle/infested/infested-path-01.json entities/728/settings/event/33/message #754
-#. EventTrigger battleEnd START IF tmp.capturedCats >= 1 && tmp.enemyCounter >= tmp.enemySpawned
+#. EventTrigger battleEnd START IF tmp.capturedEnough && tmp.enemyCounter >= tmp.enemySpawned
 #. SHOW_MSG main.lea @NOD
 #: data/maps/jungle/infested/infested-path-01.json+entities/728/settings/event/33/message+%23754
 msgctxt "data/maps/jungle/infested/infested-path-01.json//entities/728/settings/event/33/message"
@@ -20081,55 +20089,55 @@ msgctxt "data/maps/jungle/infested/infested-path-04.json//entities/823/settings/
 msgid "Feeling ready?"
 msgstr ""
 
-#. data/maps/jungle/infested/infested-path-04.json entities/823/settings/npcStates/0/event/quest/10/0/1/message #759
+#. data/maps/jungle/infested/infested-path-04.json entities/823/settings/npcStates/0/event/quest/10/0/2/message #759
 #. NPC fridgequest-techNephew
 #. IF quest.jungleTrader-3-shad_fridge_1.task.6
 #. SHOW_CHOICE basin.shad-male-techie @DEFAULT
 #. SHOW_MSG main.lea @NOD
-#: data/maps/jungle/infested/infested-path-04.json+entities/823/settings/npcStates/0/event/quest/10/0/1/message+%23759
-msgctxt "data/maps/jungle/infested/infested-path-04.json//entities/823/settings/npcStates/0/event/quest/10/0/1/message"
+#: data/maps/jungle/infested/infested-path-04.json+entities/823/settings/npcStates/0/event/quest/10/0/2/message+%23759
+msgctxt "data/maps/jungle/infested/infested-path-04.json//entities/823/settings/npcStates/0/event/quest/10/0/2/message"
 msgid "[nods]"
 msgstr ""
 
-#. data/maps/jungle/infested/infested-path-04.json entities/823/settings/npcStates/0/event/quest/10/0/2/message #777
+#. data/maps/jungle/infested/infested-path-04.json entities/823/settings/npcStates/0/event/quest/10/0/3/message #777
 #. NPC fridgequest-techNephew
 #. IF quest.jungleTrader-3-shad_fridge_1.task.6
 #. SHOW_CHOICE basin.shad-male-techie @DEFAULT
 #. SHOW_MSG basin.shad-male-techie @DEFAULT
-#: data/maps/jungle/infested/infested-path-04.json+entities/823/settings/npcStates/0/event/quest/10/0/2/message+%23777
-msgctxt "data/maps/jungle/infested/infested-path-04.json//entities/823/settings/npcStates/0/event/quest/10/0/2/message"
+#: data/maps/jungle/infested/infested-path-04.json+entities/823/settings/npcStates/0/event/quest/10/0/3/message+%23777
+msgctxt "data/maps/jungle/infested/infested-path-04.json//entities/823/settings/npcStates/0/event/quest/10/0/3/message"
 msgid "Good!\\. Machines will lure some kitty again.\\. More than last time, so be on guard!"
 msgstr ""
 
-#. data/maps/jungle/infested/infested-path-04.json entities/823/settings/npcStates/0/event/quest/10/0/28/name #778
+#. data/maps/jungle/infested/infested-path-04.json entities/823/settings/npcStates/0/event/quest/10/0/29/name #778
 #. NPC fridgequest-techNephew
 #. IF quest.jungleTrader-3-shad_fridge_1.task.6
 #. SHOW_CHOICE basin.shad-male-techie @DEFAULT
 #. ADD_MSG_PERSON basin.shad-male-techie @DEFAULT
-#: data/maps/jungle/infested/infested-path-04.json+entities/823/settings/npcStates/0/event/quest/10/0/28/name+%23778
-msgctxt "data/maps/jungle/infested/infested-path-04.json//entities/823/settings/npcStates/0/event/quest/10/0/28/name"
+#: data/maps/jungle/infested/infested-path-04.json+entities/823/settings/npcStates/0/event/quest/10/0/29/name+%23778
+msgctxt "data/maps/jungle/infested/infested-path-04.json//entities/823/settings/npcStates/0/event/quest/10/0/29/name"
 msgid "Owo'kyari"
 msgstr ""
 
-#. data/maps/jungle/infested/infested-path-04.json entities/823/settings/npcStates/0/event/quest/10/0/29/message #779
+#. data/maps/jungle/infested/infested-path-04.json entities/823/settings/npcStates/0/event/quest/10/0/30/message #779
 #. NPC fridgequest-techNephew
 #. IF quest.jungleTrader-3-shad_fridge_1.task.6
 #. SHOW_CHOICE basin.shad-male-techie @DEFAULT
 #. SHOW_MSG basin.shad-male-techie @DEFAULT
-#: data/maps/jungle/infested/infested-path-04.json+entities/823/settings/npcStates/0/event/quest/10/0/29/message+%23779
-msgctxt "data/maps/jungle/infested/infested-path-04.json//entities/823/settings/npcStates/0/event/quest/10/0/29/message"
+#: data/maps/jungle/infested/infested-path-04.json+entities/823/settings/npcStates/0/event/quest/10/0/30/message+%23779
+msgctxt "data/maps/jungle/infested/infested-path-04.json//entities/823/settings/npcStates/0/event/quest/10/0/30/message"
 msgid "Happy catching, \\v[lore.title.seeker].\\. I will wait here till one is inside cage."
 msgstr ""
 
-#. data/maps/jungle/infested/infested-path-04.json entities/823/settings/npcStates/0/event/quest/10/0/31/thenStep/0/guiInfo/settings/text #760
+#. data/maps/jungle/infested/infested-path-04.json entities/823/settings/npcStates/0/event/quest/10/0/32/thenStep/0/guiInfo/settings/text #760
 #. NPC fridgequest-techNephew
 #. IF quest.jungleTrader-3-shad_fridge_1.task.6
 #. SHOW_CHOICE basin.shad-male-techie @DEFAULT
 #. IF false
 #. ADD_GUI
 #. BarWidget
-#: data/maps/jungle/infested/infested-path-04.json+entities/823/settings/npcStates/0/event/quest/10/0/31/thenStep/0/guiInfo/settings/text+%23760
-msgctxt "data/maps/jungle/infested/infested-path-04.json//entities/823/settings/npcStates/0/event/quest/10/0/31/thenStep/0/guiInfo/settings/text"
+#: data/maps/jungle/infested/infested-path-04.json+entities/823/settings/npcStates/0/event/quest/10/0/32/thenStep/0/guiInfo/settings/text+%23760
+msgctxt "data/maps/jungle/infested/infested-path-04.json//entities/823/settings/npcStates/0/event/quest/10/0/32/thenStep/0/guiInfo/settings/text"
 msgid "Capturing"
 msgstr ""
 
@@ -20291,7 +20299,7 @@ msgid "Repeat instructions"
 msgstr ""
 
 #. data/maps/jungle/infested/infested-path-04.json entities/826/settings/event/20/name #780
-#. EventTrigger battleEnd START IF tmp.capturedCats >= 2 && tmp.enemyCounter >= tmp.enemySpawned
+#. EventTrigger battleEnd START IF tmp.capturedEnough && tmp.enemyCounter >= tmp.enemySpawned
 #. ADD_MSG_PERSON basin.shad-male-techie @DEFAULT
 #: data/maps/jungle/infested/infested-path-04.json+entities/826/settings/event/20/name+%23780
 msgctxt "data/maps/jungle/infested/infested-path-04.json//entities/826/settings/event/20/name"
@@ -20299,7 +20307,7 @@ msgid "Owo'kyari"
 msgstr ""
 
 #. data/maps/jungle/infested/infested-path-04.json entities/826/settings/event/21/message #781
-#. EventTrigger battleEnd START IF tmp.capturedCats >= 2 && tmp.enemyCounter >= tmp.enemySpawned
+#. EventTrigger battleEnd START IF tmp.capturedEnough && tmp.enemyCounter >= tmp.enemySpawned
 #. SHOW_MSG basin.shad-male-techie @DEFAULT
 #: data/maps/jungle/infested/infested-path-04.json+entities/826/settings/event/21/message+%23781
 msgctxt "data/maps/jungle/infested/infested-path-04.json//entities/826/settings/event/21/message"
@@ -20307,7 +20315,7 @@ msgid "Two more adorable furry powersources, amaze! \\v[lore.title.seeker], grea
 msgstr ""
 
 #. data/maps/jungle/infested/infested-path-04.json entities/826/settings/event/22/message #756
-#. EventTrigger battleEnd START IF tmp.capturedCats >= 2 && tmp.enemyCounter >= tmp.enemySpawned
+#. EventTrigger battleEnd START IF tmp.capturedEnough && tmp.enemyCounter >= tmp.enemySpawned
 #. SHOW_MSG main.lea @SMUG
 #: data/maps/jungle/infested/infested-path-04.json+entities/826/settings/event/22/message+%23756
 msgctxt "data/maps/jungle/infested/infested-path-04.json//entities/826/settings/event/22/message"
@@ -20315,7 +20323,7 @@ msgid "...!"
 msgstr ""
 
 #. data/maps/jungle/infested/infested-path-04.json entities/826/settings/event/23/message #782
-#. EventTrigger battleEnd START IF tmp.capturedCats >= 2 && tmp.enemyCounter >= tmp.enemySpawned
+#. EventTrigger battleEnd START IF tmp.capturedEnough && tmp.enemyCounter >= tmp.enemySpawned
 #. SHOW_MSG basin.shad-male-techie @DEFAULT
 #: data/maps/jungle/infested/infested-path-04.json+entities/826/settings/event/23/message+%23782
 msgctxt "data/maps/jungle/infested/infested-path-04.json//entities/826/settings/event/23/message"
@@ -20323,7 +20331,7 @@ msgid "This enough generators to power important parts of village!"
 msgstr ""
 
 #. data/maps/jungle/infested/infested-path-04.json entities/826/settings/event/24/message #783
-#. EventTrigger battleEnd START IF tmp.capturedCats >= 2 && tmp.enemyCounter >= tmp.enemySpawned
+#. EventTrigger battleEnd START IF tmp.capturedEnough && tmp.enemyCounter >= tmp.enemySpawned
 #. SHOW_MSG basin.shad-male-techie @DEFAULT
 #: data/maps/jungle/infested/infested-path-04.json+entities/826/settings/event/24/message+%23783
 msgctxt "data/maps/jungle/infested/infested-path-04.json//entities/826/settings/event/24/message"
@@ -20331,7 +20339,7 @@ msgid "They be teleporting back to workshop like others.\\. And me follow, final
 msgstr ""
 
 #. data/maps/jungle/infested/infested-path-04.json entities/826/settings/event/25/message #751
-#. EventTrigger battleEnd START IF tmp.capturedCats >= 2 && tmp.enemyCounter >= tmp.enemySpawned
+#. EventTrigger battleEnd START IF tmp.capturedEnough && tmp.enemyCounter >= tmp.enemySpawned
 #. SHOW_MSG main.lea @PROUD
 #: data/maps/jungle/infested/infested-path-04.json+entities/826/settings/event/25/message+%23751
 msgctxt "data/maps/jungle/infested/infested-path-04.json//entities/826/settings/event/25/message"
@@ -20339,7 +20347,7 @@ msgid "..."
 msgstr ""
 
 #. data/maps/jungle/infested/infested-path-04.json entities/826/settings/event/26/message #784
-#. EventTrigger battleEnd START IF tmp.capturedCats >= 2 && tmp.enemyCounter >= tmp.enemySpawned
+#. EventTrigger battleEnd START IF tmp.capturedEnough && tmp.enemyCounter >= tmp.enemySpawned
 #. SHOW_MSG basin.shad-male-techie @DEFAULT
 #: data/maps/jungle/infested/infested-path-04.json+entities/826/settings/event/26/message+%23784
 msgctxt "data/maps/jungle/infested/infested-path-04.json//entities/826/settings/event/26/message"
@@ -20347,7 +20355,7 @@ msgid "Oh, and you visit me there, too, yes?\\. Need to do important speaking ov
 msgstr ""
 
 #. data/maps/jungle/infested/infested-path-04.json entities/826/settings/event/27/message #754
-#. EventTrigger battleEnd START IF tmp.capturedCats >= 2 && tmp.enemyCounter >= tmp.enemySpawned
+#. EventTrigger battleEnd START IF tmp.capturedEnough && tmp.enemyCounter >= tmp.enemySpawned
 #. SHOW_MSG main.lea @NOD
 #: data/maps/jungle/infested/infested-path-04.json+entities/826/settings/event/27/message+%23754
 msgctxt "data/maps/jungle/infested/infested-path-04.json//entities/826/settings/event/27/message"
@@ -20355,7 +20363,7 @@ msgid "[nods]"
 msgstr ""
 
 #. data/maps/jungle/infested/infested-path-04.json entities/826/settings/event/28/message #791
-#. EventTrigger battleEnd START IF tmp.capturedCats >= 2 && tmp.enemyCounter >= tmp.enemySpawned
+#. EventTrigger battleEnd START IF tmp.capturedEnough && tmp.enemyCounter >= tmp.enemySpawned
 #. SHOW_MSG basin.shad-male-techie @DEFAULT
 #: data/maps/jungle/infested/infested-path-04.json+entities/826/settings/event/28/message+%23791
 msgctxt "data/maps/jungle/infested/infested-path-04.json//entities/826/settings/event/28/message"
@@ -20363,7 +20371,7 @@ msgid "Good.\\. We see each other at place!"
 msgstr ""
 
 #. data/maps/jungle/infested/infested-path-04.json entities/826/settings/event/29/message #792
-#. EventTrigger battleEnd START IF tmp.capturedCats >= 2 && tmp.enemyCounter >= tmp.enemySpawned
+#. EventTrigger battleEnd START IF tmp.capturedEnough && tmp.enemyCounter >= tmp.enemySpawned
 #. SHOW_MSG main.lea @EXCITED
 #: data/maps/jungle/infested/infested-path-04.json+entities/826/settings/event/29/message+%23792
 msgctxt "data/maps/jungle/infested/infested-path-04.json//entities/826/settings/event/29/message"
@@ -20415,23 +20423,25 @@ msgctxt "data/maps/jungle/infested/infested-path-04.json//entities/828/settings/
 msgid "Yes!\\. That is one generator powered!\\. Now only one more!"
 msgstr ""
 
-#. data/maps/jungle/infested/infested-path-04.json entities/828/settings/event/2/elseStep/1/thenStep/0/message #793
+#. data/maps/jungle/infested/infested-path-04.json entities/828/settings/event/2/elseStep/1/thenStep/0/thenStep/0/message #793
 #. EventTrigger captureSuccess START IF tmp.captured && tmp.fightCapturingStart
 #. IF NOT tmp.capturedCats == 1
-#. IF tmp.enemyCounter < tmp.enemySpawned && tmp.capturedCats >= 2
+#. IF tmp.capturedCats >= 2
+#. IF tmp.enemyCounter < tmp.enemySpawned
 #. SHOW_SIDE_MSG basin.shad-male-techie @DEFAULT
-#: data/maps/jungle/infested/infested-path-04.json+entities/828/settings/event/2/elseStep/1/thenStep/0/message+%23793
-msgctxt "data/maps/jungle/infested/infested-path-04.json//entities/828/settings/event/2/elseStep/1/thenStep/0/message"
+#: data/maps/jungle/infested/infested-path-04.json+entities/828/settings/event/2/elseStep/1/thenStep/0/thenStep/0/message+%23793
+msgctxt "data/maps/jungle/infested/infested-path-04.json//entities/828/settings/event/2/elseStep/1/thenStep/0/thenStep/0/message"
 msgid "Yes!\\. Enough kitty captured! \\v[lore.title.seeker] again be much diligent!"
 msgstr ""
 
-#. data/maps/jungle/infested/infested-path-04.json entities/828/settings/event/2/elseStep/1/thenStep/1/message #789
+#. data/maps/jungle/infested/infested-path-04.json entities/828/settings/event/2/elseStep/1/thenStep/0/thenStep/1/message #789
 #. EventTrigger captureSuccess START IF tmp.captured && tmp.fightCapturingStart
 #. IF NOT tmp.capturedCats == 1
-#. IF tmp.enemyCounter < tmp.enemySpawned && tmp.capturedCats >= 2
+#. IF tmp.capturedCats >= 2
+#. IF tmp.enemyCounter < tmp.enemySpawned
 #. SHOW_SIDE_MSG basin.shad-male-techie @DEFAULT
-#: data/maps/jungle/infested/infested-path-04.json+entities/828/settings/event/2/elseStep/1/thenStep/1/message+%23789
-msgctxt "data/maps/jungle/infested/infested-path-04.json//entities/828/settings/event/2/elseStep/1/thenStep/1/message"
+#: data/maps/jungle/infested/infested-path-04.json+entities/828/settings/event/2/elseStep/1/thenStep/0/thenStep/1/message+%23789
+msgctxt "data/maps/jungle/infested/infested-path-04.json//entities/828/settings/event/2/elseStep/1/thenStep/0/thenStep/1/message"
 msgid "Now other enemies must get mobbed to retrieve generators safely!"
 msgstr ""
 
@@ -24718,7 +24728,7 @@ msgstr ""
 #. SHOW_MSG greenies.female-researcher @DEFAULT
 #: data/maps/jungle/right/right-path-04.json+entities/605/settings/npcStates/0/event/2/message+%231
 msgctxt "data/maps/jungle/right/right-path-04.json//entities/605/settings/npcStates/0/event/2/message"
-msgid "Hey there sweetheart!"
+msgid "Hey there, sweetheart!"
 msgstr ""
 
 #. data/maps/jungle/right/right-path-04.json entities/605/settings/npcStates/0/event/3/message #2
