@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: crosscode 1.4.0-4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-12 23:33+0000\n"
-"PO-Revision-Date: 2021-03-12 23:33+0000\n"
+"POT-Creation-Date: 2021-03-27 11:09+0000\n"
+"PO-Revision-Date: 2021-03-27 11:09+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -2520,3 +2520,1088 @@ msgstr "Эта дверь, честно говоря, ведёт туда, ку�
 msgctxt "data/maps/arena/faction/rh-turrets-1.json//entities/277/settings/event/4/elseStep/0/elseStep/0/thenStep/1/message"
 msgid "What was that? Did they honestly design it that way?"
 msgstr "Что это было? Они серьёзно спроектировали это таким образом?"
+
+#. extension/post-game/data/arena/ancient-boss-cup.json core/name #1
+#. SOLO_CUP
+#: extension/post-game/data/arena/ancient-boss-cup.json+core/name+%231
+msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//core/name"
+msgid "Ancient Boss Cup"
+msgstr "Кубок боссов Древних"
+
+#. extension/post-game/data/arena/ancient-boss-cup.json core/info #2
+#. SOLO_CUP
+#: extension/post-game/data/arena/ancient-boss-cup.json+core/info+%232
+msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//core/info"
+msgid "Take on stronger versions of boss fights from the \\v[area.final-dng.name]."
+msgstr "Сразитесь с усиленными версиями версиями битв с боссов из храма Ку'леро."
+
+#. extension/post-game/data/arena/ancient-boss-cup.json core/creator #3
+#. SOLO_CUP
+#: extension/post-game/data/arena/ancient-boss-cup.json+core/creator+%233
+msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//core/creator"
+msgid "R.D."
+msgstr "R.D."
+
+#. extension/post-game/data/arena/ancient-boss-cup.json rounds/0/name #65
+#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/0/name+%2365
+msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/0/name"
+msgid "The S.H.I.E.L.D."
+msgstr "Щ.И.Т."
+
+#. extension/post-game/data/arena/ancient-boss-cup.json rounds/0/objective #66
+#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/0/objective+%2366
+msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/0/objective"
+msgid "Beat a stronger version of the \\c[3]\\v[combat.name.final/guardian]\\c[0] boss from the \\c[3]\\v[area.final-dng.name]\\c[0]!"
+msgstr "Победите усиленную версию \\c[3]Статуя-страж\\c[0] из \\c[3]храма Ку'леро\\c[0]!"
+
+#. extension/post-game/data/arena/ancient-boss-cup.json rounds/1/name #67
+#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/1/name+%2367
+msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/1/name"
+msgid "The Hot Lid"
+msgstr "Горячая оболочка"
+
+#. extension/post-game/data/arena/ancient-boss-cup.json rounds/1/objective #68
+#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/1/objective+%2368
+msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/1/objective"
+msgid "Beat a stronger version of the \\c[3]Heat \\v[combat.name.final/guardian]\\c[0] boss from the \\c[3]\\v[area.final-dng.name]\\c[0]!"
+msgstr "Победите усиленную версию \\c[3]Пламенный Статуя-страж\\c[0] из \\c[3]храма Ку'леро\\c[0]!"
+
+#. extension/post-game/data/arena/ancient-boss-cup.json rounds/2/name #69
+#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/2/name+%2369
+msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/2/name"
+msgid "The Cold Plate"
+msgstr "Холодная пластина"
+
+#. extension/post-game/data/arena/ancient-boss-cup.json rounds/2/objective #70
+#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/2/objective+%2370
+msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/2/objective"
+msgid "Beat a stronger version of the \\c[3]Cold \\v[combat.name.final/guardian]\\c[0] boss from the \\c[3]\\v[area.final-dng.name]\\c[0]!"
+msgstr "Победите усиленную версию \\c[3]Холодный Статуя-страж\\c[0] из \\c[3]храма Ку'леро\\c[0]!"
+
+#. extension/post-game/data/arena/ancient-boss-cup.json rounds/3/name #71
+#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/3/name+%2371
+msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/3/name"
+msgid "The Blitz Buckler"
+msgstr "Молниеносный щит"
+
+#. extension/post-game/data/arena/ancient-boss-cup.json rounds/3/objective #72
+#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/3/objective+%2372
+msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/3/objective"
+msgid "Beat a stronger version of the \\c[3]Shock \\v[combat.name.final/guardian]\\c[0] boss from the \\c[3]\\v[area.final-dng.name]\\c[0]!"
+msgstr "Победите усиленную версию \\c[3]Шоковый Статуя-страж\\c[0] из \\c[3]храма Ку'леро\\c[0]!"
+
+#. extension/post-game/data/arena/ancient-boss-cup.json rounds/4/name #73
+#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/4/name+%2373
+msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/4/name"
+msgid "The Wave Wall"
+msgstr "Волновая стена"
+
+#. extension/post-game/data/arena/ancient-boss-cup.json rounds/4/objective #74
+#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/4/objective+%2374
+msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/4/objective"
+msgid "Beat a stronger version of the \\c[3]Wave \\v[combat.name.final/guardian]\\c[0] boss from the \\c[3]\\v[area.final-dng.name]\\c[0]!"
+msgstr "Победите усиленную версию \\c[3]Волновой Статуя-страж\\c[0] из \\c[3]храма Ку'леро\\c[0]!"
+
+#. extension/post-game/data/arena/ancient-boss-cup.json rounds/5/name #75
+#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/5/name+%2375
+msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/5/name"
+msgid "The Monk"
+msgstr "Монах"
+
+#. extension/post-game/data/arena/ancient-boss-cup.json rounds/5/objective #76
+#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/5/objective+%2376
+msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/5/objective"
+msgid "Beat a stronger version of \\c[3]\\v[combat.name.final/gynthar]\\c[0] boss from the \\c[3]\\v[area.final-dng.name]\\c[0]!"
+msgstr "Победите усиленную версию \\c[3]Гинтара\\c[0] из \\c[3]храма Ку'леро\\c[0]!"
+
+#. extension/post-game/data/arena/ancient-boss-cup.json rounds/6/name #77
+#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/6/name+%2377
+msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/6/name"
+msgid "The Ancient Gods"
+msgstr "Древние боги"
+
+#. extension/post-game/data/arena/ancient-boss-cup.json rounds/6/objective #78
+#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/6/objective+%2378
+msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/6/objective"
+msgid "Beat stronger versions of the \\c[3]Ancient Gods\\c[0] from the \\c[3]\\v[area.final-dng.name]\\c[0]!"
+msgstr "Победите усиленную версию \\c[3]Древних богов\\c[0] из \\c[3]храма Ку'леро\\c[0]!"
+
+#. extension/post-game/data/arena/ancient-cup.json core/name #1
+#. SOLO_CUP
+#: extension/post-game/data/arena/ancient-cup.json+core/name+%231
+msgctxt "extension/post-game/data/arena/ancient-cup.json//core/name"
+msgid "Ancient Cup"
+msgstr "Кубок Древних"
+
+#. extension/post-game/data/arena/ancient-cup.json core/info #2
+#. SOLO_CUP
+#: extension/post-game/data/arena/ancient-cup.json+core/info+%232
+msgctxt "extension/post-game/data/arena/ancient-cup.json//core/info"
+msgid "A cup featuring enemies from the \\v[area.beach.name] & the \\v[area.final-dng.name]."
+msgstr "Кубок с участием врагов из Лазурного архипелага и храма Ку'леро."
+
+#. extension/post-game/data/arena/ancient-cup.json core/creator #3
+#. SOLO_CUP
+#: extension/post-game/data/arena/ancient-cup.json+core/creator+%233
+msgctxt "extension/post-game/data/arena/ancient-cup.json//core/creator"
+msgid "R.D."
+msgstr "R.D."
+
+#. extension/post-game/data/arena/ancient-cup.json rounds/0/name #7
+#: extension/post-game/data/arena/ancient-cup.json+rounds/0/name+%237
+msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/0/name"
+msgid "Beach Stars"
+msgstr "Пляжные звёзды"
+
+#. extension/post-game/data/arena/ancient-cup.json rounds/0/objective #8
+#: extension/post-game/data/arena/ancient-cup.json+rounds/0/objective+%238
+msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/0/objective"
+msgid "Defeat enemies hailing from \\c[3]\\v[area.beach.name]\\c[0]!"
+msgstr "Победите врагов родом из \\c[3]Лазурного архипелага\\c[0]!"
+
+#. extension/post-game/data/arena/ancient-cup.json rounds/1/name #51
+#: extension/post-game/data/arena/ancient-cup.json+rounds/1/name+%2351
+msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/1/name"
+msgid "Sun Burners"
+msgstr "Солнечные горелки"
+
+#. extension/post-game/data/arena/ancient-cup.json rounds/1/objective #52
+#: extension/post-game/data/arena/ancient-cup.json+rounds/1/objective+%2352
+msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/1/objective"
+msgid "Defeat enemies hailing from \\c[3]\\v[area.beach.name]\\c[0]!"
+msgstr "Победите врагов родом из \\c[3]Лазурного архипелага\\c[0]!"
+
+#. extension/post-game/data/arena/ancient-cup.json rounds/2/name #53
+#: extension/post-game/data/arena/ancient-cup.json+rounds/2/name+%2353
+msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/2/name"
+msgid "Global Worming"
+msgstr "Глобальное Червотепление"
+
+#. extension/post-game/data/arena/ancient-cup.json rounds/2/objective #54
+#: extension/post-game/data/arena/ancient-cup.json+rounds/2/objective+%2354
+msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/2/objective"
+msgid "Defeat enemies hailing from \\c[3]\\v[area.beach.name]\\c[0]!"
+msgstr "Победите врагов родом из \\c[3]Лазурного архипелага\\c[0]!"
+
+#. extension/post-game/data/arena/ancient-cup.json rounds/3/name #55
+#: extension/post-game/data/arena/ancient-cup.json+rounds/3/name+%2355
+msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/3/name"
+msgid "Shell Fish Business"
+msgstr "Моллюсковый бизнес"
+
+#. extension/post-game/data/arena/ancient-cup.json rounds/3/objective #56
+#: extension/post-game/data/arena/ancient-cup.json+rounds/3/objective+%2356
+msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/3/objective"
+msgid "Defeat enemies hailing from \\c[3]\\v[area.beach.name]\\c[0]!"
+msgstr "Победите врагов родом из \\c[3]Лазурного архипелага\\c[0]!"
+
+#. extension/post-game/data/arena/ancient-cup.json rounds/4/name #57
+#: extension/post-game/data/arena/ancient-cup.json+rounds/4/name+%2357
+msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/4/name"
+msgid "Crystal Breakers"
+msgstr "Разрушители кристаллов"
+
+#. extension/post-game/data/arena/ancient-cup.json rounds/4/objective #58
+#: extension/post-game/data/arena/ancient-cup.json+rounds/4/objective+%2358
+msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/4/objective"
+msgid "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!"
+msgstr "Победите врагов родом из \\c[3]храма Ку'леро\\c[0]!"
+
+#. extension/post-game/data/arena/ancient-cup.json rounds/5/name #61
+#: extension/post-game/data/arena/ancient-cup.json+rounds/5/name+%2361
+msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/5/name"
+msgid "Full Metal Birds"
+msgstr "Цельнометаллические птицы"
+
+#. extension/post-game/data/arena/ancient-cup.json rounds/5/objective #62
+#: extension/post-game/data/arena/ancient-cup.json+rounds/5/objective+%2362
+msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/5/objective"
+msgid "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!"
+msgstr "Победите врагов родом из \\c[3]храма Ку'леро\\c[0]!"
+
+#. extension/post-game/data/arena/ancient-cup.json rounds/6/name #59
+#: extension/post-game/data/arena/ancient-cup.json+rounds/6/name+%2359
+msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/6/name"
+msgid "Spicy Spirits"
+msgstr "Горячие духи"
+
+#. extension/post-game/data/arena/ancient-cup.json rounds/6/objective #60
+#: extension/post-game/data/arena/ancient-cup.json+rounds/6/objective+%2360
+msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/6/objective"
+msgid "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!"
+msgstr "Победите врагов родом из \\c[3]храма Ку'леро\\c[0]!"
+
+#. extension/post-game/data/arena/ancient-cup.json rounds/7/name #63
+#: extension/post-game/data/arena/ancient-cup.json+rounds/7/name+%2363
+msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/7/name"
+msgid "Bad News Bearer"
+msgstr "Носитель плохих новостей"
+
+#. extension/post-game/data/arena/ancient-cup.json rounds/7/objective #64
+#: extension/post-game/data/arena/ancient-cup.json+rounds/7/objective+%2364
+msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/7/objective"
+msgid "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!"
+msgstr "Победите врагов родом из \\c[3]храма Ку'леро\\c[0]!"
+
+#. extension/post-game/data/arena/ancient-cup.json rounds/8/name #67
+#: extension/post-game/data/arena/ancient-cup.json+rounds/8/name+%2367
+msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/8/name"
+msgid "Stacking Crew"
+msgstr "Укладочная бригада"
+
+#. extension/post-game/data/arena/ancient-cup.json rounds/8/objective #68
+#: extension/post-game/data/arena/ancient-cup.json+rounds/8/objective+%2368
+msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/8/objective"
+msgid "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!"
+msgstr "Победите врагов родом из \\c[3]храма Ку'леро\\c[0]!"
+
+#. extension/post-game/data/arena/ancient-team-cup.json core/name #1
+#. TEAM_CUP
+#: extension/post-game/data/arena/ancient-team-cup.json+core/name+%231
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//core/name"
+msgid "Ancient Team Cup"
+msgstr "Командный кубок Древних"
+
+#. extension/post-game/data/arena/ancient-team-cup.json core/info #2
+#. TEAM_CUP
+#: extension/post-game/data/arena/ancient-team-cup.json+core/info+%232
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//core/info"
+msgid "A team cup featuring enemies from the \\v[area.beach.name] & the \\v[area.final-dng.name]."
+msgstr "Командный кубок с участием врагов из Лазурного архипелага и храма Ку'леро."
+
+#. extension/post-game/data/arena/ancient-team-cup.json core/creator #3
+#. TEAM_CUP
+#: extension/post-game/data/arena/ancient-team-cup.json+core/creator+%233
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//core/creator"
+msgid "R.D."
+msgstr "R.D."
+
+#. extension/post-game/data/arena/ancient-team-cup.json rounds/0/name #7
+#: extension/post-game/data/arena/ancient-team-cup.json+rounds/0/name+%237
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/0/name"
+msgid "Beach Stars"
+msgstr "Пляжные звёзды"
+
+#. extension/post-game/data/arena/ancient-team-cup.json rounds/0/objective #8
+#: extension/post-game/data/arena/ancient-team-cup.json+rounds/0/objective+%238
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/0/objective"
+msgid "Defeat enemies hailing from \\c[3]\\v[area.beach.name]\\c[0]!"
+msgstr "Победите врагов родом из \\c[3]Лазурного архипелага\\c[0]!"
+
+#. extension/post-game/data/arena/ancient-team-cup.json rounds/1/name #51
+#: extension/post-game/data/arena/ancient-team-cup.json+rounds/1/name+%2351
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/1/name"
+msgid "Sun Burners"
+msgstr "Солнечные горелки"
+
+#. extension/post-game/data/arena/ancient-team-cup.json rounds/1/objective #52
+#: extension/post-game/data/arena/ancient-team-cup.json+rounds/1/objective+%2352
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/1/objective"
+msgid "Defeat enemies hailing from \\c[3]\\v[area.beach.name]\\c[0]!"
+msgstr "Победите врагов родом из \\c[3]Лазурного архипелага\\c[0]!"
+
+#. extension/post-game/data/arena/ancient-team-cup.json rounds/2/name #53
+#: extension/post-game/data/arena/ancient-team-cup.json+rounds/2/name+%2353
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/2/name"
+msgid "Global Worming"
+msgstr "Глобальное Червотепление"
+
+#. extension/post-game/data/arena/ancient-team-cup.json rounds/2/objective #54
+#: extension/post-game/data/arena/ancient-team-cup.json+rounds/2/objective+%2354
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/2/objective"
+msgid "Defeat enemies hailing from \\c[3]\\v[area.beach.name]\\c[0]!"
+msgstr "Победите врагов родом из \\c[3]Лазурного архипелага\\c[0]!"
+
+#. extension/post-game/data/arena/ancient-team-cup.json rounds/3/name #55
+#: extension/post-game/data/arena/ancient-team-cup.json+rounds/3/name+%2355
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/3/name"
+msgid "Shell Fish Business"
+msgstr "Моллюсковый бизнес"
+
+#. extension/post-game/data/arena/ancient-team-cup.json rounds/3/objective #56
+#: extension/post-game/data/arena/ancient-team-cup.json+rounds/3/objective+%2356
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/3/objective"
+msgid "Defeat enemies hailing from \\c[3]\\v[area.beach.name]\\c[0]!"
+msgstr "Победите врагов родом из \\c[3]Лазурного архипелага\\c[0]!"
+
+#. extension/post-game/data/arena/ancient-team-cup.json rounds/4/name #57
+#: extension/post-game/data/arena/ancient-team-cup.json+rounds/4/name+%2357
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/4/name"
+msgid "Crystal Breakers"
+msgstr "Разрушители кристаллов"
+
+#. extension/post-game/data/arena/ancient-team-cup.json rounds/4/objective #58
+#: extension/post-game/data/arena/ancient-team-cup.json+rounds/4/objective+%2358
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/4/objective"
+msgid "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!"
+msgstr "Победите врагов родом из \\c[3]храма Ку'леро\\c[0]!"
+
+#. extension/post-game/data/arena/ancient-team-cup.json rounds/5/name #61
+#: extension/post-game/data/arena/ancient-team-cup.json+rounds/5/name+%2361
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/5/name"
+msgid "Full Metal Birds"
+msgstr "Цельнометаллические птицы"
+
+#. extension/post-game/data/arena/ancient-team-cup.json rounds/5/objective #62
+#: extension/post-game/data/arena/ancient-team-cup.json+rounds/5/objective+%2362
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/5/objective"
+msgid "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!"
+msgstr "Победите врагов родом из \\c[3]храма Ку'леро\\c[0]!"
+
+#. extension/post-game/data/arena/ancient-team-cup.json rounds/6/name #59
+#: extension/post-game/data/arena/ancient-team-cup.json+rounds/6/name+%2359
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/6/name"
+msgid "Spicy Spirits"
+msgstr "Горячие духи"
+
+#. extension/post-game/data/arena/ancient-team-cup.json rounds/6/objective #60
+#: extension/post-game/data/arena/ancient-team-cup.json+rounds/6/objective+%2360
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/6/objective"
+msgid "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!"
+msgstr "Победите врагов родом из \\c[3]храма Ку'леро\\c[0]!"
+
+#. extension/post-game/data/arena/ancient-team-cup.json rounds/7/name #63
+#: extension/post-game/data/arena/ancient-team-cup.json+rounds/7/name+%2363
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/7/name"
+msgid "Bad News Bearer"
+msgstr "Носитель плохих новостей"
+
+#. extension/post-game/data/arena/ancient-team-cup.json rounds/7/objective #64
+#: extension/post-game/data/arena/ancient-team-cup.json+rounds/7/objective+%2364
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/7/objective"
+msgid "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!"
+msgstr "Победите врагов родом из \\c[3]храма Ку'леро\\c[0]!"
+
+#. extension/post-game/data/arena/apollo-cup.json core/name #4
+#. SOLO_CUSTOM
+#: extension/post-game/data/arena/apollo-cup.json+core/name+%234
+msgctxt "extension/post-game/data/arena/apollo-cup.json//core/name"
+msgid "PvP vs Apollo"
+msgstr "Pvp vs Аполло"
+
+#. extension/post-game/data/arena/apollo-cup.json core/info #1
+#. SOLO_CUSTOM
+#: extension/post-game/data/arena/apollo-cup.json+core/info+%231
+msgctxt "extension/post-game/data/arena/apollo-cup.json//core/info"
+msgid "Fight Apollo in PvP Combat!"
+msgstr "Сразитель с Аполло в PvP Битве!"
+
+#. extension/post-game/data/arena/apollo-cup.json core/creator #28
+#. SOLO_CUSTOM
+#: extension/post-game/data/arena/apollo-cup.json+core/creator+%2328
+msgctxt "extension/post-game/data/arena/apollo-cup.json//core/creator"
+msgid "Apollo"
+msgstr "Аполло"
+
+#. extension/post-game/data/arena/apollo-cup.json rounds/0/name #33
+#. DEFAULT
+#: extension/post-game/data/arena/apollo-cup.json+rounds/0/name+%2333
+msgctxt "extension/post-game/data/arena/apollo-cup.json//rounds/0/name"
+msgid "A Challenge!"
+msgstr "Испытание!"
+
+#. extension/post-game/data/arena/apollo-cup.json rounds/0/objective #34
+#. DEFAULT
+#: extension/post-game/data/arena/apollo-cup.json+rounds/0/objective+%2334
+msgctxt "extension/post-game/data/arena/apollo-cup.json//rounds/0/objective"
+msgid "Let us do combat, Spheromancer Lea!"
+msgstr "Давай сразимся, Сферомант Лея!"
+
+#. extension/post-game/data/arena/kit-cup.json core/name #4
+#. SOLO_CUSTOM
+#: extension/post-game/data/arena/kit-cup.json+core/name+%234
+msgctxt "extension/post-game/data/arena/kit-cup.json//core/name"
+msgid "Some Test Cup"
+msgstr "Какой-то тестовый кубок"
+
+#. extension/post-game/data/arena/kit-cup.json core/info #1
+#. SOLO_CUSTOM
+#: extension/post-game/data/arena/kit-cup.json+core/info+%231
+msgctxt "extension/post-game/data/arena/kit-cup.json//core/info"
+msgid "Unused cup, maybe add some description here. PS: Sergey is a dork!"
+msgstr "Неиспользованный кубок, возможно добавим сюда какое-то описание. П.С.: Сергей осёл!"
+
+#. extension/post-game/data/arena/kit-cup.json core/creator #28
+#. SOLO_CUSTOM
+#: extension/post-game/data/arena/kit-cup.json+core/creator+%2328
+msgctxt "extension/post-game/data/arena/kit-cup.json//core/creator"
+msgid "Alan Smithee"
+msgstr "Алан Смитти"
+
+#. extension/post-game/data/arena/kit-cup.json rounds/0/name #33
+#. DEFAULT
+#: extension/post-game/data/arena/kit-cup.json+rounds/0/name+%2333
+msgctxt "extension/post-game/data/arena/kit-cup.json//rounds/0/name"
+msgid "Round 1 - The only Round"
+msgstr "Раунд 1 - Единственный Раунд"
+
+#. extension/post-game/data/arena/kit-cup.json rounds/0/objective #34
+#. DEFAULT
+#: extension/post-game/data/arena/kit-cup.json+rounds/0/objective+%2334
+msgctxt "extension/post-game/data/arena/kit-cup.json//rounds/0/objective"
+msgid ""
+"Kill the thing.\n"
+"And make sure to remove this cup later."
+msgstr ""
+"Убей существо.\n"
+"И удостоверься удалить этот кубок позже."
+
+#. extension/post-game/data/arena/lily-cup.json core/name #4
+#. SOLO_CUSTOM
+#: extension/post-game/data/arena/lily-cup.json+core/name+%234
+msgctxt "extension/post-game/data/arena/lily-cup.json//core/name"
+msgid "PvP vs Lily"
+msgstr "PvP vs Лили"
+
+#. extension/post-game/data/arena/lily-cup.json core/info #1
+#. SOLO_CUSTOM
+#: extension/post-game/data/arena/lily-cup.json+core/info+%231
+msgctxt "extension/post-game/data/arena/lily-cup.json//core/info"
+msgid "Fight Lily personally in PvP!"
+msgstr "Сразись с Лили лично в PvP!"
+
+#. extension/post-game/data/arena/lily-cup.json core/creator #28
+#. SOLO_CUSTOM
+#: extension/post-game/data/arena/lily-cup.json+core/creator+%2328
+msgctxt "extension/post-game/data/arena/lily-cup.json//core/creator"
+msgid "Lily"
+msgstr "Лили"
+
+#. extension/post-game/data/arena/lily-cup.json rounds/0/name #33
+#. DEFAULT
+#: extension/post-game/data/arena/lily-cup.json+rounds/0/name+%2333
+msgctxt "extension/post-game/data/arena/lily-cup.json//rounds/0/name"
+msgid "Fight me!"
+msgstr "Дерись со мной!"
+
+#. extension/post-game/data/arena/lily-cup.json rounds/0/objective #34
+#. DEFAULT
+#: extension/post-game/data/arena/lily-cup.json+rounds/0/objective+%2334
+msgctxt "extension/post-game/data/arena/lily-cup.json//rounds/0/objective"
+msgid "Defeat me in a duel on top of the arena!"
+msgstr "Победи меня в дуэли на вершине арены!"
+
+#. extension/post-game/data/arena/shizuka-cup.json core/name #4
+#. SOLO_CUSTOM
+#: extension/post-game/data/arena/shizuka-cup.json+core/name+%234
+msgctxt "extension/post-game/data/arena/shizuka-cup.json//core/name"
+msgid "PvP vs Shizuka"
+msgstr "PvP vs Шизука"
+
+#. extension/post-game/data/arena/shizuka-cup.json core/info #1
+#. SOLO_CUSTOM
+#: extension/post-game/data/arena/shizuka-cup.json+core/info+%231
+msgctxt "extension/post-game/data/arena/shizuka-cup.json//core/info"
+msgid "Fight Shizuka in PvP Combat!"
+msgstr "Сразись с Шизукой в PvP Битве!"
+
+#. extension/post-game/data/arena/shizuka-cup.json core/creator #28
+#. SOLO_CUSTOM
+#: extension/post-game/data/arena/shizuka-cup.json+core/creator+%2328
+msgctxt "extension/post-game/data/arena/shizuka-cup.json//core/creator"
+msgid "Shizuka"
+msgstr "Шизука"
+
+#. extension/post-game/data/arena/shizuka-cup.json rounds/0/name #33
+#. DEFAULT
+#: extension/post-game/data/arena/shizuka-cup.json+rounds/0/name+%2333
+msgctxt "extension/post-game/data/arena/shizuka-cup.json//rounds/0/name"
+msgid "A Rematch!"
+msgstr "Рематч!"
+
+#. extension/post-game/data/arena/shizuka-cup.json rounds/0/objective #34
+#. DEFAULT
+#: extension/post-game/data/arena/shizuka-cup.json+rounds/0/objective+%2334
+msgctxt "extension/post-game/data/arena/shizuka-cup.json//rounds/0/objective"
+msgid "Let's see what new tricks you've learned!"
+msgstr "Посмотрим, каким новым приёмам ты научились!"
+
+#. extension/post-game/data/maps/arena/dlc/creator.json entities/178/settings/event/7/guiInfo/settings/taskTitle #8
+#. EventTrigger firstHpCharge START IF tmp.hpCharge.start
+#. ADD_GUI
+#. ScoreHud
+#: extension/post-game/data/maps/arena/dlc/creator.json+entities/178/settings/event/7/guiInfo/settings/taskTitle+%238
+msgctxt "extension/post-game/data/maps/arena/dlc/creator.json//entities/178/settings/event/7/guiInfo/settings/taskTitle"
+msgid "\\c[1]Boss HP x"
+msgstr "\\c[1]Босс HP х"
+
+#. extension/post-game/data/maps/arena/dlc/creator.json entities/178/settings/event/13/guiInfo/settings/taskTitle #9
+#. EventTrigger firstHpCharge START IF tmp.hpCharge.start
+#. ADD_GUI
+#. ScoreHud
+#: extension/post-game/data/maps/arena/dlc/creator.json+entities/178/settings/event/13/guiInfo/settings/taskTitle+%239
+msgctxt "extension/post-game/data/maps/arena/dlc/creator.json//entities/178/settings/event/13/guiInfo/settings/taskTitle"
+msgid "\\c[2]Attack x"
+msgstr "\\c[2]Атака X"
+
+#. extension/post-game/data/maps/arena/dlc/snail.json entities/25/settings/interact/hoverText #855
+#. Prop hackPunch SPAWN IF tmp.pk.hackReady
+#: extension/post-game/data/maps/arena/dlc/snail.json+entities/25/settings/interact/hoverText+%23855
+msgctxt "extension/post-game/data/maps/arena/dlc/snail.json//entities/25/settings/interact/hoverText"
+msgid "Break through!"
+msgstr "Вырваться!"
+
+#. extension/post-game/data/maps/arena/pvp/pvp-apollo.json entities/300/settings/event/12/message #3
+#. EventTrigger Start
+#. SHOW_MSG antagonists.fancyguy @DEFAULT
+#: extension/post-game/data/maps/arena/pvp/pvp-apollo.json+entities/300/settings/event/12/message+%233
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-apollo.json//entities/300/settings/event/12/message"
+msgid "Let us show this crowd the pride of our class, Spheromancer Lea!"
+msgstr "Давай покажем этой толпе гордость нашего класса, Сферомант Лея!"
+
+#. extension/post-game/data/maps/arena/pvp/pvp-apollo.json entities/300/settings/event/13/message #4
+#. EventTrigger Start
+#. SHOW_MSG main.lea @DETERMINED
+#: extension/post-game/data/maps/arena/pvp/pvp-apollo.json+entities/300/settings/event/13/message+%234
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-apollo.json//entities/300/settings/event/13/message"
+msgid "...!"
+msgstr "...!"
+
+#. extension/post-game/data/maps/arena/pvp/pvp-apollo.json entities/304/settings/event/0/thenStep/0/thenStep/0/message #1503
+#. EventTrigger pvpBrake START IF pvp.brake
+#. IF pvp.lastWinPlayer
+#. IF pvp.playerPoints == 1
+#. SHOW_SIDE_MSG antagonists.fancyguy @LECTURING
+#: extension/post-game/data/maps/arena/pvp/pvp-apollo.json+entities/304/settings/event/0/thenStep/0/thenStep/0/message+%231503
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-apollo.json//entities/304/settings/event/0/thenStep/0/thenStep/0/message"
+msgid "Just getting warmed up."
+msgstr "Я просто разогреваюсь."
+
+#. extension/post-game/data/maps/arena/pvp/pvp-apollo.json entities/304/settings/event/0/thenStep/1/thenStep/0/message #445
+#. EventTrigger pvpBrake START IF pvp.brake
+#. IF pvp.lastWinPlayer
+#. IF pvp.playerPoints == 2
+#. SHOW_SIDE_MSG antagonists.fancyguy @SHOUTING
+#: extension/post-game/data/maps/arena/pvp/pvp-apollo.json+entities/304/settings/event/0/thenStep/1/thenStep/0/message+%23445
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-apollo.json//entities/304/settings/event/0/thenStep/1/thenStep/0/message"
+msgid "Let's see how you deal with this!"
+msgstr "Посмотрим как ты справишься с этим!"
+
+#. extension/post-game/data/maps/arena/pvp/pvp-apollo.json entities/304/settings/event/0/thenStep/2/thenStep/0/message #619
+#. EventTrigger pvpBrake START IF pvp.brake
+#. IF pvp.lastWinPlayer
+#. IF pvp.playerPoints == 3
+#. SHOW_SIDE_MSG antagonists.fancyguy @SHOUTING
+#: extension/post-game/data/maps/arena/pvp/pvp-apollo.json+entities/304/settings/event/0/thenStep/2/thenStep/0/message+%23619
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-apollo.json//entities/304/settings/event/0/thenStep/2/thenStep/0/message"
+msgid "Fine...\\. Time to get serious!"
+msgstr "Ладно...\\. Пора сосредоточиться!"
+
+#. extension/post-game/data/maps/arena/pvp/pvp-apollo.json entities/304/settings/event/0/thenStep/3/thenStep/0/message #446
+#. EventTrigger pvpBrake START IF pvp.brake
+#. IF pvp.lastWinPlayer
+#. IF pvp.playerPoints == 4
+#. SHOW_SIDE_MSG antagonists.fancyguy @SHOUTING
+#: extension/post-game/data/maps/arena/pvp/pvp-apollo.json+entities/304/settings/event/0/thenStep/3/thenStep/0/message+%23446
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-apollo.json//entities/304/settings/event/0/thenStep/3/thenStep/0/message"
+msgid "This isn't over yet!!"
+msgstr "Это ещё не конец!!"
+
+#. extension/post-game/data/maps/arena/pvp/pvp-apollo.json entities/304/settings/event/0/elseStep/0/thenStep/0/message #447
+#. EventTrigger pvpBrake START IF pvp.brake
+#. IF NOT pvp.lastWinPlayer
+#. IF pvp.enemyPoints == 1
+#. SHOW_SIDE_MSG antagonists.fancyguy @CONTENT
+#: extension/post-game/data/maps/arena/pvp/pvp-apollo.json+entities/304/settings/event/0/elseStep/0/thenStep/0/message+%23447
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-apollo.json//entities/304/settings/event/0/elseStep/0/thenStep/0/message"
+msgid "This is only the beginning!"
+msgstr "Это только начало!"
+
+#. extension/post-game/data/maps/arena/pvp/pvp-apollo.json entities/304/settings/event/0/elseStep/1/thenStep/0/message #1510
+#. EventTrigger pvpBrake START IF pvp.brake
+#. IF NOT pvp.lastWinPlayer
+#. IF pvp.enemyPoints == 2
+#. SHOW_SIDE_MSG antagonists.fancyguy @SHOUTING
+#: extension/post-game/data/maps/arena/pvp/pvp-apollo.json+entities/304/settings/event/0/elseStep/1/thenStep/0/message+%231510
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-apollo.json//entities/304/settings/event/0/elseStep/1/thenStep/0/message"
+msgid "Is this all Spheromancer Lea?"
+msgstr "Это всё Сфероманты Леи?"
+
+#. extension/post-game/data/maps/arena/pvp/pvp-apollo.json entities/304/settings/event/0/elseStep/2/thenStep/0/thenStep/0/message #1509
+#. EventTrigger pvpBrake START IF pvp.brake
+#. IF NOT pvp.lastWinPlayer
+#. IF pvp.enemyPoints == 3
+#. IF pvp.playerPoints >= 2
+#. SHOW_SIDE_MSG antagonists.fancyguy @SHOUTING
+#: extension/post-game/data/maps/arena/pvp/pvp-apollo.json+entities/304/settings/event/0/elseStep/2/thenStep/0/thenStep/0/message+%231509
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-apollo.json//entities/304/settings/event/0/elseStep/2/thenStep/0/thenStep/0/message"
+msgid "Don't think I'll let my guard down!"
+msgstr "Не думай что я потерял бдительность!"
+
+#. extension/post-game/data/maps/arena/pvp/pvp-apollo.json entities/304/settings/event/0/elseStep/2/thenStep/0/elseStep/0/message #20
+#. EventTrigger pvpBrake START IF pvp.brake
+#. IF NOT pvp.lastWinPlayer
+#. IF pvp.enemyPoints == 3
+#. IF NOT pvp.playerPoints >= 2
+#. SHOW_SIDE_MSG antagonists.fancyguy @SHOUTING
+#: extension/post-game/data/maps/arena/pvp/pvp-apollo.json+entities/304/settings/event/0/elseStep/2/thenStep/0/elseStep/0/message+%2320
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-apollo.json//entities/304/settings/event/0/elseStep/2/thenStep/0/elseStep/0/message"
+msgid "Lea! I know you can do better!"
+msgstr "Лея! Я знаю что ты можешь лучше!"
+
+#. extension/post-game/data/maps/arena/pvp/pvp-apollo.json entities/304/settings/event/0/elseStep/3/thenStep/0/message #450
+#. EventTrigger pvpBrake START IF pvp.brake
+#. IF NOT pvp.lastWinPlayer
+#. IF pvp.enemyPoints == 4
+#. SHOW_SIDE_MSG antagonists.fancyguy @SHOUTING
+#: extension/post-game/data/maps/arena/pvp/pvp-apollo.json+entities/304/settings/event/0/elseStep/3/thenStep/0/message+%23450
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-apollo.json//entities/304/settings/event/0/elseStep/3/thenStep/0/message"
+msgid "It's time to end this, here and now!"
+msgstr "Пора покончить с этим, здесь и сейчас!"
+
+#. extension/post-game/data/maps/arena/pvp/pvp-apollo.json entities/305/settings/event/14/thenStep/1/thenStep/0/message #8
+#. EventTrigger pvpEnd START IF pvp.finished
+#. IF pvp.lastWinPlayer
+#. IF plot.apollo.leaWins >= 1
+#. SHOW_MSG antagonists.fancyguy @LECTURING
+#: extension/post-game/data/maps/arena/pvp/pvp-apollo.json+entities/305/settings/event/14/thenStep/1/thenStep/0/message+%238
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-apollo.json//entities/305/settings/event/14/thenStep/1/thenStep/0/message"
+msgid "You won... \\. yet again."
+msgstr "Ты победила... \\. вновь."
+
+#. extension/post-game/data/maps/arena/pvp/pvp-apollo.json entities/305/settings/event/14/thenStep/1/elseStep/0/message #1511
+#. EventTrigger pvpEnd START IF pvp.finished
+#. IF pvp.lastWinPlayer
+#. IF NOT plot.apollo.leaWins >= 1
+#. SHOW_MSG antagonists.fancyguy @LECTURING
+#: extension/post-game/data/maps/arena/pvp/pvp-apollo.json+entities/305/settings/event/14/thenStep/1/elseStep/0/message+%231511
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-apollo.json//entities/305/settings/event/14/thenStep/1/elseStep/0/message"
+msgid "You won. Not bad!"
+msgstr "Ты победила. Неплохо!"
+
+#. extension/post-game/data/maps/arena/pvp/pvp-apollo.json entities/305/settings/event/14/thenStep/2/message #7
+#. EventTrigger pvpEnd START IF pvp.finished
+#. IF pvp.lastWinPlayer
+#. SHOW_MSG main.lea @SMUG
+#: extension/post-game/data/maps/arena/pvp/pvp-apollo.json+entities/305/settings/event/14/thenStep/2/message+%237
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-apollo.json//entities/305/settings/event/14/thenStep/2/message"
+msgid "Hi!"
+msgstr "Привет!"
+
+#. extension/post-game/data/maps/arena/pvp/pvp-apollo.json entities/305/settings/event/14/thenStep/3/message #23
+#. EventTrigger pvpEnd START IF pvp.finished
+#. IF pvp.lastWinPlayer
+#. SHOW_MSG antagonists.fancyguy @POINTING
+#: extension/post-game/data/maps/arena/pvp/pvp-apollo.json+entities/305/settings/event/14/thenStep/3/message+%2323
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-apollo.json//entities/305/settings/event/14/thenStep/3/message"
+msgid "But, there is always a next time, Spheromancer Lea!"
+msgstr "Но, всегда есть следующий раз, Сферомант Лея!"
+
+#. extension/post-game/data/maps/arena/pvp/pvp-apollo.json entities/305/settings/event/14/elseStep/1/message #9
+#. EventTrigger pvpEnd START IF pvp.finished
+#. IF NOT pvp.lastWinPlayer
+#. SHOW_MSG antagonists.fancyguy @CONTENT
+#: extension/post-game/data/maps/arena/pvp/pvp-apollo.json+entities/305/settings/event/14/elseStep/1/message+%239
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-apollo.json//entities/305/settings/event/14/elseStep/1/message"
+msgid "Got you this time!"
+msgstr "На этот раз я тебя победил!"
+
+#. extension/post-game/data/maps/arena/pvp/pvp-apollo.json entities/305/settings/event/14/elseStep/2/message #24
+#. EventTrigger pvpEnd START IF pvp.finished
+#. IF NOT pvp.lastWinPlayer
+#. SHOW_MSG main.lea @EXHAUSTED
+#: extension/post-game/data/maps/arena/pvp/pvp-apollo.json+entities/305/settings/event/14/elseStep/2/message+%2324
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-apollo.json//entities/305/settings/event/14/elseStep/2/message"
+msgid "..."
+msgstr "..."
+
+#. extension/post-game/data/maps/arena/pvp/pvp-apollo.json entities/305/settings/event/14/elseStep/3/message #26
+#. EventTrigger pvpEnd START IF pvp.finished
+#. IF NOT pvp.lastWinPlayer
+#. SHOW_MSG antagonists.fancyguy @DEFAULT
+#: extension/post-game/data/maps/arena/pvp/pvp-apollo.json+entities/305/settings/event/14/elseStep/3/message+%2326
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-apollo.json//entities/305/settings/event/14/elseStep/3/message"
+msgid "A good fight, Spheromancer Lea!"
+msgstr "Хороший бой, Сферомант Лея!"
+
+#. extension/post-game/data/maps/arena/pvp/pvp-apollo.json entities/305/settings/event/14/elseStep/4/message #27
+#. EventTrigger pvpEnd START IF pvp.finished
+#. IF NOT pvp.lastWinPlayer
+#. SHOW_MSG antagonists.fancyguy @POINTING
+#: extension/post-game/data/maps/arena/pvp/pvp-apollo.json+entities/305/settings/event/14/elseStep/4/message+%2327
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-apollo.json//entities/305/settings/event/14/elseStep/4/message"
+msgid "Should you seek a rematch, you know where to find me!"
+msgstr "Если ты хочешь реванша, ты знаешь где меня найти!"
+
+#. extension/post-game/data/maps/arena/pvp/pvp-apollo.json entities/305/settings/event/14/elseStep/5/message #10
+#. EventTrigger pvpEnd START IF pvp.finished
+#. IF NOT pvp.lastWinPlayer
+#. SHOW_MSG main.lea @DETERMINED
+#: extension/post-game/data/maps/arena/pvp/pvp-apollo.json+entities/305/settings/event/14/elseStep/5/message+%2310
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-apollo.json//entities/305/settings/event/14/elseStep/5/message"
+msgid "...!"
+msgstr "...!"
+
+#. extension/post-game/data/maps/arena/pvp/pvp-lily.json entities/300/settings/event/11/message #3
+#. EventTrigger Start
+#. SHOW_MSG guests.lily @DEFAULT
+#: extension/post-game/data/maps/arena/pvp/pvp-lily.json+entities/300/settings/event/11/message+%233
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-lily.json//entities/300/settings/event/11/message"
+msgid "It's time for our little duel."
+msgstr "Настал час для нашей маленькой дуэли."
+
+#. extension/post-game/data/maps/arena/pvp/pvp-lily.json entities/300/settings/event/12/message #12
+#. EventTrigger Start
+#. SHOW_MSG guests.lily @DEFAULT
+#: extension/post-game/data/maps/arena/pvp/pvp-lily.json+entities/300/settings/event/12/message+%2312
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-lily.json//entities/300/settings/event/12/message"
+msgid "Let's both do our best!"
+msgstr "Давай вместе постараемся!"
+
+#. extension/post-game/data/maps/arena/pvp/pvp-lily.json entities/300/settings/event/13/message #4
+#. EventTrigger Start
+#. SHOW_MSG main.lea @NOD
+#: extension/post-game/data/maps/arena/pvp/pvp-lily.json+entities/300/settings/event/13/message+%234
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-lily.json//entities/300/settings/event/13/message"
+msgid "[nods]"
+msgstr "[кивает]"
+
+#. extension/post-game/data/maps/arena/pvp/pvp-lily.json entities/300/settings/event/14/message #13
+#. EventTrigger Start
+#. SHOW_MSG main.lea @DETERMINED
+#: extension/post-game/data/maps/arena/pvp/pvp-lily.json+entities/300/settings/event/14/message+%2313
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-lily.json//entities/300/settings/event/14/message"
+msgid "Lea!"
+msgstr "Лея!"
+
+#. extension/post-game/data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/thenStep/0/thenStep/0/message #11
+#. EventTrigger pvpBrake START IF pvp.brake
+#. IF pvp.lastWinPlayer
+#. IF pvp.playerPoints == 1
+#. SHOW_SIDE_MSG guests.lily @DEFAULT
+#: extension/post-game/data/maps/arena/pvp/pvp-lily.json+entities/304/settings/event/0/thenStep/0/thenStep/0/message+%2311
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-lily.json//entities/304/settings/event/0/thenStep/0/thenStep/0/message"
+msgid "Not bad! Getting warmed up now!"
+msgstr "Неплохо! Уже разогреваюсь!"
+
+#. extension/post-game/data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/thenStep/1/thenStep/0/message #14
+#. EventTrigger pvpBrake START IF pvp.brake
+#. IF pvp.lastWinPlayer
+#. IF pvp.playerPoints == 2
+#. SHOW_SIDE_MSG guests.lily @DEFAULT
+#: extension/post-game/data/maps/arena/pvp/pvp-lily.json+entities/304/settings/event/0/thenStep/1/thenStep/0/message+%2314
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-lily.json//entities/304/settings/event/0/thenStep/1/thenStep/0/message"
+msgid "Phew, you're quite skilled at this game!"
+msgstr "Фух, а ты довольно опытна в этой игре!"
+
+#. extension/post-game/data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/thenStep/2/thenStep/0/message #15
+#. EventTrigger pvpBrake START IF pvp.brake
+#. IF pvp.lastWinPlayer
+#. IF pvp.playerPoints == 3
+#. SHOW_SIDE_MSG guests.lily @DEFAULT
+#: extension/post-game/data/maps/arena/pvp/pvp-lily.json+entities/304/settings/event/0/thenStep/2/thenStep/0/message+%2315
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-lily.json//entities/304/settings/event/0/thenStep/2/thenStep/0/message"
+msgid "I'll get more serious now!"
+msgstr "Я сейчас стану серьёзнее!"
+
+#. extension/post-game/data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/thenStep/3/thenStep/0/message #16
+#. EventTrigger pvpBrake START IF pvp.brake
+#. IF pvp.lastWinPlayer
+#. IF pvp.playerPoints == 4
+#. SHOW_SIDE_MSG guests.lily @DEFAULT
+#: extension/post-game/data/maps/arena/pvp/pvp-lily.json+entities/304/settings/event/0/thenStep/3/thenStep/0/message+%2316
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-lily.json//entities/304/settings/event/0/thenStep/3/thenStep/0/message"
+msgid "Oh no..."
+msgstr "О нет..."
+
+#. extension/post-game/data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/elseStep/0/thenStep/0/message #17
+#. EventTrigger pvpBrake START IF pvp.brake
+#. IF NOT pvp.lastWinPlayer
+#. IF pvp.enemyPoints == 1
+#. SHOW_SIDE_MSG guests.lily @DEFAULT
+#: extension/post-game/data/maps/arena/pvp/pvp-lily.json+entities/304/settings/event/0/elseStep/0/thenStep/0/message+%2317
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-lily.json//entities/304/settings/event/0/elseStep/0/thenStep/0/message"
+msgid "That round goes to me!"
+msgstr "Этот раунд за мной!"
+
+#. extension/post-game/data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/elseStep/1/thenStep/0/message #18
+#. EventTrigger pvpBrake START IF pvp.brake
+#. IF NOT pvp.lastWinPlayer
+#. IF pvp.enemyPoints == 2
+#. SHOW_SIDE_MSG guests.lily @DEFAULT
+#: extension/post-game/data/maps/arena/pvp/pvp-lily.json+entities/304/settings/event/0/elseStep/1/thenStep/0/message+%2318
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-lily.json//entities/304/settings/event/0/elseStep/1/thenStep/0/message"
+msgid "I think I got a hang for this now!"
+msgstr "Думаю, теперь я в этом разобралась!"
+
+#. extension/post-game/data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/elseStep/2/thenStep/0/thenStep/0/message #19
+#. EventTrigger pvpBrake START IF pvp.brake
+#. IF NOT pvp.lastWinPlayer
+#. IF pvp.enemyPoints == 3
+#. IF pvp.playerPoints >= 2
+#. SHOW_SIDE_MSG guests.lily @DEFAULT
+#: extension/post-game/data/maps/arena/pvp/pvp-lily.json+entities/304/settings/event/0/elseStep/2/thenStep/0/thenStep/0/message+%2319
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-lily.json//entities/304/settings/event/0/elseStep/2/thenStep/0/thenStep/0/message"
+msgid "Wow, what a battle!"
+msgstr "Вау, какая битва!"
+
+#. extension/post-game/data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/elseStep/2/thenStep/0/elseStep/0/message #20
+#. EventTrigger pvpBrake START IF pvp.brake
+#. IF NOT pvp.lastWinPlayer
+#. IF pvp.enemyPoints == 3
+#. IF NOT pvp.playerPoints >= 2
+#. SHOW_SIDE_MSG guests.lily @DEFAULT
+#: extension/post-game/data/maps/arena/pvp/pvp-lily.json+entities/304/settings/event/0/elseStep/2/thenStep/0/elseStep/0/message+%2320
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-lily.json//entities/304/settings/event/0/elseStep/2/thenStep/0/elseStep/0/message"
+msgid "Come on! I know you can do better!"
+msgstr "Давай же! Я знаю, ты можешь лучше!"
+
+#. extension/post-game/data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/elseStep/3/thenStep/0/message #21
+#. EventTrigger pvpBrake START IF pvp.brake
+#. IF NOT pvp.lastWinPlayer
+#. IF pvp.enemyPoints == 4
+#. SHOW_SIDE_MSG guests.lily @DEFAULT
+#: extension/post-game/data/maps/arena/pvp/pvp-lily.json+entities/304/settings/event/0/elseStep/3/thenStep/0/message+%2321
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-lily.json//entities/304/settings/event/0/elseStep/3/thenStep/0/message"
+msgid "One more point...!"
+msgstr "Ещё одно очко...!"
+
+#. extension/post-game/data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/thenStep/1/message #8
+#. EventTrigger pvpEnd START IF pvp.finished
+#. IF pvp.lastWinPlayer
+#. SHOW_MSG guests.lily @DEFAULT
+#: extension/post-game/data/maps/arena/pvp/pvp-lily.json+entities/305/settings/event/14/thenStep/1/message+%238
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-lily.json//entities/305/settings/event/14/thenStep/1/message"
+msgid "Phew...\\. you won."
+msgstr "Фух...\\. ты победила."
+
+#. extension/post-game/data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/thenStep/2/message #7
+#. EventTrigger pvpEnd START IF pvp.finished
+#. IF pvp.lastWinPlayer
+#. SHOW_MSG main.lea @SMUG
+#: extension/post-game/data/maps/arena/pvp/pvp-lily.json+entities/305/settings/event/14/thenStep/2/message+%237
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-lily.json//entities/305/settings/event/14/thenStep/2/message"
+msgid "Hi!"
+msgstr "Привет!"
+
+#. extension/post-game/data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/thenStep/3/message #22
+#. EventTrigger pvpEnd START IF pvp.finished
+#. IF pvp.lastWinPlayer
+#. SHOW_MSG guests.lily @DEFAULT
+#: extension/post-game/data/maps/arena/pvp/pvp-lily.json+entities/305/settings/event/14/thenStep/3/message+%2322
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-lily.json//entities/305/settings/event/14/thenStep/3/message"
+msgid "That was great, though."
+msgstr "Всё же, это было отлично."
+
+#. extension/post-game/data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/thenStep/4/message #23
+#. EventTrigger pvpEnd START IF pvp.finished
+#. IF pvp.lastWinPlayer
+#. SHOW_MSG guests.lily @DEFAULT
+#: extension/post-game/data/maps/arena/pvp/pvp-lily.json+entities/305/settings/event/14/thenStep/4/message+%2323
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-lily.json//entities/305/settings/event/14/thenStep/4/message"
+msgid "I'm looking forward to my rematch!"
+msgstr "Жду не дождусь своего реванша!"
+
+#. extension/post-game/data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/elseStep/1/message #9
+#. EventTrigger pvpEnd START IF pvp.finished
+#. IF NOT pvp.lastWinPlayer
+#. SHOW_MSG guests.lily @DEFAULT
+#: extension/post-game/data/maps/arena/pvp/pvp-lily.json+entities/305/settings/event/14/elseStep/1/message+%239
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-lily.json//entities/305/settings/event/14/elseStep/1/message"
+msgid "I got it, yay!"
+msgstr "У меня получилось, ура!"
+
+#. extension/post-game/data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/elseStep/2/message #24
+#. EventTrigger pvpEnd START IF pvp.finished
+#. IF NOT pvp.lastWinPlayer
+#. SHOW_MSG main.lea @EXHAUSTED
+#: extension/post-game/data/maps/arena/pvp/pvp-lily.json+entities/305/settings/event/14/elseStep/2/message+%2324
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-lily.json//entities/305/settings/event/14/elseStep/2/message"
+msgid "..."
+msgstr "..."
+
+#. extension/post-game/data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/elseStep/3/message #25
+#. EventTrigger pvpEnd START IF pvp.finished
+#. IF NOT pvp.lastWinPlayer
+#. SHOW_MSG main.lea @NOD
+#: extension/post-game/data/maps/arena/pvp/pvp-lily.json+entities/305/settings/event/14/elseStep/3/message+%2325
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-lily.json//entities/305/settings/event/14/elseStep/3/message"
+msgid "[nods]"
+msgstr "[кивает]"
+
+#. extension/post-game/data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/elseStep/4/message #26
+#. EventTrigger pvpEnd START IF pvp.finished
+#. IF NOT pvp.lastWinPlayer
+#. SHOW_MSG guests.lily @DEFAULT
+#: extension/post-game/data/maps/arena/pvp/pvp-lily.json+entities/305/settings/event/14/elseStep/4/message+%2326
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-lily.json//entities/305/settings/event/14/elseStep/4/message"
+msgid "That was a good fight, Lea!"
+msgstr "Это был хороший бой, Лея!"
+
+#. extension/post-game/data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/elseStep/5/message #27
+#. EventTrigger pvpEnd START IF pvp.finished
+#. IF NOT pvp.lastWinPlayer
+#. SHOW_MSG guests.lily @DEFAULT
+#: extension/post-game/data/maps/arena/pvp/pvp-lily.json+entities/305/settings/event/14/elseStep/5/message+%2327
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-lily.json//entities/305/settings/event/14/elseStep/5/message"
+msgid "Just hit me up, when you're ready for rematch!"
+msgstr "Просто позвони мне, когда будешь готова к реваншу!"
+
+#. extension/post-game/data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/elseStep/6/message #10
+#. EventTrigger pvpEnd START IF pvp.finished
+#. IF NOT pvp.lastWinPlayer
+#. SHOW_MSG main.lea @DETERMINED
+#: extension/post-game/data/maps/arena/pvp/pvp-lily.json+entities/305/settings/event/14/elseStep/6/message+%2310
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-lily.json//entities/305/settings/event/14/elseStep/6/message"
+msgid "...!"
+msgstr "...!"
+
+#. extension/post-game/data/maps/arena/pvp/pvp-shizuka.json entities/300/settings/event/12/message #3
+#. EventTrigger Start
+#. SHOW_MSG main.shizuka @BADASS
+#: extension/post-game/data/maps/arena/pvp/pvp-shizuka.json+entities/300/settings/event/12/message+%233
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-shizuka.json//entities/300/settings/event/12/message"
+msgid "Don't think I will hold back on you!"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/pvp/pvp-shizuka.json entities/300/settings/event/13/message #4
+#. EventTrigger Start
+#. SHOW_MSG main.lea @DETERMINED
+#: extension/post-game/data/maps/arena/pvp/pvp-shizuka.json+entities/300/settings/event/13/message+%234
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-shizuka.json//entities/300/settings/event/13/message"
+msgid "...!"
+msgstr "...!"
+
+#. extension/post-game/data/maps/arena/pvp/pvp-shizuka.json entities/304/settings/event/1/thenStep/0/thenStep/0/message #1503
+#. EventTrigger pvpBrake START IF pvp.brake
+#. IF pvp.lastWinPlayer
+#. IF pvp.playerPoints == 1
+#. SHOW_SIDE_MSG main.shizuka @EVIL_GRIN
+#: extension/post-game/data/maps/arena/pvp/pvp-shizuka.json+entities/304/settings/event/1/thenStep/0/thenStep/0/message+%231503
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-shizuka.json//entities/304/settings/event/1/thenStep/0/thenStep/0/message"
+msgid "Not bad, not bad."
+msgstr ""
+
+#. extension/post-game/data/maps/arena/pvp/pvp-shizuka.json entities/304/settings/event/1/thenStep/1/thenStep/0/message #445
+#. EventTrigger pvpBrake START IF pvp.brake
+#. IF pvp.lastWinPlayer
+#. IF pvp.playerPoints == 2
+#. SHOW_SIDE_MSG main.shizuka @BADASS
+#: extension/post-game/data/maps/arena/pvp/pvp-shizuka.json+entities/304/settings/event/1/thenStep/1/thenStep/0/message+%23445
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-shizuka.json//entities/304/settings/event/1/thenStep/1/thenStep/0/message"
+msgid "Well well, looks like you improved a lot."
+msgstr ""
+
+#. extension/post-game/data/maps/arena/pvp/pvp-shizuka.json entities/304/settings/event/1/thenStep/2/thenStep/0/message #619
+#. EventTrigger pvpBrake START IF pvp.brake
+#. IF pvp.lastWinPlayer
+#. IF pvp.playerPoints == 3
+#. SHOW_SIDE_MSG main.shizuka @SUSPICIOUS
+#: extension/post-game/data/maps/arena/pvp/pvp-shizuka.json+entities/304/settings/event/1/thenStep/2/thenStep/0/message+%23619
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-shizuka.json//entities/304/settings/event/1/thenStep/2/thenStep/0/message"
+msgid "I won't let you off the hook this easy."
+msgstr ""
+
+#. extension/post-game/data/maps/arena/pvp/pvp-shizuka.json entities/304/settings/event/1/thenStep/3/thenStep/0/message #446
+#. EventTrigger pvpBrake START IF pvp.brake
+#. IF pvp.lastWinPlayer
+#. IF pvp.playerPoints == 4
+#. SHOW_SIDE_MSG main.shizuka @ANGRY
+#: extension/post-game/data/maps/arena/pvp/pvp-shizuka.json+entities/304/settings/event/1/thenStep/3/thenStep/0/message+%23446
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-shizuka.json//entities/304/settings/event/1/thenStep/3/thenStep/0/message"
+msgid "It's not over until it's over."
+msgstr ""
+
+#. extension/post-game/data/maps/arena/pvp/pvp-shizuka.json entities/304/settings/event/1/elseStep/0/thenStep/0/message #447
+#. EventTrigger pvpBrake START IF pvp.brake
+#. IF NOT pvp.lastWinPlayer
+#. IF pvp.enemyPoints == 1
+#. SHOW_SIDE_MSG main.shizuka @SMUG
+#: extension/post-game/data/maps/arena/pvp/pvp-shizuka.json+entities/304/settings/event/1/elseStep/0/thenStep/0/message+%23447
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-shizuka.json//entities/304/settings/event/1/elseStep/0/thenStep/0/message"
+msgid "Still got it."
+msgstr ""
+
+#. extension/post-game/data/maps/arena/pvp/pvp-shizuka.json entities/304/settings/event/1/elseStep/1/thenStep/0/message #1510
+#. EventTrigger pvpBrake START IF pvp.brake
+#. IF NOT pvp.lastWinPlayer
+#. IF pvp.enemyPoints == 2
+#. SHOW_SIDE_MSG main.shizuka @BADASS
+#: extension/post-game/data/maps/arena/pvp/pvp-shizuka.json+entities/304/settings/event/1/elseStep/1/thenStep/0/message+%231510
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-shizuka.json//entities/304/settings/event/1/elseStep/1/thenStep/0/message"
+msgid "Come on Lea, don't hold back on me."
+msgstr ""
+
+#. extension/post-game/data/maps/arena/pvp/pvp-shizuka.json entities/304/settings/event/1/elseStep/2/thenStep/0/thenStep/0/message #1509
+#. EventTrigger pvpBrake START IF pvp.brake
+#. IF NOT pvp.lastWinPlayer
+#. IF pvp.enemyPoints == 3
+#. IF pvp.playerPoints >= 2
+#. SHOW_SIDE_MSG main.shizuka @BADASS
+#: extension/post-game/data/maps/arena/pvp/pvp-shizuka.json+entities/304/settings/event/1/elseStep/2/thenStep/0/thenStep/0/message+%231509
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-shizuka.json//entities/304/settings/event/1/elseStep/2/thenStep/0/thenStep/0/message"
+msgid "This is what I'm talking about!"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/pvp/pvp-shizuka.json entities/304/settings/event/1/elseStep/3/thenStep/0/message #450
+#. EventTrigger pvpBrake START IF pvp.brake
+#. IF NOT pvp.lastWinPlayer
+#. IF pvp.enemyPoints == 4
+#. SHOW_SIDE_MSG main.shizuka @BADASS
+#: extension/post-game/data/maps/arena/pvp/pvp-shizuka.json+entities/304/settings/event/1/elseStep/3/thenStep/0/message+%23450
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-shizuka.json//entities/304/settings/event/1/elseStep/3/thenStep/0/message"
+msgid "One final push!"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/pvp/pvp-shizuka.json entities/305/settings/event/14/thenStep/1/message #8
+#. EventTrigger pvpEnd START IF pvp.finished
+#. IF pvp.lastWinPlayer
+#. SHOW_MSG main.shizuka @EVIL_GRIN
+#: extension/post-game/data/maps/arena/pvp/pvp-shizuka.json+entities/305/settings/event/14/thenStep/1/message+%238
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-shizuka.json//entities/305/settings/event/14/thenStep/1/message"
+msgid "I really need to step up my game."
+msgstr ""
+
+#. extension/post-game/data/maps/arena/pvp/pvp-shizuka.json entities/305/settings/event/14/thenStep/2/message #7
+#. EventTrigger pvpEnd START IF pvp.finished
+#. IF pvp.lastWinPlayer
+#. SHOW_MSG main.lea @PROUD
+#: extension/post-game/data/maps/arena/pvp/pvp-shizuka.json+entities/305/settings/event/14/thenStep/2/message+%237
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-shizuka.json//entities/305/settings/event/14/thenStep/2/message"
+msgid "...!"
+msgstr "...!"
+
+#. extension/post-game/data/maps/arena/pvp/pvp-shizuka.json entities/305/settings/event/14/thenStep/3/message #23
+#. EventTrigger pvpEnd START IF pvp.finished
+#. IF pvp.lastWinPlayer
+#. SHOW_MSG main.shizuka @SMUG
+#: extension/post-game/data/maps/arena/pvp/pvp-shizuka.json+entities/305/settings/event/14/thenStep/3/message+%2323
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-shizuka.json//entities/305/settings/event/14/thenStep/3/message"
+msgid "I'll make sure to not let it happen again."
+msgstr ""
+
+#. extension/post-game/data/maps/arena/pvp/pvp-shizuka.json entities/305/settings/event/14/elseStep/1/message #9
+#. EventTrigger pvpEnd START IF pvp.finished
+#. IF NOT pvp.lastWinPlayer
+#. SHOW_MSG main.shizuka @BADASS
+#: extension/post-game/data/maps/arena/pvp/pvp-shizuka.json+entities/305/settings/event/14/elseStep/1/message+%239
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-shizuka.json//entities/305/settings/event/14/elseStep/1/message"
+msgid "Ha! Seems like you still got a lot to learn."
+msgstr ""
+
+#. extension/post-game/data/maps/arena/pvp/pvp-shizuka.json entities/305/settings/event/14/elseStep/2/message #24
+#. EventTrigger pvpEnd START IF pvp.finished
+#. IF NOT pvp.lastWinPlayer
+#. SHOW_MSG main.lea @EXHAUSTED
+#: extension/post-game/data/maps/arena/pvp/pvp-shizuka.json+entities/305/settings/event/14/elseStep/2/message+%2324
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-shizuka.json//entities/305/settings/event/14/elseStep/2/message"
+msgid "..."
+msgstr "..."
+
+#. extension/post-game/data/maps/arena/pvp/pvp-shizuka.json entities/305/settings/event/14/elseStep/3/message #26
+#. EventTrigger pvpEnd START IF pvp.finished
+#. IF NOT pvp.lastWinPlayer
+#. SHOW_MSG main.shizuka @BRIGHT
+#: extension/post-game/data/maps/arena/pvp/pvp-shizuka.json+entities/305/settings/event/14/elseStep/3/message+%2326
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-shizuka.json//entities/305/settings/event/14/elseStep/3/message"
+msgid "Don't worry, there's always a next time!"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/pvp/pvp-shizuka.json entities/305/settings/event/14/elseStep/4/message #10
+#. EventTrigger pvpEnd START IF pvp.finished
+#. IF NOT pvp.lastWinPlayer
+#. SHOW_MSG main.lea @EXCITED
+#: extension/post-game/data/maps/arena/pvp/pvp-shizuka.json+entities/305/settings/event/14/elseStep/4/message+%2310
+msgctxt "extension/post-game/data/maps/arena/pvp/pvp-shizuka.json//entities/305/settings/event/14/elseStep/4/message"
+msgid "...!"
+msgstr "...!"

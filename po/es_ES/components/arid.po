@@ -2,16 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: crosscode 1.4.0-4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-12 23:30+0000\n"
-"PO-Revision-Date: 2021-03-27 07:17+0000\n"
-"Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
-"Language-Team: Spanish <https://weblate.crosscode.ru/projects/crosscode/arid/es/>\n"
+"POT-Creation-Date: 2021-03-27 11:09+0000\n"
+"PO-Revision-Date: 2021-03-27 11:09+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.4\n"
+"Plural-Forms: \n"
+"X-Generator: crosscode-localization-engine 0.0.0\n"
 
 #. data/areas/arid.json name #1
 #: data/areas/arid.json+name+%231
@@ -14662,3 +14662,2377 @@ msgstr "¡Gracias!\n"
 msgctxt "data/maps/arid/town-2.json//entities/465/settings/blockEvent/32/message"
 msgid "Onwards!"
 msgstr "¡Vamos!"
+
+#. extension/post-game/data/maps/arid/lab/elevator-eg.json entities/10/settings/destinations/0/label #1
+#. Elevator elevator
+#: extension/post-game/data/maps/arid/lab/elevator-eg.json+entities/10/settings/destinations/0/label+%231
+msgctxt "extension/post-game/data/maps/arid/lab/elevator-eg.json//entities/10/settings/destinations/0/label"
+msgid "Down"
+msgstr "Abajo"
+
+#. extension/post-game/data/maps/arid/lab/ug-01-entrance.json entities/1/settings/destinations/0/label #1
+#. Elevator elevator
+#: extension/post-game/data/maps/arid/lab/ug-01-entrance.json+entities/1/settings/destinations/0/label+%231
+msgctxt "extension/post-game/data/maps/arid/lab/ug-01-entrance.json//entities/1/settings/destinations/0/label"
+msgid "Up"
+msgstr "Arriba"
+
+#. extension/post-game/data/maps/arid/lab/ug-01-entrance.json entities/18/settings/event/2/message #2
+#. EventTrigger EntranceComment
+#. SHOW_SIDE_MSG main.emilie @SUSPICIOUS
+#: extension/post-game/data/maps/arid/lab/ug-01-entrance.json+entities/18/settings/event/2/message+%232
+msgctxt "extension/post-game/data/maps/arid/lab/ug-01-entrance.json//entities/18/settings/event/2/message"
+msgid "Mon dieu...\\. what's with this creepy atmosphere?"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-01-entrance.json entities/18/settings/event/3/message #3
+#. EventTrigger EntranceComment
+#. SHOW_SIDE_MSG main.glasses @THOUGHTFUL
+#: extension/post-game/data/maps/arid/lab/ug-01-entrance.json+entities/18/settings/event/3/message+%233
+msgctxt "extension/post-game/data/maps/arid/lab/ug-01-entrance.json//entities/18/settings/event/3/message"
+msgid "That was part of the point, I think."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-01-entrance.json entities/27/settings/event/14/message #5
+#. EventTrigger BattleEnd START IF tmp.enemyDefeat >= 5
+#. SHOW_MSG main.emilie @BROKEN
+#: extension/post-game/data/maps/arid/lab/ug-01-entrance.json+entities/27/settings/event/14/message+%235
+msgctxt "extension/post-game/data/maps/arid/lab/ug-01-entrance.json//entities/27/settings/event/14/message"
+msgid "Whoa, those rhinos were creepy, too!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-01-entrance.json entities/27/settings/event/16/message #6
+#. EventTrigger BattleEnd START IF tmp.enemyDefeat >= 5
+#. SHOW_MSG main.glasses @EXHAUSTED
+#: extension/post-game/data/maps/arid/lab/ug-01-entrance.json+entities/27/settings/event/16/message+%236
+msgctxt "extension/post-game/data/maps/arid/lab/ug-01-entrance.json//entities/27/settings/event/16/message"
+msgid "I'm sort of surprised that enemies are still here."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-01-entrance.json entities/27/settings/event/18/message #7
+#. EventTrigger BattleEnd START IF tmp.enemyDefeat >= 5
+#. SHOW_MSG main.sergey @WORRIED
+#: extension/post-game/data/maps/arid/lab/ug-01-entrance.json+entities/27/settings/event/18/message+%237
+msgctxt "extension/post-game/data/maps/arid/lab/ug-01-entrance.json//entities/27/settings/event/18/message"
+msgid "Yes, me too."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-01-entrance.json entities/27/settings/event/19/message #8
+#. EventTrigger BattleEnd START IF tmp.enemyDefeat >= 5
+#. SHOW_MSG main.sergey @ROLL_EYES
+#: extension/post-game/data/maps/arid/lab/ug-01-entrance.json+entities/27/settings/event/19/message+%238
+msgctxt "extension/post-game/data/maps/arid/lab/ug-01-entrance.json//entities/27/settings/event/19/message"
+msgid "I suppose this part was hidden well enough, so they just missed them.\n"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-01-entrance.json entities/27/settings/event/20/message #9
+#. EventTrigger BattleEnd START IF tmp.enemyDefeat >= 5
+#. SHOW_MSG main.glasses @WORRIED
+#: extension/post-game/data/maps/arid/lab/ug-01-entrance.json+entities/27/settings/event/20/message+%239
+msgctxt "extension/post-game/data/maps/arid/lab/ug-01-entrance.json//entities/27/settings/event/20/message"
+msgid "Can't you just disable them?"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-01-entrance.json entities/27/settings/event/21/message #10
+#. EventTrigger BattleEnd START IF tmp.enemyDefeat >= 5
+#. SHOW_MSG main.sergey @WORRIED
+#: extension/post-game/data/maps/arid/lab/ug-01-entrance.json+entities/27/settings/event/21/message+%2310
+msgctxt "extension/post-game/data/maps/arid/lab/ug-01-entrance.json//entities/27/settings/event/21/message"
+msgid "I would rather not.\n"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-01-entrance.json entities/27/settings/event/23/message #11
+#. EventTrigger BattleEnd START IF tmp.enemyDefeat >= 5
+#. SHOW_MSG main.lea @MOPING
+#: extension/post-game/data/maps/arid/lab/ug-01-entrance.json+entities/27/settings/event/23/message+%2311
+msgctxt "extension/post-game/data/maps/arid/lab/ug-01-entrance.json//entities/27/settings/event/23/message"
+msgid "Why?"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-01-entrance.json entities/27/settings/event/24/message #12
+#. EventTrigger BattleEnd START IF tmp.enemyDefeat >= 5
+#. SHOW_MSG main.sergey @SERIOUS
+#: extension/post-game/data/maps/arid/lab/ug-01-entrance.json+entities/27/settings/event/24/message+%2312
+msgctxt "extension/post-game/data/maps/arid/lab/ug-01-entrance.json//entities/27/settings/event/24/message"
+msgid "We are not allowed to be here, so I would prefer to leave as few traces as possible."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-01-entrance.json entities/27/settings/event/25/message #13
+#. EventTrigger BattleEnd START IF tmp.enemyDefeat >= 5
+#. SHOW_MSG main.glasses @EXHAUSTED
+#: extension/post-game/data/maps/arid/lab/ug-01-entrance.json+entities/27/settings/event/25/message+%2313
+msgctxt "extension/post-game/data/maps/arid/lab/ug-01-entrance.json//entities/27/settings/event/25/message"
+msgid "Makes sense..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-01-entrance.json entities/27/settings/event/26/message #14
+#. EventTrigger BattleEnd START IF tmp.enemyDefeat >= 5
+#. SHOW_MSG main.emilie @SUSPICIOUS
+#: extension/post-game/data/maps/arid/lab/ug-01-entrance.json+entities/27/settings/event/26/message+%2314
+msgctxt "extension/post-game/data/maps/arid/lab/ug-01-entrance.json//entities/27/settings/event/26/message"
+msgid "More creepy enemies, I guess.\\. Oh well...\n"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-01-entrance.json entities/28/settings/event/6/message #4
+#. EventTrigger Wave2 START IF tmp.enemyDefeat >= 3
+#. SHOW_SIDE_MSG main.emilie @SHOCKED
+#: extension/post-game/data/maps/arid/lab/ug-01-entrance.json+entities/28/settings/event/6/message+%234
+msgctxt "extension/post-game/data/maps/arid/lab/ug-01-entrance.json//entities/28/settings/event/6/message"
+msgid "What the heck are those?!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-02-hallway.json entities/1/settings/blockEvent/1/message #1606
+#. Door door-left
+#. SHOW_MSG main.glasses @THOUGHTFUL
+#: extension/post-game/data/maps/arid/lab/ug-02-hallway.json+entities/1/settings/blockEvent/1/message+%231606
+msgctxt "extension/post-game/data/maps/arid/lab/ug-02-hallway.json//entities/1/settings/blockEvent/1/message"
+msgid "No, not this way..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-02-hallway.json entities/1/settings/blockEvent/5/message #1607
+#. Door door-left
+#. SHOW_MSG main.glasses @DEFAULT
+#: extension/post-game/data/maps/arid/lab/ug-02-hallway.json+entities/1/settings/blockEvent/5/message+%231607
+msgctxt "extension/post-game/data/maps/arid/lab/ug-02-hallway.json//entities/1/settings/blockEvent/5/message"
+msgid "To the new meeting room: M04-02."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-02-hallway.json entities/24/settings/event/2/message #2
+#. EventTrigger Intro
+#. SHOW_MSG main.emilie @ASTONISHED
+#: extension/post-game/data/maps/arid/lab/ug-02-hallway.json+entities/24/settings/event/2/message+%232
+msgctxt "extension/post-game/data/maps/arid/lab/ug-02-hallway.json//entities/24/settings/event/2/message"
+msgid "That's quite the hallway!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-02-hallway.json entities/24/settings/event/3/message #3
+#. EventTrigger Intro
+#. SHOW_MSG main.emilie @CURIOUS
+#: extension/post-game/data/maps/arid/lab/ug-02-hallway.json+entities/24/settings/event/3/message+%233
+msgctxt "extension/post-game/data/maps/arid/lab/ug-02-hallway.json//entities/24/settings/event/3/message"
+msgid "I didn't expect such a huge place.\n"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-02-hallway.json entities/24/settings/event/7/message #4
+#. EventTrigger Intro
+#. SHOW_MSG main.glasses @THOUGHTFUL
+#: extension/post-game/data/maps/arid/lab/ug-02-hallway.json+entities/24/settings/event/7/message+%234
+msgctxt "extension/post-game/data/maps/arid/lab/ug-02-hallway.json//entities/24/settings/event/7/message"
+msgid "It's not as huge as it seems. "
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-02-hallway.json entities/24/settings/event/8/message #5
+#. EventTrigger Intro
+#. SHOW_MSG main.glasses @TOWARD
+#: extension/post-game/data/maps/arid/lab/ug-02-hallway.json+entities/24/settings/event/8/message+%235
+msgctxt "extension/post-game/data/maps/arid/lab/ug-02-hallway.json//entities/24/settings/event/8/message"
+msgid "Lots of doors with nothing behind them."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-02-hallway.json entities/24/settings/event/9/message #6
+#. EventTrigger Intro
+#. SHOW_MSG main.glasses @DOWN
+#: extension/post-game/data/maps/arid/lab/ug-02-hallway.json+entities/24/settings/event/9/message+%236
+msgctxt "extension/post-game/data/maps/arid/lab/ug-02-hallway.json//entities/24/settings/event/9/message"
+msgid "Let's have a look around."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-02-hallway.json entities/26/settings/event/1/message #1602
+#. EventTrigger TronnySideTalk3 START IF plot.line >= 50100
+#. SHOW_SIDE_MSG main.glasses @THOUGHTFUL
+#: extension/post-game/data/maps/arid/lab/ug-02-hallway.json+entities/26/settings/event/1/message+%231602
+msgctxt "extension/post-game/data/maps/arid/lab/ug-02-hallway.json//entities/26/settings/event/1/message"
+msgid "But then... I found a way to escape."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-03-old-meeting-room.json entities/30/settings/event/5/message #2
+#. EventTrigger RoomText
+#. SHOW_MSG main.glasses @PONDERING
+#: extension/post-game/data/maps/arid/lab/ug-03-old-meeting-room.json+entities/30/settings/event/5/message+%232
+msgctxt "extension/post-game/data/maps/arid/lab/ug-03-old-meeting-room.json//entities/30/settings/event/5/message"
+msgid "This..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-03-old-meeting-room.json entities/30/settings/event/6/message #3
+#. EventTrigger RoomText
+#. SHOW_MSG main.glasses @THOUGHTFUL
+#: extension/post-game/data/maps/arid/lab/ug-03-old-meeting-room.json+entities/30/settings/event/6/message+%233
+msgctxt "extension/post-game/data/maps/arid/lab/ug-03-old-meeting-room.json//entities/30/settings/event/6/message"
+msgid "This was the old meeting room."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-03-old-meeting-room.json entities/30/settings/event/7/message #4
+#. EventTrigger RoomText
+#. SHOW_MSG main.glasses @DEFAULT
+#: extension/post-game/data/maps/arid/lab/ug-03-old-meeting-room.json+entities/30/settings/event/7/message+%234
+msgctxt "extension/post-game/data/maps/arid/lab/ug-03-old-meeting-room.json//entities/30/settings/event/7/message"
+msgid "Where I discussed things with Satoshi, Gautham, and Shizuka."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-03-old-meeting-room.json entities/30/settings/event/8/message #5
+#. EventTrigger RoomText
+#. SHOW_MSG main.glasses @SAD
+#: extension/post-game/data/maps/arid/lab/ug-03-old-meeting-room.json+entities/30/settings/event/8/message+%235
+msgctxt "extension/post-game/data/maps/arid/lab/ug-03-old-meeting-room.json//entities/30/settings/event/8/message"
+msgid "Yeah..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-03-old-meeting-room.json entities/30/settings/event/9/message #6
+#. EventTrigger RoomText
+#. SHOW_MSG main.glasses @EXHAUSTED
+#: extension/post-game/data/maps/arid/lab/ug-03-old-meeting-room.json+entities/30/settings/event/9/message+%236
+msgctxt "extension/post-game/data/maps/arid/lab/ug-03-old-meeting-room.json//entities/30/settings/event/9/message"
+msgid "We had a lot of...\\. difficult discussions here."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-03-old-meeting-room.json entities/30/settings/event/11/message #7
+#. EventTrigger RoomText
+#. SHOW_MSG main.lea @SAD
+#: extension/post-game/data/maps/arid/lab/ug-03-old-meeting-room.json+entities/30/settings/event/11/message+%237
+msgctxt "extension/post-game/data/maps/arid/lab/ug-03-old-meeting-room.json//entities/30/settings/event/11/message"
+msgid "..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-03-old-meeting-room.json entities/30/settings/event/18/message #9
+#. EventTrigger RoomText
+#. SHOW_MSG main.glasses @DEFAULT
+#: extension/post-game/data/maps/arid/lab/ug-03-old-meeting-room.json+entities/30/settings/event/18/message+%239
+msgctxt "extension/post-game/data/maps/arid/lab/ug-03-old-meeting-room.json//entities/30/settings/event/18/message"
+msgid "This room hasn't been used ever since Satoshi moved back to the old hideout."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-03-old-meeting-room.json entities/30/settings/event/19/message #10
+#. EventTrigger RoomText
+#. SHOW_MSG main.glasses @DOWN
+#: extension/post-game/data/maps/arid/lab/ug-03-old-meeting-room.json+entities/30/settings/event/19/message+%2310
+msgctxt "extension/post-game/data/maps/arid/lab/ug-03-old-meeting-room.json//entities/30/settings/event/19/message"
+msgid "There's not much to see here."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/6/message #2
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.glasses @THOUGHTFUL
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/6/message+%232
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/6/message"
+msgid "...Yes."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/7/message #3
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.glasses @SLEEP
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/7/message+%233
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/7/message"
+msgid "This was my workplace."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/18/message #8
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.glasses @DEFAULT
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/18/message+%238
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/18/message"
+msgid "This terminal..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/19/message #9
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.glasses @DOWN
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/19/message+%239
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/19/message"
+msgid "Here is where I gathered my tasks."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/20/message #10
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.glasses @SLEEP
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/20/message+%2310
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/20/message"
+msgid "I had a list of targets I had to watch.\n"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/21/message #11
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.glasses @TOWARD
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/21/message+%2311
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/21/message"
+msgid "I submitted all the intel I found...\n"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/22/message #12
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.glasses @SAD
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/22/message+%2312
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/22/message"
+msgid "Collaborated with our spies outside the game..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/23/message #13
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.glasses @SAD
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/23/message+%2313
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/23/message"
+msgid "..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/24/message #14
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.glasses @TOWARD
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/24/message+%2314
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/24/message"
+msgid "Occasionally I also submitted IDs of additional players to turn into Evotars."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/25/message #15
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.glasses @THOUGHTFUL
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/25/message+%2315
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/25/message"
+msgid "Fellow players of our investigation targets, and so forth."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/26/message #16
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.glasses @PONDERING
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/26/message+%2316
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/26/message"
+msgid "Having friends around actually helped their memories to return faster."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/34/message #17
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.emilie @CURIOUS
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/34/message+%2317
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/34/message"
+msgid "Huh...\\. alright?"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/35/message #18
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.emilie @UNCERTAIN
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/35/message+%2318
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/35/message"
+msgid "So I might have ended up here as well because of Lea or Lukas?"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/36/message #19
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.glasses @SAD
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/36/message+%2319
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/36/message"
+msgid "Potentially...\\. yes. "
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/37/message #20
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.glasses @EXHAUSTED
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/37/message+%2320
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/37/message"
+msgid "Fortunately, you didn't."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/47/message #7
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.glasses @THOUGHTFUL
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/47/message+%237
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/47/message"
+msgid "I remember...\\. that I saw a recording in this room.\n"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/54/message #21
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.glasses @EXHAUSTED
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/54/message+%2321
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/54/message"
+msgid "It seems I can't play it again.\\. That's too bad.\n"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/57/message #22
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.glasses @SAD
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/57/message+%2322
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/57/message"
+msgid "You would have seen my real self."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/59/message #23
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.emilie @CURIOUS
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/59/message+%2323
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/59/message"
+msgid "The real Sidwell?"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/60/message #24
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.glasses @TOWARD
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/60/message+%2324
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/60/message"
+msgid "Yes..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/66/message #25
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.glasses @PONDERING
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/66/message+%2325
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/66/message"
+msgid "I saw it here when my work started."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/67/message #26
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.glasses @THOUGHTFUL
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/67/message+%2326
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/67/message"
+msgid "A video I recorded for myself."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/68/message #27
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.glasses @TOWARD
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/68/message+%2327
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/68/message"
+msgid "A reminder for my tasks within the game.\n"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/69/message #28
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.glasses @DEFAULT
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/69/message+%2328
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/69/message"
+msgid "Which people I had to interrogate..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/70/message #29
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.glasses @DOWN
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/70/message+%2329
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/70/message"
+msgid "Things we already knew about them..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/73/message #30
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.lea @THINKING
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/73/message+%2330
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/73/message"
+msgid "..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/74/message #31
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.lea @NERVOUS
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/74/message+%2331
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/74/message"
+msgid "Why?"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/76/message #32
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.emilie @MOPING
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/76/message+%2332
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/76/message"
+msgid "Oui, isn't that weird?"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/77/message #33
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.emilie @SUSPICIOUS
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/77/message+%2333
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/77/message"
+msgid "You were just Sidwell playing CrossWorlds, non?"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/78/message #34
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.emilie @CURIOUS
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/78/message+%2334
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/78/message"
+msgid "Why remind yourself about that with a video recording?"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/80/message #35
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.glasses @PONDERING
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/80/message+%2335
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/80/message"
+msgid "I...\\. I wasn't just playing CrossWorlds the normal way."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/85/message #36
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.glasses @PAIN
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/85/message+%2336
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/85/message"
+msgid "I was using a...\\. \\c[3]special connection\\c[0]."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/86/message #37
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.glasses @BLANK
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/86/message+%2337
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/86/message"
+msgid "Playing the game...\\. \\c[3]continuously\\c[0]."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/87/message #38
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.glasses @PANIC
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/87/message+%2338
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/87/message"
+msgid "Or...\\. was I...?"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/101/text #1182
+#. EventTrigger FirstVisit
+#. SHOW_DREAM_MSG
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/101/text+%231182
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/101/text"
+msgid "Thank you for your contribution."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/118/message #1506
+#. EventTrigger FirstVisit
+#. SHOW_SIDE_MSG main.glasses @PAIN
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/118/message+%231506
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/118/message"
+msgid "Ahhhhhh!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/124/message #40
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.emilie @SHOCKED
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/124/message+%2340
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/124/message"
+msgid "Tronny!!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/126/message #1507
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.glasses @PAIN
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/126/message+%231507
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/126/message"
+msgid "Saw it again...\\. that person..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/128/message #1508
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.emilie @BROKEN
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/128/message+%231508
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/128/message"
+msgid "Just...\\. breathe slowly or something, okay?"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/130/message #1509
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.lea @NERVOUS
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/130/message+%231509
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/130/message"
+msgid "..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/131/message #1510
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.glasses @EXHAUSTED
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/131/message+%231510
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/131/message"
+msgid "..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/140/message #1511
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.glasses @SAD
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/140/message+%231511
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/140/message"
+msgid "This is frustrating..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/142/message #1512
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.lea @THINKING
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/142/message+%231512
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/142/message"
+msgid "..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/143/message #1513
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.lea @NERVOUS
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/143/message+%231513
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/143/message"
+msgid "Meet...\\. where?"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/144/message #1514
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.glasses @THOUGHTFUL
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/144/message+%231514
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/144/message"
+msgid "Huh?"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/146/message #1515
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.emilie @CURIOUS
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/146/message+%231515
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/146/message"
+msgid "Right...\\. You said you met that person in Evotarground."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/147/message #1516
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.emilie @UP
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/147/message+%231516
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/147/message"
+msgid "Was it in this room?"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/148/message #1517
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.glasses @PONDERING
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/148/message+%231517
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/148/message"
+msgid "No...\\. It was somewhere else."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/149/message #1518
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.glasses @SURPRISED
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/149/message+%231518
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/149/message"
+msgid "Right, I remember!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/159/text #47
+#. EventTrigger FirstVisit
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/159/text+%2347
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/159/text"
+msgid "Section unlocked."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/164/message #1519
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.glasses @DEFAULT
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/164/message+%231519
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/164/message"
+msgid "That room is not accessible by default.\\. I just opened it."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/28/settings/event/165/message #1520
+#. EventTrigger FirstVisit
+#. SHOW_MSG main.glasses @SMILE
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/28/settings/event/165/message+%231520
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/28/settings/event/165/message"
+msgid "Let's go there!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/30/settings/event/12/message #1522
+#. EventTrigger Flashback START IF plot.line >= 49800
+#. SHOW_MSG main.glasses @THOUGHTFUL
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/30/settings/event/12/message+%231522
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/30/settings/event/12/message"
+msgid "The message I recorded for myself..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/30/settings/event/13/message #1523
+#. EventTrigger Flashback START IF plot.line >= 49800
+#. SHOW_MSG main.glasses @SLEEP
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/30/settings/event/13/message+%231523
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/30/settings/event/13/message"
+msgid "It told me about a prolonged playing session."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/30/settings/event/14/message #1524
+#. EventTrigger Flashback START IF plot.line >= 49800
+#. SHOW_MSG main.glasses @DEFAULT
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/30/settings/event/14/message+%231524
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/30/settings/event/14/message"
+msgid "That I used a special connection to the game."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/30/settings/event/15/message #1525
+#. EventTrigger Flashback START IF plot.line >= 49800
+#. SHOW_MSG main.glasses @SAD
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/30/settings/event/15/message+%231525
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/30/settings/event/15/message"
+msgid "And that my memory would be fuzzy because of it."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/30/settings/event/21/message #1526
+#. EventTrigger Flashback START IF plot.line >= 49800
+#. SHOW_MSG main.glasses @SAD
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/30/settings/event/21/message+%231526
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/30/settings/event/21/message"
+msgid "I...\\. just accepted it. \n"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/30/settings/event/22/message #1578
+#. EventTrigger Flashback START IF plot.line >= 49800
+#. SHOW_MSG main.glasses @PONDERING
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/30/settings/event/22/message+%231578
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/30/settings/event/22/message"
+msgid "And did as I told myself."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/30/settings/event/33/message #1585
+#. EventTrigger Flashback START IF plot.line >= 49800
+#. SHOW_MSG main.glasses @SLEEP
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/30/settings/event/33/message+%231585
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/30/settings/event/33/message"
+msgid "Days and weeks went by..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/30/settings/event/34/message #1579
+#. EventTrigger Flashback START IF plot.line >= 49800
+#. SHOW_MSG main.glasses @THOUGHTFUL
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/30/settings/event/34/message+%231579
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/30/settings/event/34/message"
+msgid "Spying on other players."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/30/settings/event/35/message #1580
+#. EventTrigger Flashback START IF plot.line >= 49800
+#. SHOW_MSG main.glasses @TOWARD
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/30/settings/event/35/message+%231580
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/30/settings/event/35/message"
+msgid "Sending intel, coordinating interrogations."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/30/settings/event/36/message #1581
+#. EventTrigger Flashback START IF plot.line >= 49800
+#. SHOW_MSG main.glasses @PONDERING
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/30/settings/event/36/message+%231581
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/30/settings/event/36/message"
+msgid "But as my memory returned,\\. I realized..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/30/settings/event/38/message #1527
+#. EventTrigger Flashback START IF plot.line >= 49800
+#. SHOW_MSG main.glasses @BLANK
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/30/settings/event/38/message+%231527
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/30/settings/event/38/message"
+msgid "That I was Sidwell no longer."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/30/settings/event/39/message #1582
+#. EventTrigger Flashback START IF plot.line >= 49800
+#. SHOW_MSG main.glasses @BLANK
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/30/settings/event/39/message+%231582
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/30/settings/event/39/message"
+msgid "That I was stuck in the game."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/30/settings/event/40/message #1583
+#. EventTrigger Flashback START IF plot.line >= 49800
+#. SHOW_MSG main.glasses @CRAZY_SMILE
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/30/settings/event/40/message+%231583
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/30/settings/event/40/message"
+msgid "I...\\. myself...\\. was an Evotar.\n"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/30/settings/event/41/message #1584
+#. EventTrigger Flashback START IF plot.line >= 49800
+#. SHOW_MSG main.glasses @CRAZY_GRIN
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/30/settings/event/41/message+%231584
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/30/settings/event/41/message"
+msgid "And I was working...\\. for Sidwell."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/31/settings/event/5/message #1586
+#. EventTrigger SecondVisit START IF plot.line >= 50000
+#. SHOW_MSG main.glasses @THOUGHTFUL
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/31/settings/event/5/message+%231586
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/31/settings/event/5/message"
+msgid "Let me have a look."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/31/settings/event/14/message #1587
+#. EventTrigger SecondVisit START IF plot.line >= 50000
+#. SHOW_MSG main.glasses @DEFAULT
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/31/settings/event/14/message+%231587
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/31/settings/event/14/message"
+msgid "Yes...\\. it's still here. My \\c[3]former user id\\c[0]."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/31/settings/event/19/message #1588
+#. EventTrigger SecondVisit START IF plot.line >= 50000
+#. SHOW_MSG main.glasses @DOWN
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/31/settings/event/19/message+%231588
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/31/settings/event/19/message"
+msgid "It was on the day that Lea escaped from Evotarground."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/31/settings/event/21/message #1589
+#. EventTrigger SecondVisit START IF plot.line >= 50000
+#. SHOW_MSG main.glasses @SLEEP
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/31/settings/event/21/message+%231589
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/31/settings/event/21/message"
+msgid "That day...\\. really changed everything."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/31/settings/event/22/message #1590
+#. EventTrigger SecondVisit START IF plot.line >= 50000
+#. SHOW_MSG main.glasses @TOWARD
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/31/settings/event/22/message+%231590
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/31/settings/event/22/message"
+msgid "It seemed like the whole interrogation business was bound to break down."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/31/settings/event/23/message #1591
+#. EventTrigger SecondVisit START IF plot.line >= 50000
+#. SHOW_MSG main.glasses @THOUGHTFUL
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/31/settings/event/23/message+%231591
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/31/settings/event/23/message"
+msgid "And Lea's reappearance strongly hinted toward an elaborate mission to find and rescue Satoshi."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/31/settings/event/24/message #1592
+#. EventTrigger SecondVisit START IF plot.line >= 50000
+#. SHOW_MSG main.glasses @DOWN
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/31/settings/event/24/message+%231592
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/31/settings/event/24/message"
+msgid "To achieve that... they'd have to secure the Evotarserver."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/31/settings/event/25/message #1593
+#. EventTrigger SecondVisit START IF plot.line >= 50000
+#. SHOW_MSG main.glasses @SAD
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/31/settings/event/25/message+%231593
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/31/settings/event/25/message"
+msgid "And potentially... save all the Evotars on it."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/31/settings/event/26/message #1594
+#. EventTrigger SecondVisit START IF plot.line >= 50000
+#. SHOW_MSG main.glasses @PONDERING
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/31/settings/event/26/message+%231594
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/31/settings/event/26/message"
+msgid "Unfortunately..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/31/settings/event/27/message #1595
+#. EventTrigger SecondVisit START IF plot.line >= 50000
+#. SHOW_MSG main.glasses @PONDERING
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/31/settings/event/27/message+%231595
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/31/settings/event/27/message"
+msgid "Sidwell's Evotars, as I would eventually recall, have been stored on a separate server."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/31/settings/event/28/message #1596
+#. EventTrigger SecondVisit START IF plot.line >= 50000
+#. SHOW_MSG main.glasses @THOUGHTFUL
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/31/settings/event/28/message+%231596
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/31/settings/event/28/message"
+msgid "Hardly anyone even knew about it, so its data was likely to be lost."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/31/settings/event/29/message #1597
+#. EventTrigger SecondVisit START IF plot.line >= 50000
+#. SHOW_MSG main.glasses @SLEEP
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/31/settings/event/29/message+%231597
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/31/settings/event/29/message"
+msgid "So..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/31/settings/event/30/message #1598
+#. EventTrigger SecondVisit START IF plot.line >= 50000
+#. SHOW_MSG main.glasses @SAD
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/31/settings/event/30/message+%231598
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/31/settings/event/30/message"
+msgid "In order to have any chance of being rescued..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/31/settings/event/31/message #1599
+#. EventTrigger SecondVisit START IF plot.line >= 50000
+#. SHOW_MSG main.glasses @DEFAULT
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/31/settings/event/31/message+%231599
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/31/settings/event/31/message"
+msgid "I'd have to migrate to the main Evotarserver."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/31/settings/event/32/message #1600
+#. EventTrigger SecondVisit START IF plot.line >= 50000
+#. SHOW_MSG main.glasses @THOUGHTFUL
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/31/settings/event/32/message+%231600
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/31/settings/event/32/message"
+msgid "And there was just one way to do that."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/31/settings/event/37/message #1601
+#. EventTrigger SecondVisit START IF plot.line >= 50000
+#. SHOW_MSG main.glasses @THOUGHTFUL
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/31/settings/event/37/message+%231601
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/31/settings/event/37/message"
+msgid "To create a \\c[3]new Evotar\\c[0]...\\. based on myself."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/31/settings/event/38/message #1602
+#. EventTrigger SecondVisit START IF plot.line >= 50000
+#. SHOW_MSG main.glasses @EMBARRASSED
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/31/settings/event/38/message+%231602
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/31/settings/event/38/message"
+msgid "I honestly wasn't sure if it would even work."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/31/settings/event/39/message #1603
+#. EventTrigger SecondVisit START IF plot.line >= 50000
+#. SHOW_MSG main.glasses @DOWN
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/31/settings/event/39/message+%231603
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/31/settings/event/39/message"
+msgid "I just did it."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/31/settings/event/40/message #1604
+#. EventTrigger SecondVisit START IF plot.line >= 50000
+#. SHOW_MSG main.glasses @SLEEP
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/31/settings/event/40/message+%231604
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/31/settings/event/40/message"
+msgid "I submitted my own user id as a potential interrogation target."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/31/settings/event/41/message #1605
+#. EventTrigger SecondVisit START IF plot.line >= 50000
+#. SHOW_MSG main.glasses @PONDERING
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/31/settings/event/41/message+%231605
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/31/settings/event/41/message"
+msgid "Fortunately without Sidwell taking any notice."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/31/settings/event/42/message #1606
+#. EventTrigger SecondVisit START IF plot.line >= 50000
+#. SHOW_MSG main.glasses @DEFAULT
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/31/settings/event/42/message+%231606
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/31/settings/event/42/message"
+msgid "And thus...\\. a new Evotar was created."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/31/settings/event/48/message #1607
+#. EventTrigger SecondVisit START IF plot.line >= 50000
+#. SHOW_MSG main.glasses @DEFAULT
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/31/settings/event/48/message+%231607
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/31/settings/event/48/message"
+msgid "And that's who I am."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/31/settings/event/49/message #1608
+#. EventTrigger SecondVisit START IF plot.line >= 50000
+#. SHOW_MSG main.glasses @DOWN
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/31/settings/event/49/message+%231608
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/31/settings/event/49/message"
+msgid "That is why I'm still here."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/31/settings/event/53/message #1609
+#. EventTrigger SecondVisit START IF plot.line >= 50000
+#. SHOW_MSG main.lea @NERVOUS
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/31/settings/event/53/message+%231609
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/31/settings/event/53/message"
+msgid "Wait..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/31/settings/event/54/message #1610
+#. EventTrigger SecondVisit START IF plot.line >= 50000
+#. SHOW_MSG main.emilie @UNCERTAIN
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/31/settings/event/54/message+%231610
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/31/settings/event/54/message"
+msgid "Wait, wait, wait...."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/31/settings/event/55/message #1611
+#. EventTrigger SecondVisit START IF plot.line >= 50000
+#. SHOW_MSG main.emilie @CURIOUS
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/31/settings/event/55/message+%231611
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/31/settings/event/55/message"
+msgid "So you're an Evotar...\\. of an Evotar...\\. of Sidwell?!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/31/settings/event/56/message #1612
+#. EventTrigger SecondVisit START IF plot.line >= 50000
+#. SHOW_MSG main.glasses @EMBARRASSED
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/31/settings/event/56/message+%231612
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/31/settings/event/56/message"
+msgid "That's right."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/31/settings/event/57/message #1613
+#. EventTrigger SecondVisit START IF plot.line >= 50000
+#. SHOW_MSG main.lea @ANNOYED
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/31/settings/event/57/message+%231613
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/31/settings/event/57/message"
+msgid "What."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json entities/31/settings/event/58/message #1614
+#. EventTrigger SecondVisit START IF plot.line >= 50000
+#. SHOW_MSG main.emilie @BROKEN
+#: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/31/settings/event/58/message+%231614
+msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/31/settings/event/58/message"
+msgid "No...\\. no way."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-05-junction.json entities/23/settings/event/13/message #4
+#. EventTrigger Wave2 START IF tmp.enemyDefeat >= 3
+#. SHOW_SIDE_MSG main.emilie @CURIOUS
+#: extension/post-game/data/maps/arid/lab/ug-05-junction.json+entities/23/settings/event/13/message+%234
+msgctxt "extension/post-game/data/maps/arid/lab/ug-05-junction.json//entities/23/settings/event/13/message"
+msgid "Dice mages?!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-05-junction.json entities/24/settings/event/10/message #15
+#. EventTrigger BattleEnd START IF tmp.enemyDefeat >= 5
+#. SHOW_SIDE_MSG main.emilie @SUSPICIOUS
+#: extension/post-game/data/maps/arid/lab/ug-05-junction.json+entities/24/settings/event/10/message+%2315
+msgctxt "extension/post-game/data/maps/arid/lab/ug-05-junction.json//entities/24/settings/event/10/message"
+msgid "Funny dice mage...\\. annoying to punch, though."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-05-junction.json entities/27/settings/event/1/message #1602
+#. EventTrigger TronnySideTalk2 START IF plot.line >= 50050
+#. SHOW_SIDE_MSG main.glasses @PONDERING
+#: extension/post-game/data/maps/arid/lab/ug-05-junction.json+entities/27/settings/event/1/message+%231602
+msgctxt "extension/post-game/data/maps/arid/lab/ug-05-junction.json//entities/27/settings/event/1/message"
+msgid "But there was nothing I could do about it... so I just played along."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-05-junction.json entities/27/settings/event/2/message #1603
+#. EventTrigger TronnySideTalk2 START IF plot.line >= 50050
+#. SHOW_SIDE_MSG main.glasses @SAD
+#: extension/post-game/data/maps/arid/lab/ug-05-junction.json+entities/27/settings/event/2/message+%231603
+msgctxt "extension/post-game/data/maps/arid/lab/ug-05-junction.json//entities/27/settings/event/2/message"
+msgid "I suppose this is usually what we clones did."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell-test.json entities/119/settings/event/8/message #889
+#. EventTrigger sergeyMessage START IF tmp.sergeyMsg
+#. SHOW_MSG main.sergey @JOKING
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell-test.json+entities/119/settings/event/8/message+%23889
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell-test.json//entities/119/settings/event/8/message"
+msgid "Lea...\\. here is boost!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell-test.json entities/120/settings/event/2/0/0/text #1
+#. EventTrigger interogationMsg START IF tmp.intMsg
+#. SELECT_FIRST
+#. SHOW_DREAM_MSG
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell-test.json+entities/120/settings/event/2/0/0/text+%231
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell-test.json//entities/120/settings/event/2/0/0/text"
+msgid "Interogation Question?"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell-test.json entities/120/settings/event/2/1/0/text #892
+#. EventTrigger interogationMsg START IF tmp.intMsg
+#. SELECT_FIRST
+#. SHOW_DREAM_MSG
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell-test.json+entities/120/settings/event/2/1/0/text+%23892
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell-test.json//entities/120/settings/event/2/1/0/text"
+msgid "More Interogation Question?"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell-test.json entities/120/settings/event/2/2/0/text #890
+#. EventTrigger interogationMsg START IF tmp.intMsg
+#. SELECT_FIRST
+#. SHOW_DREAM_MSG
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell-test.json+entities/120/settings/event/2/2/0/text+%23890
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell-test.json//entities/120/settings/event/2/2/0/text"
+msgid "Another Interogation Question?"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell-test.json entities/120/settings/event/2/3/0/text #891
+#. EventTrigger interogationMsg START IF tmp.intMsg
+#. SELECT_FIRST
+#. SHOW_DREAM_MSG
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell-test.json+entities/120/settings/event/2/3/0/text+%23891
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell-test.json//entities/120/settings/event/2/3/0/text"
+msgid "Answer me!!!!1"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell-test.json entities/120/settings/event/2/4/0/text #893
+#. EventTrigger interogationMsg START IF tmp.intMsg
+#. SELECT_FIRST
+#. SHOW_DREAM_MSG
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell-test.json+entities/120/settings/event/2/4/0/text+%23893
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell-test.json//entities/120/settings/event/2/4/0/text"
+msgid "DO WANT ANSWER!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/6/message #2
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.glasses @THOUGHTFUL
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/6/message+%232
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/6/message"
+msgid "This...\\. this is it."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/7/message #3
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.glasses @DEFAULT
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/7/message+%233
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/7/message"
+msgid "My personal room."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/11/message #5
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.emilie @ASTONISHED
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/11/message+%235
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/11/message"
+msgid "Neat office!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/15/message #11
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.emilie @DEFAULT
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/15/message+%2311
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/15/message"
+msgid "Wow, a whole bonsai garden!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/20/message #12
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.lea @NERVOUS
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/20/message+%2312
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/20/message"
+msgid "..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/22/message #7
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.lea @SURPRISED_TOWARD
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/22/message+%237
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/22/message"
+msgid "Who?"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/29/message #13
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.glasses @THOUGHTFUL
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/29/message+%2313
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/29/message"
+msgid "Oh..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/36/message #10
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.emilie @TAUNTING
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/36/message+%2310
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/36/message"
+msgid "Oh!\\. What a pretty person!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/37/message #14
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.emilie @CURIOUS
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/37/message+%2314
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/37/message"
+msgid "Somebody you know?"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/39/message #15
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.glasses @PONDERING
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/39/message+%2315
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/39/message"
+msgid "Yeah...\\. you could say that."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/46/message #16
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.glasses @DEFAULT
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/46/message+%2316
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/46/message"
+msgid "Manuela."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/47/message #17
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.glasses @TOWARD
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/47/message+%2317
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/47/message"
+msgid "She was a person I used to work with."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/48/message #18
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.glasses @PONDERING
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/48/message+%2318
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/48/message"
+msgid "We were rather close."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/50/message #19
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.lea @SURPRISED_AWAY
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/50/message+%2319
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/50/message"
+msgid "..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/53/message #20
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.glasses @PONDERING
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/53/message+%2320
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/53/message"
+msgid "Actually..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/54/message #21
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.glasses @THOUGHTFUL
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/54/message+%2321
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/54/message"
+msgid "Lea...\\. I think I told you about her several times, didn't I?"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/55/message #22
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.lea @NOD
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/55/message+%2322
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/55/message"
+msgid "[nods]"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/57/message #23
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.emilie @SUSPICIOUS
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/57/message+%2323
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/57/message"
+msgid "Huh.\\. So why was I left out?"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/58/message #24
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.glasses @TOWARD
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/58/message+%2324
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/58/message"
+msgid "It was long before Lea entered the Playground."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/59/message #25
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.glasses @SLEEP
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/59/message+%2325
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/59/message"
+msgid "Back when she was created, when I entered the game as Sidwell."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/60/message #26
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.glasses @DEFAULT
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/60/message+%2326
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/60/message"
+msgid "I actually spent a lot of time with Lea.\\. Teaching her things."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/61/message #27
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.lea @SAD
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/61/message+%2327
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/61/message"
+msgid "..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/62/message #30
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.emilie @CURIOUS
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/62/message+%2330
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/62/message"
+msgid "Okay...?"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/63/message #31
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.emilie @SUSPICIOUS
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/63/message+%2331
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/63/message"
+msgid "You two share a lot of history...\\. never would have guessed."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/64/message #32
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.glasses @PONDERING
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/64/message+%2332
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/64/message"
+msgid "Those times were...\\. complicated."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/71/message #28
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.glasses @PONDERING
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/71/message+%2328
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/71/message"
+msgid "Somehow...\\. Lea reminded me of her."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/72/message #29
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.glasses @SAD
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/72/message+%2329
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/72/message"
+msgid "Manuela couldn't talk either, you see?"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/87/text #1182
+#. EventTrigger RoomEnter
+#. SHOW_DREAM_MSG
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/87/text+%231182
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/87/text"
+msgid "The one person that felt close to us."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/109/message #1183
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.glasses @PAIN
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/109/message+%231183
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/109/message"
+msgid "Yes...\\. it was here."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/110/message #1184
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.glasses @PANIC
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/110/message+%231184
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/110/message"
+msgid "That person...\\. I met him here."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/126/text #1185
+#. EventTrigger RoomEnter
+#. SHOW_DREAM_MSG
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/126/text+%231185
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/126/text"
+msgid "Let's have one last talk."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/150/message #1186
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.emilie @SHOCKED
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/150/message+%231186
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/150/message"
+msgid "Tronny!!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/151/message #1187
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.emilie @BROKEN
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/151/message+%231187
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/151/message"
+msgid "Pull yourself together!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/152/message #1188
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.glasses @PAIN
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/152/message+%231188
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/152/message"
+msgid "..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/165/message #1189
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.glasses @PONDERING
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/165/message+%231189
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/165/message"
+msgid "Sergey."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/166/message #1190
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.glasses @BLANK
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/166/message+%231190
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/166/message"
+msgid "There is a hidden entrance behind those shelves."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/167/message #1191
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.glasses @THOUGHTFUL
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/167/message+%231191
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/167/message"
+msgid "Can you... open it?"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/169/message #1192
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.sergey @WORRIED
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/169/message+%231192
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/169/message"
+msgid "Let me have a look..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/170/message #1193
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.sergey @WORRIED
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/170/message+%231193
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/170/message"
+msgid "..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/171/message #1194
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.sergey @WHISTLING
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/171/message+%231194
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/171/message"
+msgid "Ah, that must be it!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/172/message #1195
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.sergey @SERIOUS
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/172/message+%231195
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/172/message"
+msgid "Just a moment..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/183/message #1196
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.emilie @BROKEN
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/183/message+%231196
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/183/message"
+msgid "Wha...\\. What's back there?\n"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/184/message #1197
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.emilie @BROKEN
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/184/message+%231197
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/184/message"
+msgid "This is creepy."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/190/message #1198
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.glasses @PAIN
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/190/message+%231198
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/190/message"
+msgid "This was...\\. where things ended for me."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/192/message #1199
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.emilie @UNCERTAIN
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/192/message+%231199
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/192/message"
+msgid "What?"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/193/message #1200
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.glasses @PAIN
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/193/message+%231200
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/193/message"
+msgid "I...\\. can't remember any further."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/194/message #1201
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.glasses @BLANK
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/194/message+%231201
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/194/message"
+msgid "We have to go and see for ourselves."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/195/message #1202
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.glasses @EXHAUSTED
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/195/message+%231202
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/195/message"
+msgid "..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/196/message #1203
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.emilie @ANGRY
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/196/message+%231203
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/196/message"
+msgid "Alright, let's get this over with."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/49/settings/event/198/message #1204
+#. EventTrigger RoomEnter
+#. SHOW_MSG main.lea @NOD
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/49/settings/event/198/message+%231204
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/49/settings/event/198/message"
+msgid "[nods]"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/88/settings/event/31/text #1205
+#. EventTrigger battleStart START IF tmp.battleStart
+#. SHOW_DREAM_MSG
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/88/settings/event/31/text+%231205
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/88/settings/event/31/text"
+msgid ""
+"By now, you should have realized \n"
+"your true circumstances."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/88/settings/event/36/text #1206
+#. EventTrigger battleStart START IF tmp.battleStart
+#. SHOW_DREAM_MSG
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/88/settings/event/36/text+%231206
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/88/settings/event/36/text"
+msgid ""
+"You are just one of many \n"
+"that came before you."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/88/settings/event/41/text #1207
+#. EventTrigger battleStart START IF tmp.battleStart
+#. SHOW_DREAM_MSG
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/88/settings/event/41/text+%231207
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/88/settings/event/41/text"
+msgid ""
+"The time has come \n"
+"to release you of your position."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/88/settings/event/47/text #1208
+#. EventTrigger battleStart START IF tmp.battleStart
+#. SHOW_DREAM_MSG
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/88/settings/event/47/text+%231208
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/88/settings/event/47/text"
+msgid ""
+"I'm sure there is still information left \n"
+"that you decided not to share.\n"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/88/settings/event/48/text #1209
+#. EventTrigger battleStart START IF tmp.battleStart
+#. SHOW_DREAM_MSG
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/88/settings/event/48/text+%231209
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/88/settings/event/48/text"
+msgid ""
+"This is why this will be\n"
+"your final interrogation."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/88/settings/event/70/message #1210
+#. EventTrigger battleStart START IF tmp.battleStart
+#. SHOW_MSG main.lea @SHOCKED
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/88/settings/event/70/message+%231210
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/88/settings/event/70/message"
+msgid "WHAT?!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/88/settings/event/72/message #1211
+#. EventTrigger battleStart START IF tmp.battleStart
+#. SHOW_MSG main.emilie @SHOCKED
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/88/settings/event/72/message+%231211
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/88/settings/event/72/message"
+msgid "What is this?!\\. Why is Sidwell here?!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/88/settings/event/76/message #1212
+#. EventTrigger battleStart START IF tmp.battleStart
+#. SHOW_MSG main.glasses @PANIC
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/88/settings/event/76/message+%231212
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/88/settings/event/76/message"
+msgid "It...\\. it was him...\\. All this time...\\. I...\n"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/88/settings/event/89/message #1214
+#. EventTrigger battleStart START IF tmp.battleStart
+#. SHOW_MSG main.emilie @SHOUT
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/88/settings/event/89/message+%231214
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/88/settings/event/89/message"
+msgid "Pull yourself together, Tronny!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/88/settings/event/90/message #1217
+#. EventTrigger battleStart START IF tmp.battleStart
+#. SHOW_MSG main.emilie @SHOUT
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/88/settings/event/90/message+%231217
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/88/settings/event/90/message"
+msgid "It looks he's about to attack.\n"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/88/settings/event/97/message #1218
+#. EventTrigger battleStart START IF tmp.battleStart
+#. SHOW_MSG main.glasses @PANIC
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/88/settings/event/97/message+%231218
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/88/settings/event/97/message"
+msgid "There...\\. There is no point fighting him!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/88/settings/event/105/message #1216
+#. EventTrigger battleStart START IF tmp.battleStart
+#. SHOW_SIDE_MSG main.emilie @SUSPICIOUS
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/88/settings/event/105/message+%231216
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/88/settings/event/105/message"
+msgid "Really?\\. We'll see about that!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/118/settings/event/30/message #1220
+#. EventTrigger battleEnd START IF tmp.sidwellDefeat
+#. SHOW_MSG main.emilie @HAPPY
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/118/settings/event/30/message+%231220
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/118/settings/event/30/message"
+msgid "WE JUST BEAT HIM!!\\. PUNCHED HIS FACE!!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/118/settings/event/32/message #1221
+#. EventTrigger battleEnd START IF tmp.sidwellDefeat
+#. SHOW_MSG main.emilie @HAPPY
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/118/settings/event/32/message+%231221
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/118/settings/event/32/message"
+msgid "This was AWESOME!!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/118/settings/event/37/message #1222
+#. EventTrigger battleEnd START IF tmp.sidwellDefeat
+#. SHOW_MSG main.glasses @CRAZY_SMILE
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/118/settings/event/37/message+%231222
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/118/settings/event/37/message"
+msgid "I never expected we could just...\\. defeat him.\n"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/118/settings/event/38/message #1223
+#. EventTrigger battleEnd START IF tmp.sidwellDefeat
+#. SHOW_MSG main.glasses @CRAZY_GRIN
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/118/settings/event/38/message+%231223
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/118/settings/event/38/message"
+msgid "I guess...\\. it was just an enemy designed in his image.\n"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/118/settings/event/39/message #1224
+#. EventTrigger battleEnd START IF tmp.sidwellDefeat
+#. SHOW_MSG main.glasses @CRAZY_GRIN2
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/118/settings/event/39/message+%231224
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/118/settings/event/39/message"
+msgid "But still..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/118/settings/event/45/message #1225
+#. EventTrigger battleEnd START IF tmp.sidwellDefeat
+#. SHOW_MSG main.emilie @UNCERTAIN
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/118/settings/event/45/message+%231225
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/118/settings/event/45/message"
+msgid "Some of them...\\. look exactly like you."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/118/settings/event/47/message #1226
+#. EventTrigger battleEnd START IF tmp.sidwellDefeat
+#. SHOW_MSG main.glasses @CRAZY_GRIN3
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/118/settings/event/47/message+%231226
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/118/settings/event/47/message"
+msgid "Yes...\\. because I used to be just one of them."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/118/settings/event/48/message #1227
+#. EventTrigger battleEnd START IF tmp.sidwellDefeat
+#. SHOW_MSG main.glasses @PONDERING
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/118/settings/event/48/message+%231227
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/118/settings/event/48/message"
+msgid "..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/118/settings/event/52/message #1228
+#. EventTrigger battleEnd START IF tmp.sidwellDefeat
+#. SHOW_MSG main.glasses @THOUGHTFUL
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/118/settings/event/52/message+%231228
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/118/settings/event/52/message"
+msgid "I remember now.\n"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/118/settings/event/53/message #1229
+#. EventTrigger battleEnd START IF tmp.sidwellDefeat
+#. SHOW_MSG main.glasses @SAD
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/118/settings/event/53/message+%231229
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/118/settings/event/53/message"
+msgid "Something I knew for some time now..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/118/settings/event/54/message #1230
+#. EventTrigger battleEnd START IF tmp.sidwellDefeat
+#. SHOW_MSG main.glasses @PONDERING
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/118/settings/event/54/message+%231230
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/118/settings/event/54/message"
+msgid "Something I suppressed."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/118/settings/event/55/message #1231
+#. EventTrigger battleEnd START IF tmp.sidwellDefeat
+#. SHOW_MSG main.glasses @SLEEP
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/118/settings/event/55/message+%231231
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/118/settings/event/55/message"
+msgid "All this time..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/118/settings/event/56/message #1232
+#. EventTrigger battleEnd START IF tmp.sidwellDefeat
+#. SHOW_MSG main.glasses @SLEEP
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/118/settings/event/56/message+%231232
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/118/settings/event/56/message"
+msgid "When I was spying in CrossWorlds."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/118/settings/event/57/message #1233
+#. EventTrigger battleEnd START IF tmp.sidwellDefeat
+#. SHOW_MSG main.glasses @DEFAULT
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/118/settings/event/57/message+%231233
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/118/settings/event/57/message"
+msgid "My whole existence...\\. resided in this game.\n"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/119/settings/event/11/message #1522
+#. EventTrigger Flashback START IF plot.line >= 49900
+#. SHOW_MSG main.glasses @PONDERING
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/119/settings/event/11/message+%231522
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/119/settings/event/11/message"
+msgid "I'd also remember...\\. that this whole procedure had repeated itself."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/119/settings/event/12/message #1586
+#. EventTrigger Flashback START IF plot.line >= 49900
+#. SHOW_MSG main.glasses @BLANK
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/119/settings/event/12/message+%231586
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/119/settings/event/12/message"
+msgid "Several times."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/119/settings/event/21/message #1587
+#. EventTrigger Flashback START IF plot.line >= 49900
+#. SHOW_MSG main.glasses @THOUGHTFUL
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/119/settings/event/21/message+%231587
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/119/settings/event/21/message"
+msgid "Sidwell...\\. he'd create Evotars of himself."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/119/settings/event/22/message #1588
+#. EventTrigger Flashback START IF plot.line >= 49900
+#. SHOW_MSG main.glasses @TOWARD
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/119/settings/event/22/message+%231588
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/119/settings/event/22/message"
+msgid "Would tell them the narrative of the \"long playing session\""
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/119/settings/event/30/message #1589
+#. EventTrigger Flashback START IF plot.line >= 49900
+#. SHOW_MSG main.glasses @DEFAULT
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/119/settings/event/30/message+%231589
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/119/settings/event/30/message"
+msgid "He then would use them as reliable and capable spies, within the game."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/119/settings/event/31/message #1590
+#. EventTrigger Flashback START IF plot.line >= 49900
+#. SHOW_MSG main.glasses @THOUGHTFUL
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/119/settings/event/31/message+%231590
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/119/settings/event/31/message"
+msgid "For as long as it worked."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/119/settings/event/39/message #1591
+#. EventTrigger Flashback START IF plot.line >= 49900
+#. SHOW_MSG main.glasses @SAD
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/119/settings/event/39/message+%231591
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/119/settings/event/39/message"
+msgid "And once they finally did find out..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/119/settings/event/48/message #1592
+#. EventTrigger Flashback START IF plot.line >= 49900
+#. SHOW_MSG main.glasses @BLANK
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/119/settings/event/48/message+%231592
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/119/settings/event/48/message"
+msgid "He'd dispose of them."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/119/settings/event/75/message #1596
+#. EventTrigger Flashback START IF plot.line >= 49900
+#. SHOW_MSG main.glasses @THOUGHTFUL
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/119/settings/event/75/message+%231596
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/119/settings/event/75/message"
+msgid "And that is what happened in this room."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/119/settings/event/76/message #1597
+#. EventTrigger Flashback START IF plot.line >= 49900
+#. SHOW_MSG main.glasses @BLANK
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/119/settings/event/76/message+%231597
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/119/settings/event/76/message"
+msgid "It was my last interrogation."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/119/settings/event/77/message #1598
+#. EventTrigger Flashback START IF plot.line >= 49900
+#. SHOW_MSG main.glasses @PONDERING
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/119/settings/event/77/message+%231598
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/119/settings/event/77/message"
+msgid "To make sure, I didn't keep any secrets from the real me."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/119/settings/event/79/message #1599
+#. EventTrigger Flashback START IF plot.line >= 49900
+#. SHOW_MSG main.lea @SCARED
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/119/settings/event/79/message+%231599
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/119/settings/event/79/message"
+msgid "..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/119/settings/event/81/message #1600
+#. EventTrigger Flashback START IF plot.line >= 49900
+#. SHOW_MSG main.emilie @UNCERTAIN
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/119/settings/event/81/message+%231600
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/119/settings/event/81/message"
+msgid "Damn, this is messed up."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/119/settings/event/86/message #1604
+#. EventTrigger Flashback START IF plot.line >= 49900
+#. SHOW_MSG main.sergey @WORRIED
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/119/settings/event/86/message+%231604
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/119/settings/event/86/message"
+msgid "C'tron...\\. There is one thing I am still puzzled about."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/119/settings/event/87/message #1601
+#. EventTrigger Flashback START IF plot.line >= 49900
+#. SHOW_MSG main.sergey @SERIOUS
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/119/settings/event/87/message+%231601
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/119/settings/event/87/message"
+msgid "That is...\\. why is your Evotar still here?"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/119/settings/event/88/message #1602
+#. EventTrigger Flashback START IF plot.line >= 49900
+#. SHOW_MSG main.sergey @DRAMATIC
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/119/settings/event/88/message+%231602
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/119/settings/event/88/message"
+msgid "It sounds like you experienced your interrogation here, so..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/119/settings/event/89/message #1603
+#. EventTrigger Flashback START IF plot.line >= 49900
+#. SHOW_MSG main.sergey @SERIOUS
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/119/settings/event/89/message+%231603
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/119/settings/event/89/message"
+msgid "Would this not imply that your Evotar has been deleted?"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/119/settings/event/90/message #1526
+#. EventTrigger Flashback START IF plot.line >= 49900
+#. SHOW_MSG main.glasses @THOUGHTFUL
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/119/settings/event/90/message+%231526
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/119/settings/event/90/message"
+msgid "You're right."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/119/settings/event/91/message #1605
+#. EventTrigger Flashback START IF plot.line >= 49900
+#. SHOW_MSG main.glasses @DEFAULT
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/119/settings/event/91/message+%231605
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/119/settings/event/91/message"
+msgid "I should have been deleted and in fact...\\. I was."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/119/settings/event/93/message #1606
+#. EventTrigger Flashback START IF plot.line >= 49900
+#. SHOW_MSG main.emilie @SUSPICIOUS
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/119/settings/event/93/message+%231606
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/119/settings/event/93/message"
+msgid "What?"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/119/settings/event/94/message #1607
+#. EventTrigger Flashback START IF plot.line >= 49900
+#. SHOW_MSG main.glasses @THOUGHTFUL
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/119/settings/event/94/message+%231607
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/119/settings/event/94/message"
+msgid "But...\\. I found a loophole.\\. And that's why I'm still here."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/119/settings/event/95/message #1608
+#. EventTrigger Flashback START IF plot.line >= 49900
+#. SHOW_MSG main.glasses @DOWN
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/119/settings/event/95/message+%231608
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/119/settings/event/95/message"
+msgid "Maybe it's best if I just showed you."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/119/settings/event/96/message #1609
+#. EventTrigger Flashback START IF plot.line >= 49900
+#. SHOW_MSG main.glasses @DEFAULT
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/119/settings/event/96/message+%231609
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/119/settings/event/96/message"
+msgid "Let's go back to the new Meeting Room...\\. M04-02"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/125/settings/event/1/message #1610
+#. EventTrigger TronnySideTalk1 START IF tmp.ctronTalk
+#. SHOW_SIDE_MSG main.glasses @THOUGHTFUL
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/125/settings/event/1/message+%231610
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/125/settings/event/1/message"
+msgid "I already realized I was an Evotar, several weeks before I was deleted..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/126/settings/event/9/message #889
+#. EventTrigger sergeyMessage START IF tmp.sergeyMsg
+#. SHOW_MSG main.sergey @SERIOUS
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/126/settings/event/9/message+%23889
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/126/settings/event/9/message"
+msgid "Lea, C'tron...."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/126/settings/event/10/message #1617
+#. EventTrigger sergeyMessage START IF tmp.sergeyMsg
+#. SHOW_MSG main.glasses @SHOCKED
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/126/settings/event/10/message+%231617
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/126/settings/event/10/message"
+msgid "Wha...\\."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/126/settings/event/11/message #1618
+#. EventTrigger sergeyMessage START IF tmp.sergeyMsg
+#. SHOW_MSG main.sergey @SERIOUS
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/126/settings/event/11/message+%231618
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/126/settings/event/11/message"
+msgid "I had a closer look at this \\c[3]Sidwell\\c[0]..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/126/settings/event/12/message #1619
+#. EventTrigger sergeyMessage START IF tmp.sergeyMsg
+#. SHOW_MSG main.sergey @SERIOUS
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/126/settings/event/12/message+%231619
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/126/settings/event/12/message"
+msgid "It is a scripted enemy using his avatar's appearance."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/126/settings/event/13/message #1620
+#. EventTrigger sergeyMessage START IF tmp.sergeyMsg
+#. SHOW_MSG main.sergey @COMPLEX
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/126/settings/event/13/message+%231620
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/126/settings/event/13/message"
+msgid "It looks like Gautham was involved in its creation."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/126/settings/event/14/message #1621
+#. EventTrigger sergeyMessage START IF tmp.sergeyMsg
+#. SHOW_MSG main.sergey @WORRIED
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/126/settings/event/14/message+%231621
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/126/settings/event/14/message"
+msgid "This time, it's using a ridiculously large \\c[3]defense boost\\c[0] to negate your damage."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/126/settings/event/15/message #1622
+#. EventTrigger sergeyMessage START IF tmp.sergeyMsg
+#. SHOW_MSG main.sergey @SERIOUS
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/126/settings/event/15/message+%231622
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/126/settings/event/15/message"
+msgid "I found a way to manipulate his \\c[3]clones\\c[0].\\. Defeat them to boost your \\c[3]attack\\c[0]."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/126/settings/event/16/message #1623
+#. EventTrigger sergeyMessage START IF tmp.sergeyMsg
+#. SHOW_MSG main.sergey @WHISTLING
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/126/settings/event/16/message+%231623
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/126/settings/event/16/message"
+msgid "Also...\\. make sure to tell Emilie.\\. I cannot send her this message."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/126/settings/event/17/message #1624
+#. EventTrigger sergeyMessage START IF tmp.sergeyMsg
+#. SHOW_MSG main.glasses @BLANK
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/126/settings/event/17/message+%231624
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/126/settings/event/17/message"
+msgid "O-\\.Okay?"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/126/settings/event/24/message #1614
+#. EventTrigger sergeyMessage START IF tmp.sergeyMsg
+#. SHOW_SIDE_MSG main.glasses @SURPRISED
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/126/settings/event/24/message+%231614
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/126/settings/event/24/message"
+msgid "Uhm...\\. \\c[3]Emilie\\c[0]! Attack the \\c[3]clones\\c[0]! Sergey did a thing!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/126/settings/event/25/message #1625
+#. EventTrigger sergeyMessage START IF tmp.sergeyMsg
+#. SHOW_SIDE_MSG main.emilie @CURIOUS
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/126/settings/event/25/message+%231625
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/126/settings/event/25/message"
+msgid "What?\\. Uhm...\\. Alright, I guess?!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/134/settings/event/2/0/0/text #1
+#. EventTrigger interogationMsg START IF tmp.intMsg
+#. SELECT_FIRST
+#. SHOW_DREAM_MSG
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/134/settings/event/2/0/0/text+%231
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/134/settings/event/2/0/0/text"
+msgid ""
+"You have been less active the last \n"
+"few days.\\. Why is that?"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/134/settings/event/2/0/1/thenStep/0/text #1658
+#. EventTrigger interogationMsg START IF tmp.intMsg
+#. SELECT_FIRST
+#. IF tmp.intMsg
+#. SHOW_DREAM_MSG
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/134/settings/event/2/0/1/thenStep/0/text+%231658
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/134/settings/event/2/0/1/thenStep/0/text"
+msgid "Answer the question!!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/134/settings/event/2/1/0/text #892
+#. EventTrigger interogationMsg START IF tmp.intMsg
+#. SELECT_FIRST
+#. SHOW_DREAM_MSG
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/134/settings/event/2/1/0/text+%23892
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/134/settings/event/2/1/0/text"
+msgid ""
+"We saw you communicating via message \n"
+"with an anonymous individual. \n"
+"Who was that?"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/134/settings/event/2/1/1/thenStep/0/text #1659
+#. EventTrigger interogationMsg START IF tmp.intMsg
+#. SELECT_FIRST
+#. IF tmp.intMsg
+#. SHOW_DREAM_MSG
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/134/settings/event/2/1/1/thenStep/0/text+%231659
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/134/settings/event/2/1/1/thenStep/0/text"
+msgid "There is no point in being silent!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/134/settings/event/2/2/0/text #890
+#. EventTrigger interogationMsg START IF tmp.intMsg
+#. SELECT_FIRST
+#. SHOW_DREAM_MSG
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/134/settings/event/2/2/0/text+%23890
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/134/settings/event/2/2/0/text"
+msgid ""
+"You neglected the surveillance \n"
+"of interrogation target 78 and 94. \n"
+"Why?"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/134/settings/event/2/2/1/thenStep/0/text #1660
+#. EventTrigger interogationMsg START IF tmp.intMsg
+#. SELECT_FIRST
+#. IF tmp.intMsg
+#. SHOW_DREAM_MSG
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/134/settings/event/2/2/1/thenStep/0/text+%231660
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/134/settings/event/2/2/1/thenStep/0/text"
+msgid "This will continue until I get answers."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/134/settings/event/2/3/0/text #891
+#. EventTrigger interogationMsg START IF tmp.intMsg
+#. SELECT_FIRST
+#. SHOW_DREAM_MSG
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/134/settings/event/2/3/0/text+%23891
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/134/settings/event/2/3/0/text"
+msgid ""
+"You used certain characteristic \n"
+"hand gestures public. \n"
+"Why did you do that?\n"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/134/settings/event/2/3/1/thenStep/0/text #1661
+#. EventTrigger interogationMsg START IF tmp.intMsg
+#. SELECT_FIRST
+#. IF tmp.intMsg
+#. SHOW_DREAM_MSG
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/134/settings/event/2/3/1/thenStep/0/text+%231661
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/134/settings/event/2/3/1/thenStep/0/text"
+msgid "Answer or this will go on for hours and hours."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/135/settings/event/1/message #1611
+#. EventTrigger shadyBreak START IF tmp.shadyBreak >= 1
+#. SHOW_SIDE_MSG main.emilie @DETERMINED
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/135/settings/event/1/message+%231611
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/135/settings/event/1/message"
+msgid "TAKE THAT, YOU JERK!!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/135/settings/event/3/message #1612
+#. EventTrigger shadyBreak START IF tmp.shadyBreak >= 1
+#. SHOW_SIDE_MSG main.sergey @SERIOUS
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/135/settings/event/3/message+%231612
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/135/settings/event/3/message"
+msgid "It looks like he's increasing his defense again!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/135/settings/event/4/message #1613
+#. EventTrigger shadyBreak START IF tmp.shadyBreak >= 1
+#. SHOW_SIDE_MSG main.emilie @SUSPICIOUS
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/135/settings/event/4/message+%231613
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/135/settings/event/4/message"
+msgid "Dang it!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/136/settings/event/1/message #1628
+#. EventTrigger startComment START IF tmp.startComment
+#. SHOW_SIDE_MSG main.emilie @BROKEN
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/136/settings/event/1/message+%231628
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/136/settings/event/1/message"
+msgid "We're barely doing damage!\\. What is this?!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/136/settings/event/2/message #1615
+#. EventTrigger startComment START IF tmp.startComment
+#. SHOW_SIDE_MSG main.glasses @CRAZY_SMILE
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/136/settings/event/2/message+%231615
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/136/settings/event/2/message"
+msgid "I told you it's useless..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/136/settings/event/3/message #1616
+#. EventTrigger startComment START IF tmp.startComment
+#. SHOW_SIDE_MSG main.emilie @SHOUT
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/136/settings/event/3/message+%231616
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/136/settings/event/3/message"
+msgid "Well...\\. we won't give up this easily!!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/138/settings/event/1/0/0/message #1629
+#. EventTrigger interogationComment START IF tmp.intComment > tmp.intCommentSaid
+#. SELECT_FIRST
+#. SHOW_SIDE_MSG main.glasses @SHOCKED
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/138/settings/event/1/0/0/message+%231629
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/138/settings/event/1/0/0/message"
+msgid "Oh...\\. No!\\. Nonononono!\\. Please!!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/138/settings/event/1/0/1/message #1630
+#. EventTrigger interogationComment START IF tmp.intComment > tmp.intCommentSaid
+#. SELECT_FIRST
+#. SHOW_SIDE_MSG main.emilie @SHOCKED
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/138/settings/event/1/0/1/message+%231630
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/138/settings/event/1/0/1/message"
+msgid "Tronny!!! Are you okay?!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/138/settings/event/1/0/2/message #1631
+#. EventTrigger interogationComment START IF tmp.intComment > tmp.intCommentSaid
+#. SELECT_FIRST
+#. SHOW_SIDE_MSG main.glasses @SHOCKED
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/138/settings/event/1/0/2/message+%231631
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/138/settings/event/1/0/2/message"
+msgid "It...\\. It's the interogation!\\. Please...\\. you have to stop it!!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/138/settings/event/1/0/3/message #1634
+#. EventTrigger interogationComment START IF tmp.intComment > tmp.intCommentSaid
+#. SELECT_FIRST
+#. SHOW_SIDE_MSG main.lea @SHOCKED
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/138/settings/event/1/0/3/message+%231634
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/138/settings/event/1/0/3/message"
+msgid "How?!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/138/settings/event/1/1/0/message #1635
+#. EventTrigger interogationComment START IF tmp.intComment > tmp.intCommentSaid
+#. SELECT_FIRST
+#. SHOW_SIDE_MSG main.glasses @SHOCKED
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/138/settings/event/1/1/0/message+%231635
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/138/settings/event/1/1/0/message"
+msgid "No!\\. Not again!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/138/settings/event/1/1/1/message #1636
+#. EventTrigger interogationComment START IF tmp.intComment > tmp.intCommentSaid
+#. SELECT_FIRST
+#. SHOW_SIDE_MSG main.emilie @DETERMINED
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/138/settings/event/1/1/1/message+%231636
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/138/settings/event/1/1/1/message"
+msgid "Don't worry, Tronny!\\. We can beat the clones before they attack you!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/138/settings/event/1/1/2/message #1637
+#. EventTrigger interogationComment START IF tmp.intComment > tmp.intCommentSaid
+#. SELECT_FIRST
+#. SHOW_SIDE_MSG main.lea @DETERMINED
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/138/settings/event/1/1/2/message+%231637
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/138/settings/event/1/1/2/message"
+msgid "Lea!!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/138/settings/event/1/2/0/message #1638
+#. EventTrigger interogationComment START IF tmp.intComment > tmp.intCommentSaid
+#. SELECT_FIRST
+#. SHOW_SIDE_MSG main.glasses @EXHAUSTED
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/138/settings/event/1/2/0/message+%231638
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/138/settings/event/1/2/0/message"
+msgid "Again?!\\. Why is it always me?!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/138/settings/event/1/2/1/message #1639
+#. EventTrigger interogationComment START IF tmp.intComment > tmp.intCommentSaid
+#. SELECT_FIRST
+#. SHOW_SIDE_MSG main.emilie @SHRUG
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/138/settings/event/1/2/1/message+%231639
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/138/settings/event/1/2/1/message"
+msgid "Maybe because you're his Evotar and he doesn't like it?"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/138/settings/event/1/2/2/message #1640
+#. EventTrigger interogationComment START IF tmp.intComment > tmp.intCommentSaid
+#. SELECT_FIRST
+#. SHOW_SIDE_MSG main.glasses @CRAZY_GRIN3
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/138/settings/event/1/2/2/message+%231640
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/138/settings/event/1/2/2/message"
+msgid "Right...\\. of course..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/138/settings/event/1/3/0/message #1641
+#. EventTrigger interogationComment START IF tmp.intComment > tmp.intCommentSaid
+#. SELECT_FIRST
+#. SHOW_SIDE_MSG main.glasses @EXHAUSTED
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/138/settings/event/1/3/0/message+%231641
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/138/settings/event/1/3/0/message"
+msgid "Gosh!\\. When is this finally over?!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/138/settings/event/1/3/1/message #1642
+#. EventTrigger interogationComment START IF tmp.intComment > tmp.intCommentSaid
+#. SELECT_FIRST
+#. SHOW_SIDE_MSG main.emilie @SMILE
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/138/settings/event/1/3/1/message+%231642
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/138/settings/event/1/3/1/message"
+msgid "Not much longer!\\. We got plenty of clones to beat now!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/138/settings/event/1/3/2/message #1643
+#. EventTrigger interogationComment START IF tmp.intComment > tmp.intCommentSaid
+#. SELECT_FIRST
+#. SHOW_SIDE_MSG main.glasses @EXHAUSTED
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/138/settings/event/1/3/2/message+%231643
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/138/settings/event/1/3/2/message"
+msgid "Hurray..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/139/settings/event/1/0/0/message #1632
+#. EventTrigger interogationHitComment START IF tmp.intHitComment > tmp.intHitCommentSaid
+#. SELECT_FIRST
+#. SHOW_SIDE_MSG main.glasses @SHOCKED
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/139/settings/event/1/0/0/message+%231632
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/139/settings/event/1/0/0/message"
+msgid "Ahhhhh...\\. W-Wait...\\. It didn't hurt?"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/139/settings/event/1/0/1/message #1633
+#. EventTrigger interogationHitComment START IF tmp.intHitComment > tmp.intHitCommentSaid
+#. SELECT_FIRST
+#. SHOW_SIDE_MSG main.sergey @SERIOUS
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/139/settings/event/1/0/1/message+%231633
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/139/settings/event/1/0/1/message"
+msgid "Don't worry, you're using regular pain sensors."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/139/settings/event/1/1/0/message #1644
+#. EventTrigger interogationHitComment START IF tmp.intHitComment > tmp.intHitCommentSaid
+#. SELECT_FIRST
+#. SHOW_SIDE_MSG main.lea @SCARED
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/139/settings/event/1/1/0/message+%231644
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/139/settings/event/1/1/0/message"
+msgid "Sorry!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/139/settings/event/1/1/1/message #1645
+#. EventTrigger interogationHitComment START IF tmp.intHitComment > tmp.intHitCommentSaid
+#. SELECT_FIRST
+#. SHOW_SIDE_MSG main.glasses @EXHAUSTED
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/139/settings/event/1/1/1/message+%231645
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/139/settings/event/1/1/1/message"
+msgid "It's fine.\\. Fortunately it doesn't hurt."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/139/settings/event/1/2/0/message #1646
+#. EventTrigger interogationHitComment START IF tmp.intHitComment > tmp.intHitCommentSaid
+#. SELECT_FIRST
+#. SHOW_SIDE_MSG main.emilie @SUSPICIOUS
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/139/settings/event/1/2/0/message+%231646
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/139/settings/event/1/2/0/message"
+msgid "Whoops!\\. Missed one!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/139/settings/event/1/2/1/message #1647
+#. EventTrigger interogationHitComment START IF tmp.intHitComment > tmp.intHitCommentSaid
+#. SELECT_FIRST
+#. SHOW_SIDE_MSG main.glasses @EMBARRASSED
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/139/settings/event/1/2/1/message+%231647
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/139/settings/event/1/2/1/message"
+msgid "Yeah, I noticed."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/139/settings/event/1/3/0/message #1648
+#. EventTrigger interogationHitComment START IF tmp.intHitComment > tmp.intHitCommentSaid
+#. SELECT_FIRST
+#. SHOW_SIDE_MSG main.emilie @CURIOUS
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/139/settings/event/1/3/0/message+%231648
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/139/settings/event/1/3/0/message"
+msgid "Oh...\\. missed another one!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/139/settings/event/1/3/1/message #1649
+#. EventTrigger interogationHitComment START IF tmp.intHitComment > tmp.intHitCommentSaid
+#. SELECT_FIRST
+#. SHOW_SIDE_MSG main.glasses @EXHAUSTED
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/139/settings/event/1/3/1/message+%231649
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/139/settings/event/1/3/1/message"
+msgid "Okay..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/139/settings/event/1/4/0/0_0/0/message #1650
+#. EventTrigger interogationHitComment START IF tmp.intHitComment > tmp.intHitCommentSaid
+#. SELECT_FIRST
+#. SELECT_RANDOM
+#. SHOW_SIDE_MSG main.emilie @BROKEN
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/139/settings/event/1/4/0/0_0/0/message+%231650
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/139/settings/event/1/4/0/0_0/0/message"
+msgid "Whooops!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/139/settings/event/1/4/0/1_0/0/message #1651
+#. EventTrigger interogationHitComment START IF tmp.intHitComment > tmp.intHitCommentSaid
+#. SELECT_FIRST
+#. SELECT_RANDOM
+#. SHOW_SIDE_MSG main.lea @SHOCKED
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/139/settings/event/1/4/0/1_0/0/message+%231651
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/139/settings/event/1/4/0/1_0/0/message"
+msgid "Sorry!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/139/settings/event/1/4/1/message #1652
+#. EventTrigger interogationHitComment START IF tmp.intHitComment > tmp.intHitCommentSaid
+#. SELECT_FIRST
+#. SHOW_SIDE_MSG main.glasses @TIRED
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/139/settings/event/1/4/1/message+%231652
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/139/settings/event/1/4/1/message"
+msgid "..."
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/144/settings/event/0/message #1657
+#. EventTrigger BuffComment START IF tmp.buffSound
+#. SHOW_SIDE_MSG main.emilie @ASTONISHED
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/144/settings/event/0/message+%231657
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/144/settings/event/0/message"
+msgid "Oh!\\. We can beat the clones!\\. And they make use stronger!\\. Awesome!!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/145/settings/event/0/message #1654
+#. EventTrigger shadyBreak(2) START IF tmp.shadyBreak >= 2
+#. SHOW_SIDE_MSG main.emilie @DETERMINED
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/145/settings/event/0/message+%231654
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/145/settings/event/0/message"
+msgid "Your days are numbered, Sidwell!!"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/146/settings/event/1/message #1655
+#. EventTrigger tposeComment START IF tmp.tposeComment
+#. SHOW_SIDE_MSG main.emilie @SUSPICIOUS
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/146/settings/event/1/message+%231655
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/146/settings/event/1/message"
+msgid "What?"
+msgstr ""
+
+#. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/146/settings/event/3/message #1656
+#. EventTrigger tposeComment START IF tmp.tposeComment
+#. SHOW_SIDE_MSG main.emilie @BROKEN
+#: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/146/settings/event/3/message+%231656
+msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/146/settings/event/3/message"
+msgid "\\s[5]Whaaaaaaaaaaaaaaaaaaaaaaaat?!?!?!"
+msgstr ""

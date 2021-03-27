@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: crosscode 1.4.0-4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-12 23:31+0000\n"
-"PO-Revision-Date: 2021-03-12 23:31+0000\n"
+"POT-Creation-Date: 2021-03-27 11:09+0000\n"
+"PO-Revision-Date: 2021-03-27 11:09+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: uk_UA\n"
@@ -7442,4 +7442,284 @@ msgstr ""
 #: data/maps/autumn-fall/raid/raid-end.json+entities/145/settings/teleportLabel+%2383
 msgctxt "data/maps/autumn-fall/raid/raid-end.json//entities/145/settings/teleportLabel"
 msgid "Back to the Entrance"
+msgstr ""
+
+#. extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json entities/19/settings/event/28/message #10
+#. EventTrigger battleAStart START IF tmp.battleAStart
+#. SHOW_SIDE_MSG main.guild-leader @DETERMINED
+#: extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json+entities/19/settings/event/28/message+%2310
+msgctxt "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json//entities/19/settings/event/28/message"
+msgid "This will be the last pillar enemy! We'll let \\c[3]you decide\\c[0] which element to attack this time!"
+msgstr ""
+
+#. extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json entities/19/settings/event/29/message #12
+#. EventTrigger battleAStart START IF tmp.battleAStart
+#. SHOW_SIDE_MSG main.buggy @GRIN
+#: extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json+entities/19/settings/event/29/message+%2312
+msgctxt "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json//entities/19/settings/event/29/message"
+msgid "Decide quickly! I want to start hitting stuff!"
+msgstr ""
+
+#. extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json entities/23/settings/event/0/thenStep/0/message #47
+#. EventTrigger prepareElement START IF tmp.raid.hitElement
+#. IF !party.alive.Emilie && !party.alive.Luke
+#. SHOW_SIDE_MSG main.buggy @DOWN
+#: extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json+entities/23/settings/event/0/thenStep/0/message+%2347
+msgctxt "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json//entities/23/settings/event/0/thenStep/0/message"
+msgid "Hey! Which element should be destroy?"
+msgstr ""
+
+#. extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json entities/23/settings/event/0/thenStep/1/message #46
+#. EventTrigger prepareElement START IF tmp.raid.hitElement
+#. IF !party.alive.Emilie && !party.alive.Luke
+#. SHOW_SIDE_MSG main.guild-leader @WORRIED
+#: extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json+entities/23/settings/event/0/thenStep/1/message+%2346
+msgctxt "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json//entities/23/settings/event/0/thenStep/1/message"
+msgid "Oh dear... It' seems like Lea is all alone right now. Let's wait for Emilie or Luke to respawn."
+msgstr ""
+
+#. extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json entities/23/settings/event/3/thenStep/0/thenStep/0/message #13
+#. EventTrigger prepareElement START IF tmp.raid.hitElement
+#. IF tmp.raid.otherElement == "HEAT"
+#. IF party.alive.Emilie
+#. SHOW_SIDE_MSG main.emilie @DETERMINED
+#: extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json+entities/23/settings/event/3/thenStep/0/thenStep/0/message+%2313
+msgctxt "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json//entities/23/settings/event/3/thenStep/0/thenStep/0/message"
+msgid "\\c[3]Red blocks\\c[0]! \\c[3]Heat\\c[0] is under fire now!"
+msgstr ""
+
+#. extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json entities/23/settings/event/3/thenStep/0/thenStep/1/message #14
+#. EventTrigger prepareElement START IF tmp.raid.hitElement
+#. IF tmp.raid.otherElement == "HEAT"
+#. IF party.alive.Emilie
+#. SHOW_SIDE_MSG main.schneider @WINK
+#: extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json+entities/23/settings/event/3/thenStep/0/thenStep/1/message+%2314
+msgctxt "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json//entities/23/settings/event/3/thenStep/0/thenStep/1/message"
+msgid "You waited for that one, didn't you?"
+msgstr ""
+
+#. extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json entities/23/settings/event/3/thenStep/0/elseStep/0/message #48
+#. EventTrigger prepareElement START IF tmp.raid.hitElement
+#. IF tmp.raid.otherElement == "HEAT"
+#. IF NOT party.alive.Emilie
+#. SHOW_SIDE_MSG main.luke @NORM_SERIOUS
+#: extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json+entities/23/settings/event/3/thenStep/0/elseStep/0/message+%2348
+msgctxt "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json//entities/23/settings/event/3/thenStep/0/elseStep/0/message"
+msgid "\\c[3]Red blocks\\c[0] targeted now."
+msgstr ""
+
+#. extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json entities/23/settings/event/3/thenStep/1/task #37
+#. EventTrigger prepareElement START IF tmp.raid.hitElement
+#. IF tmp.raid.otherElement == "HEAT"
+#. SET_TASK
+#: extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json+entities/23/settings/event/3/thenStep/1/task+%2337
+msgctxt "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json//entities/23/settings/event/3/thenStep/1/task"
+msgid "Defeat all \\c[3]Red Blocks\\c[0]!"
+msgstr ""
+
+#. extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json entities/23/settings/event/4/thenStep/0/thenStep/0/message #15
+#. EventTrigger prepareElement START IF tmp.raid.hitElement
+#. IF tmp.raid.otherElement == "COLD"
+#. IF party.alive.Luke
+#. SHOW_SIDE_MSG main.luke @NORM_SERIOUS
+#: extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json+entities/23/settings/event/4/thenStep/0/thenStep/0/message+%2315
+msgctxt "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json//entities/23/settings/event/4/thenStep/0/thenStep/0/message"
+msgid "\\c[3]Blue blocks\\c[0] now!"
+msgstr ""
+
+#. extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json entities/23/settings/event/4/thenStep/0/thenStep/1/thenStep/0/message #16
+#. EventTrigger prepareElement START IF tmp.raid.hitElement
+#. IF tmp.raid.otherElement == "COLD"
+#. IF party.alive.Luke
+#. IF party.alive.Emilie
+#. SHOW_SIDE_MSG main.emilie @DETERMINED
+#: extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json+entities/23/settings/event/4/thenStep/0/thenStep/1/thenStep/0/message+%2316
+msgctxt "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json//entities/23/settings/event/4/thenStep/0/thenStep/1/thenStep/0/message"
+msgid "Don't get cold feet now."
+msgstr ""
+
+#. extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json entities/23/settings/event/4/thenStep/0/elseStep/0/message #49
+#. EventTrigger prepareElement START IF tmp.raid.hitElement
+#. IF tmp.raid.otherElement == "COLD"
+#. IF NOT party.alive.Luke
+#. SHOW_SIDE_MSG main.emilie @SUSPICIOUS
+#: extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json+entities/23/settings/event/4/thenStep/0/elseStep/0/message+%2349
+msgctxt "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json//entities/23/settings/event/4/thenStep/0/elseStep/0/message"
+msgid "We're fighting the \\c[0]blue blocks\\c[0]! Shame Tronny isn't around...\n"
+msgstr ""
+
+#. extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json entities/23/settings/event/4/thenStep/1/task #34
+#. EventTrigger prepareElement START IF tmp.raid.hitElement
+#. IF tmp.raid.otherElement == "COLD"
+#. SET_TASK
+#: extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json+entities/23/settings/event/4/thenStep/1/task+%2334
+msgctxt "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json//entities/23/settings/event/4/thenStep/1/task"
+msgid "Defeat all \\c[3]Blue Blocks\\c[0]!"
+msgstr ""
+
+#. extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json entities/23/settings/event/5/thenStep/0/thenStep/0/message #17
+#. EventTrigger prepareElement START IF tmp.raid.hitElement
+#. IF tmp.raid.otherElement == "SHOCK"
+#. IF party.alive.Luke
+#. SHOW_SIDE_MSG main.luke @NORM_SERIOUS
+#: extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json+entities/23/settings/event/5/thenStep/0/thenStep/0/message+%2317
+msgctxt "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json//entities/23/settings/event/5/thenStep/0/thenStep/0/message"
+msgid "Attacking the \\c[3]purple blocks\\c[0]..."
+msgstr ""
+
+#. extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json entities/23/settings/event/5/thenStep/0/thenStep/1/thenStep/0/message #18
+#. EventTrigger prepareElement START IF tmp.raid.hitElement
+#. IF tmp.raid.otherElement == "SHOCK"
+#. IF party.alive.Luke
+#. IF party.alive.Emilie
+#. SHOW_SIDE_MSG main.emilie @DETERMINED
+#: extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json+entities/23/settings/event/5/thenStep/0/thenStep/1/thenStep/0/message+%2318
+msgctxt "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json//entities/23/settings/event/5/thenStep/0/thenStep/1/thenStep/0/message"
+msgid "Shocking!"
+msgstr ""
+
+#. extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json entities/23/settings/event/5/thenStep/0/elseStep/0/message #50
+#. EventTrigger prepareElement START IF tmp.raid.hitElement
+#. IF tmp.raid.otherElement == "SHOCK"
+#. IF NOT party.alive.Luke
+#. SHOW_SIDE_MSG main.emilie @DETERMINED
+#: extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json+entities/23/settings/event/5/thenStep/0/elseStep/0/message+%2350
+msgctxt "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json//entities/23/settings/event/5/thenStep/0/elseStep/0/message"
+msgid "We're fighting the \\c[3]purple blocks\\c[0] "
+msgstr ""
+
+#. extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json entities/23/settings/event/5/thenStep/1/task #35
+#. EventTrigger prepareElement START IF tmp.raid.hitElement
+#. IF tmp.raid.otherElement == "SHOCK"
+#. SET_TASK
+#: extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json+entities/23/settings/event/5/thenStep/1/task+%2335
+msgctxt "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json//entities/23/settings/event/5/thenStep/1/task"
+msgid "Defeat all \\c[3]Purple Blocks\\c[0]!"
+msgstr ""
+
+#. extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json entities/23/settings/event/6/thenStep/0/thenStep/0/message #19
+#. EventTrigger prepareElement START IF tmp.raid.hitElement
+#. IF tmp.raid.otherElement == "WAVE"
+#. IF party.alive.Emilie
+#. SHOW_SIDE_MSG main.emilie @SUSPICIOUS
+#: extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json+entities/23/settings/event/6/thenStep/0/thenStep/0/message+%2319
+msgctxt "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json//entities/23/settings/event/6/thenStep/0/thenStep/0/message"
+msgid "\\c[3]Green blocks\\c[0] now. Still got nothing."
+msgstr ""
+
+#. extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json entities/23/settings/event/6/thenStep/0/elseStep/0/message #51
+#. EventTrigger prepareElement START IF tmp.raid.hitElement
+#. IF tmp.raid.otherElement == "WAVE"
+#. IF NOT party.alive.Emilie
+#. SHOW_SIDE_MSG main.luke @NORM_SERIOUS
+#: extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json+entities/23/settings/event/6/thenStep/0/elseStep/0/message+%2351
+msgctxt "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json//entities/23/settings/event/6/thenStep/0/elseStep/0/message"
+msgid "\\c[3]Green blocks\\c[0] now."
+msgstr ""
+
+#. extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json entities/23/settings/event/6/thenStep/1/task #36
+#. EventTrigger prepareElement START IF tmp.raid.hitElement
+#. IF tmp.raid.otherElement == "WAVE"
+#. SET_TASK
+#: extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json+entities/23/settings/event/6/thenStep/1/task+%2336
+msgctxt "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json//entities/23/settings/event/6/thenStep/1/task"
+msgid "Defeat all \\c[3]Green Blocks\\c[0]!"
+msgstr ""
+
+#. extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json entities/23/settings/event/9/thenStep/0/message #22
+#. EventTrigger prepareElement START IF tmp.raid.hitElement
+#. IF tmp.raid.otherElement == "HEAT"
+#. SHOW_SIDE_MSG main.buggy @GRIN
+#: extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json+entities/23/settings/event/9/thenStep/0/message+%2322
+msgctxt "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json//entities/23/settings/event/9/thenStep/0/message"
+msgid "We put that heat down!"
+msgstr ""
+
+#. extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json entities/23/settings/event/10/thenStep/0/message #23
+#. EventTrigger prepareElement START IF tmp.raid.hitElement
+#. IF tmp.raid.otherElement == "COLD"
+#. SHOW_SIDE_MSG main.schneider @DEFAULT
+#: extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json+entities/23/settings/event/10/thenStep/0/message+%2323
+msgctxt "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json//entities/23/settings/event/10/thenStep/0/message"
+msgid "All blue blocks are out cold."
+msgstr ""
+
+#. extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json entities/23/settings/event/11/thenStep/0/message #24
+#. EventTrigger prepareElement START IF tmp.raid.hitElement
+#. IF tmp.raid.otherElement == "SHOCK"
+#. SHOW_SIDE_MSG main.guild-leader @DETERMINED
+#: extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json+entities/23/settings/event/11/thenStep/0/message+%2324
+msgctxt "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json//entities/23/settings/event/11/thenStep/0/message"
+msgid "Purple blocks defeated. Good Job!"
+msgstr ""
+
+#. extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json entities/23/settings/event/12/thenStep/0/message #25
+#. EventTrigger prepareElement START IF tmp.raid.hitElement
+#. IF tmp.raid.otherElement == "WAVE"
+#. SHOW_SIDE_MSG main.buggy @GRIN
+#: extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json+entities/23/settings/event/12/thenStep/0/message+%2325
+msgctxt "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json//entities/23/settings/event/12/thenStep/0/message"
+msgid "Green Blocks down. Vibe denied."
+msgstr ""
+
+#. extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json entities/30/settings/event/8/message #31
+#. EventTrigger teleportAway START IF tmp.endSequence
+#. SHOW_MSG main.emilie @SWEATY_SMILE
+#: extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json+entities/30/settings/event/8/message+%2331
+msgctxt "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json//entities/30/settings/event/8/message"
+msgid "Well, here we are!\\. Fingers crossed things work out this time!"
+msgstr ""
+
+#. extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json entities/30/settings/event/9/message #32
+#. EventTrigger teleportAway START IF tmp.endSequence
+#. SHOW_MSG main.lea @NERVOUS
+#: extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json+entities/30/settings/event/9/message+%2332
+msgctxt "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json//entities/30/settings/event/9/message"
+msgid "..."
+msgstr ""
+
+#. extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json entities/30/settings/event/10/message #52
+#. EventTrigger teleportAway START IF tmp.endSequence
+#. SHOW_MSG main.lea @NOD
+#: extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json+entities/30/settings/event/10/message+%2352
+msgctxt "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json//entities/30/settings/event/10/message"
+msgid "[nods]"
+msgstr ""
+
+#. extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json entities/31/settings/event/3/thenStep/0/message #38
+#. EventTrigger colorDefeated START IF tmp.raid.colors > tmp.colorsConfirmed
+#. IF tmp.colorsConfirmed == 1
+#. SHOW_SIDE_MSG main.schneider @DEFAULT
+#: extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json+entities/31/settings/event/3/thenStep/0/message+%2338
+msgctxt "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json//entities/31/settings/event/3/thenStep/0/message"
+msgid "Nice work! Next color!"
+msgstr ""
+
+#. extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json entities/31/settings/event/4/thenStep/0/message #39
+#. EventTrigger colorDefeated START IF tmp.raid.colors > tmp.colorsConfirmed
+#. IF tmp.colorsConfirmed == 2
+#. SHOW_SIDE_MSG main.guild-leader @SMILE
+#: extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json+entities/31/settings/event/4/thenStep/0/message+%2339
+msgctxt "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json//entities/31/settings/event/4/thenStep/0/message"
+msgid "Very good, everyone!"
+msgstr ""
+
+#. extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json entities/31/settings/event/5/thenStep/0/thenStep/0/message #40
+#. EventTrigger colorDefeated START IF tmp.raid.colors > tmp.colorsConfirmed
+#. IF tmp.colorsConfirmed == 3
+#. IF party.alive.Emilie
+#. SHOW_SIDE_MSG main.emilie @HAPPY
+#: extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json+entities/31/settings/event/5/thenStep/0/thenStep/0/message+%2340
+msgctxt "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json//entities/31/settings/event/5/thenStep/0/thenStep/0/message"
+msgid "We almost got it!"
+msgstr ""
+
+#. extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json entities/31/settings/event/5/thenStep/0/elseStep/0/message #45
+#. EventTrigger colorDefeated START IF tmp.raid.colors > tmp.colorsConfirmed
+#. IF tmp.colorsConfirmed == 3
+#. IF NOT party.alive.Emilie
+#. SHOW_SIDE_MSG main.guild-leader @EXCITED
+#: extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json+entities/31/settings/event/5/thenStep/0/elseStep/0/message+%2345
+msgctxt "extension/post-game/data/maps/autumn-fall/raid/raid-04-cave-right.json//entities/31/settings/event/5/thenStep/0/elseStep/0/message"
+msgid "We almost got it!"
 msgstr ""

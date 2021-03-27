@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: crosscode 1.4.0-4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-12 23:31+0000\n"
-"PO-Revision-Date: 2021-03-12 23:31+0000\n"
+"POT-Creation-Date: 2021-03-27 11:09+0000\n"
+"PO-Revision-Date: 2021-03-27 11:09+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: vi_VN\n"
@@ -2959,6 +2959,15 @@ msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/134/settings/event
 msgid "\\c[1]Failure on Wave \\v[tmp.tdWave]!\\c[0]"
 msgstr ""
 
+#. data/maps/jungle/caves/questcave-td-1.json entities/134/settings/event/40/elseStep/0/value #807
+#. EventTrigger tdChallengeEnd START IF tmp.tdStarted && ((tmp.tdLife <= 0) || tmp.playerDead || tmp.waveLimitReached) && quest.jungleAdv-1-turret_defense_1.solved
+#. IF NOT tmp.tdWaveLimit >= 1
+#. CHANGE_VAR_LANG
+#: data/maps/jungle/caves/questcave-td-1.json+entities/134/settings/event/40/elseStep/0/value+%23807
+msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/134/settings/event/40/elseStep/0/value"
+msgid " "
+msgstr ""
+
 #. data/maps/jungle/caves/questcave-td-1.json entities/134/settings/event/40/elseStep/1/thenStep/2/value #804
 #. EventTrigger tdChallengeEnd START IF tmp.tdStarted && ((tmp.tdLife <= 0) || tmp.playerDead || tmp.waveLimitReached) && quest.jungleAdv-1-turret_defense_1.solved
 #. IF NOT tmp.tdWaveLimit >= 1
@@ -4890,6 +4899,15 @@ msgstr ""
 #: data/maps/jungle/caves/questcave-td-2.json+entities/158/settings/event/45/thenStep/0/elseStep/0/text+%23881
 msgctxt "data/maps/jungle/caves/questcave-td-2.json//entities/158/settings/event/45/thenStep/0/elseStep/0/text"
 msgid "\\c[1]Failure on Wave \\v[tmp.tdWave]!\\c[0]"
+msgstr ""
+
+#. data/maps/jungle/caves/questcave-td-2.json entities/158/settings/event/45/elseStep/0/value #882
+#. EventTrigger tdChallengeEnd START IF tmp.tdStarted && ((tmp.tdLife <= 0) || tmp.playerDead || tmp.waveLimitReached) && quest.jungleAdv-2-turret_defense_2.solved
+#. IF NOT tmp.tdWaveLimit >= 1
+#. CHANGE_VAR_LANG
+#: data/maps/jungle/caves/questcave-td-2.json+entities/158/settings/event/45/elseStep/0/value+%23882
+msgctxt "data/maps/jungle/caves/questcave-td-2.json//entities/158/settings/event/45/elseStep/0/value"
+msgid " "
 msgstr ""
 
 #. data/maps/jungle/caves/questcave-td-2.json entities/158/settings/event/45/elseStep/1/thenStep/2/value #883
