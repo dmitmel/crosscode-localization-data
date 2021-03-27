@@ -2,11 +2,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: crosscode 1.4.0-4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-27 11:09+0000\n"
-"PO-Revision-Date: 2021-03-27 11:09+0000\n"
+"POT-Creation-Date: 2021-03-27 11:16+0000\n"
+"PO-Revision-Date: 2021-03-27 11:16+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: ru_RU\n"
+"Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -263,7 +263,7 @@ msgstr "Беллоу"
 #: data/areas/forest.json+floors/1/maps/37/name+%23263
 msgctxt "data/areas/forest.json//floors/1/maps/37/name"
 msgid "The Rise"
-msgstr ""
+msgstr "Подъём"
 
 #. data/areas/forest.json floors/2/name #105
 #: data/areas/forest.json+floors/2/name+%23105
@@ -8959,7 +8959,7 @@ msgstr "Понятно..."
 #: data/maps/forest/interior/temple-inner.json+entities/214/settings/teleportLabel+%231
 msgctxt "data/maps/forest/interior/temple-inner.json//entities/214/settings/teleportLabel"
 msgid "Teleport Away"
-msgstr ""
+msgstr "Телепортироваться"
 
 #. data/maps/forest/lab/room-2.json entities/10/settings/condAnims/0/interact/hoverText #6
 #. Prop
@@ -15513,7 +15513,7 @@ msgstr "[нет]"
 #: data/maps/forest/path-10-hidden.json+entities/224/settings/event/8/message+%23386
 msgctxt "data/maps/forest/path-10-hidden.json//entities/224/settings/event/8/message"
 msgid "They closed it off for good, huh?"
-msgstr "Они закрыли его навсегда, хм?"
+msgstr "Значит, они закрыли его насовсем..."
 
 #. data/maps/forest/path-10-hidden.json entities/224/settings/event/10/message #387
 #. EventTrigger ctronRemembersScene START IF plot.line >= 43800
@@ -15593,7 +15593,7 @@ msgstr "И я помог...\\. всему этому случиться."
 #: data/maps/forest/path-10-hidden.json+entities/224/settings/event/20/message+%23396
 msgctxt "data/maps/forest/path-10-hidden.json//entities/224/settings/event/20/message"
 msgid "My task was...\\. to keep watching you."
-msgstr "Моя задача была...\\. следить за тобой."
+msgstr "Моей задачей было...\\. следить за тобой."
 
 #. data/maps/forest/path-10-hidden.json entities/224/settings/event/21/message #397
 #. EventTrigger ctronRemembersScene START IF plot.line >= 43800
@@ -15641,7 +15641,7 @@ msgstr "..."
 #: data/maps/forest/path-10-hidden.json+entities/224/settings/event/26/message+%23402
 msgctxt "data/maps/forest/path-10-hidden.json//entities/224/settings/event/26/message"
 msgid "I suppose that's what I was...\n"
-msgstr "Я полагаю, это то, кем я был..."
+msgstr "Видимо, вот кем я был..."
 
 #. data/maps/forest/path-10-hidden.json entities/224/settings/event/27/message #403
 #. EventTrigger ctronRemembersScene START IF plot.line >= 43800
@@ -15649,7 +15649,7 @@ msgstr "Я полагаю, это то, кем я был..."
 #: data/maps/forest/path-10-hidden.json+entities/224/settings/event/27/message+%23403
 msgctxt "data/maps/forest/path-10-hidden.json//entities/224/settings/event/27/message"
 msgid "A \\c[3]spy\\c[0]...\n"
-msgstr "\\c[3]Шпион\\c[0]..."
+msgstr "\\c[3]Шпионом\\c[0]..."
 
 #. data/maps/forest/path-10-hidden.json entities/224/settings/event/28/message #404
 #. EventTrigger ctronRemembersScene START IF plot.line >= 43800
@@ -15657,7 +15657,7 @@ msgstr "\\c[3]Шпион\\c[0]..."
 #: data/maps/forest/path-10-hidden.json+entities/224/settings/event/28/message+%23404
 msgctxt "data/maps/forest/path-10-hidden.json//entities/224/settings/event/28/message"
 msgid "Deceiving you...\\. all this time."
-msgstr "Обманывающий тебя...\\. всё это время."
+msgstr "Который обманывал тебя...\\. всё это время."
 
 #. data/maps/forest/path-10-hidden.json entities/224/settings/event/29/message #405
 #. EventTrigger ctronRemembersScene START IF plot.line >= 43800
@@ -16499,7 +16499,7 @@ msgstr "Тут такаааая толпища!"
 #: data/maps/forest/path-12.json+entities/829/settings/event/31/message+%23227
 msgctxt "data/maps/forest/path-12.json//entities/829/settings/event/31/message"
 msgid "I know, right?\\. Who would have thought?"
-msgstr "Ага, правда?\\. Кто бы мог подумать?"
+msgstr "И не говори!\\. Кто бы мог подумать?"
 
 #. data/maps/forest/path-12.json entities/829/settings/event/36/message #228
 #. EventTrigger openingScene START IF tmp.openingScene
@@ -16643,7 +16643,7 @@ msgstr "\\c[3]Храм Ку'леро\\c[0], финальный этап Пути
 #: data/maps/forest/path-12.json+entities/829/settings/event/80/message+%23250
 msgctxt "data/maps/forest/path-12.json//entities/829/settings/event/80/message"
 msgid "Within, we hope to finally find the answers."
-msgstr "Внутри него мы надеемся наконец найти ответы."
+msgstr "Внутри него мы надеемся в конце концов найти ответы."
 
 #. data/maps/forest/path-12.json entities/829/settings/event/81/message #240
 #. EventTrigger openingScene START IF tmp.openingScene
@@ -16651,7 +16651,7 @@ msgstr "Внутри него мы надеемся наконец найти о
 #: data/maps/forest/path-12.json+entities/829/settings/event/81/message+%23240
 msgctxt "data/maps/forest/path-12.json//entities/829/settings/event/81/message"
 msgid "To uncover the secret of the Ancients."
-msgstr "Открыть тайну Древних."
+msgstr "Раскрыть тайну Древних."
 
 #. data/maps/forest/path-12.json entities/829/settings/event/82/message #252
 #. EventTrigger openingScene START IF tmp.openingScene
@@ -16699,7 +16699,7 @@ msgstr "ВРЕМЯ ПОДЗЕМЕЕЕЛЬЯЯЯ!!"
 #: data/maps/forest/path-12.json+entities/829/settings/event/114/task+%23255
 msgctxt "data/maps/forest/path-12.json//entities/829/settings/event/114/task"
 msgid "Complete the \\c[3]Ku'lero Temple\\c[0]."
-msgstr ""
+msgstr "Пройдите \\c[3]Храм Ку'леро\\c[0]."
 
 #. data/maps/forest/path-12.json entities/835/settings/dialog/0/text #256
 #. XenoDialog SPAWN IF plot.line >= 46200 && plot.line < 46500 && !tmp.massNPCs

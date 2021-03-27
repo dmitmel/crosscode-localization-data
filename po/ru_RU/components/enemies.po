@@ -2,11 +2,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: crosscode 1.4.0-4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-27 11:09+0000\n"
-"PO-Revision-Date: 2021-03-27 11:09+0000\n"
+"POT-Creation-Date: 2021-03-27 11:16+0000\n"
+"PO-Revision-Date: 2021-03-27 11:16+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: ru_RU\n"
+"Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -654,7 +654,7 @@ msgstr "Волна атакована"
 #: data/enemies/autumn-fall/raid-pillar-large.json+actions/StartReady/2/thenStep/1/text+%238
 msgctxt "data/enemies/autumn-fall/raid-pillar-large.json//actions/StartReady/2/thenStep/1/text"
 msgid "Heat Critical"
-msgstr "Критическое тепло"
+msgstr "Критическое Пламя"
 
 #. data/enemies/autumn-fall/raid-pillar-large.json actions/StartReady/3/thenStep/1/text #10
 #. IF entity.attrib.element == "COLD"
@@ -662,7 +662,7 @@ msgstr "Критическое тепло"
 #: data/enemies/autumn-fall/raid-pillar-large.json+actions/StartReady/3/thenStep/1/text+%2310
 msgctxt "data/enemies/autumn-fall/raid-pillar-large.json//actions/StartReady/3/thenStep/1/text"
 msgid "Cold Critical"
-msgstr "Критический холод"
+msgstr "Критический Холод"
 
 #. data/enemies/autumn-fall/raid-pillar-large.json actions/StartReady/4/thenStep/1/text #13
 #. IF entity.attrib.element == "SHOCK"
@@ -670,7 +670,7 @@ msgstr "Критический холод"
 #: data/enemies/autumn-fall/raid-pillar-large.json+actions/StartReady/4/thenStep/1/text+%2313
 msgctxt "data/enemies/autumn-fall/raid-pillar-large.json//actions/StartReady/4/thenStep/1/text"
 msgid "Shock Critical"
-msgstr "Критический шок"
+msgstr "Критический Шок"
 
 #. data/enemies/autumn-fall/raid-pillar-large.json actions/StartReady/5/thenStep/1/text #14
 #. IF entity.attrib.element == "WAVE"
@@ -678,7 +678,7 @@ msgstr "Критический шок"
 #: data/enemies/autumn-fall/raid-pillar-large.json+actions/StartReady/5/thenStep/1/text+%2314
 msgctxt "data/enemies/autumn-fall/raid-pillar-large.json//actions/StartReady/5/thenStep/1/text"
 msgid "Wave Critical"
-msgstr "Критическая волна"
+msgstr "Критическая Волна"
 
 #. data/enemies/autumn-fall/raid-pillar-large.json meta/species #4
 #: data/enemies/autumn-fall/raid-pillar-large.json+meta/species+%234
@@ -744,7 +744,7 @@ msgstr "[ ВОССТАНОВЛЕНИЕ АУРЫ ]"
 #: data/enemies/autumn-fall/runbot-tremor.json+meta/species+%2336
 msgctxt "data/enemies/autumn-fall/runbot-tremor.json//meta/species"
 msgid "Shaking Robot"
-msgstr "Дрожащий Робот"
+msgstr "Дрожащий робот"
 
 #. data/enemies/autumn-fall/runbot-tremor.json meta/descriptions/0/text #40
 #: data/enemies/autumn-fall/runbot-tremor.json+meta/descriptions/0/text+%2340
@@ -753,8 +753,8 @@ msgid ""
 "A variant of the \\v[combat.name.autumn-fall/runbot-tremor] that seems to be constantly shaking when active. This is because of the powerful \\c[3]Tremor Core\\c[0] that was implemented.\n"
 "Unlike its much colder design brethren, this unique machine attacks with a broader variety of elements and prefers powerful \\c[3]Wave\\c[0] attacks."
 msgstr ""
-"Вид Дрожжи, который постоянно трясётся в активном состоянии. Это из-за мощного \\c[3]Дрожащего Двигателя\\c[0], которое было встроено.\n"
-"В отличие от своих собратьев с более холодным дизайном, эта уникальная машина атакует с более широким набором элементов и предпочитает мощные атаки \\c[3]волной\\c[0]."
+"Подвид Страусоноса, который постоянно трясётся в активном состоянии. Всё из-за мощного встроенного \\c[3]Дрожащего ядра\\c[0].\n"
+"В отличие от своих собратьев с более холодным дизайном, эта уникальная машина атакует с более широким набором элементов и предпочитает мощные \\c[3]волновые\\c[0] атаки."
 
 #. data/enemies/autumn-fall/seahorse-fall.json actions/Flamethrower/6/text #4
 #. SHOW_AR_MSG
@@ -1110,7 +1110,7 @@ msgstr ""
 #: data/enemies/autumn-rh/turret_boss-quest_naval.json+proxies/missilesHoming/action/0/thenStep/0/text+%2341
 msgctxt "data/enemies/autumn-rh/turret_boss-quest_naval.json//proxies/missilesHoming/action/0/thenStep/0/text"
 msgid "[ INTERCEPT THE MISSILES! ]"
-msgstr ""
+msgstr "[ ПЕРЕХВАТ РАКЕТ! ]"
 
 #. data/enemies/autumn-rh/turret_boss-quest_naval.json proxies/missilesHoming/action/15/hit/0/text #35
 #. GENERIC
@@ -1119,7 +1119,7 @@ msgstr ""
 #: data/enemies/autumn-rh/turret_boss-quest_naval.json+proxies/missilesHoming/action/15/hit/0/text+%2335
 msgctxt "data/enemies/autumn-rh/turret_boss-quest_naval.json//proxies/missilesHoming/action/15/hit/0/text"
 msgid "boom effects?"
-msgstr ""
+msgstr "эффекты взрыва?"
 
 #. data/enemies/autumn-rh/turret_boss-quest_naval.json proxies/missilesHoming/action/17/hit/0/text #38
 #. GENERIC
@@ -1128,7 +1128,7 @@ msgstr ""
 #: data/enemies/autumn-rh/turret_boss-quest_naval.json+proxies/missilesHoming/action/17/hit/0/text+%2338
 msgctxt "data/enemies/autumn-rh/turret_boss-quest_naval.json//proxies/missilesHoming/action/17/hit/0/text"
 msgid "boom effects?"
-msgstr ""
+msgstr "эффекты взрыва?"
 
 #. data/enemies/autumn-rh/turret_boss-quest_naval.json proxies/missilesHoming/action/17/missed/0/hit/0/text #42
 #. GENERIC
@@ -1138,7 +1138,7 @@ msgstr ""
 #: data/enemies/autumn-rh/turret_boss-quest_naval.json+proxies/missilesHoming/action/17/missed/0/hit/0/text+%2342
 msgctxt "data/enemies/autumn-rh/turret_boss-quest_naval.json//proxies/missilesHoming/action/17/missed/0/hit/0/text"
 msgid "boom effects?"
-msgstr ""
+msgstr "эффекты взрыва?"
 
 #. data/enemies/autumn-rh/turret_boss-quest_naval.json actions/Init/0/thenStep/0/text #11
 #. IF test
@@ -1169,14 +1169,14 @@ msgstr "[ Щит активирован ]"
 #: data/enemies/autumn-rh/turret_boss-quest_naval.json+actions/StartPartShield/0/text+%232
 msgctxt "data/enemies/autumn-rh/turret_boss-quest_naval.json//actions/StartPartShield/0/text"
 msgid "[ FrontShield On ]"
-msgstr ""
+msgstr "[ Передний щит активирован ]"
 
 #. data/enemies/autumn-rh/turret_boss-quest_naval.json actions/StartAllShields/0/text #3
 #. SHOW_AR_MSG
 #: data/enemies/autumn-rh/turret_boss-quest_naval.json+actions/StartAllShields/0/text+%233
 msgctxt "data/enemies/autumn-rh/turret_boss-quest_naval.json//actions/StartAllShields/0/text"
 msgid "[ DoubleShield On ]"
-msgstr ""
+msgstr "[ Двойной щит активирован ]"
 
 #. data/enemies/autumn-rh/turret_boss-quest_naval.json actions/Target/4/text #5
 #. SHOW_AR_MSG
@@ -1191,7 +1191,7 @@ msgstr "[ ЦЕЛЬ ]"
 #: data/enemies/autumn-rh/turret_boss-quest_naval.json+actions/AntiTurretShot/9/thenStep/0/text+%2339
 msgctxt "data/enemies/autumn-rh/turret_boss-quest_naval.json//actions/AntiTurretShot/9/thenStep/0/text"
 msgid "[ Preparing Missiles ]"
-msgstr ""
+msgstr "[ Подготовка ракет ]"
 
 #. data/enemies/autumn-rh/turret_boss-quest_naval.json actions/AntiTurretShot/9/elseStep/0/text #20
 #. COMBAT_IF
@@ -1199,7 +1199,7 @@ msgstr ""
 #: data/enemies/autumn-rh/turret_boss-quest_naval.json+actions/AntiTurretShot/9/elseStep/0/text+%2320
 msgctxt "data/enemies/autumn-rh/turret_boss-quest_naval.json//actions/AntiTurretShot/9/elseStep/0/text"
 msgid "[ Preparing Missiles ]"
-msgstr ""
+msgstr "[ Подготовка ракет ]"
 
 #. data/enemies/autumn-rh/turret_boss-quest_naval.json actions/AntiTurretShot_2/8/thenStep/0/text #36
 #. COMBAT_IF
@@ -1207,7 +1207,7 @@ msgstr ""
 #: data/enemies/autumn-rh/turret_boss-quest_naval.json+actions/AntiTurretShot_2/8/thenStep/0/text+%2336
 msgctxt "data/enemies/autumn-rh/turret_boss-quest_naval.json//actions/AntiTurretShot_2/8/thenStep/0/text"
 msgid "[Targetting Turret]"
-msgstr ""
+msgstr "[Прицеливание турели]"
 
 #. data/enemies/autumn-rh/turret_boss-quest_naval.json actions/AntiTurretShot_2/8/elseStep/0/text #37
 #. COMBAT_IF
@@ -1215,7 +1215,7 @@ msgstr ""
 #: data/enemies/autumn-rh/turret_boss-quest_naval.json+actions/AntiTurretShot_2/8/elseStep/0/text+%2337
 msgctxt "data/enemies/autumn-rh/turret_boss-quest_naval.json//actions/AntiTurretShot_2/8/elseStep/0/text"
 msgid "[Targetting Turret]"
-msgstr ""
+msgstr "[Прицеливание турели]"
 
 #. data/enemies/autumn-rh/turret_boss-quest_naval.json actions/ReachGoal/0/text #23
 #. SHOW_AR_MSG
@@ -1229,7 +1229,7 @@ msgstr "[ ОРУЖИЕ СМЫЛОСЬ! ]"
 #: data/enemies/autumn-rh/turret_boss-quest_naval.json+actions/StunStart/0/text+%2332
 msgctxt "data/enemies/autumn-rh/turret_boss-quest_naval.json//actions/StunStart/0/text"
 msgid "[ STUN ]"
-msgstr ""
+msgstr "[ ОГЛУШЁН ]"
 
 #. data/enemies/autumn-rh/turret_boss-quest_naval.json meta/species #29
 #: data/enemies/autumn-rh/turret_boss-quest_naval.json+meta/species+%2329
@@ -1415,13 +1415,13 @@ msgstr "Самопровозглашённый воин справедливос
 #: data/enemies/avatar/lily.json+meta/species+%234
 msgctxt "data/enemies/avatar/lily.json//meta/species"
 msgid "A Flower?"
-msgstr ""
+msgstr "Цветок?"
 
 #. data/enemies/avatar/lily.json meta/descriptions/0/text #6
 #: data/enemies/avatar/lily.json+meta/descriptions/0/text+%236
 msgctxt "data/enemies/avatar/lily.json//meta/descriptions/0/text"
 msgid "A hexacast player from a new guild called the Star Chasers. She is quite curious of her new surroundings (and new leader after their previous one was permabanned). While her sweet demeanor is disarming, she fights with the grace of a breeze and as fierce as the tempest!"
-msgstr "Гексагаст из новой гильдии под названием Звёздные Охотники. Ей очень любопытно её новое окружение (и новый лидер после того, как предыдущий был заблокирован навсегда). В то время как её милая манера поведения обезоруживает, она сражается с грацией легкого ветра и яростью, как буря!"
+msgstr "Гексакаст из новой гильдии под названием Звёздные Охотники. Ей очень любопытно её новое окружение (и новый лидер после того, как предыдущий был заблокирован навсегда). В то время как её милая манера поведения обезоруживает, она сражается с грацией легкого ветра и яростью бури!"
 
 #. data/enemies/avatar/shizuka.json meta/species #4
 #: data/enemies/avatar/shizuka.json+meta/species+%234
@@ -1499,8 +1499,8 @@ msgid ""
 "A powerful ape, serving as the unbeaten guardian and champion of the \\c[3]\\v[area.beach.name]\\c[0]. The peaceful task has left him with an eternity of time to ponder the meaning of the universe and at this point he is terminally bored and craves a proper fight.\n"
 "Though at first glance this lanky primate might lack in style and grace, he is actually much more powerful than his distant cousin, the \\v[3]\\v[combat.name.jungle/ape-boss]\\c[0]. In fact, he is able to skillfully wield \\c[3]all four elements\\c[0], a feat almost unheard of outside of experienced \\v[lore.title.seeker]s."
 msgstr ""
-"Могущественная обезьяна, непобедимый защитник и чемпион Лазурного архипелага. Мирная задача оставила ему вечность времени, чтобы обдумать значение вселенной, и в этот момент ему смертельно скучно, и он жаждет достойной битвы.\n"
-"Хотя на первый взгляд этому долговязому примату может не хватать стиля и изящества, на самом деле он намного могущественнее своего дальнего кузена Сына Востока. Фактически, он способен умело владеть всеми четырьмя стихиями, что почти неслыханно, если не считать опытных Искателей."
+"Могущественная обезьяна, непобедимый защитник и чемпион \\c[3]Лазурного архипелага\\c[0]. Мирная задача оставила ему вечность времени, чтобы обдумать значение вселенной, и теперь ему смертельно скучно, и он жаждет достойной битвы.\n"
+"Хотя на первый взгляд этому долговязому примату может не хватать стиля и изящества, на самом деле он намного могущественнее своего дальнего кузена \\c[3]Сына Востока\\c[0]. На самом деле, он способен умело владеть \\c[3]всеми четырьмя элементами\\c[0], что почти неслыханно, если не считать опытных Искателей."
 
 #. data/enemies/beat-boss.json meta/species #1
 #: data/enemies/beat-boss.json+meta/species+%231
@@ -2015,7 +2015,7 @@ msgstr "БЕЙТЕ!"
 #: data/enemies/cold/goat-worker.json+actions/bombKickPassive/1/text+%2312
 msgctxt "data/enemies/cold/goat-worker.json//actions/bombKickPassive/1/text"
 msgid "Preparing bomb..."
-msgstr ""
+msgstr "Готовит бомбу..."
 
 #. data/enemies/cold/goat-worker.json actions/sceneKick/0/thenStep/0/text #11
 #. IF test
@@ -2155,7 +2155,7 @@ msgstr "ОТСТУПЛЕНИЕ"
 #: data/enemies/cold/parrot-gangster-3.json+actions/SceneBomb/0/thenStep/0/text+%2311
 msgctxt "data/enemies/cold/parrot-gangster-3.json//actions/SceneBomb/0/thenStep/0/text"
 msgid "FRUIT!"
-msgstr ""
+msgstr "ФРУКТ!"
 
 #. data/enemies/cold/parrot-gangster-3.json meta/species #1
 #: data/enemies/cold/parrot-gangster-3.json+meta/species+%231
@@ -2711,6 +2711,8 @@ msgid ""
 "A mysterious flame that has taken humanoid form. It is, in fact, so mysterious that barely anything is known about it.\n"
 "However, it is clear that its powerful flame has to \\c[3]first be extinguished\\c[0] before there is any hope of defeating it. Though it is said that the underlying source of the flames is \\c[3]electrical\\c[0] in nature, so beware!"
 msgstr ""
+"Таинственное пламя, принявшее гуманоидную форму. На самом деле, оно настолько загадочно, что о нём почти ничего не известно.\n"
+"Однако ясно, что его мощное пламя необходимо \\c[3]сначала погасить\\c[0], прежде чем появится какая-либо надежда победить его. Хотя говорят, что основной источник огня имеет \\c[3]электрическую\\c[0] природу, так что будьте осторожны!"
 
 #. data/enemies/guest/glitch-boss.json meta/species #4
 #: data/enemies/guest/glitch-boss.json+meta/species+%234
@@ -2728,7 +2730,7 @@ msgstr "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
 #: data/enemies/guest/honeybear.json+meta/species+%234
 msgctxt "data/enemies/guest/honeybear.json//meta/species"
 msgid "Bear "
-msgstr ""
+msgstr "Медведь"
 
 #. data/enemies/guest/honeybear.json meta/descriptions/0/text #7
 #: data/enemies/guest/honeybear.json+meta/descriptions/0/text+%237
@@ -2737,18 +2739,20 @@ msgid ""
 "This powerful being is half machine, half bear and all danger. As if this was not enough, it has entered a symbiotic relationship with an entire hive filled with deadly bee weapons.\n"
 "Against the powerful armor a \\c[3]frontal assault seems hopeless\\c[0] so it might be a good idea to \\c[3]wait for a distraction\\c[0]. Thankfully, this bear is prone to \\c[3]playing with his food\\c[0]..."
 msgstr ""
+"Это могущественное существо - наполовину медведь, наполовину машина, и на все 100% опасность. Как будто этого было недостаточно, оно вступило в симбиотические отношения с целым ульем, наполненным смертоносным пчелиным оружием.\n"
+"Против мощной брони \\c[3]атака в лоб кажется безнадёжной\\c[0], так что неплохо было бы \\c[3]подождать, пока он отвлечётся\\c[0]. К счастью, этот медведь любит \\c[3]играть со своей едой\\c[0]..."
 
 #. data/enemies/guest/sao.json meta/species #4
 #: data/enemies/guest/sao.json+meta/species+%234
 msgctxt "data/enemies/guest/sao.json//meta/species"
 msgid "Ninja"
-msgstr ""
+msgstr "Ниндзя"
 
 #. data/enemies/guest/sao.json meta/descriptions/0/text #6
 #: data/enemies/guest/sao.json+meta/descriptions/0/text+%236
 msgctxt "data/enemies/guest/sao.json//meta/descriptions/0/text"
 msgid "Nin!"
-msgstr ""
+msgstr "Нин!"
 
 #. data/enemies/heat/antlion.json meta/species #4
 #: data/enemies/heat/antlion.json+meta/species+%234
@@ -3071,7 +3075,7 @@ msgid ""
 "This more disciplined variant of the \\c[3]\\v[combat.name.heat/scorpion]\\c[0] has been equipped with a light, back-carried artillery launcher.\n"
 "Because the pincers and stinger weren't already scary enough, apparently."
 msgstr ""
-"Этот более дисциплинированный вид \\c[3]Щипчика\\c[0] был оснащён легкой спинной артиллерийской пусковой установкой.\n"
+"Этот более дисциплинированный вид \\c[3]Щипчика\\c[0] был оснащён лёгкой спинной артиллерийской пусковой установкой.\n"
 "Видимо, потому что клешни и жала не были уже достаточно страшными."
 
 #. data/enemies/heat/scorpion.json meta/species #4
@@ -3229,7 +3233,7 @@ msgstr "Усовершенствованный вариант распростр
 #: data/enemies/heat/special/brew-bubbler.json+proxies/fireBallProxy/action/0/text+%239
 msgctxt "data/enemies/heat/special/brew-bubbler.json//proxies/fireBallProxy/action/0/text"
 msgid "OVERHEAT ATTACK"
-msgstr ""
+msgstr "АТАКА ПЕРЕГРЕВОМ"
 
 #. data/enemies/heat/special/brew-bubbler.json actions/BubbleSingle/4/text #7
 #. SHOW_AR_MSG
@@ -3243,7 +3247,7 @@ msgstr "[ ПУЗЫРЬ ГОТОВИТСЯ ]"
 #: data/enemies/heat/special/brew-bubbler.json+actions/FireShot/1/text+%2310
 msgctxt "data/enemies/heat/special/brew-bubbler.json//actions/FireShot/1/text"
 msgid "[ RELEASING FIRE ]"
-msgstr ""
+msgstr "[ ВЫСВОБОЖДАЕТ ОГОНЬ ]"
 
 #. data/enemies/heat/special/brew-bubbler.json actions/TurnOn/0/thenStep/0/text #4
 #. IF test
@@ -3271,14 +3275,14 @@ msgstr "[Охлаждается]"
 #: data/enemies/heat/special/brew-machine.json+actions/activateShields/1/text+%237
 msgctxt "data/enemies/heat/special/brew-machine.json//actions/activateShields/1/text"
 msgid "[ SHIELDS ON ]"
-msgstr ""
+msgstr "[ ЩИТЫ ВКЛЮЧЕНЫ ]"
 
 #. data/enemies/heat/special/brew-machine.json actions/deactivateShields/1/text #8
 #. SHOW_AR_MSG
 #: data/enemies/heat/special/brew-machine.json+actions/deactivateShields/1/text+%238
 msgctxt "data/enemies/heat/special/brew-machine.json//actions/deactivateShields/1/text"
 msgid "[ RECHARGING SHIELDS... ]"
-msgstr ""
+msgstr "[ ВОССТАНОВЛЕНИЕ ЩИТОВ... ]"
 
 #. data/enemies/heat/special/brew-machine.json meta/species #1
 #: data/enemies/heat/special/brew-machine.json+meta/species+%231
@@ -3453,14 +3457,14 @@ msgid ""
 "Brought to life by fire and only the best of spirits, this golem burns even hotter than its more common brethren, the \\v[combat.name.heat/heat-golem]. It is born from a highly-powered distillery and could not long survive without being fueled by the energy of traditional Ancient beverage.\n"
 "Just like the \\c[3]\\v[combat.name.heat/special/jellyfish-booze]\\c[0] it receives a shield from the Distillery that spawned it. Some mechanism must be activated to make it vulnerable again."
 msgstr ""
-"Оживленный огнем и только лучшим из духов, этот голем горит даже сильнее, чем его более распространенные собратья, Магические существа. Он рожден на мощной винокурне и не сможет долго существовать, если не будет питаться энергией традиционного напитка Древних.\n"
-"Так же, как и Алкогольная медуза, он получает щит от Винокурни, которая его породила. Должен быть активирован некий механизм, чтобы снова сделать его уязвимым."
+"Оживлённый огнём и только лучшим алкоголем, этот голем горит даже сильнее, чем его более распространенные собратья, Магманайзеры. Он рождён на мощной винокурне и не сможет долго существовать, если не будет питаться энергией традиционного напитка Древних.\n"
+"Так же, как и Поллитрджелли, он получает щит от винокурни, которая его породила. Чтобы снова сделать его уязвимым, должен быть активирован некий механизм."
 
 #. data/enemies/heat/special/jellyfish-booze.json meta/species #1
 #: data/enemies/heat/special/jellyfish-booze.json+meta/species+%231
 msgctxt "data/enemies/heat/special/jellyfish-booze.json//meta/species"
 msgid "Alcoholic Jellyfish"
-msgstr "Алкогольная Медуза"
+msgstr "Алкогольная медуза"
 
 #. data/enemies/heat/special/jellyfish-booze.json meta/descriptions/0/text #3
 #: data/enemies/heat/special/jellyfish-booze.json+meta/descriptions/0/text+%233
@@ -3469,8 +3473,8 @@ msgid ""
 "A variant of the \\v[combat.name.heat/jellyfish], but with a much higher amount of alcohol. There are no known natural habitats, but they tend to appear near distilleries with a powerful connection to Ancient energy.\n"
 "Like with their more common relative, they can be temporarily stunned by using their own bubbles against them. Though you might need to get rid of an external shield first!"
 msgstr ""
-"Вид летающей медузы, но с намного большей вместительностью алкоголя. Нет известных естественных мест обитания, но они, как правило, появляются возле винокурен, имеющих мощную связь с энергией Древних.\n"
-"Как и более распространенный родственник, их можно временно оглушить, применив против них собственные пузыри. Хотя, сначала вам придётся избавится от внешнего щита!"
+"Подвид \\v[combat.name.heat/jellyfish], но с намного большим содержанием алкоголя. Нет известных естественных мест обитания, но они, как правило, появляются возле винокурен, имеющих мощную связь с энергией Древних.\n"
+"Как и более распространённого родственника, их можно временно оглушить, применив против них их же пузыри. Хотя сначала вам придётся избавится от внешнего щита!"
 
 #. data/enemies/heat/special/kamikatze-helper.json actions/Activate/1/text #38
 #. SHOW_AR_MSG
@@ -4086,7 +4090,7 @@ msgstr "Механизм"
 #: data/enemies/jungle/special/capture-cage-1.json+actions/shockHitActivate/8/text+%235
 msgctxt "data/enemies/jungle/special/capture-cage-1.json//actions/shockHitActivate/8/text"
 msgid "[Searching target]"
-msgstr ""
+msgstr "[Поиск цели]"
 
 #. data/enemies/jungle/special/capture-cage-1.json actions/startCapture/1/thenStep/8/thenStep/0/text #8
 #. IF entity.hasTmpTarget
@@ -4158,7 +4162,7 @@ msgstr "[ БЕЗ ЭФФЕКТА ]"
 #: data/enemies/jungle/special/ghost-toxic.json+meta/species+%234
 msgctxt "data/enemies/jungle/special/ghost-toxic.json//meta/species"
 msgid "Toxic Being"
-msgstr "Токсическое Создание"
+msgstr "Токсичное существо"
 
 #. data/enemies/jungle/special/ghost-toxic.json meta/descriptions/0/text #6
 #: data/enemies/jungle/special/ghost-toxic.json+meta/descriptions/0/text+%236
@@ -4167,8 +4171,8 @@ msgid ""
 "A variant of the \\v[combat.name.jungle/ghost] but even further empowered by the toxic energy of the city \\v[area.jungle-city.name].\n"
 "It is unclear which did more to fuel it's toxicity: The city's waste or the negative feelings of its population."
 msgstr ""
-"Вид Призрачного существа, но ещё сильнее усиливается от токсической энергии Твердыни Бейзина.\n"
-"Неясно, что больше способствовало его токсичности: городские отходы или негативные чувства его населения."
+"Подвид Эктовольта, но ещё сильнее усиленный токсичной энергией Твердыни Бэйзина.\n"
+"Неясно, что больше способствовало усилению его токсичности: городские отходы или негативные чувства его населения."
 
 #. data/enemies/jungle/special/guard.json meta/species #4
 #: data/enemies/jungle/special/guard.json+meta/species+%234
@@ -4271,21 +4275,21 @@ msgstr "[ ИЗУЧАЮ ]"
 #: data/enemies/jungle/special/npc-escortee-greeny.json+actions/EscortCombatIdle/2/thenStep/1/text+%2317
 msgctxt "data/enemies/jungle/special/npc-escortee-greeny.json//actions/EscortCombatIdle/2/thenStep/1/text"
 msgid "[ RECHARGING SALT ]"
-msgstr ""
+msgstr "[ ВОССТАНОВЛЕНИЕ СОЛИ ]"
 
 #. data/enemies/jungle/special/npc-escortee-greeny.json actions/EscortDodge/0/text #28
 #. SHOW_AR_MSG
 #: data/enemies/jungle/special/npc-escortee-greeny.json+actions/EscortDodge/0/text+%2328
 msgctxt "data/enemies/jungle/special/npc-escortee-greeny.json//actions/EscortDodge/0/text"
 msgid "DODGE"
-msgstr ""
+msgstr "УКЛОНЕНИЕ"
 
 #. data/enemies/jungle/special/npc-escortee-greeny.json actions/EscortHit/2/text #10
 #. SHOW_AR_MSG
 #: data/enemies/jungle/special/npc-escortee-greeny.json+actions/EscortHit/2/text+%2310
 msgctxt "data/enemies/jungle/special/npc-escortee-greeny.json//actions/EscortHit/2/text"
 msgid "[ DANGER! ]"
-msgstr ""
+msgstr "[ ОПАСНОСТЬ! ]"
 
 #. data/enemies/jungle/special/npc-escortee-greeny.json actions/EscortHit/4/thenStep/1/text #29
 #. IF entity.attrib.startSalting
@@ -4293,7 +4297,7 @@ msgstr ""
 #: data/enemies/jungle/special/npc-escortee-greeny.json+actions/EscortHit/4/thenStep/1/text+%2329
 msgctxt "data/enemies/jungle/special/npc-escortee-greeny.json//actions/EscortHit/4/thenStep/1/text"
 msgid "[ RECHARGING SALT ]"
-msgstr ""
+msgstr "[ ВОССТАНОВЛЕНИЕ СОЛИ ]"
 
 #. data/enemies/jungle/special/npc-escortee-greeny.json actions/EscortDead/3/text #9
 #. SHOW_AR_MSG
@@ -4328,14 +4332,14 @@ msgstr "[ ПОГЛОЩЕНИЕ ОТМЕНЕНО ]"
 #: data/enemies/jungle/special/npc-escortee-greeny.json+actions/EscortSaltSteam/12/text+%2325
 msgctxt "data/enemies/jungle/special/npc-escortee-greeny.json//actions/EscortSaltSteam/12/text"
 msgid "[ BUILDING STEAM ]"
-msgstr ""
+msgstr "[ ПОДГОТОВКА ПАРА ]"
 
 #. data/enemies/jungle/special/npc-escortee-greeny.json actions/EscortSaltSteam/29/text #30
 #. SHOW_AR_MSG
 #: data/enemies/jungle/special/npc-escortee-greeny.json+actions/EscortSaltSteam/29/text+%2330
 msgctxt "data/enemies/jungle/special/npc-escortee-greeny.json//actions/EscortSaltSteam/29/text"
 msgid "[ RECHARGING SALT ]"
-msgstr ""
+msgstr "[ ВОССТАНОВЛЕНИЕ СОЛИ ]"
 
 #. data/enemies/jungle/special/npc-escortee-greeny.json meta/species #4
 #: data/enemies/jungle/special/npc-escortee-greeny.json+meta/species+%234
@@ -4593,8 +4597,8 @@ msgid ""
 "The young and hot-headed boss of the Papagang. He only just recently took over the leadership position as the old boss retired. \n"
 "Though he seems vain and undisciplined, he is in fact a master with his powerful weaponry. Precise \\c[3]machinegun fire\\c[0], explosive \\c[3]fruitbombs\\c[0] and especially his tenacious \\c[3]seeking missiles\\c[0] have destroyed many a rival in the past."
 msgstr ""
-"Молодой и вспыльчивый босс Папаганов. Он только недавно занял руководящую должность, когда старый босс ушел на пенсию.\n"
-"Хотя он кажется тщеславным и недисциплинированным, на самом деле он мастер со своим мощным оружием. Точный \\c[3]пламенный пулемёт\\c[0], взрывчатые \\c[3]фруктовые бомбы\\c[0] и особенно его цепкие \\c[3]поисковые ракеты\\c[0] в прошлом уничтожили многих соперников."
+"Молодой и вспыльчивый босс Попуганзы. Он только недавно занял руководящую должность, когда старый босс ушёл на пенсию.\n"
+"Хотя он кажется тщеславным и недисциплинированным, на самом деле он мастерски обращается со своим мощным оружием. Точный \\c[3]пламенный пулемёт\\c[0], взрывчатые \\c[3]фруктовые бомбы\\c[0] и особенно его цепкие \\c[3]поисковые ракеты\\c[0] в прошлом уничтожили многих соперников."
 
 #. data/enemies/jungle/special/plant-hidden-shock.json actions/init/0/thenStep/0/text #6
 #. IF test
@@ -4634,7 +4638,7 @@ msgstr "[Щит восстановлен]"
 #: data/enemies/jungle/special/plant-hidden-shock.json+actions/StartFullShield/1/thenStep/1/text+%2332
 msgctxt "data/enemies/jungle/special/plant-hidden-shock.json//actions/StartFullShield/1/thenStep/1/text"
 msgid "[ SHIELD RESTORED ]"
-msgstr ""
+msgstr "[ ЩИТ ВОССТАНОВЛЕН ]"
 
 #. data/enemies/jungle/special/plant-hidden-shock.json actions/EndFullShield/9/text #30
 #. SHOW_AR_MSG
@@ -4790,7 +4794,7 @@ msgid ""
 "A close relative to the regular \\c[3]\\v[combat.name.jungle/blob]\\c[0], this specimen prefers to live underground. Usually they have a close connection to intensive points of Ancient power that they are eager to protect.\n"
 "Since it is more prone to traverse on strict paths, one might think of it as very inflexible. It is, however, just as wobbly as its overworldly relative."
 msgstr ""
-"Этот близкий к обычному \\c[3]Гелевику\\c[0] подвид, предпочитает жить под землёй. Обычно они тесно связаны с выплесками энергии Древних, которые стремятся защищать.\n"
+"Будучи близким родственником обычного \\c[3]Гелевика\\c[0], этот подвид предпочитает жить под землёй. Обычно они тесно связаны с выплесками энергии Древних, которые стремятся защищать.\n"
 "В силу его склонности следовать лишь по чётко ограниченному пути, можно подумать, что этот подвид крайне жёсткий. Тем не менее, он так же хлипок, как и его наземный собрат."
 
 #. data/enemies/jungle/special/quest_td_boss_slime_1.json meta/species #4
@@ -4897,7 +4901,7 @@ msgstr "(УГОЛ)"
 #: data/enemies/jungle/special/quest_td_buffel_1.json+actions/TDDash/9/thenStep/33/thenStep/3/text+%231
 msgctxt "data/enemies/jungle/special/quest_td_buffel_1.json//actions/TDDash/9/thenStep/33/thenStep/3/text"
 msgid "[Recover Shield...]"
-msgstr "[Восстанавливаю щит...]"
+msgstr "[Восстановление щита...]"
 
 #. data/enemies/jungle/special/quest_td_buffel_1.json actions/TDStun/15/text #42
 #. SHOW_AR_MSG
@@ -5043,7 +5047,7 @@ msgstr "[ОПАСНОСТЬ!]"
 #: data/enemies/jungle/special/quest_td_fish_1.json+actions/TDShootStrafe/20/thenStep/1/text+%2337
 msgctxt "data/enemies/jungle/special/quest_td_fish_1.json//actions/TDShootStrafe/20/thenStep/1/text"
 msgid "[Recover Shield...]"
-msgstr "[Восстанавливаю щит...]"
+msgstr "[Восстановление щита...]"
 
 #. data/enemies/jungle/special/quest_td_fish_1.json actions/StartFullShield/0/thenStep/0/text #36
 #. IF test
@@ -5160,7 +5164,7 @@ msgstr "[ОПАСНОСТЬ!]"
 #: data/enemies/jungle/special/quest_td_plant_1.json+actions/TDEvade/12/thenStep/4/text+%231
 msgctxt "data/enemies/jungle/special/quest_td_plant_1.json//actions/TDEvade/12/thenStep/4/text"
 msgid "[Recover Shield...]"
-msgstr "[Восстанавливаю щит...]"
+msgstr "[Восстановление щита...]"
 
 #. data/enemies/jungle/special/quest_td_plant_1.json actions/StartFullShield/0/thenStep/0/text #25
 #. IF test
@@ -5278,7 +5282,7 @@ msgstr "[ОПАСНОСТЬ!]"
 #: data/enemies/jungle/special/quest_td_shockcat_1.json+actions/TDEvade/19/thenStep/4/text+%231
 msgctxt "data/enemies/jungle/special/quest_td_shockcat_1.json//actions/TDEvade/19/thenStep/4/text"
 msgid "[Recover Shield...]"
-msgstr "[Восстанавливаю щит...]"
+msgstr "[Восстановление щита...]"
 
 #. data/enemies/jungle/special/quest_td_shockcat_1.json actions/StartFullShield/0/thenStep/0/text #37
 #. IF test
@@ -5401,7 +5405,7 @@ msgstr "[ОПАСНОСТЬ!]"
 #: data/enemies/jungle/special/quest_td_shockcat_2.json+actions/TDEvade/19/thenStep/4/text+%231
 msgctxt "data/enemies/jungle/special/quest_td_shockcat_2.json//actions/TDEvade/19/thenStep/4/text"
 msgid "[Recover Shield...]"
-msgstr "[Восстанавливаю щит...]"
+msgstr "[Восстановление щита...]"
 
 #. data/enemies/jungle/special/quest_td_shockcat_2.json actions/StartFullShield/0/thenStep/0/text #37
 #. IF test
@@ -5447,7 +5451,7 @@ msgstr ""
 #: data/enemies/jungle/special/shockat-capture.json+actions/CaptureStart/3/thenStep/0/text+%2331
 msgctxt "data/enemies/jungle/special/shockat-capture.json//actions/CaptureStart/3/thenStep/0/text"
 msgid "[ CAPTURING ]"
-msgstr ""
+msgstr "[ ПОИМКА ]"
 
 #. data/enemies/jungle/special/shockat-capture.json actions/CaptureStart/3/thenStep/1/thenStep/0/text #26
 #. IF entity.hasTmpTarget
@@ -5487,7 +5491,7 @@ msgstr ""
 #: data/enemies/jungle/special/shockat-capture.json+actions/KillSurvive/0/text+%2335
 msgctxt "data/enemies/jungle/special/shockat-capture.json//actions/KillSurvive/0/text"
 msgid "\\c[3][ !!!\\c[0] \\c[1]HAX SURVIVAL\\c[0] \\c[3]!!! ]\\c[0]"
-msgstr ""
+msgstr "\\c[3][ !!!\\c[0] \\c[1]УСТОЙЧИВОСТЬ К ХАКУ\\c[0] \\c[3]!!! ]\\c[0]"
 
 #. data/enemies/jungle/special/shockat-capture.json meta/species #4
 #: data/enemies/jungle/special/shockat-capture.json+meta/species+%234
@@ -5503,6 +5507,8 @@ msgid ""
 "\n"
 "Conveniently their existence has been discovered by a smart Shad just when they could prove useful to power a brand-new generator!"
 msgstr ""
+"Этот жёлтый вариант обыкновенного Шокота обычно обитает в более отдалённых местах, чем их фиолетовые собратья. Они известны тем, что имеют еще более сильный и стабильный выплеск электроэнергии, что делает их очень полезными для запитывания устройств!\n"
+"К счастью, их существование было обнаружено умным шадом как раз тогда, когда они могли оказаться полезными для питания совершенно нового генератора!"
 
 #. data/enemies/jungle/special/snowman-jungle-1.json actions/AdjustEnemy/0/thenStep/0/text #18
 #. IF test
@@ -6570,7 +6576,7 @@ msgstr ""
 #: data/enemies/minibosses/snow-megatank-orb.json+meta/species+%232
 msgctxt "data/enemies/minibosses/snow-megatank-orb.json//meta/species"
 msgid "Orb of Tank"
-msgstr ""
+msgstr "Сфера Танка"
 
 #. data/enemies/minibosses/spider-black.json meta/species #4
 #: data/enemies/minibosses/spider-black.json+meta/species+%234
@@ -6711,7 +6717,7 @@ msgstr "Автоматический часовой"
 #: data/enemies/rhombus/meerkat-car.json+meta/species+%236
 msgctxt "data/enemies/rhombus/meerkat-car.json//meta/species"
 msgid "Driving Mammal"
-msgstr ""
+msgstr "Млекопитающее-водитель"
 
 #. data/enemies/rhombus/meerkat-car.json meta/descriptions/0/text #8
 #: data/enemies/rhombus/meerkat-car.json+meta/descriptions/0/text+%238
@@ -6723,7 +6729,7 @@ msgstr "Более умный, но безрассудный горностай,
 #: data/enemies/rhombus/meerkat-delorean.json+meta/species+%236
 msgctxt "data/enemies/rhombus/meerkat-delorean.json//meta/species"
 msgid "Futuristic Mammal"
-msgstr ""
+msgstr "Футуристическое млекопитающее"
 
 #. data/enemies/rhombus/meerkat-delorean.json meta/descriptions/0/text #8
 #: data/enemies/rhombus/meerkat-delorean.json+meta/descriptions/0/text+%238
@@ -7048,7 +7054,7 @@ msgstr "Нелегальный часовой"
 #: data/enemies/turret-rhg-1.json+meta/descriptions/0/text+%234
 msgctxt "data/enemies/turret-rhg-1.json//meta/descriptions/0/text"
 msgid "A illegally modified variant of the popular \\c[3]Rhombus Turret\\c[0], intended to be smuggled to the mainland for all kinds of nefarious schemes. Unlike the standard model this machine also comes with a shield."
-msgstr "Незаконно модифицированный вариант популярной \\c[3]Турели Ромба\\c[0], предназначенный для контрабанды на материк для всех видов гнусных планов. В отличие от стандартной модели, эта машина поставляется с щитом."
+msgstr "Незаконно модифицированный вариант популярной \\c[3]Турели Ромба\\c[0], предназначенный для контрабанды на материк для всевозможных гнусных планов. В отличие от стандартной модели, эта машина поставляется с щитом."
 
 #. data/enemies/turret-rhombus.json meta/species #2
 #: data/enemies/turret-rhombus.json+meta/species+%232
@@ -7079,7 +7085,7 @@ msgstr "Парящая рыба"
 #: extension/post-game/data/enemies/beach/fish.json+meta/descriptions/0/text+%2331
 msgctxt "extension/post-game/data/enemies/beach/fish.json//meta/descriptions/0/text"
 msgid "While the \\c[3]\\v[combat.name.jungle/fish]\\c[0] usually become quite loud when forced to fight, these colorful fish will puff up and transform into a literal flamethrower. Keep away from them and use cold based attacks to cool them down. "
-msgstr ""
+msgstr "В то время как \\c[3]Удильщики\\c[0] обычно становятся довольно громкими, когда вынуждены драться, эти разноцветные рыбы надуваются и превращаются в настоящий огнемёт. Держитесь подальше от них и используйте холодные атаки, чтобы охладить их."
 
 #. extension/post-game/data/enemies/beach/sea-star-cold.json actions/QuestEscort-TargetEscortee/11/text #27
 #. SHOW_AR_MSG
@@ -7092,7 +7098,7 @@ msgstr "!!!"
 #: extension/post-game/data/enemies/beach/sea-star-cold.json+meta/species+%234
 msgctxt "extension/post-game/data/enemies/beach/sea-star-cold.json//meta/species"
 msgid "Marine Menace"
-msgstr ""
+msgstr "Гроза морей"
 
 #. extension/post-game/data/enemies/beach/sea-star-cold.json meta/descriptions/0/text #6
 #: extension/post-game/data/enemies/beach/sea-star-cold.json+meta/descriptions/0/text+%236
@@ -7101,6 +7107,8 @@ msgid ""
 "These Invertebrates evolved into huge proportions and inhabit most of the \\c[3]\\v[area.beach.name]\\c[0].\n"
 "According to some research by the \\c[3]\\v[lore.title.faction-wave-main]\\c[0] all the star fishes in the \\c[3]\\v[area.beach.name]\\c[0] become agitated once provoked. Who would have guessed?"
 msgstr ""
+"Эти беспозвоночные достигли огромных размеров и в большинстве своём населяют \\c[3]Лазурный архипелаг\\c[0].\n"
+"Согласно некоторым исследованиям \\c[3]Сторонников баланса\\c[0] все морские звёзды в \\c[3]Лазурном архипелаге\\c[0] будут возбуждены, если их спровоцировать. Кто бы мог подумать?"
 
 #. extension/post-game/data/enemies/beach/sea-star-heat.json actions/QuestEscort-TargetEscortee/11/text #27
 #. SHOW_AR_MSG
@@ -7113,7 +7121,7 @@ msgstr "!!!"
 #: extension/post-game/data/enemies/beach/sea-star-heat.json+meta/species+%234
 msgctxt "extension/post-game/data/enemies/beach/sea-star-heat.json//meta/species"
 msgid "Marine Menace"
-msgstr ""
+msgstr "Гроза морей"
 
 #. extension/post-game/data/enemies/beach/sea-star-heat.json meta/descriptions/0/text #6
 #: extension/post-game/data/enemies/beach/sea-star-heat.json+meta/descriptions/0/text+%236
@@ -7122,6 +7130,8 @@ msgid ""
 "These Invertebrates evolved into huge proportions and inhabit most of the \\c[3]\\v[area.beach.name]\\c[0].\n"
 "According to some research by the \\c[3]\\v[lore.title.faction-wave-main]\\c[0] all the star fishes in the \\c[3]\\v[area.beach.name]\\c[0] become agitated once provoked. Who would have guessed?"
 msgstr ""
+"Эти беспозвоночные достигли огромных размеров и в большинстве своём населяют \\c[3]Лазурный архипелаг\\c[0].\n"
+"Согласно некоторым исследованиям \\c[3]Сторонников баланса\\c[0] все морские звёзды в \\c[3]Лазурном архипелаге\\c[0] будут возбуждены, если их спровоцировать. Кто бы мог подумать?"
 
 #. extension/post-game/data/enemies/beach/sea-star-shock.json actions/QuestEscort-TargetEscortee/11/text #27
 #. SHOW_AR_MSG
@@ -7134,7 +7144,7 @@ msgstr "!!!"
 #: extension/post-game/data/enemies/beach/sea-star-shock.json+meta/species+%234
 msgctxt "extension/post-game/data/enemies/beach/sea-star-shock.json//meta/species"
 msgid "Marine Menace"
-msgstr ""
+msgstr "Гроза морей"
 
 #. extension/post-game/data/enemies/beach/sea-star-shock.json meta/descriptions/0/text #6
 #: extension/post-game/data/enemies/beach/sea-star-shock.json+meta/descriptions/0/text+%236
@@ -7143,6 +7153,8 @@ msgid ""
 "These Invertebrates evolved into huge proportions and inhabit most of the \\c[3]\\v[area.beach.name]\\c[0].\n"
 "According to some research by the \\c[3]\\v[lore.title.faction-wave-main]\\c[0] all the star fishes in the \\c[3]\\v[area.beach.name]\\c[0] become agitated once provoked. Who would have guessed?"
 msgstr ""
+"Эти беспозвоночные достигли огромных размеров и в большинстве своём населяют \\c[3]Лазурный архипелаг\\c[0].\n"
+"Согласно некоторым исследованиям \\c[3]Сторонников баланса\\c[0] все морские звёзды в \\c[3]Лазурном архипелаге\\c[0] будут возбуждены, если их спровоцировать. Кто бы мог подумать?"
 
 #. extension/post-game/data/enemies/beach/sea-star-wave.json actions/QuestEscort-TargetEscortee/11/text #27
 #. SHOW_AR_MSG
@@ -7155,7 +7167,7 @@ msgstr "!!!"
 #: extension/post-game/data/enemies/beach/sea-star-wave.json+meta/species+%234
 msgctxt "extension/post-game/data/enemies/beach/sea-star-wave.json//meta/species"
 msgid "Marine Menace"
-msgstr ""
+msgstr "Гроза морей"
 
 #. extension/post-game/data/enemies/beach/sea-star-wave.json meta/descriptions/0/text #6
 #: extension/post-game/data/enemies/beach/sea-star-wave.json+meta/descriptions/0/text+%236
@@ -7164,6 +7176,8 @@ msgid ""
 "These Invertebrates evolved into huge proportions and inhabit most of the \\c[3]\\v[area.beach.name]\\c[0].\n"
 "According to some research by the \\c[3]\\v[lore.title.faction-wave-main]\\c[0] all the star fishes in the \\c[3]\\v[area.beach.name]\\c[0] become agitated once provoked. Who would have guessed?"
 msgstr ""
+"Эти беспозвоночные достигли огромных размеров и в большинстве своём населяют \\c[3]Лазурный архипелаг\\c[0].\n"
+"Согласно некоторым исследованиям \\c[3]Сторонников баланса\\c[0] все морские звёзды в \\c[3]Лазурном архипелаге\\c[0] будут возбуждены, если их спровоцировать. Кто бы мог подумать?"
 
 #. extension/post-game/data/enemies/beach/special/blob-salt.json actions/QuestEscort-TargetEscortee/12/text #27
 #. SHOW_AR_MSG
@@ -7185,34 +7199,34 @@ msgstr "ПЕРЕНАЦЕЛИВАНИЕ"
 #: extension/post-game/data/enemies/beach/special/blob-salt.json+actions/QuestWavePacifyPossible/0/text+%2342
 msgctxt "extension/post-game/data/enemies/beach/special/blob-salt.json//actions/QuestWavePacifyPossible/0/text"
 msgid "[ TIRED ]"
-msgstr ""
+msgstr "[ УСТАЛ ]"
 
 #. extension/post-game/data/enemies/beach/special/blob-salt.json actions/QuestWavePacifyStart/1/text #37
 #. SHOW_AR_MSG
 #: extension/post-game/data/enemies/beach/special/blob-salt.json+actions/QuestWavePacifyStart/1/text+%2337
 msgctxt "extension/post-game/data/enemies/beach/special/blob-salt.json//actions/QuestWavePacifyStart/1/text"
 msgid "[ PACIFIED ]"
-msgstr ""
+msgstr "[ УСПОКОЕН ]"
 
 #. extension/post-game/data/enemies/beach/special/blob-salt.json actions/QuestWavePacifyEnd/5/text #38
 #. SHOW_AR_MSG
 #: extension/post-game/data/enemies/beach/special/blob-salt.json+actions/QuestWavePacifyEnd/5/text+%2338
 msgctxt "extension/post-game/data/enemies/beach/special/blob-salt.json//actions/QuestWavePacifyEnd/5/text"
 msgid "[ FURIOUS AGAIN ]"
-msgstr ""
+msgstr "[ СНОВА В ЯРОСТИ ]"
 
 #. extension/post-game/data/enemies/beach/special/blob-salt.json actions/KillSurvive/0/text #35
 #. SHOW_AR_MSG
 #: extension/post-game/data/enemies/beach/special/blob-salt.json+actions/KillSurvive/0/text+%2335
 msgctxt "extension/post-game/data/enemies/beach/special/blob-salt.json//actions/KillSurvive/0/text"
 msgid "\\c[3][ !!!\\c[0] \\c[1]HAX SURVIVAL\\c[0] \\c[3]!!! ]\\c[0]"
-msgstr ""
+msgstr "\\c[3][ !!!\\c[0] \\c[1]УСТОЙЧИВОСТЬ К ХАКУ\\c[0] \\c[3]!!! ]\\c[0]"
 
 #. extension/post-game/data/enemies/beach/special/blob-salt.json meta/species #4
 #: extension/post-game/data/enemies/beach/special/blob-salt.json+meta/species+%234
 msgctxt "extension/post-game/data/enemies/beach/special/blob-salt.json//meta/species"
 msgid "Salty Gelatin Mass "
-msgstr ""
+msgstr "Солёная Желатиновая Масса"
 
 #. extension/post-game/data/enemies/beach/special/blob-salt.json meta/descriptions/0/text #33
 #: extension/post-game/data/enemies/beach/special/blob-salt.json+meta/descriptions/0/text+%2333
@@ -7228,19 +7242,19 @@ msgstr ""
 #: extension/post-game/data/enemies/beach/turtle-man.json+meta/species+%234
 msgctxt "extension/post-game/data/enemies/beach/turtle-man.json//meta/species"
 msgid "Masterful Repitile"
-msgstr ""
+msgstr "Могущественная рептилия"
 
 #. extension/post-game/data/enemies/beach/turtle-man.json meta/descriptions/0/text #6
 #: extension/post-game/data/enemies/beach/turtle-man.json+meta/descriptions/0/text+%236
 msgctxt "extension/post-game/data/enemies/beach/turtle-man.json//meta/descriptions/0/text"
 msgid "A peace loving creature that is often mistaken for easy prey due to its timid nature. However once provoked it will transform into a vicious bipedal humanoid. in this form it is able to quickly evade attacks and use its bone trident to perform a devastating dive attack."
-msgstr ""
+msgstr "Миролюбивое существо, которого часто принимают за легкую добычу из-за его робкого характера. Однако, как только его спровоцируют, он превратится в жестокого двуногого гуманоида. В этой форме он может быстро уклоняться от атак и использовать свой костяной трезубец для сокрушительной атаки пикированием."
 
 #. extension/post-game/data/enemies/beach/turtle-man.json meta/descriptions/1/text #8
 #: extension/post-game/data/enemies/beach/turtle-man.json+meta/descriptions/1/text+%238
 msgctxt "extension/post-game/data/enemies/beach/turtle-man.json//meta/descriptions/1/text"
 msgid "Researchers who made friends with some of these turtles found that they are great listeners."
-msgstr ""
+msgstr "Исследователи, подружившиеся с некоторыми из этих черепах, обнаружили, что они прекрасные слушатели."
 
 #. extension/post-game/data/enemies/beach/worm.json meta/species #4
 #: extension/post-game/data/enemies/beach/worm.json+meta/species+%234
@@ -7252,7 +7266,7 @@ msgstr "Червь"
 #: extension/post-game/data/enemies/beach/worm.json+meta/descriptions/0/text+%236
 msgctxt "extension/post-game/data/enemies/beach/worm.json//meta/descriptions/0/text"
 msgid "A close relative to the \\c[3]\\v[combat.name.heat/sandworm]\\c[0], this worm shares many features with it. However, a keen eye quickly spots the unique transformation it exhibits when exposed to the \\c[3]Cold\\c[0] element. Its body becomes almost impregnable. If only there was a way to warm it back up..."
-msgstr ""
+msgstr "Будучи близким родственником \\c[3]Тима\\c[0], этот червь имеет с ним много общих черт. Однако зоркий глаз быстро замечает уникальную трансформацию, которую он проявляет при воздействии элементом \\c[3]Холода\\c[0]. Его тело становится практически неприступным. Если бы только был способ согреть его..."
 
 #. extension/post-game/data/enemies/boss/shady-clone.json proxies/playerHack/action/4/text #4
 #. GENERIC
@@ -7305,37 +7319,37 @@ msgstr "????"
 #: extension/post-game/data/enemies/boss/shady.json+actions/BoostDefense/9/text+%237
 msgctxt "extension/post-game/data/enemies/boss/shady.json//actions/BoostDefense/9/text"
 msgid "Boosting Defense"
-msgstr ""
+msgstr "Усиление защиты"
 
 #. extension/post-game/data/enemies/boss/shady.json meta/species #4
 #: extension/post-game/data/enemies/boss/shady.json+meta/species+%234
 msgctxt "extension/post-game/data/enemies/boss/shady.json//meta/species"
 msgid "Copy of a Copy"
-msgstr ""
+msgstr "Копия копии"
 
 #. extension/post-game/data/enemies/boss/shady.json meta/descriptions/0/text #10
 #: extension/post-game/data/enemies/boss/shady.json+meta/descriptions/0/text+%2310
 msgctxt "extension/post-game/data/enemies/boss/shady.json//meta/descriptions/0/text"
 msgid "Well played."
-msgstr ""
+msgstr "Славно сыграно."
 
 #. extension/post-game/data/enemies/final/colibri.json meta/species #1
 #: extension/post-game/data/enemies/final/colibri.json+meta/species+%231
 msgctxt "extension/post-game/data/enemies/final/colibri.json//meta/species"
 msgid "Silent Sniper"
-msgstr ""
+msgstr "Тихий снайпер"
 
 #. extension/post-game/data/enemies/final/colibri.json meta/descriptions/0/text #3
 #: extension/post-game/data/enemies/final/colibri.json+meta/descriptions/0/text+%233
 msgctxt "extension/post-game/data/enemies/final/colibri.json//meta/descriptions/0/text"
 msgid "Armed with a mouth that doubles as a sniper gun, this bird does not mess around. It can react to any movement in a split second and will dodge all incoming fire. However a shot from its beak and a dodge takes a lot of energy leaving it open for a counter attack."
-msgstr ""
+msgstr "Эта птица вооружена клювом, который также служит снайперским ружьём, так что с ней шутки плохи. Она может реагировать на любое движение за доли секунды и уклоняться от любого входящего огня. Однако выстрел из её клюва и уклонение требует много энергии, оставляя её открытой для контратаки."
 
 #. extension/post-game/data/enemies/final/crystal-cold.json meta/species #4
 #: extension/post-game/data/enemies/final/crystal-cold.json+meta/species+%234
 msgctxt "extension/post-game/data/enemies/final/crystal-cold.json//meta/species"
 msgid "Crystal"
-msgstr ""
+msgstr "Кристалл"
 
 #. extension/post-game/data/enemies/final/crystal-cold.json meta/descriptions/0/text #6
 #: extension/post-game/data/enemies/final/crystal-cold.json+meta/descriptions/0/text+%236
@@ -7344,14 +7358,14 @@ msgid ""
 "Living embodiment of the crystals found all over \\c[3]\\v[area.final-dng.name]\\c[0]. It seems these are not creations of the Ancients as unlike most foes that are found within the temple they are made of stone like materials. \n"
 "Similarly colored versions also exhibit a strange bond that allows them to combine energy to release powerful attacks. "
 msgstr ""
-"Живое воплощение кристаллов, найденных по всему храму Ку'леро. Похоже, это не творения Древних, поскольку в отличие от большинства врагов, встречающихся в храме, они сделаны из материалов, похожих на камень.\n"
-"Данные окрашенные виды также демонстрируют странную связь, которая позволяет им объединять энергию для создания мощных атак."
+"Живое воплощение кристаллов, найденных по всему \\c[3]Храму Ку'леро\\c[0]. Похоже, это не творения Древних, поскольку в отличие от большинства врагов, встречающихся в храме, они сделаны из материалов, похожих на камень.\n"
+"Подвиды с одинаковой окраской также демонстрируют странную связь, которая позволяет им объединять энергию для выпуска мощных атак."
 
 #. extension/post-game/data/enemies/final/crystal-heat.json meta/species #4
 #: extension/post-game/data/enemies/final/crystal-heat.json+meta/species+%234
 msgctxt "extension/post-game/data/enemies/final/crystal-heat.json//meta/species"
 msgid "Crystal"
-msgstr ""
+msgstr "Кристалл"
 
 #. extension/post-game/data/enemies/final/crystal-heat.json meta/descriptions/0/text #6
 #: extension/post-game/data/enemies/final/crystal-heat.json+meta/descriptions/0/text+%236
@@ -7360,14 +7374,14 @@ msgid ""
 "Living embodiment of the crystals found all over \\c[3]\\v[area.final-dng.name]\\c[0]. It seems these are not creations of the Ancients as unlike most foes that are found within the temple they are made of stone like materials. \n"
 "Similarly colored versions also exhibit a strange bond that allows them to combine energy to release powerful attacks. "
 msgstr ""
-"Живое воплощение кристаллов, найденных по всему храму Ку'леро. Похоже, это не творения Древних, поскольку в отличие от большинства врагов, встречающихся в храме, они сделаны из материалов, похожих на камень.\n"
-"Данные окрашенные виды также демонстрируют странную связь, которая позволяет им объединять энергию для создания мощных атак."
+"Живое воплощение кристаллов, найденных по всему \\c[3]Храму Ку'леро\\c[0]. Похоже, это не творения Древних, поскольку в отличие от большинства врагов, встречающихся в храме, они сделаны из материалов, похожих на камень.\n"
+"Подвиды с одинаковой окраской также демонстрируют странную связь, которая позволяет им объединять энергию для выпуска мощных атак."
 
 #. extension/post-game/data/enemies/final/crystal-shock.json meta/species #4
 #: extension/post-game/data/enemies/final/crystal-shock.json+meta/species+%234
 msgctxt "extension/post-game/data/enemies/final/crystal-shock.json//meta/species"
 msgid "Crystal"
-msgstr ""
+msgstr "Кристалл"
 
 #. extension/post-game/data/enemies/final/crystal-shock.json meta/descriptions/0/text #6
 #: extension/post-game/data/enemies/final/crystal-shock.json+meta/descriptions/0/text+%236
@@ -7376,14 +7390,14 @@ msgid ""
 "Living embodiment of the crystals found all over \\c[3]\\v[area.final-dng.name]\\c[0]. It seems these are not creations of the Ancients as unlike most foes that are found within the temple they are made of stone like materials. \n"
 "Similarly colored versions also exhibit a strange bond that allows them to combine energy to release powerful attacks. "
 msgstr ""
-"Живое воплощение кристаллов, найденных по всему храму Ку'леро. Похоже, это не творения Древних, поскольку в отличие от большинства врагов, встречающихся в храме, они сделаны из материалов, похожих на камень.\n"
-"Данные окрашенные виды также демонстрируют странную связь, которая позволяет им объединять энергию для создания мощных атак."
+"Живое воплощение кристаллов, найденных по всему \\c[3]Храму Ку'леро\\c[0]. Похоже, это не творения Древних, поскольку в отличие от большинства врагов, встречающихся в храме, они сделаны из материалов, похожих на камень.\n"
+"Подвиды с одинаковой окраской также демонстрируют странную связь, которая позволяет им объединять энергию для выпуска мощных атак."
 
 #. extension/post-game/data/enemies/final/crystal-wave.json meta/species #4
 #: extension/post-game/data/enemies/final/crystal-wave.json+meta/species+%234
 msgctxt "extension/post-game/data/enemies/final/crystal-wave.json//meta/species"
 msgid "Crystal"
-msgstr ""
+msgstr "Кристалл"
 
 #. extension/post-game/data/enemies/final/crystal-wave.json meta/descriptions/0/text #6
 #: extension/post-game/data/enemies/final/crystal-wave.json+meta/descriptions/0/text+%236
@@ -7392,96 +7406,96 @@ msgid ""
 "Living embodiment of the crystals found all over \\c[3]\\v[area.final-dng.name]\\c[0]. It seems these are not creations of the Ancients as unlike most foes that are found within the temple they are made of stone like materials. \n"
 "Similarly colored versions also exhibit a strange bond that allows them to combine energy to release powerful attacks. "
 msgstr ""
-"Живое воплощение кристаллов, найденных по всему храму Ку'леро. Похоже, это не творения Древних, поскольку в отличие от большинства врагов, встречающихся в храме, они сделаны из материалов, похожих на камень.\n"
-"Данные окрашенные виды также демонстрируют странную связь, которая позволяет им объединять энергию для создания мощных атак."
+"Живое воплощение кристаллов, найденных по всему \\c[3]Храму Ку'леро\\c[0]. Похоже, это не творения Древних, поскольку в отличие от большинства врагов, встречающихся в храме, они сделаны из материалов, похожих на камень.\n"
+"Подвиды с одинаковой окраской также демонстрируют странную связь, которая позволяет им объединять энергию для выпуска мощных атак."
 
 #. extension/post-game/data/enemies/final/ele-pillar-cold.json actions/strongFace/1/text #4
 #. SHOW_AR_MSG
 #: extension/post-game/data/enemies/final/ele-pillar-cold.json+actions/strongFace/1/text+%234
 msgctxt "extension/post-game/data/enemies/final/ele-pillar-cold.json//actions/strongFace/1/text"
 msgid "Color Combo"
-msgstr ""
+msgstr "Цветное комбо"
 
 #. extension/post-game/data/enemies/final/ele-pillar-cold.json meta/species #1
 #: extension/post-game/data/enemies/final/ele-pillar-cold.json+meta/species+%231
 msgctxt "extension/post-game/data/enemies/final/ele-pillar-cold.json//meta/species"
 msgid "Unsupportive Pillar"
-msgstr ""
+msgstr "Неустойчивый столб"
 
 #. extension/post-game/data/enemies/final/ele-pillar-cold.json meta/descriptions/0/text #6
 #: extension/post-game/data/enemies/final/ele-pillar-cold.json+meta/descriptions/0/text+%236
 msgctxt "extension/post-game/data/enemies/final/ele-pillar-cold.json//meta/descriptions/0/text"
 msgid "This living stone structure is actually part of a larger hive mind capable of stacking different versions of each other to form a super-organism. To make things worse, close by pillars can form a strong bond that will supercharge its defensive attacks."
-msgstr "Эта структура из живого камня на самом деле является частью более крупного разума улья, способного складывать разные версии друг друга, чтобы сформировать супер-организм. Что ещё хуже, рядом с колоннами может образоваться прочная связь, которая усилит его защитные атаки."
+msgstr "Эта структура из живого камня на самом деле является частью более крупного коллективного разума, способного складывать разные версии друг друга, чтобы сформировать супер-организм. Что ещё хуже, близко стоящие колонны могут образовывать прочную связь, которая усилит его защитные атаки."
 
 #. extension/post-game/data/enemies/final/ele-pillar-heat.json actions/strongFace/1/text #4
 #. SHOW_AR_MSG
 #: extension/post-game/data/enemies/final/ele-pillar-heat.json+actions/strongFace/1/text+%234
 msgctxt "extension/post-game/data/enemies/final/ele-pillar-heat.json//actions/strongFace/1/text"
 msgid "Color Combo"
-msgstr ""
+msgstr "Цветное комбо"
 
 #. extension/post-game/data/enemies/final/ele-pillar-heat.json meta/species #1
 #: extension/post-game/data/enemies/final/ele-pillar-heat.json+meta/species+%231
 msgctxt "extension/post-game/data/enemies/final/ele-pillar-heat.json//meta/species"
 msgid "Unsupportive Pillar"
-msgstr ""
+msgstr "Неустойчивый столб"
 
 #. extension/post-game/data/enemies/final/ele-pillar-heat.json meta/descriptions/0/text #6
 #: extension/post-game/data/enemies/final/ele-pillar-heat.json+meta/descriptions/0/text+%236
 msgctxt "extension/post-game/data/enemies/final/ele-pillar-heat.json//meta/descriptions/0/text"
 msgid "This living stone structure is actually part of a larger hive mind capable of stacking different versions of each other to form a super-organism. To make things worse, close by pillars can form a strong bond that will supercharge its defensive attacks."
-msgstr "Эта структура из живого камня на самом деле является частью более крупного разума улья, способного складывать разные версии друг друга, чтобы сформировать супер-организм. Что ещё хуже, рядом с колоннами может образоваться прочная связь, которая усилит его защитные атаки."
+msgstr "Эта структура из живого камня на самом деле является частью более крупного коллективного разума, способного складывать разные версии друг друга, чтобы сформировать супер-организм. Что ещё хуже, близко стоящие колонны могут образовывать прочную связь, которая усилит его защитные атаки."
 
 #. extension/post-game/data/enemies/final/ele-pillar-shock.json actions/strongFace/1/text #4
 #. SHOW_AR_MSG
 #: extension/post-game/data/enemies/final/ele-pillar-shock.json+actions/strongFace/1/text+%234
 msgctxt "extension/post-game/data/enemies/final/ele-pillar-shock.json//actions/strongFace/1/text"
 msgid "Color Combo"
-msgstr ""
+msgstr "Цветное комбо"
 
 #. extension/post-game/data/enemies/final/ele-pillar-shock.json meta/species #1
 #: extension/post-game/data/enemies/final/ele-pillar-shock.json+meta/species+%231
 msgctxt "extension/post-game/data/enemies/final/ele-pillar-shock.json//meta/species"
 msgid "Unsupportive Pillar"
-msgstr ""
+msgstr "Неустойчивый столб"
 
 #. extension/post-game/data/enemies/final/ele-pillar-shock.json meta/descriptions/0/text #6
 #: extension/post-game/data/enemies/final/ele-pillar-shock.json+meta/descriptions/0/text+%236
 msgctxt "extension/post-game/data/enemies/final/ele-pillar-shock.json//meta/descriptions/0/text"
 msgid "This living stone structure is actually part of a larger hive mind capable of stacking different versions of each other to form a super-organism. To make things worse, close by pillars can form a strong bond that will supercharge its defensive attacks."
-msgstr "Эта структура из живого камня на самом деле является частью более крупного разума улья, способного складывать разные версии друг друга, чтобы сформировать супер-организм. Что ещё хуже, рядом с колоннами может образоваться прочная связь, которая усилит его защитные атаки."
+msgstr "Эта структура из живого камня на самом деле является частью более крупного коллективного разума, способного складывать разные версии друг друга, чтобы сформировать супер-организм. Что ещё хуже, близко стоящие колонны могут образовывать прочную связь, которая усилит его защитные атаки."
 
 #. extension/post-game/data/enemies/final/ele-pillar-wave.json actions/strongFace/1/text #4
 #. SHOW_AR_MSG
 #: extension/post-game/data/enemies/final/ele-pillar-wave.json+actions/strongFace/1/text+%234
 msgctxt "extension/post-game/data/enemies/final/ele-pillar-wave.json//actions/strongFace/1/text"
 msgid "Color Combo"
-msgstr ""
+msgstr "Цветное комбо"
 
 #. extension/post-game/data/enemies/final/ele-pillar-wave.json meta/species #1
 #: extension/post-game/data/enemies/final/ele-pillar-wave.json+meta/species+%231
 msgctxt "extension/post-game/data/enemies/final/ele-pillar-wave.json//meta/species"
 msgid "Unsupportive Pillar"
-msgstr ""
+msgstr "Неустойчивый столб"
 
 #. extension/post-game/data/enemies/final/ele-pillar-wave.json meta/descriptions/0/text #6
 #: extension/post-game/data/enemies/final/ele-pillar-wave.json+meta/descriptions/0/text+%236
 msgctxt "extension/post-game/data/enemies/final/ele-pillar-wave.json//meta/descriptions/0/text"
 msgid "This living stone structure is actually part of a larger hive mind capable of stacking different versions of each other to form a super-organism. To make things worse, close by pillars can form a strong bond that will supercharge its defensive attacks."
-msgstr "Эта структура из живого камня на самом деле является частью более крупного разума улья, способного складывать разные версии друг друга, чтобы сформировать супер-организм. Что ещё хуже, рядом с колоннами может образоваться прочная связь, которая усилит его защитные атаки."
+msgstr "Эта структура из живого камня на самом деле является частью более крупного коллективного разума, способного складывать разные версии друг друга, чтобы сформировать супер-организм. Что ещё хуже, близко стоящие колонны могут образовывать прочную связь, которая усилит его защитные атаки."
 
 #. extension/post-game/data/enemies/final/god-cold.json meta/species #1
 #: extension/post-game/data/enemies/final/god-cold.json+meta/species+%231
 msgctxt "extension/post-game/data/enemies/final/god-cold.json//meta/species"
 msgid "Ancient God"
-msgstr ""
+msgstr "Древний бог"
 
 #. extension/post-game/data/enemies/final/god-cold.json meta/descriptions/0/text #3
 #: extension/post-game/data/enemies/final/god-cold.json+meta/descriptions/0/text+%233
 msgctxt "extension/post-game/data/enemies/final/god-cold.json//meta/descriptions/0/text"
 msgid "King of Stone, may your mountains protect us all."
-msgstr ""
+msgstr "Король Камня, пусть твои горы защитят всех нас."
 
 #. extension/post-game/data/enemies/final/god-controller.json actions/Attack/0/elseStep/2/thenStep/0/thenStep/1/text #7
 #. IF NOT false
@@ -7491,7 +7505,7 @@ msgstr ""
 #: extension/post-game/data/enemies/final/god-controller.json+actions/Attack/0/elseStep/2/thenStep/0/thenStep/1/text+%237
 msgctxt "extension/post-game/data/enemies/final/god-controller.json//actions/Attack/0/elseStep/2/thenStep/0/thenStep/1/text"
 msgid "ATTACK RECEIVE \\v[tmp.fatkStart] Element: \\v[tmp.atktest]"
-msgstr ""
+msgstr "ATTACK RECEIVE \\v[tmp.fatkStart] Element: \\v[tmp.atktest]"
 
 #. extension/post-game/data/enemies/final/god-controller.json meta/species #4
 #: extension/post-game/data/enemies/final/god-controller.json+meta/species+%234
@@ -7503,13 +7517,13 @@ msgstr "????"
 #: extension/post-game/data/enemies/final/god-heat.json+meta/species+%231
 msgctxt "extension/post-game/data/enemies/final/god-heat.json//meta/species"
 msgid "Ancient God"
-msgstr ""
+msgstr "Древний бог"
 
 #. extension/post-game/data/enemies/final/god-heat.json meta/descriptions/0/text #3
 #: extension/post-game/data/enemies/final/god-heat.json+meta/descriptions/0/text+%233
 msgctxt "extension/post-game/data/enemies/final/god-heat.json//meta/descriptions/0/text"
 msgid "Bringer of Warmth, may your flame burn brightly."
-msgstr ""
+msgstr "Несущая Тепло, пусть твоё пламя ярко пылает."
 
 #. extension/post-game/data/enemies/final/god-neutral.json proxies/sun/action/8/text #12
 #. GENERIC
@@ -7524,7 +7538,7 @@ msgstr "Зарядка"
 #: extension/post-game/data/enemies/final/god-neutral.json+actions/RegenGod/23/text+%234
 msgctxt "extension/post-game/data/enemies/final/god-neutral.json//actions/RegenGod/23/text"
 msgid "Recover"
-msgstr ""
+msgstr "Восстановление"
 
 #. extension/post-game/data/enemies/final/god-neutral.json actions/AddWeakShield/2/0_0/0/text #15
 #. SELECT_RANDOM
@@ -7532,7 +7546,7 @@ msgstr ""
 #: extension/post-game/data/enemies/final/god-neutral.json+actions/AddWeakShield/2/0_0/0/text+%2315
 msgctxt "extension/post-game/data/enemies/final/god-neutral.json//actions/AddWeakShield/2/0_0/0/text"
 msgid "HEAT SHIELD"
-msgstr ""
+msgstr "ЩИТ ПЛАМЕНИ"
 
 #. extension/post-game/data/enemies/final/god-neutral.json actions/AddWeakShield/2/1_0/0/text #16
 #. SELECT_RANDOM
@@ -7540,7 +7554,7 @@ msgstr ""
 #: extension/post-game/data/enemies/final/god-neutral.json+actions/AddWeakShield/2/1_0/0/text+%2316
 msgctxt "extension/post-game/data/enemies/final/god-neutral.json//actions/AddWeakShield/2/1_0/0/text"
 msgid "COLD SHIELD"
-msgstr ""
+msgstr "ЩИТ ХОЛОДА"
 
 #. extension/post-game/data/enemies/final/god-neutral.json actions/AddWeakShield/2/2_0/0/text #17
 #. SELECT_RANDOM
@@ -7548,7 +7562,7 @@ msgstr ""
 #: extension/post-game/data/enemies/final/god-neutral.json+actions/AddWeakShield/2/2_0/0/text+%2317
 msgctxt "extension/post-game/data/enemies/final/god-neutral.json//actions/AddWeakShield/2/2_0/0/text"
 msgid "SHOCK SHIELD"
-msgstr ""
+msgstr "ЩИТ ШОКА"
 
 #. extension/post-game/data/enemies/final/god-neutral.json actions/AddWeakShield/2/3_0/0/text #18
 #. SELECT_RANDOM
@@ -7556,43 +7570,43 @@ msgstr ""
 #: extension/post-game/data/enemies/final/god-neutral.json+actions/AddWeakShield/2/3_0/0/text+%2318
 msgctxt "extension/post-game/data/enemies/final/god-neutral.json//actions/AddWeakShield/2/3_0/0/text"
 msgid "WAVE SHIELD"
-msgstr ""
+msgstr "ЩИТ ВОЛНЫ"
 
 #. extension/post-game/data/enemies/final/god-neutral.json meta/species #1
 #: extension/post-game/data/enemies/final/god-neutral.json+meta/species+%231
 msgctxt "extension/post-game/data/enemies/final/god-neutral.json//meta/species"
 msgid "Ancient God"
-msgstr ""
+msgstr "Древний бог"
 
 #. extension/post-game/data/enemies/final/god-neutral.json meta/descriptions/0/text #22
 #: extension/post-game/data/enemies/final/god-neutral.json+meta/descriptions/0/text+%2322
 msgctxt "extension/post-game/data/enemies/final/god-neutral.json//meta/descriptions/0/text"
 msgid "Creator of all, may your journey fill the void with life."
-msgstr ""
+msgstr "Создатель всего, пусть твоё путешествие заполнит пустоту жизнью."
 
 #. extension/post-game/data/enemies/final/god-shock.json meta/species #1
 #: extension/post-game/data/enemies/final/god-shock.json+meta/species+%231
 msgctxt "extension/post-game/data/enemies/final/god-shock.json//meta/species"
 msgid "Ancient God"
-msgstr ""
+msgstr "Древний бог"
 
 #. extension/post-game/data/enemies/final/god-shock.json meta/descriptions/0/text #3
 #: extension/post-game/data/enemies/final/god-shock.json+meta/descriptions/0/text+%233
 msgctxt "extension/post-game/data/enemies/final/god-shock.json//meta/descriptions/0/text"
 msgid "Rider of the Storm, may your winds guide us."
-msgstr ""
+msgstr "Всадник Бури, пусть ваши твои направят нас."
 
 #. extension/post-game/data/enemies/final/god-wave.json meta/species #1
 #: extension/post-game/data/enemies/final/god-wave.json+meta/species+%231
 msgctxt "extension/post-game/data/enemies/final/god-wave.json//meta/species"
 msgid "Ancient God"
-msgstr ""
+msgstr "Древний бог"
 
 #. extension/post-game/data/enemies/final/god-wave.json meta/descriptions/0/text #3
 #: extension/post-game/data/enemies/final/god-wave.json+meta/descriptions/0/text+%233
 msgctxt "extension/post-game/data/enemies/final/god-wave.json//meta/descriptions/0/text"
 msgid "Ruler of the Tides, may your rivers stretch forevermore. "
-msgstr ""
+msgstr "Повелитель Приливов, пусть твои реки тянутся вечно."
 
 #. extension/post-game/data/enemies/final/guardian.json meta/species #4
 #: extension/post-game/data/enemies/final/guardian.json+meta/species+%234
@@ -7620,7 +7634,7 @@ msgid ""
 "In desperation it will call upon the power of all elements to deliver a devastating attack that will be the final judgement for those that are worthy enough."
 msgstr ""
 "Страж такого же возраста, как и сами Древние. Он служит одновременно и защитником, и хранителем последней тайны Древних. Как и все Искатели, он может переключать элементы и будет неустанно атаковать, используя странную комбинацию стихийных атак. \n"
-"В отчаянии он призовёт силу всех элементов для нанесения разрушительной атаки, которая станет окончательным приговором для тех, кто по истине достоин."
+"В отчаянии он призовёт силу всех элементов для нанесения разрушительной атаки, которая станет окончательным приговором для тех, кто поистине достоин."
 
 #. extension/scorpion-robo/data/enemies/minibosses/scorpion-boss-pole.json meta/species #4
 #: extension/scorpion-robo/data/enemies/minibosses/scorpion-boss-pole.json+meta/species+%234

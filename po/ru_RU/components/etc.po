@@ -2,11 +2,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: crosscode 1.4.0-4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-27 11:09+0000\n"
-"PO-Revision-Date: 2021-03-27 11:09+0000\n"
+"POT-Creation-Date: 2021-03-27 11:16+0000\n"
+"PO-Revision-Date: 2021-03-27 11:16+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: ru_RU\n"
+"Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -101,7 +101,7 @@ msgstr "Тестовые площадки"
 #: data/areas/arid-dng-1.json+floors/0/maps/12/name+%2324
 msgctxt "data/areas/arid-dng-1.json//floors/0/maps/12/name"
 msgid "INVALID INSTANCE"
-msgstr "НЕДОПУСТИМОЕ ПОДЗЕМЕЛЬЕ"
+msgstr "НЕДОПУСТИМАЯ КОМНАТА"
 
 #. data/areas/arid-dng-2.json name #1
 #: data/areas/arid-dng-2.json+name+%231
@@ -1055,7 +1055,7 @@ msgstr ""
 #: data/areas/meta.json+floors/0/maps/3/name+%2312
 msgctxt "data/areas/meta.json//floors/0/maps/3/name"
 msgid "Stress Test"
-msgstr ""
+msgstr "Стресс-тест"
 
 #. data/areas/testing-grounds.json name #1
 #: data/areas/testing-grounds.json+name+%231
@@ -1235,7 +1235,7 @@ msgstr "Вклад в диалоги NPC"
 #: data/credits/radicalfish-core-dlc.json+entries/title/header+%23141
 msgctxt "data/credits/radicalfish-core-dlc.json//entries/title/header"
 msgid "- A New Home -"
-msgstr ""
+msgstr "- A New Home -"
 
 #. data/credits/radicalfish-core-dlc.json entries/developed/header #1
 #: data/credits/radicalfish-core-dlc.json+entries/developed/header+%231
@@ -2239,7 +2239,7 @@ msgstr "Вы готовы к будущему!"
 #: data/maps/meta-space.json+entities/7/settings/event/2/elseStep/0/thenStep/1/text+%2322
 msgctxt "data/maps/meta-space.json//entities/7/settings/event/2/elseStep/0/thenStep/1/text"
 msgid "Start the \\c[3]Post Game Episode\\c[0]?"
-msgstr "Начать \\c[3]пост-эпизод игры\\c[0]?"
+msgstr "Начать \\c[3]пост-игровой эпизод\\c[0]?"
 
 #. data/maps/meta-space.json entities/7/settings/event/2/elseStep/0/thenStep/1/options/0/label #10
 #. EventTrigger forwardEvent START IF tmp.forward
@@ -2282,6 +2282,8 @@ msgid ""
 "This point marks the beginning of the Post Game DLC:\n"
 "\\c[3]CrossCode: A New Home\\c[0]."
 msgstr ""
+"Данный момент знаменует начало пост-игрового DLC:\n"
+"\\c[3]CrossCode: A New Home\\c[0]."
 
 #. data/maps/meta-space.json entities/7/settings/event/2/elseStep/0/elseStep/2/text #18
 #. EventTrigger forwardEvent START IF tmp.forward
@@ -2291,7 +2293,7 @@ msgstr ""
 #: data/maps/meta-space.json+entities/7/settings/event/2/elseStep/0/elseStep/2/text+%2318
 msgctxt "data/maps/meta-space.json//entities/7/settings/event/2/elseStep/0/elseStep/2/text"
 msgid "It features a new dungeon, a new area to explore, as well as an extension of the story."
-msgstr ""
+msgstr "Оно включает в себя новое подземелье, новую зону для исследования, а также продолжение истории."
 
 #. data/maps/meta-space.json entities/7/settings/event/2/elseStep/0/elseStep/3/text #19
 #. EventTrigger forwardEvent START IF tmp.forward
@@ -2301,7 +2303,7 @@ msgstr ""
 #: data/maps/meta-space.json+entities/7/settings/event/2/elseStep/0/elseStep/3/text+%2319
 msgctxt "data/maps/meta-space.json//entities/7/settings/event/2/elseStep/0/elseStep/3/text"
 msgid "Once the DLC has been installed, you can continue from this point on."
-msgstr ""
+msgstr "Как только DLC будет установлено, вы сможете продолжить с этого момента."
 
 #. data/maps/meta-space.json entities/9/settings/event/2/thenStep/0/text #4
 #. EventTrigger backwardEvent START IF tmp.backward
@@ -2347,7 +2349,7 @@ msgid ""
 msgstr ""
 "Ваши действия в прошлом могут повлиять на ваше будущее.\n"
 "\n"
-"Вы сохраните ваш \\c[3]уровень, предметы и прогресс квестов\\c[0]."
+"Вы сохраните свой \\c[3]уровень, предметы и прогресс квестов\\c[0]."
 
 #. data/maps/meta-space.json entities/9/settings/event/5/text #20
 #. EventTrigger backwardEvent START IF tmp.backward
@@ -2593,7 +2595,7 @@ msgstr "На самом деле, ты единственный аватар н�
 #: data/maps/rhombus-square-view.json+entities/9/settings/event/28/message+%2323
 msgctxt "data/maps/rhombus-square-view.json//entities/9/settings/event/28/message"
 msgid "That is correct.\\. This cargo ship belongs to the maintenance staff of CrossWorlds."
-msgstr "Всё правильно.\\. Этот грузовой корабль принадлежит обслуживающему персоналу CrossWorlds."
+msgstr "Всё верно.\\. Этот грузовой корабль принадлежит обслуживающему персоналу CrossWorlds."
 
 #. data/maps/rhombus-square-view.json entities/9/settings/event/29/message #24
 #. EventTrigger cut scene
@@ -4968,13 +4970,13 @@ msgstr "Направляйтесь в новые джунгли!"
 #: extension/post-game/post-game.json+name+%231
 msgctxt "extension/post-game/post-game.json//name"
 msgid "Post Game DLC "
-msgstr ""
+msgstr "Пост-игровое DLC"
 
 #. extension/post-game/post-game.json description #2
 #: extension/post-game/post-game.json+description+%232
 msgctxt "extension/post-game/post-game.json//description"
 msgid "The story continues after you reached the end of the main game."
-msgstr ""
+msgstr "Историю продолжится после того, как вы завершите основную игру."
 
 #. extension/scorpion-robo/scorpion-robo.json name #1
 #: extension/scorpion-robo/scorpion-robo.json+name+%231
