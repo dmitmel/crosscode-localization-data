@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.0-4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-12 23:30+0000\n"
-"PO-Revision-Date: 2021-03-12 23:30+0000\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2021-03-27 07:18+0000\n"
+"Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
+"Language-Team: Spanish <https://weblate.crosscode.ru/projects/crosscode/autumn/es/>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.4\n"
 
 #. data/maps/autumn/cave-path6-1-meerkat.json entities/7/settings/event/23/text #1
 #. EventTrigger battle-starter START IF tmp.arena-touch
@@ -775,7 +775,6 @@ msgstr "¡Hola!"
 #. IF
 #. SHOW_MSG rookie-harbor.man-big-black @DEFAULT
 #: data/maps/autumn/entrance.json+entities/92/settings/npcStates/0/event/quest/3/message+%237
-#, fuzzy
 msgctxt "data/maps/autumn/entrance.json//entities/92/settings/npcStates/0/event/quest/3/message"
 msgid "Hello, Ms. \\v[lore.title.seeker]!\\. So great to see you here on \\v[lore.title.planet]."
 msgstr "¡Hola Srta. \\v[lore.title.seeker]a!\\. Es tan bueno verte aquí en \\v[lore.title.planet]."
@@ -18777,10 +18776,9 @@ msgstr "Eso tiene sentido. ¿Por qué el secretismo, Papá?"
 #. EventTrigger dkarScene START IF map.startDkarScene
 #. SHOW_MSG main.dkar @DEFAULT
 #: data/maps/autumn/lake-observatory.json+entities/551/settings/event/63/message+%23336
-#, fuzzy
 msgctxt "data/maps/autumn/lake-observatory.json//entities/551/settings/event/63/message"
 msgid "Well, you see...\n"
-msgstr "Bueno verán...\n"
+msgstr "Bueno, verán...\n"
 
 #. data/maps/autumn/lake-observatory.json entities/551/settings/event/64/message #337
 #. EventTrigger dkarScene START IF map.startDkarScene
@@ -18946,7 +18944,6 @@ msgstr "..."
 #. EventTrigger dkarScene START IF map.startDkarScene
 #. SHOW_MSG cross-worlds-special.dkar-son-triblader @DEFAULT
 #: data/maps/autumn/lake-observatory.json+entities/551/settings/event/84/message+%23361
-#, fuzzy
 msgctxt "data/maps/autumn/lake-observatory.json//entities/551/settings/event/84/message"
 msgid "Oh boy, I'm sorry, Lea. I hope he wasn't too much of a problem. He can get very... dramatic sometimes."
 msgstr "Ah.... lo siento, Lea. Espero que no haya sido mucha molestia. Puede ponerse muy... dramático a veces."
@@ -19549,10 +19546,9 @@ msgstr "¡No sabía que tal evento existía!"
 #. EventTrigger openSesame START IF map.hlinScene
 #. SHOW_MSG main.guild-leader @THINKING
 #: data/maps/autumn/lake-observatory.json+entities/556/settings/event/29/message+%23443
-#, fuzzy
 msgctxt "data/maps/autumn/lake-observatory.json//entities/556/settings/event/29/message"
 msgid "Well, it's not easy to find as it's not connected to any other quest."
-msgstr "Bueno no es fácil de encontrar ya que no está conectado a ningún otra misión."
+msgstr "Bueno, no es fácil de encontrar ya que no está conectado a ningún otra misión."
 
 #. data/maps/autumn/lake-observatory.json entities/556/settings/event/30/message #444
 #. EventTrigger openSesame START IF map.hlinScene
@@ -19670,7 +19666,6 @@ msgstr "Es bastante simple, de hecho. "
 #. EventTrigger openSesame START IF map.hlinScene
 #. SHOW_MSG main.guild-leader @THINKING
 #: data/maps/autumn/lake-observatory.json+entities/556/settings/event/44/message+%23460
-#, fuzzy
 msgctxt "data/maps/autumn/lake-observatory.json//entities/556/settings/event/44/message"
 msgid "First, each one of us needs to hold one of the relics."
 msgstr "Primero, cada uno de nosotros tiene que sostener una reliquia."
@@ -19759,7 +19754,6 @@ msgstr "¡Wow, qué miedo!"
 #. EventTrigger afterObs START IF quest.observatory.solved
 #. SHOW_MSG main.guild-leader @SMILE
 #: data/maps/autumn/lake-observatory.json+entities/557/settings/event/12/message+%23474
-#, fuzzy
 msgctxt "data/maps/autumn/lake-observatory.json//entities/557/settings/event/12/message"
 msgid "Oh, there you are, dear."
 msgstr "Oh ahí estás, querida."
@@ -19808,7 +19802,6 @@ msgstr "Me gustó sobre todo los conejitos en el mural."
 #. EventTrigger afterObs START IF quest.observatory.solved
 #. SHOW_MSG main.guild-leader @ANGRY
 #: data/maps/autumn/lake-observatory.json+entities/557/settings/event/19/message+%23480
-#, fuzzy
 msgctxt "data/maps/autumn/lake-observatory.json//entities/557/settings/event/19/message"
 msgid "Oh, come now, Buggy! Those were clearly meant to depict the Ancients themselves."
 msgstr "¡Oh vamos, Buggy! Esos claramente eran ilustraciones de los mismísimos Antiguos."
@@ -19817,7 +19810,6 @@ msgstr "¡Oh vamos, Buggy! Esos claramente eran ilustraciones de los mismísimos
 #. EventTrigger afterObs START IF quest.observatory.solved
 #. SHOW_MSG main.buggy @GRIN
 #: data/maps/autumn/lake-observatory.json+entities/557/settings/event/20/message+%23481
-#, fuzzy
 msgctxt "data/maps/autumn/lake-observatory.json//entities/557/settings/event/20/message"
 msgid "So, not bird people, but bunny people? "
 msgstr "¿Entonces no son personas pájaro, sino personas conejo? "
@@ -19874,10 +19866,9 @@ msgstr "¡Si! ¡Más poder para mí!"
 #. EventTrigger afterObs START IF quest.observatory.solved
 #. SHOW_MSG main.emilie @SMILE
 #: data/maps/autumn/lake-observatory.json+entities/557/settings/event/48/message+%23488
-#, fuzzy
 msgctxt "data/maps/autumn/lake-observatory.json//entities/557/settings/event/48/message"
 msgid "All thanks to our chérie, Lea."
-msgstr "Todo gracias a nuestra chérie Lea."
+msgstr "Todo gracias a nuestra chérie, Lea."
 
 #. data/maps/autumn/lake-observatory.json entities/557/settings/event/49/message #509
 #. EventTrigger afterObs START IF quest.observatory.solved
@@ -19939,7 +19930,6 @@ msgstr "Lamento tener que irme tan pronto, pero tengo un apuro."
 #. EventTrigger afterObs START IF quest.observatory.solved
 #. SHOW_MSG main.guild-leader @EYES_CLOSED
 #: data/maps/autumn/lake-observatory.json+entities/557/settings/event/56/message+%23500
-#, fuzzy
 msgctxt "data/maps/autumn/lake-observatory.json//entities/557/settings/event/56/message"
 msgid "That's alright. Sadly, this is where the event ends anyway."
 msgstr "Está bien. Tristemente aquí es donde acaba el evento de todos modos."
@@ -19956,7 +19946,6 @@ msgstr "Supongo que volveré a la sede, ¿eh?"
 #. EventTrigger afterObs START IF quest.observatory.solved
 #. SHOW_MSG main.buggy @DEFAULT
 #: data/maps/autumn/lake-observatory.json+entities/557/settings/event/58/message+%23502
-#, fuzzy
 msgctxt "data/maps/autumn/lake-observatory.json//entities/557/settings/event/58/message"
 msgid "See you soon, everyone!"
 msgstr "¡Nos vemos pronto!"
@@ -20463,7 +20452,6 @@ msgstr "El Observador"
 #. EventTrigger FirstTime
 #. SHOW_MSG main.emilie @SHOCKED
 #: data/maps/autumn/observatory/inner.json+entities/61/settings/event/7/message+%2336
-#, fuzzy
 msgctxt "data/maps/autumn/observatory/inner.json//entities/61/settings/event/7/message"
 msgid "Sacrebleu, what just happened?"
 msgstr "Sacrébleu, ¿qué acaba de pasar?"
@@ -20572,7 +20560,6 @@ msgstr ""
 #. EventTrigger SpaceScene START IF map.spaceScene
 #. SHOW_DREAM_MSG
 #: data/maps/autumn/observatory/inner.json+entities/62/settings/event/13/text+%2339
-#, fuzzy
 msgctxt "data/maps/autumn/observatory/inner.json//entities/62/settings/event/13/text"
 msgid "To seek wisdom of the gods, we built this observatory."
 msgstr "Para buscar sabiduría de los dioses, contruímos este observatorio."
@@ -20593,10 +20580,9 @@ msgstr ""
 #. EventTrigger SpaceScene START IF map.spaceScene
 #. SHOW_DREAM_MSG
 #: data/maps/autumn/observatory/inner.json+entities/62/settings/event/15/text+%2341
-#, fuzzy
 msgctxt "data/maps/autumn/observatory/inner.json//entities/62/settings/event/15/text"
 msgid "For your achievements, we grant you the ability to become even stronger."
-msgstr "Por tus logros te otorgamos la habilidad de hacerte incluso más fuerte."
+msgstr "Por tus logros te otorgamos la habilidad de hacerte aún más fuerte."
 
 #. data/maps/autumn/observatory/inner.json entities/62/settings/event/18/object #22
 #. EventTrigger SpaceScene START IF map.spaceScene
@@ -20904,7 +20890,6 @@ msgstr "P... Pero estaba yendo a entregarme de todos modos.\\. ¿No me crees?"
 #. IF quest.rhg-1-pickpocket.task.7
 #. SHOW_MSG rookie-harbor.faction-rhg-female-black @DEFAULT
 #: data/maps/autumn/path-1.json+entities/302/settings/npcStates/1/event/quest/32/message+%23342
-#, fuzzy
 msgctxt "data/maps/autumn/path-1.json//entities/302/settings/npcStates/1/event/quest/32/message"
 msgid "Sorry, pal.\\. Trust is nice and all but I won't take any more risks with you."
 msgstr "Lo siento muchacho. La confianza está bien y todo, pero no me tomaré más riesgos contigo."
@@ -20923,7 +20908,6 @@ msgstr "Bien, bien.\\. Cielos."
 #. IF quest.rhg-1-pickpocket.task.7
 #. SHOW_MSG rookie-harbor.faction-rhg-female-black @DEFAULT
 #: data/maps/autumn/path-1.json+entities/302/settings/npcStates/1/event/quest/39/message+%23345
-#, fuzzy
 msgctxt "data/maps/autumn/path-1.json//entities/302/settings/npcStates/1/event/quest/39/message"
 msgid "In any case, thanks, girl.\\. You did great work here.\\. Report back to the chief to get your reward."
 msgstr "En todo caso, gracias chica.\\. Hiciste un gran trabajo aquí.\\. Repórtate al jefe para reclamar tu recompensa."
@@ -21867,7 +21851,6 @@ msgstr "T-Tengo una l-lista de c-cosas que necesito."
 #. SHOW_CHOICE main.lea @SURPRISED_TOWARD
 #. SHOW_MSG misc.henry-researcher @DEFAULT
 #: data/maps/autumn/path-1.json+entities/313/settings/dialog/1/event/16/0/18/message+%23439
-#, fuzzy
 msgctxt "data/maps/autumn/path-1.json//entities/313/settings/dialog/1/event/16/0/18/message"
 msgid "F-First, I need some items and information on the local w-wildlife."
 msgstr "P-Primero necesito algunos o-ob-objetos e informaci-ión de la v-vida s-salvaje l-l-lo-l-local."
@@ -21877,7 +21860,6 @@ msgstr "P-Primero necesito algunos o-ob-objetos e informaci-ión de la v-vida s-
 #. SHOW_CHOICE main.lea @SURPRISED_TOWARD
 #. SHOW_MSG misc.henry-researcher @DEFAULT
 #: data/maps/autumn/path-1.json+entities/313/settings/dialog/1/event/16/0/19/message+%23440
-#, fuzzy
 msgctxt "data/maps/autumn/path-1.json//entities/313/settings/dialog/1/event/16/0/19/message"
 msgid "Additionally, I n-n-need a list of all the landmarks in this a-area."
 msgstr "Adicio-io-ionalmente n-necesito una l-lista de todos los P-Puntos-s de Referencia del á-área."
@@ -21887,7 +21869,6 @@ msgstr "Adicio-io-ionalmente n-necesito una l-lista de todos los P-Puntos-s de R
 #. SHOW_CHOICE main.lea @SURPRISED_TOWARD
 #. SHOW_MSG misc.henry-researcher @DEFAULT
 #: data/maps/autumn/path-1.json+entities/313/settings/dialog/1/event/16/0/20/message+%23441
-#, fuzzy
 msgctxt "data/maps/autumn/path-1.json//entities/313/settings/dialog/1/event/16/0/20/message"
 msgid "Finally, I need y-you to retrieve a p-probe I installed further ahead."
 msgstr "F-Finalmente necesito que re-recu-p-peres una s-sonda que instalé m-más adelante."
@@ -24461,7 +24442,6 @@ msgstr "[niega con la cabeza]"
 #. SHOW_CHOICE main.lea @SURPRISED_AWAY
 #. SHOW_MSG guests.christophorus @DEFAULT
 #: data/maps/autumn/path-7-2.json+entities/741/settings/npcStates/0/event/3/elseStep/5/1/3/message+%2338
-#, fuzzy
 msgctxt "data/maps/autumn/path-7-2.json//entities/741/settings/npcStates/0/event/3/elseStep/5/1/3/message"
 msgid "So you think you can manage on your own?"
 msgstr "¿Así que crees que puedes hacerlo por tú misma?"
