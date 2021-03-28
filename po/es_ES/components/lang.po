@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.0-4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-27 11:09+0000\n"
-"PO-Revision-Date: 2021-03-27 11:09+0000\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2021-03-29 23:54+0000\n"
+"Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
+"Language-Team: Spanish <https://weblate.crosscode.ru/projects/crosscode/lang/es/>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.4\n"
 
 #. data/lang/sc/gimmick.en_US.json labels/unknown #0
 #: data/lang/sc/gimmick.en_US.json+labels/unknown+%230
@@ -377,13 +377,13 @@ msgstr "\\c[5]No Has Usado Objetos\\c[0]"
 #: data/lang/sc/gui.en_US.json+labels/arena/bonuses/PVP_FLAWLESS+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/bonuses/PVP_FLAWLESS"
 msgid "\\c[5]No Rounds Lost\\c[0]"
-msgstr ""
+msgstr "\\c[5]Sin Perder Rondas\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/arena/challenges/descriptions/WEAPON_ADJUST #0
 #: data/lang/sc/gui.en_US.json+labels/arena/challenges/descriptions/WEAPON_ADJUST+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/challenges/descriptions/WEAPON_ADJUST"
 msgid "Ascended Gear Level will be adjusted to round level."
-msgstr ""
+msgstr "El nivel del Equipamiento Ascendido se ajustará al nivel de la ronda."
 
 #. data/lang/sc/gui.en_US.json labels/arena/challenges/descriptions/NO_MELEE #0
 #: data/lang/sc/gui.en_US.json+labels/arena/challenges/descriptions/NO_MELEE+%230
@@ -557,13 +557,13 @@ msgstr "Esquive Perfecto"
 #: data/lang/sc/gui.en_US.json+labels/arena/scoreTypes/PVP_ROUND_WON+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/scoreTypes/PVP_ROUND_WON"
 msgid "Rounds Won"
-msgstr ""
+msgstr "Rondas Ganadas"
 
 #. data/lang/sc/gui.en_US.json labels/arena/scoreTypes/PVP_ROUND_LOST #0
 #: data/lang/sc/gui.en_US.json+labels/arena/scoreTypes/PVP_ROUND_LOST+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/scoreTypes/PVP_ROUND_LOST"
 msgid "Rounds Lost"
-msgstr ""
+msgstr "Rondas Perdidas"
 
 #. data/lang/sc/gui.en_US.json labels/arena/medals/0 #0
 #: data/lang/sc/gui.en_US.json+labels/arena/medals/0+%230
@@ -779,7 +779,7 @@ msgstr "Completa la ronda anterior para desbloquear esta."
 #: data/lang/sc/gui.en_US.json+labels/dlc/abr+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/dlc/abr"
 msgid "DLC"
-msgstr ""
+msgstr "DLC"
 
 #. data/lang/sc/gui.en_US.json labels/area/other #0
 #: data/lang/sc/gui.en_US.json+labels/area/other+%230
@@ -857,415 +857,416 @@ msgstr "Por"
 #: data/lang/sc/gui.en_US.json+labels/trade/owned+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/owned"
 msgid "(owned)"
-msgstr ""
+msgstr "(en posesión)"
 
 #. data/lang/sc/gui.en_US.json labels/trade/offer #0
 #: data/lang/sc/gui.en_US.json+labels/trade/offer+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/offer"
 msgid "Offer"
-msgstr ""
+msgstr "Oferta"
 
 #. data/lang/sc/gui.en_US.json labels/trade/toggle #0
 #: data/lang/sc/gui.en_US.json+labels/trade/toggle+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/toggle"
 msgid "Compare To Equip"
-msgstr ""
+msgstr "Comparar a Equipamiento"
 
 #. data/lang/sc/gui.en_US.json labels/trade/toggleEnd #0
 #: data/lang/sc/gui.en_US.json+labels/trade/toggleEnd+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/toggleEnd"
 msgid "Show Stats"
-msgstr ""
+msgstr "Mostrar Estadísticas"
 
 #. data/lang/sc/gui.en_US.json labels/trade/toggleDes #0
 #: data/lang/sc/gui.en_US.json+labels/trade/toggleDes+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/toggleDes"
 msgid "Toggle to display the difference to the current equip or see the raw stats."
-msgstr ""
+msgstr "Alterna para mostrar la diferencia entre el equipamiento actual o las estadísticas base."
 
 #. data/lang/sc/gui.en_US.json labels/trade/description #0
 #: data/lang/sc/gui.en_US.json+labels/trade/description+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/description"
 msgid "Press to initiate the trade!"
-msgstr ""
+msgstr "¡Pulsa para iniciar el intercambio!"
 
 #. data/lang/sc/gui.en_US.json labels/trade/equipInfo #0
 #: data/lang/sc/gui.en_US.json+labels/trade/equipInfo+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/equipInfo"
 msgid "One or more items you need are currently equipped! Unequip and proceed with the trade?"
-msgstr ""
+msgstr "¡Uno o más de los objetos que necesitas está equipados actualmente! ¿Quieres desequiparlos para proceder con el intercambio?"
 
 #. data/lang/sc/gui.en_US.json labels/trade/end #0
 #: data/lang/sc/gui.en_US.json+labels/trade/end+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/end"
 msgid "End Trade."
-msgstr ""
+msgstr "FInalizar Intercambio."
 
 #. data/lang/sc/gui.en_US.json labels/trade/credits #0
 #: data/lang/sc/gui.en_US.json+labels/trade/credits+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/credits"
 msgid "Credits:"
-msgstr ""
+msgstr "Créditos:"
 
 #. data/lang/sc/gui.en_US.json labels/trade/rest #0
 #: data/lang/sc/gui.en_US.json+labels/trade/rest+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/rest"
 msgid "Rest:"
-msgstr ""
+msgstr "Resto:"
 
 #. data/lang/sc/gui.en_US.json labels/trade/fee #0
 #: data/lang/sc/gui.en_US.json+labels/trade/fee+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/fee"
 msgid "Fee:"
-msgstr ""
+msgstr "Comisión:"
 
 #. data/lang/sc/gui.en_US.json labels/trade/compare #0
 #: data/lang/sc/gui.en_US.json+labels/trade/compare+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/compare"
 msgid "compared to"
-msgstr ""
+msgstr "comparado a"
 
 #. data/lang/sc/gui.en_US.json labels/trade/compareHEAD #0
 #: data/lang/sc/gui.en_US.json+labels/trade/compareHEAD+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/compareHEAD"
 msgid "Head"
-msgstr ""
+msgstr "Cabeza"
 
 #. data/lang/sc/gui.en_US.json labels/trade/compareARMRight #0
 #: data/lang/sc/gui.en_US.json+labels/trade/compareARMRight+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/compareARMRight"
 msgid "Right Arm"
-msgstr ""
+msgstr "Brazo Derecho"
 
 #. data/lang/sc/gui.en_US.json labels/trade/compareARMLeft #0
 #: data/lang/sc/gui.en_US.json+labels/trade/compareARMLeft+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/compareARMLeft"
 msgid "Left Arm"
-msgstr ""
+msgstr "Brazo Izquierdo"
 
 #. data/lang/sc/gui.en_US.json labels/trade/compareTORSO #0
 #: data/lang/sc/gui.en_US.json+labels/trade/compareTORSO+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/compareTORSO"
 msgid "Torso"
-msgstr ""
+msgstr "Torso"
 
 #. data/lang/sc/gui.en_US.json labels/trade/compareFEET #0
 #: data/lang/sc/gui.en_US.json+labels/trade/compareFEET+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/compareFEET"
 msgid "Feet"
-msgstr ""
+msgstr "Pies"
 
 #. data/lang/sc/gui.en_US.json labels/trade/compareBASE #0
 #: data/lang/sc/gui.en_US.json+labels/trade/compareBASE+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/compareBASE"
 msgid "Base Stats"
-msgstr ""
+msgstr "Estadísticas Base"
 
 #. data/lang/sc/gui.en_US.json labels/botanics/rate #0
 #: data/lang/sc/gui.en_US.json+labels/botanics/rate+%230
+#, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/botanics/rate"
 msgid "Drop Rate"
-msgstr ""
+msgstr "Probabilidad de Conseguir"
 
 #. data/lang/sc/gui.en_US.json labels/botanics/locText #0
 #: data/lang/sc/gui.en_US.json+labels/botanics/locText+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/botanics/locText"
 msgid "Find [[x]] more to unlock locations."
-msgstr ""
+msgstr "Encuentra [[x]] más para ver las localizaciones."
 
 #. data/lang/sc/gui.en_US.json labels/botanics/infoLocked #0
 #: data/lang/sc/gui.en_US.json+labels/botanics/infoLocked+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/botanics/infoLocked"
 msgid "- Info Locked -"
-msgstr ""
+msgstr "- Información Bloqueada -"
 
 #. data/lang/sc/gui.en_US.json labels/botanics/collect #0
 #: data/lang/sc/gui.en_US.json+labels/botanics/collect+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/botanics/collect"
 msgid "Collected Drops [[x]] / [[y]]"
-msgstr ""
+msgstr "Frutos Recogidos [[x]] / [[y]]"
 
 #. data/lang/sc/gui.en_US.json labels/status-hud/maxhp #0
 #: data/lang/sc/gui.en_US.json+labels/status-hud/maxhp+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/status-hud/maxhp"
 msgid "MAXHP"
-msgstr ""
+msgstr "PVMAX"
 
 #. data/lang/sc/gui.en_US.json labels/status-hud/atk #0
 #: data/lang/sc/gui.en_US.json+labels/status-hud/atk+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/status-hud/atk"
 msgid "ATK"
-msgstr ""
+msgstr "ATQ"
 
 #. data/lang/sc/gui.en_US.json labels/status-hud/def #0
 #: data/lang/sc/gui.en_US.json+labels/status-hud/def+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/status-hud/def"
 msgid "DEF"
-msgstr ""
+msgstr "DEF"
 
 #. data/lang/sc/gui.en_US.json labels/status-hud/foc #0
 #: data/lang/sc/gui.en_US.json+labels/status-hud/foc+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/status-hud/foc"
 msgid "FOC"
-msgstr ""
+msgstr "CON"
 
 #. data/lang/sc/gui.en_US.json labels/status-hud/lvl #0
 #: data/lang/sc/gui.en_US.json+labels/status-hud/lvl+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/status-hud/lvl"
 msgid "LVL"
-msgstr ""
+msgstr "NVL"
 
 #. data/lang/sc/gui.en_US.json labels/msg/private #0
 #: data/lang/sc/gui.en_US.json+labels/msg/private+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/msg/private"
 msgid "Direct Link"
-msgstr ""
+msgstr "Mensajero Directo"
 
 #. data/lang/sc/gui.en_US.json labels/msg/outgoing #0
 #: data/lang/sc/gui.en_US.json+labels/msg/outgoing+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/msg/outgoing"
 msgid "Requesting Direct Link"
-msgstr ""
+msgstr "Iniciando Llamada"
 
 #. data/lang/sc/gui.en_US.json labels/msg/incoming #0
 #: data/lang/sc/gui.en_US.json+labels/msg/incoming+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/msg/incoming"
 msgid "Direct Link Request"
-msgstr ""
+msgstr "Llamada Entrante"
 
 #. data/lang/sc/gui.en_US.json labels/get-msg/ACTIVATED #0
 #: data/lang/sc/gui.en_US.json+labels/get-msg/ACTIVATED+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/get-msg/ACTIVATED"
 msgid "[!] activated"
-msgstr ""
+msgstr "[!] activado"
 
 #. data/lang/sc/gui.en_US.json labels/get-msg/OBTAINED #0
 #: data/lang/sc/gui.en_US.json+labels/get-msg/OBTAINED+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/get-msg/OBTAINED"
 msgid "[!] obtained"
-msgstr ""
+msgstr "[!] obtenido"
 
 #. data/lang/sc/gui.en_US.json labels/get-msg/REMOVED #0
 #: data/lang/sc/gui.en_US.json+labels/get-msg/REMOVED+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/get-msg/REMOVED"
 msgid "[!] removed"
-msgstr ""
+msgstr "[!] removido"
 
 #. data/lang/sc/gui.en_US.json labels/get-msg/ENEMY #0
 #: data/lang/sc/gui.en_US.json+labels/get-msg/ENEMY+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/get-msg/ENEMY"
 msgid "[!] added to Monster Fibula"
-msgstr ""
+msgstr "[!] agregado al Bestiario"
 
 #. data/lang/sc/gui.en_US.json labels/get-msg/EXTENDED #0
 #: data/lang/sc/gui.en_US.json+labels/get-msg/EXTENDED+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/get-msg/EXTENDED"
 msgid "[!] extended"
-msgstr ""
+msgstr "[!] extendida"
 
 #. data/lang/sc/gui.en_US.json labels/get-msg/WORD #0
 #: data/lang/sc/gui.en_US.json+labels/get-msg/WORD+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/get-msg/WORD"
 msgid "New word embedded: [!]"
-msgstr ""
+msgstr "Nueva palabra agregada: [!]"
 
 #. data/lang/sc/gui.en_US.json labels/get-msg/FRIENDSHIP #0
 #: data/lang/sc/gui.en_US.json+labels/get-msg/FRIENDSHIP+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/get-msg/FRIENDSHIP"
 msgid "Contacts shared with [!]"
-msgstr ""
+msgstr "Se ha compartido contactos con [!]"
 
 #. data/lang/sc/gui.en_US.json labels/get-msg/PARTY #0
 #: data/lang/sc/gui.en_US.json+labels/get-msg/PARTY+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/get-msg/PARTY"
 msgid "[!] joined your party!"
-msgstr ""
+msgstr "¡[!] se unió a tu grupo!"
 
 #. data/lang/sc/gui.en_US.json labels/get-msg/USED #0
 #: data/lang/sc/gui.en_US.json+labels/get-msg/USED+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/get-msg/USED"
 msgid "[!] used!"
-msgstr ""
+msgstr "¡[!] utilizado!"
 
 #. data/lang/sc/gui.en_US.json labels/get-msg/HAND_OVER #0
 #: data/lang/sc/gui.en_US.json+labels/get-msg/HAND_OVER+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/get-msg/HAND_OVER"
 msgid "Handed over [!]"
-msgstr ""
+msgstr "Entregado [!]"
 
 #. data/lang/sc/gui.en_US.json labels/get-msg/RESET #0
 #: data/lang/sc/gui.en_US.json+labels/get-msg/RESET+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/get-msg/RESET"
 msgid "[!] has been reset"
-msgstr ""
+msgstr "[!] ha sido reseteado"
 
 #. data/lang/sc/gui.en_US.json labels/dialogs/slotsOverflow #0
 #: data/lang/sc/gui.en_US.json+labels/dialogs/slotsOverflow+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/dialogs/slotsOverflow"
 msgid "Reached maximum number of slots! Delete some to create new save files."
-msgstr ""
+msgstr "¡Has alcanzado el límite de partidas guardadas! Borra algunas para crear más."
 
 #. data/lang/sc/gui.en_US.json labels/dialogs/newConfirm #0
 #: data/lang/sc/gui.en_US.json+labels/dialogs/newConfirm+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/dialogs/newConfirm"
 msgid "Create new save file?"
-msgstr ""
+msgstr "¿Crear nuevo archivo de guardado?"
 
 #. data/lang/sc/gui.en_US.json labels/dialogs/loadConfirm #0
 #: data/lang/sc/gui.en_US.json+labels/dialogs/loadConfirm+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/dialogs/loadConfirm"
 msgid "Load this save file?"
-msgstr ""
+msgstr "¿Cargar este archivo de guardado?"
 
 #. data/lang/sc/gui.en_US.json labels/dialogs/loadNewGameConfirm #0
 #: data/lang/sc/gui.en_US.json+labels/dialogs/loadNewGameConfirm+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/dialogs/loadNewGameConfirm"
 msgid "Use this save to carry over data and start a new game with the selected options?"
-msgstr ""
+msgstr "¿Utilizar este archivo de guardado para transferir tus datos y empezar un nuevo juego con las opciones seleccionadas?"
 
 #. data/lang/sc/gui.en_US.json labels/dialogs/deleteConfirm #0
 #: data/lang/sc/gui.en_US.json+labels/dialogs/deleteConfirm+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/dialogs/deleteConfirm"
 msgid "Do you really want to delete this save file?"
-msgstr ""
+msgstr "¿Realmente quieres borrar este archivo de guardado?"
 
 #. data/lang/sc/gui.en_US.json labels/dialogs/titleConfirm #0
 #: data/lang/sc/gui.en_US.json+labels/dialogs/titleConfirm+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/dialogs/titleConfirm"
 msgid "Return to title screen?"
-msgstr ""
+msgstr "¿Volver al menú principal?"
 
 #. data/lang/sc/gui.en_US.json labels/dialogs/cancelConfirm #0
 #: data/lang/sc/gui.en_US.json+labels/dialogs/cancelConfirm+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/dialogs/cancelConfirm"
 msgid "Do you really want to cancel?"
-msgstr ""
+msgstr "¿Realmente quieres cancelar?"
 
 #. data/lang/sc/gui.en_US.json labels/dialogs/overrideConfirm #0
 #: data/lang/sc/gui.en_US.json+labels/dialogs/overrideConfirm+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/dialogs/overrideConfirm"
 msgid "Override this save file?"
-msgstr ""
+msgstr "¿Sobreescribir el archivo de guardado?"
 
 #. data/lang/sc/gui.en_US.json labels/dialogs/skipConfirm #0
 #: data/lang/sc/gui.en_US.json+labels/dialogs/skipConfirm+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/dialogs/skipConfirm"
 msgid "Do you want to skip this scene?"
-msgstr ""
+msgstr "¿Realmente quieres saltearte esta escena?"
 
 #. data/lang/sc/gui.en_US.json labels/dialogs/skipAsk #0
 #: data/lang/sc/gui.en_US.json+labels/dialogs/skipAsk+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/dialogs/skipAsk"
 msgid "Press \\i[skip-cutscene] again to skip!"
-msgstr ""
+msgstr "¡Presiona \\i[skip-cutscene] otra vez para saltear!"
 
 #. data/lang/sc/gui.en_US.json labels/dialogs/resetAsk #0
 #: data/lang/sc/gui.en_US.json+labels/dialogs/resetAsk+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/dialogs/resetAsk"
 msgid "Reset all settings to default?"
-msgstr ""
+msgstr "¿Reiniciar todas las opciones a sus valores por defecto?"
 
 #. data/lang/sc/gui.en_US.json labels/dialogs/sellRare #0
 #: data/lang/sc/gui.en_US.json+labels/dialogs/sellRare+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/dialogs/sellRare"
 msgid "One or more items you are trying to sell are of legendary rarity or higher. Still sale?"
-msgstr ""
+msgstr "Uno o más de los objetos que intentas vender es de rareza legendaria. ¿Continuar?"
 
 #. data/lang/sc/gui.en_US.json labels/dialogs/yes #0
 #: data/lang/sc/gui.en_US.json+labels/dialogs/yes+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/dialogs/yes"
 msgid "Yes"
-msgstr ""
+msgstr "Si"
 
 #. data/lang/sc/gui.en_US.json labels/dialogs/no #0
 #: data/lang/sc/gui.en_US.json+labels/dialogs/no+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/dialogs/no"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 #. data/lang/sc/gui.en_US.json labels/bigChoice/tutorial/title #0
 #: data/lang/sc/gui.en_US.json+labels/bigChoice/tutorial/title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/bigChoice/tutorial/title"
 msgid "Tutorial"
-msgstr ""
+msgstr "Tutorial"
 
 #. data/lang/sc/gui.en_US.json labels/bigChoice/tutorial/yes #0
 #: data/lang/sc/gui.en_US.json+labels/bigChoice/tutorial/yes+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/bigChoice/tutorial/yes"
 msgid "Show Tutorial"
-msgstr ""
+msgstr "Mostrar Tutorial"
 
 #. data/lang/sc/gui.en_US.json labels/bigChoice/tutorial/no #0
 #: data/lang/sc/gui.en_US.json+labels/bigChoice/tutorial/no+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/bigChoice/tutorial/no"
 msgid "Skip"
-msgstr ""
+msgstr "Saltear"
 
 #. data/lang/sc/gui.en_US.json labels/bigChoice/generic/title #0
 #: data/lang/sc/gui.en_US.json+labels/bigChoice/generic/title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/bigChoice/generic/title"
 msgid "Option"
-msgstr ""
+msgstr "Opción"
 
 #. data/lang/sc/gui.en_US.json labels/bigChoice/generic/yes #0
 #: data/lang/sc/gui.en_US.json+labels/bigChoice/generic/yes+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/bigChoice/generic/yes"
 msgid "Yes"
-msgstr ""
+msgstr "Si"
 
 #. data/lang/sc/gui.en_US.json labels/bigChoice/generic/no #0
 #: data/lang/sc/gui.en_US.json+labels/bigChoice/generic/no+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/bigChoice/generic/no"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 #. data/lang/sc/gui.en_US.json labels/stats/stats #0
 #: data/lang/sc/gui.en_US.json+labels/stats/stats+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/stats/stats"
 msgid "Stats - Autumn's Rise"
-msgstr ""
+msgstr "Estadísticas - Amanecer del Otoño"
 
 #. data/lang/sc/gui.en_US.json labels/stats/time #0
 #: data/lang/sc/gui.en_US.json+labels/stats/time+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/stats/time"
 msgid "Total Time"
-msgstr ""
+msgstr "Tiempo Total"
 
 #. data/lang/sc/gui.en_US.json labels/stats/chests #0
 #: data/lang/sc/gui.en_US.json+labels/stats/chests+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/stats/chests"
 msgid "Chests"
-msgstr ""
+msgstr "Cofres"
 
 #. data/lang/sc/gui.en_US.json labels/stats/level #0
 #: data/lang/sc/gui.en_US.json+labels/stats/level+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/stats/level"
 msgid "Level"
-msgstr ""
+msgstr "Nivel"
 
 #. data/lang/sc/gui.en_US.json labels/stats/exp #0
 #: data/lang/sc/gui.en_US.json+labels/stats/exp+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/stats/exp"
 msgid "Total EXP"
-msgstr ""
+msgstr "EXP Total"
 
 #. data/lang/sc/gui.en_US.json labels/stats/kills #0
 #: data/lang/sc/gui.en_US.json+labels/stats/kills+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/stats/kills"
 msgid "Enemies Killed"
-msgstr ""
+msgstr "Enemigos Eliminados"
 
 #. data/lang/sc/gui.en_US.json labels/stats/deaths #0
 #: data/lang/sc/gui.en_US.json+labels/stats/deaths+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/stats/deaths"
 msgid "Deaths"
-msgstr ""
+msgstr "Muertes"
 
 #. data/lang/sc/gui.en_US.json labels/stats/money #0
 #: data/lang/sc/gui.en_US.json+labels/stats/money+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/stats/money"
 msgid "Money"
-msgstr ""
+msgstr "Dinero"
 
 #. data/lang/sc/gui.en_US.json labels/highscore/header #0
 #: data/lang/sc/gui.en_US.json+labels/highscore/header+%230
@@ -1277,7 +1278,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/highscore/header2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/highscore/header2"
 msgid "Enemy Rush - Best Time"
-msgstr ""
+msgstr "Ataque Enemigo - Mejor Tiempo"
 
 #. data/lang/sc/gui.en_US.json labels/highscore/last-time #0
 #: data/lang/sc/gui.en_US.json+labels/highscore/last-time+%230
@@ -1289,253 +1290,254 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/highscore/last-time2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/highscore/last-time2"
 msgid "Enemy Rush - Your Time"
-msgstr ""
+msgstr "Ataque Enemigo - Tu Tiempo"
 
 #. data/lang/sc/gui.en_US.json labels/highscore/new-record #0
 #: data/lang/sc/gui.en_US.json+labels/highscore/new-record+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/highscore/new-record"
 msgid "New Record!"
-msgstr ""
+msgstr "¡Nuevo Record!"
 
 #. data/lang/sc/gui.en_US.json labels/combat/heat #0
 #: data/lang/sc/gui.en_US.json+labels/combat/heat+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/combat/heat"
 msgid "Heat"
-msgstr ""
+msgstr "Fuego"
 
 #. data/lang/sc/gui.en_US.json labels/combat/cold #0
 #: data/lang/sc/gui.en_US.json+labels/combat/cold+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/combat/cold"
 msgid "Cold"
-msgstr ""
+msgstr "Hielo"
 
 #. data/lang/sc/gui.en_US.json labels/combat/wave #0
 #: data/lang/sc/gui.en_US.json+labels/combat/wave+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/combat/wave"
 msgid "Wave"
-msgstr ""
+msgstr "Pulso"
 
 #. data/lang/sc/gui.en_US.json labels/combat/shock #0
 #: data/lang/sc/gui.en_US.json+labels/combat/shock+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/combat/shock"
 msgid "Shock"
-msgstr ""
+msgstr "Rayo"
 
 #. data/lang/sc/gui.en_US.json labels/combat/aim #0
 #: data/lang/sc/gui.en_US.json+labels/combat/aim+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/combat/aim"
 msgid "Aim"
-msgstr ""
+msgstr "Puntería"
 
 #. data/lang/sc/gui.en_US.json labels/combat/hp #0
 #: data/lang/sc/gui.en_US.json+labels/combat/hp+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/combat/hp"
 msgid "Hp"
-msgstr ""
+msgstr "Pv"
 
 #. data/lang/sc/gui.en_US.json labels/combat/atk #0
 #: data/lang/sc/gui.en_US.json+labels/combat/atk+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/combat/atk"
 msgid "Atk"
-msgstr ""
+msgstr "Atq"
 
 #. data/lang/sc/gui.en_US.json labels/combat/def #0
 #: data/lang/sc/gui.en_US.json+labels/combat/def+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/combat/def"
 msgid "Def"
-msgstr ""
+msgstr "Def"
 
 #. data/lang/sc/gui.en_US.json labels/combat/foc #0
 #: data/lang/sc/gui.en_US.json+labels/combat/foc+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/combat/foc"
 msgid "Foc"
-msgstr ""
+msgstr "Con"
 
 #. data/lang/sc/gui.en_US.json labels/combat/burn #0
 #: data/lang/sc/gui.en_US.json+labels/combat/burn+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/combat/burn"
 msgid "Burn"
-msgstr ""
+msgstr "Quema"
 
 #. data/lang/sc/gui.en_US.json labels/combat/chill #0
 #: data/lang/sc/gui.en_US.json+labels/combat/chill+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/combat/chill"
 msgid "Chill"
-msgstr ""
+msgstr "Frio"
 
 #. data/lang/sc/gui.en_US.json labels/combat/jolt #0
 #: data/lang/sc/gui.en_US.json+labels/combat/jolt+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/combat/jolt"
 msgid "Jolt"
-msgstr ""
+msgstr "Choque"
 
 #. data/lang/sc/gui.en_US.json labels/combat/mark #0
 #: data/lang/sc/gui.en_US.json+labels/combat/mark+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/combat/mark"
 msgid "Mark"
-msgstr ""
+msgstr "Marca"
 
 #. data/lang/sc/gui.en_US.json labels/combat/stun #0
 #: data/lang/sc/gui.en_US.json+labels/combat/stun+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/combat/stun"
 msgid "Stun"
-msgstr ""
+msgstr "Aturdido"
 
 #. data/lang/sc/gui.en_US.json labels/combat/no-sp #0
 #: data/lang/sc/gui.en_US.json+labels/combat/no-sp+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/combat/no-sp"
 msgid "NO SP"
-msgstr ""
+msgstr "SIN PE"
 
 #. data/lang/sc/gui.en_US.json labels/combat/element-overload #0
 #: data/lang/sc/gui.en_US.json+labels/combat/element-overload+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/combat/element-overload"
 msgid "Elemental Overload"
-msgstr ""
+msgstr "Sobrecarga Elemental"
 
 #. data/lang/sc/gui.en_US.json labels/combat-hud/skip #0
 #: data/lang/sc/gui.en_US.json+labels/combat-hud/skip+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/combat-hud/skip"
 msgid "skip"
-msgstr ""
+msgstr "saltear"
 
 #. data/lang/sc/gui.en_US.json labels/combat-msg/break #0
 #: data/lang/sc/gui.en_US.json+labels/combat-msg/break+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/combat-msg/break"
 msgid "\\i[break]Break"
-msgstr ""
+msgstr "\\i[break]Aturdido"
 
 #. data/lang/sc/gui.en_US.json labels/combat-msg/guard-counter #0
 #: data/lang/sc/gui.en_US.json+labels/combat-msg/guard-counter+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/combat-msg/guard-counter"
 msgid "\\i[break]Counter"
-msgstr ""
+msgstr "\\i[break]Contraataque"
 
 #. data/lang/sc/gui.en_US.json labels/combat-msg/guard-break #0
 #: data/lang/sc/gui.en_US.json+labels/combat-msg/guard-break+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/combat-msg/guard-break"
 msgid "Guard Break"
-msgstr ""
+msgstr "Rompe Escudo"
 
 #. data/lang/sc/gui.en_US.json labels/combat-msg/once-more #0
 #: data/lang/sc/gui.en_US.json+labels/combat-msg/once-more+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/combat-msg/once-more"
 msgid "Once More!"
-msgstr ""
+msgstr "¡Otra vez!"
 
 #. data/lang/sc/gui.en_US.json labels/combat-msg/hp-break #0
 #: data/lang/sc/gui.en_US.json+labels/combat-msg/hp-break+%230
+#, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/combat-msg/hp-break"
 msgid "HP Break"
-msgstr ""
+msgstr "Aturdimiento de PV"
 
 #. data/lang/sc/gui.en_US.json labels/combat-msg/rank-up #0
 #: data/lang/sc/gui.en_US.json+labels/combat-msg/rank-up+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/combat-msg/rank-up"
 msgid "\\i[rank-up]Rank"
-msgstr ""
+msgstr "\\i[rank-up]Rango"
 
 #. data/lang/sc/gui.en_US.json labels/detector/mine-equip #0
 #: data/lang/sc/gui.en_US.json+labels/detector/mine-equip+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/detector/mine-equip"
 msgid "Equipment detected: \\c[3][[x]]\\c[0]"
-msgstr ""
+msgstr "Equipamiento detectado: \\c[3][[x]]\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/detector/chest #0
 #: data/lang/sc/gui.en_US.json+labels/detector/chest+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/detector/chest"
 msgid "Chest detected: \\c[3][[x]]\\c[0]"
-msgstr ""
+msgstr "Cofre detectado: \\c[3][[x]]\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/preset-title #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/preset-title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/preset-title"
 msgid "Select a Preset Save"
-msgstr ""
+msgstr "Selecciona un Guardado Predeterminado"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/pressStart #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/pressStart+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/pressStart"
 msgid "Press to start"
-msgstr ""
+msgstr "Presiona Para Comenzar"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/start #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/start+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/start"
 msgid "New Game"
-msgstr ""
+msgstr "Nuevo Juego"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/startPlus #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/startPlus+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/startPlus"
 msgid "New Game \\c[3]Plus\\c[0]"
-msgstr ""
+msgstr "Nuevo Juego \\c[3]Plus\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/continue #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/continue+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/continue"
 msgid "Continue"
-msgstr ""
+msgstr "Continuar"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/preset #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/preset+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/preset"
 msgid "Start with Preset"
-msgstr ""
+msgstr "Empezar con Plantilla"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/story #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/story+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/story"
 msgid "Story"
-msgstr ""
+msgstr "Historia"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/grind #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/grind+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/grind"
 msgid "Exploration"
-msgstr ""
+msgstr "Exploración"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/puzzle #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/puzzle+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/puzzle"
 msgid "Puzzle"
-msgstr ""
+msgstr "Puzzle"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/select #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/select+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/select"
 msgid "Select a demo mode to try out!"
-msgstr ""
+msgstr "¡Elije un modo de demostración para probar!"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/load #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/load+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/load"
 msgid "Load Game"
-msgstr ""
+msgstr "Cargar Juego"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/options #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/options+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/options"
 msgid "Options"
-msgstr ""
+msgstr "Opciones"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/close #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/close+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/close"
 msgid "Exit"
-msgstr ""
+msgstr "Salir"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/gamecode #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/gamecode+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/gamecode"
 msgid "Enter Bonus Code"
-msgstr ""
+msgstr "Ingresar Código Bonus"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/perform-warn #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/perform-warn+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/perform-warn"
 msgid "Performance Warning"
-msgstr ""
+msgstr "Alerta de Rendimiento"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/perform-warn-text/old-nwjs #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/perform-warn-text/old-nwjs+%230
@@ -1546,6 +1548,10 @@ msgid ""
 "For many players, this version has shown to perform poorly, especially with modern graphics cards.\n"
 "If the game runs slow for you, consider disabling the use of the 'nwjs_old' BETA branch."
 msgstr ""
+"\\c[3}¡Alerta de Rendimiento!\\c[0]\n"
+"Estás jugando a CrossCode con una \\c[3]versión vieja\\c[0] de NW.js.\n"
+"Para muchos jugadores, esta versión ha demostrado tener bajo rendimiento, especialmente en tarjetas gráficas modernas.\n"
+"Si el juego presenta bajo rendimiento, considera desactivar la BETA opcional 'nwjs_old'."
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/perform-warn-text/sample-rate #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/perform-warn-text/sample-rate+%230
@@ -1557,450 +1563,455 @@ msgid ""
 "We recommend to play the game with a lower sampleRate setting of \\c[3]96000 Hz or lower\\c[0].\n"
 "On windows, you can change the sample rate through the \\c[3]Sound Control Panel\\c[0], in the \\c[3]Properties\\c[0] of your active \\c[3]Playback Device\\c[0] by changing the \\c[3]Default Format\\c[0] in the \\c[3]Advanced\\c[0] tab."
 msgstr ""
+"\\c[3}¡Alerta de Rendimiento!\\c[0]\n"
+"Estás jugando a CrossCode con una configuración \\c[3]alta de frecuencia de muestreo\\c[0] para tu dispositivo de audio\\c[3][X]\\c[0].\n"
+"Esto ha demostrado incrementar el us de la memoria y hace al juego \\c[3]más inestable\\c[0].\n"
+"Recomendamos que juegues al juego con una frecuencia de muestreo de \\c[3]96000 Hz o menos\\c[0].\n"
+"En Windows, puedes cambiar la frecuencia de muestreo desde el \\c[3]Panel de Control de Sonido\\c[0], en las \\c[3]Propiedades\\c[0] de tu \\c[3]Dispositivo de Audio\\c[0] activo al cambiar el \\c[3]Formato por Defecto\\c[0] en la pestaña \\c[3]Avanzado\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/dlc-list/button #0
 #: data/lang/sc/gui.en_US.json+labels/dlc-list/button+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/dlc-list/button"
 msgid "DLC"
-msgstr ""
+msgstr "DLC"
 
 #. data/lang/sc/gui.en_US.json labels/dlc-list/title #0
 #: data/lang/sc/gui.en_US.json+labels/dlc-list/title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/dlc-list/title"
 msgid "Installed DLCs"
-msgstr ""
+msgstr "DLCs Instalados"
 
 #. data/lang/sc/gui.en_US.json labels/dlc-list/back #0
 #: data/lang/sc/gui.en_US.json+labels/dlc-list/back+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/dlc-list/back"
 msgid "Back"
-msgstr ""
+msgstr "Atrás"
 
 #. data/lang/sc/gui.en_US.json labels/hit-task/title #0
 #: data/lang/sc/gui.en_US.json+labels/hit-task/title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/hit-task/title"
 msgid "Task"
-msgstr ""
+msgstr "Tarea"
 
 #. data/lang/sc/gui.en_US.json labels/information/title #0
 #: data/lang/sc/gui.en_US.json+labels/information/title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/information/title"
 msgid "Info"
-msgstr ""
+msgstr "Información"
 
 #. data/lang/sc/gui.en_US.json labels/levelup/title #0
 #: data/lang/sc/gui.en_US.json+labels/levelup/title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/levelup/title"
 msgid "Stats"
-msgstr ""
+msgstr "Estadísticas"
 
 #. data/lang/sc/gui.en_US.json labels/levelup/level #0
 #: data/lang/sc/gui.en_US.json+labels/levelup/level+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/levelup/level"
 msgid "Level"
-msgstr ""
+msgstr "Nivel"
 
 #. data/lang/sc/gui.en_US.json labels/levelup/cp #0
 #: data/lang/sc/gui.en_US.json+labels/levelup/cp+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/levelup/cp"
 msgid "CP"
-msgstr ""
+msgstr "PC"
 
 #. data/lang/sc/gui.en_US.json labels/levelup/hp #0
 #: data/lang/sc/gui.en_US.json+labels/levelup/hp+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/levelup/hp"
 msgid "MaxHP"
-msgstr ""
+msgstr "PVMax"
 
 #. data/lang/sc/gui.en_US.json labels/levelup/attack #0
 #: data/lang/sc/gui.en_US.json+labels/levelup/attack+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/levelup/attack"
 msgid "Attack"
-msgstr ""
+msgstr "Ataque"
 
 #. data/lang/sc/gui.en_US.json labels/levelup/defense #0
 #: data/lang/sc/gui.en_US.json+labels/levelup/defense+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/levelup/defense"
 msgid "Defense"
-msgstr ""
+msgstr "Defensa"
 
 #. data/lang/sc/gui.en_US.json labels/levelup/focus #0
 #: data/lang/sc/gui.en_US.json+labels/levelup/focus+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/levelup/focus"
 msgid "Focus"
-msgstr ""
+msgstr "Concentración"
 
 #. data/lang/sc/gui.en_US.json labels/button/skip #0
 #: data/lang/sc/gui.en_US.json+labels/button/skip+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/button/skip"
 msgid "skip"
-msgstr ""
+msgstr "saltear"
 
 #. data/lang/sc/gui.en_US.json labels/money-hud/title #0
 #: data/lang/sc/gui.en_US.json+labels/money-hud/title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/money-hud/title"
 msgid "Credit"
-msgstr ""
+msgstr "Crédito"
 
 #. data/lang/sc/gui.en_US.json labels/item-hud/title #0
 #: data/lang/sc/gui.en_US.json+labels/item-hud/title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/item-hud/title"
 msgid "Item"
-msgstr ""
+msgstr "Objeto"
 
 #. data/lang/sc/gui.en_US.json labels/lore-hud/title #0
 #: data/lang/sc/gui.en_US.json+labels/lore-hud/title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/lore-hud/title"
 msgid "Encyclopedia"
-msgstr ""
+msgstr "Enciclopedia"
 
 #. data/lang/sc/gui.en_US.json labels/lore-hud/updated #0
 #: data/lang/sc/gui.en_US.json+labels/lore-hud/updated+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/lore-hud/updated"
 msgid "Updated"
-msgstr ""
+msgstr "Actualizado"
 
 #. data/lang/sc/gui.en_US.json labels/lore-hud/unlocked #0
 #: data/lang/sc/gui.en_US.json+labels/lore-hud/unlocked+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/lore-hud/unlocked"
 msgid "Unlocked"
-msgstr ""
+msgstr "Desbloqueado"
 
 #. data/lang/sc/gui.en_US.json labels/lore-hud/top-title #0
 #: data/lang/sc/gui.en_US.json+labels/lore-hud/top-title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/lore-hud/top-title"
 msgid "Encyclopedia"
-msgstr ""
+msgstr "Enciclopedia"
 
 #. data/lang/sc/gui.en_US.json labels/lore-hud/top-first-title #0
 #: data/lang/sc/gui.en_US.json+labels/lore-hud/top-first-title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/lore-hud/top-first-title"
 msgid "Records  Updates"
-msgstr ""
+msgstr "Actualizaciones de los Registros"
 
 #. data/lang/sc/gui.en_US.json labels/lore-hud/top-first #0
 #: data/lang/sc/gui.en_US.json+labels/lore-hud/top-first+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/lore-hud/top-first"
 msgid "\\c[3]Encyclopedia\\c[0], \\c[3]Statistics\\c[0] & \\c[3]Monster Fibula\\c[0] unlocked"
-msgstr ""
+msgstr "\\c[3]Enciclopedia\\c[0], \\[3]Estadísticas\\c[0] y \\c[3]Bestiario\\c[0] desbloqueados"
 
 #. data/lang/sc/gui.en_US.json labels/drop-hud/title #0
 #: data/lang/sc/gui.en_US.json+labels/drop-hud/title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/drop-hud/title"
 msgid "Botanics"
-msgstr ""
+msgstr "Botánica"
 
 #. data/lang/sc/gui.en_US.json labels/drop-hud/completed #0
 #: data/lang/sc/gui.en_US.json+labels/drop-hud/completed+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/drop-hud/completed"
 msgid "Analyzed"
-msgstr ""
+msgstr "Analizado"
 
 #. data/lang/sc/gui.en_US.json labels/timer-hud/counter #0
 #: data/lang/sc/gui.en_US.json+labels/timer-hud/counter+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/timer-hud/counter"
 msgid "Passed Time"
-msgstr ""
+msgstr "Tiempo Transcurrido"
 
 #. data/lang/sc/gui.en_US.json labels/timer-hud/countdown #0
 #: data/lang/sc/gui.en_US.json+labels/timer-hud/countdown+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/timer-hud/countdown"
 msgid "Remaining Time"
-msgstr ""
+msgstr "Tiempo Restante"
 
 #. data/lang/sc/gui.en_US.json labels/counter-hud/title #0
 #: data/lang/sc/gui.en_US.json+labels/counter-hud/title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/counter-hud/title"
 msgid "Counter"
-msgstr ""
+msgstr "Contraataque"
 
 #. data/lang/sc/gui.en_US.json labels/task-hud/title #0
 #: data/lang/sc/gui.en_US.json+labels/task-hud/title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/task-hud/title"
 msgid "Task"
-msgstr ""
+msgstr "Tarea"
 
 #. data/lang/sc/gui.en_US.json labels/quest-hud/taskDoneCenter #0
 #: data/lang/sc/gui.en_US.json+labels/quest-hud/taskDoneCenter+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quest-hud/taskDoneCenter"
 msgid "Quest: Next Task"
-msgstr ""
+msgstr "Misión: Siguiente Tarea"
 
 #. data/lang/sc/gui.en_US.json labels/quest-hud/taskDoneCurrent #0
 #: data/lang/sc/gui.en_US.json+labels/quest-hud/taskDoneCurrent+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quest-hud/taskDoneCurrent"
 msgid "Quest: Task Done"
-msgstr ""
+msgstr "Misión: Tarea Completada"
 
 #. data/lang/sc/gui.en_US.json labels/quest-hud/title #0
 #: data/lang/sc/gui.en_US.json+labels/quest-hud/title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quest-hud/title"
 msgid "Marked Quest"
-msgstr ""
+msgstr "Misión Fijada"
 
 #. data/lang/sc/gui.en_US.json labels/quest-hud/taskUpdated #0
 #: data/lang/sc/gui.en_US.json+labels/quest-hud/taskUpdated+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quest-hud/taskUpdated"
 msgid "Task Updates"
-msgstr ""
+msgstr "Actualizaciones de Tarea"
 
 #. data/lang/sc/gui.en_US.json labels/quest-hud/taskDone #0
 #: data/lang/sc/gui.en_US.json+labels/quest-hud/taskDone+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quest-hud/taskDone"
 msgid "Task"
-msgstr ""
+msgstr "Tarea"
 
 #. data/lang/sc/gui.en_US.json labels/quest-hud/taskDone2 #0
 #: data/lang/sc/gui.en_US.json+labels/quest-hud/taskDone2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quest-hud/taskDone2"
 msgid "Done"
-msgstr ""
+msgstr "Hecho"
 
 #. data/lang/sc/gui.en_US.json labels/quest-hud/nextTask #0
 #: data/lang/sc/gui.en_US.json+labels/quest-hud/nextTask+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quest-hud/nextTask"
 msgid "Next"
-msgstr ""
+msgstr "Siguiente"
 
 #. data/lang/sc/gui.en_US.json labels/landmark-hud/title-new #0
 #: data/lang/sc/gui.en_US.json+labels/landmark-hud/title-new+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/landmark-hud/title-new"
 msgid "Landmark discovered"
-msgstr ""
+msgstr "Punto de Referencia descubierto"
 
 #. data/lang/sc/gui.en_US.json labels/landmark-hud/title #0
 #: data/lang/sc/gui.en_US.json+labels/landmark-hud/title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/landmark-hud/title"
 msgid "Landmarks"
-msgstr ""
+msgstr "Puntos de Referencia"
 
 #. data/lang/sc/gui.en_US.json labels/landmark-hud/landmark #0
 #: data/lang/sc/gui.en_US.json+labels/landmark-hud/landmark+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/landmark-hud/landmark"
 msgid "Landmark"
-msgstr ""
+msgstr "Punto de Referencia"
 
 #. data/lang/sc/gui.en_US.json labels/landmark-hud/unlocked #0
 #: data/lang/sc/gui.en_US.json+labels/landmark-hud/unlocked+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/landmark-hud/unlocked"
 msgid "unlocked"
-msgstr ""
+msgstr "desbloqueado"
 
 #. data/lang/sc/gui.en_US.json labels/pause-screen/lobby #0
 #: data/lang/sc/gui.en_US.json+labels/pause-screen/lobby+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/pause-screen/lobby"
 msgid "Return to Lobby"
-msgstr ""
+msgstr "Volver al Vestíbulo"
 
 #. data/lang/sc/gui.en_US.json labels/pause-screen/restartRound #0
 #: data/lang/sc/gui.en_US.json+labels/pause-screen/restartRound+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/pause-screen/restartRound"
 msgid "Restart Round"
-msgstr ""
+msgstr "Reiniciar Ronda"
 
 #. data/lang/sc/gui.en_US.json labels/pause-screen/restartCup #0
 #: data/lang/sc/gui.en_US.json+labels/pause-screen/restartCup+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/pause-screen/restartCup"
 msgid "Restart Cup"
-msgstr ""
+msgstr "Reiniciar Copa"
 
 #. data/lang/sc/gui.en_US.json labels/pause-screen/to-title #0
 #: data/lang/sc/gui.en_US.json+labels/pause-screen/to-title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/pause-screen/to-title"
 msgid "Return to Title"
-msgstr ""
+msgstr "Volver al Menú Principal"
 
 #. data/lang/sc/gui.en_US.json labels/pause-screen/resume #0
 #: data/lang/sc/gui.en_US.json+labels/pause-screen/resume+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/pause-screen/resume"
 msgid "Resume Game"
-msgstr ""
+msgstr "Reanudar"
 
 #. data/lang/sc/gui.en_US.json labels/pause-screen/skip #0
 #: data/lang/sc/gui.en_US.json+labels/pause-screen/skip+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/pause-screen/skip"
 msgid "Skip Cutscene"
-msgstr ""
+msgstr "Saltear Cinemática"
 
 #. data/lang/sc/gui.en_US.json labels/pause-screen/save-game #0
 #: data/lang/sc/gui.en_US.json+labels/pause-screen/save-game+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/pause-screen/save-game"
 msgid "Save Game"
-msgstr ""
+msgstr "Guardar Juego"
 
 #. data/lang/sc/gui.en_US.json labels/pause-screen/info #0
 #: data/lang/sc/gui.en_US.json+labels/pause-screen/info+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/pause-screen/info"
 msgid "Press ESC or P to return to the Game"
-msgstr ""
+msgstr "Presiona ESC o P para volver al Juego"
 
 #. data/lang/sc/gui.en_US.json labels/pause-screen/lang-fix #0
 #: data/lang/sc/gui.en_US.json+labels/pause-screen/lang-fix+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/pause-screen/lang-fix"
 msgid "Found a typo? Press \\c[3]F7 to open the Lang Editor\\c[0] and send us the fix!"
-msgstr ""
+msgstr "¿Encontraste un error? ¡Presiona \\c[3]F7 para abrir el Editor de Idioma\\c[0] y envíanos la corrección!"
 
 #. data/lang/sc/gui.en_US.json labels/lang-edit/title #0
 #: data/lang/sc/gui.en_US.json+labels/lang-edit/title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/lang-edit/title"
 msgid "Language Edit"
-msgstr ""
+msgstr "Editor de Idioma"
 
 #. data/lang/sc/gui.en_US.json labels/lang-edit/map #0
 #: data/lang/sc/gui.en_US.json+labels/lang-edit/map+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/lang-edit/map"
 msgid "Map"
-msgstr ""
+msgstr "Mapa"
 
 #. data/lang/sc/gui.en_US.json labels/lang-edit/recent #0
 #: data/lang/sc/gui.en_US.json+labels/lang-edit/recent+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/lang-edit/recent"
 msgid "Recent"
-msgstr ""
+msgstr "Reciente"
 
 #. data/lang/sc/gui.en_US.json labels/lang-edit/user-prefix #0
 #: data/lang/sc/gui.en_US.json+labels/lang-edit/user-prefix+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/lang-edit/user-prefix"
 msgid "User: "
-msgstr ""
+msgstr "Usuario: "
 
 #. data/lang/sc/gui.en_US.json labels/lang-edit/user-edit #0
 #: data/lang/sc/gui.en_US.json+labels/lang-edit/user-edit+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/lang-edit/user-edit"
 msgid "edit"
-msgstr ""
+msgstr "edición"
 
 #. data/lang/sc/gui.en_US.json labels/lang-edit/user-credentials #0
 #: data/lang/sc/gui.en_US.json+labels/lang-edit/user-credentials+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/lang-edit/user-credentials"
 msgid "User Credentials"
-msgstr ""
+msgstr "Credenciales de Usuario"
 
 #. data/lang/sc/gui.en_US.json labels/lang-edit/user-name #0
 #: data/lang/sc/gui.en_US.json+labels/lang-edit/user-name+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/lang-edit/user-name"
 msgid "Name"
-msgstr ""
+msgstr "Nombre"
 
 #. data/lang/sc/gui.en_US.json labels/lang-edit/user-email #0
 #: data/lang/sc/gui.en_US.json+labels/lang-edit/user-email+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/lang-edit/user-email"
 msgid "E-Mail"
-msgstr ""
+msgstr "E-Mail"
 
 #. data/lang/sc/gui.en_US.json labels/lang-edit/comment #0
 #: data/lang/sc/gui.en_US.json+labels/lang-edit/comment+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/lang-edit/comment"
 msgid "Additional Comments here, edit text in field above"
-msgstr ""
+msgstr "Ingrese Comentarios Adicionales aquí, edite el texto en el campo de arriba."
 
 #. data/lang/sc/gui.en_US.json labels/lang-edit/submit #0
 #: data/lang/sc/gui.en_US.json+labels/lang-edit/submit+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/lang-edit/submit"
 msgid "Submit"
-msgstr ""
+msgstr "Enviar"
 
 #. data/lang/sc/gui.en_US.json labels/lang-edit/send-report #0
 #: data/lang/sc/gui.en_US.json+labels/lang-edit/send-report+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/lang-edit/send-report"
 msgid "Send Report"
-msgstr ""
+msgstr "Enviar Reporte"
 
 #. data/lang/sc/gui.en_US.json labels/lang-edit/cancel #0
 #: data/lang/sc/gui.en_US.json+labels/lang-edit/cancel+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/lang-edit/cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #. data/lang/sc/gui.en_US.json labels/lang-edit/sending #0
 #: data/lang/sc/gui.en_US.json+labels/lang-edit/sending+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/lang-edit/sending"
 msgid "Sending Report..."
-msgstr ""
+msgstr "Enviando Reporte..."
 
 #. data/lang/sc/gui.en_US.json labels/lang-edit/error #0
 #: data/lang/sc/gui.en_US.json+labels/lang-edit/error+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/lang-edit/error"
 msgid "Error"
-msgstr ""
+msgstr "Error"
 
 #. data/lang/sc/gui.en_US.json labels/credits/note #0
 #: data/lang/sc/gui.en_US.json+labels/credits/note+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/credits/note"
 msgid "Note"
-msgstr ""
+msgstr "Nota"
 
 #. data/lang/sc/gui.en_US.json labels/credits/ideaConcept #0
 #: data/lang/sc/gui.en_US.json+labels/credits/ideaConcept+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/credits/ideaConcept"
 msgid "Idea and Concept"
-msgstr ""
+msgstr "Idea y Concepto"
 
 #. data/lang/sc/gui.en_US.json labels/credits/programming #0
 #: data/lang/sc/gui.en_US.json+labels/credits/programming+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/credits/programming"
 msgid "Programming"
-msgstr ""
+msgstr "Programación"
 
 #. data/lang/sc/gui.en_US.json labels/credits/spriteart #0
 #: data/lang/sc/gui.en_US.json+labels/credits/spriteart+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/credits/spriteart"
 msgid "Sprite Art"
-msgstr ""
+msgstr "Arte de Sprites"
 
 #. data/lang/sc/gui.en_US.json labels/credits/conceptart #0
 #: data/lang/sc/gui.en_US.json+labels/credits/conceptart+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/credits/conceptart"
 msgid "Concept Art"
-msgstr ""
+msgstr "Arte Conceptual"
 
 #. data/lang/sc/gui.en_US.json labels/credits/leveldesign #0
 #: data/lang/sc/gui.en_US.json+labels/credits/leveldesign+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/credits/leveldesign"
 msgid "Level Design"
-msgstr ""
+msgstr "Diseño de Niveles"
 
 #. data/lang/sc/gui.en_US.json labels/credits/music #0
 #: data/lang/sc/gui.en_US.json+labels/credits/music+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/credits/music"
 msgid "Music"
-msgstr ""
+msgstr "Música"
 
 #. data/lang/sc/gui.en_US.json labels/credits/sound #0
 #: data/lang/sc/gui.en_US.json+labels/credits/sound+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/credits/sound"
 msgid "Sound"
-msgstr ""
+msgstr "Sonido"
 
 #. data/lang/sc/gui.en_US.json labels/credits/betatesters #0
 #: data/lang/sc/gui.en_US.json+labels/credits/betatesters+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/credits/betatesters"
 msgid "Beta Testers"
-msgstr ""
+msgstr "Probadores Beta"
 
 #. data/lang/sc/gui.en_US.json labels/credits/thanks #0
 #: data/lang/sc/gui.en_US.json+labels/credits/thanks+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/credits/thanks"
 msgid "Special Thanks to"
-msgstr ""
+msgstr "Agradecimientos Especiales a"
 
 #. data/lang/sc/gui.en_US.json labels/gamepad-box/not-connected #0
 #: data/lang/sc/gui.en_US.json+labels/gamepad-box/not-connected+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/gamepad-box/not-connected"
 msgid "Press any button"
-msgstr ""
+msgstr "Presiona cualquier botón"
 
 #. data/lang/sc/gui.en_US.json labels/gamepad-box/connected #0
 #: data/lang/sc/gui.en_US.json+labels/gamepad-box/connected+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/gamepad-box/connected"
 msgid "Connected!"
-msgstr ""
+msgstr "¡Conectado!"
 
 #. data/lang/sc/gui.en_US.json labels/gamepad-box/info-title #0
 #: data/lang/sc/gui.en_US.json+labels/gamepad-box/info-title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/gamepad-box/info-title"
 msgid "How to use your gamepad"
-msgstr ""
+msgstr "Como utilizar tu mando"
 
 #. data/lang/sc/gui.en_US.json labels/gamepad-box/info-text #0
 #: data/lang/sc/gui.en_US.json+labels/gamepad-box/info-text+%230
@@ -2012,636 +2023,642 @@ msgid ""
 "2. Press any button (not the analogue sticks)\n"
 "If you read 'connected' next to the gamepad symbol, your gamepad should work!"
 msgstr ""
+"Puedes jugar a CrossCode con cualquier mando compatible con X-Input.\n"
+"Qué hacer:\n"
+"1. Conecta el mando\n"
+"2. Presiona cualquier botón (excepto las palancas analógicas)\n"
+"¡Si puedes leer 'conectado' al lado del símbolo del mando, tu mando debería funcionar!"
 
 #. data/lang/sc/gui.en_US.json labels/quick-menu/select #0
 #: data/lang/sc/gui.en_US.json+labels/quick-menu/select+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/select"
 msgid "Select Strategy"
-msgstr ""
+msgstr "Seleccionar Estrategia"
 
 #. data/lang/sc/gui.en_US.json labels/quick-menu/current #0
 #: data/lang/sc/gui.en_US.json+labels/quick-menu/current+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/current"
 msgid "Current"
-msgstr ""
+msgstr "Actual"
 
 #. data/lang/sc/gui.en_US.json labels/quick-menu/description/items #0
 #: data/lang/sc/gui.en_US.json+labels/quick-menu/description/items+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/description/items"
 msgid "Use Healing and Buff Items."
-msgstr ""
+msgstr "Utiliza Objetos de Curación y Mejora."
 
 #. data/lang/sc/gui.en_US.json labels/quick-menu/description/map #0
 #: data/lang/sc/gui.en_US.json+labels/quick-menu/description/map+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/description/map"
 msgid "Access the Map."
-msgstr ""
+msgstr "Accede al Mapa."
 
 #. data/lang/sc/gui.en_US.json labels/quick-menu/description/analyze #0
 #: data/lang/sc/gui.en_US.json+labels/quick-menu/description/analyze+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/description/analyze"
 msgid "Analyze the the enemies on the field."
-msgstr ""
+msgstr "Analiza los enemigos en el campo."
 
 #. data/lang/sc/gui.en_US.json labels/quick-menu/description/party #0
 #: data/lang/sc/gui.en_US.json+labels/quick-menu/description/party+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/description/party"
 msgid "Give your party members orders."
-msgstr ""
+msgstr "Dale órdenes a los miembros de tu grupo."
 
 #. data/lang/sc/gui.en_US.json labels/quick-menu/strategy/headers/target #0
 #: data/lang/sc/gui.en_US.json+labels/quick-menu/strategy/headers/target+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/strategy/headers/target"
 msgid "Target"
-msgstr ""
+msgstr "Objetivo"
 
 #. data/lang/sc/gui.en_US.json labels/quick-menu/strategy/headers/behaviour #0
 #: data/lang/sc/gui.en_US.json+labels/quick-menu/strategy/headers/behaviour+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/strategy/headers/behaviour"
 msgid "Behaviour"
-msgstr ""
+msgstr "Comportamiento"
 
 #. data/lang/sc/gui.en_US.json labels/quick-menu/strategy/headers/arts #0
 #: data/lang/sc/gui.en_US.json+labels/quick-menu/strategy/headers/arts+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/strategy/headers/arts"
 msgid "Combat Arts"
-msgstr ""
+msgstr "Artes de Combate"
 
 #. data/lang/sc/gui.en_US.json labels/quick-menu/strategy/names/TARGET/0 #0
 #: data/lang/sc/gui.en_US.json+labels/quick-menu/strategy/names/TARGET/0+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/strategy/names/TARGET/0"
 msgid "You Decide"
-msgstr ""
+msgstr "Tu Decides"
 
 #. data/lang/sc/gui.en_US.json labels/quick-menu/strategy/names/TARGET/1 #0
 #: data/lang/sc/gui.en_US.json+labels/quick-menu/strategy/names/TARGET/1+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/strategy/names/TARGET/1"
 msgid "My Enemy"
-msgstr ""
+msgstr "Mi Enemigo"
 
 #. data/lang/sc/gui.en_US.json labels/quick-menu/strategy/names/TARGET/2 #0
 #: data/lang/sc/gui.en_US.json+labels/quick-menu/strategy/names/TARGET/2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/strategy/names/TARGET/2"
 msgid "Others"
-msgstr ""
+msgstr "Otros"
 
 #. data/lang/sc/gui.en_US.json labels/quick-menu/strategy/names/BEHAVIOUR/0 #0
 #: data/lang/sc/gui.en_US.json+labels/quick-menu/strategy/names/BEHAVIOUR/0+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/strategy/names/BEHAVIOUR/0"
 msgid "Offensive"
-msgstr ""
+msgstr "Ofensivo"
 
 #. data/lang/sc/gui.en_US.json labels/quick-menu/strategy/names/BEHAVIOUR/1 #0
 #: data/lang/sc/gui.en_US.json+labels/quick-menu/strategy/names/BEHAVIOUR/1+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/strategy/names/BEHAVIOUR/1"
 msgid "Defensive"
-msgstr ""
+msgstr "Defensivo"
 
 #. data/lang/sc/gui.en_US.json labels/quick-menu/strategy/names/BEHAVIOUR/2 #0
 #: data/lang/sc/gui.en_US.json+labels/quick-menu/strategy/names/BEHAVIOUR/2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/strategy/names/BEHAVIOUR/2"
 msgid "Do Nothing"
-msgstr ""
+msgstr "No Hagas Nada"
 
 #. data/lang/sc/gui.en_US.json labels/quick-menu/strategy/names/ARTS/0 #0
 #: data/lang/sc/gui.en_US.json+labels/quick-menu/strategy/names/ARTS/0+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/strategy/names/ARTS/0"
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #. data/lang/sc/gui.en_US.json labels/quick-menu/strategy/names/ARTS/1 #0
 #: data/lang/sc/gui.en_US.json+labels/quick-menu/strategy/names/ARTS/1+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/strategy/names/ARTS/1"
 msgid "Use Often"
-msgstr ""
+msgstr "Usar con Frecuencia"
 
 #. data/lang/sc/gui.en_US.json labels/quick-menu/strategy/names/ARTS/2 #0
 #: data/lang/sc/gui.en_US.json+labels/quick-menu/strategy/names/ARTS/2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/strategy/names/ARTS/2"
 msgid "Never"
-msgstr ""
+msgstr "Nunca"
 
 #. data/lang/sc/gui.en_US.json labels/quick-menu/strategy/description/TARGET/0 #0
 #: data/lang/sc/gui.en_US.json+labels/quick-menu/strategy/description/TARGET/0+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/strategy/description/TARGET/0"
 msgid "Party members will focus enemies as they please."
-msgstr ""
+msgstr "Los miembros de tu grupo atacarán enemigos como quieran."
 
 #. data/lang/sc/gui.en_US.json labels/quick-menu/strategy/description/TARGET/1 #0
 #: data/lang/sc/gui.en_US.json+labels/quick-menu/strategy/description/TARGET/1+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/strategy/description/TARGET/1"
 msgid "Party members will focus the same enemy as you."
-msgstr ""
+msgstr "Los miembros de tu grupo atacarán al mismo enemigo que tú."
 
 #. data/lang/sc/gui.en_US.json labels/quick-menu/strategy/description/TARGET/2 #0
 #: data/lang/sc/gui.en_US.json+labels/quick-menu/strategy/description/TARGET/2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/strategy/description/TARGET/2"
 msgid "Party members will focus enemies you are not attacking."
-msgstr ""
+msgstr "Los miembros de tu grupo atacarán enemigos que no estés atacando."
 
 #. data/lang/sc/gui.en_US.json labels/quick-menu/strategy/description/BEHAVIOUR/0 #0
 #: data/lang/sc/gui.en_US.json+labels/quick-menu/strategy/description/BEHAVIOUR/0+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/strategy/description/BEHAVIOUR/0"
 msgid "Party members will use an aggressive playstyle."
-msgstr ""
+msgstr "Los miembros de tu grupo jugarán agresivamente."
 
 #. data/lang/sc/gui.en_US.json labels/quick-menu/strategy/description/BEHAVIOUR/1 #0
 #: data/lang/sc/gui.en_US.json+labels/quick-menu/strategy/description/BEHAVIOUR/1+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/strategy/description/BEHAVIOUR/1"
 msgid "Party members will stay back and focus defensive maneuvers."
-msgstr ""
+msgstr "Los miembros de tu grupo se quedarán atrás y se centrarán en maniobras defensivas."
 
 #. data/lang/sc/gui.en_US.json labels/quick-menu/strategy/description/BEHAVIOUR/2 #0
 #: data/lang/sc/gui.en_US.json+labels/quick-menu/strategy/description/BEHAVIOUR/2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/strategy/description/BEHAVIOUR/2"
 msgid "Party members will stay far away and do nothing."
-msgstr ""
+msgstr "Los miembros de tu grupo se quedarán lejos y no harán nada."
 
 #. data/lang/sc/gui.en_US.json labels/quick-menu/strategy/description/ARTS/0 #0
 #: data/lang/sc/gui.en_US.json+labels/quick-menu/strategy/description/ARTS/0+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/strategy/description/ARTS/0"
 msgid "Party members will use combat arts at a normal interval."
-msgstr ""
+msgstr "Los miembros de tu grupo utilizarán las artes de combate en un intervalo normal."
 
 #. data/lang/sc/gui.en_US.json labels/quick-menu/strategy/description/ARTS/1 #0
 #: data/lang/sc/gui.en_US.json+labels/quick-menu/strategy/description/ARTS/1+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/strategy/description/ARTS/1"
 msgid "Party members will use combat arts as much as possible."
-msgstr ""
+msgstr "Los miembros de tu grupo utilizarán las artes de combte tanto como puedan."
 
 #. data/lang/sc/gui.en_US.json labels/quick-menu/strategy/description/ARTS/2 #0
 #: data/lang/sc/gui.en_US.json+labels/quick-menu/strategy/description/ARTS/2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/strategy/description/ARTS/2"
 msgid "Party members will never use any combat arts."
-msgstr ""
+msgstr "Los miembros de tu grupo nunca usarán artes de combate."
 
 #. data/lang/sc/gui.en_US.json labels/quick-menu/strategy/buttons/FREE #0
 #: data/lang/sc/gui.en_US.json+labels/quick-menu/strategy/buttons/FREE+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/strategy/buttons/FREE"
 msgid "Do as you please!"
-msgstr ""
+msgstr "¡Haz como plazcas!"
 
 #. data/lang/sc/gui.en_US.json labels/quick-menu/strategy/buttons/FOCUS_ENEMY #0
 #: data/lang/sc/gui.en_US.json+labels/quick-menu/strategy/buttons/FOCUS_ENEMY+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/strategy/buttons/FOCUS_ENEMY"
 msgid "Focus my enemy!"
-msgstr ""
+msgstr "¡Céntrate en mi enemigo!"
 
 #. data/lang/sc/gui.en_US.json labels/quick-menu/strategy/buttons/FOCUS_DEFENSE #0
 #: data/lang/sc/gui.en_US.json+labels/quick-menu/strategy/buttons/FOCUS_DEFENSE+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/strategy/buttons/FOCUS_DEFENSE"
 msgid "Focus defense!"
-msgstr ""
+msgstr "¡Céntrate en defensa!"
 
 #. data/lang/sc/gui.en_US.json labels/quick-menu/strategy/buttons/NOTHING #0
 #: data/lang/sc/gui.en_US.json+labels/quick-menu/strategy/buttons/NOTHING+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/strategy/buttons/NOTHING"
 msgid "Stay out of combat!"
-msgstr ""
+msgstr "¡Quédate fuera de combate!"
 
 #. data/lang/sc/gui.en_US.json labels/quick-menu/strategy/descriptions/FREE #0
 #: data/lang/sc/gui.en_US.json+labels/quick-menu/strategy/descriptions/FREE+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/strategy/descriptions/FREE"
 msgid "Your party members will take action as they see fit."
-msgstr ""
+msgstr "Los miembros de tu grupo harán lo que les parezca apropiado."
 
 #. data/lang/sc/gui.en_US.json labels/quick-menu/strategy/descriptions/FOCUS_ENEMY #0
 #: data/lang/sc/gui.en_US.json+labels/quick-menu/strategy/descriptions/FOCUS_ENEMY+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/strategy/descriptions/FOCUS_ENEMY"
 msgid "Your party members will focus the same enemy as you."
-msgstr ""
+msgstr "Los miembros de tu grupo se centrarán en el mismo enemigo que tú."
 
 #. data/lang/sc/gui.en_US.json labels/quick-menu/strategy/descriptions/FOCUS_DEFENSE #0
 #: data/lang/sc/gui.en_US.json+labels/quick-menu/strategy/descriptions/FOCUS_DEFENSE+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/strategy/descriptions/FOCUS_DEFENSE"
 msgid "Your party members will stay back and focus on defending/evading attacks."
-msgstr ""
+msgstr "Los miembros de tu grupo se quedarán atrás y se centrarán en defender/evadir ataques."
 
 #. data/lang/sc/gui.en_US.json labels/quick-menu/strategy/descriptions/NOTHING #0
 #: data/lang/sc/gui.en_US.json+labels/quick-menu/strategy/descriptions/NOTHING+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/strategy/descriptions/NOTHING"
 msgid "Your Party members will do absolutely nothing and stay back."
-msgstr ""
+msgstr "Los miembros de tu grupo no harán absolutamente nada y se quedarán atrás."
 
 #. data/lang/sc/gui.en_US.json labels/quick-menu/noData #0
 #: data/lang/sc/gui.en_US.json+labels/quick-menu/noData+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/noData"
 msgid "Insufficient Data! Fight against this enemy to reveal more information."
-msgstr ""
+msgstr "¡Datos Insuficientes! Pelea contra este enemigo para revelar más información."
 
 #. data/lang/sc/gui.en_US.json labels/shop/buy #0
 #: data/lang/sc/gui.en_US.json+labels/shop/buy+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shop/buy"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 #. data/lang/sc/gui.en_US.json labels/shop/sell #0
 #: data/lang/sc/gui.en_US.json+labels/shop/sell+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shop/sell"
 msgid "Sell"
-msgstr ""
+msgstr "Vender"
 
 #. data/lang/sc/gui.en_US.json labels/shop/cancel #0
 #: data/lang/sc/gui.en_US.json+labels/shop/cancel+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shop/cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #. data/lang/sc/gui.en_US.json labels/shop/checkout #0
 #: data/lang/sc/gui.en_US.json+labels/shop/checkout+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shop/checkout"
 msgid "Checkout"
-msgstr ""
+msgstr "Revisar Compra"
 
 #. data/lang/sc/gui.en_US.json labels/shop/credits #0
 #: data/lang/sc/gui.en_US.json+labels/shop/credits+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shop/credits"
 msgid "Credits"
-msgstr ""
+msgstr "Créditos"
 
 #. data/lang/sc/gui.en_US.json labels/shop/coins #0
 #: data/lang/sc/gui.en_US.json+labels/shop/coins+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shop/coins"
 msgid "Coins"
-msgstr ""
+msgstr "Monedas"
 
 #. data/lang/sc/gui.en_US.json labels/shop/price #0
 #: data/lang/sc/gui.en_US.json+labels/shop/price+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shop/price"
 msgid "Sell Price"
-msgstr ""
+msgstr "Precio de Venta"
 
 #. data/lang/sc/gui.en_US.json labels/shop/profit #0
 #: data/lang/sc/gui.en_US.json+labels/shop/profit+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shop/profit"
 msgid "Profit"
-msgstr ""
+msgstr "Ganancia"
 
 #. data/lang/sc/gui.en_US.json labels/shop/cost #0
 #: data/lang/sc/gui.en_US.json+labels/shop/cost+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shop/cost"
 msgid "Cost"
-msgstr ""
+msgstr "Costo"
 
 #. data/lang/sc/gui.en_US.json labels/shop/rest #0
 #: data/lang/sc/gui.en_US.json+labels/shop/rest+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shop/rest"
 msgid "Rest"
-msgstr ""
+msgstr "Resto"
 
 #. data/lang/sc/gui.en_US.json labels/shop/total #0
 #: data/lang/sc/gui.en_US.json+labels/shop/total+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shop/total"
 msgid "Total"
-msgstr ""
+msgstr "Total"
 
 #. data/lang/sc/gui.en_US.json labels/shop/leaveWithCartItems #0
 #: data/lang/sc/gui.en_US.json+labels/shop/leaveWithCartItems+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shop/leaveWithCartItems"
 msgid "Items are in your cart. Still return?"
-msgstr ""
+msgstr "Hay objetos en tu carrito. ¿Volver?"
 
 #. data/lang/sc/gui.en_US.json labels/shop/confirmBuy #0
 #: data/lang/sc/gui.en_US.json+labels/shop/confirmBuy+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shop/confirmBuy"
 msgid "Buy the selected Items?"
-msgstr ""
+msgstr "¿Comprar los objetos seleccionados?"
 
 #. data/lang/sc/gui.en_US.json labels/shop/confirmSell #0
 #: data/lang/sc/gui.en_US.json+labels/shop/confirmSell+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shop/confirmSell"
 msgid "Sell the selected Items?"
-msgstr ""
+msgstr "¿Vender los objetos seleccionados?"
 
 #. data/lang/sc/gui.en_US.json labels/shop/owned #0
 #: data/lang/sc/gui.en_US.json+labels/shop/owned+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shop/owned"
 msgid "Owned"
-msgstr ""
+msgstr "En Posesión"
 
 #. data/lang/sc/gui.en_US.json labels/shop/select #0
 #: data/lang/sc/gui.en_US.json+labels/shop/select+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shop/select"
 msgid "Select"
-msgstr ""
+msgstr "Seleccionar"
 
 #. data/lang/sc/gui.en_US.json labels/shop/cart #0
 #: data/lang/sc/gui.en_US.json+labels/shop/cart+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shop/cart"
 msgid "Cart"
-msgstr ""
+msgstr "Carrito"
 
 #. data/lang/sc/gui.en_US.json labels/shop/quantity #0
 #: data/lang/sc/gui.en_US.json+labels/shop/quantity+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shop/quantity"
 msgid "Set Quantity"
-msgstr ""
+msgstr "Cantidad"
 
 #. data/lang/sc/gui.en_US.json labels/shop/submit #0
 #: data/lang/sc/gui.en_US.json+labels/shop/submit+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shop/submit"
 msgid "Submit"
-msgstr ""
+msgstr "Aceptar"
 
 #. data/lang/sc/gui.en_US.json labels/shop/items #0
 #: data/lang/sc/gui.en_US.json+labels/shop/items+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shop/items"
 msgid "Items"
-msgstr ""
+msgstr "Objetos"
 
 #. data/lang/sc/gui.en_US.json labels/shop/noEquip #0
 #: data/lang/sc/gui.en_US.json+labels/shop/noEquip+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shop/noEquip"
 msgid "----------------------"
-msgstr ""
+msgstr "----------------------"
 
 #. data/lang/sc/gui.en_US.json labels/shop/sellGroup #0
 #: data/lang/sc/gui.en_US.json+labels/shop/sellGroup+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shop/sellGroup"
 msgid "Select Category"
-msgstr ""
+msgstr "Seleccionar Categoría"
 
 #. data/lang/sc/gui.en_US.json labels/shop/sellPages/cons #0
 #: data/lang/sc/gui.en_US.json+labels/shop/sellPages/cons+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shop/sellPages/cons"
 msgid "Consumables"
-msgstr ""
+msgstr "Consumibles"
 
 #. data/lang/sc/gui.en_US.json labels/shop/sellPages/equip-arm #0
 #: data/lang/sc/gui.en_US.json+labels/shop/sellPages/equip-arm+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shop/sellPages/equip-arm"
 msgid "Arm Equipment"
-msgstr ""
+msgstr "Equipamiento de Brazos"
 
 #. data/lang/sc/gui.en_US.json labels/shop/sellPages/equip-head #0
 #: data/lang/sc/gui.en_US.json+labels/shop/sellPages/equip-head+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shop/sellPages/equip-head"
 msgid "Head Equipment"
-msgstr ""
+msgstr "Equipamiento de Cabeza"
 
 #. data/lang/sc/gui.en_US.json labels/shop/sellPages/equip-torso #0
 #: data/lang/sc/gui.en_US.json+labels/shop/sellPages/equip-torso+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shop/sellPages/equip-torso"
 msgid "Torso Equipment"
-msgstr ""
+msgstr "Equipamiento de Torso"
 
 #. data/lang/sc/gui.en_US.json labels/shop/sellPages/equip-feet #0
 #: data/lang/sc/gui.en_US.json+labels/shop/sellPages/equip-feet+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shop/sellPages/equip-feet"
 msgid "Foot Equipment"
-msgstr ""
+msgstr "Equipamiento de Pies"
 
 #. data/lang/sc/gui.en_US.json labels/shop/sellPages/trade #0
 #: data/lang/sc/gui.en_US.json+labels/shop/sellPages/trade+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shop/sellPages/trade"
 msgid "Trade"
-msgstr ""
+msgstr "Intercambio"
 
 #. data/lang/sc/gui.en_US.json labels/shop/sellPages/key #0
 #: data/lang/sc/gui.en_US.json+labels/shop/sellPages/key+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shop/sellPages/key"
 msgid "Valuables"
-msgstr ""
+msgstr "Valioso"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/points #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/points+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/points"
 msgid "Points"
-msgstr ""
+msgstr "Puntos"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/overview #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/overview+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/overview"
 msgid "Overview"
-msgstr ""
+msgstr "Vista Previa"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/start #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/start+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/start"
 msgid "Begin Adventure"
-msgstr ""
+msgstr "Comenzar Aventura"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/saveFileInfo #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/saveFileInfo+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/saveFileInfo"
 msgid "Please select a \\i[save-star] save file from which to carry over the selected options."
-msgstr ""
+msgstr "Por favor elije un \\i[save-star] archivo de guardado desde cual transferir las opciones seleccionadas."
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/confirmOptions #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/confirmOptions+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/confirmOptions"
 msgid "Start a new game with the selected options?"
-msgstr ""
+msgstr "¿Comenzar un nuevo juego con las opciones seleccionadas?"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/okay #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/okay+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/okay"
 msgid "Okay"
-msgstr ""
+msgstr "Aceptar"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/sets/enemy-damage #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/sets/enemy-damage+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/sets/enemy-damage"
 msgid "Enemy Damage"
-msgstr ""
+msgstr "Daño Enemigo"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/sets/combat-arts #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/sets/combat-arts+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/sets/combat-arts"
 msgid "Combat Arts"
-msgstr ""
+msgstr "Artes de Combate"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/sets/others #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/sets/others+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/sets/others"
 msgid "Others"
-msgstr ""
+msgstr "Otros"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/sets/money #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/sets/money+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/sets/money"
 msgid "Credits"
-msgstr ""
+msgstr "Créditos"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/sets/exp #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/sets/exp+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/sets/exp"
 msgid "Experience"
-msgstr ""
+msgstr "Experiencia"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/sets/carry-over #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/sets/carry-over+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/sets/carry-over"
 msgid "Carry Over from a save file "
-msgstr ""
+msgstr "Transferir de un archivo de guardado "
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/sets/combat-modifier #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/sets/combat-modifier+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/sets/combat-modifier"
 msgid "Combat Modifier"
-msgstr ""
+msgstr "Modificador de Combate"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/sets/drop-rate #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/sets/drop-rate+%230
+#, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/sets/drop-rate"
 msgid "Drop Rates"
-msgstr ""
+msgstr "Probabilidad de Conseguir"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/sets/enemy #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/sets/enemy+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/sets/enemy"
 msgid "Enemy Modifiers"
-msgstr ""
+msgstr "Modificadores Enemigos"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/sets/itemCooldown #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/sets/itemCooldown+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/sets/itemCooldown"
 msgid "Item Cooldown"
-msgstr ""
+msgstr "Enfriamiento de Objetos"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/sets/hp-regen #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/sets/hp-regen+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/sets/hp-regen"
 msgid "HP Regeneration"
-msgstr ""
+msgstr "Regeneración de PV"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/dialogs/modeSelect #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/dialogs/modeSelect+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/dialogs/modeSelect"
 msgid "Select Game Mode"
-msgstr ""
+msgstr "Selecciona el Modo de Juego"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/dialogs/normal #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/dialogs/normal+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/dialogs/normal"
 msgid "Regular"
-msgstr ""
+msgstr "Regular"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/dialogs/plus #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/dialogs/plus+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/dialogs/plus"
 msgid "New Game Plus"
-msgstr ""
+msgstr "Nuevo Juego Plus"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/dialogs/normalDescription #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/dialogs/normalDescription+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/dialogs/normalDescription"
 msgid "Experience the story of CrossCode just like before!"
-msgstr ""
+msgstr "¡Experimenta la historia de CrossCode como la última vez!"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/dialogs/plusDescription #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/dialogs/plusDescription+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/dialogs/plusDescription"
 msgid "Use your accumulated \\c[3]Trophy Points\\c[0] to customize your game!"
-msgstr ""
+msgstr "¡Utiliza tus \\c[3]Puntos de Trofeo\\c[0] acumulados para personalizar tu juego!"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/enemy-damage-15 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/enemy-damage-15+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/enemy-damage-15"
 msgid "Damage x 1.5"
-msgstr ""
+msgstr "Daño x1,5"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/enemy-damage-2 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/enemy-damage-2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/enemy-damage-2"
 msgid "Damage x 2"
-msgstr ""
+msgstr "Daño x2"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/enemy-damage-4 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/enemy-damage-4+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/enemy-damage-4"
 msgid "Damage x 4"
-msgstr ""
+msgstr "Daño x4"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/keep-level #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/keep-level+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/keep-level"
 msgid "Level"
-msgstr ""
+msgstr "Nivel"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/keep-consumables #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/keep-consumables+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/keep-consumables"
 msgid "Consumables"
-msgstr ""
+msgstr "Consumibles"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/keep-equipment #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/keep-equipment+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/keep-equipment"
 msgid "Equipment"
-msgstr ""
+msgstr "Equipamiento"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/keep-trade #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/keep-trade+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/keep-trade"
 msgid "Trade"
-msgstr ""
+msgstr "Intercambio"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/keep-addons #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/keep-addons+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/keep-addons"
 msgid "Add-Ons"
-msgstr ""
+msgstr "Complementos"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/keep-money #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/keep-money+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/keep-money"
 msgid "Credits"
-msgstr ""
+msgstr "Créditos"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/keep-records #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/keep-records+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/keep-records"
 msgid "Records"
-msgstr ""
+msgstr "Registros"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/keep-elements #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/keep-elements+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/keep-elements"
 msgid "Elements"
-msgstr ""
+msgstr "Elementos"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/keep-botanics #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/keep-botanics+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/keep-botanics"
 msgid "Botanics"
-msgstr ""
+msgstr "Botánica"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/keep-arena #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/keep-arena+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/keep-arena"
 msgid "Arena"
-msgstr ""
+msgstr "Arena"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/keep-traders #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/keep-traders+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/keep-traders"
 msgid "Traders"
-msgstr ""
+msgstr "Comerciantes"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/money-plus-2 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/money-plus-2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/money-plus-2"
 msgid "Credits x 2"
-msgstr ""
+msgstr "Créditos x2"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/money-plus-4 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/money-plus-4+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/money-plus-4"
 msgid "Credits x 4"
-msgstr ""
+msgstr "Créditos x4"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/exp-plus-2 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/exp-plus-2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/exp-plus-2"
 msgid "EXP x 2"
-msgstr ""
+msgstr "EXP x2"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/exp-plus-4 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/exp-plus-4+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/exp-plus-4"
 msgid "EXP x 4"
-msgstr ""
+msgstr "EXP x4"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/drop-rate-2 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/drop-rate-2+%230
@@ -2659,277 +2676,277 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/disable-exp+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/disable-exp"
 msgid "Disable EXP"
-msgstr ""
+msgstr "Desactiar EXP"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/disable-money #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/disable-money+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/disable-money"
 msgid "Disable Credits"
-msgstr ""
+msgstr "Desactivar Créditos"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/dash-1 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/dash-1+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/dash-1"
 msgid "Dash Master"
-msgstr ""
+msgstr "Maestro del Esquive"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/waypoints-heals #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/waypoints-heals+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/waypoints-heals"
 msgid "Classic Heals"
-msgstr ""
+msgstr "Curaciones Clásicas"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/waypoints-teleport #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/waypoints-teleport+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/waypoints-teleport"
 msgid "Classic Porter"
-msgstr ""
+msgstr "Portero Clásico"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/scale-enemies #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/scale-enemies+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/scale-enemies"
 msgid "Get on my Level"
-msgstr ""
+msgstr "Ponte a mi Nivel"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/witch-time #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/witch-time+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/witch-time"
 msgid "Witch Time"
-msgstr ""
+msgstr "Tiempo Bruja"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/harder-enemies #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/harder-enemies+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/harder-enemies"
 msgid "No Mercy"
-msgstr ""
+msgstr "Sin Piedad"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/lea-must-die #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/lea-must-die+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/lea-must-die"
 msgid "Prepare to Hi!"
-msgstr ""
+msgstr "¡Prepárate para Hola!"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/sergey-hax #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/sergey-hax+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/sergey-hax"
 msgid "Sergey Hax"
-msgstr ""
+msgstr "Hax de Sergey"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/double-buff-time #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/double-buff-time+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/double-buff-time"
 msgid "Mega Nutrients"
-msgstr ""
+msgstr "Mega Nutrientes"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/rhombus-start #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/rhombus-start+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/rhombus-start"
 msgid "Skip Beginning"
-msgstr ""
+msgstr "Saltear el Inicio"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/combat-arts-level-1 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/combat-arts-level-1+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/combat-arts-level-1"
 msgid "First Belt"
-msgstr ""
+msgstr "Primer Cinturón"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/combat-arts-level-2 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/combat-arts-level-2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/combat-arts-level-2"
 msgid "Second Belt"
-msgstr ""
+msgstr "Segundo Cinturón"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/overload-disable #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/overload-disable+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/overload-disable"
 msgid "Truly Balanced"
-msgstr ""
+msgstr "Verdaderamente Balanceado"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/infinite-sp #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/infinite-sp+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/infinite-sp"
 msgid "Devil Trigger"
-msgstr ""
+msgstr "Gatillo del Diablo"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/enemy-aggro #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/enemy-aggro+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/enemy-aggro"
 msgid "Hostile Habitat"
-msgstr ""
+msgstr "Habitat Hostil"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/item-cd-double #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/item-cd-double+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/item-cd-double"
 msgid "Diet"
-msgstr ""
+msgstr "Dieta"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/item-cd-half #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/item-cd-half+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/item-cd-half"
 msgid "Feast"
-msgstr ""
+msgstr "Banquete"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/item-cd-zero #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/item-cd-zero+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/item-cd-zero"
 msgid "Buffet"
-msgstr ""
+msgstr "Buffet"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/remove-skill-blocks #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/remove-skill-blocks+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/remove-skill-blocks"
 msgid "Early Access"
-msgstr ""
+msgstr "Acceso Anticipado"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/combat-regen-half #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/combat-regen-half+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/combat-regen-half"
 msgid "Half Healing"
-msgstr ""
+msgstr "Media Curación"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/combat-regen-zero #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/combat-regen-zero+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/combat-regen-zero"
 msgid "Zero Healing"
-msgstr ""
+msgstr "Cero Curación"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/no-trophies #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/no-trophies+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/no-trophies"
 msgid "Trophy Block"
-msgstr ""
+msgstr "Bloqueo de Trofeos"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/ice-physics #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/ice-physics+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/ice-physics"
 msgid "Slippery Slope"
-msgstr ""
+msgstr "Pendiente Resbaladiza"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/descriptions/double-buff-time #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/descriptions/double-buff-time+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/descriptions/double-buff-time"
 msgid "Doubles the length of all consumables items."
-msgstr ""
+msgstr "Duplica la duración de todos los consumibles."
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/descriptions/drop-rate-2 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/descriptions/drop-rate-2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/descriptions/drop-rate-2"
 msgid "Increases drop rate for items from plants and enemies by 100%."
-msgstr ""
+msgstr "Incrementa la probabilidad de conseguir objetos de las plantas y los enemigos en un 100%."
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/descriptions/drop-rate-4 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/descriptions/drop-rate-4+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/descriptions/drop-rate-4"
 msgid "Increases drop rate for items from plants and enemies by 300%."
-msgstr ""
+msgstr "Incrementa la probabilidad de conseguir objetos de las plantas y los enemigos en un 300%."
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/descriptions/enemy-damage-15 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/descriptions/enemy-damage-15+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/descriptions/enemy-damage-15"
 msgid "Increase damage taken by 50%."
-msgstr ""
+msgstr "Incrementa el daño recibido un 50%."
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/descriptions/enemy-damage-2 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/descriptions/enemy-damage-2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/descriptions/enemy-damage-2"
 msgid "Increase damage taken by 100%."
-msgstr ""
+msgstr "Incrementa el daño recibido un 100%."
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/descriptions/enemy-damage-4 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/descriptions/enemy-damage-4+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/descriptions/enemy-damage-4"
 msgid "Increase damage taken by 300%."
-msgstr ""
+msgstr "Incrementa el daño recibido un 300%."
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/descriptions/keep-level #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/descriptions/keep-level+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/descriptions/keep-level"
 msgid "Keep your current level."
-msgstr ""
+msgstr "Mantén tu nivel actual."
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/descriptions/keep-consumables #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/descriptions/keep-consumables+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/descriptions/keep-consumables"
 msgid "Keep all your consumables. (Favorites are reset)"
-msgstr ""
+msgstr "Mantén todos tus consumibles. (Tus Favoritos se reinician )"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/descriptions/keep-equipment #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/descriptions/keep-equipment+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/descriptions/keep-equipment"
 msgid "Keep all your equipment. (Equipped items are moved to your inventory)"
-msgstr ""
+msgstr "Mantén todo tu equipamiento. (Los objetos equipados se moverán a tu inventario)"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/descriptions/keep-trade #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/descriptions/keep-trade+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/descriptions/keep-trade"
 msgid "Keep all trade items"
-msgstr ""
+msgstr "Mantén todos los objetos de intercambio"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/descriptions/keep-addons #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/descriptions/keep-addons+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/descriptions/keep-addons"
 msgid "Keep all Add-Ons. (Add-Ons are switched off)"
-msgstr ""
+msgstr "Mantén todos los Complementos. (Los Complementos estarán desactivados)"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/descriptions/keep-money #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/descriptions/keep-money+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/descriptions/keep-money"
 msgid "Keep all credits."
-msgstr ""
+msgstr "Mantén todos los créditos."
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/descriptions/keep-records #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/descriptions/keep-records+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/descriptions/keep-records"
 msgid "Keep your accumulated statistics. "
-msgstr ""
+msgstr "Mantén tus estadísticas. "
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/descriptions/keep-botanics #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/descriptions/keep-botanics+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/descriptions/keep-botanics"
 msgid "Keep your botanics progress."
-msgstr ""
+msgstr "Mantén tu progreso en botánica."
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/descriptions/keep-traders #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/descriptions/keep-traders+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/descriptions/keep-traders"
 msgid "Keep all trader locations."
-msgstr ""
+msgstr "Mantén la localización de todos los comerciantes."
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/descriptions/keep-elements #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/descriptions/keep-elements+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/descriptions/keep-elements"
 msgid "Keep all elements. (Elements will be activated once obtaining the neutral mode)"
-msgstr ""
+msgstr "Mantén todos los elementos. (Los elementos se activarán una vez se consiga el modo neutral)"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/descriptions/keep-arena #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/descriptions/keep-arena+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/descriptions/keep-arena"
 msgid "Keep all your arena progress.  "
-msgstr ""
+msgstr "Mantén todo tu progreso en la arena.  "
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/descriptions/money-plus-2 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/descriptions/money-plus-2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/descriptions/money-plus-2"
 msgid "Gain 100% more credits from all sources."
-msgstr ""
+msgstr "Consigue un 100% más de créditos de todas las fuentes."
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/descriptions/money-plus-4 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/descriptions/money-plus-4+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/descriptions/money-plus-4"
 msgid "Gain 300% more credits from all sources."
-msgstr ""
+msgstr "Consigue un 300% más de créditos de todas las fuentes."
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/descriptions/exp-plus-2 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/descriptions/exp-plus-2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/descriptions/exp-plus-2"
 msgid "Gain 100% more experience from all sources."
-msgstr ""
+msgstr "Consigue un 100% más de experiencia de todas las fuentes."
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/descriptions/exp-plus-4 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/descriptions/exp-plus-4+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/descriptions/exp-plus-4"
 msgid "Gain 300% more experience from all sources."
-msgstr ""
+msgstr "Consigue un 300% más de experiencia de todas las fuentes."
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/descriptions/disable-exp #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/descriptions/disable-exp+%230
