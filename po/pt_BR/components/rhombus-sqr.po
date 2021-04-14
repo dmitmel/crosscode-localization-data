@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.4.0-4\n"
+"Project-Id-Version: crosscode 1.4.1-2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-27 11:10+0000\n"
-"PO-Revision-Date: 2021-03-27 11:10+0000\n"
+"POT-Creation-Date: 2021-04-14 01:09+0000\n"
+"POT-Revision-Date: 2021-04-14 01:09+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: pt_BR\n"
@@ -193,6 +193,18 @@ msgctxt "data/areas/rhombus-sqr.json//floors/1/maps/24/name"
 msgid "Tremor Office"
 msgstr ""
 
+#. data/areas/rhombus-sqr.json floors/1/maps/25/name #374
+#: data/areas/rhombus-sqr.json+floors/1/maps/25/name+%23374
+msgctxt "data/areas/rhombus-sqr.json//floors/1/maps/25/name"
+msgid "Rhombus Parks Embassy"
+msgstr ""
+
+#. data/areas/rhombus-sqr.json floors/1/maps/26/name #381
+#: data/areas/rhombus-sqr.json+floors/1/maps/26/name+%23381
+msgctxt "data/areas/rhombus-sqr.json//floors/1/maps/26/name"
+msgid "Café Goat"
+msgstr ""
+
 #. data/areas/rhombus-sqr.json floors/2/maps/0/name #152
 #: data/areas/rhombus-sqr.json+floors/2/maps/0/name+%23152
 msgctxt "data/areas/rhombus-sqr.json//floors/2/maps/0/name"
@@ -227,6 +239,12 @@ msgstr ""
 #: data/areas/rhombus-sqr.json+floors/2/maps/5/name+%23242
 msgctxt "data/areas/rhombus-sqr.json//floors/2/maps/5/name"
 msgid "Arena Cafe 2nd Floor"
+msgstr ""
+
+#. data/areas/rhombus-sqr.json floors/2/maps/6/name #378
+#: data/areas/rhombus-sqr.json+floors/2/maps/6/name+%23378
+msgctxt "data/areas/rhombus-sqr.json//floors/2/maps/6/name"
+msgid "Buy Land F1"
 msgstr ""
 
 #. data/areas/rhombus-sqr.json floors/3/maps/0/name #303
@@ -2822,7 +2840,7 @@ msgid "Heh\\., they do love their puzzles."
 msgstr ""
 
 #. data/maps/rhombus-sqr/center-ne.json entities/780/settings/event/0/message #1711
-#. LocationEvent START IF party.alive.Glasses
+#. LocationEvent ctronComment START IF party.alive.Glasses
 #. SHOW_SIDE_MSG main.glasses @THOUGHTFUL
 #: data/maps/rhombus-sqr/center-ne.json+entities/780/settings/event/0/message+%231711
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/780/settings/event/0/message"
@@ -2830,7 +2848,7 @@ msgid "Really?\\. Seriously?\\. Was this really necessary?\\. This Pond?\\. Righ
 msgstr ""
 
 #. data/maps/rhombus-sqr/center-ne.json entities/780/settings/event/1/message #1712
-#. LocationEvent START IF party.alive.Glasses
+#. LocationEvent ctronComment START IF party.alive.Glasses
 #. SHOW_SIDE_MSG main.glasses @BLANK
 #: data/maps/rhombus-sqr/center-ne.json+entities/780/settings/event/1/message+%231712
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/780/settings/event/1/message"
@@ -3041,6 +3059,375 @@ msgstr ""
 #: data/maps/rhombus-sqr/center-ne.json+entities/783/settings/event/1/message+%231715
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/783/settings/event/1/message"
 msgid "Over here!"
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/analyzable/text #1776
+#. NPC questGuard
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/analyzable/text+%231776
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/analyzable/text"
+msgid "Cpt. Freamun"
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/0/event/0/name #509
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.started && !quest.bg-3-goat_final.solved
+#. ADD_MSG_PERSON guards.female-tall-black @DEFAULT
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/0/event/0/name+%23509
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/0/event/0/name"
+msgid "Cpt. Freamun"
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/0/event/2/message #1748
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.started && !quest.bg-3-goat_final.solved
+#. SHOW_MSG main.lea @SURPRISED_TOWARD
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/0/event/2/message+%231748
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/0/event/2/message"
+msgid "Hi?\\."
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/0/event/3/message #1749
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.started && !quest.bg-3-goat_final.solved
+#. SHOW_MSG guards.female-tall-black @DEFAULT
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/0/event/3/message+%231749
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/0/event/3/message"
+msgid "This area is locked for unauthorized trespassers!\\. Move along, there is nothing to see here!"
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/0/event/4/message #1745
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.started && !quest.bg-3-goat_final.solved
+#. SHOW_MSG main.lea @SURPRISED
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/0/event/4/message+%231745
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/0/event/4/message"
+msgid "Why?"
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/0/event/5/message #1746
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.started && !quest.bg-3-goat_final.solved
+#. SHOW_MSG guards.female-tall-black @DEFAULT
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/0/event/5/message+%231746
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/0/event/5/message"
+msgid "I am unauthorized to tell and you are not authorized to know!\\. And now, leave!"
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/0/event/6/message #454
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.started && !quest.bg-3-goat_final.solved
+#. SHOW_MSG main.lea @ANNOYED
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/0/event/6/message+%23454
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/0/event/6/message"
+msgid "Bye..."
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/4/name #1747
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.task.5 && !quest.bg-3-goat_final.solved
+#. ADD_MSG_PERSON guards.female-tall-black @DEFAULT
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/4/name+%231747
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/4/name"
+msgid "Cpt. Freamun"
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/6/message #337
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.task.5 && !quest.bg-3-goat_final.solved
+#. SHOW_MSG main.lea @PROUD
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/6/message+%23337
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/6/message"
+msgid "Hi!"
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/7/message #1759
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.task.5 && !quest.bg-3-goat_final.solved
+#. SHOW_MSG guards.female-tall-black @DEFAULT
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/7/message+%231759
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/7/message"
+msgid "This area is locked for unauthorized trespassers!\\. Move along, there is nothing to see here!"
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/8/message #1760
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.task.5 && !quest.bg-3-goat_final.solved
+#. SHOW_MSG main.lea @DEFAULT
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/8/message+%231760
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/8/message"
+msgid "Hi!\\. Lea.\\. Why.\\. Meet."
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/9/message #1761
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.task.5 && !quest.bg-3-goat_final.solved
+#. SHOW_MSG guards.female-tall-black @DEFAULT
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/9/message+%231761
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/9/message"
+msgid "I see, I see.\\. You are one of the \\v[lore.title.seeker]s, on an official mission from a local guard."
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/10/message #460
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.task.5 && !quest.bg-3-goat_final.solved
+#. SHOW_MSG main.lea @NOD
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/10/message+%23460
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/10/message"
+msgid "[nods]"
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/11/message #1770
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.task.5 && !quest.bg-3-goat_final.solved
+#. SHOW_MSG guards.female-tall-black @DEFAULT
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/11/message+%231770
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/11/message"
+msgid "Those country bumpkins from \\v[area.bergen.name] sure put a lot of trust into some adventurer."
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/12/message #1766
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.task.5 && !quest.bg-3-goat_final.solved
+#. SHOW_MSG main.lea @ANNOYED
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/12/message+%231766
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/12/message"
+msgid "... Why?"
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/13/message #1767
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.task.5 && !quest.bg-3-goat_final.solved
+#. SHOW_MSG guards.female-tall-black @DEFAULT
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/13/message+%231767
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/13/message"
+msgid "Relax, I'm not interested in argueing over the \"\\v[lore.title.seeker] Defense Assistance\"-clause with you or my supervisors."
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/14/message #1768
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.task.5 && !quest.bg-3-goat_final.solved
+#. SHOW_MSG guards.female-tall-black @DEFAULT
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/14/message+%231768
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/14/message"
+msgid "You can handle this... goat problem that Bergen left to us.\\. I will even give you an up-to-date briefing, how's that?"
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/15/message #1771
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.task.5 && !quest.bg-3-goat_final.solved
+#. SHOW_MSG main.lea @EXHAUSTED
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/15/message+%231771
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/15/message"
+msgid "..."
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/16/thenStep/0/message #1769
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.task.5 && !quest.bg-3-goat_final.solved
+#. IF lea.words.what
+#. SHOW_MSG main.lea @SURPRISED_AWAY
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/16/thenStep/0/message+%231769
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/16/thenStep/0/message"
+msgid "What?\\. How?\\. Why?"
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/16/elseStep/0/message #1781
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.task.5 && !quest.bg-3-goat_final.solved
+#. IF NOT lea.words.what
+#. SHOW_MSG main.lea @SURPRISED_AWAY
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/16/elseStep/0/message+%231781
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/16/elseStep/0/message"
+msgid "How?\\. Why?"
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/17/message #1773
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.task.5 && !quest.bg-3-goat_final.solved
+#. SHOW_MSG guards.female-tall-black @DEFAULT
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/17/message+%231773
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/17/message"
+msgid "Okay, listen.\\. Those goats you are hunting have violenty occupied the building behind us."
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/22/name #1772
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.task.5 && !quest.bg-3-goat_final.solved
+#. ADD_MSG_PERSON guards.female-tall-black @DEFAULT
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/22/name+%231772
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/22/name"
+msgid "Cpt. Freamun"
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/24/message #1762
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.task.5 && !quest.bg-3-goat_final.solved
+#. SHOW_MSG guards.female-tall-black @DEFAULT
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/24/message+%231762
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/24/message"
+msgid "It's the \\c[3]Rhombus Parks Embassy\\c[0].\\. Takes care of the local parks and sends researchers to the mainland."
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/25/message #467
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.task.5 && !quest.bg-3-goat_final.solved
+#. SHOW_MSG main.lea @ASTONISHED
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/25/message+%23467
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/25/message"
+msgid "...!"
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/26/message #1777
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.task.5 && !quest.bg-3-goat_final.solved
+#. SHOW_MSG guards.female-tall-black @DEFAULT
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/26/message+%231777
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/26/message"
+msgid "Maybe the goats want to munch on some rare plants or steal hoof research.\\. I don't know and I don't care."
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/31/name #1774
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.task.5 && !quest.bg-3-goat_final.solved
+#. ADD_MSG_PERSON guards.female-tall-black @DEFAULT
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/31/name+%231774
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/31/name"
+msgid "Cpt. Freamun"
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/33/message #1778
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.task.5 && !quest.bg-3-goat_final.solved
+#. SHOW_MSG guards.female-tall-black @DEFAULT
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/33/message+%231778
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/33/message"
+msgid "Point is, \\v[lore.title.seeker], they are occupying the building, holding hostages and keep bleating all day."
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/34/message #1779
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.task.5 && !quest.bg-3-goat_final.solved
+#. SHOW_MSG guards.female-tall-black @DEFAULT
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/34/message+%231779
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/34/message"
+msgid "That's gotta stop.\\. You following?"
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/35/message #1780
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.task.5 && !quest.bg-3-goat_final.solved
+#. SHOW_MSG main.lea @NOD
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/35/message+%231780
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/35/message"
+msgid "[nods]"
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/36/message #1752
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.task.5 && !quest.bg-3-goat_final.solved
+#. SHOW_MSG guards.female-tall-black @DEFAULT
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/36/message+%231752
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/36/message"
+msgid "Fine.\\. Then go inside and detain those terrorist goats!\\. We will continue to secure the area here."
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/37/message #1763
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.task.5 && !quest.bg-3-goat_final.solved
+#. SHOW_MSG main.lea @NOD
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/37/message+%231763
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/37/message"
+msgid "[nods]"
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/38/message #1765
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.task.5 && !quest.bg-3-goat_final.solved
+#. SHOW_MSG main.lea @DETERMINED
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/38/message+%231765
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/38/message"
+msgid "Bye."
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/2/event/0/name #1750
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.task.6 && !quest.bg-3-goat_final.solved
+#. ADD_MSG_PERSON guards.female-tall-black @DEFAULT
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/2/event/0/name+%231750
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/2/event/0/name"
+msgid "Cpt. Freamun"
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/2/event/2/message #1764
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.task.6 && !quest.bg-3-goat_final.solved
+#. SHOW_MSG guards.female-tall-black @DEFAULT
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/2/event/2/message+%231764
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/2/event/2/message"
+msgid "Go inside and detain those terrorist goats, \\v[lore.title.seeker]!\\. We will continue to secure the area here."
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/3/event/0/name #1753
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.task.7 && !quest.bg-3-goat_final.solved
+#. ADD_MSG_PERSON guards.female-tall-black @DEFAULT
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/3/event/0/name+%231753
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/3/event/0/name"
+msgid "Cpt. Freamun"
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/3/event/2/message #1754
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.task.7 && !quest.bg-3-goat_final.solved
+#. SHOW_MSG main.lea @PROUD
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/3/event/2/message+%231754
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/3/event/2/message"
+msgid "Hi!"
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/3/event/3/message #1755
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.task.7 && !quest.bg-3-goat_final.solved
+#. SHOW_MSG guards.female-tall-black @DEFAULT
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/3/event/3/message+%231755
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/3/event/3/message"
+msgid "\\v[lore.title.seeker], things are very quiet now.\\. Did you defuse the situation?"
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/3/event/4/message #1756
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.task.7 && !quest.bg-3-goat_final.solved
+#. SHOW_MSG main.lea @NOD
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/3/event/4/message+%231756
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/3/event/4/message"
+msgid "[nods]"
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/3/event/5/message #1757
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.task.7 && !quest.bg-3-goat_final.solved
+#. SHOW_MSG guards.female-tall-black @DEFAULT
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/3/event/5/message+%231757
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/3/event/5/message"
+msgid "Impressive.\\. You can now get your reward from whoever you got the assignment from.\\. We will take it from here."
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/3/event/6/message #1758
+#. NPC questGuard
+#. IF quest.bg-3-goat_final.task.7 && !quest.bg-3-goat_final.solved
+#. SHOW_MSG main.lea @SMUG
+#: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/3/event/6/message+%231758
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/3/event/6/message"
+msgid "Bye..."
+msgstr ""
+
+#. data/maps/rhombus-sqr/center-ne.json entities/808/settings/npcStates/0/event/shop/0/text #719
+#. NPC goatShop
+#. IF quest.bg-3-goat_final.solved
+#. SHOW_AR_MSG
+#: data/maps/rhombus-sqr/center-ne.json+entities/808/settings/npcStates/0/event/shop/0/text+%23719
+msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/808/settings/npcStates/0/event/shop/0/text"
+msgid "[enterprising goat noises]"
 msgstr ""
 
 #. data/maps/rhombus-sqr/center-nw.json entities/678/settings/npcStates/0/event/quest/4/message #507
@@ -11475,6 +11862,36 @@ msgctxt "data/maps/rhombus-sqr/interior/arena-01.json//entities/40/settings/even
 msgid "Have fun, little one."
 msgstr ""
 
+#. data/maps/rhombus-sqr/interior/arena-01.json entities/40/settings/event/4/thenStep/0/4_0/0/message #16679
+#. EventTrigger START_CUP START IF tmp.intoTheArena
+#. IF arena.isCurrentSolo && party.size > 1
+#. SELECT_RANDOM
+#. SHOW_SIDE_MSG main.shizuka @SMUG
+#: data/maps/rhombus-sqr/interior/arena-01.json+entities/40/settings/event/4/thenStep/0/4_0/0/message+%2316679
+msgctxt "data/maps/rhombus-sqr/interior/arena-01.json//entities/40/settings/event/4/thenStep/0/4_0/0/message"
+msgid "Kick some ass and don't embarrass us in there."
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/arena-01.json entities/40/settings/event/4/thenStep/0/5_0/0/message #16680
+#. EventTrigger START_CUP START IF tmp.intoTheArena
+#. IF arena.isCurrentSolo && party.size > 1
+#. SELECT_RANDOM
+#. SHOW_SIDE_MSG main.schneider @DEFAULT
+#: data/maps/rhombus-sqr/interior/arena-01.json+entities/40/settings/event/4/thenStep/0/5_0/0/message+%2316680
+msgctxt "data/maps/rhombus-sqr/interior/arena-01.json//entities/40/settings/event/4/thenStep/0/5_0/0/message"
+msgid "Good Luck, Lea!"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/arena-01.json entities/40/settings/event/4/thenStep/0/6_0/0/message #16681
+#. EventTrigger START_CUP START IF tmp.intoTheArena
+#. IF arena.isCurrentSolo && party.size > 1
+#. SELECT_RANDOM
+#. SHOW_SIDE_MSG main.luke @DEFAULT
+#: data/maps/rhombus-sqr/interior/arena-01.json+entities/40/settings/event/4/thenStep/0/6_0/0/message+%2316681
+msgctxt "data/maps/rhombus-sqr/interior/arena-01.json//entities/40/settings/event/4/thenStep/0/6_0/0/message"
+msgid "Good Luck, Lea!"
+msgstr ""
+
 #. data/maps/rhombus-sqr/interior/arena-01.json entities/40/settings/event/4/elseStep/0/0_0/0/message #16095
 #. EventTrigger START_CUP START IF tmp.intoTheArena
 #. IF NOT arena.isCurrentSolo && party.size > 1
@@ -11513,6 +11930,36 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/arena-01.json+entities/40/settings/event/4/elseStep/0/3_0/0/message+%2316098
 msgctxt "data/maps/rhombus-sqr/interior/arena-01.json//entities/40/settings/event/4/elseStep/0/3_0/0/message"
 msgid "Let's have a good time!"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/arena-01.json entities/40/settings/event/4/elseStep/0/4_0/0/message #16682
+#. EventTrigger START_CUP START IF tmp.intoTheArena
+#. IF NOT arena.isCurrentSolo && party.size > 1
+#. SELECT_RANDOM
+#. SHOW_SIDE_MSG main.shizuka @BADASS
+#: data/maps/rhombus-sqr/interior/arena-01.json+entities/40/settings/event/4/elseStep/0/4_0/0/message+%2316682
+msgctxt "data/maps/rhombus-sqr/interior/arena-01.json//entities/40/settings/event/4/elseStep/0/4_0/0/message"
+msgid "Let's see who racks up more points."
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/arena-01.json entities/40/settings/event/4/elseStep/0/5_0/0/message #16683
+#. EventTrigger START_CUP START IF tmp.intoTheArena
+#. IF NOT arena.isCurrentSolo && party.size > 1
+#. SELECT_RANDOM
+#. SHOW_SIDE_MSG main.schneider @DEFAULT
+#: data/maps/rhombus-sqr/interior/arena-01.json+entities/40/settings/event/4/elseStep/0/5_0/0/message+%2316683
+msgctxt "data/maps/rhombus-sqr/interior/arena-01.json//entities/40/settings/event/4/elseStep/0/5_0/0/message"
+msgid "Jawoll, let's do this!"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/arena-01.json entities/40/settings/event/4/elseStep/0/6_0/0/message #16684
+#. EventTrigger START_CUP START IF tmp.intoTheArena
+#. IF NOT arena.isCurrentSolo && party.size > 1
+#. SELECT_RANDOM
+#. SHOW_SIDE_MSG main.luke @DEFAULT
+#: data/maps/rhombus-sqr/interior/arena-01.json+entities/40/settings/event/4/elseStep/0/6_0/0/message+%2316684
+msgctxt "data/maps/rhombus-sqr/interior/arena-01.json//entities/40/settings/event/4/elseStep/0/6_0/0/message"
+msgid "Jawoll, let's do this!"
 msgstr ""
 
 #. data/maps/rhombus-sqr/interior/arena-01.json entities/43/settings/event/0/thenStep/4/titleText #16093
@@ -13228,6 +13675,624 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/equipment.json+entities/46/settings/event/8/options/1/label+%23300
 msgctxt "data/maps/rhombus-sqr/interior/equipment.json//entities/46/settings/event/8/options/1/label"
 msgid "[no]"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/7/settings/event/10/message #660
+#. EventTrigger fightPreStart START IF tmp.touchFightBoss
+#. SHOW_MSG main.lea @NERVOUS
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/7/settings/event/10/message+%23660
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/7/settings/event/10/message"
+msgid "Hi.\\. Lea.\\. Why?"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/7/settings/event/11/text #665
+#. EventTrigger fightPreStart START IF tmp.touchFightBoss
+#. SHOW_AR_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/7/settings/event/11/text+%23665
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/7/settings/event/11/text"
+msgid "[aggressive goat noises]"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/7/settings/event/13/text #659
+#. EventTrigger fightPreStart START IF tmp.touchFightBoss
+#. SHOW_DREAM_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/7/settings/event/13/text+%23659
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/7/settings/event/13/text"
+msgid "\\v[lore.title.seeker]!\\. This is place of goat now!\\. Leave!"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/7/settings/event/15/message #517
+#. EventTrigger fightPreStart START IF tmp.touchFightBoss
+#. SHOW_MSG main.lea @SHAKE
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/7/settings/event/15/message+%23517
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/7/settings/event/15/message"
+msgid "[shakes head]"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/7/settings/event/16/message #663
+#. EventTrigger fightPreStart START IF tmp.touchFightBoss
+#. SHOW_MSG main.lea @NERVOUS
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/7/settings/event/16/message+%23663
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/7/settings/event/16/message"
+msgid "How?\\. Meet.\\. Why?"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/7/settings/event/17/text #672
+#. EventTrigger fightPreStart START IF tmp.touchFightBoss
+#. SHOW_AR_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/7/settings/event/17/text+%23672
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/7/settings/event/17/text"
+msgid "[even more aggressive goat noises]"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/7/settings/event/19/text #673
+#. EventTrigger fightPreStart START IF tmp.touchFightBoss
+#. SHOW_DREAM_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/7/settings/event/19/text+%23673
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/7/settings/event/19/text"
+msgid "No talk!\\. Leave! Or.\\..\\..\\. Fight!!"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/7/settings/event/21/message #674
+#. EventTrigger fightPreStart START IF tmp.touchFightBoss
+#. SHOW_MSG main.lea @EXHAUSTED
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/7/settings/event/21/message+%23674
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/7/settings/event/21/message"
+msgid "..."
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/13/text #681
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_AR_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/13/text+%23681
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/13/text"
+msgid "[tired goat noises]"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/15/text #682
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_DREAM_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/15/text+%23682
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/15/text"
+msgid "\\v[lore.title.seeker], you have won.\\..\\..\\. "
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/17/message #667
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_MSG main.lea @NERVOUS
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/17/message+%23667
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/17/message"
+msgid "..."
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/18/text #684
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_AR_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/18/text+%23684
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/18/text"
+msgid "[sad goat noises]"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/20/text #685
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_DREAM_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/20/text+%23685
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/20/text"
+msgid "Fate of goatkind lies in your hand.\\. But now... finish me."
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/22/message #686
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_MSG main.lea @SHAKE
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/22/message+%23686
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/22/message"
+msgid "[shakes head]"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/23/message #687
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_MSG main.lea @SAD
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/23/message+%23687
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/23/message"
+msgid "Why?\\. Lea meet.\\. How!"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/34/text #688
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_AR_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/34/text+%23688
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/34/text"
+msgid "[surprised goat noises]"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/36/text #689
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_DREAM_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/36/text+%23689
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/36/text"
+msgid "You think man and goat can coexist here in peace?\\. But how?"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/38/message #690
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_MSG main.lea @THINKING
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/38/message+%23690
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/38/message"
+msgid "How\\..\\..\\..\\.?\\."
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/55/name #692
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. ADD_MSG_PERSON business.female-longhair-black @DEFAULT
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/55/name+%23692
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/55/name"
+msgid "Mrs. Hoover"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/56/message #42
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_MSG main.lea @SURPRISED_TOWARD
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/56/message+%2342
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/56/message"
+msgid "Hi!?\\. Who?"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/57/text #496
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_AR_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/57/text+%23496
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/57/text"
+msgid "[cheerful goat noises]"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/59/text #497
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_DREAM_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/59/text+%23497
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/59/text"
+msgid "\\v[lore.title.seeker] and boss!\\. Greetings and good news!"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/61/message #696
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_MSG business.female-longhair-black @DEFAULT
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/61/message+%23696
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/61/message"
+msgid "Yes, good day everyone.\\. We just finished an important meeting and bring a proposition."
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/63/text #697
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_AR_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/63/text+%23697
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/63/text"
+msgid "[angrily confused goat noises]"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/66/text #698
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_DREAM_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/66/text+%23698
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/66/text"
+msgid "Zira?\\. You held negotiations with humans behind my back?"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/71/text #699
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_AR_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/71/text+%23699
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/71/text"
+msgid "[determined goat noises]"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/73/text #700
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_DREAM_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/73/text+%23700
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/73/text"
+msgid "Yes, father.\\. Goats will have to adapt and cooperate to live good lives here, in this city."
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/76/message #46
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_MSG main.lea @NOD
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/76/message+%2346
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/76/message"
+msgid "[nods]"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/77/message #701
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_MSG main.lea @THINKING
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/77/message+%23701
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/77/message"
+msgid "How?\\. ... Who?"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/79/message #702
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_MSG business.female-longhair-black @DEFAULT
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/79/message+%23702
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/79/message"
+msgid "Well, there are ways.\\. I represent large property holdings in this area and was contacted by Ms. Zira here."
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/81/message #703
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_MSG business.female-longhair-black @DEFAULT
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/81/message+%23703
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/81/message"
+msgid "Despite her age, she was a great negotiator and most persuasive."
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/82/message #704
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_MSG business.female-longhair-black @DEFAULT
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/82/message+%23704
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/82/message"
+msgid "After communicating with the city council we found a few solutions that should be satisfying to all, hooved or not."
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/83/message #705
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_MSG main.lea @EXCITED
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/83/message+%23705
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/83/message"
+msgid "Lea!\\. How?"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/84/message #706
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_MSG business.female-longhair-black @DEFAULT
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/84/message+%23706
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/84/message"
+msgid "It is obvious that these intelligent goats bring a very specialized skillset that can turn into a valuable business."
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/85/message #707
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_MSG business.female-longhair-black @DEFAULT
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/85/message+%23707
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/85/message"
+msgid "Also, Ms. Zira already created a deposit to buy local properties with the valuable goods she brought."
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/87/thenStep/0/message #708
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. IF lea.words.what
+#. SHOW_MSG main.lea @SHOCKED
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/87/thenStep/0/message+%23708
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/87/thenStep/0/message"
+msgid "W-\\.what?\\.\\. How...?!"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/87/elseStep/0/message #730
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. IF NOT lea.words.what
+#. SHOW_MSG main.lea @SHOCKED
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/87/elseStep/0/message+%23730
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/87/elseStep/0/message"
+msgid "H-\\.how...?!"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/89/text #709
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_AR_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/89/text+%23709
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/89/text"
+msgid "[smug goat noises]"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/91/text #710
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_DREAM_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/91/text+%23710
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/91/text"
+msgid "I was very busy and planned a lot."
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/93/message #711
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_MSG main.lea @EXHAUSTED
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/93/message+%23711
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/93/message"
+msgid "..."
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/96/text #712
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_AR_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/96/text+%23712
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/96/text"
+msgid "[defeated goat noises]"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/98/text #713
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_DREAM_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/98/text+%23713
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/98/text"
+msgid "It seems like my smart daughter has done a lot of work while her father just stubbornly prepared for his defeat."
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/100/text #714
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_AR_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/100/text+%23714
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/100/text"
+msgid "[dignified goat noises]"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/102/text #715
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_DREAM_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/102/text+%23715
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/102/text"
+msgid "Very well, I shall listen to those propositions of yours.\\. For the well-being of all goatkind."
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/104/message #716
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_MSG business.female-longhair-black @DEFAULT
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/104/message+%23716
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/104/message"
+msgid "Splendid.\\. You won't be disappointed, sir!\\. Please, let us continue this in our office!"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/107/text #717
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_AR_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/107/text+%23717
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/107/text"
+msgid "[stern goatbye noises]"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/109/text #718
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_DREAM_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/109/text+%23718
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/109/text"
+msgid "Fine, let us go.\\. \\v[lore.title.seeker], goodbye."
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/113/text #719
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_AR_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/113/text+%23719
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/113/text"
+msgid "[cheerful goatbye noises]"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/115/text #720
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_DREAM_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/115/text+%23720
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/115/text"
+msgid "Goodbye, \\v[lore.title.seeker].\\. And thank you for everything!"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/117/message #480
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_MSG main.lea @EXCITED
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/117/message+%23480
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/117/message"
+msgid "Bye!"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/10/action/2/text #721
+#. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
+#. DO_ACTION
+#. SHOW_AR_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/10/action/2/text+%23721
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/10/action/2/text"
+msgid "[aggressive goat noises]"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/11/action/2/text #727
+#. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
+#. DO_ACTION
+#. SHOW_AR_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/11/action/2/text+%23727
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/11/action/2/text"
+msgid "[aggressive goat noises]"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/13/action/2/text #677
+#. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
+#. DO_ACTION
+#. SHOW_AR_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/13/action/2/text+%23677
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/13/action/2/text"
+msgid "[aggressive goat noises]"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/14/action/2/text #728
+#. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
+#. DO_ACTION
+#. SHOW_AR_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/14/action/2/text+%23728
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/14/action/2/text"
+msgid "[aggressive goat noises]"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/16/action/2/text #722
+#. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
+#. DO_ACTION
+#. SHOW_AR_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/16/action/2/text+%23722
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/16/action/2/text"
+msgid "[aggressive goat noises]"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/17/action/2/text #729
+#. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
+#. DO_ACTION
+#. SHOW_AR_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/17/action/2/text+%23729
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/17/action/2/text"
+msgid "[aggressive goat noises]"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/38/text #661
+#. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
+#. SHOW_AR_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/38/text+%23661
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/38/text"
+msgid "[roaring goat noises]"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/41/text #662
+#. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
+#. SHOW_DREAM_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/41/text+%23662
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/41/text"
+msgid "ENOUGH!\\. Stop this slaughter at once!"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/59/text #694
+#. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
+#. SHOW_AR_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/59/text+%23694
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/59/text"
+msgid "[somber goat noises]"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/61/text #693
+#. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
+#. SHOW_DREAM_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/61/text+%23693
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/61/text"
+msgid "Too many goat lives have been lost already.\\. I will handle this myself."
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/69/message #664
+#. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
+#. SHOW_MSG main.lea @NERVOUS
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/69/message+%23664
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/69/message"
+msgid "Hi.\\. Lea."
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/70/text #658
+#. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
+#. SHOW_AR_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/70/text+%23658
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/70/text"
+msgid "[stern goat noises]"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/72/text #666
+#. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
+#. SHOW_DREAM_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/72/text+%23666
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/72/text"
+msgid "We goats claimed this place.\\. We won't leave peacefully."
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/74/message #683
+#. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
+#. SHOW_MSG main.lea @NERVOUS
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/74/message+%23683
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/74/message"
+msgid "Why?"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/75/text #668
+#. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
+#. SHOW_AR_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/75/text+%23668
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/75/text"
+msgid "[sage, yet stern goat noises]"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/77/text #669
+#. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
+#. SHOW_DREAM_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/77/text+%23669
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/77/text"
+msgid "It is the rules of nature, \\v[lore.title.seeker]."
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/79/text #670
+#. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
+#. SHOW_AR_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/79/text+%23670
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/79/text"
+msgid "[unrelenting goat noises]"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/81/text #671
+#. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
+#. SHOW_DREAM_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/81/text+%23671
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/81/text"
+msgid "If you won't relent... a duel between us shall decide the fate of goats and humans."
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/83/message #675
+#. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
+#. SHOW_MSG main.lea @EXHAUSTED
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/83/message+%23675
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/83/message"
+msgid "..."
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/84/message #676
+#. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
+#. SHOW_MSG main.lea @DETERMINED
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/84/message+%23676
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/84/message"
+msgid "Meet.\\. Lea!"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/40/settings/event/0/action/2/text #723
+#. EventTrigger fightReinforcements1 START IF tmp.goats >= 2
+#. DO_ACTION
+#. SHOW_AR_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/40/settings/event/0/action/2/text+%23723
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/40/settings/event/0/action/2/text"
+msgid "[aggressive goat noises]"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/40/settings/event/2/action/2/text #724
+#. EventTrigger fightReinforcements1 START IF tmp.goats >= 2
+#. DO_ACTION
+#. SHOW_AR_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/40/settings/event/2/action/2/text+%23724
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/40/settings/event/2/action/2/text"
+msgid "[aggressive goat noises]"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/40/settings/event/4/action/2/text #725
+#. EventTrigger fightReinforcements1 START IF tmp.goats >= 2
+#. DO_ACTION
+#. SHOW_AR_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/40/settings/event/4/action/2/text+%23725
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/40/settings/event/4/action/2/text"
+msgid "[aggressive goat noises]"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/40/settings/event/6/action/2/text #726
+#. EventTrigger fightReinforcements1 START IF tmp.goats >= 2
+#. DO_ACTION
+#. SHOW_AR_MSG
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/40/settings/event/6/action/2/text+%23726
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/40/settings/event/6/action/2/text"
+msgid "[aggressive goat noises]"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/43/settings/analyzable/text #423
+#. NPC pet-goat
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/43/settings/analyzable/text+%23423
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/43/settings/analyzable/text"
+msgid "Kid Goat Zira"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/44/settings/analyzable/text #695
+#. NPC business
+#: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/44/settings/analyzable/text+%23695
+msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/44/settings/analyzable/text"
+msgid "Mrs. Hoover"
 msgstr ""
 
 #. data/maps/rhombus-sqr/interior/hidden-shop.json entities/15/settings/npcStates/0/event/2/message #3
@@ -16000,6 +17065,110 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/invest-mansion-eg.json+entities/70/settings/event/155/elseStep/1/message+%231068
 msgctxt "data/maps/rhombus-sqr/interior/invest-mansion-eg.json//entities/70/settings/event/155/elseStep/1/message"
 msgid "Bye."
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/items-f1.json entities/39/settings/npcStates/0/event/shop/2/message #265
+#. NPC items
+#. SHOW_MSG rookie-harbor.female-tall-green @DEFAULT
+#: data/maps/rhombus-sqr/interior/items-f1.json+entities/39/settings/npcStates/0/event/shop/2/message+%23265
+msgctxt "data/maps/rhombus-sqr/interior/items-f1.json//entities/39/settings/npcStates/0/event/shop/2/message"
+msgid "Hello, welcome!\\. Take a look at our great selection of items."
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/items-f1.json entities/41/settings/npcStates/0/event/shop/2/message #268
+#. NPC backer
+#. SHOW_MSG basin.female-green @DEFAULT
+#: data/maps/rhombus-sqr/interior/items-f1.json+entities/41/settings/npcStates/0/event/shop/2/message+%23268
+msgctxt "data/maps/rhombus-sqr/interior/items-f1.json//entities/41/settings/npcStates/0/event/shop/2/message"
+msgid "Hey! We offer special items, supported by only the finest of backers."
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/items-f1.json entities/48/settings/npcStates/0/event/0/name #281
+#. NPC
+#. ADD_MSG_PERSON guests.banana-man @DEFAULT
+#: data/maps/rhombus-sqr/interior/items-f1.json+entities/48/settings/npcStates/0/event/0/name+%23281
+msgctxt "data/maps/rhombus-sqr/interior/items-f1.json//entities/48/settings/npcStates/0/event/0/name"
+msgid "Banana Man"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/items-f1.json entities/48/settings/npcStates/0/event/2/message #271
+#. NPC
+#. SHOW_MSG guests.banana-man @DEFAULT
+#: data/maps/rhombus-sqr/interior/items-f1.json+entities/48/settings/npcStates/0/event/2/message+%23271
+msgctxt "data/maps/rhombus-sqr/interior/items-f1.json//entities/48/settings/npcStates/0/event/2/message"
+msgid "Shoot!\\. This store doesn't have it either!"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/items-f1.json entities/48/settings/npcStates/0/event/3/message #272
+#. NPC
+#. SHOW_MSG main.lea @SURPRISED_TOWARD
+#: data/maps/rhombus-sqr/interior/items-f1.json+entities/48/settings/npcStates/0/event/3/message+%23272
+msgctxt "data/maps/rhombus-sqr/interior/items-f1.json//entities/48/settings/npcStates/0/event/3/message"
+msgid "...?"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/items-f1.json entities/48/settings/npcStates/0/event/4/message #273
+#. NPC
+#. SHOW_MSG guests.banana-man @DEFAULT
+#: data/maps/rhombus-sqr/interior/items-f1.json+entities/48/settings/npcStates/0/event/4/message+%23273
+msgctxt "data/maps/rhombus-sqr/interior/items-f1.json//entities/48/settings/npcStates/0/event/4/message"
+msgid "\\c[3]Hedgehag Sandwiches\\c[0]!"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/items-f1.json entities/48/settings/npcStates/0/event/5/message #274
+#. NPC
+#. SHOW_MSG guests.banana-man @DEFAULT
+#: data/maps/rhombus-sqr/interior/items-f1.json+entities/48/settings/npcStates/0/event/5/message+%23274
+msgctxt "data/maps/rhombus-sqr/interior/items-f1.json//entities/48/settings/npcStates/0/event/5/message"
+msgid "None of these stores seem to have them, and I've been searching all day!"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/items-f1.json entities/48/settings/npcStates/0/event/6/message #275
+#. NPC
+#. SHOW_MSG main.lea @NERVOUS
+#: data/maps/rhombus-sqr/interior/items-f1.json+entities/48/settings/npcStates/0/event/6/message+%23275
+msgctxt "data/maps/rhombus-sqr/interior/items-f1.json//entities/48/settings/npcStates/0/event/6/message"
+msgid "Why?"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/items-f1.json entities/48/settings/npcStates/0/event/7/message #276
+#. NPC
+#. SHOW_MSG guests.banana-man @DEFAULT
+#: data/maps/rhombus-sqr/interior/items-f1.json+entities/48/settings/npcStates/0/event/7/message+%23276
+msgctxt "data/maps/rhombus-sqr/interior/items-f1.json//entities/48/settings/npcStates/0/event/7/message"
+msgid "Because I need to know they exist!"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/items-f1.json entities/48/settings/npcStates/0/event/8/message #277
+#. NPC
+#. SHOW_MSG guests.banana-man @DEFAULT
+#: data/maps/rhombus-sqr/interior/items-f1.json+entities/48/settings/npcStates/0/event/8/message+%23277
+msgctxt "data/maps/rhombus-sqr/interior/items-f1.json//entities/48/settings/npcStates/0/event/8/message"
+msgid "I've been bugging the devs about it for the past 5 years!"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/items-f1.json entities/48/settings/npcStates/0/event/9/message #278
+#. NPC
+#. SHOW_MSG main.lea @ANNOYED
+#: data/maps/rhombus-sqr/interior/items-f1.json+entities/48/settings/npcStates/0/event/9/message+%23278
+msgctxt "data/maps/rhombus-sqr/interior/items-f1.json//entities/48/settings/npcStates/0/event/9/message"
+msgid "...Why?"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/items-f1.json entities/48/settings/npcStates/0/event/10/message #279
+#. NPC
+#. SHOW_MSG guests.banana-man @DEFAULT
+#: data/maps/rhombus-sqr/interior/items-f1.json+entities/48/settings/npcStates/0/event/10/message+%23279
+msgctxt "data/maps/rhombus-sqr/interior/items-f1.json//entities/48/settings/npcStates/0/event/10/message"
+msgid "...\\.I don't remember.\\. It's been 5 years. "
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/items-f1.json entities/48/settings/npcStates/0/event/11/message #280
+#. NPC
+#. SHOW_MSG guests.banana-man @DEFAULT
+#: data/maps/rhombus-sqr/interior/items-f1.json+entities/48/settings/npcStates/0/event/11/message+%23280
+msgctxt "data/maps/rhombus-sqr/interior/items-f1.json//entities/48/settings/npcStates/0/event/11/message"
+msgid "Just let me know if you find one, ok?"
 msgstr ""
 
 #. data/maps/rhombus-sqr/interior/items.json entities/40/settings/npcStates/0/event/shop/2/message #265

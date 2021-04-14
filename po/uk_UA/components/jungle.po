@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.4.0-4\n"
+"Project-Id-Version: crosscode 1.4.1-2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-27 11:09+0000\n"
-"PO-Revision-Date: 2021-03-27 11:09+0000\n"
+"POT-Creation-Date: 2021-04-14 01:10+0000\n"
+"POT-Revision-Date: 2021-04-14 01:10+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: uk_UA\n"
@@ -7296,24 +7296,6 @@ msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/497/settings/npc
 msgid "Nephew smart.\\. He pick good human machines for better life of Shad."
 msgstr ""
 
-#. data/maps/jungle/clearing/clear-path-02.json entities/497/settings/npcStates/7/event/1/name #745
-#. NPC fridgequest-shopper
-#. IF quest.jungleTrader-3-shad_fridge_1.solved
-#. ADD_MSG_PERSON baki.male-pink-tall @DEFAULT
-#: data/maps/jungle/clearing/clear-path-02.json+entities/497/settings/npcStates/7/event/1/name+%23745
-msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/497/settings/npcStates/7/event/1/name"
-msgid "Zla'nyoro"
-msgstr ""
-
-#. data/maps/jungle/clearing/clear-path-02.json entities/497/settings/npcStates/7/event/2/message #746
-#. NPC fridgequest-shopper
-#. IF quest.jungleTrader-3-shad_fridge_1.solved
-#. SHOW_MSG baki.male-pink-tall @DEFAULT
-#: data/maps/jungle/clearing/clear-path-02.json+entities/497/settings/npcStates/7/event/2/message+%23746
-msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/497/settings/npcStates/7/event/2/message"
-msgid "Nephew smart.\\. He pick good human machines for better life of Shad."
-msgstr ""
-
 #. data/maps/jungle/clearing/clear-path-02.json entities/646/settings/dialog/0/text #196
 #. XenoDialog SPAWN IF plot.jungleQuest < 2200
 #. baki.female-pink
@@ -8188,7 +8170,7 @@ msgstr ""
 #. SHOW_MSG basin.shad-male-techie @DEFAULT
 #: data/maps/jungle/clearing/clear-path-02.json+entities/669/settings/npcStates/7/event/2/message+%23742
 msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/669/settings/npcStates/7/event/2/message"
-msgid "Human machines useful for good life!"
+msgid "Human machines useful for good life!\\. More shad starting trading in village.\\. \\v[lore.title.seeker] take look!"
 msgstr ""
 
 #. data/maps/jungle/clearing/clear-path-03.json entities/771/settings/npcStates/0/event/2/message #22
@@ -19647,7 +19629,7 @@ msgstr ""
 #. SHOW_CHOICE basin.shad-male-techie @DEFAULT
 #: data/maps/jungle/infested/infested-path-01.json+entities/726/settings/npcStates/1/event/quest/9/options/0/label+%23762
 msgctxt "data/maps/jungle/infested/infested-path-01.json//entities/726/settings/npcStates/1/event/quest/9/options/0/label"
-msgid "Start capturing"
+msgid "\\c[2]Start capturing\\c[0]"
 msgstr ""
 
 #. data/maps/jungle/infested/infested-path-01.json entities/726/settings/npcStates/1/event/quest/9/options/1/label #763
@@ -19656,7 +19638,7 @@ msgstr ""
 #. SHOW_CHOICE basin.shad-male-techie @DEFAULT
 #: data/maps/jungle/infested/infested-path-01.json+entities/726/settings/npcStates/1/event/quest/9/options/1/label+%23763
 msgctxt "data/maps/jungle/infested/infested-path-01.json//entities/726/settings/npcStates/1/event/quest/9/options/1/label"
-msgid "No"
+msgid "\\c[1]No\\c[0]"
 msgstr ""
 
 #. data/maps/jungle/infested/infested-path-01.json entities/726/settings/npcStates/1/event/quest/9/options/2/label #765
@@ -20295,7 +20277,7 @@ msgstr ""
 #. SHOW_CHOICE basin.shad-male-techie @DEFAULT
 #: data/maps/jungle/infested/infested-path-04.json+entities/823/settings/npcStates/0/event/quest/10/options/0/label+%23762
 msgctxt "data/maps/jungle/infested/infested-path-04.json//entities/823/settings/npcStates/0/event/quest/10/options/0/label"
-msgid "Start capturing"
+msgid "\\c[2]Start capturing\\c[0]"
 msgstr ""
 
 #. data/maps/jungle/infested/infested-path-04.json entities/823/settings/npcStates/0/event/quest/10/options/1/label #763
@@ -20304,7 +20286,7 @@ msgstr ""
 #. SHOW_CHOICE basin.shad-male-techie @DEFAULT
 #: data/maps/jungle/infested/infested-path-04.json+entities/823/settings/npcStates/0/event/quest/10/options/1/label+%23763
 msgctxt "data/maps/jungle/infested/infested-path-04.json//entities/823/settings/npcStates/0/event/quest/10/options/1/label"
-msgid "No"
+msgid "\\c[1]No\\c[0]"
 msgstr ""
 
 #. data/maps/jungle/infested/infested-path-04.json entities/823/settings/npcStates/0/event/quest/10/options/2/label #765

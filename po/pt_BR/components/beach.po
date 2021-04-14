@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.4.0-4\n"
+"Project-Id-Version: crosscode 1.4.1-2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-27 11:10+0000\n"
-"PO-Revision-Date: 2021-03-27 11:10+0000\n"
+"POT-Creation-Date: 2021-04-14 01:09+0000\n"
+"POT-Revision-Date: 2021-04-14 01:09+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: pt_BR\n"
@@ -72,6 +72,156 @@ msgstr "Escarpa de Dover"
 msgctxt "data/areas/beach.json//floors/0/maps/8/name"
 msgid "Altar of the Key"
 msgstr "Altar para a Chave"
+
+#. data/areas/beach.json floors/0/maps/9/name #86
+#: data/areas/beach.json+floors/0/maps/9/name+%2386
+msgctxt "data/areas/beach.json//floors/0/maps/9/name"
+msgid "Ape Island"
+msgstr ""
+
+#. data/maps/beach/ape-arena.json entities/1/settings/event/17/message #69
+#. EventTrigger fightBossStart
+#. SHOW_MSG main.lea @WRAP_SHOULDER
+#: data/maps/beach/ape-arena.json+entities/1/settings/event/17/message+%2369
+msgctxt "data/maps/beach/ape-arena.json//entities/1/settings/event/17/message"
+msgid "... W-where?"
+msgstr ""
+
+#. data/maps/beach/ape-arena.json entities/1/settings/event/28/text #689
+#. EventTrigger fightBossStart
+#. SHOW_DREAM_MSG
+#: data/maps/beach/ape-arena.json+entities/1/settings/event/28/text+%23689
+msgctxt "data/maps/beach/ape-arena.json//entities/1/settings/event/28/text"
+msgid "There we are, \\v[lore.title.seeker].\\. This shall be our battleground."
+msgstr ""
+
+#. data/maps/beach/ape-arena.json entities/1/settings/event/29/message #76
+#. EventTrigger fightBossStart
+#. SHOW_MSG main.lea @EXHAUSTED
+#: data/maps/beach/ape-arena.json+entities/1/settings/event/29/message+%2376
+msgctxt "data/maps/beach/ape-arena.json//entities/1/settings/event/29/message"
+msgid "..."
+msgstr ""
+
+#. data/maps/beach/ape-arena.json entities/1/settings/event/36/text #75
+#. EventTrigger fightBossStart
+#. SHOW_DREAM_MSG
+#: data/maps/beach/ape-arena.json+entities/1/settings/event/36/text+%2375
+msgctxt "data/maps/beach/ape-arena.json//entities/1/settings/event/36/text"
+msgid "Now, be on your guard!"
+msgstr ""
+
+#. data/maps/beach/ape-arena.json entities/1/settings/event/37/message #690
+#. EventTrigger fightBossStart
+#. SHOW_MSG main.lea @DETERMINED
+#: data/maps/beach/ape-arena.json+entities/1/settings/event/37/message+%23690
+msgctxt "data/maps/beach/ape-arena.json//entities/1/settings/event/37/message"
+msgid "Meet.\\. Lea!"
+msgstr ""
+
+#. data/maps/beach/ape-arena.json entities/2/settings/event/23/message #691
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_MSG main.lea @EXHAUSTED
+#: data/maps/beach/ape-arena.json+entities/2/settings/event/23/message+%23691
+msgctxt "data/maps/beach/ape-arena.json//entities/2/settings/event/23/message"
+msgid "..."
+msgstr ""
+
+#. data/maps/beach/ape-arena.json entities/2/settings/event/25/text #692
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_DREAM_MSG
+#: data/maps/beach/ape-arena.json+entities/2/settings/event/25/text+%23692
+msgctxt "data/maps/beach/ape-arena.json//entities/2/settings/event/25/text"
+msgid "Ha\\..\\..\\..\\. You beat me!\\. Splendid!"
+msgstr ""
+
+#. data/maps/beach/ape-arena.json entities/2/settings/event/26/message #688
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_MSG main.lea @SMUG
+#: data/maps/beach/ape-arena.json+entities/2/settings/event/26/message+%23688
+msgctxt "data/maps/beach/ape-arena.json//entities/2/settings/event/26/message"
+msgid "Lea!"
+msgstr ""
+
+#. data/maps/beach/ape-arena.json entities/2/settings/event/27/text #693
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_DREAM_MSG
+#: data/maps/beach/ape-arena.json+entities/2/settings/event/27/text+%23693
+msgctxt "data/maps/beach/ape-arena.json//entities/2/settings/event/27/text"
+msgid "Indeed, a battle for the ages!\\. Too epic even for your human books of history!"
+msgstr ""
+
+#. data/maps/beach/ape-arena.json entities/2/settings/event/28/text #694
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_DREAM_MSG
+#: data/maps/beach/ape-arena.json+entities/2/settings/event/28/text+%23694
+msgctxt "data/maps/beach/ape-arena.json//entities/2/settings/event/28/text"
+msgid "But let us return and continue our talk back on the main island!"
+msgstr ""
+
+#. data/maps/beach/ape-arena.json entities/2/settings/event/29/message #676
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_MSG main.lea @NOD
+#: data/maps/beach/ape-arena.json+entities/2/settings/event/29/message+%23676
+msgctxt "data/maps/beach/ape-arena.json//entities/2/settings/event/29/message"
+msgid "[nods]"
+msgstr ""
+
+#. data/maps/beach/ape-arena.json entities/2/settings/event/31/text #695
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_DREAM_MSG
+#: data/maps/beach/ape-arena.json+entities/2/settings/event/31/text+%23695
+msgctxt "data/maps/beach/ape-arena.json//entities/2/settings/event/31/text"
+msgid "Time to hold tight again, \\v[lore.title.seeker]."
+msgstr ""
+
+#. data/maps/beach/ape-arena.json entities/2/settings/event/32/message #696
+#. EventTrigger fightBossEnd START IF tmp.bossKill
+#. SHOW_MSG main.lea @EXHAUSTED
+#: data/maps/beach/ape-arena.json+entities/2/settings/event/32/message+%23696
+msgctxt "data/maps/beach/ape-arena.json//entities/2/settings/event/32/message"
+msgid "..."
+msgstr ""
+
+#. data/maps/beach/ape-arena.json entities/4/settings/event/10/message #697
+#. EventTrigger fightBossStart-test START IF false
+#. SHOW_MSG main.lea @WRAP_SHOULDER
+#: data/maps/beach/ape-arena.json+entities/4/settings/event/10/message+%23697
+msgctxt "data/maps/beach/ape-arena.json//entities/4/settings/event/10/message"
+msgid "... W-where?"
+msgstr ""
+
+#. data/maps/beach/ape-arena.json entities/4/settings/event/11/text #698
+#. EventTrigger fightBossStart-test START IF false
+#. SHOW_DREAM_MSG
+#: data/maps/beach/ape-arena.json+entities/4/settings/event/11/text+%23698
+msgctxt "data/maps/beach/ape-arena.json//entities/4/settings/event/11/text"
+msgid "There we are, \\v[lore.title.seeker].\\. This shall be our battleground."
+msgstr ""
+
+#. data/maps/beach/ape-arena.json entities/4/settings/event/12/message #699
+#. EventTrigger fightBossStart-test START IF false
+#. SHOW_MSG main.lea @EXHAUSTED
+#: data/maps/beach/ape-arena.json+entities/4/settings/event/12/message+%23699
+msgctxt "data/maps/beach/ape-arena.json//entities/4/settings/event/12/message"
+msgid "..."
+msgstr ""
+
+#. data/maps/beach/ape-arena.json entities/4/settings/event/13/text #700
+#. EventTrigger fightBossStart-test START IF false
+#. SHOW_DREAM_MSG
+#: data/maps/beach/ape-arena.json+entities/4/settings/event/13/text+%23700
+msgctxt "data/maps/beach/ape-arena.json//entities/4/settings/event/13/text"
+msgid "Now, be on your guard!"
+msgstr ""
+
+#. data/maps/beach/ape-arena.json entities/4/settings/event/14/message #701
+#. EventTrigger fightBossStart-test START IF false
+#. SHOW_MSG main.lea @DETERMINED
+#: data/maps/beach/ape-arena.json+entities/4/settings/event/14/message+%23701
+msgctxt "data/maps/beach/ape-arena.json//entities/4/settings/event/14/message"
+msgid "Meet.\\. Lea!"
+msgstr ""
 
 #. extension/post-game/data/maps/beach/expo-space.json entities/4/settings/event/8/text #2
 #. EventTrigger expoScene
@@ -481,52 +631,52 @@ msgstr ""
 
 #. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/0/event/quest/5/message #69
 #. NPC apeQuest
-#. IF !quest.ape-battle.started && test
+#. IF !quest.ape-battle.started && plot.line >= 48000
 #. SHOW_MSG main.lea @SURPRISED
 #: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/0/event/quest/5/message+%2369
 msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/704/settings/npcStates/0/event/quest/5/message"
 msgid "... H-hi?"
 msgstr ""
 
-#. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/0/event/quest/9/text #74
+#. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/0/event/quest/8/text #74
 #. NPC apeQuest
-#. IF !quest.ape-battle.started && test
+#. IF !quest.ape-battle.started && plot.line >= 48000
 #. SHOW_DREAM_MSG
-#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/0/event/quest/9/text+%2374
-msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/704/settings/npcStates/0/event/quest/9/text"
+#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/0/event/quest/8/text+%2374
+msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/704/settings/npcStates/0/event/quest/8/text"
 msgid "\\v[lore.title.seeker]. I am the guardian of this peaceful island. Long have I been undisturbed."
 msgstr ""
 
-#. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/0/event/quest/10/text #75
+#. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/0/event/quest/9/text #75
 #. NPC apeQuest
-#. IF !quest.ape-battle.started && test
+#. IF !quest.ape-battle.started && plot.line >= 48000
 #. SHOW_DREAM_MSG
-#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/0/event/quest/10/text+%2375
-msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/704/settings/npcStates/0/event/quest/10/text"
+#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/0/event/quest/9/text+%2375
+msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/704/settings/npcStates/0/event/quest/9/text"
 msgid "But now, humans have come and are crawling all around me, left and right."
 msgstr ""
 
-#. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/0/event/quest/11/message #76
+#. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/0/event/quest/10/message #76
 #. NPC apeQuest
-#. IF !quest.ape-battle.started && test
+#. IF !quest.ape-battle.started && plot.line >= 48000
 #. SHOW_MSG main.lea @SCARED
-#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/0/event/quest/11/message+%2376
-msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/704/settings/npcStates/0/event/quest/11/message"
+#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/0/event/quest/10/message+%2376
+msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/704/settings/npcStates/0/event/quest/10/message"
 msgid "... S-sorry?"
 msgstr ""
 
-#. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/0/event/quest/15/text #77
+#. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/0/event/quest/14/text #77
 #. NPC apeQuest
-#. IF !quest.ape-battle.started && test
+#. IF !quest.ape-battle.started && plot.line >= 48000
 #. SHOW_DREAM_MSG
-#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/0/event/quest/15/text+%2377
-msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/704/settings/npcStates/0/event/quest/15/text"
+#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/0/event/quest/14/text+%2377
+msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/704/settings/npcStates/0/event/quest/14/text"
 msgid "Hoho, you misunderstand!\\. This is exciting!"
 msgstr ""
 
 #. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/0/event/quest/17/text #78
 #. NPC apeQuest
-#. IF !quest.ape-battle.started && test
+#. IF !quest.ape-battle.started && plot.line >= 48000
 #. SHOW_DREAM_MSG
 #: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/0/event/quest/17/text+%2378
 msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/704/settings/npcStates/0/event/quest/17/text"
@@ -535,7 +685,7 @@ msgstr ""
 
 #. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/0/event/quest/18/text #79
 #. NPC apeQuest
-#. IF !quest.ape-battle.started && test
+#. IF !quest.ape-battle.started && plot.line >= 48000
 #. SHOW_DREAM_MSG
 #: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/0/event/quest/18/text+%2379
 msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/704/settings/npcStates/0/event/quest/18/text"
@@ -544,7 +694,7 @@ msgstr ""
 
 #. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/0/event/quest/19/accepted/1/message #46
 #. NPC apeQuest
-#. IF !quest.ape-battle.started && test
+#. IF !quest.ape-battle.started && plot.line >= 48000
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @NOD
 #: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/0/event/quest/19/accepted/1/message+%2346
@@ -554,7 +704,7 @@ msgstr ""
 
 #. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/0/event/quest/19/accepted/2/text #80
 #. NPC apeQuest
-#. IF !quest.ape-battle.started && test
+#. IF !quest.ape-battle.started && plot.line >= 48000
 #. OPEN_QUEST_DIALOG
 #. SHOW_DREAM_MSG
 #: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/0/event/quest/19/accepted/2/text+%2380
@@ -564,7 +714,7 @@ msgstr ""
 
 #. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/0/event/quest/19/declined/1/message #50
 #. NPC apeQuest
-#. IF !quest.ape-battle.started && test
+#. IF !quest.ape-battle.started && plot.line >= 48000
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @SHAKE
 #: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/0/event/quest/19/declined/1/message+%2350
@@ -574,7 +724,7 @@ msgstr ""
 
 #. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/0/event/quest/19/declined/2/text #81
 #. NPC apeQuest
-#. IF !quest.ape-battle.started && test
+#. IF !quest.ape-battle.started && plot.line >= 48000
 #. OPEN_QUEST_DIALOG
 #. SHOW_DREAM_MSG
 #: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/0/event/quest/19/declined/2/text+%2381
@@ -584,7 +734,7 @@ msgstr ""
 
 #. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/0/event/quest/19/declined/3/message #82
 #. NPC apeQuest
-#. IF !quest.ape-battle.started && test
+#. IF !quest.ape-battle.started && plot.line >= 48000
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @EXHAUSTED
 #: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/0/event/quest/19/declined/3/message+%2382
@@ -594,97 +744,157 @@ msgstr ""
 
 #. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/1/event/quest/5/message #73
 #. NPC apeQuest
-#. IF quest.ape-battle.started && !quest.ape-battle.solved
+#. IF (quest.ape-battle.started && !quest.ape-battle.solved) || g.beach.apeWin
 #. SHOW_MSG main.lea @SURPRISED
 #: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/1/event/quest/5/message+%2373
 msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/704/settings/npcStates/1/event/quest/5/message"
 msgid "Hi!\\. Meet!"
 msgstr ""
 
-#. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/1/event/quest/6/text #84
+#. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/1/event/quest/7/text #84
 #. NPC apeQuest
-#. IF quest.ape-battle.started && !quest.ape-battle.solved
+#. IF (quest.ape-battle.started && !quest.ape-battle.solved) || g.beach.apeWin
 #. SHOW_DREAM_MSG
-#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/1/event/quest/6/text+%2384
-msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/704/settings/npcStates/1/event/quest/6/text"
+#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/1/event/quest/7/text+%2384
+msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/704/settings/npcStates/1/event/quest/7/text"
 msgid "\\v[lore.title.seeker]. Are you ready to face me?"
 msgstr ""
 
-#. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/1/event/quest/7/0/1/message #85
+#. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/1/event/quest/8/0/3/message #85
 #. NPC apeQuest
-#. IF quest.ape-battle.started && !quest.ape-battle.solved
+#. IF (quest.ape-battle.started && !quest.ape-battle.solved) || g.beach.apeWin
 #. SHOW_CHOICE main.lea @DEFAULT
 #. SHOW_MSG main.lea @NOD
-#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/1/event/quest/7/0/1/message+%2385
-msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/704/settings/npcStates/1/event/quest/7/0/1/message"
+#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/1/event/quest/8/0/3/message+%2385
+msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/704/settings/npcStates/1/event/quest/8/0/3/message"
 msgid "[nods]"
 msgstr ""
 
-#. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/1/event/quest/7/0/2/text #86
+#. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/1/event/quest/8/0/4/text #86
 #. NPC apeQuest
-#. IF quest.ape-battle.started && !quest.ape-battle.solved
+#. IF (quest.ape-battle.started && !quest.ape-battle.solved) || g.beach.apeWin
 #. SHOW_CHOICE main.lea @DEFAULT
 #. SHOW_DREAM_MSG
-#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/1/event/quest/7/0/2/text+%2386
-msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/704/settings/npcStates/1/event/quest/7/0/2/text"
+#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/1/event/quest/8/0/4/text+%2386
+msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/704/settings/npcStates/1/event/quest/8/0/4/text"
 msgid "Good!\\. The time has finally come!"
 msgstr ""
 
-#. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/1/event/quest/7/1/0/message #87
+#. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/1/event/quest/8/0/5/text #691
 #. NPC apeQuest
-#. IF quest.ape-battle.started && !quest.ape-battle.solved
+#. IF (quest.ape-battle.started && !quest.ape-battle.solved) || g.beach.apeWin
+#. SHOW_CHOICE main.lea @DEFAULT
+#. SHOW_DREAM_MSG
+#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/1/event/quest/8/0/5/text+%23691
+msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/704/settings/npcStates/1/event/quest/8/0/5/text"
+msgid "We shall hold our epic battle in an undisturbed arena"
+msgstr ""
+
+#. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/1/event/quest/8/0/6/message #690
+#. NPC apeQuest
+#. IF (quest.ape-battle.started && !quest.ape-battle.solved) || g.beach.apeWin
+#. SHOW_CHOICE main.lea @DEFAULT
+#. SHOW_MSG main.lea @SURPRISED_TOWARD
+#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/1/event/quest/8/0/6/message+%23690
+msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/704/settings/npcStates/1/event/quest/8/0/6/message"
+msgid "Where?"
+msgstr ""
+
+#. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/1/event/quest/8/0/7/text #692
+#. NPC apeQuest
+#. IF (quest.ape-battle.started && !quest.ape-battle.solved) || g.beach.apeWin
+#. SHOW_CHOICE main.lea @DEFAULT
+#. SHOW_DREAM_MSG
+#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/1/event/quest/8/0/7/text+%23692
+msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/704/settings/npcStates/1/event/quest/8/0/7/text"
+msgid "You will see.\\. But for now\\..\\..\\..\\. Hold on tight!"
+msgstr ""
+
+#. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/1/event/quest/8/0/8/message #693
+#. NPC apeQuest
+#. IF (quest.ape-battle.started && !quest.ape-battle.solved) || g.beach.apeWin
+#. SHOW_CHOICE main.lea @DEFAULT
+#. SHOW_MSG main.lea @NERVOUS
+#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/1/event/quest/8/0/8/message+%23693
+msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/704/settings/npcStates/1/event/quest/8/0/8/message"
+msgid "Why?"
+msgstr ""
+
+#. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/1/event/quest/8/0/18/text #694
+#. NPC apeQuest
+#. IF (quest.ape-battle.started && !quest.ape-battle.solved) || g.beach.apeWin
+#. SHOW_CHOICE main.lea @DEFAULT
+#. SHOW_DREAM_MSG
+#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/1/event/quest/8/0/18/text+%23694
+msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/704/settings/npcStates/1/event/quest/8/0/18/text"
+msgid "And off we go!"
+msgstr ""
+
+#. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/1/event/quest/8/0/19/message #695
+#. NPC apeQuest
+#. IF (quest.ape-battle.started && !quest.ape-battle.solved) || g.beach.apeWin
+#. SHOW_CHOICE main.lea @DEFAULT
+#. SHOW_MSG main.lea @SHOCKED
+#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/1/event/quest/8/0/19/message+%23695
+msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/704/settings/npcStates/1/event/quest/8/0/19/message"
+msgid "...!!!!!"
+msgstr ""
+
+#. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/1/event/quest/8/1/0/message #87
+#. NPC apeQuest
+#. IF (quest.ape-battle.started && !quest.ape-battle.solved) || g.beach.apeWin
 #. SHOW_CHOICE main.lea @DEFAULT
 #. SHOW_MSG main.lea @SHAKE
-#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/1/event/quest/7/1/0/message+%2387
-msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/704/settings/npcStates/1/event/quest/7/1/0/message"
+#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/1/event/quest/8/1/0/message+%2387
+msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/704/settings/npcStates/1/event/quest/8/1/0/message"
 msgid "[shakes head]"
 msgstr ""
 
-#. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/1/event/quest/7/1/1/text #88
+#. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/1/event/quest/8/1/1/text #88
 #. NPC apeQuest
-#. IF quest.ape-battle.started && !quest.ape-battle.solved
+#. IF (quest.ape-battle.started && !quest.ape-battle.solved) || g.beach.apeWin
 #. SHOW_CHOICE main.lea @DEFAULT
 #. SHOW_DREAM_MSG
-#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/1/event/quest/7/1/1/text+%2388
-msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/704/settings/npcStates/1/event/quest/7/1/1/text"
-msgid "I see.\\. You want to repare yourself.\\. So be it."
+#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/1/event/quest/8/1/1/text+%2388
+msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/704/settings/npcStates/1/event/quest/8/1/1/text"
+msgid "I see.\\. You want to prepare yourself.\\. So be it."
 msgstr ""
 
-#. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/1/event/quest/7/1/2/text #89
+#. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/1/event/quest/8/1/2/text #89
 #. NPC apeQuest
-#. IF quest.ape-battle.started && !quest.ape-battle.solved
+#. IF (quest.ape-battle.started && !quest.ape-battle.solved) || g.beach.apeWin
 #. SHOW_CHOICE main.lea @DEFAULT
 #. SHOW_DREAM_MSG
-#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/1/event/quest/7/1/2/text+%2389
-msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/704/settings/npcStates/1/event/quest/7/1/2/text"
+#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/1/event/quest/8/1/2/text+%2389
+msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/704/settings/npcStates/1/event/quest/8/1/2/text"
 msgid "But don't leave me waiting much longer.\\. I already endured half an eternity without challenge."
 msgstr ""
 
-#. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/1/event/quest/7/1/3/message #90
+#. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/1/event/quest/8/1/3/message #90
 #. NPC apeQuest
-#. IF quest.ape-battle.started && !quest.ape-battle.solved
+#. IF (quest.ape-battle.started && !quest.ape-battle.solved) || g.beach.apeWin
 #. SHOW_CHOICE main.lea @DEFAULT
 #. SHOW_MSG main.lea @WHISTLING
-#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/1/event/quest/7/1/3/message+%2390
-msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/704/settings/npcStates/1/event/quest/7/1/3/message"
+#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/1/event/quest/8/1/3/message+%2390
+msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/704/settings/npcStates/1/event/quest/8/1/3/message"
 msgid "Bye..."
 msgstr ""
 
-#. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/1/event/quest/7/options/0/label #83
+#. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/1/event/quest/8/options/0/label #83
 #. NPC apeQuest
-#. IF quest.ape-battle.started && !quest.ape-battle.solved
+#. IF (quest.ape-battle.started && !quest.ape-battle.solved) || g.beach.apeWin
 #. SHOW_CHOICE main.lea @DEFAULT
-#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/1/event/quest/7/options/0/label+%2383
-msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/704/settings/npcStates/1/event/quest/7/options/0/label"
+#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/1/event/quest/8/options/0/label+%2383
+msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/704/settings/npcStates/1/event/quest/8/options/0/label"
 msgid "\\c[2][Yes, start the battle]\\c[0]"
 msgstr ""
 
-#. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/1/event/quest/7/options/1/label #91
+#. extension/post-game/data/maps/beach/path-01-entrance.json entities/704/settings/npcStates/1/event/quest/8/options/1/label #91
 #. NPC apeQuest
-#. IF quest.ape-battle.started && !quest.ape-battle.solved
+#. IF (quest.ape-battle.started && !quest.ape-battle.solved) || g.beach.apeWin
 #. SHOW_CHOICE main.lea @DEFAULT
-#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/1/event/quest/7/options/1/label+%2391
-msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/704/settings/npcStates/1/event/quest/7/options/1/label"
+#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/704/settings/npcStates/1/event/quest/8/options/1/label+%2391
+msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/704/settings/npcStates/1/event/quest/8/options/1/label"
 msgid "\\c[1][No]\\c[0]"
 msgstr ""
 
@@ -701,7 +911,7 @@ msgstr ""
 #. SHOW_DREAM_MSG
 #: extension/post-game/data/maps/beach/path-01-entrance.json+entities/705/settings/event/18/text+%23689
 msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/705/settings/event/18/text"
-msgid "\\v[lore.title.seeker]. I am the guardian of this peaceful island. Long have I been undisturbed."
+msgid "Yes, \\v[lore.title.seeker].\\. That was a splendid fight!\\. I haven't felt so alive in ages!"
 msgstr ""
 
 #. extension/post-game/data/maps/beach/path-01-entrance.json entities/705/settings/event/19/message #676
@@ -712,12 +922,54 @@ msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/705
 msgid "[nods]"
 msgstr ""
 
-#. extension/post-game/data/maps/beach/path-01-entrance.json entities/705/settings/event/26/message #680
+#. extension/post-game/data/maps/beach/path-01-entrance.json entities/705/settings/event/20/message #696
+#. EventTrigger apeAfter2 START IF g.beach.apeWin
+#. SHOW_MSG main.lea @PROUD
+#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/705/settings/event/20/message+%23696
+msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/705/settings/event/20/message"
+msgid "Lea!"
+msgstr ""
+
+#. extension/post-game/data/maps/beach/path-01-entrance.json entities/705/settings/event/21/text #697
+#. EventTrigger apeAfter2 START IF g.beach.apeWin
+#. SHOW_DREAM_MSG
+#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/705/settings/event/21/text+%23697
+msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/705/settings/event/21/text"
+msgid "But now I will take another rest and savor the sun.\\.\\.\\. I mean\\..\\..\\.. Guard this island, of course.\\. Goodbye!"
+msgstr ""
+
+#. extension/post-game/data/maps/beach/path-01-entrance.json entities/705/settings/event/23/message #698
+#. EventTrigger apeAfter2 START IF g.beach.apeWin
+#. SHOW_MSG main.lea @SMILE
+#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/705/settings/event/23/message+%23698
+msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/705/settings/event/23/message"
+msgid "... Bye."
+msgstr ""
+
+#. extension/post-game/data/maps/beach/path-01-entrance.json entities/705/settings/event/39/message #680
 #. EventTrigger apeAfter2 START IF g.beach.apeWin
 #. SHOW_MSG main.lea @SMUG
-#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/705/settings/event/26/message+%23680
-msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/705/settings/event/26/message"
+#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/705/settings/event/39/message+%23680
+msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/705/settings/event/39/message"
 msgid "Bye!"
+msgstr ""
+
+#. extension/post-game/data/maps/beach/path-01-entrance.json entities/707/settings/npcStates/0/event/trade/2/message #702
+#. NPC loot
+#. IF false
+#. SHOW_MSG rookie-harbor.man-tall-mustache @DEFAULT
+#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/707/settings/npcStates/0/event/trade/2/message+%23702
+msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/707/settings/npcStates/0/event/trade/2/message"
+msgid "Here we offer a small selection of \\c[3]new weapons and armor\\c[0]."
+msgstr ""
+
+#. extension/post-game/data/maps/beach/path-01-entrance.json entities/707/settings/npcStates/0/event/trade/3/message #703
+#. NPC loot
+#. IF false
+#. SHOW_MSG rookie-harbor.man-tall-mustache @DEFAULT
+#: extension/post-game/data/maps/beach/path-01-entrance.json+entities/707/settings/npcStates/0/event/trade/3/message+%23703
+msgctxt "extension/post-game/data/maps/beach/path-01-entrance.json//entities/707/settings/npcStates/0/event/trade/3/message"
+msgid "For more advanced equipment, revisit our \\c[3]main store\\c[0] in the \\c[3]Shopping District of Rhombus Square\\c[0]."
 msgstr ""
 
 #. extension/post-game/data/maps/beach/path-02.json entities/102/settings/interact/hoverText #1
@@ -1575,7 +1827,7 @@ msgstr ""
 #. SHOW_CHOICE main.lea @DEFAULT
 #: extension/post-game/data/maps/beach/path-02.json+entities/880/settings/npcStates/1/event/quest/7/options/0/label+%23539
 msgctxt "extension/post-game/data/maps/beach/path-02.json//entities/880/settings/npcStates/1/event/quest/7/options/0/label"
-msgid "Yes"
+msgid "\\c[2]Yes\\c[0]"
 msgstr ""
 
 #. extension/post-game/data/maps/beach/path-02.json entities/880/settings/npcStates/1/event/quest/7/options/1/label #547
@@ -1584,7 +1836,7 @@ msgstr ""
 #. SHOW_CHOICE main.lea @DEFAULT
 #: extension/post-game/data/maps/beach/path-02.json+entities/880/settings/npcStates/1/event/quest/7/options/1/label+%23547
 msgctxt "extension/post-game/data/maps/beach/path-02.json//entities/880/settings/npcStates/1/event/quest/7/options/1/label"
-msgid "No"
+msgid "\\c[1]No\\c[0]"
 msgstr ""
 
 #. extension/post-game/data/maps/beach/path-02.json entities/880/settings/npcStates/3/event/quest/4/name #1733
@@ -1736,7 +1988,7 @@ msgstr ""
 #. SHOW_CHOICE main.lea @DEFAULT
 #: extension/post-game/data/maps/beach/path-02.json+entities/880/settings/npcStates/3/event/quest/7/options/0/label+%231739
 msgctxt "extension/post-game/data/maps/beach/path-02.json//entities/880/settings/npcStates/3/event/quest/7/options/0/label"
-msgid "Yes"
+msgid "\\c[2]Yes\\c[0]"
 msgstr ""
 
 #. extension/post-game/data/maps/beach/path-02.json entities/880/settings/npcStates/3/event/quest/7/options/1/label #1740
@@ -1745,7 +1997,7 @@ msgstr ""
 #. SHOW_CHOICE main.lea @DEFAULT
 #: extension/post-game/data/maps/beach/path-02.json+entities/880/settings/npcStates/3/event/quest/7/options/1/label+%231740
 msgctxt "extension/post-game/data/maps/beach/path-02.json//entities/880/settings/npcStates/3/event/quest/7/options/1/label"
-msgid "No"
+msgid "\\c[1]No\\c[0]"
 msgstr ""
 
 #. extension/post-game/data/maps/beach/path-02.json entities/892/settings/event/3/message #768

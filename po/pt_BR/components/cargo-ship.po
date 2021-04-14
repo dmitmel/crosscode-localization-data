@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.4.0-4\n"
+"Project-Id-Version: crosscode 1.4.1-2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-27 11:10+0000\n"
-"PO-Revision-Date: 2021-03-27 11:10+0000\n"
+"POT-Creation-Date: 2021-04-14 01:09+0000\n"
+"POT-Revision-Date: 2021-04-14 01:09+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: pt_BR\n"
@@ -13558,314 +13558,341 @@ msgctxt "data/maps/cargo-ship/ship.json//entities/190/settings/dialog/5/text"
 msgid "Dude...\\. you're a lost cause."
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/30/text #3
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/16/thenStep/0/text #162
+#. EventTrigger start START IF true
+#. IF extension.manlea.active
+#. SHOW_MODAL_CHOICE
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/16/thenStep/0/text+%23162
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/16/thenStep/0/text"
+msgid "Do you want to be \\c[3]Manlea\\c[0]?"
+msgstr ""
+
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/16/thenStep/0/options/0/label #163
+#. EventTrigger start START IF true
+#. IF extension.manlea.active
+#. SHOW_MODAL_CHOICE
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/16/thenStep/0/options/0/label+%23163
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/16/thenStep/0/options/0/label"
+msgid "YES!"
+msgstr ""
+
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/16/thenStep/0/options/1/label #164
+#. EventTrigger start START IF true
+#. IF extension.manlea.active
+#. SHOW_MODAL_CHOICE
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/16/thenStep/0/options/1/label+%23164
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/16/thenStep/0/options/1/label"
+msgid "No..."
+msgstr ""
+
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/31/text #3
 #. EventTrigger start START IF true
 #. SHOW_AR_MSG
-#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/30/text+%233
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/30/text"
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/31/text+%233
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/31/text"
 msgid "Initializing Avatar"
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/39/message #4
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/40/message #4
 #. EventTrigger start START IF true
 #. SHOW_MSG main.lea @SURPRISED
-#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/39/message+%234
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/39/message"
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/40/message+%234
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/40/message"
 msgid "...!"
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/42/message #5
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/43/message #5
 #. EventTrigger start START IF true
 #. SHOW_MSG main.sergey @DEFAULT
-#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/42/message+%235
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/42/message"
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/43/message+%235
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/43/message"
 msgid "There you are, initialization successful!"
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/45/message #6
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/46/message #6
 #. EventTrigger start START IF true
 #. SHOW_MSG main.lea @SURPRISED_AWAY
-#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/45/message+%236
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/45/message"
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/46/message+%236
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/46/message"
 msgid "..."
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/47/message #7
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/48/message #7
 #. EventTrigger start START IF true
 #. SHOW_MSG main.sergey @WORRIED
-#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/47/message+%237
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/47/message"
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/48/message+%237
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/48/message"
 msgid "Oh, is the speech synchronization malfunctioning?"
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/48/message #8
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/49/message #8
 #. EventTrigger start START IF true
 #. SHOW_MSG main.lea @NERVOUS
-#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/48/message+%238
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/48/message"
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/49/message+%238
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/49/message"
 msgid "..."
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/49/message #9
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/50/message #9
 #. EventTrigger start START IF true
 #. SHOW_MSG main.sergey @ROLL_EYES
-#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/49/message+%239
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/49/message"
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/50/message+%239
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/50/message"
 msgid "... Apparently. Well, something just had to go wrong."
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/50/message #10
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/51/message #10
 #. EventTrigger start START IF true
 #. SHOW_MSG main.sergey @SERIOUS
-#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/50/message+%2310
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/50/message"
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/51/message+%2310
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/51/message"
 msgid "But you understand me, correct?"
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/51/message #11
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/52/message #11
 #. EventTrigger start START IF true
 #. SHOW_MSG main.lea @NOD
-#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/51/message+%2311
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/51/message"
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/52/message+%2311
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/52/message"
 msgid "[nods]"
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/52/thenStep/0/message #118
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/53/thenStep/0/message #118
 #. EventTrigger start START IF true
 #. IF newgame.keep-level
 #. SHOW_MSG main.sergey @SURPRISED
-#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/52/thenStep/0/message+%23118
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/52/thenStep/0/message"
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/53/thenStep/0/message+%23118
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/53/thenStep/0/message"
 msgid "Wait..."
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/52/thenStep/1/message #119
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/53/thenStep/1/message #119
 #. EventTrigger start START IF true
 #. IF newgame.keep-level
 #. SHOW_MSG main.sergey @INTENSE1
-#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/52/thenStep/1/message+%23119
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/52/thenStep/1/message"
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/53/thenStep/1/message+%23119
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/53/thenStep/1/message"
 msgid "Wha-what is up with your \\c[3]level\\c[0]?"
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/52/thenStep/2/message #17
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/53/thenStep/2/message #17
 #. EventTrigger start START IF true
 #. IF newgame.keep-level
 #. SHOW_MSG main.lea @SURPRISED
-#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/52/thenStep/2/message+%2317
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/52/thenStep/2/message"
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/53/thenStep/2/message+%2317
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/53/thenStep/2/message"
 msgid "...?!"
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/52/thenStep/3/message #120
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/53/thenStep/3/message #120
 #. EventTrigger start START IF true
 #. IF newgame.keep-level
 #. SHOW_MSG main.sergey @INTENSE2
-#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/52/thenStep/3/message+%23120
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/52/thenStep/3/message"
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/53/thenStep/3/message+%23120
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/53/thenStep/3/message"
 msgid "You are level \\c[3]\\v[player.level]\\c[0].\\. It should have been reset."
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/52/thenStep/4/message #121
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/53/thenStep/4/message #121
 #. EventTrigger start START IF true
 #. IF newgame.keep-level
 #. SHOW_MSG main.lea @NERVOUS
-#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/52/thenStep/4/message+%23121
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/52/thenStep/4/message"
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/53/thenStep/4/message+%23121
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/53/thenStep/4/message"
 msgid "...?"
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/52/thenStep/5/message #122
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/53/thenStep/5/message #122
 #. EventTrigger start START IF true
 #. IF newgame.keep-level
 #. SHOW_MSG main.sergey @COMPLEX
-#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/52/thenStep/5/message+%23122
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/52/thenStep/5/message"
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/53/thenStep/5/message+%23122
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/53/thenStep/5/message"
 msgid "Ugh...\\. this is not off to a great start."
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/52/thenStep/6/message #123
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/53/thenStep/6/message #123
 #. EventTrigger start START IF true
 #. IF newgame.keep-level
 #. SHOW_MSG main.lea @ANNOYED
-#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/52/thenStep/6/message+%23123
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/52/thenStep/6/message"
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/53/thenStep/6/message+%23123
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/53/thenStep/6/message"
 msgid "...???"
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/54/message #12
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/55/message #12
 #. EventTrigger start START IF true
 #. SHOW_MSG main.sergey @EYES_CLOSED
-#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/54/message+%2312
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/54/message"
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/55/message+%2312
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/55/message"
 msgid "Ok. We will make it work, somehow."
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/55/message #13
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/56/message #13
 #. EventTrigger start START IF true
 #. SHOW_MSG main.sergey @SERIOUS
-#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/55/message+%2313
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/55/message"
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/56/message+%2313
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/56/message"
 msgid "You... are probably confused about this situation, correct?"
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/56/message #14
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/57/message #14
 #. EventTrigger start START IF true
 #. SHOW_MSG main.lea @NOD
-#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/56/message+%2314
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/56/message"
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/57/message+%2314
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/57/message"
 msgid "[nods]"
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/58/message #15
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/59/message #15
 #. EventTrigger start START IF true
 #. SHOW_MSG main.sergey @WHISTLING
-#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/58/message+%2315
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/58/message"
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/59/message+%2315
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/59/message"
 msgid "Alright. Let us take small steps. "
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/59/message #16
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/60/message #16
 #. EventTrigger start START IF true
 #. SHOW_MSG main.sergey @DEFAULT
-#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/59/message+%2316
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/59/message"
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/60/message+%2316
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/60/message"
 msgid "Do you remember VRPs?"
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/60/message #124
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/61/message #124
 #. EventTrigger start START IF true
 #. SHOW_MSG main.lea @NERVOUS
-#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/60/message+%23124
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/60/message"
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/61/message+%23124
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/61/message"
 msgid "...?"
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/61/message #18
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/62/message #18
 #. EventTrigger start START IF true
 #. SHOW_MSG main.sergey @DEFAULT
-#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/61/message+%2318
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/61/message"
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/62/message+%2318
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/62/message"
 msgid "...Virtual Ricochet Projectiles?"
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/62/message #19
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/63/message #19
 #. EventTrigger start START IF true
 #. SHOW_MSG main.lea @NERVOUS
-#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/62/message+%2319
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/62/message"
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/63/message+%2319
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/63/message"
 msgid "...?"
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/63/message #20
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/64/message #20
 #. EventTrigger start START IF true
 #. SHOW_MSG main.sergey @SERIOUS
-#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/63/message+%2320
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/63/message"
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/64/message+%2320
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/64/message"
 msgid "...Balls?"
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/64/message #21
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/65/message #21
 #. EventTrigger start START IF true
 #. SHOW_MSG main.lea @DEFAULT
-#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/64/message+%2321
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/64/message"
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/65/message+%2321
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/65/message"
 msgid "...!"
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/65/message #22
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/66/message #22
 #. EventTrigger start START IF true
 #. SHOW_MSG main.lea @NOD
-#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/65/message+%2322
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/65/message"
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/66/message+%2322
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/66/message"
 msgid "[nods]"
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/66/message #23
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/67/message #23
 #. EventTrigger start START IF true
 #. SHOW_MSG main.sergey @ROLL_EYES
-#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/66/message+%2323
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/66/message"
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/67/message+%2323
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/67/message"
 msgid "Ok... you seem to remember..."
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/67/message #24
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/68/message #24
 #. EventTrigger start START IF true
 #. SHOW_MSG main.sergey @NOTIFYING
-#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/67/message+%2324
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/67/message"
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/68/message+%2324
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/68/message"
 msgid "Carla? We are ready. Please initiate the training sequence."
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/80/guiInfo/settings/text #25
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/81/guiInfo/settings/text #25
 #. EventTrigger start START IF true
 #. ADD_GUI
 #. Information
-#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/80/guiInfo/settings/text+%2325
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/80/guiInfo/settings/text"
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/81/guiInfo/settings/text+%2325
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/81/guiInfo/settings/text"
 msgid ""
 "Press \\i[key-throw] to aim.\n"
 "Release \\i[key-throw] to throw."
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/80/guiInfo/settings/altText #26
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/81/guiInfo/settings/altText #26
 #. EventTrigger start START IF true
 #. ADD_GUI
 #. Information
-#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/80/guiInfo/settings/altText+%2326
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/80/guiInfo/settings/altText"
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/81/guiInfo/settings/altText+%2326
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/81/guiInfo/settings/altText"
 msgid ""
 "Use \\i[right-stick] to aim.\n"
 "Press \\i[throw] to throw."
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/81/task #27
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/82/task #27
 #. EventTrigger start START IF true
 #. SET_TASK
-#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/81/task+%2327
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/81/task"
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/82/task+%2327
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/82/task"
 msgid "Hit enemies with \\i[o]"
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/87/message #28
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/88/message #28
 #. EventTrigger start START IF true
 #. SHOW_SIDE_MSG main.sergey @DEFAULT
-#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/87/message+%2328
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/87/message"
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/88/message+%2328
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/88/message"
 msgid "VRPs are your most essential tool and weapon."
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/88/message #29
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/89/message #29
 #. EventTrigger start START IF true
 #. SHOW_SIDE_MSG main.sergey @THINKING
-#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/88/message+%2329
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/88/message"
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/89/message+%2329
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/89/message"
 msgid "They are basically like balls."
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/89/message #30
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/90/message #30
 #. EventTrigger start START IF true
 #. SHOW_SIDE_MSG main.sergey @DOWN
-#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/89/message+%2330
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/89/message"
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/90/message+%2330
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/90/message"
 msgid "Your task is to hit all these robots with VRPs."
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/90/message #31
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/91/message #31
 #. EventTrigger start START IF true
 #. SHOW_SIDE_MSG main.sergey @JOKING
-#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/90/message+%2331
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/90/message"
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/91/message+%2331
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/91/message"
 msgid ""
 "So, give it a shot!\\.\n"
 "Or rather...\\.\\.\\. a throw!"
 msgstr ""
 
-#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/91/message #32
+#. data/maps/cargo-ship/teleporter.json entities/12/settings/event/92/message #32
 #. EventTrigger start START IF true
 #. SHOW_SIDE_MSG main.lea @ANNOYED
-#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/91/message+%2332
-msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/91/message"
+#: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/92/message+%2332
+msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/92/message"
 msgid "..."
 msgstr ""
 

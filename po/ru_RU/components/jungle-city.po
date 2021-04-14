@@ -1,12 +1,12 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.4.0-4\n"
+"Project-Id-Version: crosscode 1.4.1-2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-27 11:16+0000\n"
-"PO-Revision-Date: 2021-03-27 11:16+0000\n"
+"POT-Creation-Date: 2021-04-14 01:09+0000\n"
+"POT-Revision-Date: 2021-04-14 01:09+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: es_ES\n"
+"Language: ru_RU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2369,6 +2369,13 @@ msgctxt "data/maps/jungle-city/east.json//entities/682/settings/analyzable/text"
 msgid "Sonya Bolt"
 msgstr "Соня Болт"
 
+#. data/maps/jungle-city/east.json entities/687/settings/analyzable/text #460
+#. NPC bird-gangster
+#: data/maps/jungle-city/east.json+entities/687/settings/analyzable/text+%23460
+msgctxt "data/maps/jungle-city/east.json//entities/687/settings/analyzable/text"
+msgid "Suspicious Trader"
+msgstr ""
+
 #. data/maps/jungle-city/east.json entities/687/settings/npcStates/0/event/trade/event/0/name #454
 #. NPC bird-gangster
 #. IF quest.jungleGuard-3-papagang_goats_1.task.1
@@ -3505,6 +3512,13 @@ msgctxt "data/maps/jungle-city/interior/calzone-1.json//entities/26/settings/eve
 msgid "There's nothing you have to worry about. Please come with me."
 msgstr "Тебе не о чем беспокоиться. Пожалуйста, за мной."
 
+#. data/maps/jungle-city/interior/calzone-1.json entities/28/settings/analyzable/text #466
+#. NPC birdquestInfo
+#: data/maps/jungle-city/interior/calzone-1.json+entities/28/settings/analyzable/text+%23466
+msgctxt "data/maps/jungle-city/interior/calzone-1.json//entities/28/settings/analyzable/text"
+msgid "Fuzzy Duncan"
+msgstr ""
+
 #. data/maps/jungle-city/interior/calzone-1.json entities/28/settings/npcStates/0/event/1/name #281
 #. NPC birdquestInfo
 #. IF extension.post-game.active
@@ -3520,7 +3534,7 @@ msgstr "Фаззи Дункан"
 #. SHOW_MSG basin.male-hat-2 @DEFAULT
 #: data/maps/jungle-city/interior/calzone-1.json+entities/28/settings/npcStates/0/event/2/message+%23282
 msgctxt "data/maps/jungle-city/interior/calzone-1.json//entities/28/settings/npcStates/0/event/2/message"
-msgid "What is it, \\v[lore.title.seeker]? Have have business to take care of."
+msgid "What is it, \\v[lore.title.seeker]? I have business to take care of."
 msgstr "Что такое, Искатель? Есть дела, которые нужно сделать."
 
 #. data/maps/jungle-city/interior/calzone-1.json entities/28/settings/npcStates/0/event/3/message #283
@@ -3557,7 +3571,7 @@ msgstr "Привет!"
 #. SHOW_MSG basin.male-hat-2 @DEFAULT
 #: data/maps/jungle-city/interior/calzone-1.json+entities/28/settings/npcStates/1/event/quest/4/thenStep/1/message+%23286
 msgctxt "data/maps/jungle-city/interior/calzone-1.json//entities/28/settings/npcStates/1/event/quest/4/thenStep/1/message"
-msgid "What is it, \\v[lore.title.seeker]? Have have business to take care of."
+msgid "What is it, \\v[lore.title.seeker]? Got business to take care of."
 msgstr "Что такое, Искатель? Есть дела, которые нужно сделать."
 
 #. data/maps/jungle-city/interior/calzone-1.json entities/28/settings/npcStates/1/event/quest/4/thenStep/2/message #442
@@ -3726,7 +3740,7 @@ msgstr "Почему?!"
 #. SHOW_MSG basin.male-hat-2 @DEFAULT
 #: data/maps/jungle-city/interior/calzone-1.json+entities/28/settings/npcStates/1/event/quest/6/0/7/message+%23457
 msgctxt "data/maps/jungle-city/interior/calzone-1.json//entities/28/settings/npcStates/1/event/quest/6/0/7/message"
-msgid "Buuuut... I know someone who could lead you there!"
+msgid "Buuuut... I know of someone who could lead you there!"
 msgstr "Ноооо... Я знаю того, кто мог бы отвести тебя туда!"
 
 #. data/maps/jungle-city/interior/calzone-1.json entities/28/settings/npcStates/1/event/quest/6/0/9/message #458
@@ -7628,7 +7642,7 @@ msgstr "Привет!"
 #. SHOW_MSG guards.captain-male-normal-darkhair @DEFAULT
 #: data/maps/jungle-city/interior/faction-guard-1.json+entities/44/settings/npcStates/9/event/quest/3/message+%23610
 msgctxt "data/maps/jungle-city/interior/faction-guard-1.json//entities/44/settings/npcStates/9/event/quest/3/message"
-msgid "\\v[lore.title.seeker], you here.\\. Being a harbinger of trouble on this almost sunny day, I assume?"
+msgid "\\v[lore.title.seeker], you're here.\\. Being a harbinger of trouble on this almost sunny day, I assume?"
 msgstr "Ты, Искатель.\\. Предвестник беды в этот почти солнечный день, полагаю?"
 
 #. data/maps/jungle-city/interior/faction-guard-1.json entities/44/settings/npcStates/9/event/quest/4/message #611
@@ -7682,7 +7696,7 @@ msgstr "... Встреча.\\. Прости.\\. Как!"
 #. SHOW_MSG guards.captain-male-normal-darkhair @DEFAULT
 #: data/maps/jungle-city/interior/faction-guard-1.json+entities/44/settings/npcStates/9/event/quest/9/message+%23637
 msgctxt "data/maps/jungle-city/interior/faction-guard-1.json//entities/44/settings/npcStates/9/event/quest/9/message"
-msgid "Criminal goats?\\. You are kidding me, right?"
+msgid "Criminal goats?\\. You're kidding me, right?"
 msgstr "Козлы-преступники?\\. Ты издеваешься, да?"
 
 #. data/maps/jungle-city/interior/faction-guard-1.json entities/44/settings/npcStates/9/event/quest/10/message #638
@@ -7711,7 +7725,7 @@ msgstr "..."
 #. SHOW_MSG guards.captain-male-normal-darkhair @DEFAULT
 #: data/maps/jungle-city/interior/faction-guard-1.json+entities/44/settings/npcStates/9/event/quest/12/message+%23639
 msgctxt "data/maps/jungle-city/interior/faction-guard-1.json//entities/44/settings/npcStates/9/event/quest/12/message"
-msgid "Well, there has to be something to it if Sgt. Sterling sends her regard from distant Bergen."
+msgid "Well, there has to be something to it if Sgt. Sterling sends her regards from distant Bergen."
 msgstr ""
 
 #. data/maps/jungle-city/interior/faction-guard-1.json entities/44/settings/npcStates/9/event/quest/14/message #640
@@ -7790,7 +7804,7 @@ msgstr "Как...?"
 #. SHOW_MSG guards.captain-male-normal-darkhair @DEFAULT
 #: data/maps/jungle-city/interior/faction-guard-1.json+entities/44/settings/npcStates/9/event/quest/15/accepted/6/message+%23614
 msgctxt "data/maps/jungle-city/interior/faction-guard-1.json//entities/44/settings/npcStates/9/event/quest/15/accepted/6/message"
-msgid "Look, \\v[lore.title.seeker] I don't like this either.\\. But you better talk to \\c[3]someone living in that kind of environment\\c[0]."
+msgid "Look, \\v[lore.title.seeker], I don't like this either.\\. But you better talk to \\c[3]someone living in that kind of environment\\c[0]."
 msgstr ""
 
 #. data/maps/jungle-city/interior/faction-guard-1.json entities/44/settings/npcStates/9/event/quest/15/accepted/7/message #646
@@ -7952,7 +7966,7 @@ msgstr ""
 #. SHOW_MSG main.lea @WHISTLING
 #: data/maps/jungle-city/interior/faction-guard-1.json+entities/44/settings/npcStates/11/event/quest/5/message+%23630
 msgctxt "data/maps/jungle-city/interior/faction-guard-1.json//entities/44/settings/npcStates/11/event/quest/5/message"
-msgid "... What. Meet. Lea. "
+msgid "... How.\\. Meet.\\. Lea. "
 msgstr "... Что. Встреча. Лея."
 
 #. data/maps/jungle-city/interior/faction-guard-1.json entities/44/settings/npcStates/11/event/quest/6/message #653
@@ -12603,6 +12617,13 @@ msgctxt "data/maps/jungle-city/special/papagangster-rooftop-1.json//entities/94/
 msgid "Return to Roof"
 msgstr "Вернуться на крышу"
 
+#. data/maps/jungle-city/special/parrot-hq-1.json entities/13/settings/analyzable/text #558
+#. NPC parrotReceptionist
+#: data/maps/jungle-city/special/parrot-hq-1.json+entities/13/settings/analyzable/text+%23558
+msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/13/settings/analyzable/text"
+msgid "Barkeep"
+msgstr ""
+
 #. data/maps/jungle-city/special/parrot-hq-1.json entities/13/settings/npcStates/0/event/1/name #557
 #. NPC parrotReceptionist
 #. ADD_MSG_PERSON basin.female-green @DEFAULT
@@ -12663,189 +12684,196 @@ msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/13/settings/np
 msgid "..."
 msgstr "..."
 
-#. data/maps/jungle-city/special/parrot-hq-1.json entities/16/settings/npcStates/0/event/quest/3/name #453
+#. data/maps/jungle-city/special/parrot-hq-1.json entities/15/settings/analyzable/text #566
+#. NPC bird-gangster-fleeing
+#: data/maps/jungle-city/special/parrot-hq-1.json+entities/15/settings/analyzable/text+%23566
+msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/15/settings/analyzable/text"
+msgid "Suspicious Trader"
+msgstr ""
+
+#. data/maps/jungle-city/special/parrot-hq-1.json entities/15/settings/npcStates/0/event/quest/3/name #453
 #. NPC bird-gangster-fleeing
 #. IF quest.jungleGuard-3-papagang_goats_1.task.3
 #. ADD_MSG_PERSON basin.birdman-1 @DEFAULT
-#: data/maps/jungle-city/special/parrot-hq-1.json+entities/16/settings/npcStates/0/event/quest/3/name+%23453
-msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/16/settings/npcStates/0/event/quest/3/name"
+#: data/maps/jungle-city/special/parrot-hq-1.json+entities/15/settings/npcStates/0/event/quest/3/name+%23453
+msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/15/settings/npcStates/0/event/quest/3/name"
 msgid "Suspicious Trader"
 msgstr "Подозрительный торговец"
 
-#. data/maps/jungle-city/special/parrot-hq-1.json entities/16/settings/npcStates/0/event/quest/5/message #456
+#. data/maps/jungle-city/special/parrot-hq-1.json entities/15/settings/npcStates/0/event/quest/5/message #456
 #. NPC bird-gangster-fleeing
 #. IF quest.jungleGuard-3-papagang_goats_1.task.3
 #. SHOW_MSG main.lea @ANGRY
-#: data/maps/jungle-city/special/parrot-hq-1.json+entities/16/settings/npcStates/0/event/quest/5/message+%23456
-msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/16/settings/npcStates/0/event/quest/5/message"
+#: data/maps/jungle-city/special/parrot-hq-1.json+entities/15/settings/npcStates/0/event/quest/5/message+%23456
+msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/15/settings/npcStates/0/event/quest/5/message"
 msgid "WAIT!!"
 msgstr "ПОДОЖДИ!!"
 
-#. data/maps/jungle-city/special/parrot-hq-1.json entities/16/settings/npcStates/0/event/quest/7/message #459
+#. data/maps/jungle-city/special/parrot-hq-1.json entities/15/settings/npcStates/0/event/quest/7/message #459
 #. NPC bird-gangster-fleeing
 #. IF quest.jungleGuard-3-papagang_goats_1.task.3
 #. SHOW_MSG basin.birdman-1 @DEFAULT
-#: data/maps/jungle-city/special/parrot-hq-1.json+entities/16/settings/npcStates/0/event/quest/7/message+%23459
-msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/16/settings/npcStates/0/event/quest/7/message"
+#: data/maps/jungle-city/special/parrot-hq-1.json+entities/15/settings/npcStates/0/event/quest/7/message+%23459
+msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/15/settings/npcStates/0/event/quest/7/message"
 msgid "Squawk!\\. Human!\\. \\v[lore.title.seeker]!\\. Danger!!"
 msgstr ""
 
-#. data/maps/jungle-city/special/parrot-hq-1.json entities/16/settings/npcStates/0/event/quest/9/message #448
+#. data/maps/jungle-city/special/parrot-hq-1.json entities/15/settings/npcStates/0/event/quest/9/message #448
 #. NPC bird-gangster-fleeing
 #. IF quest.jungleGuard-3-papagang_goats_1.task.3
 #. SHOW_MSG main.lea @NERVOUS
-#: data/maps/jungle-city/special/parrot-hq-1.json+entities/16/settings/npcStates/0/event/quest/9/message+%23448
-msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/16/settings/npcStates/0/event/quest/9/message"
+#: data/maps/jungle-city/special/parrot-hq-1.json+entities/15/settings/npcStates/0/event/quest/9/message+%23448
+msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/15/settings/npcStates/0/event/quest/9/message"
 msgid "...!"
 msgstr "...!"
 
-#. data/maps/jungle-city/special/parrot-hq-1.json entities/21/settings/event/4/message #42
+#. data/maps/jungle-city/special/parrot-hq-1.json entities/19/settings/event/4/message #42
 #. EventTrigger civilianTalk START IF tmp.civilian-talk1
 #. SHOW_MSG main.lea @SURPRISED_TOWARD
-#: data/maps/jungle-city/special/parrot-hq-1.json+entities/21/settings/event/4/message+%2342
-msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/21/settings/event/4/message"
+#: data/maps/jungle-city/special/parrot-hq-1.json+entities/19/settings/event/4/message+%2342
+msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/19/settings/event/4/message"
 msgid "Hi."
 msgstr "Привет."
 
-#. data/maps/jungle-city/special/parrot-hq-1.json entities/21/settings/event/5/message #536
+#. data/maps/jungle-city/special/parrot-hq-1.json entities/19/settings/event/5/message #536
 #. EventTrigger civilianTalk START IF tmp.civilian-talk1
 #. SHOW_MSG rookie-harbor.man-small-brown @DEFAULT
-#: data/maps/jungle-city/special/parrot-hq-1.json+entities/21/settings/event/5/message+%23536
-msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/21/settings/event/5/message"
+#: data/maps/jungle-city/special/parrot-hq-1.json+entities/19/settings/event/5/message+%23536
+msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/19/settings/event/5/message"
 msgid "Y-yes, hello?\\. Can we help you?"
 msgstr ""
 
-#. data/maps/jungle-city/special/parrot-hq-1.json entities/21/settings/event/6/message #537
+#. data/maps/jungle-city/special/parrot-hq-1.json entities/19/settings/event/6/message #537
 #. EventTrigger civilianTalk START IF tmp.civilian-talk1
 #. SHOW_MSG rookie-harbor.female-tall-green @DEFAULT
-#: data/maps/jungle-city/special/parrot-hq-1.json+entities/21/settings/event/6/message+%23537
-msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/21/settings/event/6/message"
+#: data/maps/jungle-city/special/parrot-hq-1.json+entities/19/settings/event/6/message+%23537
+msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/19/settings/event/6/message"
 msgid "Dear, please.\\. No, we are not buying anything.\\. Now please let us eat in peace."
 msgstr ""
 
-#. data/maps/jungle-city/special/parrot-hq-1.json entities/21/settings/event/7/message #538
+#. data/maps/jungle-city/special/parrot-hq-1.json entities/19/settings/event/7/message #538
 #. EventTrigger civilianTalk START IF tmp.civilian-talk1
 #. SHOW_MSG main.lea @NERVOUS
-#: data/maps/jungle-city/special/parrot-hq-1.json+entities/21/settings/event/7/message+%23538
-msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/21/settings/event/7/message"
+#: data/maps/jungle-city/special/parrot-hq-1.json+entities/19/settings/event/7/message+%23538
+msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/19/settings/event/7/message"
 msgid "Why...?"
 msgstr "Почему...?"
 
-#. data/maps/jungle-city/special/parrot-hq-1.json entities/21/settings/event/8/message #539
+#. data/maps/jungle-city/special/parrot-hq-1.json entities/19/settings/event/8/message #539
 #. EventTrigger civilianTalk START IF tmp.civilian-talk1
 #. SHOW_MSG rookie-harbor.female-tall-green @DEFAULT
-#: data/maps/jungle-city/special/parrot-hq-1.json+entities/21/settings/event/8/message+%23539
-msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/21/settings/event/8/message"
-msgid "Oh, by the... Dear, why did we have to go to this shady place?"
+#: data/maps/jungle-city/special/parrot-hq-1.json+entities/19/settings/event/8/message+%23539
+msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/19/settings/event/8/message"
+msgid "Oh, by the...\\.\\. Dear, why did we have to go to this shady place?"
 msgstr ""
 
-#. data/maps/jungle-city/special/parrot-hq-1.json entities/21/settings/event/9/message #540
+#. data/maps/jungle-city/special/parrot-hq-1.json entities/19/settings/event/9/message #540
 #. EventTrigger civilianTalk START IF tmp.civilian-talk1
 #. SHOW_MSG rookie-harbor.man-small-brown @DEFAULT
-#: data/maps/jungle-city/special/parrot-hq-1.json+entities/21/settings/event/9/message+%23540
-msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/21/settings/event/9/message"
+#: data/maps/jungle-city/special/parrot-hq-1.json+entities/19/settings/event/9/message+%23540
+msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/19/settings/event/9/message"
 msgid "B-but I heard they have the best food in the entire city."
 msgstr ""
 
-#. data/maps/jungle-city/special/parrot-hq-1.json entities/21/settings/event/10/message #541
+#. data/maps/jungle-city/special/parrot-hq-1.json entities/19/settings/event/10/message #541
 #. EventTrigger civilianTalk START IF tmp.civilian-talk1
 #. SHOW_MSG main.lea @EXHAUSTED
-#: data/maps/jungle-city/special/parrot-hq-1.json+entities/21/settings/event/10/message+%23541
-msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/21/settings/event/10/message"
+#: data/maps/jungle-city/special/parrot-hq-1.json+entities/19/settings/event/10/message+%23541
+msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/19/settings/event/10/message"
 msgid "Sorry\\..\\..\\.. Bye..."
 msgstr "Прости\\..\\..\\.. Пока..."
 
-#. data/maps/jungle-city/special/parrot-hq-1.json entities/37/settings/event/1/text #512
+#. data/maps/jungle-city/special/parrot-hq-1.json entities/35/settings/event/1/text #512
 #. EventTrigger firstBattle START IF tmp.firstBattle
 #. SHOW_AR_MSG
-#: data/maps/jungle-city/special/parrot-hq-1.json+entities/37/settings/event/1/text+%23512
-msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/37/settings/event/1/text"
+#: data/maps/jungle-city/special/parrot-hq-1.json+entities/35/settings/event/1/text+%23512
+msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/35/settings/event/1/text"
 msgid "[aggressive squawking]"
 msgstr "[агрессивное кудахтанье]"
 
-#. data/maps/jungle-city/special/parrot-hq-1.json entities/37/settings/event/35/message #501
+#. data/maps/jungle-city/special/parrot-hq-1.json entities/35/settings/event/35/message #501
 #. EventTrigger firstBattle START IF tmp.firstBattle
 #. SHOW_MSG main.lea @SHOCKED
-#: data/maps/jungle-city/special/parrot-hq-1.json+entities/37/settings/event/35/message+%23501
-msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/37/settings/event/35/message"
+#: data/maps/jungle-city/special/parrot-hq-1.json+entities/35/settings/event/35/message+%23501
+msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/35/settings/event/35/message"
 msgid "...!"
 msgstr "...!"
 
-#. data/maps/jungle-city/special/parrot-hq-1.json entities/37/settings/event/43/text #559
+#. data/maps/jungle-city/special/parrot-hq-1.json entities/35/settings/event/43/text #559
 #. EventTrigger firstBattle START IF tmp.firstBattle
 #. SHOW_AR_MSG
-#: data/maps/jungle-city/special/parrot-hq-1.json+entities/37/settings/event/43/text+%23559
-msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/37/settings/event/43/text"
+#: data/maps/jungle-city/special/parrot-hq-1.json+entities/35/settings/event/43/text+%23559
+msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/35/settings/event/43/text"
 msgid "[aggressive squawking]"
 msgstr "[агрессивное кудахтанье]"
 
-#. data/maps/jungle-city/special/parrot-hq-1.json entities/37/settings/event/44/text #513
+#. data/maps/jungle-city/special/parrot-hq-1.json entities/35/settings/event/44/text #513
 #. EventTrigger firstBattle START IF tmp.firstBattle
 #. SHOW_AR_MSG
-#: data/maps/jungle-city/special/parrot-hq-1.json+entities/37/settings/event/44/text+%23513
-msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/37/settings/event/44/text"
+#: data/maps/jungle-city/special/parrot-hq-1.json+entities/35/settings/event/44/text+%23513
+msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/35/settings/event/44/text"
 msgid "[aggressive squawking]"
 msgstr "[агрессивное кудахтанье]"
 
-#. data/maps/jungle-city/special/parrot-hq-1.json entities/38/settings/npcStates/0/event/2/message #552
+#. data/maps/jungle-city/special/parrot-hq-1.json entities/36/settings/npcStates/0/event/2/message #552
 #. NPC gangster-1-bird
 #. IF quest.jungleGuard-3-papagang_goats_1.task.1 || true
 #. SHOW_MSG main.lea @DEFAULT
-#: data/maps/jungle-city/special/parrot-hq-1.json+entities/38/settings/npcStates/0/event/2/message+%23552
+#: data/maps/jungle-city/special/parrot-hq-1.json+entities/36/settings/npcStates/0/event/2/message+%23552
+msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/36/settings/npcStates/0/event/2/message"
+msgid "Hi."
+msgstr "Привет."
+
+#. data/maps/jungle-city/special/parrot-hq-1.json entities/36/settings/npcStates/0/event/4/message #550
+#. NPC gangster-1-bird
+#. IF quest.jungleGuard-3-papagang_goats_1.task.1 || true
+#. SHOW_MSG basin.birdman-1 @DEFAULT
+#: data/maps/jungle-city/special/parrot-hq-1.json+entities/36/settings/npcStates/0/event/4/message+%23550
+msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/36/settings/npcStates/0/event/4/message"
+msgid "..."
+msgstr "..."
+
+#. data/maps/jungle-city/special/parrot-hq-1.json entities/36/settings/npcStates/0/event/5/message #561
+#. NPC gangster-1-bird
+#. IF quest.jungleGuard-3-papagang_goats_1.task.1 || true
+#. SHOW_MSG main.lea @NERVOUS
+#: data/maps/jungle-city/special/parrot-hq-1.json+entities/36/settings/npcStates/0/event/5/message+%23561
+msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/36/settings/npcStates/0/event/5/message"
+msgid "Bye."
+msgstr "Пока."
+
+#. data/maps/jungle-city/special/parrot-hq-1.json entities/38/settings/npcStates/0/event/2/message #562
+#. NPC gangster-2-bird
+#. IF quest.jungleGuard-3-papagang_goats_1.task.1 || true
+#. SHOW_MSG main.lea @DEFAULT
+#: data/maps/jungle-city/special/parrot-hq-1.json+entities/38/settings/npcStates/0/event/2/message+%23562
 msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/38/settings/npcStates/0/event/2/message"
 msgid "Hi."
 msgstr "Привет."
 
-#. data/maps/jungle-city/special/parrot-hq-1.json entities/38/settings/npcStates/0/event/4/message #550
-#. NPC gangster-1-bird
+#. data/maps/jungle-city/special/parrot-hq-1.json entities/38/settings/npcStates/0/event/4/message #563
+#. NPC gangster-2-bird
 #. IF quest.jungleGuard-3-papagang_goats_1.task.1 || true
 #. SHOW_MSG basin.birdman-1 @DEFAULT
-#: data/maps/jungle-city/special/parrot-hq-1.json+entities/38/settings/npcStates/0/event/4/message+%23550
+#: data/maps/jungle-city/special/parrot-hq-1.json+entities/38/settings/npcStates/0/event/4/message+%23563
 msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/38/settings/npcStates/0/event/4/message"
 msgid "..."
 msgstr "..."
 
-#. data/maps/jungle-city/special/parrot-hq-1.json entities/38/settings/npcStates/0/event/5/message #561
-#. NPC gangster-1-bird
+#. data/maps/jungle-city/special/parrot-hq-1.json entities/38/settings/npcStates/0/event/5/message #564
+#. NPC gangster-2-bird
 #. IF quest.jungleGuard-3-papagang_goats_1.task.1 || true
 #. SHOW_MSG main.lea @NERVOUS
-#: data/maps/jungle-city/special/parrot-hq-1.json+entities/38/settings/npcStates/0/event/5/message+%23561
+#: data/maps/jungle-city/special/parrot-hq-1.json+entities/38/settings/npcStates/0/event/5/message+%23564
 msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/38/settings/npcStates/0/event/5/message"
 msgid "Bye."
 msgstr "Пока."
 
-#. data/maps/jungle-city/special/parrot-hq-1.json entities/40/settings/npcStates/0/event/2/message #562
-#. NPC gangster-2-bird
-#. IF quest.jungleGuard-3-papagang_goats_1.task.1 || true
-#. SHOW_MSG main.lea @DEFAULT
-#: data/maps/jungle-city/special/parrot-hq-1.json+entities/40/settings/npcStates/0/event/2/message+%23562
-msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/40/settings/npcStates/0/event/2/message"
-msgid "Hi."
-msgstr "Привет."
-
-#. data/maps/jungle-city/special/parrot-hq-1.json entities/40/settings/npcStates/0/event/4/message #563
-#. NPC gangster-2-bird
-#. IF quest.jungleGuard-3-papagang_goats_1.task.1 || true
-#. SHOW_MSG basin.birdman-1 @DEFAULT
-#: data/maps/jungle-city/special/parrot-hq-1.json+entities/40/settings/npcStates/0/event/4/message+%23563
-msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/40/settings/npcStates/0/event/4/message"
-msgid "..."
-msgstr "..."
-
-#. data/maps/jungle-city/special/parrot-hq-1.json entities/40/settings/npcStates/0/event/5/message #564
-#. NPC gangster-2-bird
-#. IF quest.jungleGuard-3-papagang_goats_1.task.1 || true
-#. SHOW_MSG main.lea @NERVOUS
-#: data/maps/jungle-city/special/parrot-hq-1.json+entities/40/settings/npcStates/0/event/5/message+%23564
-msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/40/settings/npcStates/0/event/5/message"
-msgid "Bye."
-msgstr "Пока."
-
-#. data/maps/jungle-city/special/parrot-hq-1.json entities/41/settings/event/10/text #436
+#. data/maps/jungle-city/special/parrot-hq-1.json entities/39/settings/event/11/text #436
 #. EventTrigger firstBattle-end START IF tmp.enemyCounter >= 3
 #. SHOW_BOARD_MSG
-#: data/maps/jungle-city/special/parrot-hq-1.json+entities/41/settings/event/10/text+%23436
-msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/41/settings/event/10/text"
+#: data/maps/jungle-city/special/parrot-hq-1.json+entities/39/settings/event/11/text+%23436
+msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/39/settings/event/11/text"
 msgid "The \\c[3]items and money\\c[0] lost in the scam have been retrieved!"
 msgstr ""
 
@@ -13036,12 +13064,12 @@ msgctxt "data/maps/jungle-city/special/parrot-hq-2.json//entities/78/settings/ev
 msgid "[Angry bird noises]"
 msgstr "[злое щебетание]"
 
-#. data/maps/jungle-city/special/parrot-hq-2.json entities/78/settings/event/3/startAction/1/text #568
+#. data/maps/jungle-city/special/parrot-hq-2.json entities/78/settings/event/3/startAction/2/text #568
 #. EventTrigger firstBattle-reinforcements START IF tmp.fight1-counter >= 3
 #. SPAWN_ENEMY
 #. SHOW_AR_MSG
-#: data/maps/jungle-city/special/parrot-hq-2.json+entities/78/settings/event/3/startAction/1/text+%23568
-msgctxt "data/maps/jungle-city/special/parrot-hq-2.json//entities/78/settings/event/3/startAction/1/text"
+#: data/maps/jungle-city/special/parrot-hq-2.json+entities/78/settings/event/3/startAction/2/text+%23568
+msgctxt "data/maps/jungle-city/special/parrot-hq-2.json//entities/78/settings/event/3/startAction/2/text"
 msgid "[Angry goat noises]"
 msgstr ""
 
@@ -13054,12 +13082,12 @@ msgctxt "data/maps/jungle-city/special/parrot-hq-2.json//entities/78/settings/ev
 msgid "[Angry bird noises]"
 msgstr "[злое щебетание]"
 
-#. data/maps/jungle-city/special/parrot-hq-2.json entities/78/settings/event/9/startAction/1/text #570
+#. data/maps/jungle-city/special/parrot-hq-2.json entities/78/settings/event/9/startAction/2/text #570
 #. EventTrigger firstBattle-reinforcements START IF tmp.fight1-counter >= 3
 #. SPAWN_ENEMY
 #. SHOW_AR_MSG
-#: data/maps/jungle-city/special/parrot-hq-2.json+entities/78/settings/event/9/startAction/1/text+%23570
-msgctxt "data/maps/jungle-city/special/parrot-hq-2.json//entities/78/settings/event/9/startAction/1/text"
+#: data/maps/jungle-city/special/parrot-hq-2.json+entities/78/settings/event/9/startAction/2/text+%23570
+msgctxt "data/maps/jungle-city/special/parrot-hq-2.json//entities/78/settings/event/9/startAction/2/text"
 msgid "[Angry goat noises]"
 msgstr ""
 
@@ -13106,89 +13134,179 @@ msgctxt "data/maps/jungle-city/special/parrot-hq-2.json//entities/147/settings/a
 msgid "Barkeep"
 msgstr ""
 
-#. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/8/settings/states/1/action/0/text #10
-#. DynamicPlatform platform3
-#. IF tmp.platform2-done
-#. SHOW_AR_MSG
-#: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/8/settings/states/1/action/0/text+%2310
-msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/8/settings/states/1/action/0/text"
-msgid "\\v[tmp.platformDelayString]"
-msgstr "\\v[tmp.platformDelayString]"
-
-#. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/8/settings/states/1/action/8/text #19
-#. DynamicPlatform platform3
-#. IF tmp.platform2-done
-#. SHOW_AR_MSG
-#: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/8/settings/states/1/action/8/text+%2319
-msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/8/settings/states/1/action/8/text"
-msgid "\\v[tmp.platformWaitString]"
-msgstr "\\v[tmp.platformWaitString]"
-
-#. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/15/settings/event/1/thenStep/1/action/0/text #53
-#. EventTrigger playerReturner START IF tmp.cratingStarted && !tmp.playerReturning
-#. IF ((tmp.playerPos.x <= 510) || (tmp.playerPos.x >= 1120) || (tmp.playerPos.y <= 352) || (tmp.playerPos.y >= 1008)) && (tmp.playerPos.z >= 0)
-#. DO_ACTION
-#. SHOW_AR_MSG
-#: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/15/settings/event/1/thenStep/1/action/0/text+%2353
-msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/15/settings/event/1/thenStep/1/action/0/text"
-msgid "Return to Roof"
-msgstr "Вернуться на крышу"
-
-#. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/16/settings/states/1/action/0/text #8
-#. DynamicPlatform platform1 SPAWN IF !tmp.sceneCrate && !(quest.jungleGuard-3-papagang_goats_1.task.5 || quest.jungleGuard-3-papagang_goats_1.solved)
-#. IF tmp.cratingStarted
-#. SHOW_AR_MSG
-#: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/16/settings/states/1/action/0/text+%238
-msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/16/settings/states/1/action/0/text"
-msgid "\\v[tmp.platformDelayString]"
-msgstr "\\v[tmp.platformDelayString]"
-
-#. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/16/settings/states/1/action/8/text #14
-#. DynamicPlatform platform1 SPAWN IF !tmp.sceneCrate && !(quest.jungleGuard-3-papagang_goats_1.task.5 || quest.jungleGuard-3-papagang_goats_1.solved)
-#. IF tmp.cratingStarted
-#. SHOW_AR_MSG
-#: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/16/settings/states/1/action/8/text+%2314
-msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/16/settings/states/1/action/8/text"
-msgid "\\v[tmp.platformWaitString]"
-msgstr "\\v[tmp.platformWaitString]"
-
-#. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/17/settings/analyzable/text #423
+#. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/12/settings/analyzable/text #423
 #. NPC pet-goat
-#: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/17/settings/analyzable/text+%23423
-msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/17/settings/analyzable/text"
-msgid "Kid Goat Zira"
+#: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/12/settings/analyzable/text+%23423
+msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/12/settings/analyzable/text"
+msgid "Is that...?"
 msgstr "Козлёнок Зира"
 
-#. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/20/settings/event/8/message #562
-#. EventTrigger bossBattle START IF tmp.touchScene1
-#. SHOW_MSG main.lea @DETERMINED
-#: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/20/settings/event/8/message+%23562
-msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/20/settings/event/8/message"
-msgid "Lea!\\. Wait!"
+#. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/14/settings/event/2/message #651
+#. EventTrigger bossBattle START IF tmp.touchScene1 && !quest.jungleGuard-3-papagang_goats_1.task.4 && !quest.jungleGuard-3-papagang_goats_1.solved
+#. SHOW_MSG main.lea @SURPRISED
+#: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/14/settings/event/2/message+%23651
+msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/14/settings/event/2/message"
+msgid "...!"
 msgstr ""
 
-#. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/20/settings/event/10/text #563
-#. EventTrigger bossBattle START IF tmp.touchScene1
+#. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/14/settings/event/14/message #42
+#. EventTrigger bossBattle START IF tmp.touchScene1 && !quest.jungleGuard-3-papagang_goats_1.task.4 && !quest.jungleGuard-3-papagang_goats_1.solved
+#. SHOW_MSG main.lea @SURPRISED_TOWARD
+#: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/14/settings/event/14/message+%2342
+msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/14/settings/event/14/message"
+msgid "Hi!?"
+msgstr ""
+
+#. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/14/settings/event/15/text #496
+#. EventTrigger bossBattle START IF tmp.touchScene1 && !quest.jungleGuard-3-papagang_goats_1.task.4 && !quest.jungleGuard-3-papagang_goats_1.solved
 #. SHOW_AR_MSG
-#: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/20/settings/event/10/text+%23563
-msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/20/settings/event/10/text"
-msgid "[disrespectful bird noises]"
+#: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/14/settings/event/15/text+%23496
+msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/14/settings/event/15/text"
+msgid "[cheerful goat noises]"
 msgstr ""
 
-#. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/20/settings/event/11/message #564
-#. EventTrigger bossBattle START IF tmp.touchScene1
-#. SHOW_MSG main.lea @ANNOYED
-#: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/20/settings/event/11/message+%23564
-msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/20/settings/event/11/message"
+#. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/14/settings/event/17/text #497
+#. EventTrigger bossBattle START IF tmp.touchScene1 && !quest.jungleGuard-3-papagang_goats_1.task.4 && !quest.jungleGuard-3-papagang_goats_1.solved
+#. SHOW_DREAM_MSG
+#: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/14/settings/event/17/text+%23497
+msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/14/settings/event/17/text"
+msgid "\\v[lore.title.seeker]!\\. Nice greetings!"
+msgstr ""
+
+#. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/14/settings/event/19/message #562
+#. EventTrigger bossBattle START IF tmp.touchScene1 && !quest.jungleGuard-3-papagang_goats_1.task.4 && !quest.jungleGuard-3-papagang_goats_1.solved
+#. SHOW_MSG main.lea @EXCITED
+#: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/14/settings/event/19/message+%23562
+msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/14/settings/event/19/message"
+msgid "Lea!\\. Hi!"
+msgstr ""
+
+#. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/14/settings/event/20/message #653
+#. EventTrigger bossBattle START IF tmp.touchScene1 && !quest.jungleGuard-3-papagang_goats_1.task.4 && !quest.jungleGuard-3-papagang_goats_1.solved
+#. SHOW_MSG main.lea @THINKING
+#: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/14/settings/event/20/message+%23653
+msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/14/settings/event/20/message"
+msgid "..."
+msgstr ""
+
+#. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/14/settings/event/21/message #654
+#. EventTrigger bossBattle START IF tmp.touchScene1 && !quest.jungleGuard-3-papagang_goats_1.task.4 && !quest.jungleGuard-3-papagang_goats_1.solved
+#. SHOW_MSG main.lea @SURPRISED_TOWARD
+#: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/14/settings/event/21/message+%23654
+msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/14/settings/event/21/message"
+msgid "... How?\\. Why?"
+msgstr ""
+
+#. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/14/settings/event/23/text #655
+#. EventTrigger bossBattle START IF tmp.touchScene1 && !quest.jungleGuard-3-papagang_goats_1.task.4 && !quest.jungleGuard-3-papagang_goats_1.solved
+#. SHOW_AR_MSG
+#: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/14/settings/event/23/text+%23655
+msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/14/settings/event/23/text"
+msgid "[hesitant goat noises]"
+msgstr ""
+
+#. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/14/settings/event/25/text #656
+#. EventTrigger bossBattle START IF tmp.touchScene1 && !quest.jungleGuard-3-papagang_goats_1.task.4 && !quest.jungleGuard-3-papagang_goats_1.solved
+#. SHOW_DREAM_MSG
+#: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/14/settings/event/25/text+%23656
+msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/14/settings/event/25/text"
+msgid "Oh...\\.\\. I am sorry, \\v[lore.title.seeker]."
+msgstr ""
+
+#. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/14/settings/event/27/message #564
+#. EventTrigger bossBattle START IF tmp.touchScene1 && !quest.jungleGuard-3-papagang_goats_1.task.4 && !quest.jungleGuard-3-papagang_goats_1.solved
+#. SHOW_MSG main.lea @NERVOUS
+#: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/14/settings/event/27/message+%23564
+msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/14/settings/event/27/message"
 msgid "... Why?"
 msgstr "...Почему?"
 
-#. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/20/settings/event/13/text #565
-#. EventTrigger bossBattle START IF tmp.touchScene1
+#. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/14/settings/event/33/text #658
+#. EventTrigger bossBattle START IF tmp.touchScene1 && !quest.jungleGuard-3-papagang_goats_1.task.4 && !quest.jungleGuard-3-papagang_goats_1.solved
 #. SHOW_AR_MSG
-#: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/20/settings/event/13/text+%23565
-msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/20/settings/event/13/text"
-msgid "[curses of the bird variety]"
+#: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/14/settings/event/33/text+%23658
+msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/14/settings/event/33/text"
+msgid "[sad goat noises]"
+msgstr ""
+
+#. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/14/settings/event/35/text #659
+#. EventTrigger bossBattle START IF tmp.touchScene1 && !quest.jungleGuard-3-papagang_goats_1.task.4 && !quest.jungleGuard-3-papagang_goats_1.solved
+#. SHOW_DREAM_MSG
+#: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/14/settings/event/35/text+%23659
+msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/14/settings/event/35/text"
+msgid "Much happened.\\. I must go."
+msgstr ""
+
+#. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/14/settings/event/37/message #660
+#. EventTrigger bossBattle START IF tmp.touchScene1 && !quest.jungleGuard-3-papagang_goats_1.task.4 && !quest.jungleGuard-3-papagang_goats_1.solved
+#. SHOW_MSG main.lea @NERVOUS
+#: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/14/settings/event/37/message+%23660
+msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/14/settings/event/37/message"
+msgid "Wait!"
+msgstr ""
+
+#. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/14/settings/event/49/text #563
+#. EventTrigger bossBattle START IF tmp.touchScene1 && !quest.jungleGuard-3-papagang_goats_1.task.4 && !quest.jungleGuard-3-papagang_goats_1.solved
+#. SHOW_AR_MSG
+#: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/14/settings/event/49/text+%23563
+msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/14/settings/event/49/text"
+msgid "[aggressive bird noises]"
+msgstr ""
+
+#. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/14/settings/event/54/message #662
+#. EventTrigger bossBattle START IF tmp.touchScene1 && !quest.jungleGuard-3-papagang_goats_1.task.4 && !quest.jungleGuard-3-papagang_goats_1.solved
+#. SHOW_MSG main.lea @ANNOYED
+#: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/14/settings/event/54/message+%23662
+msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/14/settings/event/54/message"
+msgid "...How?\\. Why?"
+msgstr ""
+
+#. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/14/settings/event/64/text #664
+#. EventTrigger bossBattle START IF tmp.touchScene1 && !quest.jungleGuard-3-papagang_goats_1.task.4 && !quest.jungleGuard-3-papagang_goats_1.solved
+#. SHOW_AR_MSG
+#: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/14/settings/event/64/text+%23664
+msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/14/settings/event/64/text"
+msgid "[sad goatbye noises]"
+msgstr ""
+
+#. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/14/settings/event/66/text #665
+#. EventTrigger bossBattle START IF tmp.touchScene1 && !quest.jungleGuard-3-papagang_goats_1.task.4 && !quest.jungleGuard-3-papagang_goats_1.solved
+#. SHOW_DREAM_MSG
+#: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/14/settings/event/66/text+%23665
+msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/14/settings/event/66/text"
+msgid "Goodbye, \\v[lore.title.seeker]!"
+msgstr ""
+
+#. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/14/settings/event/69/message #666
+#. EventTrigger bossBattle START IF tmp.touchScene1 && !quest.jungleGuard-3-papagang_goats_1.task.4 && !quest.jungleGuard-3-papagang_goats_1.solved
+#. SHOW_MSG main.lea @SHOCKED
+#: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/14/settings/event/69/message+%23666
+msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/14/settings/event/69/message"
+msgid "Wait!"
+msgstr ""
+
+#. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/14/settings/event/86/text #661
+#. EventTrigger bossBattle START IF tmp.touchScene1 && !quest.jungleGuard-3-papagang_goats_1.task.4 && !quest.jungleGuard-3-papagang_goats_1.solved
+#. SHOW_AR_MSG
+#: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/14/settings/event/86/text+%23661
+msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/14/settings/event/86/text"
+msgid "[mocking bird noises]"
+msgstr ""
+
+#. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/14/settings/event/93/message #667
+#. EventTrigger bossBattle START IF tmp.touchScene1 && !quest.jungleGuard-3-papagang_goats_1.task.4 && !quest.jungleGuard-3-papagang_goats_1.solved
+#. SHOW_MSG main.lea @EXHAUSTED
+#: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/14/settings/event/93/message+%23667
+msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/14/settings/event/93/message"
+msgid "... Whyyyy?"
+msgstr ""
+
+#. data/maps/jungle-city/special/parrot-hq-rooftop-1.json entities/14/settings/event/94/message #663
+#. EventTrigger bossBattle START IF tmp.touchScene1 && !quest.jungleGuard-3-papagang_goats_1.task.4 && !quest.jungleGuard-3-papagang_goats_1.solved
+#. SHOW_MSG main.lea @DETERMINED
+#: data/maps/jungle-city/special/parrot-hq-rooftop-1.json+entities/14/settings/event/94/message+%23663
+msgctxt "data/maps/jungle-city/special/parrot-hq-rooftop-1.json//entities/14/settings/event/94/message"
+msgid "Meet...\\. Lea!\\.\\. Sorry!"
 msgstr ""
 
 #. data/maps/jungle-city/west.json entities/329/settings/analyzable/text #247

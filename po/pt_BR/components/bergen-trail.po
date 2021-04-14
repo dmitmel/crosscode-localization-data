@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.4.0-4\n"
+"Project-Id-Version: crosscode 1.4.1-2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-27 11:10+0000\n"
-"PO-Revision-Date: 2021-03-27 11:10+0000\n"
+"POT-Creation-Date: 2021-04-14 01:09+0000\n"
+"POT-Revision-Date: 2021-04-14 01:09+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: pt_BR\n"
@@ -593,19 +593,19 @@ msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/35/settings
 msgid "[cheerful goat noises]"
 msgstr ""
 
-#. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/35/settings/event/53/text #497
+#. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/35/settings/event/54/text #497
 #. EventTrigger lastScene-goatTalk START IF quest.bg-2-goat_cave_1.task.4
 #. SHOW_DREAM_MSG
-#: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/35/settings/event/53/text+%23497
-msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/35/settings/event/53/text"
+#: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/35/settings/event/54/text+%23497
+msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/35/settings/event/54/text"
 msgid "Bye!"
 msgstr ""
 
-#. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/35/settings/event/55/message #498
+#. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/35/settings/event/56/message #498
 #. EventTrigger lastScene-goatTalk START IF quest.bg-2-goat_cave_1.task.4
 #. SHOW_MSG main.lea @EXCITED
-#: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/35/settings/event/55/message+%23498
-msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/35/settings/event/55/message"
+#: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/35/settings/event/56/message+%23498
+msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/35/settings/event/56/message"
 msgid "Bye!"
 msgstr ""
 
@@ -8581,75 +8581,83 @@ msgctxt "data/maps/bergen-trail/path-7-2.json//entities/276/settings/event/19/me
 msgid "So you better get these ruffians arrested now."
 msgstr ""
 
-#. data/maps/bergen-trail/path-7-2.json entities/276/settings/event/21/message #662
-#. EventTrigger goatFinal-start START IF tmp.touch-goatFinalStart
-#. SHOW_MSG main.lea @SURPRISED_TOWARD
-#: data/maps/bergen-trail/path-7-2.json+entities/276/settings/event/21/message+%23662
-msgctxt "data/maps/bergen-trail/path-7-2.json//entities/276/settings/event/21/message"
-msgid "... Meet!?"
-msgstr ""
-
-#. data/maps/bergen-trail/path-7-2.json entities/276/settings/event/22/message #663
-#. EventTrigger goatFinal-start START IF tmp.touch-goatFinalStart
-#. SHOW_MSG guards.female-small-white @DEFAULT
-#: data/maps/bergen-trail/path-7-2.json+entities/276/settings/event/22/message+%23663
-msgctxt "data/maps/bergen-trail/path-7-2.json//entities/276/settings/event/22/message"
-msgid "Me?\\. I got me my foot hurt, so keeping them in place was the best I could do.\\. I will cheer for you though!"
-msgstr ""
-
-#. data/maps/bergen-trail/path-7-2.json entities/276/settings/event/23/message #664
-#. EventTrigger goatFinal-start START IF tmp.touch-goatFinalStart
-#. SHOW_MSG main.lea @MOPING
-#: data/maps/bergen-trail/path-7-2.json+entities/276/settings/event/23/message+%23664
-msgctxt "data/maps/bergen-trail/path-7-2.json//entities/276/settings/event/23/message"
-msgid "..."
-msgstr ""
-
-#. data/maps/bergen-trail/path-7-2.json entities/276/settings/event/36/name #660
+#. data/maps/bergen-trail/path-7-2.json entities/276/settings/event/25/name #676
 #. EventTrigger goatFinal-start START IF tmp.touch-goatFinalStart
 #. ADD_MSG_PERSON guards.female-small-white @DEFAULT
-#: data/maps/bergen-trail/path-7-2.json+entities/276/settings/event/36/name+%23660
-msgctxt "data/maps/bergen-trail/path-7-2.json//entities/276/settings/event/36/name"
+#: data/maps/bergen-trail/path-7-2.json+entities/276/settings/event/25/name+%23676
+msgctxt "data/maps/bergen-trail/path-7-2.json//entities/276/settings/event/25/name"
 msgid "Guard Petra"
 msgstr ""
 
-#. data/maps/bergen-trail/path-7-2.json entities/276/settings/event/38/message #675
+#. data/maps/bergen-trail/path-7-2.json entities/276/settings/event/27/message #662
 #. EventTrigger goatFinal-start START IF tmp.touch-goatFinalStart
-#. SHOW_MSG main.lea @SHOCKED
-#: data/maps/bergen-trail/path-7-2.json+entities/276/settings/event/38/message+%23675
-msgctxt "data/maps/bergen-trail/path-7-2.json//entities/276/settings/event/38/message"
-msgid "Wait!"
+#. SHOW_MSG main.lea @SURPRISED_TOWARD
+#: data/maps/bergen-trail/path-7-2.json+entities/276/settings/event/27/message+%23662
+msgctxt "data/maps/bergen-trail/path-7-2.json//entities/276/settings/event/27/message"
+msgid "... Meet!?"
 msgstr ""
 
-#. data/maps/bergen-trail/path-7-2.json entities/276/settings/event/39/message #427
+#. data/maps/bergen-trail/path-7-2.json entities/276/settings/event/28/message #663
 #. EventTrigger goatFinal-start START IF tmp.touch-goatFinalStart
 #. SHOW_MSG guards.female-small-white @DEFAULT
-#: data/maps/bergen-trail/path-7-2.json+entities/276/settings/event/39/message+%23427
-msgctxt "data/maps/bergen-trail/path-7-2.json//entities/276/settings/event/39/message"
-msgid "Arr, curses, that crate got away!\\. Who knows what darn things were inside!"
+#: data/maps/bergen-trail/path-7-2.json+entities/276/settings/event/28/message+%23663
+msgctxt "data/maps/bergen-trail/path-7-2.json//entities/276/settings/event/28/message"
+msgid "Me?\\. I got me my foot hurt, so keeping them in place was the best I could do.\\. I will cheer for you though!"
 msgstr ""
 
-#. data/maps/bergen-trail/path-7-2.json entities/276/settings/event/40/message #665
+#. data/maps/bergen-trail/path-7-2.json entities/276/settings/event/29/message #664
 #. EventTrigger goatFinal-start START IF tmp.touch-goatFinalStart
-#. SHOW_MSG main.lea @NERVOUS
-#: data/maps/bergen-trail/path-7-2.json+entities/276/settings/event/40/message+%23665
-msgctxt "data/maps/bergen-trail/path-7-2.json//entities/276/settings/event/40/message"
+#. SHOW_MSG main.lea @MOPING
+#: data/maps/bergen-trail/path-7-2.json+entities/276/settings/event/29/message+%23664
+msgctxt "data/maps/bergen-trail/path-7-2.json//entities/276/settings/event/29/message"
 msgid "..."
 msgstr ""
 
-#. data/maps/bergen-trail/path-7-2.json entities/276/settings/event/41/message #666
+#. data/maps/bergen-trail/path-7-2.json entities/276/settings/event/42/name #660
+#. EventTrigger goatFinal-start START IF tmp.touch-goatFinalStart
+#. ADD_MSG_PERSON guards.female-small-white @DEFAULT
+#: data/maps/bergen-trail/path-7-2.json+entities/276/settings/event/42/name+%23660
+msgctxt "data/maps/bergen-trail/path-7-2.json//entities/276/settings/event/42/name"
+msgid "Guard Petra"
+msgstr ""
+
+#. data/maps/bergen-trail/path-7-2.json entities/276/settings/event/44/message #675
+#. EventTrigger goatFinal-start START IF tmp.touch-goatFinalStart
+#. SHOW_MSG main.lea @SHOCKED
+#: data/maps/bergen-trail/path-7-2.json+entities/276/settings/event/44/message+%23675
+msgctxt "data/maps/bergen-trail/path-7-2.json//entities/276/settings/event/44/message"
+msgid "Wait!"
+msgstr ""
+
+#. data/maps/bergen-trail/path-7-2.json entities/276/settings/event/45/message #427
 #. EventTrigger goatFinal-start START IF tmp.touch-goatFinalStart
 #. SHOW_MSG guards.female-small-white @DEFAULT
-#: data/maps/bergen-trail/path-7-2.json+entities/276/settings/event/41/message+%23666
-msgctxt "data/maps/bergen-trail/path-7-2.json//entities/276/settings/event/41/message"
+#: data/maps/bergen-trail/path-7-2.json+entities/276/settings/event/45/message+%23427
+msgctxt "data/maps/bergen-trail/path-7-2.json//entities/276/settings/event/45/message"
+msgid "Arr, curses, that crate got away!\\. Who knows what darn things were inside!"
+msgstr ""
+
+#. data/maps/bergen-trail/path-7-2.json entities/276/settings/event/46/message #665
+#. EventTrigger goatFinal-start START IF tmp.touch-goatFinalStart
+#. SHOW_MSG main.lea @NERVOUS
+#: data/maps/bergen-trail/path-7-2.json+entities/276/settings/event/46/message+%23665
+msgctxt "data/maps/bergen-trail/path-7-2.json//entities/276/settings/event/46/message"
+msgid "..."
+msgstr ""
+
+#. data/maps/bergen-trail/path-7-2.json entities/276/settings/event/47/message #666
+#. EventTrigger goatFinal-start START IF tmp.touch-goatFinalStart
+#. SHOW_MSG guards.female-small-white @DEFAULT
+#: data/maps/bergen-trail/path-7-2.json+entities/276/settings/event/47/message+%23666
+msgctxt "data/maps/bergen-trail/path-7-2.json//entities/276/settings/event/47/message"
 msgid "Well, you better still clean up the area.\\. I must take a rest to tend to my wounds!"
 msgstr ""
 
-#. data/maps/bergen-trail/path-7-2.json entities/276/settings/event/42/message #667
+#. data/maps/bergen-trail/path-7-2.json entities/276/settings/event/48/message #667
 #. EventTrigger goatFinal-start START IF tmp.touch-goatFinalStart
 #. SHOW_MSG main.lea @NOD
-#: data/maps/bergen-trail/path-7-2.json+entities/276/settings/event/42/message+%23667
-msgctxt "data/maps/bergen-trail/path-7-2.json//entities/276/settings/event/42/message"
+#: data/maps/bergen-trail/path-7-2.json+entities/276/settings/event/48/message+%23667
+msgctxt "data/maps/bergen-trail/path-7-2.json//entities/276/settings/event/48/message"
 msgid "[nods]"
 msgstr ""
 
@@ -8738,15 +8746,15 @@ msgstr ""
 #. SHOW_MSG guards.female-small-white @DEFAULT
 #: data/maps/bergen-trail/path-7-2.json+entities/277/settings/event/29/message+%23673
 msgctxt "data/maps/bergen-trail/path-7-2.json//entities/277/settings/event/29/message"
-msgid "Well, gotta bounce and get some time off.\\. Good luck, \\v[lore.title.seeker]"
+msgid "Well, gotta bounce and get some time off.\\. Cheerio, \\v[lore.title.seeker]!"
 msgstr ""
 
-#. data/maps/bergen-trail/path-7-2.json entities/277/settings/event/33/message #674
+#. data/maps/bergen-trail/path-7-2.json entities/277/settings/event/35/message #674
 #. EventTrigger goatFinal-end START IF tmp.goatGroup >= 3
 #. SHOW_MSG main.lea @DEFAULT
-#: data/maps/bergen-trail/path-7-2.json+entities/277/settings/event/33/message+%23674
-msgctxt "data/maps/bergen-trail/path-7-2.json//entities/277/settings/event/33/message"
-msgid "... bye"
+#: data/maps/bergen-trail/path-7-2.json+entities/277/settings/event/35/message+%23674
+msgctxt "data/maps/bergen-trail/path-7-2.json//entities/277/settings/event/35/message"
+msgid "... bye."
 msgstr ""
 
 #. data/maps/bergen-trail/path-7-2.json entities/279/settings/analyzable/text #430

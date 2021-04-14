@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.4.0-4\n"
+"Project-Id-Version: crosscode 1.4.1-2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-27 11:09+0000\n"
-"PO-Revision-Date: 2021-03-27 11:09+0000\n"
+"POT-Creation-Date: 2021-04-14 01:10+0000\n"
+"POT-Revision-Date: 2021-04-14 01:10+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: uk_UA\n"
@@ -5127,7 +5127,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/1/event/quest/0/name #507
 #. NPC leader-sterling
-#. IF !quest.bg-1-lost_pet.started
+#. IF !quest.bg-1-lost_pet.started && !quest.bg-1-lost_pet.solved
 #. ADD_MSG_PERSON guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/1/event/quest/0/name+%23507
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/1/event/quest/0/name"
@@ -5136,7 +5136,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/1/event/quest/2/message #42
 #. NPC leader-sterling
-#. IF !quest.bg-1-lost_pet.started
+#. IF !quest.bg-1-lost_pet.started && !quest.bg-1-lost_pet.solved
 #. SHOW_MSG main.lea @EXCITED
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/1/event/quest/2/message+%2342
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/1/event/quest/2/message"
@@ -5145,7 +5145,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/1/event/quest/3/message #426
 #. NPC leader-sterling
-#. IF !quest.bg-1-lost_pet.started
+#. IF !quest.bg-1-lost_pet.started && !quest.bg-1-lost_pet.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/1/event/quest/3/message+%23426
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/1/event/quest/3/message"
@@ -5154,7 +5154,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/1/event/quest/4/message #436
 #. NPC leader-sterling
-#. IF !quest.bg-1-lost_pet.started
+#. IF !quest.bg-1-lost_pet.started && !quest.bg-1-lost_pet.solved
 #. SHOW_MSG main.lea @SURPRISED_TOWARD
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/1/event/quest/4/message+%23436
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/1/event/quest/4/message"
@@ -5163,7 +5163,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/1/event/quest/5/message #46
 #. NPC leader-sterling
-#. IF !quest.bg-1-lost_pet.started
+#. IF !quest.bg-1-lost_pet.started && !quest.bg-1-lost_pet.solved
 #. SHOW_MSG main.lea @NOD
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/1/event/quest/5/message+%2346
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/1/event/quest/5/message"
@@ -5172,7 +5172,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/1/event/quest/6/message #437
 #. NPC leader-sterling
-#. IF !quest.bg-1-lost_pet.started
+#. IF !quest.bg-1-lost_pet.started && !quest.bg-1-lost_pet.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/1/event/quest/6/message+%23437
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/1/event/quest/6/message"
@@ -5181,7 +5181,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/1/event/quest/7/message #438
 #. NPC leader-sterling
-#. IF !quest.bg-1-lost_pet.started
+#. IF !quest.bg-1-lost_pet.started && !quest.bg-1-lost_pet.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/1/event/quest/7/message+%23438
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/1/event/quest/7/message"
@@ -5190,7 +5190,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/1/event/quest/8/message #443
 #. NPC leader-sterling
-#. IF !quest.bg-1-lost_pet.started
+#. IF !quest.bg-1-lost_pet.started && !quest.bg-1-lost_pet.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/1/event/quest/8/message+%23443
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/1/event/quest/8/message"
@@ -5199,7 +5199,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/1/event/quest/9/message #444
 #. NPC leader-sterling
-#. IF !quest.bg-1-lost_pet.started
+#. IF !quest.bg-1-lost_pet.started && !quest.bg-1-lost_pet.solved
 #. SHOW_MSG main.lea @DETERMINED
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/1/event/quest/9/message+%23444
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/1/event/quest/9/message"
@@ -5208,7 +5208,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/1/event/quest/10/message #445
 #. NPC leader-sterling
-#. IF !quest.bg-1-lost_pet.started
+#. IF !quest.bg-1-lost_pet.started && !quest.bg-1-lost_pet.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/1/event/quest/10/message+%23445
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/1/event/quest/10/message"
@@ -5217,7 +5217,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/1/event/quest/11/accepted/0/message #439
 #. NPC leader-sterling
-#. IF !quest.bg-1-lost_pet.started
+#. IF !quest.bg-1-lost_pet.started && !quest.bg-1-lost_pet.solved
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @NOD
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/1/event/quest/11/accepted/0/message+%23439
@@ -5227,7 +5227,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/1/event/quest/11/accepted/1/message #446
 #. NPC leader-sterling
-#. IF !quest.bg-1-lost_pet.started
+#. IF !quest.bg-1-lost_pet.started && !quest.bg-1-lost_pet.solved
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/1/event/quest/11/accepted/1/message+%23446
@@ -5237,7 +5237,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/1/event/quest/11/accepted/2/message #447
 #. NPC leader-sterling
-#. IF !quest.bg-1-lost_pet.started
+#. IF !quest.bg-1-lost_pet.started && !quest.bg-1-lost_pet.solved
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @SMILE
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/1/event/quest/11/accepted/2/message+%23447
@@ -5247,7 +5247,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/1/event/quest/11/accepted/3/message #448
 #. NPC leader-sterling
-#. IF !quest.bg-1-lost_pet.started
+#. IF !quest.bg-1-lost_pet.started && !quest.bg-1-lost_pet.solved
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/1/event/quest/11/accepted/3/message+%23448
@@ -5257,7 +5257,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/1/event/quest/11/accepted/4/message #449
 #. NPC leader-sterling
-#. IF !quest.bg-1-lost_pet.started
+#. IF !quest.bg-1-lost_pet.started && !quest.bg-1-lost_pet.solved
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @SURPRISED_TOWARD
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/1/event/quest/11/accepted/4/message+%23449
@@ -5267,7 +5267,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/1/event/quest/11/accepted/5/message #450
 #. NPC leader-sterling
-#. IF !quest.bg-1-lost_pet.started
+#. IF !quest.bg-1-lost_pet.started && !quest.bg-1-lost_pet.solved
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/1/event/quest/11/accepted/5/message+%23450
@@ -5277,7 +5277,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/1/event/quest/11/accepted/6/message #451
 #. NPC leader-sterling
-#. IF !quest.bg-1-lost_pet.started
+#. IF !quest.bg-1-lost_pet.started && !quest.bg-1-lost_pet.solved
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/1/event/quest/11/accepted/6/message+%23451
@@ -5287,7 +5287,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/1/event/quest/11/accepted/7/message #452
 #. NPC leader-sterling
-#. IF !quest.bg-1-lost_pet.started
+#. IF !quest.bg-1-lost_pet.started && !quest.bg-1-lost_pet.solved
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @ANNOYED
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/1/event/quest/11/accepted/7/message+%23452
@@ -5297,7 +5297,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/1/event/quest/11/accepted/8/message #453
 #. NPC leader-sterling
-#. IF !quest.bg-1-lost_pet.started
+#. IF !quest.bg-1-lost_pet.started && !quest.bg-1-lost_pet.solved
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/1/event/quest/11/accepted/8/message+%23453
@@ -5307,7 +5307,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/1/event/quest/11/accepted/9/message #454
 #. NPC leader-sterling
-#. IF !quest.bg-1-lost_pet.started
+#. IF !quest.bg-1-lost_pet.started && !quest.bg-1-lost_pet.solved
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @DETERMINED
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/1/event/quest/11/accepted/9/message+%23454
@@ -5317,7 +5317,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/1/event/quest/11/declined/0/message #50
 #. NPC leader-sterling
-#. IF !quest.bg-1-lost_pet.started
+#. IF !quest.bg-1-lost_pet.started && !quest.bg-1-lost_pet.solved
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @SHAKE
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/1/event/quest/11/declined/0/message+%2350
@@ -5327,7 +5327,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/1/event/quest/11/declined/1/message #455
 #. NPC leader-sterling
-#. IF !quest.bg-1-lost_pet.started
+#. IF !quest.bg-1-lost_pet.started && !quest.bg-1-lost_pet.solved
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/1/event/quest/11/declined/1/message+%23455
@@ -5337,7 +5337,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/1/event/quest/11/declined/2/message #456
 #. NPC leader-sterling
-#. IF !quest.bg-1-lost_pet.started
+#. IF !quest.bg-1-lost_pet.started && !quest.bg-1-lost_pet.solved
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/1/event/quest/11/declined/2/message+%23456
@@ -5347,7 +5347,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/1/event/quest/11/declined/3/message #336
 #. NPC leader-sterling
-#. IF !quest.bg-1-lost_pet.started
+#. IF !quest.bg-1-lost_pet.started && !quest.bg-1-lost_pet.solved
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @MOPING
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/1/event/quest/11/declined/3/message+%23336
@@ -5393,7 +5393,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/3/event/quest/0/name #509
 #. NPC leader-sterling
-#. IF quest.bg-1-lost_pet.task.4
+#. IF quest.bg-1-lost_pet.task.4 && !quest.bg-1-lost_pet.solved
 #. ADD_MSG_PERSON guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/3/event/quest/0/name+%23509
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/3/event/quest/0/name"
@@ -5402,7 +5402,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/3/event/quest/2/message #337
 #. NPC leader-sterling
-#. IF quest.bg-1-lost_pet.task.4
+#. IF quest.bg-1-lost_pet.task.4 && !quest.bg-1-lost_pet.solved
 #. SHOW_MSG main.lea @PROUD
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/3/event/quest/2/message+%23337
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/3/event/quest/2/message"
@@ -5411,7 +5411,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/3/event/quest/3/message #434
 #. NPC leader-sterling
-#. IF quest.bg-1-lost_pet.task.4
+#. IF quest.bg-1-lost_pet.task.4 && !quest.bg-1-lost_pet.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/3/event/quest/3/message+%23434
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/3/event/quest/3/message"
@@ -5420,7 +5420,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/3/event/quest/4/message #460
 #. NPC leader-sterling
-#. IF quest.bg-1-lost_pet.task.4
+#. IF quest.bg-1-lost_pet.task.4 && !quest.bg-1-lost_pet.solved
 #. SHOW_MSG main.lea @NOD
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/3/event/quest/4/message+%23460
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/3/event/quest/4/message"
@@ -5429,7 +5429,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/3/event/quest/5/message #461
 #. NPC leader-sterling
-#. IF quest.bg-1-lost_pet.task.4
+#. IF quest.bg-1-lost_pet.task.4 && !quest.bg-1-lost_pet.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/3/event/quest/5/message+%23461
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/3/event/quest/5/message"
@@ -5438,7 +5438,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/3/event/quest/6/message #462
 #. NPC leader-sterling
-#. IF quest.bg-1-lost_pet.task.4
+#. IF quest.bg-1-lost_pet.task.4 && !quest.bg-1-lost_pet.solved
 #. SHOW_MSG main.lea @SURPRISED
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/3/event/quest/6/message+%23462
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/3/event/quest/6/message"
@@ -5447,7 +5447,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/3/event/quest/7/message #463
 #. NPC leader-sterling
-#. IF quest.bg-1-lost_pet.task.4
+#. IF quest.bg-1-lost_pet.task.4 && !quest.bg-1-lost_pet.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/3/event/quest/7/message+%23463
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/3/event/quest/7/message"
@@ -5456,7 +5456,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/3/event/quest/8/message #464
 #. NPC leader-sterling
-#. IF quest.bg-1-lost_pet.task.4
+#. IF quest.bg-1-lost_pet.task.4 && !quest.bg-1-lost_pet.solved
 #. SHOW_MSG main.lea @ANNOYED
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/3/event/quest/8/message+%23464
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/3/event/quest/8/message"
@@ -5465,7 +5465,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/3/event/quest/9/message #465
 #. NPC leader-sterling
-#. IF quest.bg-1-lost_pet.task.4
+#. IF quest.bg-1-lost_pet.task.4 && !quest.bg-1-lost_pet.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/3/event/quest/9/message+%23465
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/3/event/quest/9/message"
@@ -5474,7 +5474,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/3/event/quest/10/message #466
 #. NPC leader-sterling
-#. IF quest.bg-1-lost_pet.task.4
+#. IF quest.bg-1-lost_pet.task.4 && !quest.bg-1-lost_pet.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/3/event/quest/10/message+%23466
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/3/event/quest/10/message"
@@ -5483,7 +5483,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/3/event/quest/11/message #467
 #. NPC leader-sterling
-#. IF quest.bg-1-lost_pet.task.4
+#. IF quest.bg-1-lost_pet.task.4 && !quest.bg-1-lost_pet.solved
 #. SHOW_MSG main.lea @SHOCKED
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/3/event/quest/11/message+%23467
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/3/event/quest/11/message"
@@ -5492,7 +5492,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/3/event/quest/12/message #468
 #. NPC leader-sterling
-#. IF quest.bg-1-lost_pet.task.4
+#. IF quest.bg-1-lost_pet.task.4 && !quest.bg-1-lost_pet.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/3/event/quest/12/message+%23468
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/3/event/quest/12/message"
@@ -5501,7 +5501,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/3/event/quest/13/message #469
 #. NPC leader-sterling
-#. IF quest.bg-1-lost_pet.task.4
+#. IF quest.bg-1-lost_pet.task.4 && !quest.bg-1-lost_pet.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/3/event/quest/13/message+%23469
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/3/event/quest/13/message"
@@ -5510,7 +5510,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/3/event/quest/14/message #470
 #. NPC leader-sterling
-#. IF quest.bg-1-lost_pet.task.4
+#. IF quest.bg-1-lost_pet.task.4 && !quest.bg-1-lost_pet.solved
 #. SHOW_MSG main.lea @DETERMINED
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/3/event/quest/14/message+%23470
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/3/event/quest/14/message"
@@ -5519,7 +5519,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/4/event/0/name #510
 #. NPC leader-sterling
-#. IF quest.bg-1-lost_pet.task.5
+#. IF quest.bg-1-lost_pet.task.5 && !quest.bg-1-lost_pet.solved
 #. ADD_MSG_PERSON guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/4/event/0/name+%23510
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/4/event/0/name"
@@ -5528,7 +5528,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/4/event/2/message #471
 #. NPC leader-sterling
-#. IF quest.bg-1-lost_pet.task.5
+#. IF quest.bg-1-lost_pet.task.5 && !quest.bg-1-lost_pet.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/4/event/2/message+%23471
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/4/event/2/message"
@@ -5537,7 +5537,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/5/event/quest/0/name #511
 #. NPC leader-sterling
-#. IF quest.bg-1-lost_pet.task.6
+#. IF quest.bg-1-lost_pet.task.6 && !quest.bg-1-lost_pet.solved
 #. ADD_MSG_PERSON guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/5/event/quest/0/name+%23511
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/5/event/quest/0/name"
@@ -5546,7 +5546,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/5/event/quest/2/message #472
 #. NPC leader-sterling
-#. IF quest.bg-1-lost_pet.task.6
+#. IF quest.bg-1-lost_pet.task.6 && !quest.bg-1-lost_pet.solved
 #. SHOW_MSG main.lea @NERVOUS
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/5/event/quest/2/message+%23472
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/5/event/quest/2/message"
@@ -5555,7 +5555,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/5/event/quest/3/message #473
 #. NPC leader-sterling
-#. IF quest.bg-1-lost_pet.task.6
+#. IF quest.bg-1-lost_pet.task.6 && !quest.bg-1-lost_pet.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/5/event/quest/3/message+%23473
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/5/event/quest/3/message"
@@ -5564,7 +5564,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/5/event/quest/4/message #474
 #. NPC leader-sterling
-#. IF quest.bg-1-lost_pet.task.6
+#. IF quest.bg-1-lost_pet.task.6 && !quest.bg-1-lost_pet.solved
 #. SHOW_MSG main.lea @MOPING
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/5/event/quest/4/message+%23474
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/5/event/quest/4/message"
@@ -5573,7 +5573,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/5/event/quest/5/message #475
 #. NPC leader-sterling
-#. IF quest.bg-1-lost_pet.task.6
+#. IF quest.bg-1-lost_pet.task.6 && !quest.bg-1-lost_pet.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/5/event/quest/5/message+%23475
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/5/event/quest/5/message"
@@ -5582,7 +5582,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/5/event/quest/6/message #476
 #. NPC leader-sterling
-#. IF quest.bg-1-lost_pet.task.6
+#. IF quest.bg-1-lost_pet.task.6 && !quest.bg-1-lost_pet.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/5/event/quest/6/message+%23476
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/5/event/quest/6/message"
@@ -5591,7 +5591,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/5/event/quest/7/message #477
 #. NPC leader-sterling
-#. IF quest.bg-1-lost_pet.task.6
+#. IF quest.bg-1-lost_pet.task.6 && !quest.bg-1-lost_pet.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/5/event/quest/7/message+%23477
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/5/event/quest/7/message"
@@ -5600,7 +5600,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/5/event/quest/8/message #478
 #. NPC leader-sterling
-#. IF quest.bg-1-lost_pet.task.6
+#. IF quest.bg-1-lost_pet.task.6 && !quest.bg-1-lost_pet.solved
 #. SHOW_MSG main.lea @DETERMINED
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/5/event/quest/8/message+%23478
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/5/event/quest/8/message"
@@ -5609,7 +5609,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/5/event/quest/9/message #479
 #. NPC leader-sterling
-#. IF quest.bg-1-lost_pet.task.6
+#. IF quest.bg-1-lost_pet.task.6 && !quest.bg-1-lost_pet.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/5/event/quest/9/message+%23479
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/5/event/quest/9/message"
@@ -5618,7 +5618,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/5/event/quest/10/message #480
 #. NPC leader-sterling
-#. IF quest.bg-1-lost_pet.task.6
+#. IF quest.bg-1-lost_pet.task.6 && !quest.bg-1-lost_pet.solved
 #. SHOW_MSG main.lea @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/5/event/quest/10/message+%23480
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/5/event/quest/10/message"
@@ -5808,7 +5808,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/8/event/quest/0/name #514
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.task.4
+#. IF quest.bg-2-goat_cave_1.task.4 && !quest.bg-2-goat_cave_1.solved
 #. ADD_MSG_PERSON guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/8/event/quest/0/name+%23514
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/8/event/quest/0/name"
@@ -5817,7 +5817,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/8/event/quest/2/message #425
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.task.4
+#. IF quest.bg-2-goat_cave_1.task.4 && !quest.bg-2-goat_cave_1.solved
 #. SHOW_MSG main.lea @PROUD
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/8/event/quest/2/message+%23425
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/8/event/quest/2/message"
@@ -5826,7 +5826,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/8/event/quest/3/message #413
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.task.4
+#. IF quest.bg-2-goat_cave_1.task.4 && !quest.bg-2-goat_cave_1.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/8/event/quest/3/message+%23413
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/8/event/quest/3/message"
@@ -5835,7 +5835,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/8/event/quest/4/message #492
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.task.4
+#. IF quest.bg-2-goat_cave_1.task.4 && !quest.bg-2-goat_cave_1.solved
 #. SHOW_MSG main.lea @NOD
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/8/event/quest/4/message+%23492
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/8/event/quest/4/message"
@@ -5844,7 +5844,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/8/event/quest/5/message #493
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.task.4
+#. IF quest.bg-2-goat_cave_1.task.4 && !quest.bg-2-goat_cave_1.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/8/event/quest/5/message+%23493
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/8/event/quest/5/message"
@@ -5853,7 +5853,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/8/event/quest/6/message #494
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.task.4
+#. IF quest.bg-2-goat_cave_1.task.4 && !quest.bg-2-goat_cave_1.solved
 #. SHOW_MSG main.lea @ANNOYED
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/8/event/quest/6/message+%23494
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/8/event/quest/6/message"
@@ -5862,7 +5862,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/8/event/quest/7/message #495
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.task.4
+#. IF quest.bg-2-goat_cave_1.task.4 && !quest.bg-2-goat_cave_1.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/8/event/quest/7/message+%23495
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/8/event/quest/7/message"
@@ -5871,7 +5871,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/8/event/quest/8/message #496
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.task.4
+#. IF quest.bg-2-goat_cave_1.task.4 && !quest.bg-2-goat_cave_1.solved
 #. SHOW_MSG main.lea @NOD
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/8/event/quest/8/message+%23496
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/8/event/quest/8/message"
@@ -5880,7 +5880,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/8/event/quest/9/message #497
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.task.4
+#. IF quest.bg-2-goat_cave_1.task.4 && !quest.bg-2-goat_cave_1.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/8/event/quest/9/message+%23497
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/8/event/quest/9/message"
@@ -5889,7 +5889,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/8/event/quest/10/message #498
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.task.4
+#. IF quest.bg-2-goat_cave_1.task.4 && !quest.bg-2-goat_cave_1.solved
 #. SHOW_MSG main.lea @SMILE
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/8/event/quest/10/message+%23498
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/8/event/quest/10/message"
@@ -5898,7 +5898,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/8/event/quest/11/message #499
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.task.4
+#. IF quest.bg-2-goat_cave_1.task.4 && !quest.bg-2-goat_cave_1.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/8/event/quest/11/message+%23499
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/8/event/quest/11/message"
@@ -5907,7 +5907,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/8/event/quest/12/message #500
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.task.4
+#. IF quest.bg-2-goat_cave_1.task.4 && !quest.bg-2-goat_cave_1.solved
 #. SHOW_MSG main.lea @SURPRISED_TOWARD
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/8/event/quest/12/message+%23500
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/8/event/quest/12/message"
@@ -5916,7 +5916,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/8/event/quest/13/message #501
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.task.4
+#. IF quest.bg-2-goat_cave_1.task.4 && !quest.bg-2-goat_cave_1.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/8/event/quest/13/message+%23501
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/8/event/quest/13/message"
@@ -5925,7 +5925,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/8/event/quest/14/message #502
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.task.4
+#. IF quest.bg-2-goat_cave_1.task.4 && !quest.bg-2-goat_cave_1.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/8/event/quest/14/message+%23502
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/8/event/quest/14/message"
@@ -5934,7 +5934,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/8/event/quest/15/message #503
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.task.4
+#. IF quest.bg-2-goat_cave_1.task.4 && !quest.bg-2-goat_cave_1.solved
 #. SHOW_MSG main.lea @NOD
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/8/event/quest/15/message+%23503
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/8/event/quest/15/message"
@@ -5943,7 +5943,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/8/event/quest/16/message #504
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.task.4
+#. IF quest.bg-2-goat_cave_1.task.4 && !quest.bg-2-goat_cave_1.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/8/event/quest/16/message+%23504
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/8/event/quest/16/message"
@@ -5952,7 +5952,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/8/event/quest/17/message #424
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.task.4
+#. IF quest.bg-2-goat_cave_1.task.4 && !quest.bg-2-goat_cave_1.solved
 #. SHOW_MSG main.lea @SMUG
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/8/event/quest/17/message+%23424
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/8/event/quest/17/message"
@@ -5997,7 +5997,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/10/event/quest/0/name #522
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active && test
+#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active
 #. ADD_MSG_PERSON guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/10/event/quest/0/name+%23522
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/10/event/quest/0/name"
@@ -6006,7 +6006,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/10/event/quest/2/message #523
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active && test
+#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active
 #. SHOW_MSG main.lea @PROUD
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/10/event/quest/2/message+%23523
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/10/event/quest/2/message"
@@ -6015,7 +6015,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/10/event/quest/3/message #524
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active && test
+#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/10/event/quest/3/message+%23524
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/10/event/quest/3/message"
@@ -6024,7 +6024,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/10/event/quest/4/message #525
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active && test
+#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active
 #. SHOW_MSG main.lea @SMUG
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/10/event/quest/4/message+%23525
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/10/event/quest/4/message"
@@ -6033,7 +6033,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/10/event/quest/5/message #596
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active && test
+#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/10/event/quest/5/message+%23596
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/10/event/quest/5/message"
@@ -6042,7 +6042,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/10/event/quest/6/message #607
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active && test
+#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active
 #. SHOW_MSG main.lea @PROUD
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/10/event/quest/6/message+%23607
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/10/event/quest/6/message"
@@ -6051,7 +6051,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/10/event/quest/7/message #597
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active && test
+#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/10/event/quest/7/message+%23597
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/10/event/quest/7/message"
@@ -6060,7 +6060,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/10/event/quest/8/message #527
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active && test
+#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active
 #. SHOW_MSG main.lea @SURPRISED
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/10/event/quest/8/message+%23527
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/10/event/quest/8/message"
@@ -6069,7 +6069,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/10/event/quest/9/message #598
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active && test
+#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/10/event/quest/9/message+%23598
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/10/event/quest/9/message"
@@ -6078,7 +6078,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/10/event/quest/10/message #599
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active && test
+#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/10/event/quest/10/message+%23599
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/10/event/quest/10/message"
@@ -6087,7 +6087,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/10/event/quest/11/accepted/0/message #530
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active && test
+#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @NOD
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/10/event/quest/11/accepted/0/message+%23530
@@ -6097,7 +6097,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/10/event/quest/11/accepted/1/message #600
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active && test
+#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/10/event/quest/11/accepted/1/message+%23600
@@ -6107,7 +6107,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/10/event/quest/11/accepted/2/message #440
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active && test
+#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @SMILE
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/10/event/quest/11/accepted/2/message+%23440
@@ -6117,7 +6117,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/10/event/quest/11/accepted/3/message #601
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active && test
+#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/10/event/quest/11/accepted/3/message+%23601
@@ -6127,7 +6127,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/10/event/quest/11/accepted/5/message #602
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active && test
+#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/10/event/quest/11/accepted/5/message+%23602
@@ -6137,7 +6137,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/10/event/quest/11/accepted/6/message #603
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active && test
+#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/10/event/quest/11/accepted/6/message+%23603
@@ -6147,7 +6147,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/10/event/quest/11/accepted/7/message #531
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active && test
+#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @SURPRISED
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/10/event/quest/11/accepted/7/message+%23531
@@ -6157,7 +6157,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/10/event/quest/11/accepted/8/message #604
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active && test
+#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/10/event/quest/11/accepted/8/message+%23604
@@ -6167,7 +6167,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/10/event/quest/11/accepted/9/message #606
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active && test
+#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/10/event/quest/11/accepted/9/message+%23606
@@ -6175,39 +6175,49 @@ msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/n
 msgid "So please, \\v[lore.title.seeker], return to their cave and find out what happened."
 msgstr ""
 
-#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/10/event/quest/11/accepted/10/message #532
+#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/10/event/quest/11/accepted/10/message #636
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active && test
+#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active
+#. OPEN_QUEST_DIALOG
+#. SHOW_MSG guards.captain-female-hairbun @DEFAULT
+#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/10/event/quest/11/accepted/10/message+%23636
+msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/10/event/quest/11/accepted/10/message"
+msgid "And take that \\c[3]goat translator\\c[0] with you.\\. It might be useful."
+msgstr ""
+
+#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/10/event/quest/11/accepted/12/message #532
+#. NPC leader-sterling
+#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @NOD
-#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/10/event/quest/11/accepted/10/message+%23532
-msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/10/event/quest/11/accepted/10/message"
+#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/10/event/quest/11/accepted/12/message+%23532
+msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/10/event/quest/11/accepted/12/message"
 msgid "[nods]"
 msgstr ""
 
-#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/10/event/quest/11/accepted/11/message #608
+#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/10/event/quest/11/accepted/13/message #608
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active && test
+#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
-#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/10/event/quest/11/accepted/11/message+%23608
-msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/10/event/quest/11/accepted/11/message"
+#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/10/event/quest/11/accepted/13/message+%23608
+msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/10/event/quest/11/accepted/13/message"
 msgid "Good.\\. We will await your report soon."
 msgstr ""
 
-#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/10/event/quest/11/accepted/12/message #533
+#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/10/event/quest/11/accepted/14/message #533
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active && test
+#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @DEFAULT
-#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/10/event/quest/11/accepted/12/message+%23533
-msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/10/event/quest/11/accepted/12/message"
+#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/10/event/quest/11/accepted/14/message+%23533
+msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/10/event/quest/11/accepted/14/message"
 msgid "Bye."
 msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/10/event/quest/11/declined/0/message #534
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active && test
+#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @SHAKE
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/10/event/quest/11/declined/0/message+%23534
@@ -6217,7 +6227,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/10/event/quest/11/declined/1/message #535
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active && test
+#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/10/event/quest/11/declined/1/message+%23535
@@ -6227,7 +6237,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/10/event/quest/11/declined/2/message #536
 #. NPC leader-sterling
-#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active && test
+#. IF quest.bg-2-goat_cave_1.solved && quest.jungleGuard-2-crate_rooftop_1.solved && plot.line >= 32000 && !quest.bg-3-goat_final.started && extension.post-game.active
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @THINKING
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/10/event/quest/11/declined/2/message+%23536
@@ -6255,7 +6265,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/12/event/0/name #628
 #. NPC leader-sterling
-#. IF quest.bg-3-goat_final.task.1
+#. IF quest.bg-3-goat_final.task.1 && !quest.bg-3-goat_final.solved
 #. ADD_MSG_PERSON guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/12/event/0/name+%23628
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/12/event/0/name"
@@ -6264,7 +6274,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/12/event/2/message #629
 #. NPC leader-sterling
-#. IF quest.bg-3-goat_final.task.1
+#. IF quest.bg-3-goat_final.task.1 && !quest.bg-3-goat_final.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/12/event/2/message+%23629
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/12/event/2/message"
@@ -6273,7 +6283,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/12/event/3/message #630
 #. NPC leader-sterling
-#. IF quest.bg-3-goat_final.task.1
+#. IF quest.bg-3-goat_final.task.1 && !quest.bg-3-goat_final.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/12/event/3/message+%23630
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/12/event/3/message"
@@ -6282,7 +6292,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/12/event/4/message #631
 #. NPC leader-sterling
-#. IF quest.bg-3-goat_final.task.1
+#. IF quest.bg-3-goat_final.task.1 && !quest.bg-3-goat_final.solved
 #. SHOW_MSG main.lea @SURPRISED_AWAY
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/12/event/4/message+%23631
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/12/event/4/message"
@@ -6291,7 +6301,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/13/event/quest/0/name #609
 #. NPC leader-sterling
-#. IF quest.bg-3-goat_final.task.2
+#. IF quest.bg-3-goat_final.task.2 && !quest.bg-3-goat_final.solved
 #. ADD_MSG_PERSON guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/13/event/quest/0/name+%23609
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/13/event/quest/0/name"
@@ -6300,7 +6310,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/13/event/quest/2/message #613
 #. NPC leader-sterling
-#. IF quest.bg-3-goat_final.task.2
+#. IF quest.bg-3-goat_final.task.2 && !quest.bg-3-goat_final.solved
 #. SHOW_MSG main.lea @PROUD
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/13/event/quest/2/message+%23613
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/13/event/quest/2/message"
@@ -6309,7 +6319,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/13/event/quest/3/message #614
 #. NPC leader-sterling
-#. IF quest.bg-3-goat_final.task.2
+#. IF quest.bg-3-goat_final.task.2 && !quest.bg-3-goat_final.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/13/event/quest/3/message+%23614
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/13/event/quest/3/message"
@@ -6318,7 +6328,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/13/event/quest/4/message #615
 #. NPC leader-sterling
-#. IF quest.bg-3-goat_final.task.2
+#. IF quest.bg-3-goat_final.task.2 && !quest.bg-3-goat_final.solved
 #. SHOW_MSG main.lea @NOD
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/13/event/quest/4/message+%23615
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/13/event/quest/4/message"
@@ -6327,7 +6337,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/13/event/quest/5/message #616
 #. NPC leader-sterling
-#. IF quest.bg-3-goat_final.task.2
+#. IF quest.bg-3-goat_final.task.2 && !quest.bg-3-goat_final.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/13/event/quest/5/message+%23616
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/13/event/quest/5/message"
@@ -6336,7 +6346,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/13/event/quest/6/message #622
 #. NPC leader-sterling
-#. IF quest.bg-3-goat_final.task.2
+#. IF quest.bg-3-goat_final.task.2 && !quest.bg-3-goat_final.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/13/event/quest/6/message+%23622
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/13/event/quest/6/message"
@@ -6345,7 +6355,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/13/event/quest/7/message #617
 #. NPC leader-sterling
-#. IF quest.bg-3-goat_final.task.2
+#. IF quest.bg-3-goat_final.task.2 && !quest.bg-3-goat_final.solved
 #. SHOW_MSG main.lea @SURPRISED
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/13/event/quest/7/message+%23617
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/13/event/quest/7/message"
@@ -6354,7 +6364,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/13/event/quest/8/message #618
 #. NPC leader-sterling
-#. IF quest.bg-3-goat_final.task.2
+#. IF quest.bg-3-goat_final.task.2 && !quest.bg-3-goat_final.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/13/event/quest/8/message+%23618
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/13/event/quest/8/message"
@@ -6363,7 +6373,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/13/event/quest/10/message #623
 #. NPC leader-sterling
-#. IF quest.bg-3-goat_final.task.2
+#. IF quest.bg-3-goat_final.task.2 && !quest.bg-3-goat_final.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/13/event/quest/10/message+%23623
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/13/event/quest/10/message"
@@ -6372,7 +6382,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/13/event/quest/11/message #621
 #. NPC leader-sterling
-#. IF quest.bg-3-goat_final.task.2
+#. IF quest.bg-3-goat_final.task.2 && !quest.bg-3-goat_final.solved
 #. SHOW_MSG main.lea @SURPRISED_AWAY
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/13/event/quest/11/message+%23621
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/13/event/quest/11/message"
@@ -6381,7 +6391,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/13/event/quest/12/message #620
 #. NPC leader-sterling
-#. IF quest.bg-3-goat_final.task.2
+#. IF quest.bg-3-goat_final.task.2 && !quest.bg-3-goat_final.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/13/event/quest/12/message+%23620
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/13/event/quest/12/message"
@@ -6390,7 +6400,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/13/event/quest/13/message #619
 #. NPC leader-sterling
-#. IF quest.bg-3-goat_final.task.2
+#. IF quest.bg-3-goat_final.task.2 && !quest.bg-3-goat_final.solved
 #. SHOW_MSG main.lea @NOD
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/13/event/quest/13/message+%23619
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/13/event/quest/13/message"
@@ -6399,7 +6409,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/13/event/quest/14/message #624
 #. NPC leader-sterling
-#. IF quest.bg-3-goat_final.task.2
+#. IF quest.bg-3-goat_final.task.2 && !quest.bg-3-goat_final.solved
 #. SHOW_MSG main.lea @SURPRISED_AWAY
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/13/event/quest/14/message+%23624
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/13/event/quest/14/message"
@@ -6408,7 +6418,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/14/event/0/name #611
 #. NPC leader-sterling
-#. IF quest.bg-3-goat_final.currentTask >= 3
+#. IF quest.bg-3-goat_final.currentTask >= 3 && !quest.bg-3-goat_final.solved
 #. ADD_MSG_PERSON guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/14/event/0/name+%23611
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/14/event/0/name"
@@ -6417,7 +6427,7 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/14/event/2/message #625
 #. NPC leader-sterling
-#. IF quest.bg-3-goat_final.currentTask >= 3
+#. IF quest.bg-3-goat_final.currentTask >= 3 && !quest.bg-3-goat_final.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/14/event/2/message+%23625
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/14/event/2/message"
@@ -6426,145 +6436,199 @@ msgstr ""
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/14/event/3/message #626
 #. NPC leader-sterling
-#. IF quest.bg-3-goat_final.currentTask >= 3
+#. IF quest.bg-3-goat_final.currentTask >= 3 && !quest.bg-3-goat_final.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/14/event/3/message+%23626
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/14/event/3/message"
 msgid "You will need their cooperation to solve this case."
 msgstr ""
 
-#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/15/event/quest/0/name #595
+#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/15/event/0/name #637
 #. NPC leader-sterling
-#. IF quest.bg-3-goat_final.task.7
+#. IF quest.bg-3-goat_final.currentTask >= 5 && !quest.bg-3-goat_final.solved
 #. ADD_MSG_PERSON guards.captain-female-hairbun @DEFAULT
-#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/15/event/quest/0/name+%23595
-msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/15/event/quest/0/name"
+#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/15/event/0/name+%23637
+msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/15/event/0/name"
 msgid "Sgt. Sterling"
 msgstr ""
 
-#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/15/event/quest/2/message #580
+#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/15/event/2/message #638
 #. NPC leader-sterling
-#. IF quest.bg-3-goat_final.task.7
-#. SHOW_MSG main.lea @PROUD
-#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/15/event/quest/2/message+%23580
-msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/15/event/quest/2/message"
-msgid "Hi!"
-msgstr ""
-
-#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/15/event/quest/3/message #581
-#. NPC leader-sterling
-#. IF quest.bg-3-goat_final.task.7
+#. IF quest.bg-3-goat_final.currentTask >= 5 && !quest.bg-3-goat_final.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
-#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/15/event/quest/3/message+%23581
-msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/15/event/quest/3/message"
-msgid "\\v[lore.title.seeker], I have already heard the reports.\\. It seems like you travelled half of Shadoon to crack this case."
+#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/15/event/2/message+%23638
+msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/15/event/2/message"
+msgid "\\v[lore.title.seeker], I hear the locale of the assigment has now shifted to \\v[area.rhombus-sqr.name]?"
 msgstr ""
 
-#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/15/event/quest/4/message #582
+#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/15/event/3/message #639
 #. NPC leader-sterling
-#. IF quest.bg-3-goat_final.task.7
-#. SHOW_MSG main.lea @SMUG
-#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/15/event/quest/4/message+%23582
-msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/15/event/quest/4/message"
-msgid "..."
-msgstr ""
-
-#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/15/event/quest/5/message #632
-#. NPC leader-sterling
-#. IF quest.bg-3-goat_final.task.7
-#. SHOW_MSG guards.captain-female-hairbun @DEFAULT
-#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/15/event/quest/5/message+%23632
-msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/15/event/quest/5/message"
-msgid "Impressive work.\\. It seems like coexistence with the goats actually was possible.\\. After some persuasion."
-msgstr ""
-
-#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/15/event/quest/6/message #584
-#. NPC leader-sterling
-#. IF quest.bg-3-goat_final.task.7
-#. SHOW_MSG main.lea @SMILE
-#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/15/event/quest/6/message+%23584
-msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/15/event/quest/6/message"
-msgid "...!"
-msgstr ""
-
-#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/15/event/quest/7/message #633
-#. NPC leader-sterling
-#. IF quest.bg-3-goat_final.task.7
-#. SHOW_MSG guards.captain-female-hairbun @DEFAULT
-#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/15/event/quest/7/message+%23633
-msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/15/event/quest/7/message"
-msgid "Well, whatever the case, it is now in the hands of \\v[area.rhombus-sqr.name]."
-msgstr ""
-
-#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/15/event/quest/8/message #635
-#. NPC leader-sterling
-#. IF quest.bg-3-goat_final.task.7
-#. SHOW_MSG guards.captain-female-hairbun @DEFAULT
-#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/15/event/quest/8/message+%23635
-msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/15/event/quest/8/message"
-msgid "Hopefully the goats finally found a home there without causing further trouble."
-msgstr ""
-
-#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/15/event/quest/9/message #587
-#. NPC leader-sterling
-#. IF quest.bg-3-goat_final.task.7
+#. IF quest.bg-3-goat_final.currentTask >= 5 && !quest.bg-3-goat_final.solved
 #. SHOW_MSG main.lea @NOD
-#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/15/event/quest/9/message+%23587
-msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/15/event/quest/9/message"
+#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/15/event/3/message+%23639
+msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/15/event/3/message"
 msgid "[nods]"
 msgstr ""
 
-#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/15/event/quest/10/message #634
+#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/15/event/4/message #640
 #. NPC leader-sterling
-#. IF quest.bg-3-goat_final.task.7
+#. IF quest.bg-3-goat_final.currentTask >= 5 && !quest.bg-3-goat_final.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
-#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/15/event/quest/10/message+%23634
-msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/15/event/quest/10/message"
-msgid "As for you, you have once again our thanks and this reward.\\. Bergen Village is in your debt!"
+#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/15/event/4/message+%23640
+msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/15/event/4/message"
+msgid "Oh my...\\. This case sure keeps on getting bigger and more confusing by the minute."
 msgstr ""
 
-#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/15/event/quest/11/message #588
+#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/15/event/5/message #643
 #. NPC leader-sterling
-#. IF quest.bg-3-goat_final.task.7
-#. SHOW_MSG main.lea @DEFAULT
-#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/15/event/quest/11/message+%23588
-msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/15/event/quest/11/message"
-msgid "Bye!"
+#. IF quest.bg-3-goat_final.currentTask >= 5 && !quest.bg-3-goat_final.solved
+#. SHOW_MSG main.lea @SMILE
+#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/15/event/5/message+%23643
+msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/15/event/5/message"
+msgid "..."
 msgstr ""
 
-#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/16/event/0/name #590
+#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/16/event/quest/0/name #595
 #. NPC leader-sterling
-#. IF quest.bg-3-goat_final.solved
+#. IF quest.bg-3-goat_final.task.7 && !quest.bg-3-goat_final.solved
 #. ADD_MSG_PERSON guards.captain-female-hairbun @DEFAULT
-#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/16/event/0/name+%23590
-msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/16/event/0/name"
+#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/16/event/quest/0/name+%23595
+msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/16/event/quest/0/name"
 msgid "Sgt. Sterling"
 msgstr ""
 
-#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/16/event/2/message #591
+#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/16/event/quest/2/message #580
+#. NPC leader-sterling
+#. IF quest.bg-3-goat_final.task.7 && !quest.bg-3-goat_final.solved
+#. SHOW_MSG main.lea @PROUD
+#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/16/event/quest/2/message+%23580
+msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/16/event/quest/2/message"
+msgid "Hi!"
+msgstr ""
+
+#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/16/event/quest/3/message #581
+#. NPC leader-sterling
+#. IF quest.bg-3-goat_final.task.7 && !quest.bg-3-goat_final.solved
+#. SHOW_MSG guards.captain-female-hairbun @DEFAULT
+#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/16/event/quest/3/message+%23581
+msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/16/event/quest/3/message"
+msgid "\\v[lore.title.seeker], I have already heard the reports.\\. It feels like you travelled half of Shadoon to crack this case."
+msgstr ""
+
+#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/16/event/quest/4/message #582
+#. NPC leader-sterling
+#. IF quest.bg-3-goat_final.task.7 && !quest.bg-3-goat_final.solved
+#. SHOW_MSG main.lea @SMUG
+#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/16/event/quest/4/message+%23582
+msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/16/event/quest/4/message"
+msgid "..."
+msgstr ""
+
+#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/16/event/quest/5/message #632
+#. NPC leader-sterling
+#. IF quest.bg-3-goat_final.task.7 && !quest.bg-3-goat_final.solved
+#. SHOW_MSG guards.captain-female-hairbun @DEFAULT
+#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/16/event/quest/5/message+%23632
+msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/16/event/quest/5/message"
+msgid "Impressive work.\\. It seems like coexistence with the goats actually was possible.\\. After some persuasion."
+msgstr ""
+
+#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/16/event/quest/6/message #642
+#. NPC leader-sterling
+#. IF quest.bg-3-goat_final.task.7 && !quest.bg-3-goat_final.solved
+#. SHOW_MSG guards.captain-female-hairbun @DEFAULT
+#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/16/event/quest/6/message+%23642
+msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/16/event/quest/6/message"
+msgid "Word is, they even established a business.\\. Selling goat-related products in some park, if you believe it."
+msgstr ""
+
+#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/16/event/quest/7/message #584
+#. NPC leader-sterling
+#. IF quest.bg-3-goat_final.task.7 && !quest.bg-3-goat_final.solved
+#. SHOW_MSG main.lea @SMILE
+#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/16/event/quest/7/message+%23584
+msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/16/event/quest/7/message"
+msgid "...!"
+msgstr ""
+
+#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/16/event/quest/8/message #633
+#. NPC leader-sterling
+#. IF quest.bg-3-goat_final.task.7 && !quest.bg-3-goat_final.solved
+#. SHOW_MSG guards.captain-female-hairbun @DEFAULT
+#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/16/event/quest/8/message+%23633
+msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/16/event/quest/8/message"
+msgid "Well, whatever the case, it is now in the hands of \\v[area.rhombus-sqr.name]."
+msgstr ""
+
+#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/16/event/quest/9/message #635
+#. NPC leader-sterling
+#. IF quest.bg-3-goat_final.task.7 && !quest.bg-3-goat_final.solved
+#. SHOW_MSG guards.captain-female-hairbun @DEFAULT
+#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/16/event/quest/9/message+%23635
+msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/16/event/quest/9/message"
+msgid "Hopefully the goats finally found a home there without causing further trouble."
+msgstr ""
+
+#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/16/event/quest/10/message #587
+#. NPC leader-sterling
+#. IF quest.bg-3-goat_final.task.7 && !quest.bg-3-goat_final.solved
+#. SHOW_MSG main.lea @NOD
+#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/16/event/quest/10/message+%23587
+msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/16/event/quest/10/message"
+msgid "[nods]"
+msgstr ""
+
+#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/16/event/quest/11/message #634
+#. NPC leader-sterling
+#. IF quest.bg-3-goat_final.task.7 && !quest.bg-3-goat_final.solved
+#. SHOW_MSG guards.captain-female-hairbun @DEFAULT
+#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/16/event/quest/11/message+%23634
+msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/16/event/quest/11/message"
+msgid "As for you, you have once again earned our thanks and this reward.\\. Bergen Village is in your debt!"
+msgstr ""
+
+#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/16/event/quest/12/message #588
+#. NPC leader-sterling
+#. IF quest.bg-3-goat_final.task.7 && !quest.bg-3-goat_final.solved
+#. SHOW_MSG main.lea @SMUG
+#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/16/event/quest/12/message+%23588
+msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/16/event/quest/12/message"
+msgid "Bye!"
+msgstr ""
+
+#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/17/event/0/name #590
+#. NPC leader-sterling
+#. IF quest.bg-3-goat_final.solved
+#. ADD_MSG_PERSON guards.captain-female-hairbun @DEFAULT
+#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/17/event/0/name+%23590
+msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/17/event/0/name"
+msgid "Sgt. Sterling"
+msgstr ""
+
+#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/17/event/2/message #591
 #. NPC leader-sterling
 #. IF quest.bg-3-goat_final.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
-#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/16/event/2/message+%23591
-msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/16/event/2/message"
+#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/17/event/2/message+%23591
+msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/17/event/2/message"
 msgid "Greetings from the \\c[3]Bergen Guard\\c[0], \\v[lore.title.seeker]."
 msgstr ""
 
-#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/16/event/3/message #441
+#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/17/event/3/message #441
 #. NPC leader-sterling
 #. IF quest.bg-3-goat_final.solved
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
-#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/16/event/3/message+%23441
-msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/16/event/3/message"
+#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/17/event/3/message+%23441
+msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/17/event/3/message"
 msgid "Everything is quiet right now, so there is no need to trouble yourself."
 msgstr ""
 
-#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/16/event/4/message #593
+#. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/17/event/4/message #593
 #. NPC leader-sterling
 #. IF quest.bg-3-goat_final.solved
 #. SHOW_MSG main.lea @MOPING
-#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/16/event/4/message+%23593
-msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/16/event/4/message"
+#: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/17/event/4/message+%23593
+msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/17/event/4/message"
 msgid ".\\..\\.."
 msgstr ""
 

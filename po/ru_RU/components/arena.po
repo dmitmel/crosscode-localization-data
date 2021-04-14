@@ -1,12 +1,12 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.4.0-4\n"
+"Project-Id-Version: crosscode 1.4.1-2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-27 11:16+0000\n"
-"PO-Revision-Date: 2021-03-27 11:16+0000\n"
+"POT-Creation-Date: 2021-04-14 01:09+0000\n"
+"POT-Revision-Date: 2021-04-14 01:09+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: es_ES\n"
+"Language: ru_RU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -424,153 +424,6 @@ msgid ""
 msgstr ""
 "Победите \\c[3]Короля Какторро\\c[0] в \\c[3]Бордовой долине\\c[0]!\n"
 "\\c[3]Зыбучие пески\\c[0] могут раздражать, но \\c[3]телепорты\\c[0] - ваши друзья!"
-
-#. data/arena/faction-cup-3.json core/name #4
-#. SOLO_CUP
-#: data/arena/faction-cup-3.json+core/name+%234
-msgctxt "data/arena/faction-cup-3.json//core/name"
-msgid "Wanderer's Cup"
-msgstr "Кубок Скитальца"
-
-#. data/arena/faction-cup-3.json core/info #1
-#. SOLO_CUP
-#: data/arena/faction-cup-3.json+core/info+%231
-msgctxt "data/arena/faction-cup-3.json//core/info"
-msgid "Refight several challenging battles found during your endgame quests!"
-msgstr "Сразитесь вновь с сильными врагами, найденными во время ваших финальных квестов!"
-
-#. data/arena/faction-cup-3.json core/creator #50
-#. SOLO_CUP
-#: data/arena/faction-cup-3.json+core/creator+%2350
-msgctxt "data/arena/faction-cup-3.json//core/creator"
-msgid "GFluegel"
-msgstr "GFluegel"
-
-#. data/arena/faction-cup-3.json rounds/0/name #56
-#. DEFAULT
-#: data/arena/faction-cup-3.json+rounds/0/name+%2356
-msgctxt "data/arena/faction-cup-3.json//rounds/0/name"
-msgid "Sober Slaughter"
-msgstr "Трезвая Резня"
-
-#. data/arena/faction-cup-3.json rounds/0/objective #57
-#. DEFAULT
-#: data/arena/faction-cup-3.json+rounds/0/objective+%2357
-msgctxt "data/arena/faction-cup-3.json//rounds/0/objective"
-msgid ""
-"Defeat the \\c[3]\\v[combat.name.heat/special/jellyfish-booze]s and \\v[combat.name.heat/special/heat-golem-booze]\\c[0] in \\c[3]the Distillery of \\v[area.heat-village.name]\\c[0]!\n"
-"Throw \\c[3]ice into the ovens to deactivate the shields and onto the machine to prevent overheating\\c[0]!"
-msgstr ""
-"Победите \\c[3]Алкогольных медуз и Пьяных существ\\c[0] в \\c[3]Винокурне Ба'кии Кума\\c[0]!\n"
-"Бросайте \\c[3]лёд в печки чтобы снять щиты и в машину чтобы предотвратить перегрев\\c[0]!"
-
-#. data/arena/faction-cup-3.json rounds/1/name #54
-#. DEFAULT
-#: data/arena/faction-cup-3.json+rounds/1/name+%2354
-msgctxt "data/arena/faction-cup-3.json//rounds/1/name"
-msgid "Ocean Operation"
-msgstr "Операция в Океане"
-
-#. data/arena/faction-cup-3.json rounds/1/objective #51
-#. DEFAULT
-#: data/arena/faction-cup-3.json+rounds/1/objective+%2351
-msgctxt "data/arena/faction-cup-3.json//rounds/1/objective"
-msgid ""
-"Defeat the \\c[3]\\c[0] on \\c[3]the ocean\\c[0]!\n"
-"Make sure \\c[3]your turret-boat doesn't get destroyed!\\c[0]!"
-msgstr ""
-"Победите в \\c[3]океане\\c[0]!\n"
-"Убедитесь в том, что \\c[3]ваша турель-судно не будет уничтожена!\\c[0]!"
-
-#. data/arena/faction-cup-3.json rounds/2/name #58
-#. DEFAULT
-#: data/arena/faction-cup-3.json+rounds/2/name+%2358
-msgctxt "data/arena/faction-cup-3.json//rounds/2/name"
-msgid "Ghost of a Chance"
-msgstr "Призрак Шанса"
-
-#. data/arena/faction-cup-3.json rounds/2/objective #55
-#. DEFAULT
-#: data/arena/faction-cup-3.json+rounds/2/objective+%2355
-msgctxt "data/arena/faction-cup-3.json//rounds/2/objective"
-msgid ""
-"Work with a salty helper to defeat \\c[3]\\v[combat.name.jungle/special/ghost-toxic]\\c[0] at the entrance to \\v[area.jungle-city.name]!\n"
-"\\c[3]Defend your ally\\c[0] while \\c[3]it weakens the enemy\\c[0]!"
-msgstr ""
-"Поработайте с солевым помощником, чтобы победить \\c[3]Токсическое создание\\c[0] у входа в Крепость Бейзина!\n"
-"\\c[3]Защищайте своего союзника\\c[0] пока он \\c[3]ослабляет врага\\c[0]!"
-
-#. data/arena/faction-cup-3.json rounds/3/name #40
-#. DEFAULT
-#: data/arena/faction-cup-3.json+rounds/3/name+%2340
-msgctxt "data/arena/faction-cup-3.json//rounds/3/name"
-msgid "Tremoring Tech"
-msgstr "Дрожащая Технология"
-
-#. data/arena/faction-cup-3.json rounds/3/objective #41
-#. DEFAULT
-#: data/arena/faction-cup-3.json+rounds/3/objective+%2341
-msgctxt "data/arena/faction-cup-3.json//rounds/3/objective"
-msgid ""
-"Defeat the shaking \\c[3]\\v[combat.name.autumn-fall/runbot-tremor]\\c[0] in the hidden office in \\c[3]\\v[area.rhombus-sqr.name]\\c[0]!\n"
-"It's \\c[3]aura\\c[0] can be \\c[3]neutralized\\c[0] with \\c[3]Shock\\c[0]!"
-msgstr ""
-"Победите дрожжащего \\c[3]Дрожжи\\c[0] в тайном офисе на \\c[3]Площади Ромба\\c[0]!\n"
-"Его \\c[3]аура\\c[0] может быть \\c[3]нейтрализована\\c[0] с помощью \\c[3]Шока\\c[0]!"
-
-#. data/arena/faction-cup-3.json rounds/4/name #44
-#. DEFAULT
-#: data/arena/faction-cup-3.json+rounds/4/name+%2344
-msgctxt "data/arena/faction-cup-3.json//rounds/4/name"
-msgid "Pewpew Parrot"
-msgstr "Пиу-пиу попугай"
-
-#. data/arena/faction-cup-3.json rounds/4/objective #45
-#. DEFAULT
-#: data/arena/faction-cup-3.json+rounds/4/objective+%2345
-msgctxt "data/arena/faction-cup-3.json//rounds/4/objective"
-msgid ""
-"Defeat the \\c[3]\\v[combat.name.jungle/special/parrot-gangster-boss-1]\\c[0] who has resettled to \\c[3]\\v[area.jungle-city.name]\\c[0]!\n"
-"Try to \\c[3]shoot down the missiles\\c[0] before they overwhelm you!"
-msgstr ""
-"Победите \\c[3]Попубосса младшего\\c[0], который переселился в \\c[3]Крепость Бейзина\\c[0]! \n"
-"Попытайтесь \\c[3]сбить ракеты\\c[0] прежде чем они сокрушат вас!"
-
-#. data/arena/faction-cup-3.json rounds/5/name #46
-#. DEFAULT
-#: data/arena/faction-cup-3.json+rounds/5/name+%2346
-msgctxt "data/arena/faction-cup-3.json//rounds/5/name"
-msgid "The Goatfather, Part II"
-msgstr "Крёстный Козлец, часть II"
-
-#. data/arena/faction-cup-3.json rounds/5/objective #47
-#. DEFAULT
-#: data/arena/faction-cup-3.json+rounds/5/objective+%2347
-msgctxt "data/arena/faction-cup-3.json//rounds/5/objective"
-msgid ""
-"Defeat the \\c[3]\\v[combat.name.cold/goat-father-2]\\c[0] in \\c[3]\\v[area.thombus-sqr.name]\\c[0]!\n"
-"This time you fight him for real!"
-msgstr ""
-"Победите \\c[3]Козла\\c[0] на \\c[3]Площади Ромба\\c[0]!\n"
-"В этот раз вы сражаетесь серьёзно!"
-
-#. data/arena/faction-cup-3.json rounds/6/name #52
-#. DEFAULT
-#: data/arena/faction-cup-3.json+rounds/6/name+%2352
-msgctxt "data/arena/faction-cup-3.json//rounds/6/name"
-msgid "Ape Assault"
-msgstr "Атака обезьян"
-
-#. data/arena/faction-cup-3.json rounds/6/objective #53
-#. DEFAULT
-#: data/arena/faction-cup-3.json+rounds/6/objective+%2353
-msgctxt "data/arena/faction-cup-3.json//rounds/6/objective"
-msgid ""
-"Defeat the \\c[3]\\v[combat.name.beach/ape-beach]\\c[0] on the \\c[3]\\v[area.beach.name]\\c[0]!\n"
-"This is a duel for the ages!"
-msgstr ""
-"Победите \\c[3]Сына Пляжа\\c[0] на \\c[3]Лазурном архипелаге\\c[0]!\n"
-"Это дуэль на века!"
 
 #. data/arena/faction-team-cup-1.json core/name #4
 #. TEAM_CUP
@@ -2102,166 +1955,6 @@ msgctxt "data/maps/arena/faction/heat-firebirds-1.json//entities/24/settings/ana
 msgid "???"
 msgstr "???"
 
-#. data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/12/name #637
-#. EventTrigger battleEnd START IF false
-#. ADD_MSG_PERSON guards.quest-male-mustache-white @DEFAULT
-#: data/maps/arena/faction/maroon-billston-1.json+entities/57/settings/event/12/name+%23637
-msgctxt "data/maps/arena/faction/maroon-billston-1.json//entities/57/settings/event/12/name"
-msgid "Billston"
-msgstr "Биллстон"
-
-#. data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/14/message #14
-#. EventTrigger battleEnd START IF false
-#. SHOW_MSG main.lea @WHISTLING
-#: data/maps/arena/faction/maroon-billston-1.json+entities/57/settings/event/14/message+%2314
-msgctxt "data/maps/arena/faction/maroon-billston-1.json//entities/57/settings/event/14/message"
-msgid "..."
-msgstr "..."
-
-#. data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/15/message #15
-#. EventTrigger battleEnd START IF false
-#. SHOW_MSG guards.quest-male-mustache-white @DEFAULT
-#: data/maps/arena/faction/maroon-billston-1.json+entities/57/settings/event/15/message+%2315
-msgctxt "data/maps/arena/faction/maroon-billston-1.json//entities/57/settings/event/15/message"
-msgid "D-damn it.\\. All those preparations... done for nothing."
-msgstr "Ч-чёрт возьми.\\. Все эти приготовления... были сделаны зря."
-
-#. data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/28/name #638
-#. EventTrigger battleEnd START IF false
-#. ADD_MSG_PERSON guards.quest-male-mustache-white @DEFAULT
-#: data/maps/arena/faction/maroon-billston-1.json+entities/57/settings/event/28/name+%23638
-msgctxt "data/maps/arena/faction/maroon-billston-1.json//entities/57/settings/event/28/name"
-msgid "Billston"
-msgstr "Биллстон"
-
-#. data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/30/name #639
-#. EventTrigger battleEnd START IF false
-#. ADD_MSG_PERSON guards.female-hairs-black @DEFAULT
-#: data/maps/arena/faction/maroon-billston-1.json+entities/57/settings/event/30/name+%23639
-msgctxt "data/maps/arena/faction/maroon-billston-1.json//entities/57/settings/event/30/name"
-msgid "Zaida"
-msgstr "Зайда"
-
-#. data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/31/message #17
-#. EventTrigger battleEnd START IF false
-#. SHOW_MSG guards.female-hairs-black @DEFAULT
-#: data/maps/arena/faction/maroon-billston-1.json+entities/57/settings/event/31/message+%2317
-msgctxt "data/maps/arena/faction/maroon-billston-1.json//entities/57/settings/event/31/message"
-msgid "You are coming with me, traitor!\\. You are a stain on the honor of the Ba'kii Guard!"
-msgstr "Ты идёшь со мной, предатель!\\. Ты пятно на чести Бакийской стражи!"
-
-#. data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/32/message #16
-#. EventTrigger battleEnd START IF false
-#. SHOW_MSG main.lea @PROUD
-#: data/maps/arena/faction/maroon-billston-1.json+entities/57/settings/event/32/message+%2316
-msgctxt "data/maps/arena/faction/maroon-billston-1.json//entities/57/settings/event/32/message"
-msgid "Hi...!"
-msgstr "Привет...!"
-
-#. data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/33/message #625
-#. EventTrigger battleEnd START IF false
-#. SHOW_MSG guards.female-hairs-black @DEFAULT
-#: data/maps/arena/faction/maroon-billston-1.json+entities/57/settings/event/33/message+%23625
-msgctxt "data/maps/arena/faction/maroon-billston-1.json//entities/57/settings/event/33/message"
-msgid "Ah, hello Ms. \\v[lore.title.seeker].\\. You have done well in apprehending him.\\. Now we will bring him to justice."
-msgstr "Ах, здравствуй, мисс Искатель.\\. Ты отлично справилась с его поимкой.\\. Теперь мы привлечём его к ответственности."
-
-#. data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/34/message #621
-#. EventTrigger battleEnd START IF false
-#. SHOW_MSG guards.quest-male-mustache-white @DEFAULT
-#: data/maps/arena/faction/maroon-billston-1.json+entities/57/settings/event/34/message+%23621
-msgctxt "data/maps/arena/faction/maroon-billston-1.json//entities/57/settings/event/34/message"
-msgid "What, you?\\. I was your superior and that is how you show your respect?"
-msgstr "Что, ты?\\. Я был твоим начальником, и ты таким образом проявляешь своё уважение?"
-
-#. data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/35/message #631
-#. EventTrigger battleEnd START IF false
-#. SHOW_MSG guards.female-hairs-black @DEFAULT
-#: data/maps/arena/faction/maroon-billston-1.json+entities/57/settings/event/35/message+%23631
-msgctxt "data/maps/arena/faction/maroon-billston-1.json//entities/57/settings/event/35/message"
-msgid "I am a guard of \\v[area.heat-village.name] and sworn to protect shad- and humankind from evil.\\. Like you, traitor."
-msgstr "Я страж \\v[area.heat-village.name] и поклялась защищать шадов и человечество от зла.\\. Вроде тебя, предатель."
-
-#. data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/36/message #632
-#. EventTrigger battleEnd START IF false
-#. SHOW_MSG guards.quest-male-mustache-white @DEFAULT
-#: data/maps/arena/faction/maroon-billston-1.json+entities/57/settings/event/36/message+%23632
-msgctxt "data/maps/arena/faction/maroon-billston-1.json//entities/57/settings/event/36/message"
-msgid "I see...\\. the guard truly has become soft."
-msgstr "Понятно...\\. стража на самом деле стала мягче."
-
-#. data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/40/name #640
-#. EventTrigger battleEnd START IF false
-#. ADD_MSG_PERSON guards.quest-male-mustache-white @DEFAULT
-#: data/maps/arena/faction/maroon-billston-1.json+entities/57/settings/event/40/name+%23640
-msgctxt "data/maps/arena/faction/maroon-billston-1.json//entities/57/settings/event/40/name"
-msgid "Billston"
-msgstr "Биллстон"
-
-#. data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/42/name #641
-#. EventTrigger battleEnd START IF false
-#. ADD_MSG_PERSON guards.female-hairs-black @DEFAULT
-#: data/maps/arena/faction/maroon-billston-1.json+entities/57/settings/event/42/name+%23641
-msgctxt "data/maps/arena/faction/maroon-billston-1.json//entities/57/settings/event/42/name"
-msgid "Zaida"
-msgstr "Зайда"
-
-#. data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/43/message #624
-#. EventTrigger battleEnd START IF false
-#. SHOW_MSG guards.quest-male-mustache-white @DEFAULT
-#: data/maps/arena/faction/maroon-billston-1.json+entities/57/settings/event/43/message+%23624
-msgctxt "data/maps/arena/faction/maroon-billston-1.json//entities/57/settings/event/43/message"
-msgid "And you, \\v[lore.title.seeker]..."
-msgstr "А ты, \\v[lore.title.seeker]..."
-
-#. data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/44/message #626
-#. EventTrigger battleEnd START IF false
-#. SHOW_MSG main.lea @DETERMINED
-#: data/maps/arena/faction/maroon-billston-1.json+entities/57/settings/event/44/message+%23626
-msgctxt "data/maps/arena/faction/maroon-billston-1.json//entities/57/settings/event/44/message"
-msgid "...?"
-msgstr "...?"
-
-#. data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/45/message #627
-#. EventTrigger battleEnd START IF false
-#. SHOW_MSG guards.quest-male-mustache-white @DEFAULT
-#: data/maps/arena/faction/maroon-billston-1.json+entities/57/settings/event/45/message+%23627
-msgctxt "data/maps/arena/faction/maroon-billston-1.json//entities/57/settings/event/45/message"
-msgid "...don't think you've seen the last of me!\\. My human ingenuity will always find a way!"
-msgstr "...не думай, что видишь меня в последний раз!\\. Моя человеческая сообразительность всегда найдёт выход!"
-
-#. data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/46/message #628
-#. EventTrigger battleEnd START IF false
-#. SHOW_MSG main.lea @NERVOUS
-#: data/maps/arena/faction/maroon-billston-1.json+entities/57/settings/event/46/message+%23628
-msgctxt "data/maps/arena/faction/maroon-billston-1.json//entities/57/settings/event/46/message"
-msgid "..."
-msgstr "..."
-
-#. data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/48/message #629
-#. EventTrigger battleEnd START IF false
-#. SHOW_MSG guards.female-hairs-black @DEFAULT
-#: data/maps/arena/faction/maroon-billston-1.json+entities/57/settings/event/48/message+%23629
-msgctxt "data/maps/arena/faction/maroon-billston-1.json//entities/57/settings/event/48/message"
-msgid "We will see about that.\\. For now you're under arrest.\\. Now move it!"
-msgstr "Это мы ещё посмотрим.\\. Сейчас ты арестован.\\. Теперь двигайся!"
-
-#. data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/49/message #633
-#. EventTrigger battleEnd START IF false
-#. SHOW_MSG guards.quest-male-mustache-white @DEFAULT
-#: data/maps/arena/faction/maroon-billston-1.json+entities/57/settings/event/49/message+%23633
-msgctxt "data/maps/arena/faction/maroon-billston-1.json//entities/57/settings/event/49/message"
-msgid "Yes, yes.\\. Whatever you say, officer."
-msgstr "Да-да.\\. Как скажете, офицер."
-
-#. data/maps/arena/faction/maroon-billston-1.json entities/57/settings/event/50/message #634
-#. EventTrigger battleEnd START IF false
-#. SHOW_MSG main.lea @ANNOYED
-#: data/maps/arena/faction/maroon-billston-1.json+entities/57/settings/event/50/message+%23634
-msgctxt "data/maps/arena/faction/maroon-billston-1.json//entities/57/settings/event/50/message"
-msgid "...bye."
-msgstr "...пока."
-
 #. data/maps/arena/faction/maroon-turtlecave-1.json entities/15/settings/event/7/action/0/text #13
 #. EventTrigger map-deactivateHelper START IF false
 #. DO_ACTION
@@ -2872,6 +2565,18 @@ msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/7/objectiv
 msgid "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!"
 msgstr "Победите врагов из \\c[3]Храма Ку'леро\\c[0]!"
 
+#. extension/post-game/data/arena/ancient-team-cup.json rounds/8/name #67
+#: extension/post-game/data/arena/ancient-team-cup.json+rounds/8/name+%2367
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/8/name"
+msgid "Stacking Crew"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-team-cup.json rounds/8/objective #68
+#: extension/post-game/data/arena/ancient-team-cup.json+rounds/8/objective+%2368
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/8/objective"
+msgid "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!"
+msgstr ""
+
 #. extension/post-game/data/arena/apollo-cup.json core/name #4
 #. SOLO_CUSTOM
 #: extension/post-game/data/arena/apollo-cup.json+core/name+%234
@@ -2906,6 +2611,153 @@ msgstr "Испытание!"
 msgctxt "extension/post-game/data/arena/apollo-cup.json//rounds/0/objective"
 msgid "Let us do combat, Spheromancer Lea!"
 msgstr "Давай сразимся, сферомант Лея!"
+
+#. extension/post-game/data/arena/faction-cup-3.json core/name #4
+#. SOLO_CUP
+#: extension/post-game/data/arena/faction-cup-3.json+core/name+%234
+msgctxt "extension/post-game/data/arena/faction-cup-3.json//core/name"
+msgid "Wanderer's Cup"
+msgstr "Кубок Скитальца"
+
+#. extension/post-game/data/arena/faction-cup-3.json core/info #1
+#. SOLO_CUP
+#: extension/post-game/data/arena/faction-cup-3.json+core/info+%231
+msgctxt "extension/post-game/data/arena/faction-cup-3.json//core/info"
+msgid "Refight several challenging battles found during your endgame quests!"
+msgstr "Сразитесь вновь с сильными врагами, найденными во время ваших финальных квестов!"
+
+#. extension/post-game/data/arena/faction-cup-3.json core/creator #50
+#. SOLO_CUP
+#: extension/post-game/data/arena/faction-cup-3.json+core/creator+%2350
+msgctxt "extension/post-game/data/arena/faction-cup-3.json//core/creator"
+msgid "GFluegel"
+msgstr "GFluegel"
+
+#. extension/post-game/data/arena/faction-cup-3.json rounds/0/name #56
+#. DEFAULT
+#: extension/post-game/data/arena/faction-cup-3.json+rounds/0/name+%2356
+msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/0/name"
+msgid "Sobering Slaughter"
+msgstr "Трезвая Резня"
+
+#. extension/post-game/data/arena/faction-cup-3.json rounds/0/objective #57
+#. DEFAULT
+#: extension/post-game/data/arena/faction-cup-3.json+rounds/0/objective+%2357
+msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/0/objective"
+msgid ""
+"Defeat the \\c[3]\\v[combat.name.heat/special/jellyfish-booze]s and \\v[combat.name.heat/special/heat-golem-booze]\\c[0] in \\c[3]the Distillery of \\v[area.heat-village.name]\\c[0]!\n"
+"Throw \\c[3]ice into the ovens to deactivate the shields\\c[0] and \\c[3]onto the machine to prevent overheating\\c[0]!"
+msgstr ""
+"Победите \\c[3]Алкогольных медуз и Пьяных существ\\c[0] в \\c[3]Винокурне Ба'кии Кума\\c[0]!\n"
+"Бросайте \\c[3]лёд в печки чтобы снять щиты и в машину чтобы предотвратить перегрев\\c[0]!"
+
+#. extension/post-game/data/arena/faction-cup-3.json rounds/1/name #54
+#. DEFAULT
+#: extension/post-game/data/arena/faction-cup-3.json+rounds/1/name+%2354
+msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/1/name"
+msgid "Ocean Operation"
+msgstr "Операция в Океане"
+
+#. extension/post-game/data/arena/faction-cup-3.json rounds/1/objective #51
+#. DEFAULT
+#: extension/post-game/data/arena/faction-cup-3.json+rounds/1/objective+%2351
+msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/1/objective"
+msgid ""
+"Defeat the \\c[3]\\v[combat.name.autumn-rh/turret_boss-quest_naval]\\c[0] on \\c[3]the ocean\\c[0]!\n"
+"Make sure \\c[3]your turret-boat doesn't get destroyed!\\c[0]!"
+msgstr ""
+"Победите в \\c[3]океане\\c[0]!\n"
+"Убедитесь в том, что \\c[3]ваша турель-судно не будет уничтожена!\\c[0]!"
+
+#. extension/post-game/data/arena/faction-cup-3.json rounds/2/name #58
+#. DEFAULT
+#: extension/post-game/data/arena/faction-cup-3.json+rounds/2/name+%2358
+msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/2/name"
+msgid "Ghost of a Chance"
+msgstr "Призрак Шанса"
+
+#. extension/post-game/data/arena/faction-cup-3.json rounds/2/objective #55
+#. DEFAULT
+#: extension/post-game/data/arena/faction-cup-3.json+rounds/2/objective+%2355
+msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/2/objective"
+msgid ""
+"Work with a salty helper to defeat \\c[3]\\v[combat.name.jungle/special/ghost-toxic]\\c[0] at the entrance to \\v[area.jungle-city.name]!\n"
+"\\c[3]Defend your ally\\c[0] while \\c[3]they weaken the enemy\\c[0]!"
+msgstr ""
+"Поработайте с солевым помощником, чтобы победить \\c[3]Токсическое создание\\c[0] у входа в Крепость Бейзина!\n"
+"\\c[3]Защищайте своего союзника\\c[0] пока он \\c[3]ослабляет врага\\c[0]!"
+
+#. extension/post-game/data/arena/faction-cup-3.json rounds/3/name #40
+#. DEFAULT
+#: extension/post-game/data/arena/faction-cup-3.json+rounds/3/name+%2340
+msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/3/name"
+msgid "Tremoring Tech"
+msgstr "Дрожащая Технология"
+
+#. extension/post-game/data/arena/faction-cup-3.json rounds/3/objective #41
+#. DEFAULT
+#: extension/post-game/data/arena/faction-cup-3.json+rounds/3/objective+%2341
+msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/3/objective"
+msgid ""
+"Defeat the shaking \\c[3]\\v[combat.name.autumn-fall/runbot-tremor]\\c[0] in the hidden office in \\c[3]\\v[area.rhombus-sqr.name]\\c[0]!\n"
+"Its \\c[3]aura\\c[0] can be \\c[3]neutralized\\c[0] with \\c[3]Shock\\c[0]!"
+msgstr ""
+"Победите дрожжащего \\c[3]Дрожжи\\c[0] в тайном офисе на \\c[3]Площади Ромба\\c[0]!\n"
+"Его \\c[3]аура\\c[0] может быть \\c[3]нейтрализована\\c[0] с помощью \\c[3]Шока\\c[0]!"
+
+#. extension/post-game/data/arena/faction-cup-3.json rounds/4/name #44
+#. DEFAULT
+#: extension/post-game/data/arena/faction-cup-3.json+rounds/4/name+%2344
+msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/4/name"
+msgid "Pewpew Parrot"
+msgstr "Пиу-пиу попугай"
+
+#. extension/post-game/data/arena/faction-cup-3.json rounds/4/objective #45
+#. DEFAULT
+#: extension/post-game/data/arena/faction-cup-3.json+rounds/4/objective+%2345
+msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/4/objective"
+msgid ""
+"Defeat \\c[3]\\v[combat.name.jungle/special/parrot-gangster-boss-1]\\c[0] on a rooftop of \\c[3]\\v[area.jungle-city.name]\\c[0]!\n"
+"Try to \\c[3]shoot down the missiles\\c[0] before they overwhelm you!"
+msgstr ""
+"Победите \\c[3]Попубосса младшего\\c[0], который переселился в \\c[3]Крепость Бейзина\\c[0]! \n"
+"Попытайтесь \\c[3]сбить ракеты\\c[0] прежде чем они сокрушат вас!"
+
+#. extension/post-game/data/arena/faction-cup-3.json rounds/5/name #46
+#. DEFAULT
+#: extension/post-game/data/arena/faction-cup-3.json+rounds/5/name+%2346
+msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/5/name"
+msgid "The Goatfather, Part II"
+msgstr "Крёстный Козлец, часть II"
+
+#. extension/post-game/data/arena/faction-cup-3.json rounds/5/objective #47
+#. DEFAULT
+#: extension/post-game/data/arena/faction-cup-3.json+rounds/5/objective+%2347
+msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/5/objective"
+msgid ""
+"Defeat \\c[3]\\v[combat.name.cold/goat-father-2]\\c[0] in \\c[3]\\v[area.rhombus-sqr.name]\\c[0]!\n"
+"This time you fight him for real!"
+msgstr ""
+"Победите \\c[3]Козла\\c[0] на \\c[3]Площади Ромба\\c[0]!\n"
+"В этот раз вы сражаетесь серьёзно!"
+
+#. extension/post-game/data/arena/faction-cup-3.json rounds/6/name #52
+#. DEFAULT
+#: extension/post-game/data/arena/faction-cup-3.json+rounds/6/name+%2352
+msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/6/name"
+msgid "Ape Assault"
+msgstr "Атака обезьян"
+
+#. extension/post-game/data/arena/faction-cup-3.json rounds/6/objective #53
+#. DEFAULT
+#: extension/post-game/data/arena/faction-cup-3.json+rounds/6/objective+%2353
+msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/6/objective"
+msgid ""
+"Defeat the \\c[3]\\v[combat.name.beach/ape-beach]\\c[0] on the \\c[3]\\v[area.beach.name]\\c[0]!\n"
+"This is a duel for the ages!"
+msgstr ""
+"Победите \\c[3]Сына Пляжа\\c[0] на \\c[3]Лазурном архипелаге\\c[0]!\n"
+"Это дуэль на века!"
 
 #. extension/post-game/data/arena/kit-cup.json core/name #4
 #. SOLO_CUSTOM
@@ -3040,6 +2892,926 @@ msgstr "\\c[2]Атака X"
 msgctxt "extension/post-game/data/maps/arena/dlc/snail.json//entities/25/settings/interact/hoverText"
 msgid "Break through!"
 msgstr "Вырваться!"
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/40/settings/event/1/thenStep/4/thenStep/0/text #207
+#. EventTrigger brewing_overheatTimer START IF (tmp.brewing_started || (tmp.bossOverheatOn && tmp.bossStarted)) && !tmp.brewingHeatOff && !tmp.overheating
+#. IF tmp.overheatTimer >= tmp.overheatTimerGoal
+#. IF tmp.overheat == 10
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/40/settings/event/1/thenStep/4/thenStep/0/text+%23207
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/40/settings/event/1/thenStep/4/thenStep/0/text"
+msgid "50% Overheat reached!"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/40/settings/event/1/thenStep/5/thenStep/0/text #209
+#. EventTrigger brewing_overheatTimer START IF (tmp.brewing_started || (tmp.bossOverheatOn && tmp.bossStarted)) && !tmp.brewingHeatOff && !tmp.overheating
+#. IF tmp.overheatTimer >= tmp.overheatTimerGoal
+#. IF tmp.overheat == 15
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/40/settings/event/1/thenStep/5/thenStep/0/text+%23209
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/40/settings/event/1/thenStep/5/thenStep/0/text"
+msgid "75% Overheat reached! Cooling needed!"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/40/settings/event/1/thenStep/6/thenStep/0/text #210
+#. EventTrigger brewing_overheatTimer START IF (tmp.brewing_started || (tmp.bossOverheatOn && tmp.bossStarted)) && !tmp.brewingHeatOff && !tmp.overheating
+#. IF tmp.overheatTimer >= tmp.overheatTimerGoal
+#. IF tmp.overheat == 18
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/40/settings/event/1/thenStep/6/thenStep/0/text+%23210
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/40/settings/event/1/thenStep/6/thenStep/0/text"
+msgid "WARNING: Overheating imminent! Requesting ice!"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/46/settings/event/9/thenStep/0/text #201
+#. EventTrigger brewing_overheated START IF tmp.brewing_started && tmp.overheated
+#. IF !map.qualityMsgOn || !quest.bakiTrader-2-brewing_fun_1.solved
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/46/settings/event/9/thenStep/0/text+%23201
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/46/settings/event/9/thenStep/0/text"
+msgid "Overheated! Starting emergency cooling!"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/46/settings/event/9/elseStep/0/text #742
+#. EventTrigger brewing_overheated START IF tmp.brewing_started && tmp.overheated
+#. IF NOT !map.qualityMsgOn || !quest.bakiTrader-2-brewing_fun_1.solved
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/46/settings/event/9/elseStep/0/text+%23742
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/46/settings/event/9/elseStep/0/text"
+msgid "Overheated! Starting emergency cooling! Quality -\\v[tmp.qualityChange]"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/hoverText #409
+#. Prop brewingStart-prop
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/hoverText+%23409
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/hoverText"
+msgid "Brewing Console"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/thenStep/3/thenStep/0/value #805
+#. Prop brewingStart-prop
+#. IF !quest.bakiTrader-2-brewing_fun_1.solved || quest.bakiTrader-2-brewing_challenge_1.started || quest.bakiTrader-2-brewing_challenge_1.solved
+#. IF !map.infoRead && quest.bakiTrader-2-brewing_fun_1.solved
+#. CHANGE_VAR_LANG
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/event/1/thenStep/3/thenStep/0/value+%23805
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/thenStep/3/thenStep/0/value"
+msgid "(updated!)"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/thenStep/4/6/0/text #716
+#. Prop brewingStart-prop
+#. IF !quest.bakiTrader-2-brewing_fun_1.solved || quest.bakiTrader-2-brewing_challenge_1.started || quest.bakiTrader-2-brewing_challenge_1.solved
+#. SHOW_CHOICE main.lea @DEFAULT
+#. SHOW_BOARD_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/event/1/thenStep/4/6/0/text+%23716
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/thenStep/4/6/0/text"
+msgid ""
+"- Instruction to Ancient Brewing -\n"
+"Quality drinks using the mystical powers of the Track, steam and only the best natural ingredients!"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/thenStep/4/6/1/text #715
+#. Prop brewingStart-prop
+#. IF !quest.bakiTrader-2-brewing_fun_1.solved || quest.bakiTrader-2-brewing_challenge_1.started || quest.bakiTrader-2-brewing_challenge_1.solved
+#. SHOW_CHOICE main.lea @DEFAULT
+#. SHOW_BOARD_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/event/1/thenStep/4/6/1/text+%23715
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/thenStep/4/6/1/text"
+msgid "After activating this machine, it will request energy from the \\c[3]4 steam ovens\\c[0]. Those requests have to be met with \\c[3]icedisks\\c[0] quickly and correctly!"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/thenStep/4/6/2/text #707
+#. Prop brewingStart-prop
+#. IF !quest.bakiTrader-2-brewing_fun_1.solved || quest.bakiTrader-2-brewing_challenge_1.started || quest.bakiTrader-2-brewing_challenge_1.solved
+#. SHOW_CHOICE main.lea @DEFAULT
+#. SHOW_BOARD_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/event/1/thenStep/4/6/2/text+%23707
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/thenStep/4/6/2/text"
+msgid "In the beginning a \\c[3]static bubble generator\\c[0] will be available, though later it will vanish. At this point, bubbles ejected from the \\c[3]pipes left and right\\c[0] have to be used."
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/thenStep/4/6/3/text #717
+#. Prop brewingStart-prop
+#. IF !quest.bakiTrader-2-brewing_fun_1.solved || quest.bakiTrader-2-brewing_challenge_1.started || quest.bakiTrader-2-brewing_challenge_1.solved
+#. SHOW_CHOICE main.lea @DEFAULT
+#. SHOW_BOARD_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/event/1/thenStep/4/6/3/text+%23717
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/thenStep/4/6/3/text"
+msgid "Due to the immense powers flowing through it, the brewing machine will \\c[3]overheat\\c[0] with time. \\c[3]Cooling it with ice\\c[0] will be necessary to prevent \\c[3]overheating\\c[0] and a \\c[3]time-consuming cooldown-phase\\c[0]."
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/thenStep/4/6/4/thenStep/1/text #726
+#. Prop brewingStart-prop
+#. IF !quest.bakiTrader-2-brewing_fun_1.solved || quest.bakiTrader-2-brewing_challenge_1.started || quest.bakiTrader-2-brewing_challenge_1.solved
+#. SHOW_CHOICE main.lea @DEFAULT
+#. IF quest.bakiTrader-2-brewing_fun_1.solved
+#. SHOW_BOARD_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/event/1/thenStep/4/6/4/thenStep/1/text+%23726
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/thenStep/4/6/4/thenStep/1/text"
+msgid "\\c[3]Not meeting a request\\c[0], \\c[3]putting ice in a wrong oven\\c[0] or \\c[3]overheating the machine\\c[0] will damage the ingredients and \\c[3]reduce the overall quality\\c[0] of the product."
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/thenStep/4/6/4/thenStep/2/text #750
+#. Prop brewingStart-prop
+#. IF !quest.bakiTrader-2-brewing_fun_1.solved || quest.bakiTrader-2-brewing_challenge_1.started || quest.bakiTrader-2-brewing_challenge_1.solved
+#. SHOW_CHOICE main.lea @DEFAULT
+#. IF quest.bakiTrader-2-brewing_fun_1.solved
+#. SHOW_BOARD_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/event/1/thenStep/4/6/4/thenStep/2/text+%23750
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/thenStep/4/6/4/thenStep/2/text"
+msgid "On the other hand, brewing \\c[3]quality\\c[0] will increase at a higher rate with \\c[3]growing requests\\c[0] and when maintaining a \\c[3]high heat\\c[0]!"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/thenStep/4/6/4/thenStep/3/text #725
+#. Prop brewingStart-prop
+#. IF !quest.bakiTrader-2-brewing_fun_1.solved || quest.bakiTrader-2-brewing_challenge_1.started || quest.bakiTrader-2-brewing_challenge_1.solved
+#. SHOW_CHOICE main.lea @DEFAULT
+#. IF quest.bakiTrader-2-brewing_fun_1.solved
+#. SHOW_BOARD_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/event/1/thenStep/4/6/4/thenStep/3/text+%23725
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/thenStep/4/6/4/thenStep/3/text"
+msgid "The \\c[3]higher the quality\\c[0], the \\c[3]more useable drinks\\c[0] can be created from \\c[3]the same amount of ingredients\\c[0]!"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/thenStep/4/6/4/elseStep/0/text #718
+#. Prop brewingStart-prop
+#. IF !quest.bakiTrader-2-brewing_fun_1.solved || quest.bakiTrader-2-brewing_challenge_1.started || quest.bakiTrader-2-brewing_challenge_1.solved
+#. SHOW_CHOICE main.lea @DEFAULT
+#. IF NOT quest.bakiTrader-2-brewing_fun_1.solved
+#. SHOW_BOARD_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/event/1/thenStep/4/6/4/elseStep/0/text+%23718
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/thenStep/4/6/4/elseStep/0/text"
+msgid "\\c[3]Not meeting a request\\c[0], \\c[3]putting ice in a wrong oven\\c[0] or \\c[3]overheating the machine\\c[0] will do \\c[3]damage\\c[0] to the ingredients. With too much \\c[3]damage\\c[0], the brewing will \\c[1]fail\\c[0]! "
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/thenStep/4/options/0/label #704
+#. Prop brewingStart-prop
+#. IF !quest.bakiTrader-2-brewing_fun_1.solved || quest.bakiTrader-2-brewing_challenge_1.started || quest.bakiTrader-2-brewing_challenge_1.solved
+#. SHOW_CHOICE main.lea @DEFAULT
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/event/1/thenStep/4/options/0/label+%23704
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/thenStep/4/options/0/label"
+msgid "Start Brewing Process"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/thenStep/4/options/1/label #813
+#. Prop brewingStart-prop
+#. IF !quest.bakiTrader-2-brewing_fun_1.solved || quest.bakiTrader-2-brewing_challenge_1.started || quest.bakiTrader-2-brewing_challenge_1.solved
+#. SHOW_CHOICE main.lea @DEFAULT
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/event/1/thenStep/4/options/1/label+%23813
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/thenStep/4/options/1/label"
+msgid "\\c[1]!!!\\c[0] \\c[3]Upgrade Brewing Machine\\c[0] \\c[1]!!!\\c[0]"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/thenStep/4/options/2/label #721
+#. Prop brewingStart-prop
+#. IF !quest.bakiTrader-2-brewing_fun_1.solved || quest.bakiTrader-2-brewing_challenge_1.started || quest.bakiTrader-2-brewing_challenge_1.solved
+#. SHOW_CHOICE main.lea @DEFAULT
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/event/1/thenStep/4/options/2/label+%23721
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/thenStep/4/options/2/label"
+msgid "Brewing: \\c[3]\\v[item.367.name]\\c[0] (Material: \\v[item.372.amount] | Owned: \\v[item.367.amount])"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/thenStep/4/options/3/label #722
+#. Prop brewingStart-prop
+#. IF !quest.bakiTrader-2-brewing_fun_1.solved || quest.bakiTrader-2-brewing_challenge_1.started || quest.bakiTrader-2-brewing_challenge_1.solved
+#. SHOW_CHOICE main.lea @DEFAULT
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/event/1/thenStep/4/options/3/label+%23722
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/thenStep/4/options/3/label"
+msgid "Brewing: \\c[3]\\v[item.368.name]\\c[0] (Material: \\v[item.373.amount] | Owned: \\v[item.368.amount])"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/thenStep/4/options/4/label #723
+#. Prop brewingStart-prop
+#. IF !quest.bakiTrader-2-brewing_fun_1.solved || quest.bakiTrader-2-brewing_challenge_1.started || quest.bakiTrader-2-brewing_challenge_1.solved
+#. SHOW_CHOICE main.lea @DEFAULT
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/event/1/thenStep/4/options/4/label+%23723
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/thenStep/4/options/4/label"
+msgid "Brewing: \\c[3]\\v[item.369.name]\\c[0] (Material: \\v[item.374.amount] | Owned: \\v[item.369.amount])"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/thenStep/4/options/5/label #724
+#. Prop brewingStart-prop
+#. IF !quest.bakiTrader-2-brewing_fun_1.solved || quest.bakiTrader-2-brewing_challenge_1.started || quest.bakiTrader-2-brewing_challenge_1.solved
+#. SHOW_CHOICE main.lea @DEFAULT
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/event/1/thenStep/4/options/5/label+%23724
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/thenStep/4/options/5/label"
+msgid "Brewing: \\c[3]\\v[item.370.name]\\c[0] (Material: \\v[item.375.amount] | Owned: \\v[item.370.amount])"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/thenStep/4/options/6/label #706
+#. Prop brewingStart-prop
+#. IF !quest.bakiTrader-2-brewing_fun_1.solved || quest.bakiTrader-2-brewing_challenge_1.started || quest.bakiTrader-2-brewing_challenge_1.solved
+#. SHOW_CHOICE main.lea @DEFAULT
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/event/1/thenStep/4/options/6/label+%23706
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/thenStep/4/options/6/label"
+msgid "Information \\c[1]\\v[tmp.infoUpdate]\\c[0]"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/thenStep/4/options/7/label #743
+#. Prop brewingStart-prop
+#. IF !quest.bakiTrader-2-brewing_fun_1.solved || quest.bakiTrader-2-brewing_challenge_1.started || quest.bakiTrader-2-brewing_challenge_1.solved
+#. SHOW_CHOICE main.lea @DEFAULT
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/event/1/thenStep/4/options/7/label+%23743
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/thenStep/4/options/7/label"
+msgid "Turn Quality Notifications \\c[2]ON\\c[0]"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/thenStep/4/options/8/label #744
+#. Prop brewingStart-prop
+#. IF !quest.bakiTrader-2-brewing_fun_1.solved || quest.bakiTrader-2-brewing_challenge_1.started || quest.bakiTrader-2-brewing_challenge_1.solved
+#. SHOW_CHOICE main.lea @DEFAULT
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/event/1/thenStep/4/options/8/label+%23744
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/thenStep/4/options/8/label"
+msgid "Turn Quality Notifications \\c[1]OFF\\c[0]"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/thenStep/4/options/9/label #705
+#. Prop brewingStart-prop
+#. IF !quest.bakiTrader-2-brewing_fun_1.solved || quest.bakiTrader-2-brewing_challenge_1.started || quest.bakiTrader-2-brewing_challenge_1.solved
+#. SHOW_CHOICE main.lea @DEFAULT
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/event/1/thenStep/4/options/9/label+%23705
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/thenStep/4/options/9/label"
+msgid "\\c[1]Cancel\\c[0]"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/elseStep/0/text #766
+#. Prop brewingStart-prop
+#. IF NOT !quest.bakiTrader-2-brewing_fun_1.solved || quest.bakiTrader-2-brewing_challenge_1.started || quest.bakiTrader-2-brewing_challenge_1.solved
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/event/1/elseStep/0/text+%23766
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/elseStep/0/text"
+msgid "[Machine inactive]"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/76/settings/condAnims/0/interact/hoverText #91
+#. Prop scoreSign
+#. IF true
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/76/settings/condAnims/0/interact/hoverText+%2391
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/76/settings/condAnims/0/interact/hoverText"
+msgid "Brewing Statistics"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/76/settings/condAnims/0/interact/event/0/thenStep/4/text #790
+#. Prop scoreSign
+#. IF true
+#. IF quest.bakiTrader-2-brewing_fun_1.solved
+#. SHOW_BOARD_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/76/settings/condAnims/0/interact/event/0/thenStep/4/text+%23790
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/76/settings/condAnims/0/interact/event/0/thenStep/4/text"
+msgid ""
+"~ Brewing Statistics ~\n"
+"\n"
+"Quality Highscore: \n"
+"\\c[3]\\v[map.qualityRecord]\\c[0]"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/76/settings/condAnims/0/interact/event/0/thenStep/5/thenStep/0/text #791
+#. Prop scoreSign
+#. IF true
+#. IF quest.bakiTrader-2-brewing_fun_1.solved
+#. IF plot.line >= 32000
+#. SHOW_BOARD_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/76/settings/condAnims/0/interact/event/0/thenStep/5/thenStep/0/text+%23791
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/76/settings/condAnims/0/interact/event/0/thenStep/5/thenStep/0/text"
+msgid ""
+"Times brewed / Drinks gained:\n"
+"Total: \\c[3]\\v[map.brewedTotal] / \\v[map.drinksTotal]\\c[0]\n"
+"\n"
+"\\v[item.367.name]: \\v[map.brewedAtk] / \\v[map.drinksAtk]\n"
+"\\v[tmp.defName]: \\v[map.brewedDef] / \\v[map.drinksDef]\n"
+"\\v[tmp.focName]: \\v[map.brewedFoc] / \\v[map.drinksFoc]\n"
+"\\v[item.370.name]: \\v[map.brewedMhp] / \\v[map.drinksMhp]"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/76/settings/condAnims/0/interact/event/0/thenStep/5/elseStep/0/text #812
+#. Prop scoreSign
+#. IF true
+#. IF quest.bakiTrader-2-brewing_fun_1.solved
+#. IF NOT plot.line >= 32000
+#. SHOW_BOARD_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/76/settings/condAnims/0/interact/event/0/thenStep/5/elseStep/0/text+%23812
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/76/settings/condAnims/0/interact/event/0/thenStep/5/elseStep/0/text"
+msgid ""
+"Times brewed / Drinks gained:\n"
+"Total: \\c[3]\\v[map.brewedTotal] / \\v[map.drinksTotal]\\c[0]\n"
+"\n"
+"\\v[item.367.name]: \\v[map.brewedAtk] / \\v[map.drinksAtk]\n"
+"\\v[tmp.defName]: \\v[map.brewedDef] / \\v[map.drinksDef]\n"
+"\\v[item.370.name]: \\v[map.brewedMhp] / \\v[map.drinksMhp]"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/76/settings/condAnims/0/interact/event/0/elseStep/0/text #85
+#. Prop scoreSign
+#. IF true
+#. IF NOT quest.bakiTrader-2-brewing_fun_1.solved
+#. SHOW_BOARD_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/76/settings/condAnims/0/interact/event/0/elseStep/0/text+%2385
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/76/settings/condAnims/0/interact/event/0/elseStep/0/text"
+msgid "\\c[1]- UNDER CONSTRUCTION -\\c[0]"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/77/settings/text #797
+#. Analyzable brewing-anal SPAWN IF false
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/77/settings/text+%23797
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/77/settings/text"
+msgid "Brewing Machine"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/78/settings/text #798
+#. Analyzable bubblerLeft-anal
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/78/settings/text+%23798
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/78/settings/text"
+msgid "Left Waterpipe"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/79/settings/text #799
+#. Analyzable bubblerRighteft-anal
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/79/settings/text+%23799
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/79/settings/text"
+msgid "Right Waterpipe"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/80/settings/text #800
+#. Analyzable oven1-anal
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/80/settings/text+%23800
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/80/settings/text"
+msgid "Steam Oven #1"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/81/settings/text #801
+#. Analyzable oven2-anal
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/81/settings/text+%23801
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/81/settings/text"
+msgid "Steam Oven #2"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/82/settings/text #802
+#. Analyzable oven3-anal
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/82/settings/text+%23802
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/82/settings/text"
+msgid "Steam Oven #3"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/83/settings/text #803
+#. Analyzable oven4-anal
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/83/settings/text+%23803
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/83/settings/text"
+msgid "Steam Oven #4"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/93/settings/event/9/thenStep/0/text #861
+#. EventTrigger boss_receiveSteam START IF tmp.bossStarted && (tmp.steam1 || tmp.steam2 || tmp.steam3 || tmp.steam4)
+#. IF test
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/93/settings/event/9/thenStep/0/text+%23861
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/93/settings/event/9/thenStep/0/text"
+msgid "VAR: \\v[tmp.tempNr]"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/93/settings/event/10/thenStep/2/thenStep/0/text #854
+#. EventTrigger boss_receiveSteam START IF tmp.bossStarted && (tmp.steam1 || tmp.steam2 || tmp.steam3 || tmp.steam4)
+#. IF [tmp.tempStringSteam]
+#. IF test
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/93/settings/event/10/thenStep/2/thenStep/0/text+%23854
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/93/settings/event/10/thenStep/2/thenStep/0/text"
+msgid "VAR: \\v[tmp.tempStringSteam]"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/94/settings/event/13/text #823
+#. EventTrigger boss_start
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/94/settings/event/13/text+%23823
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/94/settings/event/13/text"
+msgid "[Upgrade Process START]"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/94/settings/event/15/text #858
+#. EventTrigger boss_start
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/94/settings/event/15/text+%23858
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/94/settings/event/15/text"
+msgid "[ Initiating Trial ]"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/96/settings/event/7/thenStep/0/text #850
+#. EventTrigger boss_activateShields START IF tmp.bossStarted && tmp.activateShield
+#. IF test
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/96/settings/event/7/thenStep/0/text+%23850
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/96/settings/event/7/thenStep/0/text"
+msgid "\\v[tmp.ovenText]"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/96/settings/event/7/thenStep/1/text #851
+#. EventTrigger boss_activateShields START IF tmp.bossStarted && tmp.activateShield
+#. IF test
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/96/settings/event/7/thenStep/1/text+%23851
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/96/settings/event/7/thenStep/1/text"
+msgid "\\v[tmp.ovenText]"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/96/settings/event/7/thenStep/2/text #852
+#. EventTrigger boss_activateShields START IF tmp.bossStarted && tmp.activateShield
+#. IF test
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/96/settings/event/7/thenStep/2/text+%23852
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/96/settings/event/7/thenStep/2/text"
+msgid "\\v[tmp.ovenText]"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/96/settings/event/7/thenStep/3/text #853
+#. EventTrigger boss_activateShields START IF tmp.bossStarted && tmp.activateShield
+#. IF test
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/96/settings/event/7/thenStep/3/text+%23853
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/96/settings/event/7/thenStep/3/text"
+msgid "\\v[tmp.ovenText]"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/98/settings/event/4/guiInfo/settings/text #821
+#. EventTrigger activateFirepipes START IF tmp.enemyCounter >= 1 && tmp.bossStarted
+#. ADD_GUI
+#. BarWidget
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/98/settings/event/4/guiInfo/settings/text+%23821
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/98/settings/event/4/guiInfo/settings/text"
+msgid "Overheat"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/104/settings/event/9/text #862
+#. EventTrigger bossOverheated START IF tmp.bossStarted && tmp.overheated
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/104/settings/event/9/text+%23862
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/104/settings/event/9/text"
+msgid "Overheated! Starting emergency cooling!"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/4/settings/event/30/text #185
+#. EventTrigger intro
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/4/settings/event/30/text+%23185
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/4/settings/event/30/text"
+msgid "[ Big Enemy detected. Get ready for combat! ]"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/4/settings/event/40/text #196
+#. EventTrigger intro
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/4/settings/event/40/text+%23196
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/4/settings/event/40/text"
+msgid "[ THREAT DETECTED! ]"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/4/settings/event/50/guiInfo/settings/text #2
+#. EventTrigger intro
+#. ADD_GUI
+#. BarWidget
+#: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/4/settings/event/50/guiInfo/settings/text+%232
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/4/settings/event/50/guiInfo/settings/text"
+msgid "Ship HP"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/5/settings/event/0/thenStep/0/text #4
+#. EventTrigger turretShot START IF tmp.allyShot
+#. IF test
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/5/settings/event/0/thenStep/0/text+%234
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/5/settings/event/0/thenStep/0/text"
+msgid "Turret Shot"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/8/settings/event/0/thenStep/0/thenStep/0/text #3
+#. EventTrigger targetChange START IF tmp.targetChange
+#. IF tmp.targetNamePrev != "" && (tmp.targetName != tmp.targetNamePrev)
+#. IF test
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/8/settings/event/0/thenStep/0/thenStep/0/text+%233
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/8/settings/event/0/thenStep/0/thenStep/0/text"
+msgid "Target Change"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/10/settings/event/0/guiInfo/settings/text #5
+#. EventTrigger turretRdy START IF tmp.shotReady && false
+#. ADD_GUI
+#. Information
+#: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/10/settings/event/0/guiInfo/settings/text+%235
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/10/settings/event/0/guiInfo/settings/text"
+msgid ""
+"\\c[1]Cannon Ready!\\c[0]\n"
+"Use \\c[3]Charged Throw\\c[0] to mark a target! \n"
+"\n"
+"\\c[3]Elements\\c[0] have special effects!"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/10/settings/event/0/guiInfo/settings/altText #7
+#. EventTrigger turretRdy START IF tmp.shotReady && false
+#. ADD_GUI
+#. Information
+#: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/10/settings/event/0/guiInfo/settings/altText+%237
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/10/settings/event/0/guiInfo/settings/altText"
+msgid "\\c[1]Cannon Ready!\\c[0]"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/11/settings/event/12/text #148
+#. EventTrigger helperDed START IF tmp.helperDead
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/11/settings/event/12/text+%23148
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/11/settings/event/12/text"
+msgid "[ Critical damage received. Detonation imminent! ]"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/12/settings/event/6/text #176
+#. EventTrigger fail START IF tmp.missionFailed && false
+#. SHOW_BOARD_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/12/settings/event/6/text+%23176
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/12/settings/event/6/text"
+msgid ""
+"\\c[1]QUEST FAILED\\c[0]\n"
+"\n"
+"Restart task to try again"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/12/settings/event/8/options/0/label #15
+#. EventTrigger fail START IF tmp.missionFailed && false
+#. SHOW_CHOICE main.lea @ANNOYED
+#: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/12/settings/event/8/options/0/label+%2315
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/12/settings/event/8/options/0/label"
+msgid "Restart Fight"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/12/settings/event/8/options/1/label #177
+#. EventTrigger fail START IF tmp.missionFailed && false
+#. SHOW_CHOICE main.lea @ANNOYED
+#: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/12/settings/event/8/options/1/label+%23177
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/12/settings/event/8/options/1/label"
+msgid "Back to \\v[area.rookie-harbor.name]"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/14/settings/event/14/text #184
+#. EventTrigger defenseFail START IF tmp.fail >= 5 && false
+#. SHOW_BOARD_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/14/settings/event/14/text+%23184
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/14/settings/event/14/text"
+msgid "\\c[1]You let too many weapons pass by that will now reach the continent!\\c[0]"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/18/settings/event/0/thenStep/0/text #186
+#. EventTrigger helpText START IF (tmp.introEnd && tmp.helpText != "") && false
+#. IF tmp.helpText == "heat"
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/18/settings/event/0/thenStep/0/text+%23186
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/18/settings/event/0/thenStep/0/text"
+msgid "Use \\c[3]Heat\\c[0] for explosive damage!"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/18/settings/event/1/thenStep/0/text #187
+#. EventTrigger helpText START IF (tmp.introEnd && tmp.helpText != "") && false
+#. IF tmp.helpText == "cold"
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/18/settings/event/1/thenStep/0/text+%23187
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/18/settings/event/1/thenStep/0/text"
+msgid "Use \\c[3]Cold\\c[0] to slow down single targets!"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/18/settings/event/2/thenStep/0/text #188
+#. EventTrigger helpText START IF (tmp.introEnd && tmp.helpText != "") && false
+#. IF tmp.helpText == "shock"
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/18/settings/event/2/thenStep/0/text+%23188
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/18/settings/event/2/thenStep/0/text"
+msgid "Use \\c[3]Shock\\c[0] to hit two targets at once!"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/18/settings/event/3/thenStep/0/text #189
+#. EventTrigger helpText START IF (tmp.introEnd && tmp.helpText != "") && false
+#. IF tmp.helpText == "wave"
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/18/settings/event/3/thenStep/0/text+%23189
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/18/settings/event/3/thenStep/0/text"
+msgid "Use \\c[3]Wave\\c[0] to hit targets in a line!"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/23/settings/event/5/0_0/3/thenStep/0/text #190
+#. EventTrigger spawnEnemies START IF tmp.introEnd
+#. SELECT_RANDOM
+#. IF test
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/23/settings/event/5/0_0/3/thenStep/0/text+%23190
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/23/settings/event/5/0_0/3/thenStep/0/text"
+msgid "(Turret 1 Spawn)"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/23/settings/event/5/1_0/3/thenStep/0/text #191
+#. EventTrigger spawnEnemies START IF tmp.introEnd
+#. SELECT_RANDOM
+#. IF test
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/23/settings/event/5/1_0/3/thenStep/0/text+%23191
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/23/settings/event/5/1_0/3/thenStep/0/text"
+msgid "(Turret 2 Spawn)"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/23/settings/event/5/2_0/3/thenStep/0/text #192
+#. EventTrigger spawnEnemies START IF tmp.introEnd
+#. SELECT_RANDOM
+#. IF test
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/23/settings/event/5/2_0/3/thenStep/0/text+%23192
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/23/settings/event/5/2_0/3/thenStep/0/text"
+msgid "(Turret 3 Spawn)"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/23/settings/event/5/3_0/3/thenStep/0/text #193
+#. EventTrigger spawnEnemies START IF tmp.introEnd
+#. SELECT_RANDOM
+#. IF test
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/23/settings/event/5/3_0/3/thenStep/0/text+%23193
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/23/settings/event/5/3_0/3/thenStep/0/text"
+msgid "(Turret 4 Spawn)"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/23/settings/event/5/4_0/3/thenStep/0/text #194
+#. EventTrigger spawnEnemies START IF tmp.introEnd
+#. SELECT_RANDOM
+#. IF test
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/23/settings/event/5/4_0/3/thenStep/0/text+%23194
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/23/settings/event/5/4_0/3/thenStep/0/text"
+msgid "(Bomb 1 Spawn)"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/23/settings/event/5/5_0/3/thenStep/0/text #195
+#. EventTrigger spawnEnemies START IF tmp.introEnd
+#. SELECT_RANDOM
+#. IF test
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/23/settings/event/5/5_0/3/thenStep/0/text+%23195
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/23/settings/event/5/5_0/3/thenStep/0/text"
+msgid "(Bomb 2 Spawn)"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json entities/350/settings/event/38/guiInfo/settings/text #1765
+#. EventTrigger questGreens3-fight1Boss
+#. ADD_GUI
+#. BarWidget
+#: extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json+entities/350/settings/event/38/guiInfo/settings/text+%231765
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json//entities/350/settings/event/38/guiInfo/settings/text"
+msgid "Escortee Life"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json entities/350/settings/event/38/guiInfo/settings/taskTitle #1766
+#. EventTrigger questGreens3-fight1Boss
+#. ADD_GUI
+#. BarWidget
+#: extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json+entities/350/settings/event/38/guiInfo/settings/taskTitle+%231766
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json//entities/350/settings/event/38/guiInfo/settings/taskTitle"
+msgid "Energy"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json entities/356/settings/event/1/thenStep/0/thenStep/0/message #793
+#. EventTrigger hpUpdate START IF tmp.escortCombat
+#. IF tmp.quest-escorteeHit
+#. IF tmp.quest-escorteeHPMsg <= 2 && (tmp.escort-Life <= 0.25)
+#. SHOW_SIDE_MSG greenies-jungle.female-examiner-white @DEFAULT
+#: extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json+entities/356/settings/event/1/thenStep/0/thenStep/0/message+%23793
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json//entities/356/settings/event/1/thenStep/0/thenStep/0/message"
+msgid "Getting dizzy..."
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json entities/356/settings/event/1/thenStep/0/thenStep/1/message #792
+#. EventTrigger hpUpdate START IF tmp.escortCombat
+#. IF tmp.quest-escorteeHit
+#. IF tmp.quest-escorteeHPMsg <= 2 && (tmp.escort-Life <= 0.25)
+#. SHOW_SIDE_MSG main.lea @SHOCKED
+#: extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json+entities/356/settings/event/1/thenStep/0/thenStep/1/message+%23792
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json//entities/356/settings/event/1/thenStep/0/thenStep/1/message"
+msgid "...!"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json entities/356/settings/event/1/thenStep/0/elseStep/0/thenStep/0/message #790
+#. EventTrigger hpUpdate START IF tmp.escortCombat
+#. IF tmp.quest-escorteeHit
+#. IF NOT tmp.quest-escorteeHPMsg <= 2 && (tmp.escort-Life <= 0.25)
+#. IF tmp.quest-escorteeHPMsg <= 1 && (tmp.escort-Life <= 0.5)
+#. SHOW_SIDE_MSG greenies-jungle.female-examiner-white @DEFAULT
+#: extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json+entities/356/settings/event/1/thenStep/0/elseStep/0/thenStep/0/message+%23790
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json//entities/356/settings/event/1/thenStep/0/elseStep/0/thenStep/0/message"
+msgid "Don't want to stress you, but this is getting a bit painful..."
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json entities/356/settings/event/1/thenStep/0/elseStep/0/thenStep/1/message #794
+#. EventTrigger hpUpdate START IF tmp.escortCombat
+#. IF tmp.quest-escorteeHit
+#. IF NOT tmp.quest-escorteeHPMsg <= 2 && (tmp.escort-Life <= 0.25)
+#. IF tmp.quest-escorteeHPMsg <= 1 && (tmp.escort-Life <= 0.5)
+#. SHOW_SIDE_MSG main.lea @NERVOUS
+#: extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json+entities/356/settings/event/1/thenStep/0/elseStep/0/thenStep/1/message+%23794
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json//entities/356/settings/event/1/thenStep/0/elseStep/0/thenStep/1/message"
+msgid "..."
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json entities/356/settings/event/1/thenStep/0/elseStep/0/elseStep/0/thenStep/0/message #791
+#. EventTrigger hpUpdate START IF tmp.escortCombat
+#. IF tmp.quest-escorteeHit
+#. IF NOT tmp.quest-escorteeHPMsg <= 2 && (tmp.escort-Life <= 0.25)
+#. IF NOT tmp.quest-escorteeHPMsg <= 1 && (tmp.escort-Life <= 0.5)
+#. IF tmp.quest-escorteeHPMsg <= 0
+#. SHOW_SIDE_MSG greenies-jungle.female-examiner-white @DEFAULT
+#: extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json+entities/356/settings/event/1/thenStep/0/elseStep/0/elseStep/0/thenStep/0/message+%23791
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json//entities/356/settings/event/1/thenStep/0/elseStep/0/elseStep/0/thenStep/0/message"
+msgid "Ouchie... ghost hits are as nasty as it looks."
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json entities/357/settings/event/17/text #176
+#. EventTrigger escort-dead START IF tmp.escortDead
+#. SHOW_BOARD_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json+entities/357/settings/event/17/text+%23176
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json//entities/357/settings/event/17/text"
+msgid ""
+"\\c[1]QUEST FAILED\\c[0]\n"
+"\n"
+"Restart task to try again"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json entities/358/settings/event/0/text #1772
+#. EventTrigger escortHeal START IF tmp.escortHeal
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json+entities/358/settings/event/0/text+%231772
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json//entities/358/settings/event/0/text"
+msgid "[ ESCORT HEAL ]"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight4-tremor.json entities/6/settings/interact/hoverText #409
+#. Prop bossInteract-prop SPAWN IF (quest.tremor-1.task.2 && !(quest.tremor-1.solved || quest.tremor-1.task.3) && !tmp.fightBossStart)
+#: extension/post-game/data/maps/arena/faction-dlc/fight4-tremor.json+entities/6/settings/interact/hoverText+%23409
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight4-tremor.json//entities/6/settings/interact/hoverText"
+msgid "Awaken the machine"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight4-tremor.json entities/6/settings/interact/event/2/action/5/text #9
+#. Prop bossInteract-prop SPAWN IF (quest.tremor-1.task.2 && !(quest.tremor-1.solved || quest.tremor-1.task.3) && !tmp.fightBossStart)
+#. DO_ACTION
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight4-tremor.json+entities/6/settings/interact/event/2/action/5/text+%239
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight4-tremor.json//entities/6/settings/interact/event/2/action/5/text"
+msgid "[ Vibrating machine ]"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json entities/5/settings/event/10/message #660
+#. EventTrigger fightPreStart START IF false
+#. SHOW_MSG main.lea @NERVOUS
+#: extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json+entities/5/settings/event/10/message+%23660
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json//entities/5/settings/event/10/message"
+msgid "Hi.\\. Lea.\\. Why?"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json entities/5/settings/event/11/text #665
+#. EventTrigger fightPreStart START IF false
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json+entities/5/settings/event/11/text+%23665
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json//entities/5/settings/event/11/text"
+msgid "[aggressive goat noises]"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json entities/5/settings/event/13/text #659
+#. EventTrigger fightPreStart START IF false
+#. SHOW_DREAM_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json+entities/5/settings/event/13/text+%23659
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json//entities/5/settings/event/13/text"
+msgid "\\v[lore.title.seeker]!\\. This is place of goat now!\\. Leave!"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json entities/5/settings/event/15/message #517
+#. EventTrigger fightPreStart START IF false
+#. SHOW_MSG main.lea @SHAKE
+#: extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json+entities/5/settings/event/15/message+%23517
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json//entities/5/settings/event/15/message"
+msgid "[shakes head]"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json entities/5/settings/event/16/message #663
+#. EventTrigger fightPreStart START IF false
+#. SHOW_MSG main.lea @NERVOUS
+#: extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json+entities/5/settings/event/16/message+%23663
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json//entities/5/settings/event/16/message"
+msgid "How?\\. Meet.\\. Why?"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json entities/5/settings/event/17/text #672
+#. EventTrigger fightPreStart START IF false
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json+entities/5/settings/event/17/text+%23672
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json//entities/5/settings/event/17/text"
+msgid "[even more aggressive goat noises]"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json entities/5/settings/event/19/text #673
+#. EventTrigger fightPreStart START IF false
+#. SHOW_DREAM_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json+entities/5/settings/event/19/text+%23673
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json//entities/5/settings/event/19/text"
+msgid "No talk!\\. Leave! Or.\\..\\..\\. Fight!!"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json entities/5/settings/event/21/message #674
+#. EventTrigger fightPreStart START IF false
+#. SHOW_MSG main.lea @EXHAUSTED
+#: extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json+entities/5/settings/event/21/message+%23674
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json//entities/5/settings/event/21/message"
+msgid "..."
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json entities/28/settings/event/0/action/2/text #723
+#. EventTrigger fightReinforcements1 START IF false
+#. DO_ACTION
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json+entities/28/settings/event/0/action/2/text+%23723
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json//entities/28/settings/event/0/action/2/text"
+msgid "[aggressive goat noises]"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json entities/28/settings/event/2/action/2/text #724
+#. EventTrigger fightReinforcements1 START IF false
+#. DO_ACTION
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json+entities/28/settings/event/2/action/2/text+%23724
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json//entities/28/settings/event/2/action/2/text"
+msgid "[aggressive goat noises]"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json entities/28/settings/event/4/action/2/text #725
+#. EventTrigger fightReinforcements1 START IF false
+#. DO_ACTION
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json+entities/28/settings/event/4/action/2/text+%23725
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json//entities/28/settings/event/4/action/2/text"
+msgid "[aggressive goat noises]"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json entities/28/settings/event/6/action/2/text #726
+#. EventTrigger fightReinforcements1 START IF false
+#. DO_ACTION
+#. SHOW_AR_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json+entities/28/settings/event/6/action/2/text+%23726
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json//entities/28/settings/event/6/action/2/text"
+msgid "[aggressive goat noises]"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json entities/31/settings/analyzable/text #423
+#. NPC pet-goat
+#: extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json+entities/31/settings/analyzable/text+%23423
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json//entities/31/settings/analyzable/text"
+msgid "Kid Goat Zira"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json entities/32/settings/analyzable/text #695
+#. NPC business
+#: extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json+entities/32/settings/analyzable/text+%23695
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json//entities/32/settings/analyzable/text"
+msgid "Mrs. Hoover"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight7-ape.json entities/3/settings/event/10/message #697
+#. EventTrigger fightBossStart-test START IF false
+#. SHOW_MSG main.lea @WRAP_SHOULDER
+#: extension/post-game/data/maps/arena/faction-dlc/fight7-ape.json+entities/3/settings/event/10/message+%23697
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight7-ape.json//entities/3/settings/event/10/message"
+msgid "... W-where?"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight7-ape.json entities/3/settings/event/11/text #698
+#. EventTrigger fightBossStart-test START IF false
+#. SHOW_DREAM_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight7-ape.json+entities/3/settings/event/11/text+%23698
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight7-ape.json//entities/3/settings/event/11/text"
+msgid "There we are, \\v[lore.title.seeker].\\. This shall be our battleground."
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight7-ape.json entities/3/settings/event/12/message #699
+#. EventTrigger fightBossStart-test START IF false
+#. SHOW_MSG main.lea @EXHAUSTED
+#: extension/post-game/data/maps/arena/faction-dlc/fight7-ape.json+entities/3/settings/event/12/message+%23699
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight7-ape.json//entities/3/settings/event/12/message"
+msgid "..."
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight7-ape.json entities/3/settings/event/13/text #700
+#. EventTrigger fightBossStart-test START IF false
+#. SHOW_DREAM_MSG
+#: extension/post-game/data/maps/arena/faction-dlc/fight7-ape.json+entities/3/settings/event/13/text+%23700
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight7-ape.json//entities/3/settings/event/13/text"
+msgid "Now, be on your guard!"
+msgstr ""
+
+#. extension/post-game/data/maps/arena/faction-dlc/fight7-ape.json entities/3/settings/event/14/message #701
+#. EventTrigger fightBossStart-test START IF false
+#. SHOW_MSG main.lea @DETERMINED
+#: extension/post-game/data/maps/arena/faction-dlc/fight7-ape.json+entities/3/settings/event/14/message+%23701
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight7-ape.json//entities/3/settings/event/14/message"
+msgid "Meet.\\. Lea!"
+msgstr ""
 
 #. extension/post-game/data/maps/arena/pvp/pvp-apollo.json entities/300/settings/event/12/message #3
 #. EventTrigger Start
