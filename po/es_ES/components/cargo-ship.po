@@ -3,15 +3,16 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.1-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-14 01:09+0000\n"
-"POT-Revision-Date: 2021-04-14 01:09+0000\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2021-04-15 01:25+0000\n"
+"Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
+"Language-Team: Spanish <https://weblate.crosscode.ru/projects/crosscode/cargo-ship/es/>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.4\n"
+"POT-Revision-Date: 2021-04-14 01:09+0000\n"
 
 #. data/areas/cargo-ship.json name #1
 #: data/areas/cargo-ship.json+name+%231
@@ -425,7 +426,7 @@ msgstr "¿La iniciación? Sin ningún problema."
 #: data/maps/cargo-ship/bridge.json+entities/21/settings/event/17/message+%239
 msgctxt "data/maps/cargo-ship/bridge.json//entities/21/settings/event/17/message"
 msgid "Here's the avatar - name's Lea."
-msgstr "Aquí está el avatar - el nombre es Lea."
+msgstr "Aquí está el avatar - se llama Lea."
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/18/message #10
 #. EventTrigger firstVisit START IF plot.line >= 100
@@ -433,7 +434,7 @@ msgstr "Aquí está el avatar - el nombre es Lea."
 #: data/maps/cargo-ship/bridge.json+entities/21/settings/event/18/message+%2310
 msgctxt "data/maps/cargo-ship/bridge.json//entities/21/settings/event/18/message"
 msgid "Aye... hard to miss that lass.\\. Hope ye didn't run into everythin' with those horns there."
-msgstr "Ah... dificil no ver a la muchacha.\\. Espero que no te hayas chocado con todo por ahí con esos cuernos que tienes."
+msgstr "Ah... una muchacha llamativa.\\. Espero que no te hayas chocado con todo por ahí con esos cuernos que tienes."
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/19/message #11
 #. EventTrigger firstVisit START IF plot.line >= 100
@@ -1092,7 +1093,7 @@ msgstr "No hay transmisión, no veo ningún barco.\\. ¿Qué está pasando?"
 #: data/maps/cargo-ship/bridge.json+entities/32/settings/event/16/message+%2358
 msgctxt "data/maps/cargo-ship/bridge.json//entities/32/settings/event/16/message"
 msgid "Captain! I think I caught it on satellite! You gotta see this!"
-msgstr "¡Capitán! ¡Creo que lo tengo en un satélite! ¡Tienes que ver esto!"
+msgstr "¡Capitán! ¡Creo que lo tengo en un satélite! ¡Tiene que ver esto!"
 
 #. data/maps/cargo-ship/bridge.json entities/34/settings/event/13/message #61
 #. EventTrigger captainTour? START IF plot.line >= 15200
@@ -1501,7 +1502,7 @@ msgstr "¡Nos vemos!"
 #: data/maps/cargo-ship/cabins1.json+entities/108/settings/event/34/message+%2322
 msgctxt "data/maps/cargo-ship/cabins1.json//entities/108/settings/event/34/message"
 msgid "Aye, I'll be back on the bridge. Ye can talk to me when ye're ready for the lesson."
-msgstr "Si, yo iré al puente. Háblame cuando estés lista para la lección."
+msgstr "Yo iré al puente. Háblame cuando estés lista para la lección."
 
 #. data/maps/cargo-ship/cabins1.json entities/108/settings/event/35/message #23
 #. EventTrigger kitchenScene START IF map.kitchenScene
@@ -1525,7 +1526,7 @@ msgstr "Ey, ustedes dos."
 #: data/maps/cargo-ship/cabins1.json+entities/108/settings/event/44/message+%2325
 msgctxt "data/maps/cargo-ship/cabins1.json//entities/108/settings/event/44/message"
 msgid "Make sure ye clean up the galley after ye're done cookin', understood?"
-msgstr "Asegúrense de limpiar la cocina cuando terminen de cocinar, ¿entendido?"
+msgstr "Asegúrense de limpiar la cocina cuando terminen, ¿entendido?"
 
 #. data/maps/cargo-ship/cabins1.json entities/108/settings/event/45/message #26
 #. EventTrigger kitchenScene START IF map.kitchenScene
@@ -1848,7 +1849,7 @@ msgstr "¡Oh! ¡Pensé que habían cancelado este juego!"
 #: data/maps/cargo-ship/cabins2.json+entities/109/settings/npcStates/0/event/7/message+%2314
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/109/settings/npcStates/0/event/7/message"
 msgid " \\!.\\!.\\!. \\!Dang it!"
-msgstr " \\¡!.\\¡!.\\¡!. \\¡! ¡Demonios!"
+msgstr " ¡!\\.¡!\\.¡!\\.¡!\\. ¡Demonios!"
 
 #. data/maps/cargo-ship/cabins2.json entities/109/settings/npcStates/0/event/8/message #15
 #. NPC Felix
@@ -4292,7 +4293,7 @@ msgstr "¡...!"
 #: data/maps/cargo-ship/ground.json+entities/40/settings/event/21/message+%2323
 msgctxt "data/maps/cargo-ship/ground.json//entities/40/settings/event/21/message"
 msgid "Hey there, Carla. Good to see you.\\. About all these strange boxes here..."
-msgstr "Ey, Carla. Bueno verte.\\. Sobre todas estas extrañas cajas de por aquí..."
+msgstr "Ey, Carla. Es bueno verte.\\. Quería hablarte sobre todas estas cajas..."
 
 #. data/maps/cargo-ship/ground.json entities/40/settings/event/23/message #24
 #. EventTrigger cleanUpCarlaDamnIt START IF true
@@ -4300,7 +4301,7 @@ msgstr "Ey, Carla. Bueno verte.\\. Sobre todas estas extrañas cajas de por aqu�
 #: data/maps/cargo-ship/ground.json+entities/40/settings/event/23/message+%2324
 msgctxt "data/maps/cargo-ship/ground.json//entities/40/settings/event/23/message"
 msgid "Yeah... I know.\\. I'm supposed to clean that up."
-msgstr "Si... lo sé.\\. Se supone que lo limpie."
+msgstr "Si... lo sé.\\. Debería limpiarlo."
 
 #. data/maps/cargo-ship/ground.json entities/40/settings/event/24/message #25
 #. EventTrigger cleanUpCarlaDamnIt START IF true
@@ -5181,7 +5182,7 @@ msgstr "Al Teletransportador"
 #: data/maps/cargo-ship/room1-5.json+entities/0/settings/event/2/message+%231
 msgctxt "data/maps/cargo-ship/room1-5.json//entities/0/settings/event/2/message"
 msgid "Girl, you sure are a natural with that ball thing!"
-msgstr "¡Chica, manejas eso de la bola con mucha habilidad!"
+msgstr "¡Se te da bien lo de las bolas, chica!"
 
 #. data/maps/cargo-ship/room1-5.json entities/0/settings/event/3/message #2
 #. EventTrigger hint2 START IF map.hint2
@@ -5597,7 +5598,7 @@ msgstr "Uff, partamos de cero."
 #: data/maps/cargo-ship/room1.json+entities/39/settings/npcStates/1/event/3/0/4/message+%237
 msgctxt "data/maps/cargo-ship/room1.json//entities/39/settings/npcStates/1/event/3/0/4/message"
 msgid "Look, how about you try to jump over this container here?"
-msgstr "Mira, ¿que tal si intentas saltar este contenedor de aquí?"
+msgstr "Mira, ¿qué tal si intentas saltar este contenedor de aquí?"
 
 #. data/maps/cargo-ship/room1.json entities/39/settings/npcStates/1/event/3/0/5/message #8
 #. NPC carla
@@ -5799,7 +5800,7 @@ msgstr "[asiente]"
 #: data/maps/cargo-ship/room1.json+entities/39/settings/npcStates/3/event/3/0/2/thenStep/1/message+%2327
 msgctxt "data/maps/cargo-ship/room1.json//entities/39/settings/npcStates/3/event/3/0/2/thenStep/1/message"
 msgid "Y'know, ball throwing is pretty much the solution to most obstacles around here."
-msgstr "Sabes, tirar bolas es prácticamente la solución de la mayoría de los obstáculos aquí."
+msgstr "Sabes, tirar bolas es la solución a casi todos los obstáculos aquí."
 
 #. data/maps/cargo-ship/room1.json entities/39/settings/npcStates/3/event/3/0/2/thenStep/2/message #28
 #. NPC carla
@@ -5810,7 +5811,7 @@ msgstr "Sabes, tirar bolas es prácticamente la solución de la mayoría de los 
 #: data/maps/cargo-ship/room1.json+entities/39/settings/npcStates/3/event/3/0/2/thenStep/2/message+%2328
 msgctxt "data/maps/cargo-ship/room1.json//entities/39/settings/npcStates/3/event/3/0/2/thenStep/2/message"
 msgid "Those boxes here are no exception."
-msgstr "Esas cajas no son excepción."
+msgstr "Esas cajas no son la excepción."
 
 #. data/maps/cargo-ship/room1.json entities/39/settings/npcStates/3/event/3/0/2/elseStep/1/message #29
 #. NPC carla
@@ -6173,7 +6174,7 @@ msgstr "Maldita seas."
 #: data/maps/cargo-ship/room2.json+entities/23/settings/event/0/message+%231
 msgctxt "data/maps/cargo-ship/room2.json//entities/23/settings/event/0/message"
 msgid "Welcome to the rats' fortress, standing unpenetrated for centuries!"
-msgstr "Bienvenida al fuerte de las ratas, ¡no ha sido penetrada en siglos!"
+msgstr "Bienvenida al fuerte de las ratas, ¡no ha sido penetrado en siglos!"
 
 #. data/maps/cargo-ship/room2.json entities/23/settings/event/1/message #2
 #. EventTrigger fortressComment START IF map.blabla
@@ -6219,7 +6220,7 @@ msgstr "[asiente]"
 #: data/maps/cargo-ship/room2.json+entities/49/settings/npcStates/2/event/3/0/1/message+%236
 msgctxt "data/maps/cargo-ship/room2.json//entities/49/settings/npcStates/2/event/3/0/1/message"
 msgid "Yeah, you're probably missing the mouse robots here."
-msgstr "Si, puede que estés fallando las ratas robots de aquí."
+msgstr "Veo que te falta matar un par de ratas."
 
 #. data/maps/cargo-ship/room2.json entities/49/settings/npcStates/2/event/3/0/2/message #7
 #. NPC carla
@@ -6229,7 +6230,7 @@ msgstr "Si, puede que estés fallando las ratas robots de aquí."
 #: data/maps/cargo-ship/room2.json+entities/49/settings/npcStates/2/event/3/0/2/message+%237
 msgctxt "data/maps/cargo-ship/room2.json//entities/49/settings/npcStates/2/event/3/0/2/message"
 msgid "Those things are pretty small, y'know?\\. Might be they're hidden somewhere..."
-msgstr "Son bastante pequeñas, ¿sabes?\\. Puede que se estén escondiendo en algún lugar..."
+msgstr "Son bastante pequeñas, ¿sabes?\\. Quizá tengan un escondite..."
 
 #. data/maps/cargo-ship/room2.json entities/49/settings/npcStates/2/event/3/1/0/message #8
 #. NPC carla
@@ -6296,7 +6297,7 @@ msgstr "[asiente]"
 #: data/maps/cargo-ship/room2.json+entities/49/settings/npcStates/3/event/3/0/2/message+%2314
 msgctxt "data/maps/cargo-ship/room2.json//entities/49/settings/npcStates/3/event/3/0/2/message"
 msgid "Ain't no way you're getting close to those mouse robots in that corner."
-msgstr "No hay forma de que te acerques a las ratas robot en esa esquina."
+msgstr "No hay forma de que subas hasta allí para darle a las ratas."
 
 #. data/maps/cargo-ship/room2.json entities/49/settings/npcStates/3/event/3/0/3/message #15
 #. NPC carla
@@ -6306,7 +6307,7 @@ msgstr "No hay forma de que te acerques a las ratas robot en esa esquina."
 #: data/maps/cargo-ship/room2.json+entities/49/settings/npcStates/3/event/3/0/3/message+%2315
 msgctxt "data/maps/cargo-ship/room2.json//entities/49/settings/npcStates/3/event/3/0/3/message"
 msgid "But you can still hit them, y'know? Remember the orange walls? Balls flying through them and all?"
-msgstr "Pero aún puedes darles, ¿sabes? ¿Recuerdas las paredes naranjas? ¿Cómo las bolas las atraviesan y todo eso?"
+msgstr "Pero aún puedes darles, ¿sabes? ¿Recuerdas que las bolas atraviesan las paredes naranjas?"
 
 #. data/maps/cargo-ship/room2.json entities/49/settings/npcStates/3/event/3/1/0/message #16
 #. NPC carla
@@ -6378,7 +6379,7 @@ msgstr "¡Ja, finalmente!\\. ¡Esta es mi favorita!"
 #: data/maps/cargo-ship/room2.json+entities/59/settings/event/11/message+%2323
 msgctxt "data/maps/cargo-ship/room2.json//entities/59/settings/event/11/message"
 msgid "Here you can go wild on these robot mice!"
-msgstr "¡Aquí púedes volverte loca con estas ratas robot!"
+msgstr "¡Vuélvete loca con las ratas!"
 
 #. data/maps/cargo-ship/room2.json entities/59/settings/event/12/message #24
 #. EventTrigger intro
@@ -6386,7 +6387,7 @@ msgstr "¡Aquí púedes volverte loca con estas ratas robot!"
 #: data/maps/cargo-ship/room2.json+entities/59/settings/event/12/message+%2324
 msgctxt "data/maps/cargo-ship/room2.json//entities/59/settings/event/12/message"
 msgid "Moving target practice!\\. Have fun, girl!"
-msgstr "¡Práctica con objetivos móviles!\\. ¡Diviértete, chica!"
+msgstr "¡Práctica de objetivos móviles!\\. ¡Diviértete, chica!"
 
 #. data/maps/cargo-ship/room2.json entities/59/settings/event/13/message #25
 #. EventTrigger intro
@@ -7620,7 +7621,7 @@ msgstr ""
 #: data/maps/cargo-ship/room5.json+entities/65/settings/npcStates/1/event/2/message+%2333
 msgctxt "data/maps/cargo-ship/room5.json//entities/65/settings/npcStates/1/event/2/message"
 msgid "Just do a few warm-up swings on those pesky obstacles."
-msgstr "Tan sólo haz un par de golpes de entrenamiento en esos obstáculos."
+msgstr "Tan sólo dale unos golpes a esos obstáculos."
 
 #. data/maps/cargo-ship/room5.json entities/65/settings/npcStates/2/event/2/message #34
 #. NPC carla
@@ -7629,7 +7630,7 @@ msgstr "Tan sólo haz un par de golpes de entrenamiento en esos obstáculos."
 #: data/maps/cargo-ship/room5.json+entities/65/settings/npcStates/2/event/2/message+%2334
 msgctxt "data/maps/cargo-ship/room5.json//entities/65/settings/npcStates/2/event/2/message"
 msgid "Just do a few warm-up swings on those pesky obstacles."
-msgstr "Tan sólo haz un par de golpes de entrenamiento en esos obstáculos."
+msgstr "Tan sólo dale unos golpes a esos obstáculos."
 
 #. data/maps/cargo-ship/room5.json entities/65/settings/npcStates/3/event/2/message #35
 #. NPC carla
@@ -7853,7 +7854,7 @@ msgstr "¡...!"
 #: data/maps/cargo-ship/ship.json+entities/80/settings/event/23/message+%235
 msgctxt "data/maps/cargo-ship/ship.json//entities/80/settings/event/23/message"
 msgid "Y'know, the view here is nice, but you gotta see what's beyond the bow."
-msgstr "Sabes, la vista aquí está bastante bien, pero tienes que ver lo que viene después de este arco."
+msgstr "Sabes, la vista aquí está bastante bien, pero tienes que ir a la proa."
 
 #. data/maps/cargo-ship/ship.json entities/80/settings/event/24/message #6
 #. EventTrigger firstOverview START IF plot.line >= 110
@@ -7861,7 +7862,7 @@ msgstr "Sabes, la vista aquí está bastante bien, pero tienes que ver lo que vi
 #: data/maps/cargo-ship/ship.json+entities/80/settings/event/24/message+%236
 msgctxt "data/maps/cargo-ship/ship.json//entities/80/settings/event/24/message"
 msgid "We're currently steering towards Rhombus Square. That's something to look at!"
-msgstr "Estamos girando hacia Rhombus Square. ¡Y que vistas!"
+msgstr "Estamos apuntando hacia Rhombus Square. ¡Y que vistas!"
 
 #. data/maps/cargo-ship/ship.json entities/80/settings/event/25/message #7
 #. EventTrigger firstOverview START IF plot.line >= 110
@@ -7877,7 +7878,7 @@ msgstr "¿...?"
 #: data/maps/cargo-ship/ship.json+entities/80/settings/event/27/message+%238
 msgctxt "data/maps/cargo-ship/ship.json//entities/80/settings/event/27/message"
 msgid "Actually, why not go to the bow and explain the situation to Lea there?"
-msgstr "De hecho, ¿por qué no vamos al arco y le explicamos la situación a Lea allí mismo?"
+msgstr "De hecho, ¿por qué no vamos a la proa y le explicamos la situación a Lea allí mismo?"
 
 #. data/maps/cargo-ship/ship.json entities/80/settings/event/28/message #9
 #. EventTrigger firstOverview START IF plot.line >= 110
@@ -7885,7 +7886,7 @@ msgstr "De hecho, ¿por qué no vamos al arco y le explicamos la situación a Le
 #: data/maps/cargo-ship/ship.json+entities/80/settings/event/28/message+%239
 msgctxt "data/maps/cargo-ship/ship.json//entities/80/settings/event/28/message"
 msgid "Seeing Rhombus Square will make it easier for her to understand, correct?"
-msgstr "Ver Rhombus Square le hará más fácil a Lea entender, ¿cierto?"
+msgstr "Rhombus Square puede que le ayude a refrescar la memoria, ¿cierto?"
 
 #. data/maps/cargo-ship/ship.json entities/80/settings/event/29/message #10
 #. EventTrigger firstOverview START IF plot.line >= 110
@@ -8168,7 +8169,7 @@ msgstr "¡Pero no seas tímida! Nosotros, los marineros, podemos parecer rudos, 
 #: data/maps/cargo-ship/ship.json+entities/83/settings/npcStates/0/event/2/thenStep/0/thenStep/5/message+%2324
 msgctxt "data/maps/cargo-ship/ship.json//entities/83/settings/npcStates/0/event/2/thenStep/0/thenStep/5/message"
 msgid "You want to know what I'm doing here?"
-msgstr "¿Sabes que estoy haciendo aquí?"
+msgstr "¿Quieres saber lo que estoy haciendo aquí?"
 
 #. data/maps/cargo-ship/ship.json entities/83/settings/npcStates/0/event/2/thenStep/0/thenStep/6/0/0/message #25
 #. NPC solarPanelMaintainer
@@ -8643,7 +8644,7 @@ msgstr "¿...?"
 #: data/maps/cargo-ship/ship.json+entities/86/settings/npcStates/0/event/13/message+%2358
 msgctxt "data/maps/cargo-ship/ship.json//entities/86/settings/npcStates/0/event/13/message"
 msgid "Oi, make sure you don't fall into the sea.\\. I'm pretty sure avatars are bad at swimming."
-msgstr "Eso si, ten cuidado, no te llegues a caer al mar.\\. Estoy seguro de que los avatares son malos nadando."
+msgstr "Eso si, ten cuidado, no te llegues a caer al mar.\\. Creo recordar que los avatares no pueden nadar."
 
 #. data/maps/cargo-ship/ship.json entities/86/settings/npcStates/2/event/2/message #1022
 #. NPC old-railing-dude
@@ -9066,7 +9067,7 @@ msgstr "..."
 #: data/maps/cargo-ship/ship.json+entities/92/settings/npcStates/0/event/4/message+%2375
 msgctxt "data/maps/cargo-ship/ship.json//entities/92/settings/npcStates/0/event/4/message"
 msgid "I had heard that avatar designs tend to be flamboyant, but... really?"
-msgstr "Había oído que los diseos de los avatares eran bastante alocados, pero... ¿en serio?"
+msgstr "Había oído que los diseños de los avatares eran bastante alocados, pero... ¿en serio?"
 
 #. data/maps/cargo-ship/ship.json entities/92/settings/npcStates/0/event/5/message #76
 #. NPC
@@ -10225,7 +10226,7 @@ msgstr "Ahora practicaremos el esquive."
 #: data/maps/cargo-ship/ship.json+entities/129/settings/event/12/elseStep/102/1/27/message+%23182
 msgctxt "data/maps/cargo-ship/ship.json//entities/129/settings/event/12/elseStep/102/1/27/message"
 msgid "The turret will now start shootin' at ye."
-msgstr "La torret te estará disparando."
+msgstr "La torreta te estará disparando."
 
 #. data/maps/cargo-ship/ship.json entities/129/settings/event/12/elseStep/102/1/28/message #183
 #. EventTrigger 10hit-end START IF tmp.turrentHit >= 10
@@ -12227,7 +12228,7 @@ msgstr "¡Capitán!"
 #: data/maps/cargo-ship/ship.json+entities/146/settings/event/13/message+%23244
 msgctxt "data/maps/cargo-ship/ship.json//entities/146/settings/event/13/message"
 msgid "I'm sorry to interrupt, but we need you on the bridge!\\. Right now!"
-msgstr "¡Perdone la interrumpción, pero le necesitamos en el puente!.\\. ¡Ahora mismo!"
+msgstr "¡Perdone la interrumpción, pero le necesitamos en el puente!\\. ¡Ahora mismo!"
 
 #. data/maps/cargo-ship/ship.json entities/146/settings/event/24/message #245
 #. EventTrigger tutorial-interrupt START IF plot.line >= 350
@@ -12391,7 +12392,7 @@ msgstr "... ¿Me acabas de llamar \"mortal\"? Maldito chiflado."
 #: data/maps/cargo-ship/ship.json+entities/149/settings/event/16/thenStep/27/message+%23263
 msgctxt "data/maps/cargo-ship/ship.json//entities/149/settings/event/16/thenStep/27/message"
 msgid "Ye better leave right now or I'll be glad to tighten yer grip on reality!"
-msgstr "¡Más te vale que vayas ahora mismo, o te devolveré a la realidad!"
+msgstr "¡Más te vale que te vayas ahora mismo, o te devolveré a la realidad!"
 
 #. data/maps/cargo-ship/ship.json entities/149/settings/event/16/thenStep/29/message #264
 #. EventTrigger designerAppears START IF plot.line >= 500
@@ -12600,7 +12601,7 @@ msgstr "¡Como sea!"
 #: data/maps/cargo-ship/ship.json+entities/153/settings/event/14/message+%23280
 msgctxt "data/maps/cargo-ship/ship.json//entities/153/settings/event/14/message"
 msgid "This spinning motion, one cannot find it twice in this world.\n"
-msgstr "Este movimiento giratorio, uno no puede encontrarlo dos veces en este mundo.\n"
+msgstr "Esos giros, uno no puede encontrarlos dos veces en este mundo.\n"
 
 #. data/maps/cargo-ship/ship.json entities/153/settings/event/15/message #281
 #. EventTrigger postBossBatte START IF plot.line >= 610
@@ -12624,7 +12625,7 @@ msgstr "¿Cuándo fue la última vez que dejamos caer nuestra mirada en tí?"
 #: data/maps/cargo-ship/ship.json+entities/153/settings/event/17/message+%23283
 msgctxt "data/maps/cargo-ship/ship.json//entities/153/settings/event/17/message"
 msgid "You within your incomplete vessel."
-msgstr "Tú dentro de tu vasija incompleta."
+msgstr "Tú, en tu vasija incompleta."
 
 #. data/maps/cargo-ship/ship.json entities/153/settings/event/18/message #284
 #. EventTrigger postBossBatte START IF plot.line >= 610
@@ -13605,7 +13606,7 @@ msgstr "Hombre...\\. eres una causa perdida."
 #: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/16/thenStep/0/text+%23162
 msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/16/thenStep/0/text"
 msgid "Do you want to be \\c[3]Manlea\\c[0]?"
-msgstr ""
+msgstr "¿Quieres ser \\c[3]Leo\\c[0]?"
 
 #. data/maps/cargo-ship/teleporter.json entities/12/settings/event/16/thenStep/0/options/0/label #163
 #. EventTrigger start START IF true
@@ -13614,7 +13615,7 @@ msgstr ""
 #: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/16/thenStep/0/options/0/label+%23163
 msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/16/thenStep/0/options/0/label"
 msgid "YES!"
-msgstr ""
+msgstr "¡SI!"
 
 #. data/maps/cargo-ship/teleporter.json entities/12/settings/event/16/thenStep/0/options/1/label #164
 #. EventTrigger start START IF true
@@ -13623,7 +13624,7 @@ msgstr ""
 #: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/16/thenStep/0/options/1/label+%23164
 msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/16/thenStep/0/options/1/label"
 msgid "No..."
-msgstr ""
+msgstr "No..."
 
 #. data/maps/cargo-ship/teleporter.json entities/12/settings/event/31/text #3
 #. EventTrigger start START IF true
@@ -13679,7 +13680,7 @@ msgstr "..."
 #: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/50/message+%239
 msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/50/message"
 msgid "... Apparently. Well, something just had to go wrong."
-msgstr "... Aparentemente. Bueno, algo tenía que salir mal."
+msgstr "... Así parece. Bueno, algo tenía que salir mal."
 
 #. data/maps/cargo-ship/teleporter.json entities/12/settings/event/51/message #10
 #. EventTrigger start START IF true
@@ -14047,7 +14048,7 @@ msgstr "Si te quedas apuntando un tiempo, el PRV se cargará."
 #: data/maps/cargo-ship/teleporter.json+entities/21/settings/event/17/message+%2345
 msgctxt "data/maps/cargo-ship/teleporter.json//entities/21/settings/event/17/message"
 msgid "Let us practice right away."
-msgstr "Práctiquemoslo de inmediato."
+msgstr "Practiquémoslo de inmediato."
 
 #. data/maps/cargo-ship/teleporter.json entities/21/settings/event/40/task #46
 #. EventTrigger thirdRound START IF plot.line = 2 && map.hitCounter >= 8
@@ -14182,7 +14183,7 @@ msgstr "Te dejaremos caminar un poco.\n"
 #: data/maps/cargo-ship/teleporter.json+entities/28/settings/event/8/message+%2360
 msgctxt "data/maps/cargo-ship/teleporter.json//entities/28/settings/event/8/message"
 msgid "Carla, we are done here. You can terminate the floatation sequence."
-msgstr "Carla, ya terminamos. Puedes terminar la secuancia de flotación."
+msgstr "Carla, ya terminamos. Puedes terminar la secuencia de flotación."
 
 #. data/maps/cargo-ship/teleporter.json entities/28/settings/event/37/message #61
 #. EventTrigger done START IF plot.line = 3 && map.hitCounter >= 1
@@ -14437,7 +14438,7 @@ msgstr "Vamos querida, no es el momento para las largas despedidas.\n"
 #: data/maps/cargo-ship/teleporter.json+entities/85/settings/event/58/message+%2389
 msgctxt "data/maps/cargo-ship/teleporter.json//entities/85/settings/event/58/message"
 msgid "Besides, there are those guys."
-msgstr "Además, los tienes a ellos."
+msgstr "Además, están estos."
 
 #. data/maps/cargo-ship/teleporter.json entities/85/settings/event/61/message #90
 #. EventTrigger escapeCargoship START IF plot.line >= 700
