@@ -3,15 +3,16 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.1-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-14 01:09+0000\n"
-"POT-Revision-Date: 2021-04-14 01:09+0000\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2021-04-15 03:34+0000\n"
+"Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
+"Language-Team: Spanish <https://weblate.crosscode.ru/projects/crosscode/enemies/es/>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.4\n"
+"POT-Revision-Date: 2021-04-14 01:09+0000\n"
 
 #. data/enemies/arid/dice-mage.json actions/TrapActivate/0/text #7
 #. SHOW_AR_MSG
@@ -488,7 +489,7 @@ msgstr ""
 #: data/enemies/autumn-rh/big_turret-quest_naval_ally.json+actions/StartFullShield/0/text+%231
 msgctxt "data/enemies/autumn-rh/big_turret-quest_naval_ally.json//actions/StartFullShield/0/text"
 msgid "FullShield On"
-msgstr ""
+msgstr "Escudo Completo Activado"
 
 #. data/enemies/autumn-rh/big_turret-quest_naval_ally.json actions/StartPartShield/0/text #2
 #. SHOW_AR_MSG
@@ -615,7 +616,7 @@ msgstr ""
 #: data/enemies/autumn-rh/suicider_float-quest_naval.json+actions/StartFullShield/0/thenStep/0/text+%231
 msgctxt "data/enemies/autumn-rh/suicider_float-quest_naval.json//actions/StartFullShield/0/thenStep/0/text"
 msgid "[ FullShield On ]"
-msgstr ""
+msgstr "[ Escudo Completo Activado ]"
 
 #. data/enemies/autumn-rh/suicider_float-quest_naval.json actions/Target/4/text #5
 #. SHOW_AR_MSG
@@ -692,7 +693,7 @@ msgstr ""
 #: data/enemies/autumn-rh/turret_big_float-quest_naval.json+actions/StartFullShield/0/thenStep/0/text+%231
 msgctxt "data/enemies/autumn-rh/turret_big_float-quest_naval.json//actions/StartFullShield/0/thenStep/0/text"
 msgid "[ FullShield On ]"
-msgstr ""
+msgstr "[ Escudo Completo Activado ]"
 
 #. data/enemies/autumn-rh/turret_big_float-quest_naval.json actions/Target/4/text #5
 #. SHOW_AR_MSG
@@ -789,7 +790,7 @@ msgstr ""
 #: data/enemies/autumn-rh/turret_boss-quest_naval.json+actions/StartFullShield/0/thenStep/0/text+%231
 msgctxt "data/enemies/autumn-rh/turret_boss-quest_naval.json//actions/StartFullShield/0/thenStep/0/text"
 msgid "[ FullShield On ]"
-msgstr ""
+msgstr "[ Escudo Completo Activado ]"
 
 #. data/enemies/autumn-rh/turret_boss-quest_naval.json actions/StartPartShield/0/text #2
 #. SHOW_AR_MSG
@@ -880,7 +881,7 @@ msgstr ""
 #: data/enemies/autumn-rh/turret_float-quest_naval.json+actions/StartFullShield/0/thenStep/0/text+%231
 msgctxt "data/enemies/autumn-rh/turret_float-quest_naval.json//actions/StartFullShield/0/thenStep/0/text"
 msgid "[ FullShield On ]"
-msgstr ""
+msgstr "[ Escudo Completo Activado ]"
 
 #. data/enemies/autumn-rh/turret_float-quest_naval.json actions/Target/4/text #5
 #. SHOW_AR_MSG
@@ -1957,14 +1958,14 @@ msgstr ""
 #: data/enemies/heat/special/baki-turret_1.json+actions/StartFullShield/1/text+%231
 msgctxt "data/enemies/heat/special/baki-turret_1.json//actions/StartFullShield/1/text"
 msgid "[Shield On]"
-msgstr ""
+msgstr "[Escudo Activado]"
 
 #. data/enemies/heat/special/baki-turret_1.json actions/EndFullShield/1/text #3
 #. SHOW_AR_MSG
 #: data/enemies/heat/special/baki-turret_1.json+actions/EndFullShield/1/text+%233
 msgctxt "data/enemies/heat/special/baki-turret_1.json//actions/EndFullShield/1/text"
 msgid "[Shield Off]"
-msgstr ""
+msgstr "[Escudo Desactivado]"
 
 #. data/enemies/heat/special/baki-turret_2.json actions/SingleMortar/4/text #5
 #. SHOW_AR_MSG
@@ -1978,14 +1979,14 @@ msgstr ""
 #: data/enemies/heat/special/baki-turret_2.json+actions/StartFullShield/1/text+%231
 msgctxt "data/enemies/heat/special/baki-turret_2.json//actions/StartFullShield/1/text"
 msgid "[Shield On]"
-msgstr ""
+msgstr "[Escudo Activado]"
 
 #. data/enemies/heat/special/baki-turret_2.json actions/EndFullShield/1/text #3
 #. SHOW_AR_MSG
 #: data/enemies/heat/special/baki-turret_2.json+actions/EndFullShield/1/text+%233
 msgctxt "data/enemies/heat/special/baki-turret_2.json//actions/EndFullShield/1/text"
 msgid "[Shield Off]"
-msgstr ""
+msgstr "[Escudo Desactivado]"
 
 #. data/enemies/heat/special/brew-bubbler.json proxies/fireBallProxy/action/0/text #9
 #. GENERIC
@@ -2466,7 +2467,7 @@ msgstr ""
 #: data/enemies/jungle/special/heater.json+actions/cooldownStart/1/text+%2316
 msgctxt "data/enemies/jungle/special/heater.json//actions/cooldownStart/1/text"
 msgid "[Overheated]"
-msgstr ""
+msgstr "[Sobrecargado]"
 
 #. data/enemies/jungle/special/heater.json actions/reactivate/1/text #17
 #. SHOW_AR_MSG
@@ -2815,14 +2816,14 @@ msgstr ""
 #: data/enemies/jungle/special/plant-hidden-shock.json+actions/StartFullShield/1/thenStep/1/text+%2332
 msgctxt "data/enemies/jungle/special/plant-hidden-shock.json//actions/StartFullShield/1/thenStep/1/text"
 msgid "[ SHIELD RESTORED ]"
-msgstr ""
+msgstr "[ ESCUDO RESTABLECIDO ]"
 
 #. data/enemies/jungle/special/plant-hidden-shock.json actions/EndFullShield/9/text #30
 #. SHOW_AR_MSG
 #: data/enemies/jungle/special/plant-hidden-shock.json+actions/EndFullShield/9/text+%2330
 msgctxt "data/enemies/jungle/special/plant-hidden-shock.json//actions/EndFullShield/9/text"
 msgid "[ SHIELD NEUTRALIZED ]"
-msgstr ""
+msgstr "[ ESCUDO NEUTRALIZADO ]"
 
 #. data/enemies/jungle/special/powerplant-quest-1.json actions/CenterSuperJump/5/thenStep/0/text #9
 #. IF test
@@ -2915,14 +2916,14 @@ msgstr ""
 #: data/enemies/jungle/special/quest_td_blob_1.json+actions/StartFullShield/0/thenStep/0/text+%231
 msgctxt "data/enemies/jungle/special/quest_td_blob_1.json//actions/StartFullShield/0/thenStep/0/text"
 msgid "FullShield On"
-msgstr ""
+msgstr "Escudo Completo Activado"
 
 #. data/enemies/jungle/special/quest_td_blob_1.json actions/EndFullShield/1/text #30
 #. SHOW_AR_MSG
 #: data/enemies/jungle/special/quest_td_blob_1.json+actions/EndFullShield/1/text+%2330
 msgctxt "data/enemies/jungle/special/quest_td_blob_1.json//actions/EndFullShield/1/text"
 msgid "[Shield neutralized!]"
-msgstr ""
+msgstr "[¡Escudo Neutralizado!]"
 
 #. data/enemies/jungle/special/quest_td_buffel_1.json actions/Init/2/thenStep/3/thenStep/0/text #34
 #. IF entity.attrib.goalID != null
@@ -3031,7 +3032,7 @@ msgstr ""
 #: data/enemies/jungle/special/quest_td_buffel_1.json+actions/StartFullShield/0/thenStep/0/text+%2348
 msgctxt "data/enemies/jungle/special/quest_td_buffel_1.json//actions/StartFullShield/0/thenStep/0/text"
 msgid "FullShield On"
-msgstr ""
+msgstr "Escudo Completo Activado"
 
 #. data/enemies/jungle/special/quest_td_buffel_1.json actions/StartFullShield/1/thenStep/0/text #43
 #. COMBAT_IF
@@ -3039,7 +3040,7 @@ msgstr ""
 #: data/enemies/jungle/special/quest_td_buffel_1.json+actions/StartFullShield/1/thenStep/0/text+%2343
 msgctxt "data/enemies/jungle/special/quest_td_buffel_1.json//actions/StartFullShield/1/thenStep/0/text"
 msgid "[Regain Shield]"
-msgstr ""
+msgstr "[Regenerando Escudo]"
 
 #. data/enemies/jungle/special/quest_td_buffel_1.json actions/EndFullShield/0/thenStep/1/text #30
 #. COMBAT_IF
@@ -3047,14 +3048,14 @@ msgstr ""
 #: data/enemies/jungle/special/quest_td_buffel_1.json+actions/EndFullShield/0/thenStep/1/text+%2330
 msgctxt "data/enemies/jungle/special/quest_td_buffel_1.json//actions/EndFullShield/0/thenStep/1/text"
 msgid "[Shield neutralized!]"
-msgstr ""
+msgstr "[¡Escudo Neutralizado!]"
 
 #. data/enemies/jungle/special/quest_td_buffel_1.json actions/EndFullShieldDizzy/1/text #35
 #. SHOW_AR_MSG
 #: data/enemies/jungle/special/quest_td_buffel_1.json+actions/EndFullShieldDizzy/1/text+%2335
 msgctxt "data/enemies/jungle/special/quest_td_buffel_1.json//actions/EndFullShieldDizzy/1/text"
 msgid "[Shield neutralized!]"
-msgstr ""
+msgstr "[¡Escudo Neutralizado!]"
 
 #. data/enemies/jungle/special/quest_td_buffel_1.json actions/TEST/0/text #47
 #. SHOW_AR_MSG
@@ -3154,7 +3155,7 @@ msgstr ""
 #: data/enemies/jungle/special/quest_td_fish_1.json+actions/StartFullShield/0/thenStep/0/text+%2336
 msgctxt "data/enemies/jungle/special/quest_td_fish_1.json//actions/StartFullShield/0/thenStep/0/text"
 msgid "FullShield On"
-msgstr ""
+msgstr "Escudo Completo Activado"
 
 #. data/enemies/jungle/special/quest_td_fish_1.json actions/EndFullShield/0/thenStep/1/text #30
 #. COMBAT_IF
@@ -3162,7 +3163,7 @@ msgstr ""
 #: data/enemies/jungle/special/quest_td_fish_1.json+actions/EndFullShield/0/thenStep/1/text+%2330
 msgctxt "data/enemies/jungle/special/quest_td_fish_1.json//actions/EndFullShield/0/thenStep/1/text"
 msgid "[Shield neutralized!]"
-msgstr ""
+msgstr "[¡Escudo Neutralizado!]"
 
 #. data/enemies/jungle/special/quest_td_plant_1.json actions/Init/0/thenStep/3/thenStep/0/text #34
 #. IF entity.attrib.goalID != null
@@ -3255,14 +3256,14 @@ msgstr ""
 #: data/enemies/jungle/special/quest_td_plant_1.json+actions/StartFullShield/0/thenStep/0/text+%2325
 msgctxt "data/enemies/jungle/special/quest_td_plant_1.json//actions/StartFullShield/0/thenStep/0/text"
 msgid "FullShield On"
-msgstr ""
+msgstr "Escudo Completo Activado"
 
 #. data/enemies/jungle/special/quest_td_plant_1.json actions/EndFullShield/1/text #30
 #. SHOW_AR_MSG
 #: data/enemies/jungle/special/quest_td_plant_1.json+actions/EndFullShield/1/text+%2330
 msgctxt "data/enemies/jungle/special/quest_td_plant_1.json//actions/EndFullShield/1/text"
 msgid "[Shield neutralized!]"
-msgstr ""
+msgstr "[¡Escudo Neutralizado!]"
 
 #. data/enemies/jungle/special/quest_td_shockcat_1.json actions/Init/2/thenStep/3/thenStep/0/text #34
 #. IF entity.attrib.goalID != null
@@ -3355,21 +3356,21 @@ msgstr ""
 #: data/enemies/jungle/special/quest_td_shockcat_1.json+actions/StartFullShield/0/thenStep/0/text+%2337
 msgctxt "data/enemies/jungle/special/quest_td_shockcat_1.json//actions/StartFullShield/0/thenStep/0/text"
 msgid "FullShield On"
-msgstr ""
+msgstr "Escudo Completo Activado"
 
 #. data/enemies/jungle/special/quest_td_shockcat_1.json actions/EndFullShield/1/text #30
 #. SHOW_AR_MSG
 #: data/enemies/jungle/special/quest_td_shockcat_1.json+actions/EndFullShield/1/text+%2330
 msgctxt "data/enemies/jungle/special/quest_td_shockcat_1.json//actions/EndFullShield/1/text"
 msgid "[Shield neutralized!]"
-msgstr ""
+msgstr "[¡Escudo Neutralizado!]"
 
 #. data/enemies/jungle/special/quest_td_shockcat_1.json actions/EndFullShieldDizzy/1/text #35
 #. SHOW_AR_MSG
 #: data/enemies/jungle/special/quest_td_shockcat_1.json+actions/EndFullShieldDizzy/1/text+%2335
 msgctxt "data/enemies/jungle/special/quest_td_shockcat_1.json//actions/EndFullShieldDizzy/1/text"
 msgid "[Shield neutralized!]"
-msgstr ""
+msgstr "[¡Escudo Neutralizado!]"
 
 #. data/enemies/jungle/special/quest_td_shockcat_2.json actions/Init/2/thenStep/3/thenStep/0/text #34
 #. IF entity.attrib.goalID != null
@@ -3462,21 +3463,21 @@ msgstr ""
 #: data/enemies/jungle/special/quest_td_shockcat_2.json+actions/StartFullShield/0/thenStep/0/text+%2337
 msgctxt "data/enemies/jungle/special/quest_td_shockcat_2.json//actions/StartFullShield/0/thenStep/0/text"
 msgid "FullShield On"
-msgstr ""
+msgstr "Escudo Completo Activado"
 
 #. data/enemies/jungle/special/quest_td_shockcat_2.json actions/EndFullShield/1/text #30
 #. SHOW_AR_MSG
 #: data/enemies/jungle/special/quest_td_shockcat_2.json+actions/EndFullShield/1/text+%2330
 msgctxt "data/enemies/jungle/special/quest_td_shockcat_2.json//actions/EndFullShield/1/text"
 msgid "[Shield neutralized!]"
-msgstr ""
+msgstr "[¡Escudo Neutralizado!]"
 
 #. data/enemies/jungle/special/quest_td_shockcat_2.json actions/EndFullShieldDizzy/1/text #35
 #. SHOW_AR_MSG
 #: data/enemies/jungle/special/quest_td_shockcat_2.json+actions/EndFullShieldDizzy/1/text+%2335
 msgctxt "data/enemies/jungle/special/quest_td_shockcat_2.json//actions/EndFullShieldDizzy/1/text"
 msgid "[Shield neutralized!]"
-msgstr ""
+msgstr "[¡Escudo Neutralizado!]"
 
 #. data/enemies/jungle/special/shockat-capture.json actions/CaptureStart/3/thenStep/0/text #31
 #. IF entity.hasTmpTarget
@@ -3651,7 +3652,7 @@ msgstr ""
 #: data/enemies/jungle/special/turret-defense-1.json+actions/StartFullShield/0/text+%231
 msgctxt "data/enemies/jungle/special/turret-defense-1.json//actions/StartFullShield/0/text"
 msgid "FullShield On"
-msgstr ""
+msgstr "Escudo Completo Activado"
 
 #. data/enemies/jungle/special/turret-defense-1.json actions/ActivationWait/8/text #21
 #. SHOW_AR_MSG
@@ -3826,7 +3827,7 @@ msgstr ""
 #: data/enemies/jungle/special/turret-defense-2.json+actions/StartFullShield/0/text+%231
 msgctxt "data/enemies/jungle/special/turret-defense-2.json//actions/StartFullShield/0/text"
 msgid "FullShield On"
-msgstr ""
+msgstr "Escudo Completo Activado"
 
 #. data/enemies/jungle/special/turret-defense-2.json actions/ActivationWait/8/text #21
 #. SHOW_AR_MSG
@@ -4308,7 +4309,7 @@ msgstr ""
 #: data/enemies/turret-boss.json+actions/StartFullShield/0/text+%231
 msgctxt "data/enemies/turret-boss.json//actions/StartFullShield/0/text"
 msgid "FullShield On"
-msgstr ""
+msgstr "Escudo Completo Activado"
 
 #. data/enemies/turret-boss.json actions/StartPartShield/0/text #2
 #. SHOW_AR_MSG
@@ -4350,14 +4351,14 @@ msgstr ""
 #: data/enemies/turret-large.json+actions/InitShield/1/text+%231
 msgctxt "data/enemies/turret-large.json//actions/InitShield/1/text"
 msgid "Initializing Shield"
-msgstr ""
+msgstr "Inicializando Escudo"
 
 #. data/enemies/turret-large.json actions/StartFullShield/0/text #2
 #. SHOW_AR_MSG
 #: data/enemies/turret-large.json+actions/StartFullShield/0/text+%232
 msgctxt "data/enemies/turret-large.json//actions/StartFullShield/0/text"
 msgid "FullShield On"
-msgstr ""
+msgstr "Escudo Completo Activado"
 
 #. data/enemies/turret-large.json actions/StartPartShield/0/text #3
 #. SHOW_AR_MSG
@@ -4378,14 +4379,14 @@ msgstr ""
 #: data/enemies/turret-large.json+actions/StunStart/2/text+%235
 msgctxt "data/enemies/turret-large.json//actions/StunStart/2/text"
 msgid "Overheat"
-msgstr ""
+msgstr "Sobrecarga"
 
 #. data/enemies/turret-rhg-1.json actions/StartFullShield/0/text #1
 #. SHOW_AR_MSG
 #: data/enemies/turret-rhg-1.json+actions/StartFullShield/0/text+%231
 msgctxt "data/enemies/turret-rhg-1.json//actions/StartFullShield/0/text"
 msgid "FullShield On"
-msgstr ""
+msgstr "Escudo Completo Activado"
 
 #. extension/post-game/data/enemies/beach/fish.json actions/QuestEscort-TargetEscortee/12/text #27
 #. SHOW_AR_MSG
