@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.1-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-14 01:09+0000\n"
-"PO-Revision-Date: 2021-05-12 00:42+0000\n"
-"Last-Translator: Esteban Herrera Ortúzar <estebanherreraortuzar@gmail.com>\n"
+"PO-Revision-Date: 2021-05-12 17:33+0000\n"
+"Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.crosscode.ru/projects/crosscode/autumn/es/>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
@@ -77,7 +77,6 @@ msgstr "¿Ey, qué hay?"
 #. IF item.230.amount >= 1
 #. SHOW_MSG cross-worlds.triblader-male-black @DEFAULT
 #: data/maps/autumn/cubaum.json+entities/521/settings/npcStates/0/event/3/thenStep/0/message+%23290
-#, fuzzy
 msgctxt "data/maps/autumn/cubaum.json//entities/521/settings/npcStates/0/event/3/thenStep/0/message"
 msgid "I see you got the \\c[3]\\v[item.230.name]\\c[0] with you! Nice, nice!"
 msgstr "¡Veo que tienes el \\c[3]\\v[item.230.name]\\c[0] contigo! ¡Bien, bien!"
@@ -424,10 +423,9 @@ msgstr "Deggart"
 #. SHOW_CHOICE main.lea @DEFAULT
 #. SHOW_MSG adventurers.male-bald-white @DEFAULT
 #: data/maps/autumn/cubaum.json+entities/528/settings/npcStates/1/event/quest/8/0/52/message+%23709
-#, fuzzy
 msgctxt "data/maps/autumn/cubaum.json//entities/528/settings/npcStates/1/event/quest/8/0/52/message"
 msgid "Just remember what I told you about the unstable energy fluctuation."
-msgstr "Solo recuerda lo que te dije sobre que es inestable y la fluctuación de energía."
+msgstr "Solo recuerda lo que te dije sobre la fluctuación inestable de energía."
 
 #. data/maps/autumn/cubaum.json entities/528/settings/npcStates/1/event/quest/8/0/53/message #776
 #. NPC questBall-dude
@@ -481,10 +479,9 @@ msgstr "[niega con la cabeza]"
 #. SHOW_CHOICE main.lea @DEFAULT
 #. SHOW_MSG adventurers.male-bald-white @DEFAULT
 #: data/maps/autumn/cubaum.json+entities/528/settings/npcStates/1/event/quest/8/1/1/message+%23703
-#, fuzzy
 msgctxt "data/maps/autumn/cubaum.json//entities/528/settings/npcStates/1/event/quest/8/1/1/message"
 msgid "Alright, come back when you feel fresh and ready."
-msgstr "Bien, vuelve cuando te sientas fresca y lista."
+msgstr "Bien, vuelve cuando te sientas lista."
 
 #. data/maps/autumn/cubaum.json entities/528/settings/npcStates/1/event/quest/8/2/0/message #209
 #. NPC questBall-dude
@@ -696,7 +693,6 @@ msgstr "Deggart"
 #. EventTrigger questBall-fightEnd START IF tmp.questBall-start && tmp.questBall-fightCount >= 13
 #. SHOW_MSG adventurers.male-bald-white @DEFAULT
 #: data/maps/autumn/cubaum.json+entities/556/settings/event/30/message+%23755
-#, fuzzy
 msgctxt "data/maps/autumn/cubaum.json//entities/556/settings/event/30/message"
 msgid "Seems like you're done.\\. Everything's clear.\\. For real this time.\\.\\. Finally."
 msgstr "Parece que terminaste.\\. Todo está limpio.\\. En serio esta vez.\\.\\. Finalmente."
@@ -713,10 +709,9 @@ msgstr "..."
 #. EventTrigger questBall-fightEnd START IF tmp.questBall-start && tmp.questBall-fightCount >= 13
 #. SHOW_MSG adventurers.male-bald-white @DEFAULT
 #: data/maps/autumn/cubaum.json+entities/556/settings/event/32/message+%23773
-#, fuzzy
 msgctxt "data/maps/autumn/cubaum.json//entities/556/settings/event/32/message"
 msgid "I'm gonna skip further fanfare.\\. Our probe needs to get back to HQ and I need sleep."
-msgstr "Me saltearé los halagos.\\. Nuestra sonda tiene que volver a nuestra Sede y yo necesito dormir."
+msgstr "Me saltearé los halagos.\\. Nuestra sonda tiene que volver a la Sede y yo necesito descansar."
 
 #. data/maps/autumn/cubaum.json entities/556/settings/event/33/message #774
 #. EventTrigger questBall-fightEnd START IF tmp.questBall-start && tmp.questBall-fightCount >= 13
@@ -799,10 +794,9 @@ msgstr "..."
 #. IF
 #. SHOW_MSG rookie-harbor.man-big-black @DEFAULT
 #: data/maps/autumn/entrance.json+entities/92/settings/npcStates/0/event/quest/5/message+%2310
-#, fuzzy
 msgctxt "data/maps/autumn/entrance.json//entities/92/settings/npcStates/0/event/quest/5/message"
 msgid "As a humble part of our endeavor here I am trying my best to aid Seekers."
-msgstr "Como una humilde parte de nuestro esfuerzo aquí, hago todo lo posible para ayudar a los Buscadores."
+msgstr "Hago lo posible para ayudar a los Buscadores, es lo menos que puedo hacer."
 
 #. data/maps/autumn/entrance.json entities/92/settings/npcStates/0/event/quest/6/message #11
 #. NPC equip-quest
@@ -901,10 +895,9 @@ msgstr "..."
 #. IF quest.my-first-quest.started
 #. SHOW_MSG rookie-harbor.man-big-black @DEFAULT
 #: data/maps/autumn/entrance.json+entities/92/settings/npcStates/1/event/5/message+%2328
-#, fuzzy
 msgctxt "data/maps/autumn/entrance.json//entities/92/settings/npcStates/1/event/5/message"
 msgid "Of course you do, haha!\\. Oh to be young again!"
-msgstr "¡Por supuesto que sí, jajaja!\\. ¡Oh, ser joven otra vez!"
+msgstr "¡Pero claro que sí, jajaja!\\. ¡Oh, ser joven otra vez!"
 
 #. data/maps/autumn/entrance.json entities/92/settings/npcStates/1/event/6/message #29
 #. NPC equip-quest
@@ -1021,10 +1014,9 @@ msgstr "..."
 #. IF quest.my-first-quest_2.started
 #. SHOW_MSG rookie-harbor.man-big-black @DEFAULT
 #: data/maps/autumn/entrance.json+entities/92/settings/npcStates/4/event/5/message+%23210
-#, fuzzy
 msgctxt "data/maps/autumn/entrance.json//entities/92/settings/npcStates/4/event/5/message"
 msgid "Of course you do, haha!\\. Oh to be young again!"
-msgstr "¡Por supuesto que sí, jajaja!\\. ¡Oh, ser jóven otra vez!"
+msgstr "¡Pero claro que sí, jajaja!\\. ¡Oh, ser joven otra vez!"
 
 #. data/maps/autumn/entrance.json entities/92/settings/npcStates/4/event/6/message #211
 #. NPC equip-quest
@@ -1234,10 +1226,9 @@ msgstr "A este punto, esos enemigos son un chiste, ¿no?"
 #. IF area.autumn-area.isBoosted
 #. SHOW_MSG main.emilie @SWEATY_SMILE
 #: data/maps/autumn/entrance.json+entities/148/settings/event/20/thenStep/0/message+%23228
-#, fuzzy
 msgctxt "data/maps/autumn/entrance.json//entities/148/settings/event/20/thenStep/0/message"
 msgid "I mean...\\. if we didn't have the \\c[3]boosters\\c[0] enabled, that is."
-msgstr "Quiero decir...\\. si no tuvieramos los \\c[3]potenciadores\\c[0] prendidos."
+msgstr "Quiero decir...\\. si no tuvieramos los \\c[3]potenciadores\\c[0] encendidos."
 
 #. data/maps/autumn/entrance.json entities/148/settings/event/26/message #227
 #. EventTrigger EndScene START IF plot.line >= 31400
@@ -1268,10 +1259,9 @@ msgstr "¡Non!\\. ¡Para nada!"
 #. IF newgame.sergey-hax
 #. SHOW_MSG main.emilie @DEAD_INSIDE
 #: data/maps/autumn/entrance.json+entities/148/settings/event/29/thenStep/0/message+%23916
-#, fuzzy
 msgctxt "data/maps/autumn/entrance.json//entities/148/settings/event/29/thenStep/0/message"
 msgid "Lea simply \\c[1]sniped them all away\\c[0], you see?"
-msgstr "Lea simplemente \\c[1]les pegaba de lejos\\c[0], ¿ves?"
+msgstr "Lea simplemente \\c[1]les pegaba de lejos\\c[0], ¿sabes?"
 
 #. data/maps/autumn/entrance.json entities/148/settings/event/29/elseStep/0/message #231
 #. EventTrigger EndScene START IF plot.line >= 31400
@@ -1442,7 +1432,6 @@ msgstr "Lo has vencido..."
 #. EventTrigger End START IF tmp.bossKilled && tmp.bossline >= 20 && !player.hasLevelUp
 #. SHOW_MSG antagonists.designer @DOWN_TALK
 #: data/maps/autumn/extra-boss.json+entities/286/settings/event/7/message+%2311
-#, fuzzy
 msgctxt "data/maps/autumn/extra-boss.json//entities/286/settings/event/7/message"
 msgid "We promised to measure the time. Behold!"
 msgstr "Prometimos tomarte el tiempo. ¡Mirad!"
