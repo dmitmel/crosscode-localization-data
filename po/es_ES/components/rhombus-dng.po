@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.1-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-14 01:09+0000\n"
-"PO-Revision-Date: 2021-05-12 17:33+0000\n"
+"PO-Revision-Date: 2021-05-20 03:33+0000\n"
 "Last-Translator: Esteban Herrera Ortúzar <estebanherreraortuzar@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.crosscode.ru/projects/crosscode/rhombus-dng/es/>\n"
 "Language: es_ES\n"
@@ -659,7 +659,7 @@ msgstr "..."
 #: data/maps/rhombus-dng/room-5-newer.json+entities/54/settings/event/23/message+%2323
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/54/settings/event/23/message"
 msgid "Anyway, there is no need to worry about this right now."
-msgstr "Como sea, no tienes por que preocuparte de esto ahora mismo."
+msgstr "Como sea, no tienes por qué preocuparte de esto ahora mismo."
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/54/settings/event/24/message #24
 #. EventTrigger Start
@@ -709,7 +709,7 @@ msgstr "¿Ya llegaste al nivel 3?\\. Qué extraño. "
 #: data/maps/rhombus-dng/room-5-newer.json+entities/69/settings/event/0/thenStep/1/message+%2331
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/69/settings/event/0/thenStep/1/message"
 msgid "I thought you were supposed to reach level 2 at this point."
-msgstr "Pensé que debías llegar al Nivel 2 a este punto."
+msgstr "Pensé que debías llegar al nivel 2 en este punto del juego."
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/69/settings/event/0/thenStep/2/message #32
 #. EventTrigger SergeyComment START IF map.postDone && !player.hasLevelUp
@@ -1058,7 +1058,7 @@ msgstr "¡...Lea!"
 #: data/maps/rhombus-dng/room-final.json+entities/41/settings/event/21/text+%2350
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/41/settings/event/21/text"
 msgid "Activate circuits using \\c[3]Circuit Points (CP)\\c[0], earned with each level up."
-msgstr "Activa los circuitos utilizando \\c[3]Puntos de Circuito (PC)\\c[0] que se consiguen cuando subes de nivel."
+msgstr "Activa los circuitos utilizando \\c[3]Puntos de Circuito (PC)\\c[0] que consigues cuando subes de nivel."
 
 #. data/maps/rhombus-dng/room-final.json entities/41/settings/event/34/text #51
 #. EventTrigger CIRCUIT TUTORIAL START IF tmp.tutorialCircuit
@@ -1090,6 +1090,7 @@ msgstr "¡Puedes \\c[3]cambiar entre las distintas ramificaciones\\c[0] cuando q
 #. EventTrigger CIRCUIT TUTORIAL START IF tmp.tutorialCircuit
 #. SHOW_TUTORIAL_MSG
 #: data/maps/rhombus-dng/room-final.json+entities/41/settings/event/52/text+%23131
+#, fuzzy
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/41/settings/event/52/text"
 msgid "You now got \\c[3]special points\\c[0] (SP) used for \\c[3]combat arts\\c[0]."
 msgstr "Ahora tienes \\c[3]puntos especiales\\c[0] (PE), se gastan utilizando \\c[3]artes de combate\\c[0]."
