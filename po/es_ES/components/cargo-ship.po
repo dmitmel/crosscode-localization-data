@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.1-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-14 01:09+0000\n"
-"PO-Revision-Date: 2021-06-05 18:37+0000\n"
+"PO-Revision-Date: 2021-06-05 23:33+0000\n"
 "Last-Translator: Esteban Herrera Ortúzar <estebanherreraortuzar@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.crosscode.ru/projects/crosscode/cargo-ship/es/>\n"
 "Language: es_ES\n"
@@ -9754,7 +9754,7 @@ msgstr "[asiente]"
 #: data/maps/cargo-ship/ship.json+entities/127/settings/event/30/message+%23133
 msgctxt "data/maps/cargo-ship/ship.json//entities/127/settings/event/30/message"
 msgid "Still, first I want ye to show me yer grip on aimin' and throwin'."
-msgstr "Aún así, quiero que me muestres tu maña apuntando y disparando."
+msgstr "Aún así, quiero que me muestres tu habilidad apuntando y disparando."
 
 #. data/maps/cargo-ship/ship.json entities/127/settings/event/31/message #134
 #. EventTrigger shipTutorial1 START IF plot.ship-training
@@ -10246,7 +10246,7 @@ msgstr "Quiero que hagas dos cosas."
 #: data/maps/cargo-ship/ship.json+entities/129/settings/event/12/elseStep/102/1/29/message+%23184
 msgctxt "data/maps/cargo-ship/ship.json//entities/129/settings/event/12/elseStep/102/1/29/message"
 msgid "First, \\c[3]keep yer aim\\c[0] on the turret but \\c[3]don't throw\\c[0] anythin'."
-msgstr "Primero, \\c[3]mantén tu mira\\c[0] en la torreta, pero \\c[3]no le dispares\\c[0] nada."
+msgstr "Primero, \\c[3]mantén tu mira\\c[0] en la torreta, pero \\c[3]no le dispares\\c[0]."
 
 #. data/maps/cargo-ship/ship.json entities/129/settings/event/12/elseStep/102/1/30/message #185
 #. EventTrigger 10hit-end START IF tmp.turrentHit >= 10
@@ -10439,7 +10439,7 @@ msgstr "De hecho, Jet... no lo sabe."
 #: data/maps/cargo-ship/ship.json+entities/136/settings/event/9/thenStep/2/thenStep/5/message+%23205
 msgctxt "data/maps/cargo-ship/ship.json//entities/136/settings/event/9/thenStep/2/thenStep/5/message"
 msgid "I forgot to activate her guard module."
-msgstr "Olvidé activar su módulo de defensa."
+msgstr "Olvidé activar su módulo de defensa/protección."
 
 #. data/maps/cargo-ship/ship.json entities/136/settings/event/9/thenStep/2/thenStep/6/message #206
 #. EventTrigger mass-shot-end START IF tmp.turretInit &&  tmp.massiveShots > 0
@@ -12293,7 +12293,7 @@ msgstr "Chica, no tengo idea de qué está pasando, pero será mejor que entres 
 #: data/maps/cargo-ship/ship.json+entities/149/settings/event/16/thenStep/8/message+%23252
 msgctxt "data/maps/cargo-ship/ship.json//entities/149/settings/event/16/thenStep/8/message"
 msgid "What a peculiar location we have here."
-msgstr "Que localización más peculiar tenemos aquí."
+msgstr "Qué lugar más peculiar tenemos aquí."
 
 #. data/maps/cargo-ship/ship.json entities/149/settings/event/16/thenStep/11/message #253
 #. EventTrigger designerAppears START IF plot.line >= 500
@@ -12347,7 +12347,7 @@ msgstr "Estamos al tanto de la naturaleza de este lugar."
 #: data/maps/cargo-ship/ship.json+entities/149/settings/event/16/thenStep/16/message+%23258
 msgctxt "data/maps/cargo-ship/ship.json//entities/149/settings/event/16/thenStep/16/message"
 msgid "Yet we perceive the presence of another misplaced individual."
-msgstr "Aún así, percibimos la presencia de otro individuo mal localizado."
+msgstr "Aún así, percibimos la presencia de otro individuo fuera de lugar."
 
 #. data/maps/cargo-ship/ship.json entities/149/settings/event/16/thenStep/17/message #259
 #. EventTrigger designerAppears START IF plot.line >= 500
@@ -12491,7 +12491,7 @@ msgstr "En efecto, ¡no debe ser más que mera coincidencia!"
 #: data/maps/cargo-ship/ship.json+entities/149/settings/event/16/thenStep/90/message+%23274
 msgctxt "data/maps/cargo-ship/ship.json//entities/149/settings/event/16/thenStep/90/message"
 msgid "Oh, but we most definitely have a way to be certain!"
-msgstr "Oh, ¡pero si tenemos una forma de ser certeros!"
+msgstr "Oh, ¡pero debe haber una forma de asegurarnos!"
 
 #. data/maps/cargo-ship/ship.json entities/150/settings/npcStates/1/event/2/message #275
 #. NPC spectator1
@@ -12633,7 +12633,7 @@ msgstr "Tú, en tu vasija incompleta."
 #: data/maps/cargo-ship/ship.json+entities/153/settings/event/18/message+%23284
 msgctxt "data/maps/cargo-ship/ship.json//entities/153/settings/event/18/message"
 msgid "Yes, you have our utmost interest!\\. You will come with us."
-msgstr "¡Sí, tú tienes nuestro máximo interés!\\. Vendrás con nosotros."
+msgstr "¡Sí, tú eres nuestro máximo interés!\\. Vendrás con nosotros."
 
 #. data/maps/cargo-ship/ship.json entities/153/settings/event/36/message #285
 #. EventTrigger postBossBatte START IF plot.line >= 610
@@ -13855,7 +13855,7 @@ msgstr "[asiente]"
 #: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/67/message+%2323
 msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/67/message"
 msgid "Ok... you seem to remember..."
-msgstr "Bueno... parece que lo recuerdas..."
+msgstr "Bueno... parece que te acuerdas..."
 
 #. data/maps/cargo-ship/teleporter.json entities/12/settings/event/68/message #24
 #. EventTrigger start START IF true
@@ -14364,7 +14364,7 @@ msgid ""
 "Press  \\i[pause] to access the pause menu and save the game."
 msgstr ""
 "Presiona \\i[key-up]\\i[key-left]\\i[key-down]\\i[key-right] para moverte.\n"
-"Presiona \\i[pause] para acceder al menú de pausa y guardar el juego."
+"Presiona \\i[pause] para acceder al menú de pausa y guardar la partida."
 
 #. data/maps/cargo-ship/teleporter.json entities/28/settings/event/64/guiInfo/settings/altText #82
 #. EventTrigger done START IF plot.line = 3 && map.hitCounter >= 1
@@ -14377,7 +14377,7 @@ msgid ""
 "Press  \\i[pause] to access the pause menu and save the game."
 msgstr ""
 "Presiona \\i[left-stick] para moverte.\n"
-"Presiona \\i[pause] para acceder al menú de pausa y guardar el juego."
+"Presiona \\i[pause] para acceder al menú de pausa y guardar la partida."
 
 #. data/maps/cargo-ship/teleporter.json entities/41/settings/event/0/thenStep/0/message #83
 #. EventTrigger tableGimmick START IF map.onTable
@@ -14412,7 +14412,7 @@ msgstr "[asiente]"
 #: data/maps/cargo-ship/teleporter.json+entities/85/settings/event/5/message+%2386
 msgctxt "data/maps/cargo-ship/teleporter.json//entities/85/settings/event/5/message"
 msgid "Here we are again.\\. Time for you to leave this party."
-msgstr "He aquí estamos otra vez.\\. Es hora de que nos dejes."
+msgstr "Henos aquí otra vez.\\. Es hora de que nos dejes."
 
 #. data/maps/cargo-ship/teleporter.json entities/85/settings/event/6/message #87
 #. EventTrigger escapeCargoship START IF plot.line >= 700
