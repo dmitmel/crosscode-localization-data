@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-14 01:09+0000\n"
 "PO-Revision-Date: 2021-06-05 19:03+0000\n"
-"Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
+"Last-Translator: Esteban Herrera Ortúzar <estebanherreraortuzar@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.crosscode.ru/projects/crosscode/rhombus-dng/es/>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
@@ -930,7 +930,7 @@ msgstr "¿...Lea?"
 #: data/maps/rhombus-dng/room-final.json+entities/40/settings/event/17/message+%23114
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/40/settings/event/17/message"
 msgid "I think you will need this one, since I will not be able to introduce you to other people anymore."
-msgstr "Creo que esta es importante, ya que no podré seguir introduciéndote a otras personas."
+msgstr "Creo que esta es importante, ya que no podré seguir presentándote a otras personas."
 
 #. data/maps/rhombus-dng/room-final.json entities/40/settings/event/18/message #115
 #. EventTrigger AlmostOut START IF map.almostOut
@@ -1090,10 +1090,9 @@ msgstr "¡Puedes \\c[3]cambiar entre las distintas ramificaciones\\c[0] cuando q
 #. EventTrigger CIRCUIT TUTORIAL START IF tmp.tutorialCircuit
 #. SHOW_TUTORIAL_MSG
 #: data/maps/rhombus-dng/room-final.json+entities/41/settings/event/52/text+%23131
-#, fuzzy
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/41/settings/event/52/text"
 msgid "You now got \\c[3]special points\\c[0] (SP) used for \\c[3]combat arts\\c[0]."
-msgstr "Ahora tienes \\c[3]puntos especiales\\c[0] (PE), se gastan utilizando \\c[3]artes de combate\\c[0]."
+msgstr "Ahora tienes \\c[3]puntos especiales\\c[0] (PE) para realizar \\c[3]artes de combate\\c[0]."
 
 #. data/maps/rhombus-dng/room-final.json entities/42/settings/event/5/thenStep/0/message #134
 #. EventTrigger UpgradePost START IF map.upgradePost
