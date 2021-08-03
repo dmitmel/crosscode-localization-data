@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.1-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-14 01:09+0000\n"
-"PO-Revision-Date: 2021-07-19 05:50+0000\n"
-"Last-Translator: Esteban Herrera Ortúzar <estebanherreraortuzar@gmail.com>\n"
+"PO-Revision-Date: 2021-08-04 14:32+0000\n"
+"Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.crosscode.ru/projects/crosscode/bergen-trail/es/>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +19,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-08-smith.json+entities/12/settings/interact/hoverText+%231
 msgctxt "data/maps/bergen-trail/cave/cave-08-smith.json//entities/12/settings/interact/hoverText"
 msgid "Read Diary"
-msgstr ""
+msgstr "Leer Diario"
 
 #. data/maps/bergen-trail/cave/cave-08-smith.json entities/12/settings/interact/event/0/text #697
 #. Prop SPAWN IF quest.oldman-drill.currentTask >= 3
@@ -31,6 +31,9 @@ msgid ""
 "\n"
 "I don't even know anymore. Screw this! I'm packing my stuff and leaving for \\c[3]\\v[area.rhombus-sqr.name]\\c[0]. If you're reading this, you're too late."
 msgstr ""
+"Día 32...\n"
+"\n"
+"Ya no sé que hacer. ¡Al diablo! Empacaré mis cosas y me iré a \\c[3]\\v[area.rhombus-sqr.name]\\c[0]. Si estás leyendo esto, ya es demasiado tarde."
 
 #. data/maps/bergen-trail/cave/cave-08-smith.json entities/12/settings/interact/event/1/text #698
 #. Prop SPAWN IF quest.oldman-drill.currentTask >= 3
@@ -42,6 +45,9 @@ msgid ""
 "\n"
 "The only thing I care about is a nice house in \\v[area.rhombus-sqr.name]."
 msgstr ""
+"¡Ya no forjaré más para ese tipo!\n"
+"\n"
+"Todo lo que me importa ahora es tener una linda casa en \\c[3]\\v[area.rhombus-sqr.name]\\c[0]."
 
 #. data/maps/bergen-trail/cave/cave-08-smith.json entities/12/settings/condAnims/0/interact/hoverText #709
 #. Prop SPAWN IF quest.oldman-drill.currentTask >= 3
@@ -49,7 +55,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-08-smith.json+entities/12/settings/condAnims/0/interact/hoverText+%23709
 msgctxt "data/maps/bergen-trail/cave/cave-08-smith.json//entities/12/settings/condAnims/0/interact/hoverText"
 msgid "Read Diary"
-msgstr ""
+msgstr "Leer Diario"
 
 #. data/maps/bergen-trail/cave/cave-08-smith.json entities/12/settings/condAnims/0/interact/event/0/text #710
 #. Prop SPAWN IF quest.oldman-drill.currentTask >= 3
@@ -62,6 +68,9 @@ msgid ""
 "\n"
 "I don't even know anymore. Screw this! I'm packing my stuff and leave for \\c[3]\\v[area.rhombus-sqr.name]\\c[0]. If you read this, you're to late."
 msgstr ""
+"Día 32...\n"
+"\n"
+"Ya no sé que hacer. ¡Al diablo! Empacaré mis cosas y me iré a \\c[3]\\v[area.rhombus-sqr.name]\\c[0]. Si estás leyendo esto, ya es demasiado tarde."
 
 #. data/maps/bergen-trail/cave/cave-08-smith.json entities/12/settings/condAnims/0/interact/event/1/text #711
 #. Prop SPAWN IF quest.oldman-drill.currentTask >= 3
@@ -74,6 +83,9 @@ msgid ""
 "\n"
 "The only thing I care about is a nice house in \\v[area.rhombus-sqr.name]."
 msgstr ""
+"¡Ya no forjaré más para ese tipo!\n"
+"\n"
+"Todo lo que me importa ahora es tener una linda casa en \\c[3]\\v[area.rhombus-sqr.name]\\c[0]."
 
 #. data/maps/bergen-trail/cave/cave-4-1-1.json entities/19/settings/condAnims/0/interact/hoverText #83
 #. Prop probe SPAWN IF quest.trailblaze-bergen.started
@@ -81,7 +93,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-4-1-1.json+entities/19/settings/condAnims/0/interact/hoverText+%2383
 msgctxt "data/maps/bergen-trail/cave/cave-4-1-1.json//entities/19/settings/condAnims/0/interact/hoverText"
 msgid "Henry's Data Probe"
-msgstr ""
+msgstr "Sonda de Información de Henry"
 
 #. data/maps/bergen-trail/cave/cave-4-1-1.json entities/19/settings/condAnims/0/interact/event/0/text #85
 #. Prop probe SPAWN IF quest.trailblaze-bergen.started
@@ -90,7 +102,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-4-1-1.json+entities/19/settings/condAnims/0/interact/event/0/text+%2385
 msgctxt "data/maps/bergen-trail/cave/cave-4-1-1.json//entities/19/settings/condAnims/0/interact/event/0/text"
 msgid "Retrieving Data"
-msgstr ""
+msgstr "Leyendo Información"
 
 #. data/maps/bergen-trail/cave/cave-4-1-1.json entities/19/settings/condAnims/0/interact/event/16/object #88
 #. Prop probe SPAWN IF quest.trailblaze-bergen.started
@@ -99,21 +111,21 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-4-1-1.json+entities/19/settings/condAnims/0/interact/event/16/object+%2388
 msgctxt "data/maps/bergen-trail/cave/cave-4-1-1.json//entities/19/settings/condAnims/0/interact/event/16/object"
 msgid "\\c[3]\\v[item.224.name]\\c[0]"
-msgstr ""
+msgstr "\\c[3]\\v[item.224.name]\\c[0]"
 
 #. data/maps/bergen-trail/cave/cave-4-1-1.json entities/20/settings/text #89
 #. Analyzable SPAWN IF quest.trailblaze-bergen-4.started && !quest.trailblaze-bergen-4.solved
 #: data/maps/bergen-trail/cave/cave-4-1-1.json+entities/20/settings/text+%2389
 msgctxt "data/maps/bergen-trail/cave/cave-4-1-1.json//entities/20/settings/text"
 msgid "A data probe installed by a player for Henry."
-msgstr ""
+msgstr "Una sonda de información instalada por un jugador para Henry."
 
 #. data/maps/bergen-trail/cave/cave-4-1-1.json entities/21/settings/text #90
 #. Analyzable SPAWN IF quest.trailblaze-bergen-4.solved
 #: data/maps/bergen-trail/cave/cave-4-1-1.json+entities/21/settings/text+%2390
 msgctxt "data/maps/bergen-trail/cave/cave-4-1-1.json//entities/21/settings/text"
 msgid "A data probe installed by a player for Henry. The data has been retrieved."
-msgstr ""
+msgstr "Una sonda de información instalada por un jugador para Henry. La información ha sido recolectada."
 
 #. data/maps/bergen-trail/cave/cave-6-1.json entities/26/settings/event/0/message #7
 #. EventTrigger firstEntrance START IF party.has.Emilie
@@ -121,7 +133,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-6-1.json+entities/26/settings/event/0/message+%237
 msgctxt "data/maps/bergen-trail/cave/cave-6-1.json//entities/26/settings/event/0/message"
 msgid "Oh, this is one of those instanced caves."
-msgstr ""
+msgstr "Oh, esta es una de esas cuevas instanciadas."
 
 #. data/maps/bergen-trail/cave/cave-6-1.json entities/26/settings/event/1/message #9
 #. EventTrigger firstEntrance START IF party.has.Emilie
@@ -129,7 +141,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-6-1.json+entities/26/settings/event/1/message+%239
 msgctxt "data/maps/bergen-trail/cave/cave-6-1.json//entities/26/settings/event/1/message"
 msgid "Just like the dungeons. Let's see what this one has to offer."
-msgstr ""
+msgstr "Al igual que las mazmorras. Veremos que tiene esta de interesante."
 
 #. data/maps/bergen-trail/cave/cave-6-1.json entities/26/settings/event/2/message #8
 #. EventTrigger firstEntrance START IF party.has.Emilie
@@ -137,14 +149,14 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-6-1.json+entities/26/settings/event/2/message+%238
 msgctxt "data/maps/bergen-trail/cave/cave-6-1.json//entities/26/settings/event/2/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[asiente]"
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/8/settings/analyzable/text #499
 #. NPC goatGuard
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/8/settings/analyzable/text+%23499
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/8/settings/analyzable/text"
 msgid "Impostor Guard"
-msgstr ""
+msgstr "Guardia Impostor"
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/18/settings/event/17/message #1
 #. EventTrigger battleScene-Start START IF tmp.fightStart && quest.bg-2-goat_cave_1.task.2
@@ -152,7 +164,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/18/settings/event/17/message+%231
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/18/settings/event/17/message"
 msgid "Who would have thought that you were the intruder?\\. Can you not let a man and his goats live in peace?"
-msgstr ""
+msgstr "¿Quién se habría imaginado que tú eras el intruso?\\. ¿No puedes dejar a un hombre y sus cabras vivir feliz?"
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/18/settings/event/18/message #2
 #. EventTrigger battleScene-Start START IF tmp.fightStart && quest.bg-2-goat_cave_1.task.2
@@ -160,7 +172,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/18/settings/event/18/message+%232
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/18/settings/event/18/message"
 msgid "Lea!"
-msgstr ""
+msgstr "¡Lea!"
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/18/settings/event/19/message #6
 #. EventTrigger battleScene-Start START IF tmp.fightStart && quest.bg-2-goat_cave_1.task.2
@@ -168,7 +180,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/18/settings/event/19/message+%236
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/18/settings/event/19/message"
 msgid "It seems you are wondering what all of this is?"
-msgstr ""
+msgstr "Parece que te estás preguntando qué es todo esto..."
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/18/settings/event/20/0/0/message #439
 #. EventTrigger battleScene-Start START IF tmp.fightStart && quest.bg-2-goat_cave_1.task.2
@@ -177,7 +189,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/18/settings/event/20/0/0/message+%23439
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/18/settings/event/20/0/0/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[asiente]"
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/18/settings/event/20/0/1/message #8
 #. EventTrigger battleScene-Start START IF tmp.fightStart && quest.bg-2-goat_cave_1.task.2
@@ -186,7 +198,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/18/settings/event/20/0/1/message+%238
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/18/settings/event/20/0/1/message"
 msgid "Very well, let me explain."
-msgstr ""
+msgstr "Muy bien, déjame explicar."
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/18/settings/event/20/1/0/message #50
 #. EventTrigger battleScene-Start START IF tmp.fightStart && quest.bg-2-goat_cave_1.task.2
@@ -195,7 +207,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/18/settings/event/20/1/0/message+%2350
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/18/settings/event/20/1/0/message"
 msgid "[shakes head]"
-msgstr ""
+msgstr "[niega con la cabeza]"
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/18/settings/event/20/1/1/message #9
 #. EventTrigger battleScene-Start START IF tmp.fightStart && quest.bg-2-goat_cave_1.task.2
@@ -204,7 +216,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/18/settings/event/20/1/1/message+%239
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/18/settings/event/20/1/1/message"
 msgid "Well, I shall tell you regardless."
-msgstr ""
+msgstr "Bien, te diré de todos modos."
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/18/settings/event/20/1/2/message #10
 #. EventTrigger battleScene-Start START IF tmp.fightStart && quest.bg-2-goat_cave_1.task.2
@@ -213,7 +225,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/18/settings/event/20/1/2/message+%2310
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/18/settings/event/20/1/2/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/18/settings/event/20/options/0/label #11
 #. EventTrigger battleScene-Start START IF tmp.fightStart && quest.bg-2-goat_cave_1.task.2
@@ -221,7 +233,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/18/settings/event/20/options/0/label+%2311
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/18/settings/event/20/options/0/label"
 msgid "[nods]"
-msgstr ""
+msgstr "[asiente]"
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/18/settings/event/20/options/1/label #7
 #. EventTrigger battleScene-Start START IF tmp.fightStart && quest.bg-2-goat_cave_1.task.2
@@ -229,7 +241,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/18/settings/event/20/options/1/label+%237
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/18/settings/event/20/options/1/label"
 msgid "[shakes head]"
-msgstr ""
+msgstr "[niega con la cabeza]"
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/18/settings/event/21/message #12
 #. EventTrigger battleScene-Start START IF tmp.fightStart && quest.bg-2-goat_cave_1.task.2
@@ -237,7 +249,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/18/settings/event/21/message+%2312
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/18/settings/event/21/message"
 msgid "You see, goats have always struck me as majestic creatures that deserve a bigger place on this world."
-msgstr ""
+msgstr "Verás, las cabras siempre me han parecido criaturas majestuosas que merecen más importancia en este mundo."
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/18/settings/event/22/message #440
 #. EventTrigger battleScene-Start START IF tmp.fightStart && quest.bg-2-goat_cave_1.task.2
@@ -245,7 +257,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/18/settings/event/22/message+%23440
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/18/settings/event/22/message"
 msgid "Thus I used my knowledge of the Track to help them enhance their minds and bodies."
-msgstr ""
+msgstr "Por ello, utilizo mi conocimiento del Camino para ayudarlas a mejorar sus mentes y sus cuerpos."
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/18/settings/event/23/message #441
 #. EventTrigger battleScene-Start START IF tmp.fightStart && quest.bg-2-goat_cave_1.task.2
@@ -253,7 +265,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/18/settings/event/23/message+%23441
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/18/settings/event/23/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/18/settings/event/31/message #442
 #. EventTrigger battleScene-Start START IF tmp.fightStart && quest.bg-2-goat_cave_1.task.2
@@ -261,7 +273,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/18/settings/event/31/message+%23442
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/18/settings/event/31/message"
 msgid "This stellar specimen you see here is my greatest creation."
-msgstr ""
+msgstr "Este maravilloso espécimen que ves aquí es mi más preciada creación."
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/18/settings/event/32/message #444
 #. EventTrigger battleScene-Start START IF tmp.fightStart && quest.bg-2-goat_cave_1.task.2
@@ -269,7 +281,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/18/settings/event/32/message+%23444
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/18/settings/event/32/message"
 msgid "He has developed great intelligence and holds power over all the lesser goats that you fought."
-msgstr ""
+msgstr "Ha desarrollado una gran inteligencia y puede controlar a todas las otras cabras contra las que has luchado."
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/18/settings/event/33/message #449
 #. EventTrigger battleScene-Start START IF tmp.fightStart && quest.bg-2-goat_cave_1.task.2
@@ -277,7 +289,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/18/settings/event/33/message+%23449
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/18/settings/event/33/message"
 msgid "In fact, all of them are genetically based off of him.\\. So you could call him the father of goats."
-msgstr ""
+msgstr "De hecho, todos tienen su misma base genética.\\. Así que podrías llamarlo el padre de todas las cabras."
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/18/settings/event/34/message #443
 #. EventTrigger battleScene-Start START IF tmp.fightStart && quest.bg-2-goat_cave_1.task.2
@@ -285,7 +297,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/18/settings/event/34/message+%23443
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/18/settings/event/34/message"
 msgid "He is indeed the pinnacle of all that is goat.\\.\\. And I am his master!"
-msgstr ""
+msgstr "Él es realmente la cabra suprema.\\.\\. ¡Y yo soy su amo!"
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/18/settings/event/35/message #445
 #. EventTrigger battleScene-Start START IF tmp.fightStart && quest.bg-2-goat_cave_1.task.2
@@ -293,7 +305,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/18/settings/event/35/message+%23445
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/18/settings/event/35/message"
 msgid "...!"
-msgstr ""
+msgstr "¡...!"
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/18/settings/event/43/message #446
 #. EventTrigger battleScene-Start START IF tmp.fightStart && quest.bg-2-goat_cave_1.task.2
@@ -301,7 +313,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/18/settings/event/43/message+%23446
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/18/settings/event/43/message"
 msgid "Soon we shall trample the goatless masses and make the entire Track ours!"
-msgstr ""
+msgstr "¡Pronto acabaremos con todo el mundo y nos apoderaremos del Camino!"
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/18/settings/event/44/message #447
 #. EventTrigger battleScene-Start START IF tmp.fightStart && quest.bg-2-goat_cave_1.task.2
@@ -309,7 +321,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/18/settings/event/44/message+%23447
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/18/settings/event/44/message"
 msgid "... Lea."
-msgstr ""
+msgstr "... Lea."
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/18/settings/event/45/message #448
 #. EventTrigger battleScene-Start START IF tmp.fightStart && quest.bg-2-goat_cave_1.task.2
@@ -317,7 +329,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/18/settings/event/45/message+%23448
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/18/settings/event/45/message"
 msgid "Say all you want, it won't stop us.\\. Your meddling will end here and now!"
-msgstr ""
+msgstr "Di lo que quieras, no podrás pararnos.\\. ¡Tú has llegado hasta aquí!"
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/19/settings/event/17/message #4
 #. EventTrigger firstFightEnd-firstTime START IF (tmp.goats >= 8 && quest.bg-2-goat_cave_1.task.2) || tmp.scene
@@ -325,7 +337,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/19/settings/event/17/message+%234
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/19/settings/event/17/message"
 msgid "Impressive.\\. But... what you just fought were just lowly hoofsoldiers."
-msgstr ""
+msgstr "Impresionante.\\. Pero... esas no eran más que carne de cañón."
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/19/settings/event/18/message #5
 #. EventTrigger firstFightEnd-firstTime START IF (tmp.goats >= 8 && quest.bg-2-goat_cave_1.task.2) || tmp.scene
@@ -333,7 +345,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/19/settings/event/18/message+%235
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/19/settings/event/18/message"
 msgid "...!"
-msgstr ""
+msgstr "¡...!"
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/19/settings/event/19/message #450
 #. EventTrigger firstFightEnd-firstTime START IF (tmp.goats >= 8 && quest.bg-2-goat_cave_1.task.2) || tmp.scene
@@ -341,7 +353,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/19/settings/event/19/message+%23450
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/19/settings/event/19/message"
 msgid "Mere offshoots of what will become the source of my power, once we rule this world!"
-msgstr ""
+msgstr "¡Pequeños errores en lo que será la fuente de mi poder, cuando dominemos el mundo!"
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/19/settings/event/20/message #451
 #. EventTrigger firstFightEnd-firstTime START IF (tmp.goats >= 8 && quest.bg-2-goat_cave_1.task.2) || tmp.scene
@@ -349,7 +361,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/19/settings/event/20/message+%23451
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/19/settings/event/20/message"
 msgid "Now, \\v[lore.title.seeker], you will face the genuine article!\\. "
-msgstr ""
+msgstr "¡Ahora, \\v[lore.title.seeker]a, te las verás con el mejor!\\. "
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/19/settings/event/21/message #452
 #. EventTrigger firstFightEnd-firstTime START IF (tmp.goats >= 8 && quest.bg-2-goat_cave_1.task.2) || tmp.scene
@@ -357,7 +369,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/19/settings/event/21/message+%23452
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/19/settings/event/21/message"
 msgid "...!"
-msgstr ""
+msgstr "¡...!"
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/19/settings/event/41/action/11/text #481
 #. EventTrigger firstFightEnd-firstTime START IF (tmp.goats >= 8 && quest.bg-2-goat_cave_1.task.2) || tmp.scene
@@ -366,7 +378,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/19/settings/event/41/action/11/text+%23481
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/19/settings/event/41/action/11/text"
 msgid "[excited goat noises]"
-msgstr ""
+msgstr "[sonidos de cabra emocionados]"
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/19/settings/event/48/message #453
 #. EventTrigger firstFightEnd-firstTime START IF (tmp.goats >= 8 && quest.bg-2-goat_cave_1.task.2) || tmp.scene
@@ -374,7 +386,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/19/settings/event/48/message+%23453
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/19/settings/event/48/message"
 msgid "Zira?\\. What... what is the meaning of this?"
-msgstr ""
+msgstr "¿Zira?\\. Qué... ¿qué quiere decir esto?"
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/19/settings/event/50/text #467
 #. EventTrigger firstFightEnd-firstTime START IF (tmp.goats >= 8 && quest.bg-2-goat_cave_1.task.2) || tmp.scene
@@ -382,7 +394,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/19/settings/event/50/text+%23467
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/19/settings/event/50/text"
 msgid "[angry goat noises]"
-msgstr ""
+msgstr "[sonidos de cabra enojados]"
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/19/settings/event/54/message #454
 #. EventTrigger firstFightEnd-firstTime START IF (tmp.goats >= 8 && quest.bg-2-goat_cave_1.task.2) || tmp.scene
@@ -390,7 +402,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/19/settings/event/54/message+%23454
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/19/settings/event/54/message"
 msgid "And why are you looking at me like that?\\.\\. It is I, your master!"
-msgstr ""
+msgstr "¿Y por qué me estás mirando así?\\. ¡Soy yo!\\. ¡Tu amo!"
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/19/settings/event/56/message #456
 #. EventTrigger firstFightEnd-firstTime START IF (tmp.goats >= 8 && quest.bg-2-goat_cave_1.task.2) || tmp.scene
@@ -398,7 +410,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/19/settings/event/56/message+%23456
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/19/settings/event/56/message"
 msgid "I created you and rewired your brain.\\. My control is absolute!"
-msgstr ""
+msgstr "Yo te creé y reestructuré tu cerebro.\\. ¡Tengo control absoluto!"
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/19/settings/event/62/action/8/text #455
 #. EventTrigger firstFightEnd-firstTime START IF (tmp.goats >= 8 && quest.bg-2-goat_cave_1.task.2) || tmp.scene
@@ -407,7 +419,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/19/settings/event/62/action/8/text+%23455
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/19/settings/event/62/action/8/text"
 msgid "AHHHHHHHHHHHHHH...!!"
-msgstr ""
+msgstr "¡¡AHHHHHHHHHHHHHH...!!"
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/19/settings/event/70/action/16/text #468
 #. EventTrigger firstFightEnd-firstTime START IF (tmp.goats >= 8 && quest.bg-2-goat_cave_1.task.2) || tmp.scene
@@ -416,7 +428,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/19/settings/event/70/action/16/text+%23468
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/19/settings/event/70/action/16/text"
 msgid "[playful goat noises]"
-msgstr ""
+msgstr "[sonidos de cabra juguetones]"
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/33/settings/analyzable/text #423
 #. NPC pet-goat
