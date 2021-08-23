@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.1-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-14 01:09+0000\n"
-"PO-Revision-Date: 2021-08-23 01:12+0000\n"
+"PO-Revision-Date: 2021-08-24 04:24+0000\n"
 "Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.crosscode.ru/projects/crosscode/bergen-trail/es/>\n"
 "Language: es_ES\n"
@@ -2129,14 +2129,14 @@ msgstr "No estoy viendo nada nuevo pero..."
 #: data/maps/bergen-trail/hermit-1.json+entities/44/settings/npcStates/0/event/4/message+%2319
 msgctxt "data/maps/bergen-trail/hermit-1.json//entities/44/settings/npcStates/0/event/4/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/bergen-trail/hermit-2-basement.json entities/49/settings/interact/hoverText #11
 #. Prop generator-prop SPAWN IF quest.bergtraders-2-hermit_materials.task.3
 #: data/maps/bergen-trail/hermit-2-basement.json+entities/49/settings/interact/hoverText+%2311
 msgctxt "data/maps/bergen-trail/hermit-2-basement.json//entities/49/settings/interact/hoverText"
 msgid "Repair Generator"
-msgstr ""
+msgstr "Reparar Generador"
 
 #. data/maps/bergen-trail/hermit-2-basement.json entities/49/settings/interact/event/2/text #3
 #. Prop generator-prop SPAWN IF quest.bergtraders-2-hermit_materials.task.3
@@ -2144,7 +2144,7 @@ msgstr ""
 #: data/maps/bergen-trail/hermit-2-basement.json+entities/49/settings/interact/event/2/text+%233
 msgctxt "data/maps/bergen-trail/hermit-2-basement.json//entities/49/settings/interact/event/2/text"
 msgid "Repairing generator..."
-msgstr ""
+msgstr "Reparando generador..."
 
 #. data/maps/bergen-trail/hermit-2-basement.json entities/49/settings/interact/event/4/text #4
 #. Prop generator-prop SPAWN IF quest.bergtraders-2-hermit_materials.task.3
@@ -2152,7 +2152,7 @@ msgstr ""
 #: data/maps/bergen-trail/hermit-2-basement.json+entities/49/settings/interact/event/4/text+%234
 msgctxt "data/maps/bergen-trail/hermit-2-basement.json//entities/49/settings/interact/event/4/text"
 msgid "Generator repaired!"
-msgstr ""
+msgstr "¡Generador reparado!"
 
 #. data/maps/bergen-trail/lab/room-boss.json entities/4/settings/event/13/text #3
 #. EventTrigger bossStart START IF tmp.bossStart
@@ -2164,13 +2164,16 @@ msgid ""
 "Subject:\\.\n"
 "Heavy Tank Unit"
 msgstr ""
+"\\c[1]--- Iniciando Secuencia de Prueba ---\\.\n"
+"Sujeto:\\.\n"
+"Unidad de Tanque Pesado"
 
 #. data/maps/bergen-trail/lab/room-final.json entities/46/settings/interact/hoverText #226
 #. Prop holo-sign
 #: data/maps/bergen-trail/lab/room-final.json+entities/46/settings/interact/hoverText+%23226
 msgctxt "data/maps/bergen-trail/lab/room-final.json//entities/46/settings/interact/hoverText"
 msgid "Hologram"
-msgstr ""
+msgstr "Holograma"
 
 #. data/maps/bergen-trail/lab/room-final.json entities/46/settings/interact/event/7/name #236
 #. Prop holo-sign
@@ -2178,7 +2181,7 @@ msgstr ""
 #: data/maps/bergen-trail/lab/room-final.json+entities/46/settings/interact/event/7/name+%23236
 msgctxt "data/maps/bergen-trail/lab/room-final.json//entities/46/settings/interact/event/7/name"
 msgid "Xavier Bonegate"
-msgstr ""
+msgstr "Xavier Bonegate"
 
 #. data/maps/bergen-trail/lab/room-final.json entities/46/settings/interact/event/9/message #227
 #. Prop holo-sign
@@ -2186,7 +2189,7 @@ msgstr ""
 #: data/maps/bergen-trail/lab/room-final.json+entities/46/settings/interact/event/9/message+%23227
 msgctxt "data/maps/bergen-trail/lab/room-final.json//entities/46/settings/interact/event/9/message"
 msgid "Welcome!\\. This is again \\c[3]Xavier Bonegate\\c[0] speaking for \\c[3]Heavy Hardware Inc\\c[0].\\. For the last time in this facility."
-msgstr ""
+msgstr "¡Bienvenido!\\. \\c[3]Xavier Bonegate\\c[0] al habla de parte de \\c[3]Heavy Hardware Inc.\\c[0].\\. Por última vez en esta instalación."
 
 #. data/maps/bergen-trail/lab/room-final.json entities/46/settings/interact/event/10/message #246
 #. Prop holo-sign
@@ -2194,7 +2197,7 @@ msgstr ""
 #: data/maps/bergen-trail/lab/room-final.json+entities/46/settings/interact/event/10/message+%23246
 msgctxt "data/maps/bergen-trail/lab/room-final.json//entities/46/settings/interact/event/10/message"
 msgid "As you might have noticed we have been met with great challenges.\\. Greater challenges than anyone could have imagined!"
-msgstr ""
+msgstr "Como podrás notar, nos hemos topado con grandes desafíos.\\. ¡Aún más grandes de lo que nos habíamos imaginado!"
 
 #. data/maps/bergen-trail/lab/room-final.json entities/46/settings/interact/event/11/message #240
 #. Prop holo-sign
@@ -2202,7 +2205,7 @@ msgstr ""
 #: data/maps/bergen-trail/lab/room-final.json+entities/46/settings/interact/event/11/message+%23240
 msgctxt "data/maps/bergen-trail/lab/room-final.json//entities/46/settings/interact/event/11/message"
 msgid "For all our effort we were not able to properly control the energy of the Track that has taken over our systems while powering them."
-msgstr ""
+msgstr "A pesar de nuestros mejores esfuerzos, no hemos sido capaces de controlar la energía del Camino, y ha tomado control de nuestro equipamiento."
 
 #. data/maps/bergen-trail/lab/room-final.json entities/46/settings/interact/event/12/message #232
 #. Prop holo-sign
@@ -2210,7 +2213,7 @@ msgstr ""
 #: data/maps/bergen-trail/lab/room-final.json+entities/46/settings/interact/event/12/message+%23232
 msgctxt "data/maps/bergen-trail/lab/room-final.json//entities/46/settings/interact/event/12/message"
 msgid "But we are still proud of the choices we made for the sake of progress!"
-msgstr ""
+msgstr "¡Pero aún así estamos orgullosos de nuestras decisiones en nombre del progreso!"
 
 #. data/maps/bergen-trail/lab/room-final.json entities/46/settings/interact/event/13/message #241
 #. Prop holo-sign
@@ -2218,7 +2221,7 @@ msgstr ""
 #: data/maps/bergen-trail/lab/room-final.json+entities/46/settings/interact/event/13/message+%23241
 msgctxt "data/maps/bergen-trail/lab/room-final.json//entities/46/settings/interact/event/13/message"
 msgid "Because we believe that failures are the greatest opportunity to learn.\\. We had some of the best learning experiences one could imagine!"
-msgstr ""
+msgstr "Porque creemos que los fracasos son las mejores oportunidades para aprender.\\. ¡Hemos aprendido mucho más de lo que podríamos haber imaginado!"
 
 #. data/maps/bergen-trail/lab/room-final.json entities/46/settings/interact/event/14/message #247
 #. Prop holo-sign
@@ -2226,7 +2229,7 @@ msgstr ""
 #: data/maps/bergen-trail/lab/room-final.json+entities/46/settings/interact/event/14/message+%23247
 msgctxt "data/maps/bergen-trail/lab/room-final.json//entities/46/settings/interact/event/14/message"
 msgid "But now it is time to leave this place behind.\\. The \\v[combat.name.snowman] have been instructed to guard the facility."
-msgstr ""
+msgstr "Pero ahora es momento de dejar este sitio atrás.\\. Los \\v[combat.name.snowman] están a cargo de proteger las instalaciones."
 
 #. data/maps/bergen-trail/lab/room-final.json entities/46/settings/interact/event/15/message #231
 #. Prop holo-sign
@@ -2234,7 +2237,7 @@ msgstr ""
 #: data/maps/bergen-trail/lab/room-final.json+entities/46/settings/interact/event/15/message+%23231
 msgctxt "data/maps/bergen-trail/lab/room-final.json//entities/46/settings/interact/event/15/message"
 msgid "However we will continue our work in a different place.\\. One that will be well hidden."
-msgstr ""
+msgstr "Sin embargo continuaremos nuestro trabajo en otro lugar.\\. Uno que esté bien oculto."
 
 #. data/maps/bergen-trail/lab/room-final.json entities/46/settings/interact/event/16/message #12207
 #. Prop holo-sign
@@ -2242,7 +2245,7 @@ msgstr ""
 #: data/maps/bergen-trail/lab/room-final.json+entities/46/settings/interact/event/16/message+%2312207
 msgctxt "data/maps/bergen-trail/lab/room-final.json//entities/46/settings/interact/event/16/message"
 msgid "It will house the greatest minds of our generation to work tirelessly for the good on mankind!"
-msgstr ""
+msgstr "¡Albergará las mentes más brillantes de nuestra generación para que trabajen sin descanso por el bien de la humanidad!"
 
 #. data/maps/bergen-trail/lab/room-final.json entities/46/settings/interact/event/17/message #244
 #. Prop holo-sign
@@ -2250,7 +2253,7 @@ msgstr ""
 #: data/maps/bergen-trail/lab/room-final.json+entities/46/settings/interact/event/17/message+%23244
 msgctxt "data/maps/bergen-trail/lab/room-final.json//entities/46/settings/interact/event/17/message"
 msgid "In the name of the entire team I ask you to not just see this project as a failure but the beginning of something even grander."
-msgstr ""
+msgstr "En nombre de todo nuestro equipo, te pido que no mires a este proyecto como un fracaso, sino como el comienzo de algo mucho más grande."
 
 #. data/maps/bergen-trail/lab/room-final.json entities/46/settings/interact/event/18/message #245
 #. Prop holo-sign
@@ -2258,7 +2261,7 @@ msgstr ""
 #: data/maps/bergen-trail/lab/room-final.json+entities/46/settings/interact/event/18/message+%23245
 msgctxt "data/maps/bergen-trail/lab/room-final.json//entities/46/settings/interact/event/18/message"
 msgid "Because it is in the future where we will spend the rest of our lives.\\. And in this future we will work, to affect the futures of everyone!\\. Goodbye."
-msgstr ""
+msgstr "Porque es en el futuro dónde viviremos el resto de nuestras vidas.\\. ¡Y en este futuro trabajaremos, para que afecte el futuro de todos!\\. Adiós."
 
 #. data/maps/bergen-trail/lab/room-final.json entities/47/settings/event/2/name #12197
 #. EventTrigger xbox-end START IF map.scientist-talk
@@ -2266,7 +2269,7 @@ msgstr ""
 #: data/maps/bergen-trail/lab/room-final.json+entities/47/settings/event/2/name+%2312197
 msgctxt "data/maps/bergen-trail/lab/room-final.json//entities/47/settings/event/2/name"
 msgid "Bill Masters"
-msgstr ""
+msgstr "Bill Masters"
 
 #. data/maps/bergen-trail/lab/room-final.json entities/47/settings/event/4/message #12200
 #. EventTrigger xbox-end START IF map.scientist-talk
@@ -2274,7 +2277,7 @@ msgstr ""
 #: data/maps/bergen-trail/lab/room-final.json+entities/47/settings/event/4/message+%2312200
 msgctxt "data/maps/bergen-trail/lab/room-final.json//entities/47/settings/event/4/message"
 msgid "\\v[lore.title.seeker], my man, that was some damn impressive work!"
-msgstr ""
+msgstr "¡\\v[lore.title.seeker]a, ese fue un sorprendente trabajo!"
 
 #. data/maps/bergen-trail/lab/room-final.json entities/47/settings/event/5/message #12202
 #. EventTrigger xbox-end START IF map.scientist-talk
@@ -2282,7 +2285,7 @@ msgstr ""
 #: data/maps/bergen-trail/lab/room-final.json+entities/47/settings/event/5/message+%2312202
 msgctxt "data/maps/bergen-trail/lab/room-final.json//entities/47/settings/event/5/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/bergen-trail/lab/room-final.json entities/47/settings/event/6/message #12205
 #. EventTrigger xbox-end START IF map.scientist-talk
@@ -2290,7 +2293,7 @@ msgstr ""
 #: data/maps/bergen-trail/lab/room-final.json+entities/47/settings/event/6/message+%2312205
 msgctxt "data/maps/bergen-trail/lab/room-final.json//entities/47/settings/event/6/message"
 msgid "Such a beautiful machine of war and you still managed to trash it.\\. You \\v[lore.title.seeker]s are something else."
-msgstr ""
+msgstr "Una máquina de guerra tan bella, y aún así conseguiste destruirla.\\. Los \\v[lore.title.seeker]es son sorprendentes."
 
 #. data/maps/bergen-trail/lab/room-final.json entities/47/settings/event/7/message #12204
 #. EventTrigger xbox-end START IF map.scientist-talk
@@ -2298,7 +2301,7 @@ msgstr ""
 #: data/maps/bergen-trail/lab/room-final.json+entities/47/settings/event/7/message+%2312204
 msgctxt "data/maps/bergen-trail/lab/room-final.json//entities/47/settings/event/7/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/bergen-trail/lab/room-final.json entities/47/settings/event/8/message #12201
 #. EventTrigger xbox-end START IF map.scientist-talk
@@ -2306,7 +2309,7 @@ msgstr ""
 #: data/maps/bergen-trail/lab/room-final.json+entities/47/settings/event/8/message+%2312201
 msgctxt "data/maps/bergen-trail/lab/room-final.json//entities/47/settings/event/8/message"
 msgid "But you got that datachip.\\. Our technicians should be able to reverse engineer some great toys from that."
-msgstr ""
+msgstr "Pero conseguiste ese chip de información.\\. Nuestros técnicos deberían ser capaces de fabricar algunos interesantes juguetes a partir de eso."
 
 #. data/maps/bergen-trail/lab/room-final.json entities/47/settings/event/9/message #12206
 #. EventTrigger xbox-end START IF map.scientist-talk
@@ -2314,7 +2317,7 @@ msgstr ""
 #: data/maps/bergen-trail/lab/room-final.json+entities/47/settings/event/9/message+%2312206
 msgctxt "data/maps/bergen-trail/lab/room-final.json//entities/47/settings/event/9/message"
 msgid "Bring it back to me in Bergen, so we can finish this mission!"
-msgstr ""
+msgstr "¡Tráemelo de vuelta en Bergen, así podremos terminar la misión!"
 
 #. data/maps/bergen-trail/lab/room-final.json entities/47/settings/event/10/message #401
 #. EventTrigger xbox-end START IF map.scientist-talk
@@ -2322,7 +2325,7 @@ msgstr ""
 #: data/maps/bergen-trail/lab/room-final.json+entities/47/settings/event/10/message+%23401
 msgctxt "data/maps/bergen-trail/lab/room-final.json//entities/47/settings/event/10/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[asiente]"
 
 #. data/maps/bergen-trail/lab/room-final.json entities/47/settings/event/11/message #12203
 #. EventTrigger xbox-end START IF map.scientist-talk
@@ -2330,7 +2333,7 @@ msgstr ""
 #: data/maps/bergen-trail/lab/room-final.json+entities/47/settings/event/11/message+%2312203
 msgctxt "data/maps/bergen-trail/lab/room-final.json//entities/47/settings/event/11/message"
 msgid "Bye!"
-msgstr ""
+msgstr "¡Adiós!"
 
 #. data/maps/bergen-trail/lab/room-final.json entities/49/settings/condAnims/0/interact/hoverText #213
 #. Prop keyLore
@@ -2338,7 +2341,7 @@ msgstr ""
 #: data/maps/bergen-trail/lab/room-final.json+entities/49/settings/condAnims/0/interact/hoverText+%23213
 msgctxt "data/maps/bergen-trail/lab/room-final.json//entities/49/settings/condAnims/0/interact/hoverText"
 msgid "Display"
-msgstr ""
+msgstr "Pantalla"
 
 #. data/maps/bergen-trail/lab/room-final.json entities/49/settings/condAnims/0/interact/event/1/text #215
 #. Prop keyLore
@@ -2354,6 +2357,12 @@ msgid ""
 "\n"
 "\\c[3]Subject:\\c[0] The Future"
 msgstr ""
+"\\c[1]CORREO INTERNO, ENTRANTE\\c[0]\n"
+"\n"
+"\\c[3]DE:\\c[0] \"Los 4 visionarios\"\n"
+"\\c[3]PARA:\\c[0] Todas las instalaciones\n"
+"\n"
+"\\c[3]Asunto:\\c[0] El Futuro"
 
 #. data/maps/bergen-trail/lab/room-final.json entities/49/settings/condAnims/0/interact/event/2/text #12212
 #. Prop keyLore
@@ -2366,6 +2375,9 @@ msgid ""
 "\n"
 "Since \\c[3]our funding has been cut\\c[0] and \\c[3]the facilities got taken by the Track\\c[0], we established a \\c[3]new place\\c[0] where we will preserve and continue our research."
 msgstr ""
+"Buenas tardes a todos,\n"
+"\n"
+"Desde que han \\c[3]recortado nuestros fondos\\c[0] y las \\c[3]instalaciones fueron tomadas por el Camino\\c[0], hemos establecido un \\c[3]nuevo lugar\\c[0] donde preservaremos y continuaremos nuestra investigación."
 
 #. data/maps/bergen-trail/lab/room-final.json entities/49/settings/condAnims/0/interact/event/3/text #12213
 #. Prop keyLore
@@ -2378,6 +2390,9 @@ msgid ""
 "You will find the \\c[3]key\\c[0] to enter it in the \\c[3]attachment\\c[0] of this message.\n"
 "However, \\c[3]by itself the key will not work\\c[0]."
 msgstr ""
+"La entrada puede encontrarse \\c[3]en algún sitio de \\v[area.forest.name]\\c[0].\n"
+"Encontrarán la \\c[3]llave\\c[0] para entrar en el \\c[3]archivo adjunto\\c[0] de este mensaje.\n"
+"Sin embargo, \\c[3]por sí misma la llave no funcionará\\c[0]."
 
 #. data/maps/bergen-trail/lab/room-final.json entities/49/settings/condAnims/0/interact/event/4/text #12210
 #. Prop keyLore
@@ -2386,7 +2401,7 @@ msgstr ""
 #: data/maps/bergen-trail/lab/room-final.json+entities/49/settings/condAnims/0/interact/event/4/text+%2312210
 msgctxt "data/maps/bergen-trail/lab/room-final.json//entities/49/settings/condAnims/0/interact/event/4/text"
 msgid "You will first need to \\c[3]decrypt\\c[0] it at \\c[3]4 different places\\c[0] that are hidden somewhere on \\v[lore.title.planet], each in a \\c[3]different region\\c[0]."
-msgstr ""
+msgstr "Primero deben \\c[3]desencriptarla\\c[0] en \\c[3]4 lugares diferentes\\c[0] que están ocultos a lo largo de \\v[lore.title.planet], cada uno en una \\c[3]región diferente\\c[0]."
 
 #. data/maps/bergen-trail/lab/room-final.json entities/49/settings/condAnims/0/interact/event/5/text #12214
 #. Prop keyLore
@@ -2398,6 +2413,8 @@ msgid ""
 "Hints towards \\c[1]one\\c[0] the locations can be found in each of our 4 facilities.\n"
 "\\c[3]So you will learn one location after reading this very message.\\c[0]"
 msgstr ""
+"Encontrarán una pista hacia la siguiente localización en cada una de las 4 instalaciones.\n"
+"\\c[3]Por lo que recibirán una al final de este mensaje\\c[0]."
 
 #. data/maps/bergen-trail/lab/room-final.json entities/49/settings/condAnims/0/interact/event/6/thenStep/0/text #12208
 #. Prop keyLore
