@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.1-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-14 01:09+0000\n"
-"PO-Revision-Date: 2021-07-19 05:50+0000\n"
-"Last-Translator: Esteban Herrera Ortúzar <estebanherreraortuzar@gmail.com>\n"
+"PO-Revision-Date: 2021-08-29 23:46+0000\n"
+"Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.crosscode.ru/projects/crosscode/database/es/>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
@@ -422,13 +422,13 @@ msgstr "\\c[3]Encuentra la \\v[item.156.name]\\c[0]. ¡Desbloquea todos los cofr
 #: data/database.json+achievements/expo-sandwich/name+%2313280
 msgctxt "data/database.json//achievements/expo-sandwich/name"
 msgid "Exponential Sandwiches"
-msgstr "Emparedados Exponenciales"
+msgstr "Sándwiches Exponenciales"
 
 #. data/database.json achievements/expo-sandwich/description #13281
 #: data/database.json+achievements/expo-sandwich/description+%2313281
 msgctxt "data/database.json//achievements/expo-sandwich/description"
 msgid "Obtain \\c[3]4 Cross\\c[0], \\c[3]8 Mega\\c[0], \\c[3]16 Chef\\c[0], \\c[3]32 Hi\\c[0] and \\c[3]64 Normal Sandwiches\\c[0]."
-msgstr "Obtiene los emparedados \\c[3]4 Cross\\c[0], \\c[3]8 Mega\\c[0], \\c[3]16 Chef\\c[0], \\c[3]32 Super\\c[0] y \\c[3]64 Normal\\c[0]."
+msgstr "Obtén las siguientes cantidades de cada tipo de sándwich: \\c[3]4 Cross\\c[0], \\c[3]8 Mega\\c[0], \\c[3]16 Chef\\c[0], \\c[3]32 Súper\\c[0], y \\c[3]64 Normales\\c[0]."
 
 #. data/database.json achievements/metal-gears/name #13109
 #. IF item.163.amount >= 99
@@ -25406,9 +25406,9 @@ msgid ""
 "\n"
 "While his sense of justice is warped, he is still a very capable fighter. He wields the standard issue \\c[3]Laserlance\\c[0] of the guards with great skill and always carries a few of \\c[3]his favorite sandwiches\\c[0], in case the battle tires him."
 msgstr ""
-"Un guardia corrupto que no tiene ningún tipo de respeto por los Shads nativos de Shadoon. Solía ocupar un cargo respetable en la \\c[3]Policía Baki de Maroon\\c[0], antes de que se descubran sus crímenes.\n"
+"Un guardia corrupto que no tiene ningún tipo de respeto por los Shads nativos de Shadoon. Solía ocupar un cargo respetable en la \\c[3]Guardia Baki de Maroon\\c[0], antes de que se descubran sus crímenes.\n"
 "\n"
-"Aunque su sentido de la justicia está torcido, es aún un luchador muy capaz. Empuña la típica \\c[3]Lanza Láser\\c[0] de los guardias con gran habilidad y siempre lleva algunos de sus \\c[3]emparedados favoritos\\c[0] por si la batalla lo cansa."
+"Aunque su sentido de la justicia está torcido, no deja de ser un luchador muy capaz. Empuña la típica \\c[3]Lanza Láser\\c[0] que utilizan los guardias con gran habilidad, y siempre lleva algunos de sus \\c[3]sándwiches favoritos\\c[0], en caso de fatigarse."
 
 #. data/database.json enemies/avatar.shizuka/name #13867
 #: data/database.json+enemies/avatar.shizuka/name+%2313867
@@ -25664,9 +25664,9 @@ msgid ""
 "\n"
 "Wield a powerful type of weapon that is used by most guards, the Laserlance. Also usually carries a standard ration of Sandwiches to recover from tiresome battles."
 msgstr ""
-"Un humano armado, actualmente o anteriormente empleado por una de las tantas centrales de policías en Shadoon.\n"
+"Un humano armado, actualmente o anteriormente empleado por una de las tantas centrales de guardias en Shadoon.\n"
 "\n"
-"Empuña un arma poderosa, utilizada por la mayoría de guardias, la Lanza Láser. Usualmente lleva una ración estándar de emparedados para las batallas agotadoras."
+"Empuña un arma poderosa, utilizada por la mayoría de guardias, la Lanza Láser. Usualmente lleva una ración estándar de sándwiches para las batallas agotadoras."
 
 #. data/database.json enemies/arid.evotar/name #14435
 #: data/database.json+enemies/arid.evotar/name+%2314435
@@ -39908,8 +39908,8 @@ msgid ""
 "Each of the \\c[3]4 Factions\\c[0] has a local subdivision in \\v[area.rookie-harbor.name]: \\c[3]Falldivers\\c[0], \\c[3]Rookie Harbor Guard\\c[0], \\c[3]Coastal Trading Coalition\\c[0] and \\c[3]Fruits of Autumn\\c[0].\n"
 "Introduce yourself to the representatives!"
 msgstr ""
-"Cada una de las \\c[3]4 Facciones\\c[0] tiene una subdivisión local en \\v[area.rookie-harbor.name]: \\c[3]Falldivers\\c[0], \\c[3]Policía del Puerto de los Principiantes\\c[0], \\c[3]Coalición Comercial Costera\\c[0] y \\c[3]Frutos del Otoño\\c[0].\n"
-"¡Preséntate ante a los representantes!"
+"Cada una de las \\c[3]4 Facciones\\c[0] tiene una subdivisión local en \\v[area.rookie-harbor.name]: \\c[3]Falldivers\\c[0], \\c[3]Guardia del Puerto de los Principiantes\\c[0], \\c[3]Coalición Comercial Costera\\c[0] y \\c[3]Frutos del Otoño\\c[0].\n"
+"¡Preséntate ante cada uno de sus representantes!"
 
 #. data/database.json quests/faction-tutorial/briefing #6747
 #: data/database.json+quests/faction-tutorial/briefing+%236747
@@ -40197,7 +40197,7 @@ msgstr "Sgto. Brassler"
 #: data/database.json+quests/rhg-1-pickpocket/description+%232609
 msgctxt "data/database.json//quests/rhg-1-pickpocket/description"
 msgid "You talked with the captain of the \\c[3]Rookie Harbor Guard\\c[0] and decided to help them out a bit. One of the city guards \\c[3]needs some reinforcements\\c[0]."
-msgstr "Hablaste con el capitán de la \\c[3]Policía del Puerto de los Principiantes\\c[0] y decidiste ayudarlos un poco. Uno de los guardias de la ciudad \\c[3]necesita refuerzos\\c[0]."
+msgstr "Hablaste con el capitán de la \\c[3]Guardia del Puerto de los Principiantes\\c[0] y decidiste tenderles una mano. Uno de los guardias de la ciudad \\c[3]necesita refuerzos\\c[0]."
 
 #. data/database.json quests/rhg-1-pickpocket/briefing #2610
 #: data/database.json+quests/rhg-1-pickpocket/briefing+%232610
