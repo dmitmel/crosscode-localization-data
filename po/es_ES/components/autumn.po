@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.1-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-14 01:09+0000\n"
-"PO-Revision-Date: 2021-08-27 21:24+0000\n"
+"PO-Revision-Date: 2021-08-30 22:53+0000\n"
 "Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.crosscode.ru/projects/crosscode/autumn/es/>\n"
 "Language: es_ES\n"
@@ -823,7 +823,7 @@ msgstr "Pero, mis habilidades no están al mismo nivel que las tuyas."
 #: data/maps/autumn/entrance.json+entities/92/settings/npcStates/0/event/quest/8/message+%2314
 msgctxt "data/maps/autumn/entrance.json//entities/92/settings/npcStates/0/event/quest/8/message"
 msgid "Might I ask you to help me out, dear \\v[lore.title.seeker]?"
-msgstr "¿Podría pedirte un favor, querida \\v[lore.title.seeker]?"
+msgstr "¿Podría pedirte un favor, querida \\v[lore.title.seeker]a?"
 
 #. data/maps/autumn/entrance.json entities/92/settings/npcStates/0/event/quest/9/message #42
 #. NPC equip-quest
@@ -906,7 +906,7 @@ msgstr "¡Pero claro que sí, jajaja!\\. ¡Oh, ser joven otra vez!"
 #: data/maps/autumn/entrance.json+entities/92/settings/npcStates/1/event/6/message+%2329
 msgctxt "data/maps/autumn/entrance.json//entities/92/settings/npcStates/1/event/6/message"
 msgid "But... back to work.\\. It looks like you still need to defeat \\c[3]\\v[quest.my-first-quest.subrequire.0] of these \\v[combat.name.hedgehog]s\\c[0]."
-msgstr "Pero... de vuelta al trabajo.\\. Parece que aún debes derrotar a \\c[3]\\v[quest.my-first-quest.subrequire.0] de estos \\v[combat.name.hedgehog]s\\c[0]."
+msgstr "Pero... de vuelta al trabajo.\\. Parece que aún debes derrotar a \\c[3]\\v[quest.my-first-quest.subrequire.0] \\v[combat.name.hedgehog]s\\c[0]."
 
 #. data/maps/autumn/entrance.json entities/92/settings/npcStates/2/event/quest/0/name #216
 #. NPC equip-quest
@@ -1133,7 +1133,7 @@ msgstr "El rango incrementa cuando \\c[3]derrotas enemigos\\c[0]."
 #: data/maps/autumn/entrance.json+entities/101/settings/event/1/acceptStep/13/text+%23208
 msgctxt "data/maps/autumn/entrance.json//entities/101/settings/event/1/acceptStep/13/text"
 msgid "With a higher combat rank, enemies will \\c[3]drop more items\\c[0], including \\c[3]special rare items\\c[0]."
-msgstr "Un rango de combate más alto hará que los enemigos \\c[3]suelten más objetos\\c[0], incluidos \\c[3]objetos raros especiales\\c[0]."
+msgstr "Un rango de combate más alto hará que los enemigos \\c[3]suelten más objetos\\c[0], incluidos \\c[3]objetos especiales\\c[0]."
 
 #. data/maps/autumn/entrance.json entities/101/settings/event/1/acceptStep/17/text #202
 #. EventTrigger CombatRankTutorial
@@ -1151,7 +1151,7 @@ msgstr "Cuando estés fuera de combate, entrarás en la \\c[3]fase de enfriamien
 #: data/maps/autumn/entrance.json+entities/101/settings/event/1/acceptStep/19/text+%23204
 msgctxt "data/maps/autumn/entrance.json//entities/101/settings/event/1/acceptStep/19/text"
 msgid "When the blue line disappears, combat will end and you will  \\c[3]lose your rank\\c[0]."
-msgstr "Cuando la línea azul desaparezca, saldrás de combate y \\c[3]perderás tu rango\\c[0]."
+msgstr "Cuando la línea azul desaparezca, saldrás del combate y \\c[3]perderás tu rango\\c[0]."
 
 #. data/maps/autumn/entrance.json entities/101/settings/event/1/acceptStep/21/text #203
 #. EventTrigger CombatRankTutorial
@@ -21235,7 +21235,7 @@ msgstr "P-Pero parece que yo s-solo no p-podré recoger todo lo q-que qui-iero. 
 #: data/maps/autumn/path-1.json+entities/311/settings/npcStates/0/event/quest/16/0/15/message+%23379
 msgctxt "data/maps/autumn/path-1.json//entities/311/settings/npcStates/0/event/quest/16/0/15/message"
 msgid "The \\c[3]T-Track of the Ancients\\c[0] only allows \\c[3]Seekers\\c[0] to find c-certain things."
-msgstr "El \\c[3]C-Camino de los Anti-ti-guos\\c[0] solo permite a los \\c[3]B-Buscadores\\c[0] encontrat ci-cier-ciertas cosas."
+msgstr "Hay c-cosas en el \\c[3]Camin-no de los Antig-guos\\c[0] que solo los \\c[3]B-Buscadores\\c[0] p-pueden encontrar."
 
 #. data/maps/autumn/path-1.json entities/311/settings/npcStates/0/event/quest/16/0/16/message #380
 #. NPC henry
@@ -22275,7 +22275,7 @@ msgstr "¡Tus acciones previas no serán olvidadas!"
 #: data/maps/autumn/path-2.json+entities/257/settings/event/22/message+%2393
 msgctxt "data/maps/autumn/path-2.json//entities/257/settings/event/22/message"
 msgid "Being a cheater is bad as it is. "
-msgstr "Ser una tramposa ya es lo suficientemente malo. "
+msgstr "Ya bastante malo es hacer trampa. "
 
 #. data/maps/autumn/path-2.json entities/257/settings/event/24/message #94
 #. EventTrigger HereComesApollo START IF party.has.Emilie
@@ -22443,7 +22443,7 @@ msgstr "¡Tendremos nuestro duelo en la \\c[3]entrada al Sendero de Bergen\\c[0]
 #: data/maps/autumn/path-2.json+entities/257/settings/event/58/message+%23114
 msgctxt "data/maps/autumn/path-2.json//entities/257/settings/event/58/message"
 msgid "I'll test your skills properly - to make sure you don't use any more dishonest methods!"
-msgstr "¡Probaré tus habilidades apropiadamente - para asegurarme de que no uses más métodos deshonestos!"
+msgstr "¡Probaré tus habilidades apropiadamente - para asegurarme de que no vuelvas a hacer trampa!"
 
 #. data/maps/autumn/path-2.json entities/257/settings/event/59/thenStep/0/message #144
 #. EventTrigger HereComesApollo START IF party.has.Emilie
