@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.1-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-14 01:09+0000\n"
-"PO-Revision-Date: 2021-05-25 03:33+0000\n"
-"Last-Translator: Esteban Herrera Ortúzar <estebanherreraortuzar@gmail.com>\n"
+"PO-Revision-Date: 2021-09-03 21:06+0000\n"
+"Last-Translator: slashbreak <slashbreak@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.crosscode.ru/projects/crosscode/jungle/es/>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.4\n"
+"X-Generator: Weblate 4.5.3\n"
 "POT-Revision-Date: 2021-04-14 01:09+0000\n"
 
 #. data/areas/jungle.json name #1
@@ -22534,6 +22534,7 @@ msgstr ""
 #. data/maps/jungle/path-02-crossroads.json entities/23/settings/interact/hoverText #3
 #. Prop
 #: data/maps/jungle/path-02-crossroads.json+entities/23/settings/interact/hoverText+%233
+#, fuzzy
 msgctxt "data/maps/jungle/path-02-crossroads.json//entities/23/settings/interact/hoverText"
 msgid ""
 "\\i[arrow-n] \\v[area.jungle-city.name]\n"
@@ -22541,6 +22542,10 @@ msgid ""
 "\\i[arrow-e] Road to V'rda Vil\n"
 "\\i[arrow-s] \\v[area.autumn-fall.name] "
 msgstr ""
+"\\i[arrow-n] \\v[area.jungle-city.name]\n"
+"\\i[arrow-w]\\i[arrow-e] Caminos a Gran Krys'kajo\n"
+"\\i[arrow-e] Camino a V'rda Vil\n"
+"\\i[arrow-s] \\v[area.autumn-fall.name] "
 
 #. data/maps/jungle/path-02-crossroads.json entities/641/settings/npcStates/1/event/0/name #420
 #. NPC henry
@@ -23078,6 +23083,7 @@ msgstr ""
 #. data/maps/jungle/path-03-sync.json entities/31/settings/interact/hoverText #3
 #. Prop
 #: data/maps/jungle/path-03-sync.json+entities/31/settings/interact/hoverText+%233
+#, fuzzy
 msgctxt "data/maps/jungle/path-03-sync.json//entities/31/settings/interact/hoverText"
 msgid ""
 "\\i[arrow-n] Grand Krys'kajo\n"
@@ -23085,15 +23091,22 @@ msgid ""
 "\\i[arrow-w]\\i[arrow-e] Roads to \\v[area.autumn-fall.name]\n"
 "\\i[arrow-e] Road to V'rda Vil"
 msgstr ""
+"\\i[arrow-n] Gran Krys'kajo\n"
+"\\i[arrow-w]\\i[arrow-e] Caminos a \\v[area.jungle-city.name]\n"
+"\\i[arrow-w]\\i[arrow-e] Caminos a \\v[area.autumn-fall.name]\n"
+"\\i[arrow-e] Camino a V'rda Vil"
 
 #. data/maps/jungle/path-04-end.json entities/659/settings/interact/hoverText #3
 #. Prop
 #: data/maps/jungle/path-04-end.json+entities/659/settings/interact/hoverText+%233
+#, fuzzy
 msgctxt "data/maps/jungle/path-04-end.json//entities/659/settings/interact/hoverText"
 msgid ""
 "\\i[arrow-n] Grand Krys'kajo\n"
 "\\i[arrow-w]\\i[arrow-e] Roads to \\v[area.autumn-fall.name]"
 msgstr ""
+"\\i[arrow-n] Gran Krys'kajo\n"
+"\\i[arrow-w]\\i[arrow-e] Caminos a \\v[area.autumn-fall.name]"
 
 #. data/maps/jungle/path-04-end.json entities/671/settings/npcStates/0/event/quest/5/message #44
 #. NPC glasses
@@ -24484,6 +24497,7 @@ msgstr ""
 #. data/maps/jungle/right/right-path-01.json entities/712/settings/interact/hoverText #4
 #. Prop
 #: data/maps/jungle/right/right-path-01.json+entities/712/settings/interact/hoverText+%234
+#, fuzzy
 msgctxt "data/maps/jungle/right/right-path-01.json//entities/712/settings/interact/hoverText"
 msgid ""
 "\\i[arrow-w] \\v[area.jungle-city.name] \n"
@@ -24491,36 +24505,52 @@ msgid ""
 "\\i[arrow-e] Roads to Grand Krys'kajo\n"
 "\\i[arrow-s] V'rda Vil"
 msgstr ""
+"\\i[arrow-w] \\v[area.jungle-city.name]\n"
+"\\i[arrow-w] \\v[area.autumn-fall.name]\n"
+"\\i[arrow-e] Caminos a Gran Krys'kajo\n"
+"\\i[arrow-s] V'rda Vil"
 
 #. data/maps/jungle/right/right-path-01.json entities/713/settings/interact/hoverText #3
 #. Prop
 #: data/maps/jungle/right/right-path-01.json+entities/713/settings/interact/hoverText+%233
+#, fuzzy
 msgctxt "data/maps/jungle/right/right-path-01.json//entities/713/settings/interact/hoverText"
 msgid ""
 "\\i[arrow-w] \\v[area.jungle-city.name] & \\v[area.autumn-fall.name] \n"
 "\\i[arrow-e] Roads to Grand Krys'kajo\n"
 "\\i[arrow-s] V'rda Vil"
 msgstr ""
+"\\i[arrow-w] \\v[area.jungle-city.name] & \\v[area.autumn-fall.name]\n"
+"\\i[arrow-e] Caminos a Gran Krys'kajo\n"
+"\\i[arrow-s] V'rda Vil"
 
 #. data/maps/jungle/right/right-path-01.json entities/714/settings/interact/hoverText #5
 #. Prop
 #: data/maps/jungle/right/right-path-01.json+entities/714/settings/interact/hoverText+%235
+#, fuzzy
 msgctxt "data/maps/jungle/right/right-path-01.json//entities/714/settings/interact/hoverText"
 msgid ""
 "\\i[arrow-w] \\v[area.jungle-city.name] & \\v[area.autumn-fall.name] \n"
 "\\i[arrow-e] Roads to Grand Krys'kajo\n"
 "\\i[arrow-s] V'rda Vil"
 msgstr ""
+"\\i[arrow-w] \\v[area.jungle-city.name] & \\v[area.autumn-fall.name]\n"
+"\\i[arrow-e] Caminos a Gran Krys'kajo\n"
+"\\i[arrow-s] V'rda Vil"
 
 #. data/maps/jungle/right/right-path-01.json entities/715/settings/interact/hoverText #6
 #. Prop
 #: data/maps/jungle/right/right-path-01.json+entities/715/settings/interact/hoverText+%236
+#, fuzzy
 msgctxt "data/maps/jungle/right/right-path-01.json//entities/715/settings/interact/hoverText"
 msgid ""
 "\\i[arrow-w] \\v[area.jungle-city.name] & \\v[area.autumn-fall.name] \n"
 "\\i[arrow-e] Roads to Grand Krys'kajo\n"
 "\\i[arrow-s] V'rda Vil"
 msgstr ""
+"\\i[arrow-w] \\v[area.jungle-city.name] & \\v[area.autumn-fall.name]\n"
+"\\i[arrow-e] Caminos a Gran Krys'kajo\n"
+"\\i[arrow-s] V'rda Vil"
 
 #. data/maps/jungle/right/right-path-01.json entities/716/settings/event/0/message #7
 #. LocationEvent lumbering START IF party.alive.Apollo && party.alive.Joern
