@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.1-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-14 01:09+0000\n"
-"PO-Revision-Date: 2021-09-03 21:06+0000\n"
+"PO-Revision-Date: 2021-09-04 13:22+0000\n"
 "Last-Translator: slashbreak <slashbreak@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.crosscode.ru/projects/crosscode/dreams/es/>\n"
 "Language: es_ES\n"
@@ -367,7 +367,7 @@ msgstr "Todo era parte del acuerdo, ¿no?"
 #: data/maps/dreams/dream13.json+entities/33/settings/event/92/message+%2357
 msgctxt "data/maps/dreams/dream13.json//entities/33/settings/event/92/message"
 msgid "I...\\. I never expected things...\\. to go this way...\n"
-msgstr ""
+msgstr "Nunca esperé que las cosas...\\. salieran así...\n"
 
 #. data/maps/dreams/dream13.json entities/33/settings/event/93/message #58
 #. EventTrigger Dreeeeam
@@ -383,7 +383,7 @@ msgstr ""
 #: data/maps/dreams/dream13.json+entities/33/settings/event/94/message+%2359
 msgctxt "data/maps/dreams/dream13.json//entities/33/settings/event/94/message"
 msgid "This is not...\\. game design, anymore."
-msgstr ""
+msgstr "Esto...\\. ya no es diseño de juegos."
 
 #. data/maps/dreams/dream13.json entities/33/settings/event/95/message #60
 #. EventTrigger Dreeeeam
@@ -391,7 +391,7 @@ msgstr ""
 #: data/maps/dreams/dream13.json+entities/33/settings/event/95/message+%2360
 msgctxt "data/maps/dreams/dream13.json//entities/33/settings/event/95/message"
 msgid "This is not for the right experience...\\. this is...\\. wrong..."
-msgstr ""
+msgstr "Esto no es para la experiencia adecuada...\\. esto está...\\. mal..."
 
 #. data/maps/dreams/dream13.json entities/33/settings/event/99/message #61
 #. EventTrigger Dreeeeam
@@ -405,7 +405,6 @@ msgstr "Yo...\\. Lo siento..."
 #. EventTrigger Dreeeeam
 #. SHOW_MSG antagonists.gautham-rl @DEFAULT
 #: data/maps/dreams/dream13.json+entities/33/settings/event/100/message+%2362
-#, fuzzy
 msgctxt "data/maps/dreams/dream13.json//entities/33/settings/event/100/message"
 msgid "I mustn't...\\. tell you any more..."
 msgstr "No debo...\\. decirte nada más..."
@@ -528,6 +527,10 @@ msgid ""
 "\\i[arrow-s] River \n"
 "\\i[arrow-e] Town Center"
 msgstr ""
+"\\i[arrow-n] Bosque\n"
+"\\i[arrow-sw] Acantilado\n"
+"\\i[arrow-s] Río\n"
+"\\i[arrow-e] Centro del Pueblo"
 
 #. data/maps/dreams/dream15.json entities/330/settings/interact/hoverText #15
 #. Prop
@@ -539,6 +542,10 @@ msgid ""
 "\\i[arrow-s] River \n"
 "\\i[arrow-ne] Town Center"
 msgstr ""
+"\\i[arrow-n] Bosque\n"
+"\\i[arrow-w] Acantilado\n"
+"\\i[arrow-s] Río\n"
+"\\i[arrow-ne] Centro del Pueblo"
 
 #. data/maps/dreams/dream15.json entities/349/settings/event/46/message #69
 #. EventTrigger Dreeeeam
@@ -636,9 +643,10 @@ msgstr "¡Hola, Lea!"
 #. NPC shady
 #. SHOW_MSG antagonists.shady @MASKED
 #: data/maps/dreams/dream16.json+entities/27/settings/npcStates/0/event/3/message+%2361
+#, fuzzy
 msgctxt "data/maps/dreams/dream16.json//entities/27/settings/npcStates/0/event/3/message"
 msgid "MASKED"
-msgstr ""
+msgstr "ENMASCARADO"
 
 #. data/maps/dreams/dream16.json entities/27/settings/npcStates/0/event/4/message #62
 #. NPC shady
@@ -975,7 +983,7 @@ msgstr "¿Ya te has olvidado...?"
 #: data/maps/dreams/dream16.json+entities/28/settings/event/133/message+%23110
 msgctxt "data/maps/dreams/dream16.json//entities/28/settings/event/133/message"
 msgid "Oh, dear..."
-msgstr ""
+msgstr "Oh, vaya..."
 
 #. data/maps/dreams/dream16.json entities/28/settings/event/134/message #111
 #. EventTrigger Dreeeeam
@@ -1096,7 +1104,7 @@ msgstr "..."
 #: data/maps/dreams/dream16.json+entities/28/settings/event/175/message+%23125
 msgctxt "data/maps/dreams/dream16.json//entities/28/settings/event/175/message"
 msgid "Always the same..."
-msgstr ""
+msgstr "Siempre lo mismo..."
 
 #. data/maps/dreams/dream16.json entities/28/settings/event/176/message #126
 #. EventTrigger Dreeeeam
@@ -1112,7 +1120,7 @@ msgstr "¿...?"
 #: data/maps/dreams/dream16.json+entities/28/settings/event/178/message+%23127
 msgctxt "data/maps/dreams/dream16.json//entities/28/settings/event/178/message"
 msgid "Isn't it funny how it always goes the same way?"
-msgstr ""
+msgstr "¿No es curioso que las cosas siempre salgan igual?"
 
 #. data/maps/dreams/dream16.json entities/28/settings/event/179/message #128
 #. EventTrigger Dreeeeam
@@ -1120,7 +1128,7 @@ msgstr ""
 #: data/maps/dreams/dream16.json+entities/28/settings/event/179/message+%23128
 msgctxt "data/maps/dreams/dream16.json//entities/28/settings/event/179/message"
 msgid "All the support I gave them...\\. all the things I did...\\. it suddenly doesn't matter."
-msgstr ""
+msgstr "Todo el apoyo que les di...\\. todas las cosas que hice...\\. de repente no importa."
 
 #. data/maps/dreams/dream16.json entities/28/settings/event/180/message #129
 #. EventTrigger Dreeeeam
@@ -1128,7 +1136,7 @@ msgstr ""
 #: data/maps/dreams/dream16.json+entities/28/settings/event/180/message+%23129
 msgctxt "data/maps/dreams/dream16.json//entities/28/settings/event/180/message"
 msgid "Just because of conflicting ideals."
-msgstr ""
+msgstr "Sólo por los ideales contrapuestos."
 
 #. data/maps/dreams/dream16.json entities/28/settings/event/181/message #130
 #. EventTrigger Dreeeeam
@@ -1136,7 +1144,7 @@ msgstr ""
 #: data/maps/dreams/dream16.json+entities/28/settings/event/181/message+%23130
 msgctxt "data/maps/dreams/dream16.json//entities/28/settings/event/181/message"
 msgid "And all at once, things have to go hostile."
-msgstr ""
+msgstr "Y de repente, las cosas se vuelven hostiles."
 
 #. data/maps/dreams/dream16.json entities/28/settings/event/182/message #131
 #. EventTrigger Dreeeeam
@@ -1224,7 +1232,7 @@ msgstr "Muy bien, así que todavía puedes contar."
 #: data/maps/dreams/dream16.json+entities/28/settings/event/206/message+%23141
 msgctxt "data/maps/dreams/dream16.json//entities/28/settings/event/206/message"
 msgid "That is something you picked up rather quickly."
-msgstr ""
+msgstr "Eso es algo que aprendiste bastante rápido."
 
 #. data/maps/dreams/dream16.json entities/28/settings/event/207/message #142
 #. EventTrigger Dreeeeam
@@ -2142,7 +2150,7 @@ msgstr "Lo sé, puede ser un poco solitario."
 #: data/maps/dreams/second.json+entities/119/settings/event/77/text+%2315
 msgctxt "data/maps/dreams/second.json//entities/119/settings/event/77/text"
 msgid "But it's a small price to pay."
-msgstr ""
+msgstr "Pero es un pequeño precio a pagar."
 
 #. data/maps/dreams/second.json entities/119/settings/event/78/text #16
 #. EventTrigger Dreeeeam
@@ -2252,7 +2260,7 @@ msgstr ""
 #: data/maps/dreams/seventh.json+entities/28/settings/event/61/message+%2335
 msgctxt "data/maps/dreams/seventh.json//entities/28/settings/event/61/message"
 msgid "I need a little bit of creative freedom to do my job."
-msgstr ""
+msgstr "Necesito un poco de libertad creativa para hacer mi trabajo."
 
 #. data/maps/dreams/seventh.json entities/28/settings/event/67/message #36
 #. EventTrigger Dreeeeam
@@ -2260,7 +2268,7 @@ msgstr ""
 #: data/maps/dreams/seventh.json+entities/28/settings/event/67/message+%2336
 msgctxt "data/maps/dreams/seventh.json//entities/28/settings/event/67/message"
 msgid "Gautham, that is what teamwork is all about.... You have to find a compromise."
-msgstr ""
+msgstr "Gautham, de eso se trate el trabajo en equipo... Hay que encontrar un compromiso."
 
 #. data/maps/dreams/seventh.json entities/28/settings/event/70/message #37
 #. EventTrigger Dreeeeam
@@ -2356,7 +2364,7 @@ msgstr "¡Claro que sí! Es simplemente demasiado prometedor."
 #: data/maps/dreams/seventh.json+entities/28/settings/event/97/message+%2348
 msgctxt "data/maps/dreams/seventh.json//entities/28/settings/event/97/message"
 msgid "What? I don't work that much, really..."
-msgstr ""
+msgstr "¿Qué? Realmente no trabajo tanto..."
 
 #. data/maps/dreams/seventh.json entities/28/settings/event/98/message #49
 #. EventTrigger Dreeeeam
@@ -2364,7 +2372,7 @@ msgstr ""
 #: data/maps/dreams/seventh.json+entities/28/settings/event/98/message+%2349
 msgctxt "data/maps/dreams/seventh.json//entities/28/settings/event/98/message"
 msgid "And I do it because it's what I want to do. No need to worry."
-msgstr ""
+msgstr "Y lo hago porque es lo que quiero hacer. No tienes por qué preocuparte."
 
 #. data/maps/dreams/seventh.json entities/28/settings/event/100/message #50
 #. EventTrigger Dreeeeam
@@ -2400,7 +2408,7 @@ msgstr ""
 #: data/maps/dreams/tenth.json+entities/1/settings/blockEvent/0/thenStep/4/message+%2325
 msgctxt "data/maps/dreams/tenth.json//entities/1/settings/blockEvent/0/thenStep/4/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/dreams/tenth.json entities/27/settings/event/28/text #30
 #. EventTrigger Dreeeeam
@@ -2501,6 +2509,8 @@ msgid ""
 "So for once...\\.\n"
 "I had to do the talking."
 msgstr ""
+"Así que por una vez...\\.\n"
+"tuve que hablar yo."
 
 #. data/maps/dreams/tenth.json entities/27/settings/event/44/text #40
 #. EventTrigger Dreeeeam
@@ -2508,7 +2518,7 @@ msgstr ""
 #: data/maps/dreams/tenth.json+entities/27/settings/event/44/text+%2340
 msgctxt "data/maps/dreams/tenth.json//entities/27/settings/event/44/text"
 msgid "Talking...\\. about myself.\n"
-msgstr ""
+msgstr "Hablando...\\. de mí mismo.\n"
 
 #. data/maps/dreams/the-room.json entities/0/settings/blockEvent/0/thenStep/3/message #13
 #. Door entrance
@@ -2518,7 +2528,7 @@ msgstr ""
 #: data/maps/dreams/the-room.json+entities/0/settings/blockEvent/0/thenStep/3/message+%2313
 msgctxt "data/maps/dreams/the-room.json//entities/0/settings/blockEvent/0/thenStep/3/message"
 msgid "The door is locked, correct? It seems we are trapped."
-msgstr ""
+msgstr "La puerta está cerrada, ¿correcto? Parece que estamos atrapados."
 
 #. data/maps/dreams/the-room.json entities/0/settings/blockEvent/0/thenStep/4/message #25
 #. Door entrance
@@ -2528,7 +2538,7 @@ msgstr ""
 #: data/maps/dreams/the-room.json+entities/0/settings/blockEvent/0/thenStep/4/message+%2325
 msgctxt "data/maps/dreams/the-room.json//entities/0/settings/blockEvent/0/thenStep/4/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/dreams/third.json entities/68/settings/event/40/text #11
 #. EventTrigger Dreeeeam
@@ -2558,6 +2568,9 @@ msgid ""
 "He gave it to me\n"
 "to design as I please."
 msgstr ""
+"Este mundo...\\.\n"
+"Me lo dio para que \n"
+"lo diseñara a mi antojo."
 
 #. data/maps/dreams/third.json entities/68/settings/event/66/text #13
 #. EventTrigger Dreeeeam
@@ -2595,7 +2608,7 @@ msgstr ""
 #: data/maps/dreams/third.json+entities/68/settings/event/78/text+%2316
 msgctxt "data/maps/dreams/third.json//entities/68/settings/event/78/text"
 msgid "Please stay calm."
-msgstr ""
+msgstr "Mantén la calma."
 
 #. data/maps/dreams/third.json entities/68/settings/event/79/text #18
 #. EventTrigger Dreeeeam
@@ -2611,7 +2624,7 @@ msgstr ""
 #: data/maps/dreams/third.json+entities/68/settings/event/80/text+%2319
 msgctxt "data/maps/dreams/third.json//entities/68/settings/event/80/text"
 msgid "Look, Lea."
-msgstr ""
+msgstr "Mira, Lea."
 
 #. data/maps/dreams/third.json entities/68/settings/event/81/text #17
 #. EventTrigger Dreeeeam
@@ -2622,6 +2635,8 @@ msgid ""
 "I really cannot imagine\n"
 "how you must feel right now."
 msgstr ""
+"Realmente no puedo imaginar\n"
+"cómo te debes sentir en este momento."
 
 #. data/maps/dreams/third.json entities/68/settings/event/86/text #26
 #. EventTrigger Dreeeeam
@@ -2629,7 +2644,7 @@ msgstr ""
 #: data/maps/dreams/third.json+entities/68/settings/event/86/text+%2326
 msgctxt "data/maps/dreams/third.json//entities/68/settings/event/86/text"
 msgid "So we finally meet."
-msgstr ""
+msgstr "Al fin nos conocemos."
 
 #. data/maps/dreams/third.json entities/68/settings/event/91/text #20
 #. EventTrigger Dreeeeam
@@ -2655,7 +2670,7 @@ msgstr ""
 #: data/maps/dreams/third.json+entities/68/settings/event/95/text+%2322
 msgctxt "data/maps/dreams/third.json//entities/68/settings/event/95/text"
 msgid "But I don't care anymore."
-msgstr ""
+msgstr "Pero ya no me importa."
 
 #. data/maps/dreams/third.json entities/68/settings/event/96/text #23
 #. EventTrigger Dreeeeam
@@ -2679,7 +2694,7 @@ msgstr ""
 #: data/maps/dreams/third.json+entities/68/settings/event/104/text+%2325
 msgctxt "data/maps/dreams/third.json//entities/68/settings/event/104/text"
 msgid "Just because of you."
-msgstr ""
+msgstr "Sólo por ti."
 
 #. extension/post-game/data/maps/dreams/post-dream1.json entities/444/settings/interact/hoverText #5
 #. Prop
@@ -2698,7 +2713,7 @@ msgstr ""
 #: extension/post-game/data/maps/dreams/post-dream1.json+entities/470/settings/event/6/text+%236
 msgctxt "extension/post-game/data/maps/dreams/post-dream1.json//entities/470/settings/event/6/text"
 msgid "He had a point..."
-msgstr ""
+msgstr "Tenía razón..."
 
 #. extension/post-game/data/maps/dreams/post-dream1.json entities/470/settings/event/7/text #77
 #. EventTrigger Dreeeeam
@@ -2714,7 +2729,7 @@ msgstr ""
 #: extension/post-game/data/maps/dreams/post-dream1.json+entities/470/settings/event/47/message+%238
 msgctxt "extension/post-game/data/maps/dreams/post-dream1.json//entities/470/settings/event/47/message"
 msgid "So..."
-msgstr ""
+msgstr "Así que..."
 
 #. extension/post-game/data/maps/dreams/post-dream1.json entities/470/settings/event/48/message #78
 #. EventTrigger Dreeeeam
@@ -2754,7 +2769,7 @@ msgstr ""
 #: extension/post-game/data/maps/dreams/post-dream2.json+entities/543/settings/event/48/message+%2384
 msgctxt "extension/post-game/data/maps/dreams/post-dream2.json//entities/543/settings/event/48/message"
 msgid "...?"
-msgstr ""
+msgstr "¿...?"
 
 #. extension/post-game/data/maps/dreams/post-dream2.json entities/543/settings/event/51/text #83
 #. EventTrigger Dreeeeam
@@ -2770,7 +2785,7 @@ msgstr ""
 #: extension/post-game/data/maps/dreams/post-dream2.json+entities/543/settings/event/61/text+%2385
 msgctxt "extension/post-game/data/maps/dreams/post-dream2.json//entities/543/settings/event/61/text"
 msgid "Protocol submitted"
-msgstr ""
+msgstr "Protocolo presentado"
 
 #. extension/post-game/data/maps/dreams/post-dream2.json entities/543/settings/event/71/text #86
 #. EventTrigger Dreeeeam
@@ -2786,7 +2801,7 @@ msgstr ""
 #: extension/post-game/data/maps/dreams/post-dream3.json+entities/71/settings/event/38/text+%233
 msgctxt "extension/post-game/data/maps/dreams/post-dream3.json//entities/71/settings/event/38/text"
 msgid "What's the matter?"
-msgstr ""
+msgstr "¿Qué pasa?"
 
 #. extension/post-game/data/maps/dreams/post-dream3.json entities/71/settings/event/43/text #80
 #. EventTrigger Dreeeeam
@@ -2794,7 +2809,7 @@ msgstr ""
 #: extension/post-game/data/maps/dreams/post-dream3.json+entities/71/settings/event/43/text+%2380
 msgctxt "extension/post-game/data/maps/dreams/post-dream3.json//entities/71/settings/event/43/text"
 msgid "...?"
-msgstr ""
+msgstr "¿...?"
 
 #. extension/post-game/data/maps/dreams/post-dream3.json entities/71/settings/event/44/text #81
 #. EventTrigger Dreeeeam
@@ -2805,6 +2820,8 @@ msgid ""
 "Why not?\n"
 "Ice cream is great!"
 msgstr ""
+"¿Por qué no?\n"
+"¡El helado es genial!"
 
 #. extension/post-game/data/maps/dreams/post-dream3.json entities/71/settings/event/46/text #82
 #. EventTrigger Dreeeeam
@@ -2812,7 +2829,7 @@ msgstr ""
 #: extension/post-game/data/maps/dreams/post-dream3.json+entities/71/settings/event/46/text+%2382
 msgctxt "extension/post-game/data/maps/dreams/post-dream3.json//entities/71/settings/event/46/text"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. extension/post-game/data/maps/dreams/post-dream3.json entities/71/settings/event/47/text #83
 #. EventTrigger Dreeeeam
@@ -2823,6 +2840,8 @@ msgid ""
 "I know...\\. I told you \n"
 "I'm not big on sweets.\n"
 msgstr ""
+"Lo sé...\\. Te lo dije que\n"
+"no me gustan los chuches.\n"
 
 #. extension/post-game/data/maps/dreams/post-dream3.json entities/71/settings/event/48/text #84
 #. EventTrigger Dreeeeam
@@ -2833,6 +2852,8 @@ msgid ""
 "But ice cream \n"
 "is a different matter."
 msgstr ""
+"Pero el helado\n"
+"es un asunto diferente."
 
 #. extension/post-game/data/maps/dreams/post-dream3.json entities/71/settings/event/49/text #85
 #. EventTrigger Dreeeeam
@@ -2840,7 +2861,7 @@ msgstr ""
 #: extension/post-game/data/maps/dreams/post-dream3.json+entities/71/settings/event/49/text+%2385
 msgctxt "extension/post-game/data/maps/dreams/post-dream3.json//entities/71/settings/event/49/text"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. extension/post-game/data/maps/dreams/post-dream3.json entities/71/settings/event/50/text #86
 #. EventTrigger Dreeeeam
@@ -2851,6 +2872,8 @@ msgid ""
 "Oh is it that \n"
 "late already?"
 msgstr ""
+"Oh, ¿ya es \n"
+"tan tarde?"
 
 #. extension/post-game/data/maps/dreams/post-dream3.json entities/71/settings/event/52/text #87
 #. EventTrigger Dreeeeam
@@ -2861,6 +2884,8 @@ msgid ""
 "Sorry,\n"
 "I need to go."
 msgstr ""
+"Lo siento,\n"
+"tengo que irme."
 
 #. extension/post-game/data/maps/dreams/post-dream3.json entities/71/settings/event/68/thenStep/0/text #88
 #. EventTrigger Dreeeeam
@@ -2869,7 +2894,7 @@ msgstr ""
 #: extension/post-game/data/maps/dreams/post-dream3.json+entities/71/settings/event/68/thenStep/0/text+%2388
 msgctxt "extension/post-game/data/maps/dreams/post-dream3.json//entities/71/settings/event/68/thenStep/0/text"
 msgid "This is a message to myself."
-msgstr ""
+msgstr "Este es un mensaje para mí mismo."
 
 #. extension/post-game/data/maps/dreams/post-dream3.json entities/71/settings/event/68/thenStep/2/text #95
 #. EventTrigger Dreeeeam
@@ -2913,7 +2938,7 @@ msgstr ""
 #: extension/post-game/data/maps/dreams/post-dream3.json+entities/71/settings/event/68/elseStep/0/text+%2396
 msgctxt "extension/post-game/data/maps/dreams/post-dream3.json//entities/71/settings/event/68/elseStep/0/text"
 msgid "This is a message to myself."
-msgstr ""
+msgstr "Este es un mensaje para mí mismo."
 
 #. extension/post-game/data/maps/dreams/post-dream3.json entities/71/settings/event/68/elseStep/1/text #89
 #. EventTrigger Dreeeeam
@@ -2990,6 +3015,8 @@ msgid ""
 "She can't speak?\\. \n"
 "You're kidding, right?"
 msgstr ""
+"¿No puede hablar?\\.\n"
+"Estás de broma, ¿verdad?"
 
 #. extension/post-game/data/maps/dreams/post-prologue.json entities/19/settings/event/45/text #87
 #. EventTrigger Dreeeeam
@@ -2997,7 +3024,7 @@ msgstr ""
 #: extension/post-game/data/maps/dreams/post-prologue.json+entities/19/settings/event/45/text+%2387
 msgctxt "extension/post-game/data/maps/dreams/post-prologue.json//entities/19/settings/event/45/text"
 msgid "You heard me."
-msgstr ""
+msgstr "Ya me has oído."
 
 #. extension/post-game/data/maps/dreams/post-prologue.json entities/19/settings/event/46/text #88
 #. EventTrigger Dreeeeam
@@ -3045,7 +3072,7 @@ msgstr ""
 #: extension/post-game/data/maps/dreams/post-prologue.json+entities/19/settings/event/50/text+%2392
 msgctxt "extension/post-game/data/maps/dreams/post-prologue.json//entities/19/settings/event/50/text"
 msgid "Got it."
-msgstr ""
+msgstr "Entendido."
 
 #. extension/post-game/data/maps/dreams/post-prologue.json entities/19/settings/event/53/text #93
 #. EventTrigger Dreeeeam
@@ -3053,7 +3080,7 @@ msgstr ""
 #: extension/post-game/data/maps/dreams/post-prologue.json+entities/19/settings/event/53/text+%2393
 msgctxt "extension/post-game/data/maps/dreams/post-prologue.json//entities/19/settings/event/53/text"
 msgid "She's waiting inside."
-msgstr ""
+msgstr "Está esperando dentro."
 
 #. extension/post-game/data/maps/dreams/post-prologue.json entities/19/settings/event/61/text #94
 #. EventTrigger Dreeeeam
@@ -3061,7 +3088,7 @@ msgstr ""
 #: extension/post-game/data/maps/dreams/post-prologue.json+entities/19/settings/event/61/text+%2394
 msgctxt "extension/post-game/data/maps/dreams/post-prologue.json//entities/19/settings/event/61/text"
 msgid "Hello Ms. Lavore. "
-msgstr ""
+msgstr "Hola, Sra. Lavore. "
 
 #. extension/post-game/data/maps/dreams/post-prologue.json entities/19/settings/event/63/text #95
 #. EventTrigger Dreeeeam
@@ -3069,7 +3096,7 @@ msgstr ""
 #: extension/post-game/data/maps/dreams/post-prologue.json+entities/19/settings/event/63/text+%2395
 msgctxt "extension/post-game/data/maps/dreams/post-prologue.json//entities/19/settings/event/63/text"
 msgid "...\n"
-msgstr ""
+msgstr "...\n"
 
 #. extension/post-game/data/maps/dreams/post-prologue.json entities/19/settings/event/64/text #96
 #. EventTrigger Dreeeeam
@@ -3077,7 +3104,7 @@ msgstr ""
 #: extension/post-game/data/maps/dreams/post-prologue.json+entities/19/settings/event/64/text+%2396
 msgctxt "extension/post-game/data/maps/dreams/post-prologue.json//entities/19/settings/event/64/text"
 msgid "Uhm..."
-msgstr ""
+msgstr "Uhm..."
 
 #. extension/post-game/data/maps/dreams/post-prologue.json entities/19/settings/event/67/text #98
 #. EventTrigger Dreeeeam
@@ -3085,7 +3112,7 @@ msgstr ""
 #: extension/post-game/data/maps/dreams/post-prologue.json+entities/19/settings/event/67/text+%2398
 msgctxt "extension/post-game/data/maps/dreams/post-prologue.json//entities/19/settings/event/67/text"
 msgid "It's a pleasure to meet you!"
-msgstr ""
+msgstr "¡Es un placer conocerte!"
 
 #. extension/post-game/data/maps/dreams/post-prologue.json entities/19/settings/event/74/text #97
 #. EventTrigger Dreeeeam
@@ -3093,4 +3120,4 @@ msgstr ""
 #: extension/post-game/data/maps/dreams/post-prologue.json+entities/19/settings/event/74/text+%2397
 msgctxt "extension/post-game/data/maps/dreams/post-prologue.json//entities/19/settings/event/74/text"
 msgid "My name is..."
-msgstr ""
+msgstr "Mi nombre es..."
