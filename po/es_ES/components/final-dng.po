@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.1-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-14 01:09+0000\n"
-"PO-Revision-Date: 2021-05-25 03:33+0000\n"
-"Last-Translator: Esteban Herrera Ortúzar <estebanherreraortuzar@gmail.com>\n"
+"PO-Revision-Date: 2021-09-06 21:38+0000\n"
+"Last-Translator: slashbreak <slashbreak@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.crosscode.ru/projects/crosscode/final-dng/es/>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.4\n"
+"X-Generator: Weblate 4.5.3\n"
 "POT-Revision-Date: 2021-04-14 01:09+0000\n"
 
 #. data/areas/final-dng.json name #1
@@ -24,13 +24,13 @@ msgstr ""
 #: data/areas/final-dng.json+floors/0/maps/0/name+%23477
 msgctxt "data/areas/final-dng.json//floors/0/maps/0/name"
 msgid "The Fall"
-msgstr ""
+msgstr "La Caída"
 
 #. data/areas/final-dng.json floors/0/maps/1/name #568
 #: data/areas/final-dng.json+floors/0/maps/1/name+%23568
 msgctxt "data/areas/final-dng.json//floors/0/maps/1/name"
 msgid "The Path"
-msgstr ""
+msgstr "El Camino"
 
 #. data/areas/final-dng.json floors/0/maps/2/name #643
 #: data/areas/final-dng.json+floors/0/maps/2/name+%23643
@@ -48,19 +48,19 @@ msgstr ""
 #: data/areas/final-dng.json+floors/1/maps/0/name+%23434
 msgctxt "data/areas/final-dng.json//floors/1/maps/0/name"
 msgid "The Fall"
-msgstr ""
+msgstr "La Caída"
 
 #. data/areas/final-dng.json floors/2/maps/0/name #383
 #: data/areas/final-dng.json+floors/2/maps/0/name+%23383
 msgctxt "data/areas/final-dng.json//floors/2/maps/0/name"
 msgid "The Fall"
-msgstr ""
+msgstr "La Caída"
 
 #. data/areas/final-dng.json floors/3/maps/0/name #369
 #: data/areas/final-dng.json+floors/3/maps/0/name+%23369
 msgctxt "data/areas/final-dng.json//floors/3/maps/0/name"
 msgid "The Fall"
-msgstr ""
+msgstr "La Caída"
 
 #. data/areas/final-dng.json floors/4/maps/0/name #237
 #: data/areas/final-dng.json+floors/4/maps/0/name+%23237
@@ -72,7 +72,7 @@ msgstr ""
 #: data/areas/final-dng.json+floors/4/maps/1/name+%23315
 msgctxt "data/areas/final-dng.json//floors/4/maps/1/name"
 msgid "The Fall"
-msgstr ""
+msgstr "La Caída"
 
 #. data/areas/final-dng.json floors/5/maps/0/name #652
 #: data/areas/final-dng.json+floors/5/maps/0/name+%23652
@@ -234,13 +234,13 @@ msgstr ""
 #: data/areas/final-dng.json+floors/7/maps/1/name+%23220
 msgctxt "data/areas/final-dng.json//floors/7/maps/1/name"
 msgid "The Monk"
-msgstr ""
+msgstr "El Monje"
 
 #. data/areas/final-dng.json floors/8/maps/0/name #697
 #: data/areas/final-dng.json+floors/8/maps/0/name+%23697
 msgctxt "data/areas/final-dng.json//floors/8/maps/0/name"
 msgid "Entrance"
-msgstr ""
+msgstr "Entrada"
 
 #. data/areas/final-dng.json floors/8/maps/1/name #59
 #: data/areas/final-dng.json+floors/8/maps/1/name+%2359
@@ -463,7 +463,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b1/bridge-midboss.json+entities/38/settings/event/16/text+%234
 msgctxt "extension/post-game/data/maps/final-dng/b1/bridge-midboss.json//entities/38/settings/event/16/text"
 msgid "Well done."
-msgstr ""
+msgstr "Bien hecho."
 
 #. extension/post-game/data/maps/final-dng/b2/bridge-inner.json entities/0/settings/destinations/0/label #2
 #. Elevator elevator
@@ -513,7 +513,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/66/settings/event/9/message+%2359
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/66/settings/event/9/message"
 msgid "Hi!"
-msgstr ""
+msgstr "¡Hola!"
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/66/settings/event/12/message #68
 #. EventTrigger DoorOpen START IF map.poleUp1 && map.poleUp2
@@ -521,7 +521,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/66/settings/event/12/message+%2368
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/66/settings/event/12/message"
 msgid "Oh, hello Lea!"
-msgstr ""
+msgstr "Oh, ¡hola Lea!"
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/66/settings/event/19/message #69
 #. EventTrigger DoorOpen START IF map.poleUp1 && map.poleUp2
@@ -529,7 +529,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/66/settings/event/19/message+%2369
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/66/settings/event/19/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/66/settings/event/21/message #65
 #. EventTrigger DoorOpen START IF map.poleUp1 && map.poleUp2
@@ -537,7 +537,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/66/settings/event/21/message+%2365
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/66/settings/event/21/message"
 msgid "Are you enjoying the dungeon?"
-msgstr ""
+msgstr "¿Estás disfrutando de la mazmorra?"
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/66/settings/event/23/0/0/message #70
 #. EventTrigger DoorOpen START IF map.poleUp1 && map.poleUp2
@@ -546,7 +546,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/66/settings/event/23/0/0/message+%2370
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/66/settings/event/23/0/0/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[asiente]"
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/66/settings/event/23/0/1/message #71
 #. EventTrigger DoorOpen START IF map.poleUp1 && map.poleUp2
@@ -555,7 +555,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/66/settings/event/23/0/1/message+%2371
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/66/settings/event/23/0/1/message"
 msgid "Glad to hear that."
-msgstr ""
+msgstr "Me alegro de oírlo."
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/66/settings/event/23/0/2/message #72
 #. EventTrigger DoorOpen START IF map.poleUp1 && map.poleUp2
@@ -582,7 +582,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/66/settings/event/23/1/1/message+%2374
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/66/settings/event/23/1/1/message"
 msgid "Oh, I'm sorry to hear that."
-msgstr ""
+msgstr "Oh, lamento escuchar eso."
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/66/settings/event/23/1/2/message #75
 #. EventTrigger DoorOpen START IF map.poleUp1 && map.poleUp2
@@ -599,7 +599,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/66/settings/event/23/options/0/label+%2366
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/66/settings/event/23/options/0/label"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/66/settings/event/23/options/1/label #67
 #. EventTrigger DoorOpen START IF map.poleUp1 && map.poleUp2
@@ -607,7 +607,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/66/settings/event/23/options/1/label+%2367
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/66/settings/event/23/options/1/label"
 msgid "No"
-msgstr ""
+msgstr "Np"
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/66/settings/event/26/message #76
 #. EventTrigger DoorOpen START IF map.poleUp1 && map.poleUp2
@@ -615,7 +615,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/66/settings/event/26/message+%2376
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/66/settings/event/26/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/66/settings/event/27/message #77
 #. EventTrigger DoorOpen START IF map.poleUp1 && map.poleUp2
@@ -623,7 +623,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/66/settings/event/27/message+%2377
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/66/settings/event/27/message"
 msgid "To be honest.\\. It's hard for me to focus on the dungeon."
-msgstr ""
+msgstr "Para ser honesto...\\. me cuesta concentrarme en la mazmorra."
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/66/settings/event/28/message #78
 #. EventTrigger DoorOpen START IF map.poleUp1 && map.poleUp2
@@ -639,7 +639,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/66/settings/event/30/message+%2379
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/66/settings/event/30/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/66/settings/event/31/message #80
 #. EventTrigger DoorOpen START IF map.poleUp1 && map.poleUp2
@@ -647,7 +647,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/66/settings/event/31/message+%2380
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/66/settings/event/31/message"
 msgid "I'm trying to remember...\\. something."
-msgstr ""
+msgstr "Estoy tratando de acordarme de...\\. algo."
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/66/settings/event/32/message #81
 #. EventTrigger DoorOpen START IF map.poleUp1 && map.poleUp2
@@ -655,7 +655,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/66/settings/event/32/message+%2381
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/66/settings/event/32/message"
 msgid "Something important I'm missing..."
-msgstr ""
+msgstr "Me falta algo importante..."
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/66/settings/event/34/message #82
 #. EventTrigger DoorOpen START IF map.poleUp1 && map.poleUp2
@@ -671,7 +671,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/66/settings/event/35/message+%2383
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/66/settings/event/35/message"
 msgid "Wait..."
-msgstr ""
+msgstr "Espera..."
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/66/settings/event/37/message #84
 #. EventTrigger DoorOpen START IF map.poleUp1 && map.poleUp2
@@ -679,7 +679,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/66/settings/event/37/message+%2384
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/66/settings/event/37/message"
 msgid "Huh?"
-msgstr ""
+msgstr "¿Eh?"
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/66/settings/event/38/message #85
 #. EventTrigger DoorOpen START IF map.poleUp1 && map.poleUp2
@@ -687,7 +687,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/66/settings/event/38/message+%2385
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/66/settings/event/38/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/66/settings/event/39/message #86
 #. EventTrigger DoorOpen START IF map.poleUp1 && map.poleUp2
@@ -703,7 +703,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/66/settings/event/40/message+%2387
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/66/settings/event/40/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[asiente]"
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/66/settings/event/41/message #88
 #. EventTrigger DoorOpen START IF map.poleUp1 && map.poleUp2
@@ -711,7 +711,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/66/settings/event/41/message+%2388
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/66/settings/event/41/message"
 msgid "Maybe you're right."
-msgstr ""
+msgstr "Puede que tengas razón."
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/66/settings/event/42/message #89
 #. EventTrigger DoorOpen START IF map.poleUp1 && map.poleUp2
@@ -735,7 +735,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/66/settings/event/44/message+%2391
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/66/settings/event/44/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/66/settings/event/47/message #92
 #. EventTrigger DoorOpen START IF map.poleUp1 && map.poleUp2
@@ -751,7 +751,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/66/settings/event/48/message+%2393
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/66/settings/event/48/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[asiente]"
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/74/settings/event/8/message #19
 #. EventTrigger LukeTalk START IF tmp.lukeTalk
@@ -759,7 +759,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/74/settings/event/8/message+%2319
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/74/settings/event/8/message"
 msgid "Hi!"
-msgstr ""
+msgstr "¡Hola!"
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/74/settings/event/9/message #5
 #. EventTrigger LukeTalk START IF tmp.lukeTalk
@@ -767,7 +767,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/74/settings/event/9/message+%235
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/74/settings/event/9/message"
 msgid "Hey there!"
-msgstr ""
+msgstr "¡Hola!"
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/74/settings/event/10/message #6
 #. EventTrigger LukeTalk START IF tmp.lukeTalk
@@ -783,7 +783,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/74/settings/event/11/message+%237
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/74/settings/event/11/message"
 msgid "...?"
-msgstr ""
+msgstr "¿...?"
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/74/settings/event/12/message #8
 #. EventTrigger LukeTalk START IF tmp.lukeTalk
@@ -791,7 +791,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/74/settings/event/12/message+%238
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/74/settings/event/12/message"
 msgid "Lea, I just had a pretty radical idea!"
-msgstr ""
+msgstr "¡Lea, acabo de tener una idea bastante radical!"
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/74/settings/event/13/message #9
 #. EventTrigger LukeTalk START IF tmp.lukeTalk
@@ -807,7 +807,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/74/settings/event/14/message+%2310
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/74/settings/event/14/message"
 msgid "...?!"
-msgstr ""
+msgstr "¡¿...?!"
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/74/settings/event/15/message #11
 #. EventTrigger LukeTalk START IF tmp.lukeTalk
@@ -815,7 +815,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/74/settings/event/15/message+%2311
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/74/settings/event/15/message"
 msgid "Just think about it!"
-msgstr ""
+msgstr "¡Piénsalo!"
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/74/settings/event/16/message #12
 #. EventTrigger LukeTalk START IF tmp.lukeTalk
@@ -863,7 +863,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/74/settings/event/27/message+%2317
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/74/settings/event/27/message"
 msgid "Uhm...\\. are you sure about that?"
-msgstr ""
+msgstr "Uhm...\\. ¿estás seguro de eso?"
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/74/settings/event/28/message #18
 #. EventTrigger LukeTalk START IF tmp.lukeTalk
@@ -879,7 +879,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/74/settings/event/30/message+%234
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/74/settings/event/30/message"
 msgid "...!"
-msgstr ""
+msgstr "¡...!"
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/74/settings/event/31/message #20
 #. EventTrigger LukeTalk START IF tmp.lukeTalk
@@ -887,7 +887,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/74/settings/event/31/message+%2320
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/74/settings/event/31/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/74/settings/event/32/message #21
 #. EventTrigger LukeTalk START IF tmp.lukeTalk
@@ -895,7 +895,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/74/settings/event/32/message+%2321
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/74/settings/event/32/message"
 msgid "Nope!"
-msgstr ""
+msgstr "¡No!"
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/74/settings/event/33/message #22
 #. EventTrigger LukeTalk START IF tmp.lukeTalk
@@ -911,7 +911,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/74/settings/event/34/message+%2323
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/74/settings/event/34/message"
 msgid "Agreed."
-msgstr ""
+msgstr "De acuerdo."
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/74/settings/event/35/message #24
 #. EventTrigger LukeTalk START IF tmp.lukeTalk
@@ -919,7 +919,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/74/settings/event/35/message+%2324
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/74/settings/event/35/message"
 msgid "Let's go on!"
-msgstr ""
+msgstr "¡Vamos!"
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/77/settings/event/7/message #30
 #. EventTrigger EmilieTalk START IF tmp.emilieTalk
@@ -927,7 +927,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/77/settings/event/7/message+%2330
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/77/settings/event/7/message"
 msgid "Hi!"
-msgstr ""
+msgstr "¡Hola!"
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/77/settings/event/8/message #29
 #. EventTrigger EmilieTalk START IF tmp.emilieTalk
@@ -935,7 +935,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/77/settings/event/8/message+%2329
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/77/settings/event/8/message"
 msgid "Hey!"
-msgstr ""
+msgstr "¡Hola!"
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/77/settings/event/9/message #28
 #. EventTrigger EmilieTalk START IF tmp.emilieTalk
@@ -943,7 +943,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/77/settings/event/9/message+%2328
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/77/settings/event/9/message"
 msgid "Finally, we meet again!"
-msgstr ""
+msgstr "¡Por fin, nos encontramos de nuevo!"
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/77/settings/event/10/message #31
 #. EventTrigger EmilieTalk START IF tmp.emilieTalk
@@ -959,7 +959,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/77/settings/event/11/message+%2332
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/77/settings/event/11/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[asiente]"
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/77/settings/event/12/message #33
 #. EventTrigger EmilieTalk START IF tmp.emilieTalk
@@ -983,7 +983,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/77/settings/event/22/message+%2335
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/77/settings/event/22/message"
 msgid "Why is that?"
-msgstr ""
+msgstr "¿Y eso por qué?"
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/77/settings/event/23/message #36
 #. EventTrigger EmilieTalk START IF tmp.emilieTalk
@@ -1007,7 +1007,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/77/settings/event/25/message+%2338
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/77/settings/event/25/message"
 msgid "Really?"
-msgstr ""
+msgstr "¿De verdad?"
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/77/settings/event/26/message #39
 #. EventTrigger EmilieTalk START IF tmp.emilieTalk
@@ -1055,7 +1055,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/77/settings/event/32/message+%2344
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/77/settings/event/32/message"
 msgid "...?"
-msgstr ""
+msgstr "¿...?"
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/77/settings/event/33/message #45
 #. EventTrigger EmilieTalk START IF tmp.emilieTalk
@@ -1063,7 +1063,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/77/settings/event/33/message+%2345
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/77/settings/event/33/message"
 msgid "Uhm..."
-msgstr ""
+msgstr "Uhm..."
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/77/settings/event/35/message #46
 #. EventTrigger EmilieTalk START IF tmp.emilieTalk
@@ -1159,7 +1159,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/77/settings/event/64/message+%2357
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/77/settings/event/64/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/79/settings/npcStates/0/event/2/message #96
 #. NPC ctron
@@ -1192,7 +1192,7 @@ msgstr ""
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/89/settings/dialog/2/text+%2399
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/89/settings/dialog/2/text"
 msgid "Of course..."
-msgstr ""
+msgstr "Claro..."
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/90/settings/dialog/0/text #100
 #. XenoDialog SPAWN IF !maps.finalDng/b2/roomW1.finalFerro || !maps.finalDng/b2/roomE1.finalFerro
