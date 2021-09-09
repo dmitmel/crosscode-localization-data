@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.1-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-14 01:09+0000\n"
-"PO-Revision-Date: 2021-09-09 12:09+0000\n"
-"Last-Translator: Matias Concha <mconcha.3006@gmail.com>\n"
+"PO-Revision-Date: 2021-09-10 00:19+0000\n"
+"Last-Translator: Esteban Herrera Ortúzar <estebanherreraortuzar@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.crosscode.ru/projects/crosscode/autumn-fall/es/>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
@@ -422,6 +422,8 @@ msgid ""
 "Seeking your next destination\n"
 "in the wilderness to the north..."
 msgstr ""
+"Para seguir con tu siguiente destino\n"
+"en las tierras silvestres del norte..."
 
 #. data/maps/autumn-fall/expo-space.json entities/5/settings/event/8/elseStep/2/text #31
 #. EventTrigger GetThatQuest
@@ -433,6 +435,8 @@ msgid ""
 "... you must first accomplish\n"
 "the \\c[3]trial of these fields\\c[0]."
 msgstr ""
+"... primero debes completar\n"
+"la \\c[3]prueba de estos campos\\c[0]."
 
 #. data/maps/autumn-fall/expo-space.json entities/5/settings/event/8/elseStep/3/text #32
 #. EventTrigger GetThatQuest
@@ -444,6 +448,8 @@ msgid ""
 "Pursue the path \n"
 "of the \\c[3]luminous creature\\c[0]..."
 msgstr ""
+"Sigue el camino\n"
+"de la \\c[3]criatura luminosa\\c[0]..."
 
 #. data/maps/autumn-fall/expo-space.json entities/5/settings/event/8/elseStep/4/text #33
 #. EventTrigger GetThatQuest
@@ -455,6 +461,8 @@ msgid ""
 "...and prove your mastery\n"
 "of the elements acquired."
 msgstr ""
+"...y prueba tu maestría\n"
+"con los elementos que has conseguido."
 
 #. data/maps/autumn-fall/expo-space.json entities/5/settings/event/8/elseStep/5/text #34
 #. EventTrigger GetThatQuest
@@ -466,6 +474,8 @@ msgid ""
 "Traveler, envoy of change,\n"
 "will you accept this trial?"
 msgstr ""
+"Viajero, enviado del cambio,\n"
+"¿aceptarás esta prueba?"
 
 #. data/maps/autumn-fall/expo-space.json entities/5/settings/event/8/elseStep/6/accepted/0/text #27
 #. EventTrigger GetThatQuest
@@ -478,6 +488,8 @@ msgid ""
 "Let your every step\n"
 "form the path of your growth."
 msgstr ""
+"Que cada uno de tus pasos\n"
+"forme el camino de tu crecimiento."
 
 #. data/maps/autumn-fall/expo-space.json entities/5/settings/event/8/elseStep/6/declined/0/text #28
 #. EventTrigger GetThatQuest
@@ -510,7 +522,7 @@ msgstr ""
 #: data/maps/autumn-fall/path-01.json+entities/531/settings/event/0/message+%2313
 msgctxt "data/maps/autumn-fall/path-01.json//entities/531/settings/event/0/message"
 msgid "Looks like there used to be a village here, non?"
-msgstr ""
+msgstr "Parece que había una aldea acá, ¿non?"
 
 #. data/maps/autumn-fall/path-01.json entities/531/settings/event/1/thenStep/0/message #196
 #. LocationEvent village START IF party.has.Emilie
@@ -519,7 +531,7 @@ msgstr ""
 #: data/maps/autumn-fall/path-01.json+entities/531/settings/event/1/thenStep/0/message+%23196
 msgctxt "data/maps/autumn-fall/path-01.json//entities/531/settings/event/1/thenStep/0/message"
 msgid "A long, long time ago.\\. Literally Ancient."
-msgstr ""
+msgstr "Hace mucho, mucho tiempo.\\. Literalmente Antigua."
 
 #. data/maps/autumn-fall/path-01.json entities/532/settings/event/0/message #197
 #. LocationEvent laserBridge START IF party.has.Emilie
@@ -527,7 +539,7 @@ msgstr ""
 #: data/maps/autumn-fall/path-01.json+entities/532/settings/event/0/message+%23197
 msgctxt "data/maps/autumn-fall/path-01.json//entities/532/settings/event/0/message"
 msgid "The return of the Laser Bridge!"
-msgstr ""
+msgstr "¡El retorno del Puente de Luz!"
 
 #. data/maps/autumn-fall/path-01.json entities/533/settings/event/0/message #198
 #. LocationEvent laserBridge(2) START IF party.alive.Emilie && map.panel1
@@ -535,7 +547,7 @@ msgstr ""
 #: data/maps/autumn-fall/path-01.json+entities/533/settings/event/0/message+%23198
 msgctxt "data/maps/autumn-fall/path-01.json//entities/533/settings/event/0/message"
 msgid "Run, Lea, run!"
-msgstr ""
+msgstr "¡Corre, Lea, corre!"
 
 #. data/maps/autumn-fall/path-02.json entities/50/settings/interact/hoverText #3
 #. Prop
@@ -546,6 +558,9 @@ msgid ""
 "\\i[arrow-e] Tunnels to \\v[area.forest.name]\n"
 "\\i[arrow-s] \\v[area.rookie-harbor.name]"
 msgstr ""
+"\\i[arrow-w] Camino a \\v[area.jungle.name]\n"
+"\\i[arrow-e] Túneles a \\v[area.forest.name]\n"
+"\\i[arrow-s] \\v[area.rookie-harbor.name]"
 
 #. data/maps/autumn-fall/path-02.json entities/555/settings/event/8/thenStep/0/message #12
 #. EventTrigger Bunny6 START IF tmp.bunny6
@@ -554,7 +569,7 @@ msgstr ""
 #: data/maps/autumn-fall/path-02.json+entities/555/settings/event/8/thenStep/0/message+%2312
 msgctxt "data/maps/autumn-fall/path-02.json//entities/555/settings/event/8/thenStep/0/message"
 msgid "Man I sure wish I could jump around like that."
-msgstr ""
+msgstr "Me gustaría poder saltar así."
 
 #. data/maps/autumn-fall/path-02.json entities/555/settings/event/8/thenStep/1/thenStep/0/message #13
 #. EventTrigger Bunny6 START IF tmp.bunny6
@@ -564,7 +579,7 @@ msgstr ""
 #: data/maps/autumn-fall/path-02.json+entities/555/settings/event/8/thenStep/1/thenStep/0/message+%2313
 msgctxt "data/maps/autumn-fall/path-02.json//entities/555/settings/event/8/thenStep/1/thenStep/0/message"
 msgid "Wouldn't that make exploration too easy?"
-msgstr ""
+msgstr "¿Eso no haría la exploración muy fácil?"
 
 #. data/maps/autumn-fall/path-02.json entities/555/settings/event/8/thenStep/1/thenStep/1/message #14
 #. EventTrigger Bunny6 START IF tmp.bunny6
@@ -574,7 +589,7 @@ msgstr ""
 #: data/maps/autumn-fall/path-02.json+entities/555/settings/event/8/thenStep/1/thenStep/1/message+%2314
 msgctxt "data/maps/autumn-fall/path-02.json//entities/555/settings/event/8/thenStep/1/thenStep/1/message"
 msgid "I guess...\\. but how much fun would it be...?"
-msgstr ""
+msgstr "Supongo...\\. pero, ¿qué tan divertido sería...?"
 
 #. data/maps/autumn-fall/path-02.json entities/555/settings/event/8/thenStep/1/thenStep/2/message #15
 #. EventTrigger Bunny6 START IF tmp.bunny6
@@ -584,7 +599,7 @@ msgstr ""
 #: data/maps/autumn-fall/path-02.json+entities/555/settings/event/8/thenStep/1/thenStep/2/message+%2315
 msgctxt "data/maps/autumn-fall/path-02.json//entities/555/settings/event/8/thenStep/1/thenStep/2/message"
 msgid "Well, at least we can do our regular small jumps, right?"
-msgstr ""
+msgstr "Bueno, al menos podemos hacer pequeños saltos normales, ¿verdad?"
 
 #. data/maps/autumn-fall/path-02.json entities/555/settings/event/8/thenStep/1/thenStep/3/message #16
 #. EventTrigger Bunny6 START IF tmp.bunny6
@@ -594,7 +609,7 @@ msgstr ""
 #: data/maps/autumn-fall/path-02.json+entities/555/settings/event/8/thenStep/1/thenStep/3/message+%2316
 msgctxt "data/maps/autumn-fall/path-02.json//entities/555/settings/event/8/thenStep/1/thenStep/3/message"
 msgid "Oui, regular jumping whenever we want. It's at least something."
-msgstr ""
+msgstr "Oui, saltar de manera normal cuando queramos. Es algo por lo menos."
 
 #. data/maps/autumn-fall/path-02.json entities/555/settings/event/8/thenStep/1/thenStep/4/message #17
 #. EventTrigger Bunny6 START IF tmp.bunny6
@@ -612,7 +627,7 @@ msgstr "..."
 #: data/maps/autumn-fall/path-02.json+entities/561/settings/dialog/0/text+%2318
 msgctxt "data/maps/autumn-fall/path-02.json//entities/561/settings/dialog/0/text"
 msgid "Have you ever heard of the \\c[3]Old War\\c[0]?"
-msgstr ""
+msgstr "¿Has escuchado acerca de la \\c[3]Guerra Antigua\\c[0]?"
 
 #. data/maps/autumn-fall/path-02.json entities/561/settings/dialog/0/event/2/message #24
 #. XenoDialog
@@ -628,7 +643,7 @@ msgstr "¡Hola!"
 #: data/maps/autumn-fall/path-02.json+entities/561/settings/dialog/0/event/3/message+%2325
 msgctxt "data/maps/autumn-fall/path-02.json//entities/561/settings/dialog/0/event/3/message"
 msgid "'Sup! You wanna know more about the \\v[lore.unlock.old-war]\\c[3]Old War\\c[0] too? "
-msgstr ""
+msgstr "¡Hey! ¿También quieres saber más acerca de la \\v[lore.unlock.old-war]\\c[3]Guerra Antigua\\c[0]? "
 
 #. data/maps/autumn-fall/path-02.json entities/561/settings/dialog/0/event/4/message #26
 #. XenoDialog
@@ -644,7 +659,7 @@ msgstr "[asiente]"
 #: data/maps/autumn-fall/path-02.json+entities/561/settings/dialog/0/event/5/message+%2327
 msgctxt "data/maps/autumn-fall/path-02.json//entities/561/settings/dialog/0/event/5/message"
 msgid "It's a pretty dark time in human history. Various colonies waged war against each other."
-msgstr ""
+msgstr "Fue una época muy oscura de la historia de la humanidad. Varias colonias se enfrentaron entre sí."
 
 #. data/maps/autumn-fall/path-02.json entities/561/settings/dialog/0/event/6/message #28
 #. XenoDialog
@@ -652,7 +667,7 @@ msgstr ""
 #: data/maps/autumn-fall/path-02.json+entities/561/settings/dialog/0/event/6/message+%2328
 msgctxt "data/maps/autumn-fall/path-02.json//entities/561/settings/dialog/0/event/6/message"
 msgid "They taught us resources were the trigger but I heard other stories too."
-msgstr ""
+msgstr "Nos enseñaron que los recursos fueron el detonante, pero escuché otras también."
 
 #. data/maps/autumn-fall/path-02.json entities/561/settings/dialog/0/event/7/message #29
 #. XenoDialog
@@ -668,7 +683,7 @@ msgstr "..."
 #: data/maps/autumn-fall/path-02.json+entities/561/settings/dialog/0/event/8/message+%2330
 msgctxt "data/maps/autumn-fall/path-02.json//entities/561/settings/dialog/0/event/8/message"
 msgid "Ah, don't worry! It's all in the past now. Like 1000 years past."
-msgstr ""
+msgstr "Ah, ¡no te preocupes! Todo eso quedó en el pasado, como hace 1000 años."
 
 #. data/maps/autumn-fall/path-02.json entities/561/settings/dialog/1/text #19
 #. XenoDialog
