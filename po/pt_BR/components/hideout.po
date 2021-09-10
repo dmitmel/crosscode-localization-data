@@ -3,63 +3,64 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.1-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-14 01:09+0000\n"
-"POT-Revision-Date: 2021-04-14 01:09+0000\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2021-09-11 13:09+0000\n"
+"Last-Translator: Eduardo Barros <hamerski.fo@gmail.com>\n"
+"Language-Team: Portuguese (Brazil) <https://weblate.crosscode.ru/projects/crosscode/hideout/pt_BR/>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.5.3\n"
+"POT-Revision-Date: 2021-04-14 01:09+0000\n"
 
 #. data/areas/hideout.json name #1
 #: data/areas/hideout.json+name+%231
 msgctxt "data/areas/hideout.json//name"
 msgid "untitled"
-msgstr ""
+msgstr "sem título"
 
 #. data/areas/hideout.json floors/0/maps/0/name #3
 #: data/areas/hideout.json+floors/0/maps/0/name+%233
 msgctxt "data/areas/hideout.json//floors/0/maps/0/name"
 msgid "Entrance"
-msgstr ""
+msgstr "Entrada"
 
 #. data/areas/hideout.json floors/0/maps/1/name #4
 #: data/areas/hideout.json+floors/0/maps/1/name+%234
 msgctxt "data/areas/hideout.json//floors/0/maps/1/name"
 msgid "Left Path"
-msgstr ""
+msgstr "Caminho Esquerdo"
 
 #. data/areas/hideout.json floors/0/maps/2/name #5
 #: data/areas/hideout.json+floors/0/maps/2/name+%235
 msgctxt "data/areas/hideout.json//floors/0/maps/2/name"
 msgid "Right Path"
-msgstr ""
+msgstr "Caminho Direito"
 
 #. data/areas/hideout.json floors/0/maps/3/name #6
 #: data/areas/hideout.json+floors/0/maps/3/name+%236
 msgctxt "data/areas/hideout.json//floors/0/maps/3/name"
 msgid "Upper Path"
-msgstr ""
+msgstr "Caminho Superior"
 
 #. data/areas/hideout.json floors/0/maps/4/name #7
 #: data/areas/hideout.json+floors/0/maps/4/name+%237
 msgctxt "data/areas/hideout.json//floors/0/maps/4/name"
 msgid "Corridors"
-msgstr ""
+msgstr "Corredores"
 
 #. data/areas/hideout.json floors/0/maps/5/name #8
 #: data/areas/hideout.json+floors/0/maps/5/name+%238
 msgctxt "data/areas/hideout.json//floors/0/maps/5/name"
 msgid "Satoshi's Workstation"
-msgstr ""
+msgstr "Estação de Trabalho do Satoshi"
 
 #. data/areas/hideout.json floors/0/maps/6/name #9
 #: data/areas/hideout.json+floors/0/maps/6/name+%239
 msgctxt "data/areas/hideout.json//floors/0/maps/6/name"
 msgid "Dinner Room"
-msgstr ""
+msgstr "Sala de Jantar"
 
 #. data/maps/hideout/entrance.json entities/20/settings/event/6/titleText #48
 #. EventTrigger intro
@@ -67,7 +68,7 @@ msgstr ""
 #: data/maps/hideout/entrance.json+entities/20/settings/event/6/titleText+%2348
 msgctxt "data/maps/hideout/entrance.json//entities/20/settings/event/6/titleText"
 msgid "\\s[0]\\c[3]About Difficulty and Assist Mode\\c[0]"
-msgstr ""
+msgstr "\\s[0]\\c[3]Sobre Dificuldade e Modo de Assistência\\c[0]"
 
 #. data/maps/hideout/entrance.json entities/20/settings/event/6/text #49
 #. EventTrigger intro
@@ -80,6 +81,10 @@ msgid ""
 "\n"
 "However, if those challenges end up making the game less enjoyable or even inaccessible for you, we provide options to tweak the difficulty through the \\c[3]assists\\c[0] tab in the \\c[3]options\\c[0] menu."
 msgstr ""
+"\n"
+"\\s[1]CrossCode é projetado com \\c[3]desafio\\c[0] em mente par ambos \\c[3]combate\\c[0] e \\c[3]quebra-cabeças\\c[0], e nós encorajamos todo jogador a tentar o jogo com a sua dificuldade projetada.\n"
+"\n"
+"Mas se esses desafios acabarem fazendo o jogo menos divertido ou até mesmo inacessível para você, nós fornecemos opções para mudar a dificuldade através da aba de \\c[3]assistências\\c[0] no menu de \\c[3]opções\\c[0]."
 
 #. data/maps/hideout/entrance.json entities/20/settings/event/36/text #1
 #. EventTrigger intro
@@ -87,7 +92,7 @@ msgstr ""
 #: data/maps/hideout/entrance.json+entities/20/settings/event/36/text+%231
 msgctxt "data/maps/hideout/entrance.json//entities/20/settings/event/36/text"
 msgid "Initializing avatar"
-msgstr ""
+msgstr "Inicializando avatar"
 
 #. data/maps/hideout/entrance.json entities/20/settings/event/45/message #2
 #. EventTrigger intro
@@ -95,7 +100,7 @@ msgstr ""
 #: data/maps/hideout/entrance.json+entities/20/settings/event/45/message+%232
 msgctxt "data/maps/hideout/entrance.json//entities/20/settings/event/45/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/hideout/entrance.json entities/20/settings/event/46/message #3
 #. EventTrigger intro
@@ -103,7 +108,7 @@ msgstr ""
 #: data/maps/hideout/entrance.json+entities/20/settings/event/46/message+%233
 msgctxt "data/maps/hideout/entrance.json//entities/20/settings/event/46/message"
 msgid "I know you can hear me! Where is he?!"
-msgstr ""
+msgstr "Eu sei que você consegue me escutar! Cadê ele?!"
 
 #. data/maps/hideout/entrance.json entities/20/settings/event/48/message #4
 #. EventTrigger intro
@@ -111,7 +116,7 @@ msgstr ""
 #: data/maps/hideout/entrance.json+entities/20/settings/event/48/message+%234
 msgctxt "data/maps/hideout/entrance.json//entities/20/settings/event/48/message"
 msgid "Shizuka, I have to ask you to leave."
-msgstr ""
+msgstr "Eu tenho que lhe pedir para retirar-se, Shizuka."
 
 #. data/maps/hideout/entrance.json entities/20/settings/event/49/message #5
 #. EventTrigger intro
@@ -119,7 +124,7 @@ msgstr ""
 #: data/maps/hideout/entrance.json+entities/20/settings/event/49/message+%235
 msgctxt "data/maps/hideout/entrance.json//entities/20/settings/event/49/message"
 msgid "So, you're keeping him here? What do you think you are doing?!"
-msgstr ""
+msgstr "Então você tá mantendo ele aqui? O que você acha que está fazendo?!"
 
 #. data/maps/hideout/entrance.json entities/20/settings/event/50/message #6
 #. EventTrigger intro
@@ -127,7 +132,7 @@ msgstr ""
 #: data/maps/hideout/entrance.json+entities/20/settings/event/50/message+%236
 msgctxt "data/maps/hideout/entrance.json//entities/20/settings/event/50/message"
 msgid "Time is running short. We don't have a choice!"
-msgstr ""
+msgstr "Estamos ficando sem tempo. Nós não temos uma escolha!"
 
 #. data/maps/hideout/entrance.json entities/20/settings/event/51/message #7
 #. EventTrigger intro
@@ -135,7 +140,7 @@ msgstr ""
 #: data/maps/hideout/entrance.json+entities/20/settings/event/51/message+%237
 msgctxt "data/maps/hideout/entrance.json//entities/20/settings/event/51/message"
 msgid "So you abduct a dying person and let him work until his last breath? Is that it?!"
-msgstr ""
+msgstr "Então vocês sequestram uma pessoa que está morrendo e o deixam trabalhar até seu ultimo suspiro? É isso?!"
 
 #. data/maps/hideout/entrance.json entities/20/settings/event/52/message #8
 #. EventTrigger intro
@@ -143,7 +148,7 @@ msgstr ""
 #: data/maps/hideout/entrance.json+entities/20/settings/event/52/message+%238
 msgctxt "data/maps/hideout/entrance.json//entities/20/settings/event/52/message"
 msgid "I am going to talk some sense into him! Don't get in my way!"
-msgstr ""
+msgstr "Eu vou fazer ele ver sentido! Não entre no meu caminho!"
 
 #. data/maps/hideout/entrance.json entities/20/settings/event/53/guiInfo/settings/text #9
 #. EventTrigger intro
@@ -152,7 +157,7 @@ msgstr ""
 #: data/maps/hideout/entrance.json+entities/20/settings/event/53/guiInfo/settings/text+%239
 msgctxt "data/maps/hideout/entrance.json//entities/20/settings/event/53/guiInfo/settings/text"
 msgid "Press \\i[key-up]\\i[key-left]\\i[key-down]\\i[key-right] to move around"
-msgstr ""
+msgstr "Aperte i[botão-cima]\\i[botão-esquerda]\\i[botão-baixo]\\i[botão-direita] para se mover"
 
 #. data/maps/hideout/entrance.json entities/20/settings/event/53/guiInfo/settings/altText #10
 #. EventTrigger intro
@@ -161,7 +166,7 @@ msgstr ""
 #: data/maps/hideout/entrance.json+entities/20/settings/event/53/guiInfo/settings/altText+%2310
 msgctxt "data/maps/hideout/entrance.json//entities/20/settings/event/53/guiInfo/settings/altText"
 msgid "Use \\i[left-stick] to move around"
-msgstr ""
+msgstr "Use \\i[left-stick] para se mover"
 
 #. data/maps/hideout/entrance.json entities/22/settings/event/1/message #11
 #. EventTrigger moreTalking START IF tmp.moreTalking
@@ -169,14 +174,14 @@ msgstr ""
 #: data/maps/hideout/entrance.json+entities/22/settings/event/1/message+%2311
 msgctxt "data/maps/hideout/entrance.json//entities/22/settings/event/1/message"
 msgid "Shizuka, please don't do this..."
-msgstr ""
+msgstr "Shizuka, por favor não faça isso..."
 
 #. data/maps/hideout/entrance.json entities/234/settings/teleportLabel #45
 #. TeleportField entrance SPAWN IF plot.line >= 19500
 #: data/maps/hideout/entrance.json+entities/234/settings/teleportLabel+%2345
 msgctxt "data/maps/hideout/entrance.json//entities/234/settings/teleportLabel"
 msgid "Back to \\c[3]Sapphire Ridge\\c[0]"
-msgstr ""
+msgstr "Devolta para \\c[3]Cume Safira\\c[0]"
 
 #. data/maps/hideout/entrance.json entities/235/settings/event/13/message #46
 #. EventTrigger secondVisit START IF plot.line >= 19500
@@ -184,7 +189,7 @@ msgstr ""
 #: data/maps/hideout/entrance.json+entities/235/settings/event/13/message+%2346
 msgctxt "data/maps/hideout/entrance.json//entities/235/settings/event/13/message"
 msgid "Is this...\\. another secluded location?"
-msgstr ""
+msgstr "Isso aqui é...\\. outro lugar secluzo?"
 
 #. data/maps/hideout/entrance.json entities/235/settings/event/14/message #47
 #. EventTrigger secondVisit START IF plot.line >= 19500
@@ -192,7 +197,7 @@ msgstr ""
 #: data/maps/hideout/entrance.json+entities/235/settings/event/14/message+%2347
 msgctxt "data/maps/hideout/entrance.json//entities/235/settings/event/14/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/hideout/inner-1.json entities/2/settings/blockEvent/2/message #32
 #. Door bottom
@@ -200,7 +205,7 @@ msgstr ""
 #: data/maps/hideout/inner-1.json+entities/2/settings/blockEvent/2/message+%2332
 msgctxt "data/maps/hideout/inner-1.json//entities/2/settings/blockEvent/2/message"
 msgid "Please, Lea. Now is not a time to leave."
-msgstr ""
+msgstr "Por favor, Lea. Agora não é uma boa hora para ir embora."
 
 #. data/maps/hideout/inner-1.json entities/2/settings/blockEvent/3/message #33
 #. Door bottom
@@ -208,7 +213,7 @@ msgstr ""
 #: data/maps/hideout/inner-1.json+entities/2/settings/blockEvent/3/message+%2333
 msgctxt "data/maps/hideout/inner-1.json//entities/2/settings/blockEvent/3/message"
 msgid "Let's follow Satoshi into the room to the \\c[3]west\\c[0]."
-msgstr ""
+msgstr "Vamos seguir o Satoshi na sala ao \\c[3]oeste\\c[0]."
 
 #. data/maps/hideout/inner-1.json entities/23/settings/blockEvent/1/message #27
 #. Door top
@@ -216,7 +221,7 @@ msgstr ""
 #: data/maps/hideout/inner-1.json+entities/23/settings/blockEvent/1/message+%2327
 msgctxt "data/maps/hideout/inner-1.json//entities/23/settings/blockEvent/1/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/hideout/inner-1.json entities/23/settings/blockEvent/3/message #28
 #. Door top
@@ -224,7 +229,7 @@ msgstr ""
 #: data/maps/hideout/inner-1.json+entities/23/settings/blockEvent/3/message+%2328
 msgctxt "data/maps/hideout/inner-1.json//entities/23/settings/blockEvent/3/message"
 msgid "Uhm, did you not want to go outside with Shizuka?"
-msgstr ""
+msgstr "Ahm, você não quis ir lá fora com a Shizuka?"
 
 #. data/maps/hideout/inner-1.json entities/23/settings/blockEvent/4/message #29
 #. Door top
@@ -232,7 +237,7 @@ msgstr ""
 #: data/maps/hideout/inner-1.json+entities/23/settings/blockEvent/4/message+%2329
 msgctxt "data/maps/hideout/inner-1.json//entities/23/settings/blockEvent/4/message"
 msgid "I am pretty sure our technical talk will not be all that interesting for you."
-msgstr ""
+msgstr "Eu tenho quase certeza que a nossa conversa cheia de tecnicalidades não vai ser muito interessante pra você."
 
 #. data/maps/hideout/inner-1.json entities/25/settings/blockEvent/1/message #25
 #. Door top-2
@@ -240,7 +245,7 @@ msgstr ""
 #: data/maps/hideout/inner-1.json+entities/25/settings/blockEvent/1/message+%2325
 msgctxt "data/maps/hideout/inner-1.json//entities/25/settings/blockEvent/1/message"
 msgid "Doesn't seem like he is in there."
-msgstr ""
+msgstr "Não parece que ele está aqui."
 
 #. data/maps/hideout/inner-1.json entities/46/settings/npcStates/1/event/2/message #3
 #. NPC shizuka
@@ -249,7 +254,7 @@ msgstr ""
 #: data/maps/hideout/inner-1.json+entities/46/settings/npcStates/1/event/2/message+%233
 msgctxt "data/maps/hideout/inner-1.json//entities/46/settings/npcStates/1/event/2/message"
 msgid "He's waiting inside."
-msgstr ""
+msgstr "Ele está esperando lá dentro."
 
 #. data/maps/hideout/inner-1.json entities/47/settings/event/3/message #2
 #. EventTrigger ShizukaLeadingTheWay START IF plot.line >= 20300
@@ -257,7 +262,7 @@ msgstr ""
 #: data/maps/hideout/inner-1.json+entities/47/settings/event/3/message+%232
 msgctxt "data/maps/hideout/inner-1.json//entities/47/settings/event/3/message"
 msgid "This way..."
-msgstr ""
+msgstr "Por aqui..."
 
 #. data/maps/hideout/inner-1.json entities/49/settings/event/10/message #5
 #. EventTrigger Moving on START IF plot.line >= 20590
@@ -265,7 +270,7 @@ msgstr ""
 #: data/maps/hideout/inner-1.json+entities/49/settings/event/10/message+%235
 msgctxt "data/maps/hideout/inner-1.json//entities/49/settings/event/10/message"
 msgid "A system to extract information from players...\\. this is unbelievable!"
-msgstr ""
+msgstr "Um sistema para extrair informações de jogadores...\\. Isso é inacreditável!"
 
 #. data/maps/hideout/inner-1.json entities/50/settings/event/11/message #7
 #. EventTrigger Moving on2 START IF plot.line >= 20670
@@ -273,7 +278,7 @@ msgstr ""
 #: data/maps/hideout/inner-1.json+entities/50/settings/event/11/message+%237
 msgctxt "data/maps/hideout/inner-1.json//entities/50/settings/event/11/message"
 msgid "From here on out Sergey and I will dive into the technical details."
-msgstr ""
+msgstr "Daqui pra frente o Sergey e eu iremos mergulhar em detalhes tecnicos."
 
 #. data/maps/hideout/inner-1.json entities/50/settings/event/12/message #8
 #. EventTrigger Moving on2 START IF plot.line >= 20670
@@ -281,7 +286,7 @@ msgstr ""
 #: data/maps/hideout/inner-1.json+entities/50/settings/event/12/message+%238
 msgctxt "data/maps/hideout/inner-1.json//entities/50/settings/event/12/message"
 msgid "You two probably don't want to stick around for that."
-msgstr ""
+msgstr "Vocês dois provavelmente não querem ficar aqui pra isso."
 
 #. data/maps/hideout/inner-1.json entities/50/settings/event/13/message #9
 #. EventTrigger Moving on2 START IF plot.line >= 20670
@@ -289,7 +294,7 @@ msgstr ""
 #: data/maps/hideout/inner-1.json+entities/50/settings/event/13/message+%239
 msgctxt "data/maps/hideout/inner-1.json//entities/50/settings/event/13/message"
 msgid "Maybe spend some time together as well? Talk it out?"
-msgstr ""
+msgstr "Talvez tomem isso como uma oportunidade pra passarem um tempo juntas? Conversarem sobre as coisas?"
 
 #. data/maps/hideout/inner-1.json entities/50/settings/event/15/message #10
 #. EventTrigger Moving on2 START IF plot.line >= 20670
@@ -297,7 +302,7 @@ msgstr ""
 #: data/maps/hideout/inner-1.json+entities/50/settings/event/15/message+%2310
 msgctxt "data/maps/hideout/inner-1.json//entities/50/settings/event/15/message"
 msgid "She can't talk."
-msgstr ""
+msgstr "Ela não consegue falar."
 
 #. data/maps/hideout/inner-1.json entities/50/settings/event/17/message #11
 #. EventTrigger Moving on2 START IF plot.line >= 20670
@@ -305,7 +310,7 @@ msgstr ""
 #: data/maps/hideout/inner-1.json+entities/50/settings/event/17/message+%2311
 msgctxt "data/maps/hideout/inner-1.json//entities/50/settings/event/17/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/hideout/inner-1.json entities/50/settings/event/18/message #12
 #. EventTrigger Moving on2 START IF plot.line >= 20670
@@ -313,7 +318,7 @@ msgstr ""
 #: data/maps/hideout/inner-1.json+entities/50/settings/event/18/message+%2312
 msgctxt "data/maps/hideout/inner-1.json//entities/50/settings/event/18/message"
 msgid "Come on, you know what I mean."
-msgstr ""
+msgstr "Qual é, você sabe o que eu quero dizer."
 
 #. data/maps/hideout/inner-1.json entities/50/settings/event/19/message #13
 #. EventTrigger Moving on2 START IF plot.line >= 20670
@@ -321,7 +326,7 @@ msgstr ""
 #: data/maps/hideout/inner-1.json+entities/50/settings/event/19/message+%2313
 msgctxt "data/maps/hideout/inner-1.json//entities/50/settings/event/19/message"
 msgid "Do I really have to?"
-msgstr ""
+msgstr "Eu realmente tenho que fazer isso?"
 
 #. data/maps/hideout/inner-1.json entities/50/settings/event/20/message #14
 #. EventTrigger Moving on2 START IF plot.line >= 20670
@@ -329,7 +334,7 @@ msgstr ""
 #: data/maps/hideout/inner-1.json+entities/50/settings/event/20/message+%2314
 msgctxt "data/maps/hideout/inner-1.json//entities/50/settings/event/20/message"
 msgid "Please, dear sister."
-msgstr ""
+msgstr "Por favor, irmãzinha."
 
 #. data/maps/hideout/inner-1.json entities/50/settings/event/21/message #15
 #. EventTrigger Moving on2 START IF plot.line >= 20670
@@ -337,7 +342,7 @@ msgstr ""
 #: data/maps/hideout/inner-1.json+entities/50/settings/event/21/message+%2315
 msgctxt "data/maps/hideout/inner-1.json//entities/50/settings/event/21/message"
 msgid "Fine."
-msgstr ""
+msgstr "Certo."
 
 #. data/maps/hideout/inner-1.json entities/50/settings/event/30/message #16
 #. EventTrigger Moving on2 START IF plot.line >= 20670
@@ -345,7 +350,7 @@ msgstr ""
 #: data/maps/hideout/inner-1.json+entities/50/settings/event/30/message+%2316
 msgctxt "data/maps/hideout/inner-1.json//entities/50/settings/event/30/message"
 msgid "Alright..."
-msgstr ""
+msgstr "Beleza..."
 
 #. data/maps/hideout/inner-1.json entities/50/settings/event/31/message #17
 #. EventTrigger Moving on2 START IF plot.line >= 20670
@@ -353,7 +358,7 @@ msgstr ""
 #: data/maps/hideout/inner-1.json+entities/50/settings/event/31/message+%2317
 msgctxt "data/maps/hideout/inner-1.json//entities/50/settings/event/31/message"
 msgid "What should we do?"
-msgstr ""
+msgstr "O que vamos fazer?"
 
 #. data/maps/hideout/inner-1.json entities/50/settings/event/32/message #18
 #. EventTrigger Moving on2 START IF plot.line >= 20670
@@ -361,7 +366,7 @@ msgstr ""
 #: data/maps/hideout/inner-1.json+entities/50/settings/event/32/message+%2318
 msgctxt "data/maps/hideout/inner-1.json//entities/50/settings/event/32/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/hideout/inner-1.json entities/50/settings/event/33/message #19
 #. EventTrigger Moving on2 START IF plot.line >= 20670
@@ -369,7 +374,7 @@ msgstr ""
 #: data/maps/hideout/inner-1.json+entities/50/settings/event/33/message+%2319
 msgctxt "data/maps/hideout/inner-1.json//entities/50/settings/event/33/message"
 msgid "Honestly there is nothing interesting to see in this building and anyway... I hate it in here."
-msgstr ""
+msgstr "Honestamente, não há nada muito de interessante para ver nesse lugar... eu odeio aqui."
 
 #. data/maps/hideout/inner-1.json entities/50/settings/event/34/message #20
 #. EventTrigger Moving on2 START IF plot.line >= 20670
@@ -377,7 +382,7 @@ msgstr ""
 #: data/maps/hideout/inner-1.json+entities/50/settings/event/34/message+%2320
 msgctxt "data/maps/hideout/inner-1.json//entities/50/settings/event/34/message"
 msgid "Let's just head outside."
-msgstr ""
+msgstr "Vamos lá pra fora."
 
 #. data/maps/hideout/inner-1.json entities/50/settings/event/35/message #21
 #. EventTrigger Moving on2 START IF plot.line >= 20670
@@ -385,7 +390,7 @@ msgstr ""
 #: data/maps/hideout/inner-1.json+entities/50/settings/event/35/message+%2321
 msgctxt "data/maps/hideout/inner-1.json//entities/50/settings/event/35/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[concorda]"
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/28/message #140
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -393,7 +398,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/28/message+%23140
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/28/message"
 msgid "Kind of breaks the atmosphere, doesn't it?"
-msgstr ""
+msgstr "Meio que quebra o clima, não é mesmo?"
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/30/message #124
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -401,7 +406,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/30/message+%23124
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/30/message"
 msgid "We're not here to have a good time, Shizuka."
-msgstr ""
+msgstr "Nós não estamos aqui para nos divertir, Shizuka."
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/38/message #125
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -409,7 +414,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/38/message+%23125
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/38/message"
 msgid "So... you are now an Evotar."
-msgstr ""
+msgstr "Então... agora você é um Evotar."
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/39/message #126
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -417,7 +422,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/39/message+%23126
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/39/message"
 msgid "Can you move around freely in the Playground?"
-msgstr ""
+msgstr "Você consegue se mover livremente no Playground?"
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/41/message #127
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -425,7 +430,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/41/message+%23127
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/41/message"
 msgid "No... These days I am confined within this building."
-msgstr ""
+msgstr "Não... Destes tempos para cá eu estou confinado dentro desta instalação."
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/42/message #128
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -433,7 +438,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/42/message+%23128
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/42/message"
 msgid "That is also why I know little of what is happening outside."
-msgstr ""
+msgstr "É por isso que eu sei pouco do que está acontecendo lá fora."
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/43/message #129
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -441,7 +446,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/43/message+%23129
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/43/message"
 msgid "Are you aware that Lea... has been in Evotarground again recently?"
-msgstr ""
+msgstr "Você está ciente de que a Lea... esteve no espaço Evotar de novo recentemente?"
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/44/message #130
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -449,7 +454,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/44/message+%23130
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/44/message"
 msgid "I suspected it from some protocol readings I had access to."
-msgstr ""
+msgstr "Eu suspeitei por conta de alguns dados de protocolo que eu tinha acesso."
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/45/message #131
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -457,7 +462,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/45/message+%23131
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/45/message"
 msgid "I suppose they tried to drag Lea back into it?"
-msgstr ""
+msgstr "Assumo que eles tentaram arrastar a Lea de volta pra tudo isso?"
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/46/message #132
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -465,7 +470,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/46/message+%23132
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/46/message"
 msgid "Yes. And once she was there they could effectively track our connection."
-msgstr ""
+msgstr "Sim. E quando ela estava lá eles poderam efetivamente rastrear nossa conexão."
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/47/message #133
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -473,7 +478,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/47/message+%23133
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/47/message"
 msgid "They almost managed to locate me."
-msgstr ""
+msgstr "Eles quase conseguiram me localizar."
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/48/message #134
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -481,7 +486,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/48/message+%23134
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/48/message"
 msgid "That means Sidwell is already fully aware of your actions. This is troublesome."
-msgstr ""
+msgstr "Isso quer dizer que Sidwell está completamente são de suas ações. Isso é bem preocupante."
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/49/message #135
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -489,7 +494,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/49/message+%23135
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/49/message"
 msgid "Something else I wonder... How did Lea learn the truth about herself?"
-msgstr ""
+msgstr "Uma outra coisa que eu tenho em mente é... Como que a Lea aprendeu a verdade sobre si mesma?"
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/50/message #136
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -497,7 +502,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/50/message+%23136
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/50/message"
 msgid "You do not know?\\. Your little sister paid us a visit."
-msgstr ""
+msgstr "Você não sabe?\\. A sua irmãzinha nos prestou uma visita."
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/59/message #137
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -505,7 +510,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/59/message+%23137
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/59/message"
 msgid "You did?"
-msgstr ""
+msgstr "Você fez isso?"
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/60/message #138
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -513,7 +518,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/60/message+%23138
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/60/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/63/message #139
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -521,7 +526,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/63/message+%23139
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/63/message"
 msgid "She confronted Lea with the truth... very abruptly."
-msgstr ""
+msgstr "Ela confrontou a Lea com a verdade... bem repentinamente."
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/64/message #123
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -529,7 +534,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/64/message+%23123
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/64/message"
 msgid "Not again..."
-msgstr ""
+msgstr "De novo não..."
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/65/message #141
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -537,7 +542,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/65/message+%23141
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/65/message"
 msgid "I don't see the problem. I merely told her the truth."
-msgstr ""
+msgstr "Eu não vejo qual é o problema. Eu apenas disse a verdade para ela."
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/66/message #142
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -545,7 +550,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/66/message+%23142
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/66/message"
 msgid "You know full well what consequences your actions could have had!"
-msgstr ""
+msgstr "Você sabe muito bem quais as consequências que as suas ações poderiam ter causado!"
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/67/message #143
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -553,7 +558,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/67/message+%23143
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/67/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/70/message #144
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -561,7 +566,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/70/message+%23144
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/70/message"
 msgid "Well it happened, we can't change it now."
-msgstr ""
+msgstr "Bem, já aconteceu e nós não podemos mudar nada agora."
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/72/message #145
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -569,7 +574,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/72/message+%23145
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/72/message"
 msgid "I'm glad that Lea was strong enough to overcome it this time around.\n"
-msgstr ""
+msgstr "Eu estou feliz que a Lea foi forte o suficiente dessa vez para aguentar a verdade.\n"
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/74/message #146
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -577,7 +582,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/74/message+%23146
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/74/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/75/message #147
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -585,7 +590,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/75/message+%23147
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/75/message"
 msgid "Yes, congratulations, Lea.\\. We're all so very proud of you."
-msgstr ""
+msgstr "Sim, meus parabéns, Lea.\\. Todos nós estamos muito orgulhosos de você."
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/78/message #148
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -593,7 +598,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/78/message+%23148
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/78/message"
 msgid "Shizuka, stop acting like a child."
-msgstr ""
+msgstr "Shizuka, pare de agir que nem uma criança."
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/84/message #149
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -601,7 +606,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/84/message+%23149
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/84/message"
 msgid "Excuse me? "
-msgstr ""
+msgstr "Como é que é? "
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/85/message #150
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -609,7 +614,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/85/message+%23150
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/85/message"
 msgid "You never stopped acting like a freak!"
-msgstr ""
+msgstr "Você nunca parou de agir que nem um doido!"
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/86/message #151
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -617,7 +622,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/86/message+%23151
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/86/message"
 msgid "Only caring for your dear little AI sister!"
-msgstr ""
+msgstr "Apenas se preocupando com a sua irmãzinha artificial queridinha!"
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/96/message #152
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -625,7 +630,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/96/message+%23152
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/96/message"
 msgid "ENOUGH ALREADY!"
-msgstr ""
+msgstr "JÁ CHEGA!"
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/99/message #153
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -633,7 +638,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/99/message+%23153
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/99/message"
 msgid "Look, I know you have your issues with Lea."
-msgstr ""
+msgstr "Olha, eu sei que você tem seus problemas com a Lea."
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/100/message #154
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -641,7 +646,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/100/message+%23154
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/100/message"
 msgid "But you need to understand one thing."
-msgstr ""
+msgstr "Mas você precisa entender uma coisa."
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/101/message #155
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -649,7 +654,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/101/message+%23155
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/101/message"
 msgid "She is our best chance to get out of this mess. Both of us."
-msgstr ""
+msgstr "Ela é a nossa melhor chance de nos tirar dessa confusão. Nós dois."
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/103/message #156
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -657,7 +662,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/103/message+%23156
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/103/message"
 msgid "What do you mean?"
-msgstr ""
+msgstr "O que você quer dizer com isso?"
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/104/message #157
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -665,7 +670,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/104/message+%23157
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/104/message"
 msgid "It's thanks to her that we got in contact with Sergey."
-msgstr ""
+msgstr "É graças a ela que nós conseguimos entrar em contato com o Sergey."
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/105/message #158
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -673,7 +678,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/105/message+%23158
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/105/message"
 msgid "Not only that, but she's the only one who can reach the \\c[3]Evotar Server\\c[0]."
-msgstr ""
+msgstr "E não apenas isso, mas ela é a unica que consegue contatar o \\c[3]Servidor Evotar\\c[0]."
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/106/message #159
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -681,7 +686,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/106/message+%23159
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/106/message"
 msgid "Why is now the first time I hear of this?"
-msgstr ""
+msgstr "Por que só estou escutando sobre isso agora?"
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/107/message #160
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -689,7 +694,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/107/message+%23160
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/107/message"
 msgid "I couldn't share this with you or anybody else. "
-msgstr ""
+msgstr "Não é algo que eu pude dividir com você ou mais qualquer outra pessoa. "
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/108/message #161
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -697,7 +702,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/108/message+%23161
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/108/message"
 msgid "We're all being monitored, it would have jeopardized the whole plan."
-msgstr ""
+msgstr "Todos nós estamos sendo monitorados, o plano todo teria sido posto em risco."
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/109/message #165
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -705,7 +710,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/109/message+%23165
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/109/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/110/message #162
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -713,7 +718,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/110/message+%23162
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/110/message"
 msgid "Anyway."
-msgstr ""
+msgstr "De qualquer maneira."
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/111/message #163
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -721,7 +726,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/111/message+%23163
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/111/message"
 msgid "With both Sergey's and Lea's help, we might be able to get everyone out of this. "
-msgstr ""
+msgstr "Com a ajuda do Sergey e da Lea, talvez nós vamos conseguir tirar todo mundo dessa bagunça. "
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/112/message #164
 #. EventTrigger Revisited START IF plot.line >= 20600
@@ -729,7 +734,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/112/message+%23164
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/112/message"
 msgid "You, me...\\. maybe even Gautham."
-msgstr ""
+msgstr "Você, eu...\\. Talvez até o Gautham."
 
 #. data/maps/hideout/inner-garden.json entities/28/settings/npcStates/1/action/2/text #73
 #. NPC npcC1
@@ -738,7 +743,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/28/settings/npcStates/1/action/2/text+%2373
 msgctxt "data/maps/hideout/inner-garden.json//entities/28/settings/npcStates/1/action/2/text"
 msgid "The crime rate has developed quite unfavorably recently."
-msgstr ""
+msgstr "A taxa de criminalidade recentemente subiu de maneira bastante desfavorável."
 
 #. data/maps/hideout/inner-garden.json entities/28/settings/npcStates/1/action/3/text #74
 #. NPC npcC1
@@ -747,7 +752,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/28/settings/npcStates/1/action/3/text+%2374
 msgctxt "data/maps/hideout/inner-garden.json//entities/28/settings/npcStates/1/action/3/text"
 msgid "It has. And at the same time, we're lacking in manpower."
-msgstr ""
+msgstr "Subiu sim. E nós também estamos com poucos numeros."
 
 #. data/maps/hideout/inner-garden.json entities/28/settings/npcStates/1/action/4/text #75
 #. NPC npcC1
@@ -756,7 +761,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/28/settings/npcStates/1/action/4/text+%2375
 msgctxt "data/maps/hideout/inner-garden.json//entities/28/settings/npcStates/1/action/4/text"
 msgid "If this continues, I'm not sure we can keep protecting our citizens."
-msgstr ""
+msgstr "Se continuar assim eu não tenho certeza que nós vamos conseguir proteger nossos cidadãos."
 
 #. data/maps/hideout/inner-garden.json entities/28/settings/npcStates/1/action/5/text #76
 #. NPC npcC1
@@ -765,7 +770,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/28/settings/npcStates/1/action/5/text+%2376
 msgctxt "data/maps/hideout/inner-garden.json//entities/28/settings/npcStates/1/action/5/text"
 msgid "Sad, but true..."
-msgstr ""
+msgstr "É triste, mas é a verdade..."
 
 #. data/maps/hideout/inner-garden.json entities/30/settings/npcStates/1/action/2/text #85
 #. NPC npcE1
@@ -774,7 +779,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/30/settings/npcStates/1/action/2/text+%2385
 msgctxt "data/maps/hideout/inner-garden.json//entities/30/settings/npcStates/1/action/2/text"
 msgid "I hear they discovered a new entrance to the temple in the mountains."
-msgstr ""
+msgstr "Eu ouvi que eles descobriram uma nova entranda para o templo nas montanhas."
 
 #. data/maps/hideout/inner-garden.json entities/30/settings/npcStates/1/action/3/text #82
 #. NPC npcE1
@@ -783,7 +788,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/30/settings/npcStates/1/action/3/text+%2382
 msgctxt "data/maps/hideout/inner-garden.json//entities/30/settings/npcStates/1/action/3/text"
 msgid "Oh! Do you think we can still find new treasure in there?"
-msgstr ""
+msgstr "Ah! Você acha que a gente ainda vai achar algum tesouro lá?"
 
 #. data/maps/hideout/inner-garden.json entities/30/settings/npcStates/1/action/4/text #83
 #. NPC npcE1
@@ -792,7 +797,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/30/settings/npcStates/1/action/4/text+%2383
 msgctxt "data/maps/hideout/inner-garden.json//entities/30/settings/npcStates/1/action/4/text"
 msgid "Definitely, but we have to hurry! Everybody is no preparing to enter the place, soon!"
-msgstr ""
+msgstr "Definitivamente, mas nós temos que ir rápido! Todo mundo tá se preparando pra entrar lá em breve!"
 
 #. data/maps/hideout/inner-garden.json entities/30/settings/npcStates/1/action/5/text #84
 #. NPC npcE1
@@ -801,7 +806,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/30/settings/npcStates/1/action/5/text+%2384
 msgctxt "data/maps/hideout/inner-garden.json//entities/30/settings/npcStates/1/action/5/text"
 msgid "Right, we should start preparations at once!"
-msgstr ""
+msgstr "Certo, nós deveriamos começar as preparações nesse instante!"
 
 #. data/maps/hideout/inner-garden.json entities/32/settings/npcStates/1/action/2/text #89
 #. NPC npcJ1
@@ -810,7 +815,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/32/settings/npcStates/1/action/2/text+%2389
 msgctxt "data/maps/hideout/inner-garden.json//entities/32/settings/npcStates/1/action/2/text"
 msgid "We Shad a very noble folks, related to Ancients!"
-msgstr ""
+msgstr "Nós Shad nobres, relacianos aos Ancestrais!"
 
 #. data/maps/hideout/inner-garden.json entities/32/settings/npcStates/1/action/3/text #90
 #. NPC npcJ1
@@ -819,7 +824,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/32/settings/npcStates/1/action/3/text+%2390
 msgctxt "data/maps/hideout/inner-garden.json//entities/32/settings/npcStates/1/action/3/text"
 msgid "Yes, but we have trouble with Human tongue!"
-msgstr ""
+msgstr "Sim, mas lingua humana dificil!"
 
 #. data/maps/hideout/inner-garden.json entities/32/settings/npcStates/1/action/4/text #91
 #. NPC npcJ1
@@ -828,7 +833,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/32/settings/npcStates/1/action/4/text+%2391
 msgctxt "data/maps/hideout/inner-garden.json//entities/32/settings/npcStates/1/action/4/text"
 msgid "Yes, but that because human tongue really trouble some. Too many word and weird rules!"
-msgstr ""
+msgstr "Sim, mas porque lingua humana dificil. Muitas palavras e regras estranhas!"
 
 #. data/maps/hideout/inner-garden.json entities/32/settings/npcStates/1/action/5/text #92
 #. NPC npcJ1
@@ -837,7 +842,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/32/settings/npcStates/1/action/5/text+%2392
 msgctxt "data/maps/hideout/inner-garden.json//entities/32/settings/npcStates/1/action/5/text"
 msgid "So true! We should help human make language simple!"
-msgstr ""
+msgstr "Verdade! Nós deveriamos ajudar humanos a fazer língua ficar simples!"
 
 #. data/maps/hideout/inner-garden.json entities/32/settings/npcStates/1/action/6/text #93
 #. NPC npcJ1
@@ -846,7 +851,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/32/settings/npcStates/1/action/6/text+%2393
 msgctxt "data/maps/hideout/inner-garden.json//entities/32/settings/npcStates/1/action/6/text"
 msgid "Great idea!"
-msgstr ""
+msgstr "Boa ideia!"
 
 #. data/maps/hideout/inner-garden.json entities/34/settings/npcStates/1/action/2/text #99
 #. NPC npcF1
@@ -855,7 +860,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/34/settings/npcStates/1/action/2/text+%2399
 msgctxt "data/maps/hideout/inner-garden.json//entities/34/settings/npcStates/1/action/2/text"
 msgid "The stocks have been rather good this week."
-msgstr ""
+msgstr "Os estoques foram ótimos essa semana."
 
 #. data/maps/hideout/inner-garden.json entities/34/settings/npcStates/1/action/3/text #65
 #. NPC npcF1
@@ -864,7 +869,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/34/settings/npcStates/1/action/3/text+%2365
 msgctxt "data/maps/hideout/inner-garden.json//entities/34/settings/npcStates/1/action/3/text"
 msgid "Very much, I made a good fortune."
-msgstr ""
+msgstr "Muito mesmo, eu consegui uma pequena fortuna."
 
 #. data/maps/hideout/inner-garden.json entities/34/settings/npcStates/1/action/4/text #66
 #. NPC npcF1
@@ -873,7 +878,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/34/settings/npcStates/1/action/4/text+%2366
 msgctxt "data/maps/hideout/inner-garden.json//entities/34/settings/npcStates/1/action/4/text"
 msgid "Speculation and stuff."
-msgstr ""
+msgstr "Especulações e coisas tal."
 
 #. data/maps/hideout/inner-garden.json entities/34/settings/npcStates/1/action/5/text #67
 #. NPC npcF1
@@ -882,7 +887,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/34/settings/npcStates/1/action/5/text+%2367
 msgctxt "data/maps/hideout/inner-garden.json//entities/34/settings/npcStates/1/action/5/text"
 msgid "Business, business."
-msgstr ""
+msgstr "Trabalhos, trabalhos."
 
 #. data/maps/hideout/inner-garden.json entities/34/settings/npcStates/1/action/6/text #68
 #. NPC npcF1
@@ -891,7 +896,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/34/settings/npcStates/1/action/6/text+%2368
 msgctxt "data/maps/hideout/inner-garden.json//entities/34/settings/npcStates/1/action/6/text"
 msgid "Privatize everything!"
-msgstr ""
+msgstr "Privatize tudo!"
 
 #. data/maps/hideout/inner-garden.json entities/36/settings/npcStates/1/action/2/text #57
 #. NPC npcA1
@@ -900,7 +905,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/36/settings/npcStates/1/action/2/text+%2357
 msgctxt "data/maps/hideout/inner-garden.json//entities/36/settings/npcStates/1/action/2/text"
 msgid "Isn't the weather just fantastic today?"
-msgstr ""
+msgstr "O tempo de hoje não está simplesmente fantástico?"
 
 #. data/maps/hideout/inner-garden.json entities/36/settings/npcStates/1/action/3/text #58
 #. NPC npcA1
@@ -909,7 +914,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/36/settings/npcStates/1/action/3/text+%2358
 msgctxt "data/maps/hideout/inner-garden.json//entities/36/settings/npcStates/1/action/3/text"
 msgid "Indeed! The sun is shining, it's fantastic, the best!"
-msgstr ""
+msgstr "Certamente! O sol está brilhando. Simplesmente fantástico!"
 
 #. data/maps/hideout/inner-garden.json entities/36/settings/npcStates/1/action/4/text #59
 #. NPC npcA1
@@ -918,7 +923,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/36/settings/npcStates/1/action/4/text+%2359
 msgctxt "data/maps/hideout/inner-garden.json//entities/36/settings/npcStates/1/action/4/text"
 msgid "Let's all go out and play!"
-msgstr ""
+msgstr "Vamos todos sair e brincar!"
 
 #. data/maps/hideout/inner-garden.json entities/36/settings/npcStates/1/action/5/text #60
 #. NPC npcA1
@@ -927,7 +932,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/36/settings/npcStates/1/action/5/text+%2360
 msgctxt "data/maps/hideout/inner-garden.json//entities/36/settings/npcStates/1/action/5/text"
 msgid "Yes, let's go out and play!"
-msgstr ""
+msgstr "Sim, vamos brincar!"
 
 #. data/maps/hideout/inner-garden.json entities/36/settings/npcStates/1/action/6/text #61
 #. NPC npcA1
@@ -936,7 +941,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/36/settings/npcStates/1/action/6/text+%2361
 msgctxt "data/maps/hideout/inner-garden.json//entities/36/settings/npcStates/1/action/6/text"
 msgid "Plaaay!"
-msgstr ""
+msgstr "Brincaaaar!"
 
 #. data/maps/hideout/inner-garden.json entities/36/settings/npcStates/1/action/7/text #121
 #. NPC npcA1
@@ -945,7 +950,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/36/settings/npcStates/1/action/7/text+%23121
 msgctxt "data/maps/hideout/inner-garden.json//entities/36/settings/npcStates/1/action/7/text"
 msgid "But before that I have to finish work."
-msgstr ""
+msgstr "Mas antes disso eu tenho que terminar meu trabalho."
 
 #. data/maps/hideout/inner-garden.json entities/36/settings/npcStates/1/action/8/text #63
 #. NPC npcA1
@@ -954,7 +959,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/36/settings/npcStates/1/action/8/text+%2363
 msgctxt "data/maps/hideout/inner-garden.json//entities/36/settings/npcStates/1/action/8/text"
 msgid "Awwwww..."
-msgstr ""
+msgstr "Aaaaaaaah..."
 
 #. data/maps/hideout/inner-garden.json entities/39/settings/npcStates/1/action/2/text #64
 #. NPC npcI1
@@ -963,7 +968,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/39/settings/npcStates/1/action/2/text+%2364
 msgctxt "data/maps/hideout/inner-garden.json//entities/39/settings/npcStates/1/action/2/text"
 msgid "I hear they discovered a new entrance to the temple in the mountains."
-msgstr ""
+msgstr "Eu escutei que eles descobriram uma nova entranda para o templo nas montanhas."
 
 #. data/maps/hideout/inner-garden.json entities/39/settings/npcStates/1/action/3/text #86
 #. NPC npcI1
@@ -972,7 +977,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/39/settings/npcStates/1/action/3/text+%2386
 msgctxt "data/maps/hideout/inner-garden.json//entities/39/settings/npcStates/1/action/3/text"
 msgid "Oh! Do you think we can still find new treasure in there?"
-msgstr ""
+msgstr "Ah! Você acha que a gente ainda vai achar algum tesouro lá?"
 
 #. data/maps/hideout/inner-garden.json entities/39/settings/npcStates/1/action/4/text #87
 #. NPC npcI1
@@ -981,7 +986,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/39/settings/npcStates/1/action/4/text+%2387
 msgctxt "data/maps/hideout/inner-garden.json//entities/39/settings/npcStates/1/action/4/text"
 msgid "Definitely, but we have to hurry! Everybody is no preparing to enter the place, soon!"
-msgstr ""
+msgstr "Definitivamente, mas nós temos que ir rápido! Todo mundo tá se preparando pra entrar lá em breve!"
 
 #. data/maps/hideout/inner-garden.json entities/39/settings/npcStates/1/action/5/text #88
 #. NPC npcI1
@@ -990,7 +995,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/39/settings/npcStates/1/action/5/text+%2388
 msgctxt "data/maps/hideout/inner-garden.json//entities/39/settings/npcStates/1/action/5/text"
 msgid "Right, we should start preparations at once!"
-msgstr ""
+msgstr "Certo, nós deveriamos começar as preparações nesse instante!"
 
 #. data/maps/hideout/inner-garden.json entities/41/settings/npcStates/1/action/2/text #71
 #. NPC npcG1
@@ -999,7 +1004,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/41/settings/npcStates/1/action/2/text+%2371
 msgctxt "data/maps/hideout/inner-garden.json//entities/41/settings/npcStates/1/action/2/text"
 msgid "The crime rate has developed quite unfavorably recently."
-msgstr ""
+msgstr "A taxa de criminalidade recentemente subiu de maneira bastante desfavorável."
 
 #. data/maps/hideout/inner-garden.json entities/41/settings/npcStates/1/action/3/text #72
 #. NPC npcG1
@@ -1008,7 +1013,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/41/settings/npcStates/1/action/3/text+%2372
 msgctxt "data/maps/hideout/inner-garden.json//entities/41/settings/npcStates/1/action/3/text"
 msgid "It has. And at the same time, we're lacking in manpower."
-msgstr ""
+msgstr "Subiu sim. E nós também estamos com poucos numeros."
 
 #. data/maps/hideout/inner-garden.json entities/41/settings/npcStates/1/action/4/text #69
 #. NPC npcG1
@@ -1017,7 +1022,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/41/settings/npcStates/1/action/4/text+%2369
 msgctxt "data/maps/hideout/inner-garden.json//entities/41/settings/npcStates/1/action/4/text"
 msgid "If this continues, I'm not sure we can keep protecting our citizens."
-msgstr ""
+msgstr "Se continuar assim eu não tenho certeza que nós vamos conseguir proteger nossos cidadãos."
 
 #. data/maps/hideout/inner-garden.json entities/41/settings/npcStates/1/action/5/text #70
 #. NPC npcG1
@@ -1026,7 +1031,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/41/settings/npcStates/1/action/5/text+%2370
 msgctxt "data/maps/hideout/inner-garden.json//entities/41/settings/npcStates/1/action/5/text"
 msgid "Sad, but true..."
-msgstr ""
+msgstr "Triste, porém é a verdade."
 
 #. data/maps/hideout/inner-garden.json entities/43/settings/npcStates/1/action/2/text #77
 #. NPC npcD1
@@ -1124,7 +1129,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/50/settings/event/18/message+%23122
 msgctxt "data/maps/hideout/inner-garden.json//entities/50/settings/event/18/message"
 msgid "For Shizuka and Gautham there might have been a slim chance to escape this whole mess."
-msgstr ""
+msgstr "Para a Shizuka e o Gautham havia uma pequena chance de escaparem dessa bagunça toda."
 
 #. data/maps/hideout/inner-garden.json entities/50/settings/event/19/message #166
 #. EventTrigger Revisited2 START IF plot.line >= 20620
@@ -1132,7 +1137,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/50/settings/event/19/message+%23166
 msgctxt "data/maps/hideout/inner-garden.json//entities/50/settings/event/19/message"
 msgid "But for me...\\. it was close to impossible.\n"
-msgstr ""
+msgstr "Mas para mim...\\. Era quase que impossível.\n"
 
 #. data/maps/hideout/inner-garden.json entities/50/settings/event/20/message #167
 #. EventTrigger Revisited2 START IF plot.line >= 20620
@@ -1140,7 +1145,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/50/settings/event/20/message+%23167
 msgctxt "data/maps/hideout/inner-garden.json//entities/50/settings/event/20/message"
 msgid "However now that Lea is here, things have changed."
-msgstr ""
+msgstr "Mas agora que a Lea está aqui as coisas mudaram."
 
 #. data/maps/hideout/inner-garden.json entities/50/settings/event/21/message #168
 #. EventTrigger Revisited2 START IF plot.line >= 20620
@@ -1148,7 +1153,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/50/settings/event/21/message+%23168
 msgctxt "data/maps/hideout/inner-garden.json//entities/50/settings/event/21/message"
 msgid "Because she has an \\c[3]access key embedded\\c[0], she can reach the Evotar Server."
-msgstr ""
+msgstr "Já que ela tem uma \\c[3]chave de acesso\\c[0], ela consegue entrar em contato com o servidor Evotar."
 
 #. data/maps/hideout/inner-garden.json entities/50/settings/event/23/message #169
 #. EventTrigger Revisited2 START IF plot.line >= 20620
@@ -1156,7 +1161,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/50/settings/event/23/message+%23169
 msgctxt "data/maps/hideout/inner-garden.json//entities/50/settings/event/23/message"
 msgid "Come again?"
-msgstr ""
+msgstr "Como é que é?"
 
 #. data/maps/hideout/inner-garden.json entities/50/settings/event/24/message #170
 #. EventTrigger Revisited2 START IF plot.line >= 20620
@@ -1164,7 +1169,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/50/settings/event/24/message+%23170
 msgctxt "data/maps/hideout/inner-garden.json//entities/50/settings/event/24/message"
 msgid "Why does Lea have the key out of all people?"
-msgstr ""
+msgstr "Por que de todas as pessoas é a Lea que tem a chave?"
 
 #. data/maps/hideout/inner-garden.json entities/50/settings/event/25/message #171
 #. EventTrigger Revisited2 START IF plot.line >= 20620
@@ -1172,7 +1177,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/50/settings/event/25/message+%23171
 msgctxt "data/maps/hideout/inner-garden.json//entities/50/settings/event/25/message"
 msgid "Because...\\. I tricked Sidwell into giving it to her."
-msgstr ""
+msgstr "Porque...\\. Eu enganei o Sidwell em dar a chave para ela."
 
 #. data/maps/hideout/inner-garden.json entities/51/settings/event/19/message #172
 #. EventTrigger Revisited3 START IF plot.line >= 20660
@@ -1180,7 +1185,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/51/settings/event/19/message+%23172
 msgctxt "data/maps/hideout/inner-garden.json//entities/51/settings/event/19/message"
 msgid "Oh yes...\\. that data corruption.\\. What the heck."
-msgstr ""
+msgstr "Ah sim...\\. aquela corrupção de dados.\\. Credo."
 
 #. data/maps/hideout/inner-garden.json entities/51/settings/event/20/message #174
 #. EventTrigger Revisited3 START IF plot.line >= 20660
@@ -1188,7 +1193,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/51/settings/event/20/message+%23174
 msgctxt "data/maps/hideout/inner-garden.json//entities/51/settings/event/20/message"
 msgid "You really did not go easy on me."
-msgstr ""
+msgstr "Você não foi nem um pouco gentil comigo."
 
 #. data/maps/hideout/inner-garden.json entities/51/settings/event/21/message #173
 #. EventTrigger Revisited3 START IF plot.line >= 20660
@@ -1196,7 +1201,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/51/settings/event/21/message+%23173
 msgctxt "data/maps/hideout/inner-garden.json//entities/51/settings/event/21/message"
 msgid "I had to make sure that not just anyone could fix it."
-msgstr ""
+msgstr "Eu tinha que ter certeza que não seria algo que apenas qualquer um conseguiria concertar."
 
 #. data/maps/hideout/inner-garden.json entities/51/settings/event/22/message #175
 #. EventTrigger Revisited3 START IF plot.line >= 20660
@@ -1204,7 +1209,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/51/settings/event/22/message+%23175
 msgctxt "data/maps/hideout/inner-garden.json//entities/51/settings/event/22/message"
 msgid "And it worked."
-msgstr ""
+msgstr "E deu certo."
 
 #. data/maps/hideout/inner-garden.json entities/51/settings/event/23/message #176
 #. EventTrigger Revisited3 START IF plot.line >= 20660
@@ -1212,7 +1217,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/51/settings/event/23/message+%23176
 msgctxt "data/maps/hideout/inner-garden.json//entities/51/settings/event/23/message"
 msgid "Honestly...\\. all of this was a huge gamble.\\. But here you are."
-msgstr ""
+msgstr "Sendo honesto...\\. foi tudo uma grande aposta.\\. Mas aqui está você."
 
 #. data/maps/hideout/inner-garden.json entities/51/settings/event/24/message #177
 #. EventTrigger Revisited3 START IF plot.line >= 20660
@@ -1220,7 +1225,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/51/settings/event/24/message+%23177
 msgctxt "data/maps/hideout/inner-garden.json//entities/51/settings/event/24/message"
 msgid "You received my message and found me."
-msgstr ""
+msgstr "Você recebeu minha mensagem e me achou."
 
 #. data/maps/hideout/inner-garden.json entities/51/settings/event/32/message #178
 #. EventTrigger Revisited3 START IF plot.line >= 20660
@@ -1228,7 +1233,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/51/settings/event/32/message+%23178
 msgctxt "data/maps/hideout/inner-garden.json//entities/51/settings/event/32/message"
 msgid "And now...\\. we need to figure out how Lea can reach the Evotar Server before Sidwell has a chance to wipe its data."
-msgstr ""
+msgstr "E agora...\\. Nós temos que descobrir como a lea pode chegar no servidor Evotar antes que o sidewell apague todos os dados de lá."
 
 #. data/maps/hideout/inner-garden.json entities/51/settings/event/33/message #179
 #. EventTrigger Revisited3 START IF plot.line >= 20660
@@ -1236,7 +1241,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/51/settings/event/33/message+%23179
 msgctxt "data/maps/hideout/inner-garden.json//entities/51/settings/event/33/message"
 msgid "And I already have a few ideas I'd like to discuss with you in detail, Sergey."
-msgstr ""
+msgstr "E eu já tenho umas ideias que quero discutir com você em detalhe, Sergey."
 
 #. data/maps/hideout/inner-garden.json entities/51/settings/event/34/message #180
 #. EventTrigger Revisited3 START IF plot.line >= 20660
@@ -1244,7 +1249,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/51/settings/event/34/message+%23180
 msgctxt "data/maps/hideout/inner-garden.json//entities/51/settings/event/34/message"
 msgid "Of course!"
-msgstr ""
+msgstr "Mas é claro!"
 
 #. data/maps/hideout/inner-garden.json entities/51/settings/event/49/message #181
 #. EventTrigger Revisited3 START IF plot.line >= 20660
@@ -1252,7 +1257,7 @@ msgstr ""
 #: data/maps/hideout/inner-garden.json+entities/51/settings/event/49/message+%23181
 msgctxt "data/maps/hideout/inner-garden.json//entities/51/settings/event/49/message"
 msgid "Let's relocate back to the previous room."
-msgstr ""
+msgstr "Vamos nos realocar de volta para a sala anterior."
 
 #. data/maps/hideout/inner-office.json entities/0/settings/event/14/message #1
 #. EventTrigger MuchDrama
@@ -1260,7 +1265,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/0/settings/event/14/message+%231
 msgctxt "data/maps/hideout/inner-office.json//entities/0/settings/event/14/message"
 msgid "Satoshi!"
-msgstr ""
+msgstr "Satoshi!"
 
 #. data/maps/hideout/inner-office.json entities/0/settings/event/18/message #2
 #. EventTrigger MuchDrama
@@ -1268,7 +1273,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/0/settings/event/18/message+%232
 msgctxt "data/maps/hideout/inner-office.json//entities/0/settings/event/18/message"
 msgid "... Sister..."
-msgstr ""
+msgstr "... Irmã..."
 
 #. data/maps/hideout/inner-office.json entities/0/settings/event/19/message #3
 #. EventTrigger MuchDrama
@@ -1276,7 +1281,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/0/settings/event/19/message+%233
 msgctxt "data/maps/hideout/inner-office.json//entities/0/settings/event/19/message"
 msgid "What do you think you're doing?!"
-msgstr ""
+msgstr "O que você acha que está fazendo?!"
 
 #. data/maps/hideout/inner-office.json entities/0/settings/event/20/message #4
 #. EventTrigger MuchDrama
@@ -1284,7 +1289,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/0/settings/event/20/message+%234
 msgctxt "data/maps/hideout/inner-office.json//entities/0/settings/event/20/message"
 msgid "You are in no condition to do this kind of work now!"
-msgstr ""
+msgstr "Você não está em condições de fazer esse tipo de trabalho!"
 
 #. data/maps/hideout/inner-office.json entities/0/settings/event/21/message #5
 #. EventTrigger MuchDrama
@@ -1292,7 +1297,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/0/settings/event/21/message+%235
 msgctxt "data/maps/hideout/inner-office.json//entities/0/settings/event/21/message"
 msgid "All you should do is rest..."
-msgstr ""
+msgstr "Tudo que você deveria estar fazendo agora é descansar..."
 
 #. data/maps/hideout/inner-office.json entities/0/settings/event/22/message #6
 #. EventTrigger MuchDrama
@@ -1300,7 +1305,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/0/settings/event/22/message+%236
 msgctxt "data/maps/hideout/inner-office.json//entities/0/settings/event/22/message"
 msgid "... Why should I rest when I'm way beyond recovery?"
-msgstr ""
+msgstr "... Por que eu deveria descansar quando eu sei que eu não vou melhorar?"
 
 #. data/maps/hideout/inner-office.json entities/0/settings/event/26/message #7
 #. EventTrigger MuchDrama
@@ -1308,7 +1313,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/0/settings/event/26/message+%237
 msgctxt "data/maps/hideout/inner-office.json//entities/0/settings/event/26/message"
 msgid "I need to finish this work. It's my final task."
-msgstr ""
+msgstr "Eu tenho que terminar isso aqui. É meu objetivo final."
 
 #. data/maps/hideout/inner-office.json entities/0/settings/event/27/message #8
 #. EventTrigger MuchDrama
@@ -1316,7 +1321,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/0/settings/event/27/message+%238
 msgctxt "data/maps/hideout/inner-office.json//entities/0/settings/event/27/message"
 msgid "... I told you about the agreement."
-msgstr ""
+msgstr "... Eu lhe contei sobre o acordo."
 
 #. data/maps/hideout/inner-office.json entities/0/settings/event/28/message #9
 #. EventTrigger MuchDrama
@@ -1324,7 +1329,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/0/settings/event/28/message+%239
 msgctxt "data/maps/hideout/inner-office.json//entities/0/settings/event/28/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/hideout/inner-office.json entities/0/settings/event/29/message #10
 #. EventTrigger MuchDrama
@@ -1332,7 +1337,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/0/settings/event/29/message+%2310
 msgctxt "data/maps/hideout/inner-office.json//entities/0/settings/event/29/message"
 msgid "I finish this and they will let you go..."
-msgstr ""
+msgstr "Eu termino isso aqui e eles vão te deixar ir embora."
 
 #. data/maps/hideout/inner-office.json entities/0/settings/event/30/message #11
 #. EventTrigger MuchDrama
@@ -1340,7 +1345,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/0/settings/event/30/message+%2311
 msgctxt "data/maps/hideout/inner-office.json//entities/0/settings/event/30/message"
 msgid "... No, I don't want this!"
-msgstr ""
+msgstr "... No, eu não quero isso aqui!"
 
 #. data/maps/hideout/inner-office.json entities/0/settings/event/31/message #12
 #. EventTrigger MuchDrama
@@ -1348,7 +1353,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/0/settings/event/31/message+%2312
 msgctxt "data/maps/hideout/inner-office.json//entities/0/settings/event/31/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/hideout/inner-office.json entities/0/settings/event/32/message #13
 #. EventTrigger MuchDrama
@@ -1356,7 +1361,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/0/settings/event/32/message+%2313
 msgctxt "data/maps/hideout/inner-office.json//entities/0/settings/event/32/message"
 msgid "Satoshi... Stop it..."
-msgstr ""
+msgstr "Satosho... pare..."
 
 #. data/maps/hideout/inner-office.json entities/0/settings/event/43/message #14
 #. EventTrigger MuchDrama
@@ -1364,7 +1369,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/0/settings/event/43/message+%2314
 msgctxt "data/maps/hideout/inner-office.json//entities/0/settings/event/43/message"
 msgid "... It is done."
-msgstr ""
+msgstr "... Já foi feito."
 
 #. data/maps/hideout/inner-office.json entities/0/settings/event/49/message #15
 #. EventTrigger MuchDrama
@@ -1372,7 +1377,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/0/settings/event/49/message+%2315
 msgctxt "data/maps/hideout/inner-office.json//entities/0/settings/event/49/message"
 msgid "No!!"
-msgstr ""
+msgstr "Não!!"
 
 #. data/maps/hideout/inner-office.json entities/0/settings/event/56/message #16
 #. EventTrigger MuchDrama
@@ -1380,7 +1385,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/0/settings/event/56/message+%2316
 msgctxt "data/maps/hideout/inner-office.json//entities/0/settings/event/56/message"
 msgid "Shizuka... I'm sorry..."
-msgstr ""
+msgstr "Shizuka... Eu sinto muito..."
 
 #. data/maps/hideout/inner-office.json entities/0/settings/event/57/message #17
 #. EventTrigger MuchDrama
@@ -1388,7 +1393,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/0/settings/event/57/message+%2317
 msgctxt "data/maps/hideout/inner-office.json//entities/0/settings/event/57/message"
 msgid "I'm so sorry I got you involved in this."
-msgstr ""
+msgstr "Eu sinto tanto que eu lhe envolvi nisso tudo."
 
 #. data/maps/hideout/inner-office.json entities/0/settings/event/58/message #18
 #. EventTrigger MuchDrama
@@ -1396,7 +1401,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/0/settings/event/58/message+%2318
 msgctxt "data/maps/hideout/inner-office.json//entities/0/settings/event/58/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/hideout/inner-office.json entities/0/settings/event/59/message #19
 #. EventTrigger MuchDrama
@@ -1404,7 +1409,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/0/settings/event/59/message+%2319
 msgctxt "data/maps/hideout/inner-office.json//entities/0/settings/event/59/message"
 msgid "Just promise me...\\. that you will...\\. get away..."
-msgstr ""
+msgstr "Apenas me prometa...\\. que você...\\. vai embora daqui..."
 
 #. data/maps/hideout/inner-office.json entities/0/settings/event/60/message #20
 #. EventTrigger MuchDrama
@@ -1412,7 +1417,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/0/settings/event/60/message+%2320
 msgctxt "data/maps/hideout/inner-office.json//entities/0/settings/event/60/message"
 msgid "Please..."
-msgstr ""
+msgstr "Por favor..."
 
 #. data/maps/hideout/inner-office.json entities/15/settings/npcStates/4/event/3/message #211
 #. NPC genius
@@ -1421,7 +1426,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/15/settings/npcStates/4/event/3/message+%23211
 msgctxt "data/maps/hideout/inner-office.json//entities/15/settings/npcStates/4/event/3/message"
 msgid "Hello again, Lea."
-msgstr ""
+msgstr "Olá de novo, Lea."
 
 #. data/maps/hideout/inner-office.json entities/15/settings/npcStates/4/event/4/message #213
 #. NPC genius
@@ -1430,7 +1435,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/15/settings/npcStates/4/event/4/message+%23213
 msgctxt "data/maps/hideout/inner-office.json//entities/15/settings/npcStates/4/event/4/message"
 msgid "Do you think you are prepared to execute the plan? "
-msgstr ""
+msgstr "Você acha que está pronta para executar o plano? "
 
 #. data/maps/hideout/inner-office.json entities/15/settings/npcStates/4/event/5/message #214
 #. NPC genius
@@ -1439,7 +1444,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/15/settings/npcStates/4/event/5/message+%23214
 msgctxt "data/maps/hideout/inner-office.json//entities/15/settings/npcStates/4/event/5/message"
 msgid "Mind that once we start, things will have to move quickly."
-msgstr ""
+msgstr "Tenha em mente que quando começarmos, as coisas irão acontecer de maneira rápida."
 
 #. data/maps/hideout/inner-office.json entities/15/settings/npcStates/4/event/6/message #215
 #. NPC genius
@@ -1448,7 +1453,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/15/settings/npcStates/4/event/6/message+%23215
 msgctxt "data/maps/hideout/inner-office.json//entities/15/settings/npcStates/4/event/6/message"
 msgid "So, are you ready?"
-msgstr ""
+msgstr "Então, você está pronta?"
 
 #. data/maps/hideout/inner-office.json entities/15/settings/npcStates/4/event/7/0/0/message #216
 #. NPC genius
@@ -1458,7 +1463,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/15/settings/npcStates/4/event/7/0/0/message+%23216
 msgctxt "data/maps/hideout/inner-office.json//entities/15/settings/npcStates/4/event/7/0/0/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[concorda]"
 
 #. data/maps/hideout/inner-office.json entities/15/settings/npcStates/4/event/7/0/10/message #220
 #. NPC genius
@@ -1468,7 +1473,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/15/settings/npcStates/4/event/7/0/10/message+%23220
 msgctxt "data/maps/hideout/inner-office.json//entities/15/settings/npcStates/4/event/7/0/10/message"
 msgid "Alright then, let's get everyone together."
-msgstr ""
+msgstr "Beleza então, vamos chamar todo mundo."
 
 #. data/maps/hideout/inner-office.json entities/15/settings/npcStates/4/event/7/1/0/message #217
 #. NPC genius
@@ -1478,7 +1483,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/15/settings/npcStates/4/event/7/1/0/message+%23217
 msgctxt "data/maps/hideout/inner-office.json//entities/15/settings/npcStates/4/event/7/1/0/message"
 msgid "[shakes head]"
-msgstr ""
+msgstr "[discorda]"
 
 #. data/maps/hideout/inner-office.json entities/15/settings/npcStates/4/event/7/1/1/message #218
 #. NPC genius
@@ -1488,7 +1493,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/15/settings/npcStates/4/event/7/1/1/message+%23218
 msgctxt "data/maps/hideout/inner-office.json//entities/15/settings/npcStates/4/event/7/1/1/message"
 msgid "Alright. Talk to me when the time has come."
-msgstr ""
+msgstr "Beleza. Fale comigo quando a hora for certa."
 
 #. data/maps/hideout/inner-office.json entities/15/settings/npcStates/4/event/7/options/0/label #212
 #. NPC genius
@@ -1497,7 +1502,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/15/settings/npcStates/4/event/7/options/0/label+%23212
 msgctxt "data/maps/hideout/inner-office.json//entities/15/settings/npcStates/4/event/7/options/0/label"
 msgid "[yes]"
-msgstr ""
+msgstr "[sim]"
 
 #. data/maps/hideout/inner-office.json entities/15/settings/npcStates/4/event/7/options/1/label #219
 #. NPC genius
@@ -1506,7 +1511,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/15/settings/npcStates/4/event/7/options/1/label+%23219
 msgctxt "data/maps/hideout/inner-office.json//entities/15/settings/npcStates/4/event/7/options/1/label"
 msgid "[no]"
-msgstr ""
+msgstr "[não]"
 
 #. data/maps/hideout/inner-office.json entities/15/settings/npcStates/5/event/2/message #652
 #. NPC genius
@@ -1515,7 +1520,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/15/settings/npcStates/5/event/2/message+%23652
 msgctxt "data/maps/hideout/inner-office.json//entities/15/settings/npcStates/5/event/2/message"
 msgid "Hello again, Lea."
-msgstr ""
+msgstr "Olá novamente, Lea."
 
 #. data/maps/hideout/inner-office.json entities/15/settings/npcStates/5/event/3/message #653
 #. NPC genius
@@ -1524,7 +1529,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/15/settings/npcStates/5/event/3/message+%23653
 msgctxt "data/maps/hideout/inner-office.json//entities/15/settings/npcStates/5/event/3/message"
 msgid "You should know what to do. Let's hurry and proceed with the plan."
-msgstr ""
+msgstr "Você sabe o que fazer. Vamos correr e continuar com o plano."
 
 #. data/maps/hideout/inner-office.json entities/15/settings/npcStates/5/event/4/message #654
 #. NPC genius
@@ -1533,7 +1538,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/15/settings/npcStates/5/event/4/message+%23654
 msgctxt "data/maps/hideout/inner-office.json//entities/15/settings/npcStates/5/event/4/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[concorda]"
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/14/message #21
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -1541,7 +1546,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/14/message+%2321
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/14/message"
 msgid "...Hi?"
-msgstr ""
+msgstr "... Oi?"
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/16/message #43
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -1549,7 +1554,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/16/message+%2343
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/16/message"
 msgid "Is...\\. is that?"
-msgstr ""
+msgstr "Aquilo...\\. Aquilo ali é?"
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/27/message #34
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -1557,7 +1562,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/27/message+%2334
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/27/message"
 msgid "It...\\. it really happened."
-msgstr ""
+msgstr "Realmente...\\. Realmente aconteceu."
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/35/message #44
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -1565,7 +1570,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/35/message+%2344
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/35/message"
 msgid "Satoshi...\\. finally...\\. we found you!"
-msgstr ""
+msgstr "Satoshi...\\. nós finalmente..\\. achamos você!"
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/42/message #38
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -1573,7 +1578,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/42/message+%2338
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/42/message"
 msgid "Lea...\\. you are here..."
-msgstr ""
+msgstr "Lea...\\. você está aqui..."
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/43/message #39
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -1581,7 +1586,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/43/message+%2339
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/43/message"
 msgid "Does that mean...\\. is he with you as well?"
-msgstr ""
+msgstr "Isso quer dizer...\\. que ele também está com você?"
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/44/message #40
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -1589,7 +1594,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/44/message+%2340
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/44/message"
 msgid "...?"
-msgstr ""
+msgstr "...?"
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/45/message #41
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -1597,7 +1602,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/45/message+%2341
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/45/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[concorda]"
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/46/message #42
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -1605,7 +1610,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/46/message+%2342
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/46/message"
 msgid "Alright. This way, please."
-msgstr ""
+msgstr "Certo. Me siga, por favor."
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/54/message #45
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -1613,7 +1618,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/54/message+%2345
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/54/message"
 msgid "Make sure he can read the number of this device."
-msgstr ""
+msgstr "Tenha certeza de que ele consiga ler o numero deste dispositivo."
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/56/message #46
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -1621,7 +1626,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/56/message+%2346
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/56/message"
 msgid "It's possible to connect to it using an IDN-Client."
-msgstr ""
+msgstr "É possivel se conectar a ele usando um Cliente-IDN."
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/58/message #47
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -1629,7 +1634,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/58/message+%2347
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/58/message"
 msgid "Oh? Just make sure to look closely at the number, Lea!"
-msgstr ""
+msgstr "Ah? Apenas tenha certeza de olhar para o numero de perto, Lea!"
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/59/message #48
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -1637,7 +1642,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/59/message+%2348
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/59/message"
 msgid "...!"
-msgstr ""
+msgstr "...!"
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/66/message #49
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -1645,7 +1650,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/66/message+%2349
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/66/message"
 msgid "Alright...\\. one moment please."
-msgstr ""
+msgstr "Certo...\\. um momento por favor."
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/77/message #52
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -1653,7 +1658,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/77/message+%2352
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/77/message"
 msgid "Satoshi...\\. I am so glad to see you again."
-msgstr ""
+msgstr "Satoshi...\\. Eu estou tão feliz em te ver de novo."
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/79/message #55
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -1661,7 +1666,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/79/message+%2355
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/79/message"
 msgid "Same for me.\\. It has been too long..."
-msgstr ""
+msgstr "Eu digo o mesmo.\\. Já faz muito tempo..."
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/84/message #54
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -1669,7 +1674,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/84/message+%2354
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/84/message"
 msgid "S-Sergey?\\. Is that you?"
-msgstr ""
+msgstr "S-Sergey?\\. É você?"
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/88/message #56
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -1677,7 +1682,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/88/message+%2356
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/88/message"
 msgid "I'm sure you have a lot of questions, but before we continue, let me start a little program."
-msgstr ""
+msgstr "Eu tenho certeza de que você tem muitas perguntas, mas antes de continuarmos, deixe-me iniciar um pequeno programa."
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/109/message #62
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -1685,7 +1690,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/109/message+%2362
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/109/message"
 msgid "Alright, let's stay close and talk quietly."
-msgstr ""
+msgstr "Certo, vamos ficar perto um do outro e vamos falar baixo."
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/110/message #100
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -1693,7 +1698,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/110/message+%23100
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/110/message"
 msgid "This room is monitored."
-msgstr ""
+msgstr "Esta sala está sendo monitorada."
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/111/message #101
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -1701,7 +1706,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/111/message+%23101
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/111/message"
 msgid "Having this noise around us should sufficiently mess with the protocol."
-msgstr ""
+msgstr "Todo esse barulho ao nosso redor é o suficiente para atrapalhar o protocolo."
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/112/message #102
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -1709,7 +1714,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/112/message+%23102
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/112/message"
 msgid "At least for some time."
-msgstr ""
+msgstr "Pelo menos por algum tempo."
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/113/message #103
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -1717,7 +1722,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/113/message+%23103
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/113/message"
 msgid "I see..."
-msgstr ""
+msgstr "Entendo..."
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/114/message #104
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -1725,7 +1730,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/114/message+%23104
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/114/message"
 msgid "Well then... allow me to get straight to the point."
-msgstr ""
+msgstr "Muito bem então... permita-me ir direto ao ponto."
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/115/message #106
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -1733,7 +1738,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/115/message+%23106
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/115/message"
 msgid "Sergey, you should already know about Evotars."
-msgstr ""
+msgstr "Sergey, você já deve saber sobre Evotars."
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/116/message #107
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -1741,7 +1746,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/116/message+%23107
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/116/message"
 msgid "Is Lea...\\. aware about herself as well?"
-msgstr ""
+msgstr "A Lea...\\. tem ciência sobre si mesma também?"
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/117/message #108
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -1749,7 +1754,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/117/message+%23108
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/117/message"
 msgid "Yes...\\. she is."
-msgstr ""
+msgstr "Sim...\\. ela tem."
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/118/message #109
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -1757,7 +1762,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/118/message+%23109
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/118/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[concorda]"
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/119/message #110
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -1765,7 +1770,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/119/message+%23110
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/119/message"
 msgid "Good...\\. this will make things much easier."
-msgstr ""
+msgstr "Ótimo...\\. Isso deixa as coisas muito mais fáceis."
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/120/message #111
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -1773,7 +1778,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/120/message+%23111
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/120/message"
 msgid "Lea, let me start by saying that you are, in fact, the \\c[3]first functional Evotar\\c[0].\n"
-msgstr ""
+msgstr "Lea, deixe-me começar a conversa dizendo que você é o \\c[3]primeiro Evotar funcional\\c[0]\n"
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/121/message #112
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -1781,7 +1786,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/121/message+%23112
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/121/message"
 msgid "Minus a few remaining technical issues... like your \\c[3]malfunctioning speech module\\c[0]."
-msgstr ""
+msgstr "Menos algumas dificuldades tecnicas... como seu \\c[3]módulo de voz falho\\c[0]."
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/122/message #113
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -1789,7 +1794,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/122/message+%23113
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/122/message"
 msgid "Why?"
-msgstr ""
+msgstr "Porque?"
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/123/message #114
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -1797,7 +1802,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/123/message+%23114
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/123/message"
 msgid "Wait...\\. so I didn't imagine it? You can talk?"
-msgstr ""
+msgstr "Pera ai...\\. Então não foi minha imaginação? Você consegue falar?"
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/124/message #115
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -1805,7 +1810,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/124/message+%23115
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/124/message"
 msgid "Partially... I hard-coded a few words into her module."
-msgstr ""
+msgstr "Parcialmente... Eu consegui escrever algumas palavras no módulo dela."
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/125/message #116
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -1813,7 +1818,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/125/message+%23116
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/125/message"
 msgid "I wasn't even aware that was an option..."
-msgstr ""
+msgstr "Eu nem ao menos tinha noção de que isso era uma opção..."
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/126/message #117
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -1821,7 +1826,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/126/message+%23117
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/126/message"
 msgid "You always manage to surprise me, Sergey."
-msgstr ""
+msgstr "Você sempre consegue me surpreender, Sergey."
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/127/thenStep/1/message #655
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -1830,7 +1835,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/127/thenStep/1/message+%23655
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/127/thenStep/1/message"
 msgid "Are you also responsible for the \\c[1]insane amount of damage\\c[0] she's dealing?"
-msgstr ""
+msgstr "Você também é responsável pela \\c[1]quantidade insana de dano\\c[0] que ela está causando?"
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/127/thenStep/2/message #656
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -1839,7 +1844,7 @@ msgstr ""
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/127/thenStep/2/message+%23656
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/127/thenStep/2/message"
 msgid "Ah...\\. yes."
-msgstr ""
+msgstr "Ah...\\. sim."
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/127/thenStep/3/message #657
 #. EventTrigger Revisited START IF plot.line >= 20000
