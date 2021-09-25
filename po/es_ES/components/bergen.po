@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.1-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-14 01:09+0000\n"
-"PO-Revision-Date: 2021-09-22 21:09+0000\n"
-"Last-Translator: Esteban Herrera Ortúzar <estebanherreraortuzar@gmail.com>\n"
+"PO-Revision-Date: 2021-09-26 01:09+0000\n"
+"Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.crosscode.ru/projects/crosscode/bergen/es/>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
@@ -36,7 +36,7 @@ msgstr "Sótano del Centro de Buscadores"
 #: data/areas/bergen.json+floors/0/maps/1/name+%2355
 msgctxt "data/areas/bergen.json//floors/0/maps/1/name"
 msgid "Miner's Elevator B1"
-msgstr ""
+msgstr "Elevador del Minero S1"
 
 #. data/areas/bergen.json floors/0/maps/2/name #65
 #: data/areas/bergen.json+floors/0/maps/2/name+%2365
@@ -150,37 +150,37 @@ msgstr ""
 #: data/areas/bergen.json+floors/1/maps/14/name+%2342
 msgctxt "data/areas/bergen.json//floors/1/maps/14/name"
 msgid "Digging Mates HQ"
-msgstr ""
+msgstr "Sede Central de la Compañía Minera"
 
 #. data/areas/bergen.json floors/1/maps/15/name #43
 #: data/areas/bergen.json+floors/1/maps/15/name+%2343
 msgctxt "data/areas/bergen.json//floors/1/maps/15/name"
 msgid "Bergen Guard HQ"
-msgstr ""
+msgstr "Sede Central de la Guardia de Bergen"
 
 #. data/areas/bergen.json floors/1/maps/16/name #44
 #: data/areas/bergen.json+floors/1/maps/16/name+%2344
 msgctxt "data/areas/bergen.json//floors/1/maps/16/name"
 msgid "Bergen Monastery"
-msgstr ""
+msgstr "Monasterio de Bergen"
 
 #. data/areas/bergen.json floors/1/maps/17/name #45
 #: data/areas/bergen.json+floors/1/maps/17/name+%2345
 msgctxt "data/areas/bergen.json//floors/1/maps/17/name"
 msgid "Cave of Aspiration"
-msgstr ""
+msgstr "Cueva de la Aspiración"
 
 #. data/areas/bergen.json floors/1/maps/18/name #54
 #: data/areas/bergen.json+floors/1/maps/18/name+%2354
 msgctxt "data/areas/bergen.json//floors/1/maps/18/name"
 msgid "Miner's Elevator G"
-msgstr ""
+msgstr "Elevador del Minero PB"
 
 #. data/areas/bergen.json floors/1/maps/19/name #66
 #: data/areas/bergen.json+floors/1/maps/19/name+%2366
 msgctxt "data/areas/bergen.json//floors/1/maps/19/name"
 msgid "Cave of Progression"
-msgstr ""
+msgstr "Cueva del Progreso"
 
 #. data/maps/bergen/bergen.json entities/281/settings/interact/hoverText #5
 #. Prop
@@ -190,20 +190,22 @@ msgid ""
 "\\i[arrow-nw] Ye Old Inn\n"
 "\\i[arrow-se] Bergen Trail"
 msgstr ""
+"\\i[arrow-nw] La Vieja Posada\n"
+"\\i[arrow-se] Sendero de Bergen"
 
 #. data/maps/bergen/bergen.json entities/289/settings/interact/hoverText #6
 #. Prop
 #: data/maps/bergen/bergen.json+entities/289/settings/interact/hoverText+%236
 msgctxt "data/maps/bergen/bergen.json//entities/289/settings/interact/hoverText"
 msgid "Tranquil town in the mountain.\n"
-msgstr ""
+msgstr "Un tranquilo pueblo en las montañas.\n"
 
 #. data/maps/bergen/bergen.json entities/289/settings/interact/title #439
 #. Prop
 #: data/maps/bergen/bergen.json+entities/289/settings/interact/title+%23439
 msgctxt "data/maps/bergen/bergen.json//entities/289/settings/interact/title"
 msgid "- \\c[3]Bergen\\c[0] -"
-msgstr ""
+msgstr "- \\c[3]Bergen\\c[0] -"
 
 #. data/maps/bergen/bergen.json entities/832/settings/dialog/0/text #9
 #. XenoDialog cold-talk
@@ -392,7 +394,7 @@ msgstr "Hola..."
 #: data/maps/bergen/bergen.json+entities/836/settings/npcStates/0/event/quest/6/message+%2331
 msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/0/event/quest/6/message"
 msgid "I'm sorry, I'm just too distracted to really talk right now."
-msgstr ""
+msgstr "Lo siento, estoy demasiado ocupado para hablar ahora."
 
 #. data/maps/bergen/bergen.json entities/836/settings/npcStates/0/event/quest/7/message #32
 #. NPC holiday-man
@@ -401,7 +403,7 @@ msgstr ""
 #: data/maps/bergen/bergen.json+entities/836/settings/npcStates/0/event/quest/7/message+%2332
 msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/0/event/quest/7/message"
 msgid "There is just no time."
-msgstr ""
+msgstr "No queda tiempo."
 
 #. data/maps/bergen/bergen.json entities/836/settings/npcStates/0/event/quest/8/message #33
 #. NPC holiday-man
@@ -419,7 +421,7 @@ msgstr "¿...?"
 #: data/maps/bergen/bergen.json+entities/836/settings/npcStates/0/event/quest/9/message+%2334
 msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/0/event/quest/9/message"
 msgid "You probably know who I am right?"
-msgstr ""
+msgstr "Seguramente sabes quien soy, ¿cierto?"
 
 #. data/maps/bergen/bergen.json entities/836/settings/npcStates/0/event/quest/10/message #35
 #. NPC holiday-man
@@ -446,7 +448,7 @@ msgstr "[niega con la cabeza]"
 #: data/maps/bergen/bergen.json+entities/836/settings/npcStates/0/event/quest/12/message+%2337
 msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/0/event/quest/12/message"
 msgid "Wait, what? Really? \\.\\.\\. But I'm \\c[3]Holiday Man\\c[0]!"
-msgstr ""
+msgstr "Espera, ¿qué? ¿En serio? \\.\\.\\. Pero, ¡si soy el \\c[3]Hombre Navideño\\c[0]!"
 
 #. data/maps/bergen/bergen.json entities/836/settings/npcStates/0/event/quest/14/message #38
 #. NPC holiday-man
