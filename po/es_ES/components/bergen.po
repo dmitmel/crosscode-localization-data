@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.1-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-14 01:09+0000\n"
-"PO-Revision-Date: 2021-12-29 16:10+0000\n"
+"PO-Revision-Date: 2021-12-30 02:39+0000\n"
 "Last-Translator: Esteban Herrera Ortúzar <estebanherreraortuzar@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.crosscode.ru/projects/crosscode/bergen/es/>\n"
 "Language: es_ES\n"
@@ -124,10 +124,9 @@ msgstr "Base de los Omni Gilders"
 
 #. data/areas/bergen.json floors/1/maps/10/name #31
 #: data/areas/bergen.json+floors/1/maps/10/name+%2331
-#, fuzzy
 msgctxt "data/areas/bergen.json//floors/1/maps/10/name"
 msgid "Trader's Den"
-msgstr "Centro de Comercio"
+msgstr "Centro de Comerciantes"
 
 #. data/areas/bergen.json floors/1/maps/11/name #38
 #: data/areas/bergen.json+floors/1/maps/11/name+%2338
@@ -145,7 +144,7 @@ msgstr "Centro de Buscadores"
 #: data/areas/bergen.json+floors/1/maps/13/name+%2341
 msgctxt "data/areas/bergen.json//floors/1/maps/13/name"
 msgid "Diving Railway"
-msgstr ""
+msgstr "Riel Teletransportador"
 
 #. data/areas/bergen.json floors/1/maps/14/name #42
 #: data/areas/bergen.json+floors/1/maps/14/name+%2342
@@ -2236,7 +2235,6 @@ msgstr "Central Cross"
 #. data/maps/bergen/bergen2.json entities/264/settings/interact/hoverText #18
 #. Prop
 #: data/maps/bergen/bergen2.json+entities/264/settings/interact/hoverText+%2318
-#, fuzzy
 msgctxt "data/maps/bergen/bergen2.json//entities/264/settings/interact/hoverText"
 msgid ""
 "\\i[arrow-nw] Old Temple Mine\n"
@@ -2244,7 +2242,7 @@ msgid ""
 "\\i[arrow-se] Bergen Trail"
 msgstr ""
 "\\i[arrow-nw] Viejo Templo Mina\n"
-"\\i[arrow-w] Bergen Railway ????\n"
+"\\i[arrow-w] Riel Teletransportador\n"
 "\\i[arrow-se] Sendero de Bergen"
 
 #. data/maps/bergen/bergen2.json entities/830/settings/analyzable/text #428
@@ -2268,7 +2266,7 @@ msgstr "Sra. de las Gorras"
 #: data/maps/bergen/bergen2.json+entities/830/settings/npcStates/0/event/2/message+%2319
 msgctxt "data/maps/bergen/bergen2.json//entities/830/settings/npcStates/0/event/2/message"
 msgid "Hey there!\\. Do you like Mr. Cottonsnow here?"
-msgstr ""
+msgstr "¡Hola!\\. ¿Te agrada el Sr. Nevalgodón?"
 
 #. data/maps/bergen/bergen2.json entities/830/settings/npcStates/0/event/3/message #20
 #. NPC snowman-girl
@@ -7320,7 +7318,7 @@ msgstr "¡...!"
 #: data/maps/bergen/inner-faction-miners.json+entities/34/settings/npcStates/6/event/quest/6/message+%23322
 msgctxt "data/maps/bergen/inner-faction-miners.json//entities/34/settings/npcStates/6/event/quest/6/message"
 msgid "And that... whatever it is you found there.\\. It has some weird properties.\\. We will look into that."
-msgstr ""
+msgstr "Y ese... o lo que sea que hayas encontrado allí.\\. Contiene extrañas propiedades.\\. Le echaremos un ojo."
 
 #. data/maps/bergen/inner-faction-miners.json entities/34/settings/npcStates/6/event/quest/7/message #325
 #. NPC leader-turis
@@ -7338,7 +7336,7 @@ msgstr "¡...!"
 #: data/maps/bergen/inner-faction-miners.json+entities/34/settings/npcStates/6/event/quest/9/message+%23326
 msgctxt "data/maps/bergen/inner-faction-miners.json//entities/34/settings/npcStates/6/event/quest/9/message"
 msgid "With any luck, we can finally make some real progress now.\\. You're always welcome to lend us a hand!"
-msgstr ""
+msgstr "Si tenemos suerte, ahora por fin podremos progresar de verdad.\\. ¡Tu ayuda siempre es bienvenida acá!"
 
 #. data/maps/bergen/inner-faction-miners.json entities/34/settings/npcStates/6/event/quest/10/message #327
 #. NPC leader-turis
@@ -7347,7 +7345,7 @@ msgstr ""
 #: data/maps/bergen/inner-faction-miners.json+entities/34/settings/npcStates/6/event/quest/10/message+%23327
 msgctxt "data/maps/bergen/inner-faction-miners.json//entities/34/settings/npcStates/6/event/quest/10/message"
 msgid "In fact... you might want to pay Darrel another visit.\\. He had some bold ideas for after the job was done."
-msgstr ""
+msgstr "De hecho... tal vez quieras darle otra visita a Darrel.\\. Se le ocurrieron unas ideas osadas una vez terminado el trabajo."
 
 #. data/maps/bergen/inner-faction-miners.json entities/34/settings/npcStates/6/event/quest/11/message #328
 #. NPC leader-turis
@@ -7383,7 +7381,7 @@ msgstr "¡Adiós!"
 #: data/maps/bergen/inner-faction-miners.json+entities/34/settings/npcStates/7/event/0/name+%23344
 msgctxt "data/maps/bergen/inner-faction-miners.json//entities/34/settings/npcStates/7/event/0/name"
 msgid "McEdinthil"
-msgstr ""
+msgstr "McEdinthil"
 
 #. data/maps/bergen/inner-faction-miners.json entities/34/settings/npcStates/7/event/2/message #306
 #. NPC leader-turis
@@ -7392,7 +7390,7 @@ msgstr ""
 #: data/maps/bergen/inner-faction-miners.json+entities/34/settings/npcStates/7/event/2/message+%23306
 msgctxt "data/maps/bergen/inner-faction-miners.json//entities/34/settings/npcStates/7/event/2/message"
 msgid "Greetings, \\v[lore.title.seeker], everything's running smoothly."
-msgstr ""
+msgstr "Saludos, \\v[lore.title.seeker], todo está funcionando con tranquilidad."
 
 #. data/maps/bergen/inner-faction-miners.json entities/34/settings/npcStates/7/event/3/message #329
 #. NPC leader-turis
@@ -7401,7 +7399,7 @@ msgstr ""
 #: data/maps/bergen/inner-faction-miners.json+entities/34/settings/npcStates/7/event/3/message+%23329
 msgctxt "data/maps/bergen/inner-faction-miners.json//entities/34/settings/npcStates/7/event/3/message"
 msgid "That being said, there might still be work for you, down in the mines.\\. You could talk to our miners down there."
-msgstr ""
+msgstr "Dicho esto, puede que aún haya trabajo para ti en las minas.\\. Puedes hablar con nuestros mineros allá abajo."
 
 #. data/maps/bergen/inner-faction-miners.json entities/34/settings/npcStates/7/event/4/message #330
 #. NPC leader-turis
@@ -7417,7 +7415,7 @@ msgstr "[asiente]"
 #: data/maps/bergen/inner-faction-miners.json+entities/72/settings/analyzable/text+%23251
 msgctxt "data/maps/bergen/inner-faction-miners.json//entities/72/settings/analyzable/text"
 msgid "Guard"
-msgstr ""
+msgstr "Guardia"
 
 #. data/maps/bergen/inner-faction-miners.json entities/73/settings/npcStates/0/event/quest/2/message #346
 #. NPC minerTrader1
@@ -7426,7 +7424,7 @@ msgstr ""
 #: data/maps/bergen/inner-faction-miners.json+entities/73/settings/npcStates/0/event/quest/2/message+%23346
 msgctxt "data/maps/bergen/inner-faction-miners.json//entities/73/settings/npcStates/0/event/quest/2/message"
 msgid "Oh, hey \\v[lore.title.seeker]!\\. I got something for you from \\c[3]Darrel\\c[0] downstairs, as a reward for helping him."
-msgstr ""
+msgstr "¡Oh, hola \\v[lore.title.seeker]!\\. \\c[3]Darrel\\c[0] te dejó algo en el piso de abajo como recompensa por haberlo ayudado."
 
 #. data/maps/bergen/inner-faction-miners.json entities/73/settings/npcStates/0/event/quest/3/message #348
 #. NPC minerTrader1
@@ -7444,7 +7442,7 @@ msgstr "¿...?"
 #: data/maps/bergen/inner-faction-miners.json+entities/73/settings/npcStates/0/event/quest/4/message+%23349
 msgctxt "data/maps/bergen/inner-faction-miners.json//entities/73/settings/npcStates/0/event/quest/4/message"
 msgid "I guess he just forgot to give it to you after the job.\\. Anyway, I got more of those if you got the material!"
-msgstr ""
+msgstr "Supongo que se le olvidó dártelo después del trabajo que realizaron.\\. ¡En cualquier caso, poseo más de esos si tienes el material!"
 
 #. data/maps/bergen/inner-faction-miners.json entities/73/settings/npcStates/0/event/quest/5/message #350
 #. NPC minerTrader1
@@ -7539,7 +7537,7 @@ msgstr "..."
 #: data/maps/bergen/inner-faction-monks.json+entities/29/settings/analyzable/text+%23247
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/29/settings/analyzable/text"
 msgid "Wise Nemuh"
-msgstr ""
+msgstr "El Sabio Nemuh"
 
 #. data/maps/bergen/inner-faction-monks.json entities/29/settings/npcStates/0/event/0/name #427
 #. NPC leader-wise
@@ -7547,7 +7545,7 @@ msgstr ""
 #: data/maps/bergen/inner-faction-monks.json+entities/29/settings/npcStates/0/event/0/name+%23427
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/29/settings/npcStates/0/event/0/name"
 msgid "Nemuh"
-msgstr ""
+msgstr "Nemuh"
 
 #. data/maps/bergen/inner-faction-monks.json entities/29/settings/npcStates/0/event/2/message #284
 #. NPC leader-wise
@@ -7555,7 +7553,7 @@ msgstr ""
 #: data/maps/bergen/inner-faction-monks.json+entities/29/settings/npcStates/0/event/2/message+%23284
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/29/settings/npcStates/0/event/2/message"
 msgid "The Track is quiet at this moment, leaving us time to meditate on its purpose.\\. Why not join us?"
-msgstr ""
+msgstr "El Camino está tranquilo ahora, lo cual nos deja tiempo para meditar sobre su propósito.\\. ¿Por qué no te nos unes?"
 
 #. data/maps/bergen/inner-faction-monks.json entities/29/settings/npcStates/0/event/3/message #282
 #. NPC leader-wise
@@ -7572,7 +7570,7 @@ msgstr "...adiós."
 #: data/maps/bergen/inner-faction-monks.json+entities/29/settings/npcStates/1/event/quest/0/name+%23428
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/29/settings/npcStates/1/event/quest/0/name"
 msgid "Nemuh"
-msgstr ""
+msgstr "Nemuh"
 
 #. data/maps/bergen/inner-faction-monks.json entities/29/settings/npcStates/1/event/quest/2/message #42
 #. NPC leader-wise
@@ -7590,7 +7588,7 @@ msgstr "¡Hola!"
 #: data/maps/bergen/inner-faction-monks.json+entities/29/settings/npcStates/1/event/quest/3/message+%23261
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/29/settings/npcStates/1/event/quest/3/message"
 msgid "Welcome to our humble monastery, \\v[lore.title.seeker]."
-msgstr ""
+msgstr "Bienvenido a nuestro humilde monasterio, \\v[lore.title.seeker]."
 
 #. data/maps/bergen/inner-faction-monks.json entities/29/settings/npcStates/1/event/quest/4/message #283
 #. NPC leader-wise
@@ -7599,7 +7597,7 @@ msgstr ""
 #: data/maps/bergen/inner-faction-monks.json+entities/29/settings/npcStates/1/event/quest/4/message+%23283
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/29/settings/npcStates/1/event/quest/4/message"
 msgid "This one's name is Nemuh and I am the spiritual guide of our order."
-msgstr ""
+msgstr "Mi nombre es Nemuh y soy el guía espiritual de nuestra orden."
 
 #. data/maps/bergen/inner-faction-monks.json entities/29/settings/npcStates/1/event/quest/6/message #331
 #. NPC leader-wise
@@ -7608,7 +7606,7 @@ msgstr ""
 #: data/maps/bergen/inner-faction-monks.json+entities/29/settings/npcStates/1/event/quest/6/message+%23331
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/29/settings/npcStates/1/event/quest/6/message"
 msgid "Know that many souls that desire understanding of the Track seek our guidance, \\v[lore.title.seeker]s chief among them."
-msgstr ""
+msgstr "Muchas almas que desean entender el Camino buscan nuestra guía, incluidos los mejores \\v[lore.title.seeker]es."
 
 #. data/maps/bergen/inner-faction-monks.json entities/29/settings/npcStates/1/event/quest/7/message #281
 #. NPC leader-wise
@@ -7626,7 +7624,7 @@ msgstr "¡...!"
 #: data/maps/bergen/inner-faction-monks.json+entities/29/settings/npcStates/1/event/quest/8/message+%23332
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/29/settings/npcStates/1/event/quest/8/message"
 msgid "We must, however, test their mental balance and physical aptitude to deem them worthy of our allegiance."
-msgstr ""
+msgstr "Sin embargo, debemos poner a prueba el equilibrio mental y la aptitud física de ellos para considerarlos dignos de nuestra lealtad."
 
 #. data/maps/bergen/inner-faction-monks.json entities/29/settings/npcStates/1/event/quest/10/message #333
 #. NPC leader-wise
@@ -7635,7 +7633,7 @@ msgstr ""
 #: data/maps/bergen/inner-faction-monks.json+entities/29/settings/npcStates/1/event/quest/10/message+%23333
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/29/settings/npcStates/1/event/quest/10/message"
 msgid "What about you, young \\v[lore.title.seeker]?\\. Do you desire to be tested?"
-msgstr ""
+msgstr "¿Qué dices, joven \\v[lore.title.seeker]?\\. ¿Deseas que te pongamos a prueba?"
 
 #. data/maps/bergen/inner-faction-monks.json entities/29/settings/npcStates/1/event/quest/11/accepted/0/message #46
 #. NPC leader-wise
@@ -7655,7 +7653,7 @@ msgstr "[asiente]"
 #: data/maps/bergen/inner-faction-monks.json+entities/29/settings/npcStates/1/event/quest/11/accepted/2/message+%23273
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/29/settings/npcStates/1/event/quest/11/accepted/2/message"
 msgid "I felt that you would answer as such.\\. The Track resonates strongly inside you."
-msgstr ""
+msgstr "Presentí que responderías así.\\. El Camino resuena intensamente dentro de ti."
 
 #. data/maps/bergen/inner-faction-monks.json entities/29/settings/npcStates/1/event/quest/11/accepted/3/message #334
 #. NPC leader-wise
@@ -7675,7 +7673,7 @@ msgstr "¡...!"
 #: data/maps/bergen/inner-faction-monks.json+entities/29/settings/npcStates/1/event/quest/11/accepted/4/message+%23280
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/29/settings/npcStates/1/event/quest/11/accepted/4/message"
 msgid "Go to Monk Hasouk to start the first trial.\\. You can find him under this very roof."
-msgstr ""
+msgstr "Ve con el Monje Haseouk para comenzar la primera prueba.\\. Puedes encontrarlo bajo este mismo techo."
 
 #. data/maps/bergen/inner-faction-monks.json entities/29/settings/npcStates/1/event/quest/11/accepted/5/message #339
 #. NPC leader-wise
@@ -7715,7 +7713,7 @@ msgstr "[niega con la cabeza]"
 #: data/maps/bergen/inner-faction-monks.json+entities/29/settings/npcStates/1/event/quest/11/declined/1/message+%23335
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/29/settings/npcStates/1/event/quest/11/declined/1/message"
 msgid "I felt that you would answer as such.\\. Look inside yourself to find what holds you back."
-msgstr "Sentí que responderías eso.\\. Mira dentro de ti para encontrar qué es lo que te retiene a seguir."
+msgstr "Presentí que responderías eso.\\. Mira dentro de ti para encontrar qué es lo que te retiene a seguir."
 
 #. data/maps/bergen/inner-faction-monks.json entities/29/settings/npcStates/1/event/quest/11/declined/2/message #336
 #. NPC leader-wise
@@ -8981,7 +8979,7 @@ msgstr "Regresa a la cueva y enfréntate a los desafíos."
 #: data/maps/bergen/inner-faction-monks.json+entities/56/settings/npcStates/6/event/5/thenStep/0/message+%23367
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/56/settings/npcStates/6/event/5/thenStep/0/message"
 msgid "To solve the extra frosty challenge you have to activate it at the sign inside."
-msgstr ""
+msgstr "Para superar el desafío extra congelado, tienes que activarlo donde está el letrero adentro."
 
 #. data/maps/bergen/inner-faction-monks.json entities/56/settings/npcStates/6/event/6/message #357
 #. NPC cratos
@@ -8999,7 +8997,7 @@ msgstr "[asiente]"
 #: data/maps/bergen/inner-faction-monks.json+entities/56/settings/npcStates/7/event/quest/2/name+%23544
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/56/settings/npcStates/7/event/quest/2/name"
 msgid "Cratos"
-msgstr ""
+msgstr "Cratos"
 
 #. data/maps/bergen/inner-faction-monks.json entities/56/settings/npcStates/7/event/quest/4/message #358
 #. NPC cratos
@@ -9008,7 +9006,7 @@ msgstr ""
 #: data/maps/bergen/inner-faction-monks.json+entities/56/settings/npcStates/7/event/quest/4/message+%23358
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/56/settings/npcStates/7/event/quest/4/message"
 msgid "You have been successful once again, \\v[lore.title.seeker]."
-msgstr ""
+msgstr "Lo has logrado una vez más, \\v[lore.title.seeker]."
 
 #. data/maps/bergen/inner-faction-monks.json entities/56/settings/npcStates/7/event/quest/5/message #365
 #. NPC cratos
@@ -9026,7 +9024,7 @@ msgstr "[asiente]"
 #: data/maps/bergen/inner-faction-monks.json+entities/56/settings/npcStates/7/event/quest/6/message+%23551
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/56/settings/npcStates/7/event/quest/6/message"
 msgid "Now that you have beaten even the highest of challenges of our order, there is nothing left for me to teach you."
-msgstr ""
+msgstr "Ahora que has completado hasta el último desafío de nuestra orden, no me queda nada más que enseñarte."
 
 #. data/maps/bergen/inner-faction-monks.json entities/56/settings/npcStates/7/event/quest/7/message #355
 #. NPC cratos
@@ -9044,7 +9042,7 @@ msgstr "..."
 #: data/maps/bergen/inner-faction-monks.json+entities/56/settings/npcStates/7/event/quest/8/message+%23552
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/56/settings/npcStates/7/event/quest/8/message"
 msgid "Keep your light in this state of perfection and there will never be a challenge for you to fear."
-msgstr ""
+msgstr "Mantén tu luz en ese estado de perfección y nunca más se te presentará un desafío que temas."
 
 #. data/maps/bergen/inner-faction-monks.json entities/56/settings/npcStates/7/event/quest/9/message #553
 #. NPC cratos
@@ -9053,7 +9051,7 @@ msgstr ""
 #: data/maps/bergen/inner-faction-monks.json+entities/56/settings/npcStates/7/event/quest/9/message+%23553
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/56/settings/npcStates/7/event/quest/9/message"
 msgid "All our caves will remain open for more practice, if you so desire.\\. But for now, farewell."
-msgstr ""
+msgstr "Todas nuestras cuevas seguirán abiertas para que practiques más si así lo deseas.\\. Pero por ahora, hasta pronto."
 
 #. data/maps/bergen/inner-faction-monks.json entities/56/settings/npcStates/7/event/quest/10/message #392
 #. NPC cratos
@@ -9071,7 +9069,7 @@ msgstr "¡Adiós!"
 #: data/maps/bergen/inner-faction-monks.json+entities/56/settings/npcStates/8/event/1/name+%23549
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/56/settings/npcStates/8/event/1/name"
 msgid "Cratos"
-msgstr ""
+msgstr "Cratos"
 
 #. data/maps/bergen/inner-faction-monks.json entities/56/settings/npcStates/8/event/3/message #539
 #. NPC cratos
@@ -9087,7 +9085,7 @@ msgstr "..."
 #: data/maps/bergen/inner-faction-monks.json+entities/58/settings/analyzable/text+%23316
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/58/settings/analyzable/text"
 msgid "Hasouk"
-msgstr ""
+msgstr "Hasouk"
 
 #. data/maps/bergen/inner-faction-monks.json entities/58/settings/npcStates/0/event/1/name #436
 #. NPC hasouk
@@ -9095,7 +9093,7 @@ msgstr ""
 #: data/maps/bergen/inner-faction-monks.json+entities/58/settings/npcStates/0/event/1/name+%23436
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/58/settings/npcStates/0/event/1/name"
 msgid "Hasouk"
-msgstr ""
+msgstr "Hasouk"
 
 #. data/maps/bergen/inner-faction-monks.json entities/58/settings/npcStates/0/event/3/message #403
 #. NPC hasouk
@@ -9103,7 +9101,7 @@ msgstr ""
 #: data/maps/bergen/inner-faction-monks.json+entities/58/settings/npcStates/0/event/3/message+%23403
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/58/settings/npcStates/0/event/3/message"
 msgid "Greetings, \\v[lore.title.seeker].\\. Why not take a rest on a comfortable pillow and ponder on the beauty of existence?"
-msgstr ""
+msgstr "Saludos, \\v[lore.title.seeker].\\. ¿Quieres tomar un descanso en una cómoda almohada y reflexionar sobre la belleza de la existencia?"
 
 #. data/maps/bergen/inner-faction-monks.json entities/58/settings/npcStates/1/event/quest/1/name #437
 #. NPC hasouk
@@ -9112,7 +9110,7 @@ msgstr ""
 #: data/maps/bergen/inner-faction-monks.json+entities/58/settings/npcStates/1/event/quest/1/name+%23437
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/58/settings/npcStates/1/event/quest/1/name"
 msgid "Hasouk"
-msgstr ""
+msgstr "Hasouk"
 
 #. data/maps/bergen/inner-faction-monks.json entities/58/settings/npcStates/1/event/quest/3/message #448
 #. NPC hasouk
@@ -9500,7 +9498,7 @@ msgstr "Regresa a la cueva y enfrenta los desafíos."
 #: data/maps/bergen/inner-faction-monks.json+entities/58/settings/npcStates/6/event/4/thenStep/0/message+%23542
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/58/settings/npcStates/6/event/4/thenStep/0/message"
 msgid "To solve the challenge without guarding you have to cast your shield away at the sign inside."
-msgstr ""
+msgstr "Para resolver este desafío sin defensa, tienes que dejar tu escudo donde está el letrero adentro."
 
 #. data/maps/bergen/inner-faction-monks.json entities/58/settings/npcStates/6/event/5/message #543
 #. NPC hasouk
@@ -9518,7 +9516,7 @@ msgstr "[asiente]"
 #: data/maps/bergen/inner-faction-monks.json+entities/58/settings/npcStates/7/event/quest/1/name+%23445
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/58/settings/npcStates/7/event/quest/1/name"
 msgid "Hasouk"
-msgstr ""
+msgstr "Hasouk"
 
 #. data/maps/bergen/inner-faction-monks.json entities/58/settings/npcStates/7/event/quest/3/message #545
 #. NPC hasouk
@@ -9527,7 +9525,7 @@ msgstr ""
 #: data/maps/bergen/inner-faction-monks.json+entities/58/settings/npcStates/7/event/quest/3/message+%23545
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/58/settings/npcStates/7/event/quest/3/message"
 msgid "I see you were successful once again."
-msgstr ""
+msgstr "Veo que lo has logrado una vez más."
 
 #. data/maps/bergen/inner-faction-monks.json entities/58/settings/npcStates/7/event/quest/4/message #546
 #. NPC hasouk
@@ -9545,7 +9543,7 @@ msgstr "[asiente]"
 #: data/maps/bergen/inner-faction-monks.json+entities/58/settings/npcStates/7/event/quest/5/message+%23366
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/58/settings/npcStates/7/event/quest/5/message"
 msgid "You have now solved every one of my trials.\\. Impressive."
-msgstr ""
+msgstr "Has completado cada una de mis pruebas.\\. Impresionante."
 
 #. data/maps/bergen/inner-faction-monks.json entities/58/settings/npcStates/7/event/quest/6/message #547
 #. NPC hasouk
@@ -9563,7 +9561,7 @@ msgstr "..."
 #: data/maps/bergen/inner-faction-monks.json+entities/58/settings/npcStates/7/event/quest/7/message+%23368
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/58/settings/npcStates/7/event/quest/7/message"
 msgid "There is nothing left for me that could challenge you, though the cave will stay open for you to perfect yourself."
-msgstr ""
+msgstr "Ya no me queda nada que pueda ser un desafío para ti, aunque la cueva seguirá abierta para que puedas perfeccionarte."
 
 #. data/maps/bergen/inner-faction-monks.json entities/58/settings/npcStates/7/event/quest/8/message #548
 #. NPC hasouk
@@ -9581,7 +9579,7 @@ msgstr "¡Adiós!"
 #: data/maps/bergen/inner-faction-monks.json+entities/58/settings/npcStates/8/event/1/name+%23446
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/58/settings/npcStates/8/event/1/name"
 msgid "Hasouk"
-msgstr ""
+msgstr "Hasouk"
 
 #. data/maps/bergen/inner-faction-monks.json entities/58/settings/npcStates/8/event/3/message #387
 #. NPC hasouk
@@ -9590,14 +9588,14 @@ msgstr ""
 #: data/maps/bergen/inner-faction-monks.json+entities/58/settings/npcStates/8/event/3/message+%23387
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/58/settings/npcStates/8/event/3/message"
 msgid "Greetings, \\v[lore.title.seeker].\\. Why not take a rest on a comfortable pillow and ponder on the beauty of existence?"
-msgstr ""
+msgstr "Saludos, \\v[lore.title.seeker].\\. ¿Quieres tomar un descanso en una cómoda almohada y reflexionar sobre la belleza de la existencia?"
 
 #. data/maps/bergen/inner-faction-monks.json entities/59/settings/teleportLabel #12
 #. TeleportField trial_cave-1 SPAWN IF map.quest-1-teleporter
 #: data/maps/bergen/inner-faction-monks.json+entities/59/settings/teleportLabel+%2312
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/59/settings/teleportLabel"
 msgid "Enter the \\c[3]Cave of Aspiration\\c[0]"
-msgstr ""
+msgstr "Entrar a la \\c[3]Cueva de la Aspiración\\c[0]"
 
 #. data/maps/bergen/inner-faction-monks.json entities/59/settings/blockEvent/2/text #377
 #. TeleportField trial_cave-1 SPAWN IF map.quest-1-teleporter
@@ -9612,14 +9610,14 @@ msgstr "¡Acceso denegado!"
 #: data/maps/bergen/inner-faction-monks.json+entities/92/settings/analyzable/text+%23251
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/92/settings/analyzable/text"
 msgid "Guard"
-msgstr ""
+msgstr "Guardia"
 
 #. data/maps/bergen/inner-faction-monks.json entities/102/settings/teleportLabel #457
 #. TeleportField trial_cave-3 SPAWN IF map.quest-3-teleporter
 #: data/maps/bergen/inner-faction-monks.json+entities/102/settings/teleportLabel+%23457
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/102/settings/teleportLabel"
 msgid "Enter the \\c[3]Cave of Ascension\\c[0]"
-msgstr ""
+msgstr "Entrar a la \\c[3]Cueva de la Ascensión\\c[0]"
 
 #. data/maps/bergen/inner-faction-monks.json entities/102/settings/blockEvent/2/text #458
 #. TeleportField trial_cave-3 SPAWN IF map.quest-3-teleporter
@@ -9634,7 +9632,7 @@ msgstr "¡Acceso denegado!"
 #: data/maps/bergen/inner-questhub-0.json+entities/102/settings/analyzable/text+%2344
 msgctxt "data/maps/bergen/inner-questhub-0.json//entities/102/settings/analyzable/text"
 msgid "Mayor"
-msgstr ""
+msgstr "Alcalde"
 
 #. data/maps/bergen/inner-questhub-0.json entities/102/settings/npcStates/0/event/2/message #45
 #. NPC mayor
@@ -9642,7 +9640,7 @@ msgstr ""
 #: data/maps/bergen/inner-questhub-0.json+entities/102/settings/npcStates/0/event/2/message+%2345
 msgctxt "data/maps/bergen/inner-questhub-0.json//entities/102/settings/npcStates/0/event/2/message"
 msgid "Dear Seeker, thanks for listening to my speech."
-msgstr ""
+msgstr "Estimada Buscadora, gracias por escuchar mi discurso."
 
 #. data/maps/bergen/inner-questhub-0.json entities/102/settings/npcStates/0/event/3/message #46
 #. NPC mayor
@@ -9650,7 +9648,7 @@ msgstr ""
 #: data/maps/bergen/inner-questhub-0.json+entities/102/settings/npcStates/0/event/3/message+%2346
 msgctxt "data/maps/bergen/inner-questhub-0.json//entities/102/settings/npcStates/0/event/3/message"
 msgid "If you want to help us in recovering materials and documentation from the Temple Mine, please speak with the \\c[3]advisors\\c[0] on the upper floor."
-msgstr ""
+msgstr "Si quieres ayudarnos a recuperar los materiales y la documentación del Templo Mina, habla con los \\c[3]tutores\\c[0] en el piso superior, por favor."
 
 #. data/maps/bergen/inner-questhub-0.json entities/102/settings/npcStates/0/event/4/message #47
 #. NPC mayor
@@ -12314,7 +12312,7 @@ msgstr ""
 #: data/maps/bergen/mine-entrance.json+entities/264/settings/npcStates/6/event/4/elseStep/3/thenStep/0/message+%23367
 msgctxt "data/maps/bergen/mine-entrance.json//entities/264/settings/npcStates/6/event/4/elseStep/3/thenStep/0/message"
 msgid "To solve the extra frosty challenge you have to activate it at the sign inside."
-msgstr ""
+msgstr "Para resolver el desafío extra congelado, debes activarlo donde está el letrero adentro."
 
 #. data/maps/bergen/mine-entrance.json entities/264/settings/npcStates/6/event/4/elseStep/4/message #357
 #. NPC aisy
