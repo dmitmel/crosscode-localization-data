@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.1-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-14 01:09+0000\n"
-"PO-Revision-Date: 2022-01-06 00:10+0000\n"
+"PO-Revision-Date: 2022-01-07 05:10+0000\n"
 "Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.crosscode.ru/projects/crosscode/database/es/>\n"
 "Language: es_ES\n"
@@ -1750,7 +1750,7 @@ msgstr "Referencias de Otoño"
 #: data/database.json+achievements/landmarks-autumn/description+%2313475
 msgctxt "data/database.json//achievements/landmarks-autumn/description"
 msgid "\\c[3]Find all Landmarks\\c[0] in Autumn's Rise, Rookie Harbor and Autumn's Fall."
-msgstr "\\c[3]Encuentra todos los Puntos de Referencia\\c[0] en el Amanecer del Otoño, Rookie Harbor y el Anochecer del Otoño."
+msgstr "\\c[3]Encuentra todos los Puntos de Referencia\\c[0] en el Amanecer del Otoño, el Puerto de los Principiantes y el Anochecer del Otoño."
 
 #. data/database.json achievements/landmarks-bergen/name #13482
 #: data/database.json+achievements/landmarks-bergen/name+%2313482
@@ -2400,7 +2400,7 @@ msgstr "Salida Oeste"
 #: data/database.json+areas/autumn-area/landmarks/start/description+%23273
 msgctxt "data/database.json//areas/autumn-area/landmarks/start/description"
 msgid "Western Exit leading to Rookie Harbor."
-msgstr "Salida Oeste dirigiendo a Rookie Harbor"
+msgstr "Salida Oeste dirigiendo al Puerto de los Principiantes"
 
 #. data/database.json areas/autumn-area/landmarks/end/name #251
 #: data/database.json+areas/autumn-area/landmarks/end/name+%23251
@@ -2568,7 +2568,7 @@ msgstr "Un área rural dirigiendo al frío pueblo de Bergen."
 #: data/database.json+areas/bergen-trails/landmarks/hermit/name+%23325
 msgctxt "data/database.json//areas/bergen-trails/landmarks/hermit/name"
 msgid "Hermit's House"
-msgstr "Casa del Ermitaño"
+msgstr "Hogar del Ermitaño"
 
 #. data/database.json areas/bergen-trails/landmarks/hermit/description #326
 #: data/database.json+areas/bergen-trails/landmarks/hermit/description+%23326
@@ -2628,13 +2628,13 @@ msgstr "Anteriormente una Posada, este punto de referencia ahora sirve como libr
 #: data/database.json+areas/bergen/landmarks/south/name+%23285
 msgctxt "data/database.json//areas/bergen/landmarks/south/name"
 msgid "South Checkpoint"
-msgstr "Puesto de Control Sur"
+msgstr "Punto de Control Sur"
 
 #. data/database.json areas/bergen/landmarks/south/description #286
 #: data/database.json+areas/bergen/landmarks/south/description+%23286
 msgctxt "data/database.json//areas/bergen/landmarks/south/description"
 msgid "Checkpoint for tired travelers who just finished the climb on \\v[area.bergen-trails.name]."
-msgstr "Puesto de Control para viajeros cansados que acaban de terminar de trepar el \\v[area.bergen-trails.name]"
+msgstr "Punto de Control para viajeros cansados que acaban de terminar de trepar el \\v[area.bergen-trails.name]"
 
 #. data/database.json areas/cargo-ship/name #242
 #. IF plot.line >= 15000
@@ -13619,7 +13619,7 @@ msgstr "¡Hola!"
 #: data/database.json+commonEvents/emilie-contact/event/32/thenStep/1/message+%2311578
 msgctxt "data/database.json//commonEvents/emilie-contact/event/32/thenStep/1/message"
 msgid "Lea, just meet me and Tronny at \\c[3]Rookie Harbor Center\\c[0]! We'll be waiting next to the \\c[3]fountain\\c[0]!"
-msgstr "Lea, ¡solo encuéntrame a mí y a Tronny en el \\c[3]Centro de Rookie Harbor\\c[0]! ¡Estaremos esperando al lado de la \\c[3]fuente\\c[0]!"
+msgstr "Lea, ¡tan solo reúnete con Tronny y yo en el \\c[3]Centro del Puerto de los Principiantes\\c[0]! ¡Estaremos esperando al lado de la \\c[3]fuente\\c[0]!"
 
 #. data/database.json commonEvents/emilie-contact/event/33/thenStep/0/message #14676
 #. IF plot.line >= 7000
@@ -14161,7 +14161,7 @@ msgstr "¡Bonjour Lea! ¡Tronny y yo estamos esperando en la \\c[3]estatua\\c[0]
 #: data/database.json+commonEvents/emilie-join/event/14/thenStep/0/message+%2311925
 msgctxt "data/database.json//commonEvents/emilie-join/event/14/thenStep/0/message"
 msgid "Lea, just meet me and Tronny at \\c[3]Rookie Harbor Center\\c[0]! We'll be waiting next to the \\c[3]fountain\\c[0]!"
-msgstr "Lea, ¡solo encuéntrame a mí y a Tronny en el \\c[3]Centro de Rookie Harbor\\c[0]! ¡Estaremos esperando al lado de la \\c[3]fuente\\c[0]!"
+msgstr "Lea, ¡tan solo reúnete con Tronny y yo en el \\c[3]Centro del Puerto de los Principiantes\\c[0]! ¡Estaremos esperando al lado de la \\c[3]fuente\\c[0]!"
 
 #. data/database.json commonEvents/emilie-join/event/15/thenStep/0/message #12925
 #. IF plot.line >= 4750 && plot.line < 4900
@@ -15073,7 +15073,7 @@ msgstr "¡Hola!"
 #: data/database.json+commonEvents/glasses-contact/event/23/thenStep/1/message+%2311926
 msgctxt "data/database.json//commonEvents/glasses-contact/event/23/thenStep/1/message"
 msgid "Hello Lea! Emilie and I are waiting for you at \\c[3]Rookie Harbor Center\\c[0], right next to the \\c[3]fountain\\c[0]!"
-msgstr "¡Hola Lea! ¡Emilie y yo te estamos esperando en el \\c[3]Centro de Rookie Harbor\\c[0], justo al lado de la \\c[3]fuente\\c[0]!"
+msgstr "¡Hola Lea! ¡Emilie y yo te estamos esperando en el \\c[3]Centro del Puerto de los Principiantes\\c[0], justo al lado de la \\c[3]fuente\\c[0]!"
 
 #. data/database.json commonEvents/glasses-contact/event/24/thenStep/0/message #14752
 #. IF plot.line >= 7000
@@ -15395,7 +15395,7 @@ msgstr "¡Hola Lea! ¡Te estamos esperando en la \\c[3]estatua\\c[0] en el \\c[3
 #: data/database.json+commonEvents/glasses-join/event/14/thenStep/0/message+%2311927
 msgctxt "data/database.json//commonEvents/glasses-join/event/14/thenStep/0/message"
 msgid "Hello Lea! Emilie and me are waiting for you at \\c[3]Rookie Harbor Center\\c[0], right next to the \\c[3]fountain\\c[0]!"
-msgstr "¡Hola Lea! ¡Emilie y yo te estamos esperando en el \\c[3]Centro de Rookie Harbor\\c[0], justo al lado de la \\c[3]fuente\\c[0]!"
+msgstr "¡Hola Lea! ¡Emilie y yo te estamos esperando en el \\c[3]Centro del Puerto de los Principiantes\\c[0], justo al lado de la \\c[3]fuente\\c[0]!"
 
 #. data/database.json commonEvents/glasses-join/event/15/0_0/0/message #10989
 #. SELECT_RANDOM
@@ -17446,7 +17446,7 @@ msgstr "También te sería útil mejorar tu equipamiento antes de la raid."
 #: data/database.json+commonEvents/schneider-contact/event/17/thenStep/4/thenStep/4/message+%2315000
 msgctxt "data/database.json//commonEvents/schneider-contact/event/17/thenStep/4/thenStep/4/message"
 msgid "You should check the \\c[3]new offers\\c[0] in Rookie Harbor."
-msgstr "Deberías chequear los \\c[3]nuevos objetos\\c[0] en Rookie Harbor."
+msgstr "Deberías chequear los \\c[3]nuevos objetos\\c[0] en el Puerto de los Principiantes."
 
 #. data/database.json commonEvents/schneider-contact/event/17/thenStep/4/thenStep/5/message #15001
 #. IF plot.line >= 7000
@@ -23130,9 +23130,9 @@ msgid ""
 "\n"
 "You can visit the \\c[3]Info Hub\\c[0] in Rookie Harbor to reset your circuits."
 msgstr ""
-"¡Ahora puedes gastar \\c[3]\\v[item.428.name]\\c[0] para resetear \\c[3]circuitos individuales\\c[0]!\n"
+"¡Ahora puedes usar los \\c[3]\\v[item.428.name]\\c[0] para resetear \\c[3]circuitos individuales\\c[0]!\n"
 "\n"
-"Ahora puedes visitir el \\c[3]Centro de Información\\c[0] en Rookie Harbor para resetear tus circuitos."
+"Puedes visitar el \\c[3]Centro de Información\\c[0] en el Puerto de los Principiantes para resetear tus circuitos."
 
 #. data/database.json commonEvents/circuitOverride/event/7/thenStep/13/object #16920
 #. IF !g.gotCircuitOverride && !system.debug
@@ -39692,7 +39692,7 @@ msgstr "SkaterBoi"
 #: data/database.json+quests/railing-rider-1/description+%23119
 msgctxt "data/database.json//quests/railing-rider-1/description"
 msgid "A Man in \\c[3]Rookie Harbor\\c[0] challenged you to beat his challenge. Go ride those railings and show him what you got!"
-msgstr "Un hombre en \\c[3]Rookie Harbor\\c[0] te retó a completar su desafío. Corre por esas barandas y ¡demúestrale de lo que eres capaz!"
+msgstr "Un hombre en el \\c[3]Puerto de los Principiantes\\c[0] te retó a completar su desafío. ¡Corre por esas barandas y demuéstrale de lo que eres capaz!"
 
 #. data/database.json quests/railing-rider-1/briefing #120
 #: data/database.json+quests/railing-rider-1/briefing+%23120
@@ -39734,7 +39734,7 @@ msgstr "Refrescante Arnold"
 #: data/database.json+quests/ice-cream-hype/description+%233541
 msgctxt "data/database.json//quests/ice-cream-hype/description"
 msgid "The respectable Ice Cream Dealer \\c[3]Frosty Arnold\\c[0] in Rookie Harbor wants you to collect some Bergen Ice from Bergen Trails for him. \n"
-msgstr "El respetado Distribuidor de Helados de Rookie Harbor, \\c[3]Refrescante Arnold\\c[0], quiere que recojas para él Hielo de Bergen del Sendero de Bergen. \n"
+msgstr "El respetado Distribuidor de Helados del Puerto de los Principiantes, el \\c[3]Refrescante Arnold\\c[0], quiere que recojas un poco de \"Hielo de Bergen\" en el Sendero de Bergen. \n"
 
 #. data/database.json quests/ice-cream-hype/briefing #10787
 #: data/database.json+quests/ice-cream-hype/briefing+%2310787
