@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.1-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-14 01:09+0000\n"
-"PO-Revision-Date: 2022-01-08 09:00+0000\n"
+"PO-Revision-Date: 2022-01-08 20:16+0000\n"
 "Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.crosscode.ru/projects/crosscode/heat/es/>\n"
 "Language: es_ES\n"
@@ -20,7 +20,7 @@ msgstr ""
 #: data/maps/heat/caves/cliff-cave-01.json+entities/243/settings/condAnims/0/interact/hoverText+%2383
 msgctxt "data/maps/heat/caves/cliff-cave-01.json//entities/243/settings/condAnims/0/interact/hoverText"
 msgid "Henry's Data Probe"
-msgstr ""
+msgstr "Sonda de Información de Henry"
 
 #. data/maps/heat/caves/cliff-cave-01.json entities/243/settings/condAnims/0/interact/event/0/text #85
 #. Prop probe SPAWN IF quest.trailblaze-maroon.started
@@ -29,7 +29,7 @@ msgstr ""
 #: data/maps/heat/caves/cliff-cave-01.json+entities/243/settings/condAnims/0/interact/event/0/text+%2385
 msgctxt "data/maps/heat/caves/cliff-cave-01.json//entities/243/settings/condAnims/0/interact/event/0/text"
 msgid "Retrieving Data"
-msgstr ""
+msgstr "Leyendo Información"
 
 #. data/maps/heat/caves/cliff-cave-01.json entities/243/settings/condAnims/0/interact/event/16/object #88
 #. Prop probe SPAWN IF quest.trailblaze-maroon.started
@@ -45,14 +45,14 @@ msgstr "\\c[3]\\v[item.347.name]\\c[0]"
 #: data/maps/heat/caves/cliff-cave-01.json+entities/244/settings/text+%2389
 msgctxt "data/maps/heat/caves/cliff-cave-01.json//entities/244/settings/text"
 msgid "A data probe installed by a player for Henry."
-msgstr ""
+msgstr "Una sonda de información instalada por un jugador para Henry."
 
 #. data/maps/heat/caves/cliff-cave-01.json entities/245/settings/text #90
 #. Analyzable SPAWN IF quest.trailblaze-maroon-4.solved
 #: data/maps/heat/caves/cliff-cave-01.json+entities/245/settings/text+%2390
 msgctxt "data/maps/heat/caves/cliff-cave-01.json//entities/245/settings/text"
 msgid "A data probe installed by a player for Henry. The data has been retrieved."
-msgstr ""
+msgstr "Una sonda de información instalada por un jugador para Henry. La información ha sido recolectada."
 
 #. data/maps/heat/caves/cliff-cave-01.json entities/248/settings/event/4/message #103
 #. EventTrigger Addi START IF map.addiEvent
@@ -60,7 +60,7 @@ msgstr ""
 #: data/maps/heat/caves/cliff-cave-01.json+entities/248/settings/event/4/message+%23103
 msgctxt "data/maps/heat/caves/cliff-cave-01.json//entities/248/settings/event/4/message"
 msgid "Ah, you there."
-msgstr ""
+msgstr "Oye, tú."
 
 #. data/maps/heat/caves/cliff-cave-01.json entities/248/settings/event/13/message #92
 #. EventTrigger Addi START IF map.addiEvent
@@ -68,7 +68,7 @@ msgstr ""
 #: data/maps/heat/caves/cliff-cave-01.json+entities/248/settings/event/13/message+%2392
 msgctxt "data/maps/heat/caves/cliff-cave-01.json//entities/248/settings/event/13/message"
 msgid "I am terribly sorry to disturb your experience, but I have questions of the utmost importance."
-msgstr ""
+msgstr "Mis disculpas por las molestias, pero tengo que hacerte algunas importantísimas preguntas."
 
 #. data/maps/heat/caves/cliff-cave-01.json entities/248/settings/event/14/message #93
 #. EventTrigger Addi START IF map.addiEvent
@@ -84,7 +84,7 @@ msgstr "¿...?"
 #: data/maps/heat/caves/cliff-cave-01.json+entities/248/settings/event/15/message+%2394
 msgctxt "data/maps/heat/caves/cliff-cave-01.json//entities/248/settings/event/15/message"
 msgid "But where are my manners?"
-msgstr ""
+msgstr "Ah, ¿dónde están mis modales?"
 
 #. data/maps/heat/caves/cliff-cave-01.json entities/248/settings/event/16/message #95
 #. EventTrigger Addi START IF map.addiEvent
@@ -92,7 +92,7 @@ msgstr ""
 #: data/maps/heat/caves/cliff-cave-01.json+entities/248/settings/event/16/message+%2395
 msgctxt "data/maps/heat/caves/cliff-cave-01.json//entities/248/settings/event/16/message"
 msgid "My Name is \\c[3]Baxton Addi\\c[0]. I'm a moderator and supervisor for \\c[3]CrossWorlds\\c[0]. May I ask for your name?"
-msgstr ""
+msgstr "Me llamo \\c[3]Baxton Addi\\c[0]. Soy un moderador y supervisor de \\c[3]CrossWorlds\\c[0]. ¿Podría saber tu nombre?"
 
 #. data/maps/heat/caves/cliff-cave-01.json entities/248/settings/event/17/name #115
 #. EventTrigger Addi START IF map.addiEvent
@@ -124,7 +124,7 @@ msgstr "Lea."
 #: data/maps/heat/caves/cliff-cave-01.json+entities/248/settings/event/20/message+%2398
 msgctxt "data/maps/heat/caves/cliff-cave-01.json//entities/248/settings/event/20/message"
 msgid "A lovely name. But let us get to the matter at hand, shall we?"
-msgstr ""
+msgstr "Muy lindo. Pero vayamos al grano, ¿de acuerdo?"
 
 #. data/maps/heat/caves/cliff-cave-01.json entities/248/settings/event/21/message #99
 #. EventTrigger Addi START IF map.addiEvent
@@ -132,7 +132,7 @@ msgstr ""
 #: data/maps/heat/caves/cliff-cave-01.json+entities/248/settings/event/21/message+%2399
 msgctxt "data/maps/heat/caves/cliff-cave-01.json//entities/248/settings/event/21/message"
 msgid "I was just inspecting the area to ensure all was in proper order."
-msgstr ""
+msgstr "Estaba revisando este área, asegurándome de que todo esté en orden."
 
 #. data/maps/heat/caves/cliff-cave-01.json entities/248/settings/event/22/message #100
 #. EventTrigger Addi START IF map.addiEvent
@@ -140,7 +140,7 @@ msgstr ""
 #: data/maps/heat/caves/cliff-cave-01.json+entities/248/settings/event/22/message+%23100
 msgctxt "data/maps/heat/caves/cliff-cave-01.json//entities/248/settings/event/22/message"
 msgid "And I came across this object here."
-msgstr ""
+msgstr "Y me topé con este objeto de aquí."
 
 #. data/maps/heat/caves/cliff-cave-01.json entities/248/settings/event/25/message #101
 #. EventTrigger Addi START IF map.addiEvent
@@ -148,7 +148,7 @@ msgstr ""
 #: data/maps/heat/caves/cliff-cave-01.json+entities/248/settings/event/25/message+%23101
 msgctxt "data/maps/heat/caves/cliff-cave-01.json//entities/248/settings/event/25/message"
 msgid "Now, this peculiar little bugger does not show up in my database."
-msgstr ""
+msgstr "Bien, esta porquería no aparece en ningún lado en mi base de datos."
 
 #. data/maps/heat/caves/cliff-cave-01.json entities/248/settings/event/26/message #102
 #. EventTrigger Addi START IF map.addiEvent
@@ -156,7 +156,7 @@ msgstr ""
 #: data/maps/heat/caves/cliff-cave-01.json+entities/248/settings/event/26/message+%23102
 msgctxt "data/maps/heat/caves/cliff-cave-01.json//entities/248/settings/event/26/message"
 msgid "All assets in the game world are to be registered to avoid any disturbance of player experience."
-msgstr ""
+msgstr "Todos los objetos del juego están registrados para evitar cualquier tipo de interrupciones en la experiencia del jugador."
 
 #. data/maps/heat/caves/cliff-cave-01.json entities/248/settings/event/29/message #104
 #. EventTrigger Addi START IF map.addiEvent
@@ -164,7 +164,7 @@ msgstr ""
 #: data/maps/heat/caves/cliff-cave-01.json+entities/248/settings/event/29/message+%23104
 msgctxt "data/maps/heat/caves/cliff-cave-01.json//entities/248/settings/event/29/message"
 msgid "Now my humble assumption is that our asset team just missed adding these new items. "
-msgstr ""
+msgstr "Yo quisiera asumir que el problema es que el equipo que se encarga de actualizar la base de datos se ha salteado algunos objetos nuevos. "
 
 #. data/maps/heat/caves/cliff-cave-01.json entities/248/settings/event/30/message #105
 #. EventTrigger Addi START IF map.addiEvent
@@ -172,7 +172,7 @@ msgstr ""
 #: data/maps/heat/caves/cliff-cave-01.json+entities/248/settings/event/30/message+%23105
 msgctxt "data/maps/heat/caves/cliff-cave-01.json//entities/248/settings/event/30/message"
 msgid "A common oversight, I regret to say."
-msgstr ""
+msgstr "Un error bastante común, temo decir."
 
 #. data/maps/heat/caves/cliff-cave-01.json entities/248/settings/event/31/message #106
 #. EventTrigger Addi START IF map.addiEvent
@@ -188,7 +188,7 @@ msgstr "..."
 #: data/maps/heat/caves/cliff-cave-01.json+entities/248/settings/event/32/message+%23107
 msgctxt "data/maps/heat/caves/cliff-cave-01.json//entities/248/settings/event/32/message"
 msgid "Now all I need to know is, if you perhaps are involved in a quest that this object is a part of?"
-msgstr ""
+msgstr "En fin, todo lo que necesito saber es si tú estás involucrada en alguna misión a la que este objeto pertenece."
 
 #. data/maps/heat/caves/cliff-cave-01.json entities/248/settings/event/33/message #108
 #. EventTrigger Addi START IF map.addiEvent
@@ -204,7 +204,7 @@ msgstr "[asiente]"
 #: data/maps/heat/caves/cliff-cave-01.json+entities/248/settings/event/34/message+%23109
 msgctxt "data/maps/heat/caves/cliff-cave-01.json//entities/248/settings/event/34/message"
 msgid "As I thought. This explains a lot. A report must still be made."
-msgstr ""
+msgstr "Eso pensaba. Esto explica mucho. Debo llenar un reporte."
 
 #. data/maps/heat/caves/cliff-cave-01.json entities/248/settings/event/35/message #110
 #. EventTrigger Addi START IF map.addiEvent
@@ -220,7 +220,7 @@ msgstr "..."
 #: data/maps/heat/caves/cliff-cave-01.json+entities/248/settings/event/36/message+%23111
 msgctxt "data/maps/heat/caves/cliff-cave-01.json//entities/248/settings/event/36/message"
 msgid "Thank you for your cooperation, Lady Lea. Farewell."
-msgstr ""
+msgstr "Gracias por su cooperación, Srta. Lea. Hasta luego."
 
 #. data/maps/heat/caves/cliff-cave-01.json entities/248/settings/event/37/message #112
 #. EventTrigger Addi START IF map.addiEvent
@@ -237,7 +237,7 @@ msgstr "¡Adiós!"
 #: data/maps/heat/caves/cliffs-temple-01.json+entities/20/settings/event/0/thenStep/0/message+%237
 msgctxt "data/maps/heat/caves/cliffs-temple-01.json//entities/20/settings/event/0/thenStep/0/message"
 msgid "Another instanced cave..."
-msgstr ""
+msgstr "Otra cueva instanciada..."
 
 #. data/maps/heat/caves/cliffs-temple-01.json entities/20/settings/event/0/thenStep/1/thenStep/0/message #8
 #. EventTrigger firstEntrance
@@ -247,7 +247,7 @@ msgstr ""
 #: data/maps/heat/caves/cliffs-temple-01.json+entities/20/settings/event/0/thenStep/1/thenStep/0/message+%238
 msgctxt "data/maps/heat/caves/cliffs-temple-01.json//entities/20/settings/event/0/thenStep/1/thenStep/0/message"
 msgid "I'm really bad at those..."
-msgstr ""
+msgstr "Se me da muy mal..."
 
 #. data/maps/heat/caves/cliffs-temple-01.json entities/20/settings/event/0/elseStep/0/thenStep/0/message #9
 #. EventTrigger firstEntrance
@@ -257,14 +257,14 @@ msgstr ""
 #: data/maps/heat/caves/cliffs-temple-01.json+entities/20/settings/event/0/elseStep/0/thenStep/0/message+%239
 msgctxt "data/maps/heat/caves/cliffs-temple-01.json//entities/20/settings/event/0/elseStep/0/thenStep/0/message"
 msgid "I'm really bad at these instanced challenges."
-msgstr ""
+msgstr "Soy muy malo en este tipo de desafío."
 
 #. data/maps/heat/caves/cliffs-temple-02.json entities/8/settings/teleportLabel #31
 #. TeleportField asda
 #: data/maps/heat/caves/cliffs-temple-02.json+entities/8/settings/teleportLabel+%2331
 msgctxt "data/maps/heat/caves/cliffs-temple-02.json//entities/8/settings/teleportLabel"
 msgid "Teleport Outside"
-msgstr ""
+msgstr "Salir"
 
 #. data/maps/heat/caves/cliffs-temple-03.json entities/1/settings/condAnims/0/interact/hoverText #13
 #. Prop theChest
@@ -272,7 +272,7 @@ msgstr ""
 #: data/maps/heat/caves/cliffs-temple-03.json+entities/1/settings/condAnims/0/interact/hoverText+%2313
 msgctxt "data/maps/heat/caves/cliffs-temple-03.json//entities/1/settings/condAnims/0/interact/hoverText"
 msgid "Fill Chest"
-msgstr ""
+msgstr "Llenar Cofre"
 
 #. data/maps/heat/caves/cliffs-temple-03.json entities/1/settings/condAnims/1/interact/hoverText #28
 #. Prop theChest
@@ -280,7 +280,7 @@ msgstr ""
 #: data/maps/heat/caves/cliffs-temple-03.json+entities/1/settings/condAnims/1/interact/hoverText+%2328
 msgctxt "data/maps/heat/caves/cliffs-temple-03.json//entities/1/settings/condAnims/1/interact/hoverText"
 msgid "Fill Chest"
-msgstr ""
+msgstr "Llenar Cofre"
 
 #. data/maps/heat/caves/cliffs-temple-03.json entities/1/settings/condAnims/2/interact/hoverText #29
 #. Prop theChest
@@ -288,7 +288,7 @@ msgstr ""
 #: data/maps/heat/caves/cliffs-temple-03.json+entities/1/settings/condAnims/2/interact/hoverText+%2329
 msgctxt "data/maps/heat/caves/cliffs-temple-03.json//entities/1/settings/condAnims/2/interact/hoverText"
 msgid "Fill Chest"
-msgstr ""
+msgstr "Llenar Cofre"
 
 #. data/maps/heat/caves/cliffs-temple-03.json entities/1/settings/condAnims/3/interact/hoverText #30
 #. Prop theChest
@@ -296,7 +296,7 @@ msgstr ""
 #: data/maps/heat/caves/cliffs-temple-03.json+entities/1/settings/condAnims/3/interact/hoverText+%2330
 msgctxt "data/maps/heat/caves/cliffs-temple-03.json//entities/1/settings/condAnims/3/interact/hoverText"
 msgid "Fill Chest"
-msgstr ""
+msgstr "Llenar Cofre"
 
 #. data/maps/heat/caves/cliffs-temple-03.json entities/1/settings/condAnims/5/interact/hoverText #22
 #. Prop theChest
@@ -304,7 +304,7 @@ msgstr ""
 #: data/maps/heat/caves/cliffs-temple-03.json+entities/1/settings/condAnims/5/interact/hoverText+%2322
 msgctxt "data/maps/heat/caves/cliffs-temple-03.json//entities/1/settings/condAnims/5/interact/hoverText"
 msgid "Touch Chest"
-msgstr ""
+msgstr "Tocar Cofre"
 
 #. data/maps/heat/caves/cliffs-temple-03.json entities/8/settings/event/10/message #19
 #. EventTrigger StartFight START IF map.startFight
@@ -320,7 +320,7 @@ msgstr "¡...!"
 #: data/maps/heat/caves/cliffs-temple-03.json+entities/8/settings/event/22/text+%2324
 msgctxt "data/maps/heat/caves/cliffs-temple-03.json//entities/8/settings/event/22/text"
 msgid "NO! Put them back!"
-msgstr ""
+msgstr "¡NO! ¡Devuélvelas!"
 
 #. data/maps/heat/caves/cliffs-temple-03.json entities/8/settings/event/23/text #25
 #. EventTrigger StartFight START IF map.startFight
@@ -328,7 +328,7 @@ msgstr ""
 #: data/maps/heat/caves/cliffs-temple-03.json+entities/8/settings/event/23/text+%2325
 msgctxt "data/maps/heat/caves/cliffs-temple-03.json//entities/8/settings/event/23/text"
 msgid "They are MINE!"
-msgstr ""
+msgstr "¡Son MÍAS!"
 
 #. data/maps/heat/caves/cliffs-temple-03.json entities/8/settings/event/24/text #27
 #. EventTrigger StartFight START IF map.startFight
@@ -336,7 +336,7 @@ msgstr ""
 #: data/maps/heat/caves/cliffs-temple-03.json+entities/8/settings/event/24/text+%2327
 msgctxt "data/maps/heat/caves/cliffs-temple-03.json//entities/8/settings/event/24/text"
 msgid "I will never let you have them."
-msgstr ""
+msgstr "No te dejaré llevártelas."
 
 #. data/maps/heat/caves/cliffs-temple-03.json entities/8/settings/event/38/guiInfo/settings/taskTitle #3
 #. EventTrigger StartFight START IF map.startFight
@@ -345,7 +345,7 @@ msgstr ""
 #: data/maps/heat/caves/cliffs-temple-03.json+entities/8/settings/event/38/guiInfo/settings/taskTitle+%233
 msgctxt "data/maps/heat/caves/cliffs-temple-03.json//entities/8/settings/event/38/guiInfo/settings/taskTitle"
 msgid "Chest"
-msgstr ""
+msgstr "Cofre"
 
 #. data/maps/heat/caves/cliffs-temple-03.json entities/8/settings/event/39/guiInfo/settings/taskTitle #2
 #. EventTrigger StartFight START IF map.startFight
@@ -354,21 +354,21 @@ msgstr ""
 #: data/maps/heat/caves/cliffs-temple-03.json+entities/8/settings/event/39/guiInfo/settings/taskTitle+%232
 msgctxt "data/maps/heat/caves/cliffs-temple-03.json//entities/8/settings/event/39/guiInfo/settings/taskTitle"
 msgid "Coins"
-msgstr ""
+msgstr "Monedas"
 
 #. data/maps/heat/caves/cliffs-temple-03.json entities/24/settings/teleportLabel #31
 #. TeleportField SPAWN IF map.spawnTeli
 #: data/maps/heat/caves/cliffs-temple-03.json+entities/24/settings/teleportLabel+%2331
 msgctxt "data/maps/heat/caves/cliffs-temple-03.json//entities/24/settings/teleportLabel"
 msgid "Teleport Outside"
-msgstr ""
+msgstr "Salir"
 
 #. data/maps/heat/caves/cliffs-temple-03.json entities/25/settings/text #33
 #. Analyzable
 #: data/maps/heat/caves/cliffs-temple-03.json+entities/25/settings/text+%2333
 msgctxt "data/maps/heat/caves/cliffs-temple-03.json//entities/25/settings/text"
 msgid "A chest filled with cursed riches."
-msgstr ""
+msgstr "Un cofre lleno de riquezas malditas."
 
 #. data/maps/heat/caves/maroon-cave-01.json entities/50/settings/event/0/message #1
 #. EventTrigger Ctron Comment START IF tmp.ctronComment
@@ -376,7 +376,7 @@ msgstr ""
 #: data/maps/heat/caves/maroon-cave-01.json+entities/50/settings/event/0/message+%231
 msgctxt "data/maps/heat/caves/maroon-cave-01.json//entities/50/settings/event/0/message"
 msgid "Cave time! ... Wait, there's running water down here?"
-msgstr ""
+msgstr "¡A la cueva!... Espera, ¿hay ríos aquí dentro?"
 
 #. data/maps/heat/caves/maroon-cave-01.json entities/50/settings/event/1/message #2
 #. EventTrigger Ctron Comment START IF tmp.ctronComment
@@ -392,7 +392,7 @@ msgstr "[asiente]"
 #: data/maps/heat/caves/maroon-cave-01.json+entities/50/settings/event/2/message+%237
 msgctxt "data/maps/heat/caves/maroon-cave-01.json//entities/50/settings/event/2/message"
 msgid "That's... weird, considering there are lakes out there. You'd think everything would flood."
-msgstr ""
+msgstr "Qué... extraño. Considerando que hay lagos fuera, uno pensaría que estas cuevas deberían estar inundadas."
 
 #. data/maps/heat/caves/maroon-cave-01.json entities/50/settings/event/3/message #3
 #. EventTrigger Ctron Comment START IF tmp.ctronComment
@@ -400,7 +400,7 @@ msgstr ""
 #: data/maps/heat/caves/maroon-cave-01.json+entities/50/settings/event/3/message+%233
 msgctxt "data/maps/heat/caves/maroon-cave-01.json//entities/50/settings/event/3/message"
 msgid "I suppose you could make it work by carefully crafting the area... somehow?"
-msgstr ""
+msgstr "¿Supongo que puede llegar a funcionar si se diseña con mucho cuidado... de algún modo?"
 
 #. data/maps/heat/caves/maroon-cave-01.json entities/50/settings/event/4/message #6
 #. EventTrigger Ctron Comment START IF tmp.ctronComment
@@ -6591,7 +6591,7 @@ msgid ""
 "\\i[arrow-e] Railway to \\v[area.bergen.name]"
 msgstr ""
 "\\i[arrow-w] Camino hacia \\v[area.heat-village.name]\n"
-"\\i[arrow-e] Riel hacia \\v[area.bergen.name]"
+"\\i[arrow-e] Teleférico hacia \\v[area.bergen.name]"
 
 #. data/maps/heat/path-01-entrance.json entities/307/settings/dialog/0/text #7
 #. XenoDialog
@@ -6599,7 +6599,7 @@ msgstr ""
 #: data/maps/heat/path-01-entrance.json+entities/307/settings/dialog/0/text+%237
 msgctxt "data/maps/heat/path-01-entrance.json//entities/307/settings/dialog/0/text"
 msgid "We finally made it!"
-msgstr ""
+msgstr "¡Lo conseguimos!"
 
 #. data/maps/heat/path-01-entrance.json entities/307/settings/dialog/1/text #8
 #. XenoDialog
@@ -6607,7 +6607,7 @@ msgstr ""
 #: data/maps/heat/path-01-entrance.json+entities/307/settings/dialog/1/text+%238
 msgctxt "data/maps/heat/path-01-entrance.json//entities/307/settings/dialog/1/text"
 msgid "And after the freezing cold in \\v[area.bergen.name] the heat is very welcome."
-msgstr ""
+msgstr "Y después de congelarme en la \\v[area.bergen.name], el calor es más que bienvenido."
 
 #. data/maps/heat/path-01-entrance.json entities/307/settings/dialog/2/text #9
 #. XenoDialog
@@ -6615,7 +6615,7 @@ msgstr ""
 #: data/maps/heat/path-01-entrance.json+entities/307/settings/dialog/2/text+%239
 msgctxt "data/maps/heat/path-01-entrance.json//entities/307/settings/dialog/2/text"
 msgid "Well that's easy for you to say. I'm already sweating..."
-msgstr ""
+msgstr "Habla por ti. Yo ya estoy sudando..."
 
 #. data/maps/heat/path-01-entrance.json entities/307/settings/dialog/3/text #10
 #. XenoDialog
@@ -6623,7 +6623,7 @@ msgstr ""
 #: data/maps/heat/path-01-entrance.json+entities/307/settings/dialog/3/text+%2310
 msgctxt "data/maps/heat/path-01-entrance.json//entities/307/settings/dialog/3/text"
 msgid "Oh come on, you could just turn off the simulation of heat."
-msgstr ""
+msgstr "Oh vamos, tan solo apaga la simulación de temperatura."
 
 #. data/maps/heat/path-01-entrance.json entities/307/settings/dialog/4/text #11
 #. XenoDialog
@@ -6631,7 +6631,7 @@ msgstr ""
 #: data/maps/heat/path-01-entrance.json+entities/307/settings/dialog/4/text+%2311
 msgctxt "data/maps/heat/path-01-entrance.json//entities/307/settings/dialog/4/text"
 msgid "But I don't want to break the immersion..."
-msgstr ""
+msgstr "Pero no quiero romper la inmersión..."
 
 #. data/maps/heat/path-01-entrance.json entities/307/settings/dialog/5/text #12
 #. XenoDialog
@@ -6639,7 +6639,7 @@ msgstr ""
 #: data/maps/heat/path-01-entrance.json+entities/307/settings/dialog/5/text+%2312
 msgctxt "data/maps/heat/path-01-entrance.json//entities/307/settings/dialog/5/text"
 msgid "But this is just... too hot. I might have to."
-msgstr ""
+msgstr "Pero es que hace... demasiado calor. Quizá deba hacerlo."
 
 #. data/maps/heat/path-01-entrance.json entities/313/settings/dialog/0/text #13
 #. XenoDialog
@@ -6647,7 +6647,7 @@ msgstr ""
 #: data/maps/heat/path-01-entrance.json+entities/313/settings/dialog/0/text+%2313
 msgctxt "data/maps/heat/path-01-entrance.json//entities/313/settings/dialog/0/text"
 msgid "Think about it, if we could make such a device..."
-msgstr ""
+msgstr "Piénsalo, si pudiéramos hacer un dispositivo así..."
 
 #. data/maps/heat/path-01-entrance.json entities/313/settings/dialog/1/text #14
 #. XenoDialog
@@ -6655,7 +6655,7 @@ msgstr ""
 #: data/maps/heat/path-01-entrance.json+entities/313/settings/dialog/1/text+%2314
 msgctxt "data/maps/heat/path-01-entrance.json//entities/313/settings/dialog/1/text"
 msgid "We would need to canvas all areas and distribute them to the Seekers."
-msgstr ""
+msgstr "Deberíamos escanear todas las áreas y distribuirlas a los Buscadores."
 
 #. data/maps/heat/path-01-entrance.json entities/313/settings/dialog/2/text #15
 #. XenoDialog
@@ -6663,7 +6663,7 @@ msgstr ""
 #: data/maps/heat/path-01-entrance.json+entities/313/settings/dialog/2/text+%2315
 msgctxt "data/maps/heat/path-01-entrance.json//entities/313/settings/dialog/2/text"
 msgid "Let's bring this up when we meet the boss later."
-msgstr ""
+msgstr "Hablémosle de esto al jefe cuando lo veamos."
 
 #. data/maps/heat/path-01-entrance.json entities/313/settings/dialog/3/text #16
 #. XenoDialog
@@ -6671,7 +6671,7 @@ msgstr ""
 #: data/maps/heat/path-01-entrance.json+entities/313/settings/dialog/3/text+%2316
 msgctxt "data/maps/heat/path-01-entrance.json//entities/313/settings/dialog/3/text"
 msgid "Sure, why not?"
-msgstr ""
+msgstr "Seguro, ¿por qué no?"
 
 #. data/maps/heat/path-01-entrance.json entities/314/settings/npcStates/0/event/2/message #17
 #. NPC a3
@@ -6680,7 +6680,7 @@ msgstr ""
 #: data/maps/heat/path-01-entrance.json+entities/314/settings/npcStates/0/event/2/message+%2317
 msgctxt "data/maps/heat/path-01-entrance.json//entities/314/settings/npcStates/0/event/2/message"
 msgid "Oh hey, Stranger."
-msgstr ""
+msgstr "Oh. Saludos, extraño."
 
 #. data/maps/heat/path-01-entrance.json entities/314/settings/npcStates/0/event/3/message #18
 #. NPC a3
@@ -6698,7 +6698,7 @@ msgstr "¡Hola!"
 #: data/maps/heat/path-01-entrance.json+entities/314/settings/npcStates/0/event/4/message+%2319
 msgctxt "data/maps/heat/path-01-entrance.json//entities/314/settings/npcStates/0/event/4/message"
 msgid "Your first time here?"
-msgstr ""
+msgstr "¿Es tu primera vez aquí?"
 
 #. data/maps/heat/path-01-entrance.json entities/314/settings/npcStates/0/event/5/message #20
 #. NPC a3
@@ -6716,7 +6716,7 @@ msgstr "[asiente]"
 #: data/maps/heat/path-01-entrance.json+entities/314/settings/npcStates/0/event/6/message+%2321
 msgctxt "data/maps/heat/path-01-entrance.json//entities/314/settings/npcStates/0/event/6/message"
 msgid "Hehe, me too! "
-msgstr ""
+msgstr "¡Ja, yo también! "
 
 #. data/maps/heat/path-01-entrance.json entities/314/settings/npcStates/0/event/7/message #22
 #. NPC a3
@@ -6725,7 +6725,7 @@ msgstr ""
 #: data/maps/heat/path-01-entrance.json+entities/314/settings/npcStates/0/event/7/message+%2322
 msgctxt "data/maps/heat/path-01-entrance.json//entities/314/settings/npcStates/0/event/7/message"
 msgid "I'm pretty glad that we get a breather after the \\c[3]Temple Mine\\c[0]. "
-msgstr ""
+msgstr "Qué alivio tener un descanso después del \\c[3]Templo Mina\\c[0]. "
 
 #. data/maps/heat/path-01-entrance.json entities/314/settings/npcStates/0/event/8/message #23
 #. NPC a3
@@ -6734,7 +6734,7 @@ msgstr ""
 #: data/maps/heat/path-01-entrance.json+entities/314/settings/npcStates/0/event/8/message+%2323
 msgctxt "data/maps/heat/path-01-entrance.json//entities/314/settings/npcStates/0/event/8/message"
 msgid "But I can already see new enemies beyond this ravine."
-msgstr ""
+msgstr "Pero desde aquí ya puedo ver nuevos enemigos."
 
 #. data/maps/heat/path-01-entrance.json entities/314/settings/npcStates/0/event/15/message #24
 #. NPC a3
@@ -6743,7 +6743,7 @@ msgstr ""
 #: data/maps/heat/path-01-entrance.json+entities/314/settings/npcStates/0/event/15/message+%2324
 msgctxt "data/maps/heat/path-01-entrance.json//entities/314/settings/npcStates/0/event/15/message"
 msgid "I just hope they act as cute as they look."
-msgstr ""
+msgstr "Espero que sean tan tiernos como parecen."
 
 #. data/maps/heat/path-01-entrance.json entities/314/settings/npcStates/0/event/16/message #25
 #. NPC a3
@@ -6768,7 +6768,7 @@ msgstr "¡Hola, Humano! ¡Te ves confundido!"
 #: data/maps/heat/path-01-entrance.json+entities/315/settings/event/12/message+%2327
 msgctxt "data/maps/heat/path-01-entrance.json//entities/315/settings/event/12/message"
 msgid "You entered \\c[3]Maroon Valley\\c[0], hot-sandy desert and home of us \\c[3]Shad\\c[0]!"
-msgstr "Estás en \\c[3]Valle Maroon\\c[0], ¡caluroso desierto, y hogar a los \\c[3]Shad\\c[0]!"
+msgstr "Estás en \\c[3]Valle Maroon\\c[0], ¡caluroso desierto, y hogar de los \\c[3]Shad\\c[0]!"
 
 #. data/maps/heat/path-01-entrance.json entities/315/settings/event/13/message #28
 #. EventTrigger IntroScene START IF plot.line >= 4300
