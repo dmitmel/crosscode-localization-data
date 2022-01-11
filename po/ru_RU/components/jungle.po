@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.4.1-2\n"
+"Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-14 01:09+0000\n"
-"POT-Revision-Date: 2021-04-14 01:09+0000\n"
+"POT-Creation-Date: 2022-01-11 15:55+0000\n"
+"POT-Revision-Date: 2022-01-11 15:55+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0\n"
+"X-Generator: crosscode-localization-engine 0.0.0 (2168d54 2022-01-11)\n"
 
 #. data/areas/jungle.json name #1
 #: data/areas/jungle.json+name+%231
@@ -2971,21 +2971,21 @@ msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/132/settings/event
 msgid "(Cycle \\v[tmp.spawnCycle]: Spawn Fish-Group!)"
 msgstr "(Цикл \\v[tmp.spawnCycle]: призыв группы рыб!)"
 
-#. data/maps/jungle/caves/questcave-td-1.json entities/134/settings/event/23/text #802
+#. data/maps/jungle/caves/questcave-td-1.json entities/134/settings/event/24/text #802
 #. EventTrigger tdChallengeEnd START IF tmp.tdStarted && ((tmp.tdLife <= 0) || tmp.playerDead || tmp.waveLimitReached) && quest.jungleAdv-1-turret_defense_1.solved
 #. SHOW_AR_MSG
-#: data/maps/jungle/caves/questcave-td-1.json+entities/134/settings/event/23/text+%23802
-msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/134/settings/event/23/text"
+#: data/maps/jungle/caves/questcave-td-1.json+entities/134/settings/event/24/text+%23802
+msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/134/settings/event/24/text"
 msgid "SIMULATION OVER!"
 msgstr "СИМУЛЯЦИЯ ЗАВЕРШЕНА!"
 
-#. data/maps/jungle/caves/questcave-td-1.json entities/134/settings/event/40/thenStep/0/thenStep/2/text #829
+#. data/maps/jungle/caves/questcave-td-1.json entities/134/settings/event/41/thenStep/0/thenStep/2/text #829
 #. EventTrigger tdChallengeEnd START IF tmp.tdStarted && ((tmp.tdLife <= 0) || tmp.playerDead || tmp.waveLimitReached) && quest.jungleAdv-1-turret_defense_1.solved
 #. IF tmp.tdWaveLimit >= 1
 #. IF tmp.waveLimitReached
 #. SHOW_BOARD_MSG
-#: data/maps/jungle/caves/questcave-td-1.json+entities/134/settings/event/40/thenStep/0/thenStep/2/text+%23829
-msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/134/settings/event/40/thenStep/0/thenStep/2/text"
+#: data/maps/jungle/caves/questcave-td-1.json+entities/134/settings/event/41/thenStep/0/thenStep/2/text+%23829
+msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/134/settings/event/41/thenStep/0/thenStep/2/text"
 msgid ""
 "\\c[3]Survived \\v[tmp.tdWave] waves!\\c[0]\n"
 "\n"
@@ -2995,41 +2995,32 @@ msgstr ""
 "\n"
 "Получено \\c[3]Турель-жетонов: \\v[tmp.tdRewards]\\c[0]!"
 
-#. data/maps/jungle/caves/questcave-td-1.json entities/134/settings/event/40/thenStep/0/elseStep/0/text #806
+#. data/maps/jungle/caves/questcave-td-1.json entities/134/settings/event/41/thenStep/0/elseStep/0/text #806
 #. EventTrigger tdChallengeEnd START IF tmp.tdStarted && ((tmp.tdLife <= 0) || tmp.playerDead || tmp.waveLimitReached) && quest.jungleAdv-1-turret_defense_1.solved
 #. IF tmp.tdWaveLimit >= 1
 #. IF NOT tmp.waveLimitReached
 #. SHOW_BOARD_MSG
-#: data/maps/jungle/caves/questcave-td-1.json+entities/134/settings/event/40/thenStep/0/elseStep/0/text+%23806
-msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/134/settings/event/40/thenStep/0/elseStep/0/text"
+#: data/maps/jungle/caves/questcave-td-1.json+entities/134/settings/event/41/thenStep/0/elseStep/0/text+%23806
+msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/134/settings/event/41/thenStep/0/elseStep/0/text"
 msgid "\\c[1]Failure on Wave \\v[tmp.tdWave]!\\c[0]"
 msgstr "\\c[1]Провал на волне \\v[tmp.tdWave]!\\c[0]"
 
-#. data/maps/jungle/caves/questcave-td-1.json entities/134/settings/event/40/elseStep/0/value #807
-#. EventTrigger tdChallengeEnd START IF tmp.tdStarted && ((tmp.tdLife <= 0) || tmp.playerDead || tmp.waveLimitReached) && quest.jungleAdv-1-turret_defense_1.solved
-#. IF NOT tmp.tdWaveLimit >= 1
-#. CHANGE_VAR_LANG
-#: data/maps/jungle/caves/questcave-td-1.json+entities/134/settings/event/40/elseStep/0/value+%23807
-msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/134/settings/event/40/elseStep/0/value"
-msgid " "
-msgstr ""
-
-#. data/maps/jungle/caves/questcave-td-1.json entities/134/settings/event/40/elseStep/1/thenStep/2/value #804
+#. data/maps/jungle/caves/questcave-td-1.json entities/134/settings/event/41/elseStep/1/thenStep/2/value #804
 #. EventTrigger tdChallengeEnd START IF tmp.tdStarted && ((tmp.tdLife <= 0) || tmp.playerDead || tmp.waveLimitReached) && quest.jungleAdv-1-turret_defense_1.solved
 #. IF NOT tmp.tdWaveLimit >= 1
 #. IF tmp.tdScore > map.tdHighScore
 #. CHANGE_VAR_LANG
-#: data/maps/jungle/caves/questcave-td-1.json+entities/134/settings/event/40/elseStep/1/thenStep/2/value+%23804
-msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/134/settings/event/40/elseStep/1/thenStep/2/value"
+#: data/maps/jungle/caves/questcave-td-1.json+entities/134/settings/event/41/elseStep/1/thenStep/2/value+%23804
+msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/134/settings/event/41/elseStep/1/thenStep/2/value"
 msgid "New record!"
 msgstr "Новый рекорд!"
 
-#. data/maps/jungle/caves/questcave-td-1.json entities/134/settings/event/40/elseStep/5/text #873
+#. data/maps/jungle/caves/questcave-td-1.json entities/134/settings/event/41/elseStep/5/text #873
 #. EventTrigger tdChallengeEnd START IF tmp.tdStarted && ((tmp.tdLife <= 0) || tmp.playerDead || tmp.waveLimitReached) && quest.jungleAdv-1-turret_defense_1.solved
 #. IF NOT tmp.tdWaveLimit >= 1
 #. SHOW_BOARD_MSG
-#: data/maps/jungle/caves/questcave-td-1.json+entities/134/settings/event/40/elseStep/5/text+%23873
-msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/134/settings/event/40/elseStep/5/text"
+#: data/maps/jungle/caves/questcave-td-1.json+entities/134/settings/event/41/elseStep/5/text+%23873
+msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/134/settings/event/41/elseStep/5/text"
 msgid ""
 "Survived till \\c[3]Wave \\v[tmp.tdWave]\\c[0].\n"
 "\\c[3]Score: \\v[tmp.tdScore]\\c[0]\n"
@@ -4957,21 +4948,21 @@ msgctxt "data/maps/jungle/caves/questcave-td-2.json//entities/156/settings/event
 msgid "(Cycle \\v[tmp.spawnCycle]: Spawn Buffel-Group!)"
 msgstr "(Цикл \\v[tmp.spawnCycle]: призыв группы бычар!)"
 
-#. data/maps/jungle/caves/questcave-td-2.json entities/158/settings/event/24/text #817
+#. data/maps/jungle/caves/questcave-td-2.json entities/158/settings/event/25/text #817
 #. EventTrigger tdChallengeEnd START IF tmp.tdStarted && ((tmp.tdLife <= 0) || tmp.playerDead || tmp.waveLimitReached) && quest.jungleAdv-2-turret_defense_2.solved
 #. SHOW_AR_MSG
-#: data/maps/jungle/caves/questcave-td-2.json+entities/158/settings/event/24/text+%23817
-msgctxt "data/maps/jungle/caves/questcave-td-2.json//entities/158/settings/event/24/text"
+#: data/maps/jungle/caves/questcave-td-2.json+entities/158/settings/event/25/text+%23817
+msgctxt "data/maps/jungle/caves/questcave-td-2.json//entities/158/settings/event/25/text"
 msgid "SIMULATION OVER!"
 msgstr "СИМУЛЯЦИЯ ЗАВЕРШЕНА!"
 
-#. data/maps/jungle/caves/questcave-td-2.json entities/158/settings/event/45/thenStep/0/thenStep/2/text #829
+#. data/maps/jungle/caves/questcave-td-2.json entities/158/settings/event/46/thenStep/0/thenStep/2/text #829
 #. EventTrigger tdChallengeEnd START IF tmp.tdStarted && ((tmp.tdLife <= 0) || tmp.playerDead || tmp.waveLimitReached) && quest.jungleAdv-2-turret_defense_2.solved
 #. IF tmp.tdWaveLimit >= 1
 #. IF tmp.waveLimitReached
 #. SHOW_BOARD_MSG
-#: data/maps/jungle/caves/questcave-td-2.json+entities/158/settings/event/45/thenStep/0/thenStep/2/text+%23829
-msgctxt "data/maps/jungle/caves/questcave-td-2.json//entities/158/settings/event/45/thenStep/0/thenStep/2/text"
+#: data/maps/jungle/caves/questcave-td-2.json+entities/158/settings/event/46/thenStep/0/thenStep/2/text+%23829
+msgctxt "data/maps/jungle/caves/questcave-td-2.json//entities/158/settings/event/46/thenStep/0/thenStep/2/text"
 msgid ""
 "\\c[3]Survived \\v[tmp.tdWave] waves!\\c[0]\n"
 "\n"
@@ -4981,41 +4972,32 @@ msgstr ""
 "\n"
 "Получено \\c[3]Турель-жетонов: \\v[tmp.tdRewards]\\c[0]!"
 
-#. data/maps/jungle/caves/questcave-td-2.json entities/158/settings/event/45/thenStep/0/elseStep/0/text #881
+#. data/maps/jungle/caves/questcave-td-2.json entities/158/settings/event/46/thenStep/0/elseStep/0/text #881
 #. EventTrigger tdChallengeEnd START IF tmp.tdStarted && ((tmp.tdLife <= 0) || tmp.playerDead || tmp.waveLimitReached) && quest.jungleAdv-2-turret_defense_2.solved
 #. IF tmp.tdWaveLimit >= 1
 #. IF NOT tmp.waveLimitReached
 #. SHOW_BOARD_MSG
-#: data/maps/jungle/caves/questcave-td-2.json+entities/158/settings/event/45/thenStep/0/elseStep/0/text+%23881
-msgctxt "data/maps/jungle/caves/questcave-td-2.json//entities/158/settings/event/45/thenStep/0/elseStep/0/text"
+#: data/maps/jungle/caves/questcave-td-2.json+entities/158/settings/event/46/thenStep/0/elseStep/0/text+%23881
+msgctxt "data/maps/jungle/caves/questcave-td-2.json//entities/158/settings/event/46/thenStep/0/elseStep/0/text"
 msgid "\\c[1]Failure on Wave \\v[tmp.tdWave]!\\c[0]"
 msgstr "\\c[1]Провал на волне \\v[tmp.tdWave]!\\c[0]"
 
-#. data/maps/jungle/caves/questcave-td-2.json entities/158/settings/event/45/elseStep/0/value #882
-#. EventTrigger tdChallengeEnd START IF tmp.tdStarted && ((tmp.tdLife <= 0) || tmp.playerDead || tmp.waveLimitReached) && quest.jungleAdv-2-turret_defense_2.solved
-#. IF NOT tmp.tdWaveLimit >= 1
-#. CHANGE_VAR_LANG
-#: data/maps/jungle/caves/questcave-td-2.json+entities/158/settings/event/45/elseStep/0/value+%23882
-msgctxt "data/maps/jungle/caves/questcave-td-2.json//entities/158/settings/event/45/elseStep/0/value"
-msgid " "
-msgstr ""
-
-#. data/maps/jungle/caves/questcave-td-2.json entities/158/settings/event/45/elseStep/1/thenStep/2/value #883
+#. data/maps/jungle/caves/questcave-td-2.json entities/158/settings/event/46/elseStep/1/thenStep/2/value #883
 #. EventTrigger tdChallengeEnd START IF tmp.tdStarted && ((tmp.tdLife <= 0) || tmp.playerDead || tmp.waveLimitReached) && quest.jungleAdv-2-turret_defense_2.solved
 #. IF NOT tmp.tdWaveLimit >= 1
 #. IF tmp.tdScore > map.tdHighScore
 #. CHANGE_VAR_LANG
-#: data/maps/jungle/caves/questcave-td-2.json+entities/158/settings/event/45/elseStep/1/thenStep/2/value+%23883
-msgctxt "data/maps/jungle/caves/questcave-td-2.json//entities/158/settings/event/45/elseStep/1/thenStep/2/value"
+#: data/maps/jungle/caves/questcave-td-2.json+entities/158/settings/event/46/elseStep/1/thenStep/2/value+%23883
+msgctxt "data/maps/jungle/caves/questcave-td-2.json//entities/158/settings/event/46/elseStep/1/thenStep/2/value"
 msgid "New record!"
 msgstr "Новый рекорд!"
 
-#. data/maps/jungle/caves/questcave-td-2.json entities/158/settings/event/45/elseStep/5/text #873
+#. data/maps/jungle/caves/questcave-td-2.json entities/158/settings/event/46/elseStep/5/text #873
 #. EventTrigger tdChallengeEnd START IF tmp.tdStarted && ((tmp.tdLife <= 0) || tmp.playerDead || tmp.waveLimitReached) && quest.jungleAdv-2-turret_defense_2.solved
 #. IF NOT tmp.tdWaveLimit >= 1
 #. SHOW_BOARD_MSG
-#: data/maps/jungle/caves/questcave-td-2.json+entities/158/settings/event/45/elseStep/5/text+%23873
-msgctxt "data/maps/jungle/caves/questcave-td-2.json//entities/158/settings/event/45/elseStep/5/text"
+#: data/maps/jungle/caves/questcave-td-2.json+entities/158/settings/event/46/elseStep/5/text+%23873
+msgctxt "data/maps/jungle/caves/questcave-td-2.json//entities/158/settings/event/46/elseStep/5/text"
 msgid ""
 "Survived till \\c[3]Wave \\v[tmp.tdWave]\\c[0].\n"
 "\\c[3]Score: \\v[tmp.tdScore]\\c[0]\n"
@@ -5413,7 +5395,7 @@ msgstr "...!"
 #. SHOW_MSG basin.don-mick @DEFAULT
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/392/settings/event/6/message+%2321
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/392/settings/event/6/message"
-msgid "Mh... Oh it's you. Did ya find a way?"
+msgid "Mh... Oh, it's you. Did ya find a way?"
 msgstr "Эм... А, это ты. Нашла путь?"
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/392/settings/event/7/message #22
@@ -5463,7 +5445,7 @@ msgstr "Дай мне минуту, я пойду тем же путём, исп
 #. SHOW_MSG basin.don-mick @DEFAULT
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/392/settings/event/21/message+%2327
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/392/settings/event/21/message"
-msgid "Damn woman, was this really the only way?"
+msgid "Damn, woman, was this really the only way?"
 msgstr "Чёрт, женщина, это был единственный путь?"
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/392/settings/event/22/message #28
@@ -5471,7 +5453,7 @@ msgstr "Чёрт, женщина, это был единственный пут�
 #. SHOW_MSG basin.don-mick @DEFAULT
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/392/settings/event/22/message+%2328
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/392/settings/event/22/message"
-msgid "So much walking... \\.\\.\\. Thankfully I don't have to carry the goods. That would be just awful."
+msgid "So much walking... \\.\\.\\. Thankfully, I don't have to carry the goods. That would be just awful."
 msgstr "Так много ходьбы... \\.\\.\\. К счастью, мне не придётся нести товар. Это было бы просто ужасно."
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/392/settings/event/23/message #29
@@ -6192,7 +6174,7 @@ msgstr "..."
 #. SHOW_MSG jungle.eldress-jungle @DEFAULT
 #: data/maps/jungle/clearing/clear-path-01.json+entities/740/settings/npcStates/0/event/quest/31/message+%2349
 msgctxt "data/maps/jungle/clearing/clear-path-01.json//entities/740/settings/npcStates/0/event/quest/31/message"
-msgid "I will go to old home now. K'tara you will come too. Need to talk."
+msgid "I will go to old home now. K'tara, you will come, too. Need to talk."
 msgstr "Я сейчас пойду в старый дом. К'тара, ты пойдешь тоже. Нужно поговорить."
 
 #. data/maps/jungle/clearing/clear-path-01.json entities/740/settings/npcStates/0/event/quest/35/message #50
@@ -6418,7 +6400,7 @@ msgstr "Пока!"
 #. SHOW_MSG antagonists.sidekick @SUSPICIOUS
 #: data/maps/jungle/clearing/clear-path-01.json+entities/740/settings/npcStates/0/event/quest/78/thenStep/0/message+%23875
 msgctxt "data/maps/jungle/clearing/clear-path-01.json//entities/740/settings/npcStates/0/event/quest/78/thenStep/0/message"
-msgid "What?\\. So you want to be beat up again already?"
+msgid "What?\\. So you want to get beaten up again already?"
 msgstr "Что?\\. Так ты хочешь, чтобы тебя снова избили?"
 
 #. data/maps/jungle/clearing/clear-path-01.json entities/740/settings/npcStates/0/event/quest/79/message #110
@@ -6544,7 +6526,7 @@ msgstr "[кивает]"
 #. SHOW_MSG main.sergey @DOWN
 #: data/maps/jungle/clearing/clear-path-01.json+entities/740/settings/npcStates/0/event/quest/101/message+%23124
 msgctxt "data/maps/jungle/clearing/clear-path-01.json//entities/740/settings/npcStates/0/event/quest/101/message"
-msgid "Alright then...\\. Good night, Lea!"
+msgid "Alright then...\\. Goodnight, Lea!"
 msgstr "Ладно...\\. Спокойной ночи, Лея!"
 
 #. data/maps/jungle/clearing/clear-path-01.json entities/740/settings/npcStates/0/event/quest/102/message #125
@@ -7869,7 +7851,7 @@ msgstr "Ово'кьяри"
 #. SHOW_MSG basin.shad-male-techie @DEFAULT
 #: data/maps/jungle/clearing/clear-path-02.json+entities/669/settings/npcStates/2/event/2/message+%23690
 msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/669/settings/npcStates/2/event/2/message"
-msgid "Bring me material for more power machines\\. First, there is need for \\c[3]very precious metal\\c[0]."
+msgid "Bring me material for more power machines.\\. First, there is need for \\c[3]very precious metal\\c[0]."
 msgstr "Принеси мне материалы для энергомашин.\\. Прежде всего, нужен \\c[3]очень драгоценный металл\\c[0]."
 
 #. data/maps/jungle/clearing/clear-path-02.json entities/669/settings/npcStates/2/event/3/message #691
@@ -8113,7 +8095,7 @@ msgstr "Зла'ньоро"
 #: data/maps/jungle/clearing/clear-path-02.json+entities/669/settings/npcStates/5/event/quest/23/message+%23730
 msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/669/settings/npcStates/5/event/quest/23/message"
 msgid "Owo, what this?"
-msgstr "Ово, что такое?"
+msgstr "Ово, что это?"
 
 #. data/maps/jungle/clearing/clear-path-02.json entities/669/settings/npcStates/5/event/quest/24/message #731
 #. NPC fridgequest-techNephew
@@ -8212,7 +8194,7 @@ msgstr "И спасибо за помощь.\\. Надеюсь видеть Ис
 #: data/maps/jungle/clearing/clear-path-02.json+entities/669/settings/npcStates/5/event/quest/38/message+%23748
 msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/669/settings/npcStates/5/event/quest/38/message"
 msgid "I plan to open finest of shops with new power.\\. Please come back and honor with business then!"
-msgstr "Я планирую открыть лучшие магазины с новой энергией.\\. Пожалуйста, возвращайся и отнесись с честью к моему бизнесу!"
+msgstr "Я планирую открыть лучшие магазины с новой энергией.\\. Пожалуйста, возвращайся и окажи честь моему бизнесу!"
 
 #. data/maps/jungle/clearing/clear-path-02.json entities/669/settings/npcStates/5/event/quest/40/message #710
 #. NPC fridgequest-techNephew
@@ -8266,7 +8248,7 @@ msgstr "Ово'кьяри"
 #: data/maps/jungle/clearing/clear-path-02.json+entities/669/settings/npcStates/7/event/2/message+%23742
 msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/669/settings/npcStates/7/event/2/message"
 msgid "Human machines useful for good life!\\. More shad starting trading in village.\\. \\v[lore.title.seeker] take look!"
-msgstr "Человеческие машины полезны для хорошей жизни!"
+msgstr "Человеческие машины полезны для хорошей жизни!\\. Больше шадов начали торговать в деревне.\\. Искатель, посмотри!"
 
 #. data/maps/jungle/clearing/clear-path-03.json entities/771/settings/npcStates/0/event/2/message #22
 #. NPC
@@ -9034,7 +9016,7 @@ msgstr "Я не знаю точно, где находится источник,
 #. SHOW_MSG jungle.female-albino @DEFAULT
 #: data/maps/jungle/clearing/clear-path-04.json+entities/514/settings/npcStates/0/event/quest/39/message+%2337
 msgctxt "data/maps/jungle/clearing/clear-path-04.json//entities/514/settings/npcStates/0/event/quest/39/message"
-msgid "The others told me it should not be very hard to miss as it looks pretty out of place."
+msgid "The others told me it should be very hard to miss as it looks pretty out of place."
 msgstr "Другие говорили, что его довольно сложно пропустить, так как он выглядит довольно неуместно."
 
 #. data/maps/jungle/clearing/clear-path-04.json entities/514/settings/npcStates/0/event/quest/40/message #38
@@ -9475,7 +9457,7 @@ msgstr "...!"
 #. SHOW_MSG jungle.eldress-jungle @DEFAULT
 #: data/maps/jungle/clearing/interior/chiefs-house-01.json+entities/10/settings/npcStates/1/event/11/message+%23708
 msgctxt "data/maps/jungle/clearing/interior/chiefs-house-01.json//entities/10/settings/npcStates/1/event/11/message"
-msgid "\\v[lore.title.seeker] best take walk through shad village and talk with people if still desire to find way to unify machine with our ways."
+msgid "\\v[lore.title.seeker] best take walk through Shad village and talk with people if still desire to find way to unify machine with our ways."
 msgstr "Искатель, тебе лучше прогуляться по деревне и поговорить с шадами, если всё же хочешь найти способ объединить машины с нашими обычаями."
 
 #. data/maps/jungle/clearing/interior/chiefs-house-01.json entities/10/settings/npcStates/1/event/12/message #707
@@ -9538,7 +9520,7 @@ msgstr "Человеческие машины приносят процвета�
 #. SHOW_MSG jungle.eldress-jungle @DEFAULT
 #: data/maps/jungle/clearing/interior/chiefs-house-01.json+entities/10/settings/npcStates/3/event/3/message+%23705
 msgctxt "data/maps/jungle/clearing/interior/chiefs-house-01.json//entities/10/settings/npcStates/3/event/3/message"
-msgid "\\v[lore.title.seeker], this is worldly blessing in harmony with the track and shad tradtiionss.\\. You have our thanks."
+msgid "\\v[lore.title.seeker], this is worldly blessing in harmony with the track and shad traditions.\\. You have our thanks."
 msgstr "Искатель, это благословение этого мира в гармонии с Путём и традициями шадов.\\. Прими нашу благодарность."
 
 #. data/maps/jungle/clearing/interior/chiefs-house-01.json entities/10/settings/npcStates/3/event/4/message #706
@@ -9877,7 +9859,7 @@ msgstr "Отказано в доступе"
 #: data/maps/jungle/dng/dng-crossing.json+entities/325/settings/npcStates/0/event/2/message+%23197
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/325/settings/npcStates/0/event/2/message"
 msgid "Yo, what's up?"
-msgstr "Йо, что случилось?"
+msgstr "Йо, что такое?"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/325/settings/npcStates/0/event/3/message #196
 #. NPC
@@ -10264,7 +10246,7 @@ msgstr "...!"
 #. SHOW_MSG main.emilie @SHOCKED
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/75/message+%23898
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/75/message"
-msgid "Oh you have got to be kidding!"
+msgid "Oh, you have got to be kidding!"
 msgstr "Ох, вы, должно быть, шутите!"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/76/message #899
@@ -10336,7 +10318,7 @@ msgstr "\\c[3]Злокошки\\c[0], они снова вернулись! Не
 #. SHOW_MSG jungle.female-albino @DEFAULT
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/94/message+%23255
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/94/message"
-msgid "Now they're hell bent on shutting down the power plant for real."
+msgid "Now, they're hell bent on shutting down the power plant for real."
 msgstr "Теперь они по-настоящему одержимы желанием отключить электростанцию.\n"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/95/message #256
@@ -10464,7 +10446,7 @@ msgstr "Мне бы твою уверенность..."
 #. SHOW_MSG basin.sciene-lady @DEFAULT
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/117/message+%23272
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/117/message"
-msgid "Oh I don't need confidence! I have science!"
+msgid "Oh, I don't need confidence! I have science!"
 msgstr "Ой, мне не нужна уверенность! У меня есть наука!"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/118/message #273
@@ -10472,7 +10454,7 @@ msgstr "Ой, мне не нужна уверенность! У меня ест�
 #. SHOW_MSG basin.sciene-lady @DEFAULT
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/118/message+%23273
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/118/message"
-msgid "Anyway Tara... Please try to keep your folks calm."
+msgid "Anyway, Tara... Please try to keep your folks calm."
 msgstr "В любом случае, Тара... Пожалуйста, постарайся успокоить свой народ."
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/119/message #274
@@ -10767,7 +10749,7 @@ msgstr "Звучит разумно."
 #. SHOW_MSG main.emilie @CURIOUS
 #: data/maps/jungle/dng/dng-crossing.json+entities/371/settings/event/65/message+%23325
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/371/settings/event/65/message"
-msgid "Oh right, what about you Lea? "
+msgid "Oh right, what about you, Lea? "
 msgstr "Ах да, а что ты думаешь, Лея?"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/371/settings/event/66/message #326
@@ -11037,7 +11019,7 @@ msgstr "Я сделаю всё возможное, чтобы восстанов
 #. SHOW_MSG jungle.female-albino @DEFAULT
 #: data/maps/jungle/dng/dng-crossing.json+entities/376/settings/event/16/message+%23581
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/376/settings/event/16/message"
-msgid "Thank you again, Seeker and may we meet again!"
+msgid "Thank you again, Seeker, and may we meet again!"
 msgstr "Ещё раз спасибо, Искатель, и пусть мы встретимся снова!"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/376/settings/event/17/message #582
@@ -11215,7 +11197,7 @@ msgstr "К тому же, эти кошки...\\.\\.\\. \\c[3]Они напад�
 #. SHOW_MSG basin.sciene-lady @DEFAULT
 #: data/maps/jungle/dng/lou-office.json+entities/26/settings/npcStates/2/event/quest/15/message+%2320
 msgctxt "data/maps/jungle/dng/lou-office.json//entities/26/settings/npcStates/2/event/quest/15/message"
-msgid "Normally sub-types of the same family follow the same patterns."
+msgid "Normally, sub-types of the same family follow the same patterns."
 msgstr "Обычно подтипы одного и того же семейства следуют одинаковым моделям поведения."
 
 #. data/maps/jungle/dng/lou-office.json entities/26/settings/npcStates/2/event/quest/16/message #22
@@ -11251,7 +11233,7 @@ msgstr "Это заставило меня задуматься: \\c[3]Где ж
 #. SHOW_MSG basin.sciene-lady @DEFAULT
 #: data/maps/jungle/dng/lou-office.json+entities/26/settings/npcStates/2/event/quest/19/message+%2325
 msgctxt "data/maps/jungle/dng/lou-office.json//entities/26/settings/npcStates/2/event/quest/19/message"
-msgid "Well, the \\c[3]Bergen Mine\\c[0] of course!"
+msgid "Well, the \\c[3]Bergen Mine\\c[0], of course!"
 msgstr "В \\c[3]Бергенской шахте\\c[0], конечно!"
 
 #. data/maps/jungle/dng/lou-office.json entities/26/settings/npcStates/2/event/quest/20/message #26
@@ -11314,7 +11296,7 @@ msgstr "Они использовали специальную частоту и
 #. SHOW_MSG basin.sciene-lady @DEFAULT
 #: data/maps/jungle/dng/lou-office.json+entities/26/settings/npcStates/2/event/quest/26/message+%2332
 msgctxt "data/maps/jungle/dng/lou-office.json//entities/26/settings/npcStates/2/event/quest/26/message"
-msgid "Obviously I extracted both the frequency and the semi-magnetic impulse rate."
+msgid "Obviously, I extracted both the frequency and the semi-magnetic impulse rate."
 msgstr "Очевидно, я выяснила как частоту, так и скорость полумагнитного импульса."
 
 #. data/maps/jungle/dng/lou-office.json entities/26/settings/npcStates/2/event/quest/28/message #33
@@ -11431,7 +11413,7 @@ msgstr "Доктор Креция"
 #. SHOW_MSG basin.sciene-lady @DEFAULT
 #: data/maps/jungle/dng/lou-office.json+entities/26/settings/npcStates/5/event/quest/2/message+%2359
 msgctxt "data/maps/jungle/dng/lou-office.json//entities/26/settings/npcStates/5/event/quest/2/message"
-msgid "Well hello, Seeker. You have been gone quite a while."
+msgid "Well, hello, Seeker. You have been gone quite a while."
 msgstr "Ну, привет, Искатель. Тебя давно не было."
 
 #. data/maps/jungle/dng/lou-office.json entities/26/settings/npcStates/5/event/quest/3/message #57
@@ -11440,7 +11422,7 @@ msgstr "Ну, привет, Искатель. Тебя давно не было.
 #. SHOW_MSG basin.sciene-lady @DEFAULT
 #: data/maps/jungle/dng/lou-office.json+entities/26/settings/npcStates/5/event/quest/3/message+%2357
 msgctxt "data/maps/jungle/dng/lou-office.json//entities/26/settings/npcStates/5/event/quest/3/message"
-msgid "Excuse my overprotective Bodyguard. "
+msgid "Excuse my overprotective bodyguard. "
 msgstr "Извини моего заботливого телохранителя."
 
 #. data/maps/jungle/dng/lou-office.json entities/26/settings/npcStates/5/event/quest/4/message #58
@@ -11602,7 +11584,7 @@ msgstr "Каждый столб проверяет определённую по
 #. SHOW_MSG basin.sciene-lady @DEFAULT
 #: data/maps/jungle/dng/lou-office.json+entities/26/settings/npcStates/5/event/quest/22/message+%2374
 msgctxt "data/maps/jungle/dng/lou-office.json//entities/26/settings/npcStates/5/event/quest/22/message"
-msgid "When it can't find a \"problem\" it extends the search by creating more poles. "
+msgid "When it can't find a \"problem\", it extends the search by creating more poles. "
 msgstr "Когда он не может найти \"проблему\", он расширяет поиск, создавая больше столбов."
 
 #. data/maps/jungle/dng/lou-office.json entities/26/settings/npcStates/5/event/quest/23/message #75
@@ -11701,7 +11683,7 @@ msgstr "Спасибо, Искатель. Я поговорю с К'тарой �
 #. SHOW_MSG basin.sciene-lady @DEFAULT
 #: data/maps/jungle/dng/lou-office.json+entities/26/settings/npcStates/5/event/quest/34/message+%2385
 msgctxt "data/maps/jungle/dng/lou-office.json//entities/26/settings/npcStates/5/event/quest/34/message"
-msgid "Hopefully the Shad will see reason."
+msgid "Hopefully, the Shad will see reason."
 msgstr "Надеюсь, что шады увидят в этом здравый смысл."
 
 #. data/maps/jungle/dng/lou-office.json entities/26/settings/npcStates/5/event/quest/40/task #895
@@ -13003,7 +12985,7 @@ msgstr "Доктор Креция"
 #. SHOW_MSG basin.sciene-lady @DEFAULT
 #: data/maps/jungle/dng/shock-exterior.json+entities/465/settings/event/15/message+%2314
 msgctxt "data/maps/jungle/dng/shock-exterior.json//entities/465/settings/event/15/message"
-msgid "Of course the Shad are a tad off in their thesis that the power plant is the root cause for this strange \"infestation\"."
+msgid "Of course, the Shad are a tad off in their thesis that the power plant is the root cause for this strange \"infestation\"."
 msgstr "Конечно, шады немного ошибаются в своём тезисе о том, что электростанция является основной причиной этого странного \"заражения\"."
 
 #. data/maps/jungle/dng/shock-exterior.json entities/465/settings/event/16/message #15
@@ -13043,7 +13025,7 @@ msgstr "С точки зрения Пути Древних, станции мо�
 #. SHOW_MSG basin.sciene-lady @DEFAULT
 #: data/maps/jungle/dng/shock-exterior.json+entities/465/settings/event/20/message+%2319
 msgctxt "data/maps/jungle/dng/shock-exterior.json//entities/465/settings/event/20/message"
-msgid "Obviously something else must be causing this."
+msgid "Obviously, something else must be causing this."
 msgstr "Очевидно, причиной этого должно быть что-то ещё."
 
 #. data/maps/jungle/dng/shock-exterior.json entities/465/settings/event/21/message #20
@@ -13051,7 +13033,7 @@ msgstr "Очевидно, причиной этого должно быть чт
 #. SHOW_MSG basin.sciene-lady @DEFAULT
 #: data/maps/jungle/dng/shock-exterior.json+entities/465/settings/event/21/message+%2320
 msgctxt "data/maps/jungle/dng/shock-exterior.json//entities/465/settings/event/21/message"
-msgid "I'm not sure what exactly, but I will continue to investigate."
+msgid "I'm not sure what, exactly, but I will continue to investigate."
 msgstr "Я не уверена, что именно, но я буду продолжать расследование."
 
 #. data/maps/jungle/dng/shock-exterior.json entities/465/settings/event/22/message #21
@@ -13067,8 +13049,8 @@ msgstr "..."
 #. SHOW_MSG basin.sciene-lady @DEFAULT
 #: data/maps/jungle/dng/shock-exterior.json+entities/465/settings/event/23/message+%2322
 msgctxt "data/maps/jungle/dng/shock-exterior.json//entities/465/settings/event/23/message"
-msgid "Well...I'm sure you're here to enter the temple. So I won't distract you any further."
-msgstr "Ладно... я уверена, что ты здесь, чтобы войти в храм. Поэтому я не буду больше тебя отвлекать."
+msgid "Well...I'm sure you're here to enter the temple, so I won't distract you any further."
+msgstr "Ладно... я уверена, что ты здесь, чтобы войти в храм, поэтому я не буду больше тебя отвлекать."
 
 #. data/maps/jungle/dng/shock-exterior.json entities/465/settings/event/24/message #23
 #. EventTrigger firstTime START IF g.storyContinuesJungle && plot.jungleQuest < 3200
@@ -13134,7 +13116,7 @@ msgstr "Хорошо. Первый шаг, давай избавимся от \\
 #. SHOW_MSG basin.sciene-lady @DEFAULT
 #: data/maps/jungle/dng/shock-exterior.json+entities/466/settings/npcStates/5/event/quest/3/message+%2352
 msgctxt "data/maps/jungle/dng/shock-exterior.json//entities/466/settings/npcStates/5/event/quest/3/message"
-msgid "You know how to deal with those, right?"
+msgid "You know how to deal with them, right?"
 msgstr "Ты знаешь, как справиться с этим, верно?"
 
 #. data/maps/jungle/dng/shock-exterior.json entities/466/settings/npcStates/5/event/quest/4/message #53
@@ -13242,7 +13224,7 @@ msgstr "Видишь ли, ты можешь подумать, что \\c[3]Зл
 #. SHOW_MSG basin.sciene-lady @DEFAULT
 #: data/maps/jungle/dng/shock-exterior.json+entities/466/settings/npcStates/7/event/quest/4/message+%2372
 msgctxt "data/maps/jungle/dng/shock-exterior.json//entities/466/settings/npcStates/7/event/quest/4/message"
-msgid "But in fact, we only scratched the surface of the problem!"
+msgid "But, in fact, we only scratched the surface of the problem!"
 msgstr "Но на самом деле, мы только поверхностно затронули эту проблему!"
 
 #. data/maps/jungle/dng/shock-exterior.json entities/466/settings/npcStates/7/event/quest/5/message #73
@@ -13637,7 +13619,7 @@ msgstr "Удачи, Искатель."
 #. SHOW_SIDE_MSG basin.sciene-lady @DEFAULT
 #: data/maps/jungle/dng/shock-exterior.json+entities/469/settings/event/2/message+%2334
 msgctxt "data/maps/jungle/dng/shock-exterior.json//entities/469/settings/event/2/message"
-msgid "This way Seeker!"
+msgid "This way, Seeker!"
 msgstr "Сюда, Искатель!"
 
 #. data/maps/jungle/dng/shock-exterior.json entities/469/settings/event/3/message #35
@@ -13993,7 +13975,7 @@ msgstr "..."
 #. SHOW_MSG antagonists.fancyguy @LECTURING
 #: data/maps/jungle/dng/tree-expo-space.json+entities/14/settings/event/13/message+%23699
 msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/14/settings/event/13/message"
-msgid "Well to be fair, I've run the Grand Krys'kajo before."
+msgid "Well, to be fair, I've run the Grand Krys'kajo before."
 msgstr "Ну, честно говоря, я проходил Гранд Крис'кайо раньше."
 
 #. data/maps/jungle/dng/tree-expo-space.json entities/14/settings/event/17/message #700
@@ -14188,7 +14170,7 @@ msgstr "Хмм...\\. нашим аватарам вообще нужно дыш�
 #. SHOW_MSG antagonists.fancyguy @LECTURING
 #: data/maps/jungle/dng/tree-expo-space.json+entities/14/settings/event/45/message+%23720
 msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/14/settings/event/45/message"
-msgid "I'm talking In-game lore."
+msgid "I'm talking in-game lore."
 msgstr "Я говорю о внутриигровой истории."
 
 #. data/maps/jungle/dng/tree-expo-space.json entities/14/settings/event/46/message #681
@@ -15026,7 +15008,7 @@ msgstr "Посетите свою гильдию в \\c[3]штабе Перво�
 #. SHOW_MSG antagonists.fancyguy @DEFAULT
 #: data/maps/jungle/dng/tree-expo-space.json+entities/19/settings/event/24/message+%23725
 msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/19/settings/event/24/message"
-msgid "Finally the Star Shade."
+msgid "Finally, the Star Shade."
 msgstr "Наконец-то, Тень звезды."
 
 #. data/maps/jungle/dng/tree-expo-space.json entities/19/settings/event/25/message #726
@@ -15154,7 +15136,7 @@ msgstr "Это...\\. тоже хорошее замечание."
 #. SHOW_MSG main.emilie @CURIOUS
 #: data/maps/jungle/dng/tree-expo-space.json+entities/19/settings/event/40/message+%23742
 msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/19/settings/event/40/message"
-msgid "Anyway, didn't expect to say this but it was pretty fun racing with you."
+msgid "Anyway, didn't expect to say this, but it was pretty fun racing with you."
 msgstr "В любом случае, не ожидала, что скажу это, но было довольно весело побегать с тобой."
 
 #. data/maps/jungle/dng/tree-expo-space.json entities/19/settings/event/41/message #743
@@ -15418,7 +15400,7 @@ msgstr "А?"
 #: data/maps/jungle/dng/tree-expo-space.json+entities/29/settings/dialog/3/text+%23888
 msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/29/settings/dialog/3/text"
 msgid "I-I mean her sword! It's all flames! Must be really hot, right?"
-msgstr "Я-Я имею в виду её меч! Он весь из огня! Должно быть, очень горячий, верно?"
+msgstr "Я-Я про её меч! Он весь из огня! Должно быть, очень горячий, верно?"
 
 #. data/maps/jungle/dng/tree-expo-space.json entities/29/settings/dialog/4/text #889
 #. XenoDialog EnelDialog SPAWN IF map.gods2
@@ -15537,7 +15519,7 @@ msgstr "Фух... этот босс был просто нечто, не так 
 #. cross-worlds.pentafist-male-rasta
 #: data/maps/jungle/dng/tree-expo-space.json+entities/46/settings/dialog/1/text+%23896
 msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/46/settings/dialog/1/text"
-msgid "Oh yeah! That ape was raging like crazy at end!"
+msgid "Oh yeah! That ape was raging like crazy at the end!"
 msgstr "О да! Эта обезьяна бесновалась как сумасшедшая в конце!"
 
 #. data/maps/jungle/dng/tree-expo-space.json entities/46/settings/dialog/2/text #897
@@ -15953,7 +15935,7 @@ msgstr "..."
 #. SHOW_MSG main.sergey @DOWN
 #: data/maps/jungle/dng/tree-expo-space.json+entities/50/settings/event/94/message+%231197
 msgctxt "data/maps/jungle/dng/tree-expo-space.json//entities/50/settings/event/94/message"
-msgid "Okay, he's currently in \\c[3]Sapphire Ridge\\c[0]."
+msgid "Okay, he is currently in \\c[3]Sapphire Ridge\\c[0]."
 msgstr "Хорошо, в данный момент он в \\c[3]Сапфировом крае\\c[0]."
 
 #. data/maps/jungle/dng/tree-expo-space.json entities/50/settings/event/95/message #1198
@@ -16057,7 +16039,7 @@ msgstr "...Тронни?"
 #. SHOW_MSG main.glasses @SAD
 #: data/maps/jungle/dng/tree-exterior.json+entities/335/settings/event/21/message+%239
 msgctxt "data/maps/jungle/dng/tree-exterior.json//entities/335/settings/event/21/message"
-msgid "I-I'm sorry but I really have to leave."
+msgid "I-I'm sorry, but I really have to leave."
 msgstr "Я-Я извиняюсь, но мне необходимо уйти."
 
 #. data/maps/jungle/dng/tree-exterior.json entities/335/settings/event/24/message #10
@@ -16105,15 +16087,15 @@ msgstr "Ботааааааааан."
 #. SHOW_MSG main.glasses @EMBARRASSED
 #: data/maps/jungle/dng/tree-exterior.json+entities/335/settings/event/29/message+%2315
 msgctxt "data/maps/jungle/dng/tree-exterior.json//entities/335/settings/event/29/message"
-msgid "Sorry...\\. But you know...\\. It's fine if you two continue the run without me."
-msgstr "Сожалею...\\. Но знаете...\\. Это нормально, если вы двое продолжите забег без меня."
+msgid "Sorry...\\. But, you know...\\. It's fine if you two continue the run without me."
+msgstr "Сожалею...\\. Но, знаете...\\. Это нормально, если вы двое продолжите забег без меня."
 
 #. data/maps/jungle/dng/tree-exterior.json entities/335/settings/event/30/message #16
 #. EventTrigger intro START IF tmp.intro
 #. SHOW_MSG main.glasses @TOWARD
 #: data/maps/jungle/dng/tree-exterior.json+entities/335/settings/event/30/message+%2316
 msgctxt "data/maps/jungle/dng/tree-exterior.json//entities/335/settings/event/30/message"
-msgid "It's your competition after all."
+msgid "It's your competition, after all."
 msgstr "В конце концов, это ваше соревнование."
 
 #. data/maps/jungle/dng/tree-exterior.json entities/335/settings/event/31/message #17
@@ -16121,7 +16103,7 @@ msgstr "В конце концов, это ваше соревнование."
 #. SHOW_MSG main.emilie @CURIOUS
 #: data/maps/jungle/dng/tree-exterior.json+entities/335/settings/event/31/message+%2317
 msgctxt "data/maps/jungle/dng/tree-exterior.json//entities/335/settings/event/31/message"
-msgid "No Tronny, you're a part of this as well!"
+msgid "No, Tronny, you're a part of this as well!"
 msgstr "Нет, Тронни, ты тоже часть этого!"
 
 #. data/maps/jungle/dng/tree-exterior.json entities/335/settings/event/32/message #18
@@ -16129,7 +16111,7 @@ msgstr "Нет, Тронни, ты тоже часть этого!"
 #. SHOW_MSG main.glasses @THOUGHTFUL
 #: data/maps/jungle/dng/tree-exterior.json+entities/335/settings/event/32/message+%2318
 msgctxt "data/maps/jungle/dng/tree-exterior.json//entities/335/settings/event/32/message"
-msgid "Except I wasn't there when you ran the Temple Mine, right?"
+msgid "Except, I wasn't there when you ran the Temple Mine, right?"
 msgstr "Только вот меня не было, когда вы проходили Храм-Шахту, верно?"
 
 #. data/maps/jungle/dng/tree-exterior.json entities/335/settings/event/33/message #19
@@ -16161,7 +16143,7 @@ msgstr "Извините, но мне действительно нужно вы
 #. SHOW_MSG main.glasses @DEFAULT
 #: data/maps/jungle/dng/tree-exterior.json+entities/335/settings/event/36/message+%2322
 msgctxt "data/maps/jungle/dng/tree-exterior.json//entities/335/settings/event/36/message"
-msgid "We can do the run together tomorrow if you like, but again it's fine if you continue without me."
+msgid "We can do the run together tomorrow if you like, but again, it's fine if you continue without me."
 msgstr "Мы можем вместе устроить забег завтра, если хотите, но повторюсь, ничего страшного, если вы продолжите без меня."
 
 #. data/maps/jungle/dng/tree-exterior.json entities/335/settings/event/37/message #23
@@ -16177,7 +16159,7 @@ msgstr "Хм...\\. трудное решение."
 #. SHOW_MSG main.glasses @SMILE
 #: data/maps/jungle/dng/tree-exterior.json+entities/335/settings/event/38/message+%2324
 msgctxt "data/maps/jungle/dng/tree-exterior.json//entities/335/settings/event/38/message"
-msgid "Anyway, see you two soon!\\. Good bye!"
+msgid "Anyway, see you two soon!\\. Goodbye!"
 msgstr "В любом случае, скоро увидимся!\\. До свидания!"
 
 #. data/maps/jungle/dng/tree-exterior.json entities/335/settings/event/39/message #25
@@ -16193,7 +16175,7 @@ msgstr "Пока!"
 #. SHOW_MSG main.emilie @SUSPICIOUS
 #: data/maps/jungle/dng/tree-exterior.json+entities/335/settings/event/40/message+%2326
 msgctxt "data/maps/jungle/dng/tree-exterior.json//entities/335/settings/event/40/message"
-msgid "Au revoir you little nerd."
+msgid "Au revoir, you little nerd."
 msgstr "Au revoir (До свидания), маленький ботаник."
 
 #. data/maps/jungle/dng/tree-exterior.json entities/335/settings/event/41/message #27
@@ -16337,7 +16319,7 @@ msgstr "Нет, я имею в виду твоё постоянное нытье
 #. SHOW_MSG antagonists.fancyguy @PONDERING
 #: data/maps/jungle/dng/tree-exterior.json+entities/335/settings/event/76/message+%23505
 msgctxt "data/maps/jungle/dng/tree-exterior.json//entities/335/settings/event/76/message"
-msgid "Oh...\\. I was just wondering whether you've been stuck."
+msgid "Oh...\\. I was just wondering whether you were stuck."
 msgstr "Ох...\\. Я просто интересовался, вдруг ты застрял."
 
 #. data/maps/jungle/dng/tree-exterior.json entities/335/settings/event/77/message #506
@@ -16361,7 +16343,7 @@ msgstr "Ладно..."
 #. SHOW_MSG antagonists.fancyguy @LECTURING
 #: data/maps/jungle/dng/tree-exterior.json+entities/335/settings/event/79/message+%23508
 msgctxt "data/maps/jungle/dng/tree-exterior.json//entities/335/settings/event/79/message"
-msgid "So no Grand Krys'kajo today."
+msgid "So, no Grand Krys'kajo today."
 msgstr "В общем, никакого Гранд Крис'кайо сегодня."
 
 #. data/maps/jungle/dng/tree-exterior.json entities/335/settings/event/80/message #509
@@ -16409,7 +16391,7 @@ msgstr "Конечно, я бы предпочёл сейчас просто в�
 #. SHOW_MSG antagonists.sidekick @DEFAULT
 #: data/maps/jungle/dng/tree-exterior.json+entities/335/settings/event/92/message+%2336
 msgctxt "data/maps/jungle/dng/tree-exterior.json//entities/335/settings/event/92/message"
-msgid "Oh, look who's over there. Hi Lea!"
+msgid "Oh, look who's over there. Hi, Lea!"
 msgstr "О, смотри, кто там. Привет, Лея!"
 
 #. data/maps/jungle/dng/tree-exterior.json entities/335/settings/event/94/message #514
@@ -16481,7 +16463,7 @@ msgstr "Это было быстро."
 #. SHOW_MSG main.emilie @TAUNTING
 #: data/maps/jungle/dng/tree-exterior.json+entities/335/settings/event/124/message+%23522
 msgctxt "data/maps/jungle/dng/tree-exterior.json//entities/335/settings/event/124/message"
-msgid "Bonjour Monsieur Grasshead."
+msgid "Bonjour, Monsieur Grasshead."
 msgstr "Bonjour, Monsieur (Привет, месье) Травоголовый."
 
 #. data/maps/jungle/dng/tree-exterior.json entities/335/settings/event/126/message #523
@@ -16497,7 +16479,7 @@ msgstr "Ох, ты тоже здесь?"
 #. SHOW_MSG main.emilie @CURIOUS
 #: data/maps/jungle/dng/tree-exterior.json+entities/335/settings/event/127/message+%23524
 msgctxt "data/maps/jungle/dng/tree-exterior.json//entities/335/settings/event/127/message"
-msgid "What did your friend just say there? Join Lea's party... \\c[3]again\\c[0]?"
+msgid "What did your friend just say, there? Join Lea's party... \\c[3]again\\c[0]?"
 msgstr "Что твой друг там только что сказал? Присоединиться к группе Леи... \\c[3]снова\\c[0]?"
 
 #. data/maps/jungle/dng/tree-exterior.json entities/335/settings/event/128/message #525
@@ -16601,15 +16583,15 @@ msgstr "..."
 #. SHOW_MSG antagonists.fancyguy @MOPING
 #: data/maps/jungle/dng/tree-exterior.json+entities/335/settings/event/145/elseStep/3/message+%23532
 msgctxt "data/maps/jungle/dng/tree-exterior.json//entities/335/settings/event/145/elseStep/3/message"
-msgid "What."
-msgstr "Что."
+msgid "What?"
+msgstr "Что?"
 
 #. data/maps/jungle/dng/tree-exterior.json entities/335/settings/event/146/message #533
 #. EventTrigger intro START IF tmp.intro
 #. SHOW_MSG main.emilie @DEFAULT
 #: data/maps/jungle/dng/tree-exterior.json+entities/335/settings/event/146/message+%23533
 msgctxt "data/maps/jungle/dng/tree-exterior.json//entities/335/settings/event/146/message"
-msgid "Anyway! Together we're 3 people now, non?"
+msgid "Anyway! Together, we're 3 people now, non?"
 msgstr "В любом случае! Сейчас нас трое, не так ли?"
 
 #. data/maps/jungle/dng/tree-exterior.json entities/335/settings/event/147/message #534
@@ -16673,7 +16655,7 @@ msgstr "Что ты только что сказал?"
 #. SHOW_MSG antagonists.fancyguy @DEFAULT
 #: data/maps/jungle/dng/tree-exterior.json+entities/335/settings/event/154/message+%23541
 msgctxt "data/maps/jungle/dng/tree-exterior.json//entities/335/settings/event/154/message"
-msgid "So yes! I'll join your race!"
+msgid "So, yes! I'll join your race!"
 msgstr "Так что да! Я присоединюсь к вашей гонке!"
 
 #. data/maps/jungle/dng/tree-exterior.json entities/335/settings/event/155/message #542
@@ -16705,7 +16687,7 @@ msgstr "...!"
 #. SHOW_MSG antagonists.fancyguy @DOWN
 #: data/maps/jungle/dng/tree-exterior.json+entities/335/settings/event/158/message+%23545
 msgctxt "data/maps/jungle/dng/tree-exterior.json//entities/335/settings/event/158/message"
-msgid "Good! What are we waiting for then?"
+msgid "Good! What are we waiting for, then?"
 msgstr "Хорошо! Тогда чего мы ждём?"
 
 #. data/maps/jungle/dng/tree-exterior.json entities/335/settings/event/170/task #658
@@ -16770,7 +16752,7 @@ msgstr "Готов, если вы готовы!"
 #. SHOW_MSG main.emilie @DETERMINED
 #: data/maps/jungle/dng/tree-exterior.json+entities/336/settings/blockEvent/6/thenStep/6/0/2/message+%23648
 msgctxt "data/maps/jungle/dng/tree-exterior.json//entities/336/settings/blockEvent/6/thenStep/6/0/2/message"
-msgid "Let's enter then!"
+msgid "Let's enter, then!"
 msgstr "Давайте тогда войдём!"
 
 #. data/maps/jungle/dng/tree-exterior.json entities/336/settings/blockEvent/6/thenStep/6/1/0/message #649
@@ -17851,7 +17833,7 @@ msgstr "Мы сделали это! Ещё одно подземелье зак�
 #. cross-worlds.pentafist-female-height-friend
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/357/settings/dialog/1/text+%23913
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/357/settings/dialog/1/text"
-msgid "Yep, under water dungeon crawling. Pretty neat."
+msgid "Yep, underwater dungeon crawling. Pretty neat."
 msgstr "Ага, забег в подземелье под водой. Довольно неплохо."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/357/settings/dialog/2/text #916
@@ -17859,7 +17841,7 @@ msgstr "Ага, забег в подземелье под водой. Довол
 #. cross-worlds.hexacast-female-height-chan
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/357/settings/dialog/2/text+%23916
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/357/settings/dialog/2/text"
-msgid "In fact I think this was my favorite dungeon so far!"
+msgid "In fact, I think this was my favorite dungeon so far!"
 msgstr "На самом деле, я думаю, что это было моё любимое подземелье на данный момент!"
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/357/settings/dialog/3/text #917
@@ -18611,7 +18593,7 @@ msgstr "Собираюсь проверить на загрязнение и р�
 #. SHOW_MSG greenies-jungle.female-examiner-white @DEFAULT
 #: data/maps/jungle/grove/grove-path-02.json+entities/891/settings/npcStates/0/event/quest/12/message+%23776
 msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/891/settings/npcStates/0/event/quest/12/message"
-msgid "Meanwhile you will have to protect me from angry denizens of the Track that might appear."
+msgid "Meanwhile, you will have to protect me from angry denizens of the Track that might appear."
 msgstr "Тем временем тебе придётся защищать меня от злых обитателей Пути Древних, которые могут появиться."
 
 #. data/maps/jungle/grove/grove-path-02.json entities/891/settings/npcStates/0/event/quest/13/message #795
@@ -18703,7 +18685,7 @@ msgstr "[кивает]"
 #. SHOW_MSG greenies-jungle.female-examiner-white @DEFAULT
 #: data/maps/jungle/grove/grove-path-02.json+entities/891/settings/npcStates/1/event/quest/7/0/2/message+%23534
 msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/891/settings/npcStates/1/event/quest/7/0/2/message"
-msgid "Alright.\\. Just let me prepare myself real quick."
+msgid "Alright.\\. Just let me gather my things real quick."
 msgstr "Хорошо.\\. Позволь мне быстренько подготовиться."
 
 #. data/maps/jungle/grove/grove-path-02.json entities/891/settings/npcStates/1/event/quest/7/1/0/message #50
@@ -19075,7 +19057,7 @@ msgstr "Пока!"
 #. SHOW_SIDE_MSG main.emilie @SMILE
 #: data/maps/jungle/grove/grove-path-02.json+entities/914/settings/event/0/message+%23872
 msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/914/settings/event/0/message"
-msgid "Now that's a place where I'd definitely dive into the water when I could!"
+msgid "Now that's a place where I'd definitely dive into the water if I could!"
 msgstr "А вот здесь я бы точно нырнула в воду, если бы могла!"
 
 #. data/maps/jungle/grove/grove-path-02.json entities/914/settings/event/1/message #873
@@ -19787,7 +19769,7 @@ msgstr "Искатель теперь всё понял?"
 #: data/maps/jungle/infested/infested-path-01.json+entities/726/settings/npcStates/1/event/quest/9/options/0/label+%23762
 msgctxt "data/maps/jungle/infested/infested-path-01.json//entities/726/settings/npcStates/1/event/quest/9/options/0/label"
 msgid "\\c[2]Start capturing\\c[0]"
-msgstr "Начать ловлю"
+msgstr "\\c[2]Начать ловлю\\c[0]"
 
 #. data/maps/jungle/infested/infested-path-01.json entities/726/settings/npcStates/1/event/quest/9/options/1/label #763
 #. NPC fridgequest-techNephew
@@ -19796,7 +19778,7 @@ msgstr "Начать ловлю"
 #: data/maps/jungle/infested/infested-path-01.json+entities/726/settings/npcStates/1/event/quest/9/options/1/label+%23763
 msgctxt "data/maps/jungle/infested/infested-path-01.json//entities/726/settings/npcStates/1/event/quest/9/options/1/label"
 msgid "\\c[1]No\\c[0]"
-msgstr "Нет"
+msgstr "\\c[1]Нет\\c[0]"
 
 #. data/maps/jungle/infested/infested-path-01.json entities/726/settings/npcStates/1/event/quest/9/options/2/label #765
 #. NPC fridgequest-techNephew
@@ -19870,8 +19852,8 @@ msgstr "...почему??"
 #. SHOW_MSG basin.shad-male-techie @DEFAULT
 #: data/maps/jungle/infested/infested-path-01.json+entities/728/settings/event/30/message+%23783
 msgctxt "data/maps/jungle/infested/infested-path-01.json//entities/728/settings/event/30/message"
-msgid "Though, we be needing 2 more and they not be catched themselves.\\. So follow me to \\c[3]Infested Marches North\\c[0]."
-msgstr "Но нам понадобится ещё два, и они сами себя не поймают.\\. Следуй за мной в \\c[3]Северное заражённое болото\\c[0]."
+msgid "Though, we be needing 2 more and they not be catched themselves.\\. So follow me to \\c[3]Infested Marshes North\\c[0]."
+msgstr "Но нам понадобится ещё два, и они сами себя не поймают.\\. Так что следуй за мной в \\c[3]Северное заражённое болото\\c[0]."
 
 #. data/maps/jungle/infested/infested-path-01.json entities/728/settings/event/31/message #784
 #. EventTrigger battleEnd START IF tmp.capturedEnough && tmp.enemyCounter >= tmp.enemySpawned
@@ -20162,7 +20144,7 @@ msgstr "Похоже, что к \\c[3]югу от арены\\c[0] творит�
 #: data/maps/jungle/infested/infested-path-03.json+entities/839/settings/event/35/message+%23477
 msgctxt "data/maps/jungle/infested/infested-path-03.json//entities/839/settings/event/35/message"
 msgid "Yes, there's all kinds of random enemies here!"
-msgstr "Да, здесь все виды случайных врагов!"
+msgstr "Да, каких случайных врагов здесь только нет!"
 
 #. data/maps/jungle/infested/infested-path-03.json entities/839/settings/event/36/message #482
 #. EventTrigger seizuiBattleEnd START IF tmp.seizuiKills >= 8
@@ -20194,7 +20176,7 @@ msgstr "..."
 #: data/maps/jungle/infested/infested-path-03.json+entities/839/settings/event/39/message+%23485
 msgctxt "data/maps/jungle/infested/infested-path-03.json//entities/839/settings/event/39/message"
 msgid "We're sorry for all the trouble... but your help would be really appreciated right now."
-msgstr "Прости нас за все неприятности... но твоя помощь будет очень ценна сейчас."
+msgstr "Прости нас за все неприятности... но твоя помощь сейчас будет очень ценна."
 
 #. data/maps/jungle/infested/infested-path-04.json entities/814/settings/event/0/message #1
 #. LocationEvent START IF party.alive.Joern
@@ -20284,7 +20266,7 @@ msgstr "Ово'кьяри"
 #: data/maps/jungle/infested/infested-path-04.json+entities/823/settings/npcStates/0/event/quest/10/0/30/message+%23779
 msgctxt "data/maps/jungle/infested/infested-path-04.json//entities/823/settings/npcStates/0/event/quest/10/0/30/message"
 msgid "Happy catching, \\v[lore.title.seeker].\\. I will wait here till one is inside cage."
-msgstr "Удачной ловли, Искатель.\\. Я буду ждать здесь, пока один не будет в клетке."
+msgstr "Счастливой ловли, Искатель.\\. Я буду ждать здесь, пока один не будет в клетке."
 
 #. data/maps/jungle/infested/infested-path-04.json entities/823/settings/npcStates/0/event/quest/10/0/32/thenStep/0/guiInfo/settings/text #760
 #. NPC fridgequest-techNephew
@@ -20435,7 +20417,7 @@ msgstr "Искатель теперь всё понял?"
 #: data/maps/jungle/infested/infested-path-04.json+entities/823/settings/npcStates/0/event/quest/10/options/0/label+%23762
 msgctxt "data/maps/jungle/infested/infested-path-04.json//entities/823/settings/npcStates/0/event/quest/10/options/0/label"
 msgid "\\c[2]Start capturing\\c[0]"
-msgstr "Начать ловлю"
+msgstr "\\c[2]Начать ловлю\\c[0]"
 
 #. data/maps/jungle/infested/infested-path-04.json entities/823/settings/npcStates/0/event/quest/10/options/1/label #763
 #. NPC fridgequest-techNephew
@@ -20444,7 +20426,7 @@ msgstr "Начать ловлю"
 #: data/maps/jungle/infested/infested-path-04.json+entities/823/settings/npcStates/0/event/quest/10/options/1/label+%23763
 msgctxt "data/maps/jungle/infested/infested-path-04.json//entities/823/settings/npcStates/0/event/quest/10/options/1/label"
 msgid "\\c[1]No\\c[0]"
-msgstr "Нет"
+msgstr "\\c[1]Нет\\c[0]"
 
 #. data/maps/jungle/infested/infested-path-04.json entities/823/settings/npcStates/0/event/quest/10/options/2/label #765
 #. NPC fridgequest-techNephew
@@ -20493,7 +20475,7 @@ msgstr "Тут хватит генераторов для питания важ�
 #: data/maps/jungle/infested/infested-path-04.json+entities/826/settings/event/24/message+%23783
 msgctxt "data/maps/jungle/infested/infested-path-04.json//entities/826/settings/event/24/message"
 msgid "They be teleporting back to workshop like others.\\. And me follow, finally!"
-msgstr "Они телепортируются в мастерскую, как и другие.\\. И следуй за мной, наконец!"
+msgstr "Они телепортируются в мастерскую, как и другие.\\. И я за ними, наконец-то!"
 
 #. data/maps/jungle/infested/infested-path-04.json entities/826/settings/event/25/message #751
 #. EventTrigger battleEnd START IF tmp.capturedEnough && tmp.enemyCounter >= tmp.enemySpawned
@@ -20600,7 +20582,7 @@ msgstr "Да!\\. Поймано достаточно котиков!\\. Иска
 #: data/maps/jungle/infested/infested-path-04.json+entities/828/settings/event/2/elseStep/1/thenStep/0/thenStep/1/message+%23789
 msgctxt "data/maps/jungle/infested/infested-path-04.json//entities/828/settings/event/2/elseStep/1/thenStep/0/thenStep/1/message"
 msgid "Now other enemies must get mobbed to retrieve generators safely!"
-msgstr "Теперь надо задавить остальных врагов, чтобы достать клетку!"
+msgstr "Теперь надо задавить остальных врагов, чтобы достать генераторы!"
 
 #. data/maps/jungle/left/path-left-01.json entities/708/settings/text #878
 #. Analyzable quest-hiddenPlant1 SPAWN IF (quest.jungleGreens-2-plantSearch_1.currentTask == 0) && (!map.questPlant-1)
@@ -20641,7 +20623,7 @@ msgstr "Mon dieu (Боже мой), мы наконец-то достигли е
 #: data/maps/jungle/left/path-left-02.json+entities/729/settings/event/0/elseStep/0/thenStep/0/message+%233
 msgctxt "data/maps/jungle/left/path-left-02.json//entities/729/settings/event/0/elseStep/0/thenStep/0/message"
 msgid "Oh, we finally reached it!\\. Let's hope it was worth it."
-msgstr "О, мы наконец достигли его!\\. Надеюсь, это того стоило."
+msgstr "О, мы наконец достигли его!\\. Будем надеяться, это того стоило."
 
 #. data/maps/jungle/left/path-left-02.json entities/729/settings/event/0/elseStep/0/elseStep/0/thenStep/0/message #4
 #. LocationEvent chest
@@ -20664,7 +20646,7 @@ msgstr "Этот сундук было труднее всего достать!
 #: data/maps/jungle/left/path-left-02.json+entities/729/settings/event/0/elseStep/0/elseStep/0/elseStep/0/thenStep/0/message+%235
 msgctxt "data/maps/jungle/left/path-left-02.json//entities/729/settings/event/0/elseStep/0/elseStep/0/elseStep/0/thenStep/0/message"
 msgid "Now that certainly took some time."
-msgstr "Да, это определённо было довольно долго."
+msgstr "Да, многовато времени на это ушло."
 
 #. data/maps/jungle/left/path-left-02.json entities/732/settings/text #877
 #. Analyzable quest-hiddenPlant1 SPAWN IF (quest.jungleGreens-2-plantSearch_1.currentTask == 0) && (!map.questPlant-1 || !map.questPlant-2)
@@ -20788,7 +20770,7 @@ msgstr "Здесь много новых типов врагов."
 #. SHOW_MSG main.sergey @THINKING
 #: data/maps/jungle/path-01-entrance.json+entities/552/settings/event/14/message+%23204
 msgctxt "data/maps/jungle/path-01-entrance.json//entities/552/settings/event/14/message"
-msgid "Funny enough though... \\c[3]no bugs\\c[0]."
+msgid "Funny enough, though... \\c[3]no bugs\\c[0]."
 msgstr "Но, что довольно забавно... \\c[3]никаких жуков\\c[0]."
 
 #. data/maps/jungle/path-01-entrance.json entities/552/settings/event/15/message #205
@@ -21382,7 +21364,7 @@ msgstr "Отлично!"
 #. SHOW_MSG antagonists.fancyguy @DEFAULT
 #: data/maps/jungle/path-01-entrance.json+entities/566/settings/event/38/message+%23243
 msgctxt "data/maps/jungle/path-01-entrance.json//entities/566/settings/event/38/message"
-msgid "I'll be waiting at the \\c[3]open field\\c[0] over there!"
+msgid "I'll be waiting at the \\c[3]open field\\c[0] down there!"
 msgstr "Я буду ждать на \\c[3]открытой местности\\c[0] - вон там!"
 
 #. data/maps/jungle/path-01-entrance.json entities/566/settings/event/47/message #232
@@ -21398,7 +21380,7 @@ msgstr "Снова этот парень."
 #. SHOW_MSG main.sergey @THINKING
 #: data/maps/jungle/path-01-entrance.json+entities/566/settings/event/48/message+%23244
 msgctxt "data/maps/jungle/path-01-entrance.json//entities/566/settings/event/48/message"
-msgid "Do not tell me he has been on a stakeout here all this time..."
+msgid "Don't tell me he has been on a stakeout here all this time..."
 msgstr "Не говори мне, что он всё это время сидел тут в засаде..."
 
 #. data/maps/jungle/path-01-entrance.json entities/566/settings/event/49/message #245
@@ -21614,7 +21596,7 @@ msgstr "Весьма увлекательно."
 #: data/maps/jungle/path-01-entrance.json+entities/577/settings/event/0/elseStep/0/thenStep/0/thenStep/0/thenStep/0/message+%23809
 msgctxt "data/maps/jungle/path-01-entrance.json//entities/577/settings/event/0/elseStep/0/thenStep/0/thenStep/0/thenStep/0/message"
 msgid "Dying as quickly as always..."
-msgstr "Умираешь быстро, как и всегда..."
+msgstr "Как всегда быстро умираешь..."
 
 #. data/maps/jungle/path-01-entrance.json entities/577/settings/event/0/elseStep/0/thenStep/0/thenStep/0/elseStep/0/message #719
 #. EventTrigger pvpBrake START IF pvp.brake
@@ -21775,7 +21757,7 @@ msgstr "Вместо этого, ты продолжаешь это бесчес
 #. SHOW_MSG antagonists.fancyguy @ANGRY
 #: data/maps/jungle/path-01-entrance.json+entities/578/settings/event/23/thenStep/5/thenStep/1/thenStep/3/message+%23786
 msgctxt "data/maps/jungle/path-01-entrance.json//entities/578/settings/event/23/thenStep/5/thenStep/1/thenStep/3/message"
-msgid "I am truly \\c[1]disappointed\\c[0]. Here I had hoped it would be different this time but alas..."
+msgid "I am truly \\c[1]disappointed\\c[0]. I wish it had been different this time but alas..."
 msgstr "Я реально \\c[1]разочарован\\c[0]. Я надеялся, что на этот раз всё будет иначе, но, увы..."
 
 #. data/maps/jungle/path-01-entrance.json entities/578/settings/event/23/thenStep/5/thenStep/1/thenStep/5/message #787
@@ -21808,8 +21790,8 @@ msgstr "Честно говоря, не вижу больше причин на 
 #. SHOW_MSG antagonists.fancyguy @ANGRY
 #: data/maps/jungle/path-01-entrance.json+entities/578/settings/event/23/thenStep/5/thenStep/1/thenStep/7/message+%23789
 msgctxt "data/maps/jungle/path-01-entrance.json//entities/578/settings/event/23/thenStep/5/thenStep/1/thenStep/7/message"
-msgid "I'm afraid I'll have to report your behavior to the \\c[1]moderators\\c[0]."
-msgstr "Я боюсь, мне придётся сообщить о твоём поведении \\c[1]модераторам\\c[0]."
+msgid "You leave me no choice but to report your behavior to the \\c[1]moderators\\c[0]."
+msgstr "Ты мне не оставляешь другого выбора, кроме как сообщить о твоём поведении \\c[1]модераторам\\c[0]."
 
 #. data/maps/jungle/path-01-entrance.json entities/578/settings/event/23/thenStep/5/thenStep/1/elseStep/1/message #790
 #. EventTrigger pvpEnd START IF pvp.finished
@@ -21924,7 +21906,7 @@ msgstr "Знаешь, раньше тебя было сложнее победи
 #. SHOW_MSG antagonists.fancyguy @LECTURING
 #: data/maps/jungle/path-01-entrance.json+entities/578/settings/event/23/elseStep/4/elseStep/0/elseStep/0/message+%23691
 msgctxt "data/maps/jungle/path-01-entrance.json//entities/578/settings/event/23/elseStep/4/elseStep/0/elseStep/0/message"
-msgid "It seems you are still not quite at the right path, Spheromancer Lea."
+msgid "It seems you are still not quite on the right path, Spheromancer Lea."
 msgstr "Кажется, ты всё же не на пути истины, сферомант Лея."
 
 #. data/maps/jungle/path-01-entrance.json entities/578/settings/event/23/elseStep/4/elseStep/1/message #457
@@ -21966,7 +21948,7 @@ msgstr "...Пока."
 #. SHOW_MSG antagonists.sidekick @TOWARD
 #: data/maps/jungle/path-01-entrance.json+entities/578/settings/event/32/message+%23697
 msgctxt "data/maps/jungle/path-01-entrance.json//entities/578/settings/event/32/message"
-msgid "Hey Lea, is everything alright with you?"
+msgid "Hey, Lea, is everything alright with you?"
 msgstr "Эй, Лея, с тобой всё в порядке?"
 
 #. data/maps/jungle/path-01-entrance.json entities/578/settings/event/34/message #698
@@ -22104,7 +22086,7 @@ msgstr "[кивает]"
 #. SHOW_MSG antagonists.fancyguy @PONDERING
 #: data/maps/jungle/path-01-entrance.json+entities/578/settings/event/68/message+%23713
 msgctxt "data/maps/jungle/path-01-entrance.json//entities/578/settings/event/68/message"
-msgid "All that time?"
+msgid "All the time?"
 msgstr "Всё это время?"
 
 #. data/maps/jungle/path-01-entrance.json entities/578/settings/event/69/message #714
@@ -22274,7 +22256,7 @@ msgstr "Разве так, по-твоему, выглядит недоброс�
 #. SHOW_MSG antagonists.fancyguy @PONDERING
 #: data/maps/jungle/path-01-entrance.json+entities/578/settings/event/87/elseStep/0/message+%23724
 msgctxt "data/maps/jungle/path-01-entrance.json//entities/578/settings/event/87/elseStep/0/message"
-msgid "What are you saying Joern?"
+msgid "What are you saying, Joern?"
 msgstr "Что ты сказал, Йорн?"
 
 #. data/maps/jungle/path-01-entrance.json entities/578/settings/event/87/elseStep/1/message #725
@@ -22570,7 +22552,7 @@ msgstr "Знаешь, я ожидал лучшего."
 #. cross-worlds.quadroguard-female-black
 #: data/maps/jungle/path-01-entrance.json+entities/591/settings/dialog/0/text+%23755
 msgctxt "data/maps/jungle/path-01-entrance.json//entities/591/settings/dialog/0/text"
-msgid "So...\\. shall we go then?\\. The jungle is waiting!"
+msgid "So...\\. shall we go, then?\\. The jungle is waiting!"
 msgstr "Ну...\\. может, пойдём уже?\\. Джунгли ждут!"
 
 #. data/maps/jungle/path-01-entrance.json entities/591/settings/dialog/1/text #756
@@ -22602,7 +22584,7 @@ msgstr "Не уверен...\\. может, мы просто играли сл�
 #. cross-worlds.pentafist-female-blue
 #: data/maps/jungle/path-01-entrance.json+entities/592/settings/dialog/0/text+%23759
 msgctxt "data/maps/jungle/path-01-entrance.json//entities/592/settings/dialog/0/text"
-msgid "Finally we have proper trees in this game!"
+msgid "Finally, we have proper trees in this game!"
 msgstr "Наконец-то у нас появились настоящие деревья в этой игре!"
 
 #. data/maps/jungle/path-01-entrance.json entities/592/settings/dialog/1/text #760
@@ -22626,7 +22608,7 @@ msgstr "Пффф! Ты имеешь в виду эти кусты-перерос
 #. cross-worlds.triblader-male-blond
 #: data/maps/jungle/path-01-entrance.json+entities/592/settings/dialog/3/text+%23762
 msgctxt "data/maps/jungle/path-01-entrance.json//entities/592/settings/dialog/3/text"
-msgid "What does it matter anyway? We can't even climb."
+msgid "What does it matter, anyway? We can't even climb."
 msgstr "Какое это имеет значение? Мы даже не можем по ним лазить."
 
 #. data/maps/jungle/path-01-entrance.json entities/593/settings/dialog/0/text #763
@@ -22945,7 +22927,7 @@ msgstr "Тот, который выглядит как скромный NPC, и�
 #. SHOW_MSG misc.advisor-researcher @DEFAULT
 #: data/maps/jungle/path-02-crossroads.json+entities/660/settings/event/10/message+%23435
 msgctxt "data/maps/jungle/path-02-crossroads.json//entities/660/settings/event/10/message"
-msgid "Let me ask quite bluntly here Lady Lea..."
+msgid "Let me ask quite bluntly here, Lady Lea..."
 msgstr "Позвольте мне спросить напрямую, леди Лея..."
 
 #. data/maps/jungle/path-02-crossroads.json entities/660/settings/event/11/message #436
@@ -22969,7 +22951,7 @@ msgstr "[кивает]"
 #. SHOW_MSG misc.advisor-researcher @DEFAULT
 #: data/maps/jungle/path-02-crossroads.json+entities/660/settings/event/13/message+%23438
 msgctxt "data/maps/jungle/path-02-crossroads.json//entities/660/settings/event/13/message"
-msgid "Well this is quite unsettling. You are the third person to report so. "
+msgid "Well, this is quite unsettling. You are the third person to report so. "
 msgstr "Это довольно тревожно. Вы третий человек, который сообщает об этом."
 
 #. data/maps/jungle/path-02-crossroads.json entities/660/settings/event/14/message #439
@@ -22993,7 +22975,7 @@ msgstr "..."
 #. SHOW_MSG misc.advisor-researcher @DEFAULT
 #: data/maps/jungle/path-02-crossroads.json+entities/660/settings/event/16/message+%23441
 msgctxt "data/maps/jungle/path-02-crossroads.json//entities/660/settings/event/16/message"
-msgid "Ah, fear not Lady Lea. I do not believe you are involved in such shady business."
+msgid "Ah, fear not, Lady Lea. I do not believe you are involved in such shady business."
 msgstr "Ах, не бойтесь, леди Лея. Я не верю, что вы участвуете в таких сомнительных делах."
 
 #. data/maps/jungle/path-02-crossroads.json entities/660/settings/event/17/message #442
@@ -23001,7 +22983,7 @@ msgstr "Ах, не бойтесь, леди Лея. Я не верю, что в�
 #. SHOW_MSG misc.advisor-researcher @DEFAULT
 #: data/maps/jungle/path-02-crossroads.json+entities/660/settings/event/17/message+%23442
 msgctxt "data/maps/jungle/path-02-crossroads.json//entities/660/settings/event/17/message"
-msgid "I must however follow procedure and file a report against this player."
+msgid "I must, however, follow procedure and file a report against this player."
 msgstr "Однако я должен следовать процедуре и отправить отчёт на этого игрока."
 
 #. data/maps/jungle/path-02-crossroads.json entities/660/settings/event/18/message #443
@@ -23177,8 +23159,8 @@ msgstr "Это бред!"
 #. SHOW_MSG main.emilie @SUSPICIOUS
 #: data/maps/jungle/path-02-crossroads.json+entities/665/settings/event/37/message+%23477
 msgctxt "data/maps/jungle/path-02-crossroads.json//entities/665/settings/event/37/message"
-msgid "Ah oui?"
-msgstr "Ах oui (да)?"
+msgid "Ah, oui?"
+msgstr "Ах, oui (да)?"
 
 #. data/maps/jungle/path-02-crossroads.json entities/665/settings/event/38/message #478
 #. EventTrigger EndScene START IF plot.line >= 31400
@@ -23226,7 +23208,7 @@ msgstr "..."
 #: data/maps/jungle/path-02-crossroads.json+entities/665/settings/event/44/message+%23482
 msgctxt "data/maps/jungle/path-02-crossroads.json//entities/665/settings/event/44/message"
 msgid "Oh, you have got to be kidding me!!"
-msgstr "Ох, ты, должно быть, прикалываешься!!"
+msgstr "Ох, да ты прикалываешься!!"
 
 #. data/maps/jungle/path-02-crossroads.json entities/665/settings/event/53/text #914
 #. EventTrigger EndScene START IF plot.line >= 31400
@@ -23237,13 +23219,13 @@ msgid ""
 "I lied to her to keep her going.\\.\n"
 "Protecting her from the truth.\\.\n"
 "\\.\n"
-"Yet over time I noticed this...\\.\n"
+"Yet, over time, I noticed this...\\.\n"
 "growing feeling of guilt."
 msgstr ""
 "Я солгал ей, чтобы удержать её.\\.\n"
 "Защищал её от правды.\\.\n"
 "\\.\n"
-"И всё же, со временем я заметил это...\n"
+"И всё же, со временем я заметил это...\\.\n"
 "растущее чувство вины."
 
 #. data/maps/jungle/path-03-sync.json entities/31/settings/interact/hoverText #3
@@ -23278,7 +23260,7 @@ msgstr ""
 #. SHOW_MSG main.glasses @SMILE
 #: data/maps/jungle/path-04-end.json+entities/671/settings/npcStates/0/event/quest/5/message+%2344
 msgctxt "data/maps/jungle/path-04-end.json//entities/671/settings/npcStates/0/event/quest/5/message"
-msgid "Hello Lea!"
+msgid "Hello, Lea!"
 msgstr "Привет, Лея!"
 
 #. data/maps/jungle/path-04-end.json entities/671/settings/npcStates/0/event/quest/6/message #41
@@ -23458,7 +23440,7 @@ msgstr "Я до сих пор расстроена, что нам пришлос
 #. SHOW_MSG main.emilie @MOPING
 #: data/maps/jungle/path-04-end.json+entities/671/settings/npcStates/0/event/quest/55/message+%23299
 msgctxt "data/maps/jungle/path-04-end.json//entities/671/settings/npcStates/0/event/quest/55/message"
-msgid "Then Lea has been gone for so long and now she's acting all strange."
+msgid "Then, Lea has been gone for so long and now she's acting all strange."
 msgstr "Потом Леи так долго не было, а теперь она ведёт себя странно."
 
 #. data/maps/jungle/path-04-end.json entities/671/settings/npcStates/0/event/quest/56/message #300
@@ -23512,7 +23494,7 @@ msgstr "Oui (Да).\\. Это как бы должно помочь!"
 #. SHOW_MSG main.glasses @EXHAUSTED
 #: data/maps/jungle/path-04-end.json+entities/671/settings/npcStates/0/event/quest/66/message+%23305
 msgctxt "data/maps/jungle/path-04-end.json//entities/671/settings/npcStates/0/event/quest/66/message"
-msgid "Oh bother..."
+msgid "Oh, bother..."
 msgstr "Что же делать..."
 
 #. data/maps/jungle/path-04-end.json entities/671/settings/npcStates/0/event/quest/67/message #306
@@ -23539,7 +23521,7 @@ msgstr "Конечно, попробуй."
 #. SHOW_MSG main.glasses @SMILE
 #: data/maps/jungle/path-04-end.json+entities/671/settings/npcStates/0/event/quest/74/message+%23308
 msgctxt "data/maps/jungle/path-04-end.json//entities/671/settings/npcStates/0/event/quest/74/message"
-msgid "Okay Lea, first of all..."
+msgid "Okay, Lea, first of all..."
 msgstr "Ладно, Лея, прежде всего..."
 
 #. data/maps/jungle/path-04-end.json entities/671/settings/npcStates/0/event/quest/75/message #309
@@ -23854,7 +23836,7 @@ msgstr "Привет!!"
 #. SHOW_MSG main.emilie @PRE_CRY
 #: data/maps/jungle/path-04-end.json+entities/671/settings/npcStates/0/event/quest/134/message+%23350
 msgctxt "data/maps/jungle/path-04-end.json//entities/671/settings/npcStates/0/event/quest/134/message"
-msgid "I don't know what got over me..."
+msgid "I don't know what came over me..."
 msgstr "Я не знаю, что на меня нашло..."
 
 #. data/maps/jungle/path-04-end.json entities/671/settings/npcStates/0/event/quest/135/message #351
@@ -24160,7 +24142,7 @@ msgstr "Прости."
 #. SHOW_MSG main.sergey @THINKING
 #: data/maps/jungle/path-04-end.json+entities/671/settings/npcStates/0/event/quest/211/message+%23384
 msgctxt "data/maps/jungle/path-04-end.json//entities/671/settings/npcStates/0/event/quest/211/message"
-msgid "Well I thought...\\. it might have helped?"
+msgid "Well, I thought...\\. it might have helped?"
 msgstr "Ну, я подумал...\\. это могло бы помочь?"
 
 #. data/maps/jungle/path-04-end.json entities/671/settings/npcStates/0/event/quest/212/message #385
@@ -24214,7 +24196,7 @@ msgstr "Пока."
 #. SHOW_MSG main.emilie @UP
 #: data/maps/jungle/path-04-end.json+entities/671/settings/npcStates/0/event/quest/221/message+%23390
 msgctxt "data/maps/jungle/path-04-end.json//entities/671/settings/npcStates/0/event/quest/221/message"
-msgid "Hey Lea! Let's go!"
+msgid "Hey, Lea! Let's go!"
 msgstr "Эй, Лея! Пойдём!"
 
 #. data/maps/jungle/path-04-end.json entities/671/settings/npcStates/0/event/quest/227/message #391
@@ -24277,8 +24259,8 @@ msgstr "Прости..."
 #. SHOW_MSG main.emilie @HAPPY
 #: data/maps/jungle/path-04-end.json+entities/671/settings/npcStates/0/event/quest/235/message+%23397
 msgctxt "data/maps/jungle/path-04-end.json//entities/671/settings/npcStates/0/event/quest/235/message"
-msgid "Haha, pas de probleme!"
-msgstr "Ха-ха, pas de probleme (нет проблем)!"
+msgid "Haha, pas de problème!"
+msgstr "Ха-ха, pas de problème (нет проблем)!"
 
 #. data/maps/jungle/path-04-end.json entities/671/settings/npcStates/0/event/quest/236/message #398
 #. NPC glasses
@@ -25016,3 +24998,1191 @@ msgstr "Влажный след, ведущий к \\c[3]северу\\c[0]"
 msgctxt "data/maps/jungle/right/right-path-04.json//entities/631/settings/text"
 msgid "Moist trail leading \\c[3]northwest\\c[0]"
 msgstr "Влажный след, ведущий к \\c[3]северо-западу\\c[0]"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json entities/45/settings/condAnims/0/interact/hoverText #213
+#. Prop sideLore1
+#. IF true
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json+entities/45/settings/condAnims/0/interact/hoverText+%23213
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json//entities/45/settings/condAnims/0/interact/hoverText"
+msgid "Display"
+msgstr "Монитор"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json entities/45/settings/condAnims/0/interact/event/1/text #252
+#. Prop sideLore1
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json+entities/45/settings/condAnims/0/interact/event/1/text+%23252
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json//entities/45/settings/condAnims/0/interact/event/1/text"
+msgid ""
+"\\c[1]INTERNAL MAIL, SENT\\c[0]\n"
+"\n"
+"\\c[3]FROM:\\c[0] Office 34a\n"
+"\\c[3]TO:\\c[0] \"Mech Machinery\", Management\n"
+"\n"
+"\\c[3]Subject:\\c[0] Regarding the deliveries"
+msgstr ""
+"\\c[1]ВНУТРЕННЕЕ ПИСЬМО, ОТПРАВЛЕННОЕ\\c[0]\n"
+"\n"
+"\\c[3]ОТ:\\c[0] Офис 34а\n"
+"\\c[3]КОМУ:\\c[0] Администрация \"Механического оборудования\"\n"
+"\n"
+"\\c[3]Тема:\\c[0] Насчёт поставок"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json entities/45/settings/condAnims/0/interact/event/2/text #235
+#. Prop sideLore1
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json+entities/45/settings/condAnims/0/interact/event/2/text+%23235
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json//entities/45/settings/condAnims/0/interact/event/2/text"
+msgid ""
+"Respected management,\n"
+"\n"
+"we are grateful for all the support and material you send to us, but we are at this point very well equipped already. All those cargo boxes are starting to pile up, even in our lobby!"
+msgstr ""
+"Уважаемая администрация,\n"
+"\n"
+"мы благодарны за всю поддержку и материалы, которые вы нам присылаете, но на данный момент мы уже очень хорошо оснащены. Все эти грузовые ящики начинают скапливаться даже в нашем холле!"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json entities/45/settings/condAnims/0/interact/event/3/text #249
+#. Prop sideLore1
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json+entities/45/settings/condAnims/0/interact/event/3/text+%23249
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json//entities/45/settings/condAnims/0/interact/event/3/text"
+msgid ""
+"The same goes for boxes full of fishfood. At this point we fear that it might go bad.\n"
+"In the worst case our subjects might even get agitated by the smell and get more aggressive than they already are."
+msgstr "То же самое касается и ящиков с рыбьим кормом. В данный момент мы боимся, что он может испортиться. В худшем случае наши испытуемые могут даже возбудиться от запаха и стать более агрессивными, чем раньше."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json entities/45/settings/condAnims/0/interact/event/4/text #250
+#. Prop sideLore1
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json+entities/45/settings/condAnims/0/interact/event/4/text+%23250
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json//entities/45/settings/condAnims/0/interact/event/4/text"
+msgid ""
+"So please stop sending us more of your support until explicitly asked.\n"
+"Thank you.\n"
+"\n"
+"Sincerely,\n"
+"[NAME REDACTED]\n"
+"\n"
+"\\c[1][END OF MAIL]\\c[0]"
+msgstr ""
+"Поэтому, пожалуйста, перестаньте обеспечивать нас своей поддержкой, пока вас не попросят об этом напрямую.\n"
+"Спасибо.\n"
+"\n"
+"С уважением,\n"
+"[ИМЯ ОТРЕДАКТИРОВАНО]\n"
+"\n"
+"\\c[1][КОНЕЦ ПИСЬМА]\\c[0]"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json entities/45/settings/condAnims/0/interact/event/5/text #254
+#. Prop sideLore1
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json+entities/45/settings/condAnims/0/interact/event/5/text+%23254
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json//entities/45/settings/condAnims/0/interact/event/5/text"
+msgid ""
+"\\c[1]INTERNAL MAIL, SENT\\c[0]\n"
+"\n"
+"\\c[3]FROM:\\c[0] Office 34a\n"
+"\\c[3]TO:\\c[0] \"Mech Machinery\", Management\n"
+"\n"
+"\\c[3]Subject:\\c[0] Regarding the deliveries, Follow-up"
+msgstr ""
+"\\c[1]ВНУТРЕННЯЯ ПОЧТА, ОТПРАВЛЕННОЕ\\c[0]\n"
+"\n"
+"\\c[3]ОТ:\\c[0] Офис 34а\n"
+"\\c[3]КОМУ:\\c[0] Администрация \"Механического оборудования\"\n"
+"\n"
+"\\c[3]Тема:\\c[0] Насчёт поставок, продолжение"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json entities/45/settings/condAnims/0/interact/event/6/text #255
+#. Prop sideLore1
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json+entities/45/settings/condAnims/0/interact/event/6/text+%23255
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json//entities/45/settings/condAnims/0/interact/event/6/text"
+msgid ""
+"Respected management,\n"
+"\n"
+"on second thought, you could send more swimsuits, insect spray and hygiene articles.\n"
+"Working desk-jobs with that unreliable air conditioning is becoming a bit of a pain."
+msgstr ""
+"Уважаемая администрация,\n"
+"\n"
+"если подумать, вы могли бы присылать больше купальных костюмов, спрея от насекомых и средств гигиены.\n"
+"Работа в офисе с таким ненадёжным кондиционером становится немного напряжённой."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json entities/45/settings/condAnims/0/interact/event/7/text #256
+#. Prop sideLore1
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json+entities/45/settings/condAnims/0/interact/event/7/text+%23256
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json//entities/45/settings/condAnims/0/interact/event/7/text"
+msgid ""
+"Me and a colleague are also planning a little \\c[3]surprise pool party\\c[0] to improve that team spirit! Maybe you can help us out there?\n"
+"We will also send you some nice photos for recruitment flyers, I promise!!"
+msgstr "Мы с коллегой также планируем небольшую \\c[3]вечеринку-сюрприз в бассейне\\c[0], чтобы укрепить командный дух! Может быть, вы можете помочь нам с этим? Мы также пришлём вам несколько хороших фотографий для вербовочных листовок, обещаю!!"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json entities/45/settings/condAnims/0/interact/event/8/text #257
+#. Prop sideLore1
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json+entities/45/settings/condAnims/0/interact/event/8/text+%23257
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json//entities/45/settings/condAnims/0/interact/event/8/text"
+msgid ""
+"Thank you in advance!\n"
+"\n"
+"Sincerely,\n"
+"[NAME REDACTED]\n"
+"\n"
+"\\c[1][END OF MAIL]\\c[0]"
+msgstr ""
+"Заранее благодарю вас!\n"
+"\n"
+"С уважением,\n"
+"[ИМЯ ОТРЕДАКТИРОВАНО]\n"
+"\n"
+"\\c[1][КОНЕЦ ПИСЬМА]\\c[0]"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json entities/49/settings/condAnims/0/interact/hoverText #4
+#. Prop
+#. IF !g.lab.jungle.elevator1
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json+entities/49/settings/condAnims/0/interact/hoverText+%234
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json//entities/49/settings/condAnims/0/interact/hoverText"
+msgid "Display"
+msgstr "Монитор"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json entities/49/settings/condAnims/0/interact/event/1/text #3
+#. Prop
+#. IF !g.lab.jungle.elevator1
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json+entities/49/settings/condAnims/0/interact/event/1/text+%233
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json//entities/49/settings/condAnims/0/interact/event/1/text"
+msgid ""
+"Bridge Elevator: \\c[1]disabled\\c[0].\n"
+"Do you want to enable the elevator?"
+msgstr ""
+"Мостовой лифт: \\c[1]отключён\\c[0].\n"
+"Хотите включить лифт?"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json entities/49/settings/condAnims/0/interact/event/2/0/3/text #9
+#. Prop
+#. IF !g.lab.jungle.elevator1
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json+entities/49/settings/condAnims/0/interact/event/2/0/3/text+%239
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json//entities/49/settings/condAnims/0/interact/event/2/0/3/text"
+msgid "Bridge Elevator \\c[2]enabled\\c[0]!"
+msgstr "Мостовой лифт \\c[2]включён\\c[0]!"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json entities/49/settings/condAnims/0/interact/event/2/options/0/label #8
+#. Prop
+#. IF !g.lab.jungle.elevator1
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json+entities/49/settings/condAnims/0/interact/event/2/options/0/label+%238
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json//entities/49/settings/condAnims/0/interact/event/2/options/0/label"
+msgid "[yes]"
+msgstr "[да]"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json entities/49/settings/condAnims/0/interact/event/2/options/1/label #10
+#. Prop
+#. IF !g.lab.jungle.elevator1
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json+entities/49/settings/condAnims/0/interact/event/2/options/1/label+%2310
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json//entities/49/settings/condAnims/0/interact/event/2/options/1/label"
+msgid "[no]"
+msgstr "[нет]"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json entities/50/settings/interact/hoverText #226
+#. Prop holo-sign
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json+entities/50/settings/interact/hoverText+%23226
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json//entities/50/settings/interact/hoverText"
+msgid "Hologram"
+msgstr "Голограмма"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json entities/50/settings/interact/event/6/name #251
+#. Prop holo-sign
+#. ADD_MSG_PERSON lab.scientist-ps4 @HOLOGRAM
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json+entities/50/settings/interact/event/6/name+%23251
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json//entities/50/settings/interact/event/6/name"
+msgid "Dave Halman"
+msgstr "Дейв Хэлман"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json entities/50/settings/interact/event/8/message #27
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-ps4 @HOLOGRAM
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json+entities/50/settings/interact/event/8/message+%2327
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json//entities/50/settings/interact/event/8/message"
+msgid "Greetings, traveller.\\. Please take your time to listen to the story of this facility."
+msgstr "Приветствую, странник.\\. Пожалуйста, не торопитесь, послушайте историю этого места."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json entities/50/settings/interact/event/9/message #227
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-ps4 @HOLOGRAM
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json+entities/50/settings/interact/event/9/message+%23227
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json//entities/50/settings/interact/event/9/message"
+msgid "My name is \\c[3]Dave Halman\\c[0], leading developer for \\c[3]Mech Machinery\\c[0].\\. I will be your narrator."
+msgstr "Меня зовут \\c[3]Дейв Хэлман\\c[0], я главный разработчик \\c[3]\"Механического оборудования\"\\c[0].\\ Я буду вашим рассказчиком."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json entities/50/settings/interact/event/10/message #246
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-ps4 @HOLOGRAM
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json+entities/50/settings/interact/event/10/message+%23246
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json//entities/50/settings/interact/event/10/message"
+msgid "This all began many years ago with a vision.\\. Finding an endless source of clean energy.\\. Forming a closer connection to the Track."
+msgstr "Это всё началось много лет назад с видения.\\. Открытия бесконечного источника чистой энергии.\\. Формирования более тесной связи с Путём."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json entities/50/settings/interact/event/11/message #238
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-ps4 @HOLOGRAM
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json+entities/50/settings/interact/event/11/message+%23238
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json//entities/50/settings/interact/event/11/message"
+msgid "And using modern technology to create lifelike limbs from metal... This has always been a passion of ours."
+msgstr "И использование современных технологий для создания идентичных настоящим конечностей из металла... Это всегда было нашей страстью."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json entities/50/settings/interact/event/12/message #239
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-ps4 @HOLOGRAM
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json+entities/50/settings/interact/event/12/message+%23239
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json//entities/50/settings/interact/event/12/message"
+msgid "With the funding we received and the support of other companies of various fields we could finally follow our ambition."
+msgstr "С финансированием, которое мы получили, и поддержкой других компаний из различных областей деятельности мы наконец смогли следовать нашим амбициям."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json entities/50/settings/interact/event/13/message #240
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-ps4 @HOLOGRAM
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json+entities/50/settings/interact/event/13/message+%23240
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json//entities/50/settings/interact/event/13/message"
+msgid "Creatures of the track... Combined with powerful metallic limbs!\\. This is truly the wonder we wanted to create."
+msgstr "Существа Пути... объединённые с мощными металлическими конечностями!\\. Это действительно то чудо, которое мы хотели создать."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json entities/50/settings/interact/event/14/message #241
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-ps4 @HOLOGRAM
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json+entities/50/settings/interact/event/14/message+%23241
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json//entities/50/settings/interact/event/14/message"
+msgid "Power such as this should be unthinkable by normal means, but by directly using the energy of the Track in our facility it became possible."
+msgstr "Сила, подобная этой, была бы немыслимой при использовании обычных средств, но за счёт использования энергии Пути напрямую это стало возможным."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json entities/50/settings/interact/event/15/message #247
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-ps4 @HOLOGRAM
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json+entities/50/settings/interact/event/15/message+%23247
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json//entities/50/settings/interact/event/15/message"
+msgid "Well, the story will continue another day.\\. I hope you will follow along, dear visitor."
+msgstr "Ну, повествование продолжится в другой день.\\. Надеюсь, вы последуете за мной, дорогой посетитель."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json entities/57/settings/condAnims/0/interact/hoverText #233
+#. Prop sideLore2
+#. IF true
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json+entities/57/settings/condAnims/0/interact/hoverText+%23233
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json//entities/57/settings/condAnims/0/interact/hoverText"
+msgid "Display"
+msgstr "Монитор"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json entities/57/settings/condAnims/0/interact/event/1/text #234
+#. Prop sideLore2
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json+entities/57/settings/condAnims/0/interact/event/1/text+%23234
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json//entities/57/settings/condAnims/0/interact/event/1/text"
+msgid ""
+"\\c[1]PRIVATE NOTE\\c[0]\n"
+"\n"
+"\\c[3]Title:\\c[0] Important reminder"
+msgstr ""
+"\\c[1]ЛИЧНАЯ ЗАМЕТКА\\c[0]\n"
+"\n"
+"\\c[3]Заголовок:\\c[0] Важное напоминание"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json entities/57/settings/condAnims/0/interact/event/2/text #253
+#. Prop sideLore2
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json+entities/57/settings/condAnims/0/interact/event/2/text+%23253
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json//entities/57/settings/condAnims/0/interact/event/2/text"
+msgid ""
+"- Take breaks when you need them!\n"
+"- Drink water regularly!\n"
+"- Love yourself, always!\n"
+"\n"
+"\\c[1][END OF NOTE]\\c[0]"
+msgstr ""
+"- Делай перерывы, когда тебе нужно!\n"
+"- Регулярно пей воду!\n"
+"- Люби себя всё время!\n"
+"\n"
+"\\c[1][КОНЕЦ ЗАМЕТКИ]\\c[0]"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json entities/57/settings/condAnims/0/interact/event/3/message #248
+#. Prop sideLore2
+#. IF true
+#. SHOW_MSG main.lea @EXCITED
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json+entities/57/settings/condAnims/0/interact/event/3/message+%23248
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub1.json//entities/57/settings/condAnims/0/interact/event/3/message"
+msgid "...!"
+msgstr "...!"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json entities/1/settings/condAnims/0/interact/hoverText #6
+#. Prop
+#. IF elevator.eleS1.dest == 1
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json+entities/1/settings/condAnims/0/interact/hoverText+%236
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json//entities/1/settings/condAnims/0/interact/hoverText"
+msgid "Call"
+msgstr "Вызвать"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json entities/61/settings/condAnims/0/interact/1/text #3
+#. Prop
+#. IF !g.lab.jungle.elevator2 && !tmp.testReady
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json+entities/61/settings/condAnims/0/interact/1/text+%233
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json//entities/61/settings/condAnims/0/interact/1/text"
+msgid ""
+"Bridge Elevator: \\c[1]disabled\\c[0].\n"
+"Do you want to enable the elevator?"
+msgstr ""
+"Мостовой лифт: \\c[1]отключён\\c[0].\n"
+"Хотите включить лифт?"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json entities/61/settings/condAnims/0/interact/2/0/3/text #9
+#. Prop
+#. IF !g.lab.jungle.elevator2 && !tmp.testReady
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json+entities/61/settings/condAnims/0/interact/2/0/3/text+%239
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json//entities/61/settings/condAnims/0/interact/2/0/3/text"
+msgid "Bridge Elevator \\c[2]enabled\\c[0]!"
+msgstr "Мостовой лифт \\c[2]включён\\c[0]!"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json entities/61/settings/condAnims/0/interact/2/options/0/label #8
+#. Prop
+#. IF !g.lab.jungle.elevator2 && !tmp.testReady
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json+entities/61/settings/condAnims/0/interact/2/options/0/label+%238
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json//entities/61/settings/condAnims/0/interact/2/options/0/label"
+msgid "[yes]"
+msgstr "[да]"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json entities/61/settings/condAnims/0/interact/2/options/1/label #10
+#. Prop
+#. IF !g.lab.jungle.elevator2 && !tmp.testReady
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json+entities/61/settings/condAnims/0/interact/2/options/1/label+%2310
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json//entities/61/settings/condAnims/0/interact/2/options/1/label"
+msgid "[no]"
+msgstr "[нет]"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json entities/61/settings/condAnims/0/interact/hoverText #11
+#. Prop
+#. IF !g.lab.jungle.elevator2 && !tmp.testReady
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json+entities/61/settings/condAnims/0/interact/hoverText+%2311
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json//entities/61/settings/condAnims/0/interact/hoverText"
+msgid "Display"
+msgstr "Монитор"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json entities/61/settings/condAnims/0/interact/event/1/text #16
+#. Prop
+#. IF !g.lab.jungle.elevator2 && !tmp.testReady
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json+entities/61/settings/condAnims/0/interact/event/1/text+%2316
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json//entities/61/settings/condAnims/0/interact/event/1/text"
+msgid ""
+"Test sequence status: \\c[2]ready\\c[0].\n"
+"\\c[1]Start test sequence\\c[0]?"
+msgstr ""
+"Состояние тестовой последовательности: \\c[2]готово\\c[0].\n"
+"\\c[1]Начать тестовую последовательность\\c[0]?"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json entities/61/settings/condAnims/0/interact/event/2/0/3/text #17
+#. Prop
+#. IF !g.lab.jungle.elevator2 && !tmp.testReady
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json+entities/61/settings/condAnims/0/interact/event/2/0/3/text+%2317
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json//entities/61/settings/condAnims/0/interact/event/2/0/3/text"
+msgid "Preparing to \\c[2]initiate test sequence\\c[0]!"
+msgstr "Подготовка к \\c[2]инициализации тестовой последовательности\\c[0]!"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json entities/61/settings/condAnims/0/interact/event/2/0/4/text #18
+#. Prop
+#. IF !g.lab.jungle.elevator2 && !tmp.testReady
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json+entities/61/settings/condAnims/0/interact/event/2/0/4/text+%2318
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json//entities/61/settings/condAnims/0/interact/event/2/0/4/text"
+msgid "Please \\c[3]enter lower area\\c[0] to begin."
+msgstr "Пожалуйста, \\c[3]войдите в нижнюю область\\c[0], чтобы начать."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json entities/61/settings/condAnims/0/interact/event/2/1/1/text #19
+#. Prop
+#. IF !g.lab.jungle.elevator2 && !tmp.testReady
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json+entities/61/settings/condAnims/0/interact/event/2/1/1/text+%2319
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json//entities/61/settings/condAnims/0/interact/event/2/1/1/text"
+msgid "Completion of test sequence is \\c[3]required\\c[0] in order to access the main elevator."
+msgstr "Выполнение тестовой последовательности \\c[3]необходимо\\c[0] для того, чтобы получить доступ к главному лифту."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json entities/61/settings/condAnims/0/interact/event/2/1/2/message #15
+#. Prop
+#. IF !g.lab.jungle.elevator2 && !tmp.testReady
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#. SHOW_MSG main.lea @ANNOYED
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json+entities/61/settings/condAnims/0/interact/event/2/1/2/message+%2315
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json//entities/61/settings/condAnims/0/interact/event/2/1/2/message"
+msgid "..."
+msgstr "..."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json entities/61/settings/condAnims/0/interact/event/2/options/0/label #20
+#. Prop
+#. IF !g.lab.jungle.elevator2 && !tmp.testReady
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json+entities/61/settings/condAnims/0/interact/event/2/options/0/label+%2320
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json//entities/61/settings/condAnims/0/interact/event/2/options/0/label"
+msgid "[yes]"
+msgstr "[да]"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json entities/61/settings/condAnims/0/interact/event/2/options/1/label #21
+#. Prop
+#. IF !g.lab.jungle.elevator2 && !tmp.testReady
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json+entities/61/settings/condAnims/0/interact/event/2/options/1/label+%2321
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json//entities/61/settings/condAnims/0/interact/event/2/options/1/label"
+msgid "[no]"
+msgstr "[нет]"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json entities/61/settings/condAnims/1/interact/1/text #22
+#. Prop
+#. IF !g.lab.jungle.elevator2 && tmp.testFinished
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json+entities/61/settings/condAnims/1/interact/1/text+%2322
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json//entities/61/settings/condAnims/1/interact/1/text"
+msgid ""
+"Bridge Elevator: \\c[1]disabled\\c[0].\n"
+"Do you want to enable the elevator?"
+msgstr ""
+"Мостовой лифт: \\c[1]отключён\\c[0].\n"
+"Хотите включить лифт?"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json entities/61/settings/condAnims/1/interact/2/0/3/text #23
+#. Prop
+#. IF !g.lab.jungle.elevator2 && tmp.testFinished
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json+entities/61/settings/condAnims/1/interact/2/0/3/text+%2323
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json//entities/61/settings/condAnims/1/interact/2/0/3/text"
+msgid "Bridge Elevator \\c[2]enabled\\c[0]!"
+msgstr "Мостовой лифт \\c[2]включён\\c[0]!"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json entities/61/settings/condAnims/1/interact/2/options/0/label #24
+#. Prop
+#. IF !g.lab.jungle.elevator2 && tmp.testFinished
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json+entities/61/settings/condAnims/1/interact/2/options/0/label+%2324
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json//entities/61/settings/condAnims/1/interact/2/options/0/label"
+msgid "[yes]"
+msgstr "[да]"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json entities/61/settings/condAnims/1/interact/2/options/1/label #25
+#. Prop
+#. IF !g.lab.jungle.elevator2 && tmp.testFinished
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json+entities/61/settings/condAnims/1/interact/2/options/1/label+%2325
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json//entities/61/settings/condAnims/1/interact/2/options/1/label"
+msgid "[no]"
+msgstr "[нет]"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json entities/61/settings/condAnims/1/interact/hoverText #26
+#. Prop
+#. IF !g.lab.jungle.elevator2 && tmp.testFinished
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json+entities/61/settings/condAnims/1/interact/hoverText+%2326
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json//entities/61/settings/condAnims/1/interact/hoverText"
+msgid "Display"
+msgstr "Монитор"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json entities/61/settings/condAnims/1/interact/event/1/text #27
+#. Prop
+#. IF !g.lab.jungle.elevator2 && tmp.testFinished
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json+entities/61/settings/condAnims/1/interact/event/1/text+%2327
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json//entities/61/settings/condAnims/1/interact/event/1/text"
+msgid ""
+"Test sequence status: \\c[2]completed\\c[0].\n"
+"Performance score: \\c[2]43.5%\\c[0]."
+msgstr ""
+"Состояние тестовой последовательности: \\c[2]завершено\\c[0].\n"
+"Оценка производительности: \\c[2]43.5%\\c[0]."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json entities/61/settings/condAnims/1/interact/event/4/text #28
+#. Prop
+#. IF !g.lab.jungle.elevator2 && tmp.testFinished
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json+entities/61/settings/condAnims/1/interact/event/4/text+%2328
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json//entities/61/settings/condAnims/1/interact/event/4/text"
+msgid "Granting access to \\c[3]main elevator\\c[0]."
+msgstr "Предоставление доступа к \\c[3]главному лифту\\c[0]."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json entities/61/settings/condAnims/1/interact/event/5/message #29
+#. Prop
+#. IF !g.lab.jungle.elevator2 && tmp.testFinished
+#. SHOW_MSG main.lea @PROUD
+#: extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json+entities/61/settings/condAnims/1/interact/event/5/message+%2329
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2-sub2.json//entities/61/settings/condAnims/1/interact/event/5/message"
+msgid "...!"
+msgstr "...!"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-2.json entities/70/settings/condAnims/0/interact/hoverText #6
+#. Prop
+#. IF elevator.eleS1.dest == 1
+#: extension/fish-gear/data/maps/jungle/lab/room-2.json+entities/70/settings/condAnims/0/interact/hoverText+%236
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-2.json//entities/70/settings/condAnims/0/interact/hoverText"
+msgid "Call"
+msgstr "Вызвать"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json entities/43/settings/condAnims/0/interact/hoverText #4
+#. Prop
+#. IF !g.lab.jungle.wall1
+#: extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json+entities/43/settings/condAnims/0/interact/hoverText+%234
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json//entities/43/settings/condAnims/0/interact/hoverText"
+msgid "Display"
+msgstr "Монитор"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json entities/43/settings/condAnims/0/interact/event/1/text #3
+#. Prop
+#. IF !g.lab.jungle.wall1
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json+entities/43/settings/condAnims/0/interact/event/1/text+%233
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json//entities/43/settings/condAnims/0/interact/event/1/text"
+msgid ""
+"Entrance to East Test Area: \\c[1]closed\\c[0].\n"
+"Do you want to keep the entrance closed?"
+msgstr ""
+"Вход в Восточную тестовую область: \\c[1]закрыто\\c[0].\n"
+"Вы хотите, чтобы вход был закрыт?"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json entities/43/settings/condAnims/0/interact/event/2/0/0/message #255
+#. Prop
+#. IF !g.lab.jungle.wall1
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#. SHOW_MSG main.lea @DEFAULT
+#: extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json+entities/43/settings/condAnims/0/interact/event/2/0/0/message+%23255
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json//entities/43/settings/condAnims/0/interact/event/2/0/0/message"
+msgid "\\..\\..\\.."
+msgstr "\\..\\..\\.."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json entities/43/settings/condAnims/0/interact/event/2/0/1/message #256
+#. Prop
+#. IF !g.lab.jungle.wall1
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#. SHOW_MSG main.lea @ANNOYED
+#: extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json+entities/43/settings/condAnims/0/interact/event/2/0/1/message+%23256
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json//entities/43/settings/condAnims/0/interact/event/2/0/1/message"
+msgid "...??"
+msgstr "...??"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json entities/43/settings/condAnims/0/interact/event/2/1/3/text #9
+#. Prop
+#. IF !g.lab.jungle.wall1
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json+entities/43/settings/condAnims/0/interact/event/2/1/3/text+%239
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json//entities/43/settings/condAnims/0/interact/event/2/1/3/text"
+msgid "Entrance to East Test Area \\c[2]opened\\c[0]!"
+msgstr "Вход в Восточную тестовую область \\c[2]открыт\\c[0]!"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json entities/43/settings/condAnims/0/interact/event/2/options/0/label #8
+#. Prop
+#. IF !g.lab.jungle.wall1
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#: extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json+entities/43/settings/condAnims/0/interact/event/2/options/0/label+%238
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json//entities/43/settings/condAnims/0/interact/event/2/options/0/label"
+msgid "[yes]"
+msgstr "[да]"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json entities/43/settings/condAnims/0/interact/event/2/options/1/label #10
+#. Prop
+#. IF !g.lab.jungle.wall1
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#: extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json+entities/43/settings/condAnims/0/interact/event/2/options/1/label+%2310
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json//entities/43/settings/condAnims/0/interact/event/2/options/1/label"
+msgid "[no]"
+msgstr "[нет]"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json entities/46/settings/interact/hoverText #226
+#. Prop holo-sign
+#: extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json+entities/46/settings/interact/hoverText+%23226
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json//entities/46/settings/interact/hoverText"
+msgid "Hologram"
+msgstr "Голограмма"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json entities/46/settings/interact/event/6/name #236
+#. Prop holo-sign
+#. ADD_MSG_PERSON lab.scientist-ps4 @HOLOGRAM
+#: extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json+entities/46/settings/interact/event/6/name+%23236
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json//entities/46/settings/interact/event/6/name"
+msgid "Dave Halman"
+msgstr "Дейв Хэлман"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json entities/46/settings/interact/event/8/message #27
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-ps4 @HOLOGRAM
+#: extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json+entities/46/settings/interact/event/8/message+%2327
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json//entities/46/settings/interact/event/8/message"
+msgid "Welcome. I'm glad you found your way back to us to hear more about our work.\\. Much has been achieved in the last months."
+msgstr "Добро пожаловать. Я рад, что вы вернулись к нам, чтобы больше узнать о нашей работе.\\. Многое было сделано за последние месяцы."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json entities/46/settings/interact/event/9/message #227
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-ps4 @HOLOGRAM
+#: extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json+entities/46/settings/interact/event/9/message+%23227
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json//entities/46/settings/interact/event/9/message"
+msgid "Our effort has been concentrated on giving legs to beings that lacked them the most: \\v[combat.name.jungle/fish]s!"
+msgstr "Наши усилия были сосредоточены на том, чтобы дать ноги существам, которым не хватало больше всего: Удильщикам!"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json entities/46/settings/interact/event/10/message #242
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-ps4 @HOLOGRAM
+#: extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json+entities/46/settings/interact/event/10/message+%23242
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json//entities/46/settings/interact/event/10/message"
+msgid "Elegant creatures, now enhanced by the power of legs, they might rise towards unpredictable potential."
+msgstr "Красивые существа, теперь улучшенные силой ног, они могут достичь небывалых возможностей."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json entities/46/settings/interact/event/11/message #244
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-ps4 @HOLOGRAM
+#: extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json+entities/46/settings/interact/event/11/message+%23244
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json//entities/46/settings/interact/event/11/message"
+msgid "We are thrilled to see what path they will walk from here on."
+msgstr "Мы заинтригованы, чтобы увидеть, какой путь они пройдут отсюда."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json entities/46/settings/interact/event/12/message #238
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-ps4 @HOLOGRAM
+#: extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json+entities/46/settings/interact/event/12/message+%23238
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json//entities/46/settings/interact/event/12/message"
+msgid "Our current project will be even bigger.\\. An entire huge machine, directly controlled by the neural waves of it's controlfish!"
+msgstr "Наш текущий проект будет ещё больше.\\. Целый огромный механизм, непосредственно управляемый нейронными волнами управляющей им рыбой!"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json entities/46/settings/interact/event/13/message #239
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-ps4 @HOLOGRAM
+#: extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json+entities/46/settings/interact/event/13/message+%23239
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json//entities/46/settings/interact/event/13/message"
+msgid "Most of its parts have already been finished, in no small part thanks to our associates delivering weapons and specialized parts!"
+msgstr "Большая часть его деталей уже закончена, в немалой степени благодаря нашим партнёрам, поставляющим оружие и специализированные запчасти!"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json entities/46/settings/interact/event/14/message #240
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-ps4 @HOLOGRAM
+#: extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json+entities/46/settings/interact/event/14/message+%23240
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json//entities/46/settings/interact/event/14/message"
+msgid "But rapid progress like this is not meant to be without its challenges.\\. After all, this is a core aspect of the Track."
+msgstr "Но такой быстрый прогресс не может быть без проблем.\\. В конце концов, это ключевой аспект Пути."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json entities/46/settings/interact/event/15/message #241
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-ps4 @HOLOGRAM
+#: extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json+entities/46/settings/interact/event/15/message+%23241
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json//entities/46/settings/interact/event/15/message"
+msgid "Its energy has a will of its own and tries to undermine our entire facility.\\. Only tireless reprogramming can preserve control."
+msgstr "Его энергия обладает собственной волей и пытается подорвать весь наш комплекс.\\. Только неустанное перепрограммирование может сохранить контроль."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json entities/46/settings/interact/event/16/message #243
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-ps4 @HOLOGRAM
+#: extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json+entities/46/settings/interact/event/16/message+%23243
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json//entities/46/settings/interact/event/16/message"
+msgid "Exciting times are ahead and we will continue to share our experience.\\. Hopefully you will join me again."
+msgstr "Впереди волнующие времена, и мы будем продолжать делиться своим опытом.\\. Надеюсь, вы присоединитесь ко мне снова."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json entities/52/settings/condAnims/0/interact/hoverText #213
+#. Prop sideLore1
+#. IF true
+#: extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json+entities/52/settings/condAnims/0/interact/hoverText+%23213
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json//entities/52/settings/condAnims/0/interact/hoverText"
+msgid "Display"
+msgstr "Монитор"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json entities/52/settings/condAnims/0/interact/event/1/text #234
+#. Prop sideLore1
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json+entities/52/settings/condAnims/0/interact/event/1/text+%23234
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json//entities/52/settings/condAnims/0/interact/event/1/text"
+msgid ""
+"\\c[1]INTERNAL MAIL, INBOX\\c[0]\n"
+"\n"
+"\\c[3]FROM:\\c[0] Office 69b\n"
+"\\c[3]TO:\\c[0] \"Mech Machinery\", Management\n"
+"\n"
+"\\c[3]Subject:\\c[0] Big Haunted Room"
+msgstr ""
+"\\c[1]ВНУТРЕННЕЕ ПИСЬМО, ВХОДЯЩЕЕ\\c[0]\n"
+"\n"
+"\\c[3]ОТ:\\c[0] Офис 69б\n"
+"\\c[3]КОМУ:\\c[0] Администрация \"Механического оборудования\"\n"
+"\n"
+"\\c[3]Тема:\\c[0] Большая одержимая комната"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json entities/52/settings/condAnims/0/interact/event/2/text #235
+#. Prop sideLore1
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json+entities/52/settings/condAnims/0/interact/event/2/text+%23235
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json//entities/52/settings/condAnims/0/interact/event/2/text"
+msgid ""
+"Dear management,\n"
+"\n"
+"I am very thankful for this career opportunity and I really like these benefits, but the things happening in this facility have become more and more worrying."
+msgstr ""
+"Уважаемая администрация,\n"
+"\n"
+"я очень благодарен за эту возможность карьерного роста, и мне действительно нравятся эта прибыль, но то, что происходит в этом комплексе, становится всё более и более тревожным."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json entities/52/settings/condAnims/0/interact/event/3/text #249
+#. Prop sideLore1
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json+entities/52/settings/condAnims/0/interact/event/3/text+%23249
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json//entities/52/settings/condAnims/0/interact/event/3/text"
+msgid "The occasional attack from our fishy test subjects are bad enough, but even our equipment and the rooms themselves seem to conspire against us now. The energy of the Track that we use as a powersource seems to corrupt and reshape them!"
+msgstr "Случайные нападения со стороны наших рыбных подопытных достаточно плохи, но даже наше оборудование и сами комнаты, кажется, сейчас сговорились против нас. Энергия Пути, которую мы используем в качестве источника энергии, кажется, искажает и изменяет их!"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json entities/52/settings/condAnims/0/interact/event/4/text #250
+#. Prop sideLore1
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json+entities/52/settings/condAnims/0/interact/event/4/text+%23250
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json//entities/52/settings/condAnims/0/interact/event/4/text"
+msgid "It's the worst in our \\c[3]Test Chamber\\c[0]. That room is outright cursed with all the weird objects that just appear out of nowhere over night."
+msgstr "Хуже всего в нашей \\c[3]Испытательной камере\\c[0]. Эта комната просто проклята со всеми этими странными объектами, которые просто появляются из ниоткуда в течение ночи."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json entities/52/settings/condAnims/0/interact/event/5/text #257
+#. Prop sideLore1
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json+entities/52/settings/condAnims/0/interact/event/5/text+%23257
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json//entities/52/settings/condAnims/0/interact/event/5/text"
+msgid ""
+"Someone should tell the Track that we are here to work, not to solve puzzles.\n"
+"\n"
+"Sincerely,\n"
+"[NAME REDACTED]\n"
+"\n"
+"\\c[1][END OF MAIL]\\c[0]"
+msgstr ""
+"Кто-то должен сказать Пути, что мы здесь для работы, а не для решения головоломок.\n"
+"\n"
+"С уважением,\n"
+"[ИМЯ ОТРЕДАКТИРОВАНО]\n"
+"\n"
+"\\c[1][КОНЕЦ ПИСЬМА]\\c[0]"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json entities/53/settings/condAnims/0/interact/hoverText #258
+#. Prop sideLore2
+#. IF true
+#: extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json+entities/53/settings/condAnims/0/interact/hoverText+%23258
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json//entities/53/settings/condAnims/0/interact/hoverText"
+msgid "Display"
+msgstr "Монитор"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json entities/53/settings/condAnims/0/interact/event/1/text #252
+#. Prop sideLore2
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json+entities/53/settings/condAnims/0/interact/event/1/text+%23252
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json//entities/53/settings/condAnims/0/interact/event/1/text"
+msgid ""
+"\\c[1]INTERNAL MAIL, SENT\\c[0]\n"
+"\n"
+"\\c[3]FROM:\\c[0] Office 34a\n"
+"\\c[3]TO:\\c[0] Facility, everyone\n"
+"\n"
+"\\c[3]Subject:\\c[0] Console blocked??"
+msgstr ""
+"\\c[1]ВНУТРЕННЕЕ ПИСЬМО, ОТПРАВЛЕННОЕ\\c[0]\n"
+"\n"
+"\\c[3]ОТ:\\c[0] Офис 34а\n"
+"\\c[3]КОМУ:\\c[0] Комплекс, всем\n"
+"\n"
+"\\c[3]Тема:\\c[0] Терминал заблокирован??"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json entities/53/settings/condAnims/0/interact/event/2/text #259
+#. Prop sideLore2
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json+entities/53/settings/condAnims/0/interact/event/2/text+%23259
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json//entities/53/settings/condAnims/0/interact/event/2/text"
+msgid ""
+"Good evening everyone,\n"
+"\n"
+"who thought that it was a good idea to block the entrance control console with heavy boxes?? We need to use it regularly, come on guys!"
+msgstr ""
+"Всем добрый вечер,\n"
+"\n"
+"кто подумал, что заблокировать входную панель управления тяжёлыми ящиками - хорошая идея?? Нам регулярно нужно её использовать, ну же, ребята!"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json entities/53/settings/condAnims/0/interact/event/3/text #260
+#. Prop sideLore2
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json+entities/53/settings/condAnims/0/interact/event/3/text+%23260
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-3-sub1.json//entities/53/settings/condAnims/0/interact/event/3/text"
+msgid ""
+"Please let us gather tomorrow to at least clear a small path, so we can reach it again.\n"
+"\n"
+"Sincerely,\n"
+"[NAME REDACTED]\n"
+"\n"
+"\\c[1][END OF MAIL]\\c[0]"
+msgstr ""
+"Пожалуйста, давайте соберёмся завтра, чтобы расчистить хотя бы небольшую тропинку, чтобы мы могли снова добраться до неё.\n"
+"\n"
+"С уважением,\n"
+"[ИМЯ ОТРЕДАКТИРОВАНО]\n"
+"\n"
+"\\c[1][КОНЕЦ ПИСЬМА]\\c[0]"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-boss.json entities/39/settings/event/9/text #3
+#. EventTrigger bossStart START IF tmp.bossStart
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-boss.json+entities/39/settings/event/9/text+%233
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-boss.json//entities/39/settings/event/9/text"
+msgid ""
+"\\c[1]--- Initiating Test Sequence ---\\.\n"
+"Subject:\\.\n"
+"Heavy Armor Unit"
+msgstr ""
+"\\c[1]Инициирование тестовой последовательности\\.\n"
+"Объект:\\.\n"
+"Тяжёлая броневая единица"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-final.json entities/27/settings/interact/hoverText #12207
+#. Prop holo-sign
+#: extension/fish-gear/data/maps/jungle/lab/room-final.json+entities/27/settings/interact/hoverText+%2312207
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-final.json//entities/27/settings/interact/hoverText"
+msgid "Hologram"
+msgstr "Голограмма"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-final.json entities/27/settings/interact/event/7/name #42
+#. Prop holo-sign
+#. ADD_MSG_PERSON lab.scientist-ps4 @HOLOGRAM
+#: extension/fish-gear/data/maps/jungle/lab/room-final.json+entities/27/settings/interact/event/7/name+%2342
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-final.json//entities/27/settings/interact/event/7/name"
+msgid "Dave Halman"
+msgstr "Дейв Хэлман"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-final.json entities/27/settings/interact/event/9/message #31
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-ps4 @HOLOGRAM
+#: extension/fish-gear/data/maps/jungle/lab/room-final.json+entities/27/settings/interact/event/9/message+%2331
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-final.json//entities/27/settings/interact/event/9/message"
+msgid "Dear listener, it seems like the story of this facility will come to a close.\\. Many things have happened."
+msgstr "Дорогой слушатель, похоже, что история этого комплекса подходит к концу.\\. Много чего произошло."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-final.json entities/27/settings/interact/event/10/message #12208
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-ps4 @HOLOGRAM
+#: extension/fish-gear/data/maps/jungle/lab/room-final.json+entities/27/settings/interact/event/10/message+%2312208
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-final.json//entities/27/settings/interact/event/10/message"
+msgid "One of our trusted associates had a critical incident in their facility, resulting in an outbreak of armed birds."
+msgstr "У одного из наших доверенных партнёров произошло чрезвычайное происшествие в их предприятии, что привело к вспышке вооружённых птиц."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-final.json entities/27/settings/interact/event/11/message #12209
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-ps4 @HOLOGRAM
+#: extension/fish-gear/data/maps/jungle/lab/room-final.json+entities/27/settings/interact/event/11/message+%2312209
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-final.json//entities/27/settings/interact/event/11/message"
+msgid "This instantly lost us all support from the \\v[lore.title.human-government], that wanted to keep our projects a secret."
+msgstr "Это мгновенно лишило нас всякой поддержки со стороны Национального содружества путешественников, которое хотело сохранить наши проекты в секрете."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-final.json entities/27/settings/interact/event/12/message #12210
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-ps4 @HOLOGRAM
+#: extension/fish-gear/data/maps/jungle/lab/room-final.json+entities/27/settings/interact/event/12/message+%2312210
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-final.json//entities/27/settings/interact/event/12/message"
+msgid "For all our progress to have it end so suddenly... Fate is a cruel mistress indeed."
+msgstr "Всё, чего мы добились, закончилось так неожиданно... Судьба действительно жестокая хозяйка."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-final.json entities/27/settings/interact/event/13/message #12211
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-ps4 @HOLOGRAM
+#: extension/fish-gear/data/maps/jungle/lab/room-final.json+entities/27/settings/interact/event/13/message+%2312211
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-final.json//entities/27/settings/interact/event/13/message"
+msgid "Though I must also admit that our own facility has run into problems as well."
+msgstr "Хотя я должен также признать, что наш собственный комплекс также столкнулся с проблемами."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-final.json entities/27/settings/interact/event/14/message #12212
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-ps4 @HOLOGRAM
+#: extension/fish-gear/data/maps/jungle/lab/room-final.json+entities/27/settings/interact/event/14/message+%2312212
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-final.json//entities/27/settings/interact/event/14/message"
+msgid "While the track ever more strongly undermined our system and reshaped the rooms to its will, even our test subject became more unruly."
+msgstr "В то время как Путь всё сильнее подрывал нашу систему и переделывал комнаты по своей воле, даже наш испытуемый становился всё более неуправляемым."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-final.json entities/27/settings/interact/event/15/message #12213
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-ps4 @HOLOGRAM
+#: extension/fish-gear/data/maps/jungle/lab/room-final.json+entities/27/settings/interact/event/15/message+%2312213
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-final.json//entities/27/settings/interact/event/15/message"
+msgid "What bitter irony, for the \\v[combat.name.jungle/fish]s to use the legs that we gave them to step on our aspirations."
+msgstr "Какая горькая ирония, что \\v[combat.name.jungle/fish]и используют ноги, которые мы им дали, чтобы наступать на наши амбиции."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-final.json entities/27/settings/interact/event/16/message #12214
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-ps4 @HOLOGRAM
+#: extension/fish-gear/data/maps/jungle/lab/room-final.json+entities/27/settings/interact/event/16/message+%2312214
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-final.json//entities/27/settings/interact/event/16/message"
+msgid "But, as history has taught us, every end can mark a new beginning.\\. We will continue our work, in another place."
+msgstr "Но, как учит нас история, любой конец может означать новое начало.\\. Мы продолжим нашу работу в другом месте."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-final.json entities/27/settings/interact/event/17/message #12215
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-ps4 @HOLOGRAM
+#: extension/fish-gear/data/maps/jungle/lab/room-final.json+entities/27/settings/interact/event/17/message+%2312215
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-final.json//entities/27/settings/interact/event/17/message"
+msgid "We joined with passionate visionaries among our colleagues to establish another secret facility."
+msgstr "Мы присоединились к страстным мечтателям среди наших коллег, чтобы создать ещё один секретный комплекс."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-final.json entities/27/settings/interact/event/18/message #12216
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-ps4 @HOLOGRAM
+#: extension/fish-gear/data/maps/jungle/lab/room-final.json+entities/27/settings/interact/event/18/message+%2312216
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-final.json//entities/27/settings/interact/event/18/message"
+msgid "Our progress will be preserved there and used to fuel the next progress.\\. The exciting times will never end, dear listener."
+msgstr "Наш прогресс будет сохранён здесь и будет использован как топливо для следующего проекта.\\. Захватывающие времена никогда не закончатся, дорогой слушатель."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-final.json entities/27/settings/interact/event/19/message #12217
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-ps4 @HOLOGRAM
+#: extension/fish-gear/data/maps/jungle/lab/room-final.json+entities/27/settings/interact/event/19/message+%2312217
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-final.json//entities/27/settings/interact/event/19/message"
+msgid "And with this I will say farewell.\\. Thank you for following our story."
+msgstr "И на этом я попрощаюсь.\\. Спасибо вам, что следили за нашей историей."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-final.json entities/28/settings/event/2/name #12197
+#. EventTrigger sony-end START IF map.scientist-talk
+#. ADD_MSG_PERSON basin.female-sony @DEFAULT
+#: extension/fish-gear/data/maps/jungle/lab/room-final.json+entities/28/settings/event/2/name+%2312197
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-final.json//entities/28/settings/event/2/name"
+msgid "Sonya Bolt"
+msgstr "Соня Болт"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-final.json entities/28/settings/event/4/message #12218
+#. EventTrigger sony-end START IF map.scientist-talk
+#. SHOW_MSG basin.female-sony @DEFAULT
+#: extension/fish-gear/data/maps/jungle/lab/room-final.json+entities/28/settings/event/4/message+%2312218
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-final.json//entities/28/settings/event/4/message"
+msgid "My, what a dramatic man.\\. Very pleased with himself after everything that happened."
+msgstr "Ну и ну, какой драматичный мужчина.\\. Очень доволен самим собой после всего, что произошло."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-final.json entities/28/settings/event/5/message #12202
+#. EventTrigger sony-end START IF map.scientist-talk
+#. SHOW_MSG main.lea @SMILE
+#: extension/fish-gear/data/maps/jungle/lab/room-final.json+entities/28/settings/event/5/message+%2312202
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-final.json//entities/28/settings/event/5/message"
+msgid "..."
+msgstr "..."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-final.json entities/28/settings/event/6/message #12200
+#. EventTrigger sony-end START IF map.scientist-talk
+#. SHOW_MSG basin.female-sony @DEFAULT
+#: extension/fish-gear/data/maps/jungle/lab/room-final.json+entities/28/settings/event/6/message+%2312200
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-final.json//entities/28/settings/event/6/message"
+msgid "Yes, \\v[lore.title.seeker], you heard him.\\. The government supported projects that messed with the Track.\\. Endangered lives."
+msgstr "Да, Искатель, ты слышала его.\\. Правительство поддерживало проекты, которые испортили Путь.\\. Подвергали жизни опасности."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-final.json entities/28/settings/event/7/message #12204
+#. EventTrigger sony-end START IF map.scientist-talk
+#. SHOW_MSG main.lea @NERVOUS
+#: extension/fish-gear/data/maps/jungle/lab/room-final.json+entities/28/settings/event/7/message+%2312204
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-final.json//entities/28/settings/event/7/message"
+msgid "..."
+msgstr "..."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-final.json entities/28/settings/event/8/message #12219
+#. EventTrigger sony-end START IF map.scientist-talk
+#. SHOW_MSG basin.female-sony @DEFAULT
+#: extension/fish-gear/data/maps/jungle/lab/room-final.json+entities/28/settings/event/8/message+%2312219
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-final.json//entities/28/settings/event/8/message"
+msgid "But you did well in this facility.\\. The documents you found will be a great help when fighting the power."
+msgstr "Но ты хорошо справилась в этом комплексе.\\. Документы, которые ты нашла, окажут нам отличную помощь в борьбе с властью."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-final.json entities/28/settings/event/9/message #12220
+#. EventTrigger sony-end START IF map.scientist-talk
+#. SHOW_MSG basin.female-sony @DEFAULT
+#: extension/fish-gear/data/maps/jungle/lab/room-final.json+entities/28/settings/event/9/message+%2312220
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-final.json//entities/28/settings/event/9/message"
+msgid "Please bring them to me in \\v[area.jungle-city.name].\\. Meeting place will be the same.\\. I will see you."
+msgstr "Пожалуйста, принеси их мне в Твердыню Бэйзина.\\. Место встречи останется тем же.\\. Увидимся."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-final.json entities/28/settings/event/10/message #401
+#. EventTrigger sony-end START IF map.scientist-talk
+#. SHOW_MSG main.lea @NOD
+#: extension/fish-gear/data/maps/jungle/lab/room-final.json+entities/28/settings/event/10/message+%23401
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-final.json//entities/28/settings/event/10/message"
+msgid "[nods]"
+msgstr "[кивает]"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-final.json entities/28/settings/event/11/message #12203
+#. EventTrigger sony-end START IF map.scientist-talk
+#. SHOW_MSG main.lea @PROUD
+#: extension/fish-gear/data/maps/jungle/lab/room-final.json+entities/28/settings/event/11/message+%2312203
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-final.json//entities/28/settings/event/11/message"
+msgid "Bye!"
+msgstr "Пока!"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-final.json entities/51/settings/condAnims/0/interact/hoverText #213
+#. Prop keyLore
+#. IF true
+#: extension/fish-gear/data/maps/jungle/lab/room-final.json+entities/51/settings/condAnims/0/interact/hoverText+%23213
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-final.json//entities/51/settings/condAnims/0/interact/hoverText"
+msgid "Display"
+msgstr "Монитор"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-final.json entities/51/settings/condAnims/0/interact/event/1/text #215
+#. Prop keyLore
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-final.json+entities/51/settings/condAnims/0/interact/event/1/text+%23215
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-final.json//entities/51/settings/condAnims/0/interact/event/1/text"
+msgid ""
+"\\c[1]INTERNAL MAIL, INBOX\\c[0]\n"
+"\n"
+"\\c[3]FROM:\\c[0] \"The 4 Visionaries\"\n"
+"\\c[3]TO:\\c[0] All Facilities\n"
+"\n"
+"\\c[3]Subject:\\c[0] The Future"
+msgstr ""
+"\\c[1]ВНУТРЕННЯЯ ПОЧТА, ВХОДЯЩИЕ\\c[0]\n"
+"\n"
+"\\c[3]ОТ:\\c[0] \"Четыре провидца\"\n"
+"\\c[3]КОМУ:\\c[0] Всем предприятиям\n"
+"\n"
+"\\c[3]Тема:\\c[0] Будущее"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-final.json entities/51/settings/condAnims/0/interact/event/2/text #12206
+#. Prop keyLore
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-final.json+entities/51/settings/condAnims/0/interact/event/2/text+%2312206
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-final.json//entities/51/settings/condAnims/0/interact/event/2/text"
+msgid ""
+"Good evening everyone, \n"
+"\n"
+"since \\c[3]our funding has been cut\\c[0] and \\c[3]the facilities got taken by the Track\\c[0], we established a \\c[3]new place\\c[0] where we will preserve and continue our research."
+msgstr ""
+"Всем доброго вечера,\n"
+"\n"
+"с тех пор как \\c[3]наше финансирование было урезано\\c[0] и \\c[3]Путь поглотил комплексы\\c[0], мы учредили \\c[3]новое место\\c[0], где мы сохраним и продолжим наши исследования."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-final.json entities/51/settings/condAnims/0/interact/event/3/text #12221
+#. Prop keyLore
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-final.json+entities/51/settings/condAnims/0/interact/event/3/text+%2312221
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-final.json//entities/51/settings/condAnims/0/interact/event/3/text"
+msgid ""
+"The entrance can be found \\c[3]somewhere in \\v[area.forest.name]\\c[0].\n"
+"You will find the \\c[3]key\\c[0] to enter it in the \\c[3]attachment\\c[0] of this message.\n"
+"However, \\c[3]by itself the key will not work\\c[0]."
+msgstr ""
+"Вход можно найти \\c[3]где-то в Сапфировом крае\\c[0].\n"
+"Вы найдёте \\c[3]ключ\\c[0] для доступа во \\c[3]вложении\\c[0] этого сообщения.\n"
+"Однако \\c[3]сам по себе ключ не будет работать\\c[0]."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-final.json entities/51/settings/condAnims/0/interact/event/4/text #12222
+#. Prop keyLore
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-final.json+entities/51/settings/condAnims/0/interact/event/4/text+%2312222
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-final.json//entities/51/settings/condAnims/0/interact/event/4/text"
+msgid "You will first need to \\c[3]decrypt\\c[0] it at \\c[3]4 different places\\c[0] that are hidden somewhere on \\v[lore.title.planet], each in a \\c[3]different region\\c[0]."
+msgstr "Сначала вам нужно будет \\c[3]расшифровать\\c[0] его в \\c[3]четырёх разных местах\\c[0], которые спрятаны где-то на Шадуне, каждое в \\c[3]разном регионе\\c[0]."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-final.json entities/51/settings/condAnims/0/interact/event/5/text #12205
+#. Prop keyLore
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-final.json+entities/51/settings/condAnims/0/interact/event/5/text+%2312205
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-final.json//entities/51/settings/condAnims/0/interact/event/5/text"
+msgid ""
+"Hints towards \\c[1]one\\c[0] the locations can be found in each of our 4 facilities.\n"
+"\\c[3]So you will learn one location after reading this very message.\\c[0]"
+msgstr ""
+"Подсказки по поводу \\c[1]одного\\c[0] из мест можно найти на каждом из наших четырёх объектов.\n"
+"\\c[3]Таким образом, вы узнаете одно местоположение после прочтения этого сообщения.\\c[0]"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-final.json entities/51/settings/condAnims/0/interact/event/6/thenStep/0/text #12226
+#. Prop keyLore
+#. IF true
+#. IF extension.fish-gear.active && extension.flying-hedgehag.active && extension.scorpion-robo.active && extension.snowman-tank.active
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-final.json+entities/51/settings/condAnims/0/interact/event/6/thenStep/0/text+%2312226
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-final.json//entities/51/settings/condAnims/0/interact/event/6/thenStep/0/text"
+msgid ""
+"Everyone who manages to enter will be welcome!\n"
+"\n"
+"Sincerely,\n"
+"\"The 4 Visionaries\"\n"
+"\n"
+"\\c[1][END OF MAIL]\\c[0]"
+msgstr ""
+"Мы будем рады каждому, кто сможет войти!\n"
+"\n"
+"С уважением,\n"
+"\"Четыре провидца\"\n"
+"\n"
+"\\c[1][КОНЕЦ СООБЩЕНИЯ]\\c[0]"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-final.json entities/51/settings/condAnims/0/interact/event/6/elseStep/0/text #12227
+#. Prop keyLore
+#. IF true
+#. IF NOT extension.fish-gear.active && extension.flying-hedgehag.active && extension.scorpion-robo.active && extension.snowman-tank.active
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-final.json+entities/51/settings/condAnims/0/interact/event/6/elseStep/0/text+%2312227
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-final.json//entities/51/settings/condAnims/0/interact/event/6/elseStep/0/text"
+msgid "Interested \\c[3]\\v[lore.title.seeker]s\\c[0] should know that \\c[3]each of their kind\\c[0] is destined to enter \\c[3]only one of the 4 facilities\\c[0] and find a part of the information."
+msgstr "Заинтересованные \\c[3]Искатели\\c[0] должны знать, что \\c[3]каждому из вас\\c[0] суждено войти \\c[3]только в одно из четырёх предприятий\\c[0] и найти лишь часть информации."
+
+#. extension/fish-gear/data/maps/jungle/lab/room-final.json entities/51/settings/condAnims/0/interact/event/6/elseStep/1/text #12228
+#. Prop keyLore
+#. IF true
+#. IF NOT extension.fish-gear.active && extension.flying-hedgehag.active && extension.scorpion-robo.active && extension.snowman-tank.active
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-final.json+entities/51/settings/condAnims/0/interact/event/6/elseStep/1/text+%2312228
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-final.json//entities/51/settings/condAnims/0/interact/event/6/elseStep/1/text"
+msgid ""
+"But \\c[3]through teamwork and communication\\c[0] it might be possible to obtain all locations regardless!\n"
+"Everyone who manages to enter will be welcome!\n"
+"\n"
+"Sincerely,\n"
+"\"The 4 Visionaries\"\n"
+"\n"
+"\\c[1][END OF MAIL]\\c[0]"
+msgstr ""
+"Но \\c[3]с помощью командной работы и взаимодействия\\c[0] становится возможным получить информацию о всех местах!\n"
+"Мы будем рады каждому, кто сможет войти!\n"
+"\n"
+"С уважением,\n"
+"\"Четыре провидца\"\n"
+"\n"
+"\\c[1][КОНЕЦ СООБЩЕНИЯ]\\c[0]"
+
+#. extension/fish-gear/data/maps/jungle/lab/room-final.json entities/51/settings/condAnims/0/interact/event/7/text #12225
+#. Prop keyLore
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/fish-gear/data/maps/jungle/lab/room-final.json+entities/51/settings/condAnims/0/interact/event/7/text+%2312225
+msgctxt "extension/fish-gear/data/maps/jungle/lab/room-final.json//entities/51/settings/condAnims/0/interact/event/7/text"
+msgid ""
+"\\c[1]ATTACHMENT:\\c[0]\n"
+"\n"
+"One of the hidden places can be found in \\c[3]\\v[area.jungle.name]\\c[0], \\c[3]\"At a crossing, on top of one of the four tree stumps\"\\c[0]!"
+msgstr ""
+"\\c[1]ВЛОЖЕНИЕ:\\c[0]\n"
+"\n"
+"Одно из скрытых мест можно найти в \\c[3]Саду Гайи\\c[0], \\c[3]\"На перекрёстке, на одном из четырех пней\"\\c[0]!"

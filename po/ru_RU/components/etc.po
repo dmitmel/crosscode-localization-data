@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.4.1-2\n"
+"Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-14 01:09+0000\n"
-"POT-Revision-Date: 2021-04-14 01:09+0000\n"
+"POT-Creation-Date: 2022-01-11 15:55+0000\n"
+"POT-Revision-Date: 2022-01-11 15:55+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0\n"
+"X-Generator: crosscode-localization-engine 0.0.0 (2168d54 2022-01-11)\n"
 
 #. data/areas/arid-dng-1.json name #1
 #: data/areas/arid-dng-1.json+name+%231
@@ -1049,7 +1049,7 @@ msgstr "Комната разработчиков"
 #: data/areas/meta.json+floors/0/maps/2/name+%239
 msgctxt "data/areas/meta.json//floors/0/maps/2/name"
 msgid "The Test"
-msgstr ""
+msgstr "Тест"
 
 #. data/areas/meta.json floors/0/maps/3/name #12
 #: data/areas/meta.json+floors/0/maps/3/name+%2312
@@ -1512,7 +1512,7 @@ msgstr "Привет!"
 #: data/maps/auto-script-test.json+entities/0/settings/npcStates/0/event/5/message+%23172
 msgctxt "data/maps/auto-script-test.json//entities/0/settings/npcStates/0/event/5/message"
 msgid "This is a test for auto script!"
-msgstr ""
+msgstr "Это - тест авто-скрипта!"
 
 #. data/maps/auto-script-test.json entities/0/settings/npcStates/0/event/6/message #170
 #. NPC testNPC
@@ -1520,7 +1520,7 @@ msgstr ""
 #: data/maps/auto-script-test.json+entities/0/settings/npcStates/0/event/6/message+%23170
 msgctxt "data/maps/auto-script-test.json//entities/0/settings/npcStates/0/event/6/message"
 msgid "The goal is to match the speed of regular reading."
-msgstr ""
+msgstr "Задачей является сопоставление со скоростью обычного чтения."
 
 #. data/maps/auto-script-test.json entities/0/settings/npcStates/0/event/7/message #174
 #. NPC testNPC
@@ -1528,7 +1528,7 @@ msgstr ""
 #: data/maps/auto-script-test.json+entities/0/settings/npcStates/0/event/7/message+%23174
 msgctxt "data/maps/auto-script-test.json//entities/0/settings/npcStates/0/event/7/message"
 msgid "That might be hard to do for longer sentences though..."
-msgstr ""
+msgstr "Хотя это может оказаться сложным для длинных предложений..."
 
 #. data/maps/auto-script-test.json entities/0/settings/npcStates/0/event/8/message #175
 #. NPC testNPC
@@ -1536,7 +1536,7 @@ msgstr ""
 #: data/maps/auto-script-test.json+entities/0/settings/npcStates/0/event/8/message+%23175
 msgctxt "data/maps/auto-script-test.json//entities/0/settings/npcStates/0/event/8/message"
 msgid "Let's see how it works!"
-msgstr ""
+msgstr "Давайте посмотрим, как он работает!"
 
 #. data/maps/auto-script-test.json entities/0/settings/npcStates/0/event/9/message #176
 #. NPC testNPC
@@ -2390,7 +2390,7 @@ msgstr "Нет"
 #: data/maps/npc-test.json+entities/34/settings/npcStates/0/event/2/message+%23107
 msgctxt "data/maps/npc-test.json//entities/34/settings/npcStates/0/event/2/message"
 msgid "HI!!"
-msgstr ""
+msgstr "ПРИВЕТ!!"
 
 #. data/maps/npc-test.json entities/34/settings/npcStates/0/event/3/message #125
 #. NPC testA(2
@@ -2399,7 +2399,7 @@ msgstr ""
 #: data/maps/npc-test.json+entities/34/settings/npcStates/0/event/3/message+%23125
 msgctxt "data/maps/npc-test.json//entities/34/settings/npcStates/0/event/3/message"
 msgid "HORN HOLD"
-msgstr ""
+msgstr "ДЕРЖИТ РОГА"
 
 #. data/maps/npc-test.json entities/34/settings/npcStates/0/event/4/message #124
 #. NPC testA(2
@@ -2408,7 +2408,7 @@ msgstr ""
 #: data/maps/npc-test.json+entities/34/settings/npcStates/0/event/4/message+%23124
 msgctxt "data/maps/npc-test.json//entities/34/settings/npcStates/0/event/4/message"
 msgid "HORN HOLD2"
-msgstr ""
+msgstr "ДЕРЖИТ РОГА2"
 
 #. data/maps/npc-test.json entities/34/settings/npcStates/0/event/5/message #123
 #. NPC testA(2
@@ -2417,7 +2417,7 @@ msgstr ""
 #: data/maps/npc-test.json+entities/34/settings/npcStates/0/event/5/message+%23123
 msgctxt "data/maps/npc-test.json//entities/34/settings/npcStates/0/event/5/message"
 msgid "HORN HOLD2"
-msgstr ""
+msgstr "ДЕРЖИТ РОГА2"
 
 #. data/maps/npc-test.json entities/34/settings/npcStates/0/event/6/message #127
 #. NPC testA(2
@@ -2426,7 +2426,7 @@ msgstr ""
 #: data/maps/npc-test.json+entities/34/settings/npcStates/0/event/6/message+%23127
 msgctxt "data/maps/npc-test.json//entities/34/settings/npcStates/0/event/6/message"
 msgid "HORN HOLD2"
-msgstr ""
+msgstr "ДЕРЖИТ РОГА2"
 
 #. data/maps/npc-test.json entities/34/settings/npcStates/0/event/7/message #91
 #. NPC testA(2
@@ -2435,7 +2435,7 @@ msgstr ""
 #: data/maps/npc-test.json+entities/34/settings/npcStates/0/event/7/message+%2391
 msgctxt "data/maps/npc-test.json//entities/34/settings/npcStates/0/event/7/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/npc-test.json entities/34/settings/npcStates/0/event/8/message #101
 #. NPC testA(2
@@ -2444,7 +2444,7 @@ msgstr ""
 #: data/maps/npc-test.json+entities/34/settings/npcStates/0/event/8/message+%23101
 msgctxt "data/maps/npc-test.json//entities/34/settings/npcStates/0/event/8/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[кивает]"
 
 #. data/maps/npc-test.json entities/34/settings/npcStates/0/event/9/message #102
 #. NPC testA(2
@@ -2453,7 +2453,7 @@ msgstr ""
 #: data/maps/npc-test.json+entities/34/settings/npcStates/0/event/9/message+%23102
 msgctxt "data/maps/npc-test.json//entities/34/settings/npcStates/0/event/9/message"
 msgid "[shakes head]"
-msgstr ""
+msgstr "[мотает головой]"
 
 #. data/maps/npc-test.json entities/34/settings/npcStates/0/event/10/message #103
 #. NPC testA(2
@@ -2462,7 +2462,7 @@ msgstr ""
 #: data/maps/npc-test.json+entities/34/settings/npcStates/0/event/10/message+%23103
 msgctxt "data/maps/npc-test.json//entities/34/settings/npcStates/0/event/10/message"
 msgid "NOD NERVOUS"
-msgstr ""
+msgstr "НЕРВНО КИВАЕТ"
 
 #. data/maps/npc-test.json entities/34/settings/npcStates/0/event/11/message #104
 #. NPC testA(2
@@ -2471,7 +2471,7 @@ msgstr ""
 #: data/maps/npc-test.json+entities/34/settings/npcStates/0/event/11/message+%23104
 msgctxt "data/maps/npc-test.json//entities/34/settings/npcStates/0/event/11/message"
 msgid "WAKING..."
-msgstr ""
+msgstr "ПРОСЫПАЕТСЯ..."
 
 #. data/maps/npc-test.json entities/34/settings/npcStates/0/event/12/message #105
 #. NPC testA(2
@@ -2480,7 +2480,7 @@ msgstr ""
 #: data/maps/npc-test.json+entities/34/settings/npcStates/0/event/12/message+%23105
 msgctxt "data/maps/npc-test.json//entities/34/settings/npcStates/0/event/12/message"
 msgid "ANNOYED..."
-msgstr ""
+msgstr "РАЗДРАЖЁН..."
 
 #. data/maps/npc-test.json entities/34/settings/npcStates/0/event/13/message #106
 #. NPC testA(2
@@ -2489,7 +2489,7 @@ msgstr ""
 #: data/maps/npc-test.json+entities/34/settings/npcStates/0/event/13/message+%23106
 msgctxt "data/maps/npc-test.json//entities/34/settings/npcStates/0/event/13/message"
 msgid "EXHAUSTED"
-msgstr ""
+msgstr "ИСТОЩЁН"
 
 #. data/maps/npc-test.json entities/34/settings/npcStates/0/event/14/message #110
 #. NPC testA(2
@@ -2498,7 +2498,7 @@ msgstr ""
 #: data/maps/npc-test.json+entities/34/settings/npcStates/0/event/14/message+%23110
 msgctxt "data/maps/npc-test.json//entities/34/settings/npcStates/0/event/14/message"
 msgid "NODS DEAD INSIDE"
-msgstr ""
+msgstr "КИВАЕТ ДЕД ИНСАЙД"
 
 #. data/maps/npc-test.json entities/34/settings/npcStates/0/event/15/message #108
 #. NPC testA(2
@@ -2507,7 +2507,7 @@ msgstr ""
 #: data/maps/npc-test.json+entities/34/settings/npcStates/0/event/15/message+%23108
 msgctxt "data/maps/npc-test.json//entities/34/settings/npcStates/0/event/15/message"
 msgid "SHAKES EYE CLOSED"
-msgstr ""
+msgstr "МОТАЕТ ГОЛОВОЙ ГЛАЗА ЗАКРЫТЫ"
 
 #. data/maps/npc-test.json entities/34/settings/npcStates/0/event/16/message #109
 #. NPC testA(2
@@ -2516,7 +2516,7 @@ msgstr ""
 #: data/maps/npc-test.json+entities/34/settings/npcStates/0/event/16/message+%23109
 msgctxt "data/maps/npc-test.json//entities/34/settings/npcStates/0/event/16/message"
 msgid "SHAKE PANIC"
-msgstr ""
+msgstr "МОТАЕТ ГОЛОВОЙ ПАНИКУЕТ"
 
 #. data/maps/npc-test.json entities/34/settings/npcStates/0/event/17/message #90
 #. NPC testA(2
@@ -2525,7 +2525,7 @@ msgstr ""
 #: data/maps/npc-test.json+entities/34/settings/npcStates/0/event/17/message+%2390
 msgctxt "data/maps/npc-test.json//entities/34/settings/npcStates/0/event/17/message"
 msgid "SHAKE SCARED"
-msgstr ""
+msgstr "МОТАЕТ ГОЛОВОЙ ИСПУГАН"
 
 #. data/maps/npc-test.json entities/34/settings/npcStates/0/event/18/message #111
 #. NPC testA(2
@@ -2534,7 +2534,7 @@ msgstr ""
 #: data/maps/npc-test.json+entities/34/settings/npcStates/0/event/18/message+%23111
 msgctxt "data/maps/npc-test.json//entities/34/settings/npcStates/0/event/18/message"
 msgid "NOD SAD"
-msgstr ""
+msgstr "ГРУСТНО КИВАЕТ"
 
 #. data/maps/npc-test.json entities/34/settings/npcStates/0/event/19/message #112
 #. NPC testA(2
@@ -2543,7 +2543,7 @@ msgstr ""
 #: data/maps/npc-test.json+entities/34/settings/npcStates/0/event/19/message+%23112
 msgctxt "data/maps/npc-test.json//entities/34/settings/npcStates/0/event/19/message"
 msgid "NOD HARD1"
-msgstr ""
+msgstr "КИВАЕТ СИЛЬНО1"
 
 #. data/maps/npc-test.json entities/34/settings/npcStates/0/event/20/message #113
 #. NPC testA(2
@@ -2552,7 +2552,7 @@ msgstr ""
 #: data/maps/npc-test.json+entities/34/settings/npcStates/0/event/20/message+%23113
 msgctxt "data/maps/npc-test.json//entities/34/settings/npcStates/0/event/20/message"
 msgid "NOD HARD2"
-msgstr ""
+msgstr "КИВАЕТ СИЛЬНО2"
 
 #. data/maps/npc-test.json entities/34/settings/npcStates/0/event/21/message #114
 #. NPC testA(2
@@ -2561,7 +2561,7 @@ msgstr ""
 #: data/maps/npc-test.json+entities/34/settings/npcStates/0/event/21/message+%23114
 msgctxt "data/maps/npc-test.json//entities/34/settings/npcStates/0/event/21/message"
 msgid "SHAKE SAD"
-msgstr ""
+msgstr "ГРУСТНО КИВАЕТ"
 
 #. data/maps/npc-test.json entities/34/settings/npcStates/0/event/22/message #115
 #. NPC testA(2
@@ -2570,7 +2570,7 @@ msgstr ""
 #: data/maps/npc-test.json+entities/34/settings/npcStates/0/event/22/message+%23115
 msgctxt "data/maps/npc-test.json//entities/34/settings/npcStates/0/event/22/message"
 msgid "HAND ONE"
-msgstr ""
+msgstr "РУКА ОДИН"
 
 #. data/maps/npc-test.json entities/34/settings/npcStates/0/event/23/message #116
 #. NPC testA(2
@@ -2579,7 +2579,7 @@ msgstr ""
 #: data/maps/npc-test.json+entities/34/settings/npcStates/0/event/23/message+%23116
 msgctxt "data/maps/npc-test.json//entities/34/settings/npcStates/0/event/23/message"
 msgid "HAND WEIRD"
-msgstr ""
+msgstr "РУКА СТРАННАЯ"
 
 #. data/maps/npc-test.json entities/34/settings/npcStates/0/event/24/message #117
 #. NPC testA(2
@@ -2588,7 +2588,7 @@ msgstr ""
 #: data/maps/npc-test.json+entities/34/settings/npcStates/0/event/24/message+%23117
 msgctxt "data/maps/npc-test.json//entities/34/settings/npcStates/0/event/24/message"
 msgid "HAND POINT"
-msgstr ""
+msgstr "РУКОЙ ПОКАЗЫВАЕТ"
 
 #. data/maps/npc-test.json entities/34/settings/npcStates/0/event/25/message #118
 #. NPC testA(2
@@ -2597,7 +2597,7 @@ msgstr ""
 #: data/maps/npc-test.json+entities/34/settings/npcStates/0/event/25/message+%23118
 msgctxt "data/maps/npc-test.json//entities/34/settings/npcStates/0/event/25/message"
 msgid "HAND POINT SELF"
-msgstr ""
+msgstr "РУКОЙ ПОКАЗЫВАЕТ НА СЕБЯ"
 
 #. data/maps/npc-test.json entities/34/settings/npcStates/0/event/26/message #119
 #. NPC testA(2
@@ -2606,7 +2606,7 @@ msgstr ""
 #: data/maps/npc-test.json+entities/34/settings/npcStates/0/event/26/message+%23119
 msgctxt "data/maps/npc-test.json//entities/34/settings/npcStates/0/event/26/message"
 msgid "HAND POINT JOKE"
-msgstr ""
+msgstr "РУКОЙ ПОКАЗЫВАЕТ НА ШУТКУ"
 
 #. data/maps/npc-test.json entities/34/settings/npcStates/0/event/27/message #120
 #. NPC testA(2
@@ -2615,7 +2615,7 @@ msgstr ""
 #: data/maps/npc-test.json+entities/34/settings/npcStates/0/event/27/message+%23120
 msgctxt "data/maps/npc-test.json//entities/34/settings/npcStates/0/event/27/message"
 msgid "HAND POINT ANGRY"
-msgstr ""
+msgstr "РУКОЙ ПОКАЗЫВАЕТ НА ЗЛОЙ"
 
 #. data/maps/npc-test.json entities/34/settings/npcStates/0/event/28/message #121
 #. NPC testA(2
@@ -2624,7 +2624,7 @@ msgstr ""
 #: data/maps/npc-test.json+entities/34/settings/npcStates/0/event/28/message+%23121
 msgctxt "data/maps/npc-test.json//entities/34/settings/npcStates/0/event/28/message"
 msgid "STAR POINTING PRE"
-msgstr ""
+msgstr "НАЧИНАЕТ РУКОЙ ПОКАЗЫВАЕТ"
 
 #. data/maps/npc-test.json entities/34/settings/npcStates/0/event/29/message #122
 #. NPC testA(2
@@ -2633,7 +2633,7 @@ msgstr ""
 #: data/maps/npc-test.json+entities/34/settings/npcStates/0/event/29/message+%23122
 msgctxt "data/maps/npc-test.json//entities/34/settings/npcStates/0/event/29/message"
 msgid "STAR POINTING"
-msgstr ""
+msgstr "ПОКАЗЫВАЕТ ЗВЁЗДЫ"
 
 #. data/maps/npc-test.json entities/34/settings/npcStates/0/event/30/message #126
 #. NPC testA(2
@@ -2642,7 +2642,7 @@ msgstr ""
 #: data/maps/npc-test.json+entities/34/settings/npcStates/0/event/30/message+%23126
 msgctxt "data/maps/npc-test.json//entities/34/settings/npcStates/0/event/30/message"
 msgid "INSANE"
-msgstr ""
+msgstr "БЕДЫ С БАШКОЙ"
 
 #. data/maps/npc-test.json entities/37/settings/npcStates/0/event/1/message #100
 #. NPC
@@ -2840,7 +2840,7 @@ msgstr "...?"
 #: data/maps/rhombus-square-view.json+entities/9/settings/event/25/message+%2321
 msgctxt "data/maps/rhombus-square-view.json//entities/9/settings/event/25/message"
 msgid "Oh, me?\\. No, I'm not a player.\\. I just work here!"
-msgstr "Ох, я?\\. Нет, я не игрок.\\. Я просто здесь работаю!"
+msgstr "Ах, я?\\. Нет, я не игрок.\\. Я просто здесь работаю!"
 
 #. data/maps/rhombus-square-view.json entities/9/settings/event/26/message #22
 #. EventTrigger cut scene
@@ -3243,7 +3243,7 @@ msgstr "ХлоП!"
 #: data/maps/text-copy.json+entities/0/settings/event/14/message+%2328
 msgctxt "data/maps/text-copy.json//entities/0/settings/event/14/message"
 msgid "CliP!"
-msgstr "Спасибо!"
+msgstr "ХлоП!"
 
 #. data/maps/text-copy.json entities/0/settings/event/16/message #29
 #. EventTrigger test
@@ -3251,7 +3251,7 @@ msgstr "Спасибо!"
 #: data/maps/text-copy.json+entities/0/settings/event/16/message+%2329
 msgctxt "data/maps/text-copy.json//entities/0/settings/event/16/message"
 msgid "CliP!"
-msgstr ""
+msgstr "ХлоП!"
 
 #. data/maps/text-copy.json entities/0/settings/event/18/message #30
 #. EventTrigger test
@@ -3259,7 +3259,7 @@ msgstr ""
 #: data/maps/text-copy.json+entities/0/settings/event/18/message+%2330
 msgctxt "data/maps/text-copy.json//entities/0/settings/event/18/message"
 msgid "CliP!"
-msgstr ""
+msgstr "ХлоП!"
 
 #. data/maps/text-copy.json entities/0/settings/event/20/message #31
 #. EventTrigger test
@@ -3267,7 +3267,7 @@ msgstr ""
 #: data/maps/text-copy.json+entities/0/settings/event/20/message+%2331
 msgctxt "data/maps/text-copy.json//entities/0/settings/event/20/message"
 msgid "CliP!"
-msgstr ""
+msgstr "ХлоП!"
 
 #. data/maps/text-copy.json entities/0/settings/event/22/message #32
 #. EventTrigger test
@@ -3275,7 +3275,7 @@ msgstr ""
 #: data/maps/text-copy.json+entities/0/settings/event/22/message+%2332
 msgctxt "data/maps/text-copy.json//entities/0/settings/event/22/message"
 msgid "CliP!"
-msgstr ""
+msgstr "ХлоП!"
 
 #. data/maps/text-copy.json entities/0/settings/event/24/message #33
 #. EventTrigger test
@@ -3283,7 +3283,7 @@ msgstr ""
 #: data/maps/text-copy.json+entities/0/settings/event/24/message+%2333
 msgctxt "data/maps/text-copy.json//entities/0/settings/event/24/message"
 msgid "CliP!"
-msgstr ""
+msgstr "ХлоП!"
 
 #. data/maps/text-copy.json entities/0/settings/event/26/message #26
 #. EventTrigger test
@@ -3335,7 +3335,7 @@ msgid ""
 "Submit"
 msgstr ""
 "Количество\n"
-"Сдать"
+"Подтвердить"
 
 #. data/maps/text-copy.json entities/0/settings/event/38/titleText #16
 #. EventTrigger test
@@ -3485,7 +3485,7 @@ msgstr ""
 #: data/maps/text-copy.json+entities/0/settings/event/43/titleText+%2312
 msgctxt "data/maps/text-copy.json//entities/0/settings/event/43/titleText"
 msgid "Equipment Info"
-msgstr "Информация о снаряжении"
+msgstr "Equipment Info"
 
 #. data/maps/text-copy.json entities/0/settings/event/43/text #13
 #. EventTrigger test
@@ -3569,15 +3569,27 @@ msgctxt "data/players/apollo.json//actions/NEUTRAL/DASH_SPECIAL1_A/description"
 msgid "Dash right through your enemies, damaging everything in your way."
 msgstr "Сделай рывок прямо через врагов, нанося урон всем на пути."
 
-#. data/players/apollo.json actions/HEAT/ATTACK_SPECIAL1_A/name #92
-#: data/players/apollo.json+actions/HEAT/ATTACK_SPECIAL1_A/name+%2392
+#. data/players/apollo.json actions/HEAT/ATTACK_SPECIAL1_A/name #94
+#: data/players/apollo.json+actions/HEAT/ATTACK_SPECIAL1_A/name+%2394
 msgctxt "data/players/apollo.json//actions/HEAT/ATTACK_SPECIAL1_A/name"
+msgid "Flame Jab"
+msgstr "Пламенный джеб"
+
+#. data/players/apollo.json actions/HEAT/ATTACK_SPECIAL1_A/description #95
+#: data/players/apollo.json+actions/HEAT/ATTACK_SPECIAL1_A/description+%2395
+msgctxt "data/players/apollo.json//actions/HEAT/ATTACK_SPECIAL1_A/description"
+msgid "A blazing thrust of fire piercing through enemies in front of you."
+msgstr "Полыхающий выпад, пронизывающий врагов перед тобой."
+
+#. data/players/apollo.json actions/HEAT/ATTACK_SPECIAL1_NO/name #92
+#: data/players/apollo.json+actions/HEAT/ATTACK_SPECIAL1_NO/name+%2392
+msgctxt "data/players/apollo.json//actions/HEAT/ATTACK_SPECIAL1_NO/name"
 msgid "Fire Whirl"
 msgstr "Огненный вихрь"
 
-#. data/players/apollo.json actions/HEAT/ATTACK_SPECIAL1_A/description #93
-#: data/players/apollo.json+actions/HEAT/ATTACK_SPECIAL1_A/description+%2393
-msgctxt "data/players/apollo.json//actions/HEAT/ATTACK_SPECIAL1_A/description"
+#. data/players/apollo.json actions/HEAT/ATTACK_SPECIAL1_NO/description #93
+#: data/players/apollo.json+actions/HEAT/ATTACK_SPECIAL1_NO/description+%2393
+msgctxt "data/players/apollo.json//actions/HEAT/ATTACK_SPECIAL1_NO/description"
 msgid "Performs a fierce whirl attack, engulfing your enemies in flames."
 msgstr "Проведи свирепую вихревую атаку, поглощая врагов пламенем."
 
@@ -3677,15 +3689,27 @@ msgctxt "data/players/apollo.json//actions/SHOCK/ATTACK_SPECIAL1/description"
 msgid "Attack with a series of multiple fast spin attacks within a small radius."
 msgstr "Атакуй серией быстрых вращений с маленьким радиусом."
 
-#. data/players/apollo.json actions/SHOCK/THROW_SPECIAL1/name #140
-#: data/players/apollo.json+actions/SHOCK/THROW_SPECIAL1/name+%23140
+#. data/players/apollo.json actions/SHOCK/THROW_SPECIAL1/name #122
+#: data/players/apollo.json+actions/SHOCK/THROW_SPECIAL1/name+%23122
 msgctxt "data/players/apollo.json//actions/SHOCK/THROW_SPECIAL1/name"
+msgid "Diving Spark"
+msgstr "Пикирующая искра"
+
+#. data/players/apollo.json actions/SHOCK/THROW_SPECIAL1/description #123
+#: data/players/apollo.json+actions/SHOCK/THROW_SPECIAL1/description+%23123
+msgctxt "data/players/apollo.json//actions/SHOCK/THROW_SPECIAL1/description"
+msgid "Throw a projectile that creates a delayed lightning bolt damaging everything around it."
+msgstr "Брось снаряд, который с задержкой создаёт удар молнии, наносящий урон всему вокруг."
+
+#. data/players/apollo.json actions/SHOCK/THROW_SPECIAL1_NO/name #140
+#: data/players/apollo.json+actions/SHOCK/THROW_SPECIAL1_NO/name+%23140
+msgctxt "data/players/apollo.json//actions/SHOCK/THROW_SPECIAL1_NO/name"
 msgid "Homing Wisp"
 msgstr "Управляемые огни"
 
-#. data/players/apollo.json actions/SHOCK/THROW_SPECIAL1/description #141
-#: data/players/apollo.json+actions/SHOCK/THROW_SPECIAL1/description+%23141
-msgctxt "data/players/apollo.json//actions/SHOCK/THROW_SPECIAL1/description"
+#. data/players/apollo.json actions/SHOCK/THROW_SPECIAL1_NO/description #141
+#: data/players/apollo.json+actions/SHOCK/THROW_SPECIAL1_NO/description+%23141
+msgctxt "data/players/apollo.json//actions/SHOCK/THROW_SPECIAL1_NO/description"
 msgid "Shoot an array of small homing projectiles."
 msgstr "Выстрели множество маленьких самонаводящихся снарядов."
 
@@ -5079,31 +5103,61 @@ msgstr "ERST SCHLITZER!!!"
 #: data/players/luke.json+actions/NEUTRAL/ATTACK_SPECIAL1_A/name+%2335
 msgctxt "data/players/luke.json//actions/NEUTRAL/ATTACK_SPECIAL1_A/name"
 msgid "Wirbelschlitzer"
-msgstr ""
+msgstr "Wirbelschlitzer"
+
+#. data/players/luke.json actions/NEUTRAL/DASH_SPECIAL1_A/name #84
+#: data/players/luke.json+actions/NEUTRAL/DASH_SPECIAL1_A/name+%2384
+msgctxt "data/players/luke.json//actions/NEUTRAL/DASH_SPECIAL1_A/name"
+msgid "Erstschlag"
+msgstr "Erstschlag"
 
 #. data/players/luke.json actions/HEAT/ATTACK_SPECIAL1_A/name #62
 #: data/players/luke.json+actions/HEAT/ATTACK_SPECIAL1_A/name+%2362
 msgctxt "data/players/luke.json//actions/HEAT/ATTACK_SPECIAL1_A/name"
 msgid "Flammenwirbler"
-msgstr ""
+msgstr "Flammenwirbler"
+
+#. data/players/luke.json actions/HEAT/DASH_SPECIAL1_A/name #106
+#: data/players/luke.json+actions/HEAT/DASH_SPECIAL1_A/name+%23106
+msgctxt "data/players/luke.json//actions/HEAT/DASH_SPECIAL1_A/name"
+msgid "Feuersprint"
+msgstr "Feuersprint"
 
 #. data/players/luke.json actions/COLD/ATTACK_SPECIAL1_A/name #63
 #: data/players/luke.json+actions/COLD/ATTACK_SPECIAL1_A/name+%2363
 msgctxt "data/players/luke.json//actions/COLD/ATTACK_SPECIAL1_A/name"
 msgid "Kältewirbler"
-msgstr ""
+msgstr "Kältewirbler"
+
+#. data/players/luke.json actions/COLD/DASH_SPECIAL1_A/name #118
+#: data/players/luke.json+actions/COLD/DASH_SPECIAL1_A/name+%23118
+msgctxt "data/players/luke.json//actions/COLD/DASH_SPECIAL1_A/name"
+msgid "Eisbahn"
+msgstr "Eisbahn"
 
 #. data/players/luke.json actions/SHOCK/ATTACK_SPECIAL1_A/name #64
 #: data/players/luke.json+actions/SHOCK/ATTACK_SPECIAL1_A/name+%2364
 msgctxt "data/players/luke.json//actions/SHOCK/ATTACK_SPECIAL1_A/name"
 msgid "Schockwirbler"
-msgstr ""
+msgstr "Schockwirbler"
+
+#. data/players/luke.json actions/SHOCK/DASH_SPECIAL1_A/name #138
+#: data/players/luke.json+actions/SHOCK/DASH_SPECIAL1_A/name+%23138
+msgctxt "data/players/luke.json//actions/SHOCK/DASH_SPECIAL1_A/name"
+msgid "Donnerpfeil"
+msgstr "Donnerpfeil"
 
 #. data/players/luke.json actions/WAVE/ATTACK_SPECIAL1_A/name #61
 #: data/players/luke.json+actions/WAVE/ATTACK_SPECIAL1_A/name+%2361
 msgctxt "data/players/luke.json//actions/WAVE/ATTACK_SPECIAL1_A/name"
 msgid "Wellenwirbler"
-msgstr ""
+msgstr "Wellenwirbler"
+
+#. data/players/luke.json actions/WAVE/DASH_SPECIAL1_A/name #154
+#: data/players/luke.json+actions/WAVE/DASH_SPECIAL1_A/name+%23154
+msgctxt "data/players/luke.json//actions/WAVE/DASH_SPECIAL1_A/name"
+msgid "Wellenritt"
+msgstr "Wellenritt"
 
 #. data/players/schneider.json actions/NEUTRAL/ATTACK_SPECIAL1_LEL/name #21
 #: data/players/schneider.json+actions/NEUTRAL/ATTACK_SPECIAL1_LEL/name+%2321
@@ -5111,17 +5165,65 @@ msgctxt "data/players/schneider.json//actions/NEUTRAL/ATTACK_SPECIAL1_LEL/name"
 msgid "ERST SCHLITZER!!!"
 msgstr "ERST SCHLITZER!!!"
 
-#. data/players/schneider.json actions/NEUTRAL/ATTACK_SPECIAL1_A/name #61
-#: data/players/schneider.json+actions/NEUTRAL/ATTACK_SPECIAL1_A/name+%2361
+#. data/players/schneider.json actions/NEUTRAL/ATTACK_SPECIAL1_A/name #35
+#: data/players/schneider.json+actions/NEUTRAL/ATTACK_SPECIAL1_A/name+%2335
 msgctxt "data/players/schneider.json//actions/NEUTRAL/ATTACK_SPECIAL1_A/name"
-msgid "SSSSCHLITZER!!!"
-msgstr ""
+msgid "Wirbelschlitzer"
+msgstr "Wirbelschlitzer"
 
-#. data/players/schneider.json actions/WAVE/ATTACK_SPECIAL1_A/name #62
-#: data/players/schneider.json+actions/WAVE/ATTACK_SPECIAL1_A/name+%2362
+#. data/players/schneider.json actions/NEUTRAL/DASH_SPECIAL1_A/name #84
+#: data/players/schneider.json+actions/NEUTRAL/DASH_SPECIAL1_A/name+%2384
+msgctxt "data/players/schneider.json//actions/NEUTRAL/DASH_SPECIAL1_A/name"
+msgid "Erstschlag"
+msgstr "Erstschlag"
+
+#. data/players/schneider.json actions/HEAT/ATTACK_SPECIAL1_A/name #62
+#: data/players/schneider.json+actions/HEAT/ATTACK_SPECIAL1_A/name+%2362
+msgctxt "data/players/schneider.json//actions/HEAT/ATTACK_SPECIAL1_A/name"
+msgid "Flammenwirbler"
+msgstr "Flammenwirbler"
+
+#. data/players/schneider.json actions/HEAT/DASH_SPECIAL1_A/name #106
+#: data/players/schneider.json+actions/HEAT/DASH_SPECIAL1_A/name+%23106
+msgctxt "data/players/schneider.json//actions/HEAT/DASH_SPECIAL1_A/name"
+msgid "Feuersprint"
+msgstr "Feuersprint"
+
+#. data/players/schneider.json actions/COLD/ATTACK_SPECIAL1_A/name #63
+#: data/players/schneider.json+actions/COLD/ATTACK_SPECIAL1_A/name+%2363
+msgctxt "data/players/schneider.json//actions/COLD/ATTACK_SPECIAL1_A/name"
+msgid "Kältewirbler"
+msgstr "Kältewirbler"
+
+#. data/players/schneider.json actions/COLD/DASH_SPECIAL1_A/name #118
+#: data/players/schneider.json+actions/COLD/DASH_SPECIAL1_A/name+%23118
+msgctxt "data/players/schneider.json//actions/COLD/DASH_SPECIAL1_A/name"
+msgid "Eisbahn"
+msgstr "Eisbahn"
+
+#. data/players/schneider.json actions/SHOCK/ATTACK_SPECIAL1_A/name #64
+#: data/players/schneider.json+actions/SHOCK/ATTACK_SPECIAL1_A/name+%2364
+msgctxt "data/players/schneider.json//actions/SHOCK/ATTACK_SPECIAL1_A/name"
+msgid "Schockwirbler"
+msgstr "Schockwirbler"
+
+#. data/players/schneider.json actions/SHOCK/DASH_SPECIAL1_A/name #138
+#: data/players/schneider.json+actions/SHOCK/DASH_SPECIAL1_A/name+%23138
+msgctxt "data/players/schneider.json//actions/SHOCK/DASH_SPECIAL1_A/name"
+msgid "Donnerpfeil"
+msgstr "Donnerpfeil"
+
+#. data/players/schneider.json actions/WAVE/ATTACK_SPECIAL1_A/name #61
+#: data/players/schneider.json+actions/WAVE/ATTACK_SPECIAL1_A/name+%2361
 msgctxt "data/players/schneider.json//actions/WAVE/ATTACK_SPECIAL1_A/name"
-msgid "WELLENSCHLITZER!!!"
-msgstr ""
+msgid "Wellenwirbler"
+msgstr "Wellenwirbler"
+
+#. data/players/schneider.json actions/WAVE/DASH_SPECIAL1_A/name #154
+#: data/players/schneider.json+actions/WAVE/DASH_SPECIAL1_A/name+%23154
+msgctxt "data/players/schneider.json//actions/WAVE/DASH_SPECIAL1_A/name"
+msgid "Wellenritt"
+msgstr "Wellenritt"
 
 #. data/players/schneider2.json actions/NEUTRAL/ATTACK_SPECIAL1_LEL/name #21
 #: data/players/schneider2.json+actions/NEUTRAL/ATTACK_SPECIAL1_LEL/name+%2321
@@ -5133,31 +5235,253 @@ msgstr "ERST SCHLITZER!!!"
 #: data/players/schneider2.json+actions/NEUTRAL/ATTACK_SPECIAL1_A/name+%2335
 msgctxt "data/players/schneider2.json//actions/NEUTRAL/ATTACK_SPECIAL1_A/name"
 msgid "Wirbelschlitzer"
-msgstr ""
+msgstr "Wirbelschlitzer"
+
+#. data/players/schneider2.json actions/NEUTRAL/DASH_SPECIAL1_A/name #84
+#: data/players/schneider2.json+actions/NEUTRAL/DASH_SPECIAL1_A/name+%2384
+msgctxt "data/players/schneider2.json//actions/NEUTRAL/DASH_SPECIAL1_A/name"
+msgid "Erstschlag"
+msgstr "Erstschlag"
 
 #. data/players/schneider2.json actions/HEAT/ATTACK_SPECIAL1_A/name #62
 #: data/players/schneider2.json+actions/HEAT/ATTACK_SPECIAL1_A/name+%2362
 msgctxt "data/players/schneider2.json//actions/HEAT/ATTACK_SPECIAL1_A/name"
 msgid "Flammenwirbler"
-msgstr ""
+msgstr "Flammenwirbler"
+
+#. data/players/schneider2.json actions/HEAT/DASH_SPECIAL1_A/name #106
+#: data/players/schneider2.json+actions/HEAT/DASH_SPECIAL1_A/name+%23106
+msgctxt "data/players/schneider2.json//actions/HEAT/DASH_SPECIAL1_A/name"
+msgid "Feuersprint"
+msgstr "Feuersprint"
 
 #. data/players/schneider2.json actions/COLD/ATTACK_SPECIAL1_A/name #63
 #: data/players/schneider2.json+actions/COLD/ATTACK_SPECIAL1_A/name+%2363
 msgctxt "data/players/schneider2.json//actions/COLD/ATTACK_SPECIAL1_A/name"
 msgid "Kältewirbler"
-msgstr ""
+msgstr "Kältewirbler"
+
+#. data/players/schneider2.json actions/COLD/DASH_SPECIAL1_A/name #118
+#: data/players/schneider2.json+actions/COLD/DASH_SPECIAL1_A/name+%23118
+msgctxt "data/players/schneider2.json//actions/COLD/DASH_SPECIAL1_A/name"
+msgid "Eisbahn"
+msgstr "Eisbahn"
 
 #. data/players/schneider2.json actions/SHOCK/ATTACK_SPECIAL1_A/name #64
 #: data/players/schneider2.json+actions/SHOCK/ATTACK_SPECIAL1_A/name+%2364
 msgctxt "data/players/schneider2.json//actions/SHOCK/ATTACK_SPECIAL1_A/name"
 msgid "Schockwirbler"
-msgstr ""
+msgstr "Schockwirbler"
+
+#. data/players/schneider2.json actions/SHOCK/DASH_SPECIAL1_A/name #138
+#: data/players/schneider2.json+actions/SHOCK/DASH_SPECIAL1_A/name+%23138
+msgctxt "data/players/schneider2.json//actions/SHOCK/DASH_SPECIAL1_A/name"
+msgid "Donnerpfeil"
+msgstr "Donnerpfeil"
 
 #. data/players/schneider2.json actions/WAVE/ATTACK_SPECIAL1_A/name #61
 #: data/players/schneider2.json+actions/WAVE/ATTACK_SPECIAL1_A/name+%2361
 msgctxt "data/players/schneider2.json//actions/WAVE/ATTACK_SPECIAL1_A/name"
 msgid "Wellenwirbler"
-msgstr ""
+msgstr "Wellenwirbler"
+
+#. data/players/schneider2.json actions/WAVE/DASH_SPECIAL1_A/name #154
+#: data/players/schneider2.json+actions/WAVE/DASH_SPECIAL1_A/name+%23154
+msgctxt "data/players/schneider2.json//actions/WAVE/DASH_SPECIAL1_A/name"
+msgid "Wellenritt"
+msgstr "Wellenritt"
+
+#. data/players/shizuka.json actions/NEUTRAL/ATTACK_SPECIAL1_A/name #77
+#: data/players/shizuka.json+actions/NEUTRAL/ATTACK_SPECIAL1_A/name+%2377
+msgctxt "data/players/shizuka.json//actions/NEUTRAL/ATTACK_SPECIAL1_A/name"
+msgid "Spin Dance"
+msgstr "Круговой танец"
+
+#. data/players/shizuka.json actions/NEUTRAL/ATTACK_SPECIAL1_A/description #78
+#: data/players/shizuka.json+actions/NEUTRAL/ATTACK_SPECIAL1_A/description+%2378
+msgctxt "data/players/shizuka.json//actions/NEUTRAL/ATTACK_SPECIAL1_A/description"
+msgid "A wide-ranged spinning move hitting many nearby enemies."
+msgstr "Широкое вращательное движение, поражающее большую площадь."
+
+#. data/players/shizuka.json actions/NEUTRAL/THROW_SPECIAL1_A/name #73
+#: data/players/shizuka.json+actions/NEUTRAL/THROW_SPECIAL1_A/name+%2373
+msgctxt "data/players/shizuka.json//actions/NEUTRAL/THROW_SPECIAL1_A/name"
+msgid "Bullet Rain"
+msgstr "Дождь из пуль"
+
+#. data/players/shizuka.json actions/NEUTRAL/THROW_SPECIAL1_A/description #74
+#: data/players/shizuka.json+actions/NEUTRAL/THROW_SPECIAL1_A/description+%2374
+msgctxt "data/players/shizuka.json//actions/NEUTRAL/THROW_SPECIAL1_A/description"
+msgid "Fire a mass of small shots in a narrow angle."
+msgstr "Выстрели множество маленьких снарядов с маленьким разбросом."
+
+#. data/players/shizuka.json actions/NEUTRAL/DASH_SPECIAL1_B/name #84
+#: data/players/shizuka.json+actions/NEUTRAL/DASH_SPECIAL1_B/name+%2384
+msgctxt "data/players/shizuka.json//actions/NEUTRAL/DASH_SPECIAL1_B/name"
+msgid "First Cut"
+msgstr "Начальный разрез"
+
+#. data/players/shizuka.json actions/NEUTRAL/DASH_SPECIAL1_B/description #85
+#: data/players/shizuka.json+actions/NEUTRAL/DASH_SPECIAL1_B/description+%2385
+msgctxt "data/players/shizuka.json//actions/NEUTRAL/DASH_SPECIAL1_B/description"
+msgid "A very powerful attack that will hit exactly one enemy."
+msgstr "Очень мощная атака, которая может поразить только одного врага."
+
+#. data/players/shizuka.json actions/HEAT/ATTACK_SPECIAL1_A/name #92
+#: data/players/shizuka.json+actions/HEAT/ATTACK_SPECIAL1_A/name+%2392
+msgctxt "data/players/shizuka.json//actions/HEAT/ATTACK_SPECIAL1_A/name"
+msgid "Fire Whirl"
+msgstr "Огненный вихрь"
+
+#. data/players/shizuka.json actions/HEAT/ATTACK_SPECIAL1_A/description #93
+#: data/players/shizuka.json+actions/HEAT/ATTACK_SPECIAL1_A/description+%2393
+msgctxt "data/players/shizuka.json//actions/HEAT/ATTACK_SPECIAL1_A/description"
+msgid "Performs a fierce whirl attack, engulfing your enemies in flames."
+msgstr "Проведи свирепую вихревую атаку, поглощая врагов пламенем."
+
+#. data/players/shizuka.json actions/HEAT/THROW_SPECIAL1_A/name #100
+#: data/players/shizuka.json+actions/HEAT/THROW_SPECIAL1_A/name+%23100
+msgctxt "data/players/shizuka.json//actions/HEAT/THROW_SPECIAL1_A/name"
+msgid "Burn!"
+msgstr "Гори!"
+
+#. data/players/shizuka.json actions/HEAT/THROW_SPECIAL1_A/description #101
+#: data/players/shizuka.json+actions/HEAT/THROW_SPECIAL1_A/description+%23101
+msgctxt "data/players/shizuka.json//actions/HEAT/THROW_SPECIAL1_A/description"
+msgid "A controllable blazing burst of fire that deals damage over a small area."
+msgstr "Контролируемый полыхающий огненный взрыв, наносящий урон в небольшом радиусе."
+
+#. data/players/shizuka.json actions/HEAT/DASH_SPECIAL1_A/name #106
+#: data/players/shizuka.json+actions/HEAT/DASH_SPECIAL1_A/name+%23106
+msgctxt "data/players/shizuka.json//actions/HEAT/DASH_SPECIAL1_A/name"
+msgid "Crimson Strike"
+msgstr "Багровая атака"
+
+#. data/players/shizuka.json actions/HEAT/DASH_SPECIAL1_A/description #107
+#: data/players/shizuka.json+actions/HEAT/DASH_SPECIAL1_A/description+%23107
+msgctxt "data/players/shizuka.json//actions/HEAT/DASH_SPECIAL1_A/description"
+msgid "Dash through your enemies while leaving a trail of fire."
+msgstr "Сделай рывок через врагов, оставляя огненный след."
+
+#. data/players/shizuka.json actions/COLD/ATTACK_SPECIAL1_A/name #112
+#: data/players/shizuka.json+actions/COLD/ATTACK_SPECIAL1_A/name+%23112
+msgctxt "data/players/shizuka.json//actions/COLD/ATTACK_SPECIAL1_A/name"
+msgid "Ice Twirl"
+msgstr "Ледяной вихрь"
+
+#. data/players/shizuka.json actions/COLD/ATTACK_SPECIAL1_A/description #113
+#: data/players/shizuka.json+actions/COLD/ATTACK_SPECIAL1_A/description+%23113
+msgctxt "data/players/shizuka.json//actions/COLD/ATTACK_SPECIAL1_A/description"
+msgid "Performs a stationary ice whirl attack with wide range and strong knockback."
+msgstr "Соверши вихревую атаку на месте с большим радиусом и сильным отталкиванием."
+
+#. data/players/shizuka.json actions/COLD/THROW_SPECIAL1_A/name #142
+#: data/players/shizuka.json+actions/COLD/THROW_SPECIAL1_A/name+%23142
+msgctxt "data/players/shizuka.json//actions/COLD/THROW_SPECIAL1_A/name"
+msgid "Snow Flawke"
+msgstr "Снежный изъян"
+
+#. data/players/shizuka.json actions/COLD/THROW_SPECIAL1_A/description #143
+#: data/players/shizuka.json+actions/COLD/THROW_SPECIAL1_A/description+%23143
+msgctxt "data/players/shizuka.json//actions/COLD/THROW_SPECIAL1_A/description"
+msgid "Hit enemies with a big snow explosion, caging them within icicles."
+msgstr "Порази врагов большим снежным взрывом, который окружает врагов сосульками."
+
+#. data/players/shizuka.json actions/COLD/THROW_SPECIAL1_NO/name #114
+#: data/players/shizuka.json+actions/COLD/THROW_SPECIAL1_NO/name+%23114
+msgctxt "data/players/shizuka.json//actions/COLD/THROW_SPECIAL1_NO/name"
+msgid "Hail Flurry"
+msgstr "Шквальный град"
+
+#. data/players/shizuka.json actions/COLD/THROW_SPECIAL1_NO/description #115
+#: data/players/shizuka.json+actions/COLD/THROW_SPECIAL1_NO/description+%23115
+msgctxt "data/players/shizuka.json//actions/COLD/THROW_SPECIAL1_NO/description"
+msgid "Quickly shoots a mass of icy spikes."
+msgstr "Быстро выстрели множество ледяных шипов."
+
+#. data/players/shizuka.json actions/COLD/DASH_SPECIAL1_A/name #118
+#: data/players/shizuka.json+actions/COLD/DASH_SPECIAL1_A/name+%23118
+msgctxt "data/players/shizuka.json//actions/COLD/DASH_SPECIAL1_A/name"
+msgid "Indigo Strike"
+msgstr "Удар индиго"
+
+#. data/players/shizuka.json actions/COLD/DASH_SPECIAL1_A/description #119
+#: data/players/shizuka.json+actions/COLD/DASH_SPECIAL1_A/description+%23119
+msgctxt "data/players/shizuka.json//actions/COLD/DASH_SPECIAL1_A/description"
+msgid "Dash with high speed, leaving a trail of icicles behind you, damaging enemies on contact."
+msgstr "Сделай быстрый рывок, оставляя след из сосулек за собой, которые наносят урон врагам при контакте."
+
+#. data/players/shizuka.json actions/SHOCK/ATTACK_SPECIAL1/name #120
+#: data/players/shizuka.json+actions/SHOCK/ATTACK_SPECIAL1/name+%23120
+msgctxt "data/players/shizuka.json//actions/SHOCK/ATTACK_SPECIAL1/name"
+msgid "Tesla Twist"
+msgstr "Вращение Теслы"
+
+#. data/players/shizuka.json actions/SHOCK/ATTACK_SPECIAL1/description #121
+#: data/players/shizuka.json+actions/SHOCK/ATTACK_SPECIAL1/description+%23121
+msgctxt "data/players/shizuka.json//actions/SHOCK/ATTACK_SPECIAL1/description"
+msgid "Attack with a series of multiple fast spin attacks within a small radius."
+msgstr "Атакуй серией быстрых вращений с маленьким радиусом."
+
+#. data/players/shizuka.json actions/SHOCK/THROW_SPECIAL1/name #140
+#: data/players/shizuka.json+actions/SHOCK/THROW_SPECIAL1/name+%23140
+msgctxt "data/players/shizuka.json//actions/SHOCK/THROW_SPECIAL1/name"
+msgid "Homing Wisp"
+msgstr "Управляемые огни"
+
+#. data/players/shizuka.json actions/SHOCK/THROW_SPECIAL1/description #141
+#: data/players/shizuka.json+actions/SHOCK/THROW_SPECIAL1/description+%23141
+msgctxt "data/players/shizuka.json//actions/SHOCK/THROW_SPECIAL1/description"
+msgid "Shoot an array of small homing projectiles."
+msgstr "Выстрели множество маленьких самонаводящихся снарядов."
+
+#. data/players/shizuka.json actions/SHOCK/DASH_SPECIAL1_B/name #138
+#: data/players/shizuka.json+actions/SHOCK/DASH_SPECIAL1_B/name+%23138
+msgctxt "data/players/shizuka.json//actions/SHOCK/DASH_SPECIAL1_B/name"
+msgid "Thunder Dart"
+msgstr "Громовой дротик"
+
+#. data/players/shizuka.json actions/SHOCK/DASH_SPECIAL1_B/description #139
+#: data/players/shizuka.json+actions/SHOCK/DASH_SPECIAL1_B/description+%23139
+msgctxt "data/players/shizuka.json//actions/SHOCK/DASH_SPECIAL1_B/description"
+msgid "Dash through enemies leaving a shocking trail of lightning."
+msgstr "Сделай рывок через врагов, оставляя шоковый след из молний."
+
+#. data/players/shizuka.json actions/WAVE/ATTACK_SPECIAL1_A/name #132
+#: data/players/shizuka.json+actions/WAVE/ATTACK_SPECIAL1_A/name+%23132
+msgctxt "data/players/shizuka.json//actions/WAVE/ATTACK_SPECIAL1_A/name"
+msgid "Ki Thrust"
+msgstr "Выпад Ки"
+
+#. data/players/shizuka.json actions/WAVE/ATTACK_SPECIAL1_A/description #133
+#: data/players/shizuka.json+actions/WAVE/ATTACK_SPECIAL1_A/description+%23133
+msgctxt "data/players/shizuka.json//actions/WAVE/ATTACK_SPECIAL1_A/description"
+msgid "Frontal attack with high damage, sending all hit enemies flying."
+msgstr "Атака вперёд с высоким уроном, отправляющая врагов в полёт."
+
+#. data/players/shizuka.json actions/WAVE/THROW_SPECIAL1_A/name #128
+#: data/players/shizuka.json+actions/WAVE/THROW_SPECIAL1_A/name+%23128
+msgctxt "data/players/shizuka.json//actions/WAVE/THROW_SPECIAL1_A/name"
+msgid "Fae Round"
+msgstr "Пуля феи"
+
+#. data/players/shizuka.json actions/WAVE/THROW_SPECIAL1_A/description #129
+#: data/players/shizuka.json+actions/WAVE/THROW_SPECIAL1_A/description+%23129
+msgctxt "data/players/shizuka.json//actions/WAVE/THROW_SPECIAL1_A/description"
+msgid "Shoots a super fast projectile penetrating a line of enemies."
+msgstr "Выстрели сверхбыстрым снарядом, пробивающим линию врагов."
+
+#. data/players/shizuka.json actions/WAVE/DASH_SPECIAL1_A/name #154
+#: data/players/shizuka.json+actions/WAVE/DASH_SPECIAL1_A/name+%23154
+msgctxt "data/players/shizuka.json//actions/WAVE/DASH_SPECIAL1_A/name"
+msgid "Verdant Strike"
+msgstr "Зелёный удар"
+
+#. data/players/shizuka.json actions/WAVE/DASH_SPECIAL1_A/description #155
+#: data/players/shizuka.json+actions/WAVE/DASH_SPECIAL1_A/description+%23155
+msgctxt "data/players/shizuka.json//actions/WAVE/DASH_SPECIAL1_A/description"
+msgid "Dash with high speed, damaging and stunning enemies along the way."
+msgstr "Сделай рывок на большой скорости, нанося урон и оглушая всех противников на пути."
 
 #. data/save-presets/0-before-boss.json title #1
 #: data/save-presets/0-before-boss.json+title+%231
@@ -5267,6 +5591,58 @@ msgctxt "data/save-presets/8-autumns-fall.json//sub"
 msgid "Head towards the new Jungle!"
 msgstr "Направляйтесь в новые джунгли!"
 
+#. extension/fish-gear/fish-gear.json name #1
+#: extension/fish-gear/fish-gear.json+name+%231
+msgctxt "extension/fish-gear/fish-gear.json//name"
+msgid "PS4 Exclusive Extension"
+msgstr "Эксклюзивное расширение для PS4"
+
+#. extension/fish-gear/fish-gear.json description #2
+#: extension/fish-gear/fish-gear.json+description+%232
+msgctxt "extension/fish-gear/fish-gear.json//description"
+msgid "Includes a new late-game quest and pet that were once exclusive to the Playstation 4!"
+msgstr "Включает в себя новый квест на поздней стадии игры и питомца, которые раньше были эксклюзивными для Playstation 4!"
+
+#. extension/flying-hedgehag/flying-hedgehag.json name #1
+#: extension/flying-hedgehag/flying-hedgehag.json+name+%231
+msgctxt "extension/flying-hedgehag/flying-hedgehag.json//name"
+msgid "Switch Exclusive Extension"
+msgstr "Эксклюзивное расширение для Switch"
+
+#. extension/flying-hedgehag/flying-hedgehag.json description #2
+#: extension/flying-hedgehag/flying-hedgehag.json+description+%232
+msgctxt "extension/flying-hedgehag/flying-hedgehag.json//description"
+msgid "Includes a new late-game quest and pet that were once exclusive to the Nintendo Switch!"
+msgstr "Включает в себя новый квест на поздней стадии игры и питомца, которые раньше были эксклюзивными для Nintendo Switch!"
+
+#. extension/manlea/manlea.json name #1
+#: extension/manlea/manlea.json+name+%231
+msgctxt "extension/manlea/manlea.json//name"
+msgid "Manlea"
+msgstr "Манлея"
+
+#. extension/manlea/manlea.json description #2
+#: extension/manlea/manlea.json+description+%232
+msgctxt "extension/manlea/manlea.json//description"
+msgid "The manlier version of Lea is finally here!"
+msgstr "Более мужественная версия Леи уже здесь!"
+
+#. extension/ninja-skin/ninja-skin.json name #1
+#: extension/ninja-skin/ninja-skin.json+name+%231
+msgctxt "extension/ninja-skin/ninja-skin.json//name"
+msgid "Ninja Skin"
+msgstr "Одежда ниндзя"
+
+#. extension/ninja-skin/ninja-skin.json description #2
+#: extension/ninja-skin/ninja-skin.json+description+%232
+msgctxt "extension/ninja-skin/ninja-skin.json//description"
+msgid ""
+"Lea has been running around like a ninja all along and now she finally has the appropriate set of clothes!\n"
+"You can equip the \\c[3]Kunoichi\\c[0] in the \\c[3]Add-on\\c[0] tab of the \\c[3]inventory\\c[0]"
+msgstr ""
+"Лея бегает повсюду как ниндзя, и теперь у неё есть подходящий для этого наряд!\n"
+"Вы можете включить \\c[3]Куноичи\\c[0] во вкладке \\c[3]Расширения\\c[0] в \\c[3]инвентаре\\c[0]"
+
 #. extension/post-game/post-game.json name #1
 #: extension/post-game/post-game.json+name+%231
 msgctxt "extension/post-game/post-game.json//name"
@@ -5288,5 +5664,17 @@ msgstr "Эксклюзивное расширение для ПК"
 #. extension/scorpion-robo/scorpion-robo.json description #2
 #: extension/scorpion-robo/scorpion-robo.json+description+%232
 msgctxt "extension/scorpion-robo/scorpion-robo.json//description"
-msgid "Includes a new late-game quest and pet that are exclusive to the PC!"
-msgstr "Включает в себя новый квест на поздней стадии игры и питомца, которые являются эксклюзивными для ПК!"
+msgid "Includes a new late-game quest and pet that were once exclusive to the PC!"
+msgstr "Включает в себя новый квест на поздней стадии игры и питомца, которые раньше были эксклюзивными для ПК!"
+
+#. extension/snowman-tank/snowman-tank.json name #1
+#: extension/snowman-tank/snowman-tank.json+name+%231
+msgctxt "extension/snowman-tank/snowman-tank.json//name"
+msgid "Xbox Exclusive Extension"
+msgstr "Эксклюзивное расширение для Xbox"
+
+#. extension/snowman-tank/snowman-tank.json description #2
+#: extension/snowman-tank/snowman-tank.json+description+%232
+msgctxt "extension/snowman-tank/snowman-tank.json//description"
+msgid "Includes a new late-game quest and pet that were once exclusive to the Xbox One!"
+msgstr "Включает в себя новый квест на поздней стадии игры и питомца, которые раньше были эксклюзивными для Xbox One!"

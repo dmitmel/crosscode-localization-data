@@ -1,18 +1,17 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.4.1-2\n"
+"Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-14 01:09+0000\n"
-"PO-Revision-Date: 2022-01-08 20:35+0000\n"
-"Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
-"Language-Team: Spanish <https://weblate.crosscode.ru/projects/crosscode/heat/es/>\n"
+"POT-Creation-Date: 2022-01-11 15:55+0000\n"
+"POT-Revision-Date: 2022-01-11 15:55+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.5.3\n"
-"POT-Revision-Date: 2021-04-14 01:09+0000\n"
+"Plural-Forms: \n"
+"X-Generator: crosscode-localization-engine 0.0.0 (2168d54 2022-01-11)\n"
 
 #. data/maps/heat/caves/cliff-cave-01.json entities/243/settings/condAnims/0/interact/hoverText #83
 #. Prop probe SPAWN IF quest.trailblaze-maroon.started
@@ -13824,22 +13823,39 @@ msgid ""
 "\\c[3]So you will learn one location after reading this very message.\\c[0]"
 msgstr ""
 
-#. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/123/settings/condAnims/0/interact/event/6/thenStep/0/text #12208
+#. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/123/settings/condAnims/0/interact/event/6/thenStep/0/text #12215
 #. Prop keyLore
 #. IF true
-#. IF true
+#. IF extension.fish-gear.active && extension.flying-hedgehag.active && extension.scorpion-robo.active && extension.snowman-tank.active
 #. SHOW_BOARD_MSG
-#: extension/scorpion-robo/data/maps/heat/lab/room-final.json+entities/123/settings/condAnims/0/interact/event/6/thenStep/0/text+%2312208
+#: extension/scorpion-robo/data/maps/heat/lab/room-final.json+entities/123/settings/condAnims/0/interact/event/6/thenStep/0/text+%2312215
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-final.json//entities/123/settings/condAnims/0/interact/event/6/thenStep/0/text"
+msgid ""
+"Everyone who manages to enter will be welcome!\n"
+"\n"
+"Sincerely,\n"
+"\"The 4 Visionaries\"\n"
+"\n"
+"\\c[1][END OF MAIL]\\c[0]"
+msgstr ""
+
+#. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/123/settings/condAnims/0/interact/event/6/elseStep/0/text #12208
+#. Prop keyLore
+#. IF true
+#. IF NOT extension.fish-gear.active && extension.flying-hedgehag.active && extension.scorpion-robo.active && extension.snowman-tank.active
+#. SHOW_BOARD_MSG
+#: extension/scorpion-robo/data/maps/heat/lab/room-final.json+entities/123/settings/condAnims/0/interact/event/6/elseStep/0/text+%2312208
+msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-final.json//entities/123/settings/condAnims/0/interact/event/6/elseStep/0/text"
 msgid "Interested \\c[3]\\v[lore.title.seeker]s\\c[0] should know that \\c[3]each of their kind\\c[0] is destined to enter \\c[3]only one of the 4 facilities\\c[0] and find a part of the information."
 msgstr ""
 
-#. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/123/settings/condAnims/0/interact/event/7/text #12211
+#. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/123/settings/condAnims/0/interact/event/6/elseStep/1/text #12211
 #. Prop keyLore
 #. IF true
+#. IF NOT extension.fish-gear.active && extension.flying-hedgehag.active && extension.scorpion-robo.active && extension.snowman-tank.active
 #. SHOW_BOARD_MSG
-#: extension/scorpion-robo/data/maps/heat/lab/room-final.json+entities/123/settings/condAnims/0/interact/event/7/text+%2312211
-msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-final.json//entities/123/settings/condAnims/0/interact/event/7/text"
+#: extension/scorpion-robo/data/maps/heat/lab/room-final.json+entities/123/settings/condAnims/0/interact/event/6/elseStep/1/text+%2312211
+msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-final.json//entities/123/settings/condAnims/0/interact/event/6/elseStep/1/text"
 msgid ""
 "But \\c[3]through teamwork and communication\\c[0] it might be possible to obtain all locations regardless!\n"
 "Everyone who manages to enter will be welcome!\n"
@@ -13850,12 +13866,12 @@ msgid ""
 "\\c[1][END OF MAIL]\\c[0]"
 msgstr ""
 
-#. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/123/settings/condAnims/0/interact/event/8/text #12209
+#. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/123/settings/condAnims/0/interact/event/7/text #12209
 #. Prop keyLore
 #. IF true
 #. SHOW_BOARD_MSG
-#: extension/scorpion-robo/data/maps/heat/lab/room-final.json+entities/123/settings/condAnims/0/interact/event/8/text+%2312209
-msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-final.json//entities/123/settings/condAnims/0/interact/event/8/text"
+#: extension/scorpion-robo/data/maps/heat/lab/room-final.json+entities/123/settings/condAnims/0/interact/event/7/text+%2312209
+msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-final.json//entities/123/settings/condAnims/0/interact/event/7/text"
 msgid ""
 "\\c[1]ATTACHMENT:\\c[0]\n"
 "\n"

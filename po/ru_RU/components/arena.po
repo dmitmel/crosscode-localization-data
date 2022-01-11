@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.4.1-2\n"
+"Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-14 01:09+0000\n"
-"POT-Revision-Date: 2021-04-14 01:09+0000\n"
+"POT-Creation-Date: 2022-01-11 15:55+0000\n"
+"POT-Revision-Date: 2022-01-11 15:55+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0\n"
+"X-Generator: crosscode-localization-engine 0.0.0 (2168d54 2022-01-11)\n"
 
 #. data/arena/boss-cup.json core/name #4
 #. SOLO_CUP
@@ -25,7 +25,7 @@ msgstr "Кубок боссов подземелий"
 #: data/arena/boss-cup.json+core/info+%231
 msgctxt "data/arena/boss-cup.json//core/info"
 msgid "Take on stronger versions of the boss fights of all the temples and dungeons."
-msgstr "Справьтесь с более сильными версиями боссов из всех храмов и подземелий."
+msgstr "Справьтесь с усиленными версиями боссов из всех храмов и подземелий."
 
 #. data/arena/boss-cup.json core/creator #44
 #. SOLO_CUP
@@ -66,7 +66,7 @@ msgstr "Победите усиленную версию \\c[3]Заражённ�
 #. DEFAULT
 #: data/arena/boss-cup.json+rounds/2/name+%2326
 msgctxt "data/arena/boss-cup.json//rounds/2/name"
-msgid "The Collosal Gear"
+msgid "The Colossal Gear"
 msgstr "Колоссальный механизм"
 
 #. data/arena/boss-cup.json rounds/2/objective #33
@@ -159,6 +159,139 @@ msgstr "Чудовищный кит"
 msgctxt "data/arena/boss-cup.json//rounds/8/objective"
 msgid "Beat stronger versions of the \\c[3]\\v[combat.name.jungle/ape-boss]\\c[0] and \\c[3]\\v[combat.name.jungle/whale-boss]\\c[0] boss from \\c[3]\\v[area.tree-dng.name]\\c[0]!"
 msgstr "Победите усиленные версии \\c[3]Сына Востока\\c[0] и \\c[3]Древнего Стража\\c[0] из \\c[3]Гранд Крис'кайо\\c[0]!"
+
+#. data/arena/console-cup-1.json core/name #4
+#. SOLO_CUSTOM
+#: data/arena/console-cup-1.json+core/name+%234
+msgctxt "data/arena/console-cup-1.json//core/name"
+msgid "Platform Cup"
+msgstr "Кубок консолей"
+
+#. data/arena/console-cup-1.json core/info #1
+#. SOLO_CUSTOM
+#: data/arena/console-cup-1.json+core/info+%231
+msgctxt "data/arena/console-cup-1.json//core/info"
+msgid "Redo fights of once \"platform-exclusive\" quests related to \"hardware\"!"
+msgstr "Повторите бои некогда эксклюзивных квестов, связанных с \"железом\"!"
+
+#. data/arena/console-cup-1.json core/creator #50
+#. SOLO_CUSTOM
+#: data/arena/console-cup-1.json+core/creator+%2350
+msgctxt "data/arena/console-cup-1.json//core/creator"
+msgid "The Four Visionaries"
+msgstr "Четыре провидца"
+
+#. data/arena/console-cup-1.json rounds/0/name #56
+#. DEFAULT
+#: data/arena/console-cup-1.json+rounds/0/name+%2356
+msgctxt "data/arena/console-cup-1.json//rounds/0/name"
+msgid "Flying-Type Fiends"
+msgstr "Друзья летающего типа"
+
+#. data/arena/console-cup-1.json rounds/0/objective #57
+#. DEFAULT
+#: data/arena/console-cup-1.json+rounds/0/objective+%2357
+msgctxt "data/arena/console-cup-1.json//rounds/0/objective"
+msgid "Defeat the \\c[3]\\v[combat.name.hedgehog-fly]s\\c[0] in the secret lab of \\c[3]Avian Appliances\\c[0]!"
+msgstr "Победите \\c[3]Летающих дикоборзов\\c[0] в секретной лаборатории \\c[3]\"Воздушной техники\"\\c[0]!"
+
+#. data/arena/console-cup-1.json rounds/1/name #54
+#. DEFAULT
+#: data/arena/console-cup-1.json+rounds/1/name+%2354
+msgctxt "data/arena/console-cup-1.json//rounds/1/name"
+msgid "Super-crowned Mammal"
+msgstr "Супер-коронованное млекопитающее"
+
+#. data/arena/console-cup-1.json rounds/1/objective #51
+#. DEFAULT
+#: data/arena/console-cup-1.json+rounds/1/objective+%2351
+msgctxt "data/arena/console-cup-1.json//rounds/1/objective"
+msgid "Defeat the \\c[3]\\v[combat.name.minibosses/hedgehag-king]\\c[0] in the secret lab of \\c[3]Avian Appliances\\c[0]!"
+msgstr "Победите \\c[3]Короля-дикоборза\\c[0] в секретной лаборатории \\c[3]\"Воздушной техники\"\\c[0]!"
+
+#. data/arena/console-cup-1.json rounds/2/name #58
+#. DEFAULT
+#: data/arena/console-cup-1.json+rounds/2/name+%2358
+msgctxt "data/arena/console-cup-1.json//rounds/2/name"
+msgid "Leg-endary Fish"
+msgstr "М-ног-огранная рыба"
+
+#. data/arena/console-cup-1.json rounds/2/objective #55
+#. DEFAULT
+#: data/arena/console-cup-1.json+rounds/2/objective+%2355
+msgctxt "data/arena/console-cup-1.json//rounds/2/objective"
+msgid "Defeat the \\c[3]\\v[combat.name.jungle/fish-gear]s\\c[0] in the secret lab of \\c[3]Mech Machinery\\c[0]!"
+msgstr "Победите \\c[3]Длинноногих удильщиков\\c[0] в секретной лаборатории \\c[3]\"Механического оборудования\"\\c[0]!"
+
+#. data/arena/console-cup-1.json rounds/3/name #40
+#. DEFAULT
+#: data/arena/console-cup-1.json+rounds/3/name+%2340
+msgctxt "data/arena/console-cup-1.json//rounds/3/name"
+msgid "Fish & Chips & Metal"
+msgstr "Рыба, чипсы и металл"
+
+#. data/arena/console-cup-1.json rounds/3/objective #41
+#. DEFAULT
+#: data/arena/console-cup-1.json+rounds/3/objective+%2341
+msgctxt "data/arena/console-cup-1.json//rounds/3/objective"
+msgid "Defeat the \\c[3]\\v[combat.name.minibosses/fish-mega-gear]\\c[0] in the secret lab of \\c[3]Mech Machinery\\c[0]!"
+msgstr "Победите \\c[3]Mecha Gear РЫБА\\c[0] в секретной лаборатории \\c[3]\"Механического оборудования\"\\c[0]!"
+
+#. data/arena/console-cup-1.json rounds/4/name #59
+#. DEFAULT
+#: data/arena/console-cup-1.json+rounds/4/name+%2359
+msgctxt "data/arena/console-cup-1.json//rounds/4/name"
+msgid "Cool Company"
+msgstr "Прохладная компания"
+
+#. data/arena/console-cup-1.json rounds/4/objective #60
+#. DEFAULT
+#: data/arena/console-cup-1.json+rounds/4/objective+%2360
+msgctxt "data/arena/console-cup-1.json//rounds/4/objective"
+msgid "Defeat the \\c[3]\\v[combat.name.snowtank]s\\c[0] in the secret lab of \\c[3]Heavy Hardware Inc\\c[0]!"
+msgstr "Победите \\c[3]Морковтанков\\c[0] в секретной лаборатории \\c[3]\"Тяжёлого железа\"\\c[0]!"
+
+#. data/arena/console-cup-1.json rounds/5/name #61
+#. DEFAULT
+#: data/arena/console-cup-1.json+rounds/5/name+%2361
+msgctxt "data/arena/console-cup-1.json//rounds/5/name"
+msgid "Snowy Sergeant"
+msgstr "Снежный сержант"
+
+#. data/arena/console-cup-1.json rounds/5/objective #62
+#. DEFAULT
+#: data/arena/console-cup-1.json+rounds/5/objective+%2362
+msgctxt "data/arena/console-cup-1.json//rounds/5/objective"
+msgid "Defeat the \\c[3]\\v[combat.name.minibosses/snow-megatank]\\c[0] in the secret lab of \\c[3]Heavy Hardware Inc\\c[0]!"
+msgstr "Победите \\c[3]Генерала Рутсера\\c[0] в секретной лаборатории \\c[3]\"Тяжёлого железа\"\\c[0]!"
+
+#. data/arena/console-cup-1.json rounds/6/name #63
+#. DEFAULT
+#: data/arena/console-cup-1.json+rounds/6/name+%2363
+msgctxt "data/arena/console-cup-1.json//rounds/6/name"
+msgid "Arachnid Artillery"
+msgstr "Паучья артиллерия"
+
+#. data/arena/console-cup-1.json rounds/6/objective #64
+#. DEFAULT
+#: data/arena/console-cup-1.json+rounds/6/objective+%2364
+msgctxt "data/arena/console-cup-1.json//rounds/6/objective"
+msgid "Defeat the \\c[3]\\v[combat.name.heat/scorpion-robo]s\\c[0] in the secret lab of \\c[3]High-Pressure Arms\\c[0]!"
+msgstr "Победите \\c[3]Щипчетронов\\c[0] в секретной лаборатории \\c[3]\"Оружия высокого давления\"\\c[0]!"
+
+#. data/arena/console-cup-1.json rounds/7/name #65
+#. DEFAULT
+#: data/arena/console-cup-1.json+rounds/7/name+%2365
+msgctxt "data/arena/console-cup-1.json//rounds/7/name"
+msgid "Predatory Pincerbot"
+msgstr "Хищный щипчебот"
+
+#. data/arena/console-cup-1.json rounds/7/objective #66
+#. DEFAULT
+#: data/arena/console-cup-1.json+rounds/7/objective+%2366
+msgctxt "data/arena/console-cup-1.json//rounds/7/objective"
+msgid "Defeat the \\c[3]\\v[combat.name.minibosses/scorpion-boss]\\c[0] in the secret lab of \\c[3]High-Pressure Arms\\c[0]!"
+msgstr "Победите \\c[3]Щипчерстонк i6 GXO2\\c[0] в секретной лаборатории \\c[3]\"Оружия высокого давления\"\\c[0]!"
 
 #. data/arena/faction-cup-1.json core/name #4
 #. SOLO_CUP
@@ -337,7 +470,7 @@ msgid ""
 "And also trash his \\c[3]\\v[combat.name.heat/special/baki-turret_2]s\\c[0] while you're at it!"
 msgstr ""
 "Проведите ещё один поединок со \\c[3]стражником Биллстоном\\c[0], бакийским предателем!\n"
-"А также уничтожьте его \\c[3]Турель-легионер 2.0\\c[0], пока вы там!"
+"А также уничтожьте его \\c[3]Турели-легионеры 2.0\\c[0], пока вы там!"
 
 #. data/arena/faction-cup-2.json rounds/2/name #40
 #. DEFAULT
@@ -562,7 +695,7 @@ msgid ""
 "And also trash his \\c[3]\\v[combat.name.heat/special/baki-turret_2]s\\c[0] while you're at it!"
 msgstr ""
 "Проведите ещё один поединок со \\c[3]стражником Биллстоном\\c[0], бакийским предателем!\n"
-"А также уничтожьте его \\c[3]Турель-легионер 2.0\\c[0], пока вы там!"
+"А также уничтожьте его \\c[3]Турели-легионеры 2.0\\c[0], пока вы там!"
 
 #. data/arena/faction-team-cup-1.json rounds/7/name #46
 #. DEFAULT
@@ -615,7 +748,7 @@ msgstr "Дотронься до всех маркеров!"
 #: data/arena/parkour-rookie-cup.json+rounds/0/description+%2310
 msgctxt "data/arena/parkour-rookie-cup.json//rounds/0/description"
 msgid "Touch all markers as fast as you can!"
-msgstr "Дотронься до всех маркеров, как можно быстрее!"
+msgstr "Дотронься до всех маркеров как можно быстрее!"
 
 #. data/arena/rookie-cup.json core/name #4
 #. SOLO_CUP
@@ -1448,14 +1581,14 @@ msgstr "Победите врагов из \\c[3]Расцвета Осени\\c[
 #: data/arena/vermillion-cup.json+core/name+%231
 msgctxt "data/arena/vermillion-cup.json//core/name"
 msgid "Vermillion Cup"
-msgstr "Кубок Вермиллиона"
+msgstr "Кубок Вермиллион"
 
 #. data/arena/vermillion-cup.json core/info #2
 #. SOLO_CUSTOM
 #: data/arena/vermillion-cup.json+core/info+%232
 msgctxt "data/arena/vermillion-cup.json//core/info"
 msgid "A cup featuring enemies from the \\v[area.arid.name] only Lea can access."
-msgstr "Кубок с участием врагов из Пустоши Вермиллион, доступными только Лее."
+msgstr "Кубок с участием врагов из Пустоши Вермиллион, доступный только Лее."
 
 #. data/arena/vermillion-cup.json core/creator #3
 #. SOLO_CUSTOM
@@ -1527,7 +1660,7 @@ msgstr "Победите усиленную версию \\c[3]Финально�
 #. data/arena/vermillion-cup.json rounds/5/name #73
 #: data/arena/vermillion-cup.json+rounds/5/name+%2373
 msgctxt "data/arena/vermillion-cup.json//rounds/5/name"
-msgid "The Infinte Snail"
+msgid "The Infinite Snail"
 msgstr "Бесконечная улитка"
 
 #. data/arena/vermillion-cup.json rounds/5/objective #74
@@ -1732,7 +1865,7 @@ msgstr "\"Никого это не волнует,\"\\. сказал он. \"Э�
 #: data/maps/arena/faction/baki-bots-1.json+entities/330/settings/npcStates/0/event/quest/17/message+%23587
 msgctxt "data/maps/arena/faction/baki-bots-1.json//entities/330/settings/npcStates/0/event/quest/17/message"
 msgid "Well, time to come clean then, I suppose.\\. At least I can bring down that jerk with me."
-msgstr "Ну что ж, пришло время рассказать правду, я полагаю.\\. По крайней мере, я могу потянуть этого придурка за собой."
+msgstr "Ну что ж, видимо, пришло время рассказать правду.\\. По крайней мере, я смогу потянуть этого урода за собой."
 
 #. data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/18/message #588
 #. NPC quest-thief1
@@ -1768,7 +1901,7 @@ msgstr "Биллстон"
 #: data/maps/arena/faction/baki-bots-1.json+entities/330/settings/npcStates/0/event/quest/40/message+%23589
 msgctxt "data/maps/arena/faction/baki-bots-1.json//entities/330/settings/npcStates/0/event/quest/40/message"
 msgid "Well, well, well.\\. Where might you lot be going?"
-msgstr "Так, так, так.\\. Куда это мы собрались?"
+msgstr "Так-так-так.\\. Куда это мы собрались?"
 
 #. data/maps/arena/faction/baki-bots-1.json entities/330/settings/npcStates/0/event/quest/41/message #590
 #. NPC quest-thief1
@@ -2119,7 +2252,7 @@ msgstr "Привет!"
 #: data/maps/arena/faction/rh-turrets-1.json+entities/263/settings/npcStates/1/event/quest/7/message+%23435
 msgctxt "data/maps/arena/faction/rh-turrets-1.json//entities/263/settings/npcStates/1/event/quest/7/message"
 msgid "I'll be here investigating our leads to potential culprits.\\. Come back when you've found something."
-msgstr "Я буду здесь, искать зацепки, которые могут привести к потенциальным преступникам.\\. Вернись, когда что-нибудь найдёшь."
+msgstr "Я буду здесь искать зацепки, которые могут привести к потенциальным преступникам.\\. Вернись, когда что-нибудь найдёшь."
 
 #. data/maps/arena/faction/rh-turrets-1.json entities/263/settings/npcStates/1/event/quest/8/message #420
 #. NPC guard-quest1
@@ -2214,6 +2347,160 @@ msgctxt "data/maps/arena/faction/rh-turrets-1.json//entities/277/settings/event/
 msgid "What was that? Did they honestly design it that way?"
 msgstr "Что это было? Они серьёзно спроектировали это таким образом?"
 
+#. data/maps/arena/platform-labs/fish-fight.json entities/1/settings/condAnims/0/interact/hoverText #6
+#. Prop
+#. IF elevator.eleS1.dest == 1
+#: data/maps/arena/platform-labs/fish-fight.json+entities/1/settings/condAnims/0/interact/hoverText+%236
+msgctxt "data/maps/arena/platform-labs/fish-fight.json//entities/1/settings/condAnims/0/interact/hoverText"
+msgid "Call"
+msgstr "Вызвать"
+
+#. data/maps/arena/platform-labs/hedgehag-boss.json entities/25/settings/condAnims/0/interact/hoverText #6
+#. Prop
+#. IF elevator.eleS1.dest == 1
+#: data/maps/arena/platform-labs/hedgehag-boss.json+entities/25/settings/condAnims/0/interact/hoverText+%236
+msgctxt "data/maps/arena/platform-labs/hedgehag-boss.json//entities/25/settings/condAnims/0/interact/hoverText"
+msgid "Call"
+msgstr "Вызвать"
+
+#. data/maps/arena/platform-labs/hedgehag-fight.json entities/10/settings/condAnims/0/interact/hoverText #6
+#. Prop
+#. IF elevator.eleS1.dest == 1
+#: data/maps/arena/platform-labs/hedgehag-fight.json+entities/10/settings/condAnims/0/interact/hoverText+%236
+msgctxt "data/maps/arena/platform-labs/hedgehag-fight.json//entities/10/settings/condAnims/0/interact/hoverText"
+msgid "Call"
+msgstr "Вызвать"
+
+#. data/maps/arena/platform-labs/pincer-boss.json entities/3/settings/condAnims/0/interact/hoverText #6
+#. Prop
+#. IF elevator.eleS1.dest == 0
+#: data/maps/arena/platform-labs/pincer-boss.json+entities/3/settings/condAnims/0/interact/hoverText+%236
+msgctxt "data/maps/arena/platform-labs/pincer-boss.json//entities/3/settings/condAnims/0/interact/hoverText"
+msgid "Call"
+msgstr "Вызвать"
+
+#. data/maps/arena/platform-labs/pincer-fight.json entities/16/settings/condAnims/0/interact/hoverText #6
+#. Prop
+#. IF elevator.eleS1.dest == 1
+#: data/maps/arena/platform-labs/pincer-fight.json+entities/16/settings/condAnims/0/interact/hoverText+%236
+msgctxt "data/maps/arena/platform-labs/pincer-fight.json//entities/16/settings/condAnims/0/interact/hoverText"
+msgid "Call"
+msgstr "Вызвать"
+
+#. data/maps/arena/platform-labs/pincer-fight.json entities/62/settings/condAnims/0/interact/1/text #22
+#. Prop startTest
+#. IF !g.lab.heat.doorRoom3Right && !tmp.testReady
+#. SHOW_BOARD_MSG
+#: data/maps/arena/platform-labs/pincer-fight.json+entities/62/settings/condAnims/0/interact/1/text+%2322
+msgctxt "data/maps/arena/platform-labs/pincer-fight.json//entities/62/settings/condAnims/0/interact/1/text"
+msgid ""
+"Bridge Elevator: \\c[1]disabled\\c[0].\n"
+"Do you want to enable the elevator?"
+msgstr ""
+"Мостовой лифт: \\c[1]отключён\\c[0].\n"
+"Хотите включить лифт?"
+
+#. data/maps/arena/platform-labs/pincer-fight.json entities/62/settings/condAnims/0/interact/2/0/3/text #9
+#. Prop startTest
+#. IF !g.lab.heat.doorRoom3Right && !tmp.testReady
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#. SHOW_BOARD_MSG
+#: data/maps/arena/platform-labs/pincer-fight.json+entities/62/settings/condAnims/0/interact/2/0/3/text+%239
+msgctxt "data/maps/arena/platform-labs/pincer-fight.json//entities/62/settings/condAnims/0/interact/2/0/3/text"
+msgid "Bridge Elevator \\c[2]enabled\\c[0]!"
+msgstr "Мостовой лифт \\c[2]включён\\c[0]!"
+
+#. data/maps/arena/platform-labs/pincer-fight.json entities/62/settings/condAnims/0/interact/2/options/0/label #8
+#. Prop startTest
+#. IF !g.lab.heat.doorRoom3Right && !tmp.testReady
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#: data/maps/arena/platform-labs/pincer-fight.json+entities/62/settings/condAnims/0/interact/2/options/0/label+%238
+msgctxt "data/maps/arena/platform-labs/pincer-fight.json//entities/62/settings/condAnims/0/interact/2/options/0/label"
+msgid "[yes]"
+msgstr "[да]"
+
+#. data/maps/arena/platform-labs/pincer-fight.json entities/62/settings/condAnims/0/interact/2/options/1/label #10
+#. Prop startTest
+#. IF !g.lab.heat.doorRoom3Right && !tmp.testReady
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#: data/maps/arena/platform-labs/pincer-fight.json+entities/62/settings/condAnims/0/interact/2/options/1/label+%2310
+msgctxt "data/maps/arena/platform-labs/pincer-fight.json//entities/62/settings/condAnims/0/interact/2/options/1/label"
+msgid "[no]"
+msgstr "[нет]"
+
+#. data/maps/arena/platform-labs/pincer-fight.json entities/62/settings/condAnims/0/interact/hoverText #11
+#. Prop startTest
+#. IF !g.lab.heat.doorRoom3Right && !tmp.testReady
+#: data/maps/arena/platform-labs/pincer-fight.json+entities/62/settings/condAnims/0/interact/hoverText+%2311
+msgctxt "data/maps/arena/platform-labs/pincer-fight.json//entities/62/settings/condAnims/0/interact/hoverText"
+msgid "Display"
+msgstr "Монитор"
+
+#. data/maps/arena/platform-labs/pincer-fight.json entities/95/settings/condAnims/0/interact/1/text #23
+#. Prop openDoor
+#. IF !g.lab.heat.doorRoom3Left
+#. SHOW_BOARD_MSG
+#: data/maps/arena/platform-labs/pincer-fight.json+entities/95/settings/condAnims/0/interact/1/text+%2323
+msgctxt "data/maps/arena/platform-labs/pincer-fight.json//entities/95/settings/condAnims/0/interact/1/text"
+msgid ""
+"Bridge Elevator: \\c[1]disabled\\c[0].\n"
+"Do you want to enable the elevator?"
+msgstr ""
+"Мостовой лифт: \\c[1]отключён\\c[0].\n"
+"Хотите включить лифт?"
+
+#. data/maps/arena/platform-labs/pincer-fight.json entities/95/settings/condAnims/0/interact/2/0/3/text #24
+#. Prop openDoor
+#. IF !g.lab.heat.doorRoom3Left
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#. SHOW_BOARD_MSG
+#: data/maps/arena/platform-labs/pincer-fight.json+entities/95/settings/condAnims/0/interact/2/0/3/text+%2324
+msgctxt "data/maps/arena/platform-labs/pincer-fight.json//entities/95/settings/condAnims/0/interact/2/0/3/text"
+msgid "Bridge Elevator \\c[2]enabled\\c[0]!"
+msgstr "Мостовой лифт \\c[2]включён\\c[0]!"
+
+#. data/maps/arena/platform-labs/pincer-fight.json entities/95/settings/condAnims/0/interact/2/options/0/label #25
+#. Prop openDoor
+#. IF !g.lab.heat.doorRoom3Left
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#: data/maps/arena/platform-labs/pincer-fight.json+entities/95/settings/condAnims/0/interact/2/options/0/label+%2325
+msgctxt "data/maps/arena/platform-labs/pincer-fight.json//entities/95/settings/condAnims/0/interact/2/options/0/label"
+msgid "[yes]"
+msgstr "[да]"
+
+#. data/maps/arena/platform-labs/pincer-fight.json entities/95/settings/condAnims/0/interact/2/options/1/label #26
+#. Prop openDoor
+#. IF !g.lab.heat.doorRoom3Left
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#: data/maps/arena/platform-labs/pincer-fight.json+entities/95/settings/condAnims/0/interact/2/options/1/label+%2326
+msgctxt "data/maps/arena/platform-labs/pincer-fight.json//entities/95/settings/condAnims/0/interact/2/options/1/label"
+msgid "[no]"
+msgstr "[нет]"
+
+#. data/maps/arena/platform-labs/pincer-fight.json entities/95/settings/condAnims/0/interact/hoverText #27
+#. Prop openDoor
+#. IF !g.lab.heat.doorRoom3Left
+#: data/maps/arena/platform-labs/pincer-fight.json+entities/95/settings/condAnims/0/interact/hoverText+%2327
+msgctxt "data/maps/arena/platform-labs/pincer-fight.json//entities/95/settings/condAnims/0/interact/hoverText"
+msgid "Display"
+msgstr "Монитор"
+
+#. data/maps/arena/platform-labs/pincer-fight.json entities/122/settings/condAnims/0/interact/hoverText #213
+#. Prop sideLore1
+#. IF true
+#: data/maps/arena/platform-labs/pincer-fight.json+entities/122/settings/condAnims/0/interact/hoverText+%23213
+msgctxt "data/maps/arena/platform-labs/pincer-fight.json//entities/122/settings/condAnims/0/interact/hoverText"
+msgid "Display"
+msgstr "Монитор"
+
+#. data/maps/arena/platform-labs/pincer-fight.json entities/123/settings/condAnims/0/interact/hoverText #269
+#. Prop sideLore2
+#. IF true
+#: data/maps/arena/platform-labs/pincer-fight.json+entities/123/settings/condAnims/0/interact/hoverText+%23269
+msgctxt "data/maps/arena/platform-labs/pincer-fight.json//entities/123/settings/condAnims/0/interact/hoverText"
+msgid "Display"
+msgstr "Монитор"
+
 #. extension/post-game/data/arena/ancient-boss-cup.json core/name #1
 #. SOLO_CUP
 #: extension/post-game/data/arena/ancient-boss-cup.json+core/name+%231
@@ -2226,7 +2513,7 @@ msgstr "Кубок боссов Древних"
 #: extension/post-game/data/arena/ancient-boss-cup.json+core/info+%232
 msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//core/info"
 msgid "Take on stronger versions of boss fights from the \\v[area.final-dng.name]."
-msgstr "Сразитесь с усиленными версиями версиями битв с боссов из храма Ку'леро."
+msgstr "Справьтесь с усиленными версиями боссов из Храма Ку'леро."
 
 #. extension/post-game/data/arena/ancient-boss-cup.json core/creator #3
 #. SOLO_CUP
@@ -2368,7 +2655,7 @@ msgstr "Победите врагов из \\c[3]Лазурного архипе
 #: extension/post-game/data/arena/ancient-cup.json+rounds/2/name+%2353
 msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/2/name"
 msgid "Global Worming"
-msgstr "Глобальное червотепление"
+msgstr "Глобальное почервление"
 
 #. extension/post-game/data/arena/ancient-cup.json rounds/2/objective #54
 #: extension/post-game/data/arena/ancient-cup.json+rounds/2/objective+%2354
@@ -2497,7 +2784,7 @@ msgstr "Победите врагов из \\c[3]Лазурного архипе
 #: extension/post-game/data/arena/ancient-team-cup.json+rounds/2/name+%2353
 msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/2/name"
 msgid "Global Worming"
-msgstr "Глобальное червотепление"
+msgstr "Глобальное почервление"
 
 #. extension/post-game/data/arena/ancient-team-cup.json rounds/2/objective #54
 #: extension/post-game/data/arena/ancient-team-cup.json+rounds/2/objective+%2354
@@ -2569,27 +2856,27 @@ msgstr "Победите врагов из \\c[3]Храма Ку'леро\\c[0]!
 #: extension/post-game/data/arena/ancient-team-cup.json+rounds/8/name+%2367
 msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/8/name"
 msgid "Stacking Crew"
-msgstr ""
+msgstr "Укладочная бригада"
 
 #. extension/post-game/data/arena/ancient-team-cup.json rounds/8/objective #68
 #: extension/post-game/data/arena/ancient-team-cup.json+rounds/8/objective+%2368
 msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/8/objective"
 msgid "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!"
-msgstr ""
+msgstr "Победите врагов из \\c[3]Храма Ку'леро\\c[0]!"
 
 #. extension/post-game/data/arena/apollo-cup.json core/name #4
 #. SOLO_CUSTOM
 #: extension/post-game/data/arena/apollo-cup.json+core/name+%234
 msgctxt "extension/post-game/data/arena/apollo-cup.json//core/name"
 msgid "PvP vs Apollo"
-msgstr "Pvp vs Аполло"
+msgstr "PvP vs Аполло"
 
 #. extension/post-game/data/arena/apollo-cup.json core/info #1
 #. SOLO_CUSTOM
 #: extension/post-game/data/arena/apollo-cup.json+core/info+%231
 msgctxt "extension/post-game/data/arena/apollo-cup.json//core/info"
 msgid "Fight Apollo in PvP Combat!"
-msgstr "Сразитель с Аполло в PvP-битве!"
+msgstr "Сразись с Аполло в PvP-битве!"
 
 #. extension/post-game/data/arena/apollo-cup.json core/creator #28
 #. SOLO_CUSTOM
@@ -2617,7 +2904,7 @@ msgstr "Давай сразимся, сферомант Лея!"
 #: extension/post-game/data/arena/faction-cup-3.json+core/name+%234
 msgctxt "extension/post-game/data/arena/faction-cup-3.json//core/name"
 msgid "Wanderer's Cup"
-msgstr "Кубок Скитальца"
+msgstr "Кубок скитальца"
 
 #. extension/post-game/data/arena/faction-cup-3.json core/info #1
 #. SOLO_CUP
@@ -2638,7 +2925,7 @@ msgstr "GFluegel"
 #: extension/post-game/data/arena/faction-cup-3.json+rounds/0/name+%2356
 msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/0/name"
 msgid "Sobering Slaughter"
-msgstr "Трезвая Резня"
+msgstr "Отрезвляющая резня"
 
 #. extension/post-game/data/arena/faction-cup-3.json rounds/0/objective #57
 #. DEFAULT
@@ -2648,15 +2935,15 @@ msgid ""
 "Defeat the \\c[3]\\v[combat.name.heat/special/jellyfish-booze]s and \\v[combat.name.heat/special/heat-golem-booze]\\c[0] in \\c[3]the Distillery of \\v[area.heat-village.name]\\c[0]!\n"
 "Throw \\c[3]ice into the ovens to deactivate the shields\\c[0] and \\c[3]onto the machine to prevent overheating\\c[0]!"
 msgstr ""
-"Победите \\c[3]Алкогольных медуз и Пьяных существ\\c[0] в \\c[3]Винокурне Ба'кии Кума\\c[0]!\n"
-"Бросайте \\c[3]лёд в печки чтобы снять щиты и в машину чтобы предотвратить перегрев\\c[0]!"
+"Победите \\c[3]Поллитрджелли и Перегонайзеров\\c[0] в \\c[3]Винокурне Ба'кии Кум\\c[0]!\n"
+"Бросайте \\c[3]лёд в печи, чтобы снять щиты\\c[0], и \\c[3]в машину, чтобы предотвратить перегрев\\c[0]!"
 
 #. extension/post-game/data/arena/faction-cup-3.json rounds/1/name #54
 #. DEFAULT
 #: extension/post-game/data/arena/faction-cup-3.json+rounds/1/name+%2354
 msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/1/name"
 msgid "Ocean Operation"
-msgstr "Операция в Океане"
+msgstr "Операция в океане"
 
 #. extension/post-game/data/arena/faction-cup-3.json rounds/1/objective #51
 #. DEFAULT
@@ -2666,15 +2953,15 @@ msgid ""
 "Defeat the \\c[3]\\v[combat.name.autumn-rh/turret_boss-quest_naval]\\c[0] on \\c[3]the ocean\\c[0]!\n"
 "Make sure \\c[3]your turret-boat doesn't get destroyed!\\c[0]!"
 msgstr ""
-"Победите в \\c[3]океане\\c[0]!\n"
-"Убедитесь в том, что \\c[3]ваша турель-судно не будет уничтожена!\\c[0]!"
+"Победите \\c[3]Нелегальный координатор\\c[0] в \\c[3]океане\\c[0]!\n"
+"Следите за тем, чтобы \\c[3]ваш корабль с турелью не уничтожили!\\c[0]!"
 
 #. extension/post-game/data/arena/faction-cup-3.json rounds/2/name #58
 #. DEFAULT
 #: extension/post-game/data/arena/faction-cup-3.json+rounds/2/name+%2358
 msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/2/name"
 msgid "Ghost of a Chance"
-msgstr "Призрак Шанса"
+msgstr "Призрачный шанс"
 
 #. extension/post-game/data/arena/faction-cup-3.json rounds/2/objective #55
 #. DEFAULT
@@ -2684,15 +2971,15 @@ msgid ""
 "Work with a salty helper to defeat \\c[3]\\v[combat.name.jungle/special/ghost-toxic]\\c[0] at the entrance to \\v[area.jungle-city.name]!\n"
 "\\c[3]Defend your ally\\c[0] while \\c[3]they weaken the enemy\\c[0]!"
 msgstr ""
-"Поработайте с солевым помощником, чтобы победить \\c[3]Токсическое создание\\c[0] у входа в Крепость Бейзина!\n"
-"\\c[3]Защищайте своего союзника\\c[0] пока он \\c[3]ослабляет врага\\c[0]!"
+"Поработайте с солевым помощником, чтобы победить \\c[3]Токсовольта\\c[0] у входа в Крепость Бэйзина!\n"
+"\\c[3]Защищайте своего союзника\\c[0], пока он \\c[3]ослабляет врага\\c[0]!"
 
 #. extension/post-game/data/arena/faction-cup-3.json rounds/3/name #40
 #. DEFAULT
 #: extension/post-game/data/arena/faction-cup-3.json+rounds/3/name+%2340
 msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/3/name"
 msgid "Tremoring Tech"
-msgstr "Дрожащая Технология"
+msgstr "Дрожащая технология"
 
 #. extension/post-game/data/arena/faction-cup-3.json rounds/3/objective #41
 #. DEFAULT
@@ -2702,7 +2989,7 @@ msgid ""
 "Defeat the shaking \\c[3]\\v[combat.name.autumn-fall/runbot-tremor]\\c[0] in the hidden office in \\c[3]\\v[area.rhombus-sqr.name]\\c[0]!\n"
 "Its \\c[3]aura\\c[0] can be \\c[3]neutralized\\c[0] with \\c[3]Shock\\c[0]!"
 msgstr ""
-"Победите дрожжащего \\c[3]Дрожжи\\c[0] в тайном офисе на \\c[3]Площади Ромба\\c[0]!\n"
+"Победите дрожащего \\c[3]Дрожжи\\c[0] в тайном офисе на \\c[3]Площади Ромба\\c[0]!\n"
 "Его \\c[3]аура\\c[0] может быть \\c[3]нейтрализована\\c[0] с помощью \\c[3]Шока\\c[0]!"
 
 #. extension/post-game/data/arena/faction-cup-3.json rounds/4/name #44
@@ -2710,7 +2997,7 @@ msgstr ""
 #: extension/post-game/data/arena/faction-cup-3.json+rounds/4/name+%2344
 msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/4/name"
 msgid "Pewpew Parrot"
-msgstr "Пиу-пиу попугай"
+msgstr "Пиу-пиу-попугай"
 
 #. extension/post-game/data/arena/faction-cup-3.json rounds/4/objective #45
 #. DEFAULT
@@ -2720,15 +3007,15 @@ msgid ""
 "Defeat \\c[3]\\v[combat.name.jungle/special/parrot-gangster-boss-1]\\c[0] on a rooftop of \\c[3]\\v[area.jungle-city.name]\\c[0]!\n"
 "Try to \\c[3]shoot down the missiles\\c[0] before they overwhelm you!"
 msgstr ""
-"Победите \\c[3]Попубосса младшего\\c[0], который переселился в \\c[3]Крепость Бейзина\\c[0]! \n"
-"Попытайтесь \\c[3]сбить ракеты\\c[0] прежде чем они сокрушат вас!"
+"Победите \\c[3]Попубосса младшего\\c[0] на крыше \\c[3]Твердыни Бэйзина\\c[0]!\n"
+"Постарайтесь \\c[3]сбить ракеты\\c[0], прежде чем они сокрушат вас!"
 
 #. extension/post-game/data/arena/faction-cup-3.json rounds/5/name #46
 #. DEFAULT
 #: extension/post-game/data/arena/faction-cup-3.json+rounds/5/name+%2346
 msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/5/name"
 msgid "The Goatfather, Part II"
-msgstr "Крёстный Козлец, часть II"
+msgstr "Крёстный козлец, часть II"
 
 #. extension/post-game/data/arena/faction-cup-3.json rounds/5/objective #47
 #. DEFAULT
@@ -2738,8 +3025,8 @@ msgid ""
 "Defeat \\c[3]\\v[combat.name.cold/goat-father-2]\\c[0] in \\c[3]\\v[area.rhombus-sqr.name]\\c[0]!\n"
 "This time you fight him for real!"
 msgstr ""
-"Победите \\c[3]Козла\\c[0] на \\c[3]Площади Ромба\\c[0]!\n"
-"В этот раз вы сражаетесь серьёзно!"
+"Победите \\c[3]Крёстного козлеца\\c[0] на \\c[3]Площади Ромба\\c[0]!\n"
+"В этот раз вы по-настоящему сражаетесь с ним!"
 
 #. extension/post-game/data/arena/faction-cup-3.json rounds/6/name #52
 #. DEFAULT
@@ -2758,6 +3045,63 @@ msgid ""
 msgstr ""
 "Победите \\c[3]Сына Пляжа\\c[0] на \\c[3]Лазурном архипелаге\\c[0]!\n"
 "Это дуэль на века!"
+
+#. extension/post-game/data/arena/guest-cup-1.json core/name #4
+#. SOLO_CUSTOM
+#: extension/post-game/data/arena/guest-cup-1.json+core/name+%234
+msgctxt "extension/post-game/data/arena/guest-cup-1.json//core/name"
+msgid "Supporters' Cup"
+msgstr "Кубок спонсоров"
+
+#. extension/post-game/data/arena/guest-cup-1.json core/info #1
+#. SOLO_CUSTOM
+#: extension/post-game/data/arena/guest-cup-1.json+core/info+%231
+msgctxt "extension/post-game/data/arena/guest-cup-1.json//core/info"
+msgid "Refight several challenging battles envisioned by generous supporters!"
+msgstr "Повторите несколько сложных сражений, придуманных щедрыми спонсорами!"
+
+#. extension/post-game/data/arena/guest-cup-1.json core/creator #50
+#. SOLO_CUSTOM
+#: extension/post-game/data/arena/guest-cup-1.json+core/creator+%2350
+msgctxt "extension/post-game/data/arena/guest-cup-1.json//core/creator"
+msgid "Supporters"
+msgstr "Спонсоры"
+
+#. extension/post-game/data/arena/guest-cup-1.json rounds/0/name #44
+#. DEFAULT
+#: extension/post-game/data/arena/guest-cup-1.json+rounds/0/name+%2344
+msgctxt "extension/post-game/data/arena/guest-cup-1.json//rounds/0/name"
+msgid "Some Standard Ninja Dude"
+msgstr "Какой-то стандартный ниндзя"
+
+#. extension/post-game/data/arena/guest-cup-1.json rounds/0/objective #45
+#. DEFAULT
+#: extension/post-game/data/arena/guest-cup-1.json+rounds/0/objective+%2345
+msgctxt "extension/post-game/data/arena/guest-cup-1.json//rounds/0/objective"
+msgid ""
+"Defeat \\c[3]\\v[combat.name.guest/sao]\\c[0] in the arena!\n"
+"It's an honorable 1 vs 1 duel... Though he might take a few beatings to stay down."
+msgstr ""
+"Победите \\c[3]Сао\\c[0] на арене!\n"
+"Это почётный поединок... хотя, возможно, чтобы он угомонился, придётся неплохо избить его."
+
+#. extension/post-game/data/arena/guest-cup-1.json rounds/1/name #46
+#. DEFAULT
+#: extension/post-game/data/arena/guest-cup-1.json+rounds/1/name+%2346
+msgctxt "extension/post-game/data/arena/guest-cup-1.json//rounds/1/name"
+msgid "Highway Police"
+msgstr "Полиция на шоссе"
+
+#. extension/post-game/data/arena/guest-cup-1.json rounds/1/objective #47
+#. DEFAULT
+#: extension/post-game/data/arena/guest-cup-1.json+rounds/1/objective+%2347
+msgctxt "extension/post-game/data/arena/guest-cup-1.json//rounds/1/objective"
+msgid ""
+"Defeat the \\c[3]\\v[combat.name.rhombus/meerkat-delorean]\\c[0] in \\c[3]\\v[area.rhombus-sqr.name]\\c[0]!\n"
+"Be careful in traffic and use the driving cars to avoid his destructive attacks!"
+msgstr ""
+"Победите \\c[3]Горностая Брауна\\c[0] на \\c[3]Площади Ромба\\c[0]!\n"
+"Будьте осторожны на дороге и используйте едущие машины, чтобы избежать его разрушительных атак!"
 
 #. extension/post-game/data/arena/kit-cup.json core/name #4
 #. SOLO_CUSTOM
@@ -2793,10 +3137,10 @@ msgstr "Раунд 1 - Единственный раунд"
 msgctxt "extension/post-game/data/arena/kit-cup.json//rounds/0/objective"
 msgid ""
 "Kill the thing.\n"
-"And make sure to remove this cup later."
+"\\c[1]And make sure to remove this cup later.\\c[0]"
 msgstr ""
 "Убей штуковину.\n"
-"И обязательно удали этот кубок потом."
+"\\c[1]И обязательно удали этот кубок потом.\\c[0]"
 
 #. extension/post-game/data/arena/lily-cup.json core/name #4
 #. SOLO_CUSTOM
@@ -2866,7 +3210,7 @@ msgstr "Реванш!"
 #: extension/post-game/data/arena/shizuka-cup.json+rounds/0/objective+%2334
 msgctxt "extension/post-game/data/arena/shizuka-cup.json//rounds/0/objective"
 msgid "Let's see what new tricks you've learned!"
-msgstr "Посмотрим, каким новым приёмам ты научились!"
+msgstr "Посмотрим, каким новым приёмам ты научилась!"
 
 #. extension/post-game/data/maps/arena/dlc/creator.json entities/178/settings/event/7/guiInfo/settings/taskTitle #8
 #. EventTrigger firstHpCharge START IF tmp.hpCharge.start
@@ -2875,7 +3219,7 @@ msgstr "Посмотрим, каким новым приёмам ты научи
 #: extension/post-game/data/maps/arena/dlc/creator.json+entities/178/settings/event/7/guiInfo/settings/taskTitle+%238
 msgctxt "extension/post-game/data/maps/arena/dlc/creator.json//entities/178/settings/event/7/guiInfo/settings/taskTitle"
 msgid "\\c[1]Boss HP x"
-msgstr "\\c[1]Босс HP х"
+msgstr "\\c[1]Босс HP x"
 
 #. extension/post-game/data/maps/arena/dlc/creator.json entities/178/settings/event/13/guiInfo/settings/taskTitle #9
 #. EventTrigger firstHpCharge START IF tmp.hpCharge.start
@@ -2884,7 +3228,7 @@ msgstr "\\c[1]Босс HP х"
 #: extension/post-game/data/maps/arena/dlc/creator.json+entities/178/settings/event/13/guiInfo/settings/taskTitle+%239
 msgctxt "extension/post-game/data/maps/arena/dlc/creator.json//entities/178/settings/event/13/guiInfo/settings/taskTitle"
 msgid "\\c[2]Attack x"
-msgstr "\\c[2]Атака X"
+msgstr "\\c[2]Атака x"
 
 #. extension/post-game/data/maps/arena/dlc/snail.json entities/25/settings/interact/hoverText #855
 #. Prop hackPunch SPAWN IF tmp.pk.hackReady
@@ -2901,7 +3245,7 @@ msgstr "Вырваться!"
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/40/settings/event/1/thenStep/4/thenStep/0/text+%23207
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/40/settings/event/1/thenStep/4/thenStep/0/text"
 msgid "50% Overheat reached!"
-msgstr ""
+msgstr "50% Перегрева !"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/40/settings/event/1/thenStep/5/thenStep/0/text #209
 #. EventTrigger brewing_overheatTimer START IF (tmp.brewing_started || (tmp.bossOverheatOn && tmp.bossStarted)) && !tmp.brewingHeatOff && !tmp.overheating
@@ -2911,7 +3255,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/40/settings/event/1/thenStep/5/thenStep/0/text+%23209
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/40/settings/event/1/thenStep/5/thenStep/0/text"
 msgid "75% Overheat reached! Cooling needed!"
-msgstr ""
+msgstr "75% Перегрева! Необходимо охлаждение!"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/40/settings/event/1/thenStep/6/thenStep/0/text #210
 #. EventTrigger brewing_overheatTimer START IF (tmp.brewing_started || (tmp.bossOverheatOn && tmp.bossStarted)) && !tmp.brewingHeatOff && !tmp.overheating
@@ -2921,7 +3265,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/40/settings/event/1/thenStep/6/thenStep/0/text+%23210
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/40/settings/event/1/thenStep/6/thenStep/0/text"
 msgid "WARNING: Overheating imminent! Requesting ice!"
-msgstr ""
+msgstr "ВНИМАНИЕ: Перегрев неизбежен! Запрашивается лёд!"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/46/settings/event/9/thenStep/0/text #201
 #. EventTrigger brewing_overheated START IF tmp.brewing_started && tmp.overheated
@@ -2930,7 +3274,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/46/settings/event/9/thenStep/0/text+%23201
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/46/settings/event/9/thenStep/0/text"
 msgid "Overheated! Starting emergency cooling!"
-msgstr ""
+msgstr "Перегрев! Запуск аварийного охлаждения!"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/46/settings/event/9/elseStep/0/text #742
 #. EventTrigger brewing_overheated START IF tmp.brewing_started && tmp.overheated
@@ -2939,14 +3283,14 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/46/settings/event/9/elseStep/0/text+%23742
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/46/settings/event/9/elseStep/0/text"
 msgid "Overheated! Starting emergency cooling! Quality -\\v[tmp.qualityChange]"
-msgstr ""
+msgstr "Перегрев! Запуск аварийного охлаждения! Качество -\\v[tmp.qualityChange]"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/hoverText #409
 #. Prop brewingStart-prop
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/hoverText+%23409
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/hoverText"
 msgid "Brewing Console"
-msgstr ""
+msgstr "Пульт варки"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/thenStep/3/thenStep/0/value #805
 #. Prop brewingStart-prop
@@ -2956,7 +3300,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/event/1/thenStep/3/thenStep/0/value+%23805
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/thenStep/3/thenStep/0/value"
 msgid "(updated!)"
-msgstr ""
+msgstr "(обновлено!)"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/thenStep/4/6/0/text #716
 #. Prop brewingStart-prop
@@ -2969,6 +3313,8 @@ msgid ""
 "- Instruction to Ancient Brewing -\n"
 "Quality drinks using the mystical powers of the Track, steam and only the best natural ingredients!"
 msgstr ""
+"- Инструкция по Древней варке-\n"
+"Качественные напитки, использующие мистические силы Пути, пар, и только лучшие натуральные ингредиенты!"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/thenStep/4/6/1/text #715
 #. Prop brewingStart-prop
@@ -2978,7 +3324,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/event/1/thenStep/4/6/1/text+%23715
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/thenStep/4/6/1/text"
 msgid "After activating this machine, it will request energy from the \\c[3]4 steam ovens\\c[0]. Those requests have to be met with \\c[3]icedisks\\c[0] quickly and correctly!"
-msgstr ""
+msgstr "После активации устройства оно потребует энергию из этих \\c[3]четырёх паровых печей\\c[0]. Нужно быстро и правильно запускать \\c[3]ледяные диски\\c[0] в них!"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/thenStep/4/6/2/text #707
 #. Prop brewingStart-prop
@@ -2988,7 +3334,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/event/1/thenStep/4/6/2/text+%23707
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/thenStep/4/6/2/text"
 msgid "In the beginning a \\c[3]static bubble generator\\c[0] will be available, though later it will vanish. At this point, bubbles ejected from the \\c[3]pipes left and right\\c[0] have to be used."
-msgstr ""
+msgstr "Вначале будет доступен \\c[3]генератор пузырей\\c[0], но позже он исчезнет. С этого момента пузыри будут выбрасываться из \\c[3]труб слева и справа\\c[0]."
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/thenStep/4/6/3/text #717
 #. Prop brewingStart-prop
@@ -2999,6 +3345,8 @@ msgstr ""
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/thenStep/4/6/3/text"
 msgid "Due to the immense powers flowing through it, the brewing machine will \\c[3]overheat\\c[0] with time. \\c[3]Cooling it with ice\\c[0] will be necessary to prevent \\c[3]overheating\\c[0] and a \\c[3]time-consuming cooldown-phase\\c[0]."
 msgstr ""
+"Из-за огромной силы, протекающей через устройство, оно со временем может \\c[3]перегреться\\c[0].\n"
+"\\c[3]Охлаждение с помощью льда\\c[0] важно для предотвращения \\c[3]перегрева\\c[0] и \\c[3]длительной фазы восстановления\\c[0]."
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/thenStep/4/6/4/thenStep/1/text #726
 #. Prop brewingStart-prop
@@ -3009,7 +3357,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/event/1/thenStep/4/6/4/thenStep/1/text+%23726
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/thenStep/4/6/4/thenStep/1/text"
 msgid "\\c[3]Not meeting a request\\c[0], \\c[3]putting ice in a wrong oven\\c[0] or \\c[3]overheating the machine\\c[0] will damage the ingredients and \\c[3]reduce the overall quality\\c[0] of the product."
-msgstr ""
+msgstr "\\c[3]Отсутствие ответа на запрос\\c[0], \\c[3]помещение льда в неправильную печь\\c[0] или \\c[3]перегрев машины\\c[0] навредят ингредиентам и \\c[3]в целом ухудшат качество\\c[0] продукта."
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/thenStep/4/6/4/thenStep/2/text #750
 #. Prop brewingStart-prop
@@ -3020,7 +3368,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/event/1/thenStep/4/6/4/thenStep/2/text+%23750
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/thenStep/4/6/4/thenStep/2/text"
 msgid "On the other hand, brewing \\c[3]quality\\c[0] will increase at a higher rate with \\c[3]growing requests\\c[0] and when maintaining a \\c[3]high heat\\c[0]!"
-msgstr ""
+msgstr "С другой стороны, \\c[3]качество\\c[0] варки будет расти более высокими темпами с \\c[3]ростом запросов\\c[0] и при поддержании \\c[3]высокой температуры\\c[0]!"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/thenStep/4/6/4/thenStep/3/text #725
 #. Prop brewingStart-prop
@@ -3031,7 +3379,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/event/1/thenStep/4/6/4/thenStep/3/text+%23725
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/thenStep/4/6/4/thenStep/3/text"
 msgid "The \\c[3]higher the quality\\c[0], the \\c[3]more useable drinks\\c[0] can be created from \\c[3]the same amount of ingredients\\c[0]!"
-msgstr ""
+msgstr "Чем \\c[3]выше качество\\c[0], тем \\c[3]больше напитков\\c[0] может быть создано из \\c[3]одинакового количества ингредиентов\\c[0]!"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/thenStep/4/6/4/elseStep/0/text #718
 #. Prop brewingStart-prop
@@ -3042,7 +3390,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/event/1/thenStep/4/6/4/elseStep/0/text+%23718
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/thenStep/4/6/4/elseStep/0/text"
 msgid "\\c[3]Not meeting a request\\c[0], \\c[3]putting ice in a wrong oven\\c[0] or \\c[3]overheating the machine\\c[0] will do \\c[3]damage\\c[0] to the ingredients. With too much \\c[3]damage\\c[0], the brewing will \\c[1]fail\\c[0]! "
-msgstr ""
+msgstr "\\c[3]Отсутствие ответа на запрос\\c[0], \\c[3]помещение льда в неправильную печь\\c[0] или \\c[3]перегрев машины\\c[0] \\c[3]навредят\\c[0] ингредиентам. Если будет получено слишком много \\c[3]урона\\c[0], варка будет \\c[1]провалена\\c[0]!"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/thenStep/4/options/0/label #704
 #. Prop brewingStart-prop
@@ -3051,7 +3399,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/event/1/thenStep/4/options/0/label+%23704
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/thenStep/4/options/0/label"
 msgid "Start Brewing Process"
-msgstr ""
+msgstr "Начать процесс варки"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/thenStep/4/options/1/label #813
 #. Prop brewingStart-prop
@@ -3060,7 +3408,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/event/1/thenStep/4/options/1/label+%23813
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/thenStep/4/options/1/label"
 msgid "\\c[1]!!!\\c[0] \\c[3]Upgrade Brewing Machine\\c[0] \\c[1]!!!\\c[0]"
-msgstr ""
+msgstr "\\c[1]!!!\\c[0] \\c[3]Улучшить варочную машину\\c[0] \\c[1]!!!\\c[0]"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/thenStep/4/options/2/label #721
 #. Prop brewingStart-prop
@@ -3069,7 +3417,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/event/1/thenStep/4/options/2/label+%23721
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/thenStep/4/options/2/label"
 msgid "Brewing: \\c[3]\\v[item.367.name]\\c[0] (Material: \\v[item.372.amount] | Owned: \\v[item.367.amount])"
-msgstr ""
+msgstr "Варка: \\c[3]\\v[item.367.name]\\c[0] (Материалы: \\v[item.372.amount] | Есть: \\v[item.367.amount])"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/thenStep/4/options/3/label #722
 #. Prop brewingStart-prop
@@ -3078,7 +3426,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/event/1/thenStep/4/options/3/label+%23722
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/thenStep/4/options/3/label"
 msgid "Brewing: \\c[3]\\v[item.368.name]\\c[0] (Material: \\v[item.373.amount] | Owned: \\v[item.368.amount])"
-msgstr ""
+msgstr "Варка: \\c[3]\\v[item.368.name]\\c[0] (Материалы: \\v[item.373.amount] | Есть: \\v[item.368.amount])"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/thenStep/4/options/4/label #723
 #. Prop brewingStart-prop
@@ -3087,7 +3435,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/event/1/thenStep/4/options/4/label+%23723
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/thenStep/4/options/4/label"
 msgid "Brewing: \\c[3]\\v[item.369.name]\\c[0] (Material: \\v[item.374.amount] | Owned: \\v[item.369.amount])"
-msgstr ""
+msgstr "Варка: \\c[3]\\v[item.369.name]\\c[0] (Материалы: \\v[item.374.amount] | Есть: \\v[item.369.amount])"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/thenStep/4/options/5/label #724
 #. Prop brewingStart-prop
@@ -3096,7 +3444,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/event/1/thenStep/4/options/5/label+%23724
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/thenStep/4/options/5/label"
 msgid "Brewing: \\c[3]\\v[item.370.name]\\c[0] (Material: \\v[item.375.amount] | Owned: \\v[item.370.amount])"
-msgstr ""
+msgstr "Варка: \\c[3]\\v[item.370.name]\\c[0] (Материалы: \\v[item.375.amount] | Есть: \\v[item.370.amount])"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/thenStep/4/options/6/label #706
 #. Prop brewingStart-prop
@@ -3105,7 +3453,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/event/1/thenStep/4/options/6/label+%23706
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/thenStep/4/options/6/label"
 msgid "Information \\c[1]\\v[tmp.infoUpdate]\\c[0]"
-msgstr ""
+msgstr "Информация \\c[1]\\v[tmp.infoUpdate]\\c[0]"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/thenStep/4/options/7/label #743
 #. Prop brewingStart-prop
@@ -3114,7 +3462,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/event/1/thenStep/4/options/7/label+%23743
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/thenStep/4/options/7/label"
 msgid "Turn Quality Notifications \\c[2]ON\\c[0]"
-msgstr ""
+msgstr "Включить уведомления о качестве \\c[2]ВКЛ\\c[0]"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/thenStep/4/options/8/label #744
 #. Prop brewingStart-prop
@@ -3123,7 +3471,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/event/1/thenStep/4/options/8/label+%23744
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/thenStep/4/options/8/label"
 msgid "Turn Quality Notifications \\c[1]OFF\\c[0]"
-msgstr ""
+msgstr "Включить уведомления о качестве \\c[2]ВЫКЛ\\c[0]"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/thenStep/4/options/9/label #705
 #. Prop brewingStart-prop
@@ -3132,7 +3480,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/event/1/thenStep/4/options/9/label+%23705
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/thenStep/4/options/9/label"
 msgid "\\c[1]Cancel\\c[0]"
-msgstr ""
+msgstr "\\c[1]Отмена\\c[0]"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/73/settings/interact/event/1/elseStep/0/text #766
 #. Prop brewingStart-prop
@@ -3141,7 +3489,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/73/settings/interact/event/1/elseStep/0/text+%23766
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/73/settings/interact/event/1/elseStep/0/text"
 msgid "[Machine inactive]"
-msgstr ""
+msgstr "[Аппарат неактивен]"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/76/settings/condAnims/0/interact/hoverText #91
 #. Prop scoreSign
@@ -3149,7 +3497,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/76/settings/condAnims/0/interact/hoverText+%2391
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/76/settings/condAnims/0/interact/hoverText"
 msgid "Brewing Statistics"
-msgstr ""
+msgstr "Статистика варки"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/76/settings/condAnims/0/interact/event/0/thenStep/4/text #790
 #. Prop scoreSign
@@ -3164,6 +3512,10 @@ msgid ""
 "Quality Highscore: \n"
 "\\c[3]\\v[map.qualityRecord]\\c[0]"
 msgstr ""
+"~ Статистика варки ~\n"
+"\n"
+"Рекордное качество:\n"
+"\\c[3]\\v[map.qualityRecord]\\c[0]"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/76/settings/condAnims/0/interact/event/0/thenStep/5/thenStep/0/text #791
 #. Prop scoreSign
@@ -3182,6 +3534,13 @@ msgid ""
 "\\v[tmp.focName]: \\v[map.brewedFoc] / \\v[map.drinksFoc]\n"
 "\\v[item.370.name]: \\v[map.brewedMhp] / \\v[map.drinksMhp]"
 msgstr ""
+"Число варок / Получено напитков:\n"
+"Итого: \\c[3]\\v[map.brewedTotal] / \\v[map.drinksTotal]\\c[0]\n"
+"\n"
+"\\v[item.367.name]: \\v[map.brewedAtk] / \\v[map.drinksAtk]\n"
+"\\v[tmp.defName]: \\v[map.brewedDef] / \\v[map.drinksDef]\n"
+"\\v[tmp.focName]: \\v[map.brewedFoc] / \\v[map.drinksFoc]\n"
+"\\v[item.370.name]: \\v[map.brewedMhp] / \\v[map.drinksMhp]"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/76/settings/condAnims/0/interact/event/0/thenStep/5/elseStep/0/text #812
 #. Prop scoreSign
@@ -3199,6 +3558,12 @@ msgid ""
 "\\v[tmp.defName]: \\v[map.brewedDef] / \\v[map.drinksDef]\n"
 "\\v[item.370.name]: \\v[map.brewedMhp] / \\v[map.drinksMhp]"
 msgstr ""
+"Число варок / Получено напитков:\n"
+"Всего: \\c[3]\\v[map.brewedTotal] / \\v[map.drinksTotal]\\c[0]\n"
+"\n"
+"\\v[item.367.name]: \\v[map.brewedAtk] / \\v[map.drinksAtk]\n"
+"\\v[tmp.defName]: \\v[map.brewedDef] / \\v[map.drinksDef]\n"
+"\\v[item.370.name]: \\v[map.brewedMhp] / \\v[map.drinksMhp]"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/76/settings/condAnims/0/interact/event/0/elseStep/0/text #85
 #. Prop scoreSign
@@ -3208,56 +3573,56 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/76/settings/condAnims/0/interact/event/0/elseStep/0/text+%2385
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/76/settings/condAnims/0/interact/event/0/elseStep/0/text"
 msgid "\\c[1]- UNDER CONSTRUCTION -\\c[0]"
-msgstr ""
+msgstr "\\c[1]- НА РЕКОНСТРУКЦИИ -\\c[0]"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/77/settings/text #797
 #. Analyzable brewing-anal SPAWN IF false
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/77/settings/text+%23797
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/77/settings/text"
 msgid "Brewing Machine"
-msgstr ""
+msgstr "Варочная машина"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/78/settings/text #798
 #. Analyzable bubblerLeft-anal
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/78/settings/text+%23798
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/78/settings/text"
 msgid "Left Waterpipe"
-msgstr ""
+msgstr "Левый водопровод"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/79/settings/text #799
 #. Analyzable bubblerRighteft-anal
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/79/settings/text+%23799
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/79/settings/text"
 msgid "Right Waterpipe"
-msgstr ""
+msgstr "Правый водопровод"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/80/settings/text #800
 #. Analyzable oven1-anal
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/80/settings/text+%23800
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/80/settings/text"
 msgid "Steam Oven #1"
-msgstr ""
+msgstr "Паровая печь #1"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/81/settings/text #801
 #. Analyzable oven2-anal
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/81/settings/text+%23801
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/81/settings/text"
 msgid "Steam Oven #2"
-msgstr ""
+msgstr "Паровая печь #2"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/82/settings/text #802
 #. Analyzable oven3-anal
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/82/settings/text+%23802
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/82/settings/text"
 msgid "Steam Oven #3"
-msgstr ""
+msgstr "Паровая печь #3"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/83/settings/text #803
 #. Analyzable oven4-anal
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/83/settings/text+%23803
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/83/settings/text"
 msgid "Steam Oven #4"
-msgstr ""
+msgstr "Паровая печь #4"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/93/settings/event/9/thenStep/0/text #861
 #. EventTrigger boss_receiveSteam START IF tmp.bossStarted && (tmp.steam1 || tmp.steam2 || tmp.steam3 || tmp.steam4)
@@ -3266,7 +3631,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/93/settings/event/9/thenStep/0/text+%23861
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/93/settings/event/9/thenStep/0/text"
 msgid "VAR: \\v[tmp.tempNr]"
-msgstr ""
+msgstr "VAR: \\v[tmp.tempNr]"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/93/settings/event/10/thenStep/2/thenStep/0/text #854
 #. EventTrigger boss_receiveSteam START IF tmp.bossStarted && (tmp.steam1 || tmp.steam2 || tmp.steam3 || tmp.steam4)
@@ -3276,7 +3641,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/93/settings/event/10/thenStep/2/thenStep/0/text+%23854
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/93/settings/event/10/thenStep/2/thenStep/0/text"
 msgid "VAR: \\v[tmp.tempStringSteam]"
-msgstr ""
+msgstr "VAR: \\v[tmp.tempStringSteam]"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/94/settings/event/13/text #823
 #. EventTrigger boss_start
@@ -3284,7 +3649,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/94/settings/event/13/text+%23823
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/94/settings/event/13/text"
 msgid "[Upgrade Process START]"
-msgstr ""
+msgstr "[НАЧАЛО процесса улучшения]"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/94/settings/event/15/text #858
 #. EventTrigger boss_start
@@ -3292,7 +3657,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/94/settings/event/15/text+%23858
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/94/settings/event/15/text"
 msgid "[ Initiating Trial ]"
-msgstr ""
+msgstr "[ Запуск испытания ]"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/96/settings/event/7/thenStep/0/text #850
 #. EventTrigger boss_activateShields START IF tmp.bossStarted && tmp.activateShield
@@ -3301,7 +3666,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/96/settings/event/7/thenStep/0/text+%23850
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/96/settings/event/7/thenStep/0/text"
 msgid "\\v[tmp.ovenText]"
-msgstr ""
+msgstr "\\v[tmp.ovenText]"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/96/settings/event/7/thenStep/1/text #851
 #. EventTrigger boss_activateShields START IF tmp.bossStarted && tmp.activateShield
@@ -3310,7 +3675,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/96/settings/event/7/thenStep/1/text+%23851
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/96/settings/event/7/thenStep/1/text"
 msgid "\\v[tmp.ovenText]"
-msgstr ""
+msgstr "\\v[tmp.ovenText]"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/96/settings/event/7/thenStep/2/text #852
 #. EventTrigger boss_activateShields START IF tmp.bossStarted && tmp.activateShield
@@ -3319,7 +3684,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/96/settings/event/7/thenStep/2/text+%23852
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/96/settings/event/7/thenStep/2/text"
 msgid "\\v[tmp.ovenText]"
-msgstr ""
+msgstr "\\v[tmp.ovenText]"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/96/settings/event/7/thenStep/3/text #853
 #. EventTrigger boss_activateShields START IF tmp.bossStarted && tmp.activateShield
@@ -3328,7 +3693,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/96/settings/event/7/thenStep/3/text+%23853
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/96/settings/event/7/thenStep/3/text"
 msgid "\\v[tmp.ovenText]"
-msgstr ""
+msgstr "\\v[tmp.ovenText]"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/98/settings/event/4/guiInfo/settings/text #821
 #. EventTrigger activateFirepipes START IF tmp.enemyCounter >= 1 && tmp.bossStarted
@@ -3337,7 +3702,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/98/settings/event/4/guiInfo/settings/text+%23821
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/98/settings/event/4/guiInfo/settings/text"
 msgid "Overheat"
-msgstr ""
+msgstr "Перегрев"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json entities/104/settings/event/9/text #862
 #. EventTrigger bossOverheated START IF tmp.bossStarted && tmp.overheated
@@ -3345,7 +3710,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json+entities/104/settings/event/9/text+%23862
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight1-distillery.json//entities/104/settings/event/9/text"
 msgid "Overheated! Starting emergency cooling!"
-msgstr ""
+msgstr "Перегрев! Запуск аварийного охлаждения!"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/4/settings/event/30/text #185
 #. EventTrigger intro
@@ -3353,7 +3718,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/4/settings/event/30/text+%23185
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/4/settings/event/30/text"
 msgid "[ Big Enemy detected. Get ready for combat! ]"
-msgstr ""
+msgstr "[ Замечен большой враг. Готовьтесь к бою! ]"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/4/settings/event/40/text #196
 #. EventTrigger intro
@@ -3361,7 +3726,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/4/settings/event/40/text+%23196
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/4/settings/event/40/text"
 msgid "[ THREAT DETECTED! ]"
-msgstr ""
+msgstr "[ ЗАМЕЧЕНА УГРОЗА! ]"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/4/settings/event/50/guiInfo/settings/text #2
 #. EventTrigger intro
@@ -3370,7 +3735,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/4/settings/event/50/guiInfo/settings/text+%232
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/4/settings/event/50/guiInfo/settings/text"
 msgid "Ship HP"
-msgstr ""
+msgstr "HP корабля"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/5/settings/event/0/thenStep/0/text #4
 #. EventTrigger turretShot START IF tmp.allyShot
@@ -3379,7 +3744,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/5/settings/event/0/thenStep/0/text+%234
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/5/settings/event/0/thenStep/0/text"
 msgid "Turret Shot"
-msgstr ""
+msgstr "Выстрел турели"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/8/settings/event/0/thenStep/0/thenStep/0/text #3
 #. EventTrigger targetChange START IF tmp.targetChange
@@ -3389,7 +3754,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/8/settings/event/0/thenStep/0/thenStep/0/text+%233
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/8/settings/event/0/thenStep/0/thenStep/0/text"
 msgid "Target Change"
-msgstr ""
+msgstr "Смена цели"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/10/settings/event/0/guiInfo/settings/text #5
 #. EventTrigger turretRdy START IF tmp.shotReady && false
@@ -3403,6 +3768,10 @@ msgid ""
 "\n"
 "\\c[3]Elements\\c[0] have special effects!"
 msgstr ""
+"\\c[1]Пушка готова!\\c[0]\n"
+"Используйте \\c[3]Заряженный бросок\\c[0], чтобы пометить цель!\n"
+"\n"
+"\\c[3]Элементы\\c[0] имеют особые эффекты!"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/10/settings/event/0/guiInfo/settings/altText #7
 #. EventTrigger turretRdy START IF tmp.shotReady && false
@@ -3411,7 +3780,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/10/settings/event/0/guiInfo/settings/altText+%237
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/10/settings/event/0/guiInfo/settings/altText"
 msgid "\\c[1]Cannon Ready!\\c[0]"
-msgstr ""
+msgstr "\\c[1]Пушка готова!\\c[0]"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/11/settings/event/12/text #148
 #. EventTrigger helperDed START IF tmp.helperDead
@@ -3419,7 +3788,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/11/settings/event/12/text+%23148
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/11/settings/event/12/text"
 msgid "[ Critical damage received. Detonation imminent! ]"
-msgstr ""
+msgstr "[ Получен критический урон. Детонация неизбежна! ]"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/12/settings/event/6/text #176
 #. EventTrigger fail START IF tmp.missionFailed && false
@@ -3431,6 +3800,9 @@ msgid ""
 "\n"
 "Restart task to try again"
 msgstr ""
+"\\c[1]КВЕСТ ПРОВАЛЕН\\c[0]\n"
+"\n"
+"Перезапустите задание, чтобы попробовать снова"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/12/settings/event/8/options/0/label #15
 #. EventTrigger fail START IF tmp.missionFailed && false
@@ -3438,7 +3810,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/12/settings/event/8/options/0/label+%2315
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/12/settings/event/8/options/0/label"
 msgid "Restart Fight"
-msgstr ""
+msgstr "Перезапустить битву"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/12/settings/event/8/options/1/label #177
 #. EventTrigger fail START IF tmp.missionFailed && false
@@ -3446,7 +3818,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/12/settings/event/8/options/1/label+%23177
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/12/settings/event/8/options/1/label"
 msgid "Back to \\v[area.rookie-harbor.name]"
-msgstr ""
+msgstr "Вернуться в Гавань новичков"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/14/settings/event/14/text #184
 #. EventTrigger defenseFail START IF tmp.fail >= 5 && false
@@ -3454,7 +3826,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/14/settings/event/14/text+%23184
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/14/settings/event/14/text"
 msgid "\\c[1]You let too many weapons pass by that will now reach the continent!\\c[0]"
-msgstr ""
+msgstr "\\c[1]Вы пропустили слишком много оружия, которое теперь достигнет континента!\\c[0]"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/18/settings/event/0/thenStep/0/text #186
 #. EventTrigger helpText START IF (tmp.introEnd && tmp.helpText != "") && false
@@ -3463,7 +3835,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/18/settings/event/0/thenStep/0/text+%23186
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/18/settings/event/0/thenStep/0/text"
 msgid "Use \\c[3]Heat\\c[0] for explosive damage!"
-msgstr ""
+msgstr "Используйте \\c[3]Пламя\\c[0] для взрывного урона!"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/18/settings/event/1/thenStep/0/text #187
 #. EventTrigger helpText START IF (tmp.introEnd && tmp.helpText != "") && false
@@ -3472,7 +3844,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/18/settings/event/1/thenStep/0/text+%23187
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/18/settings/event/1/thenStep/0/text"
 msgid "Use \\c[3]Cold\\c[0] to slow down single targets!"
-msgstr ""
+msgstr "Используйте \\c[3]Холод\\c[0], чтобы замедлить одиночные цели!"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/18/settings/event/2/thenStep/0/text #188
 #. EventTrigger helpText START IF (tmp.introEnd && tmp.helpText != "") && false
@@ -3481,7 +3853,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/18/settings/event/2/thenStep/0/text+%23188
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/18/settings/event/2/thenStep/0/text"
 msgid "Use \\c[3]Shock\\c[0] to hit two targets at once!"
-msgstr ""
+msgstr "Используйте \\c[3]Шок\\c[0], чтобы атаковать сразу две цели!"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/18/settings/event/3/thenStep/0/text #189
 #. EventTrigger helpText START IF (tmp.introEnd && tmp.helpText != "") && false
@@ -3490,7 +3862,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/18/settings/event/3/thenStep/0/text+%23189
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/18/settings/event/3/thenStep/0/text"
 msgid "Use \\c[3]Wave\\c[0] to hit targets in a line!"
-msgstr ""
+msgstr "Используйте \\c[3]Волну\\c[0], чтобы атаковать цели на одной линии!"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/23/settings/event/5/0_0/3/thenStep/0/text #190
 #. EventTrigger spawnEnemies START IF tmp.introEnd
@@ -3500,7 +3872,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/23/settings/event/5/0_0/3/thenStep/0/text+%23190
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/23/settings/event/5/0_0/3/thenStep/0/text"
 msgid "(Turret 1 Spawn)"
-msgstr ""
+msgstr "(Призыв Турели 1)"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/23/settings/event/5/1_0/3/thenStep/0/text #191
 #. EventTrigger spawnEnemies START IF tmp.introEnd
@@ -3510,7 +3882,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/23/settings/event/5/1_0/3/thenStep/0/text+%23191
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/23/settings/event/5/1_0/3/thenStep/0/text"
 msgid "(Turret 2 Spawn)"
-msgstr ""
+msgstr "(Призыв Турели 2)"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/23/settings/event/5/2_0/3/thenStep/0/text #192
 #. EventTrigger spawnEnemies START IF tmp.introEnd
@@ -3520,7 +3892,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/23/settings/event/5/2_0/3/thenStep/0/text+%23192
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/23/settings/event/5/2_0/3/thenStep/0/text"
 msgid "(Turret 3 Spawn)"
-msgstr ""
+msgstr "(Призыв Турели 3)"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/23/settings/event/5/3_0/3/thenStep/0/text #193
 #. EventTrigger spawnEnemies START IF tmp.introEnd
@@ -3530,7 +3902,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/23/settings/event/5/3_0/3/thenStep/0/text+%23193
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/23/settings/event/5/3_0/3/thenStep/0/text"
 msgid "(Turret 4 Spawn)"
-msgstr ""
+msgstr "(Призыв Турели 4)"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/23/settings/event/5/4_0/3/thenStep/0/text #194
 #. EventTrigger spawnEnemies START IF tmp.introEnd
@@ -3540,7 +3912,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/23/settings/event/5/4_0/3/thenStep/0/text+%23194
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/23/settings/event/5/4_0/3/thenStep/0/text"
 msgid "(Bomb 1 Spawn)"
-msgstr ""
+msgstr "(Призыв Бомбы 1)"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json entities/23/settings/event/5/5_0/3/thenStep/0/text #195
 #. EventTrigger spawnEnemies START IF tmp.introEnd
@@ -3550,25 +3922,25 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json+entities/23/settings/event/5/5_0/3/thenStep/0/text+%23195
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight2-ocean.json//entities/23/settings/event/5/5_0/3/thenStep/0/text"
 msgid "(Bomb 2 Spawn)"
-msgstr ""
+msgstr "(Призыв Бомбы 2)"
 
-#. extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json entities/350/settings/event/38/guiInfo/settings/text #1765
+#. extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json entities/350/settings/event/39/guiInfo/settings/text #1765
 #. EventTrigger questGreens3-fight1Boss
 #. ADD_GUI
 #. BarWidget
-#: extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json+entities/350/settings/event/38/guiInfo/settings/text+%231765
-msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json//entities/350/settings/event/38/guiInfo/settings/text"
+#: extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json+entities/350/settings/event/39/guiInfo/settings/text+%231765
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json//entities/350/settings/event/39/guiInfo/settings/text"
 msgid "Escortee Life"
-msgstr ""
+msgstr "Здоровье"
 
-#. extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json entities/350/settings/event/38/guiInfo/settings/taskTitle #1766
+#. extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json entities/350/settings/event/39/guiInfo/settings/taskTitle #1766
 #. EventTrigger questGreens3-fight1Boss
 #. ADD_GUI
 #. BarWidget
-#: extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json+entities/350/settings/event/38/guiInfo/settings/taskTitle+%231766
-msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json//entities/350/settings/event/38/guiInfo/settings/taskTitle"
+#: extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json+entities/350/settings/event/39/guiInfo/settings/taskTitle+%231766
+msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json//entities/350/settings/event/39/guiInfo/settings/taskTitle"
 msgid "Energy"
-msgstr ""
+msgstr "Энергия"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json entities/356/settings/event/1/thenStep/0/thenStep/0/message #793
 #. EventTrigger hpUpdate START IF tmp.escortCombat
@@ -3578,7 +3950,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json+entities/356/settings/event/1/thenStep/0/thenStep/0/message+%23793
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json//entities/356/settings/event/1/thenStep/0/thenStep/0/message"
 msgid "Getting dizzy..."
-msgstr ""
+msgstr "Голова кружится..."
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json entities/356/settings/event/1/thenStep/0/thenStep/1/message #792
 #. EventTrigger hpUpdate START IF tmp.escortCombat
@@ -3588,7 +3960,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json+entities/356/settings/event/1/thenStep/0/thenStep/1/message+%23792
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json//entities/356/settings/event/1/thenStep/0/thenStep/1/message"
 msgid "...!"
-msgstr ""
+msgstr "...!"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json entities/356/settings/event/1/thenStep/0/elseStep/0/thenStep/0/message #790
 #. EventTrigger hpUpdate START IF tmp.escortCombat
@@ -3599,7 +3971,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json+entities/356/settings/event/1/thenStep/0/elseStep/0/thenStep/0/message+%23790
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json//entities/356/settings/event/1/thenStep/0/elseStep/0/thenStep/0/message"
 msgid "Don't want to stress you, but this is getting a bit painful..."
-msgstr ""
+msgstr "Не хочу давить на тебя, но это становится немного больно..."
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json entities/356/settings/event/1/thenStep/0/elseStep/0/thenStep/1/message #794
 #. EventTrigger hpUpdate START IF tmp.escortCombat
@@ -3610,7 +3982,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json+entities/356/settings/event/1/thenStep/0/elseStep/0/thenStep/1/message+%23794
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json//entities/356/settings/event/1/thenStep/0/elseStep/0/thenStep/1/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json entities/356/settings/event/1/thenStep/0/elseStep/0/elseStep/0/thenStep/0/message #791
 #. EventTrigger hpUpdate START IF tmp.escortCombat
@@ -3622,7 +3994,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json+entities/356/settings/event/1/thenStep/0/elseStep/0/elseStep/0/thenStep/0/message+%23791
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json//entities/356/settings/event/1/thenStep/0/elseStep/0/elseStep/0/thenStep/0/message"
 msgid "Ouchie... ghost hits are as nasty as it looks."
-msgstr ""
+msgstr "Аюшки... призрачные удары настолько же отвратительны, какими кажутся."
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json entities/357/settings/event/17/text #176
 #. EventTrigger escort-dead START IF tmp.escortDead
@@ -3634,6 +4006,9 @@ msgid ""
 "\n"
 "Restart task to try again"
 msgstr ""
+"\\c[1]КВЕСТ ПРОВАЛЕН\\c[0]\n"
+"\n"
+"Перезапустите задание, чтобы попробовать снова"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json entities/358/settings/event/0/text #1772
 #. EventTrigger escortHeal START IF tmp.escortHeal
@@ -3641,14 +4016,14 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json+entities/358/settings/event/0/text+%231772
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight3-ghost.json//entities/358/settings/event/0/text"
 msgid "[ ESCORT HEAL ]"
-msgstr ""
+msgstr "[ ИСЦЕЛЕНИЕ ]"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight4-tremor.json entities/6/settings/interact/hoverText #409
 #. Prop bossInteract-prop SPAWN IF (quest.tremor-1.task.2 && !(quest.tremor-1.solved || quest.tremor-1.task.3) && !tmp.fightBossStart)
 #: extension/post-game/data/maps/arena/faction-dlc/fight4-tremor.json+entities/6/settings/interact/hoverText+%23409
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight4-tremor.json//entities/6/settings/interact/hoverText"
 msgid "Awaken the machine"
-msgstr ""
+msgstr "Пробудить машину"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight4-tremor.json entities/6/settings/interact/event/2/action/5/text #9
 #. Prop bossInteract-prop SPAWN IF (quest.tremor-1.task.2 && !(quest.tremor-1.solved || quest.tremor-1.task.3) && !tmp.fightBossStart)
@@ -3657,7 +4032,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight4-tremor.json+entities/6/settings/interact/event/2/action/5/text+%239
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight4-tremor.json//entities/6/settings/interact/event/2/action/5/text"
 msgid "[ Vibrating machine ]"
-msgstr ""
+msgstr "[ Вибрирующая машина ]"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json entities/5/settings/event/10/message #660
 #. EventTrigger fightPreStart START IF false
@@ -3665,7 +4040,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json+entities/5/settings/event/10/message+%23660
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json//entities/5/settings/event/10/message"
 msgid "Hi.\\. Lea.\\. Why?"
-msgstr ""
+msgstr "Привет.\\. Лея.\\. Почему?"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json entities/5/settings/event/11/text #665
 #. EventTrigger fightPreStart START IF false
@@ -3673,7 +4048,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json+entities/5/settings/event/11/text+%23665
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json//entities/5/settings/event/11/text"
 msgid "[aggressive goat noises]"
-msgstr ""
+msgstr "[агрессивное блеяние]"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json entities/5/settings/event/13/text #659
 #. EventTrigger fightPreStart START IF false
@@ -3681,7 +4056,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json+entities/5/settings/event/13/text+%23659
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json//entities/5/settings/event/13/text"
 msgid "\\v[lore.title.seeker]!\\. This is place of goat now!\\. Leave!"
-msgstr ""
+msgstr "Искатель!\\. Теперь это место козлов!\\. Уходи!"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json entities/5/settings/event/15/message #517
 #. EventTrigger fightPreStart START IF false
@@ -3689,7 +4064,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json+entities/5/settings/event/15/message+%23517
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json//entities/5/settings/event/15/message"
 msgid "[shakes head]"
-msgstr ""
+msgstr "[мотает головой]"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json entities/5/settings/event/16/message #663
 #. EventTrigger fightPreStart START IF false
@@ -3697,7 +4072,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json+entities/5/settings/event/16/message+%23663
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json//entities/5/settings/event/16/message"
 msgid "How?\\. Meet.\\. Why?"
-msgstr ""
+msgstr "Как?\\. Встреча.\\. Почему?"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json entities/5/settings/event/17/text #672
 #. EventTrigger fightPreStart START IF false
@@ -3705,7 +4080,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json+entities/5/settings/event/17/text+%23672
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json//entities/5/settings/event/17/text"
 msgid "[even more aggressive goat noises]"
-msgstr ""
+msgstr "[ещё более агрессивное блеяние]"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json entities/5/settings/event/19/text #673
 #. EventTrigger fightPreStart START IF false
@@ -3713,7 +4088,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json+entities/5/settings/event/19/text+%23673
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json//entities/5/settings/event/19/text"
 msgid "No talk!\\. Leave! Or.\\..\\..\\. Fight!!"
-msgstr ""
+msgstr "Никаких разговоров!\\. Уходи! Или.\\..\\..\\. сражайся!!"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json entities/5/settings/event/21/message #674
 #. EventTrigger fightPreStart START IF false
@@ -3721,7 +4096,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json+entities/5/settings/event/21/message+%23674
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json//entities/5/settings/event/21/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json entities/28/settings/event/0/action/2/text #723
 #. EventTrigger fightReinforcements1 START IF false
@@ -3730,7 +4105,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json+entities/28/settings/event/0/action/2/text+%23723
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json//entities/28/settings/event/0/action/2/text"
 msgid "[aggressive goat noises]"
-msgstr ""
+msgstr "[агрессивное блеяние]"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json entities/28/settings/event/2/action/2/text #724
 #. EventTrigger fightReinforcements1 START IF false
@@ -3739,7 +4114,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json+entities/28/settings/event/2/action/2/text+%23724
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json//entities/28/settings/event/2/action/2/text"
 msgid "[aggressive goat noises]"
-msgstr ""
+msgstr "[агрессивное блеяние]"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json entities/28/settings/event/4/action/2/text #725
 #. EventTrigger fightReinforcements1 START IF false
@@ -3748,7 +4123,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json+entities/28/settings/event/4/action/2/text+%23725
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json//entities/28/settings/event/4/action/2/text"
 msgid "[aggressive goat noises]"
-msgstr ""
+msgstr "[агрессивное блеяние]"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json entities/28/settings/event/6/action/2/text #726
 #. EventTrigger fightReinforcements1 START IF false
@@ -3757,21 +4132,21 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json+entities/28/settings/event/6/action/2/text+%23726
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json//entities/28/settings/event/6/action/2/text"
 msgid "[aggressive goat noises]"
-msgstr ""
+msgstr "[агрессивное блеяние]"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json entities/31/settings/analyzable/text #423
 #. NPC pet-goat
 #: extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json+entities/31/settings/analyzable/text+%23423
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json//entities/31/settings/analyzable/text"
 msgid "Kid Goat Zira"
-msgstr ""
+msgstr "Козлёнок Зира"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json entities/32/settings/analyzable/text #695
 #. NPC business
 #: extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json+entities/32/settings/analyzable/text+%23695
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight6-goatfather.json//entities/32/settings/analyzable/text"
 msgid "Mrs. Hoover"
-msgstr ""
+msgstr "Миссис Хувер"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight7-ape.json entities/3/settings/event/10/message #697
 #. EventTrigger fightBossStart-test START IF false
@@ -3779,7 +4154,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight7-ape.json+entities/3/settings/event/10/message+%23697
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight7-ape.json//entities/3/settings/event/10/message"
 msgid "... W-where?"
-msgstr ""
+msgstr "...Г-где?"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight7-ape.json entities/3/settings/event/11/text #698
 #. EventTrigger fightBossStart-test START IF false
@@ -3787,7 +4162,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight7-ape.json+entities/3/settings/event/11/text+%23698
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight7-ape.json//entities/3/settings/event/11/text"
 msgid "There we are, \\v[lore.title.seeker].\\. This shall be our battleground."
-msgstr ""
+msgstr "Вот мы и здесь, Искатель.\\. Это будет наше поле боя."
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight7-ape.json entities/3/settings/event/12/message #699
 #. EventTrigger fightBossStart-test START IF false
@@ -3795,7 +4170,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight7-ape.json+entities/3/settings/event/12/message+%23699
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight7-ape.json//entities/3/settings/event/12/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight7-ape.json entities/3/settings/event/13/text #700
 #. EventTrigger fightBossStart-test START IF false
@@ -3803,7 +4178,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight7-ape.json+entities/3/settings/event/13/text+%23700
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight7-ape.json//entities/3/settings/event/13/text"
 msgid "Now, be on your guard!"
-msgstr ""
+msgstr "А теперь, будь начеку!"
 
 #. extension/post-game/data/maps/arena/faction-dlc/fight7-ape.json entities/3/settings/event/14/message #701
 #. EventTrigger fightBossStart-test START IF false
@@ -3811,7 +4186,7 @@ msgstr ""
 #: extension/post-game/data/maps/arena/faction-dlc/fight7-ape.json+entities/3/settings/event/14/message+%23701
 msgctxt "extension/post-game/data/maps/arena/faction-dlc/fight7-ape.json//entities/3/settings/event/14/message"
 msgid "Meet.\\. Lea!"
-msgstr ""
+msgstr "Встреча.\\. Лея!"
 
 #. extension/post-game/data/maps/arena/pvp/pvp-apollo.json entities/300/settings/event/12/message #3
 #. EventTrigger Start
@@ -4010,7 +4385,7 @@ msgstr "...!"
 #: extension/post-game/data/maps/arena/pvp/pvp-lily.json+entities/300/settings/event/11/message+%233
 msgctxt "extension/post-game/data/maps/arena/pvp/pvp-lily.json//entities/300/settings/event/11/message"
 msgid "It's time for our little duel."
-msgstr "Настал час для нашей маленькой дуэли."
+msgstr "Пришло время нашей маленькой дуэли."
 
 #. extension/post-game/data/maps/arena/pvp/pvp-lily.json entities/300/settings/event/12/message #12
 #. EventTrigger Start
@@ -4153,7 +4528,7 @@ msgstr "Привет!"
 #: extension/post-game/data/maps/arena/pvp/pvp-lily.json+entities/305/settings/event/14/thenStep/3/message+%2322
 msgctxt "extension/post-game/data/maps/arena/pvp/pvp-lily.json//entities/305/settings/event/14/thenStep/3/message"
 msgid "That was great, though."
-msgstr "Всё же, это было отлично."
+msgstr "Всё же, это было здорово."
 
 #. extension/post-game/data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/thenStep/4/message #23
 #. EventTrigger pvpEnd START IF pvp.finished
@@ -4206,7 +4581,7 @@ msgstr "Это был хороший бой, Лея!"
 #. SHOW_MSG guests.lily @DEFAULT
 #: extension/post-game/data/maps/arena/pvp/pvp-lily.json+entities/305/settings/event/14/elseStep/5/message+%2327
 msgctxt "extension/post-game/data/maps/arena/pvp/pvp-lily.json//entities/305/settings/event/14/elseStep/5/message"
-msgid "Just hit me up, when you're ready for rematch!"
+msgid "Just hit me up when you're ready for a rematch!"
 msgstr "Просто позвони мне, когда будешь готова к реваншу!"
 
 #. extension/post-game/data/maps/arena/pvp/pvp-lily.json entities/305/settings/event/14/elseStep/6/message #10
@@ -4292,7 +4667,7 @@ msgstr "Всё ещё при мне."
 #: extension/post-game/data/maps/arena/pvp/pvp-shizuka.json+entities/304/settings/event/1/elseStep/1/thenStep/0/message+%231510
 msgctxt "extension/post-game/data/maps/arena/pvp/pvp-shizuka.json//entities/304/settings/event/1/elseStep/1/thenStep/0/message"
 msgid "Come on Lea, don't hold back on me."
-msgstr "Давай Лея, не сдерживайся."
+msgstr "Давай, Лея, не сдерживайся."
 
 #. extension/post-game/data/maps/arena/pvp/pvp-shizuka.json entities/304/settings/event/1/elseStep/2/thenStep/0/thenStep/0/message #1509
 #. EventTrigger pvpBrake START IF pvp.brake
@@ -4377,3 +4752,12 @@ msgstr "Не волнуйся, всегда есть следующий раз!"
 msgctxt "extension/post-game/data/maps/arena/pvp/pvp-shizuka.json//entities/305/settings/event/14/elseStep/4/message"
 msgid "...!"
 msgstr "...!"
+
+#. extension/post-game/data/maps/arena/special/arena-sao.json entities/300/settings/event/42/guiInfo/settings/taskTitle #1
+#. EventTrigger Start
+#. ADD_GUI
+#. CounterHud
+#: extension/post-game/data/maps/arena/special/arena-sao.json+entities/300/settings/event/42/guiInfo/settings/taskTitle+%231
+msgctxt "extension/post-game/data/maps/arena/special/arena-sao.json//entities/300/settings/event/42/guiInfo/settings/taskTitle"
+msgid "Sao"
+msgstr "Сао"

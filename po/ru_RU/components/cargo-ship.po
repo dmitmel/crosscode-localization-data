@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.4.1-2\n"
+"Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-14 01:09+0000\n"
-"POT-Revision-Date: 2021-04-14 01:09+0000\n"
+"POT-Creation-Date: 2022-01-11 15:55+0000\n"
+"POT-Revision-Date: 2022-01-11 15:55+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0\n"
+"X-Generator: crosscode-localization-engine 0.0.0 (2168d54 2022-01-11)\n"
 
 #. data/areas/cargo-ship.json name #1
 #: data/areas/cargo-ship.json+name+%231
@@ -133,7 +133,7 @@ msgstr "Палуба"
 #: data/maps/cargo-ship/boss.json+entities/15/settings/event/17/message+%231
 msgctxt "data/maps/cargo-ship/boss.json//entities/15/settings/event/17/message"
 msgid "What a convenient stage we have here!"
-msgstr "Какая удобная сцена у нас здесь!"
+msgstr "Какая у нас здесь удобная сцена!"
 
 #. data/maps/cargo-ship/boss.json entities/15/settings/event/18/message #2
 #. EventTrigger intro
@@ -157,7 +157,7 @@ msgstr "Давайте посмотрим, являешься ли ты подл
 #: data/maps/cargo-ship/boss.json+entities/15/settings/event/30/message+%234
 msgctxt "data/maps/cargo-ship/boss.json//entities/15/settings/event/30/message"
 msgid "A display of your talents shall suffice as proof!"
-msgstr "В качестве доказательства должны быть показаны твои способности!"
+msgstr "Твои способности будут неплохим тому подтверждением!"
 
 #. data/maps/cargo-ship/boss.json entities/15/settings/event/41/message #5
 #. EventTrigger intro
@@ -173,7 +173,7 @@ msgstr "Лея, ты меня слышишь?"
 #: data/maps/cargo-ship/boss.json+entities/15/settings/event/42/message+%236
 msgctxt "data/maps/cargo-ship/boss.json//entities/15/settings/event/42/message"
 msgid " I am just as confused about this whole situation as you are..."
-msgstr " Я в замешательстве насчёт всей этой ситуации, как и ты..."
+msgstr "Я так же, как и ты, в замешательстве насчёт всей этой ситуации..."
 
 #. data/maps/cargo-ship/boss.json entities/15/settings/event/43/message #7
 #. EventTrigger intro
@@ -433,7 +433,7 @@ msgstr "Вот аватар - зовут Лея."
 #: data/maps/cargo-ship/bridge.json+entities/21/settings/event/18/message+%2310
 msgctxt "data/maps/cargo-ship/bridge.json//entities/21/settings/event/18/message"
 msgid "Aye... hard to miss that lass.\\. Hope ye didn't run into everythin' with those horns there."
-msgstr "Ага... трудно пропустить такую девушку.\\. Надеюсь, что ты не зацепила ничего своими рогами?"
+msgstr "Ага... трудно пропустить такую девушку.\\. Надеюсь, ты не зацепила ничего своими рогами?"
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/19/message #11
 #. EventTrigger firstVisit START IF plot.line >= 100
@@ -465,7 +465,7 @@ msgstr "..."
 #: data/maps/cargo-ship/bridge.json+entities/21/settings/event/22/message+%2314
 msgctxt "data/maps/cargo-ship/bridge.json//entities/21/settings/event/22/message"
 msgid "Anyway, make sure ye clean up that mess ye started down in the cargo hold soon."
-msgstr "В любом случае, убедитесь, что вы убрали за собой беспорядок, который учинили в грузовом отсеке."
+msgstr "В любом случае, обязательно уберите за собой беспорядок, который вы учинили в грузовом отсеке."
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/24/message #15
 #. EventTrigger firstVisit START IF plot.line >= 100
@@ -529,7 +529,7 @@ msgstr "Знаешь ведь, что я никогда не путешеств�
 #: data/maps/cargo-ship/bridge.json+entities/21/settings/event/36/message+%2322
 msgctxt "data/maps/cargo-ship/bridge.json//entities/21/settings/event/36/message"
 msgid "Anyway, I hope ye two will be ready to travel on soon. "
-msgstr "В любом случае, я надеюсь, что вы с Леей скоро будете готовы к путешествию."
+msgstr "В любом случае, я надеюсь, что вы с Леей скоро будете готовы отчаливать."
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/37/message #23
 #. EventTrigger firstVisit START IF plot.line >= 100
@@ -561,7 +561,7 @@ msgstr "Господи, Кэп.\\. Кто так встречает гостей
 #: data/maps/cargo-ship/bridge.json+entities/21/settings/event/40/message+%2326
 msgctxt "data/maps/cargo-ship/bridge.json//entities/21/settings/event/40/message"
 msgid "Besides, ain't we talkin' to Jet, former VRP dueling champ?"
-msgstr "Кроме того, разве мы говорим не с Джетом, бывшим чемпионом VRP-дуэлей?"
+msgstr "К тому же, разве мы говорим не с Джетом, бывшим чемпионом VRP-дуэлей?"
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/41/message #27
 #. EventTrigger firstVisit START IF plot.line >= 100
@@ -710,7 +710,7 @@ msgstr "[кивает]"
 #: data/maps/cargo-ship/bridge.json+entities/23/settings/npcStates/2/event/2/message+%2340
 msgctxt "data/maps/cargo-ship/bridge.json//entities/23/settings/npcStates/2/event/2/message"
 msgid "There ye are.\\. It's about darn time for yer combat lesson."
-msgstr "Вот и ты.\\. Пришло чёртово время для твоего боевого урока."
+msgstr "Вот и ты.\\. Пора уже провести этот чëртов боевой урок."
 
 #. data/maps/cargo-ship/bridge.json entities/23/settings/npcStates/2/event/3/message #41
 #. NPC captain
@@ -876,7 +876,7 @@ msgstr "[кивает]"
 #: data/maps/cargo-ship/bridge.json+entities/23/settings/npcStates/8/event/2/message+%23104
 msgctxt "data/maps/cargo-ship/bridge.json//entities/23/settings/npcStates/8/event/2/message"
 msgid "Good day, Lass. Back on the ship?"
-msgstr "Доброго дня, девчушка. Вернулась на корабль?"
+msgstr "Доброго дня, девчушка.\\. Вернулась на корабль?"
 
 #. data/maps/cargo-ship/bridge.json entities/23/settings/npcStates/8/event/3/message #105
 #. NPC captain
@@ -894,7 +894,7 @@ msgstr "[кивает]"
 #: data/maps/cargo-ship/bridge.json+entities/23/settings/npcStates/8/event/4/message+%23106
 msgctxt "data/maps/cargo-ship/bridge.json//entities/23/settings/npcStates/8/event/4/message"
 msgid "Ye're always welcome of course. But better not stay here for too long or people will get suspicious."
-msgstr "Мы всегда рады тебя видеть. Но лучше не оставайся тут слишком надолго, а то у людей возникнут подозрения."
+msgstr "Мы всегда рады тебя видеть.\\. Но лучше не оставайся тут слишком надолго, а то у людей возникнут подозрения."
 
 #. data/maps/cargo-ship/bridge.json entities/23/settings/npcStates/8/event/5/message #107
 #. NPC captain
@@ -987,7 +987,7 @@ msgctxt "data/maps/cargo-ship/bridge.json//entities/24/settings/npcStates/0/even
 msgid ""
 "Is that blue guy still out there?\\.\n"
 "Seriously, we never had anything like this happen before."
-msgstr "Этот синий парень по-прежнему там?\\. Серьёзно, у нас никогда не было ничего подобного."
+msgstr "Этот синий парень всë ещë там?\\. Серьёзно, у нас никогда не было ничего подобного."
 
 #. data/maps/cargo-ship/bridge.json entities/24/settings/npcStates/0/event/0/elseStep/0/thenStep/3/message #49
 #. NPC steeringDude
@@ -1051,7 +1051,7 @@ msgstr "Я думаю, он сейчас где-то в каютах."
 #: data/maps/cargo-ship/bridge.json+entities/24/settings/npcStates/0/event/0/elseStep/0/elseStep/0/thenStep/5/message+%2354
 msgctxt "data/maps/cargo-ship/bridge.json//entities/24/settings/npcStates/0/event/0/elseStep/0/elseStep/0/thenStep/5/message"
 msgid "Indeed, even a captain needs a break once in a while..."
-msgstr "В самом деле, даже капитан нуждается в перерыве время от времени..."
+msgstr "В самом деле, даже капитан время от времени нуждается в перерыве..."
 
 #. data/maps/cargo-ship/bridge.json entities/24/settings/npcStates/0/event/0/elseStep/0/elseStep/0/elseStep/2/message #55
 #. NPC steeringDude
@@ -1064,9 +1064,7 @@ msgctxt "data/maps/cargo-ship/bridge.json//entities/24/settings/npcStates/0/even
 msgid ""
 "You're that avatar girl we were warned about, right?\\.\n"
 "Sorry, but I need to pay attention to the radar."
-msgstr ""
-"Ты та девушка-аватар, о которой нас предупреждали, так?\\.\n"
-"Извини, но мне нужно следить за радаром."
+msgstr "Ты та девушка-аватар, о которой нас предупреждали, так?\\. Извини, но мне нужно следить за радаром."
 
 #. data/maps/cargo-ship/bridge.json entities/32/settings/event/5/message #56
 #. EventTrigger itsComing START IF plot.line >= 400 &&  tmp.enterBridge
@@ -1130,7 +1128,7 @@ msgstr "Девочка, ты, кажется, действительно упа�
 #: data/maps/cargo-ship/bridge.json+entities/34/settings/event/19/message+%2365
 msgctxt "data/maps/cargo-ship/bridge.json//entities/34/settings/event/19/message"
 msgid "But I really have no time for strollin' around right now."
-msgstr "Но сейчас у меня нет времени прогуливаться."
+msgstr "Но сейчас у меня совсем нет времени прогуливаться."
 
 #. data/maps/cargo-ship/bridge.json entities/34/settings/event/23/message #66
 #. EventTrigger captainTour? START IF plot.line >= 15200
@@ -1194,7 +1192,7 @@ msgstr "...Лея."
 #: data/maps/cargo-ship/bridge.json+entities/34/settings/event/40/message+%2373
 msgctxt "data/maps/cargo-ship/bridge.json//entities/34/settings/event/40/message"
 msgid "Huh? Do you want me to call you by your first name?"
-msgstr "Эмм? Ты хочешь, чтобы я называл тебя по имени?"
+msgstr "А? Ты хочешь, чтобы я называл тебя по имени?"
 
 #. data/maps/cargo-ship/bridge.json entities/34/settings/event/41/message #74
 #. EventTrigger captainTour? START IF plot.line >= 15200
@@ -1451,7 +1449,7 @@ msgstr "Понятно... Полагаю, начало положено."
 #: data/maps/cargo-ship/cabins1.json+entities/108/settings/event/19/message+%2316
 msgctxt "data/maps/cargo-ship/cabins1.json//entities/108/settings/event/19/message"
 msgid "Anyway, the Cap and I here have been planning out your combat training, girl."
-msgstr "В любом случае, мы с кэпом планируем твою боевую тренировку, подруга."
+msgstr "В общем, подруга, мы тут с кэпом планируем твою боевую тренировку."
 
 #. data/maps/cargo-ship/cabins1.json entities/108/settings/event/20/message #17
 #. EventTrigger kitchenScene START IF map.kitchenScene
@@ -1475,7 +1473,7 @@ msgstr "Так точно, это будет интересно."
 #: data/maps/cargo-ship/cabins1.json+entities/108/settings/event/23/message+%2319
 msgctxt "data/maps/cargo-ship/cabins1.json//entities/108/settings/event/23/message"
 msgid "Well, I'm off to my cabin for some final preparations."
-msgstr "Отлично, я пойду в свою каюту для последних приготовлений."
+msgstr "Ну, я пойду к себе в каюту для последних приготовлений."
 
 #. data/maps/cargo-ship/cabins1.json entities/108/settings/event/24/message #20
 #. EventTrigger kitchenScene START IF map.kitchenScene
@@ -1589,7 +1587,7 @@ msgstr "Ты вернулась на корабль, здорово!"
 #. SHOW_MSG cargo-crew.fanboy @DEFAULT
 #: data/maps/cargo-ship/cabins1.json+entities/132/settings/npcStates/0/event/5/message+%2337
 msgctxt "data/maps/cargo-ship/cabins1.json//entities/132/settings/npcStates/0/event/5/message"
-msgid "I also saw that other avatar on ship, today!\\. A Pentafist, so cool!"
+msgid "I also saw that other avatar on the ship, today!\\. A Pentafist, so cool!"
 msgstr "Я сегодня видел на корабле ещё одного аватара!\\. Пентафист, так круто!"
 
 #. data/maps/cargo-ship/cabins1.json entities/132/settings/npcStates/0/event/6/message #38
@@ -1688,7 +1686,7 @@ msgstr "О, привет...\\. ты вернулась на наш корабл�
 #. SHOW_MSG cargo-crew.colleague @DEFAULT
 #: data/maps/cargo-ship/cabins1.json+entities/133/settings/npcStates/0/event/4/message+%2348
 msgctxt "data/maps/cargo-ship/cabins1.json//entities/133/settings/npcStates/0/event/4/message"
-msgid "Has been a while, hasn't it?"
+msgid "It's been a while, hasn't it?"
 msgstr "Прошло много времени, не так ли?"
 
 #. data/maps/cargo-ship/cabins1.json entities/133/settings/npcStates/0/event/5/message #49
@@ -1814,7 +1812,7 @@ msgstr "Ты хочешь знать почему?"
 #: data/maps/cargo-ship/cabins2.json+entities/67/settings/event/4/message+%239
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/67/settings/event/4/message"
 msgid "Jet runs a strictly regimented ship.\\. Every room needs to be cleaned before work."
-msgstr "Джет управляет строго регламентированным кораблем.\\. Каждая комната должна быть убрана перед работой."
+msgstr "Джет управляет строго регламентированным кораблëм.\\. Каждая комната должна быть убрана перед работой."
 
 #. data/maps/cargo-ship/cabins2.json entities/67/settings/event/5/message #10
 #. EventTrigger messy START IF subevent.carla.messy.start && plot.line < 200
@@ -1830,7 +1828,7 @@ msgstr "Интересно, как этим парням удалось проп
 #: data/maps/cargo-ship/cabins2.json+entities/109/settings/npcStates/0/event/2/message+%2311
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/109/settings/npcStates/0/event/2/message"
 msgid "Can't... \\.talk... \\.must... \\.defeat... \\.respawning... \\. enemy!"
-msgstr "Не могу... \\.говорить... \\.должен... \\.уничтожить... \\.возрождающегося... \\. врага!"
+msgstr "Не могу... \\.говорить... \\.должен... \\.уничтожить... \\.возрождающегося... \\.врага!"
 
 #. data/maps/cargo-ship/cabins2.json entities/109/settings/npcStates/0/event/6/message #12
 #. NPC Felix
@@ -1999,7 +1997,7 @@ msgstr "Ой! Ты вернулась!"
 #: data/maps/cargo-ship/cabins2.json+entities/131/settings/npcStates/1/event/4/message+%23187
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/131/settings/npcStates/1/event/4/message"
 msgid "I didn't expect to see you again on this ship, to be honest."
-msgstr "Честно говоря, я не ожидал увидеть тебя снова на этом корабле."
+msgstr "Честно говоря, я не ожидал снова увидеть тебя на этом корабле."
 
 #. data/maps/cargo-ship/cabins2.json entities/131/settings/npcStates/1/event/5/message #188
 #. NPC
@@ -2061,7 +2059,7 @@ msgstr "Привет!"
 #. SHOW_MSG cargo-crew.male-short @DEFAULT
 #: data/maps/cargo-ship/cabins2.json+entities/131/settings/npcStates/2/event/3/message+%231247
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/131/settings/npcStates/2/event/3/message"
-msgid "Oh!\\. You're back the ship!\\. Haven't seen you for some time!"
+msgid "Oh!\\. You're back on the ship!\\. Haven't seen you for some time!"
 msgstr "О!\\. Ты снова на корабле!\\. Долго я тебя не видел!"
 
 #. data/maps/cargo-ship/cabins2.json entities/131/settings/npcStates/2/event/4/message #1248
@@ -2116,7 +2114,7 @@ msgstr "..."
 #: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/0/event/2/message+%2328
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/0/event/2/message"
 msgid "Hey there, Lea.\\. You better not keep the captain waiting."
-msgstr "Привет, Лея. Лучше не заставлять капитана ждать."
+msgstr "Привет, Лея.\\. Лучше не заставлять капитана ждать."
 
 #. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/0/event/4/message #29
 #. NPC carla
@@ -2134,7 +2132,7 @@ msgstr "Подожди, Карла... это твоя комната?"
 #: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/0/event/5/message+%2330
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/0/event/5/message"
 msgid "Sure is.\\. Something wrong with it?"
-msgstr "Конечно.\\. С ней что-то не так?"
+msgstr "Она самая.\\. С ней что-то не так?"
 
 #. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/0/event/6/message #31
 #. NPC carla
@@ -2161,7 +2159,7 @@ msgstr "..."
 #: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/0/event/8/message+%2333
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/0/event/8/message"
 msgid "Do what? "
-msgstr "Получилось что?"
+msgstr "Что получилось?"
 
 #. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/0/event/9/message #34
 #. NPC carla
@@ -2260,7 +2258,7 @@ msgstr "Тогда, я думаю, мы должны пойти туда..."
 #: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/1/event/2/message+%2344
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/1/event/2/message"
 msgid "Hey there, Lea.\\. You better not keep the Captain waiting."
-msgstr "Привет, Лея. Лучше не заставлять капитана ждать."
+msgstr "Привет, Лея.\\. Лучше не заставлять капитана ждать."
 
 #. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/1/event/3/message #45
 #. NPC carla
@@ -2323,7 +2321,7 @@ msgstr "[кивает]"
 #: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/7/event/5/message+%23196
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/7/event/5/message"
 msgid "Well I hope things are going fine in the Playground?"
-msgstr "Ну, я надеюсь, что в игровой зоне всё в порядке?"
+msgstr "Ну, я надеюсь, в игровой зоне всё в порядке?"
 
 #. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/7/event/6/message #197
 #. NPC carla
@@ -2332,7 +2330,7 @@ msgstr "Ну, я надеюсь, что в игровой зоне всё в п�
 #: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/7/event/6/message+%23197
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/7/event/6/message"
 msgid "Nothing too special happening here. Just shipping around stuff as usual."
-msgstr "Здесь-то ничего особенного не происходит. Просто плаваем неподалёку, как и всегда."
+msgstr "Здесь-то ничего особенного не происходит. Просто плаваем по разным местам, как всегда."
 
 #. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/2/message #1205
 #. NPC carla
@@ -2408,7 +2406,7 @@ msgstr "Что выяснил?"
 #. SHOW_MSG main.sergey @JOKING
 #: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/6/message+%231219
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/6/message"
-msgid "The reason why you can keep your room messy as it is, without Jet saying anything!"
+msgid "The reason why you can keep your room as messy as it is, without Jet saying anything!"
 msgstr "Причину, по которой ты можешь держать свою комнату в таком беспорядке, и Джет не говорит ни слова!"
 
 #. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/7/message #1220
@@ -2438,7 +2436,7 @@ msgstr "О Боже!\\. Эта старая история!"
 #. SHOW_MSG main.carla @UP_GRIN
 #: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/9/message+%231222
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/9/message"
-msgid "Damn, when was it when you asked me about it?"
+msgid "Damn, when was it you asked me about that?"
 msgstr "Чёрт, когда же ты меня об этом спрашивал?"
 
 #. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/10/message #1223
@@ -2448,7 +2446,7 @@ msgstr "Чёрт, когда же ты меня об этом спрашивал
 #. SHOW_MSG main.carla @SMUG
 #: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/10/message+%231223
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/10/message"
-msgid "Must have been ages ago!"
+msgid "Must've been ages ago!"
 msgstr "Наверное, сто лет назад!"
 
 #. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/11/message #1224
@@ -2458,7 +2456,7 @@ msgstr "Наверное, сто лет назад!"
 #. SHOW_MSG main.sergey @DRAMATIC
 #: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/11/message+%231224
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/11/message"
-msgid "Yes...\\. And I've never quite forgotten about it.\\. Even Jet himself wouldn't tell me why."
+msgid "Yes...\\. And I have never quite forgotten about it.\\. Even Jet himself would not tell me why."
 msgstr "Да...\\. И я никогда не забывал об этом.\\. Даже сам Джет не скажет мне почему."
 
 #. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/12/message #1225
@@ -2488,7 +2486,7 @@ msgstr "Ну, давай послушаем!\\. Что у меня за секр
 #. SHOW_MSG main.sergey @SERIOUS
 #: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/14/message+%231227
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/14/message"
-msgid "Jet... hates water.\\. He can't swim."
+msgid "Jet... hates water.\\. He cannot swim."
 msgstr "Джет... ненавидит воду.\\. Он не умеет плавать."
 
 #. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/15/message #1228
@@ -2508,8 +2506,8 @@ msgstr "..."
 #. SHOW_MSG main.sergey @THINKING
 #: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/16/message+%231229
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/16/message"
-msgid "That's why he's wearing that Jet pack all the time.\\. It suddenly all make sense."
-msgstr "Вот почему он всегда носит свой реактивный ранец.\\. Внезапно всё встало на свои места."
+msgid "That is why he wears that jetpack all the time.\\. It suddenly all makes sense."
+msgstr "Вот почему он всегда носит этот реактивный ранец.\\. Внезапно всё встало на свои места."
 
 #. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/17/message #1230
 #. NPC carla
@@ -2548,8 +2546,8 @@ msgstr "Конечно..."
 #. SHOW_MSG main.sergey @COMPLEX
 #: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/20/message+%231233
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/20/message"
-msgid "But...\\. do I really get this right?"
-msgstr "Но...\\. я действительно правильно понял?"
+msgid "But...\\. am I really understanding this correctly?"
+msgstr "Но...\\. я действительно правильно понимаю?"
 
 #. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/21/message #1234
 #. NPC carla
@@ -2558,8 +2556,8 @@ msgstr "Но...\\. я действительно правильно понял?"
 #. SHOW_MSG main.sergey @SERIOUS
 #: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/21/message+%231234
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/21/message"
-msgid "Do you actually blackmail Jet with this information?"
-msgstr "Ты в самом деле шантажируешь Джета этой информацией?"
+msgid "Did you actually blackmail Jet with this information?"
+msgstr "Ты в самом деле шантажировала Джета этой информацией?"
 
 #. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/22/message #1235
 #. NPC carla
@@ -2569,7 +2567,7 @@ msgstr "Ты в самом деле шантажируешь Джета этой
 #: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/22/message+%231235
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/22/message"
 msgid "Blackmailing?\\. Hell no!"
-msgstr "Шантажирую?\\. Да ни в коем случае!"
+msgstr "Шантажировала?\\. Да ни в коем случае!"
 
 #. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/23/message #1236
 #. NPC carla
@@ -2578,7 +2576,7 @@ msgstr "Шантажирую?\\. Да ни в коем случае!"
 #. SHOW_MSG main.carla @IRRITATED
 #: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/23/message+%231236
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/23/message"
-msgid "Really Sergey, for who do you take me..."
+msgid "Really Sergey, what do you take me for..."
 msgstr "Серьёзно, Сергей, за кого ты меня принимаешь..."
 
 #. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/24/message #1237
@@ -2598,7 +2596,7 @@ msgstr "Эмм..."
 #. SHOW_MSG main.carla @WHISTLING
 #: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/25/message+%231238
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/25/message"
-msgid "We simply found an agreement."
+msgid "We just found an agreement."
 msgstr "Мы просто пришли к соглашению."
 
 #. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/26/message #1239
@@ -2618,8 +2616,8 @@ msgstr "Я сказала ему, что мне нужно моё место в 
 #. SHOW_MSG main.carla @WHISTLING
 #: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/27/message+%231240
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/27/message"
-msgid "I wouldn't ask him to take off his Jet pack either, you see?\\. It actually is a bit of a safety hazard."
-msgstr "Я бы не стала просить его снять свой реактивный ранец, понимаешь?\\. Это ведь и правда в каком-то смысле мера предосторожности."
+msgid "And I wouldn't ask him to take off his jetpack either, you see?\\. It's actually a bit of a safety hazard."
+msgstr "Я не стала бы просить его снять свой реактивный ранец, понимаешь?\\. Это ведь и правда в каком-то смысле мера предосторожности."
 
 #. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/28/message #1241
 #. NPC carla
@@ -2668,7 +2666,7 @@ msgstr "..."
 #. SHOW_MSG main.carla @IRRITATED
 #: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/33/message+%231245
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/33/message"
-msgid "That Sergey never forgets, doesn't he?"
+msgid "That Sergey never forgets, does he?"
 msgstr "Этот Сергей никогда не забывает, да?"
 
 #. data/maps/cargo-ship/cabins2.json entities/135/settings/event/0/message #46
@@ -3005,7 +3003,7 @@ msgstr "...?!"
 #: data/maps/cargo-ship/cabins2.json+entities/141/settings/event/19/message+%2399
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/141/settings/event/19/message"
 msgid "Fortunately, that did not happen to you.\\. It seems you...\\. accepted the truth."
-msgstr "К счастью, этого не случилось с тобой.\\. Кажется, ты...\\. приняла правду."
+msgstr "К счастью, с тобой этого не случилось.\\. Кажется, ты...\\. приняла правду."
 
 #. data/maps/cargo-ship/cabins2.json entities/141/settings/event/20/message #100
 #. EventTrigger SergeyExposition2 START IF plot.line >= 15100
@@ -3333,7 +3331,7 @@ msgstr "Хм...."
 #: data/maps/cargo-ship/cabins2.json+entities/142/settings/event/43/message+%23166
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/142/settings/event/43/message"
 msgid "Man, that really is a lot to take in, y'know?"
-msgstr "Эх, это действительно сложно для понимания, врубаешься?"
+msgstr "Мда, это действительно сложно для понимания."
 
 #. data/maps/cargo-ship/cabins2.json entities/142/settings/event/44/message #167
 #. EventTrigger SergeyExposition3 START IF plot.line >= 15200
@@ -3381,7 +3379,7 @@ msgstr "Но хорошо, я не против."
 #: data/maps/cargo-ship/cabins2.json+entities/142/settings/event/52/message+%23172
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/142/settings/event/52/message"
 msgid "Great! Then how about you show Lea around a bit?"
-msgstr "Отлично! Тогда как насчёт того, чтобы ты провёл для Леи небольшую экскурсию?"
+msgstr "Отлично! Тогда как насчёт того, чтобы вы провели для Леи небольшую экскурсию?"
 
 #. data/maps/cargo-ship/cabins2.json entities/142/settings/event/53/message #173
 #. EventTrigger SergeyExposition3 START IF plot.line >= 15200
@@ -3821,7 +3819,7 @@ msgstr "..."
 #: data/maps/cargo-ship/cabins2.json+entities/145/settings/event/148/message+%231193
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/145/settings/event/148/message"
 msgid "You are probably tired.\\. It has been a long day for you, correct?"
-msgstr "Похоже, ты устала.\\. Это был тяжёлый день для тебя, не так ли?"
+msgstr "Похоже, ты устала.\\. У тебя выдался тяжёлый день, не так ли?"
 
 #. data/maps/cargo-ship/cabins2.json entities/145/settings/event/149/message #1194
 #. EventTrigger LeaRevisitsPostGame START IF tmp.leaVisitsAgain
@@ -4385,7 +4383,7 @@ msgstr "Кстати, Карла только что прошла мимо на�
 #: data/maps/cargo-ship/ground.json+entities/42/settings/event/14/message+%2335
 msgctxt "data/maps/cargo-ship/ground.json//entities/42/settings/event/14/message"
 msgid "She told us that you could take care of all these boxes here."
-msgstr "Она сказала нам, что ты сможешь помочь нам с этими ящиками."
+msgstr "Она сказала, что ты сможешь помочь нам с этими ящиками."
 
 #. data/maps/cargo-ship/ground.json entities/42/settings/event/15/message #36
 #. EventTrigger doCarlasWork START IF plot.line >= 160
@@ -4393,7 +4391,7 @@ msgstr "Она сказала нам, что ты сможешь помочь н
 #: data/maps/cargo-ship/ground.json+entities/42/settings/event/15/message+%2336
 msgctxt "data/maps/cargo-ship/ground.json//entities/42/settings/event/15/message"
 msgid "I mean, really, can you believe that woman?\\. Now she's loading off her work on our guests."
-msgstr "Ну серьёзно, ты можешь в это поверить?\\. Она грузит своей работой наших гостей."
+msgstr "Ну серьёзно, ты можешь в это поверить?\\. Теперь она ещё и гостей грузит своей работой."
 
 #. data/maps/cargo-ship/ground.json entities/42/settings/event/16/message #37
 #. EventTrigger doCarlasWork START IF plot.line >= 160
@@ -4506,7 +4504,7 @@ msgstr "Ну, это определённо работает!"
 #: data/maps/cargo-ship/ground.json+entities/44/settings/event/8/message+%2350
 msgctxt "data/maps/cargo-ship/ground.json//entities/44/settings/event/8/message"
 msgid "All cleared!\\. Truly amazing!"
-msgstr "Всё очищено!\\. Поистине удивительно!"
+msgstr "Всё очищено!\\. Действительно потрясающе!"
 
 #. data/maps/cargo-ship/ground.json entities/44/settings/event/9/message #51
 #. EventTrigger AllDestroyed START IF map.boxesRemoved >= 18
@@ -4554,7 +4552,7 @@ msgstr "Шары и их воздействие, они, типа... вирту�
 #: data/maps/cargo-ship/ground.json+entities/44/settings/event/19/message+%2356
 msgctxt "data/maps/cargo-ship/ground.json//entities/44/settings/event/19/message"
 msgid "I see... so that's why you've been wearing those goofy glasses all day."
-msgstr "Понятно... так вот почему ты носишь эти дурацкие очки весь день."
+msgstr "Понятно... так вот почему ты весь день носишь эти дурацкие очки."
 
 #. data/maps/cargo-ship/ground.json entities/44/settings/event/20/message #57
 #. EventTrigger AllDestroyed START IF map.boxesRemoved >= 18
@@ -5966,7 +5964,7 @@ msgstr "Только убедись, что бросаешь шары с той 
 #: data/maps/cargo-ship/room1.json+entities/39/settings/npcStates/4/event/3/0/2/elseStep/0/elseStep/1/message+%2343
 msgctxt "data/maps/cargo-ship/room1.json//entities/39/settings/npcStates/4/event/3/0/2/elseStep/0/elseStep/1/message"
 msgid "Really?\\. You can't figure this one out?"
-msgstr "Серьёзно?\\. Не можешь с этим разобраться?"
+msgstr "Серьёзно?\\. Ты не можешь с этим разобраться?"
 
 #. data/maps/cargo-ship/room1.json entities/39/settings/npcStates/4/event/3/0/2/elseStep/0/elseStep/2/message #44
 #. NPC carla
@@ -6073,7 +6071,7 @@ msgstr "И не обращай на меня внимания! Я просто �
 #: data/maps/cargo-ship/room1.json+entities/51/settings/event/19/message+%2355
 msgctxt "data/maps/cargo-ship/room1.json//entities/51/settings/event/19/message"
 msgid "Well... I might give you some hints. If you ask nicely, y'know?"
-msgstr "Ну... Я могла бы дать несколько подсказок. Если ты вежливо попросишь."
+msgstr "Ну... ещё могу дать несколько подсказок. Если ты вежливо попросишь."
 
 #. data/maps/cargo-ship/room1.json entities/51/settings/event/20/message #56
 #. EventTrigger intro
@@ -6102,7 +6100,7 @@ msgstr ""
 #: data/maps/cargo-ship/room1.json+entities/80/settings/event/13/message+%2358
 msgctxt "data/maps/cargo-ship/room1.json//entities/80/settings/event/13/message"
 msgid "Damn, how're we gonna pass this one?!"
-msgstr "Проклятье, как же нам пройти мимо этого?!"
+msgstr "Чёрт, как же нам пройти мимо этого?!"
 
 #. data/maps/cargo-ship/room1.json entities/80/settings/event/14/thenStep/0/message #66
 #. EventTrigger ShreddersGo START IF plot.line >= 700 && tmp.shreddersStart
@@ -6475,7 +6473,7 @@ msgstr "Ч-Ч-Чтооооо?!"
 #: data/maps/cargo-ship/room2.json+entities/86/settings/event/0/thenStep/0/thenStep/1/message+%2334
 msgctxt "data/maps/cargo-ship/room2.json//entities/86/settings/event/0/thenStep/0/thenStep/1/message"
 msgid "Hold on!\\. W-What is this damage?!"
-msgstr "Погоди!\\. Откуда столько урона?!"
+msgstr "Погоди!\\. О-Откуда столько урона?!"
 
 #. data/maps/cargo-ship/room2.json entities/86/settings/event/0/thenStep/0/thenStep/2/message #45
 #. EventTrigger reflecting on damage START IF plot.line >= 30 && tmp.mouseKill
@@ -7100,7 +7098,7 @@ msgstr "Да!!\\. Это было потрясающе, подруга!\\. Се�
 #: data/maps/cargo-ship/room4.json+entities/42/settings/event/7/message+%236
 msgctxt "data/maps/cargo-ship/room4.json//entities/42/settings/event/7/message"
 msgid "Yeah, that sure takes me back."
-msgstr "Ага, это мне кое-что напомнило."
+msgstr "Ага, я будто в прошлое вернулся."
 
 #. data/maps/cargo-ship/room4.json entities/42/settings/event/8/message #7
 #. EventTrigger allDone START IF map.wave3Pre
@@ -7222,7 +7220,7 @@ msgstr "Рывок имеет важное значение в бою, поск�
 #: data/maps/cargo-ship/room4.json+entities/50/settings/event/22/message+%2320
 msgctxt "data/maps/cargo-ship/room4.json//entities/50/settings/event/22/message"
 msgid "Right he is!\\. Now please enter to the right in order to proceed with the ass kicking."
-msgstr "А он прав!\\. Теперь, пожалуйста, иди направо, чтобы приступить к надиранию задниц."
+msgstr "А он прав!\\. Теперь, пожалуйста, пройди направо, чтобы приступить к надиранию задниц."
 
 #. data/maps/cargo-ship/room4.json entities/50/settings/event/25/guiInfo/settings/text #21
 #. EventTrigger CarlaEnter START IF map.carlaEnter
@@ -7395,7 +7393,7 @@ msgstr "..."
 #: data/maps/cargo-ship/room5.json+entities/40/settings/event/10/message+%2312
 msgctxt "data/maps/cargo-ship/room5.json//entities/40/settings/event/10/message"
 msgid "Yeah yeah I know,\\. a second waited is an attack wasted. "
-msgstr "Да-да, я знаю,\\. секунду промедлишь и упустишь атаку."
+msgstr "Да-да, знаю,\\. секунду промедлишь и упустишь атаку."
 
 #. data/maps/cargo-ship/room5.json entities/40/settings/event/12/message #13
 #. EventTrigger fight1prep START IF map.fight1prep
@@ -7403,7 +7401,7 @@ msgstr "Да-да, я знаю,\\. секунду промедлишь и упу
 #: data/maps/cargo-ship/room5.json+entities/40/settings/event/12/message+%2313
 msgctxt "data/maps/cargo-ship/room5.json//entities/40/settings/event/12/message"
 msgid "Still,\\. you should know that your strikes have enough punch to interrupt some attacks."
-msgstr "Всё же,\\. ты должна знать, что твои удары имеют достаточную силу, чтобы прервать некоторые виды атак."
+msgstr "Всё же,\\. ты должна знать, что в твоих ударах достаточно силы, чтобы прервать некоторые виды атак."
 
 #. data/maps/cargo-ship/room5.json entities/40/settings/event/13/message #14
 #. EventTrigger fight1prep START IF map.fight1prep
@@ -8085,7 +8083,7 @@ msgstr "Да, прости...\\. я просто тогда был слишко�
 #. SHOW_MSG cargo-crew.male-short-blue @DEFAULT
 #: data/maps/cargo-ship/ship.json+entities/82/settings/npcStates/2/event/16/message+%231001
 msgctxt "data/maps/cargo-ship/ship.json//entities/82/settings/npcStates/2/event/16/message"
-msgid "I tend to get absorbed in my task like that..."
+msgid "I tend to get absorbed in my tasks like that..."
 msgstr "Вот настолько сильно я обычно погружаюсь в работу..."
 
 #. data/maps/cargo-ship/ship.json entities/82/settings/npcStates/2/event/17/message #1002
@@ -8716,7 +8714,7 @@ msgstr "Ну...\\. Если честно, большинство из этого
 #. SHOW_MSG cargo-crew.male-bald @DEFAULT
 #: data/maps/cargo-ship/ship.json+entities/86/settings/npcStates/2/event/10/message+%231030
 msgctxt "data/maps/cargo-ship/ship.json//entities/86/settings/npcStates/2/event/10/message"
-msgid "Still, I could have sworn our captain strictly banned any running Instantmatter on deck ever since."
+msgid "Still, I could have sworn our captain strictly banned any running instant matter on deck ever since."
 msgstr "Всё же, я могу поклясться, что наш капитан жёстко запретил любую бегающую мнимую материю на палубе после этого."
 
 #. data/maps/cargo-ship/ship.json entities/86/settings/npcStates/2/event/11/message #1031
@@ -8771,7 +8769,7 @@ msgstr "..."
 #: data/maps/cargo-ship/ship.json+entities/91/settings/npcStates/0/event/5/message+%2363
 msgctxt "data/maps/cargo-ship/ship.json//entities/91/settings/npcStates/0/event/5/message"
 msgid "Oh right, I remember now.\\. You're that pseudo-robot thing."
-msgstr "Ах, точно, теперь вспомнил.\\. Ты тот псевдо-робот."
+msgstr "А, точно, теперь вспомнил.\\. Ты тот псевдо-робот."
 
 #. data/maps/cargo-ship/ship.json entities/91/settings/npcStates/0/event/6/message #64
 #. NPC twatcake
@@ -8932,7 +8930,7 @@ msgstr "Ага...\\. весёлые времена."
 #. SHOW_MSG cargo-crew.male-tall-blue @DEFAULT
 #: data/maps/cargo-ship/ship.json+entities/91/settings/npcStates/6/event/10/message+%231011
 msgctxt "data/maps/cargo-ship/ship.json//entities/91/settings/npcStates/6/event/10/message"
-msgid "So guess what?\\. They recently had a breakthrough with Instantmatter research."
+msgid "So guess what?\\. They recently had a breakthrough with instant matter research."
 msgstr "Так знаешь что?\\. Недавно был прорыв в исследовании мнимой материи."
 
 #. data/maps/cargo-ship/ship.json entities/91/settings/npcStates/6/event/11/message #1012
@@ -9439,7 +9437,7 @@ msgstr "А теперь, подруга, взгляни на это!"
 #: data/maps/cargo-ship/ship.json+entities/125/settings/event/4/message+%2396
 msgctxt "data/maps/cargo-ship/ship.json//entities/125/settings/event/4/message"
 msgid "Well, I guess this cleared up some things at least, right?"
-msgstr "Ладно, надеюсь, я прояснила для тебя хотя бы некоторые вещи, да?"
+msgstr "Ладно, надеюсь, я прояснила для тебя хотя бы некоторые вещи?"
 
 #. data/maps/cargo-ship/ship.json entities/125/settings/event/5/message #97
 #. EventTrigger Rhombus Square View 2 START IF plot.rhombus-seen
@@ -9447,7 +9445,7 @@ msgstr "Ладно, надеюсь, я прояснила для тебя хот
 #: data/maps/cargo-ship/ship.json+entities/125/settings/event/5/message+%2397
 msgctxt "data/maps/cargo-ship/ship.json//entities/125/settings/event/5/message"
 msgid "Alright then, I think this is a good time to split."
-msgstr "Ну что ж, тогда, я думаю, самое время разделиться."
+msgstr "Ну что ж, тогда, думаю, самое время разделиться."
 
 #. data/maps/cargo-ship/ship.json entities/125/settings/event/6/message #98
 #. EventTrigger Rhombus Square View 2 START IF plot.rhombus-seen
@@ -9455,7 +9453,7 @@ msgstr "Ну что ж, тогда, я думаю, самое время раз�
 #: data/maps/cargo-ship/ship.json+entities/125/settings/event/6/message+%2398
 msgctxt "data/maps/cargo-ship/ship.json//entities/125/settings/event/6/message"
 msgid "I'm gonna go talk to the captain and try to set up that combat lesson for you."
-msgstr "Я собираюсь поговорить с капитаном, попробую организовать для тебя тренировку."
+msgstr "Я пойду поговорю с капитаном и попробую организовать для тебя тренировку."
 
 #. data/maps/cargo-ship/ship.json entities/125/settings/event/7/message #99
 #. EventTrigger Rhombus Square View 2 START IF plot.rhombus-seen
@@ -9479,7 +9477,7 @@ msgstr "Экипажу известно о тебе.\\. Ты, наверное, 
 #: data/maps/cargo-ship/ship.json+entities/125/settings/event/9/message+%23101
 msgctxt "data/maps/cargo-ship/ship.json//entities/125/settings/event/9/message"
 msgid "You can meet me and the captain later."
-msgstr "Ты можешь встретиться со мной и капитаном позже."
+msgstr "Можешь встретиться со мной и капитаном позже."
 
 #. data/maps/cargo-ship/ship.json entities/125/settings/event/10/message #102
 #. EventTrigger Rhombus Square View 2 START IF plot.rhombus-seen
@@ -9519,7 +9517,7 @@ msgstr "..."
 #: data/maps/cargo-ship/ship.json+entities/125/settings/event/23/message+%23106
 msgctxt "data/maps/cargo-ship/ship.json//entities/125/settings/event/23/message"
 msgid "However, I found a little workaround."
-msgstr "Однако, у меня есть временное решение."
+msgstr "Однако у меня есть временное решение."
 
 #. data/maps/cargo-ship/ship.json entities/125/settings/event/24/message #107
 #. EventTrigger Rhombus Square View 2 START IF plot.rhombus-seen
@@ -9636,7 +9634,7 @@ msgstr "[кивает]"
 #: data/maps/cargo-ship/ship.json+entities/126/settings/npcStates/1/event/3/0/1/message+%23120
 msgctxt "data/maps/cargo-ship/ship.json//entities/126/settings/npcStates/1/event/3/0/1/message"
 msgid "That's what I like to hear! Let the battle begin!"
-msgstr "Это то, что я хотел услышать. Да начнётся битва!"
+msgstr "Это мне и хотелось услышать. Да начнётся битва!"
 
 #. data/maps/cargo-ship/ship.json entities/126/settings/npcStates/1/event/3/1/0/message #121
 #. NPC captain
@@ -10248,7 +10246,7 @@ msgstr "Во-первых, \\c[3]сфокусируйся\\c[0] на турел�
 #: data/maps/cargo-ship/ship.json+entities/129/settings/event/12/elseStep/102/1/30/message+%23185
 msgctxt "data/maps/cargo-ship/ship.json//entities/129/settings/event/12/elseStep/102/1/30/message"
 msgid "Second, \\c[3]dodge\\c[0] the turret's bullets \\c[3]without losin' yer aim\\c[0]."
-msgstr "Во-вторых, \\c[3]уклонись\\c[0] от выстрелов турели, \\c[3]не теряя фокусировки\\c[0]."
+msgstr "Во-вторых, \\c[3]уклонись\\c[0] от выстрелов турели, \\c[3]не теряя фокуса\\c[0]."
 
 #. data/maps/cargo-ship/ship.json entities/129/settings/event/12/elseStep/102/1/31/message #186
 #. EventTrigger 10hit-end START IF tmp.turrentHit >= 10
@@ -11151,7 +11149,7 @@ msgstr "Но ты знаешь, это может быть просто изли
 #: data/maps/cargo-ship/ship.json+entities/143/settings/npcStates/4/event/quest/91/message+%23363
 msgctxt "data/maps/cargo-ship/ship.json//entities/143/settings/npcStates/4/event/quest/91/message"
 msgid "Maybe they can potentially take even more water than that."
-msgstr "Может быть, потенциально они могут выдержать больше воды."
+msgstr "Возможно, в теории они могут выдержать больше воды."
 
 #. data/maps/cargo-ship/ship.json entities/143/settings/npcStates/4/event/quest/92/message #364
 #. NPC avatarFan
@@ -11169,7 +11167,7 @@ msgstr "..."
 #: data/maps/cargo-ship/ship.json+entities/143/settings/npcStates/4/event/quest/93/message+%23365
 msgctxt "data/maps/cargo-ship/ship.json//entities/143/settings/npcStates/4/event/quest/93/message"
 msgid "That may be, but we can't test this now, can we?"
-msgstr "Возможно, но мы же не можем проверить это прямо сейчас, правда?"
+msgstr "Может быть и так, но мы же не можем проверить это прямо сейчас."
 
 #. data/maps/cargo-ship/ship.json entities/143/settings/npcStates/4/event/quest/94/message #366
 #. NPC avatarFan
@@ -11178,7 +11176,7 @@ msgstr "Возможно, но мы же не можем проверить эт
 #: data/maps/cargo-ship/ship.json+entities/143/settings/npcStates/4/event/quest/94/message+%23366
 msgctxt "data/maps/cargo-ship/ship.json//entities/143/settings/npcStates/4/event/quest/94/message"
 msgid "That's true."
-msgstr "Верно."
+msgstr "И правда."
 
 #. data/maps/cargo-ship/ship.json entities/143/settings/npcStates/4/event/quest/101/message #367
 #. NPC avatarFan
@@ -12713,7 +12711,7 @@ msgstr "Так точно, Кэп!"
 #: data/maps/cargo-ship/ship.json+entities/153/settings/event/70/message+%23295
 msgctxt "data/maps/cargo-ship/ship.json//entities/153/settings/event/70/message"
 msgid "Follow me, girl!"
-msgstr "Следуй за мной, подруга!"
+msgstr "За мной, подруга!"
 
 #. data/maps/cargo-ship/ship.json entities/154/settings/dialog/0/text #297
 #. XenoDialog DudesTalking SPAWN IF plot.line < 15000
@@ -12869,7 +12867,7 @@ msgstr "Но он едва нас не достал."
 #: data/maps/cargo-ship/ship.json+entities/167/settings/event/32/message+%23314
 msgctxt "data/maps/cargo-ship/ship.json//entities/167/settings/event/32/message"
 msgid "There are probably some enemies left down in the cargo hold."
-msgstr "Возможно, что в грузовом отсеке остались некоторые враги."
+msgstr "Возможно, что в грузовом отсеке осталось несколько врагов."
 
 #. data/maps/cargo-ship/ship.json entities/167/settings/event/36/message #315
 #. EventTrigger BombScene START IF plot.line >= 800
@@ -13468,8 +13466,8 @@ msgstr "\\s[6]Огоооооооооо!"
 #. SHOW_MSG main.glasses @SHOCKED
 #: data/maps/cargo-ship/ship.json+entities/183/settings/event/108/message+%23961
 msgctxt "data/maps/cargo-ship/ship.json//entities/183/settings/event/108/message"
-msgid "D-\\.Do you really think this'll work?!\n"
-msgstr "В-\\.вы правда думаете, что это сработает?!"
+msgid "D-\\.Do you really think this will work?!\n"
+msgstr "В-\\.Вы правда думаете, что это сработает?!"
 
 #. data/maps/cargo-ship/ship.json entities/183/settings/event/110/message #962
 #. EventTrigger OffToEvoGround START IF plot.line >= 48600
@@ -13500,8 +13498,8 @@ msgstr "Сергей, я надеюсь, это не станет обычным
 #. SHOW_MSG main.sergey-av @SERIOUS
 #: data/maps/cargo-ship/ship.json+entities/187/settings/event/22/message+%23971
 msgctxt "data/maps/cargo-ship/ship.json//entities/187/settings/event/22/message"
-msgid "No, I promised this is an exception..."
-msgstr "Нет, я обещал, что это исключение..."
+msgid "No, I promise this is an exception..."
+msgstr "Нет, я обещаю, что это исключение..."
 
 #. data/maps/cargo-ship/ship.json entities/187/settings/event/30/message #970
 #. EventTrigger Outro Start START IF plot.line >= 51400
@@ -13598,7 +13596,7 @@ msgstr "Чувак...\\. ты безнадёжен."
 #: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/16/thenStep/0/text+%23162
 msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/16/thenStep/0/text"
 msgid "Do you want to be \\c[3]Manlea\\c[0]?"
-msgstr ""
+msgstr "Вы хотите быть \\c[3]Манлеей\\c[0]?"
 
 #. data/maps/cargo-ship/teleporter.json entities/12/settings/event/16/thenStep/0/options/0/label #163
 #. EventTrigger start START IF true
@@ -13607,7 +13605,7 @@ msgstr ""
 #: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/16/thenStep/0/options/0/label+%23163
 msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/16/thenStep/0/options/0/label"
 msgid "YES!"
-msgstr ""
+msgstr "ДА!"
 
 #. data/maps/cargo-ship/teleporter.json entities/12/settings/event/16/thenStep/0/options/1/label #164
 #. EventTrigger start START IF true
@@ -13616,7 +13614,7 @@ msgstr ""
 #: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/16/thenStep/0/options/1/label+%23164
 msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/16/thenStep/0/options/1/label"
 msgid "No..."
-msgstr ""
+msgstr "Нет..."
 
 #. data/maps/cargo-ship/teleporter.json entities/12/settings/event/31/text #3
 #. EventTrigger start START IF true
@@ -13656,7 +13654,7 @@ msgstr "..."
 #: data/maps/cargo-ship/teleporter.json+entities/12/settings/event/48/message+%237
 msgctxt "data/maps/cargo-ship/teleporter.json//entities/12/settings/event/48/message"
 msgid "Oh, is the speech synchronization malfunctioning?"
-msgstr "Ох, синхронизация речи неисправна?"
+msgstr "Ой, синхронизация речи неисправна?"
 
 #. data/maps/cargo-ship/teleporter.json entities/12/settings/event/49/message #8
 #. EventTrigger start START IF true
@@ -14018,7 +14016,7 @@ msgstr "Очень хорошо."
 #: data/maps/cargo-ship/teleporter.json+entities/21/settings/event/8/message+%2342
 msgctxt "data/maps/cargo-ship/teleporter.json//entities/21/settings/event/8/message"
 msgid "Ok, next let us enable the Charge Mode."
-msgstr "Так, давай включим Режим заряда."
+msgstr "Так, теперь давай включим Режим заряда."
 
 #. data/maps/cargo-ship/teleporter.json entities/21/settings/event/12/object #43
 #. EventTrigger thirdRound START IF plot.line = 2 && map.hitCounter >= 8
@@ -14230,9 +14228,7 @@ msgctxt "data/maps/cargo-ship/teleporter.json//entities/28/settings/event/43/mes
 msgid ""
 "Apparently there is an issue with her speech synchronization.\\. \n"
 "She still understands us, though."
-msgstr ""
-"Видимо, есть проблема с её речевой синхронизацией.\\.\n"
-"Однако она нас понимает."
+msgstr "По-видимому, с её речевой синхронизацией есть какая-то проблема.\\. Однако она нас понимает."
 
 #. data/maps/cargo-ship/teleporter.json entities/28/settings/event/45/message #67
 #. EventTrigger done START IF plot.line = 3 && map.hitCounter >= 1
@@ -14421,7 +14417,7 @@ msgstr "..."
 #: data/maps/cargo-ship/teleporter.json+entities/85/settings/event/10/message+%2388
 msgctxt "data/maps/cargo-ship/teleporter.json//entities/85/settings/event/10/message"
 msgid "C'mon sweetie, this isn't the time for tearful goodbyes.\n"
-msgstr "Перестань, милая, сейчас не подходящее время для слёзных прощаний."
+msgstr "Перестань, милая, сейчас не время для слёзных прощаний."
 
 #. data/maps/cargo-ship/teleporter.json entities/85/settings/event/58/message #89
 #. EventTrigger escapeCargoship START IF plot.line >= 700

@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.4.1-2\n"
+"Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-14 01:09+0000\n"
-"POT-Revision-Date: 2021-04-14 01:09+0000\n"
+"POT-Creation-Date: 2022-01-11 15:55+0000\n"
+"POT-Revision-Date: 2022-01-11 15:55+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0\n"
+"X-Generator: crosscode-localization-engine 0.0.0 (2168d54 2022-01-11)\n"
 
 #. data/areas/autumn-fall.json name #1
 #: data/areas/autumn-fall.json+name+%231
@@ -832,7 +832,7 @@ msgstr "Йо, как дела?"
 #: data/maps/autumn-fall/path-03.json+entities/704/settings/npcStates/0/event/3/thenStep/0/message+%23290
 msgctxt "data/maps/autumn-fall/path-03.json//entities/704/settings/npcStates/0/event/3/thenStep/0/message"
 msgid "I see you got the \\c[3]\\v[item.410.name]\\c[0] with you! Nice, nice!"
-msgstr "Я вижу, что у тебя есть \\c[3]Тень звезды\\c[0] с собой! Круто, круто!"
+msgstr "Я вижу, что у тебя есть \\c[3]Тень звезды\\c[0]! Круто, круто!"
 
 #. data/maps/autumn-fall/path-03.json entities/704/settings/npcStates/0/event/3/thenStep/1/message #291
 #. NPC
@@ -863,7 +863,7 @@ msgstr "Подожди... что он сказал?"
 #: data/maps/autumn-fall/path-03.json+entities/704/settings/npcStates/0/event/3/elseStep/0/message+%23292
 msgctxt "data/maps/autumn-fall/path-03.json//entities/704/settings/npcStates/0/event/3/elseStep/0/message"
 msgid "If you want to pass the barrier up ahead you first have to collect the \\c[3]\\v[item.410.name]\\c[0]."
-msgstr "Сначала ты должна получить \\c[3]Тень звезды\\c[0], если хочешь преодолеть барьер впереди."
+msgstr "Если ты хочешь пройти через барьер впереди, то сначала должна получить \\c[3]Тень звезды\\c[0]."
 
 #. data/maps/autumn-fall/path-03.json entities/704/settings/npcStates/0/event/3/elseStep/1/message #293
 #. NPC
@@ -883,7 +883,7 @@ msgstr "Ты получишь её в конце подземелья \\c[3]Гр
 #: data/maps/autumn-fall/path-03.json+entities/704/settings/npcStates/0/event/3/elseStep/2/message+%23199
 msgctxt "data/maps/autumn-fall/path-03.json//entities/704/settings/npcStates/0/event/3/elseStep/2/message"
 msgid "If you've already finished the dungeon... just revisit the \\c[3]final boss room\\c[0]. I'm sure you'll find the shades somewhere in there."
-msgstr "Если ты уже закончила это подземелье... просто посети \\c[3]комнату с последним боссом\\c[0]. Я уверен, что ты найдёшь Тени где-то там."
+msgstr "Если ты уже закончила это подземелье... просто посети \\c[3]комнату с последним боссом\\c[0]. Я уверен, что ты найдёшь Тень где-то там."
 
 #. data/maps/autumn-fall/path-03.json entities/704/settings/npcStates/0/event/3/elseStep/3/message #202
 #. NPC
@@ -1440,7 +1440,7 @@ msgstr "Лея!"
 #: data/maps/autumn-fall/path-04.json+entities/711/settings/event/23/thenStep/2/message+%23742
 msgctxt "data/maps/autumn-fall/path-04.json//entities/711/settings/event/23/thenStep/2/message"
 msgid "That's true."
-msgstr "Верно."
+msgstr "И правда."
 
 #. data/maps/autumn-fall/path-04.json entities/711/settings/event/23/elseStep/0/message #64
 #. EventTrigger meetup START IF tmp.meetup
@@ -5404,7 +5404,7 @@ msgstr "Избиение моих братьев по искусственном
 #. SHOW_SIDE_MSG main.emilie @CURIOUS
 #: data/maps/autumn-fall/raid/raid-03.json+entities/577/settings/event/8/message+%2376
 msgctxt "data/maps/autumn-fall/raid/raid-03.json//entities/577/settings/event/8/message"
-msgid "AI colleages?\\. You mean those pillars?"
+msgid "AI colleagues?\\. You mean those pillars?"
 msgstr "Братья по искусственному разуму?\\. Ты об этих столбах?"
 
 #. data/maps/autumn-fall/raid/raid-03.json entities/577/settings/event/9/message #77
@@ -6440,7 +6440,7 @@ msgstr "\\c[3]Лея\\c[0]!!!"
 #. SHOW_SIDE_MSG main.luke @SKEPTICAL
 #: data/maps/autumn-fall/raid/raid-boss.json+entities/81/settings/event/4/thenStep/2/thenStep/1/message+%2350
 msgctxt "data/maps/autumn-fall/raid/raid-boss.json//entities/81/settings/event/4/thenStep/2/thenStep/1/message"
-msgid "Lea means \\c[3]left most\\c[0]! For the \\c[3]Shock turret!\\c[0]"
+msgid "Lea means \\c[3]leftmost\\c[0]! For the \\c[3]Shock turret!\\c[0]"
 msgstr "Лея имеет в виду \\c[3]крайний слева\\c[0]! Для \\c[3]шоковой турели\\c[0]!"
 
 #. data/maps/autumn-fall/raid/raid-boss.json entities/81/settings/event/5/thenStep/0/thenStep/0/thenStep/0/message #3
@@ -6558,7 +6558,7 @@ msgstr "\\c[3]Волновую турель направо\\c[0]!"
 #. SHOW_SIDE_MSG main.emilie @HAPPY
 #: data/maps/autumn-fall/raid/raid-boss.json+entities/81/settings/event/5/thenStep/1/thenStep/0/message+%2351
 msgctxt "data/maps/autumn-fall/raid/raid-boss.json//entities/81/settings/event/5/thenStep/1/thenStep/0/message"
-msgid "\\c[3]Wave turret\\c[0] to the \\c[3]right most pillar\\c[0]!"
+msgid "\\c[3]Wave turret\\c[0] to the \\c[3]rightmost pillar\\c[0]!"
 msgstr "\\c[3]Волновую турель\\c[0] в \\c[3]самый правый столб\\c[0]!"
 
 #. data/maps/autumn-fall/raid/raid-boss.json entities/82/settings/event/2/thenStep/0/thenStep/0/message #35
@@ -7107,7 +7107,7 @@ msgstr "Простите, что я угнетаю ваше веселье св�
 #. SHOW_MSG main.buggy @UP
 #: data/maps/autumn-fall/raid/raid-end.json+entities/139/settings/event/99/message+%2327
 msgctxt "data/maps/autumn-fall/raid/raid-end.json//entities/139/settings/event/99/message"
-msgid "It's fine, man!\\. All that fun couldn't possible be rained out just by you."
+msgid "It's fine, man!\\. All that fun couldn't possibly be damped just by you."
 msgstr "Всё нормально, приятель!\\. Тебя одного не хватит, чтобы заглушить всё это веселье."
 
 #. data/maps/autumn-fall/raid/raid-end.json entities/139/settings/event/100/message #29
@@ -7147,7 +7147,7 @@ msgstr "...!"
 #. SHOW_MSG main.schneider @DEFAULT
 #: data/maps/autumn-fall/raid/raid-end.json+entities/139/settings/event/111/message+%2331
 msgctxt "data/maps/autumn-fall/raid/raid-end.json//entities/139/settings/event/111/message"
-msgid "We're not in a rush.\\. Let's just have a sit somewhere."
+msgid "We're not in a rush.\\. Let's just have a seat somewhere."
 msgstr "Мы не торопимся.\\. Давайте найдём место, где присесть."
 
 #. data/maps/autumn-fall/raid/raid-end.json entities/139/settings/event/113/message #32
@@ -7419,7 +7419,7 @@ msgstr "Хотя, честно говоря..."
 #. SHOW_MSG main.luke @COMPLAINING
 #: data/maps/autumn-fall/raid/raid-end.json+entities/139/settings/event/183/message+%2368
 msgctxt "data/maps/autumn-fall/raid/raid-end.json//entities/139/settings/event/183/message"
-msgid "Why'd nobody tell me this before?"
+msgid "Why'd nobody told me this before?"
 msgstr "Почему мне никто не сказал об этом раньше?"
 
 #. data/maps/autumn-fall/raid/raid-end.json entities/139/settings/event/185/message #69

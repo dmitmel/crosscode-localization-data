@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.4.1-2\n"
+"Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-14 01:09+0000\n"
-"POT-Revision-Date: 2021-04-14 01:09+0000\n"
+"POT-Creation-Date: 2022-01-11 15:55+0000\n"
+"POT-Revision-Date: 2022-01-11 15:55+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0\n"
+"X-Generator: crosscode-localization-engine 0.0.0 (2168d54 2022-01-11)\n"
 
 #. data/areas/bergen.json name #1
 #: data/areas/bergen.json+name+%231
@@ -53,7 +53,7 @@ msgstr "Подвал Златарей"
 #: data/areas/bergen.json+floors/0/maps/4/name+%2387
 msgctxt "data/areas/bergen.json//floors/0/maps/4/name"
 msgid "Cave of Ascension"
-msgstr "Пещера восхождения"
+msgstr "Пещера вознесения"
 
 #. data/areas/bergen.json floors/1/name #2
 #: data/areas/bergen.json+floors/1/name+%232
@@ -179,7 +179,7 @@ msgstr "Шахтёрский лифт G"
 #: data/areas/bergen.json+floors/1/maps/19/name+%2366
 msgctxt "data/areas/bergen.json//floors/1/maps/19/name"
 msgid "Cave of Progression"
-msgstr "Пещера прогрессии"
+msgstr "Пещера прогресса"
 
 #. data/maps/bergen/bergen.json entities/281/settings/interact/hoverText #5
 #. Prop
@@ -1102,7 +1102,7 @@ msgstr "...!"
 #: data/maps/bergen/bergen.json+entities/836/settings/npcStates/4/event/quest/24/message+%23120
 msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/4/event/quest/24/message"
 msgid "Is something the matter?"
-msgstr "Что-то случилось?"
+msgstr "Что-то не так?"
 
 #. data/maps/bergen/bergen.json entities/836/settings/npcStates/4/event/quest/25/message #121
 #. NPC holiday-man
@@ -1562,7 +1562,7 @@ msgstr "[кивает]"
 #: data/maps/bergen/bergen.json+entities/861/settings/event/7/elseStep/2/message+%23154
 msgctxt "data/maps/bergen/bergen.json//entities/861/settings/event/7/elseStep/2/message"
 msgid "Hm, would you call this a snow village?\\. I mean it's a village and there is snow..."
-msgstr "Хм, ты бы назвала это снежной деревней?\\. Я имею в виду, что это деревня и здесь снег..."
+msgstr "Хм, ты бы назвала это снежной деревней?\\. Как бы, это деревня, и здесь снег..."
 
 #. data/maps/bergen/bergen.json entities/861/settings/event/7/elseStep/3/message #162
 #. EventTrigger First Visit
@@ -1589,7 +1589,7 @@ msgstr "Следующее подземелье должно быть недал
 #: data/maps/bergen/bergen.json+entities/861/settings/event/12/thenStep/3/message+%23164
 msgctxt "data/maps/bergen/bergen.json//entities/861/settings/event/12/thenStep/3/message"
 msgid "I hope they let you enter without a huge load of exposition."
-msgstr "Я надеюсь, они позволят войти без долгих предисловий."
+msgstr "Я надеюсь, нас впустят туда без долгих предисловий."
 
 #. data/maps/bergen/bergen.json entities/861/settings/event/12/thenStep/4/message #158
 #. EventTrigger First Visit
@@ -1926,7 +1926,7 @@ msgstr "Ох, не позволяй этим мгновениям спокойс
 #. SHOW_MSG guards.male-xbox @DEFAULT
 #: data/maps/bergen/bergen.json+entities/926/settings/npcStates/0/event/quest/9/message+%23449
 msgctxt "data/maps/bergen/bergen.json//entities/926/settings/npcStates/0/event/quest/9/message"
-msgid "For that reason we always need to get ourself properly equipped with the best military hardware."
+msgid "For that reason we always need to get ourselves properly equipped with the best military hardware."
 msgstr "По этой причине нам всегда нужно должным образом оснащать себя лучшей военной техникой."
 
 #. data/maps/bergen/bergen.json entities/926/settings/npcStates/0/event/quest/10/message #409
@@ -2194,7 +2194,7 @@ msgstr "Ты можешь гордиться собой, солдат.\\. Дан
 #. SHOW_MSG guards.male-xbox @DEFAULT
 #: data/maps/bergen/bergen.json+entities/926/settings/npcStates/2/event/quest/6/message+%23466
 msgctxt "data/maps/bergen/bergen.json//entities/926/settings/npcStates/2/event/quest/6/message"
-msgid "It will help to create many amazing weapons and save many lifes. "
+msgid "It will help to create many amazing weapons and save many lives. "
 msgstr "Это поможет создать много удивительного оружия и спасти много жизней."
 
 #. data/maps/bergen/bergen.json entities/926/settings/npcStates/2/event/quest/7/message #467
@@ -2223,6 +2223,88 @@ msgstr "..."
 msgctxt "data/maps/bergen/bergen.json//entities/926/settings/npcStates/2/event/quest/9/message"
 msgid "Now excuse me, I have to deliver my own report.\\. Dismissed!"
 msgstr "А теперь прошу меня извинить, мне нужно представить свой доклад.\\. Разойтись!"
+
+#. data/maps/bergen/bergen.json entities/836/settings/npcStates/0/event/quest/13/name #0
+#. NPC
+#. gamecode.holidayQuest
+#. ADD_MSG_PERSON bergen.one-holiday-man @DEFAULT
+#. INJECTED_IN_MOD
+#: data/maps/bergen/bergen.json+entities/836/settings/npcStates/0/event/quest/13/name+%230
+msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/0/event/quest/13/name"
+msgid "Holiday Man"
+msgstr "Сантама"
+
+#. data/maps/bergen/bergen.json entities/836/settings/npcStates/1/event/0/name #0
+#. NPC
+#. quest.holiday-man.started
+#. ADD_MSG_PERSON bergen.one-holiday-man @DEFAULT
+#. INJECTED_IN_MOD
+#: data/maps/bergen/bergen.json+entities/836/settings/npcStates/1/event/0/name+%230
+msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/1/event/0/name"
+msgid "Holiday Man"
+msgstr "Сантама"
+
+#. data/maps/bergen/bergen.json entities/836/settings/npcStates/2/event/quest/0/name #0
+#. NPC
+#. quest.holiday-man.task.4
+#. ADD_MSG_PERSON bergen.one-holiday-man @DEFAULT
+#. INJECTED_IN_MOD
+#: data/maps/bergen/bergen.json+entities/836/settings/npcStates/2/event/quest/0/name+%230
+msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/2/event/quest/0/name"
+msgid "Holiday Man"
+msgstr "Сантама"
+
+#. data/maps/bergen/bergen.json entities/836/settings/npcStates/2/event/quest/18/name #0
+#. NPC
+#. quest.holiday-man.task.4
+#. ADD_MSG_PERSON bergen.one-holiday-man @DEFAULT
+#. INJECTED_IN_MOD
+#: data/maps/bergen/bergen.json+entities/836/settings/npcStates/2/event/quest/18/name+%230
+msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/2/event/quest/18/name"
+msgid "Holiday Man"
+msgstr "Сантама"
+
+#. data/maps/bergen/bergen.json entities/836/settings/npcStates/2/event/quest/25/name #0
+#. NPC
+#. quest.holiday-man.task.4
+#. ADD_MSG_PERSON bergen.one-holiday-man @DEFAULT
+#. INJECTED_IN_MOD
+#: data/maps/bergen/bergen.json+entities/836/settings/npcStates/2/event/quest/25/name+%230
+msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/2/event/quest/25/name"
+msgid "Holiday Man"
+msgstr "Сантама"
+
+#. data/maps/bergen/bergen.json entities/836/settings/npcStates/3/event/0/name #0
+#. NPC
+#. quest.holiday-man.task.5
+#. ADD_MSG_PERSON bergen.one-holiday-man @DEFAULT
+#. INJECTED_IN_MOD
+#: data/maps/bergen/bergen.json+entities/836/settings/npcStates/3/event/0/name+%230
+msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/3/event/0/name"
+msgid "Holiday Man"
+msgstr "Сантама"
+
+#. data/maps/bergen/bergen.json entities/836/settings/npcStates/4/event/quest/0/name #0
+#. NPC
+#. quest.holiday-man.task.6
+#. ADD_MSG_PERSON bergen.one-holiday-man @DEFAULT
+#. INJECTED_IN_MOD
+#: data/maps/bergen/bergen.json+entities/836/settings/npcStates/4/event/quest/0/name+%230
+msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/4/event/quest/0/name"
+msgid "Holiday Man"
+msgstr "Сантама"
+
+#. data/maps/bergen/bergen.json entities/836/settings/npcStates/5/event/7/thenStep/0/thenStep/7/name #0
+#. NPC
+#. quest.holiday-man.solved
+#. IF !map.gotHolidayBoots && item.16.amount < 1
+#. IF player.hasElement.3 && player.hasElement.4
+#. ADD_MSG_PERSON bergen.one-holiday-man @BALD
+#. INJECTED_IN_MOD
+#: data/maps/bergen/bergen.json+entities/836/settings/npcStates/5/event/7/thenStep/0/thenStep/7/name+%230
+msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/5/event/7/thenStep/0/thenStep/7/name"
+msgid "Holiday Man"
+msgstr "Сантама"
 
 #. data/maps/bergen/bergen2.json entities/167/settings/teleportLabel #13
 #. TeleportField centerField
@@ -2726,7 +2808,7 @@ msgstr "Разработчики проделали огромную работ�
 #: data/maps/bergen/bergen2.json+entities/866/settings/npcStates/0/event/2/thenStep/7/message+%23451
 msgctxt "data/maps/bergen/bergen2.json//entities/866/settings/npcStates/0/event/2/thenStep/7/message"
 msgid "But once they're noticed, the secrets don't stay secret for long."
-msgstr "Но когда они обнаруживаются, то секреты быстро перестают быть секретами."
+msgstr "Но когда они обнаруживаются, секреты быстро перестают быть секретами."
 
 #. data/maps/bergen/bergen2.json entities/866/settings/npcStates/0/event/2/thenStep/8/message #452
 #. NPC
@@ -2796,7 +2878,7 @@ msgstr "Но это место.\\. Это мой секрет."
 #: data/maps/bergen/bergen2.json+entities/866/settings/npcStates/0/event/2/thenStep/15/message+%23458
 msgctxt "data/maps/bergen/bergen2.json//entities/866/settings/npcStates/0/event/2/thenStep/15/message"
 msgid "I know it seems inconsequential, but it can still be special, right?"
-msgstr "Я знаю, это кажется несущественным, но всё же может быть особенным, верно?"
+msgstr "Я знаю, это кажется несущественным, но всё же оно может быть особенным, верно?"
 
 #. data/maps/bergen/bergen2.json entities/866/settings/npcStates/0/event/2/thenStep/17/message #459
 #. NPC
@@ -2904,7 +2986,7 @@ msgstr "[кивает]"
 #: data/maps/bergen/bergen2.json+entities/873/settings/dialog/1/event/9/message+%23111
 msgctxt "data/maps/bergen/bergen2.json//entities/873/settings/dialog/1/event/9/message"
 msgid "It's not that hard but a lot of new players are scared of it, especially since you gotta do it \\c[3]on your own\\c[0]."
-msgstr "Это не так сложно, но многие новые игроки боятся его, потому что приходится делать это \\c[3]самостоятельно\\c[0]."
+msgstr "Оно не такое сложное, но многие новые игроки боятся, потому что приходится проходить его \\c[3]самостоятельно\\c[0]."
 
 #. data/maps/bergen/bergen2.json entities/873/settings/dialog/1/event/10/message #112
 #. XenoDialog dungeon-bla
@@ -3052,7 +3134,7 @@ msgstr "Знаешь что?\\. Лукас сказал мне, что хоте�
 #: data/maps/bergen/bergen2.json+entities/882/settings/event/2/thenStep/6/message+%23143
 msgctxt "data/maps/bergen/bergen2.json//entities/882/settings/event/2/thenStep/6/message"
 msgid "Uhm, what was the name...?\\. Right, the \\c[3]First Scholars\\c[0]!"
-msgstr "Эмм, как там они называются...?\\. Верно, \\c[3]Первоучёные\\c[0]!"
+msgstr "Эмм, как там они называются...?\\. А, точно, \\c[3]Первоучёные\\c[0]!"
 
 #. data/maps/bergen/bergen2.json entities/882/settings/event/2/thenStep/7/message #124
 #. EventTrigger SchneiderCalls START IF item.149.amount >= 1
@@ -3079,7 +3161,7 @@ msgstr "...!"
 #: data/maps/bergen/bergen2.json+entities/882/settings/event/2/thenStep/9/message+%23126
 msgctxt "data/maps/bergen/bergen2.json//entities/882/settings/event/2/thenStep/9/message"
 msgid "We probably shouldn't let them wait for too long, non?"
-msgstr "Нам лучше не стоит заставлять их ждать слишком долго, хорошо?"
+msgstr "Наверное, нам лучше не заставлять их ждать слишком долго."
 
 #. data/maps/bergen/bergen2.json entities/882/settings/event/2/thenStep/10/message #127
 #. EventTrigger SchneiderCalls START IF item.149.amount >= 1
@@ -3178,7 +3260,7 @@ msgstr "Привет!"
 #: data/maps/bergen/bergen2.json+entities/882/settings/event/2/elseStep/14/message+%23149
 msgctxt "data/maps/bergen/bergen2.json//entities/882/settings/event/2/elseStep/14/message"
 msgid "Oh, I see you're in a party right now? That's just perfect!"
-msgstr "О, я вижу, что вы в группе сейчас? Это просто прекрасно!"
+msgstr "О, я вижу, вы сейчас в группе? Это просто прекрасно!"
 
 #. data/maps/bergen/bergen2.json entities/882/settings/event/2/elseStep/15/message #150
 #. EventTrigger SchneiderCalls START IF item.149.amount >= 1
@@ -3422,7 +3504,7 @@ msgstr "Ну...\\. Я полагаю, что ты всё равно не смо�
 #: data/maps/bergen/bergen2.json+entities/882/settings/event/14/message+%23139
 msgctxt "data/maps/bergen/bergen2.json//entities/882/settings/event/14/message"
 msgid "In that regard your speech malfunction turns out to be quite useful!"
-msgstr "В таком случае неисправность твоего голосового модуля оказывается довольно полезной!"
+msgstr "В этом отношении неисправность твоего голосового модуля оказывается довольно полезной!"
 
 #. data/maps/bergen/bergen2.json entities/882/settings/event/15/message #140
 #. EventTrigger SchneiderCalls START IF item.149.amount >= 1
@@ -5938,7 +6020,7 @@ msgstr "А насчёт его армии козлов... нет необход�
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/8/event/quest/14/message+%23502
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/8/event/quest/14/message"
 msgid "We will take that translator you found and just prepare for future activities."
-msgstr "Мы возьмём этот переводчик, который ты нашла, и приготовимся к будущим активностям."
+msgstr "Мы возьмём этот переводчик, который ты нашла, и подготовимся к будущим активностям."
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/8/event/quest/15/message #503
 #. NPC leader-sterling
@@ -6082,7 +6164,7 @@ msgstr "Как?"
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/10/event/quest/9/message+%23598
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/10/event/quest/9/message"
 msgid "Hmph, I am not sure if we should involve a decorated \\v[lore.title.seeker] such as you in such a minor suspicion."
-msgstr "Хмф, я не уверена, стоит ли нам вовлекать такого отличительного Искателя, как ты, в это незначительное подозрение."
+msgstr "Хмф, я не уверена, стоит ли нам вовлекать заслуженного Искателя вроде тебя в это незначительное подозрение."
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/10/event/quest/10/message #599
 #. NPC leader-sterling
@@ -6090,7 +6172,7 @@ msgstr "Хмф, я не уверена, стоит ли нам вовлекат�
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/10/event/quest/10/message+%23599
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/10/event/quest/10/message"
-msgid "Do you really wanna get behind this?"
+msgid "Do you really want to get behind this?"
 msgstr "Ты действительно хочешь взяться за это?"
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/10/event/quest/11/accepted/0/message #530
@@ -6140,7 +6222,7 @@ msgstr "В любом случае, позволь мне объяснить."
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/10/event/quest/11/accepted/5/message+%23602
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/10/event/quest/11/accepted/5/message"
-msgid "Those goats have kept completely to themselves since you handled that last incidents.\\. Barely left their cave, even."
+msgid "Those goats have kept completely to themselves since you handled that last incident.\\. Barely left their cave, even."
 msgstr "Эти козлы всегда держались особняком с тех пор, как ты справилась с последним случаем.\\. Даже почти не покидали свою пещеру."
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/10/event/quest/11/accepted/6/message #603
@@ -6150,7 +6232,7 @@ msgstr "Эти козлы всегда держались особняком с 
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/10/event/quest/11/accepted/6/message+%23603
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/10/event/quest/11/accepted/6/message"
-msgid "Recently however, they were seen wandering about closely to the border of the Bergen region.\\. And they never returned!"
+msgid "Recently however, they were seen wandering about close to the border of the Bergen region.\\. And they never returned!"
 msgstr "Однако недавно их видели бродящими вблизи границы Бергенского региона.\\. И они так и не вернулись!"
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/10/event/quest/11/accepted/7/message #531
@@ -6170,7 +6252,7 @@ msgstr "...!"
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/10/event/quest/11/accepted/8/message+%23604
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/10/event/quest/11/accepted/8/message"
-msgid "Maybe it is nothing but we have the duty to get to the bottom of this."
+msgid "Maybe it is nothing but we have a duty to get to the bottom of this."
 msgstr "Может быть, это ничего не значит, но у нас есть долг, чтобы подробно разобраться в этом."
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/10/event/quest/11/accepted/9/message #606
@@ -6191,7 +6273,7 @@ msgstr "Так что пожалуйста, Искатель, возвращай
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/10/event/quest/11/accepted/10/message+%23636
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/10/event/quest/11/accepted/10/message"
 msgid "And take that \\c[3]goat translator\\c[0] with you.\\. It might be useful."
-msgstr ""
+msgstr "И прихвати этот \\c[3]переводчик козлиного\\c[0] с собой.\\. Он может пригодиться."
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/10/event/quest/11/accepted/12/message #532
 #. NPC leader-sterling
@@ -6296,7 +6378,7 @@ msgstr "Искатель, что ты здесь делаешь?!\\. Наш то
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/12/event/3/message+%23630
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/12/event/3/message"
 msgid "Please help them on the \\c[3]Windy Climb\\c[0] immediatly!"
-msgstr "Пожалуйста, немедленно помоги им на \\c[3]Ветреном подъёме\\c[0]!"
+msgstr "Пожалуйста, немедленно помоги ему на \\c[3]Ветреном подъёме\\c[0]!"
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/12/event/4/message #631
 #. NPC leader-sterling
@@ -6331,8 +6413,8 @@ msgstr "Привет!"
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/13/event/quest/3/message+%23614
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/13/event/quest/3/message"
-msgid "\\v[lore.title.seeker] there you are.\\. I got the report from our officer and it is truly worrying."
-msgstr "Искатель, вот ты где.\\. Я получила отчёт от нашего офицера, и это действительно беспокоит."
+msgid "\\v[lore.title.seeker]! There you are.\\. I got the report from our officer and it is truly worrying."
+msgstr "Искатель! Вот ты где.\\. Я получила отчёт от нашего офицера, и это действительно беспокоит."
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/13/event/quest/4/message #615
 #. NPC leader-sterling
@@ -6349,7 +6431,7 @@ msgstr "[кивает]"
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/13/event/quest/5/message+%23616
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/13/event/quest/5/message"
-msgid "Having organized groups of creatures work together across regions is almost unheard of and could mean a whole host of trouble."
+msgid "Having organized groups of creatures working together across regions is almost unheard of and could mean a whole host of trouble."
 msgstr "Совместная работа групп существ из разных регионов почти неслыханна и может привести к целому ряду проблем."
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/13/event/quest/6/message #622
@@ -6458,7 +6540,7 @@ msgstr "Тебе понадобится их сотрудничество, чт�
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/15/event/0/name+%23637
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/15/event/0/name"
 msgid "Sgt. Sterling"
-msgstr ""
+msgstr "Сержант Стерлинг"
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/15/event/2/message #638
 #. NPC leader-sterling
@@ -6467,7 +6549,7 @@ msgstr ""
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/15/event/2/message+%23638
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/15/event/2/message"
 msgid "\\v[lore.title.seeker], I hear the locale of the assigment has now shifted to \\v[area.rhombus-sqr.name]?"
-msgstr ""
+msgstr "Искатель, я слышала, место выполнения задания теперь сместилось на Площадь Ромба?"
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/15/event/3/message #639
 #. NPC leader-sterling
@@ -6476,7 +6558,7 @@ msgstr ""
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/15/event/3/message+%23639
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/15/event/3/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[кивает]"
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/15/event/4/message #640
 #. NPC leader-sterling
@@ -6485,7 +6567,7 @@ msgstr ""
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/15/event/4/message+%23640
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/15/event/4/message"
 msgid "Oh my...\\. This case sure keeps on getting bigger and more confusing by the minute."
-msgstr ""
+msgstr "О, Боже...\\. Это дело становится всë больше и запутаннее с каждой минутой."
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/15/event/5/message #643
 #. NPC leader-sterling
@@ -6494,7 +6576,7 @@ msgstr ""
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/15/event/5/message+%23643
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/15/event/5/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/16/event/quest/0/name #595
 #. NPC leader-sterling
@@ -6548,7 +6630,7 @@ msgstr "Впечатляющая работа.\\. Похоже, сосущест
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/16/event/quest/6/message+%23642
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/16/event/quest/6/message"
 msgid "Word is, they even established a business.\\. Selling goat-related products in some park, if you believe it."
-msgstr ""
+msgstr "По слухам, они даже начали свой бизнес.\\. Говорят, продают в каком-то парке товары, связанные с козлами."
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/16/event/quest/7/message #584
 #. NPC leader-sterling
@@ -6593,7 +6675,7 @@ msgstr "[кивает]"
 #: data/maps/bergen/inner-faction-bergenguard.json+entities/28/settings/npcStates/16/event/quest/11/message+%23634
 msgctxt "data/maps/bergen/inner-faction-bergenguard.json//entities/28/settings/npcStates/16/event/quest/11/message"
 msgid "As for you, you have once again earned our thanks and this reward.\\. Bergen Village is in your debt!"
-msgstr "Что касается тебя, ты ещё раз получаешь нашу благодарность и эту награду.\\. Деревня Берген у тебя в долгу!"
+msgstr "Что касается тебя, ты ещё раз заслужила нашу благодарность и эту награду.\\. Деревня Берген у тебя в долгу!"
 
 #. data/maps/bergen/inner-faction-bergenguard.json entities/28/settings/npcStates/16/event/quest/12/message #588
 #. NPC leader-sterling
@@ -7193,7 +7275,7 @@ msgstr "МакЭдинтил"
 #: data/maps/bergen/inner-faction-miners.json+entities/34/settings/npcStates/4/event/quest/7/accepted/21/message+%23320
 msgctxt "data/maps/bergen/inner-faction-miners.json//entities/34/settings/npcStates/4/event/quest/7/accepted/21/message"
 msgid "\\c[3]Miner Darrel\\c[0] will wait for you on the spot and fill you in on the details."
-msgstr "\\c[3]Шахтер Даррел\\c[0] будет ждать тебя на месте и сообщит подробности."
+msgstr "\\c[3]Шахтёр Даррел\\c[0] будет ждать тебя на месте и сообщит подробности."
 
 #. data/maps/bergen/inner-faction-miners.json entities/34/settings/npcStates/4/event/quest/7/accepted/22/message #324
 #. NPC leader-turis
@@ -7900,7 +7982,7 @@ msgstr "И я чувствую ярко выраженную силу внутр
 #: data/maps/bergen/inner-faction-monks.json+entities/29/settings/npcStates/4/event/quest/5/message+%23406
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/29/settings/npcStates/4/event/quest/5/message"
 msgid "Yes, with this power of Heat, you should be ready for the next step towards ascension."
-msgstr "Да, с силой Пламени, ты должна быть готова к следующему шагу на пути вознесения."
+msgstr "Да, с силой Пламени ты должна быть готова к следующему шагу на пути вознесения."
 
 #. data/maps/bergen/inner-faction-monks.json entities/29/settings/npcStates/4/event/quest/6/message #407
 #. NPC leader-wise
@@ -8357,7 +8439,7 @@ msgstr "[мотает головой]"
 #: data/maps/bergen/inner-faction-monks.json+entities/29/settings/npcStates/7/event/quest/9/declined/1/message+%23507
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/29/settings/npcStates/7/event/quest/9/declined/1/message"
 msgid "An answer as was predestined.\\. You are wanting to try your patience before grasping your destiny.\\. Maybe it is wisdom."
-msgstr "Ответ таков, как и было предопределено.\\. Ты хочешь испытать свое терпение, прежде чем осознать свою судьбу.\\. Может, в этом и есть мудрость."
+msgstr "Ответ таков, как и было предопределено.\\. Ты хочешь испытать своё терпение, прежде чем осознать свою судьбу.\\. Может, в этом и есть мудрость."
 
 #. data/maps/bergen/inner-faction-monks.json entities/29/settings/npcStates/7/event/quest/9/declined/2/message #478
 #. NPC leader-wise
@@ -8597,7 +8679,7 @@ msgstr "..."
 #: data/maps/bergen/inner-faction-monks.json+entities/56/settings/npcStates/1/event/quest/10/message+%23512
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/56/settings/npcStates/1/event/quest/10/message"
 msgid "You, \\v[lore.title.seeker], have come farther than most.\\. But the steepest challenge is still ahead of you."
-msgstr "Ты, Искатель, прошла дальше многих.\\. Но самое невероятное испытание ещё впереди."
+msgstr "Ты, Искатель, прошла дальше многих.\\. Но самое сложное испытание ещё впереди."
 
 #. data/maps/bergen/inner-faction-monks.json entities/56/settings/npcStates/1/event/quest/11/message #554
 #. NPC cratos
@@ -8614,7 +8696,7 @@ msgstr "...!"
 #. ADD_MSG_PERSON monks.male-bald-brown @DEFAULT
 #: data/maps/bergen/inner-faction-monks.json+entities/56/settings/npcStates/1/event/quest/28/name+%23438
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/56/settings/npcStates/1/event/quest/28/name"
-msgid "Hasouk"
+msgid "Cratos"
 msgstr "Кратос"
 
 #. data/maps/bergen/inner-faction-monks.json entities/56/settings/npcStates/1/event/quest/30/message #322
@@ -8624,7 +8706,7 @@ msgstr "Кратос"
 #: data/maps/bergen/inner-faction-monks.json+entities/56/settings/npcStates/1/event/quest/30/message+%23322
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/56/settings/npcStates/1/event/quest/30/message"
 msgid "Enter this teleporter to reach the start of your trial."
-msgstr "Войди в этот телепорт, чтобы добраться до начала твоего испытания."
+msgstr "Войди в этот телепорт, чтобы добраться до начала своего испытания."
 
 #. data/maps/bergen/inner-faction-monks.json entities/56/settings/npcStates/1/event/quest/31/message #493
 #. NPC cratos
@@ -8714,7 +8796,7 @@ msgstr "Привет!"
 #: data/maps/bergen/inner-faction-monks.json+entities/56/settings/npcStates/3/event/quest/6/message+%23515
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/56/settings/npcStates/3/event/quest/6/message"
 msgid "Yes, it seems like you even carry the proof of your ascension with you, both in hand and spirit."
-msgstr "Да, похоже, что ты даже несёшь с собой доказательство своего вознесения, как в руке, так и в духе."
+msgstr "Да, и даже похоже, что ты несёшь с собой доказательство своего вознесения, как в руке, так и в духе."
 
 #. data/maps/bergen/inner-faction-monks.json entities/56/settings/npcStates/3/event/quest/7/message #342
 #. NPC cratos
@@ -8741,7 +8823,7 @@ msgstr "Хорошо, очень хорошо.\\. Ты исполнила сво
 #: data/maps/bergen/inner-faction-monks.json+entities/56/settings/npcStates/3/event/quest/9/message+%23520
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/56/settings/npcStates/3/event/quest/9/message"
 msgid "Now all that remains is to show yourself before the Wise once again."
-msgstr "Теперь всё, что остается - это снова предстать перед старейшиной."
+msgstr "Теперь всё, что остаётся - это снова предстать перед старейшиной."
 
 #. data/maps/bergen/inner-faction-monks.json entities/56/settings/npcStates/3/event/quest/10/message #390
 #. NPC cratos
@@ -8849,7 +8931,7 @@ msgstr "..."
 #: data/maps/bergen/inner-faction-monks.json+entities/56/settings/npcStates/5/event/quest/11/message+%23529
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/56/settings/npcStates/5/event/quest/11/message"
 msgid "The caves of the trials have been a place to sharpen one's mind for generations."
-msgstr "Пещеры испытаний были местом, чтобы обострить свой ум, на протяжении многих поколений."
+msgstr "Пещеры испытаний были местом для оттачивания ума на протяжении многих поколений."
 
 #. data/maps/bergen/inner-faction-monks.json entities/56/settings/npcStates/5/event/quest/12/message #550
 #. NPC cratos
@@ -9003,7 +9085,7 @@ msgstr "Кратос"
 #: data/maps/bergen/inner-faction-monks.json+entities/56/settings/npcStates/7/event/quest/4/message+%23358
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/56/settings/npcStates/7/event/quest/4/message"
 msgid "You have been successful once again, \\v[lore.title.seeker]."
-msgstr "Ты снова преуспела, Искатель."
+msgstr "Ты вновь преуспела, Искатель."
 
 #. data/maps/bergen/inner-faction-monks.json entities/56/settings/npcStates/7/event/quest/5/message #365
 #. NPC cratos
@@ -9161,7 +9243,7 @@ msgstr "Хасук"
 #: data/maps/bergen/inner-faction-monks.json+entities/58/settings/npcStates/1/event/quest/25/message+%23453
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/58/settings/npcStates/1/event/quest/25/message"
 msgid "Enter this teleporter to reach the start of your trial."
-msgstr "Войди в этот телепорт, чтобы добраться до начала твоего испытания."
+msgstr "Войди в этот телепорт, чтобы добраться до начала своего испытания."
 
 #. data/maps/bergen/inner-faction-monks.json entities/58/settings/npcStates/1/event/quest/26/message #454
 #. NPC hasouk
@@ -9895,7 +9977,7 @@ msgstr "Ну вот, пожалуйста."
 #: data/maps/bergen/inner-questhub-0.json+entities/119/settings/event/54/elseStep/1/message+%2343
 msgctxt "data/maps/bergen/inner-questhub-0.json//entities/119/settings/event/54/elseStep/1/message"
 msgid "I always thought the idea of a self-defending heritage site was interesting."
-msgstr "Мне всегда казалось, что идея самозащитного наследия была интересной."
+msgstr "Мне всегда казалась интересной идея самозащитного наследия."
 
 #. data/maps/bergen/inner-questhub-0.json entities/122/settings/npcStates/0/event/9/message #923
 #. NPC bag
@@ -11023,7 +11105,7 @@ msgstr "[Отмена аварийного спасения.]"
 #: data/maps/bergen/mine-entrance.json+entities/255/settings/dialog/0/text+%231
 msgctxt "data/maps/bergen/mine-entrance.json//entities/255/settings/dialog/0/text"
 msgid "So, are you gonna tackle the mine as well?\\. It's required to progress in the storyline."
-msgstr "Итак, ты собираешься уже заняться шахтой? Это требуется для прогресса сюжетной линии."
+msgstr "Итак, ты собираешься уже заняться шахтой?\\. Это требуется для прогресса сюжетной линии."
 
 #. data/maps/bergen/mine-entrance.json entities/255/settings/dialog/1/text #4
 #. XenoDialog U18
@@ -11087,7 +11169,7 @@ msgstr "Твой уровень не так уж важен. Просто убе
 #: data/maps/bergen/mine-entrance.json+entities/255/settings/dialog/8/text+%23473
 msgctxt "data/maps/bergen/mine-entrance.json//entities/255/settings/dialog/8/text"
 msgid "I... guess that makes a lot more sense. Then I better hit up the shops again."
-msgstr "Я... думаю, что теперь это имеет смысл. Тогда мне лучше снова прогуляться по магазинам."
+msgstr "Ну... вот теперь всё стало гораздо понятнее. Тогда мне лучше снова прогуляться по магазинам."
 
 #. data/maps/bergen/mine-entrance.json entities/259/settings/analyzable/text #62
 #. NPC entranceGuard
@@ -11408,7 +11490,7 @@ msgstr "Ну...\\. ты-то \\c[1]несомненно\\c[0] готова."
 #: data/maps/bergen/mine-entrance.json+entities/263/settings/event/1/thenStep/8/thenStep/5/message+%2345
 msgctxt "data/maps/bergen/mine-entrance.json//entities/263/settings/event/1/thenStep/8/thenStep/5/message"
 msgid "Should we enter the dungeon?"
-msgstr "Следует ли нам идти в подземелье?"
+msgstr "Стоит ли нам идти в подземелье?"
 
 #. data/maps/bergen/mine-entrance.json entities/263/settings/event/1/thenStep/8/thenStep/6/0/1/message #38
 #. EventTrigger BeforeEnteringTheMine START IF tmp.aboutToEnterMine
@@ -11523,7 +11605,7 @@ msgstr "Но мне кажется, что сначала нам нужно на
 #: data/maps/bergen/mine-entrance.json+entities/263/settings/event/1/thenStep/8/elseStep/5/message+%2354
 msgctxt "data/maps/bergen/mine-entrance.json//entities/263/settings/event/1/thenStep/8/elseStep/5/message"
 msgid "I mean they're probably expecting us...\\. like...\\. right now."
-msgstr "Я имею в виду, что они, наверное, ждут нас...\\. типа...\\. прямо сейчас."
+msgstr "Они ведь наверняка ждут нас...\\. типа...\\. прямо сейчас."
 
 #. data/maps/bergen/mine-entrance.json entities/263/settings/event/1/thenStep/8/elseStep/6/message #55
 #. EventTrigger BeforeEnteringTheMine START IF tmp.aboutToEnterMine
@@ -11754,7 +11836,7 @@ msgstr "Тест от нашего лидера?\\. Тогда ты уже до�
 #: data/maps/bergen/mine-entrance.json+entities/264/settings/npcStates/1/event/quest/4/elseStep/5/message+%23321
 msgctxt "data/maps/bergen/mine-entrance.json//entities/264/settings/npcStates/1/event/quest/4/elseStep/5/message"
 msgid "With that heated passion of yours, you might be up for the \\c[3]Trial of Progression\\c[0]."
-msgstr "С твоей пылающей страстью, ты можешь быть допущена к \\c[3]Испытанию прогрессии\\c[0]."
+msgstr "С твоей пылающей страстью, ты можешь быть допущена к \\c[3]Испытанию прогресса\\c[0]."
 
 #. data/maps/bergen/mine-entrance.json entities/264/settings/npcStates/1/event/quest/4/elseStep/6/message #417
 #. NPC aisy
@@ -12524,7 +12606,7 @@ msgstr "..."
 #: data/maps/bergen/mine-entrance.json+entities/266/settings/teleportLabel+%23409
 msgctxt "data/maps/bergen/mine-entrance.json//entities/266/settings/teleportLabel"
 msgid "Enter the \\c[3]Cave of Progression\\c[0]"
-msgstr "Войти в \\c[3]Пещеру прогрессии\\c[0]"
+msgstr "Войти в \\c[3]Пещеру прогресса\\c[0]"
 
 #. data/maps/bergen/mine-entrance.json entities/266/settings/blockEvent/2/text #377
 #. TeleportField trial_cave-2 SPAWN IF map.monk-quest-2-teleporter
@@ -15638,7 +15720,7 @@ msgstr "\\c[1]Внимание!\\c[0]"
 #: data/maps/bergen/special/monks-questcave2.json+entities/1/settings/event/10/thenStep/2/text+%2396
 msgctxt "data/maps/bergen/special/monks-questcave2.json//entities/1/settings/event/10/thenStep/2/text"
 msgid "\\c[3]\"Extra Frosty\"\\c[0] got automatically deactivated when leaving the cave. To continue the quest \\c[3]\"Chlg. of Progression: Frosty\"\\c[0], you have to \\c[3]reactivate it again\\c[0]!"
-msgstr "\\c[3]\"Дополнительный мороз\"\\c[0] автоматически деактивируется при выходе из пещеры. Чтобы продолжить квест \\c[3]\"Вызов прогрессии: Морозное испытание\"\\c[0], вам нужно \\c[3]снова его включить\\c[0]!"
+msgstr "\\c[3]\"Дополнительный мороз\"\\c[0] автоматически деактивируется при выходе из пещеры. Чтобы продолжить квест \\c[3]\"Вызов прогресса: Морозное испытание\"\\c[0], вам нужно \\c[3]снова его включить\\c[0]!"
 
 #. data/maps/bergen/special/monks-questcave2.json entities/27/settings/event/0/text #2
 #. EventTrigger event-0-endTrigger START IF tmp.0-switchCount>=7
@@ -15682,7 +15764,7 @@ msgstr "Вернуться в \\c[3]Берген\\c[0]"
 #: data/maps/bergen/special/monks-questcave2.json+entities/57/settings/condAnims/0/interact/hoverText+%2391
 msgctxt "data/maps/bergen/special/monks-questcave2.json//entities/57/settings/condAnims/0/interact/hoverText"
 msgid "The Trial of Progression"
-msgstr "Испытание прогрессии"
+msgstr "Испытание прогресса"
 
 #. data/maps/bergen/special/monks-questcave2.json entities/57/settings/condAnims/0/interact/event/2/thenStep/0/0/1/text #79
 #. Prop Sign

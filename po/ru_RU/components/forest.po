@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.4.1-2\n"
+"Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-14 01:09+0000\n"
-"POT-Revision-Date: 2021-04-14 01:09+0000\n"
+"POT-Creation-Date: 2022-01-11 15:55+0000\n"
+"POT-Revision-Date: 2022-01-11 15:55+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0\n"
+"X-Generator: crosscode-localization-engine 0.0.0 (2168d54 2022-01-11)\n"
 
 #. data/areas/forest.json name #1
 #: data/areas/forest.json+name+%231
@@ -414,7 +414,7 @@ msgstr "Да? А-А вы у-уверены?"
 #. SHOW_MSG misc.advisor-researcher @DEFAULT
 #: data/maps/forest/caves/cave-09-henry-hideout.json+entities/31/settings/event/17/message+%2317
 msgctxt "data/maps/forest/caves/cave-09-henry-hideout.json//entities/31/settings/event/17/message"
-msgid "Quite so I'm afraid. How you managed to stay hidden, however, is still a mystery to me."
+msgid "Quite so, I'm afraid. How you managed to stay hidden, however, is still a mystery to me."
 msgstr "Боюсь, вполне уверен.\\. Однако то, как вам удалось остаться незамеченным, до сих пор остаётся загадкой для меня."
 
 #. data/maps/forest/caves/cave-09-henry-hideout.json entities/31/settings/event/18/message #18
@@ -438,8 +438,8 @@ msgstr "Бакстон"
 #. SHOW_MSG misc.advisor-researcher @DEFAULT
 #: data/maps/forest/caves/cave-09-henry-hideout.json+entities/31/settings/event/28/message+%2310
 msgctxt "data/maps/forest/caves/cave-09-henry-hideout.json//entities/31/settings/event/28/message"
-msgid "What are you doing, I can't move!"
-msgstr "Что вы делаете, я не могу двигаться!"
+msgid "What are you doing? I can't move!"
+msgstr "Что вы делаете? Я не могу двигаться!"
 
 #. data/maps/forest/caves/cave-09-henry-hideout.json entities/31/settings/event/41/name #21
 #. EventTrigger startFight START IF map.startScene
@@ -454,8 +454,8 @@ msgstr "Генри"
 #. SHOW_MSG misc.henry-researcher @DEFAULT
 #: data/maps/forest/caves/cave-09-henry-hideout.json+entities/31/settings/event/42/message+%2322
 msgctxt "data/maps/forest/caves/cave-09-henry-hideout.json//entities/31/settings/event/42/message"
-msgid "He won't be b-b-bothering us anymore, hehe."
-msgstr "Он не п-п-побеспокоит нас больше, хе-хе."
+msgid "He won't be b-b-bothering us, anymore. Hehe."
+msgstr "Он не п-п-побеспокоит нас больше. Хе-хе."
 
 #. data/maps/forest/caves/cave-09-henry-hideout.json entities/31/settings/event/44/message #23
 #. EventTrigger startFight START IF map.startScene
@@ -470,7 +470,7 @@ msgstr "Почему!?"
 #. SHOW_MSG misc.henry-researcher @DEFAULT
 #: data/maps/forest/caves/cave-09-henry-hideout.json+entities/31/settings/event/45/message+%2324
 msgctxt "data/maps/forest/caves/cave-09-henry-hideout.json//entities/31/settings/event/45/message"
-msgid "Now you..."
+msgid "Now, you..."
 msgstr "А вот ты..."
 
 #. data/maps/forest/caves/cave-09-henry-hideout.json entities/31/settings/event/46/message #25
@@ -734,7 +734,7 @@ msgstr "[кивает]"
 #. SHOW_MSG main.sergey @NOTIFYING
 #: data/maps/forest/caves/cave-09-henry-hideout.json+entities/137/settings/event/58/message+%23589
 msgctxt "data/maps/forest/caves/cave-09-henry-hideout.json//entities/137/settings/event/58/message"
-msgid "Well, to be honest I did not know at first myself."
+msgid "Well, to be honest, I did not know at first, myself."
 msgstr "Ну, если честно, я сам сначала не знал."
 
 #. data/maps/forest/caves/cave-09-henry-hideout.json entities/137/settings/event/59/message #577
@@ -750,7 +750,7 @@ msgstr "Я был очень обеспокоен тем, что у нас в и
 #. SHOW_MSG main.sergey @SMILE
 #: data/maps/forest/caves/cave-09-henry-hideout.json+entities/137/settings/event/60/message+%23578
 msgctxt "data/maps/forest/caves/cave-09-henry-hideout.json//entities/137/settings/event/60/message"
-msgid "But when I went ahead and checked I immediately saw that Henry was actually just an NPC. "
+msgid "But when I went ahead and checked, I immediately saw that Henry was actually just an NPC. "
 msgstr "Но когда я проверил, я сразу увидел, что Генри на самом деле простой NPC."
 
 #. data/maps/forest/caves/cave-09-henry-hideout.json entities/137/settings/event/61/message #579
@@ -782,7 +782,7 @@ msgstr "Я полагаю, что именно поэтому они позво�
 #. SHOW_MSG main.sergey @WORRIED
 #: data/maps/forest/caves/cave-09-henry-hideout.json+entities/137/settings/event/64/message+%23582
 msgctxt "data/maps/forest/caves/cave-09-henry-hideout.json//entities/137/settings/event/64/message"
-msgid "Normally the company is pretty strict about these things."
+msgid "Normally, the company is pretty strict about these things."
 msgstr "Обычно компания довольно строго относится к таким вещам."
 
 #. data/maps/forest/caves/cave-09-henry-hideout.json entities/137/settings/event/65/message #583
@@ -790,7 +790,7 @@ msgstr "Обычно компания довольно строго относи
 #. SHOW_MSG main.sergey @JOKING
 #: data/maps/forest/caves/cave-09-henry-hideout.json+entities/137/settings/event/65/message+%23583
 msgctxt "data/maps/forest/caves/cave-09-henry-hideout.json//entities/137/settings/event/65/message"
-msgid "Anyway, I did not want to spoil the surprise so I thought I would help keep up the suspense. "
+msgid "Anyway, I did not want to spoil the surprise, so I thought I would help keep up the suspense. "
 msgstr "Как бы то ни было, я не хотел портить сюрприз, поэтому подумал, что лучше сохранить интригу."
 
 #. data/maps/forest/caves/cave-09-henry-hideout.json entities/137/settings/event/66/message #584
@@ -838,7 +838,7 @@ msgstr "..."
 #. SHOW_MSG main.sergey @JOKING
 #: data/maps/forest/caves/cave-09-henry-hideout.json+entities/137/settings/event/71/message+%23571
 msgctxt "data/maps/forest/caves/cave-09-henry-hideout.json//entities/137/settings/event/71/message"
-msgid "But all is well that ends well, right Lea?"
+msgid "But all is well that ends well, right, Lea?"
 msgstr "Но всё хорошо, что хорошо кончается, верно, Лея?"
 
 #. data/maps/forest/caves/cave-09-henry-hideout.json entities/137/settings/event/72/message #573
@@ -1197,7 +1197,7 @@ msgstr "Этот квест был...\\. интересный."
 #. SHOW_MSG guests.code-knight @DEFAULT
 #: data/maps/forest/caves/cave-09-henry-hideout.json+entities/162/settings/npcStates/0/event/4/message+%23605
 msgctxt "data/maps/forest/caves/cave-09-henry-hideout.json//entities/162/settings/npcStates/0/event/4/message"
-msgid "I wasn't aware that the IHSO has been messing with CrossWorlds in the past."
+msgid "I wasn't aware that the IHSO had messed with CrossWorlds in the past."
 msgstr "Я не знала, что IHSO в прошлом была замешана с CrossWorlds."
 
 #. data/maps/forest/caves/cave-09-henry-hideout.json entities/162/settings/npcStates/0/event/5/message #606
@@ -1493,7 +1493,7 @@ msgstr "[кивает]"
 #. SHOW_MSG main.buggy @GRIN
 #: data/maps/forest/caves/exit-cave-01.json+entities/159/settings/npcStates/1/event/2/message+%233
 msgctxt "data/maps/forest/caves/exit-cave-01.json//entities/159/settings/npcStates/1/event/2/message"
-msgid "Hi Lea!\n"
+msgid "Hi, Lea!\n"
 msgstr "Привет, Лея!"
 
 #. data/maps/forest/caves/exit-cave-01.json entities/159/settings/npcStates/1/event/3/message #4
@@ -1655,8 +1655,8 @@ msgstr "Ты знаешь... Нам нравятся игры типа CrossWorl
 #. SHOW_MSG main.guild-leader @DOWN
 #: data/maps/forest/caves/exit-cave-02.json+entities/102/settings/npcStates/1/event/6/message+%237
 msgctxt "data/maps/forest/caves/exit-cave-02.json//entities/102/settings/npcStates/1/event/6/message"
-msgid "So that for a moment we can forget about all the worries of real life."
-msgstr "Так что на мгновение мы можем забыть обо всех заботах реальной жизни."
+msgid "So that, for a moment, we can forget about all the worries of real life."
+msgstr "Так что, на мгновение, мы можем забыть обо всех заботах реальной жизни."
 
 #. data/maps/forest/caves/exit-cave-02.json entities/102/settings/npcStates/1/event/7/message #8
 #. NPC hlin
@@ -1913,7 +1913,7 @@ msgstr "[мотает головой]"
 #. SHOW_MSG main.emilie @PRE_CRY
 #: data/maps/forest/caves/exit-cave-03.json+entities/7/settings/npcStates/1/event/22/message+%231404
 msgctxt "data/maps/forest/caves/exit-cave-03.json//entities/7/settings/npcStates/1/event/22/message"
-msgid "I...\\. I just didn't know any better but still...\\. I'm sorry."
+msgid "I...\\. I just didn't know any better, but still...\\. I'm sorry."
 msgstr "Я...\\. Я просто не знала, как лучше поступить, но всё равно...\\. Прости."
 
 #. data/maps/forest/caves/exit-cave-03.json entities/7/settings/npcStates/1/event/31/message #1400
@@ -1922,7 +1922,7 @@ msgstr "Я...\\. Я просто не знала, как лучше поступ
 #. SHOW_MSG main.emilie @SMILE
 #: data/maps/forest/caves/exit-cave-03.json+entities/7/settings/npcStates/1/event/31/message+%231400
 msgctxt "data/maps/forest/caves/exit-cave-03.json//entities/7/settings/npcStates/1/event/31/message"
-msgid "I just want you to know, that you really are a dear friend to me. "
+msgid "I just want you to know that you really are a dear friend to me. "
 msgstr "Я просто хочу, чтобы ты знала, что ты для меня очень дорогой друг."
 
 #. data/maps/forest/caves/exit-cave-03.json entities/7/settings/npcStates/1/event/32/message #1401
@@ -2057,7 +2057,7 @@ msgstr "Лея."
 #. SHOW_MSG antagonists.fancyguy @MOPING
 #: data/maps/forest/caves/exit-cave-03.json+entities/8/settings/npcStates/1/event/6/message+%2320
 msgctxt "data/maps/forest/caves/exit-cave-03.json//entities/8/settings/npcStates/1/event/6/message"
-msgid "Wait...\\. Do you want me to drop the \"Spheromancer\" as well? "
+msgid "Wait...\\. Do you want me to drop the \"Spheromancer\" part as well? "
 msgstr "Подожди...\\. Ты хочешь, чтобы я ещё и отбросил \"сфероманта\"?"
 
 #. data/maps/forest/caves/exit-cave-03.json entities/8/settings/npcStates/1/event/7/message #21
@@ -2420,7 +2420,7 @@ msgstr "Но на самом деле, Лея, ты сильная девочк�
 #. SHOW_MSG antagonists.sidekick @UP
 #: data/maps/forest/caves/exit-cave-03.json+entities/9/settings/npcStates/1/event/8/message+%2310
 msgctxt "data/maps/forest/caves/exit-cave-03.json//entities/9/settings/npcStates/1/event/8/message"
-msgid "From what Sergey told us you really must have gone through a lot. "
+msgid "From what Sergey told us, you really must have gone through a lot. "
 msgstr "Из того, что Сергей рассказал нам, ты действительно прошла через многое."
 
 #. data/maps/forest/caves/exit-cave-03.json entities/9/settings/npcStates/1/event/9/message #11
@@ -2896,7 +2896,7 @@ msgstr "\\c[3]Началось\\c[0]..."
 #. SHOW_SIDE_MSG main.sergey @NOTIFYING
 #: data/maps/forest/caves/path-11-maze.json+entities/184/settings/event/1/elseStep/0/thenStep/0/message+%2325
 msgctxt "data/maps/forest/caves/path-11-maze.json//entities/184/settings/event/1/elseStep/0/thenStep/0/message"
-msgid "The \\c[3]tracking\\c[0] has been \\c[1]canceled\\c[0]!"
+msgid "The \\c[3]tracking\\c[0] has been \\c[1]cancelled\\c[0]!"
 msgstr "\\c[3]Отслеживание\\c[0] \\c[1]прекратилось\\c[0]!"
 
 #. data/maps/forest/caves/path-11-maze.json entities/184/settings/event/1/elseStep/0/elseStep/0/thenStep/0/message #26
@@ -3125,7 +3125,7 @@ msgstr "[кивает]"
 #. SHOW_MSG main.sergey @EYES_CLOSED
 #: data/maps/forest/caves/path-11-to-12.json+entities/196/settings/event/17/message+%2312
 msgctxt "data/maps/forest/caves/path-11-to-12.json//entities/196/settings/event/17/message"
-msgid "Phew... Finally we found something."
+msgid "Phew... Finally, we found something."
 msgstr "Фух... Наконец-то мы нашли что-то."
 
 #. data/maps/forest/caves/path-11-to-12.json entities/196/settings/event/18/message #13
@@ -4277,7 +4277,7 @@ msgstr "Теперь пройди через дверь позади меня и
 #. SHOW_SIDE_MSG main.emilie @BROKEN
 #: data/maps/forest/interior/dojo-boss.json+entities/45/settings/event/0/thenStep/6/thenStep/0/message+%2355
 msgctxt "data/maps/forest/interior/dojo-boss.json//entities/45/settings/event/0/thenStep/6/thenStep/0/message"
-msgid "Noooooo!\\. It's instanced!\\. I don't want to do this myself!!"
+msgid "Noooooo!\\. It's instanced!\\. I don't want to do this alone!!"
 msgstr "Нееееет!\\. Это отдельное подземелье!\\. Я не хочу делать это одна!!"
 
 #. data/maps/forest/interior/dojo-boss.json entities/45/settings/event/0/thenStep/6/elseStep/0/thenStep/0/message #56
@@ -4467,7 +4467,7 @@ msgstr "В таком случае, бабушка должна быть в со
 #. SHOW_MSG forest.family-daugther-oldest @DEFAULT
 #: data/maps/forest/interior/inn-01.json+entities/65/settings/npcStates/0/event/quest/6/message+%23485
 msgctxt "data/maps/forest/interior/inn-01.json//entities/65/settings/npcStates/0/event/quest/6/message"
-msgid "You usually find her at the balcony at the very top."
+msgid "You can usually find her at the balcony at the very top."
 msgstr "Её обычно можно найти на балконе, на самом верху."
 
 #. data/maps/forest/interior/inn-01.json entities/65/settings/npcStates/0/event/quest/7/message #486
@@ -4673,7 +4673,7 @@ msgstr "Кроме того... она всегда так счастлива, к
 #. SHOW_MSG forest.family-daugther-oldest @DEFAULT
 #: data/maps/forest/interior/inn-01.json+entities/65/settings/npcStates/2/event/quest/17/message+%23506
 msgctxt "data/maps/forest/interior/inn-01.json//entities/65/settings/npcStates/2/event/quest/17/message"
-msgid "She doesn't get so much company these days, you see?"
+msgid "She doesn't get much company these days, you see?"
 msgstr "Видишь ли, у неё не так много общения в эти дни."
 
 #. data/maps/forest/interior/inn-01.json entities/65/settings/npcStates/2/event/quest/18/message #507
@@ -5044,7 +5044,7 @@ msgstr "Н-Но..."
 #. SHOW_MSG cross-worlds.table-chan-friend @DEFAULT
 #: data/maps/forest/interior/inn-01.json+entities/77/settings/dialog/6/event/11/message+%23553
 msgctxt "data/maps/forest/interior/inn-01.json//entities/77/settings/dialog/6/event/11/message"
-msgid "Look, there is nothing...\\. wrong about sitting on tables."
+msgid "Look, there is nothing...\\. wrong with sitting on tables."
 msgstr "Слушай, нет ничего...\\. плохого в сидении на столах."
 
 #. data/maps/forest/interior/inn-01.json entities/77/settings/dialog/6/event/12/message #554
@@ -5188,7 +5188,7 @@ msgstr "Большое спасибо вам!"
 #. SHOW_MSG cross-worlds.table-chan @DEFAULT
 #: data/maps/forest/interior/inn-01.json+entities/77/settings/dialog/6/event/46/message+%23571
 msgctxt "data/maps/forest/interior/inn-01.json//entities/77/settings/dialog/6/event/46/message"
-msgid "Finally I was able to open up!!"
+msgid "Finally, I was able to open up!!"
 msgstr "Наконец мне удалось раскрыться!!"
 
 #. data/maps/forest/interior/inn-01.json entities/77/settings/dialog/6/event/47/message #572
@@ -5196,8 +5196,8 @@ msgstr "Наконец мне удалось раскрыться!!"
 #. SHOW_MSG cross-worlds.table-chan-friend @DEFAULT
 #: data/maps/forest/interior/inn-01.json+entities/77/settings/dialog/6/event/47/message+%23572
 msgctxt "data/maps/forest/interior/inn-01.json//entities/77/settings/dialog/6/event/47/message"
-msgid "N-No, problem!\\. You definitely seem more happy this way!"
-msgstr "Н-Нет... проблем!\\. Теперь ты определённо выглядишь счастливее!"
+msgid "N-No problem!\\. You definitely seem more happy this way!"
+msgstr "Н-Нет проблем!\\. Теперь ты определённо выглядишь счастливее!"
 
 #. data/maps/forest/interior/inn-01.json entities/77/settings/dialog/6/event/48/message #573
 #. XenoDialog tableFinale SPAWN IF npc.tableChan <= 50
@@ -5316,7 +5316,7 @@ msgstr "...Почему?"
 #. SHOW_MSG forest.family-father @DEFAULT
 #: data/maps/forest/interior/inn-01.json+entities/78/settings/npcStates/0/event/8/message+%23588
 msgctxt "data/maps/forest/interior/inn-01.json//entities/78/settings/npcStates/0/event/8/message"
-msgid "I'm afraid business is booming for us \\c[3]Ling's\\c[0] again."
+msgid "I'm afraid business is going up for us \\c[3]Ling's\\c[0], again."
 msgstr "Боюсь, что бизнес снова процветает для нас, \\c[3]Лингов\\c[0]."
 
 #. data/maps/forest/interior/inn-01.json entities/78/settings/npcStates/0/event/9/message #591
@@ -5388,8 +5388,8 @@ msgstr "Представь себе моё удивление, когда я п�
 #. SHOW_MSG forest.family-son-oldest @DEFAULT
 #: data/maps/forest/interior/inn-01.json+entities/82/settings/npcStates/0/event/6/message+%23597
 msgctxt "data/maps/forest/interior/inn-01.json//entities/82/settings/npcStates/0/event/6/message"
-msgid "Of course I could never refuse such a request. So my wife and I packed our things and moved here."
-msgstr "Конечно я никогда не смог бы отказать в такой просьбе. Поэтому мы с женой собрали вещи и переехали сюда."
+msgid "Of course, I could never refuse such a request, so my wife and I packed our things and moved here."
+msgstr "Конечно, я никогда не смог бы отказать в такой просьбе, поэтому мы с женой собрали вещи и переехали сюда."
 
 #. data/maps/forest/interior/inn-01.json entities/82/settings/npcStates/0/event/7/message #598
 #. NPC
@@ -5404,7 +5404,7 @@ msgstr "И мы не жалеем об этом! Моей жене всё ещё
 #. cross-worlds.hexacast-male-red
 #: data/maps/forest/interior/inn-01.json+entities/83/settings/dialog/0/text+%23604
 msgctxt "data/maps/forest/interior/inn-01.json//entities/83/settings/dialog/0/text"
-msgid "Now that I think about it, benches in crossworld are very different from other games."
+msgid "Now that I think about it, benches in Cross Worlds are very different from other games."
 msgstr "Если задуматься, скамейки в СrossWorlds сильно отличаются от других игр."
 
 #. data/maps/forest/interior/inn-01.json entities/83/settings/dialog/1/text #605
@@ -5412,7 +5412,7 @@ msgstr "Если задуматься, скамейки в СrossWorlds силь
 #. cross-worlds.quadroguard-male-blond
 #: data/maps/forest/interior/inn-01.json+entities/83/settings/dialog/1/text+%23605
 msgctxt "data/maps/forest/interior/inn-01.json//entities/83/settings/dialog/1/text"
-msgid "Why so?"
+msgid "How so?"
 msgstr "Почему это?"
 
 #. data/maps/forest/interior/inn-01.json entities/83/settings/dialog/2/text #606
@@ -5484,7 +5484,7 @@ msgstr "О ком же это ты говоришь?"
 #. SHOW_MSG baki.male-green-tall @DEFAULT
 #: data/maps/forest/interior/inn-equip.json+entities/51/settings/npcStates/0/event/shop/2/message+%23265
 msgctxt "data/maps/forest/interior/inn-equip.json//entities/51/settings/npcStates/0/event/shop/2/message"
-msgid "Weapon best quality of Shad but now foremost we produce for human being."
+msgid "Weapon best quality of Shad, but now foremost we produce for human being."
 msgstr "Оружие шадов высочайшего качества, но сейчас в первую очередь мы производим для человечества."
 
 #. data/maps/forest/interior/inn-equip.json entities/78/settings/dialog/0/text #511
@@ -5540,7 +5540,7 @@ msgstr "Привет!"
 #. SHOW_MSG cross-worlds.triblader-female-black @DEFAULT
 #: data/maps/forest/interior/inn-equip.json+entities/78/settings/dialog/4/event/3/message+%23518
 msgctxt "data/maps/forest/interior/inn-equip.json//entities/78/settings/dialog/4/event/3/message"
-msgid "What's up, wanna know about that path too?"
+msgid "What's up, wanna know about that path, too?"
 msgstr "Что случилось, тоже хочешь узнать об этом пути?"
 
 #. data/maps/forest/interior/inn-equip.json entities/78/settings/dialog/4/event/4/message #519
@@ -6140,7 +6140,7 @@ msgstr "...Почему?"
 #. SHOW_MSG misc.oldman @DEFAULT
 #: data/maps/forest/interior/inn-og-01.json+entities/53/settings/npcStates/5/event/quest/19/message+%23134
 msgctxt "data/maps/forest/interior/inn-og-01.json//entities/53/settings/npcStates/5/event/quest/19/message"
-msgid "Don't worry, all will be well. Now let's begin."
+msgid "Don't worry, all will be well. Now, let's begin."
 msgstr "Не волнуйся, всё будет хорошо. Теперь давай начнём."
 
 #. data/maps/forest/interior/inn-og-01.json entities/53/settings/npcStates/5/event/quest/48/text #135
@@ -6432,7 +6432,7 @@ msgstr "..."
 #. SHOW_SIDE_MSG main.sergey @THINKING
 #: data/maps/forest/interior/inn-og-01.json+entities/63/settings/npcStates/0/event/quest/18/accepted/12/message+%23490
 msgctxt "data/maps/forest/interior/inn-og-01.json//entities/63/settings/npcStates/0/event/quest/18/accepted/12/message"
-msgid "For now help this Baxton. I will try to help on my end."
+msgid "For now, help this Baxton. I will try to help on my end."
 msgstr "А пока помоги этому Бакстону. Я постараюсь помочь со своей стороны."
 
 #. data/maps/forest/interior/inn-og-01.json entities/63/settings/npcStates/0/event/quest/18/declined/0/message #470
@@ -6551,7 +6551,7 @@ msgstr "...!"
 #. SHOW_MSG misc.advisor-researcher @DEFAULT
 #: data/maps/forest/interior/inn-og-01.json+entities/63/settings/npcStates/2/event/quest/6/message+%23485
 msgctxt "data/maps/forest/interior/inn-og-01.json//entities/63/settings/npcStates/2/event/quest/6/message"
-msgid "Now let's see... I can use a terminal to cross-reference your data, Lady Lea."
+msgid "Now, let's see... I can use a terminal to cross-reference your data, Lady Lea."
 msgstr "Давайте посмотрим... Я могу использовать терминал для перекрёстной ссылки на ваши данные, леди Лея."
 
 #. data/maps/forest/interior/inn-og-01.json entities/63/settings/npcStates/2/event/quest/14/name #491
@@ -6713,7 +6713,7 @@ msgstr "С сожалением сообщаю вам, что нам придё�
 #. SHOW_MSG misc.henry-researcher @HOLOGRAM
 #: data/maps/forest/interior/inn-og-01.json+entities/63/settings/npcStates/2/event/quest/40/message+%23508
 msgctxt "data/maps/forest/interior/inn-og-01.json//entities/63/settings/npcStates/2/event/quest/40/message"
-msgid "T-T-Try and stop m-me but y-y-you won't catch m-me!"
+msgid "T-T-Try and stop m-me, but y-y-you won't catch m-me!"
 msgstr "П-П-Попробуй остановить м-м-меня, но ты м-меня не поймаешь!"
 
 #. data/maps/forest/interior/inn-og-01.json entities/63/settings/npcStates/2/event/quest/44/name #510
@@ -6812,7 +6812,7 @@ msgstr "Это просто невозможно, леди Лея."
 #. SHOW_MSG misc.advisor-researcher @DEFAULT
 #: data/maps/forest/interior/inn-og-01.json+entities/63/settings/npcStates/2/event/quest/58/message+%23520
 msgctxt "data/maps/forest/interior/inn-og-01.json//entities/63/settings/npcStates/2/event/quest/58/message"
-msgid "Either this fiend breached our security system quite severely or..."
+msgid "Either this fiend breached our security system quite severely, or..."
 msgstr "Либо этот злодей нарушил нашу систему безопасности очень серьёзно, либо..."
 
 #. data/maps/forest/interior/inn-og-01.json entities/63/settings/npcStates/2/event/quest/59/message #521
@@ -6848,7 +6848,7 @@ msgstr "Леди Лея, мы ДОЛЖНЫ найти его."
 #. SHOW_MSG misc.advisor-researcher @DEFAULT
 #: data/maps/forest/interior/inn-og-01.json+entities/63/settings/npcStates/2/event/quest/66/message+%23524
 msgctxt "data/maps/forest/interior/inn-og-01.json//entities/63/settings/npcStates/2/event/quest/66/message"
-msgid "According to the logs he is still in \\c[3]Sapphire Ridge\\c[0]."
+msgid "According to the logs, he is still in \\c[3]Sapphire Ridge\\c[0]."
 msgstr "По нашим данным он по-прежнему в \\c[3]Сапфировом крае\\c[0]."
 
 #. data/maps/forest/interior/inn-og-01.json entities/63/settings/npcStates/2/event/quest/67/message #525
@@ -6875,7 +6875,7 @@ msgstr "Возможно, что некоторые игроки в этой о�
 #. SHOW_MSG misc.advisor-researcher @DEFAULT
 #: data/maps/forest/interior/inn-og-01.json+entities/63/settings/npcStates/2/event/quest/69/message+%23527
 msgctxt "data/maps/forest/interior/inn-og-01.json//entities/63/settings/npcStates/2/event/quest/69/message"
-msgid "I will search the surrounding regions, from here."
+msgid "I will search the surrounding regions from here."
 msgstr "Я буду искать отсюда в близлежащих регионах."
 
 #. data/maps/forest/interior/inn-og-01.json entities/63/settings/npcStates/2/event/quest/70/message #528
@@ -6911,7 +6911,7 @@ msgstr "Лея, это очень серьёзная ситуация."
 #. SHOW_MSG main.sergey @WORRIED
 #: data/maps/forest/interior/inn-og-01.json+entities/63/settings/npcStates/2/event/quest/80/message+%23537
 msgctxt "data/maps/forest/interior/inn-og-01.json//entities/63/settings/npcStates/2/event/quest/80/message"
-msgid "I cannot find this user either and impersonating an Avatar just sounds too far fetched."
+msgid "I cannot find this user either and impersonating an Avatar just sounds too far-fetched."
 msgstr "Я тоже не могу найти этого пользователя, и то, что он выдаёт себя за аватара, кажется слишком надуманным."
 
 #. data/maps/forest/interior/inn-og-01.json entities/63/settings/npcStates/2/event/quest/81/message #538
@@ -7046,7 +7046,7 @@ msgstr "Как?"
 #. SHOW_MSG misc.advisor-researcher @DEFAULT
 #: data/maps/forest/interior/inn-og-01.json+entities/63/settings/npcStates/4/event/quest/8/message+%23557
 msgctxt "data/maps/forest/interior/inn-og-01.json//entities/63/settings/npcStates/4/event/quest/8/message"
-msgid "Why by using words, Lady Lea. Is something the matter?"
+msgid "Why, by using words, Lady Lea. Is something the matter?"
 msgstr "Используя слова, леди Лея. Что-то не так?"
 
 #. data/maps/forest/interior/inn-og-01.json entities/63/settings/npcStates/4/event/quest/9/message #558
@@ -7136,7 +7136,7 @@ msgstr "[кивает]"
 #. SHOW_MSG misc.advisor-researcher @DEFAULT
 #: data/maps/forest/interior/inn-og-01.json+entities/63/settings/npcStates/4/event/quest/18/message+%23567
 msgctxt "data/maps/forest/interior/inn-og-01.json//entities/63/settings/npcStates/4/event/quest/18/message"
-msgid "This will do then!"
+msgid "This will do, then!"
 msgstr "Тогда отлично!"
 
 #. data/maps/forest/interior/inn-og-01.json entities/63/settings/npcStates/4/event/quest/19/message #577
@@ -7418,7 +7418,7 @@ msgstr "\\v[item.497.name]"
 #. SHOW_MSG guards.male-red-glasses @DEFAULT
 #: data/maps/forest/interior/inn-og-01.json+entities/145/settings/npcStates/1/event/quest/16/message+%23593
 msgctxt "data/maps/forest/interior/inn-og-01.json//entities/145/settings/npcStates/1/event/quest/16/message"
-msgid "Ah... I see I see..."
+msgid "Ah... I see, I see..."
 msgstr "Ах... вижу, вижу..."
 
 #. data/maps/forest/interior/inn-og-01.json entities/145/settings/npcStates/1/event/quest/17/message #594
@@ -7763,7 +7763,7 @@ msgstr "Ну, да...\\.\\.\\. Я хочу быть уверена, что де�
 #. forest.family-daugther-middle
 #: data/maps/forest/interior/inn-og-01.json+entities/194/settings/dialog/4/text+%23634
 msgctxt "data/maps/forest/interior/inn-og-01.json//entities/194/settings/dialog/4/text"
-msgid "Aww, Jenni you sweet thing. Don't worry so much, you're doing great!"
+msgid "Aww, Jenni, you sweet thing. Don't worry so much, you're doing great!"
 msgstr "Оуу, Дженни, дорогуша. Не волнуйся, у тебя здорово получается!"
 
 #. data/maps/forest/interior/inn-og-01.json entities/194/settings/dialog/5/text #635
@@ -7890,7 +7890,7 @@ msgstr "Доброго дня, Искатель."
 #. SHOW_MSG forest.family-mother @DEFAULT
 #: data/maps/forest/interior/inn-og-02.json+entities/22/settings/npcStates/0/event/3/message+%23585
 msgctxt "data/maps/forest/interior/inn-og-02.json//entities/22/settings/npcStates/0/event/3/message"
-msgid "I hope you can enjoy your stay at our humble establishment. "
+msgid "I hope you enjoy your stay at our humble establishment. "
 msgstr "Я надеюсь, что тебе понравится пребывание в нашем скромном заведении."
 
 #. data/maps/forest/interior/inn-og-02.json entities/22/settings/npcStates/0/event/4/message #586
@@ -8333,7 +8333,7 @@ msgstr "Может быть, его броня просто сделала ег�
 #. SHOW_MSG main.glasses @THOUGHTFUL
 #: data/maps/forest/interior/statue-room.json+entities/315/settings/event/73/message+%2323
 msgctxt "data/maps/forest/interior/statue-room.json//entities/315/settings/event/73/message"
-msgid "Well actually...\\. traditional samurai armor is already bug-inspired,\\. so...\\."
+msgid "Well, actually...\\. traditional samurai armor is already bug-inspired,\\. so...\\."
 msgstr "Ну, на самом деле...\\. традиционные самурайские доспехи вдохновлены жуками,\\. так что...\\."
 
 #. data/maps/forest/interior/statue-room.json entities/315/settings/event/75/message #39
@@ -8350,7 +8350,7 @@ msgstr "Заткнись, зануда."
 #: data/maps/forest/interior/statue-room.json+entities/315/settings/event/84/message+%2340
 msgctxt "data/maps/forest/interior/statue-room.json//entities/315/settings/event/84/message"
 msgid "Wait, what's everyone doing here?"
-msgstr "Подождите, что вы все делаете здесь?"
+msgstr "Стоп, что вы все делаете здесь?"
 
 #. data/maps/forest/interior/statue-room.json entities/315/settings/event/85/message #41
 #. EventTrigger ShadeScene
@@ -8485,7 +8485,7 @@ msgstr "Я ожидала ещё одно подземелье!"
 #. SHOW_MSG antagonists.fancyguy @LECTURING
 #: data/maps/forest/interior/statue-room.json+entities/324/settings/event/37/message+%23910
 msgctxt "data/maps/forest/interior/statue-room.json//entities/324/settings/event/37/message"
-msgid "Yes... and Instatainment is working on it apparently."
+msgid "Yes... and Instatainment is working on it, apparently."
 msgstr "Да... и Instatainment работает над ним, по всей видимости."
 
 #. data/maps/forest/interior/statue-room.json entities/324/settings/event/38/message #911
@@ -8791,7 +8791,7 @@ msgstr "Хорошо!"
 #. SHOW_MSG main.sergey @SMILE
 #: data/maps/forest/interior/statue-room.json+entities/324/settings/event/98/message+%23946
 msgctxt "data/maps/forest/interior/statue-room.json//entities/324/settings/event/98/message"
-msgid "We did it Lea! We got the last Shade!"
+msgid "We did it, Lea! We got the last Shade!"
 msgstr "Мы сделали это, Лея! Мы получили последнюю Тень!"
 
 #. data/maps/forest/interior/statue-room.json entities/324/settings/event/99/message #947
@@ -8815,7 +8815,7 @@ msgstr "Это означает, что мы можем получить дос�
 #. SHOW_MSG main.sergey @EYES_CLOSED
 #: data/maps/forest/interior/statue-room.json+entities/324/settings/event/101/message+%23949
 msgctxt "data/maps/forest/interior/statue-room.json//entities/324/settings/event/101/message"
-msgid "Hopefully we will find the place in your dreams somewhere in that area."
+msgid "Hopefully, we will find the place in your dreams somewhere in that area."
 msgstr "Надеюсь, что мы найдём место из твоих снов где-то в этой области."
 
 #. data/maps/forest/interior/statue-room.json entities/324/settings/event/102/message #950
@@ -8839,7 +8839,7 @@ msgstr "..."
 #. SHOW_MSG main.sergey @THINKING
 #: data/maps/forest/interior/statue-room.json+entities/324/settings/event/104/message+%23952
 msgctxt "data/maps/forest/interior/statue-room.json//entities/324/settings/event/104/message"
-msgid "Of course... if you like you can join the others and explore Rhombus Square first."
+msgid "Of course... if you like, you can join the others and explore Rhombus Square first."
 msgstr "Конечно... если хочешь, можешь присоединиться к остальным и исследовать Площадь Ромба."
 
 #. data/maps/forest/interior/statue-room.json entities/324/settings/event/105/message #953
@@ -9516,7 +9516,7 @@ msgstr "...как?"
 #. SHOW_MSG lab.scientist-switch @DEFAULT
 #: data/maps/forest/lab/room-3.json+entities/6/settings/npcStates/0/event/9/message+%23418
 msgctxt "data/maps/forest/lab/room-3.json//entities/6/settings/npcStates/0/event/9/message"
-msgid "Despite the accident we still had funds and a lot of connections.\\. Enough to raise another small facility together."
+msgid "Despite the accident, we still had funds and a lot of connections.\\. Enough to raise another small facility together."
 msgstr "Несмотря на несчастный случай, у нас всё ещё были средства и полно связей.\\. Достаточно для того, чтобы вместе возвести ещё один небольшой комплекс."
 
 #. data/maps/forest/lab/room-3.json entities/6/settings/npcStates/0/event/10/message #419
@@ -10706,8 +10706,8 @@ msgstr "Хау Линг"
 #. SHOW_MSG forest.inn-owner @DEFAULT
 #: data/maps/forest/path-04-hostel.json+entities/928/settings/npcStates/0/event/quest/2/message+%23481
 msgctxt "data/maps/forest/path-04-hostel.json//entities/928/settings/npcStates/0/event/quest/2/message"
-msgid "Ah... Another bird approached me. Welcome, bird!"
-msgstr "Ах... Ещё одна птица достигла меня. Добро пожаловать, птица!"
+msgid "Ah... Another bird approaches me. Welcome, bird!"
+msgstr "Ах... Ещё одна птица прилетела. Добро пожаловать, птица!"
 
 #. data/maps/forest/path-04-hostel.json entities/928/settings/npcStates/0/event/quest/3/message #475
 #. NPC shaii
@@ -10998,7 +10998,7 @@ msgstr "Как?"
 #. SHOW_MSG cross-worlds.triblader-male-blue @DEFAULT
 #: data/maps/forest/path-04-hostel.json+entities/933/settings/dialog/3/event/3/message+%23518
 msgctxt "data/maps/forest/path-04-hostel.json//entities/933/settings/dialog/3/event/3/message"
-msgid "Oh hey. You mean the money thing?"
+msgid "Oh, hey. You mean the money thing?"
 msgstr "О, хей. Ты про эту историю с деньгами?"
 
 #. data/maps/forest/path-04-hostel.json entities/933/settings/dialog/3/event/4/message #519
@@ -11117,7 +11117,7 @@ msgstr "Он делает это каждый день."
 #. cross-worlds.quadroguard-male-blond
 #: data/maps/forest/path-04-hostel.json+entities/960/settings/dialog/1/text+%23535
 msgctxt "data/maps/forest/path-04-hostel.json//entities/960/settings/dialog/1/text"
-msgid "Says, it keeps him fit."
+msgid "Says it keeps him fit."
 msgstr "Говорит, что это помогает ему быть в форме."
 
 #. data/maps/forest/path-04-hostel.json entities/960/settings/dialog/2/text #536
@@ -11205,7 +11205,7 @@ msgstr "...!"
 #. SHOW_MSG forest.family-daugther-youngest @DEFAULT
 #: data/maps/forest/path-04-hostel.json+entities/968/settings/npcStates/0/event/8/message+%23646
 msgctxt "data/maps/forest/path-04-hostel.json//entities/968/settings/npcStates/0/event/8/message"
-msgid "So tell me about the big cities! I always wanted to go, but my mother keeps saying that I'm too young, sad."
+msgid "So tell me about the big cities! I always wanted to go, but my mother keeps saying that I'm too young, sadly."
 msgstr "Расскажи мне о больших городах! Я всегда хотела в них побывать, но увы - моя мама постоянно говорит, что я слишком маленькая."
 
 #. data/maps/forest/path-04-hostel.json entities/968/settings/npcStates/0/event/9/message #647
@@ -11232,7 +11232,7 @@ msgstr "...Привет?"
 #. SHOW_MSG forest.family-daugther-youngest @DEFAULT
 #: data/maps/forest/path-04-hostel.json+entities/968/settings/npcStates/0/event/11/message+%23649
 msgctxt "data/maps/forest/path-04-hostel.json//entities/968/settings/npcStates/0/event/11/message"
-msgid "Oh is that so? Wow, that is so cool! Please come back and tell me more, okay?"
+msgid "Oh, is that so? Wow, that is so cool! Please come back and tell me more, okay?"
 msgstr "Ох, вот так? Вау, это так круто! Пожалуйста, возвращайся и расскажи ещё, хорошо?"
 
 #. data/maps/forest/path-04-hostel.json entities/968/settings/npcStates/0/event/12/message #650
@@ -11408,7 +11408,7 @@ msgstr "...?"
 #: data/maps/forest/path-04-hostel.json+entities/972/settings/event/1/elseStep/0/elseStep/0/message+%23679
 msgctxt "data/maps/forest/path-04-hostel.json//entities/972/settings/event/1/elseStep/0/elseStep/0/message"
 msgid "Well... I suppose waiting is all there is to do now."
-msgstr "Ну... я полагаю, что ждать - это всё, что нужно делать сейчас."
+msgstr "Ну... я полагаю, что всё, что нужно делать сейчас - это ждать."
 
 #. data/maps/forest/path-04-hostel.json entities/972/settings/event/3/thenStep/0/message #680
 #. EventTrigger wverynWait START IF quest.wervyn-quest.currentTask >= 2
@@ -11746,7 +11746,7 @@ msgstr "..."
 #. SHOW_MSG cross-worlds.pentafist-female-blue @DEFAULT
 #: data/maps/forest/path-04-hostel.json+entities/976/settings/npcStates/0/event/quest/4/elseStep/13/message+%23716
 msgctxt "data/maps/forest/path-04-hostel.json//entities/976/settings/npcStates/0/event/quest/4/elseStep/13/message"
-msgid "Now that I think about it...\\. you didn't say terribly much so far, huh?"
+msgid "Now that I think about it...\\. you haven't said terribly much so far, huh?"
 msgstr "Я тут подумала...\\. ты же до сих пор почти ничего не сказала."
 
 #. data/maps/forest/path-04-hostel.json entities/976/settings/npcStates/0/event/quest/4/elseStep/14/message #717
@@ -12380,7 +12380,7 @@ msgstr "Это откроет тебе доступ к давно забытом
 #. SHOW_MSG forest.vaga @DEFAULT
 #: data/maps/forest/path-04-vaga.json+entities/384/settings/npcStates/2/event/quest/16/message+%2359
 msgctxt "data/maps/forest/path-04-vaga.json//entities/384/settings/npcStates/2/event/quest/16/message"
-msgid "There your \\c[3]last trial\\c[0] shall begin and we will see if you are \\c[3]worthy of the shade\\c[0]."
+msgid "There, your \\c[3]last trial\\c[0] shall begin and we will see if you are \\c[3]worthy of the shade\\c[0]."
 msgstr "Там начнётся твоё \\c[3]последнее испытание\\c[0], и мы посмотрим, достойна ли ты \\c[3]Тени\\c[0]."
 
 #. data/maps/forest/path-04-vaga.json entities/384/settings/npcStates/2/event/quest/17/message #60
@@ -12466,7 +12466,7 @@ msgstr "...?"
 #. SHOW_MSG forest.vaga @DEFAULT
 #: data/maps/forest/path-04-vaga.json+entities/385/settings/event/7/message+%235
 msgctxt "data/maps/forest/path-04-vaga.json//entities/385/settings/event/7/message"
-msgid "Most gave up by this point, not capable of handling the power they've been given."
+msgid "Most have given up by this point, not capable of handling the power they've been given."
 msgstr "Большинство сдалось к этому моменту, не в состоянии справиться с той силой, которую им дали."
 
 #. data/maps/forest/path-04-vaga.json entities/385/settings/event/8/message #6
@@ -12522,8 +12522,8 @@ msgstr "[кивает]"
 #. SHOW_MSG forest.vaga @DEFAULT
 #: data/maps/forest/path-04-vaga.json+entities/385/settings/event/16/message+%2315
 msgctxt "data/maps/forest/path-04-vaga.json//entities/385/settings/event/16/message"
-msgid "I'm merely a simple man, but I was blessed with the task to help any soul that needs guidance."
-msgstr "Я всего лишь простой человек, но я был благословлён помогать каждой душе, которая нуждается в руководстве."
+msgid "I am merely a man, but I was blessed with the task of helping any soul in need of guidance."
+msgstr "Я всего лишь человек, но я был благословлён помогать каждой душе, нуждающейся в руководстве."
 
 #. data/maps/forest/path-04-vaga.json entities/385/settings/event/17/message #16
 #. EventTrigger meetVagabond START IF map.startScene && (!quest.bug-hunting.started && !quest.bug-hunting.solved)
@@ -12563,7 +12563,7 @@ msgstr "...!"
 #. SHOW_MSG forest.vaga @DEFAULT
 #: data/maps/forest/path-04-vaga.json+entities/385/settings/event/21/accepted/1/message+%2368
 msgctxt "data/maps/forest/path-04-vaga.json//entities/385/settings/event/21/accepted/1/message"
-msgid "Four by the number, the trials can be found in Sapphire Ridge."
+msgid "Four by number, the trials can be found in Sapphire Ridge."
 msgstr "Четыре испытания могут быть найдены в Сапфировом крае."
 
 #. data/maps/forest/path-04-vaga.json entities/385/settings/event/21/accepted/2/message #69
@@ -13208,7 +13208,7 @@ msgstr "...Прими это в знак своей победы..."
 #. SHOW_DREAM_MSG
 #: data/maps/forest/path-05.json+entities/849/settings/npcStates/4/event/1/text+%2347
 msgctxt "data/maps/forest/path-05.json//entities/849/settings/npcStates/4/event/1/text"
-msgid "...Stay ever vigilant Seeker..."
+msgid "...Stay ever vigilant, Seeker..."
 msgstr "...Всегда оставайся бдительной, Искатель..."
 
 #. data/maps/forest/path-05.json entities/877/settings/event/14/text #36
@@ -13225,7 +13225,7 @@ msgstr "...Время вышло, Искатель..."
 #. SHOW_DREAM_MSG
 #: data/maps/forest/path-05.json+entities/877/settings/event/15/thenStep/0/text+%2341
 msgctxt "data/maps/forest/path-05.json//entities/877/settings/event/15/thenStep/0/text"
-msgid "...You didn't even found the bug once..."
+msgid "...You didn't even find the bug once..."
 msgstr "...Ты даже ни разу не нашла жука..."
 
 #. data/maps/forest/path-05.json entities/877/settings/event/15/elseStep/0/thenStep/0/text #40
@@ -13301,7 +13301,7 @@ msgstr "Мне кажется, что они называются \\c[3]Тори
 #. SHOW_SIDE_MSG main.emilie @WATCH_OUT_BADASS
 #: data/maps/forest/path-06.json+entities/805/settings/event/2/message+%23200
 msgctxt "data/maps/forest/path-06.json//entities/805/settings/event/2/message"
-msgid "Thanks Monsieur Know-it-all."
+msgid "Thanks, Monsieur Know-it-all."
 msgstr "Спасибо, Monsieur (месье) Всезнайка."
 
 #. data/maps/forest/path-06.json entities/814/settings/event/8/message #201
@@ -13576,8 +13576,8 @@ msgstr "[мотает головой]"
 #. SHOW_SIDE_MSG main.emilie @EXHAUSTED
 #: data/maps/forest/path-07.json+entities/548/settings/npcStates/0/event/quest/20/thenStep/2/message+%2384
 msgctxt "data/maps/forest/path-07.json//entities/548/settings/npcStates/0/event/quest/20/thenStep/2/message"
-msgid "Of course not. Why would it."
-msgstr "Конечно нет. С чего бы это."
+msgid "Of course not. Why would it?"
+msgstr "Конечно нет. С чего бы это?"
 
 #. data/maps/forest/path-07.json entities/548/settings/npcStates/1/event/1/text #53
 #. NPC bug
@@ -13939,8 +13939,8 @@ msgstr "Эх, я помню, как видела такой фонтан в ре
 #. SHOW_SIDE_MSG main.emilie @UP
 #: data/maps/forest/path-07.json+entities/587/settings/event/12/thenStep/0/elseStep/0/thenStep/1/message+%2386
 msgctxt "data/maps/forest/path-07.json//entities/587/settings/event/12/thenStep/0/elseStep/0/thenStep/1/message"
-msgid "How many years was it?\\. \\c[3]6\\c[0]?\\. Maybe even \\c[3]8\\c[0]."
-msgstr "Сколько лет мне было?\\. \\c[3]6\\c[0]?\\. Может быть, даже \\c[3]8\\c[0]."
+msgid "How many years ago was it?\\. \\c[3]6\\c[0]?\\. Maybe even \\c[3]8\\c[0]."
+msgstr "Сколько лет назад это было?\\. \\c[3]6\\c[0]?\\. Может быть, даже \\c[3]8\\c[0]."
 
 #. data/maps/forest/path-07.json entities/587/settings/event/12/thenStep/0/elseStep/0/thenStep/2/message #87
 #. EventTrigger Distractions START IF tmp.fountain.count > tmp.fountain.talk
@@ -13973,7 +13973,7 @@ msgstr "И там был один парень, который бросил...\\
 #. SHOW_SIDE_MSG antagonists.fancyguy @DEFAULT
 #: data/maps/forest/path-07.json+entities/587/settings/event/12/thenStep/0/elseStep/0/elseStep/0/thenStep/0/message+%2393
 msgctxt "data/maps/forest/path-07.json//entities/587/settings/event/12/thenStep/0/elseStep/0/elseStep/0/thenStep/0/message"
-msgid "I heard stories of seekers that managed to fail this challenge for over \\c[3]8 times\\c[0]!"
+msgid "I heard stories of Seekers that managed to fail this challenge more than \\c[3]8 times\\c[0]!"
 msgstr "Я слышал истории об Искателях, которые умудрились провалить это испытание более \\c[3]8 раз\\c[0]!"
 
 #. data/maps/forest/path-07.json entities/587/settings/event/12/thenStep/0/elseStep/0/elseStep/0/thenStep/1/message #94
@@ -14237,7 +14237,7 @@ msgstr "Им и правда конца не видать, не так ли?"
 #. SHOW_SIDE_MSG antagonists.sidekick @ANGRY
 #: data/maps/forest/path-07.json+entities/606/settings/event/1/thenStep/3/elseStep/0/thenStep/0/message+%23274
 msgctxt "data/maps/forest/path-07.json//entities/606/settings/event/1/thenStep/3/elseStep/0/thenStep/0/message"
-msgid "Just how many of those bug are there?"
+msgid "Just how many of those bugs are there?"
 msgstr "Да сколько тут этих жуков?"
 
 #. data/maps/forest/path-07.json entities/606/settings/event/1/thenStep/3/elseStep/0/elseStep/0/message #277
@@ -14304,7 +14304,7 @@ msgstr "Да!\\. Снова спасибо за спасение!"
 #. SHOW_MSG guests.wervyn @DEFAULT
 #: data/maps/forest/path-07.json+entities/607/settings/event/57/message+%23218
 msgctxt "data/maps/forest/path-07.json//entities/607/settings/event/57/message"
-msgid "...\\. No problem...\\. That was...\\. how often now?"
+msgid "...\\. No problem...\\. That was...\\. how many times now?"
 msgstr "...\\.Без проблем...\\. Это было...\\. в который раз уже?"
 
 #. data/maps/forest/path-07.json entities/607/settings/event/58/message #219
@@ -14928,7 +14928,7 @@ msgstr "Генри"
 #. SHOW_MSG misc.henry-researcher @DEFAULT
 #: data/maps/forest/path-09.json+entities/619/settings/event/22/message+%239
 msgctxt "data/maps/forest/path-09.json//entities/619/settings/event/22/message"
-msgid "G-g-good Luck, Hehehe..."
+msgid "G-g-good luck, Hehehe..."
 msgstr "У-у-удачи, хехехе..."
 
 #. data/maps/forest/path-09.json entities/619/settings/event/23/message #10
@@ -15104,7 +15104,7 @@ msgstr "Это потрясающе!!"
 #. SHOW_MSG main.sergey @NOTIFYING
 #: data/maps/forest/path-10-hidden.json+entities/1/settings/event/27/message+%23288
 msgctxt "data/maps/forest/path-10-hidden.json//entities/1/settings/event/27/message"
-msgid "Now this is the last chance for everyone to prepare!"
+msgid "Now, this is the last chance for everyone to prepare!"
 msgstr "Сейчас последний шанс для всех подготовиться!"
 
 #. data/maps/forest/path-10-hidden.json entities/1/settings/event/28/message #363
@@ -15288,8 +15288,8 @@ msgstr "Почему?"
 #. SHOW_MSG main.sergey @WORRIED
 #: data/maps/forest/path-10-hidden.json+entities/215/settings/event/29/message+%23331
 msgctxt "data/maps/forest/path-10-hidden.json//entities/215/settings/event/29/message"
-msgid "Assuming that we reach the server and manage to make a backup of all the Evotars."
-msgstr "Если предположить, что мы достигнем сервера и сможем сделать резервную копию всех эвотаров."
+msgid "Assuming that we reach the server and manage to make a backup of all the Evotars..."
+msgstr "Если предположить, что мы достигнем сервера и сможем сделать резервную копию всех эвотаров..."
 
 #. data/maps/forest/path-10-hidden.json entities/215/settings/event/30/message #332
 #. EventTrigger findingHiddenPessage START IF plot.line >= 20800
@@ -15336,7 +15336,7 @@ msgstr "Я ещё не совсем уверен, как решить эту п�
 #. SHOW_MSG main.sergey @COMPLEX
 #: data/maps/forest/path-10-hidden.json+entities/215/settings/event/35/message+%23337
 msgctxt "data/maps/forest/path-10-hidden.json//entities/215/settings/event/35/message"
-msgid "Even for an employee like me it is difficult to reach the right people to talk to about this."
+msgid "Even for an employee like me, it is difficult to reach the right people to talk to about this."
 msgstr "Даже для такого сотрудника, как я, трудно найти нужных людей, с которыми можно поговорить об этом."
 
 #. data/maps/forest/path-10-hidden.json entities/215/settings/event/36/message #338
@@ -15696,7 +15696,7 @@ msgstr "Я не знаю, что ещё сказать..."
 #. SHOW_MSG main.sergey-av @DEFAULT
 #: data/maps/forest/path-10-hidden.json+entities/224/settings/event/41/message+%23409
 msgctxt "data/maps/forest/path-10-hidden.json//entities/224/settings/event/41/message"
-msgid "Let's take things slowly, C'tron."
+msgid "Let us take things slowly, C'tron."
 msgstr "Давай не будем торопиться, Ци'трон."
 
 #. data/maps/forest/path-10-hidden.json entities/224/settings/event/43/message #410
@@ -15712,7 +15712,7 @@ msgstr "А?"
 #. SHOW_MSG main.sergey-av @EYES_CLOSED
 #: data/maps/forest/path-10-hidden.json+entities/224/settings/event/47/message+%23411
 msgctxt "data/maps/forest/path-10-hidden.json//entities/224/settings/event/47/message"
-msgid "It's good that your memory seems to be returning so quickly."
+msgid "It is good that your memory seems to be returning so quickly."
 msgstr "Хорошо, что твоя память, похоже, возвращается довольно быстро."
 
 #. data/maps/forest/path-10-hidden.json entities/224/settings/event/48/message #412
@@ -15863,8 +15863,8 @@ msgstr "[кивает]"
 #. SHOW_MSG main.sergey @WHISTLING
 #: data/maps/forest/path-10.json+entities/774/settings/event/8/message+%23290
 msgctxt "data/maps/forest/path-10.json//entities/774/settings/event/8/message"
-msgid "Oh yes...\\. one last thing."
-msgstr "Ах да...\\. одна последняя деталь."
+msgid "Oh, yes...\\. one last thing."
+msgstr "Ах, да...\\. одна последняя деталь."
 
 #. data/maps/forest/path-10.json entities/774/settings/event/9/message #291
 #. EventTrigger findingHiddenPessageEnd START IF plot.line >= 20900
@@ -16570,15 +16570,15 @@ msgstr "Здесь так много игроков в одном месте!"
 #. SHOW_MSG main.genius @SERIOUS
 #: data/maps/forest/path-12.json+entities/829/settings/event/59/message+%23236
 msgctxt "data/maps/forest/path-12.json//entities/829/settings/event/59/message"
-msgid "I hope the servers can hold the load.\n"
-msgstr "Надеюсь, серверы выдержат нагрузку."
+msgid "I hope the servers can handle the load.\n"
+msgstr "Надеюсь, сервера выдержат нагрузку."
 
 #. data/maps/forest/path-12.json entities/829/settings/event/61/message #237
 #. EventTrigger openingScene START IF tmp.openingScene
 #. SHOW_MSG main.guild-leader @ANGRY
 #: data/maps/forest/path-12.json+entities/829/settings/event/61/message+%23237
 msgctxt "data/maps/forest/path-12.json//entities/829/settings/event/61/message"
-msgid "Satoshi, keep the immersion, please!"
+msgid "Satoshi, mind the immersion, please!"
 msgstr "Сатоши, пожалуйста, не нарушай погружение!"
 
 #. data/maps/forest/path-12.json entities/829/settings/event/62/message #238
@@ -16659,7 +16659,7 @@ msgstr "Раскрыть тайну Древних."
 #: data/maps/forest/path-12.json+entities/829/settings/event/82/message+%23252
 msgctxt "data/maps/forest/path-12.json//entities/829/settings/event/82/message"
 msgid "Now I am counting on you!"
-msgstr "Теперь я рассчитываю на вас!"
+msgstr "Теперь, я рассчитываю на вас!"
 
 #. data/maps/forest/path-12.json entities/829/settings/event/83/message #253
 #. EventTrigger openingScene START IF tmp.openingScene

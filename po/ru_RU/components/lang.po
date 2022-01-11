@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.4.1-2\n"
+"Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-14 01:09+0000\n"
-"POT-Revision-Date: 2021-04-14 01:09+0000\n"
+"POT-Creation-Date: 2022-01-11 15:55+0000\n"
+"POT-Revision-Date: 2022-01-11 15:55+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0\n"
+"X-Generator: crosscode-localization-engine 0.0.0 (2168d54 2022-01-11)\n"
 
 #. data/lang/sc/gimmick.en_US.json labels/unknown #0
 #: data/lang/sc/gimmick.en_US.json+labels/unknown+%230
@@ -1073,7 +1073,9 @@ msgstr "Новое слово: [!]"
 #: data/lang/sc/gui.en_US.json+labels/get-msg/FRIENDSHIP+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/get-msg/FRIENDSHIP"
 msgid "Contacts shared with [!]"
-msgstr "Контакты синхронизированы с [!]"
+msgstr ""
+"Контакты синхронизированы с\n"
+"[!]"
 
 #. data/lang/sc/gui.en_US.json labels/get-msg/PARTY #0
 #: data/lang/sc/gui.en_US.json+labels/get-msg/PARTY+%230
@@ -3368,7 +3370,7 @@ msgstr "Уровни не выровнены."
 #. data/lang/sc/gui.en_US.json labels/menu/help/equip/colorDesc/red #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/equip/colorDesc/red+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/equip/colorDesc/red"
-msgid "Indicates that the levels are badly aligned, which could lead to problems when fighting enemies of a similiar level."
+msgid "Indicates that the levels are badly aligned, which could lead to problems when fighting enemies of a similar level."
 msgstr "Уровни плохо выровнены, может привести к проблемам в боях с врагами аналогичного уровня."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/item/titles/hp #0
@@ -4310,8 +4312,8 @@ msgstr "Время игры"
 #. data/lang/sc/gui.en_US.json labels/menu/description/items #0
 #: data/lang/sc/gui.en_US.json+labels/menu/description/items+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/description/items"
-msgid "Browse through your items and use consumables."
-msgstr "Просматривайте предметы и используйте расходники."
+msgid "Browse through your items and select favorite consumables."
+msgstr "Просматривайте предметы и сохраняйте ваши любимые расходники."
 
 #. data/lang/sc/gui.en_US.json labels/menu/description/skills #0
 #: data/lang/sc/gui.en_US.json+labels/menu/description/skills+%230
@@ -4916,13 +4918,13 @@ msgstr "Увеличивает скорость зарядки точного в
 #. data/lang/sc/gui.en_US.json labels/menu/equip/descriptions/XP_ZERO #0
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/descriptions/XP_ZERO+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/equip/descriptions/XP_ZERO"
-msgid "Disables exp gain from quests or defeating enemies."
-msgstr "Отключает получение опыта за квесты или за победу над врагами."
+msgid "Disables exp gain from defeating enemies."
+msgstr "Отключает получение опыта за победу над врагами."
 
 #. data/lang/sc/gui.en_US.json labels/menu/equip/descriptions/XP_PLUS #0
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/descriptions/XP_PLUS+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/equip/descriptions/XP_PLUS"
-msgid "Increases amount of experience gained from defeating enemies"
+msgid "Increases amount of experience gained from defeating enemies."
 msgstr "Увеличивает количество получаемого опыта за победу над врагом."
 
 #. data/lang/sc/gui.en_US.json labels/menu/equip/descriptions/RANGED_DMG #0
@@ -5166,14 +5168,14 @@ msgstr "Позволяет свободно ходить по липкой па�
 #. data/lang/sc/gui.en_US.json labels/menu/equip/descriptions/BEGONE_ICE #0
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/descriptions/BEGONE_ICE+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/equip/descriptions/BEGONE_ICE"
-msgid "Makes it possible to run and perform actions on ice without slipping."
+msgid "Makes it possible to normally run and perform actions on ice without slipping."
 msgstr "Позволяет бегать и совершать любые действия на льду без скольжения."
 
 #. data/lang/sc/gui.en_US.json labels/menu/equip/descriptions/EQUIP_SCALE #0
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/descriptions/EQUIP_SCALE+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/equip/descriptions/EQUIP_SCALE"
-msgid "Base Params of this weapon automatically scale with your current level."
-msgstr "Базовые характеристики этого оружия автоматически подстраиваются под ваш уровень."
+msgid "Base Parameters of this equipment automatically scale with your current level."
+msgstr "Базовые характеристики этой экипировки автоматически подстраиваются под ваш уровень."
 
 #. data/lang/sc/gui.en_US.json labels/menu/skill/shade #0
 #: data/lang/sc/gui.en_US.json+labels/menu/skill/shade+%230
@@ -8317,7 +8319,7 @@ msgstr "Кликните или нажмите \\i[gamepad-a] на геймпа�
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/map/pages/1/content/2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/map/pages/1/content/2"
 msgid "Selecting yes closes the menu and teleports Lea to the location of the landmark"
-msgstr "При подтверждении меню закроется и Лея телепортируется к ориентиру."
+msgstr "При подтверждении меню закроется, и Лея телепортируется к ориентиру."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/map/pages/1/content/3 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/map/pages/1/content/3+%230
@@ -8329,7 +8331,7 @@ msgstr "...."
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/map/pages/1/content/4+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/map/pages/1/content/4"
 msgid "If a landmark is greyed out it means it was blocked. (eg. because of Story progression) To access them, simply find them gain. "
-msgstr "Если ориентир серый, значит, он заблокирован (например, из-за сюжетного прогресса). Чтобы получить к ним доступ, просто найдите их."
+msgstr "Если ориентир серый, значит, он заблокирован (например, из-за сюжетного прогресса). Чтобы получить к ним доступ, просто найдите их снова."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/map/pages/2/title #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/map/pages/2/title+%230
@@ -12756,6 +12758,111 @@ msgstr "Этот файл сохранения устарел, могут воз
 msgctxt "data/lang/sc/gui.en_US.json//labels/loading/questUpdate"
 msgid "Some quests have changed. Those have been resetted. This means you might have to re-do some tasks or you get your rewards after you close this message."
 msgstr "Некоторые задания изменились. Они были перенесены. Это означает, что вам, возможно, придётся выполнить некоторые задачи заново, или вы получите вознаграждение после того, как закроете это сообщение."
+
+#. data/lang/sc/gui.en_US.json labels/combat-hud/pvp-round #0
+#. INJECTED_IN_MOD
+#: data/lang/sc/gui.en_US.json+labels/combat-hud/pvp-round+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/combat-hud/pvp-round"
+msgid "Round"
+msgstr "Раунд"
+
+#. data/lang/sc/gui.en_US.json labels/combat-hud/boss #0
+#. INJECTED_IN_MOD
+#: data/lang/sc/gui.en_US.json+labels/combat-hud/boss+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/combat-hud/boss"
+msgid "Boss"
+msgstr "Босс"
+
+#. data/lang/sc/gui.en_US.json labels/title-screen/changelog #0
+#. INJECTED_IN_MOD
+#: data/lang/sc/gui.en_US.json+labels/title-screen/changelog+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/changelog"
+msgid "Changelog"
+msgstr "История изменений"
+
+#. data/lang/sc/gui.en_US.json labels/options/crosscode-ru/localized-labels-on-sprites/name #0
+#. INJECTED_IN_MOD
+#: data/lang/sc/gui.en_US.json+labels/options/crosscode-ru/localized-labels-on-sprites/name+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/options/crosscode-ru/localized-labels-on-sprites/name"
+msgid "Localized labels on sprites"
+msgstr "Локализация текстур"
+
+#. data/lang/sc/gui.en_US.json labels/options/crosscode-ru/localized-labels-on-sprites/description #0
+#. INJECTED_IN_MOD
+#: data/lang/sc/gui.en_US.json+labels/options/crosscode-ru/localized-labels-on-sprites/description+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/options/crosscode-ru/localized-labels-on-sprites/description"
+msgid "Enables translated labels on sprites such as signs in the game world. \\c[1]Needs a restart!"
+msgstr "Включает переведённые надписи на спрайтах, например, на табличках в игровом мире. \\c[1]Требуется перезапуск!"
+
+#. data/lang/sc/gui.en_US.json labels/menu/option/mods #0
+#. INJECTED_IN_MOD
+#: data/lang/sc/gui.en_US.json+labels/menu/option/mods+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/menu/option/mods"
+msgid "Mods"
+msgstr "Моды"
+
+#. data/lang/sc/gui.en_US.json labels/options/mods-description/description #0
+#. INJECTED_IN_MOD
+#: data/lang/sc/gui.en_US.json+labels/options/mods-description/description+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/options/mods-description/description"
+msgid "In this menu you can \\c[3]enable or disable installed mods\\c[0]. Mod descriptions are shown below. \\c[1]The game needs to be restarted\\c[0] if you change any options here!"
+msgstr "В этом меню вы можете \\c[3]включать или выключать установленные моды\\c[0]. Описания модов отображаются внизу. \\c[1]Игра должна быть перезапущена\\c[0], если вы измените здесь какие-либо параметры!"
+
+#. data/lang/sc/gui.en_US.json labels/options/headers/logLevel #0
+#. INJECTED_IN_MOD
+#: data/lang/sc/gui.en_US.json+labels/options/headers/logLevel+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/options/headers/logLevel"
+msgid "Log levels"
+msgstr "Настройки логирования через CCLoader"
+
+#. data/lang/sc/gui.en_US.json labels/options/logLevel-log/name #0
+#. INJECTED_IN_MOD
+#: data/lang/sc/gui.en_US.json+labels/options/logLevel-log/name+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-log/name"
+msgid "Log level: Default"
+msgstr "Информационные сообщения"
+
+#. data/lang/sc/gui.en_US.json labels/options/logLevel-log/description #0
+#. INJECTED_IN_MOD
+#: data/lang/sc/gui.en_US.json+labels/options/logLevel-log/description+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-log/description"
+msgid "Enables default message popups. \\c[1]Needs a restart!"
+msgstr "Включает всплывающие окна информационных сообщений. \\c[1]Требуется перезапуск!"
+
+#. data/lang/sc/gui.en_US.json labels/options/logLevel-warn/name #0
+#. INJECTED_IN_MOD
+#: data/lang/sc/gui.en_US.json+labels/options/logLevel-warn/name+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-warn/name"
+msgid "Log level: Warnings"
+msgstr "Предупреждения"
+
+#. data/lang/sc/gui.en_US.json labels/options/logLevel-warn/description #0
+#. INJECTED_IN_MOD
+#: data/lang/sc/gui.en_US.json+labels/options/logLevel-warn/description+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-warn/description"
+msgid "Enables warning popups. \\c[1]Needs a restart!"
+msgstr "Включает всплывающие окна предупреждений. \\c[1]Требуется перезапуск!"
+
+#. data/lang/sc/gui.en_US.json labels/options/logLevel-error/name #0
+#. INJECTED_IN_MOD
+#: data/lang/sc/gui.en_US.json+labels/options/logLevel-error/name+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-error/name"
+msgid "Log level: Errors"
+msgstr "Ошибки"
+
+#. data/lang/sc/gui.en_US.json labels/options/logLevel-error/description #0
+#. INJECTED_IN_MOD
+#: data/lang/sc/gui.en_US.json+labels/options/logLevel-error/description+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-error/description"
+msgid "Enables error popups. \\c[1]Needs a restart!"
+msgstr "Включает всплывающие окна ошибок. \\c[1]Требуется перезапуск!"
+
+#. data/lang/sc/gui.en_US.json labels/misc-time-var/12-00 #0
+#. INJECTED_IN_MOD
+#: data/lang/sc/gui.en_US.json+labels/misc-time-var/12-00+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/misc-time-var/12-00"
+msgid "It's High Noon"
+msgstr "час расплаты"
 
 #. data/lang/sc/map-content.en_US.json labels/elevator/cancel #0
 #: data/lang/sc/map-content.en_US.json+labels/elevator/cancel+%230

@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.4.1-2\n"
+"Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-14 01:10+0000\n"
-"POT-Revision-Date: 2021-04-14 01:10+0000\n"
+"POT-Creation-Date: 2022-01-11 15:55+0000\n"
+"POT-Revision-Date: 2022-01-11 15:55+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: vi_VN\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0\n"
+"X-Generator: crosscode-localization-engine 0.0.0 (2168d54 2022-01-11)\n"
 
 #. data/maps/bergen-trail/cave/cave-08-smith.json entities/12/settings/interact/hoverText #1
 #. Prop SPAWN IF quest.oldman-drill.currentTask >= 3
@@ -718,7 +718,7 @@ msgstr ""
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/53/settings/event/28/message+%2312213
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/53/settings/event/28/message"
-msgid "It seems like he ran into a group that tries to smuggle out a huge crate.\\. Please go there quickly!"
+msgid "It seems like he ran into a group that tried to smuggle out a huge crate.\\. Please get there quickly!"
 msgstr ""
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/53/settings/event/29/message #12203
@@ -2095,7 +2095,7 @@ msgstr ""
 
 #. data/maps/bergen-trail/hermit-1.json entities/44/settings/npcStates/0/event/2/message #17
 #. NPC
-#. SHOW_MSG bergen.female-small-brown @DEFAULT
+#. SHOW_MSG cross-worlds.triblader-female-purple @DEFAULT
 #: data/maps/bergen-trail/hermit-1.json+entities/44/settings/npcStates/0/event/2/message+%2317
 msgctxt "data/maps/bergen-trail/hermit-1.json//entities/44/settings/npcStates/0/event/2/message"
 msgid "Some friends of mine told me that you get some quests here after you beat the \\c[3]Temple Mine\\c[0]."
@@ -2103,7 +2103,7 @@ msgstr ""
 
 #. data/maps/bergen-trail/hermit-1.json entities/44/settings/npcStates/0/event/3/message #18
 #. NPC
-#. SHOW_MSG bergen.female-small-brown @DEFAULT
+#. SHOW_MSG cross-worlds.triblader-female-purple @DEFAULT
 #: data/maps/bergen-trail/hermit-1.json+entities/44/settings/npcStates/0/event/3/message+%2318
 msgctxt "data/maps/bergen-trail/hermit-1.json//entities/44/settings/npcStates/0/event/3/message"
 msgid "Not really seeing anyone new though..."
@@ -2227,7 +2227,7 @@ msgstr ""
 #. SHOW_MSG lab.scientist-xbox @HOLOGRAM
 #: data/maps/bergen-trail/lab/room-final.json+entities/46/settings/interact/event/16/message+%2312207
 msgctxt "data/maps/bergen-trail/lab/room-final.json//entities/46/settings/interact/event/16/message"
-msgid "It will house the greatest minds of our generation to work tirelessly for the good on mankind!"
+msgid "It will house the greatest minds of our generation to work tirelessly for the good of mankind!"
 msgstr ""
 
 #. data/maps/bergen-trail/lab/room-final.json entities/46/settings/interact/event/17/message #244
@@ -2385,22 +2385,39 @@ msgid ""
 "\\c[3]So you will learn one location after reading this very message.\\c[0]"
 msgstr ""
 
-#. data/maps/bergen-trail/lab/room-final.json entities/49/settings/condAnims/0/interact/event/6/thenStep/0/text #12208
+#. data/maps/bergen-trail/lab/room-final.json entities/49/settings/condAnims/0/interact/event/6/thenStep/0/text #12215
 #. Prop keyLore
 #. IF true
-#. IF true
+#. IF extension.fish-gear.active && extension.flying-hedgehag.active && extension.scorpion-robo.active && extension.snowman-tank.active
 #. SHOW_BOARD_MSG
-#: data/maps/bergen-trail/lab/room-final.json+entities/49/settings/condAnims/0/interact/event/6/thenStep/0/text+%2312208
+#: data/maps/bergen-trail/lab/room-final.json+entities/49/settings/condAnims/0/interact/event/6/thenStep/0/text+%2312215
 msgctxt "data/maps/bergen-trail/lab/room-final.json//entities/49/settings/condAnims/0/interact/event/6/thenStep/0/text"
+msgid ""
+"Everyone who manages to enter will be welcome!\n"
+"\n"
+"Sincerely,\n"
+"\"The 4 Visionaries\"\n"
+"\n"
+"\\c[1][END OF MAIL]\\c[0]"
+msgstr ""
+
+#. data/maps/bergen-trail/lab/room-final.json entities/49/settings/condAnims/0/interact/event/6/elseStep/0/text #12208
+#. Prop keyLore
+#. IF true
+#. IF NOT extension.fish-gear.active && extension.flying-hedgehag.active && extension.scorpion-robo.active && extension.snowman-tank.active
+#. SHOW_BOARD_MSG
+#: data/maps/bergen-trail/lab/room-final.json+entities/49/settings/condAnims/0/interact/event/6/elseStep/0/text+%2312208
+msgctxt "data/maps/bergen-trail/lab/room-final.json//entities/49/settings/condAnims/0/interact/event/6/elseStep/0/text"
 msgid "Interested \\c[3]\\v[lore.title.seeker]s\\c[0] should know that \\c[3]each of their kind\\c[0] is destined to enter \\c[3]only one of the 4 facilities\\c[0] and find a part of the information."
 msgstr ""
 
-#. data/maps/bergen-trail/lab/room-final.json entities/49/settings/condAnims/0/interact/event/7/text #12211
+#. data/maps/bergen-trail/lab/room-final.json entities/49/settings/condAnims/0/interact/event/6/elseStep/1/text #12211
 #. Prop keyLore
 #. IF true
+#. IF NOT extension.fish-gear.active && extension.flying-hedgehag.active && extension.scorpion-robo.active && extension.snowman-tank.active
 #. SHOW_BOARD_MSG
-#: data/maps/bergen-trail/lab/room-final.json+entities/49/settings/condAnims/0/interact/event/7/text+%2312211
-msgctxt "data/maps/bergen-trail/lab/room-final.json//entities/49/settings/condAnims/0/interact/event/7/text"
+#: data/maps/bergen-trail/lab/room-final.json+entities/49/settings/condAnims/0/interact/event/6/elseStep/1/text+%2312211
+msgctxt "data/maps/bergen-trail/lab/room-final.json//entities/49/settings/condAnims/0/interact/event/6/elseStep/1/text"
 msgid ""
 "But \\c[3]through teamwork and communication\\c[0] it might be possible to obtain all locations regardless!\n"
 "Everyone who manages to enter will be welcome!\n"
@@ -2411,12 +2428,12 @@ msgid ""
 "\\c[1][END OF MAIL]\\c[0]"
 msgstr ""
 
-#. data/maps/bergen-trail/lab/room-final.json entities/49/settings/condAnims/0/interact/event/8/text #12209
+#. data/maps/bergen-trail/lab/room-final.json entities/49/settings/condAnims/0/interact/event/7/text #12209
 #. Prop keyLore
 #. IF true
 #. SHOW_BOARD_MSG
-#: data/maps/bergen-trail/lab/room-final.json+entities/49/settings/condAnims/0/interact/event/8/text+%2312209
-msgctxt "data/maps/bergen-trail/lab/room-final.json//entities/49/settings/condAnims/0/interact/event/8/text"
+#: data/maps/bergen-trail/lab/room-final.json+entities/49/settings/condAnims/0/interact/event/7/text+%2312209
+msgctxt "data/maps/bergen-trail/lab/room-final.json//entities/49/settings/condAnims/0/interact/event/7/text"
 msgid ""
 "\\c[1]ATTACHMENT:\\c[0]\n"
 "\n"
@@ -2773,7 +2790,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/3/message #242
 #. NPC Jean
-#. IF
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/3/message+%23242
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/0/event/quest/3/message"
@@ -2782,7 +2798,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/4/message #243
 #. NPC Jean
-#. IF
 #. SHOW_MSG main.lea @SURPRISED
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/4/message+%23243
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/0/event/quest/4/message"
@@ -2791,7 +2806,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/5/message #244
 #. NPC Jean
-#. IF
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/5/message+%23244
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/0/event/quest/5/message"
@@ -2800,7 +2814,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/7/message #245
 #. NPC Jean
-#. IF
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/7/message+%23245
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/0/event/quest/7/message"
@@ -2809,7 +2822,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/8/message #246
 #. NPC Jean
-#. IF
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/8/message+%23246
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/0/event/quest/8/message"
@@ -2818,7 +2830,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/9/message #247
 #. NPC Jean
-#. IF
 #. SHOW_MSG main.lea @SAD
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/9/message+%23247
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/0/event/quest/9/message"
@@ -2827,7 +2838,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/10/message #248
 #. NPC Jean
-#. IF
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/10/message+%23248
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/0/event/quest/10/message"
@@ -2836,7 +2846,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/12/message #249
 #. NPC Jean
-#. IF
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/12/message+%23249
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/0/event/quest/12/message"
@@ -2845,7 +2854,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/13/message #250
 #. NPC Jean
-#. IF
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/13/message+%23250
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/0/event/quest/13/message"
@@ -2854,7 +2862,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/14/message #251
 #. NPC Jean
-#. IF
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/14/message+%23251
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/0/event/quest/14/message"
@@ -2863,7 +2870,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/15/message #252
 #. NPC Jean
-#. IF
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/15/message+%23252
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/0/event/quest/15/message"
@@ -2872,7 +2878,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/16/message #288
 #. NPC Jean
-#. IF
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/16/message+%23288
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/0/event/quest/16/message"
@@ -2881,7 +2886,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/17/message #253
 #. NPC Jean
-#. IF
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/17/message+%23253
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/0/event/quest/17/message"
@@ -2890,7 +2894,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/18/message #254
 #. NPC Jean
-#. IF
 #. SHOW_MSG main.lea @NOD
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/18/message+%23254
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/0/event/quest/18/message"
@@ -2899,7 +2902,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/19/message #255
 #. NPC Jean
-#. IF
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/19/message+%23255
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/0/event/quest/19/message"
@@ -2908,7 +2910,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/20/message #256
 #. NPC Jean
-#. IF
 #. SHOW_MSG main.lea @SURPRISED_TOWARD
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/20/message+%23256
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/0/event/quest/20/message"
@@ -2917,7 +2918,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/21/message #257
 #. NPC Jean
-#. IF
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/21/message+%23257
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/0/event/quest/21/message"
@@ -2926,7 +2926,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/22/message #258
 #. NPC Jean
-#. IF
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/22/message+%23258
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/0/event/quest/22/message"
@@ -2935,7 +2934,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/23/message #260
 #. NPC Jean
-#. IF
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/23/message+%23260
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/0/event/quest/23/message"
@@ -2944,7 +2942,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/24/message #261
 #. NPC Jean
-#. IF
 #. SHOW_MSG main.lea @NOD
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/24/message+%23261
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/0/event/quest/24/message"
@@ -2953,7 +2950,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/25/message #262
 #. NPC Jean
-#. IF
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/25/message+%23262
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/0/event/quest/25/message"
@@ -2962,7 +2958,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/26/message #263
 #. NPC Jean
-#. IF
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/26/message+%23263
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/0/event/quest/26/message"
@@ -2971,7 +2966,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/27/message #264
 #. NPC Jean
-#. IF
 #. SHOW_MSG main.lea @SURPRISED_AWAY
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/27/message+%23264
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/0/event/quest/27/message"
@@ -2980,7 +2974,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/28/message #265
 #. NPC Jean
-#. IF
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/28/message+%23265
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/0/event/quest/28/message"
@@ -2989,7 +2982,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/29/accepted/0/message #266
 #. NPC Jean
-#. IF
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @NOD
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/29/accepted/0/message+%23266
@@ -2999,7 +2991,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/29/accepted/1/message #269
 #. NPC Jean
-#. IF
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/29/accepted/1/message+%23269
@@ -3009,7 +3000,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/29/accepted/2/message #270
 #. NPC Jean
-#. IF
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/29/accepted/2/message+%23270
@@ -3019,7 +3009,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/29/accepted/3/message #271
 #. NPC Jean
-#. IF
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/29/accepted/3/message+%23271
@@ -3029,7 +3018,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/29/accepted/4/message #272
 #. NPC Jean
-#. IF
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/29/accepted/4/message+%23272
@@ -3039,7 +3027,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/29/accepted/5/message #273
 #. NPC Jean
-#. IF
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/29/accepted/5/message+%23273
@@ -3049,7 +3036,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/29/accepted/6/message #274
 #. NPC Jean
-#. IF
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/29/accepted/6/message+%23274
@@ -3059,7 +3045,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/29/accepted/7/message #275
 #. NPC Jean
-#. IF
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/29/accepted/7/message+%23275
@@ -3069,7 +3054,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/29/accepted/8/message #290
 #. NPC Jean
-#. IF
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @ANNOYED
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/29/accepted/8/message+%23290
@@ -3079,7 +3063,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/29/accepted/9/message #291
 #. NPC Jean
-#. IF
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/29/accepted/9/message+%23291
@@ -3089,7 +3072,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/29/accepted/10/message #292
 #. NPC Jean
-#. IF
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/29/accepted/10/message+%23292
@@ -3099,7 +3081,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/29/accepted/11/name #569
 #. NPC Jean
-#. IF
 #. OPEN_QUEST_DIALOG
 #. ADD_MSG_PERSON cross-worlds.hexacast-female-black @DEFAULT
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/29/accepted/11/name+%23569
@@ -3109,7 +3090,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/29/accepted/12/message #294
 #. NPC Jean
-#. IF
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/29/accepted/12/message+%23294
@@ -3119,7 +3099,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/29/accepted/13/message #295
 #. NPC Jean
-#. IF
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @EXCITED
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/29/accepted/13/message+%23295
@@ -3129,7 +3108,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/29/accepted/14/message #276
 #. NPC Jean
-#. IF
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/29/accepted/14/message+%23276
@@ -3139,7 +3117,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/29/accepted/15/message #296
 #. NPC Jean
-#. IF
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @NOD
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/29/accepted/15/message+%23296
@@ -3149,7 +3126,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/29/accepted/16/message #297
 #. NPC Jean
-#. IF
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/29/accepted/16/message+%23297
@@ -3159,7 +3135,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/29/accepted/17/message #298
 #. NPC Jean
-#. IF
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/29/accepted/17/message+%23298
@@ -3169,7 +3144,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/29/accepted/18/message #299
 #. NPC Jean
-#. IF
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/29/accepted/18/message+%23299
@@ -3179,7 +3153,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/29/accepted/19/message #277
 #. NPC Jean
-#. IF
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @DETERMINED
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/29/accepted/19/message+%23277
@@ -3189,7 +3162,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/29/declined/0/message #267
 #. NPC Jean
-#. IF
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.lea @SHAKE
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/29/declined/0/message+%23267
@@ -3199,7 +3171,6 @@ msgstr ""
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/0/event/quest/29/declined/1/message #268
 #. NPC Jean
-#. IF
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
 #: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/0/event/quest/29/declined/1/message+%23268
@@ -3476,273 +3447,273 @@ msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcS
 msgid "[nods]"
 msgstr ""
 
-#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/0/name #572
+#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/1/name #572
 #. NPC Jean
 #. IF quest.legend-bunny.task.3
 #. ADD_MSG_PERSON cross-worlds.hexacast-female-black @DEFAULT
-#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/0/name+%23572
-msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/0/name"
+#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/1/name+%23572
+msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/1/name"
 msgid "Jean"
 msgstr ""
 
-#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/2/message #316
+#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/3/message #316
 #. NPC Jean
 #. IF quest.legend-bunny.task.3
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
-#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/2/message+%23316
-msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/2/message"
+#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/3/message+%23316
+msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/3/message"
 msgid "You're back! And just in time, too."
 msgstr ""
 
-#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/3/message #317
+#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/4/message #317
 #. NPC Jean
 #. IF quest.legend-bunny.task.3
 #. SHOW_MSG main.lea @SURPRISED_TOWARD
-#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/3/message+%23317
-msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/3/message"
+#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/4/message+%23317
+msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/4/message"
 msgid "...?"
 msgstr ""
 
-#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/4/message #318
+#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/5/message #318
 #. NPC Jean
 #. IF quest.legend-bunny.task.3
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
-#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/4/message+%23318
-msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/4/message"
+#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/5/message+%23318
+msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/5/message"
 msgid "I found a capture device!"
 msgstr ""
 
-#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/5/message #319
+#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/6/message #319
 #. NPC Jean
 #. IF quest.legend-bunny.task.3
 #. SHOW_MSG main.lea @ASTONISHED
-#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/5/message+%23319
-msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/5/message"
+#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/6/message+%23319
+msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/6/message"
 msgid "..."
 msgstr ""
 
-#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/6/message #320
+#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/7/message #320
 #. NPC Jean
 #. IF quest.legend-bunny.task.3
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
-#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/6/message+%23320
-msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/6/message"
+#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/7/message+%23320
+msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/7/message"
 msgid "Yeah, it was super expensive, but it's totally worth it."
 msgstr ""
 
-#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/7/message #321
+#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/8/message #321
 #. NPC Jean
 #. IF quest.legend-bunny.task.3
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
-#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/7/message+%23321
-msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/7/message"
+#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/8/message+%23321
+msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/8/message"
 msgid "Did you get the \\v[item.139.name]s?"
 msgstr ""
 
-#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/8/message #322
+#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/9/message #322
 #. NPC Jean
 #. IF quest.legend-bunny.task.3
 #. SHOW_MSG main.lea @NOD
-#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/8/message+%23322
-msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/8/message"
+#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/9/message+%23322
+msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/9/message"
 msgid "[nods]"
 msgstr ""
 
-#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/9/message #323
+#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/10/message #323
 #. NPC Jean
 #. IF quest.legend-bunny.task.3
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
-#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/9/message+%23323
-msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/9/message"
+#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/10/message+%23323
+msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/10/message"
 msgid "Very nice!"
 msgstr ""
 
-#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/10/message #324
+#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/11/message #324
 #. NPC Jean
 #. IF quest.legend-bunny.task.3
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
-#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/10/message+%23324
-msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/10/message"
+#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/11/message+%23324
+msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/11/message"
 msgid "Now we only have to capture this legendary bunny or whatever people call it. "
 msgstr ""
 
-#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/11/message #325
+#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/12/message #325
 #. NPC Jean
 #. IF quest.legend-bunny.task.3
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
-#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/11/message+%23325
-msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/11/message"
+#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/12/message+%23325
+msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/12/message"
 msgid "From what I understood, the guys I got my info from said you have to bring the \\v[item.139.name]s to \\c[3]Windy Climb\\c[0]."
 msgstr ""
 
-#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/12/message #326
+#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/13/message #326
 #. NPC Jean
 #. IF quest.legend-bunny.task.3
 #. SHOW_MSG main.lea @SURPRISED_TOWARD
-#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/12/message+%23326
-msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/12/message"
+#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/13/message+%23326
+msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/13/message"
 msgid "...?"
 msgstr ""
 
-#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/13/message #327
+#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/14/message #327
 #. NPC Jean
 #. IF quest.legend-bunny.task.3
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
-#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/13/message+%23327
-msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/13/message"
+#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/14/message+%23327
+msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/14/message"
 msgid "As I said, it's a part of Bergen Trail."
 msgstr ""
 
-#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/14/message #328
+#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/15/message #328
 #. NPC Jean
 #. IF quest.legend-bunny.task.3
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
-#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/14/message+%23328
-msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/14/message"
+#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/15/message+%23328
+msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/15/message"
 msgid "Turns out, it was the same part I was attacked in!"
 msgstr ""
 
-#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/15/message #329
+#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/16/message #329
 #. NPC Jean
 #. IF quest.legend-bunny.task.3
 #. SHOW_MSG main.lea @ASTONISHED
-#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/15/message+%23329
-msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/15/message"
+#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/16/message+%23329
+msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/16/message"
 msgid "...!"
 msgstr ""
 
-#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/16/message #330
+#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/17/message #330
 #. NPC Jean
 #. IF quest.legend-bunny.task.3
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
-#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/16/message+%23330
-msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/16/message"
+#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/17/message+%23330
+msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/17/message"
 msgid "Right? Which means we just have to get the \\v[item.139.name]s to that place."
 msgstr ""
 
-#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/17/message #331
+#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/18/message #331
 #. NPC Jean
 #. IF quest.legend-bunny.task.3
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
-#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/17/message+%23331
-msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/17/message"
+#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/18/message+%23331
+msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/18/message"
 msgid "The guys said just having the capture device and defeating the monster would capture it."
 msgstr ""
 
-#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/18/message #332
+#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/19/message #332
 #. NPC Jean
 #. IF quest.legend-bunny.task.3
 #. SHOW_MSG main.lea @NOD
-#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/18/message+%23332
-msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/18/message"
+#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/19/message+%23332
+msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/19/message"
 msgid "[nods]"
 msgstr ""
 
-#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/19/message #333
+#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/20/message #333
 #. NPC Jean
 #. IF quest.legend-bunny.task.3
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
-#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/19/message+%23333
-msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/19/message"
+#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/20/message+%23333
+msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/20/message"
 msgid "So\\..\\..\\.. Here you go. Take the device."
 msgstr ""
 
-#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/20/message #334
+#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/21/message #334
 #. NPC Jean
 #. IF quest.legend-bunny.task.3
 #. SHOW_MSG main.lea @SURPRISED
-#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/20/message+%23334
-msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/20/message"
+#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/21/message+%23334
+msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/21/message"
 msgid "...?"
 msgstr ""
 
-#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/21/message #335
+#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/22/message #335
 #. NPC Jean
 #. IF quest.legend-bunny.task.3
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
-#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/21/message+%23335
-msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/21/message"
+#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/22/message+%23335
+msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/22/message"
 msgid "What?\\.\\. Did you think I would go up there again?"
 msgstr ""
 
-#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/22/message #336
+#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/23/message #336
 #. NPC Jean
 #. IF quest.legend-bunny.task.3
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
-#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/22/message+%23336
-msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/22/message"
+#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/23/message+%23336
+msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/23/message"
 msgid "Never\\.\\. ever!"
 msgstr ""
 
-#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/23/message #337
+#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/24/message #337
 #. NPC Jean
 #. IF quest.legend-bunny.task.3
 #. SHOW_MSG main.lea @ANNOYED
-#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/23/message+%23337
-msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/23/message"
+#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/24/message+%23337
+msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/24/message"
 msgid "..."
 msgstr ""
 
-#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/24/message #338
+#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/25/message #338
 #. NPC Jean
 #. IF quest.legend-bunny.task.3
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
-#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/24/message+%23338
-msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/24/message"
+#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/25/message+%23338
+msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/25/message"
 msgid "Come on, you got the carrots too. I'm not really a fighter..."
 msgstr ""
 
-#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/25/message #339
+#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/26/message #339
 #. NPC Jean
 #. IF quest.legend-bunny.task.3
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
-#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/25/message+%23339
-msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/25/message"
+#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/26/message+%23339
+msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/26/message"
 msgid "It's not because I'm scared or whatever."
 msgstr ""
 
-#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/26/message #340
+#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/27/message #340
 #. NPC Jean
 #. IF quest.legend-bunny.task.3
 #. SHOW_MSG main.lea @DOWN_EYE_CLOSED
-#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/26/message+%23340
-msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/26/message"
+#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/27/message+%23340
+msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/27/message"
 msgid "..."
 msgstr ""
 
-#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/27/message #341
+#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/28/message #341
 #. NPC Jean
 #. IF quest.legend-bunny.task.3
 #. SHOW_MSG main.lea @DETERMINED
-#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/27/message+%23341
-msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/27/message"
+#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/28/message+%23341
+msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/28/message"
 msgid "...!"
 msgstr ""
 
-#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/28/message #342
+#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/29/message #342
 #. NPC Jean
 #. IF quest.legend-bunny.task.3
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
-#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/28/message+%23342
-msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/28/message"
+#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/29/message+%23342
+msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/29/message"
 msgid "Thanks! I know you can do it! But prepare yourself!"
 msgstr ""
 
-#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/29/message #343
+#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/30/message #343
 #. NPC Jean
 #. IF quest.legend-bunny.task.3
 #. SHOW_MSG cross-worlds.hexacast-female-black @DEFAULT
-#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/29/message+%23343
-msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/29/message"
+#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/30/message+%23343
+msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/30/message"
 msgid "This creature must be super strong."
 msgstr ""
 
-#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/30/message #344
+#. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/npcStates/4/event/quest/31/message #344
 #. NPC Jean
 #. IF quest.legend-bunny.task.3
 #. SHOW_MSG main.lea @NOD
-#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/30/message+%23344
-msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/30/message"
+#: data/maps/bergen-trail/path-1-entrance.json+entities/455/settings/npcStates/4/event/quest/31/message+%23344
+msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/455/settings/npcStates/4/event/quest/31/message"
 msgid "[nods]"
 msgstr ""
 
@@ -8764,6 +8735,13 @@ msgctxt "data/maps/bergen-trail/path-7-2.json//entities/279/settings/analyzable/
 msgid "Guard"
 msgstr ""
 
+#. data/maps/bergen-trail/path-7-2.json entities/282/settings/analyzable/text #650
+#. NPC crate
+#: data/maps/bergen-trail/path-7-2.json+entities/282/settings/analyzable/text+%23650
+msgctxt "data/maps/bergen-trail/path-7-2.json//entities/282/settings/analyzable/text"
+msgid "Mysterious Crate"
+msgstr ""
+
 #. data/maps/bergen-trail/path-8.json entities/530/settings/interact/hoverText #240
 #. Prop
 #: data/maps/bergen-trail/path-8.json+entities/530/settings/interact/hoverText+%23240
@@ -9119,4 +9097,705 @@ msgstr ""
 #: data/maps/bergen-trail/path-8.json+entities/546/settings/event/33/message+%23428
 msgctxt "data/maps/bergen-trail/path-8.json//entities/546/settings/event/33/message"
 msgid "Come, Zira.\\. And farewell to you, \\v[lore.title.seeker]!"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/3/settings/condAnims/0/interact/hoverText #4
+#. Prop
+#. IF !g.lab.bergen.elevator1
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json+entities/3/settings/condAnims/0/interact/hoverText+%234
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json//entities/3/settings/condAnims/0/interact/hoverText"
+msgid "Display"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/3/settings/condAnims/0/interact/event/1/text #3
+#. Prop
+#. IF !g.lab.bergen.elevator1
+#. SHOW_BOARD_MSG
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json+entities/3/settings/condAnims/0/interact/event/1/text+%233
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json//entities/3/settings/condAnims/0/interact/event/1/text"
+msgid ""
+"Upper Platform Elevator: \\c[1]disabled\\c[0].\n"
+"Do you want to enable the elevator?"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/3/settings/condAnims/0/interact/event/2/0/3/text #9
+#. Prop
+#. IF !g.lab.bergen.elevator1
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#. SHOW_BOARD_MSG
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json+entities/3/settings/condAnims/0/interact/event/2/0/3/text+%239
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json//entities/3/settings/condAnims/0/interact/event/2/0/3/text"
+msgid "Upper Platform Elevator \\c[2]enabled\\c[0]!"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/3/settings/condAnims/0/interact/event/2/options/0/label #8
+#. Prop
+#. IF !g.lab.bergen.elevator1
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json+entities/3/settings/condAnims/0/interact/event/2/options/0/label+%238
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json//entities/3/settings/condAnims/0/interact/event/2/options/0/label"
+msgid "[yes]"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/3/settings/condAnims/0/interact/event/2/options/1/label #10
+#. Prop
+#. IF !g.lab.bergen.elevator1
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json+entities/3/settings/condAnims/0/interact/event/2/options/1/label+%2310
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json//entities/3/settings/condAnims/0/interact/event/2/options/1/label"
+msgid "[no]"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/62/settings/interact/hoverText #226
+#. Prop holo-sign
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json+entities/62/settings/interact/hoverText+%23226
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json//entities/62/settings/interact/hoverText"
+msgid "Hologram"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/62/settings/interact/event/6/name #236
+#. Prop holo-sign
+#. ADD_MSG_PERSON lab.scientist-xbox @HOLOGRAM
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json+entities/62/settings/interact/event/6/name+%23236
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json//entities/62/settings/interact/event/6/name"
+msgid "Xavier Bonegate"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/62/settings/interact/event/8/message #27
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-xbox @HOLOGRAM
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json+entities/62/settings/interact/event/8/message+%2327
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json//entities/62/settings/interact/event/8/message"
+msgid "Welcome, everyone listening to this either in our laboratory or at your home, all around \\v[lore.title.planet]."
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/62/settings/interact/event/9/message #227
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-xbox @HOLOGRAM
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json+entities/62/settings/interact/event/9/message+%23227
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json//entities/62/settings/interact/event/9/message"
+msgid "My name is \\c[3]Xavier Bonegate\\c[0], speaking for \\c[3]Heavy Hardware Inc\\c[0], as a representative...\\.\\. But also as a passionate engineer."
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/62/settings/interact/event/10/message #232
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-xbox @HOLOGRAM
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json+entities/62/settings/interact/event/10/message+%23232
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json//entities/62/settings/interact/event/10/message"
+msgid "We at Heavy Hardware strive to create the hardest, most sturdy of wares.\\. Machinery, vehicles, big and small."
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/62/settings/interact/event/11/message #229
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-xbox @HOLOGRAM
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json+entities/62/settings/interact/event/11/message+%23229
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json//entities/62/settings/interact/event/11/message"
+msgid "For the benefit of companies, the military, ordinary users.\\. Everyone, everywhere, at every moment."
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/62/settings/interact/event/12/message #231
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-xbox @HOLOGRAM
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json+entities/62/settings/interact/event/12/message+%23231
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json//entities/62/settings/interact/event/12/message"
+msgid "For this purpose we are working together with equally passionate partners from various fields to deliver only the best of products."
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/62/settings/interact/event/13/message #237
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-xbox @HOLOGRAM
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json+entities/62/settings/interact/event/13/message+%23237
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json//entities/62/settings/interact/event/13/message"
+msgid "Using the sheer limitless energy of the \\v[lore.title.track-of-ancients], we are able to develop advanced gear as humanity has never seen before."
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/62/settings/interact/event/14/message #228
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-xbox @HOLOGRAM
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json+entities/62/settings/interact/event/14/message+%23228
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json//entities/62/settings/interact/event/14/message"
+msgid "Even cooperation with creatures of the Track, more intelligent than any modern AI, has been made possible!"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/62/settings/interact/event/15/message #230
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-xbox @HOLOGRAM
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json+entities/62/settings/interact/event/15/message+%23230
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json//entities/62/settings/interact/event/15/message"
+msgid "Right now, we are living in the most interesting times humanity has ever seen.\\. And interesting times need creative solutions!"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/62/settings/interact/event/16/message #238
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-xbox @HOLOGRAM
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json+entities/62/settings/interact/event/16/message+%23238
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json//entities/62/settings/interact/event/16/message"
+msgid "With this creed in mind, I invite you to follow our work as we will present more of our future work in the future."
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/65/settings/condAnims/0/interact/hoverText #233
+#. Prop sideLore2
+#. IF true
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json+entities/65/settings/condAnims/0/interact/hoverText+%23233
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json//entities/65/settings/condAnims/0/interact/hoverText"
+msgid "Display"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/65/settings/condAnims/0/interact/event/1/text #234
+#. Prop sideLore2
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json+entities/65/settings/condAnims/0/interact/event/1/text+%23234
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json//entities/65/settings/condAnims/0/interact/event/1/text"
+msgid ""
+"\\c[1]PRIVATE NOTE\\c[0]\n"
+"\n"
+"\\c[3]Title:\\c[0] Important reminder"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/65/settings/condAnims/0/interact/event/2/text #235
+#. Prop sideLore2
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json+entities/65/settings/condAnims/0/interact/event/2/text+%23235
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json//entities/65/settings/condAnims/0/interact/event/2/text"
+msgid ""
+"- Take breaks when you need them!\n"
+"- Drink water regularly!\n"
+"- Love yourself, always!\n"
+"\n"
+"\\c[1][END OF NOTE]\\c[0]"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/65/settings/condAnims/0/interact/event/3/message #241
+#. Prop sideLore2
+#. IF true
+#. SHOW_MSG main.lea @EXCITED
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json+entities/65/settings/condAnims/0/interact/event/3/message+%23241
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json//entities/65/settings/condAnims/0/interact/event/3/message"
+msgid "...!"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room2.json entities/74/settings/condAnims/0/interact/hoverText #6
+#. Prop
+#. IF elevator.eleS1.dest == 1
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room2.json+entities/74/settings/condAnims/0/interact/hoverText+%236
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2.json//entities/74/settings/condAnims/0/interact/hoverText"
+msgid "Call"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/0/interact/1/text #30
+#. Prop
+#. IF !map.wallDownEast && !map.runTest
+#. SHOW_BOARD_MSG
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/0/interact/1/text+%2330
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/0/interact/1/text"
+msgid ""
+"Bridge Elevator: \\c[1]disabled\\c[0].\n"
+"Do you want to enable the elevator?"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/0/interact/2/0/3/text #9
+#. Prop
+#. IF !map.wallDownEast && !map.runTest
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#. SHOW_BOARD_MSG
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/0/interact/2/0/3/text+%239
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/0/interact/2/0/3/text"
+msgid "Bridge Elevator \\c[2]enabled\\c[0]!"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/0/interact/2/options/0/label #8
+#. Prop
+#. IF !map.wallDownEast && !map.runTest
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/0/interact/2/options/0/label+%238
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/0/interact/2/options/0/label"
+msgid "[yes]"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/0/interact/2/options/1/label #10
+#. Prop
+#. IF !map.wallDownEast && !map.runTest
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/0/interact/2/options/1/label+%2310
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/0/interact/2/options/1/label"
+msgid "[no]"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/0/interact/hoverText #11
+#. Prop
+#. IF !map.wallDownEast && !map.runTest
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/0/interact/hoverText+%2311
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/0/interact/hoverText"
+msgid "Display"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/0/interact/event/1/text #16
+#. Prop
+#. IF !map.wallDownEast && !map.runTest
+#. SHOW_BOARD_MSG
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/0/interact/event/1/text+%2316
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/0/interact/event/1/text"
+msgid ""
+"Test sequence status: \\c[2]ready\\c[0].\n"
+"\\c[1]Start test sequence\\c[0]?"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/0/interact/event/2/0/3/text #17
+#. Prop
+#. IF !map.wallDownEast && !map.runTest
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#. SHOW_BOARD_MSG
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/0/interact/event/2/0/3/text+%2317
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/0/interact/event/2/0/3/text"
+msgid "Preparing to \\c[2]initiate test sequence\\c[0]!"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/0/interact/event/2/0/4/text #18
+#. Prop
+#. IF !map.wallDownEast && !map.runTest
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#. SHOW_BOARD_MSG
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/0/interact/event/2/0/4/text+%2318
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/0/interact/event/2/0/4/text"
+msgid "Please \\c[3]enter room to the west \\c[0] to begin."
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/0/interact/event/2/1/1/text #19
+#. Prop
+#. IF !map.wallDownEast && !map.runTest
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#. SHOW_BOARD_MSG
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/0/interact/event/2/1/1/text+%2319
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/0/interact/event/2/1/1/text"
+msgid "Completion of test sequence is \\c[3]required\\c[0] in order to access the east lab area."
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/0/interact/event/2/1/2/message #15
+#. Prop
+#. IF !map.wallDownEast && !map.runTest
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#. SHOW_MSG main.lea @ANNOYED
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/0/interact/event/2/1/2/message+%2315
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/0/interact/event/2/1/2/message"
+msgid "..."
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/0/interact/event/2/options/0/label #20
+#. Prop
+#. IF !map.wallDownEast && !map.runTest
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/0/interact/event/2/options/0/label+%2320
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/0/interact/event/2/options/0/label"
+msgid "[yes]"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/0/interact/event/2/options/1/label #21
+#. Prop
+#. IF !map.wallDownEast && !map.runTest
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/0/interact/event/2/options/1/label+%2321
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/0/interact/event/2/options/1/label"
+msgid "[no]"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/1/interact/1/text #22
+#. Prop
+#. IF !map.wallDownEast && map.runTest == 2
+#. SHOW_BOARD_MSG
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/1/interact/1/text+%2322
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/1/interact/1/text"
+msgid ""
+"Bridge Elevator: \\c[1]disabled\\c[0].\n"
+"Do you want to enable the elevator?"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/1/interact/2/0/3/text #23
+#. Prop
+#. IF !map.wallDownEast && map.runTest == 2
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#. SHOW_BOARD_MSG
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/1/interact/2/0/3/text+%2323
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/1/interact/2/0/3/text"
+msgid "Bridge Elevator \\c[2]enabled\\c[0]!"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/1/interact/2/options/0/label #24
+#. Prop
+#. IF !map.wallDownEast && map.runTest == 2
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/1/interact/2/options/0/label+%2324
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/1/interact/2/options/0/label"
+msgid "[yes]"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/1/interact/2/options/1/label #25
+#. Prop
+#. IF !map.wallDownEast && map.runTest == 2
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/1/interact/2/options/1/label+%2325
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/1/interact/2/options/1/label"
+msgid "[no]"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/1/interact/hoverText #26
+#. Prop
+#. IF !map.wallDownEast && map.runTest == 2
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/1/interact/hoverText+%2326
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/1/interact/hoverText"
+msgid "Display"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/1/interact/event/1/text #27
+#. Prop
+#. IF !map.wallDownEast && map.runTest == 2
+#. SHOW_BOARD_MSG
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/1/interact/event/1/text+%2327
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/1/interact/event/1/text"
+msgid ""
+"Test sequence status: \\c[2]completed\\c[0].\n"
+"Performance score: \\c[2]41.99%\\c[0]."
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/1/interact/event/4/text #28
+#. Prop
+#. IF !map.wallDownEast && map.runTest == 2
+#. SHOW_BOARD_MSG
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/1/interact/event/4/text+%2328
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/1/interact/event/4/text"
+msgid "Granting access to \\c[3]east lab area\\c[0]."
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/1/interact/event/5/message #29
+#. Prop
+#. IF !map.wallDownEast && map.runTest == 2
+#. SHOW_MSG main.lea @PROUD
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/1/interact/event/5/message+%2329
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/1/interact/event/5/message"
+msgid "...!"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/51/settings/condAnims/0/interact/1/text #31
+#. Prop open
+#. IF !map.sideOpen
+#. SHOW_BOARD_MSG
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/51/settings/condAnims/0/interact/1/text+%2331
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/51/settings/condAnims/0/interact/1/text"
+msgid ""
+"Bridge Elevator: \\c[1]disabled\\c[0].\n"
+"Do you want to enable the elevator?"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/51/settings/condAnims/0/interact/2/0/3/text #32
+#. Prop open
+#. IF !map.sideOpen
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#. SHOW_BOARD_MSG
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/51/settings/condAnims/0/interact/2/0/3/text+%2332
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/51/settings/condAnims/0/interact/2/0/3/text"
+msgid "Bridge Elevator \\c[2]enabled\\c[0]!"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/51/settings/condAnims/0/interact/2/options/0/label #33
+#. Prop open
+#. IF !map.sideOpen
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/51/settings/condAnims/0/interact/2/options/0/label+%2333
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/51/settings/condAnims/0/interact/2/options/0/label"
+msgid "[yes]"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/51/settings/condAnims/0/interact/2/options/1/label #34
+#. Prop open
+#. IF !map.sideOpen
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/51/settings/condAnims/0/interact/2/options/1/label+%2334
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/51/settings/condAnims/0/interact/2/options/1/label"
+msgid "[no]"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/51/settings/condAnims/0/interact/hoverText #35
+#. Prop open
+#. IF !map.sideOpen
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/51/settings/condAnims/0/interact/hoverText+%2335
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/51/settings/condAnims/0/interact/hoverText"
+msgid "Display"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/51/settings/condAnims/0/interact/event/1/text #36
+#. Prop open
+#. IF !map.sideOpen
+#. SHOW_BOARD_MSG
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/51/settings/condAnims/0/interact/event/1/text+%2336
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/51/settings/condAnims/0/interact/event/1/text"
+msgid ""
+"\\c[1]NOTE:\\c[0]\n"
+"\n"
+"Some of the \\v[combat.name.snowtank]s were breaking out of the test chamber and tried to reach the elevator. Put some boxes here so it doesn't happen again.\n"
+"\n"
+"PS: Good luck everyone on the other side!"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/51/settings/condAnims/0/interact/event/2/text #43
+#. Prop open
+#. IF !map.sideOpen
+#. SHOW_BOARD_MSG
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/51/settings/condAnims/0/interact/event/2/text+%2343
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/51/settings/condAnims/0/interact/event/2/text"
+msgid "Open \\c[3]ventilation shaft\\c[0]?"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/51/settings/condAnims/0/interact/event/3/0/3/text #44
+#. Prop open
+#. IF !map.sideOpen
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#. SHOW_BOARD_MSG
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/51/settings/condAnims/0/interact/event/3/0/3/text+%2344
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/51/settings/condAnims/0/interact/event/3/0/3/text"
+msgid "Ventilation Shaft \\c[2]opened\\c[0]!"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/51/settings/condAnims/0/interact/event/3/options/0/label #41
+#. Prop open
+#. IF !map.sideOpen
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/51/settings/condAnims/0/interact/event/3/options/0/label+%2341
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/51/settings/condAnims/0/interact/event/3/options/0/label"
+msgid "[yes]"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/51/settings/condAnims/0/interact/event/3/options/1/label #42
+#. Prop open
+#. IF !map.sideOpen
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/51/settings/condAnims/0/interact/event/3/options/1/label+%2342
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/51/settings/condAnims/0/interact/event/3/options/1/label"
+msgid "[no]"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/123/settings/interact/hoverText #226
+#. Prop holo-sign
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/123/settings/interact/hoverText+%23226
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/123/settings/interact/hoverText"
+msgid "Hologram"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/123/settings/interact/event/6/name #236
+#. Prop holo-sign
+#. ADD_MSG_PERSON lab.scientist-xbox @HOLOGRAM
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/123/settings/interact/event/6/name+%23236
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/123/settings/interact/event/6/name"
+msgid "Xavier Bonegate"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/123/settings/interact/event/8/message #227
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-xbox @HOLOGRAM
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/123/settings/interact/event/8/message+%23227
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/123/settings/interact/event/8/message"
+msgid "Hello and welcome.\\. I'm \\c[3]Xavier Bonegate\\c[0] speaking for \\c[3]Heavy Hardware Inc\\c[0].\\. How are you?"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/123/settings/interact/event/9/message #239
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-xbox @HOLOGRAM
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/123/settings/interact/event/9/message+%23239
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/123/settings/interact/event/9/message"
+msgid "Whatever your answer may be, rest assured that we will always strive to improve the lives of everyone, everywhere, at every time."
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/123/settings/interact/event/10/message #240
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-xbox @HOLOGRAM
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/123/settings/interact/event/10/message+%23240
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/123/settings/interact/event/10/message"
+msgid "For example, we are proud to report great successes in the field of fuel-independent, heavy ordnance vehicles."
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/123/settings/interact/event/11/message #232
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-xbox @HOLOGRAM
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/123/settings/interact/event/11/message+%23232
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/123/settings/interact/event/11/message"
+msgid "For now this technology is primarily geared towards the use in warfare.\\. To protect our settlements and advance to new, dangerous territories."
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/123/settings/interact/event/12/message #237
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-xbox @HOLOGRAM
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/123/settings/interact/event/12/message+%23237
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/123/settings/interact/event/12/message"
+msgid "Energy of the Track, directly woven into every step of our production process, is granting us never before seen efficiency."
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/123/settings/interact/event/13/message #228
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-xbox @HOLOGRAM
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/123/settings/interact/event/13/message+%23228
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/123/settings/interact/event/13/message"
+msgid "The challenges of working with such a new form of energy are great, but by employing the best experts we will be able to reap the rewards."
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/123/settings/interact/event/14/message #229
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-xbox @HOLOGRAM
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/123/settings/interact/event/14/message+%23229
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/123/settings/interact/event/14/message"
+msgid "We also made huge progress with unusually intelligent snowmen, generally known as \\v[combat.name.snowman]."
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/123/settings/interact/event/15/message #231
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-xbox @HOLOGRAM
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/123/settings/interact/event/15/message+%23231
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/123/settings/interact/event/15/message"
+msgid "We were able to create vehicles for them that they could easily control without using their hands."
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/123/settings/interact/event/16/message #243
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-xbox @HOLOGRAM
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/123/settings/interact/event/16/message+%23243
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/123/settings/interact/event/16/message"
+msgid "They can handle dangerous work even in the coldest of conditions!"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/123/settings/interact/event/17/message #251
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-xbox @HOLOGRAM
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/123/settings/interact/event/17/message+%23251
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/123/settings/interact/event/17/message"
+msgid "This will greatly minimize risks for workers everywhere!"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/123/settings/interact/event/18/message #238
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-xbox @HOLOGRAM
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/123/settings/interact/event/18/message+%23238
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/123/settings/interact/event/18/message"
+msgid "And for our greatest project we will equip the most promising \\v[combat.name.snowman] with the most powerful machine we have created so far."
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/123/settings/interact/event/19/message #245
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-xbox @HOLOGRAM
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/123/settings/interact/event/19/message+%23245
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/123/settings/interact/event/19/message"
+msgid "I am sure that, because of pioneering projects like this, our next report will be an even better one.\\. Until then!"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/124/settings/condAnims/0/interact/hoverText #213
+#. Prop sideLore
+#. IF true
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/124/settings/condAnims/0/interact/hoverText+%23213
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/124/settings/condAnims/0/interact/hoverText"
+msgid "Display"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/124/settings/condAnims/0/interact/event/1/text #215
+#. Prop sideLore
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/124/settings/condAnims/0/interact/event/1/text+%23215
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/124/settings/condAnims/0/interact/event/1/text"
+msgid ""
+"\\c[1]INTERNAL MAIL, OUTGOING\\c[0]\n"
+"\n"
+"\\c[3]FROM:\\c[0] Bergen Facility, Office 21b\n"
+"\\c[3]TO:\\c[0] \"Heavy Hardware\", Management\n"
+"\n"
+"\\c[3]Subject:\\c[0] BOXES???"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/124/settings/condAnims/0/interact/event/2/text #246
+#. Prop sideLore
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/124/settings/condAnims/0/interact/event/2/text+%23246
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/124/settings/condAnims/0/interact/event/2/text"
+msgid ""
+"Greetings,\n"
+"\n"
+"what is this? Why are there suddenly boxes blocking the entrance to our office?\n"
+"\n"
+"Sincerely,\n"
+"[NAME REDACTED]\n"
+"\n"
+"\\c[1][END OF MAIL]\\c[0]"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/124/settings/condAnims/0/interact/event/3/text #247
+#. Prop sideLore
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/124/settings/condAnims/0/interact/event/3/text+%23247
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/124/settings/condAnims/0/interact/event/3/text"
+msgid ""
+"\\c[1]INTERNAL MAIL, OUTGOING\\c[0]\n"
+"\n"
+"\\c[3]FROM:\\c[0] Bergen Facility, Office 21b\n"
+"\\c[3]TO:\\c[0] \"Heavy Hardware\", Management\n"
+"\n"
+"\\c[3]Subject:\\c[0] RE: RE: BOXES???"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/124/settings/condAnims/0/interact/event/4/text #217
+#. Prop sideLore
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/124/settings/condAnims/0/interact/event/4/text+%23217
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/124/settings/condAnims/0/interact/event/4/text"
+msgid ""
+"A safety precaution in case of another breakout? What are we on this side to do then, hide under the tables?\n"
+"It's bad enough that the Track seems to constantly reshape our facility and place weird stuff everywhere. Now we also have to deal with our colleagues, putting boxes in the way."
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/124/settings/condAnims/0/interact/event/5/text #248
+#. Prop sideLore
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/124/settings/condAnims/0/interact/event/5/text+%23248
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/124/settings/condAnims/0/interact/event/5/text"
+msgid ""
+"\n"
+"This is ridiculous!\n"
+"\n"
+"\\c[1][END OF MAIL]\\c[0]"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/124/settings/condAnims/0/interact/event/6/text #249
+#. Prop sideLore
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/124/settings/condAnims/0/interact/event/6/text+%23249
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/124/settings/condAnims/0/interact/event/6/text"
+msgid ""
+"\\c[1]INTERNAL MAIL, OUTGOING\\c[0]\n"
+"\n"
+"\\c[3]FROM:\\c[0] Bergen Facility, Office 21b\n"
+"\\c[3]TO:\\c[0] \"Heavy Hardware\", Management\n"
+"\n"
+"\\c[3]Subject:\\c[0] RE: RE: RE: RE: BOXES???"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/124/settings/condAnims/0/interact/event/7/text #250
+#. Prop sideLore
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/124/settings/condAnims/0/interact/event/7/text+%23250
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/124/settings/condAnims/0/interact/event/7/text"
+msgid ""
+"YOU are a bad team player!!1\n"
+"And what do you mean, \"Boxes are quite popular these days.\"? They are IN THE WAY. We can't work like that!\n"
+"\n"
+"\\c[1][END OF MAIL]\\c[0]"
+msgstr ""
+
+#. extension/snowman-tank/data/maps/bergen-trail/lab/room5.json entities/97/settings/condAnims/0/interact/hoverText #6
+#. Prop
+#. IF elevator.eleS1.dest == 1
+#: extension/snowman-tank/data/maps/bergen-trail/lab/room5.json+entities/97/settings/condAnims/0/interact/hoverText+%236
+msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room5.json//entities/97/settings/condAnims/0/interact/hoverText"
+msgid "Call"
 msgstr ""

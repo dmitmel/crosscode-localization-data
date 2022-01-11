@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.4.1-2\n"
+"Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-14 01:09+0000\n"
-"POT-Revision-Date: 2021-04-14 01:09+0000\n"
+"POT-Creation-Date: 2022-01-11 15:55+0000\n"
+"POT-Revision-Date: 2022-01-11 15:55+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0\n"
+"X-Generator: crosscode-localization-engine 0.0.0 (2168d54 2022-01-11)\n"
 
 #. data/areas/rhombus-sqr.json name #3
 #: data/areas/rhombus-sqr.json+name+%233
@@ -197,13 +197,13 @@ msgstr "Дрожащий офис"
 #: data/areas/rhombus-sqr.json+floors/1/maps/25/name+%23374
 msgctxt "data/areas/rhombus-sqr.json//floors/1/maps/25/name"
 msgid "Rhombus Parks Embassy"
-msgstr ""
+msgstr "Посольство парков Ромба"
 
 #. data/areas/rhombus-sqr.json floors/1/maps/26/name #381
 #: data/areas/rhombus-sqr.json+floors/1/maps/26/name+%23381
 msgctxt "data/areas/rhombus-sqr.json//floors/1/maps/26/name"
 msgid "Café Goat"
-msgstr ""
+msgstr "Кафе \"Козерог\""
 
 #. data/areas/rhombus-sqr.json floors/2/maps/0/name #152
 #: data/areas/rhombus-sqr.json+floors/2/maps/0/name+%23152
@@ -245,7 +245,7 @@ msgstr "Кафе у арены - 2-й этаж"
 #: data/areas/rhombus-sqr.json+floors/2/maps/6/name+%23378
 msgctxt "data/areas/rhombus-sqr.json//floors/2/maps/6/name"
 msgid "Buy Land F1"
-msgstr ""
+msgstr "Мир покупок - 1-й этаж"
 
 #. data/areas/rhombus-sqr.json floors/3/maps/0/name #303
 #: data/areas/rhombus-sqr.json+floors/3/maps/0/name+%23303
@@ -629,7 +629,7 @@ msgstr "Точно.\\. И наконец, он известен тем, что �
 #: data/maps/rhombus-sqr/arena-1.json+entities/706/settings/event/30/accepted/11/message+%23106
 msgctxt "data/maps/rhombus-sqr/arena-1.json//entities/706/settings/event/30/accepted/11/message"
 msgid "In fact, he tends to go everywhere except for where you want him to be."
-msgstr "На самом деле, он имеет склонность идти куда угодно, но не туда, где тебе хотелось бы, чтобы он был."
+msgstr "На самом деле, у него есть склонность идти куда угодно, но не туда, где тебе хотелось бы, чтобы он был."
 
 #. data/maps/rhombus-sqr/arena-1.json entities/706/settings/event/30/accepted/12/message #107
 #. EventTrigger seizuiQuestStart START IF tmp.startSeizuiQuest
@@ -808,7 +808,7 @@ msgstr "Это же Площадь Ромба, да?"
 #. SHOW_MSG guests.lily @DEFAULT
 #: data/maps/rhombus-sqr/arena-1.json+entities/706/settings/event/30/accepted/37/message+%23127
 msgctxt "data/maps/rhombus-sqr/arena-1.json//entities/706/settings/event/30/accepted/37/message"
-msgid "No, Reize...\\. I think that's Bergen village."
+msgid "No, Reize...\\. I think that's Bergen Village."
 msgstr "Нет, Рейз...\\. Я думаю, это деревня Берген."
 
 #. data/maps/rhombus-sqr/arena-1.json entities/706/settings/event/30/accepted/38/message #128
@@ -836,7 +836,7 @@ msgstr "Ладно, хватит."
 #: data/maps/rhombus-sqr/arena-1.json+entities/706/settings/event/30/accepted/40/message+%23130
 msgctxt "data/maps/rhombus-sqr/arena-1.json//entities/706/settings/event/30/accepted/40/message"
 msgid "You just wait where you are, okay?"
-msgstr "Просто подожди там, хорошо?"
+msgstr "Просто подожди на месте, хорошо?"
 
 #. data/maps/rhombus-sqr/arena-1.json entities/706/settings/event/30/accepted/41/message #131
 #. EventTrigger seizuiQuestStart START IF tmp.startSeizuiQuest
@@ -959,7 +959,7 @@ msgstr "Да... заставляет задуматься, как ты мог е
 #: data/maps/rhombus-sqr/arena-1.json+entities/708/settings/event/20/message+%23146
 msgctxt "data/maps/rhombus-sqr/arena-1.json//entities/708/settings/event/20/message"
 msgid "...walking around RIGHT NEXT TO IT!"
-msgstr "...проходя прямо РЯДОМ С НИМ!"
+msgstr "...проходя ПРЯМО РЯДОМ С НИМ!"
 
 #. data/maps/rhombus-sqr/arena-1.json entities/708/settings/event/21/message #145
 #. EventTrigger seizuiFinalScene START IF g.seizuiFinalScene
@@ -1135,7 +1135,7 @@ msgstr "Я полагаю, что вы не были вовлечены во в�
 #: data/maps/rhombus-sqr/arena-1.json+entities/708/settings/event/92/message+%23169
 msgctxt "data/maps/rhombus-sqr/arena-1.json//entities/708/settings/event/92/message"
 msgid "Nope!\\. No idea who that guy was,\\. haha."
-msgstr "Неа!\\. Понятия не имею, кто был этот парень,\\. хаха."
+msgstr "Неа!\\. Понятия не имею, кто был этот парень,\\. ха-ха."
 
 #. data/maps/rhombus-sqr/arena-1.json entities/708/settings/event/94/message #171
 #. EventTrigger seizuiFinalScene START IF g.seizuiFinalScene
@@ -1159,7 +1159,7 @@ msgstr "Т-то же самое..."
 #: data/maps/rhombus-sqr/arena-1.json+entities/708/settings/event/98/message+%23174
 msgctxt "data/maps/rhombus-sqr/arena-1.json//entities/708/settings/event/98/message"
 msgid "Alright then!"
-msgstr "Тогда хорошо!"
+msgstr "Ну и хорошо!"
 
 #. data/maps/rhombus-sqr/arena-1.json entities/708/settings/event/99/message #175
 #. EventTrigger seizuiFinalScene START IF g.seizuiFinalScene
@@ -1311,7 +1311,7 @@ msgstr "Ну что ж, мне нужно идти."
 #: data/maps/rhombus-sqr/arena-1.json+entities/708/settings/event/145/message+%23693
 msgctxt "data/maps/rhombus-sqr/arena-1.json//entities/708/settings/event/145/message"
 msgid "You two have fun at the arena!"
-msgstr "А вы двое веселитесь на арене!"
+msgstr "А вы вдвоём веселитесь на арене!"
 
 #. data/maps/rhombus-sqr/arena-1.json entities/708/settings/event/146/message #694
 #. EventTrigger seizuiFinalScene START IF g.seizuiFinalScene
@@ -1366,7 +1366,7 @@ msgstr "Отказано в доступе"
 #. SHOW_MSG guards.female-hairs-black @DEFAULT
 #: data/maps/rhombus-sqr/beach-sw.json+entities/129/settings/npcStates/0/event/2/message+%2359
 msgctxt "data/maps/rhombus-sqr/beach-sw.json//entities/129/settings/npcStates/0/event/2/message"
-msgid "No Entry, Seeker. Someone beached a ship here against regulations."
+msgid "No entry, Seeker. Someone beached a ship here against regulations."
 msgstr "Вход запрещён, Искатель. Кто-то оставил здесь корабль против правил."
 
 #. data/maps/rhombus-sqr/beach-sw.json entities/129/settings/npcStates/0/event/3/message #60
@@ -2121,7 +2121,7 @@ msgstr "Можно подумать, у Искателей есть дела п�
 #. business.female-longhair-black
 #: data/maps/rhombus-sqr/center-n.json+entities/1002/settings/dialog/3/text+%2379
 msgctxt "data/maps/rhombus-sqr/center-n.json//entities/1002/settings/dialog/3/text"
-msgid "Can't wait for it be finished..."
+msgid "Can't wait for it to be finished..."
 msgstr "Не могу дождаться, когда его закончат..."
 
 #. data/maps/rhombus-sqr/center-n.json entities/1006/settings/dialog/0/text #15
@@ -2456,7 +2456,7 @@ msgstr "...!"
 #. SHOW_MSG guards.captain-future @DEFAULT
 #: data/maps/rhombus-sqr/center-n.json+entities/1073/settings/npcStates/0/event/quest/7/accepted/29/message+%2358
 msgctxt "data/maps/rhombus-sqr/center-n.json//entities/1073/settings/npcStates/0/event/quest/7/accepted/29/message"
-msgid "And now they've start digging up the precious earth of our parks, just as reported!"
+msgid "And now they've started digging up the precious earth of our parks, just as reported!"
 msgstr "И вот, как и сообщалось, они начали копать драгоценную землю наших парков!"
 
 #. data/maps/rhombus-sqr/center-n.json entities/1073/settings/npcStates/0/event/quest/7/accepted/34/name #64
@@ -2799,7 +2799,7 @@ msgstr "Можешь себе представить, что ты целый д�
 #: data/maps/rhombus-sqr/center-ne.json+entities/760/settings/dialog/3/text+%2312
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/760/settings/dialog/3/text"
 msgid "Imagine all those NPCs being alive, doomed to walk around in inflexible pants and jackets."
-msgstr "Представь себе, что все эти NPC живые, и они обречены ходить в несгибающихся штанах и куртках."
+msgstr "Представь себе, что все эти NPC живые, и они обречены ходить в негнущихся штанах и куртках."
 
 #. data/maps/rhombus-sqr/center-ne.json entities/760/settings/dialog/4/text #13
 #. XenoDialog
@@ -2839,7 +2839,7 @@ msgstr "К тому же, эти скалы наверняка нужны для
 #: data/maps/rhombus-sqr/center-ne.json+entities/764/settings/dialog/3/text+%2317
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/764/settings/dialog/3/text"
 msgid "Heh\\., they do love their puzzles."
-msgstr "Хех,\\. они любят свои головоломки."
+msgstr "Хех,\\. как же они любят свои головоломки."
 
 #. data/maps/rhombus-sqr/center-ne.json entities/780/settings/event/0/message #1711
 #. LocationEvent ctronComment START IF party.alive.Glasses
@@ -3068,7 +3068,7 @@ msgstr "Сюда!"
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/analyzable/text+%231776
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/analyzable/text"
 msgid "Cpt. Freamun"
-msgstr ""
+msgstr "Капитан Фримун"
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/0/event/0/name #509
 #. NPC questGuard
@@ -3077,7 +3077,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/0/event/0/name+%23509
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/0/event/0/name"
 msgid "Cpt. Freamun"
-msgstr ""
+msgstr "Капитан Фримун"
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/0/event/2/message #1748
 #. NPC questGuard
@@ -3086,7 +3086,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/0/event/2/message+%231748
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/0/event/2/message"
 msgid "Hi?\\."
-msgstr ""
+msgstr "Привет?\\."
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/0/event/3/message #1749
 #. NPC questGuard
@@ -3095,7 +3095,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/0/event/3/message+%231749
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/0/event/3/message"
 msgid "This area is locked for unauthorized trespassers!\\. Move along, there is nothing to see here!"
-msgstr ""
+msgstr "Эта территория закрыта для посторонних!\\. А ну двигайся, здесь не на что смотреть!"
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/0/event/4/message #1745
 #. NPC questGuard
@@ -3104,7 +3104,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/0/event/4/message+%231745
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/0/event/4/message"
 msgid "Why?"
-msgstr ""
+msgstr "Почему?"
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/0/event/5/message #1746
 #. NPC questGuard
@@ -3113,7 +3113,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/0/event/5/message+%231746
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/0/event/5/message"
 msgid "I am unauthorized to tell and you are not authorized to know!\\. And now, leave!"
-msgstr ""
+msgstr "Мне запрещено говорить, а тебе запрещено знать!\\. А теперь уходи!"
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/0/event/6/message #454
 #. NPC questGuard
@@ -3122,7 +3122,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/0/event/6/message+%23454
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/0/event/6/message"
 msgid "Bye..."
-msgstr ""
+msgstr "Пока..."
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/4/name #1747
 #. NPC questGuard
@@ -3131,7 +3131,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/4/name+%231747
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/4/name"
 msgid "Cpt. Freamun"
-msgstr ""
+msgstr "Капитан Фримун"
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/6/message #337
 #. NPC questGuard
@@ -3140,7 +3140,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/6/message+%23337
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/6/message"
 msgid "Hi!"
-msgstr ""
+msgstr "Привет!"
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/7/message #1759
 #. NPC questGuard
@@ -3149,7 +3149,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/7/message+%231759
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/7/message"
 msgid "This area is locked for unauthorized trespassers!\\. Move along, there is nothing to see here!"
-msgstr ""
+msgstr "Эта территория закрыта для посторонних!\\. А ну двигайся, здесь не на что смотреть!"
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/8/message #1760
 #. NPC questGuard
@@ -3158,7 +3158,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/8/message+%231760
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/8/message"
 msgid "Hi!\\. Lea.\\. Why.\\. Meet."
-msgstr ""
+msgstr "Привет!\\. Лея.\\. Почему.\\. Встреча."
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/9/message #1761
 #. NPC questGuard
@@ -3167,7 +3167,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/9/message+%231761
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/9/message"
 msgid "I see, I see.\\. You are one of the \\v[lore.title.seeker]s, on an official mission from a local guard."
-msgstr ""
+msgstr "Ясно, ясно.\\. Ты одна из Искателей с официальным заданием от стражи."
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/10/message #460
 #. NPC questGuard
@@ -3176,7 +3176,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/10/message+%23460
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/10/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[кивает]"
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/11/message #1770
 #. NPC questGuard
@@ -3185,7 +3185,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/11/message+%231770
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/11/message"
 msgid "Those country bumpkins from \\v[area.bergen.name] sure put a lot of trust into some adventurer."
-msgstr ""
+msgstr "Как-то очень сильно эти деревенщины из Бергена доверяют какому-то авантюристу."
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/12/message #1766
 #. NPC questGuard
@@ -3194,7 +3194,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/12/message+%231766
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/12/message"
 msgid "... Why?"
-msgstr ""
+msgstr "...Почему?"
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/13/message #1767
 #. NPC questGuard
@@ -3202,8 +3202,8 @@ msgstr ""
 #. SHOW_MSG guards.female-tall-black @DEFAULT
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/13/message+%231767
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/13/message"
-msgid "Relax, I'm not interested in argueing over the \"\\v[lore.title.seeker] Defense Assistance\"-clause with you or my supervisors."
-msgstr ""
+msgid "Relax, I'm not interested in arguing over the \"\\v[lore.title.seeker] Defense Assistance\"-clause with you or my supervisors."
+msgstr "Спокойно, меня не интересует спор по поводу \"помощи в защите Искателей\" с тобой или моим руководством."
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/14/message #1768
 #. NPC questGuard
@@ -3212,7 +3212,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/14/message+%231768
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/14/message"
 msgid "You can handle this... goat problem that Bergen left to us.\\. I will even give you an up-to-date briefing, how's that?"
-msgstr ""
+msgstr "Ты можешь справиться с этой... козьей проблемой, которую оставил на нас Берген.\\. Я даже дам тебе актуальную информацию, как тебе такое?"
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/15/message #1771
 #. NPC questGuard
@@ -3221,7 +3221,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/15/message+%231771
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/15/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/16/thenStep/0/message #1769
 #. NPC questGuard
@@ -3231,7 +3231,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/16/thenStep/0/message+%231769
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/16/thenStep/0/message"
 msgid "What?\\. How?\\. Why?"
-msgstr ""
+msgstr "Что?\\. Как?\\. Почему?"
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/16/elseStep/0/message #1781
 #. NPC questGuard
@@ -3241,7 +3241,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/16/elseStep/0/message+%231781
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/16/elseStep/0/message"
 msgid "How?\\. Why?"
-msgstr ""
+msgstr "Как?\\. Почему?"
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/17/message #1773
 #. NPC questGuard
@@ -3249,8 +3249,8 @@ msgstr ""
 #. SHOW_MSG guards.female-tall-black @DEFAULT
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/17/message+%231773
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/17/message"
-msgid "Okay, listen.\\. Those goats you are hunting have violenty occupied the building behind us."
-msgstr ""
+msgid "Okay, listen.\\. Those goats you are hunting have violently occupied the building behind us."
+msgstr "Хорошо, слушай.\\. Эти козлы, за которыми ты гоняешься, насильно заняли здание позади нас."
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/22/name #1772
 #. NPC questGuard
@@ -3259,7 +3259,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/22/name+%231772
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/22/name"
 msgid "Cpt. Freamun"
-msgstr ""
+msgstr "Капитан Фримун"
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/24/message #1762
 #. NPC questGuard
@@ -3268,7 +3268,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/24/message+%231762
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/24/message"
 msgid "It's the \\c[3]Rhombus Parks Embassy\\c[0].\\. Takes care of the local parks and sends researchers to the mainland."
-msgstr ""
+msgstr "Это \\c[3]Посольство парков Ромба\\c[0].\\. Занимается местными парками и отправляет исследователей на материк."
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/25/message #467
 #. NPC questGuard
@@ -3277,7 +3277,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/25/message+%23467
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/25/message"
 msgid "...!"
-msgstr ""
+msgstr "...!"
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/26/message #1777
 #. NPC questGuard
@@ -3286,7 +3286,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/26/message+%231777
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/26/message"
 msgid "Maybe the goats want to munch on some rare plants or steal hoof research.\\. I don't know and I don't care."
-msgstr ""
+msgstr "Возможно, козлы хотят сжевать какие-то редкие растения или украсть исследования копыт.\\. Я не знаю, и меня не волнует."
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/31/name #1774
 #. NPC questGuard
@@ -3295,7 +3295,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/31/name+%231774
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/31/name"
 msgid "Cpt. Freamun"
-msgstr ""
+msgstr "Капитан Фримун"
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/33/message #1778
 #. NPC questGuard
@@ -3303,8 +3303,8 @@ msgstr ""
 #. SHOW_MSG guards.female-tall-black @DEFAULT
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/33/message+%231778
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/33/message"
-msgid "Point is, \\v[lore.title.seeker], they are occupying the building, holding hostages and keep bleating all day."
-msgstr ""
+msgid "Point is, \\v[lore.title.seeker], they are occupying the building, holding hostages and they keep bleating all day."
+msgstr "Суть в том, Искатель, что они занимают здание, держат заложников и блеют весь день."
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/34/message #1779
 #. NPC questGuard
@@ -3313,7 +3313,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/34/message+%231779
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/34/message"
 msgid "That's gotta stop.\\. You following?"
-msgstr ""
+msgstr "Это должно прекратиться.\\. Улавливаешь?"
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/35/message #1780
 #. NPC questGuard
@@ -3322,7 +3322,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/35/message+%231780
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/35/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[кивает]"
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/36/message #1752
 #. NPC questGuard
@@ -3331,7 +3331,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/36/message+%231752
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/36/message"
 msgid "Fine.\\. Then go inside and detain those terrorist goats!\\. We will continue to secure the area here."
-msgstr ""
+msgstr "Хорошо.\\. Тогда заходи и задержи этих козлов-террористов!\\. Мы продолжим охранять эту территорию."
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/37/message #1763
 #. NPC questGuard
@@ -3340,7 +3340,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/37/message+%231763
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/37/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[кивает]"
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/1/event/quest/38/message #1765
 #. NPC questGuard
@@ -3349,7 +3349,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/1/event/quest/38/message+%231765
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/1/event/quest/38/message"
 msgid "Bye."
-msgstr ""
+msgstr "Пока."
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/2/event/0/name #1750
 #. NPC questGuard
@@ -3358,7 +3358,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/2/event/0/name+%231750
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/2/event/0/name"
 msgid "Cpt. Freamun"
-msgstr ""
+msgstr "Капитан Фримун"
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/2/event/2/message #1764
 #. NPC questGuard
@@ -3367,7 +3367,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/2/event/2/message+%231764
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/2/event/2/message"
 msgid "Go inside and detain those terrorist goats, \\v[lore.title.seeker]!\\. We will continue to secure the area here."
-msgstr ""
+msgstr "Заходи и задержи этих козлов-террористов, Искатель!\\. Мы продолжим охранять эту территорию."
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/3/event/0/name #1753
 #. NPC questGuard
@@ -3376,7 +3376,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/3/event/0/name+%231753
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/3/event/0/name"
 msgid "Cpt. Freamun"
-msgstr ""
+msgstr "Капитан Фримун"
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/3/event/2/message #1754
 #. NPC questGuard
@@ -3385,7 +3385,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/3/event/2/message+%231754
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/3/event/2/message"
 msgid "Hi!"
-msgstr ""
+msgstr "Привет!"
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/3/event/3/message #1755
 #. NPC questGuard
@@ -3394,7 +3394,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/3/event/3/message+%231755
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/3/event/3/message"
 msgid "\\v[lore.title.seeker], things are very quiet now.\\. Did you defuse the situation?"
-msgstr ""
+msgstr "Искатель, сейчас всё очень тихо.\\. Тебе удалось разрядить ситуацию?"
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/3/event/4/message #1756
 #. NPC questGuard
@@ -3403,7 +3403,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/3/event/4/message+%231756
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/3/event/4/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[кивает]"
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/3/event/5/message #1757
 #. NPC questGuard
@@ -3412,7 +3412,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/3/event/5/message+%231757
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/3/event/5/message"
 msgid "Impressive.\\. You can now get your reward from whoever you got the assignment from.\\. We will take it from here."
-msgstr ""
+msgstr "Впечатляет.\\. Ты можешь забрать свою награду у того, кто там дал тебе это задание.\\. Дальше этим займёмся мы."
 
 #. data/maps/rhombus-sqr/center-ne.json entities/797/settings/npcStates/3/event/6/message #1758
 #. NPC questGuard
@@ -3421,7 +3421,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/center-ne.json+entities/797/settings/npcStates/3/event/6/message+%231758
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/797/settings/npcStates/3/event/6/message"
 msgid "Bye..."
-msgstr ""
+msgstr "Пока..."
 
 #. data/maps/rhombus-sqr/center-ne.json entities/808/settings/npcStates/0/event/shop/0/text #719
 #. NPC goatShop
@@ -3430,7 +3430,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/center-ne.json+entities/808/settings/npcStates/0/event/shop/0/text+%23719
 msgctxt "data/maps/rhombus-sqr/center-ne.json//entities/808/settings/npcStates/0/event/shop/0/text"
 msgid "[enterprising goat noises]"
-msgstr ""
+msgstr "[предприимчивое блеяние]"
 
 #. data/maps/rhombus-sqr/center-nw.json entities/678/settings/npcStates/0/event/quest/4/message #507
 #. NPC apollo
@@ -4337,7 +4337,7 @@ msgstr "Не сдавайся, Лея!\\. Ты сможешь!!"
 #: data/maps/rhombus-sqr/center-nw.json+entities/680/settings/event/1/elseStep/0/elseStep/3/thenStep/1/message+%23450
 msgctxt "data/maps/rhombus-sqr/center-nw.json//entities/680/settings/event/1/elseStep/0/elseStep/3/thenStep/1/message"
 msgid "Alright. Time to end this!"
-msgstr "Хорошо. Пора закончить это!"
+msgstr "Хорошо. Время заканчивать это!"
 
 #. data/maps/rhombus-sqr/center-nw.json entities/680/settings/event/1/elseStep/0/elseStep/3/thenStep/2/message #1514
 #. EventTrigger pvpBrake START IF pvp.killHit && !pvp.finalHit
@@ -5743,7 +5743,7 @@ msgstr "Это...\\. это горностай? Как он может копа�
 #: data/maps/rhombus-sqr/center-s.json+entities/670/settings/dialog/1/text+%23465
 msgctxt "data/maps/rhombus-sqr/center-s.json//entities/670/settings/dialog/1/text"
 msgid "Hacks!\\. Definitely stay away from those!"
-msgstr "Взлом!\\. Определённо держись подальше от этого!"
+msgstr "Взлом!\\. Обязательно держись подальше от этого!"
 
 #. data/maps/rhombus-sqr/center-s.json entities/674/settings/event/19/message #486
 #. EventTrigger seizuiBattleEnd START IF tmp.seizuiKills >= 17
@@ -8049,7 +8049,7 @@ msgstr "Их взаимодействие с игроками немного о�
 #: data/maps/rhombus-sqr/central.json+entities/121/settings/dialog/5/text+%23126
 msgctxt "data/maps/rhombus-sqr/central.json//entities/121/settings/dialog/5/text"
 msgid "Man, we've come pretty far with AI research, haven't we?"
-msgstr "Мда, мы довольно далеко продвинулись в исследовании искусственного интеллекта, не так ли?"
+msgstr "Да, мы довольно далеко продвинулись в исследовании искусственного интеллекта, не так ли?"
 
 #. data/maps/rhombus-sqr/central.json entities/121/settings/dialog/6/text #127
 #. XenoDialog aboutNpcsTalk
@@ -8089,7 +8089,7 @@ msgstr "..."
 #: data/maps/rhombus-sqr/central.json+entities/121/settings/dialog/6/event/6/message+%23130
 msgctxt "data/maps/rhombus-sqr/central.json//entities/121/settings/dialog/6/event/6/message"
 msgid "Uhm..."
-msgstr "Хмм..."
+msgstr "Эмм..."
 
 #. data/maps/rhombus-sqr/central.json entities/121/settings/dialog/6/event/7/message #131
 #. XenoDialog aboutNpcsTalk
@@ -8304,7 +8304,7 @@ msgstr "Так...\\. это он и есть?\\. Выход в город?"
 #: data/maps/rhombus-sqr/central.json+entities/329/settings/event/10/thenStep/3/message+%23156
 msgctxt "data/maps/rhombus-sqr/central.json//entities/329/settings/event/10/thenStep/3/message"
 msgid "Indeed! From here you can take the sky rail to any part of the city."
-msgstr "Именно! Отсюда ты можешь попасть в любую часть города с помощью небесного рельса."
+msgstr "Именно! Отсюда ты можешь попасть в любую часть города с помощью небесных рельс."
 
 #. data/maps/rhombus-sqr/central.json entities/329/settings/event/10/thenStep/4/message #157
 #. EventTrigger EnterTheCity START IF plot.rhombusEnter >= 10
@@ -8602,7 +8602,7 @@ msgstr "Ах, oui (да)~\\. Но разве это было не весело?"
 #: data/maps/rhombus-sqr/dng-end.json+entities/149/settings/event/23/message+%2316
 msgctxt "data/maps/rhombus-sqr/dng-end.json//entities/149/settings/event/23/message"
 msgid "I was very surprised by that boss at the end!"
-msgstr "Я была очень удивлена боссом в конце!"
+msgstr "Меня очень удивил этот босс в конце!"
 
 #. data/maps/rhombus-sqr/dng-end.json entities/149/settings/event/24/message #17
 #. EventTrigger IntroScene
@@ -8650,7 +8650,7 @@ msgstr "...!"
 #: data/maps/rhombus-sqr/dng-end.json+entities/149/settings/event/29/message+%2322
 msgctxt "data/maps/rhombus-sqr/dng-end.json//entities/149/settings/event/29/message"
 msgid "I know!\\. It's genius, right?"
-msgstr "Я знаю!\\. Это гениально, не правда ли?"
+msgstr "Ага!\\. Это гениально, не правда ли?"
 
 #. data/maps/rhombus-sqr/dng-end.json entities/149/settings/event/30/message #23
 #. EventTrigger IntroScene
@@ -8682,7 +8682,7 @@ msgstr "Лея!\\. Приятно познакомиться!"
 #: data/maps/rhombus-sqr/dng-end.json+entities/149/settings/event/33/message+%2326
 msgctxt "data/maps/rhombus-sqr/dng-end.json//entities/149/settings/event/33/message"
 msgid "So...\\. Are you ready to take the sky rails?"
-msgstr "Ну что...\\. Ты готова прокатиться на небесном рельсе?"
+msgstr "Ну что...\\. Ты готова прокатиться на небесных рельсах?"
 
 #. data/maps/rhombus-sqr/dng-end.json entities/149/settings/event/47/message #27
 #. EventTrigger IntroScene
@@ -8690,7 +8690,7 @@ msgstr "Ну что...\\. Ты готова прокатиться на небе
 #: data/maps/rhombus-sqr/dng-end.json+entities/149/settings/event/47/message+%2327
 msgctxt "data/maps/rhombus-sqr/dng-end.json//entities/149/settings/event/47/message"
 msgid "I wish we could already explore the city itself, but non~"
-msgstr "Я бы хотела, чтобы мы уже могли исследовать сам город, но нет~"
+msgstr "Хотелось бы, чтобы мы уже могли исследовать сам город, но нет~"
 
 #. data/maps/rhombus-sqr/dng-end.json entities/149/settings/event/48/message #28
 #. EventTrigger IntroScene
@@ -8706,7 +8706,7 @@ msgstr "...?"
 #: data/maps/rhombus-sqr/dng-end.json+entities/149/settings/event/49/message+%2329
 msgctxt "data/maps/rhombus-sqr/dng-end.json//entities/149/settings/event/49/message"
 msgid "Didn't you know?\\. The sky rail will take you straight to \\c[3]CrossCentral\\c[0]."
-msgstr "Разве ты не знала?\\. Небесный рельс доставит тебя прямиком в \\c[3]CrossCentral\\c[0]."
+msgstr "Разве ты не знала?\\. Небесные рельсы доставят тебя прямиком в \\c[3]CrossCentral\\c[0]."
 
 #. data/maps/rhombus-sqr/dng-end.json entities/149/settings/event/50/message #30
 #. EventTrigger IntroScene
@@ -9383,7 +9383,7 @@ msgstr "Я хочу уже наконец добраться до \\c[3]Гава
 #: data/maps/rhombus-sqr/dng-end.json+entities/149/settings/event/157/message+%2378
 msgctxt "data/maps/rhombus-sqr/dng-end.json//entities/149/settings/event/157/message"
 msgid "You can come with me, if you want to."
-msgstr "Ты можешь пойти со мной, если хочешь."
+msgstr "Можешь пойти со мной, если хочешь."
 
 #. data/maps/rhombus-sqr/dng-end.json entities/149/settings/event/158/message #79
 #. EventTrigger IntroScene
@@ -10807,7 +10807,7 @@ msgstr "Это заставляет задуматься о том, что та�
 #: data/maps/rhombus-sqr/dng-top.json+entities/207/settings/dialog/3/text+%23103
 msgctxt "data/maps/rhombus-sqr/dng-top.json//entities/207/settings/dialog/3/text"
 msgid "Hell yeah! You think we can just jump down into the water with our avatars and explore?"
-msgstr "Чёрт возьми! Думаешь, что мы можем просто прыгнуть в воду и начать врываться?"
+msgstr "Это точно! Думаешь, мы можем просто прыгнуть в воду и начать врываться?"
 
 #. data/maps/rhombus-sqr/dng-top.json entities/207/settings/dialog/4/text #104
 #. XenoDialog
@@ -10815,7 +10815,7 @@ msgstr "Чёрт возьми! Думаешь, что мы можем прост
 #: data/maps/rhombus-sqr/dng-top.json+entities/207/settings/dialog/4/text+%23104
 msgctxt "data/maps/rhombus-sqr/dng-top.json//entities/207/settings/dialog/4/text"
 msgid "More like \"explode\"... I heard avatars are not all that water resistant."
-msgstr "Скорее \"взрываться\"... Я слышала, что аватары не такие уж и водостойкие."
+msgstr "Скорее, \"взрываться\"... Я слышала, что аватары не такие уж и водостойкие."
 
 #. data/maps/rhombus-sqr/interior/arena-00-training.json entities/5/settings/event/3/text #295
 #. EventTrigger enemySpawn START IF tmp.enemy1 || (tmp.multiEnemy && (tmp.enemy2 || tmp.enemy3 || tmp.enemy4 || tmp.enemy5))
@@ -10973,7 +10973,7 @@ msgstr "Терминал сброса контуров"
 #: data/maps/rhombus-sqr/interior/arena-00-training.json+entities/32/settings/interact/event/12/text+%23332
 msgctxt "data/maps/rhombus-sqr/interior/arena-00-training.json//entities/32/settings/interact/event/12/text"
 msgid ""
-"\\s[0]Circuit Reset Machine\n"
+"\\s[0]Circuit Reset Terminal\n"
 "-------------------------\n"
 "\\c[3]\\v[item.428.name]\\c[0]: \\v[item.428.amount]"
 msgstr ""
@@ -11479,48 +11479,70 @@ msgctxt "data/maps/rhombus-sqr/interior/arena-01.json//entities/30/settings/npcS
 msgid "Note that players have to purchase a \\c[3]Custom Cup Toolkit\\c[0] to create their own custom cup."
 msgstr "Обратите внимание, что игроки должны купить \\c[3]Инструментарий пользовательских кубков\\c[0], чтобы создать свой собственный кубок."
 
-#. data/maps/rhombus-sqr/interior/arena-01.json entities/30/settings/npcStates/0/event/5/2/18/message #16160
+#. data/maps/rhombus-sqr/interior/arena-01.json entities/30/settings/npcStates/0/event/5/2/18/thenStep/0/message #16685
 #. NPC
 #. SHOW_CHOICE main.lea @SURPRISED_AWAY
+#. IF plot.line >= 40000
+#. SHOW_MSG main.sergey @WHISTLING
+#: data/maps/rhombus-sqr/interior/arena-01.json+entities/30/settings/npcStates/0/event/5/2/18/thenStep/0/message+%2316685
+msgctxt "data/maps/rhombus-sqr/interior/arena-01.json//entities/30/settings/npcStates/0/event/5/2/18/thenStep/0/message"
+msgid "Sorry Lea...\\. Evotars have not received permission to create Custom Cups, yet."
+msgstr "Извини, Лея...\\. Эвотарам ещё не разрешили создавать Пользовательские Кубки."
+
+#. data/maps/rhombus-sqr/interior/arena-01.json entities/30/settings/npcStates/0/event/5/2/18/thenStep/1/message #16686
+#. NPC
+#. SHOW_CHOICE main.lea @SURPRISED_AWAY
+#. IF plot.line >= 40000
+#. SHOW_MSG main.sergey @EYES_CLOSED
+#: data/maps/rhombus-sqr/interior/arena-01.json+entities/30/settings/npcStates/0/event/5/2/18/thenStep/1/message+%2316686
+msgctxt "data/maps/rhombus-sqr/interior/arena-01.json//entities/30/settings/npcStates/0/event/5/2/18/thenStep/1/message"
+msgid "Instatainment wants to be careful, so do not expect it to change very soon."
+msgstr "Instatainment хотят быть осторожными, так что не ожидай, что это изменится в ближайшее время."
+
+#. data/maps/rhombus-sqr/interior/arena-01.json entities/30/settings/npcStates/0/event/5/2/18/elseStep/0/message #16160
+#. NPC
+#. SHOW_CHOICE main.lea @SURPRISED_AWAY
+#. IF NOT plot.line >= 40000
 #. SHOW_MSG main.sergey @ROLL_EYES
-#: data/maps/rhombus-sqr/interior/arena-01.json+entities/30/settings/npcStates/0/event/5/2/18/message+%2316160
-msgctxt "data/maps/rhombus-sqr/interior/arena-01.json//entities/30/settings/npcStates/0/event/5/2/18/message"
+#: data/maps/rhombus-sqr/interior/arena-01.json+entities/30/settings/npcStates/0/event/5/2/18/elseStep/0/message+%2316160
+msgctxt "data/maps/rhombus-sqr/interior/arena-01.json//entities/30/settings/npcStates/0/event/5/2/18/elseStep/0/message"
 msgid "Sorry Lea...\\. buying such a Toolkit will leave all kinds of traces on the system."
 msgstr "Извини, Лея... покупка такого инструментария оставит ненужные следы в системе."
 
-#. data/maps/rhombus-sqr/interior/arena-01.json entities/30/settings/npcStates/0/event/5/2/19/message #16161
+#. data/maps/rhombus-sqr/interior/arena-01.json entities/30/settings/npcStates/0/event/5/2/18/elseStep/1/message #16161
 #. NPC
 #. SHOW_CHOICE main.lea @SURPRISED_AWAY
+#. IF NOT plot.line >= 40000
 #. SHOW_MSG main.sergey @WORRIED
-#: data/maps/rhombus-sqr/interior/arena-01.json+entities/30/settings/npcStates/0/event/5/2/19/message+%2316161
-msgctxt "data/maps/rhombus-sqr/interior/arena-01.json//entities/30/settings/npcStates/0/event/5/2/19/message"
+#: data/maps/rhombus-sqr/interior/arena-01.json+entities/30/settings/npcStates/0/event/5/2/18/elseStep/1/message+%2316161
+msgctxt "data/maps/rhombus-sqr/interior/arena-01.json//entities/30/settings/npcStates/0/event/5/2/18/elseStep/1/message"
 msgid "I cannot risk doing that."
 msgstr "Я не могу так рисковать."
 
-#. data/maps/rhombus-sqr/interior/arena-01.json entities/30/settings/npcStates/0/event/5/2/20/message #16162
+#. data/maps/rhombus-sqr/interior/arena-01.json entities/30/settings/npcStates/0/event/5/2/19/message #16162
 #. NPC
 #. SHOW_CHOICE main.lea @SURPRISED_AWAY
 #. SHOW_MSG main.lea @SAD
-#: data/maps/rhombus-sqr/interior/arena-01.json+entities/30/settings/npcStates/0/event/5/2/20/message+%2316162
-msgctxt "data/maps/rhombus-sqr/interior/arena-01.json//entities/30/settings/npcStates/0/event/5/2/20/message"
+#: data/maps/rhombus-sqr/interior/arena-01.json+entities/30/settings/npcStates/0/event/5/2/19/message+%2316162
+msgctxt "data/maps/rhombus-sqr/interior/arena-01.json//entities/30/settings/npcStates/0/event/5/2/19/message"
 msgid "..."
 msgstr "..."
 
-#. data/maps/rhombus-sqr/interior/arena-01.json entities/30/settings/npcStates/0/event/5/2/21/message #16163
+#. data/maps/rhombus-sqr/interior/arena-01.json entities/30/settings/npcStates/0/event/5/2/20/message #16163
 #. NPC
 #. SHOW_CHOICE main.lea @SURPRISED_AWAY
 #. SHOW_MSG main.sergey @THINKING
-#: data/maps/rhombus-sqr/interior/arena-01.json+entities/30/settings/npcStates/0/event/5/2/21/message+%2316163
-msgctxt "data/maps/rhombus-sqr/interior/arena-01.json//entities/30/settings/npcStates/0/event/5/2/21/message"
+#: data/maps/rhombus-sqr/interior/arena-01.json+entities/30/settings/npcStates/0/event/5/2/20/message+%2316163
+msgctxt "data/maps/rhombus-sqr/interior/arena-01.json//entities/30/settings/npcStates/0/event/5/2/20/message"
 msgid "But maybe you will find other players creating custom cups for you..."
 msgstr "Но, возможно, ты найдёшь других игроков, создающих пользовательские кубки..."
 
-#. data/maps/rhombus-sqr/interior/arena-01.json entities/30/settings/npcStates/0/event/5/2/22/message #16164
+#. data/maps/rhombus-sqr/interior/arena-01.json entities/30/settings/npcStates/0/event/5/2/21/message #16164
 #. NPC
 #. SHOW_CHOICE main.lea @SURPRISED_AWAY
 #. SHOW_MSG main.lea @EXCITED
-#: data/maps/rhombus-sqr/interior/arena-01.json+entities/30/settings/npcStates/0/event/5/2/22/message+%2316164
-msgctxt "data/maps/rhombus-sqr/interior/arena-01.json//entities/30/settings/npcStates/0/event/5/2/22/message"
+#: data/maps/rhombus-sqr/interior/arena-01.json+entities/30/settings/npcStates/0/event/5/2/21/message+%2316164
+msgctxt "data/maps/rhombus-sqr/interior/arena-01.json//entities/30/settings/npcStates/0/event/5/2/21/message"
 msgid "...!"
 msgstr "...!"
 
@@ -11881,7 +11903,7 @@ msgstr "Веселись, малышка."
 #: data/maps/rhombus-sqr/interior/arena-01.json+entities/40/settings/event/4/thenStep/0/4_0/0/message+%2316679
 msgctxt "data/maps/rhombus-sqr/interior/arena-01.json//entities/40/settings/event/4/thenStep/0/4_0/0/message"
 msgid "Kick some ass and don't embarrass us in there."
-msgstr ""
+msgstr "Надери кому-нибудь зад и не опозорь нас там."
 
 #. data/maps/rhombus-sqr/interior/arena-01.json entities/40/settings/event/4/thenStep/0/5_0/0/message #16680
 #. EventTrigger START_CUP START IF tmp.intoTheArena
@@ -11891,7 +11913,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/arena-01.json+entities/40/settings/event/4/thenStep/0/5_0/0/message+%2316680
 msgctxt "data/maps/rhombus-sqr/interior/arena-01.json//entities/40/settings/event/4/thenStep/0/5_0/0/message"
 msgid "Good Luck, Lea!"
-msgstr ""
+msgstr "Удачи, Лея!"
 
 #. data/maps/rhombus-sqr/interior/arena-01.json entities/40/settings/event/4/thenStep/0/6_0/0/message #16681
 #. EventTrigger START_CUP START IF tmp.intoTheArena
@@ -11901,7 +11923,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/arena-01.json+entities/40/settings/event/4/thenStep/0/6_0/0/message+%2316681
 msgctxt "data/maps/rhombus-sqr/interior/arena-01.json//entities/40/settings/event/4/thenStep/0/6_0/0/message"
 msgid "Good Luck, Lea!"
-msgstr ""
+msgstr "Удачи, Лея!"
 
 #. data/maps/rhombus-sqr/interior/arena-01.json entities/40/settings/event/4/elseStep/0/0_0/0/message #16095
 #. EventTrigger START_CUP START IF tmp.intoTheArena
@@ -11951,7 +11973,7 @@ msgstr "Давайте хорошо проведём время!"
 #: data/maps/rhombus-sqr/interior/arena-01.json+entities/40/settings/event/4/elseStep/0/4_0/0/message+%2316682
 msgctxt "data/maps/rhombus-sqr/interior/arena-01.json//entities/40/settings/event/4/elseStep/0/4_0/0/message"
 msgid "Let's see who racks up more points."
-msgstr ""
+msgstr "Посмотрим, кто набьёт больше очков."
 
 #. data/maps/rhombus-sqr/interior/arena-01.json entities/40/settings/event/4/elseStep/0/5_0/0/message #16683
 #. EventTrigger START_CUP START IF tmp.intoTheArena
@@ -11961,7 +11983,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/arena-01.json+entities/40/settings/event/4/elseStep/0/5_0/0/message+%2316683
 msgctxt "data/maps/rhombus-sqr/interior/arena-01.json//entities/40/settings/event/4/elseStep/0/5_0/0/message"
 msgid "Jawoll, let's do this!"
-msgstr ""
+msgstr "Jawoll (Да), давай сделаем это!"
 
 #. data/maps/rhombus-sqr/interior/arena-01.json entities/40/settings/event/4/elseStep/0/6_0/0/message #16684
 #. EventTrigger START_CUP START IF tmp.intoTheArena
@@ -11971,7 +11993,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/arena-01.json+entities/40/settings/event/4/elseStep/0/6_0/0/message+%2316684
 msgctxt "data/maps/rhombus-sqr/interior/arena-01.json//entities/40/settings/event/4/elseStep/0/6_0/0/message"
 msgid "Jawoll, let's do this!"
-msgstr ""
+msgstr "Jawoll (Да), давай сделаем это!"
 
 #. data/maps/rhombus-sqr/interior/arena-01.json entities/43/settings/event/0/thenStep/4/titleText #16093
 #. EventTrigger INIT
@@ -13653,7 +13675,7 @@ msgstr "Вознесённую экипировку можно узнать по
 #. SHOW_MSG advisors.female-tall-blond @DEFAULT
 #: data/maps/rhombus-sqr/interior/equipment.json+entities/46/settings/event/8/0/2/message+%23302
 msgctxt "data/maps/rhombus-sqr/interior/equipment.json//entities/46/settings/event/8/0/2/message"
-msgid "Ascended gear will \\c[3]adapt to your level\\c[0]. That means it's base stats will rise as your character level increases."
+msgid "Ascended gear will \\c[3]adapt to your level\\c[0]. That means its base stats will rise as your character level increases."
 msgstr "Вознесённое снаряжение будет \\c[3]адаптироваться к вашему уровню\\c[0]. Это значит, что его базовые характеристики будут расти вместе с уровнем вашего персонажа."
 
 #. data/maps/rhombus-sqr/interior/equipment.json entities/46/settings/event/8/0/3/message #303
@@ -13714,7 +13736,7 @@ msgstr "[нет]"
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/7/settings/event/10/message+%23660
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/7/settings/event/10/message"
 msgid "Hi.\\. Lea.\\. Why?"
-msgstr ""
+msgstr "Привет.\\. Лея.\\. Почему?"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/7/settings/event/11/text #665
 #. EventTrigger fightPreStart START IF tmp.touchFightBoss
@@ -13722,7 +13744,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/7/settings/event/11/text+%23665
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/7/settings/event/11/text"
 msgid "[aggressive goat noises]"
-msgstr ""
+msgstr "[агрессивное блеяние]"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/7/settings/event/13/text #659
 #. EventTrigger fightPreStart START IF tmp.touchFightBoss
@@ -13730,7 +13752,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/7/settings/event/13/text+%23659
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/7/settings/event/13/text"
 msgid "\\v[lore.title.seeker]!\\. This is place of goat now!\\. Leave!"
-msgstr ""
+msgstr "Искатель!\\. Теперь это место козлов!\\. Уходи!"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/7/settings/event/15/message #517
 #. EventTrigger fightPreStart START IF tmp.touchFightBoss
@@ -13738,7 +13760,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/7/settings/event/15/message+%23517
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/7/settings/event/15/message"
 msgid "[shakes head]"
-msgstr ""
+msgstr "[мотает головой]"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/7/settings/event/16/message #663
 #. EventTrigger fightPreStart START IF tmp.touchFightBoss
@@ -13746,7 +13768,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/7/settings/event/16/message+%23663
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/7/settings/event/16/message"
 msgid "How?\\. Meet.\\. Why?"
-msgstr ""
+msgstr "Как?\\. Встреча.\\. Почему?"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/7/settings/event/17/text #672
 #. EventTrigger fightPreStart START IF tmp.touchFightBoss
@@ -13754,7 +13776,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/7/settings/event/17/text+%23672
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/7/settings/event/17/text"
 msgid "[even more aggressive goat noises]"
-msgstr ""
+msgstr "[ещё более агрессивное блеяние]"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/7/settings/event/19/text #673
 #. EventTrigger fightPreStart START IF tmp.touchFightBoss
@@ -13762,7 +13784,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/7/settings/event/19/text+%23673
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/7/settings/event/19/text"
 msgid "No talk!\\. Leave! Or.\\..\\..\\. Fight!!"
-msgstr ""
+msgstr "Никаких разговоров!\\. Уходи! Или.\\..\\..\\. сражайся!!"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/7/settings/event/21/message #674
 #. EventTrigger fightPreStart START IF tmp.touchFightBoss
@@ -13770,7 +13792,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/7/settings/event/21/message+%23674
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/7/settings/event/21/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/13/text #681
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -13778,7 +13800,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/13/text+%23681
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/13/text"
 msgid "[tired goat noises]"
-msgstr ""
+msgstr "[уставшее блеяние]"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/15/text #682
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -13786,7 +13808,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/15/text+%23682
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/15/text"
 msgid "\\v[lore.title.seeker], you have won.\\..\\..\\. "
-msgstr ""
+msgstr "Искатель, ты победила.\\..\\..\\."
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/17/message #667
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -13794,7 +13816,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/17/message+%23667
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/17/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/18/text #684
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -13802,7 +13824,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/18/text+%23684
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/18/text"
 msgid "[sad goat noises]"
-msgstr ""
+msgstr "[грустное блеяние]"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/20/text #685
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -13810,7 +13832,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/20/text+%23685
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/20/text"
 msgid "Fate of goatkind lies in your hand.\\. But now... finish me."
-msgstr ""
+msgstr "Судьба козлов лежит в твоих руках.\\. Но сейчас... прикончи меня."
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/22/message #686
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -13818,7 +13840,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/22/message+%23686
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/22/message"
 msgid "[shakes head]"
-msgstr ""
+msgstr "[мотает головой]"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/23/message #687
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -13826,7 +13848,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/23/message+%23687
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/23/message"
 msgid "Why?\\. Lea meet.\\. How!"
-msgstr ""
+msgstr "Почему?\\. Лея встреча.\\. Как!"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/34/text #688
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -13834,7 +13856,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/34/text+%23688
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/34/text"
 msgid "[surprised goat noises]"
-msgstr ""
+msgstr "[удивлённое блеяние]"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/36/text #689
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -13842,7 +13864,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/36/text+%23689
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/36/text"
 msgid "You think man and goat can coexist here in peace?\\. But how?"
-msgstr ""
+msgstr "Ты думаешь, люди могут мирно сосуществовать с козлами?\\. Но как?"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/38/message #690
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -13850,7 +13872,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/38/message+%23690
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/38/message"
 msgid "How\\..\\..\\..\\.?\\."
-msgstr ""
+msgstr "Как\\..\\..\\..\\.?\\."
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/55/name #692
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -13858,7 +13880,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/55/name+%23692
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/55/name"
 msgid "Mrs. Hoover"
-msgstr ""
+msgstr "Миссис Хувер"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/56/message #42
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -13866,7 +13888,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/56/message+%2342
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/56/message"
 msgid "Hi!?\\. Who?"
-msgstr ""
+msgstr "Привет?!\\. Кто?"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/57/text #496
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -13874,7 +13896,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/57/text+%23496
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/57/text"
 msgid "[cheerful goat noises]"
-msgstr ""
+msgstr "[бодрое блеяние]"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/59/text #497
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -13882,7 +13904,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/59/text+%23497
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/59/text"
 msgid "\\v[lore.title.seeker] and boss!\\. Greetings and good news!"
-msgstr ""
+msgstr "Искатель и босс!\\. Приветствую с хорошими новостями!"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/61/message #696
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -13890,7 +13912,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/61/message+%23696
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/61/message"
 msgid "Yes, good day everyone.\\. We just finished an important meeting and bring a proposition."
-msgstr ""
+msgstr "Да, всем добрый день.\\. Мы только что закончили важное собрание и выдвинули предложение."
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/63/text #697
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -13898,7 +13920,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/63/text+%23697
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/63/text"
 msgid "[angrily confused goat noises]"
-msgstr ""
+msgstr "[сердито-растерянное блеяние]"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/66/text #698
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -13906,7 +13928,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/66/text+%23698
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/66/text"
 msgid "Zira?\\. You held negotiations with humans behind my back?"
-msgstr ""
+msgstr "Зира?\\. Ты вела переговоры с людьми за моей спиной?"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/71/text #699
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -13914,7 +13936,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/71/text+%23699
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/71/text"
 msgid "[determined goat noises]"
-msgstr ""
+msgstr "[решительное блеяние]"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/73/text #700
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -13922,7 +13944,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/73/text+%23700
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/73/text"
 msgid "Yes, father.\\. Goats will have to adapt and cooperate to live good lives here, in this city."
-msgstr ""
+msgstr "Да, отец.\\. Козлам придётся адаптироваться и сотрудничать, чтобы жить хорошей жизнью здесь, в этом городе."
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/76/message #46
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -13930,7 +13952,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/76/message+%2346
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/76/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[кивает]"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/77/message #701
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -13938,7 +13960,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/77/message+%23701
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/77/message"
 msgid "How?\\. ... Who?"
-msgstr ""
+msgstr "Как?\\. ...Кто?"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/79/message #702
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -13946,7 +13968,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/79/message+%23702
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/79/message"
 msgid "Well, there are ways.\\. I represent large property holdings in this area and was contacted by Ms. Zira here."
-msgstr ""
+msgstr "Ну, способы есть.\\. Я представляю крупные имущественные холдинги в этом районе, и со мной связалась мисс Зира."
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/81/message #703
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -13954,7 +13976,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/81/message+%23703
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/81/message"
 msgid "Despite her age, she was a great negotiator and most persuasive."
-msgstr ""
+msgstr "Несмотря на свой возраст, она отлично вела переговоры и была очень убедительна."
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/82/message #704
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -13962,7 +13984,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/82/message+%23704
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/82/message"
 msgid "After communicating with the city council we found a few solutions that should be satisfying to all, hooved or not."
-msgstr ""
+msgstr "После общения с городским советом мы нашли несколько решений, которые должны удовлетворить всех, копытных и не очень."
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/83/message #705
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -13970,7 +13992,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/83/message+%23705
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/83/message"
 msgid "Lea!\\. How?"
-msgstr ""
+msgstr "Лея!\\. Как?"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/84/message #706
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -13978,7 +14000,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/84/message+%23706
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/84/message"
 msgid "It is obvious that these intelligent goats bring a very specialized skillset that can turn into a valuable business."
-msgstr ""
+msgstr "Очевидно, что эти разумные козлы обладают рядом очень специализированных навыков, которые могут стать ценным бизнесом."
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/85/message #707
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -13986,7 +14008,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/85/message+%23707
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/85/message"
 msgid "Also, Ms. Zira already created a deposit to buy local properties with the valuable goods she brought."
-msgstr ""
+msgstr "К тому же, мисс Зира уже открыла вклад, чтобы купить местную недвижимость с ценными товарами, которые она принесла."
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/87/thenStep/0/message #708
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -13995,7 +14017,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/87/thenStep/0/message+%23708
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/87/thenStep/0/message"
 msgid "W-\\.what?\\.\\. How...?!"
-msgstr ""
+msgstr "Ч-\\.что?\\.\\. Как...?!"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/87/elseStep/0/message #730
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -14004,7 +14026,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/87/elseStep/0/message+%23730
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/87/elseStep/0/message"
 msgid "H-\\.how...?!"
-msgstr ""
+msgstr "К-\\.как...?!"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/89/text #709
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -14012,7 +14034,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/89/text+%23709
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/89/text"
 msgid "[smug goat noises]"
-msgstr ""
+msgstr "[самодовольное блеяние]"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/91/text #710
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -14020,7 +14042,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/91/text+%23710
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/91/text"
 msgid "I was very busy and planned a lot."
-msgstr ""
+msgstr "Я была очень занята и много планировала."
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/93/message #711
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -14028,7 +14050,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/93/message+%23711
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/93/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/96/text #712
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -14036,7 +14058,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/96/text+%23712
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/96/text"
 msgid "[defeated goat noises]"
-msgstr ""
+msgstr "[побеждённое блеяние]"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/98/text #713
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -14044,7 +14066,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/98/text+%23713
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/98/text"
 msgid "It seems like my smart daughter has done a lot of work while her father just stubbornly prepared for his defeat."
-msgstr ""
+msgstr "Похоже, моя умная дочь проделала большую работу, в то время как её отец просто упрямо готовился к своему поражению."
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/100/text #714
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -14052,7 +14074,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/100/text+%23714
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/100/text"
 msgid "[dignified goat noises]"
-msgstr ""
+msgstr "[удостоенное блеяние]"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/102/text #715
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -14060,7 +14082,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/102/text+%23715
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/102/text"
 msgid "Very well, I shall listen to those propositions of yours.\\. For the well-being of all goatkind."
-msgstr ""
+msgstr "Хорошо, я послушаю ваши предложения.\\. Ради благополучия всех козлов."
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/104/message #716
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -14068,7 +14090,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/104/message+%23716
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/104/message"
 msgid "Splendid.\\. You won't be disappointed, sir!\\. Please, let us continue this in our office!"
-msgstr ""
+msgstr "Превосходно.\\. Вы не будете разочарованы, сэр!\\. Пожалуйста, давайте продолжим в нашем офисе!"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/107/text #717
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -14076,7 +14098,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/107/text+%23717
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/107/text"
 msgid "[stern goatbye noises]"
-msgstr ""
+msgstr "[сурово-прощальное блеяние]"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/109/text #718
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -14084,7 +14106,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/109/text+%23718
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/109/text"
 msgid "Fine, let us go.\\. \\v[lore.title.seeker], goodbye."
-msgstr ""
+msgstr "Ладно, давайте пойдём.\\. Искатель, прощай."
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/113/text #719
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -14092,7 +14114,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/113/text+%23719
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/113/text"
 msgid "[cheerful goatbye noises]"
-msgstr ""
+msgstr "[бодро-прощальное блеяние]"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/115/text #720
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -14100,7 +14122,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/115/text+%23720
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/115/text"
 msgid "Goodbye, \\v[lore.title.seeker].\\. And thank you for everything!"
-msgstr ""
+msgstr "Прощай, Искатель.\\. И спасибо за всё!"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/117/message #480
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -14108,7 +14130,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/117/message+%23480
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/117/message"
 msgid "Bye!"
-msgstr ""
+msgstr "Пока!"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/10/action/2/text #721
 #. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
@@ -14117,7 +14139,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/10/action/2/text+%23721
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/10/action/2/text"
 msgid "[aggressive goat noises]"
-msgstr ""
+msgstr "[агрессивное блеяние]"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/11/action/2/text #727
 #. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
@@ -14126,7 +14148,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/11/action/2/text+%23727
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/11/action/2/text"
 msgid "[aggressive goat noises]"
-msgstr ""
+msgstr "[агрессивное блеяние]"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/13/action/2/text #677
 #. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
@@ -14135,7 +14157,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/13/action/2/text+%23677
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/13/action/2/text"
 msgid "[aggressive goat noises]"
-msgstr ""
+msgstr "[агрессивное блеяние]"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/14/action/2/text #728
 #. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
@@ -14144,7 +14166,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/14/action/2/text+%23728
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/14/action/2/text"
 msgid "[aggressive goat noises]"
-msgstr ""
+msgstr "[агрессивное блеяние]"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/16/action/2/text #722
 #. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
@@ -14153,7 +14175,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/16/action/2/text+%23722
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/16/action/2/text"
 msgid "[aggressive goat noises]"
-msgstr ""
+msgstr "[агрессивное блеяние]"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/17/action/2/text #729
 #. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
@@ -14162,7 +14184,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/17/action/2/text+%23729
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/17/action/2/text"
 msgid "[aggressive goat noises]"
-msgstr ""
+msgstr "[агрессивное блеяние]"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/38/text #661
 #. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
@@ -14170,7 +14192,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/38/text+%23661
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/38/text"
 msgid "[roaring goat noises]"
-msgstr ""
+msgstr "[ревущее блеяние]"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/41/text #662
 #. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
@@ -14178,7 +14200,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/41/text+%23662
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/41/text"
 msgid "ENOUGH!\\. Stop this slaughter at once!"
-msgstr ""
+msgstr "ХВАТИТ!\\. Сейчас же прекратите эту резню!"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/59/text #694
 #. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
@@ -14186,7 +14208,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/59/text+%23694
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/59/text"
 msgid "[somber goat noises]"
-msgstr ""
+msgstr "[хмурое блеяние]"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/61/text #693
 #. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
@@ -14194,7 +14216,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/61/text+%23693
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/61/text"
 msgid "Too many goat lives have been lost already.\\. I will handle this myself."
-msgstr ""
+msgstr "Было потеряно уже слишком много козьих жизней.\\. Я сам с этим разберусь."
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/69/message #664
 #. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
@@ -14202,7 +14224,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/69/message+%23664
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/69/message"
 msgid "Hi.\\. Lea."
-msgstr ""
+msgstr "Привет.\\. Лея."
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/70/text #658
 #. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
@@ -14210,7 +14232,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/70/text+%23658
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/70/text"
 msgid "[stern goat noises]"
-msgstr ""
+msgstr "[суровое блеяние]"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/72/text #666
 #. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
@@ -14218,7 +14240,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/72/text+%23666
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/72/text"
 msgid "We goats claimed this place.\\. We won't leave peacefully."
-msgstr ""
+msgstr "Мы, козлы, заняли это место.\\. Мы не уйдём с миром."
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/74/message #683
 #. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
@@ -14226,7 +14248,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/74/message+%23683
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/74/message"
 msgid "Why?"
-msgstr ""
+msgstr "Почему?"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/75/text #668
 #. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
@@ -14234,7 +14256,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/75/text+%23668
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/75/text"
 msgid "[sage, yet stern goat noises]"
-msgstr ""
+msgstr "[мудрое, но суровое блеяние]"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/77/text #669
 #. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
@@ -14242,7 +14264,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/77/text+%23669
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/77/text"
 msgid "It is the rules of nature, \\v[lore.title.seeker]."
-msgstr ""
+msgstr "Таковы правила природы, Искатель."
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/79/text #670
 #. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
@@ -14250,7 +14272,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/79/text+%23670
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/79/text"
 msgid "[unrelenting goat noises]"
-msgstr ""
+msgstr "[безжалостное блеяние]"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/81/text #671
 #. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
@@ -14258,7 +14280,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/81/text+%23671
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/81/text"
 msgid "If you won't relent... a duel between us shall decide the fate of goats and humans."
-msgstr ""
+msgstr "Если ты не отступишь... судьба козлов и людей решится на дуэли между нами."
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/83/message #675
 #. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
@@ -14266,7 +14288,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/83/message+%23675
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/83/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/84/message #676
 #. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
@@ -14274,7 +14296,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/84/message+%23676
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/84/message"
 msgid "Meet.\\. Lea!"
-msgstr ""
+msgstr "Встреча.\\. Лея!"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/40/settings/event/0/action/2/text #723
 #. EventTrigger fightReinforcements1 START IF tmp.goats >= 2
@@ -14283,7 +14305,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/40/settings/event/0/action/2/text+%23723
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/40/settings/event/0/action/2/text"
 msgid "[aggressive goat noises]"
-msgstr ""
+msgstr "[агрессивное блеяние]"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/40/settings/event/2/action/2/text #724
 #. EventTrigger fightReinforcements1 START IF tmp.goats >= 2
@@ -14292,7 +14314,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/40/settings/event/2/action/2/text+%23724
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/40/settings/event/2/action/2/text"
 msgid "[aggressive goat noises]"
-msgstr ""
+msgstr "[агрессивное блеяние]"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/40/settings/event/4/action/2/text #725
 #. EventTrigger fightReinforcements1 START IF tmp.goats >= 2
@@ -14301,7 +14323,7 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/40/settings/event/4/action/2/text+%23725
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/40/settings/event/4/action/2/text"
 msgid "[aggressive goat noises]"
-msgstr ""
+msgstr "[агрессивное блеяние]"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/40/settings/event/6/action/2/text #726
 #. EventTrigger fightReinforcements1 START IF tmp.goats >= 2
@@ -14310,21 +14332,21 @@ msgstr ""
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/40/settings/event/6/action/2/text+%23726
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/40/settings/event/6/action/2/text"
 msgid "[aggressive goat noises]"
-msgstr ""
+msgstr "[агрессивное блеяние]"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/43/settings/analyzable/text #423
 #. NPC pet-goat
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/43/settings/analyzable/text+%23423
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/43/settings/analyzable/text"
 msgid "Kid Goat Zira"
-msgstr ""
+msgstr "Козлёнок Зира"
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/44/settings/analyzable/text #695
 #. NPC business
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/44/settings/analyzable/text+%23695
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/44/settings/analyzable/text"
 msgid "Mrs. Hoover"
-msgstr ""
+msgstr "Миссис Хувер"
 
 #. data/maps/rhombus-sqr/interior/hidden-shop.json entities/15/settings/npcStates/0/event/2/message #3
 #. NPC
@@ -17114,110 +17136,6 @@ msgctxt "data/maps/rhombus-sqr/interior/invest-mansion-eg.json//entities/70/sett
 msgid "Bye."
 msgstr "Пока."
 
-#. data/maps/rhombus-sqr/interior/items-f1.json entities/39/settings/npcStates/0/event/shop/2/message #265
-#. NPC items
-#. SHOW_MSG rookie-harbor.female-tall-green @DEFAULT
-#: data/maps/rhombus-sqr/interior/items-f1.json+entities/39/settings/npcStates/0/event/shop/2/message+%23265
-msgctxt "data/maps/rhombus-sqr/interior/items-f1.json//entities/39/settings/npcStates/0/event/shop/2/message"
-msgid "Hello, welcome!\\. Take a look at our great selection of items."
-msgstr ""
-
-#. data/maps/rhombus-sqr/interior/items-f1.json entities/41/settings/npcStates/0/event/shop/2/message #268
-#. NPC backer
-#. SHOW_MSG basin.female-green @DEFAULT
-#: data/maps/rhombus-sqr/interior/items-f1.json+entities/41/settings/npcStates/0/event/shop/2/message+%23268
-msgctxt "data/maps/rhombus-sqr/interior/items-f1.json//entities/41/settings/npcStates/0/event/shop/2/message"
-msgid "Hey! We offer special items, supported by only the finest of backers."
-msgstr ""
-
-#. data/maps/rhombus-sqr/interior/items-f1.json entities/48/settings/npcStates/0/event/0/name #281
-#. NPC
-#. ADD_MSG_PERSON guests.banana-man @DEFAULT
-#: data/maps/rhombus-sqr/interior/items-f1.json+entities/48/settings/npcStates/0/event/0/name+%23281
-msgctxt "data/maps/rhombus-sqr/interior/items-f1.json//entities/48/settings/npcStates/0/event/0/name"
-msgid "Banana Man"
-msgstr ""
-
-#. data/maps/rhombus-sqr/interior/items-f1.json entities/48/settings/npcStates/0/event/2/message #271
-#. NPC
-#. SHOW_MSG guests.banana-man @DEFAULT
-#: data/maps/rhombus-sqr/interior/items-f1.json+entities/48/settings/npcStates/0/event/2/message+%23271
-msgctxt "data/maps/rhombus-sqr/interior/items-f1.json//entities/48/settings/npcStates/0/event/2/message"
-msgid "Shoot!\\. This store doesn't have it either!"
-msgstr ""
-
-#. data/maps/rhombus-sqr/interior/items-f1.json entities/48/settings/npcStates/0/event/3/message #272
-#. NPC
-#. SHOW_MSG main.lea @SURPRISED_TOWARD
-#: data/maps/rhombus-sqr/interior/items-f1.json+entities/48/settings/npcStates/0/event/3/message+%23272
-msgctxt "data/maps/rhombus-sqr/interior/items-f1.json//entities/48/settings/npcStates/0/event/3/message"
-msgid "...?"
-msgstr "...?"
-
-#. data/maps/rhombus-sqr/interior/items-f1.json entities/48/settings/npcStates/0/event/4/message #273
-#. NPC
-#. SHOW_MSG guests.banana-man @DEFAULT
-#: data/maps/rhombus-sqr/interior/items-f1.json+entities/48/settings/npcStates/0/event/4/message+%23273
-msgctxt "data/maps/rhombus-sqr/interior/items-f1.json//entities/48/settings/npcStates/0/event/4/message"
-msgid "\\c[3]Hedgehag Sandwiches\\c[0]!"
-msgstr ""
-
-#. data/maps/rhombus-sqr/interior/items-f1.json entities/48/settings/npcStates/0/event/5/message #274
-#. NPC
-#. SHOW_MSG guests.banana-man @DEFAULT
-#: data/maps/rhombus-sqr/interior/items-f1.json+entities/48/settings/npcStates/0/event/5/message+%23274
-msgctxt "data/maps/rhombus-sqr/interior/items-f1.json//entities/48/settings/npcStates/0/event/5/message"
-msgid "None of these stores seem to have them, and I've been searching all day!"
-msgstr ""
-
-#. data/maps/rhombus-sqr/interior/items-f1.json entities/48/settings/npcStates/0/event/6/message #275
-#. NPC
-#. SHOW_MSG main.lea @NERVOUS
-#: data/maps/rhombus-sqr/interior/items-f1.json+entities/48/settings/npcStates/0/event/6/message+%23275
-msgctxt "data/maps/rhombus-sqr/interior/items-f1.json//entities/48/settings/npcStates/0/event/6/message"
-msgid "Why?"
-msgstr ""
-
-#. data/maps/rhombus-sqr/interior/items-f1.json entities/48/settings/npcStates/0/event/7/message #276
-#. NPC
-#. SHOW_MSG guests.banana-man @DEFAULT
-#: data/maps/rhombus-sqr/interior/items-f1.json+entities/48/settings/npcStates/0/event/7/message+%23276
-msgctxt "data/maps/rhombus-sqr/interior/items-f1.json//entities/48/settings/npcStates/0/event/7/message"
-msgid "Because I need to know they exist!"
-msgstr ""
-
-#. data/maps/rhombus-sqr/interior/items-f1.json entities/48/settings/npcStates/0/event/8/message #277
-#. NPC
-#. SHOW_MSG guests.banana-man @DEFAULT
-#: data/maps/rhombus-sqr/interior/items-f1.json+entities/48/settings/npcStates/0/event/8/message+%23277
-msgctxt "data/maps/rhombus-sqr/interior/items-f1.json//entities/48/settings/npcStates/0/event/8/message"
-msgid "I've been bugging the devs about it for the past 5 years!"
-msgstr ""
-
-#. data/maps/rhombus-sqr/interior/items-f1.json entities/48/settings/npcStates/0/event/9/message #278
-#. NPC
-#. SHOW_MSG main.lea @ANNOYED
-#: data/maps/rhombus-sqr/interior/items-f1.json+entities/48/settings/npcStates/0/event/9/message+%23278
-msgctxt "data/maps/rhombus-sqr/interior/items-f1.json//entities/48/settings/npcStates/0/event/9/message"
-msgid "...Why?"
-msgstr ""
-
-#. data/maps/rhombus-sqr/interior/items-f1.json entities/48/settings/npcStates/0/event/10/message #279
-#. NPC
-#. SHOW_MSG guests.banana-man @DEFAULT
-#: data/maps/rhombus-sqr/interior/items-f1.json+entities/48/settings/npcStates/0/event/10/message+%23279
-msgctxt "data/maps/rhombus-sqr/interior/items-f1.json//entities/48/settings/npcStates/0/event/10/message"
-msgid "...\\.I don't remember.\\. It's been 5 years. "
-msgstr ""
-
-#. data/maps/rhombus-sqr/interior/items-f1.json entities/48/settings/npcStates/0/event/11/message #280
-#. NPC
-#. SHOW_MSG guests.banana-man @DEFAULT
-#: data/maps/rhombus-sqr/interior/items-f1.json+entities/48/settings/npcStates/0/event/11/message+%23280
-msgctxt "data/maps/rhombus-sqr/interior/items-f1.json//entities/48/settings/npcStates/0/event/11/message"
-msgid "Just let me know if you find one, ok?"
-msgstr ""
-
 #. data/maps/rhombus-sqr/interior/items.json entities/40/settings/npcStates/0/event/shop/2/message #265
 #. NPC items
 #. SHOW_MSG rookie-harbor.female-tall-green @DEFAULT
@@ -18110,7 +18028,7 @@ msgstr "\\c[3]Доска объявлений\\c[0]"
 #. SHOW_MSG advisors.man-tall-buzzcut @DEFAULT
 #: data/maps/rhombus-sqr/interior/questhub.json+entities/66/settings/npcStates/0/event/2/message+%23479
 msgctxt "data/maps/rhombus-sqr/interior/questhub.json//entities/66/settings/npcStates/0/event/2/message"
-msgid "Welcome, Seeker, to to the \\c[3]Global Quest Hub\\c[0]."
+msgid "Welcome, Seeker, to the \\c[3]Global Quest Hub\\c[0]."
 msgstr "Добро пожаловать, Искатель, в \\c[3]Мировой Квест-хаб\\c[0]."
 
 #. data/maps/rhombus-sqr/interior/questhub.json entities/66/settings/npcStates/0/event/3/message #485
@@ -18282,12 +18200,12 @@ msgctxt "data/maps/rhombus-sqr/interior/tremor-lab-ug.json//entities/6/settings/
 msgid "Awaken the machine"
 msgstr "Пробудить машину"
 
-#. data/maps/rhombus-sqr/interior/tremor-lab-ug.json entities/6/settings/interact/event/2/action/5/text #9
+#. data/maps/rhombus-sqr/interior/tremor-lab-ug.json entities/6/settings/interact/event/2/action/6/text #9
 #. Prop bossInteract-prop SPAWN IF (quest.tremor-1.task.2 && !(quest.tremor-1.solved || quest.tremor-1.task.3) && !tmp.fightBossStart)
 #. DO_ACTION
 #. SHOW_AR_MSG
-#: data/maps/rhombus-sqr/interior/tremor-lab-ug.json+entities/6/settings/interact/event/2/action/5/text+%239
-msgctxt "data/maps/rhombus-sqr/interior/tremor-lab-ug.json//entities/6/settings/interact/event/2/action/5/text"
+#: data/maps/rhombus-sqr/interior/tremor-lab-ug.json+entities/6/settings/interact/event/2/action/6/text+%239
+msgctxt "data/maps/rhombus-sqr/interior/tremor-lab-ug.json//entities/6/settings/interact/event/2/action/6/text"
 msgid "[ Vibrating machine ]"
 msgstr "[ Вибрирующая машина ]"
 
@@ -18358,7 +18276,7 @@ msgstr "Мисс Тремор"
 #: data/maps/rhombus-sqr/interior/tremor-office-g.json+entities/12/settings/npcStates/1/event/quest/12/thenStep/0/message+%23584
 msgctxt "data/maps/rhombus-sqr/interior/tremor-office-g.json//entities/12/settings/npcStates/1/event/quest/12/thenStep/0/message"
 msgid "Ah, you st-startled me...!\\.\\. S-sorry...\\.\\.\\.\\. You're a s-\\v[lore.title.seeker] aren't you?"
-msgstr "Ах, ты н-напугала меня...!\\.\\. П-прости...\\.\\.\\.\\. Ты И-искатель, не так ли?"
+msgstr "Ах, ты н-напугала меня...!\\.\\. П-прости...\\.\\.\\.\\. Ты И-Искатель, не так ли?"
 
 #. data/maps/rhombus-sqr/interior/tremor-office-g.json entities/12/settings/npcStates/1/event/quest/12/thenStep/1/message #46
 #. NPC tremor-quest
@@ -18498,7 +18416,7 @@ msgstr "..."
 #: data/maps/rhombus-sqr/interior/tremor-office-g.json+entities/12/settings/npcStates/1/event/quest/12/thenStep/14/message+%23600
 msgctxt "data/maps/rhombus-sqr/interior/tremor-office-g.json//entities/12/settings/npcStates/1/event/quest/12/thenStep/14/message"
 msgid "W-well...\\. Of c-course it h-had to go w-wrong.\\. A-ancient e-energy is d-dangerous after all."
-msgstr "Н-ну и...\\. К-конечно же э-это должно было п-пойти не т-так.\\. Всё-таки э-энергия Д-древних о-опасна."
+msgstr "Н-ну и...\\. к-конечно же э-это должно было п-пойти не т-так.\\. Всё-таки э-энергия Д-древних о-опасна."
 
 #. data/maps/rhombus-sqr/interior/tremor-office-g.json entities/12/settings/npcStates/1/event/quest/12/thenStep/15/message #606
 #. NPC tremor-quest
@@ -18568,7 +18486,7 @@ msgstr "...Почему...?"
 #: data/maps/rhombus-sqr/interior/tremor-office-g.json+entities/12/settings/npcStates/1/event/quest/12/thenStep/21/message+%23621
 msgctxt "data/maps/rhombus-sqr/interior/tremor-office-g.json//entities/12/settings/npcStates/1/event/quest/12/thenStep/21/message"
 msgid "I-it is w-what it i-is.\\. N-now I have to s-suffer f-for it u-unless I c-can p-put all the p-parts back together."
-msgstr "Ч-что есть, т-то е-есть.\\. Т-теперь я должна с-страдать и-из-за этого, п-пока я не с-смогу с-собрать все ч-части вместе."
+msgstr "Ч-что есть, т-то е-есть.\\. Т-теперь я должна с-страдать и-из-за этого, п-пока не с-смогу с-собрать все ч-части вместе."
 
 #. data/maps/rhombus-sqr/interior/tremor-office-g.json entities/12/settings/npcStates/1/event/quest/12/thenStep/22/message #622
 #. NPC tremor-quest
@@ -18678,7 +18596,7 @@ msgstr "[кивает]"
 #: data/maps/rhombus-sqr/interior/tremor-office-g.json+entities/12/settings/npcStates/1/event/quest/13/accepted/8/message+%23627
 msgctxt "data/maps/rhombus-sqr/interior/tremor-office-g.json//entities/12/settings/npcStates/1/event/quest/13/accepted/8/message"
 msgid "W-well, t-that's n-not all, b-but you b-better st-start th-there.\\. I c-can do the t-technical p-part w-with t-the m-material."
-msgstr "Н-ну, э-это е-ещё не в-всё, н-но тебе л-лучше н-начать с э-этого.\\. Я с-сделаю т-техническую ч-часть с м-материалом."
+msgstr "Н-ну, э-это е-ещё не в-всё, н-но тебе л-лучше н-начать с э-этого.\\. Я з-займусь т-технической ч-частью с м-материалом."
 
 #. data/maps/rhombus-sqr/interior/tremor-office-g.json entities/12/settings/npcStates/1/event/quest/13/accepted/9/message #490
 #. NPC tremor-quest
@@ -18718,7 +18636,7 @@ msgstr "[мотает головой]"
 #: data/maps/rhombus-sqr/interior/tremor-office-g.json+entities/12/settings/npcStates/1/event/quest/13/declined/1/message+%23592
 msgctxt "data/maps/rhombus-sqr/interior/tremor-office-g.json//entities/12/settings/npcStates/1/event/quest/13/declined/1/message"
 msgid "... I... I sh-should have k-known.\\. H-helping the c-child of a f... f-foolish family with her p-problem is a w-waste of time."
-msgstr "...Я... Я д-должна была з-знать.\\. Помогать р-ребёнку г...г-глупой семьи с её п-проблемами - пустая т-трата времени."
+msgstr "...Я... Я д-должна была з-знать.\\. Помогать р-ребёнку г... г-глупой семьи с её п-проблемами - пустая т-трата времени."
 
 #. data/maps/rhombus-sqr/interior/tremor-office-g.json entities/12/settings/npcStates/1/event/quest/13/declined/2/message #482
 #. NPC tremor-quest
@@ -18872,7 +18790,7 @@ msgstr "Д-достигаем д-довольно хорошего п-прогр
 #: data/maps/rhombus-sqr/interior/tremor-office-g.json+entities/12/settings/npcStates/2/event/trade/event/5/0/1/canceled/0/message+%23645
 msgctxt "data/maps/rhombus-sqr/interior/tremor-office-g.json//entities/12/settings/npcStates/2/event/trade/event/5/0/1/canceled/0/message"
 msgid "A-are you s-still m-missing someth-thing?"
-msgstr "Т-ты всё е-ещё ч-что-то упус-скаешь?"
+msgstr "Т-тебе всё е-ещё ч-чего-то недос-стаёт?"
 
 #. data/maps/rhombus-sqr/interior/tremor-office-g.json entities/12/settings/npcStates/2/event/trade/event/5/1/0/message #553
 #. NPC tremor-quest
@@ -18968,7 +18886,7 @@ msgstr "П-первый должен быть в \\c[3]в подз-земном 
 #: data/maps/rhombus-sqr/interior/tremor-office-g.json+entities/12/settings/npcStates/2/event/trade/event/5/1/3/message+%23570
 msgctxt "data/maps/rhombus-sqr/interior/tremor-office-g.json//entities/12/settings/npcStates/2/event/trade/event/5/1/3/message"
 msgid "The s-second was left \\c[3]in the s-shady part of \\v[area.jungle-city.name]\\c[0].\\. If n-no one st-stole it."
-msgstr "В-второй был оставлен в \\c[3]т-тенистой части Сада Гайи\\c[0].\\. Если е-его н-никто не ук-крал."
+msgstr "В-второй был оставлен в \\c[3]п-подозрительной части Твердыни Бэйзина\\c[0].\\. Если е-его н-никто не ук-крал."
 
 #. data/maps/rhombus-sqr/interior/tremor-office-g.json entities/12/settings/npcStates/2/event/trade/event/5/1/4/message #571
 #. NPC tremor-quest
@@ -19083,7 +19001,7 @@ msgstr "Мисс Тремор"
 #: data/maps/rhombus-sqr/interior/tremor-office-g.json+entities/12/settings/npcStates/3/event/quest/2/message+%23630
 msgctxt "data/maps/rhombus-sqr/interior/tremor-office-g.json//entities/12/settings/npcStates/3/event/quest/2/message"
 msgid "S-so, w-we g-got the \\c[3]\\v[item.419.name] c-completed\\c[0].\\. W-we can t-tackle t-the last p-part now."
-msgstr "И-итак, у н-нас е-есть \\c[3]завершённый Дрожащий тесак\\c[0].\\. М-мы т-теперь можем п-перейти к п-последней ч-части."
+msgstr "И-итак, у н-нас е-есть \\c[3]завершённый Дрожащий тесак\\c[0].\\. Т-теперь м-мы можем п-перейти к п-последней ч-части."
 
 #. data/maps/rhombus-sqr/interior/tremor-office-g.json entities/12/settings/npcStates/3/event/quest/3/message #493
 #. NPC tremor-quest
@@ -19101,7 +19019,7 @@ msgstr "Как?"
 #: data/maps/rhombus-sqr/interior/tremor-office-g.json+entities/12/settings/npcStates/3/event/quest/4/message+%23629
 msgctxt "data/maps/rhombus-sqr/interior/tremor-office-g.json//entities/12/settings/npcStates/3/event/quest/4/message"
 msgid "T-there is a f-final p-part missing.\\. T-the c-core t-that my g-gramps put into a d-dangerous w-war machine."
-msgstr "О-отсутствует п-последняя ч-часть.\\. Я-ядро, к-которое мой пр-прадедушка вставил в о-опасную в-военную машину."
+msgstr "Н-не хватает п-последней ч-части.\\. Я-ядра, к-которое мой пр-прадедушка вставил в о-опасную в-военную машину."
 
 #. data/maps/rhombus-sqr/interior/tremor-office-g.json entities/12/settings/npcStates/3/event/quest/5/message #496
 #. NPC tremor-quest
@@ -19146,7 +19064,7 @@ msgstr "В-вот, это к-ключ от д-двери.\\. М-машина с-
 #: data/maps/rhombus-sqr/interior/tremor-office-g.json+entities/12/settings/npcStates/3/event/quest/10/message+%23638
 msgctxt "data/maps/rhombus-sqr/interior/tremor-office-g.json//entities/12/settings/npcStates/3/event/quest/10/message"
 msgid "\\c[3]D-destroy it and b-bring me its c-core\\c[0] so I c-can f-finally l-leave the sh-shaking behind.\\. P-please.."
-msgstr "\\c[3]У-уничтожь и п-принеси мне её я-ядро\\c[0], чтобы я м-могла н-наконец и-избавиться от др-дрожи.\\. П-пожалуйста..."
+msgstr "\\c[3]У-уничтожь её и п-принеси мне я-ядро\\c[0], чтобы я м-могла н-наконец и-избавиться от др-дрожи.\\. П-пожалуйста..."
 
 #. data/maps/rhombus-sqr/interior/tremor-office-g.json entities/12/settings/npcStates/3/event/quest/11/message #474
 #. NPC tremor-quest
@@ -19181,7 +19099,7 @@ msgstr "Мисс Тремор"
 #. SHOW_MSG rhombus.tremor-girl @DEFAULT
 #: data/maps/rhombus-sqr/interior/tremor-office-g.json+entities/12/settings/npcStates/4/event/2/message+%23641
 msgctxt "data/maps/rhombus-sqr/interior/tremor-office-g.json//entities/12/settings/npcStates/4/event/2/message"
-msgid "G-go to o-our old l-laborat-tory, in the r-remote b-builing on \\c[3]Cliff Exhibition, h-here in \\v[area.rhombus-sqr.name]\\c[0]"
+msgid "G-go to o-our old l-laborat-tory, in the r-remote b-building on \\c[3]Cliff Exhibition, h-here in \\v[area.rhombus-sqr.name]\\c[0]"
 msgstr "С-сходи в н-нашу старую л-лаборат-торию, в у-удалённое з-здание в \\c[3]Скальной экспозиции, з-здесь, на Площади Ромба\\c[0]."
 
 #. data/maps/rhombus-sqr/interior/tremor-office-g.json entities/12/settings/npcStates/4/event/3/message #642
@@ -19236,7 +19154,7 @@ msgstr "[кивает]"
 #: data/maps/rhombus-sqr/interior/tremor-office-g.json+entities/12/settings/npcStates/5/event/quest/5/message+%23577
 msgctxt "data/maps/rhombus-sqr/interior/tremor-office-g.json//entities/12/settings/npcStates/5/event/quest/5/message"
 msgid "Th-That... That is g-great.\\. I can't b-believe I w-will f-finally be f-free again."
-msgstr "Э-это... Это п-прекрасно.\\. Я не могу п-поверить, что я н-наконец буду о-освобождена."
+msgstr "Э-это... Это п-прекрасно.\\. Даже не в-верится, что я н-наконец-то буду о-освобождена."
 
 #. data/maps/rhombus-sqr/interior/tremor-office-g.json entities/12/settings/npcStates/5/event/quest/6/message #578
 #. NPC tremor-quest
@@ -19317,7 +19235,7 @@ msgstr "Лея."
 #: data/maps/rhombus-sqr/interior/tremor-office-g.json+entities/12/settings/npcStates/5/event/quest/31/message+%23617
 msgctxt "data/maps/rhombus-sqr/interior/tremor-office-g.json//entities/12/settings/npcStates/5/event/quest/31/message"
 msgid "Well, you can take the completed weapon with you!\\. It is immensely powerful and that curse is lifted too!"
-msgstr "Ну, ты можешь забрать завершённое оружие с собой!\\. Оно невероятно сильное, и проклятие тоже снято!"
+msgstr "Ну, ты можешь забрать завершённое оружие с собой!\\. Оно невероятно сильное, и к тому же, проклятие снято!"
 
 #. data/maps/rhombus-sqr/interior/tremor-office-g.json entities/12/settings/npcStates/5/event/quest/32/message #618
 #. NPC tremor-quest
@@ -19326,7 +19244,7 @@ msgstr "Ну, ты можешь забрать завершённое оружи
 #: data/maps/rhombus-sqr/interior/tremor-office-g.json+entities/12/settings/npcStates/5/event/quest/32/message+%23618
 msgctxt "data/maps/rhombus-sqr/interior/tremor-office-g.json//entities/12/settings/npcStates/5/event/quest/32/message"
 msgid "And I could even make it \\c[3]ascend\\c[0] if you bring me the needed material."
-msgstr "И я могла бы даже сделать его \\c[3]вознесённым\\c[0], если ты принесёшь мне необходимый материал."
+msgstr "И я бы даже могла сделать его \\c[3]вознесённым\\c[0], если ты принесёшь мне необходимый материал."
 
 #. data/maps/rhombus-sqr/interior/tremor-office-g.json entities/12/settings/npcStates/5/event/quest/33/message #582
 #. NPC tremor-quest
@@ -19344,7 +19262,7 @@ msgstr "...!"
 #: data/maps/rhombus-sqr/interior/tremor-office-g.json+entities/12/settings/npcStates/5/event/quest/34/message+%23619
 msgctxt "data/maps/rhombus-sqr/interior/tremor-office-g.json//entities/12/settings/npcStates/5/event/quest/34/message"
 msgid "Lea.\\. Meet.\\.\\. ... Bye!"
-msgstr "Лея.\\. Встреча.\\.\\. ... Пока!"
+msgstr "Лея.\\. Встреча.\\.\\. ...Пока!"
 
 #. data/maps/rhombus-sqr/interior/tremor-office-g.json entities/12/settings/npcStates/5/event/quest/35/message #620
 #. NPC tremor-quest
@@ -19380,7 +19298,7 @@ msgstr "Эй, Искатель, как дела?\\. Хочешь, чтобы я 
 #: data/maps/rhombus-sqr/residential-s1.json+entities/37/settings/blockEvent/2/message+%231498
 msgctxt "data/maps/rhombus-sqr/residential-s1.json//entities/37/settings/blockEvent/2/message"
 msgid "Lea...\\. It should go without saying that you should meet Mr. Vestorovich in there \\c[3]alone\\c[0]. Please disband your party."
-msgstr "Лея...\\. Разумеется, что ты должна встретиться с мистером Весторовичем \\c[3]в одиночку\\c[0]. Пожалуйста, распусти свою группу."
+msgstr "Лея...\\. Должно быть очевидно, что тебе нужно встретиться с мистером Весторовичем \\c[3]в одиночку\\c[0]. Пожалуйста, распусти свою группу."
 
 #. data/maps/rhombus-sqr/residential-s1.json entities/37/settings/blockEvent/3/message #1499
 #. Door invesdoor

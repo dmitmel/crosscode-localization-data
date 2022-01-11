@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.4.1-2\n"
+"Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-14 01:09+0000\n"
-"POT-Revision-Date: 2021-04-14 01:09+0000\n"
+"POT-Creation-Date: 2022-01-11 15:55+0000\n"
+"POT-Revision-Date: 2022-01-11 15:55+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0\n"
+"X-Generator: crosscode-localization-engine 0.0.0 (2168d54 2022-01-11)\n"
 
 #. data/areas/cold-dng.json name #1
 #: data/areas/cold-dng.json+name+%231
@@ -439,7 +439,7 @@ msgstr "Ааааааа! Я ненавижу их!"
 #: data/maps/cold-dng/b1/center.json+entities/36/settings/event/18/message+%23133
 msgctxt "data/maps/cold-dng/b1/center.json//entities/36/settings/event/18/message"
 msgid "I mean they are HUGE."
-msgstr "Я имею в виду, что они ОГРОМНЫЕ."
+msgstr "То есть, они же ОГРОМНЫЕ."
 
 #. data/maps/cold-dng/b1/center.json entities/36/settings/event/19/message #134
 #. EventTrigger EmilieBugsA START IF cold-dng.b1.control-a-shortcut
@@ -1323,7 +1323,7 @@ msgstr "Во всём виноваты эти жуки, oui (да)!"
 #: data/maps/cold-dng/g/shade-room.json+entities/20/settings/event/12/thenStep/17/thenStep/0/message+%23191
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/20/settings/event/12/thenStep/17/thenStep/0/message"
 msgid "Also I'm sure we both can agree that you being \\c[1]over-powered\\c[0] certainly made a difference."
-msgstr "Также я уверена, мы обе можем согласиться, что твоя \\c[1]чрезмерная сила\\c[0] несомненно повлияла."
+msgstr "А ещё мы обе наверняка можем согласиться, что твоя \\c[1]чрезмерная сила\\c[0] несомненно повлияла."
 
 #. data/maps/cold-dng/g/shade-room.json entities/20/settings/event/12/thenStep/17/thenStep/1/message #192
 #. EventTrigger DungeonEnd START IF party.has.Emilie
@@ -1351,7 +1351,7 @@ msgstr "..."
 #: data/maps/cold-dng/g/shade-room.json+entities/20/settings/event/12/thenStep/19/message+%2334
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/20/settings/event/12/thenStep/19/message"
 msgid "Seriously, what was up with that battle for the master key?!"
-msgstr "Серьёзно, что не так с этой битвой за главный ключ?!"
+msgstr "Серьёзно, зачем была нужна такая битва за главный ключ?!"
 
 #. data/maps/cold-dng/g/shade-room.json entities/20/settings/event/12/thenStep/20/message #35
 #. EventTrigger DungeonEnd START IF party.has.Emilie
@@ -1360,7 +1360,7 @@ msgstr "Серьёзно, что не так с этой битвой за гл�
 #: data/maps/cold-dng/g/shade-room.json+entities/20/settings/event/12/thenStep/20/message+%2335
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/20/settings/event/12/thenStep/20/message"
 msgid "It's like they designed this dungeon after my worst nightmares!"
-msgstr "Как будто они спроектировали это подземелье из моих худших кошмаров!"
+msgstr "Они как будто спроектировали это подземелье из моих худших кошмаров!"
 
 #. data/maps/cold-dng/g/shade-room.json entities/20/settings/event/12/thenStep/21/message #43
 #. EventTrigger DungeonEnd START IF party.has.Emilie
@@ -1378,7 +1378,7 @@ msgstr "...!"
 #: data/maps/cold-dng/g/shade-room.json+entities/20/settings/event/12/thenStep/22/message+%2321
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/20/settings/event/12/thenStep/22/message"
 msgid "Oh well!\\. I'll get you next time!"
-msgstr "Ну ладно!\\. Я сделаю тебя в следующий раз!"
+msgstr "Ну и ладно!\\. Я сделаю тебя в следующий раз!"
 
 #. data/maps/cold-dng/g/shade-room.json entities/20/settings/event/12/thenStep/23/message #36
 #. EventTrigger DungeonEnd START IF party.has.Emilie
@@ -1415,7 +1415,7 @@ msgstr "...!"
 #: data/maps/cold-dng/g/shade-room.json+entities/20/settings/event/12/elseStep/7/thenStep/0/message+%23193
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/20/settings/event/12/elseStep/7/thenStep/0/message"
 msgid "Guess being \\c[1]over-powered\\c[0] doesn't help you much with those puzzles, oui?"
-msgstr "Полагаю, что \\c[1]лишние уровни\\c[0] не особо помогли тебе с этими головоломками, oui (да)?"
+msgstr "Похоже, что \\c[1]лишние уровни\\c[0] не особо помогли тебе с этими головоломками, oui (да)?"
 
 #. data/maps/cold-dng/g/shade-room.json entities/20/settings/event/12/elseStep/7/thenStep/1/message #194
 #. EventTrigger DungeonEnd START IF party.has.Emilie
@@ -1460,7 +1460,7 @@ msgstr "[кивает]"
 #: data/maps/cold-dng/g/shade-room.json+entities/20/settings/event/13/message+%2340
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/20/settings/event/13/message"
 msgid "Hm, but this room is strange, non?"
-msgstr "Хм, но эта комната странная, не так ли?"
+msgstr "Хм, эта комната странная, не так ли?"
 
 #. data/maps/cold-dng/g/shade-room.json entities/20/settings/event/14/message #44
 #. EventTrigger DungeonEnd START IF party.has.Emilie
@@ -1476,7 +1476,7 @@ msgstr "Я не ожидала увидеть других игроков в п�
 #: data/maps/cold-dng/g/shade-room.json+entities/20/settings/event/15/message+%2322
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/20/settings/event/15/message"
 msgid "I guess rooms like these are simply not instanced."
-msgstr "Полагаю, что такие комнаты просто не являются частью специальных подземелий."
+msgstr "Видимо, такие комнаты просто не являются частью специальных подземелий."
 
 #. data/maps/cold-dng/g/shade-room.json entities/20/settings/event/16/message #23
 #. EventTrigger DungeonEnd START IF party.has.Emilie
@@ -1492,7 +1492,7 @@ msgstr "...!"
 #: data/maps/cold-dng/g/shade-room.json+entities/20/settings/event/19/message+%2324
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/20/settings/event/19/message"
 msgid "Anyway, I think we should check out this statue up there."
-msgstr "Во всяком случае, я думаю, что мы должны проверить эту статую там."
+msgstr "В любом случае, я думаю, мы должны проверить ту статую."
 
 #. data/maps/cold-dng/g/shade-room.json entities/23/settings/event/20/message #25
 #. EventTrigger PostExpoScene START IF plot.line >= 4120

@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.4.1-2\n"
+"Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-14 01:09+0000\n"
-"POT-Revision-Date: 2021-04-14 01:09+0000\n"
+"POT-Creation-Date: 2022-01-11 15:55+0000\n"
+"POT-Revision-Date: 2022-01-11 15:55+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0\n"
+"X-Generator: crosscode-localization-engine 0.0.0 (2168d54 2022-01-11)\n"
 
 #. data/areas/hideout.json name #1
 #: data/areas/hideout.json+name+%231
@@ -372,7 +372,7 @@ msgstr "..."
 #. SHOW_MSG main.shizuka @DENYING
 #: data/maps/hideout/inner-1.json+entities/50/settings/event/33/message+%2319
 msgctxt "data/maps/hideout/inner-1.json//entities/50/settings/event/33/message"
-msgid "Honestly there is nothing interesting to see in this building and anyway... I hate it in here."
+msgid "Honestly, there is nothing interesting to see in this building and anyway... I hate it in here."
 msgstr "Честно говоря, в этом здании нет ничего интересного, да и в любом случае... я ненавижу это место."
 
 #. data/maps/hideout/inner-1.json entities/50/settings/event/34/message #20
@@ -564,7 +564,7 @@ msgstr "..."
 #. SHOW_MSG main.genius @EXHAUSTED
 #: data/maps/hideout/inner-garden.json+entities/27/settings/event/70/message+%23144
 msgctxt "data/maps/hideout/inner-garden.json//entities/27/settings/event/70/message"
-msgid "Well it happened, we can't change it now."
+msgid "Well, it happened, we can't change it now."
 msgstr "Ну, это уже случилось, сейчас мы не в силах это поменять."
 
 #. data/maps/hideout/inner-garden.json entities/27/settings/event/72/message #145
@@ -1127,7 +1127,7 @@ msgstr "Отличная идея!"
 #. SHOW_MSG main.genius @SERIOUS
 #: data/maps/hideout/inner-garden.json+entities/50/settings/event/18/message+%23122
 msgctxt "data/maps/hideout/inner-garden.json//entities/50/settings/event/18/message"
-msgid "For Shizuka and Gautham there might have been a slim chance to escape this whole mess."
+msgid "For Shizuka and Gautham, there might have been a slim chance to escape this whole mess."
 msgstr "Для Шизуки и Гаутама, возможно, был небольшой шанс избежать всего этого."
 
 #. data/maps/hideout/inner-garden.json entities/50/settings/event/19/message #166
@@ -1143,7 +1143,7 @@ msgstr "Но для меня...\\. это было практически нев
 #. SHOW_MSG main.genius @DEFAULT
 #: data/maps/hideout/inner-garden.json+entities/50/settings/event/20/message+%23167
 msgctxt "data/maps/hideout/inner-garden.json//entities/50/settings/event/20/message"
-msgid "However now that Lea is here, things have changed."
+msgid "However, now that Lea is here, things have changed."
 msgstr "Однако теперь, когда Лея здесь, всё поменялось."
 
 #. data/maps/hideout/inner-garden.json entities/50/settings/event/21/message #168
@@ -1183,8 +1183,8 @@ msgstr "Потому что...\\. я обманом заставил Сидве�
 #. SHOW_MSG main.sergey @ROLL_EYES
 #: data/maps/hideout/inner-garden.json+entities/51/settings/event/19/message+%23172
 msgctxt "data/maps/hideout/inner-garden.json//entities/51/settings/event/19/message"
-msgid "Oh yes...\\. that data corruption.\\. What the heck."
-msgstr "Ах да...\\. эти повреждённые данные.\\. Какого чёрта."
+msgid "Oh, yes...\\. that data corruption.\\. What the heck?"
+msgstr "Ах, да...\\. эти повреждённые данные.\\. Какого чёрта."
 
 #. data/maps/hideout/inner-garden.json entities/51/settings/event/20/message #174
 #. EventTrigger Revisited3 START IF plot.line >= 20660
@@ -1280,7 +1280,7 @@ msgstr "...Сестра..."
 #: data/maps/hideout/inner-office.json+entities/0/settings/event/19/message+%233
 msgctxt "data/maps/hideout/inner-office.json//entities/0/settings/event/19/message"
 msgid "What do you think you're doing?!"
-msgstr "Ты вообще соображаешь, что ты делаешь?!"
+msgstr "Ты вообще соображаешь, что делаешь?!"
 
 #. data/maps/hideout/inner-office.json entities/0/settings/event/20/message #4
 #. EventTrigger MuchDrama
@@ -1296,7 +1296,7 @@ msgstr "Ты сейчас не в том состоянии, чтобы зани
 #: data/maps/hideout/inner-office.json+entities/0/settings/event/21/message+%235
 msgctxt "data/maps/hideout/inner-office.json//entities/0/settings/event/21/message"
 msgid "All you should do is rest..."
-msgstr "Тебе следует отдохнуть..."
+msgstr "Тебе стоит отдохнуть..."
 
 #. data/maps/hideout/inner-office.json entities/0/settings/event/22/message #6
 #. EventTrigger MuchDrama
@@ -1696,7 +1696,7 @@ msgstr "Хорошо, оставайтесь рядом и говорите ти
 #. SHOW_MSG main.genius @AWAY
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/110/message+%23100
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/110/message"
-msgid "This room is monitored."
+msgid "This room is being monitored."
 msgstr "Эта комната под наблюдением."
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/111/message #101
@@ -1776,8 +1776,8 @@ msgstr "Хорошо...\\. это сильно всё облегчает."
 #. SHOW_MSG main.genius @DOWN
 #: data/maps/hideout/inner-office.json+entities/52/settings/event/120/message+%23111
 msgctxt "data/maps/hideout/inner-office.json//entities/52/settings/event/120/message"
-msgid "Lea, let me start by saying that you are, in fact, the \\c[3]first functional Evotar\\c[0].\n"
-msgstr "Лея, позволь мне начать с того, что ты на самом деле \\c[3]первый функционирующий эвотар\\c[0]."
+msgid "Lea, let me start by saying that you are, in fact, the \\c[3]very first functional Evotar\\c[0].\n"
+msgstr "Лея, позволь мне начать с того, что ты на самом деле \\c[3]самый первый функционирующий эвотар\\c[0]."
 
 #. data/maps/hideout/inner-office.json entities/52/settings/event/121/message #112
 #. EventTrigger Revisited START IF plot.line >= 20000
@@ -2057,7 +2057,7 @@ msgstr "Ох! Думаешь, мы ещё сможем найти там нов�
 #. SHOW_DREAM_MSG
 #: data/maps/hideout/inner-office.json+entities/68/settings/npcStates/1/action/4/text+%2387
 msgctxt "data/maps/hideout/inner-office.json//entities/68/settings/npcStates/1/action/4/text"
-msgid "Definitely, but we have to hurry! Everybody is no preparing to enter the place, soon!"
+msgid "Definitely, but we have to hurry! Everybody is now preparing to enter the place, soon!"
 msgstr "Конечно, но мы должны поспешить! Пока кто-нибудь другой не опередил нас!"
 
 #. data/maps/hideout/inner-office.json entities/68/settings/npcStates/1/action/5/text #88
@@ -2770,8 +2770,8 @@ msgstr "Сервер эвотаров, скорее всего, основан �
 #. SHOW_MSG main.sergey @DEFAULT
 #: data/maps/hideout/inner-office.json+entities/81/settings/event/32/message+%23225
 msgctxt "data/maps/hideout/inner-office.json//entities/81/settings/event/32/message"
-msgid "That means it should be vulnerable to a certain DoS attack we experienced in the past."
-msgstr "Это значит, что он должен быть уязвим к определённым DoS-атакам, испытываемым нами в прошлом."
+msgid "That means it should be vulnerable to a certain DDoS attack we experienced in the past."
+msgstr "Это значит, что он должен быть уязвим к определённым DDoS-атакам, испытываемым нами в прошлом."
 
 #. data/maps/hideout/inner-office.json entities/81/settings/event/33/message #221
 #. EventTrigger FinalPlan START IF plot.line >= 25000
@@ -3002,7 +3002,7 @@ msgstr "Я пыталась."
 #. SHOW_MSG main.shizuka @CONCERNED
 #: data/maps/hideout/inner-office.json+entities/81/settings/event/73/message+%23252
 msgctxt "data/maps/hideout/inner-office.json//entities/81/settings/event/73/message"
-msgid "He has been acting...\\. very strange.\\. Even more strange than usual.\\. And that's saying a lot."
+msgid "He has been acting...\\. very strange.\\. Even more strangely than usual.\\. And that's saying a lot."
 msgstr "Он вёл себя...\\. очень странно.\\. Даже более странно, чем обычно.\\. И это говорит о многом."
 
 #. data/maps/hideout/inner-office.json entities/81/settings/event/74/message #253
@@ -3122,7 +3122,7 @@ msgstr "Согласен.\\. Скоро увидимся!"
 #. SHOW_MSG main.shizuka @DEFAULT
 #: data/maps/hideout/inner-office.json+entities/81/settings/event/97/message+%23267
 msgctxt "data/maps/hideout/inner-office.json//entities/81/settings/event/97/message"
-msgid "Good night."
+msgid "Goodnight."
 msgstr "Спокойной ночи."
 
 #. data/maps/hideout/inner-office.json entities/81/settings/event/99/message #268
@@ -3155,7 +3155,7 @@ msgstr "Непредвиденная ошибка"
 #. SHOW_MSG antagonists.gautham @DEFAULT
 #: data/maps/hideout/path-1.json+entities/40/settings/event/28/message+%231
 msgctxt "data/maps/hideout/path-1.json//entities/40/settings/event/28/message"
-msgid "I'm sorry but I can't let you go any further."
+msgid "I'm sorry, but I can't let you go any further."
 msgstr "Прости, но я не могу тебя пропустить."
 
 #. data/maps/hideout/path-1.json entities/40/settings/event/29/message #2
@@ -3220,7 +3220,7 @@ msgstr "Нажмите \\i[throw] + \\i[throw] + \\i[throw] + \\i[throw]"
 #: data/maps/hideout/path-1.json+entities/43/settings/event/9/message+%233
 msgctxt "data/maps/hideout/path-1.json//entities/43/settings/event/9/message"
 msgid "You will have to do better than that."
-msgstr "Тебе нужно придумать что-то получше, чем это."
+msgstr "Тебе нужно придумать что-то получше этого."
 
 #. data/maps/hideout/path-1.json entities/277/settings/event/1/message #10
 #. EventTrigger secondVisit START IF plot.line >= 19500
@@ -4207,7 +4207,7 @@ msgstr "..."
 #. SHOW_MSG main.shizuka @SMILE
 #: data/maps/hideout/path-3.json+entities/454/settings/npcStates/5/event/26/message+%231725
 msgctxt "data/maps/hideout/path-3.json//entities/454/settings/npcStates/5/event/26/message"
-msgid "Still a lack for proper words?"
+msgid "Still lacking the proper words?"
 msgstr "Всё ещё не хватает правильных слов?"
 
 #. data/maps/hideout/path-3.json entities/454/settings/npcStates/5/event/27/message #1726
@@ -4252,8 +4252,8 @@ msgstr "Конечно..."
 #. SHOW_MSG main.shizuka @DEFAULT
 #: data/maps/hideout/path-3.json+entities/454/settings/npcStates/5/event/31/message+%231729
 msgctxt "data/maps/hideout/path-3.json//entities/454/settings/npcStates/5/event/31/message"
-msgid "Honestly, though...\\. I've been thinking back to this moment a lot recently..."
-msgstr "Но, если честно...\\. в последнее время я очень часто вспоминаю этот момент..."
+msgid "Honestly, though...\\. I've been thinking back to that moment a lot recently..."
+msgstr "Но, если честно...\\. в последнее время я очень часто вспоминаю тот момент..."
 
 #. data/maps/hideout/path-3.json entities/454/settings/npcStates/5/event/32/message #1795
 #. NPC shizuka
@@ -4393,7 +4393,7 @@ msgstr "Шизука..."
 #. SHOW_MSG main.shizuka @SARCASTIC
 #: data/maps/hideout/path-3.json+entities/455/settings/event/12/message+%23707
 msgctxt "data/maps/hideout/path-3.json//entities/455/settings/event/12/message"
-msgid "Hello again."
+msgid "Hello, again."
 msgstr "И снова привет."
 
 #. data/maps/hideout/path-3.json entities/455/settings/event/14/message #690
@@ -4489,7 +4489,7 @@ msgstr "...как будто они твои собственные."
 #. SHOW_MSG main.shizuka @SCREAM
 #: data/maps/hideout/path-3.json+entities/455/settings/event/40/message+%23701
 msgctxt "data/maps/hideout/path-3.json//entities/455/settings/event/40/message"
-msgid "Can somebody PLEASE JUST DELETE YOU ALREADY?!"
+msgid "Can somebody PLEASE JUST DELETE YOU, ALREADY?!"
 msgstr "Может, кто-нибудь УЖЕ НАКОНЕЦ УДАЛИТ ТЕБЯ?!"
 
 #. data/maps/hideout/path-3.json entities/455/settings/event/41/message #702
@@ -4505,7 +4505,7 @@ msgstr "..."
 #. SHOW_MSG main.shizuka @YELL
 #: data/maps/hideout/path-3.json+entities/455/settings/event/43/message+%23703
 msgctxt "data/maps/hideout/path-3.json//entities/455/settings/event/43/message"
-msgid "Oh how I'd love to just rip your head off!"
+msgid "Oh, how I'd love to just rip your head off!"
 msgstr "Ох, как бы я хотела просто оторвать тебе голову!"
 
 #. data/maps/hideout/path-3.json entities/455/settings/event/44/message #704
@@ -4529,7 +4529,7 @@ msgstr "..."
 #. SHOW_MSG main.shizuka @STRICT
 #: data/maps/hideout/path-3.json+entities/455/settings/event/46/message+%23705
 msgctxt "data/maps/hideout/path-3.json//entities/455/settings/event/46/message"
-msgid "If I only knew the machine you're running on!"
+msgid "If only I knew the machine you're running on!"
 msgstr "Если бы я только знала, на каком оборудовании ты запущена!"
 
 #. data/maps/hideout/path-3.json entities/455/settings/event/47/message #706
@@ -4698,8 +4698,8 @@ msgstr "ПОЧЕМУ ТЫ НАНОСИШЬ ТАК МНОГО УРОНА?!\\. Т�
 #. SHOW_SIDE_MSG main.lea @INSANE_DOWN
 #: data/maps/hideout/path-3.json+entities/456/settings/event/1/elseStep/0/thenStep/0/thenStep/1/thenStep/0/thenStep/1/message+%231444
 msgctxt "data/maps/hideout/path-3.json//entities/456/settings/event/1/elseStep/0/thenStep/0/thenStep/1/thenStep/0/thenStep/1/message"
-msgid "..."
-msgstr "..."
+msgid "\\c[1]...\\c[0]"
+msgstr "\\c[1]...\\c[0]"
 
 #. data/maps/hideout/path-3.json entities/456/settings/event/1/elseStep/0/thenStep/0/thenStep/1/thenStep/0/elseStep/0/message #722
 #. EventTrigger pvpBrake START IF pvp.brake
@@ -4877,7 +4877,7 @@ msgstr "Просто играемся в CrossWorlds, раз уж мы тут з
 #. SHOW_SIDE_MSG main.shizuka @STRICT
 #: data/maps/hideout/path-3.json+entities/456/settings/event/1/elseStep/0/elseStep/6/thenStep/0/message+%23731
 msgctxt "data/maps/hideout/path-3.json//entities/456/settings/event/1/elseStep/0/elseStep/6/thenStep/0/message"
-msgid "Have at least the decency to stay out of this!"
+msgid "At least have the decency to stay out of this!"
 msgstr "Имей хотя бы совесть держаться от этого всего подальше!"
 
 #. data/maps/hideout/path-3.json entities/456/settings/event/1/elseStep/0/elseStep/7/thenStep/0/message #732
@@ -5022,7 +5022,7 @@ msgstr "..."
 #. SHOW_MSG main.shizuka @DENYING
 #: data/maps/hideout/path-3.json+entities/598/settings/event/15/message+%23740
 msgctxt "data/maps/hideout/path-3.json//entities/598/settings/event/15/message"
-msgid "No it's nothing."
+msgid "No, it's nothing."
 msgstr "Всё в порядке."
 
 #. data/maps/hideout/path-3.json entities/598/settings/event/16/message #741
@@ -5317,8 +5317,8 @@ msgstr "..."
 #. SHOW_MSG main.sergey @DOWN
 #: data/maps/hideout/path-3.json+entities/790/settings/event/28/message+%23858
 msgctxt "data/maps/hideout/path-3.json//entities/790/settings/event/28/message"
-msgid "By now you probably already guessed it, but I plan to involve the other First Scholar members."
-msgstr "Как ты уже догадалась, я планирую вовлечь в это остальных Первоучёных."
+msgid "By now you've probably already guessed it, but I plan to involve the other First Scholar members."
+msgstr "Как ты уже, наверное, догадалась, я планирую вовлечь в это остальных Первоучёных."
 
 #. data/maps/hideout/path-3.json entities/790/settings/event/29/message #859
 #. EventTrigger LogoutBeforeFinal START IF plot.line >= 25100
@@ -5525,7 +5525,7 @@ msgstr "Пока."
 #. SHOW_MSG main.sergey @EYES_CLOSED
 #: data/maps/hideout/path-3.json+entities/790/settings/event/54/message+%23884
 msgctxt "data/maps/hideout/path-3.json//entities/790/settings/event/54/message"
-msgid "Good night, Lea."
+msgid "Goodnight, Lea."
 msgstr "Спокойной ночи, Лея."
 
 #. data/maps/hideout/path-3.json entities/790/settings/event/58/text #1145
@@ -5725,7 +5725,7 @@ msgstr "Спасибо!"
 #. SHOW_MSG main.sergey @SMILE
 #: data/maps/hideout/path-3.json+entities/791/settings/event/62/message+%231151
 msgctxt "data/maps/hideout/path-3.json//entities/791/settings/event/62/message"
-msgid "You are welcome!"
+msgid "You're welcome!"
 msgstr "Всегда пожалуйста!"
 
 #. data/maps/hideout/path-3.json entities/791/settings/event/63/message #1209
@@ -5789,7 +5789,7 @@ msgstr "Japp (Йеп).\\. Намного лучше нашего маленьк�
 #. SHOW_MSG main.shizuka @SMILE
 #: data/maps/hideout/path-3.json+entities/799/settings/event/32/message+%231214
 msgctxt "data/maps/hideout/path-3.json//entities/799/settings/event/32/message"
-msgid "Well...\\. we had the connections after all."
+msgid "Well...\\. we had the connections, after all."
 msgstr "Ну...\\. у нас всё-таки были связи."
 
 #. data/maps/hideout/path-3.json entities/799/settings/event/46/message #1217
@@ -5965,7 +5965,7 @@ msgstr "Прощай, Лея."
 #. SHOW_MSG main.buggy @JOKING
 #: data/maps/hideout/path-3.json+entities/799/settings/event/107/message+%231412
 msgctxt "data/maps/hideout/path-3.json//entities/799/settings/event/107/message"
-msgid "Ha!\\. Finally I can witness that infamous hug!"
+msgid "Ha!\\. Finally, I can witness that infamous hug!"
 msgstr "Ха!\\. Наконец-то я увидел эти объятья!"
 
 #. data/maps/hideout/path-3.json entities/799/settings/event/118/message #1413
@@ -6069,7 +6069,7 @@ msgstr "Пока..."
 #. SHOW_MSG antagonists.fancyguy @SUSPICIOUS
 #: data/maps/hideout/path-3.json+entities/799/settings/event/161/message+%231425
 msgctxt "data/maps/hideout/path-3.json//entities/799/settings/event/161/message"
-msgid "Now please unhand me!"
+msgid "Now, please unhand me!"
 msgstr "А теперь, пожалуйста, отпусти меня!"
 
 #. data/maps/hideout/path-3.json entities/799/settings/event/174/message #1426
@@ -6085,7 +6085,7 @@ msgstr "Прощай, малявка."
 #. SHOW_MSG main.shizuka @SURPRISED
 #: data/maps/hideout/path-3.json+entities/799/settings/event/181/message+%231427
 msgctxt "data/maps/hideout/path-3.json//entities/799/settings/event/181/message"
-msgid "No wait...\\. this is awkward!"
+msgid "No, wait...\\. this is awkward!"
 msgstr "Нет, подожди...\\. это так неловко!"
 
 #. data/maps/hideout/path-3.json entities/799/settings/event/189/message #1428

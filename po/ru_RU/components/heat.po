@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.4.1-2\n"
+"Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-14 01:09+0000\n"
-"POT-Revision-Date: 2021-04-14 01:09+0000\n"
+"POT-Creation-Date: 2022-01-11 15:55+0000\n"
+"POT-Revision-Date: 2022-01-11 15:55+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0\n"
+"X-Generator: crosscode-localization-engine 0.0.0 (2168d54 2022-01-11)\n"
 
 #. data/maps/heat/caves/cliff-cave-01.json entities/243/settings/condAnims/0/interact/hoverText #83
 #. Prop probe SPAWN IF quest.trailblaze-maroon.started
@@ -2321,7 +2321,7 @@ msgstr "..."
 #: data/maps/heat/dng-exterior.json+entities/451/settings/event/16/elseStep/7/message+%23610
 msgctxt "data/maps/heat/dng-exterior.json//entities/451/settings/event/16/elseStep/7/message"
 msgid "...\\. Lea..."
-msgstr "...\\. Лея..."
+msgstr "...\\.Лея..."
 
 #. data/maps/heat/dng-exterior.json entities/451/settings/event/16/elseStep/9/message #611
 #. EventTrigger pvpEnd START IF pvp.finished
@@ -3918,7 +3918,7 @@ msgstr "...Ха..."
 #: data/maps/heat/dng-top.json+entities/374/settings/event/85/message+%23228
 msgctxt "data/maps/heat/dng-top.json//entities/374/settings/event/85/message"
 msgid "I can't believe this..."
-msgstr "Я не могу в это поверить..."
+msgstr "Поверить не могу..."
 
 #. data/maps/heat/dng-top.json entities/374/settings/event/86/message #229
 #. EventTrigger LogoutScene START IF tmp.startLogoutScene
@@ -3934,7 +3934,7 @@ msgstr "Эмили...\\. не беспокойся об этом!"
 #: data/maps/heat/dng-top.json+entities/374/settings/event/87/message+%23552
 msgctxt "data/maps/heat/dng-top.json//entities/374/settings/event/87/message"
 msgid "It's not like Lea could have told you..."
-msgstr "Не то чтобы Лея могла сказать тебе об этом..."
+msgstr "Не то чтобы Лея могла сказать тебе..."
 
 #. data/maps/heat/dng-top.json entities/374/settings/event/88/message #230
 #. EventTrigger LogoutScene START IF tmp.startLogoutScene
@@ -6097,7 +6097,7 @@ msgstr "Ну...\\. понимаете..."
 #: data/maps/heat/oasis/oasis-path-02.json+entities/668/settings/event/34/message+%23920
 msgctxt "data/maps/heat/oasis/oasis-path-02.json//entities/668/settings/event/34/message"
 msgid "Somebody was so kind to tell me I was heading in the wrong direction!"
-msgstr "Кто-то был так любезен, чтобы сказать мне, что я иду в неправильном направлении!"
+msgstr "Кто-то очень любезно сказал мне, что я иду в неправильном направлении!"
 
 #. data/maps/heat/oasis/oasis-path-02.json entities/668/settings/event/35/message #921
 #. EventTrigger seizuiBattleEnd START IF tmp.seizuiKills >= 9
@@ -6137,7 +6137,7 @@ msgstr "РЕЙЗ, ПЕРЕСТАНЬ ДВИГАТЬСЯ!!"
 #: data/maps/heat/oasis/oasis-path-02.json+entities/668/settings/event/39/message+%23925
 msgctxt "data/maps/heat/oasis/oasis-path-02.json//entities/668/settings/event/39/message"
 msgid "Rhombus Square was close to that...\\. \\c[3]jungle\\c[0], wasn't it?"
-msgstr "Площадь Ромба рядом с этими...\\. \\c[3]джунглями\\c[0], да?"
+msgstr "Площадь Ромба была рядом с этими...\\. \\c[3]джунглями\\c[0], да?"
 
 #. data/maps/heat/oasis/oasis-path-02.json entities/668/settings/event/40/message #926
 #. EventTrigger seizuiBattleEnd START IF tmp.seizuiKills >= 9
@@ -6145,7 +6145,7 @@ msgstr "Площадь Ромба рядом с этими...\\. \\c[3]джун�
 #: data/maps/heat/oasis/oasis-path-02.json+entities/668/settings/event/40/message+%23926
 msgctxt "data/maps/heat/oasis/oasis-path-02.json//entities/668/settings/event/40/message"
 msgid "No...\\. no it wasn't."
-msgstr "Нет...\\. это не так."
+msgstr "Нет...\\. никогда не была."
 
 #. data/maps/heat/oasis/oasis-path-02.json entities/668/settings/event/41/message #928
 #. EventTrigger seizuiBattleEnd START IF tmp.seizuiKills >= 9
@@ -6249,7 +6249,7 @@ msgstr "..."
 #: data/maps/heat/oasis/oasis-path-02.json+entities/668/settings/event/58/message+%23935
 msgctxt "data/maps/heat/oasis/oasis-path-02.json//entities/668/settings/event/58/message"
 msgid "You know what?\\. Maybe we should just leave him to his fate!"
-msgstr "Знаешь что?\\. Может быть, мы просто должны оставить его на произвол судьбы!"
+msgstr "Знаешь что?\\. Может, мы просто должны оставить его на произвол судьбы!"
 
 #. data/maps/heat/oasis/oasis-path-02.json entities/668/settings/event/59/message #936
 #. EventTrigger seizuiBattleEnd START IF tmp.seizuiKills >= 9
@@ -6353,7 +6353,7 @@ msgstr "Вместо этого он вроде бы...\\. смотрит, че�
 #: data/maps/heat/oasis/oasis-path-02.json+entities/668/settings/event/71/message+%23948
 msgctxt "data/maps/heat/oasis/oasis-path-02.json//entities/668/settings/event/71/message"
 msgid "Who knows what he's up to, really."
-msgstr "Кто знает, что он действительно задумал."
+msgstr "Кто его знает, что он там задумал."
 
 #. data/maps/heat/oasis/oasis-path-02.json entities/668/settings/event/72/message #949
 #. EventTrigger seizuiBattleEnd START IF tmp.seizuiKills >= 9
@@ -6401,7 +6401,7 @@ msgstr "В любом случае, давайте не будем разоча�
 #: data/maps/heat/oasis/oasis-path-02.json+entities/668/settings/event/79/message+%23954
 msgctxt "data/maps/heat/oasis/oasis-path-02.json//entities/668/settings/event/79/message"
 msgid "Fine.\\. We'll give him one last chance."
-msgstr "Хорошо.\\. Мы дадим ему последний шанс."
+msgstr "Ладно.\\. Мы дадим ему последний шанс."
 
 #. data/maps/heat/oasis/oasis-path-02.json entities/668/settings/event/80/message #955
 #. EventTrigger seizuiBattleEnd START IF tmp.seizuiKills >= 9
@@ -12267,7 +12267,7 @@ msgstr "Я страж \\v[area.heat-village.name] и поклялась защи
 #: data/maps/heat/special/guards-billstonLair-1.json+entities/61/settings/event/36/message+%23632
 msgctxt "data/maps/heat/special/guards-billstonLair-1.json//entities/61/settings/event/36/message"
 msgid "I see...\\. the guard truly has become soft."
-msgstr "Понятно...\\. стража на самом деле стала мягче."
+msgstr "Понятно...\\. стража и в самом деле стала мягче."
 
 #. data/maps/heat/special/guards-billstonLair-1.json entities/61/settings/event/40/name #640
 #. EventTrigger battleEnd START IF tmp.guardBattleOver
@@ -13918,7 +13918,7 @@ msgid ""
 msgstr ""
 "Всем доброго вечера,\n"
 "\n"
-"с тех пор как \\c[3]наше финансирование было урезано\\c[0] и \\c[3]Путь поглотил комплексы\\c[0], мы учредили \\c[3]новое место\\c[0], где мы сохраним и продолжим наши исследования."
+"С тех пор как \\c[3]наше финансирование было урезано\\c[0] и \\c[3]Путь поглотил комплексы\\c[0], мы учредили \\c[3]новое место\\c[0], где мы сохраним и продолжим наши исследования."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/123/settings/condAnims/0/interact/event/3/text #12213
 #. Prop keyLore
@@ -13957,22 +13957,45 @@ msgstr ""
 "Подсказки по поводу \\c[1]одного\\c[0] из мест можно найти на каждом из наших четырёх объектов.\n"
 "\\c[3]Таким образом, вы узнаете одно местоположение после прочтения этого сообщения.\\c[0]"
 
-#. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/123/settings/condAnims/0/interact/event/6/thenStep/0/text #12208
+#. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/123/settings/condAnims/0/interact/event/6/thenStep/0/text #12215
 #. Prop keyLore
 #. IF true
-#. IF true
+#. IF extension.fish-gear.active && extension.flying-hedgehag.active && extension.scorpion-robo.active && extension.snowman-tank.active
 #. SHOW_BOARD_MSG
-#: extension/scorpion-robo/data/maps/heat/lab/room-final.json+entities/123/settings/condAnims/0/interact/event/6/thenStep/0/text+%2312208
+#: extension/scorpion-robo/data/maps/heat/lab/room-final.json+entities/123/settings/condAnims/0/interact/event/6/thenStep/0/text+%2312215
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-final.json//entities/123/settings/condAnims/0/interact/event/6/thenStep/0/text"
+msgid ""
+"Everyone who manages to enter will be welcome!\n"
+"\n"
+"Sincerely,\n"
+"\"The 4 Visionaries\"\n"
+"\n"
+"\\c[1][END OF MAIL]\\c[0]"
+msgstr ""
+"Мы будем рады каждому, кто сможет войти!\n"
+"\n"
+"С уважением,\n"
+"\"Четыре провидца\"\n"
+"\n"
+"\\c[1][КОНЕЦ СООБЩЕНИЯ]\\c[0]"
+
+#. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/123/settings/condAnims/0/interact/event/6/elseStep/0/text #12208
+#. Prop keyLore
+#. IF true
+#. IF NOT extension.fish-gear.active && extension.flying-hedgehag.active && extension.scorpion-robo.active && extension.snowman-tank.active
+#. SHOW_BOARD_MSG
+#: extension/scorpion-robo/data/maps/heat/lab/room-final.json+entities/123/settings/condAnims/0/interact/event/6/elseStep/0/text+%2312208
+msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-final.json//entities/123/settings/condAnims/0/interact/event/6/elseStep/0/text"
 msgid "Interested \\c[3]\\v[lore.title.seeker]s\\c[0] should know that \\c[3]each of their kind\\c[0] is destined to enter \\c[3]only one of the 4 facilities\\c[0] and find a part of the information."
 msgstr "Заинтересованные \\c[3]Искатели\\c[0] должны знать, что \\c[3]каждому из вас\\c[0] суждено войти \\c[3]только в одно из четырёх предприятий\\c[0] и найти лишь часть информации."
 
-#. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/123/settings/condAnims/0/interact/event/7/text #12211
+#. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/123/settings/condAnims/0/interact/event/6/elseStep/1/text #12211
 #. Prop keyLore
 #. IF true
+#. IF NOT extension.fish-gear.active && extension.flying-hedgehag.active && extension.scorpion-robo.active && extension.snowman-tank.active
 #. SHOW_BOARD_MSG
-#: extension/scorpion-robo/data/maps/heat/lab/room-final.json+entities/123/settings/condAnims/0/interact/event/7/text+%2312211
-msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-final.json//entities/123/settings/condAnims/0/interact/event/7/text"
+#: extension/scorpion-robo/data/maps/heat/lab/room-final.json+entities/123/settings/condAnims/0/interact/event/6/elseStep/1/text+%2312211
+msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-final.json//entities/123/settings/condAnims/0/interact/event/6/elseStep/1/text"
 msgid ""
 "But \\c[3]through teamwork and communication\\c[0] it might be possible to obtain all locations regardless!\n"
 "Everyone who manages to enter will be welcome!\n"
@@ -13990,12 +14013,12 @@ msgstr ""
 "\n"
 "\\c[1][КОНЕЦ СООБЩЕНИЯ]\\c[0]"
 
-#. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/123/settings/condAnims/0/interact/event/8/text #12209
+#. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/123/settings/condAnims/0/interact/event/7/text #12209
 #. Prop keyLore
 #. IF true
 #. SHOW_BOARD_MSG
-#: extension/scorpion-robo/data/maps/heat/lab/room-final.json+entities/123/settings/condAnims/0/interact/event/8/text+%2312209
-msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-final.json//entities/123/settings/condAnims/0/interact/event/8/text"
+#: extension/scorpion-robo/data/maps/heat/lab/room-final.json+entities/123/settings/condAnims/0/interact/event/7/text+%2312209
+msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-final.json//entities/123/settings/condAnims/0/interact/event/7/text"
 msgid ""
 "\\c[1]ATTACHMENT:\\c[0]\n"
 "\n"

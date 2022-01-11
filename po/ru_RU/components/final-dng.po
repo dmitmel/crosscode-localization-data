@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.4.1-2\n"
+"Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-14 01:09+0000\n"
-"POT-Revision-Date: 2021-04-14 01:09+0000\n"
+"POT-Creation-Date: 2022-01-11 15:55+0000\n"
+"POT-Revision-Date: 2022-01-11 15:55+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0\n"
+"X-Generator: crosscode-localization-engine 0.0.0 (2168d54 2022-01-11)\n"
 
 #. data/areas/final-dng.json name #1
 #: data/areas/final-dng.json+name+%231
@@ -437,7 +437,7 @@ msgstr "В4: Послание"
 #. SHOW_DREAM_MSG
 #: extension/post-game/data/maps/final-dng/b1/bridge-midboss.json+entities/17/settings/event/11/text+%231
 msgctxt "extension/post-game/data/maps/final-dng/b1/bridge-midboss.json//entities/17/settings/event/11/text"
-msgid "Another one arrived."
+msgid "Another one arrives."
 msgstr "Ещё один прибыл."
 
 #. extension/post-game/data/maps/final-dng/b1/bridge-midboss.json entities/17/settings/event/13/text #2
@@ -453,7 +453,7 @@ msgstr "Властелин всех четырёх элементов."
 #. SHOW_DREAM_MSG
 #: extension/post-game/data/maps/final-dng/b1/bridge-midboss.json+entities/17/settings/event/27/text+%233
 msgctxt "extension/post-game/data/maps/final-dng/b1/bridge-midboss.json//entities/17/settings/event/27/text"
-msgid "You mastery shall be tested."
+msgid "Your mastery shall be tested."
 msgstr "Твоё мастерство будет проверено."
 
 #. extension/post-game/data/maps/final-dng/b1/bridge-midboss.json entities/38/settings/event/16/text #4
@@ -718,7 +718,7 @@ msgstr "Возможно, ты права."
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/66/settings/event/42/message+%2389
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/66/settings/event/42/message"
 msgid "After all, you tend to remember things when you least expect it."
-msgstr "В конце концов, обычно ты вспоминаешь вещи, когда меньше всего этого ожидаешь."
+msgstr "В конце концов, обычно ты вспоминаешь вещи, когда совсем этого не ждёшь."
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/66/settings/event/43/message #90
 #. EventTrigger DoorOpen START IF map.poleUp1 && map.poleUp2
@@ -829,7 +829,7 @@ msgstr "Быстрая адаптация поведения врага!"
 #. SHOW_MSG main.luke @UP
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/74/settings/event/17/message+%2313
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/74/settings/event/17/message"
-msgid "Individualized dialogs before and after the fight!"
+msgid "Individualized dialogues before and after the fight!"
 msgstr "Индивидуальные диалоги до и после боя!"
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/74/settings/event/24/message #14
@@ -989,7 +989,7 @@ msgstr "Почему это?"
 #. SHOW_MSG main.emilie @AWAY
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/77/settings/event/23/message+%2336
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/77/settings/event/23/message"
-msgid "You know, I've met Lea quite some time ago."
+msgid "You know, I met Lea quite some time ago."
 msgstr "Ну, знаешь, мы с Леей познакомились довольно давно."
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/77/settings/event/24/message #37
@@ -1101,7 +1101,7 @@ msgstr "Oui (Да), конечно!\\. Но где-то...\\. примерно �
 #. SHOW_MSG main.shizuka @SARCASTIC
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/77/settings/event/45/message+%2350
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/77/settings/event/45/message"
-msgid "You can't just place a number on that!"
+msgid "You can't just put a number on that!"
 msgstr "Ты не можешь просто так раскидываться числами!"
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/77/settings/event/48/message #51
@@ -1126,7 +1126,7 @@ msgstr "Например?\\. Это неловко.\\. И я тебя почти
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/77/settings/event/52/message+%2353
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/77/settings/event/52/message"
 msgid "That's all?\\. I can talk about myself as well!"
-msgstr "И всё?\\. Я тоже могу рассказать о себе!"
+msgstr "И всё?\\. Я и о себе могу рассказать!"
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/77/settings/event/53/message #54
 #. EventTrigger EmilieTalk START IF tmp.emilieTalk
@@ -1206,7 +1206,7 @@ msgstr "Спускаемся глубже..."
 #. cross-worlds.triblader-female-purple
 #: extension/post-game/data/maps/final-dng/b2/bridge.json+entities/90/settings/dialog/1/text+%23101
 msgctxt "extension/post-game/data/maps/final-dng/b2/bridge.json//entities/90/settings/dialog/1/text"
-msgid "We're very close to the fog now.\\. It hope it's not poisonous!"
+msgid "We're very close to the fog now.\\. I hope it's not poisonous!"
 msgstr "Мы очень близко к туману.\\. Надеюсь, он не ядовит!"
 
 #. extension/post-game/data/maps/final-dng/b2/bridge.json entities/90/settings/dialog/2/text #102
@@ -1359,7 +1359,7 @@ msgstr ""
 msgctxt "extension/post-game/data/maps/final-dng/b3/bridge.json//entities/82/settings/npcStates/0/event/8/0/13/message"
 msgid ""
 "Floor 3: \"The Arrival\"!\n"
-"The meteor is about to reach the planet"
+"The meteor is about to reach the planet."
 msgstr ""
 "Этаж 3: \"Прибытие\"!\n"
 "Метеорит вот-вот достигнет планеты."
@@ -1401,7 +1401,7 @@ msgstr "Так... как ты думаешь, что это за метеори�
 #. SHOW_MSG main.guild-leader @TOWARDS
 #: extension/post-game/data/maps/final-dng/b3/bridge.json+entities/82/settings/npcStates/0/event/8/0/22/message+%2325
 msgctxt "extension/post-game/data/maps/final-dng/b3/bridge.json//entities/82/settings/npcStates/0/event/8/0/22/message"
-msgid "Say, Lea. Do you remember the \\c[3]Message of the Sky\\c[0]."
+msgid "Say, Lea. Do you remember the \\c[3]Message of the Sky\\c[0]?"
 msgstr "Скажи, Лея. Ты помнишь \\c[3]Послание небес\\c[0]?"
 
 #. extension/post-game/data/maps/final-dng/b3/bridge.json entities/82/settings/npcStates/0/event/8/0/23/message #26
@@ -1437,7 +1437,7 @@ msgstr "А \\c[3]К'вин\\c[0] заставила его \\c[3]приближ�
 #. SHOW_MSG main.guild-leader @SMILE
 #: extension/post-game/data/maps/final-dng/b3/bridge.json+entities/82/settings/npcStates/0/event/8/0/32/message+%2329
 msgctxt "extension/post-game/data/maps/final-dng/b3/bridge.json//entities/82/settings/npcStates/0/event/8/0/32/message"
-msgid "It think this is what this meteor is!\\. It's the \\c[3]Message of the Sky\\c[0]!"
+msgid "I think this is what this meteor is!\\. It's the \\c[3]Message of the Sky\\c[0]!"
 msgstr "Я думаю, это и есть этот метеорит!\\. Это \\c[3]Послание небес\\c[0]!"
 
 #. extension/post-game/data/maps/final-dng/b3/bridge.json entities/82/settings/npcStates/0/event/8/0/33/message #30
@@ -1464,7 +1464,7 @@ msgstr "И он приземлился прямо здесь, в этом сам
 #. SHOW_MSG main.guild-leader @SMILE
 #: extension/post-game/data/maps/final-dng/b3/bridge.json+entities/82/settings/npcStates/0/event/8/0/35/message+%2332
 msgctxt "extension/post-game/data/maps/final-dng/b3/bridge.json//entities/82/settings/npcStates/0/event/8/0/35/message"
-msgid "It left a gigantic crater, the same we're currently descending down into!"
+msgid "It left a gigantic crater, the same one we're currently descending down into!"
 msgstr "Он оставил гигантский кратер, вглубь которого мы сейчас и спускаемся!"
 
 #. extension/post-game/data/maps/final-dng/b3/bridge.json entities/82/settings/npcStates/0/event/8/0/36/message #37
@@ -1589,7 +1589,7 @@ msgstr "Значит...\\. мы почти пришли, да?"
 #: extension/post-game/data/maps/final-dng/b3/bridge.json+entities/83/settings/npcStates/0/event/5/message+%2342
 msgctxt "extension/post-game/data/maps/final-dng/b3/bridge.json//entities/83/settings/npcStates/0/event/5/message"
 msgid "We did the obligatory final batch of bouncing puzzles..."
-msgstr "Мы решили обязательную финальную пачку рикошетных головоломок..."
+msgstr "Мы решили обязательную финальную партию рикошетных головоломок..."
 
 #. extension/post-game/data/maps/final-dng/b3/bridge.json entities/83/settings/npcStates/0/event/6/message #43
 #. NPC luke
@@ -1738,7 +1738,7 @@ msgstr "Не волнуйся, я в порядке."
 #: extension/post-game/data/maps/final-dng/b3/bridge.json+entities/83/settings/npcStates/0/event/7/elseStep/8/message+%2357
 msgctxt "extension/post-game/data/maps/final-dng/b3/bridge.json//entities/83/settings/npcStates/0/event/7/elseStep/8/message"
 msgid "I mean, hey, we now have access to a whole island paradise and all that."
-msgstr "Всё-таки, эй, теперь у нас есть доступ к целому райскому острову и всё такое."
+msgstr "Всё-таки, эй, у нас теперь есть доступ к целому райскому острову и всё такое."
 
 #. extension/post-game/data/maps/final-dng/b3/bridge.json entities/83/settings/npcStates/0/event/7/elseStep/9/message #58
 #. NPC luke
@@ -1811,7 +1811,7 @@ msgstr "Отлично!\\. Свидание намечено!"
 #: extension/post-game/data/maps/final-dng/b3/bridge.json+entities/83/settings/npcStates/0/event/7/elseStep/13/0/3/message+%2364
 msgctxt "extension/post-game/data/maps/final-dng/b3/bridge.json//entities/83/settings/npcStates/0/event/7/elseStep/13/0/3/message"
 msgid "We just have to find a time with less players around."
-msgstr "Надо только будет подыскать время, когда вокруг будет меньше игроков."
+msgstr "Надо только будет подыскать время, когда вокруг будет поменьше игроков."
 
 #. extension/post-game/data/maps/final-dng/b3/bridge.json entities/83/settings/npcStates/0/event/7/elseStep/13/0/4/message #78
 #. NPC luke
@@ -1866,7 +1866,7 @@ msgstr "Эээх.\\. Не любитель прогулок по пляжу, я 
 #: extension/post-game/data/maps/final-dng/b3/bridge.json+entities/83/settings/npcStates/0/event/7/elseStep/13/1/2/message+%2368
 msgctxt "extension/post-game/data/maps/final-dng/b3/bridge.json//entities/83/settings/npcStates/0/event/7/elseStep/13/1/2/message"
 msgid "Too bad."
-msgstr "Очень жаль."
+msgstr "Жаль."
 
 #. extension/post-game/data/maps/final-dng/b3/bridge.json entities/83/settings/npcStates/0/event/7/elseStep/13/options/0/label #41
 #. NPC luke
@@ -2018,7 +2018,7 @@ msgstr "Ой, да ну вас!"
 #. cross-worlds.pentafist-female-height-friend
 #: extension/post-game/data/maps/final-dng/b3/bridge.json+entities/95/settings/dialog/0/text+%2384
 msgctxt "extension/post-game/data/maps/final-dng/b3/bridge.json//entities/95/settings/dialog/0/text"
-msgid "I think we're getting close to end."
+msgid "I think we're getting close to the end."
 msgstr "Думаю, мы близимся к концу."
 
 #. extension/post-game/data/maps/final-dng/b3/bridge.json entities/95/settings/dialog/1/text #85
@@ -2034,8 +2034,8 @@ msgstr "Как ты вообще это узнала?"
 #. cross-worlds.pentafist-female-height-friend
 #: extension/post-game/data/maps/final-dng/b3/bridge.json+entities/95/settings/dialog/2/text+%2386
 msgctxt "extension/post-game/data/maps/final-dng/b3/bridge.json//entities/95/settings/dialog/2/text"
-msgid "Well, just look down. We're getting close to ground of the crater."
-msgstr "Ну, просто посмотри вниз. Мы приближаемся к кратеру."
+msgid "Well, just look down. We're getting close to the bottom of the crater."
+msgstr "Ну, просто посмотри вниз. Мы приближаемся ко дну кратера."
 
 #. extension/post-game/data/maps/final-dng/b3/bridge.json entities/95/settings/dialog/3/text #87
 #. XenoDialog SPAWN IF !maps.finalDng/b3/roomE1.finalFerro
@@ -2051,7 +2051,7 @@ msgstr "Я НИКОГДА бы не осмелилась посмотреть в
 #: extension/post-game/data/maps/final-dng/b3/bridge.json+entities/95/settings/dialog/4/text+%2388
 msgctxt "extension/post-game/data/maps/final-dng/b3/bridge.json//entities/95/settings/dialog/4/text"
 msgid "Right..."
-msgstr "Верно..."
+msgstr "Точно..."
 
 #. extension/post-game/data/maps/final-dng/b3/bridge.json entities/96/settings/dialog/0/text #100
 #. XenoDialog SPAWN IF !maps.finalDng/b3/roomE1.finalFerro
@@ -2082,8 +2082,8 @@ msgstr "Мы пока не можем быть уверены..."
 #. cross-worlds.quadroguard-female-black
 #: extension/post-game/data/maps/final-dng/b3/bridge.json+entities/96/settings/dialog/3/text+%23103
 msgctxt "extension/post-game/data/maps/final-dng/b3/bridge.json//entities/96/settings/dialog/3/text"
-msgid "Then lets better not wait here until we find out, right?"
-msgstr "Тогда давай лучше не ждать здесь, пока мы не узнаем, верно?"
+msgid "Then let's not wait here and find out, right?"
+msgstr "Тогда давай лучше не будем ждать здесь и проверять это на себе, верно?"
 
 #. extension/post-game/data/maps/final-dng/b3/bridge.json entities/96/settings/dialog/4/text #104
 #. XenoDialog SPAWN IF !maps.finalDng/b3/roomE1.finalFerro
@@ -2577,7 +2577,7 @@ msgid ""
 "As such, you are now ready\n"
 "to proceed further."
 msgstr ""
-"И поэтому теперь ты готова\\.\\.\\.\n"
+"И теперь ты готова\\.\\.\\.\n"
 "продвинуться дальше"
 
 #. extension/post-game/data/maps/final-dng/b4/stargate.json entities/123/settings/event/41/text #13
@@ -2687,7 +2687,7 @@ msgstr "\\c[3]Тайну Древних\\c[0]."
 #. SHOW_MSG advisors.general @OFFLINE
 #: extension/post-game/data/maps/final-dng/b4/stargate.json+entities/123/settings/event/84/message+%2320
 msgctxt "extension/post-game/data/maps/final-dng/b4/stargate.json//entities/123/settings/event/84/message"
-msgid "Right at this moment you are standing in front of it."
+msgid "Right at this very moment you are standing in front of it."
 msgstr "Прямо в этот момент вы стоите перед ней."
 
 #. extension/post-game/data/maps/final-dng/b4/stargate.json entities/123/settings/event/85/message #21
@@ -2719,15 +2719,15 @@ msgstr "А также ключ к текущему местонахождени�
 #. SHOW_MSG advisors.general @OFFLINE
 #: extension/post-game/data/maps/final-dng/b4/stargate.json+entities/123/settings/event/91/message+%2324
 msgctxt "extension/post-game/data/maps/final-dng/b4/stargate.json//entities/123/settings/event/91/message"
-msgid "Yet for now, this portails remains closed."
-msgstr "Но пока этот портал остаётся закрытым."
+msgid "Yet for now, this portal remains closed."
+msgstr "Но пока что этот портал остаётся закрытым."
 
 #. extension/post-game/data/maps/final-dng/b4/stargate.json entities/123/settings/event/92/message #25
 #. EventTrigger GateCharge START IF tmp.ferroGateAbsorb
 #. SHOW_MSG advisors.general @OFFLINE
 #: extension/post-game/data/maps/final-dng/b4/stargate.json+entities/123/settings/event/92/message+%2325
 msgctxt "extension/post-game/data/maps/final-dng/b4/stargate.json//entities/123/settings/event/92/message"
-msgid "In order to activate, its energy source needs to be sufficiently charged."
+msgid "In order for it to activate, its energy source needs to be sufficiently charged."
 msgstr "Чтобы его активировать, его источник энергии должен быть достаточно заряжен."
 
 #. extension/post-game/data/maps/final-dng/b4/stargate.json entities/123/settings/event/97/message #26
@@ -2735,15 +2735,15 @@ msgstr "Чтобы его активировать, его источник эн
 #. SHOW_MSG advisors.general @OFFLINE
 #: extension/post-game/data/maps/final-dng/b4/stargate.json+entities/123/settings/event/97/message+%2326
 msgctxt "extension/post-game/data/maps/final-dng/b4/stargate.json//entities/123/settings/event/97/message"
-msgid "As more seekers will pass the Ku'lero temple, more energy should be channeled towards the portal."
-msgstr "По мере того, как всё больше искателей будут проходить храм Ку'леро, всё больше энергии должно быть направлено к порталу."
+msgid "As more seekers pass the Ku'lero temple, more energy should be channeled towards the portal."
+msgstr "По мере того, как всё больше Искателей будут проходить храм Ку'леро, к порталу должно быть направлено всё больше энергии."
 
 #. extension/post-game/data/maps/final-dng/b4/stargate.json entities/123/settings/event/98/message #27
 #. EventTrigger GateCharge START IF tmp.ferroGateAbsorb
 #. SHOW_MSG advisors.general @OFFLINE
 #: extension/post-game/data/maps/final-dng/b4/stargate.json+entities/123/settings/event/98/message+%2327
 msgctxt "extension/post-game/data/maps/final-dng/b4/stargate.json//entities/123/settings/event/98/message"
-msgid "It is merely a matter of time for it to open."
+msgid "It is merely a matter of time before it opens."
 msgstr "Когда он откроется - всего лишь вопрос времени."
 
 #. extension/post-game/data/maps/final-dng/b4/stargate.json entities/123/settings/event/104/message #28
@@ -2768,7 +2768,7 @@ msgstr "Я глубочайше вам благодарен."
 #: extension/post-game/data/maps/final-dng/b4/stargate.json+entities/123/settings/event/106/message+%2330
 msgctxt "extension/post-game/data/maps/final-dng/b4/stargate.json//entities/123/settings/event/106/message"
 msgid "Once this portal has opened, I invite you to join our expedition."
-msgstr "Как только данный портал откроется, я приглашаю вас присоединиться к нашей экспедиции."
+msgstr "Как только этот портал откроется, я приглашу вас присоединиться к нашей экспедиции."
 
 #. extension/post-game/data/maps/final-dng/b4/stargate.json entities/123/settings/event/107/message #31
 #. EventTrigger GateCharge START IF tmp.ferroGateAbsorb
@@ -2776,7 +2776,7 @@ msgstr "Как только данный портал откроется, я п�
 #: extension/post-game/data/maps/final-dng/b4/stargate.json+entities/123/settings/event/107/message+%2331
 msgctxt "extension/post-game/data/maps/final-dng/b4/stargate.json//entities/123/settings/event/107/message"
 msgid "To raise Operation Trackwalker to a new level."
-msgstr "Чтобы поднять операцию Путепроходец на новый уровень."
+msgstr "Чтобы вывести операцию Путепроходец на новый уровень."
 
 #. extension/post-game/data/maps/final-dng/b4/stargate.json entities/123/settings/event/109/message #32
 #. EventTrigger GateCharge START IF tmp.ferroGateAbsorb
@@ -2809,13 +2809,13 @@ msgstr "Скоро появится новый мир..."
 msgctxt "extension/post-game/data/maps/final-dng/b4/stargate.json//entities/123/settings/event/118/text"
 msgid ""
 "\"New Horizons\"\n"
-"The new extension to CrossWorlds\n"
+"The new expansion to CrossWorlds\n"
 "is currently still in development.\n"
 "\n"
 "Release information will follow soon.\n"
 "Stay tuned!"
 msgstr ""
-"\"Новые Горизонты\"\n"
+"\"Новые горизонты\"\n"
 "Новое расширение для CrossWorlds\n"
 "в данный момент всё ещё в разработке.\n"
 "\n"
@@ -3048,7 +3048,7 @@ msgstr "...Хмм."
 #: extension/post-game/data/maps/final-dng/b4/stargate.json+entities/123/settings/event/162/message+%2352
 msgctxt "extension/post-game/data/maps/final-dng/b4/stargate.json//entities/123/settings/event/162/message"
 msgid "GOT YOU GRASSHEAD!"
-msgstr "ПОБЕДИЛА ТЕБЯ, ТРАВОГОЛОВЫЙ!"
+msgstr "ПОПАЛСЯ, ТРАВОГОЛОВЫЙ!"
 
 #. extension/post-game/data/maps/final-dng/b4/stargate.json entities/123/settings/event/164/message #62
 #. EventTrigger GateCharge START IF tmp.ferroGateAbsorb
@@ -3167,8 +3167,8 @@ msgstr "Ой, Лея уже здесь?"
 #. SHOW_MSG main.buggy @JOKING
 #: extension/post-game/data/maps/final-dng/b4/stargate.json+entities/123/settings/event/206/message+%2376
 msgctxt "extension/post-game/data/maps/final-dng/b4/stargate.json//entities/123/settings/event/206/message"
-msgid "Beat by your clone!\\. How does it feel, Shizuka?"
-msgstr "Побеждена своим клоном!\\. Как тебе такое, Шизука?"
+msgid "Beaten by your own clone!\\. How does it feel, Shizuka?"
+msgstr "Побеждена своим же клоном!\\. Как тебе такое, Шизука?"
 
 #. extension/post-game/data/maps/final-dng/b4/stargate.json entities/123/settings/event/207/message #77
 #. EventTrigger GateCharge START IF tmp.ferroGateAbsorb
@@ -3207,8 +3207,8 @@ msgstr "...!"
 #. SHOW_MSG main.emilie @CURIOUS
 #: extension/post-game/data/maps/final-dng/b4/stargate.json+entities/123/settings/event/215/message+%2381
 msgctxt "extension/post-game/data/maps/final-dng/b4/stargate.json//entities/123/settings/event/215/message"
-msgid "Talking about that...\\. where's Tronny?"
-msgstr "Кстати, об этом...\\. а где Тронни?"
+msgid "Speaking of...\\. where's Tronny?"
+msgstr "К слову...\\. а где Тронни?"
 
 #. extension/post-game/data/maps/final-dng/b4/stargate.json entities/123/settings/event/217/message #82
 #. EventTrigger GateCharge START IF tmp.ferroGateAbsorb
@@ -3216,7 +3216,7 @@ msgstr "Кстати, об этом...\\. а где Тронни?"
 #: extension/post-game/data/maps/final-dng/b4/stargate.json+entities/123/settings/event/217/message+%2382
 msgctxt "extension/post-game/data/maps/final-dng/b4/stargate.json//entities/123/settings/event/217/message"
 msgid "That's right, Tronny is the only person missing, it seems."
-msgstr "И правда, кажется, Тронни одного не хватает."
+msgstr "И правда, кажется, Тронни одного здесь не хватает."
 
 #. extension/post-game/data/maps/final-dng/b4/stargate.json entities/123/settings/event/219/message #83
 #. EventTrigger GateCharge START IF tmp.ferroGateAbsorb
@@ -3264,7 +3264,7 @@ msgstr "В любом случае, это была длинная сессия.
 #: extension/post-game/data/maps/final-dng/b4/stargate.json+entities/123/settings/event/240/message+%2388
 msgctxt "extension/post-game/data/maps/final-dng/b4/stargate.json//entities/123/settings/event/240/message"
 msgid "Same..."
-msgstr "То же самое..."
+msgstr "Мне тоже..."
 
 #. extension/post-game/data/maps/final-dng/b4/stargate.json entities/123/settings/event/244/message #89
 #. EventTrigger GateCharge START IF tmp.ferroGateAbsorb
@@ -3272,7 +3272,7 @@ msgstr "То же самое..."
 #: extension/post-game/data/maps/final-dng/b4/stargate.json+entities/123/settings/event/244/message+%2389
 msgctxt "extension/post-game/data/maps/final-dng/b4/stargate.json//entities/123/settings/event/244/message"
 msgid "Alrighty, I'm sure most of us here need a break."
-msgstr "Ладненько, я уверена, что большинству из нас нужно отдохнуть."
+msgstr "Ладненько, большинству из нас наверняка нужно отдохнуть."
 
 #. extension/post-game/data/maps/final-dng/b4/stargate.json entities/123/settings/event/245/message #90
 #. EventTrigger GateCharge START IF tmp.ferroGateAbsorb
@@ -3465,7 +3465,7 @@ msgstr "Это снова займёт у них вечность, не так �
 #: extension/post-game/data/maps/final-dng/b4/stargate.json+entities/165/settings/dialog/4/text+%23110
 msgctxt "extension/post-game/data/maps/final-dng/b4/stargate.json//entities/165/settings/dialog/4/text"
 msgid "I'm sure it will be worth the wait!"
-msgstr "Я уверен, что ожидание того стоит!"
+msgstr "Я уверена, что ожидание того стоит!"
 
 #. extension/post-game/data/maps/final-dng/b4/stargate.json entities/165/settings/dialog/5/text #121
 #. XenoDialog SPAWN IF map.dngDone
@@ -3489,7 +3489,7 @@ msgstr "Вот...\\. последний Макгаффин."
 #: extension/post-game/data/maps/final-dng/b4/stargate.json+entities/179/settings/dialog/1/text+%23123
 msgctxt "extension/post-game/data/maps/final-dng/b4/stargate.json//entities/179/settings/dialog/1/text"
 msgid "I can't believe it.\\. They hid it at the very end."
-msgstr "Я не могу в это поверить.\\. Они спрятали его в самом конце."
+msgstr "Не могу поверить.\\. Они спрятали его в самом конце."
 
 #. extension/post-game/data/maps/final-dng/b4/stargate.json entities/179/settings/dialog/2/text #124
 #. XenoDialog SPAWN IF map.chest_305 && map.dngDone
@@ -3642,7 +3642,7 @@ msgstr "Лея, chérie (дорогая)!"
 #. SHOW_MSG main.emilie @SMILE
 #: extension/post-game/data/maps/final-dng/g/bridge.json+entities/103/settings/event/7/message+%2310
 msgctxt "extension/post-game/data/maps/final-dng/g/bridge.json//entities/103/settings/event/7/message"
-msgid "I guess we're pretty much on sync with the dungeon."
+msgid "I guess we're pretty much in sync with the dungeon."
 msgstr "Кажется, мы примерно ровно идём по подземелью."
 
 #. extension/post-game/data/maps/final-dng/g/bridge.json entities/103/settings/event/8/message #11
@@ -3794,7 +3794,7 @@ msgstr "Видимо, Древние узнали о лифтах после Х�
 #. SHOW_MSG main.guild-leader @EYES_CLOSED
 #: extension/post-game/data/maps/final-dng/g/bridge.json+entities/106/settings/event/18/message+%2331
 msgctxt "extension/post-game/data/maps/final-dng/g/bridge.json//entities/106/settings/event/18/message"
-msgid "No Buggy. If there is an elevator, it won't be based on human technology."
+msgid "No, Buggy. If there is an elevator, it won't be based on human technology."
 msgstr "Нет, Багги. Если там и есть лифт, то он не будет основан на человеческих технологиях."
 
 #. extension/post-game/data/maps/final-dng/g/bridge.json entities/106/settings/event/19/message #32
@@ -3818,7 +3818,7 @@ msgstr "Это место упоминалось в старых записях 
 #. SHOW_MSG main.guild-leader @DETERMINED
 #: extension/post-game/data/maps/final-dng/g/bridge.json+entities/106/settings/event/21/message+%2337
 msgctxt "extension/post-game/data/maps/final-dng/g/bridge.json//entities/106/settings/event/21/message"
-msgid "So it must has been here long before humankind arrived."
+msgid "So it must have been here long before humankind arrived."
 msgstr "Так что оно должно было быть здесь задолго до прибытия людей."
 
 #. extension/post-game/data/maps/final-dng/g/bridge.json entities/106/settings/event/23/message #35
@@ -3938,7 +3938,7 @@ msgstr "Знаешь... мне казалось, после всего этог�
 #. cross-worlds.hexacast-female-height-chan
 #: extension/post-game/data/maps/final-dng/g/bridge.json+entities/131/settings/dialog/4/text+%2351
 msgctxt "extension/post-game/data/maps/final-dng/g/bridge.json//entities/131/settings/dialog/4/text"
-msgid "We haven't been playing CrossWorlds for longer time, right?"
+msgid "We haven't been playing CrossWorlds for a long time, right?"
 msgstr "Но мы же долго не играли в CrossWorlds."
 
 #. extension/post-game/data/maps/final-dng/g/bridge.json entities/131/settings/dialog/5/text #52
@@ -3946,7 +3946,7 @@ msgstr "Но мы же долго не играли в CrossWorlds."
 #. cross-worlds.hexacast-female-height-chan
 #: extension/post-game/data/maps/final-dng/g/bridge.json+entities/131/settings/dialog/5/text+%2352
 msgctxt "extension/post-game/data/maps/final-dng/g/bridge.json//entities/131/settings/dialog/5/text"
-msgid "I entirely forgot how bad this game was with height."
+msgid "I entirely forgot how bad this game was with heights."
 msgstr "Я совсем забыла, насколько в этой игре было плохо с высотой."
 
 #. extension/post-game/data/maps/final-dng/g/bridge.json entities/132/settings/dialog/0/text #53
@@ -3980,7 +3980,7 @@ msgstr "От этого всё становится ещё загадочней!
 msgctxt "extension/post-game/data/maps/final-dng/g/outdoor-01.json//entities/390/settings/event/9/message"
 msgid ""
 "Oh, hello everyone!\\.\n"
-"Was this the whole dungeon already?"
+"Was that the whole dungeon already?"
 msgstr "О, всем привет!\\. Это что, было всё подземелье?"
 
 #. extension/post-game/data/maps/final-dng/g/outdoor-01.json entities/390/settings/event/11/message #7
@@ -4830,8 +4830,8 @@ msgstr "Хорошо...?"
 #. SHOW_MSG antagonists.sidekick @SMILE
 #: extension/post-game/data/maps/final-dng/g/outdoor-04-north-east.json+entities/430/settings/event/30/message+%2310
 msgctxt "extension/post-game/data/maps/final-dng/g/outdoor-04-north-east.json//entities/430/settings/event/30/message"
-msgid "I just thought the lake looks pretty, actually.\n"
-msgstr "Я на самом деле просто подумал, что озеро выглядит мило."
+msgid "I just thought the lake looked pretty, actually.\n"
+msgstr "Я на самом деле просто подумал, что озеро выглядело мило."
 
 #. extension/post-game/data/maps/final-dng/g/outdoor-04-north-east.json entities/430/settings/event/31/message #11
 #. EventTrigger apolloTalk START IF tmp.apolloTalk
@@ -4943,7 +4943,7 @@ msgstr "Она была \\c[3]ПРЯМО ВОН ТАМ\\c[0]!"
 #: extension/post-game/data/maps/final-dng/g/outdoor-04-north-west.json+entities/302/settings/event/9/message+%2314
 msgctxt "extension/post-game/data/maps/final-dng/g/outdoor-04-north-west.json//entities/302/settings/event/9/message"
 msgid "I don't know, it just happened!"
-msgstr "Я не знаю, просто так случилось!"
+msgstr "Я не знаю, просто так получилось!"
 
 #. extension/post-game/data/maps/final-dng/g/outdoor-04-north-west.json entities/302/settings/event/10/message #15
 #. EventTrigger apolloTalk START IF tmp.apolloTalk
@@ -5023,7 +5023,7 @@ msgstr "Поэтому панель для прыжков всё ещё выкл
 #: extension/post-game/data/maps/final-dng/g/outdoor-04-north-west.json+entities/302/settings/event/35/message+%2324
 msgctxt "extension/post-game/data/maps/final-dng/g/outdoor-04-north-west.json//entities/302/settings/event/35/message"
 msgid "You remembered to push the switch, right?"
-msgstr "Ты ведь не забыла нажать на кнопку, да?"
+msgstr "Ты ведь не забыла нажать на кнопку?"
 
 #. extension/post-game/data/maps/final-dng/g/outdoor-04-north-west.json entities/302/settings/event/36/thenStep/0/message #25
 #. EventTrigger apolloTalk START IF tmp.apolloTalk
@@ -5125,7 +5125,7 @@ msgstr "Давай их всех раздавим и сделаем из их о
 #. cross-worlds.hexacast-male-dark
 #: extension/post-game/data/maps/final-dng/g/outdoor-04-north-west.json+entities/305/settings/dialog/2/text+%2336
 msgctxt "extension/post-game/data/maps/final-dng/g/outdoor-04-north-west.json//entities/305/settings/dialog/2/text"
-msgid "Juck!\\. You can't do that!"
+msgid "Yuck!\\. You can't do that!"
 msgstr "Фу!\\. Так нельзя!"
 
 #. extension/post-game/data/maps/final-dng/g/outdoor-04-north-west.json entities/305/settings/dialog/3/text #37

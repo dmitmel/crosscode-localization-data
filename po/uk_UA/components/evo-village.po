@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.4.1-2\n"
+"Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-14 01:10+0000\n"
-"POT-Revision-Date: 2021-04-14 01:10+0000\n"
+"POT-Creation-Date: 2022-01-11 15:55+0000\n"
+"POT-Revision-Date: 2022-01-11 15:55+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: uk_UA\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0\n"
+"X-Generator: crosscode-localization-engine 0.0.0 (2168d54 2022-01-11)\n"
 
 #. data/areas/evo-village.json name #1
 #: data/areas/evo-village.json+name+%231
@@ -91,42 +91,42 @@ msgctxt "extension/post-game/data/maps/evo-village/center.json//entities/4/setti
 msgid "Lea, we are over here! The tour isn't over just yet!"
 msgstr ""
 
-#. extension/post-game/data/maps/evo-village/center.json entities/46/settings/blockEvent/2/text #1655
+#. extension/post-game/data/maps/evo-village/center.json entities/46/settings/blockEvent/4/text #1655
 #. Door doorGlasses
 #. IF plot.line >= 44000
 #. SHOW_BOARD_MSG
-#: extension/post-game/data/maps/evo-village/center.json+entities/46/settings/blockEvent/2/text+%231655
-msgctxt "extension/post-game/data/maps/evo-village/center.json//entities/46/settings/blockEvent/2/text"
+#: extension/post-game/data/maps/evo-village/center.json+entities/46/settings/blockEvent/4/text+%231655
+msgctxt "extension/post-game/data/maps/evo-village/center.json//entities/46/settings/blockEvent/4/text"
 msgid ""
 "Once you enter, you will embark to Vermillion Wasteland.\n"
 "\\c[1]Warning: This will be a point of no return!\n"
 "Make sure to keep a save before you enter!\\c[0]"
 msgstr ""
 
-#. extension/post-game/data/maps/evo-village/center.json entities/46/settings/blockEvent/3/text #1656
+#. extension/post-game/data/maps/evo-village/center.json entities/46/settings/blockEvent/5/text #1656
 #. Door doorGlasses
 #. IF plot.line >= 44000
 #. SHOW_MODAL_CHOICE
-#: extension/post-game/data/maps/evo-village/center.json+entities/46/settings/blockEvent/3/text+%231656
-msgctxt "extension/post-game/data/maps/evo-village/center.json//entities/46/settings/blockEvent/3/text"
+#: extension/post-game/data/maps/evo-village/center.json+entities/46/settings/blockEvent/5/text+%231656
+msgctxt "extension/post-game/data/maps/evo-village/center.json//entities/46/settings/blockEvent/5/text"
 msgid "Ready?"
 msgstr ""
 
-#. extension/post-game/data/maps/evo-village/center.json entities/46/settings/blockEvent/3/options/0/label #1657
+#. extension/post-game/data/maps/evo-village/center.json entities/46/settings/blockEvent/5/options/0/label #1657
 #. Door doorGlasses
 #. IF plot.line >= 44000
 #. SHOW_MODAL_CHOICE
-#: extension/post-game/data/maps/evo-village/center.json+entities/46/settings/blockEvent/3/options/0/label+%231657
-msgctxt "extension/post-game/data/maps/evo-village/center.json//entities/46/settings/blockEvent/3/options/0/label"
+#: extension/post-game/data/maps/evo-village/center.json+entities/46/settings/blockEvent/5/options/0/label+%231657
+msgctxt "extension/post-game/data/maps/evo-village/center.json//entities/46/settings/blockEvent/5/options/0/label"
 msgid "Yes"
 msgstr ""
 
-#. extension/post-game/data/maps/evo-village/center.json entities/46/settings/blockEvent/3/options/1/label #1658
+#. extension/post-game/data/maps/evo-village/center.json entities/46/settings/blockEvent/5/options/1/label #1658
 #. Door doorGlasses
 #. IF plot.line >= 44000
 #. SHOW_MODAL_CHOICE
-#: extension/post-game/data/maps/evo-village/center.json+entities/46/settings/blockEvent/3/options/1/label+%231658
-msgctxt "extension/post-game/data/maps/evo-village/center.json//entities/46/settings/blockEvent/3/options/1/label"
+#: extension/post-game/data/maps/evo-village/center.json+entities/46/settings/blockEvent/5/options/1/label+%231658
+msgctxt "extension/post-game/data/maps/evo-village/center.json//entities/46/settings/blockEvent/5/options/1/label"
 msgid "No"
 msgstr ""
 
@@ -4011,7 +4011,7 @@ msgstr ""
 #. SHOW_MSG main.lea @DEFAULT
 #: extension/post-game/data/maps/evo-village/center.json+entities/933/settings/event/53/message+%231686
 msgctxt "extension/post-game/data/maps/evo-village/center.json//entities/933/settings/event/53/message"
-msgid "\\c[2][Hello my name is Lea!]\\c[0]"
+msgid "\\c[2][Hello, my name is Lea!]\\c[0]"
 msgstr ""
 
 #. extension/post-game/data/maps/evo-village/center.json entities/933/settings/event/57/message #1687
@@ -4019,7 +4019,7 @@ msgstr ""
 #. SHOW_MSG main.emilie @SHOCKED
 #: extension/post-game/data/maps/evo-village/center.json+entities/933/settings/event/57/message+%231687
 msgctxt "extension/post-game/data/maps/evo-village/center.json//entities/933/settings/event/57/message"
-msgid "Woah!"
+msgid "Whoa!"
 msgstr ""
 
 #. extension/post-game/data/maps/evo-village/center.json entities/933/settings/event/58/message #1688
@@ -4027,7 +4027,7 @@ msgstr ""
 #. SHOW_MSG main.emilie @HAPPY
 #: extension/post-game/data/maps/evo-village/center.json+entities/933/settings/event/58/message+%231688
 msgctxt "extension/post-game/data/maps/evo-village/center.json//entities/933/settings/event/58/message"
-msgid "Cherie, finally you can communicate!\n"
+msgid "Chérie, finally you can communicate!\n"
 msgstr ""
 
 #. extension/post-game/data/maps/evo-village/center.json entities/933/settings/event/61/message #1689
@@ -4373,7 +4373,7 @@ msgstr ""
 #. SHOW_MSG antagonists.fancyguy @POINTING
 #: extension/post-game/data/maps/evo-village/center.json+entities/940/settings/event/67/message+%231742
 msgctxt "extension/post-game/data/maps/evo-village/center.json//entities/940/settings/event/67/message"
-msgid "Greeting, townsfolk of Homestedt!"
+msgid "Greetings, good people of Homestedt!"
 msgstr ""
 
 #. extension/post-game/data/maps/evo-village/center.json entities/940/settings/event/69/message #1755
@@ -4405,7 +4405,7 @@ msgstr ""
 #. SHOW_MSG main.buggy @GRIN
 #: extension/post-game/data/maps/evo-village/center.json+entities/940/settings/event/80/message+%231758
 msgctxt "extension/post-game/data/maps/evo-village/center.json//entities/940/settings/event/80/message"
-msgid "Your stakeholder friend has to be here!"
+msgid "Your steakholder friend has to be here!"
 msgstr ""
 
 #. extension/post-game/data/maps/evo-village/center.json entities/940/settings/event/81/message #1759
@@ -5908,11 +5908,11 @@ msgctxt "extension/post-game/data/maps/evo-village/interior/city-hall.json//enti
 msgid "...!!"
 msgstr ""
 
-#. extension/post-game/data/maps/evo-village/interior/city-hall.json entities/233/settings/event/148/message #522
+#. extension/post-game/data/maps/evo-village/interior/city-hall.json entities/233/settings/event/149/message #522
 #. EventTrigger start START IF true
 #. SHOW_SIDE_MSG main.sergey-av @DEFAULT
-#: extension/post-game/data/maps/evo-village/interior/city-hall.json+entities/233/settings/event/148/message+%23522
-msgctxt "extension/post-game/data/maps/evo-village/interior/city-hall.json//entities/233/settings/event/148/message"
+#: extension/post-game/data/maps/evo-village/interior/city-hall.json+entities/233/settings/event/149/message+%23522
+msgctxt "extension/post-game/data/maps/evo-village/interior/city-hall.json//entities/233/settings/event/149/message"
 msgid "The exit is straight ahead!"
 msgstr ""
 
@@ -6827,7 +6827,7 @@ msgstr ""
 #. SHOW_MSG main.sergey-av @WORRIED
 #: extension/post-game/data/maps/evo-village/interior/city-hall.json+entities/243/settings/event/79/message+%23939
 msgctxt "extension/post-game/data/maps/evo-village/interior/city-hall.json//entities/243/settings/event/79/message"
-msgid "Your name, as far as we know, is \\c[3]Toby Trembley\\c[0]."
+msgid "Your name, as far as we know, is \\c[3]Toby Tremblay\\c[0]."
 msgstr ""
 
 #. extension/post-game/data/maps/evo-village/interior/city-hall.json entities/243/settings/event/80/message #940
@@ -6947,7 +6947,7 @@ msgstr ""
 #. SHOW_MSG main.sergey-av @DEFAULT
 #: extension/post-game/data/maps/evo-village/interior/city-hall.json+entities/243/settings/event/108/message+%23957
 msgctxt "extension/post-game/data/maps/evo-village/interior/city-hall.json//entities/243/settings/event/108/message"
-msgid "The best way to trigger his memories is probably visiting places you were together."
+msgid "The best way to trigger his memories is probably by visiting places you were together."
 msgstr ""
 
 #. extension/post-game/data/maps/evo-village/interior/city-hall.json entities/243/settings/event/109/message #958
@@ -7513,7 +7513,7 @@ msgstr ""
 #. SHOW_MSG main.sergey-av @COMPLEX
 #: extension/post-game/data/maps/evo-village/interior/city-hall.json+entities/248/settings/event/80/message+%231102
 msgctxt "extension/post-game/data/maps/evo-village/interior/city-hall.json//entities/248/settings/event/80/message"
-msgid "That's right..."
+msgid "That is true..."
 msgstr ""
 
 #. extension/post-game/data/maps/evo-village/interior/city-hall.json entities/248/settings/event/81/message #1103
@@ -7569,7 +7569,7 @@ msgstr ""
 #. SHOW_MSG main.luke @PANIC
 #: extension/post-game/data/maps/evo-village/interior/city-hall.json+entities/248/settings/event/97/message+%231110
 msgctxt "extension/post-game/data/maps/evo-village/interior/city-hall.json//entities/248/settings/event/97/message"
-msgid "Woah there!"
+msgid "Whoa there!"
 msgstr ""
 
 #. extension/post-game/data/maps/evo-village/interior/city-hall.json entities/248/settings/event/98/message #1142
@@ -8299,7 +8299,7 @@ msgstr ""
 #. SHOW_MSG main.sergey-av @WHISTLING
 #: extension/post-game/data/maps/evo-village/interior/city-hall.json+entities/252/settings/event/29/message+%231713
 msgctxt "extension/post-game/data/maps/evo-village/interior/city-hall.json//entities/252/settings/event/29/message"
-msgid "Well...\\. I am still holding onto a backup, should we still find a way."
+msgid "Well...\\. I keep hold of a backup, should we still find a way."
 msgstr ""
 
 #. extension/post-game/data/maps/evo-village/interior/city-hall.json entities/253/settings/interact/hoverText #40
@@ -8458,7 +8458,7 @@ msgstr ""
 #. SHOW_MSG main.glasses @EMBARRASSED
 #: extension/post-game/data/maps/evo-village/interior/glasses.json+entities/67/settings/event/29/message+%23404
 msgctxt "extension/post-game/data/maps/evo-village/interior/glasses.json//entities/67/settings/event/29/message"
-msgid "I'll try to get some rest then. Good night."
+msgid "I'll try to get some rest, then. Good night."
 msgstr ""
 
 #. extension/post-game/data/maps/evo-village/interior/glasses.json entities/67/settings/event/30/message #405
@@ -10908,7 +10908,7 @@ msgstr ""
 #. SHOW_MSG main.emilie @SHOCKED
 #: extension/post-game/data/maps/evo-village/interior/glasses.json+entities/72/settings/event/190/message+%231509
 msgctxt "extension/post-game/data/maps/evo-village/interior/glasses.json//entities/72/settings/event/190/message"
-msgid "Tronny are you okay?!"
+msgid "Tronny, are you okay?!"
 msgstr ""
 
 #. extension/post-game/data/maps/evo-village/interior/glasses.json entities/72/settings/event/192/message #1510
@@ -11988,7 +11988,7 @@ msgstr ""
 #. SHOW_MSG main.sergey @THINKING
 #: extension/post-game/data/maps/evo-village/interior/lea.json+entities/67/settings/event/59/message+%23533
 msgctxt "extension/post-game/data/maps/evo-village/interior/lea.json//entities/67/settings/event/59/message"
-msgid "I still hope to find a better work around for your speech limitations later on.\n"
+msgid "I still hope to find a better workaround for your speech limitations later on.\n"
 msgstr ""
 
 #. extension/post-game/data/maps/evo-village/interior/lea.json entities/67/settings/event/60/message #534
@@ -11996,7 +11996,7 @@ msgstr ""
 #. SHOW_MSG main.sergey @DEFAULT
 #: extension/post-game/data/maps/evo-village/interior/lea.json+entities/67/settings/event/60/message+%23534
 msgctxt "extension/post-game/data/maps/evo-village/interior/lea.json//entities/67/settings/event/60/message"
-msgid "Anyway, for now this should help!"
+msgid "Anyway, for now these should help!"
 msgstr ""
 
 #. extension/post-game/data/maps/evo-village/interior/lea.json entities/67/settings/event/62/object #517
@@ -13209,7 +13209,7 @@ msgstr ""
 #. SHOW_MSG main.genius @CHAIR_DEFAULT
 #: extension/post-game/data/maps/evo-village/interior/satoshi.json+entities/94/settings/npcStates/2/event/8/message+%23229
 msgctxt "extension/post-game/data/maps/evo-village/interior/satoshi.json//entities/94/settings/npcStates/2/event/8/message"
-msgid "And now everyone at Instatainment is bust working on that extension."
+msgid "And now everyone at Instatainment is busy working on that extension."
 msgstr ""
 
 #. extension/post-game/data/maps/evo-village/interior/satoshi.json entities/94/settings/npcStates/2/event/9/message #230
@@ -13329,7 +13329,7 @@ msgstr ""
 #. SHOW_MSG main.shizuka @SARCASTIC
 #: extension/post-game/data/maps/evo-village/interior/satoshi.json+entities/97/settings/event/23/message+%235
 msgctxt "extension/post-game/data/maps/evo-village/interior/satoshi.json//entities/97/settings/event/23/message"
-msgid "Can't there be a time in your life where you're NOT doing that?"
+msgid "Can't there be a time in your life when you're NOT doing that?"
 msgstr ""
 
 #. extension/post-game/data/maps/evo-village/interior/satoshi.json entities/97/settings/event/27/message #7
@@ -13641,7 +13641,7 @@ msgstr ""
 #. SHOW_MSG main.shizuka @SURPRISED
 #: extension/post-game/data/maps/evo-village/interior/satoshi.json+entities/97/settings/event/118/message+%2348
 msgctxt "extension/post-game/data/maps/evo-village/interior/satoshi.json//entities/97/settings/event/118/message"
-msgid "Oh that's right, it's not really public yet, isn't it?"
+msgid "Oh that's right, it's not really public yet, is it?"
 msgstr ""
 
 #. extension/post-game/data/maps/evo-village/interior/satoshi.json entities/97/settings/event/119/message #49
@@ -14099,7 +14099,7 @@ msgstr ""
 #. SHOW_MSG main.luke @EYES_CLOSED
 #: extension/post-game/data/maps/evo-village/interior/schneider.json+entities/80/settings/npcStates/1/event/15/message+%2324
 msgctxt "extension/post-game/data/maps/evo-village/interior/schneider.json//entities/80/settings/npcStates/1/event/15/message"
-msgid "It's at least something to spend the time with."
+msgid "It's at least something to spend the time on."
 msgstr ""
 
 #. extension/post-game/data/maps/evo-village/interior/schneider.json entities/80/settings/npcStates/1/event/16/message #25

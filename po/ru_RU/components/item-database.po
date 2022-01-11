@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.4.1-2\n"
+"Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-14 01:09+0000\n"
-"POT-Revision-Date: 2021-04-14 01:09+0000\n"
+"POT-Creation-Date: 2022-01-11 15:55+0000\n"
+"POT-Revision-Date: 2022-01-11 15:55+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0\n"
+"X-Generator: crosscode-localization-engine 0.0.0 (2168d54 2022-01-11)\n"
 
 #. data/item-database.json items/0/name #1
 #. TRADE
@@ -3835,7 +3835,7 @@ msgstr "Особый пчелиный улей, твёрдый как алмаз
 #: data/item-database.json+items/263/name+%23865
 msgctxt "data/item-database.json//items/263/name"
 msgid "Progression Proof"
-msgstr "Доказательство прогрессии"
+msgstr "Доказательство прогресса"
 
 #. data/item-database.json items/263/description #1073
 #. KEY
@@ -7364,7 +7364,7 @@ msgstr "Зачем тебе его собирать?"
 #: data/item-database.json+items/503/sources/0/value/text+%232221
 msgctxt "data/item-database.json//items/503/sources/0/value/text"
 msgid "Trashbags in \\c[3]\\v[area.jungle-city.name]\\c[0]"
-msgstr "Мусорные мешки в \\c[3]Твердыни Бэйзина\\c[0]"
+msgstr "Мусорные мешки в \\c[3]Твердыне Бэйзина\\c[0]"
 
 #. data/item-database.json items/504/name #2222
 #. EQUIP
@@ -8024,7 +8024,7 @@ msgstr "Это просто и изящно."
 #: data/item-database.json+items/550/name+%232317
 msgctxt "data/item-database.json//items/550/name"
 msgid "Ascension Proof"
-msgstr "Доказательство восхождения"
+msgstr "Доказательство вознесения"
 
 #. data/item-database.json items/550/description #2318
 #. KEY
@@ -8752,14 +8752,14 @@ msgstr "Изношенные и старые перчатки, когда-то �
 #: data/item-database.json+items/602/name+%232421
 msgctxt "data/item-database.json//items/602/name"
 msgid "Body Armoire"
-msgstr "Бронежилет"
+msgstr "Шкафандр"
 
 #. data/item-database.json items/602/description #2422
 #. EQUIP
 #: data/item-database.json+items/602/description+%232422
 msgctxt "data/item-database.json//items/602/description"
 msgid "A wearable container that can store an inconceivable amount of stuff. \\i[ascended]"
-msgstr "Cозданные из сундуков всех видов. По своим свойствам, драгоценные ценности сияют в нём. \\i[ascended]"
+msgstr "Надеваемый контейнер, что позволяет хранить невообразимое количество вещей. \\i[ascended]"
 
 #. data/item-database.json items/603/name #2423
 #. EQUIP
@@ -8982,8 +8982,8 @@ msgstr "Бустер бустеров"
 #. TOGGLE
 #: data/item-database.json+items/618/description+%232454
 msgctxt "data/item-database.json//items/618/description"
-msgid "Further empowers enemies that are boosted by \\c[3]regional boosters\\c[0] and unlocks more loot."
-msgstr "Ещё больше усиливает врагов, усиленных с помощью \\c[3]местных бустеров\\c[0], и открывает больше добычи."
+msgid "Further empowers enemies that are boosted by \\c[3]regional boosters\\c[0] up to your level!"
+msgstr "Ещё больше усиливает врагов, усиленных с помощью \\c[3]местных бустеров\\c[0], подгоняя их до вашего уровня!"
 
 #. data/item-database.json items/619/name #2455
 #. TRADE
@@ -9525,8 +9525,8 @@ msgstr "Символ Пламени"
 #. KEY
 #: data/item-database.json+items/651/description+%232520
 msgctxt "data/item-database.json//items/651/description"
-msgid "An Ancient sculpture in the shape of a flame. \\c[3]Adds an additional Heat CP.\\c[0] \\i[element-heat]"
-msgstr "Древнее изваяние в форме пламени. \\c[3]Даёт дополнительное CP Пламени.\\c[0] \\i[element-heat]"
+msgid "An Ancient sculpture in the shape of a smoldering flame. \\c[3]Adds an additional Heat CP.\\c[0] \\i[element-heat]"
+msgstr "Древнее изваяние в форме тлеющего пламени. \\c[3]Даёт дополнительное CP Пламени.\\c[0] \\i[element-heat]"
 
 #. data/item-database.json items/652/name #2521
 #. KEY
@@ -9619,21 +9619,21 @@ msgstr "Солнечный визор"
 #: data/item-database.json+items/657/description+%232532
 msgctxt "data/item-database.json//items/657/description"
 msgid "Tinted eye protection that was crafted from a transparent, sun-forged alloy. \\i[ascended]"
-msgstr "Затенённая защита для глаз созданная из прозрачного, выкованного на солнце сплава. \\i[ascended]"
+msgstr "Затенённая защита для глаз, созданная из прозрачного, выкованного на солнце сплава. \\i[ascended]"
 
 #. data/item-database.json items/658/name #2533
 #. EQUIP
 #: data/item-database.json+items/658/name+%232533
 msgctxt "data/item-database.json//items/658/name"
 msgid "Lunatic Paws UwU"
-msgstr "Лунные лапки Сана"
+msgstr "Лунные лапки УвУ"
 
 #. data/item-database.json items/658/description #2534
 #. EQUIP
 #: data/item-database.json+items/658/description+%232534
 msgctxt "data/item-database.json//items/658/description"
 msgid "Upgraded glitch-affinity through a refined \"\\c[3]U\\c[0]ltra\\c[3]w\\c[0]att \\c[3]U\\c[0]nit\"-system. \\i[ascended]"
-msgstr "Улучшенные редакторской силой Миски и Сандорика. Никаких тут сложных непереводимых шуток пока мы на страже! \\i[ascended]"
+msgstr "Глючно-улучшенные с помощью \\c[3]У\\c[0]льтра\\c[3]в\\c[0]аттной \\c[3]У\\c[0]льтимативной системы. \\i[ascended]"
 
 #. data/item-database.json items/659/name #2535
 #. EQUIP
@@ -9689,7 +9689,7 @@ msgstr "Кусок астероида"
 #: data/item-database.json+items/662/description+%232558
 msgctxt "data/item-database.json//items/662/description"
 msgid "Piece from a rock floating through space. Brought to the planet by a spacefarer."
-msgstr "Кусок камня, дрейфующий по космосу. Был принесён на планету космонавтом."
+msgstr "Кусок камня, дрейфующего по космосу. Был принесён на планету космонавтом."
 
 #. data/item-database.json items/663/name #2559
 #. TRADE
@@ -9724,109 +9724,151 @@ msgstr "Этот мешок выходит за рамки бесконечно�
 #: data/item-database.json+items/665/name+%232563
 msgctxt "data/item-database.json//items/665/name"
 msgid "Lis'mita Cap"
-msgstr ""
+msgstr "Кепка Лисмиты"
 
 #. data/item-database.json items/665/description #2564
 #. EQUIP
 #: data/item-database.json+items/665/description+%232564
 msgctxt "data/item-database.json//items/665/description"
 msgid "Ancient head adornment, luxuriously represents the desire for wealth. \\i[ascended]"
-msgstr ""
+msgstr "Древний головной убор, роскошно олицетворяет жажду наживы владельца. \\i[ascended]"
 
 #. data/item-database.json items/666/name #2565
 #. EQUIP
 #: data/item-database.json+items/666/name+%232565
 msgctxt "data/item-database.json//items/666/name"
 msgid "Enlightened Halo"
-msgstr ""
+msgstr "Просветлённый ореол"
 
 #. data/item-database.json items/666/description #2566
 #. EQUIP
 #: data/item-database.json+items/666/description+%232566
 msgctxt "data/item-database.json//items/666/description"
 msgid "Shining ring, floating above the heads of ascended beings. \\i[ascended]"
-msgstr ""
+msgstr "Сияющее кольцо, парящее над головой вознесённых созданий. \\i[ascended]"
 
 #. data/item-database.json items/667/name #2567
 #. EQUIP
 #: data/item-database.json+items/667/name+%232567
 msgctxt "data/item-database.json//items/667/name"
 msgid "Moonwalkers"
-msgstr ""
+msgstr "Луноходы"
 
 #. data/item-database.json items/667/description #2568
 #. EQUIP
 #: data/item-database.json+items/667/description+%232568
 msgctxt "data/item-database.json//items/667/description"
 msgid "Made to walk stylishly in any direction, angle and gravity. \\i[ascended]"
-msgstr ""
+msgstr "Позволяют ходить со стилем в любом направлении, под любым углом и в любой гравитации. \\i[ascended]"
 
 #. data/item-database.json items/668/name #2569
 #. TRADE
 #: data/item-database.json+items/668/name+%232569
 msgctxt "data/item-database.json//items/668/name"
 msgid "Moon Chunk"
-msgstr ""
+msgstr "Лунный обломок"
 
 #. data/item-database.json items/668/description #2570
 #. TRADE
 #: data/item-database.json+items/668/description+%232570
 msgctxt "data/item-database.json//items/668/description"
 msgid "Some rare piece of rock from the nearest moon. Which happens to be... \\v[lore.title.planet]."
-msgstr ""
+msgstr "Редкий кусок камня с ближайшей луны. Коей является... \\v[lore.title.planet]."
 
 #. data/item-database.json items/669/name #2571
 #. TRADE
 #: data/item-database.json+items/669/name+%232571
 msgctxt "data/item-database.json//items/669/name"
 msgid "The Last Straw"
-msgstr ""
+msgstr "Последняя соломинка"
 
 #. data/item-database.json items/669/description #2572
 #. TRADE
 #: data/item-database.json+items/669/description+%232572
 msgctxt "data/item-database.json//items/669/description"
 msgid "Yeah, now you've done it. This is it."
-msgstr ""
+msgstr "Да, теперь вы сделали это. Вот и всё."
 
 #. data/item-database.json items/670/name #2573
 #. CONS
 #: data/item-database.json+items/670/name+%232573
 msgctxt "data/item-database.json//items/670/name"
 msgid "Goat Cheese"
-msgstr ""
+msgstr "Козий сыр"
 
 #. data/item-database.json items/670/description #2574
 #. CONS
 #: data/item-database.json+items/670/description+%232574
 msgctxt "data/item-database.json//items/670/description"
 msgid "Sharp cheese, independently produced by skilled goats."
-msgstr ""
+msgstr "Острый сыр, самостоятельно произведённый умелыми козами."
 
 #. data/item-database.json items/671/name #2575
 #. CONS
 #: data/item-database.json+items/671/name+%232575
 msgctxt "data/item-database.json//items/671/name"
 msgid "Goat Milk"
-msgstr ""
+msgstr "Козье молоко"
 
 #. data/item-database.json items/671/description #2576
 #. CONS
 #: data/item-database.json+items/671/description+%232576
 msgctxt "data/item-database.json//items/671/description"
 msgid "Healthy milk, independently produced by skilled goats."
-msgstr ""
+msgstr "Полезное молоко, самостоятельно произведённое умелыми козами."
 
 #. data/item-database.json items/672/name #2577
 #. TOGGLE
 #: data/item-database.json+items/672/name+%232577
 msgctxt "data/item-database.json//items/672/name"
 msgid "Manlea"
-msgstr ""
+msgstr "Манлея"
 
 #. data/item-database.json items/672/description #2578
 #. TOGGLE
 #: data/item-database.json+items/672/description+%232578
 msgctxt "data/item-database.json//items/672/description"
 msgid "Increase your manliness and turn into \\c[3]Manlea\\c[0]."
-msgstr ""
+msgstr "Увеличивает вашу мужественность и превращает в \\c[3]Манлею\\c[0]."
+
+#. data/item-database.json items/673/name #2579
+#. EQUIP
+#: data/item-database.json+items/673/name+%232579
+msgctxt "data/item-database.json//items/673/name"
+msgid "Bearserker Claw"
+msgstr "Коготь медверсерка"
+
+#. data/item-database.json items/673/description #2580
+#. EQUIP
+#: data/item-database.json+items/673/description+%232580
+msgctxt "data/item-database.json//items/673/description"
+msgid "Ursine weapon that draws power from pain. Tear enemies apart with bear hands! \\i[ascended]"
+msgstr "Медвежье оружие, которое насыщается силой от боли. Разрывайте врагов на части с медвежьей силой! \\i[ascended]"
+
+#. data/item-database.json items/674/name #2581
+#. EQUIP
+#: data/item-database.json+items/674/name+%232581
+msgctxt "data/item-database.json//items/674/name"
+msgid "Headset TYPE>:3"
+msgstr "Гарнитура ТИП>:3"
+
+#. data/item-database.json items/674/description #2582
+#. EQUIP
+#: data/item-database.json+items/674/description+%232582
+msgctxt "data/item-database.json//items/674/description"
+msgid "Experimental headphones with ultrasonic devices in the shape of feline ears. \\i[ascended]"
+msgstr "Экспериментальные наушники с ультразвуковыми устройствами в форме кошачьих ушек. \\i[ascended]"
+
+#. data/item-database.json items/675/name #2583
+#. EQUIP
+#: data/item-database.json+items/675/name+%232583
+msgctxt "data/item-database.json//items/675/name"
+msgid "Nightfeather Coat"
+msgstr "Ночнокрылый плащ"
+
+#. data/item-database.json items/675/description #2584
+#. EQUIP
+#: data/item-database.json+items/675/description+%232584
+msgctxt "data/item-database.json//items/675/description"
+msgid "Dark suit made from the wings of only the most sinister of birds. \\i[ascended]"
+msgstr "Тëмное одеяние, сделанное из крыльев только самых зловещих птиц. \\i[ascended]"

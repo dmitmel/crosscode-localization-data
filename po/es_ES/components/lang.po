@@ -1,18 +1,17 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.4.1-2\n"
+"Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-14 01:09+0000\n"
-"PO-Revision-Date: 2022-01-11 15:31+0000\n"
-"Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
-"Language-Team: Spanish <https://weblate.crosscode.ru/projects/crosscode/lang/es/>\n"
+"POT-Creation-Date: 2022-01-11 15:55+0000\n"
+"POT-Revision-Date: 2022-01-11 15:55+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.5.3\n"
-"POT-Revision-Date: 2021-04-14 01:09+0000\n"
+"Plural-Forms: \n"
+"X-Generator: crosscode-localization-engine 0.0.0 (2168d54 2022-01-11)\n"
 
 #. data/lang/sc/gimmick.en_US.json labels/unknown #0
 #: data/lang/sc/gimmick.en_US.json+labels/unknown+%230
@@ -3368,8 +3367,9 @@ msgstr "Indica que los niveles no están bien alineados."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/equip/colorDesc/red #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/equip/colorDesc/red+%230
+#, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/equip/colorDesc/red"
-msgid "Indicates that the levels are badly aligned, which could lead to problems when fighting enemies of a similiar level."
+msgid "Indicates that the levels are badly aligned, which could lead to problems when fighting enemies of a similar level."
 msgstr "Indica que los niveles están mal alineados, lo que puede traer problemas cuando peleas contra enemigos de un nivel similar."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/item/titles/hp #0
@@ -4310,8 +4310,9 @@ msgstr "Tiempo"
 
 #. data/lang/sc/gui.en_US.json labels/menu/description/items #0
 #: data/lang/sc/gui.en_US.json+labels/menu/description/items+%230
+#, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/description/items"
-msgid "Browse through your items and use consumables."
+msgid "Browse through your items and select favorite consumables."
 msgstr "Revisa tus objetos y consumibles."
 
 #. data/lang/sc/gui.en_US.json labels/menu/description/skills #0
@@ -4916,14 +4917,16 @@ msgstr "Incrementa la velocidad en la que tu puntería se hace precisa."
 
 #. data/lang/sc/gui.en_US.json labels/menu/equip/descriptions/XP_ZERO #0
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/descriptions/XP_ZERO+%230
+#, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/equip/descriptions/XP_ZERO"
-msgid "Disables exp gain from quests or defeating enemies."
+msgid "Disables exp gain from defeating enemies."
 msgstr "No conseguirás experiencia de las misiones ni por eliminar enemigos."
 
 #. data/lang/sc/gui.en_US.json labels/menu/equip/descriptions/XP_PLUS #0
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/descriptions/XP_PLUS+%230
+#, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/equip/descriptions/XP_PLUS"
-msgid "Increases amount of experience gained from defeating enemies"
+msgid "Increases amount of experience gained from defeating enemies."
 msgstr "Incrementa la cantidad de experiencia recibida al eliminar enemigos."
 
 #. data/lang/sc/gui.en_US.json labels/menu/equip/descriptions/RANGED_DMG #0
@@ -5084,7 +5087,6 @@ msgstr "Tu escudo te protegerá de ataques a tus lados. Si lo activas dos veces,
 
 #. data/lang/sc/gui.en_US.json labels/menu/equip/descriptions/APPETITE #0
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/descriptions/APPETITE+%230
-#, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/equip/descriptions/APPETITE"
 msgid "Increases numbers of available buff slots. Every step of 100 unlocks another one."
 msgstr "Incrementa el número de mejoras activas simultáneas."
@@ -5157,14 +5159,16 @@ msgstr "Te permite atravesar normalmente las telarañas creadas por las \\v[comb
 
 #. data/lang/sc/gui.en_US.json labels/menu/equip/descriptions/BEGONE_ICE #0
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/descriptions/BEGONE_ICE+%230
+#, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/equip/descriptions/BEGONE_ICE"
-msgid "Makes it possible to run and perform actions on ice without slipping."
+msgid "Makes it possible to normally run and perform actions on ice without slipping."
 msgstr "Te permite caminar y correr sobre hielo sin deslizarte."
 
 #. data/lang/sc/gui.en_US.json labels/menu/equip/descriptions/EQUIP_SCALE #0
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/descriptions/EQUIP_SCALE+%230
+#, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/equip/descriptions/EQUIP_SCALE"
-msgid "Base Params of this weapon automatically scale with your current level."
+msgid "Base Parameters of this equipment automatically scale with your current level."
 msgstr "Los parámetros básicos de este arma escalan con tu nivel."
 
 #. data/lang/sc/gui.en_US.json labels/menu/skill/shade #0

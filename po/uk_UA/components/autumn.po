@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.4.1-2\n"
+"Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-14 01:10+0000\n"
-"POT-Revision-Date: 2021-04-14 01:10+0000\n"
+"POT-Creation-Date: 2022-01-11 15:55+0000\n"
+"POT-Revision-Date: 2022-01-11 15:55+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: uk_UA\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0\n"
+"X-Generator: crosscode-localization-engine 0.0.0 (2168d54 2022-01-11)\n"
 
 #. data/maps/autumn/cave-path6-1-meerkat.json entities/7/settings/event/23/text #1
 #. EventTrigger battle-starter START IF tmp.arena-touch
@@ -25922,4 +25922,1768 @@ msgstr ""
 #: data/maps/autumn/path6.json+entities/985/settings/event/1/text+%2352
 msgctxt "data/maps/autumn/path6.json//entities/985/settings/event/1/text"
 msgid "Missing Pass"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json entities/41/settings/condAnims/0/interact/hoverText #4
+#. Prop
+#. IF !g.lab.autumn.elevator1
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json+entities/41/settings/condAnims/0/interact/hoverText+%234
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json//entities/41/settings/condAnims/0/interact/hoverText"
+msgid "Display"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json entities/41/settings/condAnims/0/interact/event/1/text #3
+#. Prop
+#. IF !g.lab.autumn.elevator1
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json+entities/41/settings/condAnims/0/interact/event/1/text+%233
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json//entities/41/settings/condAnims/0/interact/event/1/text"
+msgid ""
+"Bridge Elevator: \\c[1]disabled\\c[0].\n"
+"Do you want to enable the elevator?"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json entities/41/settings/condAnims/0/interact/event/2/0/3/text #9
+#. Prop
+#. IF !g.lab.autumn.elevator1
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json+entities/41/settings/condAnims/0/interact/event/2/0/3/text+%239
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json//entities/41/settings/condAnims/0/interact/event/2/0/3/text"
+msgid "Bridge Elevator \\c[2]enabled\\c[0]!"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json entities/41/settings/condAnims/0/interact/event/2/options/0/label #8
+#. Prop
+#. IF !g.lab.autumn.elevator1
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json+entities/41/settings/condAnims/0/interact/event/2/options/0/label+%238
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json//entities/41/settings/condAnims/0/interact/event/2/options/0/label"
+msgid "[yes]"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json entities/41/settings/condAnims/0/interact/event/2/options/1/label #10
+#. Prop
+#. IF !g.lab.autumn.elevator1
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json+entities/41/settings/condAnims/0/interact/event/2/options/1/label+%2310
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json//entities/41/settings/condAnims/0/interact/event/2/options/1/label"
+msgid "[no]"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json entities/44/settings/condAnims/0/interact/hoverText #213
+#. Prop sideLore1
+#. IF true
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json+entities/44/settings/condAnims/0/interact/hoverText+%23213
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json//entities/44/settings/condAnims/0/interact/hoverText"
+msgid "Display"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json entities/44/settings/condAnims/0/interact/event/1/text #215
+#. Prop sideLore1
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json+entities/44/settings/condAnims/0/interact/event/1/text+%23215
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json//entities/44/settings/condAnims/0/interact/event/1/text"
+msgid ""
+"\\c[1]INTERNAL MAIL, SENT\\c[0]\n"
+"\n"
+"\\c[3]FROM:\\c[0] Facility Staff, Office 64b\n"
+"\\c[3]TO:\\c[0] \"Avian Appliances\", Management\n"
+"\n"
+"\\c[3]Subject:\\c[0] Ground Design"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json entities/44/settings/condAnims/0/interact/event/2/text #231
+#. Prop sideLore1
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json+entities/44/settings/condAnims/0/interact/event/2/text+%23231
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json//entities/44/settings/condAnims/0/interact/event/2/text"
+msgid ""
+"Greetings,\n"
+"\n"
+"We recently started working in this new lab. Work is progressing well. The equipment is state-of-the-art and the energy we draw from the \\v[lore.title.track-of-ancients] easily powers all of our advanced experiments."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json entities/44/settings/condAnims/0/interact/event/3/text #216
+#. Prop sideLore1
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json+entities/44/settings/condAnims/0/interact/event/3/text+%23216
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json//entities/44/settings/condAnims/0/interact/event/3/text"
+msgid ""
+"However, I want to file a complaint about the \\c[3]floor design\\c[0].\n"
+"Those \\c[3]rills in the ground\\c[0] are not exactly beneficial to our workflow. It's almost as if they were designed to make people trip!"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json entities/44/settings/condAnims/0/interact/event/4/text #217
+#. Prop sideLore1
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json+entities/44/settings/condAnims/0/interact/event/4/text+%23217
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json//entities/44/settings/condAnims/0/interact/event/4/text"
+msgid ""
+"Not to mention that our chairs constantly get stuck in them. With all due respect, this is a clear recipe for disaster.\n"
+"\n"
+"Sincerest Regards,\n"
+"[NAME REDACTED]\n"
+"\n"
+"\\c[1][END OF MAIL]\\c[0]"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json entities/44/settings/condAnims/0/interact/event/5/text #232
+#. Prop sideLore1
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json+entities/44/settings/condAnims/0/interact/event/5/text+%23232
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json//entities/44/settings/condAnims/0/interact/event/5/text"
+msgid ""
+"\\c[1]INTERNAL MAIL, SENT\\c[0]\n"
+"\n"
+"\\c[3]FROM:\\c[0] Facility Staff, Office 64b\n"
+"\\c[3]TO:\\c[0] \"Avian Appliances\", Management\n"
+"\n"
+"\\c[3]Subject:\\c[0] RE: RE: Ground Design"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json entities/44/settings/condAnims/0/interact/event/6/text #218
+#. Prop sideLore1
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json+entities/44/settings/condAnims/0/interact/event/6/text+%23218
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json//entities/44/settings/condAnims/0/interact/event/6/text"
+msgid ""
+"Greetings,\n"
+"\n"
+"I warned you. You know I did. But nothing has been done! Now our new intern tripped over the rills and spilled coffee all over our equipment.\n"
+"Many hours of work, lost!"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json entities/44/settings/condAnims/0/interact/event/7/text #221
+#. Prop sideLore1
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json+entities/44/settings/condAnims/0/interact/event/7/text+%23221
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json//entities/44/settings/condAnims/0/interact/event/7/text"
+msgid ""
+"I can't even blame the lad. This floor is a safety hazard! Please finally take action!\n"
+"\n"
+"Regards,\n"
+"[NAME REDACTED]\n"
+"\n"
+"\\c[1][END OF MAIL]\\c[0]"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json entities/48/settings/interact/hoverText #226
+#. Prop holo-sign
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json+entities/48/settings/interact/hoverText+%23226
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json//entities/48/settings/interact/hoverText"
+msgid "Hologram"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json entities/48/settings/interact/event/6/name #230
+#. Prop holo-sign
+#. ADD_MSG_PERSON lab.scientist-switch @HOLOGRAM
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json+entities/48/settings/interact/event/6/name+%23230
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json//entities/48/settings/interact/event/6/name"
+msgid "Drey Santrés"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json entities/48/settings/interact/event/8/message #27
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-switch @HOLOGRAM
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json+entities/48/settings/interact/event/8/message+%2327
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json//entities/48/settings/interact/event/8/message"
+msgid "Hello?\\. Is this thing on?\\.\\.\\. Ah..."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json entities/48/settings/interact/event/9/message #210
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-switch @HOLOGRAM
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json+entities/48/settings/interact/event/9/message+%23210
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json//entities/48/settings/interact/event/9/message"
+msgid "To anyone here, watching this, I welcome you to this facility.\\. Thank you for your time, reading these humble logs."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json entities/48/settings/interact/event/10/message #211
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-switch @HOLOGRAM
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json+entities/48/settings/interact/event/10/message+%23211
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json//entities/48/settings/interact/event/10/message"
+msgid "My name is \\c[3]Drey Santrés\\c[0] and I am the leading engineer at \\c[3]Avian Appliances\\c[0]."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json entities/48/settings/interact/event/11/message #212
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-switch @HOLOGRAM
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json+entities/48/settings/interact/event/11/message+%23212
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json//entities/48/settings/interact/event/11/message"
+msgid "At Avian Appliances we always strive to deliver the best airborne experiences possible."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json entities/48/settings/interact/event/12/message #220
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-switch @HOLOGRAM
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json+entities/48/settings/interact/event/12/message+%23220
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json//entities/48/settings/interact/event/12/message"
+msgid "No matter what device, be it for work, military or entertainment systems, we will make it fly!"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json entities/48/settings/interact/event/13/message #222
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-switch @HOLOGRAM
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json+entities/48/settings/interact/event/13/message+%23222
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json//entities/48/settings/interact/event/13/message"
+msgid "All possible with the generous energy provided by the \\v[lore.title.track-of-ancients], directly linked to this facility!"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json entities/48/settings/interact/event/14/message #223
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-switch @HOLOGRAM
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json+entities/48/settings/interact/event/14/message+%23223
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json//entities/48/settings/interact/event/14/message"
+msgid "We are currently experimenting with native creatures to share the wonders of flight with them and their families."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json entities/48/settings/interact/event/15/message #224
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-switch @HOLOGRAM
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json+entities/48/settings/interact/event/15/message+%23224
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json//entities/48/settings/interact/event/15/message"
+msgid "First tests have been very promising.\\. This will be groundbreaking for Track-integrated technology!"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json entities/48/settings/interact/event/16/message #225
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-switch @HOLOGRAM
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json+entities/48/settings/interact/event/16/message+%23225
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json//entities/48/settings/interact/event/16/message"
+msgid "We will release more information on future tests.\\. Please continue following us while we reach for the sky!"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json entities/50/settings/condAnims/0/interact/hoverText #233
+#. Prop sideLore2
+#. IF true
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json+entities/50/settings/condAnims/0/interact/hoverText+%23233
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json//entities/50/settings/condAnims/0/interact/hoverText"
+msgid "Display"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json entities/50/settings/condAnims/0/interact/event/1/text #234
+#. Prop sideLore2
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json+entities/50/settings/condAnims/0/interact/event/1/text+%23234
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json//entities/50/settings/condAnims/0/interact/event/1/text"
+msgid ""
+"\\c[1]PRIVATE NOTE\\c[0]\n"
+"\n"
+"\\c[3]Title:\\c[0] Important reminder"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json entities/50/settings/condAnims/0/interact/event/2/text #235
+#. Prop sideLore2
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json+entities/50/settings/condAnims/0/interact/event/2/text+%23235
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json//entities/50/settings/condAnims/0/interact/event/2/text"
+msgid ""
+"- Take breaks when you need them!\n"
+"- Drink water regularly!\n"
+"- Love yourself, always!\n"
+"\n"
+"\\c[1][END OF NOTE]\\c[0]"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json entities/50/settings/condAnims/0/interact/event/3/message #241
+#. Prop sideLore2
+#. IF true
+#. SHOW_MSG main.lea @EXCITED
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json+entities/50/settings/condAnims/0/interact/event/3/message+%23241
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub1.json//entities/50/settings/condAnims/0/interact/event/3/message"
+msgid "...!"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/24/settings/condAnims/0/interact/hoverText #4
+#. Prop
+#. IF !g.lab.autumn.elevator2
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/24/settings/condAnims/0/interact/hoverText+%234
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/24/settings/condAnims/0/interact/hoverText"
+msgid "Display"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/24/settings/condAnims/0/interact/event/1/text #15
+#. Prop
+#. IF !g.lab.autumn.elevator2
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/24/settings/condAnims/0/interact/event/1/text+%2315
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/24/settings/condAnims/0/interact/event/1/text"
+msgid ""
+"Main Elevator: \\c[1]disabled\\c[0].\n"
+"\\c[1]Spawn a test subject?\\c[0]"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/24/settings/condAnims/0/interact/event/2/0/2/text #12
+#. Prop
+#. IF !g.lab.autumn.elevator2
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/24/settings/condAnims/0/interact/event/2/0/2/text+%2312
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/24/settings/condAnims/0/interact/event/2/0/2/text"
+msgid "\\c[1]Test subject will be spawned!\\c[0]"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/24/settings/condAnims/0/interact/event/2/0/3/message #7
+#. Prop
+#. IF !g.lab.autumn.elevator2
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#. SHOW_MSG main.lea @THINKING
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/24/settings/condAnims/0/interact/event/2/0/3/message+%237
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/24/settings/condAnims/0/interact/event/2/0/3/message"
+msgid "..."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/24/settings/condAnims/0/interact/event/2/0/4/message #11
+#. Prop
+#. IF !g.lab.autumn.elevator2
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#. SHOW_MSG main.lea @SCARED
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/24/settings/condAnims/0/interact/event/2/0/4/message+%2311
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/24/settings/condAnims/0/interact/event/2/0/4/message"
+msgid "...?!"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/24/settings/condAnims/0/interact/event/2/0/15/message #9
+#. Prop
+#. IF !g.lab.autumn.elevator2
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#. SHOW_SIDE_MSG main.lea @SHOCKED
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/24/settings/condAnims/0/interact/event/2/0/15/message+%239
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/24/settings/condAnims/0/interact/event/2/0/15/message"
+msgid "Whhhhyyy?!"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/24/settings/condAnims/0/interact/event/2/1/1/text #13
+#. Prop
+#. IF !g.lab.autumn.elevator2
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/24/settings/condAnims/0/interact/event/2/1/1/text+%2313
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/24/settings/condAnims/0/interact/event/2/1/1/text"
+msgid "Do you want to \\c[1]enable the main elevator\\c[0]?"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/24/settings/condAnims/0/interact/event/2/1/2/0/3/text #14
+#. Prop
+#. IF !g.lab.autumn.elevator2
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#. SHOW_CHOICE main.lea @NERVOUS
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/24/settings/condAnims/0/interact/event/2/1/2/0/3/text+%2314
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/24/settings/condAnims/0/interact/event/2/1/2/0/3/text"
+msgid "Main Elevator \\c[2]enabled\\c[0]!"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/24/settings/condAnims/0/interact/event/2/1/2/options/0/label #8
+#. Prop
+#. IF !g.lab.autumn.elevator2
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#. SHOW_CHOICE main.lea @NERVOUS
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/24/settings/condAnims/0/interact/event/2/1/2/options/0/label+%238
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/24/settings/condAnims/0/interact/event/2/1/2/options/0/label"
+msgid "[yes]"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/24/settings/condAnims/0/interact/event/2/1/2/options/1/label #10
+#. Prop
+#. IF !g.lab.autumn.elevator2
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#. SHOW_CHOICE main.lea @NERVOUS
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/24/settings/condAnims/0/interact/event/2/1/2/options/1/label+%2310
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/24/settings/condAnims/0/interact/event/2/1/2/options/1/label"
+msgid "[no]"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/24/settings/condAnims/0/interact/event/2/options/0/label #16
+#. Prop
+#. IF !g.lab.autumn.elevator2
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/24/settings/condAnims/0/interact/event/2/options/0/label+%2316
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/24/settings/condAnims/0/interact/event/2/options/0/label"
+msgid "[yes]"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/24/settings/condAnims/0/interact/event/2/options/1/label #17
+#. Prop
+#. IF !g.lab.autumn.elevator2
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/24/settings/condAnims/0/interact/event/2/options/1/label+%2317
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/24/settings/condAnims/0/interact/event/2/options/1/label"
+msgid "[no]"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/28/settings/interact/hoverText #39
+#. Prop holo-sign
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/28/settings/interact/hoverText+%2339
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/28/settings/interact/hoverText"
+msgid "Hologram"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/28/settings/interact/event/6/name #42
+#. Prop holo-sign
+#. ADD_MSG_PERSON lab.scientist-switch @HOLOGRAM
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/28/settings/interact/event/6/name+%2342
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/28/settings/interact/event/6/name"
+msgid "Drey Santrés"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/28/settings/interact/event/8/message #31
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-switch @HOLOGRAM
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/28/settings/interact/event/8/message+%2331
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/28/settings/interact/event/8/message"
+msgid "Greetings everyone!\\. The development of \\c[3]\"Project Paratroopa\"\\c[0] is moving along at a nice speed."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/28/settings/interact/event/9/message #28
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-switch @HOLOGRAM
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/28/settings/interact/event/9/message+%2328
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/28/settings/interact/event/9/message"
+msgid "As the name suggests we had to first concentrate our efforts on military applications to secure our funds."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/28/settings/interact/event/10/message #29
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-switch @HOLOGRAM
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/28/settings/interact/event/10/message+%2329
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/28/settings/interact/event/10/message"
+msgid "Though, rest assured that our plans still involve civil projects that will benefit all of society."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/28/settings/interact/event/11/message #27
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-switch @HOLOGRAM
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/28/settings/interact/event/11/message+%2327
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/28/settings/interact/event/11/message"
+msgid "As for now, we are pleased to work together with our colleagues from other sectors of the field of engineering and science."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/28/settings/interact/event/12/message #32
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-switch @HOLOGRAM
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/28/settings/interact/event/12/message+%2332
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/28/settings/interact/event/12/message"
+msgid "Their expertise in fields like advanced weaponry and high durability construction complements our own."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/28/settings/interact/event/13/message #33
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-switch @HOLOGRAM
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/28/settings/interact/event/13/message+%2333
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/28/settings/interact/event/13/message"
+msgid "As for the project itself, interacting with the Track supplies us with near limitless energy and possibilities."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/28/settings/interact/event/14/message #34
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-switch @HOLOGRAM
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/28/settings/interact/event/14/message+%2334
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/28/settings/interact/event/14/message"
+msgid "Funneling its unpredictable flow into the desired direction has truly become a very rewarding challenge!"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/28/settings/interact/event/15/message #35
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-switch @HOLOGRAM
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/28/settings/interact/event/15/message+%2335
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/28/settings/interact/event/15/message"
+msgid "But by far the most thrilling aspect has proven to be the interaction with the fascinating spiky creatures."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/28/settings/interact/event/16/message #36
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-switch @HOLOGRAM
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/28/settings/interact/event/16/message+%2336
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/28/settings/interact/event/16/message"
+msgid "Our favorite is a very large specimen of \\v[combat.name.hedgehog] who, despite his limited mobility, holds great authority over his peers."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/28/settings/interact/event/17/message #37
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-switch @HOLOGRAM
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/28/settings/interact/event/17/message+%2337
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/28/settings/interact/event/17/message"
+msgid "Right now I am leading a separate team to apply a specialized version of our flying devices to his huge body."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/28/settings/interact/event/18/message #38
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-switch @HOLOGRAM
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/28/settings/interact/event/18/message+%2338
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/28/settings/interact/event/18/message"
+msgid "Our work will become even more exciting as we move forward, so please continue to share our excitement!"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/30/settings/condAnims/0/interact/hoverText #213
+#. Prop sideLore1
+#. IF true
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/30/settings/condAnims/0/interact/hoverText+%23213
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/30/settings/condAnims/0/interact/hoverText"
+msgid "Display"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/30/settings/condAnims/0/interact/event/1/text #234
+#. Prop sideLore1
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/30/settings/condAnims/0/interact/event/1/text+%23234
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/30/settings/condAnims/0/interact/event/1/text"
+msgid ""
+"\\c[1]INTERNAL MAIL, INBOX\\c[0]\n"
+"\n"
+"\\c[3]FROM:\\c[0] \"Avian Appliances\", Management\n"
+"\\c[3]TO:\\c[0] Office 8b\n"
+"\n"
+"\\c[3]Subject:\\c[0] Evaluation"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/30/settings/condAnims/0/interact/event/2/text #235
+#. Prop sideLore1
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/30/settings/condAnims/0/interact/event/2/text+%23235
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/30/settings/condAnims/0/interact/event/2/text"
+msgid ""
+"Dear employees,\n"
+"\n"
+"The last report has shown some impressive results on your part. The entire company thanks you for your hard work.\n"
+"However, further negotiations with our client have increased the scope of the project."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/30/settings/condAnims/0/interact/event/3/text #242
+#. Prop sideLore1
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/30/settings/condAnims/0/interact/event/3/text+%23242
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/30/settings/condAnims/0/interact/event/3/text"
+msgid ""
+"To meet our goal we will need you to implement a \\c[3]whole host of additional features and functionalities\\c[0], on top of what has already been achieved.\n"
+"A full list has been attached."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/30/settings/condAnims/0/interact/event/4/text #245
+#. Prop sideLore1
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/30/settings/condAnims/0/interact/event/4/text+%23245
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/30/settings/condAnims/0/interact/event/4/text"
+msgid ""
+"We are confident that you will meet these requirements without any problems.\n"
+"\n"
+"Sincerest Regards,\n"
+"the Management\n"
+"\n"
+"\\c[1][END OF MAIL]\\c[0]"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/30/settings/condAnims/0/interact/event/5/text #243
+#. Prop sideLore1
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/30/settings/condAnims/0/interact/event/5/text+%23243
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/30/settings/condAnims/0/interact/event/5/text"
+msgid ""
+"\\c[1]INTERNAL MAIL, SENT\\c[0]\n"
+"\n"
+"\\c[3]FROM:\\c[0] Office 8b\n"
+"\\c[3]TO:\\c[0] \"Avian Appliances\", Management\n"
+"\n"
+"\\c[3]Subject:\\c[0] RE: Evaluation"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/30/settings/condAnims/0/interact/event/6/text #244
+#. Prop sideLore1
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/30/settings/condAnims/0/interact/event/6/text+%23244
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/30/settings/condAnims/0/interact/event/6/text"
+msgid ""
+"Dear Management,\n"
+"\n"
+"We will be doing our best to conclude this project to the satisfaction of you and our clients. However, development in this facility has become increasingly difficult because of \\c[3]the Track's unpredictable nature\\c[0]."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/30/settings/condAnims/0/interact/event/7/text #236
+#. Prop sideLore1
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/30/settings/condAnims/0/interact/event/7/text+%23236
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/30/settings/condAnims/0/interact/event/7/text"
+msgid "Implementing those additional features will require \\c[3]more time and energy\\c[0]. The Track is already \\c[3]infiltrating our system\\c[0] and constantly \\c[3]respawning weird objects\\c[0], so using even more of its power will be a huge risk."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/30/settings/condAnims/0/interact/event/8/text #237
+#. Prop sideLore1
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/30/settings/condAnims/0/interact/event/8/text+%23237
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/30/settings/condAnims/0/interact/event/8/text"
+msgid ""
+"In conclusion, I don't feel confident in our current safety standards if we are to continue as you demand!\n"
+"\n"
+"Sincerest Regards,\n"
+"[NAME REDACTED]\n"
+"\n"
+"\\c[1][END OF MAIL]\\c[0]"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/31/settings/condAnims/0/interact/hoverText #233
+#. Prop sideLore2
+#. IF true
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/31/settings/condAnims/0/interact/hoverText+%23233
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/31/settings/condAnims/0/interact/hoverText"
+msgid "Display"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/31/settings/condAnims/0/interact/event/1/text #238
+#. Prop sideLore2
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/31/settings/condAnims/0/interact/event/1/text+%23238
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/31/settings/condAnims/0/interact/event/1/text"
+msgid ""
+"\\c[1]INTERNAL MAIL, INBOX\\c[0]\n"
+"\n"
+"\\c[3]FROM:\\c[0] Facility Management\n"
+"\\c[3]TO:\\c[0] [NAME REDACTED]\n"
+"\n"
+"\\c[3]Subject:\\c[0] Work Transgression"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/31/settings/condAnims/0/interact/event/2/text #239
+#. Prop sideLore2
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/31/settings/condAnims/0/interact/event/2/text+%23239
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/31/settings/condAnims/0/interact/event/2/text"
+msgid ""
+"Dear Mr [NAME REDACTED],\n"
+"\n"
+"it has been brought to our attention that you are spending a sizable amount of \\c[3]company time\\c[0] with one of those new \\c[3]cute-character-collection games on your communicator\\c[0].\n"
+"We consider this a breach of trust and will not accept this waste of worktime."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/31/settings/condAnims/0/interact/event/3/text #240
+#. Prop sideLore2
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/31/settings/condAnims/0/interact/event/3/text+%23240
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/31/settings/condAnims/0/interact/event/3/text"
+msgid ""
+"Furthermore we want to mention that, according to our calculations, the \\c[3]likelihood\\c[0] of pulling your preferred fictional character is \\c[3]very low\\c[0], unless an irresponsible amount of your income is spent.\n"
+"For your own well-being we advise you to reevaluate your priorities in this manner."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json entities/31/settings/condAnims/0/interact/event/4/text #241
+#. Prop sideLore2
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json+entities/31/settings/condAnims/0/interact/event/4/text+%23241
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2-sub2.json//entities/31/settings/condAnims/0/interact/event/4/text"
+msgid ""
+"Consider this your first and final warning. \\c[3]Further transgressions will not be tolerated.\\c[0]\n"
+"\n"
+"Sincerest Regards,\n"
+"the Management\n"
+"\n"
+"\\c[1][END OF MAIL]\\c[0]"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2.json entities/2/settings/condAnims/0/interact/hoverText #6
+#. Prop
+#. IF elevator.eleS1.dest == 1
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2.json+entities/2/settings/condAnims/0/interact/hoverText+%236
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2.json//entities/2/settings/condAnims/0/interact/hoverText"
+msgid "Call"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-2.json entities/7/settings/condAnims/0/interact/hoverText #11
+#. Prop
+#. IF elevator.eleS2.dest == 1
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-2.json+entities/7/settings/condAnims/0/interact/hoverText+%2311
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-2.json//entities/7/settings/condAnims/0/interact/hoverText"
+msgid "Call"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json entities/10/settings/condAnims/0/interact/hoverText #6
+#. Prop
+#. IF elevator.eleS1.dest == 1
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json+entities/10/settings/condAnims/0/interact/hoverText+%236
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json//entities/10/settings/condAnims/0/interact/hoverText"
+msgid "Call"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json entities/22/settings/condAnims/0/interact/1/text #3
+#. Prop
+#. IF !g.lab.autumn.wall1 && !tmp.testReady
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json+entities/22/settings/condAnims/0/interact/1/text+%233
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json//entities/22/settings/condAnims/0/interact/1/text"
+msgid ""
+"Bridge Elevator: \\c[1]disabled\\c[0].\n"
+"Do you want to enable the elevator?"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json entities/22/settings/condAnims/0/interact/2/0/3/text #9
+#. Prop
+#. IF !g.lab.autumn.wall1 && !tmp.testReady
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json+entities/22/settings/condAnims/0/interact/2/0/3/text+%239
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json//entities/22/settings/condAnims/0/interact/2/0/3/text"
+msgid "Bridge Elevator \\c[2]enabled\\c[0]!"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json entities/22/settings/condAnims/0/interact/2/options/0/label #8
+#. Prop
+#. IF !g.lab.autumn.wall1 && !tmp.testReady
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json+entities/22/settings/condAnims/0/interact/2/options/0/label+%238
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json//entities/22/settings/condAnims/0/interact/2/options/0/label"
+msgid "[yes]"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json entities/22/settings/condAnims/0/interact/2/options/1/label #10
+#. Prop
+#. IF !g.lab.autumn.wall1 && !tmp.testReady
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json+entities/22/settings/condAnims/0/interact/2/options/1/label+%2310
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json//entities/22/settings/condAnims/0/interact/2/options/1/label"
+msgid "[no]"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json entities/22/settings/condAnims/0/interact/hoverText #11
+#. Prop
+#. IF !g.lab.autumn.wall1 && !tmp.testReady
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json+entities/22/settings/condAnims/0/interact/hoverText+%2311
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json//entities/22/settings/condAnims/0/interact/hoverText"
+msgid "Display"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json entities/22/settings/condAnims/0/interact/event/1/text #16
+#. Prop
+#. IF !g.lab.autumn.wall1 && !tmp.testReady
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json+entities/22/settings/condAnims/0/interact/event/1/text+%2316
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json//entities/22/settings/condAnims/0/interact/event/1/text"
+msgid ""
+"Test sequence status: \\c[2]ready\\c[0].\n"
+"\\c[1]Start test sequence\\c[0]?"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json entities/22/settings/condAnims/0/interact/event/2/0/3/text #17
+#. Prop
+#. IF !g.lab.autumn.wall1 && !tmp.testReady
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json+entities/22/settings/condAnims/0/interact/event/2/0/3/text+%2317
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json//entities/22/settings/condAnims/0/interact/event/2/0/3/text"
+msgid "Preparing to \\c[2]initiate test sequence\\c[0]!"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json entities/22/settings/condAnims/0/interact/event/2/0/4/text #18
+#. Prop
+#. IF !g.lab.autumn.wall1 && !tmp.testReady
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json+entities/22/settings/condAnims/0/interact/event/2/0/4/text+%2318
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json//entities/22/settings/condAnims/0/interact/event/2/0/4/text"
+msgid "Please \\c[3]enter lower area\\c[0] to begin."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json entities/22/settings/condAnims/0/interact/event/2/1/1/text #19
+#. Prop
+#. IF !g.lab.autumn.wall1 && !tmp.testReady
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json+entities/22/settings/condAnims/0/interact/event/2/1/1/text+%2319
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json//entities/22/settings/condAnims/0/interact/event/2/1/1/text"
+msgid "Completion of test sequence is \\c[3]required\\c[0] in order to access western testing area."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json entities/22/settings/condAnims/0/interact/event/2/1/2/message #15
+#. Prop
+#. IF !g.lab.autumn.wall1 && !tmp.testReady
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#. SHOW_MSG main.lea @ANNOYED
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json+entities/22/settings/condAnims/0/interact/event/2/1/2/message+%2315
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json//entities/22/settings/condAnims/0/interact/event/2/1/2/message"
+msgid "..."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json entities/22/settings/condAnims/0/interact/event/2/options/0/label #20
+#. Prop
+#. IF !g.lab.autumn.wall1 && !tmp.testReady
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json+entities/22/settings/condAnims/0/interact/event/2/options/0/label+%2320
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json//entities/22/settings/condAnims/0/interact/event/2/options/0/label"
+msgid "[yes]"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json entities/22/settings/condAnims/0/interact/event/2/options/1/label #21
+#. Prop
+#. IF !g.lab.autumn.wall1 && !tmp.testReady
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json+entities/22/settings/condAnims/0/interact/event/2/options/1/label+%2321
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json//entities/22/settings/condAnims/0/interact/event/2/options/1/label"
+msgid "[no]"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json entities/22/settings/condAnims/1/interact/1/text #22
+#. Prop
+#. IF !g.lab.autumn.wall1 && tmp.testFinished
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json+entities/22/settings/condAnims/1/interact/1/text+%2322
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json//entities/22/settings/condAnims/1/interact/1/text"
+msgid ""
+"Bridge Elevator: \\c[1]disabled\\c[0].\n"
+"Do you want to enable the elevator?"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json entities/22/settings/condAnims/1/interact/2/0/3/text #23
+#. Prop
+#. IF !g.lab.autumn.wall1 && tmp.testFinished
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json+entities/22/settings/condAnims/1/interact/2/0/3/text+%2323
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json//entities/22/settings/condAnims/1/interact/2/0/3/text"
+msgid "Bridge Elevator \\c[2]enabled\\c[0]!"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json entities/22/settings/condAnims/1/interact/2/options/0/label #24
+#. Prop
+#. IF !g.lab.autumn.wall1 && tmp.testFinished
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json+entities/22/settings/condAnims/1/interact/2/options/0/label+%2324
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json//entities/22/settings/condAnims/1/interact/2/options/0/label"
+msgid "[yes]"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json entities/22/settings/condAnims/1/interact/2/options/1/label #25
+#. Prop
+#. IF !g.lab.autumn.wall1 && tmp.testFinished
+#. SHOW_CHOICE main.lea @SURPRISED_TOWARD
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json+entities/22/settings/condAnims/1/interact/2/options/1/label+%2325
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json//entities/22/settings/condAnims/1/interact/2/options/1/label"
+msgid "[no]"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json entities/22/settings/condAnims/1/interact/hoverText #26
+#. Prop
+#. IF !g.lab.autumn.wall1 && tmp.testFinished
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json+entities/22/settings/condAnims/1/interact/hoverText+%2326
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json//entities/22/settings/condAnims/1/interact/hoverText"
+msgid "Display"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json entities/22/settings/condAnims/1/interact/event/1/text #27
+#. Prop
+#. IF !g.lab.autumn.wall1 && tmp.testFinished
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json+entities/22/settings/condAnims/1/interact/event/1/text+%2327
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json//entities/22/settings/condAnims/1/interact/event/1/text"
+msgid ""
+"Test sequence status: \\c[2]completed\\c[0].\n"
+"Performance score: \\c[2]43.5%\\c[0]."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json entities/22/settings/condAnims/1/interact/event/4/text #28
+#. Prop
+#. IF !g.lab.autumn.wall1 && tmp.testFinished
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json+entities/22/settings/condAnims/1/interact/event/4/text+%2328
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json//entities/22/settings/condAnims/1/interact/event/4/text"
+msgid "Granting access to \\c[3]western testing area\\c[0]."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json entities/22/settings/condAnims/1/interact/event/5/message #29
+#. Prop
+#. IF !g.lab.autumn.wall1 && tmp.testFinished
+#. SHOW_MSG main.lea @PROUD
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json+entities/22/settings/condAnims/1/interact/event/5/message+%2329
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-3-sub1.json//entities/22/settings/condAnims/1/interact/event/5/message"
+msgid "...!"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-boss.json entities/16/settings/event/10/text #3
+#. EventTrigger bossStart START IF tmp.bossStart
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-boss.json+entities/16/settings/event/10/text+%233
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-boss.json//entities/16/settings/event/10/text"
+msgid ""
+"\\c[1]--- Initiating Test Sequence ---\\.\n"
+"Subject:\\.\n"
+"Heavy Seat Unit"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-boss.json entities/25/settings/condAnims/0/interact/hoverText #6
+#. Prop
+#. IF elevator.eleS1.dest == 1
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-boss.json+entities/25/settings/condAnims/0/interact/hoverText+%236
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-boss.json//entities/25/settings/condAnims/0/interact/hoverText"
+msgid "Call"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-final.json entities/29/settings/interact/hoverText #12207
+#. Prop holo-sign
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-final.json+entities/29/settings/interact/hoverText+%2312207
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json//entities/29/settings/interact/hoverText"
+msgid "Hologram"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-final.json entities/29/settings/interact/event/7/name #42
+#. Prop holo-sign
+#. ADD_MSG_PERSON lab.scientist-switch @HOLOGRAM
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-final.json+entities/29/settings/interact/event/7/name+%2342
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json//entities/29/settings/interact/event/7/name"
+msgid "Drey Santrés"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-final.json entities/29/settings/interact/event/9/message #31
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-switch @HOLOGRAM
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-final.json+entities/29/settings/interact/event/9/message+%2331
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json//entities/29/settings/interact/event/9/message"
+msgid "Greetings everyone!\\. I hope you have enjoyed our progress so far just as much as we did!"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-final.json entities/29/settings/interact/event/10/message #32
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-switch @HOLOGRAM
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-final.json+entities/29/settings/interact/event/10/message+%2332
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json//entities/29/settings/interact/event/10/message"
+msgid "Sadly, we have to announce that we will no longer be able to continue our work here."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-final.json entities/29/settings/interact/event/11/message #33
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-switch @HOLOGRAM
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-final.json+entities/29/settings/interact/event/11/message+%2333
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json//entities/29/settings/interact/event/11/message"
+msgid "An incident in one of our associated facilities has convinced the \\v[lore.title.human-government] to cut the funding to the entire project."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-final.json entities/29/settings/interact/event/12/message #34
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-switch @HOLOGRAM
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-final.json+entities/29/settings/interact/event/12/message+%2334
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json//entities/29/settings/interact/event/12/message"
+msgid "Though it fills me with great shame, I have to admit that we all have underestimated how powerful and volatile the \\v[lore.title.track-of-ancients] is."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-final.json entities/29/settings/interact/event/13/message #35
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-switch @HOLOGRAM
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-final.json+entities/29/settings/interact/event/13/message+%2335
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json//entities/29/settings/interact/event/13/message"
+msgid "While providing energy, it infiltrated even our equipment and the facility itself, at a rate faster than we were able to revert."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-final.json entities/29/settings/interact/event/14/message #36
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-switch @HOLOGRAM
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-final.json+entities/29/settings/interact/event/14/message+%2336
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json//entities/29/settings/interact/event/14/message"
+msgid "So we have decided to abandon this facility before another accident occurs."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-final.json entities/29/settings/interact/event/15/message #37
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-switch @HOLOGRAM
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-final.json+entities/29/settings/interact/event/15/message+%2337
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json//entities/29/settings/interact/event/15/message"
+msgid "We will miss the \\v[combat.name.hedgehog]s but we have to seal them inside.\\. The project must remain secret from the public."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-final.json entities/29/settings/interact/event/16/message #38
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-switch @HOLOGRAM
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-final.json+entities/29/settings/interact/event/16/message+%2338
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json//entities/29/settings/interact/event/16/message"
+msgid "However you can trust us to continue pursuing this dream we are having.\\. The project will live on."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-final.json entities/29/settings/interact/event/17/message #39
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-switch @HOLOGRAM
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-final.json+entities/29/settings/interact/event/17/message+%2339
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json//entities/29/settings/interact/event/17/message"
+msgid "We have established a separate joint facility with our colleagues."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-final.json entities/29/settings/interact/event/18/message #40
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-switch @HOLOGRAM
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-final.json+entities/29/settings/interact/event/18/message+%2340
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json//entities/29/settings/interact/event/18/message"
+msgid "It is very well hidden but we would still like to welcome passionate fans that manage to find it."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-final.json entities/29/settings/interact/event/19/message #41
+#. Prop holo-sign
+#. SHOW_MSG lab.scientist-switch @HOLOGRAM
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-final.json+entities/29/settings/interact/event/19/message+%2341
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json//entities/29/settings/interact/event/19/message"
+msgid "For now I want to apologize again for the lack of results from this project and still hope for your continued support.\\. Goodbye."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-final.json entities/32/settings/condAnims/0/interact/hoverText #213
+#. Prop keyLore
+#. IF true
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-final.json+entities/32/settings/condAnims/0/interact/hoverText+%23213
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json//entities/32/settings/condAnims/0/interact/hoverText"
+msgid "Display"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-final.json entities/32/settings/condAnims/0/interact/event/1/text #215
+#. Prop keyLore
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-final.json+entities/32/settings/condAnims/0/interact/event/1/text+%23215
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json//entities/32/settings/condAnims/0/interact/event/1/text"
+msgid ""
+"\\c[1]INTERNAL MAIL, INBOX\\c[0]\n"
+"\n"
+"\\c[3]FROM:\\c[0] \"The 4 Visionaries\"\n"
+"\\c[3]TO:\\c[0] All Facilities\n"
+"\n"
+"\\c[3]Subject:\\c[0] The Future"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-final.json entities/32/settings/condAnims/0/interact/event/2/text #12206
+#. Prop keyLore
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-final.json+entities/32/settings/condAnims/0/interact/event/2/text+%2312206
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json//entities/32/settings/condAnims/0/interact/event/2/text"
+msgid ""
+"Good evening everyone, \n"
+"\n"
+"Since \\c[3]our funding has been cut\\c[0] and \\c[3]the facilities got taken by the Track\\c[0], we established a \\c[3]new place\\c[0] where we will preserve and continue our research."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-final.json entities/32/settings/condAnims/0/interact/event/3/text #12204
+#. Prop keyLore
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-final.json+entities/32/settings/condAnims/0/interact/event/3/text+%2312204
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json//entities/32/settings/condAnims/0/interact/event/3/text"
+msgid ""
+"The entrance can be found \\c[3]somewhere in \\v[area.forest.name]\\c[0].\n"
+"You will find the \\c[3]key\\c[0] to enter it in the \\c[3]attachment\\c[0] of this message.\n"
+"However, \\c[3]by itself the key will not work\\c[0]."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-final.json entities/32/settings/condAnims/0/interact/event/4/text #12210
+#. Prop keyLore
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-final.json+entities/32/settings/condAnims/0/interact/event/4/text+%2312210
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json//entities/32/settings/condAnims/0/interact/event/4/text"
+msgid "You will first need to \\c[3]decrypt\\c[0] it at \\c[3]4 different places\\c[0] that are hidden somewhere on \\v[lore.title.planet], each in a \\c[3]different region\\c[0]."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-final.json entities/32/settings/condAnims/0/interact/event/5/text #12205
+#. Prop keyLore
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-final.json+entities/32/settings/condAnims/0/interact/event/5/text+%2312205
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json//entities/32/settings/condAnims/0/interact/event/5/text"
+msgid ""
+"Hints towards \\c[1]one\\c[0] the locations can be found in each of our 4 facilities.\n"
+"\\c[3]So you will learn one location after reading this very message.\\c[0]"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-final.json entities/32/settings/condAnims/0/interact/event/6/thenStep/0/text #12212
+#. Prop keyLore
+#. IF true
+#. IF extension.fish-gear.active && extension.flying-hedgehag.active && extension.scorpion-robo.active && extension.snowman-tank.active
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-final.json+entities/32/settings/condAnims/0/interact/event/6/thenStep/0/text+%2312212
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json//entities/32/settings/condAnims/0/interact/event/6/thenStep/0/text"
+msgid ""
+"Everyone who manages to enter will be welcome!\n"
+"\n"
+"Sincerely,\n"
+"\"The 4 Visionaries\"\n"
+"\n"
+"\\c[1][END OF MAIL]\\c[0]"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-final.json entities/32/settings/condAnims/0/interact/event/6/elseStep/0/text #12208
+#. Prop keyLore
+#. IF true
+#. IF NOT extension.fish-gear.active && extension.flying-hedgehag.active && extension.scorpion-robo.active && extension.snowman-tank.active
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-final.json+entities/32/settings/condAnims/0/interact/event/6/elseStep/0/text+%2312208
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json//entities/32/settings/condAnims/0/interact/event/6/elseStep/0/text"
+msgid "Interested \\c[3]\\v[lore.title.seeker]s\\c[0] should know that \\c[3]each of their kind\\c[0] is destined to enter \\c[3]only one of the 4 facilities\\c[0] and find a part of the information."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-final.json entities/32/settings/condAnims/0/interact/event/6/elseStep/1/text #12211
+#. Prop keyLore
+#. IF true
+#. IF NOT extension.fish-gear.active && extension.flying-hedgehag.active && extension.scorpion-robo.active && extension.snowman-tank.active
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-final.json+entities/32/settings/condAnims/0/interact/event/6/elseStep/1/text+%2312211
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json//entities/32/settings/condAnims/0/interact/event/6/elseStep/1/text"
+msgid ""
+"But \\c[3]through teamwork and communication\\c[0] it might be possible to obtain all locations regardless!\n"
+"Everyone who manages to enter will be welcome!\n"
+"\n"
+"Sincerely,\n"
+"\"The 4 Visionaries\"\n"
+"\n"
+"\\c[1][END OF MAIL]\\c[0]"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-final.json entities/32/settings/condAnims/0/interact/event/7/text #12209
+#. Prop keyLore
+#. IF true
+#. SHOW_BOARD_MSG
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-final.json+entities/32/settings/condAnims/0/interact/event/7/text+%2312209
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json//entities/32/settings/condAnims/0/interact/event/7/text"
+msgid ""
+"\\c[1]ATTACHMENT:\\c[0]\n"
+"\n"
+"One of the hidden places can be found in \\c[3]\\v[area.autumn-fall.name]\\c[0], \\c[3]\"North of a big ruin, surrounded by water\"\\c[0]!"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-final.json entities/33/settings/event/2/name #12197
+#. EventTrigger nintendo-end START IF map.scientist-talk
+#. ADD_MSG_PERSON adventurers.male-nintendo @DEFAULT
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-final.json+entities/33/settings/event/2/name+%2312197
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json//entities/33/settings/event/2/name"
+msgid "Joe the Younger"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-final.json entities/33/settings/event/4/message #12200
+#. EventTrigger nintendo-end START IF map.scientist-talk
+#. SHOW_MSG adventurers.male-nintendo @DEFAULT
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-final.json+entities/33/settings/event/4/message+%2312200
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json//entities/33/settings/event/4/message"
+msgid "Woooow, \\v[lore.title.seeker], all of that was so cool!"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-final.json entities/33/settings/event/5/message #12199
+#. EventTrigger nintendo-end START IF map.scientist-talk
+#. SHOW_MSG adventurers.male-nintendo @DEFAULT
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-final.json+entities/33/settings/event/5/message+%2312199
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json//entities/33/settings/event/5/message"
+msgid "Not just a \\c[3]Flying-type\\c[0] but, like, a \\c[3]Mega Flying-type\\c[0]!"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-final.json entities/33/settings/event/6/message #12202
+#. EventTrigger nintendo-end START IF map.scientist-talk
+#. SHOW_MSG main.lea @SMILE
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-final.json+entities/33/settings/event/6/message+%2312202
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json//entities/33/settings/event/6/message"
+msgid "..."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-final.json entities/33/settings/event/7/message #12201
+#. EventTrigger nintendo-end START IF map.scientist-talk
+#. SHOW_MSG adventurers.male-nintendo @DEFAULT
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-final.json+entities/33/settings/event/7/message+%2312201
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json//entities/33/settings/event/7/message"
+msgid "Such a shame that you weren't able to catch any!"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-final.json entities/33/settings/event/8/message #11551
+#. EventTrigger nintendo-end START IF map.scientist-talk
+#. SHOW_MSG main.lea @THINKING
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-final.json+entities/33/settings/event/8/message+%2311551
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json//entities/33/settings/event/8/message"
+msgid "..."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-final.json entities/33/settings/event/9/message #12198
+#. EventTrigger nintendo-end START IF map.scientist-talk
+#. SHOW_MSG adventurers.male-nintendo @DEFAULT
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-final.json+entities/33/settings/event/9/message+%2312198
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json//entities/33/settings/event/9/message"
+msgid "Well, that might just be my calling then!\\. Come back to \\v[area.rookie-harbor.name] so I can reward you!"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/lab/room-final.json entities/33/settings/event/10/message #12203
+#. EventTrigger nintendo-end START IF map.scientist-talk
+#. SHOW_MSG main.lea @PROUD
+#: extension/flying-hedgehag/data/maps/autumn/lab/room-final.json+entities/33/settings/event/10/message+%2312203
+msgctxt "extension/flying-hedgehag/data/maps/autumn/lab/room-final.json//entities/33/settings/event/10/message"
+msgid "Bye!"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/115/settings/condAnims/0/interact/hoverText #65
+#. Prop questtree-foa-1-4
+#. IF quest.foa-1-treedoc.task.0 && !quest.foa-1-treedoc.subtask.3
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/115/settings/condAnims/0/interact/hoverText+%2365
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/115/settings/condAnims/0/interact/hoverText"
+msgid "One of the sick trees. Apply \\c[3]\\v[item.171.name]\\c[0] to cure it."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/115/settings/condAnims/0/interact/title #66
+#. Prop questtree-foa-1-4
+#. IF quest.foa-1-treedoc.task.0 && !quest.foa-1-treedoc.subtask.3
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/115/settings/condAnims/0/interact/title+%2366
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/115/settings/condAnims/0/interact/title"
+msgid "Sick Tree"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/115/settings/condAnims/0/interact/event/0/text #136
+#. Prop questtree-foa-1-4
+#. IF quest.foa-1-treedoc.task.0 && !quest.foa-1-treedoc.subtask.3
+#. SHOW_AR_MSG
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/115/settings/condAnims/0/interact/event/0/text+%23136
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/115/settings/condAnims/0/interact/event/0/text"
+msgid "Applying extract"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/115/settings/condAnims/0/interact/event/6/text #137
+#. Prop questtree-foa-1-4
+#. IF quest.foa-1-treedoc.task.0 && !quest.foa-1-treedoc.subtask.3
+#. SHOW_AR_MSG
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/115/settings/condAnims/0/interact/event/6/text+%23137
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/115/settings/condAnims/0/interact/event/6/text"
+msgid "Sickness cured!"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/494/settings/npcStates/0/event/2/message #1
+#. NPC
+#. SHOW_MSG cross-worlds.hexacast-male-red @DEFAULT
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/494/settings/npcStates/0/event/2/message+%231
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/494/settings/npcStates/0/event/2/message"
+msgid "Hello. I am the canonical NPC."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/494/settings/npcStates/0/event/3/message #2
+#. NPC
+#. SHOW_MSG main.lea @SURPRISED_TOWARD
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/494/settings/npcStates/0/event/3/message+%232
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/494/settings/npcStates/0/event/3/message"
+msgid "..."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/494/settings/npcStates/0/event/4/message #3
+#. NPC
+#. SHOW_MSG cross-worlds.hexacast-male-red @DEFAULT
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/494/settings/npcStates/0/event/4/message+%233
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/494/settings/npcStates/0/event/4/message"
+msgid "Nice weather today, right?"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/494/settings/npcStates/0/event/5/message #4
+#. NPC
+#. SHOW_MSG main.lea @DEFAULT
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/494/settings/npcStates/0/event/5/message+%234
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/494/settings/npcStates/0/event/5/message"
+msgid "..."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/494/settings/npcStates/0/event/6/message #5
+#. NPC
+#. SHOW_MSG cross-worlds.hexacast-male-red @DEFAULT
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/494/settings/npcStates/0/event/6/message+%235
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/494/settings/npcStates/0/event/6/message"
+msgid "RIGHT?!"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/494/settings/npcStates/0/event/7/message #6
+#. NPC
+#. SHOW_MSG main.lea @NERVOUS
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/494/settings/npcStates/0/event/7/message+%236
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/494/settings/npcStates/0/event/7/message"
+msgid "..."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/566/settings/interact/hoverText #7
+#. Prop
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/566/settings/interact/hoverText+%237
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/566/settings/interact/hoverText"
+msgid ""
+"\\i[arrow-w] To Bergen Trail\n"
+"\\i[arrow-ne] To Rookie Harbor\n"
+"\\i[arrow-s] Old Path"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/603/settings/displayName #62
+#. NPC Jeff
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/603/settings/displayName+%2362
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/603/settings/displayName"
+msgid "Jeff"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/603/settings/npcStates/0/event/quest/2/message #29
+#. NPC Jeff
+#. IF quest.legend-bunny.started
+#. SHOW_MSG main.lea @PROUD
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/603/settings/npcStates/0/event/quest/2/message+%2329
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/603/settings/npcStates/0/event/quest/2/message"
+msgid "Hi!"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/603/settings/npcStates/0/event/quest/3/message #30
+#. NPC Jeff
+#. IF quest.legend-bunny.started
+#. SHOW_MSG cross-worlds.triblader-male-blond @DEFAULT
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/603/settings/npcStates/0/event/quest/3/message+%2330
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/603/settings/npcStates/0/event/quest/3/message"
+msgid "Sorry, I'm kinda in the middle of something here..."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/603/settings/npcStates/0/event/quest/4/message #31
+#. NPC Jeff
+#. IF quest.legend-bunny.started
+#. SHOW_MSG cross-worlds.triblader-male-blond @DEFAULT
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/603/settings/npcStates/0/event/quest/4/message+%2331
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/603/settings/npcStates/0/event/quest/4/message"
+msgid "Oh wait. You're that girl\\..\\..\\.. Lea, right?"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/603/settings/npcStates/0/event/quest/5/message #32
+#. NPC Jeff
+#. IF quest.legend-bunny.started
+#. SHOW_MSG main.lea @NOD
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/603/settings/npcStates/0/event/quest/5/message+%2332
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/603/settings/npcStates/0/event/quest/5/message"
+msgid "[nods]"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/603/settings/npcStates/0/event/quest/6/message #33
+#. NPC Jeff
+#. IF quest.legend-bunny.started
+#. SHOW_MSG cross-worlds.triblader-male-blond @DEFAULT
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/603/settings/npcStates/0/event/quest/6/message+%2333
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/603/settings/npcStates/0/event/quest/6/message"
+msgid "Jean already told me you'd come. "
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/603/settings/npcStates/0/event/quest/7/message #34
+#. NPC Jeff
+#. IF quest.legend-bunny.started
+#. SHOW_MSG cross-worlds.triblader-male-blond @DEFAULT
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/603/settings/npcStates/0/event/quest/7/message+%2334
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/603/settings/npcStates/0/event/quest/7/message"
+msgid "Sorry to get you involved. I can't understand why she's not using the Direct Link."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/603/settings/npcStates/0/event/quest/8/message #35
+#. NPC Jeff
+#. IF quest.legend-bunny.started
+#. SHOW_MSG main.lea @ANNOYED
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/603/settings/npcStates/0/event/quest/8/message+%2335
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/603/settings/npcStates/0/event/quest/8/message"
+msgid "..."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/603/settings/npcStates/0/event/quest/9/message #36
+#. NPC Jeff
+#. IF quest.legend-bunny.started
+#. SHOW_MSG cross-worlds.triblader-male-blond @DEFAULT
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/603/settings/npcStates/0/event/quest/9/message+%2336
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/603/settings/npcStates/0/event/quest/9/message"
+msgid "Yeah, anyway."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/603/settings/npcStates/0/event/quest/10/message #37
+#. NPC Jeff
+#. IF quest.legend-bunny.started
+#. SHOW_MSG cross-worlds.triblader-male-blond @DEFAULT
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/603/settings/npcStates/0/event/quest/10/message+%2337
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/603/settings/npcStates/0/event/quest/10/message"
+msgid "This is about the bunny or whatever she saw right?"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/603/settings/npcStates/0/event/quest/11/message #38
+#. NPC Jeff
+#. IF quest.legend-bunny.started
+#. SHOW_MSG main.lea @NOD
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/603/settings/npcStates/0/event/quest/11/message+%2338
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/603/settings/npcStates/0/event/quest/11/message"
+msgid "[nods]"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/603/settings/npcStates/0/event/quest/12/message #39
+#. NPC Jeff
+#. IF quest.legend-bunny.started
+#. SHOW_MSG cross-worlds.triblader-male-blond @DEFAULT
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/603/settings/npcStates/0/event/quest/12/message+%2339
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/603/settings/npcStates/0/event/quest/12/message"
+msgid "I do remember that you can summon some sort of \\c[3]Legendary Bunny\\c[0] by collecting 5 \\c[3]\\v[item.139.name]s\\c[0] somewhere in \\c[3]Bergen Trail\\c[0]."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/603/settings/npcStates/0/event/quest/13/message #40
+#. NPC Jeff
+#. IF quest.legend-bunny.started
+#. SHOW_MSG cross-worlds.triblader-male-blond @DEFAULT
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/603/settings/npcStates/0/event/quest/13/message+%2340
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/603/settings/npcStates/0/event/quest/13/message"
+msgid "But there was another requirement. I can't remember what it was. Maybe our Hexacast-friend Jock knows more about it."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/603/settings/npcStates/0/event/quest/14/message #41
+#. NPC Jeff
+#. IF quest.legend-bunny.started
+#. SHOW_MSG main.lea @SURPRISED_TOWARD
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/603/settings/npcStates/0/event/quest/14/message+%2341
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/603/settings/npcStates/0/event/quest/14/message"
+msgid "..."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/603/settings/npcStates/0/event/quest/15/name #175
+#. NPC Jeff
+#. IF quest.legend-bunny.started
+#. ADD_MSG_PERSON cross-worlds.triblader-male-blond @DEFAULT
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/603/settings/npcStates/0/event/quest/15/name+%23175
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/603/settings/npcStates/0/event/quest/15/name"
+msgid "Jeff"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/603/settings/npcStates/0/event/quest/16/message #42
+#. NPC Jeff
+#. IF quest.legend-bunny.started
+#. SHOW_MSG cross-worlds.triblader-male-blond @DEFAULT
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/603/settings/npcStates/0/event/quest/16/message+%2342
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/603/settings/npcStates/0/event/quest/16/message"
+msgid "Yep, that's all. Also, I'm \\c[3]Jeff\\c[0], nice to meet you."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/603/settings/npcStates/0/event/quest/17/message #43
+#. NPC Jeff
+#. IF quest.legend-bunny.started
+#. SHOW_MSG main.lea @EXCITED
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/603/settings/npcStates/0/event/quest/17/message+%2343
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/603/settings/npcStates/0/event/quest/17/message"
+msgid "Hi Lea, Hi!"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/603/settings/npcStates/0/event/quest/18/message #44
+#. NPC Jeff
+#. IF quest.legend-bunny.started
+#. SHOW_MSG cross-worlds.triblader-male-blond @DEFAULT
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/603/settings/npcStates/0/event/quest/18/message+%2344
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/603/settings/npcStates/0/event/quest/18/message"
+msgid "Ah, there's the problem with the speech module Jean told me about."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/603/settings/npcStates/0/event/quest/19/message #45
+#. NPC Jeff
+#. IF quest.legend-bunny.started
+#. SHOW_MSG main.lea @ANNOYED
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/603/settings/npcStates/0/event/quest/19/message+%2345
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/603/settings/npcStates/0/event/quest/19/message"
+msgid "..."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/603/settings/npcStates/0/event/quest/20/message #46
+#. NPC Jeff
+#. IF quest.legend-bunny.started
+#. SHOW_MSG cross-worlds.triblader-male-blond @DEFAULT
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/603/settings/npcStates/0/event/quest/20/message+%2346
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/603/settings/npcStates/0/event/quest/20/message"
+msgid "Nah, don't sweat it. I'll just DL Jean everything I told you."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/603/settings/npcStates/0/event/quest/21/message #47
+#. NPC Jeff
+#. IF quest.legend-bunny.started
+#. SHOW_MSG cross-worlds.triblader-male-blond @DEFAULT
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/603/settings/npcStates/0/event/quest/21/message+%2347
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/603/settings/npcStates/0/event/quest/21/message"
+msgid "She should learn how to use the Direct Link System anyhow."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/603/settings/npcStates/1/event/0/name #176
+#. NPC Jeff
+#. IF quest.legend-bunny.label.ask1
+#. ADD_MSG_PERSON cross-worlds.triblader-male-blond @DEFAULT
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/603/settings/npcStates/1/event/0/name+%23176
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/603/settings/npcStates/1/event/0/name"
+msgid "Jeff"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/603/settings/npcStates/1/event/2/message #48
+#. NPC Jeff
+#. IF quest.legend-bunny.label.ask1
+#. SHOW_MSG cross-worlds.triblader-male-blond @DEFAULT
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/603/settings/npcStates/1/event/2/message+%2348
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/603/settings/npcStates/1/event/2/message"
+msgid "Hi Lea."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/603/settings/npcStates/1/event/3/message #49
+#. NPC Jeff
+#. IF quest.legend-bunny.label.ask1
+#. SHOW_MSG main.lea @PROUD
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/603/settings/npcStates/1/event/3/message+%2349
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/603/settings/npcStates/1/event/3/message"
+msgid "Hi!"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/603/settings/npcStates/1/event/4/message #50
+#. NPC Jeff
+#. IF quest.legend-bunny.label.ask1
+#. SHOW_MSG cross-worlds.triblader-male-blond @DEFAULT
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/603/settings/npcStates/1/event/4/message+%2350
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/603/settings/npcStates/1/event/4/message"
+msgid "I DL'd Jean everything, so you don't have to tell her. "
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/603/settings/npcStates/1/event/5/message #51
+#. NPC Jeff
+#. IF quest.legend-bunny.label.ask1
+#. SHOW_MSG main.lea @ANNOYED
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/603/settings/npcStates/1/event/5/message+%2351
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/603/settings/npcStates/1/event/5/message"
+msgid "..."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/613/settings/dialog/0/text #56
+#. XenoDialog chestDialog
+#. cross-worlds.quadroguard-male-blond
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/613/settings/dialog/0/text+%2356
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/613/settings/dialog/0/text"
+msgid "I really want that treasure..."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/613/settings/dialog/1/text #57
+#. XenoDialog chestDialog
+#. cross-worlds.pentafist-female-rasta
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/613/settings/dialog/1/text+%2357
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/613/settings/dialog/1/text"
+msgid "Will you give up already?"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/613/settings/dialog/2/text #58
+#. XenoDialog chestDialog
+#. cross-worlds.pentafist-female-rasta
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/613/settings/dialog/2/text+%2358
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/613/settings/dialog/2/text"
+msgid "We're clearly missing some key item here. "
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/613/settings/dialog/3/text #59
+#. XenoDialog chestDialog
+#. cross-worlds.pentafist-female-rasta
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/613/settings/dialog/3/text+%2359
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/613/settings/dialog/3/text"
+msgid "They do that to promote backtracking to previous areas."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/613/settings/dialog/4/text #60
+#. XenoDialog chestDialog
+#. cross-worlds.quadroguard-male-blond
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/613/settings/dialog/4/text+%2360
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/613/settings/dialog/4/text"
+msgid "I bet the content is totally worth it."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/613/settings/dialog/5/text #61
+#. XenoDialog chestDialog
+#. cross-worlds.pentafist-female-rasta
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/613/settings/dialog/5/text+%2361
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/613/settings/dialog/5/text"
+msgid "I hope so..."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/614/settings/text #63
+#. Analyzable
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/614/settings/text+%2363
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/614/settings/text"
+msgid "An obelisk that is used as waymarker"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/620/settings/text #64
+#. Analyzable questtree-foa-1-4-anal SPAWN IF quest.foa-1-treedoc.task.0 && !quest.foa-1-treedoc.subtask.3
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/620/settings/text+%2364
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/620/settings/text"
+msgid "\\c[1]Sick Tree\\c[0]"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/621/settings/text #67
+#. Analyzable questtree-foa-1-4-analfix SPAWN IF quest.foa-1-treedoc.solved || quest.foa-1-treedoc.task.1 || quest.foa-1-treedoc.subtask.3
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/621/settings/text+%2367
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/621/settings/text"
+msgid "Healed Tree"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/625/settings/event/0/thenStep/4/message #138
+#. EventTrigger MeetingSchneider START IF plot.line >= 3705
+#. IF !party.has.Emilie
+#. SHOW_MSG main.emilie @SMILE
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/625/settings/event/0/thenStep/4/message+%23138
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/625/settings/event/0/thenStep/4/message"
+msgid "Bonjour, Lea!"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/625/settings/event/0/thenStep/5/message #172
+#. EventTrigger MeetingSchneider START IF plot.line >= 3705
+#. IF !party.has.Emilie
+#. SHOW_MSG main.schneider @LAUGH
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/625/settings/event/0/thenStep/5/message+%23172
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/625/settings/event/0/thenStep/5/message"
+msgid "There you are! Thanks for dropping by."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/625/settings/event/8/thenStep/0/message #173
+#. EventTrigger MeetingSchneider START IF plot.line >= 3705
+#. IF !tmp.emilieJustJoined
+#. SHOW_MSG main.emilie @SMILE
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/625/settings/event/8/thenStep/0/message+%23173
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/625/settings/event/8/thenStep/0/message"
+msgid "Bonjour, Lukas!"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/625/settings/event/8/thenStep/1/message #174
+#. EventTrigger MeetingSchneider START IF plot.line >= 3705
+#. IF !tmp.emilieJustJoined
+#. SHOW_MSG main.schneider @LAUGH
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/625/settings/event/8/thenStep/1/message+%23174
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/625/settings/event/8/thenStep/1/message"
+msgid "There you are! Thanks for dropping by."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/625/settings/event/9/message #140
+#. EventTrigger MeetingSchneider START IF plot.line >= 3705
+#. SHOW_MSG main.schneider @TOWARDS
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/625/settings/event/9/message+%23140
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/625/settings/event/9/message"
+msgid "Let's just go straight to the headquarters."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/625/settings/event/10/message #141
+#. EventTrigger MeetingSchneider START IF plot.line >= 3705
+#. SHOW_MSG main.schneider @TOWARDS
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/625/settings/event/10/message+%23141
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/625/settings/event/10/message"
+msgid "It's to the \\c[3]northeast\\c[0]. Just follow me!"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/625/settings/event/15/message #139
+#. EventTrigger MeetingSchneider START IF plot.line >= 3705
+#. SHOW_SIDE_MSG main.emilie @SMILE
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/625/settings/event/15/message+%23139
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/625/settings/event/15/message"
+msgid "So how big is your guild, anyway?"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/625/settings/event/16/message #142
+#. EventTrigger MeetingSchneider START IF plot.line >= 3705
+#. SHOW_SIDE_MSG main.schneider @SKEPTICAL
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/625/settings/event/16/message+%23142
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/625/settings/event/16/message"
+msgid "Not big. You're about to see it yourself."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/625/settings/event/17/task #171
+#. EventTrigger MeetingSchneider START IF plot.line >= 3705
+#. SET_PERMA_TASK
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/625/settings/event/17/task+%23171
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/625/settings/event/17/task"
+msgid "Follow \\c[3]Schneider\\c[0] to the \\c[3]First Scholars HQ\\c[0] near \\c[3]Autumn's Rise - Pathway 3\\c[0]."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/632/settings/displayName #178
+#. NPC bullBla1
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/632/settings/displayName+%23178
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/632/settings/displayName"
+msgid "Jeff"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/633/settings/displayName #179
+#. NPC bullBla2
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/633/settings/displayName+%23179
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/633/settings/displayName"
+msgid "Jeff"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/634/settings/dialog/0/text #177
+#. XenoDialog bullBlaXeno
+#. cross-worlds.hexacast-female-blue
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/634/settings/dialog/0/text+%23177
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/634/settings/dialog/0/text"
+msgid "Those damn Bovines barely take any damage from my attacks!"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/634/settings/dialog/1/text #180
+#. XenoDialog bullBlaXeno
+#. cross-worlds.pentafist-male-rasta
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/634/settings/dialog/1/text+%23180
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/634/settings/dialog/1/text"
+msgid "I told you, throwing balls won't impress them much. You gotta get close and personal!"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/634/settings/dialog/2/text #181
+#. XenoDialog bullBlaXeno
+#. cross-worlds.hexacast-female-blue
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/634/settings/dialog/2/text+%23181
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/634/settings/dialog/2/text"
+msgid "Do I look like some kind of brawler to you?"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/634/settings/dialog/3/text #182
+#. XenoDialog bullBlaXeno
+#. cross-worlds.pentafist-male-rasta
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/634/settings/dialog/3/text+%23182
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/634/settings/dialog/3/text"
+msgid "I don't think the Bovines care. All they understand is literal ass-kicking!"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/634/settings/dialog/4/text #183
+#. XenoDialog bullBlaXeno
+#. cross-worlds.hexacast-female-blue
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/634/settings/dialog/4/text+%23183
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/634/settings/dialog/4/text"
+msgid "Then I guess I will need to get used to it."
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/635/settings/event/0/message #207
+#. LocationEvent laserBridge START IF party.has.Emilie
+#. SHOW_SIDE_MSG main.emilie @SMILE
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/635/settings/event/0/message+%23207
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/635/settings/event/0/message"
+msgid "More Laser bridges!"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/645/settings/event/49/message #209
+#. EventTrigger flyHedgeHagScene
+#. SHOW_MSG main.emilie @CURIOUS
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/645/settings/event/49/message+%23209
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/645/settings/event/49/message"
+msgid "Flying...\\. flying Hedgehag?"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/645/settings/event/51/message #210
+#. EventTrigger flyHedgeHagScene
+#. SHOW_MSG main.lea @NOD
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/645/settings/event/51/message+%23210
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/645/settings/event/51/message"
+msgid "[nods]"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/645/settings/event/52/message #211
+#. EventTrigger flyHedgeHagScene
+#. SHOW_MSG main.emilie @SUSPICIOUS
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/645/settings/event/52/message+%23211
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/645/settings/event/52/message"
+msgid "What is this?"
+msgstr ""
+
+#. extension/flying-hedgehag/data/maps/autumn/path4-fly.json entities/645/settings/event/53/message #212
+#. EventTrigger flyHedgeHagScene
+#. SHOW_MSG main.emilie @MOPING
+#: extension/flying-hedgehag/data/maps/autumn/path4-fly.json+entities/645/settings/event/53/message+%23212
+msgctxt "extension/flying-hedgehag/data/maps/autumn/path4-fly.json//entities/645/settings/event/53/message"
+msgid "How am I supposed to punch those?"
 msgstr ""

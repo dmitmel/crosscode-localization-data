@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.4.1-2\n"
+"Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-14 01:10+0000\n"
-"POT-Revision-Date: 2021-04-14 01:10+0000\n"
+"POT-Creation-Date: 2022-01-11 15:55+0000\n"
+"POT-Revision-Date: 2022-01-11 15:55+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: uk_UA\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0\n"
+"X-Generator: crosscode-localization-engine 0.0.0 (2168d54 2022-01-11)\n"
 
 #. data/areas/heat-village.json name #1
 #: data/areas/heat-village.json+name+%231
@@ -990,7 +990,7 @@ msgstr ""
 #. SHOW_MSG guests.geeklich @DEFAULT
 #: data/maps/heat-village/baki-1.json+entities/623/settings/npcStates/0/event/16/message+%23641
 msgctxt "data/maps/heat-village/baki-1.json//entities/623/settings/npcStates/0/event/16/message"
-msgid "You know, I didn't always want to play as this class.  In fact, I wanted to be a Hexacast."
+msgid "You know, I didn't always want to play as this class. In fact, I wanted to be a Hexacast."
 msgstr ""
 
 #. data/maps/heat-village/baki-1.json entities/623/settings/npcStates/0/event/17/message #642
@@ -12541,100 +12541,100 @@ msgctxt "data/maps/heat-village/interior/tradebuilding-og.json//entities/42/sett
 msgid "???"
 msgstr ""
 
-#. data/maps/heat-village/special/distillery.json entities/20/settings/event/8/thenStep/4/guiInfo/settings/taskTitle #747
+#. data/maps/heat-village/special/distillery.json entities/20/settings/event/7/thenStep/5/guiInfo/settings/taskTitle #747
 #. EventTrigger brewing_start START IF tmp.brewing_start
 #. IF quest.bakiTrader-2-brewing_fun_1.solved
 #. ADD_GUI
 #. ScoreHud
-#: data/maps/heat-village/special/distillery.json+entities/20/settings/event/8/thenStep/4/guiInfo/settings/taskTitle+%23747
-msgctxt "data/maps/heat-village/special/distillery.json//entities/20/settings/event/8/thenStep/4/guiInfo/settings/taskTitle"
+#: data/maps/heat-village/special/distillery.json+entities/20/settings/event/7/thenStep/5/guiInfo/settings/taskTitle+%23747
+msgctxt "data/maps/heat-village/special/distillery.json//entities/20/settings/event/7/thenStep/5/guiInfo/settings/taskTitle"
 msgid "Requests"
 msgstr ""
 
-#. data/maps/heat-village/special/distillery.json entities/20/settings/event/8/thenStep/4/guiInfo/settings/text #748
+#. data/maps/heat-village/special/distillery.json entities/20/settings/event/7/thenStep/5/guiInfo/settings/text #748
 #. EventTrigger brewing_start START IF tmp.brewing_start
 #. IF quest.bakiTrader-2-brewing_fun_1.solved
 #. ADD_GUI
 #. ScoreHud
-#: data/maps/heat-village/special/distillery.json+entities/20/settings/event/8/thenStep/4/guiInfo/settings/text+%23748
-msgctxt "data/maps/heat-village/special/distillery.json//entities/20/settings/event/8/thenStep/4/guiInfo/settings/text"
+#: data/maps/heat-village/special/distillery.json+entities/20/settings/event/7/thenStep/5/guiInfo/settings/text+%23748
+msgctxt "data/maps/heat-village/special/distillery.json//entities/20/settings/event/7/thenStep/5/guiInfo/settings/text"
 msgid "Brewing Quality: \\c[3]\\v[tmp.quality]\\c[0] "
 msgstr ""
 
-#. data/maps/heat-village/special/distillery.json entities/20/settings/event/8/thenStep/5/guiInfo/settings/taskTitle #746
+#. data/maps/heat-village/special/distillery.json entities/20/settings/event/7/thenStep/6/guiInfo/settings/taskTitle #746
 #. EventTrigger brewing_start START IF tmp.brewing_start
 #. IF quest.bakiTrader-2-brewing_fun_1.solved
 #. ADD_GUI
 #. ScoreHud
-#: data/maps/heat-village/special/distillery.json+entities/20/settings/event/8/thenStep/5/guiInfo/settings/taskTitle+%23746
-msgctxt "data/maps/heat-village/special/distillery.json//entities/20/settings/event/8/thenStep/5/guiInfo/settings/taskTitle"
+#: data/maps/heat-village/special/distillery.json+entities/20/settings/event/7/thenStep/6/guiInfo/settings/taskTitle+%23746
+msgctxt "data/maps/heat-village/special/distillery.json//entities/20/settings/event/7/thenStep/6/guiInfo/settings/taskTitle"
 msgid "Quality"
 msgstr ""
 
-#. data/maps/heat-village/special/distillery.json entities/20/settings/event/8/thenStep/5/guiInfo/settings/text #741
+#. data/maps/heat-village/special/distillery.json entities/20/settings/event/7/thenStep/6/guiInfo/settings/text #741
 #. EventTrigger brewing_start START IF tmp.brewing_start
 #. IF quest.bakiTrader-2-brewing_fun_1.solved
 #. ADD_GUI
 #. ScoreHud
-#: data/maps/heat-village/special/distillery.json+entities/20/settings/event/8/thenStep/5/guiInfo/settings/text+%23741
-msgctxt "data/maps/heat-village/special/distillery.json//entities/20/settings/event/8/thenStep/5/guiInfo/settings/text"
+#: data/maps/heat-village/special/distillery.json+entities/20/settings/event/7/thenStep/6/guiInfo/settings/text+%23741
+msgctxt "data/maps/heat-village/special/distillery.json//entities/20/settings/event/7/thenStep/6/guiInfo/settings/text"
 msgid "Brewing Quality: \\c[3]\\v[tmp.quality]\\c[0] "
 msgstr ""
 
-#. data/maps/heat-village/special/distillery.json entities/20/settings/event/8/thenStep/6/guiInfo/settings/text #200
+#. data/maps/heat-village/special/distillery.json entities/20/settings/event/7/thenStep/7/guiInfo/settings/text #200
 #. EventTrigger brewing_start START IF tmp.brewing_start
 #. IF quest.bakiTrader-2-brewing_fun_1.solved
 #. ADD_GUI
 #. BarWidget
-#: data/maps/heat-village/special/distillery.json+entities/20/settings/event/8/thenStep/6/guiInfo/settings/text+%23200
-msgctxt "data/maps/heat-village/special/distillery.json//entities/20/settings/event/8/thenStep/6/guiInfo/settings/text"
+#: data/maps/heat-village/special/distillery.json+entities/20/settings/event/7/thenStep/7/guiInfo/settings/text+%23200
+msgctxt "data/maps/heat-village/special/distillery.json//entities/20/settings/event/7/thenStep/7/guiInfo/settings/text"
 msgid "Overheat"
 msgstr ""
 
-#. data/maps/heat-village/special/distillery.json entities/20/settings/event/8/elseStep/2/guiInfo/settings/taskTitle #767
+#. data/maps/heat-village/special/distillery.json entities/20/settings/event/7/elseStep/3/guiInfo/settings/taskTitle #767
 #. EventTrigger brewing_start START IF tmp.brewing_start
 #. IF NOT quest.bakiTrader-2-brewing_fun_1.solved
 #. ADD_GUI
 #. CounterHud
-#: data/maps/heat-village/special/distillery.json+entities/20/settings/event/8/elseStep/2/guiInfo/settings/taskTitle+%23767
-msgctxt "data/maps/heat-village/special/distillery.json//entities/20/settings/event/8/elseStep/2/guiInfo/settings/taskTitle"
+#: data/maps/heat-village/special/distillery.json+entities/20/settings/event/7/elseStep/3/guiInfo/settings/taskTitle+%23767
+msgctxt "data/maps/heat-village/special/distillery.json//entities/20/settings/event/7/elseStep/3/guiInfo/settings/taskTitle"
 msgid "Requests"
 msgstr ""
 
-#. data/maps/heat-village/special/distillery.json entities/20/settings/event/8/elseStep/3/guiInfo/settings/text #206
+#. data/maps/heat-village/special/distillery.json entities/20/settings/event/7/elseStep/4/guiInfo/settings/text #206
 #. EventTrigger brewing_start START IF tmp.brewing_start
 #. IF NOT quest.bakiTrader-2-brewing_fun_1.solved
 #. ADD_GUI
 #. BarWidget
-#: data/maps/heat-village/special/distillery.json+entities/20/settings/event/8/elseStep/3/guiInfo/settings/text+%23206
-msgctxt "data/maps/heat-village/special/distillery.json//entities/20/settings/event/8/elseStep/3/guiInfo/settings/text"
+#: data/maps/heat-village/special/distillery.json+entities/20/settings/event/7/elseStep/4/guiInfo/settings/text+%23206
+msgctxt "data/maps/heat-village/special/distillery.json//entities/20/settings/event/7/elseStep/4/guiInfo/settings/text"
 msgid "Booze HP"
 msgstr ""
 
-#. data/maps/heat-village/special/distillery.json entities/20/settings/event/8/elseStep/4/guiInfo/settings/text #769
+#. data/maps/heat-village/special/distillery.json entities/20/settings/event/7/elseStep/5/guiInfo/settings/text #769
 #. EventTrigger brewing_start START IF tmp.brewing_start
 #. IF NOT quest.bakiTrader-2-brewing_fun_1.solved
 #. ADD_GUI
 #. BarWidget
-#: data/maps/heat-village/special/distillery.json+entities/20/settings/event/8/elseStep/4/guiInfo/settings/text+%23769
-msgctxt "data/maps/heat-village/special/distillery.json//entities/20/settings/event/8/elseStep/4/guiInfo/settings/text"
+#: data/maps/heat-village/special/distillery.json+entities/20/settings/event/7/elseStep/5/guiInfo/settings/text+%23769
+msgctxt "data/maps/heat-village/special/distillery.json//entities/20/settings/event/7/elseStep/5/guiInfo/settings/text"
 msgid "Overheat"
 msgstr ""
 
-#. data/maps/heat-village/special/distillery.json entities/20/settings/event/8/elseStep/6/task #182
+#. data/maps/heat-village/special/distillery.json entities/20/settings/event/7/elseStep/7/task #182
 #. EventTrigger brewing_start START IF tmp.brewing_start
 #. IF NOT quest.bakiTrader-2-brewing_fun_1.solved
 #. SET_TASK
-#: data/maps/heat-village/special/distillery.json+entities/20/settings/event/8/elseStep/6/task+%23182
-msgctxt "data/maps/heat-village/special/distillery.json//entities/20/settings/event/8/elseStep/6/task"
+#: data/maps/heat-village/special/distillery.json+entities/20/settings/event/7/elseStep/7/task+%23182
+msgctxt "data/maps/heat-village/special/distillery.json//entities/20/settings/event/7/elseStep/7/task"
 msgid "\\c[3]Follow the brewing procedure!\\c[0] "
 msgstr ""
 
-#. data/maps/heat-village/special/distillery.json entities/20/settings/event/15/text #720
+#. data/maps/heat-village/special/distillery.json entities/20/settings/event/14/text #720
 #. EventTrigger brewing_start START IF tmp.brewing_start
 #. SHOW_AR_MSG
-#: data/maps/heat-village/special/distillery.json+entities/20/settings/event/15/text+%23720
-msgctxt "data/maps/heat-village/special/distillery.json//entities/20/settings/event/15/text"
+#: data/maps/heat-village/special/distillery.json+entities/20/settings/event/14/text+%23720
+msgctxt "data/maps/heat-village/special/distillery.json//entities/20/settings/event/14/text"
 msgid "[Brewing Process START]"
 msgstr ""
 
@@ -13717,29 +13717,29 @@ msgctxt "data/maps/heat-village/special/distillery.json//entities/86/settings/np
 msgid "\\v[lore.title.seeker] need brewing ingredients prepared?"
 msgstr ""
 
-#. data/maps/heat-village/special/distillery.json entities/86/settings/npcStates/4/event/trade/event/3/traded/0/message #788
+#. data/maps/heat-village/special/distillery.json entities/86/settings/npcStates/4/event/trade/event/4/traded/0/message #788
 #. NPC material_trader
 #. IF quest.bakiTrader-2-brewing_challenge_1.solved
 #. START_NPC_TRADE_MENU
 #. SHOW_MSG baki.female-yellow-tall @DEFAULT
-#: data/maps/heat-village/special/distillery.json+entities/86/settings/npcStates/4/event/trade/event/3/traded/0/message+%23788
-msgctxt "data/maps/heat-village/special/distillery.json//entities/86/settings/npcStates/4/event/trade/event/3/traded/0/message"
+#: data/maps/heat-village/special/distillery.json+entities/86/settings/npcStates/4/event/trade/event/4/traded/0/message+%23788
+msgctxt "data/maps/heat-village/special/distillery.json//entities/86/settings/npcStates/4/event/trade/event/4/traded/0/message"
 msgid "Wish much success.\\. May Ancients bless precious liquids!"
 msgstr ""
 
-#. data/maps/heat-village/special/distillery.json entities/86/settings/npcStates/4/event/trade/event/3/canceled/0/message #756
+#. data/maps/heat-village/special/distillery.json entities/86/settings/npcStates/4/event/trade/event/4/canceled/0/message #756
 #. NPC material_trader
 #. IF quest.bakiTrader-2-brewing_challenge_1.solved
 #. START_NPC_TRADE_MENU
 #. SHOW_MSG baki.female-yellow-tall @DEFAULT
-#: data/maps/heat-village/special/distillery.json+entities/86/settings/npcStates/4/event/trade/event/3/canceled/0/message+%23756
-msgctxt "data/maps/heat-village/special/distillery.json//entities/86/settings/npcStates/4/event/trade/event/3/canceled/0/message"
+#: data/maps/heat-village/special/distillery.json+entities/86/settings/npcStates/4/event/trade/event/4/canceled/0/message+%23756
+msgctxt "data/maps/heat-village/special/distillery.json//entities/86/settings/npcStates/4/event/trade/event/4/canceled/0/message"
 msgid "Maybe next time, yes?"
 msgstr ""
 
 #. data/maps/heat-village/special/distillery.json entities/86/settings/npcStates/5/event/trade/event/2/message #754
 #. NPC material_trader
-#. IF quest.bakiTrader-3-brewing_ghosts_1.solved
+#. IF quest.bakiTrader-3-brewing_ghosts_1.solved && map.traderVisit
 #. SHOW_MSG baki.female-yellow-tall @DEFAULT
 #: data/maps/heat-village/special/distillery.json+entities/86/settings/npcStates/5/event/trade/event/2/message+%23754
 msgctxt "data/maps/heat-village/special/distillery.json//entities/86/settings/npcStates/5/event/trade/event/2/message"
@@ -13748,7 +13748,7 @@ msgstr ""
 
 #. data/maps/heat-village/special/distillery.json entities/86/settings/npcStates/5/event/trade/event/3/traded/0/message #755
 #. NPC material_trader
-#. IF quest.bakiTrader-3-brewing_ghosts_1.solved
+#. IF quest.bakiTrader-3-brewing_ghosts_1.solved && map.traderVisit
 #. START_NPC_TRADE_MENU
 #. SHOW_MSG baki.female-yellow-tall @DEFAULT
 #: data/maps/heat-village/special/distillery.json+entities/86/settings/npcStates/5/event/trade/event/3/traded/0/message+%23755
@@ -13758,7 +13758,7 @@ msgstr ""
 
 #. data/maps/heat-village/special/distillery.json entities/86/settings/npcStates/5/event/trade/event/3/canceled/0/message #789
 #. NPC material_trader
-#. IF quest.bakiTrader-3-brewing_ghosts_1.solved
+#. IF quest.bakiTrader-3-brewing_ghosts_1.solved && map.traderVisit
 #. START_NPC_TRADE_MENU
 #. SHOW_MSG baki.female-yellow-tall @DEFAULT
 #: data/maps/heat-village/special/distillery.json+entities/86/settings/npcStates/5/event/trade/event/3/canceled/0/message+%23789
@@ -13970,7 +13970,7 @@ msgstr ""
 #. SHOW_MSG business.female-redhair-sexy-brown @DEFAULT
 #: data/maps/heat-village/special/distillery.json+entities/109/settings/event/69/message+%23841
 msgctxt "data/maps/heat-village/special/distillery.json//entities/109/settings/event/69/message"
-msgid "Oh, woops, haha.\\. That's pretty crazy but I guess we should've expected the Track throwing some final test at us."
+msgid "Oh, woops, haha.\\. That's pretty crazy, but I guess we should've expected the Track to throw some final test at us."
 msgstr ""
 
 #. data/maps/heat-village/special/distillery.json entities/109/settings/event/70/message #842

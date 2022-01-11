@@ -1,18 +1,17 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.4.1-2\n"
+"Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-14 01:09+0000\n"
-"PO-Revision-Date: 2022-01-09 23:51+0000\n"
-"Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
-"Language-Team: Spanish <https://weblate.crosscode.ru/projects/crosscode/etc/es/>\n"
+"POT-Creation-Date: 2022-01-11 15:55+0000\n"
+"POT-Revision-Date: 2022-01-11 15:55+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.5.3\n"
-"POT-Revision-Date: 2021-04-14 01:09+0000\n"
+"Plural-Forms: \n"
+"X-Generator: crosscode-localization-engine 0.0.0 (2168d54 2022-01-11)\n"
 
 #. data/areas/arid-dng-1.json name #1
 #: data/areas/arid-dng-1.json+name+%231
@@ -3511,15 +3510,27 @@ msgctxt "data/players/apollo.json//actions/NEUTRAL/DASH_SPECIAL1_A/description"
 msgid "Dash right through your enemies, damaging everything in your way."
 msgstr ""
 
-#. data/players/apollo.json actions/HEAT/ATTACK_SPECIAL1_A/name #92
-#: data/players/apollo.json+actions/HEAT/ATTACK_SPECIAL1_A/name+%2392
+#. data/players/apollo.json actions/HEAT/ATTACK_SPECIAL1_A/name #94
+#: data/players/apollo.json+actions/HEAT/ATTACK_SPECIAL1_A/name+%2394
 msgctxt "data/players/apollo.json//actions/HEAT/ATTACK_SPECIAL1_A/name"
+msgid "Flame Jab"
+msgstr ""
+
+#. data/players/apollo.json actions/HEAT/ATTACK_SPECIAL1_A/description #95
+#: data/players/apollo.json+actions/HEAT/ATTACK_SPECIAL1_A/description+%2395
+msgctxt "data/players/apollo.json//actions/HEAT/ATTACK_SPECIAL1_A/description"
+msgid "A blazing thrust of fire piercing through enemies in front of you."
+msgstr ""
+
+#. data/players/apollo.json actions/HEAT/ATTACK_SPECIAL1_NO/name #92
+#: data/players/apollo.json+actions/HEAT/ATTACK_SPECIAL1_NO/name+%2392
+msgctxt "data/players/apollo.json//actions/HEAT/ATTACK_SPECIAL1_NO/name"
 msgid "Fire Whirl"
 msgstr ""
 
-#. data/players/apollo.json actions/HEAT/ATTACK_SPECIAL1_A/description #93
-#: data/players/apollo.json+actions/HEAT/ATTACK_SPECIAL1_A/description+%2393
-msgctxt "data/players/apollo.json//actions/HEAT/ATTACK_SPECIAL1_A/description"
+#. data/players/apollo.json actions/HEAT/ATTACK_SPECIAL1_NO/description #93
+#: data/players/apollo.json+actions/HEAT/ATTACK_SPECIAL1_NO/description+%2393
+msgctxt "data/players/apollo.json//actions/HEAT/ATTACK_SPECIAL1_NO/description"
 msgid "Performs a fierce whirl attack, engulfing your enemies in flames."
 msgstr ""
 
@@ -3619,15 +3630,27 @@ msgctxt "data/players/apollo.json//actions/SHOCK/ATTACK_SPECIAL1/description"
 msgid "Attack with a series of multiple fast spin attacks within a small radius."
 msgstr ""
 
-#. data/players/apollo.json actions/SHOCK/THROW_SPECIAL1/name #140
-#: data/players/apollo.json+actions/SHOCK/THROW_SPECIAL1/name+%23140
+#. data/players/apollo.json actions/SHOCK/THROW_SPECIAL1/name #122
+#: data/players/apollo.json+actions/SHOCK/THROW_SPECIAL1/name+%23122
 msgctxt "data/players/apollo.json//actions/SHOCK/THROW_SPECIAL1/name"
+msgid "Diving Spark"
+msgstr ""
+
+#. data/players/apollo.json actions/SHOCK/THROW_SPECIAL1/description #123
+#: data/players/apollo.json+actions/SHOCK/THROW_SPECIAL1/description+%23123
+msgctxt "data/players/apollo.json//actions/SHOCK/THROW_SPECIAL1/description"
+msgid "Throw a projectile that creates a delayed lightning bolt damaging everything around it."
+msgstr ""
+
+#. data/players/apollo.json actions/SHOCK/THROW_SPECIAL1_NO/name #140
+#: data/players/apollo.json+actions/SHOCK/THROW_SPECIAL1_NO/name+%23140
+msgctxt "data/players/apollo.json//actions/SHOCK/THROW_SPECIAL1_NO/name"
 msgid "Homing Wisp"
 msgstr ""
 
-#. data/players/apollo.json actions/SHOCK/THROW_SPECIAL1/description #141
-#: data/players/apollo.json+actions/SHOCK/THROW_SPECIAL1/description+%23141
-msgctxt "data/players/apollo.json//actions/SHOCK/THROW_SPECIAL1/description"
+#. data/players/apollo.json actions/SHOCK/THROW_SPECIAL1_NO/description #141
+#: data/players/apollo.json+actions/SHOCK/THROW_SPECIAL1_NO/description+%23141
+msgctxt "data/players/apollo.json//actions/SHOCK/THROW_SPECIAL1_NO/description"
 msgid "Shoot an array of small homing projectiles."
 msgstr ""
 
@@ -5023,10 +5046,22 @@ msgctxt "data/players/luke.json//actions/NEUTRAL/ATTACK_SPECIAL1_A/name"
 msgid "Wirbelschlitzer"
 msgstr ""
 
+#. data/players/luke.json actions/NEUTRAL/DASH_SPECIAL1_A/name #84
+#: data/players/luke.json+actions/NEUTRAL/DASH_SPECIAL1_A/name+%2384
+msgctxt "data/players/luke.json//actions/NEUTRAL/DASH_SPECIAL1_A/name"
+msgid "Erstschlag"
+msgstr ""
+
 #. data/players/luke.json actions/HEAT/ATTACK_SPECIAL1_A/name #62
 #: data/players/luke.json+actions/HEAT/ATTACK_SPECIAL1_A/name+%2362
 msgctxt "data/players/luke.json//actions/HEAT/ATTACK_SPECIAL1_A/name"
 msgid "Flammenwirbler"
+msgstr ""
+
+#. data/players/luke.json actions/HEAT/DASH_SPECIAL1_A/name #106
+#: data/players/luke.json+actions/HEAT/DASH_SPECIAL1_A/name+%23106
+msgctxt "data/players/luke.json//actions/HEAT/DASH_SPECIAL1_A/name"
+msgid "Feuersprint"
 msgstr ""
 
 #. data/players/luke.json actions/COLD/ATTACK_SPECIAL1_A/name #63
@@ -5035,10 +5070,22 @@ msgctxt "data/players/luke.json//actions/COLD/ATTACK_SPECIAL1_A/name"
 msgid "Kältewirbler"
 msgstr ""
 
+#. data/players/luke.json actions/COLD/DASH_SPECIAL1_A/name #118
+#: data/players/luke.json+actions/COLD/DASH_SPECIAL1_A/name+%23118
+msgctxt "data/players/luke.json//actions/COLD/DASH_SPECIAL1_A/name"
+msgid "Eisbahn"
+msgstr ""
+
 #. data/players/luke.json actions/SHOCK/ATTACK_SPECIAL1_A/name #64
 #: data/players/luke.json+actions/SHOCK/ATTACK_SPECIAL1_A/name+%2364
 msgctxt "data/players/luke.json//actions/SHOCK/ATTACK_SPECIAL1_A/name"
 msgid "Schockwirbler"
+msgstr ""
+
+#. data/players/luke.json actions/SHOCK/DASH_SPECIAL1_A/name #138
+#: data/players/luke.json+actions/SHOCK/DASH_SPECIAL1_A/name+%23138
+msgctxt "data/players/luke.json//actions/SHOCK/DASH_SPECIAL1_A/name"
+msgid "Donnerpfeil"
 msgstr ""
 
 #. data/players/luke.json actions/WAVE/ATTACK_SPECIAL1_A/name #61
@@ -5047,22 +5094,76 @@ msgctxt "data/players/luke.json//actions/WAVE/ATTACK_SPECIAL1_A/name"
 msgid "Wellenwirbler"
 msgstr ""
 
+#. data/players/luke.json actions/WAVE/DASH_SPECIAL1_A/name #154
+#: data/players/luke.json+actions/WAVE/DASH_SPECIAL1_A/name+%23154
+msgctxt "data/players/luke.json//actions/WAVE/DASH_SPECIAL1_A/name"
+msgid "Wellenritt"
+msgstr ""
+
 #. data/players/schneider.json actions/NEUTRAL/ATTACK_SPECIAL1_LEL/name #21
 #: data/players/schneider.json+actions/NEUTRAL/ATTACK_SPECIAL1_LEL/name+%2321
 msgctxt "data/players/schneider.json//actions/NEUTRAL/ATTACK_SPECIAL1_LEL/name"
 msgid "ERST SCHLITZER!!!"
 msgstr ""
 
-#. data/players/schneider.json actions/NEUTRAL/ATTACK_SPECIAL1_A/name #61
-#: data/players/schneider.json+actions/NEUTRAL/ATTACK_SPECIAL1_A/name+%2361
+#. data/players/schneider.json actions/NEUTRAL/ATTACK_SPECIAL1_A/name #35
+#: data/players/schneider.json+actions/NEUTRAL/ATTACK_SPECIAL1_A/name+%2335
 msgctxt "data/players/schneider.json//actions/NEUTRAL/ATTACK_SPECIAL1_A/name"
-msgid "SSSSCHLITZER!!!"
+msgid "Wirbelschlitzer"
 msgstr ""
 
-#. data/players/schneider.json actions/WAVE/ATTACK_SPECIAL1_A/name #62
-#: data/players/schneider.json+actions/WAVE/ATTACK_SPECIAL1_A/name+%2362
+#. data/players/schneider.json actions/NEUTRAL/DASH_SPECIAL1_A/name #84
+#: data/players/schneider.json+actions/NEUTRAL/DASH_SPECIAL1_A/name+%2384
+msgctxt "data/players/schneider.json//actions/NEUTRAL/DASH_SPECIAL1_A/name"
+msgid "Erstschlag"
+msgstr ""
+
+#. data/players/schneider.json actions/HEAT/ATTACK_SPECIAL1_A/name #62
+#: data/players/schneider.json+actions/HEAT/ATTACK_SPECIAL1_A/name+%2362
+msgctxt "data/players/schneider.json//actions/HEAT/ATTACK_SPECIAL1_A/name"
+msgid "Flammenwirbler"
+msgstr ""
+
+#. data/players/schneider.json actions/HEAT/DASH_SPECIAL1_A/name #106
+#: data/players/schneider.json+actions/HEAT/DASH_SPECIAL1_A/name+%23106
+msgctxt "data/players/schneider.json//actions/HEAT/DASH_SPECIAL1_A/name"
+msgid "Feuersprint"
+msgstr ""
+
+#. data/players/schneider.json actions/COLD/ATTACK_SPECIAL1_A/name #63
+#: data/players/schneider.json+actions/COLD/ATTACK_SPECIAL1_A/name+%2363
+msgctxt "data/players/schneider.json//actions/COLD/ATTACK_SPECIAL1_A/name"
+msgid "Kältewirbler"
+msgstr ""
+
+#. data/players/schneider.json actions/COLD/DASH_SPECIAL1_A/name #118
+#: data/players/schneider.json+actions/COLD/DASH_SPECIAL1_A/name+%23118
+msgctxt "data/players/schneider.json//actions/COLD/DASH_SPECIAL1_A/name"
+msgid "Eisbahn"
+msgstr ""
+
+#. data/players/schneider.json actions/SHOCK/ATTACK_SPECIAL1_A/name #64
+#: data/players/schneider.json+actions/SHOCK/ATTACK_SPECIAL1_A/name+%2364
+msgctxt "data/players/schneider.json//actions/SHOCK/ATTACK_SPECIAL1_A/name"
+msgid "Schockwirbler"
+msgstr ""
+
+#. data/players/schneider.json actions/SHOCK/DASH_SPECIAL1_A/name #138
+#: data/players/schneider.json+actions/SHOCK/DASH_SPECIAL1_A/name+%23138
+msgctxt "data/players/schneider.json//actions/SHOCK/DASH_SPECIAL1_A/name"
+msgid "Donnerpfeil"
+msgstr ""
+
+#. data/players/schneider.json actions/WAVE/ATTACK_SPECIAL1_A/name #61
+#: data/players/schneider.json+actions/WAVE/ATTACK_SPECIAL1_A/name+%2361
 msgctxt "data/players/schneider.json//actions/WAVE/ATTACK_SPECIAL1_A/name"
-msgid "WELLENSCHLITZER!!!"
+msgid "Wellenwirbler"
+msgstr ""
+
+#. data/players/schneider.json actions/WAVE/DASH_SPECIAL1_A/name #154
+#: data/players/schneider.json+actions/WAVE/DASH_SPECIAL1_A/name+%23154
+msgctxt "data/players/schneider.json//actions/WAVE/DASH_SPECIAL1_A/name"
+msgid "Wellenritt"
 msgstr ""
 
 #. data/players/schneider2.json actions/NEUTRAL/ATTACK_SPECIAL1_LEL/name #21
@@ -5077,10 +5178,22 @@ msgctxt "data/players/schneider2.json//actions/NEUTRAL/ATTACK_SPECIAL1_A/name"
 msgid "Wirbelschlitzer"
 msgstr ""
 
+#. data/players/schneider2.json actions/NEUTRAL/DASH_SPECIAL1_A/name #84
+#: data/players/schneider2.json+actions/NEUTRAL/DASH_SPECIAL1_A/name+%2384
+msgctxt "data/players/schneider2.json//actions/NEUTRAL/DASH_SPECIAL1_A/name"
+msgid "Erstschlag"
+msgstr ""
+
 #. data/players/schneider2.json actions/HEAT/ATTACK_SPECIAL1_A/name #62
 #: data/players/schneider2.json+actions/HEAT/ATTACK_SPECIAL1_A/name+%2362
 msgctxt "data/players/schneider2.json//actions/HEAT/ATTACK_SPECIAL1_A/name"
 msgid "Flammenwirbler"
+msgstr ""
+
+#. data/players/schneider2.json actions/HEAT/DASH_SPECIAL1_A/name #106
+#: data/players/schneider2.json+actions/HEAT/DASH_SPECIAL1_A/name+%23106
+msgctxt "data/players/schneider2.json//actions/HEAT/DASH_SPECIAL1_A/name"
+msgid "Feuersprint"
 msgstr ""
 
 #. data/players/schneider2.json actions/COLD/ATTACK_SPECIAL1_A/name #63
@@ -5089,16 +5202,226 @@ msgctxt "data/players/schneider2.json//actions/COLD/ATTACK_SPECIAL1_A/name"
 msgid "Kältewirbler"
 msgstr ""
 
+#. data/players/schneider2.json actions/COLD/DASH_SPECIAL1_A/name #118
+#: data/players/schneider2.json+actions/COLD/DASH_SPECIAL1_A/name+%23118
+msgctxt "data/players/schneider2.json//actions/COLD/DASH_SPECIAL1_A/name"
+msgid "Eisbahn"
+msgstr ""
+
 #. data/players/schneider2.json actions/SHOCK/ATTACK_SPECIAL1_A/name #64
 #: data/players/schneider2.json+actions/SHOCK/ATTACK_SPECIAL1_A/name+%2364
 msgctxt "data/players/schneider2.json//actions/SHOCK/ATTACK_SPECIAL1_A/name"
 msgid "Schockwirbler"
 msgstr ""
 
+#. data/players/schneider2.json actions/SHOCK/DASH_SPECIAL1_A/name #138
+#: data/players/schneider2.json+actions/SHOCK/DASH_SPECIAL1_A/name+%23138
+msgctxt "data/players/schneider2.json//actions/SHOCK/DASH_SPECIAL1_A/name"
+msgid "Donnerpfeil"
+msgstr ""
+
 #. data/players/schneider2.json actions/WAVE/ATTACK_SPECIAL1_A/name #61
 #: data/players/schneider2.json+actions/WAVE/ATTACK_SPECIAL1_A/name+%2361
 msgctxt "data/players/schneider2.json//actions/WAVE/ATTACK_SPECIAL1_A/name"
 msgid "Wellenwirbler"
+msgstr ""
+
+#. data/players/schneider2.json actions/WAVE/DASH_SPECIAL1_A/name #154
+#: data/players/schneider2.json+actions/WAVE/DASH_SPECIAL1_A/name+%23154
+msgctxt "data/players/schneider2.json//actions/WAVE/DASH_SPECIAL1_A/name"
+msgid "Wellenritt"
+msgstr ""
+
+#. data/players/shizuka.json actions/NEUTRAL/ATTACK_SPECIAL1_A/name #77
+#: data/players/shizuka.json+actions/NEUTRAL/ATTACK_SPECIAL1_A/name+%2377
+msgctxt "data/players/shizuka.json//actions/NEUTRAL/ATTACK_SPECIAL1_A/name"
+msgid "Spin Dance"
+msgstr ""
+
+#. data/players/shizuka.json actions/NEUTRAL/ATTACK_SPECIAL1_A/description #78
+#: data/players/shizuka.json+actions/NEUTRAL/ATTACK_SPECIAL1_A/description+%2378
+msgctxt "data/players/shizuka.json//actions/NEUTRAL/ATTACK_SPECIAL1_A/description"
+msgid "A wide-ranged spinning move hitting many nearby enemies."
+msgstr ""
+
+#. data/players/shizuka.json actions/NEUTRAL/THROW_SPECIAL1_A/name #73
+#: data/players/shizuka.json+actions/NEUTRAL/THROW_SPECIAL1_A/name+%2373
+msgctxt "data/players/shizuka.json//actions/NEUTRAL/THROW_SPECIAL1_A/name"
+msgid "Bullet Rain"
+msgstr ""
+
+#. data/players/shizuka.json actions/NEUTRAL/THROW_SPECIAL1_A/description #74
+#: data/players/shizuka.json+actions/NEUTRAL/THROW_SPECIAL1_A/description+%2374
+msgctxt "data/players/shizuka.json//actions/NEUTRAL/THROW_SPECIAL1_A/description"
+msgid "Fire a mass of small shots in a narrow angle."
+msgstr ""
+
+#. data/players/shizuka.json actions/NEUTRAL/DASH_SPECIAL1_B/name #84
+#: data/players/shizuka.json+actions/NEUTRAL/DASH_SPECIAL1_B/name+%2384
+msgctxt "data/players/shizuka.json//actions/NEUTRAL/DASH_SPECIAL1_B/name"
+msgid "First Cut"
+msgstr ""
+
+#. data/players/shizuka.json actions/NEUTRAL/DASH_SPECIAL1_B/description #85
+#: data/players/shizuka.json+actions/NEUTRAL/DASH_SPECIAL1_B/description+%2385
+msgctxt "data/players/shizuka.json//actions/NEUTRAL/DASH_SPECIAL1_B/description"
+msgid "A very powerful attack that will hit exactly one enemy."
+msgstr ""
+
+#. data/players/shizuka.json actions/HEAT/ATTACK_SPECIAL1_A/name #92
+#: data/players/shizuka.json+actions/HEAT/ATTACK_SPECIAL1_A/name+%2392
+msgctxt "data/players/shizuka.json//actions/HEAT/ATTACK_SPECIAL1_A/name"
+msgid "Fire Whirl"
+msgstr ""
+
+#. data/players/shizuka.json actions/HEAT/ATTACK_SPECIAL1_A/description #93
+#: data/players/shizuka.json+actions/HEAT/ATTACK_SPECIAL1_A/description+%2393
+msgctxt "data/players/shizuka.json//actions/HEAT/ATTACK_SPECIAL1_A/description"
+msgid "Performs a fierce whirl attack, engulfing your enemies in flames."
+msgstr ""
+
+#. data/players/shizuka.json actions/HEAT/THROW_SPECIAL1_A/name #100
+#: data/players/shizuka.json+actions/HEAT/THROW_SPECIAL1_A/name+%23100
+msgctxt "data/players/shizuka.json//actions/HEAT/THROW_SPECIAL1_A/name"
+msgid "Burn!"
+msgstr ""
+
+#. data/players/shizuka.json actions/HEAT/THROW_SPECIAL1_A/description #101
+#: data/players/shizuka.json+actions/HEAT/THROW_SPECIAL1_A/description+%23101
+msgctxt "data/players/shizuka.json//actions/HEAT/THROW_SPECIAL1_A/description"
+msgid "A controllable blazing burst of fire that deals damage over a small area."
+msgstr ""
+
+#. data/players/shizuka.json actions/HEAT/DASH_SPECIAL1_A/name #106
+#: data/players/shizuka.json+actions/HEAT/DASH_SPECIAL1_A/name+%23106
+msgctxt "data/players/shizuka.json//actions/HEAT/DASH_SPECIAL1_A/name"
+msgid "Crimson Strike"
+msgstr ""
+
+#. data/players/shizuka.json actions/HEAT/DASH_SPECIAL1_A/description #107
+#: data/players/shizuka.json+actions/HEAT/DASH_SPECIAL1_A/description+%23107
+msgctxt "data/players/shizuka.json//actions/HEAT/DASH_SPECIAL1_A/description"
+msgid "Dash through your enemies while leaving a trail of fire."
+msgstr ""
+
+#. data/players/shizuka.json actions/COLD/ATTACK_SPECIAL1_A/name #112
+#: data/players/shizuka.json+actions/COLD/ATTACK_SPECIAL1_A/name+%23112
+msgctxt "data/players/shizuka.json//actions/COLD/ATTACK_SPECIAL1_A/name"
+msgid "Ice Twirl"
+msgstr ""
+
+#. data/players/shizuka.json actions/COLD/ATTACK_SPECIAL1_A/description #113
+#: data/players/shizuka.json+actions/COLD/ATTACK_SPECIAL1_A/description+%23113
+msgctxt "data/players/shizuka.json//actions/COLD/ATTACK_SPECIAL1_A/description"
+msgid "Performs a stationary ice whirl attack with wide range and strong knockback."
+msgstr ""
+
+#. data/players/shizuka.json actions/COLD/THROW_SPECIAL1_A/name #142
+#: data/players/shizuka.json+actions/COLD/THROW_SPECIAL1_A/name+%23142
+msgctxt "data/players/shizuka.json//actions/COLD/THROW_SPECIAL1_A/name"
+msgid "Snow Flawke"
+msgstr ""
+
+#. data/players/shizuka.json actions/COLD/THROW_SPECIAL1_A/description #143
+#: data/players/shizuka.json+actions/COLD/THROW_SPECIAL1_A/description+%23143
+msgctxt "data/players/shizuka.json//actions/COLD/THROW_SPECIAL1_A/description"
+msgid "Hit enemies with a big snow explosion, caging them within icicles."
+msgstr ""
+
+#. data/players/shizuka.json actions/COLD/THROW_SPECIAL1_NO/name #114
+#: data/players/shizuka.json+actions/COLD/THROW_SPECIAL1_NO/name+%23114
+msgctxt "data/players/shizuka.json//actions/COLD/THROW_SPECIAL1_NO/name"
+msgid "Hail Flurry"
+msgstr ""
+
+#. data/players/shizuka.json actions/COLD/THROW_SPECIAL1_NO/description #115
+#: data/players/shizuka.json+actions/COLD/THROW_SPECIAL1_NO/description+%23115
+msgctxt "data/players/shizuka.json//actions/COLD/THROW_SPECIAL1_NO/description"
+msgid "Quickly shoots a mass of icy spikes."
+msgstr ""
+
+#. data/players/shizuka.json actions/COLD/DASH_SPECIAL1_A/name #118
+#: data/players/shizuka.json+actions/COLD/DASH_SPECIAL1_A/name+%23118
+msgctxt "data/players/shizuka.json//actions/COLD/DASH_SPECIAL1_A/name"
+msgid "Indigo Strike"
+msgstr ""
+
+#. data/players/shizuka.json actions/COLD/DASH_SPECIAL1_A/description #119
+#: data/players/shizuka.json+actions/COLD/DASH_SPECIAL1_A/description+%23119
+msgctxt "data/players/shizuka.json//actions/COLD/DASH_SPECIAL1_A/description"
+msgid "Dash with high speed, leaving a trail of icicles behind you, damaging enemies on contact."
+msgstr ""
+
+#. data/players/shizuka.json actions/SHOCK/ATTACK_SPECIAL1/name #120
+#: data/players/shizuka.json+actions/SHOCK/ATTACK_SPECIAL1/name+%23120
+msgctxt "data/players/shizuka.json//actions/SHOCK/ATTACK_SPECIAL1/name"
+msgid "Tesla Twist"
+msgstr ""
+
+#. data/players/shizuka.json actions/SHOCK/ATTACK_SPECIAL1/description #121
+#: data/players/shizuka.json+actions/SHOCK/ATTACK_SPECIAL1/description+%23121
+msgctxt "data/players/shizuka.json//actions/SHOCK/ATTACK_SPECIAL1/description"
+msgid "Attack with a series of multiple fast spin attacks within a small radius."
+msgstr ""
+
+#. data/players/shizuka.json actions/SHOCK/THROW_SPECIAL1/name #140
+#: data/players/shizuka.json+actions/SHOCK/THROW_SPECIAL1/name+%23140
+msgctxt "data/players/shizuka.json//actions/SHOCK/THROW_SPECIAL1/name"
+msgid "Homing Wisp"
+msgstr ""
+
+#. data/players/shizuka.json actions/SHOCK/THROW_SPECIAL1/description #141
+#: data/players/shizuka.json+actions/SHOCK/THROW_SPECIAL1/description+%23141
+msgctxt "data/players/shizuka.json//actions/SHOCK/THROW_SPECIAL1/description"
+msgid "Shoot an array of small homing projectiles."
+msgstr ""
+
+#. data/players/shizuka.json actions/SHOCK/DASH_SPECIAL1_B/name #138
+#: data/players/shizuka.json+actions/SHOCK/DASH_SPECIAL1_B/name+%23138
+msgctxt "data/players/shizuka.json//actions/SHOCK/DASH_SPECIAL1_B/name"
+msgid "Thunder Dart"
+msgstr ""
+
+#. data/players/shizuka.json actions/SHOCK/DASH_SPECIAL1_B/description #139
+#: data/players/shizuka.json+actions/SHOCK/DASH_SPECIAL1_B/description+%23139
+msgctxt "data/players/shizuka.json//actions/SHOCK/DASH_SPECIAL1_B/description"
+msgid "Dash through enemies leaving a shocking trail of lightning."
+msgstr ""
+
+#. data/players/shizuka.json actions/WAVE/ATTACK_SPECIAL1_A/name #132
+#: data/players/shizuka.json+actions/WAVE/ATTACK_SPECIAL1_A/name+%23132
+msgctxt "data/players/shizuka.json//actions/WAVE/ATTACK_SPECIAL1_A/name"
+msgid "Ki Thrust"
+msgstr ""
+
+#. data/players/shizuka.json actions/WAVE/ATTACK_SPECIAL1_A/description #133
+#: data/players/shizuka.json+actions/WAVE/ATTACK_SPECIAL1_A/description+%23133
+msgctxt "data/players/shizuka.json//actions/WAVE/ATTACK_SPECIAL1_A/description"
+msgid "Frontal attack with high damage, sending all hit enemies flying."
+msgstr ""
+
+#. data/players/shizuka.json actions/WAVE/THROW_SPECIAL1_A/name #128
+#: data/players/shizuka.json+actions/WAVE/THROW_SPECIAL1_A/name+%23128
+msgctxt "data/players/shizuka.json//actions/WAVE/THROW_SPECIAL1_A/name"
+msgid "Fae Round"
+msgstr ""
+
+#. data/players/shizuka.json actions/WAVE/THROW_SPECIAL1_A/description #129
+#: data/players/shizuka.json+actions/WAVE/THROW_SPECIAL1_A/description+%23129
+msgctxt "data/players/shizuka.json//actions/WAVE/THROW_SPECIAL1_A/description"
+msgid "Shoots a super fast projectile penetrating a line of enemies."
+msgstr ""
+
+#. data/players/shizuka.json actions/WAVE/DASH_SPECIAL1_A/name #154
+#: data/players/shizuka.json+actions/WAVE/DASH_SPECIAL1_A/name+%23154
+msgctxt "data/players/shizuka.json//actions/WAVE/DASH_SPECIAL1_A/name"
+msgid "Verdant Strike"
+msgstr ""
+
+#. data/players/shizuka.json actions/WAVE/DASH_SPECIAL1_A/description #155
+#: data/players/shizuka.json+actions/WAVE/DASH_SPECIAL1_A/description+%23155
+msgctxt "data/players/shizuka.json//actions/WAVE/DASH_SPECIAL1_A/description"
+msgid "Dash with high speed, damaging and stunning enemies along the way."
 msgstr ""
 
 #. data/save-presets/0-before-boss.json title #1
@@ -5209,6 +5532,56 @@ msgctxt "data/save-presets/8-autumns-fall.json//sub"
 msgid "Head towards the new Jungle!"
 msgstr ""
 
+#. extension/fish-gear/fish-gear.json name #1
+#: extension/fish-gear/fish-gear.json+name+%231
+msgctxt "extension/fish-gear/fish-gear.json//name"
+msgid "PS4 Exclusive Extension"
+msgstr ""
+
+#. extension/fish-gear/fish-gear.json description #2
+#: extension/fish-gear/fish-gear.json+description+%232
+msgctxt "extension/fish-gear/fish-gear.json//description"
+msgid "Includes a new late-game quest and pet that were once exclusive to the Playstation 4!"
+msgstr ""
+
+#. extension/flying-hedgehag/flying-hedgehag.json name #1
+#: extension/flying-hedgehag/flying-hedgehag.json+name+%231
+msgctxt "extension/flying-hedgehag/flying-hedgehag.json//name"
+msgid "Switch Exclusive Extension"
+msgstr ""
+
+#. extension/flying-hedgehag/flying-hedgehag.json description #2
+#: extension/flying-hedgehag/flying-hedgehag.json+description+%232
+msgctxt "extension/flying-hedgehag/flying-hedgehag.json//description"
+msgid "Includes a new late-game quest and pet that were once exclusive to the Nintendo Switch!"
+msgstr ""
+
+#. extension/manlea/manlea.json name #1
+#: extension/manlea/manlea.json+name+%231
+msgctxt "extension/manlea/manlea.json//name"
+msgid "Manlea"
+msgstr ""
+
+#. extension/manlea/manlea.json description #2
+#: extension/manlea/manlea.json+description+%232
+msgctxt "extension/manlea/manlea.json//description"
+msgid "The manlier version of Lea is finally here!"
+msgstr ""
+
+#. extension/ninja-skin/ninja-skin.json name #1
+#: extension/ninja-skin/ninja-skin.json+name+%231
+msgctxt "extension/ninja-skin/ninja-skin.json//name"
+msgid "Ninja Skin"
+msgstr ""
+
+#. extension/ninja-skin/ninja-skin.json description #2
+#: extension/ninja-skin/ninja-skin.json+description+%232
+msgctxt "extension/ninja-skin/ninja-skin.json//description"
+msgid ""
+"Lea has been running around like a ninja all along and now she finally has the appropriate set of clothes!\n"
+"You can equip the \\c[3]Kunoichi\\c[0] in the \\c[3]Add-on\\c[0] tab of the \\c[3]inventory\\c[0]"
+msgstr ""
+
 #. extension/post-game/post-game.json name #1
 #: extension/post-game/post-game.json+name+%231
 msgctxt "extension/post-game/post-game.json//name"
@@ -5230,5 +5603,17 @@ msgstr ""
 #. extension/scorpion-robo/scorpion-robo.json description #2
 #: extension/scorpion-robo/scorpion-robo.json+description+%232
 msgctxt "extension/scorpion-robo/scorpion-robo.json//description"
-msgid "Includes a new late-game quest and pet that are exclusive to the PC!"
+msgid "Includes a new late-game quest and pet that were once exclusive to the PC!"
+msgstr ""
+
+#. extension/snowman-tank/snowman-tank.json name #1
+#: extension/snowman-tank/snowman-tank.json+name+%231
+msgctxt "extension/snowman-tank/snowman-tank.json//name"
+msgid "Xbox Exclusive Extension"
+msgstr ""
+
+#. extension/snowman-tank/snowman-tank.json description #2
+#: extension/snowman-tank/snowman-tank.json+description+%232
+msgctxt "extension/snowman-tank/snowman-tank.json//description"
+msgid "Includes a new late-game quest and pet that were once exclusive to the Xbox One!"
 msgstr ""

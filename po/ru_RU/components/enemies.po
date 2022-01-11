@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.4.1-2\n"
+"Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-14 01:09+0000\n"
-"POT-Revision-Date: 2021-04-14 01:09+0000\n"
+"POT-Creation-Date: 2022-01-11 15:55+0000\n"
+"POT-Revision-Date: 2022-01-11 15:55+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0\n"
+"X-Generator: crosscode-localization-engine 0.0.0 (2168d54 2022-01-11)\n"
 
 #. data/enemies/arid/dice-mage.json actions/TrapActivate/0/text #7
 #. SHOW_AR_MSG
@@ -160,7 +160,7 @@ msgstr "Нейтрализация!"
 #: data/enemies/arid/virus-neutral.json+actions/INIT/0/text+%2313
 msgctxt "data/enemies/arid/virus-neutral.json//actions/INIT/0/text"
 msgid "asdasd + \\v[tmp.virus.spawn]"
-msgstr ""
+msgstr "фывфыв + \\v[tmp.virus.spawn]"
 
 #. data/enemies/autumn-fall/ball.json actions/Init/0/thenStep/0/text #21
 #. IF test
@@ -438,10 +438,10 @@ msgctxt "data/enemies/autumn-fall/runbot-tremor.json//actions/Activate/1/text"
 msgid "Threat detected"
 msgstr "Обнаружена угроза"
 
-#. data/enemies/autumn-fall/runbot-tremor.json actions/removeAura/4/text #47
+#. data/enemies/autumn-fall/runbot-tremor.json actions/removeAura/5/text #47
 #. SHOW_AR_MSG
-#: data/enemies/autumn-fall/runbot-tremor.json+actions/removeAura/4/text+%2347
-msgctxt "data/enemies/autumn-fall/runbot-tremor.json//actions/removeAura/4/text"
+#: data/enemies/autumn-fall/runbot-tremor.json+actions/removeAura/5/text+%2347
+msgctxt "data/enemies/autumn-fall/runbot-tremor.json//actions/removeAura/5/text"
 msgid "[ AURA DISPERSED ]"
 msgstr "[ АУРА РАССЕЯНА ]"
 
@@ -525,7 +525,7 @@ msgstr "[ Заряженный выстрел ]"
 #: data/enemies/autumn-rh/big_turret-quest_naval_ally.json+actions/AntiTurret/7/thenStep/0/thenStep/0/text+%2317
 msgctxt "data/enemies/autumn-rh/big_turret-quest_naval_ally.json//actions/AntiTurret/7/thenStep/0/thenStep/0/text"
 msgid "HEAT"
-msgstr "ТЕПЛО"
+msgstr "ПЛАМЯ"
 
 #. data/enemies/autumn-rh/big_turret-quest_naval_ally.json actions/AntiTurret/7/elseStep/0/thenStep/0/thenStep/0/text #18
 #. IF NOT tmp.targetElement == 1
@@ -659,7 +659,7 @@ msgstr "[ ОРУЖИЕ СМЫЛОСЬ! ]"
 #: data/enemies/autumn-rh/suicider_float-quest_naval.json+actions/ReachRail/1/thenStep/0/text+%2330
 msgctxt "data/enemies/autumn-rh/suicider_float-quest_naval.json//actions/ReachRail/1/thenStep/0/text"
 msgid "(Reach Railpoint)"
-msgstr ""
+msgstr "(Reach Railpoint)"
 
 #. data/enemies/autumn-rh/suicider_float-quest_naval.json actions/RailApproach/0/thenStep/2/thenStep/0/text #32
 #. COMBAT_IF
@@ -668,7 +668,7 @@ msgstr ""
 #: data/enemies/autumn-rh/suicider_float-quest_naval.json+actions/RailApproach/0/thenStep/2/thenStep/0/text+%2332
 msgctxt "data/enemies/autumn-rh/suicider_float-quest_naval.json//actions/RailApproach/0/thenStep/2/thenStep/0/text"
 msgid "(Reach PLA)"
-msgstr ""
+msgstr "(Reach PLA)"
 
 #. data/enemies/autumn-rh/turret_big_float-quest_naval.json actions/Init/0/thenStep/0/text #11
 #. IF test
@@ -872,7 +872,7 @@ msgstr "\\v[entity.attrib.startingWave]"
 #: data/enemies/autumn-rh/turret_float-quest_naval.json+actions/InitMove/4/thenStep/0/text+%2311
 msgctxt "data/enemies/autumn-rh/turret_float-quest_naval.json//actions/InitMove/4/thenStep/0/text"
 msgid "(MOVE)"
-msgstr ""
+msgstr "(MOVE)"
 
 #. data/enemies/autumn-rh/turret_float-quest_naval.json actions/StartFullShield/0/thenStep/0/text #1
 #. IF test
@@ -902,7 +902,7 @@ msgstr "СТОП"
 #: data/enemies/autumn-rh/turret_float-quest_naval.json+actions/MarkTarget/4/text+%2313
 msgctxt "data/enemies/autumn-rh/turret_float-quest_naval.json//actions/MarkTarget/4/text"
 msgid "[ TARGET ]"
-msgstr "[ЦЕЛЬ]"
+msgstr "[ ЦЕЛЬ ]"
 
 #. data/enemies/autumn-rh/turret_float-quest_naval.json actions/AntiTurretShot/12/text #20
 #. SHOW_AR_MSG
@@ -924,7 +924,7 @@ msgstr "[ ОРУЖИЕ СМЫЛОСЬ! ]"
 #: data/enemies/autumn-rh/turret_float-quest_naval.json+actions/ReachRail/1/thenStep/0/text+%2330
 msgctxt "data/enemies/autumn-rh/turret_float-quest_naval.json//actions/ReachRail/1/thenStep/0/text"
 msgid "(Reach Railpoint)"
-msgstr ""
+msgstr "(Reach Railpoint)"
 
 #. data/enemies/autumn-rh/turret_float-quest_naval.json actions/RailApproach/0/thenStep/2/thenStep/0/text #32
 #. COMBAT_IF
@@ -933,7 +933,7 @@ msgstr ""
 #: data/enemies/autumn-rh/turret_float-quest_naval.json+actions/RailApproach/0/thenStep/2/thenStep/0/text+%2332
 msgctxt "data/enemies/autumn-rh/turret_float-quest_naval.json//actions/RailApproach/0/thenStep/2/thenStep/0/text"
 msgid "(Reach PLA)"
-msgstr ""
+msgstr "(Reach PLA)"
 
 #. data/enemies/avatar/apollo-4.json actions/SelectStrat1/7/thenStep/0/text #9
 #. IF false
@@ -941,7 +941,7 @@ msgstr ""
 #: data/enemies/avatar/apollo-4.json+actions/SelectStrat1/7/thenStep/0/text+%239
 msgctxt "data/enemies/avatar/apollo-4.json//actions/SelectStrat1/7/thenStep/0/text"
 msgid "STRAT1 \\v[entity.attrib.strat]"
-msgstr ""
+msgstr "STRAT1 \\v[entity.attrib.strat]"
 
 #. data/enemies/avatar/apollo-4.json actions/SelectStrat2/7/thenStep/0/text #13
 #. IF false
@@ -949,7 +949,7 @@ msgstr ""
 #: data/enemies/avatar/apollo-4.json+actions/SelectStrat2/7/thenStep/0/text+%2313
 msgctxt "data/enemies/avatar/apollo-4.json//actions/SelectStrat2/7/thenStep/0/text"
 msgid "STRAT2 \\v[entity.attrib.strat]"
-msgstr ""
+msgstr "STRAT2 \\v[entity.attrib.strat]"
 
 #. data/enemies/avatar/apollo-4.json actions/TrapEnd/0/text #14
 #. SHOW_AR_MSG
@@ -972,7 +972,7 @@ msgstr "Обезьяна"
 #: data/enemies/beach/ape-beach.json+proxies/shockBombL/action/42/thenStep/6/thenStep/0/text+%2329
 msgctxt "data/enemies/beach/ape-beach.json//proxies/shockBombL/action/42/thenStep/6/thenStep/0/text"
 msgid "( \\v[entity.attrib.tempAmount] - \\v[tmp.lightningCloudTime] )"
-msgstr ""
+msgstr "( \\v[entity.attrib.tempAmount] - \\v[tmp.lightningCloudTime] )"
 
 #. data/enemies/beach/ape-beach.json proxies/laserShooter/action/11/thenStep/0/text #30
 #. GENERIC
@@ -981,7 +981,7 @@ msgstr ""
 #: data/enemies/beach/ape-beach.json+proxies/laserShooter/action/11/thenStep/0/text+%2330
 msgctxt "data/enemies/beach/ape-beach.json//proxies/laserShooter/action/11/thenStep/0/text"
 msgid "( LASER \\v[entity.attrib.laserWait] )"
-msgstr ""
+msgstr "( LASER \\v[entity.attrib.laserWait] )"
 
 #. data/enemies/beach/ape-beach.json proxies/meteorTarget/action/10/thenStep/0/text #43
 #. GENERIC
@@ -990,7 +990,7 @@ msgstr ""
 #: data/enemies/beach/ape-beach.json+proxies/meteorTarget/action/10/thenStep/0/text+%2343
 msgctxt "data/enemies/beach/ape-beach.json//proxies/meteorTarget/action/10/thenStep/0/text"
 msgid "( \\v[entity.attrib.meteorGoal] )"
-msgstr ""
+msgstr "( \\v[entity.attrib.meteorGoal] )"
 
 #. data/enemies/beach/ape-beach.json actions/AttackNormal/12/thenStep/0/text #39
 #. IF test
@@ -998,7 +998,7 @@ msgstr ""
 #: data/enemies/beach/ape-beach.json+actions/AttackNormal/12/thenStep/0/text+%2339
 msgctxt "data/enemies/beach/ape-beach.json//actions/AttackNormal/12/thenStep/0/text"
 msgid "( \\v[entity.attrib.attacks] )"
-msgstr ""
+msgstr "( \\v[entity.attrib.attacks] )"
 
 #. data/enemies/beach/ape-beach.json actions/AttackHeat/12/thenStep/0/text #24
 #. IF test
@@ -1006,7 +1006,7 @@ msgstr ""
 #: data/enemies/beach/ape-beach.json+actions/AttackHeat/12/thenStep/0/text+%2324
 msgctxt "data/enemies/beach/ape-beach.json//actions/AttackHeat/12/thenStep/0/text"
 msgid "( \\v[entity.attrib.attacks] )"
-msgstr ""
+msgstr "( \\v[entity.attrib.attacks] )"
 
 #. data/enemies/beach/ape-beach.json actions/AttackHeat/37/thenStep/1/thenStep/1/thenStep/0/text #32
 #. COMBAT_IF
@@ -1016,7 +1016,7 @@ msgstr ""
 #: data/enemies/beach/ape-beach.json+actions/AttackHeat/37/thenStep/1/thenStep/1/thenStep/0/text+%2332
 msgctxt "data/enemies/beach/ape-beach.json//actions/AttackHeat/37/thenStep/1/thenStep/1/thenStep/0/text"
 msgid "( LAST ATK \\v[entity.attrib.meteorGoal] )"
-msgstr ""
+msgstr "( LAST ATK \\v[entity.attrib.meteorGoal] )"
 
 #. data/enemies/beach/ape-beach.json actions/AttackCold/12/thenStep/0/text #40
 #. IF test
@@ -1024,7 +1024,7 @@ msgstr ""
 #: data/enemies/beach/ape-beach.json+actions/AttackCold/12/thenStep/0/text+%2340
 msgctxt "data/enemies/beach/ape-beach.json//actions/AttackCold/12/thenStep/0/text"
 msgid "( \\v[entity.attrib.attacks] )"
-msgstr ""
+msgstr "( \\v[entity.attrib.attacks] )"
 
 #. data/enemies/beach/ape-beach.json actions/AttackCold/38/thenStep/1/thenStep/2/thenStep/0/text #34
 #. COMBAT_IF
@@ -1034,7 +1034,7 @@ msgstr ""
 #: data/enemies/beach/ape-beach.json+actions/AttackCold/38/thenStep/1/thenStep/2/thenStep/0/text+%2334
 msgctxt "data/enemies/beach/ape-beach.json//actions/AttackCold/38/thenStep/1/thenStep/2/thenStep/0/text"
 msgid "( LAST ATK \\v[entity.attrib.iceGoal] )"
-msgstr ""
+msgstr "( LAST ATK \\v[entity.attrib.iceGoal] )"
 
 #. data/enemies/beach/ape-beach.json actions/AttackShock/12/thenStep/0/text #41
 #. IF test
@@ -1042,7 +1042,7 @@ msgstr ""
 #: data/enemies/beach/ape-beach.json+actions/AttackShock/12/thenStep/0/text+%2341
 msgctxt "data/enemies/beach/ape-beach.json//actions/AttackShock/12/thenStep/0/text"
 msgid "( \\v[entity.attrib.attacks] )"
-msgstr ""
+msgstr "( \\v[entity.attrib.attacks] )"
 
 #. data/enemies/beach/ape-beach.json actions/AttackShock/39/thenStep/1/thenStep/2/thenStep/0/text #36
 #. COMBAT_IF
@@ -1052,7 +1052,7 @@ msgstr ""
 #: data/enemies/beach/ape-beach.json+actions/AttackShock/39/thenStep/1/thenStep/2/thenStep/0/text+%2336
 msgctxt "data/enemies/beach/ape-beach.json//actions/AttackShock/39/thenStep/1/thenStep/2/thenStep/0/text"
 msgid "( LAST ATK \\v[entity.attrib.thunderGoal] )"
-msgstr ""
+msgstr "( LAST ATK \\v[entity.attrib.thunderGoal] )"
 
 #. data/enemies/beach/ape-beach.json actions/AttackWave/12/thenStep/0/text #42
 #. IF test
@@ -1060,7 +1060,7 @@ msgstr ""
 #: data/enemies/beach/ape-beach.json+actions/AttackWave/12/thenStep/0/text+%2342
 msgctxt "data/enemies/beach/ape-beach.json//actions/AttackWave/12/thenStep/0/text"
 msgid "( \\v[entity.attrib.attacks] )"
-msgstr ""
+msgstr "( \\v[entity.attrib.attacks] )"
 
 #. data/enemies/beach/ape-beach.json actions/AttackWave/39/thenStep/2/thenStep/2/thenStep/0/text #38
 #. COMBAT_IF
@@ -1070,7 +1070,7 @@ msgstr ""
 #: data/enemies/beach/ape-beach.json+actions/AttackWave/39/thenStep/2/thenStep/2/thenStep/0/text+%2338
 msgctxt "data/enemies/beach/ape-beach.json//actions/AttackWave/39/thenStep/2/thenStep/2/thenStep/0/text"
 msgid "( LAST ATK \\v[entity.attrib.cloneGoal] )"
-msgstr ""
+msgstr "( LAST ATK \\v[entity.attrib.cloneGoal] )"
 
 #. data/enemies/beach/ape-beach.json actions/SpecialCold/22/thenStep/0/thenStep/0/text #22
 #. IF entity.attrib.timeSpend < 8
@@ -1079,7 +1079,7 @@ msgstr ""
 #: data/enemies/beach/ape-beach.json+actions/SpecialCold/22/thenStep/0/thenStep/0/text+%2322
 msgctxt "data/enemies/beach/ape-beach.json//actions/SpecialCold/22/thenStep/0/thenStep/0/text"
 msgid "( TIME: \\v[entity.attrib.timeSpend] )"
-msgstr ""
+msgstr "( TIME: \\v[entity.attrib.timeSpend] )"
 
 #. data/enemies/beach/ape-beach.json actions/SpecialCold/26/thenStep/0/text #28
 #. IF test
@@ -1087,7 +1087,7 @@ msgstr ""
 #: data/enemies/beach/ape-beach.json+actions/SpecialCold/26/thenStep/0/text+%2328
 msgctxt "data/enemies/beach/ape-beach.json//actions/SpecialCold/26/thenStep/0/text"
 msgid "( Rest: \\v[entity.attrib.timeSpend] )"
-msgstr ""
+msgstr "( Rest: \\v[entity.attrib.timeSpend] )"
 
 #. data/enemies/beach/ape-beach.json actions/ElementBreak/3/elseStep/3/text #20
 #. IF NOT entity.attrib.eleBreak >= entity.attrib.eleBreakGoal
@@ -1095,7 +1095,7 @@ msgstr ""
 #: data/enemies/beach/ape-beach.json+actions/ElementBreak/3/elseStep/3/text+%2320
 msgctxt "data/enemies/beach/ape-beach.json//actions/ElementBreak/3/elseStep/3/text"
 msgid "-  \\c[3]\\v[entity.attrib.breakCountdown]\\c[0]  -"
-msgstr ""
+msgstr "- \\c[3]\\v[entity.attrib.breakCountdown]\\c[0] -"
 
 #. data/enemies/beach/ape-beach.json actions/ElementBreak/5/thenStep/0/text #44
 #. IF test
@@ -1103,7 +1103,7 @@ msgstr ""
 #: data/enemies/beach/ape-beach.json+actions/ElementBreak/5/thenStep/0/text+%2344
 msgctxt "data/enemies/beach/ape-beach.json//actions/ElementBreak/5/thenStep/0/text"
 msgid "( BREAK: \\v[entity.attrib.eleBreak] / \\v[entity.attrib.eleBreakGoal] )"
-msgstr ""
+msgstr "( BREAK: \\v[entity.attrib.eleBreak] / \\v[entity.attrib.eleBreakGoal] )"
 
 #. data/enemies/boss-driller.json actions/RegenShield/4/text #5
 #. SHOW_AR_MSG
@@ -1306,7 +1306,7 @@ msgstr "БЕЙТЕ!"
 #: data/enemies/cold/goat-father-2.json+actions/bombKickPassive/1/text+%2312
 msgctxt "data/enemies/cold/goat-father-2.json//actions/bombKickPassive/1/text"
 msgid "Preparing bomb..."
-msgstr "Готовит бомбу..."
+msgstr "Подготовка бомбы..."
 
 #. data/enemies/cold/goat-father-2.json actions/sceneKick/0/thenStep/0/text #11
 #. IF test
@@ -1398,7 +1398,7 @@ msgstr "БЕЙТЕ!"
 #: data/enemies/cold/goat-worker.json+actions/bombKickPassive/1/text+%2312
 msgctxt "data/enemies/cold/goat-worker.json//actions/bombKickPassive/1/text"
 msgid "Preparing bomb..."
-msgstr "Готовит бомбу..."
+msgstr "Подготовка бомбы..."
 
 #. data/enemies/cold/goat-worker.json actions/sceneKick/0/thenStep/0/text #11
 #. IF test
@@ -1660,7 +1660,7 @@ msgstr "БЕЙТЕ!"
 #: data/enemies/goat-cave.json+actions/bombKickPassive/1/text+%2312
 msgctxt "data/enemies/goat-cave.json//actions/bombKickPassive/1/text"
 msgid "Preparing bomb..."
-msgstr "Готовит бомбу..."
+msgstr "Подготовка бомбы..."
 
 #. data/enemies/goat-cave.json actions/sceneKick/0/thenStep/0/text #11
 #. IF test
@@ -2392,7 +2392,7 @@ msgstr "[Выпуск холода]"
 #: data/enemies/jungle/special/capture-cage-1.json+actions/shockHitActivate/8/text+%235
 msgctxt "data/enemies/jungle/special/capture-cage-1.json//actions/shockHitActivate/8/text"
 msgid "[ SEARCHING TARGET ]"
-msgstr "[Поиск цели]"
+msgstr "[ ПОИСК ЦЕЛИ ]"
 
 #. data/enemies/jungle/special/capture-cage-1.json actions/startCapture/1/thenStep/8/thenStep/0/text #8
 #. IF entity.hasTmpTarget
@@ -2401,7 +2401,7 @@ msgstr "[Поиск цели]"
 #: data/enemies/jungle/special/capture-cage-1.json+actions/startCapture/1/thenStep/8/thenStep/0/text+%238
 msgctxt "data/enemies/jungle/special/capture-cage-1.json//actions/startCapture/1/thenStep/8/thenStep/0/text"
 msgid "( \\v[entity.attrib.captureTarget] - \\v[entity.target.attrib.test] )"
-msgstr ""
+msgstr "( \\v[entity.attrib.captureTarget] - \\v[entity.target.attrib.test] )"
 
 #. data/enemies/jungle/special/capture-cage-1.json actions/succeedCapture/11/thenStep/0/text #15
 #. IF test
@@ -2409,7 +2409,7 @@ msgstr ""
 #: data/enemies/jungle/special/capture-cage-1.json+actions/succeedCapture/11/thenStep/0/text+%2315
 msgctxt "data/enemies/jungle/special/capture-cage-1.json//actions/succeedCapture/11/thenStep/0/text"
 msgid "( CAPTURE )"
-msgstr ""
+msgstr "( CAPTURE )"
 
 #. data/enemies/jungle/special/capture-cage-1.json actions/test/5/thenStep/0/text #17
 #. IF test
@@ -2417,7 +2417,7 @@ msgstr ""
 #: data/enemies/jungle/special/capture-cage-1.json+actions/test/5/thenStep/0/text+%2317
 msgctxt "data/enemies/jungle/special/capture-cage-1.json//actions/test/5/thenStep/0/text"
 msgid "( CAPTURE )"
-msgstr ""
+msgstr "( CAPTURE )"
 
 #. data/enemies/jungle/special/ghost-toxic.json actions/weakStart/3/text #30
 #. SHOW_AR_MSG
@@ -3493,7 +3493,7 @@ msgstr "[ ПОИМКА ]"
 #: data/enemies/jungle/special/shockat-capture.json+actions/CaptureStart/3/thenStep/1/thenStep/0/text+%2326
 msgctxt "data/enemies/jungle/special/shockat-capture.json//actions/CaptureStart/3/thenStep/1/thenStep/0/text"
 msgid "( CAPTURE START: \\v[entity.attrib.cageName] )"
-msgstr ""
+msgstr "( CAPTURE START: \\v[entity.attrib.cageName] )"
 
 #. data/enemies/jungle/special/shockat-capture.json actions/CaptureTick/8/thenStep/0/text #23
 #. IF test
@@ -3501,7 +3501,7 @@ msgstr ""
 #: data/enemies/jungle/special/shockat-capture.json+actions/CaptureTick/8/thenStep/0/text+%2323
 msgctxt "data/enemies/jungle/special/shockat-capture.json//actions/CaptureTick/8/thenStep/0/text"
 msgid "(CAPTURE: \\v[tmp.temp] )"
-msgstr ""
+msgstr "(CAPTURE: \\v[tmp.temp] )"
 
 #. data/enemies/jungle/special/shockat-capture.json actions/CaptureFail/6/thenStep/0/text #27
 #. IF test
@@ -3509,7 +3509,7 @@ msgstr ""
 #: data/enemies/jungle/special/shockat-capture.json+actions/CaptureFail/6/thenStep/0/text+%2327
 msgctxt "data/enemies/jungle/special/shockat-capture.json//actions/CaptureFail/6/thenStep/0/text"
 msgid "( FREE!!! \\v[entity.attrib.cageName] )"
-msgstr ""
+msgstr "( FREE!!! \\v[entity.attrib.cageName] )"
 
 #. data/enemies/jungle/special/shockat-capture.json actions/InterruptCapture/5/thenStep/0/text #28
 #. IF test
@@ -3517,7 +3517,7 @@ msgstr ""
 #: data/enemies/jungle/special/shockat-capture.json+actions/InterruptCapture/5/thenStep/0/text+%2328
 msgctxt "data/enemies/jungle/special/shockat-capture.json//actions/InterruptCapture/5/thenStep/0/text"
 msgid "( INTERRUPT CAPTURE )"
-msgstr ""
+msgstr "( INTERRUPT CAPTURE )"
 
 #. data/enemies/jungle/special/shockat-capture.json actions/KillSurvive/0/text #35
 #. SHOW_AR_MSG
@@ -4389,6 +4389,20 @@ msgctxt "data/enemies/turret-rhg-1.json//actions/StartFullShield/0/text"
 msgid "FullShield On"
 msgstr "Щит активирован"
 
+#. extension/fish-gear/data/enemies/minibosses/fish-mega-gear.json actions/RepairStart/25/text #5
+#. SHOW_AR_MSG
+#: extension/fish-gear/data/enemies/minibosses/fish-mega-gear.json+actions/RepairStart/25/text+%235
+msgctxt "extension/fish-gear/data/enemies/minibosses/fish-mega-gear.json//actions/RepairStart/25/text"
+msgid "Repairing"
+msgstr "Восстановление"
+
+#. extension/flying-hedgehag/data/enemies/minibosses/hedgehag-king.json actions/WeakShield/9/text #4
+#. SHOW_AR_MSG
+#: extension/flying-hedgehag/data/enemies/minibosses/hedgehag-king.json+actions/WeakShield/9/text+%234
+msgctxt "extension/flying-hedgehag/data/enemies/minibosses/hedgehag-king.json//actions/WeakShield/9/text"
+msgid "Emergency Shield"
+msgstr "Аварийный щит"
+
 #. extension/post-game/data/enemies/beach/fish.json actions/QuestEscort-TargetEscortee/12/text #27
 #. SHOW_AR_MSG
 #: extension/post-game/data/enemies/beach/fish.json+actions/QuestEscort-TargetEscortee/12/text+%2327
@@ -4567,34 +4581,34 @@ msgctxt "extension/post-game/data/enemies/final/god-neutral.json//actions/RegenG
 msgid "Recover"
 msgstr "Восстановление"
 
-#. extension/post-game/data/enemies/final/god-neutral.json actions/AddWeakShield/2/0_0/0/text #15
+#. extension/post-game/data/enemies/final/god-neutral.json actions/AddWeakShield/2/0_0/1/text #15
 #. SELECT_RANDOM
 #. SHOW_AR_MSG
-#: extension/post-game/data/enemies/final/god-neutral.json+actions/AddWeakShield/2/0_0/0/text+%2315
-msgctxt "extension/post-game/data/enemies/final/god-neutral.json//actions/AddWeakShield/2/0_0/0/text"
+#: extension/post-game/data/enemies/final/god-neutral.json+actions/AddWeakShield/2/0_0/1/text+%2315
+msgctxt "extension/post-game/data/enemies/final/god-neutral.json//actions/AddWeakShield/2/0_0/1/text"
 msgid "HEAT SHIELD"
 msgstr "ЩИТ ПЛАМЕНИ"
 
-#. extension/post-game/data/enemies/final/god-neutral.json actions/AddWeakShield/2/1_0/0/text #16
+#. extension/post-game/data/enemies/final/god-neutral.json actions/AddWeakShield/2/1_0/1/text #16
 #. SELECT_RANDOM
 #. SHOW_AR_MSG
-#: extension/post-game/data/enemies/final/god-neutral.json+actions/AddWeakShield/2/1_0/0/text+%2316
-msgctxt "extension/post-game/data/enemies/final/god-neutral.json//actions/AddWeakShield/2/1_0/0/text"
+#: extension/post-game/data/enemies/final/god-neutral.json+actions/AddWeakShield/2/1_0/1/text+%2316
+msgctxt "extension/post-game/data/enemies/final/god-neutral.json//actions/AddWeakShield/2/1_0/1/text"
 msgid "COLD SHIELD"
 msgstr "ЩИТ ХОЛОДА"
 
-#. extension/post-game/data/enemies/final/god-neutral.json actions/AddWeakShield/2/2_0/0/text #17
+#. extension/post-game/data/enemies/final/god-neutral.json actions/AddWeakShield/2/2_0/1/text #17
 #. SELECT_RANDOM
 #. SHOW_AR_MSG
-#: extension/post-game/data/enemies/final/god-neutral.json+actions/AddWeakShield/2/2_0/0/text+%2317
-msgctxt "extension/post-game/data/enemies/final/god-neutral.json//actions/AddWeakShield/2/2_0/0/text"
+#: extension/post-game/data/enemies/final/god-neutral.json+actions/AddWeakShield/2/2_0/1/text+%2317
+msgctxt "extension/post-game/data/enemies/final/god-neutral.json//actions/AddWeakShield/2/2_0/1/text"
 msgid "SHOCK SHIELD"
 msgstr "ЩИТ ШОКА"
 
-#. extension/post-game/data/enemies/final/god-neutral.json actions/AddWeakShield/2/3_0/0/text #18
+#. extension/post-game/data/enemies/final/god-neutral.json actions/AddWeakShield/2/3_0/1/text #18
 #. SELECT_RANDOM
 #. SHOW_AR_MSG
-#: extension/post-game/data/enemies/final/god-neutral.json+actions/AddWeakShield/2/3_0/0/text+%2318
-msgctxt "extension/post-game/data/enemies/final/god-neutral.json//actions/AddWeakShield/2/3_0/0/text"
+#: extension/post-game/data/enemies/final/god-neutral.json+actions/AddWeakShield/2/3_0/1/text+%2318
+msgctxt "extension/post-game/data/enemies/final/god-neutral.json//actions/AddWeakShield/2/3_0/1/text"
 msgid "WAVE SHIELD"
 msgstr "ЩИТ ВОЛНЫ"
