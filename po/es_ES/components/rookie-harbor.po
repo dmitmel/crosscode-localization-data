@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-11 15:55+0000\n"
-"PO-Revision-Date: 2022-01-12 19:39+0000\n"
-"Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
+"PO-Revision-Date: 2022-01-13 00:34+0000\n"
+"Last-Translator: Esteban Herrera Ortúzar <estebanherreraortuzar@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.crosscode.ru/projects/crosscode/rookie-harbor/es/>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
@@ -280,7 +280,7 @@ msgstr ""
 #: data/maps/rookie-harbor/center.json+entities/485/settings/blockEvent/4/message+%23252
 msgctxt "data/maps/rookie-harbor/center.json//entities/485/settings/blockEvent/4/message"
 msgid "Hey Lea!\\. Please don't just run off like that, d'accord?\\. We're over here!"
-msgstr "¡Ey Lea!\\. Por favor no te vayas corriendo así sin más, ¿d'accord?\\. ¡Estamos por aquí!"
+msgstr "¡Ey, Lea!\\. Por favor no te vayas corriendo así sin más, ¿d'accord?\\. ¡Estamos por aquí!"
 
 #. data/maps/rookie-harbor/center.json entities/493/settings/analyzable/text #413
 #. NPC Trader_DrillBoom
@@ -346,7 +346,7 @@ msgstr "Buffs de Novatina"
 #: data/maps/rookie-harbor/center.json+entities/499/settings/npcStates/0/event/2/message+%23402
 msgctxt "data/maps/rookie-harbor/center.json//entities/499/settings/npcStates/0/event/2/message"
 msgid "Ah, hello.\\. I'm sorry, but we haven't properly prepared our shop yet."
-msgstr "Ah, hola.\\. Lo siento pero nuestra tienda no está lista."
+msgstr "Ah, hola.\\. Lo siento, pero nuestra tienda no está lista."
 
 #. data/maps/rookie-harbor/center.json entities/499/settings/npcStates/0/event/3/message #403
 #. NPC Trader_Buffs_3
@@ -362,7 +362,7 @@ msgstr "Por favor visítanos más tarde para probar nuestras comidas de alta cal
 #: data/maps/rookie-harbor/center.json+entities/502/settings/npcStates/0/event/2/message+%23433
 msgctxt "data/maps/rookie-harbor/center.json//entities/502/settings/npcStates/0/event/2/message"
 msgid "Sorry \\v[lore.title.seeker], but this shop isn't ready yet."
-msgstr "Lo siento \\v[lore.title.seeker]a, pero esta tienda no está lista aún."
+msgstr "Lo siento, \\v[lore.title.seeker]a, pero esta tienda no está lista aún."
 
 #. data/maps/rookie-harbor/center.json entities/502/settings/npcStates/0/event/3/message #434
 #. NPC Trader_Buffs_1
@@ -386,7 +386,7 @@ msgstr "Hay tantas opciones... "
 #: data/maps/rookie-harbor/center.json+entities/504/settings/dialog/1/text+%2327
 msgctxt "data/maps/rookie-harbor/center.json//entities/504/settings/dialog/1/text"
 msgid "Don't know where to start..."
-msgstr "No sé por donde empezar..."
+msgstr "No sé por dónde empezar..."
 
 #. data/maps/rookie-harbor/center.json entities/505/settings/displayName #266
 #. NPC Ark
@@ -402,7 +402,7 @@ msgstr "Arco"
 #: data/maps/rookie-harbor/center.json+entities/505/settings/npcStates/0/event/2/thenStep/0/message+%234
 msgctxt "data/maps/rookie-harbor/center.json//entities/505/settings/npcStates/0/event/2/thenStep/0/message"
 msgid "Good work finding this spot."
-msgstr "Buen trabajo encontrando este lugar."
+msgstr "Buen trabajo por encontrar este lugar."
 
 #. data/maps/rookie-harbor/center.json entities/505/settings/npcStates/0/event/2/thenStep/1/message #28
 #. NPC Ark
@@ -447,7 +447,7 @@ msgstr "Pero el contenido está replicado para cada jugador."
 #: data/maps/rookie-harbor/center.json+entities/505/settings/npcStates/0/event/2/thenStep/5/message+%2332
 msgctxt "data/maps/rookie-harbor/center.json//entities/505/settings/npcStates/0/event/2/thenStep/5/message"
 msgid "That's cool, right? No more annoying empty chests because some random player reached it before you!"
-msgstr "Menos mal, ¿no? ¡No tenemos que lidiar con molestos cofres vacíos porque algún otro jugador llegó antes que tí!"
+msgstr "Menos mal, ¿no? ¡No tenemos que lidiar con molestos cofres vacíos porque algún otro jugador llegó antes que tú!"
 
 #. data/maps/rookie-harbor/center.json entities/505/settings/npcStates/0/event/2/thenStep/6/message #33
 #. NPC Ark
@@ -1442,10 +1442,9 @@ msgstr "¡...!"
 #. OPEN_QUEST_DIALOG
 #. SHOW_MSG main.dkar @DEFAULT
 #: data/maps/rookie-harbor/center.json+entities/575/settings/npcStates/0/event/quest/25/accepted/8/message+%23155
-#, fuzzy
 msgctxt "data/maps/rookie-harbor/center.json//entities/575/settings/npcStates/0/event/quest/25/accepted/8/message"
 msgid "Good to hear! But don't keep me waiting, alright?"
-msgstr "¡Me alegra oír eso! Pero no me hagas esperar, ¿si?"
+msgstr "¡Me alegra oír eso! Pero no me hagas esperar, ¿sí?"
 
 #. data/maps/rookie-harbor/center.json entities/575/settings/npcStates/0/event/quest/25/accepted/9/message #156
 #. NPC DKar
@@ -4479,10 +4478,9 @@ msgstr "Aún no se sabe qué sucede cuando se consiguen los cuatro elementos y s
 #. IF item.135.amount >= 1
 #. SHOW_BOARD_MSG
 #: data/maps/rookie-harbor/central-quest-hub-2.json+entities/26/settings/condAnims/0/interact/event/1/text+%2396
-#, fuzzy
 msgctxt "data/maps/rookie-harbor/central-quest-hub-2.json//entities/26/settings/condAnims/0/interact/event/1/text"
 msgid "Even after 10 years of Operation Track Walker, not a single Seeker has managed to overcome the final challenge."
-msgstr "Incluso ahora, 10 años después de que se comenzó la Operación Aprendiz del Camino, ningún Buscador ha conseguido superar el desafío final."
+msgstr "Incluso ahora, 10 años después de que comenzó la Operación Aprendiz del Camino, ningún Buscador ha conseguido superar el desafío final."
 
 #. data/maps/rookie-harbor/central-quest-hub-2.json entities/26/settings/condAnims/0/interact/event/2/text #97
 #. Prop 07_secret
