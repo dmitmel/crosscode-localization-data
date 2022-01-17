@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-11 15:55+0000\n"
-"PO-Revision-Date: 2022-01-17 02:24+0000\n"
+"PO-Revision-Date: 2022-01-17 03:31+0000\n"
 "Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.crosscode.ru/projects/crosscode/lang/es/>\n"
 "Language: es_ES\n"
@@ -1200,7 +1200,7 @@ msgstr "Mostrar Tutorial"
 #: data/lang/sc/gui.en_US.json+labels/bigChoice/tutorial/no+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/bigChoice/tutorial/no"
 msgid "Skip"
-msgstr "Saltear"
+msgstr "Saltar"
 
 #. data/lang/sc/gui.en_US.json labels/bigChoice/generic/title #0
 #: data/lang/sc/gui.en_US.json+labels/bigChoice/generic/title+%230
@@ -1398,7 +1398,7 @@ msgstr "Sobrecarga Elemental"
 #: data/lang/sc/gui.en_US.json+labels/combat-hud/skip+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/combat-hud/skip"
 msgid "skip"
-msgstr "Saltear"
+msgstr "Saltar"
 
 #. data/lang/sc/gui.en_US.json labels/combat-msg/break #0
 #: data/lang/sc/gui.en_US.json+labels/combat-msg/break+%230
@@ -1644,7 +1644,7 @@ msgstr "Concent."
 #: data/lang/sc/gui.en_US.json+labels/button/skip+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/button/skip"
 msgid "skip"
-msgstr "saltear"
+msgstr "Saltar"
 
 #. data/lang/sc/gui.en_US.json labels/money-hud/title #0
 #: data/lang/sc/gui.en_US.json+labels/money-hud/title+%230
@@ -2740,7 +2740,7 @@ msgstr "Mega Nutrientes"
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/rhombus-start+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/rhombus-start"
 msgid "Skip Beginning"
-msgstr "Saltear el Inicio"
+msgstr "Saltar el Inicio"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/combat-arts-level-1 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/combat-arts-level-1+%230
@@ -3784,7 +3784,7 @@ msgstr "El poder de defensa del enemigo seleccionado."
 #: data/lang/sc/gui.en_US.json+labels/menu/help/enemy/description/foc+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/enemy/description/foc"
 msgid "Focus of the selected enemy. Determines how often it deals critical hits."
-msgstr "La concentración del enemigo seleccionado. Determina que tan frecuentemente hace ataques críticos."
+msgstr "La concentración del enemigo seleccionado. Determina que tan frecuentemente hace golpes críticos."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/botanics/titles/info #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/botanics/titles/info+%230
@@ -4951,7 +4951,7 @@ msgstr "Dispara proyectiles cuando utilices ataques de cuerpo a cuerpo. Los proy
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/descriptions/CRITICAL_DMG+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/equip/descriptions/CRITICAL_DMG"
 msgid "Increases critical hit damage."
-msgstr "Incrementa el daño de los ataques críticos."
+msgstr "Incrementa el daño de los golpes críticos."
 
 #. data/lang/sc/gui.en_US.json labels/menu/equip/descriptions/DASH_INVINC #0
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/descriptions/DASH_INVINC+%230
@@ -5053,7 +5053,7 @@ msgstr "Incrementa el margen para realizar un bloqueo perfecto."
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/descriptions/GUARD_SP+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/equip/descriptions/GUARD_SP"
 msgid "Restores SP on guard based on the power of the attack. Double that for a perfect guard."
-msgstr "Regenera tus PE cuando bloqueas en base al poder del ataque. La regeneración se duplica si es un bloqueo perfecto."
+msgstr "Cuando bloqueas, regeneras PE en base al poder del ataque bloqueado. El efecto se duplica si es un bloqueo perfecto."
 
 #. data/lang/sc/gui.en_US.json labels/menu/equip/descriptions/RANK_PLANTS #0
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/descriptions/RANK_PLANTS+%230
@@ -10005,6 +10005,8 @@ msgid ""
 "Increases MaxHP by \\c[3][xyz]%\\c[0]. \n"
 "Determines how much HP you can have to survive damage."
 msgstr ""
+"Incrementa los PV máximos en un \\c[3][xyz]%\\c[0].\n"
+"Determina cuantos PV tienes para aguantar más daño."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/ATK #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/ATK+%230
@@ -10013,6 +10015,8 @@ msgid ""
 "Increases Attack by \\c[3][xyz]%\\c[0]. \n"
 "Increases the damage you can deal with your attacks."
 msgstr ""
+"Incrementa el Ataque en un \\c[3][xyz]%\\c[0].\n"
+"Incrementa el daño que causan tus golpes."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/DEF #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/DEF+%230
@@ -10021,8 +10025,8 @@ msgid ""
 "Increases Defense by \\c[3][xyz]%\\c[0]. \n"
 "Decreases the damage you take and improves guarding."
 msgstr ""
-"Aumenta la Defensa en un \\c[3][xyz]%\\c[0].\n"
-"Disminuye el daño que recibes y mejora tu habilidad de bloqueo."
+"Incrementa la Defensa en un \\c[3][xyz]%\\c[0].\n"
+"Disminuye el daño que recibes y mejora tu escudo."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/FOC #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/FOC+%230
@@ -10031,144 +10035,146 @@ msgid ""
 "Increases Focus by \\c[3][xyz]%\\c[0]. \n"
 "Determines frequency of critical hits and status effects, the time window for parry and dash invincibility and your SP Gain."
 msgstr ""
+"Incrementa la Concentración en un \\c[3][xyz]%\\c[0].\n"
+"Determina la probabilidad de golpes críticos, regeneración de PE, daño infligido y estado imbatible al esquivar."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/OWN_ELEMENT_RES_HEAT #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/OWN_ELEMENT_RES_HEAT+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/OWN_ELEMENT_RES_HEAT"
 msgid "Increases resistance to Heat by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Incrementa la resistencia al Fuego en un \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/COUNTER_ELEMENT_RES_HEAT #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/COUNTER_ELEMENT_RES_HEAT+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/COUNTER_ELEMENT_RES_HEAT"
 msgid "Increases resistance to Cold by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Incrementa la resistencia al Hielo en un \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/OWN_ELEMENT_RES_COLD #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/OWN_ELEMENT_RES_COLD+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/OWN_ELEMENT_RES_COLD"
 msgid "Increases resistance to Cold by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Incrementa la resistencia al Hielo en un \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/COUNTER_ELEMENT_RES_COLD #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/COUNTER_ELEMENT_RES_COLD+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/COUNTER_ELEMENT_RES_COLD"
 msgid "Increases resistance to Heat by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Incrementa la resistencia al Fuego en un \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/OWN_ELEMENT_RES_SHOCK #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/OWN_ELEMENT_RES_SHOCK+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/OWN_ELEMENT_RES_SHOCK"
 msgid "Increases resistance to Shock by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Incrementa la resistencia al Rayo en un \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/COUNTER_ELEMENT_RES_SHOCK #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/COUNTER_ELEMENT_RES_SHOCK+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/COUNTER_ELEMENT_RES_SHOCK"
 msgid "Increases resistance to Wave by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Incrementa la resistencia al Pulso en un \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/OWN_ELEMENT_RES_WAVE #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/OWN_ELEMENT_RES_WAVE+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/OWN_ELEMENT_RES_WAVE"
 msgid "Increases resistance to Wave by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Incrementa la resistencia al Pulso en un \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/COUNTER_ELEMENT_RES_WAVE #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/COUNTER_ELEMENT_RES_WAVE+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/COUNTER_ELEMENT_RES_WAVE"
 msgid "Increases resistance to Shock by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Incrementa la resistencia al Rayo en un \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/ALL_ELEMENT_RES #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/ALL_ELEMENT_RES+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/ALL_ELEMENT_RES"
 msgid "Increases resistance to all Elements by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Incrementa la resistencia a todos los elementos en un \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/RANGED_DAMAGE #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/RANGED_DAMAGE+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/RANGED_DAMAGE"
 msgid "Increases the damage of Ranged Attacks by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Incrementa el daño de los Ataques a Distancia en un \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/CHARGED_KNOCKBACK #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/CHARGED_KNOCKBACK+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/CHARGED_KNOCKBACK"
 msgid "Increases the knockback distance of charged projectiles by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Incrementa el empuje de los proyectiles cargados en un \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/MELEE_DAMAGE #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/MELEE_DAMAGE+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/MELEE_DAMAGE"
 msgid "Increases the damage of Melee Attacks by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Incrementa el daño de los ataques Cuerpo a Cuerpo en un \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/ASSAULT #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/ASSAULT+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/ASSAULT"
 msgid "Melee attacks fire additional small projectiles for \\c[3][xyz]%\\c[0] of the base damage."
-msgstr ""
+msgstr "Los ataques Cuerpo a Cuerpo disparan pequeños proyectiles que hacen un \\c[3][xyz]%\\c[0] del daño base."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/CRITICAL_DAMAGE #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/CRITICAL_DAMAGE+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/CRITICAL_DAMAGE"
 msgid "Increases the damage of Critical Strikes by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Incrementa el daño de los Golpes Críticos en un \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/AIMING_SPEED #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/AIMING_SPEED+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/AIMING_SPEED"
 msgid "Decreases time needed to aim by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Reduce el tiempo necesario para apuntar con precisión en un \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/AIMING_STABILITY #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/AIMING_STABILITY+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/AIMING_STABILITY"
 msgid "Decreases the loss of aim from quick aim movement and dashes by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Reduce la pérdida de precisión al mover la mira erráticamente o esquivar en un \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/AIMING_MOVEMENT_SPEED #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/AIMING_MOVEMENT_SPEED+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/AIMING_MOVEMENT_SPEED"
 msgid "Increases your movement speed while aiming by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Incrementa tu velocidad de movimiento al apuntar en un \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/DASH_DISTANCE #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/DASH_DISTANCE+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/DASH_DISTANCE"
 msgid "Prolongs the invincibility when dashing by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Incrementa el periodo de invencibilidad al esquivar en un \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/ADDITIONAL_DASH_STEP #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/ADDITIONAL_DASH_STEP+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/ADDITIONAL_DASH_STEP"
 msgid "Grants \\c[3]one\\c[0] additional dash step."
-msgstr ""
+msgstr "Otorga \\c[3]un\\c[0] esquive adicional."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/GUARD_STRENGTH #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/GUARD_STRENGTH+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/GUARD_STRENGTH"
 msgid "Strengthens your shield and decreases the damage taken when guarding by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Refuerza tu escudo y reduce el daño recibido al bloquear en un \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/ADDITIONAL_GUARD_AREA #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/ADDITIONAL_GUARD_AREA+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/ADDITIONAL_GUARD_AREA"
 msgid "Allows to guard against attacks \\c[3]from the side\\c[0]. Activate twice to guard attacks \\c[3]from above\\c[0] too."
-msgstr ""
+msgstr "Tu escudo te protegerá de ataques \\c[3]a tus lados\\c[0]. Si lo activas dos veces, también de ataques \\c[3]desde arriba\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/ADDITIONAL_GUARD_AREA_2 #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/ADDITIONAL_GUARD_AREA_2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/ADDITIONAL_GUARD_AREA_2"
 msgid "Allows to guard against attacks \\c[3]from above\\c[0]."
-msgstr ""
+msgstr "Tu escudo protegerá ataques \\c[3]desde arriba\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/STUN_THRESHOLD #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/STUN_THRESHOLD+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/STUN_THRESHOLD"
 msgid "Increases the immunity to knockback from attacks by \\c[3][xyz]%\\c[0], depending on MaxHP."
-msgstr ""
+msgstr "Los ataques por la espalda te empujarán un \\c[3][xyz]%\\c[0] menos, dependiendo de los PV Máximos."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/STATUS_CONDITION_EFFECT_HEAT #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/STATUS_CONDITION_EFFECT_HEAT+%230
@@ -10176,7 +10182,7 @@ msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/STATUS_CONDITIO
 msgid ""
 "Increases the speed of inflicting the \\c[3]Burn\\c[0] Condition and its effect by \\c[3][xyz]%\\c[0]. \n"
 "\\c[3]Burn\\c[0] causes damage over time, depending on the MaxHP of the victim."
-msgstr ""
+msgstr "Incrementa la velocidad en la que se provoca la condición \\c[3]Llamas\\c[0] y su efecto en un c[3][xyz]%\\c[0]. \\c[3]Llamas\\c[0] causa daño periódicamente, en base a la vida máxima del objetivo."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/STATUS_CONDITION_EFFECT_COLD #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/STATUS_CONDITION_EFFECT_COLD+%230
@@ -10184,7 +10190,7 @@ msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/STATUS_CONDITIO
 msgid ""
 "Increases the speed of inflicting the \\c[3]Chill\\c[0] Condition and its effect by \\c[3][xyz]%\\c[0]. \n"
 "\\c[3]Chill\\c[0] decreases the overall speed of the victim."
-msgstr ""
+msgstr "Incrementa la velocidad en la que se provoca la condición \\c[3]Frío\\c[0] y su efecto en un c[3][xyz]%\\c[0]. \\c[3]Frío\\c[0] reduce la velocidad del objetivo."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/STATUS_CONDITION_EFFECT_SHOCK #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/STATUS_CONDITION_EFFECT_SHOCK+%230
@@ -10192,7 +10198,7 @@ msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/STATUS_CONDITIO
 msgid ""
 "Increases the speed of inflicting the \\c[3]Jolt\\c[0] Condition and its effect by \\c[3][xyz]%\\c[0]. \n"
 "\\c[3]Jolt\\c[0] causes damage and stuns in short intervals."
-msgstr ""
+msgstr "Incrementa la velocidad en la que se provoca la condición \\c[3]Choque\\c[0] y su efecto en un c[3][xyz]%\\c[0]. \\c[3]Choque\\c[0] causa daño y aturde brevemente al objetivo periódicamente."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/STATUS_CONDITION_EFFECT_WAVE #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/STATUS_CONDITION_EFFECT_WAVE+%230
@@ -10200,7 +10206,7 @@ msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/STATUS_CONDITIO
 msgid ""
 "Increases the speed of inflicting the \\c[3]Mark\\c[0] Condition and its effect by \\c[3][xyz]%\\c[0]. \n"
 "\\c[3]Mark\\c[0] increases the received ranged damage by 50%."
-msgstr ""
+msgstr "Incrementa la velocidad en la que se provoca la condición \\c[3]Marca\\c[0] y su efecto en un c[3][xyz]%\\c[0]. \\c[3]Marca\\c[0] incrementa el daño de los ataques a distancia un 50%."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/STATUS_CONDITION_GUARD_HEAT #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/STATUS_CONDITION_GUARD_HEAT+%230
@@ -10208,7 +10214,7 @@ msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/STATUS_CONDITIO
 msgid ""
 "Increases the resistance against the \\c[3]Burn\\c[0] Condition and reduces its effect by \\c[3][xyz]%\\c[0]. \n"
 "\\c[3]Burn\\c[0] causes damage over time, depending on the MaxHP of the victim."
-msgstr ""
+msgstr "La resistencia contra la condición \\c[3]Llamas\\c[0] aumenta en un \\c[3][xyz]%\\c[0] y se reduce su efecto. \\c[3]Llamas\\c[0] causa daño periódicamente, en base a la vida máxima del objetivo."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/STATUS_CONDITION_GUARD_COLD #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/STATUS_CONDITION_GUARD_COLD+%230
@@ -10216,7 +10222,7 @@ msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/STATUS_CONDITIO
 msgid ""
 "Increases the resistance against the \\c[3]Chill\\c[0] Condition and reduces its effect by \\c[3][xyz]%\\c[0]. \n"
 "\\c[3]Chill\\c[0] decreases the overall speed of the victim."
-msgstr ""
+msgstr "La resistencia contra la condición \\c[3]Frío\\c[0] aumenta en un \\c[3][xyz]%\\c[0] y se reduce su efecto. \\c[3]Frío\\c[0] reduce la velocidad del objetivo."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/STATUS_CONDITION_GUARD_SHOCK #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/STATUS_CONDITION_GUARD_SHOCK+%230
@@ -10224,7 +10230,7 @@ msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/STATUS_CONDITIO
 msgid ""
 "Increases the resistance against the \\c[3]Jolt\\c[0] Condition and reduces its effect by \\c[3][xyz]%\\c[0]. \n"
 "\\c[3]Jolt\\c[0] causes damage and stuns in short intervals."
-msgstr ""
+msgstr "La resistencia contra la condición \\c[3]Choque\\c[0] aumenta en un \\c[3][xyz]%\\c[0] y se reduce su efecto. \\c[3]Choque\\c[0] causa daño y aturde brevemente al objetivo periódicamente."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/STATUS_CONDITION_GUARD_WAVE #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/STATUS_CONDITION_GUARD_WAVE+%230
@@ -10232,505 +10238,505 @@ msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/STATUS_CONDITIO
 msgid ""
 "Increases the resistance against the \\c[3]Mark\\c[0] Condition and reduces its effect by \\c[3][xyz]%\\c[0]. \n"
 "\\c[3]Mark\\c[0] increases the received ranged damage by 50%."
-msgstr ""
+msgstr "La resistencia contra la condición \\c[3]Marca\\c[0] aumenta en un \\c[3][xyz]%\\c[0] y se reduce su efecto. \\c[3]Marca\\c[0] incrementa el daño de los ataques a distancia un 50%."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/STATUS_CONDITION_HEALING #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/STATUS_CONDITION_HEALING+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/STATUS_CONDITION_HEALING"
 msgid "Increases the recovery speed from all negative status conditions by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Incrementa la velocidad de recuperación de todos los estados alterados negativos en un \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/HP_REGENERATION #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/HP_REGENERATION+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/HP_REGENERATION"
 msgid "Regenerates \\c[3][xyz]%\\c[0] of HP over 60 seconds of combat. Healing frequency increases with higher percentage."
-msgstr ""
+msgstr "Regenera un \\c[3][xyz]%\\c[0] de tu vida máxima cada 60 segundos en combate. La frecuencia aumenta con un porcentaje más alto."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/OVERHEAT_REDUCTION #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/OVERHEAT_REDUCTION+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/OVERHEAT_REDUCTION"
 msgid "Slows down the Elemental Overload by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Ralentiza la Sobrecarga Elemental en un \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/ITEM_BOOST #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/ITEM_BOOST+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/ITEM_BOOST"
 msgid "Increases the effect of healing and the duration of buffs from items by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Incrementa el efecto de los objetos de curación y la duración de sus mejoras en un \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/APPETITE #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/APPETITE+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/APPETITE"
 msgid "Unlocks \\c[3]one\\c[0] additional buff slot."
-msgstr ""
+msgstr "Podrás tener \\c[3]una\\c[0] mejora activa adicional."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/SPIKE_DAMAGE #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/SPIKE_DAMAGE+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/SPIKE_DAMAGE"
 msgid "When guarding, reflects \\c[3][xyz]%\\c[0] of the total absorbed damage back on the attacker."
-msgstr ""
+msgstr "Cuando bloqueas, reflejas un \\c[3][xyz]%\\c[0] del daño absorbido al atacante."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/CROSS_COUNTER #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/CROSS_COUNTER+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/CROSS_COUNTER"
 msgid "Increases damage on enemies that are attacking or charging by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Incrementa el daño provocado a los enemigos que estén atacando o cargando un ataque en un \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/BERSERKER #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/BERSERKER+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/BERSERKER"
 msgid "Increases Damage by \\c[3][xyz]%\\c[0] when at critical HP. (Below 33% of MaxHP)"
-msgstr ""
+msgstr "Incrementa el daño en un \\c[3][xyz]%\\c[0] cuando tu vida esté por debajo del 33% de la vida máxima."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/BREAK_DMG #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/BREAK_DMG+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/BREAK_DMG"
 msgid "Increases Damage on enemies that are stunned, weak or in break state by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Incrementa el daño a los enemigos aturdidos o débiles en un \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/ONCE_MORE #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/ONCE_MORE+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/ONCE_MORE"
 msgid "Survive exactly \\c[3]one attack\\c[0] that would normally kill you."
-msgstr ""
+msgstr "Sobrevive exactamente \\c[3]un ataque\\c[0] que te habría eliminado normalmente."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/GUARD_SP #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/GUARD_SP+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/GUARD_SP"
 msgid "Restores SP on guard based on \\c[3][xyz]%\\c[0] of the attack's power. (\\c[3]Double\\c[0] for perfect guard)"
-msgstr ""
+msgstr "Cuando bloqueas, regeneras PE en base al \\c[3][xyz]%\\c[0] del poder del ataque bloqueado. El efecto se \\c[3]duplica\\c[0] si es un bloqueo perfecto."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/ACTIVE_PLACEHOLDER #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/ACTIVE_PLACEHOLDER+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/ACTIVE_PLACEHOLDER"
 msgid "\\c[3]Placeholder\\c[0] for a Special Attack that can be learned in future versions."
-msgstr ""
+msgstr "\\c[3]Marcador\\c[0] para un Ataque Especial que se podrá aprender en versiones futuras."
 
 #. data/lang/sc/gui.en_US.json labels/options/headers/sound #0
 #: data/lang/sc/gui.en_US.json+labels/options/headers/sound+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/headers/sound"
 msgid "Audio"
-msgstr ""
+msgstr "Audio"
 
 #. data/lang/sc/gui.en_US.json labels/options/headers/menu #0
 #: data/lang/sc/gui.en_US.json+labels/options/headers/menu+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/headers/menu"
 msgid "Menu"
-msgstr ""
+msgstr "Menú"
 
 #. data/lang/sc/gui.en_US.json labels/options/headers/gameplay #0
 #: data/lang/sc/gui.en_US.json+labels/options/headers/gameplay+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/headers/gameplay"
 msgid "Gameplay"
-msgstr ""
+msgstr "Jugabilidad"
 
 #. data/lang/sc/gui.en_US.json labels/options/headers/debug #0
 #: data/lang/sc/gui.en_US.json+labels/options/headers/debug+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/headers/debug"
 msgid "Debug"
-msgstr ""
+msgstr "Depuración"
 
 #. data/lang/sc/gui.en_US.json labels/options/headers/main #0
 #: data/lang/sc/gui.en_US.json+labels/options/headers/main+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/headers/main"
 msgid "Main Menu"
-msgstr ""
+msgstr "Menú Principal"
 
 #. data/lang/sc/gui.en_US.json labels/options/headers/field #0
 #: data/lang/sc/gui.en_US.json+labels/options/headers/field+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/headers/field"
 msgid "Gameplay"
-msgstr ""
+msgstr "Jugabilidad"
 
 #. data/lang/sc/gui.en_US.json labels/options/headers/quick #0
 #: data/lang/sc/gui.en_US.json+labels/options/headers/quick+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/headers/quick"
 msgid "Quick Menu"
-msgstr ""
+msgstr "Acceso Rápido"
 
 #. data/lang/sc/gui.en_US.json labels/options/headers/quests #0
 #: data/lang/sc/gui.en_US.json+labels/options/headers/quests+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/headers/quests"
 msgid "Quests"
-msgstr ""
+msgstr "Misiones"
 
 #. data/lang/sc/gui.en_US.json labels/options/headers/cutscenes #0
 #: data/lang/sc/gui.en_US.json+labels/options/headers/cutscenes+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/headers/cutscenes"
 msgid "Cutscenes"
-msgstr ""
+msgstr "Cinemáticas"
 
 #. data/lang/sc/gui.en_US.json labels/options/headers/updates #0
 #: data/lang/sc/gui.en_US.json+labels/options/headers/updates+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/headers/updates"
 msgid "HUD Updates"
-msgstr ""
+msgstr "Actualizaciones de Interfaz"
 
 #. data/lang/sc/gui.en_US.json labels/options/headers/party #0
 #: data/lang/sc/gui.en_US.json+labels/options/headers/party+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/headers/party"
 msgid "Party"
-msgstr ""
+msgstr "Grupo"
 
 #. data/lang/sc/gui.en_US.json labels/options/headers/combat #0
 #: data/lang/sc/gui.en_US.json+labels/options/headers/combat+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/headers/combat"
 msgid "Combat"
-msgstr ""
+msgstr "Combate"
 
 #. data/lang/sc/gui.en_US.json labels/options/headers/puzzle #0
 #: data/lang/sc/gui.en_US.json+labels/options/headers/puzzle+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/headers/puzzle"
 msgid "Puzzles"
-msgstr ""
+msgstr "Puzzles"
 
 #. data/lang/sc/gui.en_US.json labels/options/headers/arena #0
 #: data/lang/sc/gui.en_US.json+labels/options/headers/arena+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/headers/arena"
 msgid "Arena"
-msgstr ""
+msgstr "Arena"
 
 #. data/lang/sc/gui.en_US.json labels/options/arena-confirm/name #0
 #: data/lang/sc/gui.en_US.json+labels/options/arena-confirm/name+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/arena-confirm/name"
 msgid "Confirm Arena Dialogs"
-msgstr ""
+msgstr "Diálogos de Confirmación de la Arena"
 
 #. data/lang/sc/gui.en_US.json labels/options/arena-confirm/description #0
 #: data/lang/sc/gui.en_US.json+labels/options/arena-confirm/description+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/arena-confirm/description"
 msgid "Tick if menu actions in the arena should be confirmed."
-msgstr ""
+msgstr "Marca si las acciones en el menú de la arena requieren confirmación."
 
 #. data/lang/sc/gui.en_US.json labels/options/arena-cam-focus/name #0
 #: data/lang/sc/gui.en_US.json+labels/options/arena-cam-focus/name+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/arena-cam-focus/name"
 msgid "Camera Center Focus"
-msgstr ""
+msgstr "Centrar Cámara"
 
 #. data/lang/sc/gui.en_US.json labels/options/arena-cam-focus/description #0
 #: data/lang/sc/gui.en_US.json+labels/options/arena-cam-focus/description+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/arena-cam-focus/description"
 msgid "If ticked, focuses camera to the center of the stage for most rounds."
-msgstr ""
+msgstr "Si se marca, centra la cámara en el medio de la arena en la mayoría de las rondas."
 
 #. data/lang/sc/gui.en_US.json labels/options/item-hud-size/name #0
 #: data/lang/sc/gui.en_US.json+labels/options/item-hud-size/name+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/item-hud-size/name"
 msgid "Item HUD Size"
-msgstr ""
+msgstr "Tamaño de la Interfaz de Objetos"
 
 #. data/lang/sc/gui.en_US.json labels/options/item-hud-size/description #0
 #: data/lang/sc/gui.en_US.json+labels/options/item-hud-size/description+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/item-hud-size/description"
 msgid "Changes the size of the item notification window."
-msgstr ""
+msgstr "Cambia el tamaño de la ventana de notificaciones de objetos."
 
 #. data/lang/sc/gui.en_US.json labels/options/item-hud-size/group/0 #0
 #: data/lang/sc/gui.en_US.json+labels/options/item-hud-size/group/0+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/item-hud-size/group/0"
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #. data/lang/sc/gui.en_US.json labels/options/item-hud-size/group/1 #0
 #: data/lang/sc/gui.en_US.json+labels/options/item-hud-size/group/1+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/item-hud-size/group/1"
 msgid "Small"
-msgstr ""
+msgstr "Pequeño"
 
 #. data/lang/sc/gui.en_US.json labels/options/update-quest-style/name #0
 #: data/lang/sc/gui.en_US.json+labels/options/update-quest-style/name+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/update-quest-style/name"
 msgid "Task Updates"
-msgstr ""
+msgstr "Actualización de Misiones"
 
 #. data/lang/sc/gui.en_US.json labels/options/update-quest-style/description #0
 #: data/lang/sc/gui.en_US.json+labels/options/update-quest-style/description+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/update-quest-style/description"
 msgid "Changes how completed tasks in quests are displayed. "
-msgstr ""
+msgstr "Cambia como se muestran las tareas completadas en las misiones. "
 
 #. data/lang/sc/gui.en_US.json labels/options/update-quest-style/group/0 #0
 #: data/lang/sc/gui.en_US.json+labels/options/update-quest-style/group/0+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/update-quest-style/group/0"
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #. data/lang/sc/gui.en_US.json labels/options/update-quest-style/group/1 #0
 #: data/lang/sc/gui.en_US.json+labels/options/update-quest-style/group/1+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/update-quest-style/group/1"
 msgid "Minimal"
-msgstr ""
+msgstr "Mínimo"
 
 #. data/lang/sc/gui.en_US.json labels/options/update-quest-style/group/2 #0
 #: data/lang/sc/gui.en_US.json+labels/options/update-quest-style/group/2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/update-quest-style/group/2"
 msgid "Off"
-msgstr ""
+msgstr "Apagado"
 
 #. data/lang/sc/gui.en_US.json labels/options/update-landmark-style/name #0
 #: data/lang/sc/gui.en_US.json+labels/options/update-landmark-style/name+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/update-landmark-style/name"
 msgid "Landmark Updates"
-msgstr ""
+msgstr "Actualizaciones de Puntos de Referencia"
 
 #. data/lang/sc/gui.en_US.json labels/options/update-landmark-style/description #0
 #: data/lang/sc/gui.en_US.json+labels/options/update-landmark-style/description+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/update-landmark-style/description"
 msgid "Changes how new landmarks are displayed when found."
-msgstr ""
+msgstr "Cambia como se muestra la notificación de un Punto de Referencia nuevo."
 
 #. data/lang/sc/gui.en_US.json labels/options/update-landmark-style/group/0 #0
 #: data/lang/sc/gui.en_US.json+labels/options/update-landmark-style/group/0+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/update-landmark-style/group/0"
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #. data/lang/sc/gui.en_US.json labels/options/update-landmark-style/group/1 #0
 #: data/lang/sc/gui.en_US.json+labels/options/update-landmark-style/group/1+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/update-landmark-style/group/1"
 msgid "Minimal"
-msgstr ""
+msgstr "Mínimo"
 
 #. data/lang/sc/gui.en_US.json labels/options/update-landmark-style/group/2 #0
 #: data/lang/sc/gui.en_US.json+labels/options/update-landmark-style/group/2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/update-landmark-style/group/2"
 msgid "Off"
-msgstr ""
+msgstr "Apagado"
 
 #. data/lang/sc/gui.en_US.json labels/options/update-lore-style/name #0
 #: data/lang/sc/gui.en_US.json+labels/options/update-lore-style/name+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/update-lore-style/name"
 msgid "Encyclopedia Updates"
-msgstr ""
+msgstr "Actualizaciones de la Enciclopedia"
 
 #. data/lang/sc/gui.en_US.json labels/options/update-lore-style/description #0
 #: data/lang/sc/gui.en_US.json+labels/options/update-lore-style/description+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/update-lore-style/description"
 msgid "Changes how new Encyclopedia entries are displayed when found."
-msgstr ""
+msgstr "Cambia como se muestran las nuevas entradas de la enciclopedia."
 
 #. data/lang/sc/gui.en_US.json labels/options/update-lore-style/group/0 #0
 #: data/lang/sc/gui.en_US.json+labels/options/update-lore-style/group/0+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/update-lore-style/group/0"
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #. data/lang/sc/gui.en_US.json labels/options/update-lore-style/group/1 #0
 #: data/lang/sc/gui.en_US.json+labels/options/update-lore-style/group/1+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/update-lore-style/group/1"
 msgid "Minimal"
-msgstr ""
+msgstr "Mínimo"
 
 #. data/lang/sc/gui.en_US.json labels/options/update-lore-style/group/2 #0
 #: data/lang/sc/gui.en_US.json+labels/options/update-lore-style/group/2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/update-lore-style/group/2"
 msgid "Off"
-msgstr ""
+msgstr "Apagado"
 
 #. data/lang/sc/gui.en_US.json labels/options/update-drop-style/name #0
 #: data/lang/sc/gui.en_US.json+labels/options/update-drop-style/name+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/update-drop-style/name"
 msgid "Botanics Updates"
-msgstr ""
+msgstr "Actualizaciones de Botánica"
 
 #. data/lang/sc/gui.en_US.json labels/options/update-drop-style/description #0
 #: data/lang/sc/gui.en_US.json+labels/options/update-drop-style/description+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/update-drop-style/description"
 msgid "Changes how new Botanics completion is displayed when achieved."
-msgstr ""
+msgstr "Cambia como se muestran las Actualizaciones de Botánica."
 
 #. data/lang/sc/gui.en_US.json labels/options/update-drop-style/group/0 #0
 #: data/lang/sc/gui.en_US.json+labels/options/update-drop-style/group/0+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/update-drop-style/group/0"
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #. data/lang/sc/gui.en_US.json labels/options/update-drop-style/group/1 #0
 #: data/lang/sc/gui.en_US.json+labels/options/update-drop-style/group/1+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/update-drop-style/group/1"
 msgid "Minimal"
-msgstr ""
+msgstr "Mínimo"
 
 #. data/lang/sc/gui.en_US.json labels/options/update-drop-style/group/2 #0
 #: data/lang/sc/gui.en_US.json+labels/options/update-drop-style/group/2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/update-drop-style/group/2"
 msgid "Off"
-msgstr ""
+msgstr "Apagado"
 
 #. data/lang/sc/gui.en_US.json labels/options/update-trophy-style/name #0
 #: data/lang/sc/gui.en_US.json+labels/options/update-trophy-style/name+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/update-trophy-style/name"
 msgid "Trophy Updates"
-msgstr ""
+msgstr "Actualizaciones de Trofeos"
 
 #. data/lang/sc/gui.en_US.json labels/options/update-trophy-style/description #0
 #: data/lang/sc/gui.en_US.json+labels/options/update-trophy-style/description+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/update-trophy-style/description"
 msgid "Changes how new trophies are displayed when achieved."
-msgstr ""
+msgstr "Cambia como se muestran los trofeos conseguidos."
 
 #. data/lang/sc/gui.en_US.json labels/options/update-trophy-style/group/0 #0
 #: data/lang/sc/gui.en_US.json+labels/options/update-trophy-style/group/0+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/update-trophy-style/group/0"
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #. data/lang/sc/gui.en_US.json labels/options/update-trophy-style/group/1 #0
 #: data/lang/sc/gui.en_US.json+labels/options/update-trophy-style/group/1+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/update-trophy-style/group/1"
 msgid "Minimal"
-msgstr ""
+msgstr "Mínimo"
 
 #. data/lang/sc/gui.en_US.json labels/options/update-trophy-style/group/2 #0
 #: data/lang/sc/gui.en_US.json+labels/options/update-trophy-style/group/2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/update-trophy-style/group/2"
 msgid "Off"
-msgstr ""
+msgstr "Apagado"
 
 #. data/lang/sc/gui.en_US.json labels/options/hp-bars/name #0
 #: data/lang/sc/gui.en_US.json+labels/options/hp-bars/name+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/hp-bars/name"
 msgid "Party Status Bars"
-msgstr ""
+msgstr "Barras de Estado del Grupo"
 
 #. data/lang/sc/gui.en_US.json labels/options/hp-bars/description #0
 #: data/lang/sc/gui.en_US.json+labels/options/hp-bars/description+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/hp-bars/description"
 msgid "Change under which party members status bars are shown."
-msgstr ""
+msgstr "Cambia debajo de qué miembros del grupo se mostrarán las barras de estado."
 
 #. data/lang/sc/gui.en_US.json labels/options/hp-bars/group/0 #0
 #: data/lang/sc/gui.en_US.json+labels/options/hp-bars/group/0+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/hp-bars/group/0"
 msgid "All"
-msgstr ""
+msgstr "Todos"
 
 #. data/lang/sc/gui.en_US.json labels/options/hp-bars/group/1 #0
 #: data/lang/sc/gui.en_US.json+labels/options/hp-bars/group/1+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/hp-bars/group/1"
 msgid "All but Lea"
-msgstr ""
+msgstr "Todos menos Lea"
 
 #. data/lang/sc/gui.en_US.json labels/options/hp-bars/group/2 #0
 #: data/lang/sc/gui.en_US.json+labels/options/hp-bars/group/2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/hp-bars/group/2"
 msgid "None"
-msgstr ""
+msgstr "Ninguno"
 
 #. data/lang/sc/gui.en_US.json labels/options/party-combat-arts/name #0
 #: data/lang/sc/gui.en_US.json+labels/options/party-combat-arts/name+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/party-combat-arts/name"
 msgid "Party Combat Arts"
-msgstr ""
+msgstr "Artes de Combate del Grupo"
 
 #. data/lang/sc/gui.en_US.json labels/options/party-combat-arts/description #0
 #: data/lang/sc/gui.en_US.json+labels/options/party-combat-arts/description+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/party-combat-arts/description"
 msgid "Change how Combat Arts execution is shown for party members."
-msgstr ""
+msgstr "Cambia como se muestran las Artes de Combate entre miembros del grupo."
 
 #. data/lang/sc/gui.en_US.json labels/options/party-combat-arts/group/0 #0
 #: data/lang/sc/gui.en_US.json+labels/options/party-combat-arts/group/0+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/party-combat-arts/group/0"
 msgid "Full"
-msgstr ""
+msgstr "Completas"
 
 #. data/lang/sc/gui.en_US.json labels/options/party-combat-arts/group/1 #0
 #: data/lang/sc/gui.en_US.json+labels/options/party-combat-arts/group/1+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/party-combat-arts/group/1"
 msgid "Just Name"
-msgstr ""
+msgstr "Sólo el Nombre"
 
 #. data/lang/sc/gui.en_US.json labels/options/party-combat-arts/group/2 #0
 #: data/lang/sc/gui.en_US.json+labels/options/party-combat-arts/group/2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/party-combat-arts/group/2"
 msgid "None"
-msgstr ""
+msgstr "Nada"
 
 #. data/lang/sc/gui.en_US.json labels/options/quick-menu-access/name #0
 #: data/lang/sc/gui.en_US.json+labels/options/quick-menu-access/name+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/quick-menu-access/name"
 msgid "Quick Menu Access"
-msgstr ""
+msgstr "Acceso Rápido"
 
 #. data/lang/sc/gui.en_US.json labels/options/quick-menu-access/group/0 #0
 #: data/lang/sc/gui.en_US.json+labels/options/quick-menu-access/group/0+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/quick-menu-access/group/0"
 msgid "Hold"
-msgstr ""
+msgstr "Mantener"
 
 #. data/lang/sc/gui.en_US.json labels/options/quick-menu-access/group/1 #0
 #: data/lang/sc/gui.en_US.json+labels/options/quick-menu-access/group/1+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/quick-menu-access/group/1"
 msgid "Press"
-msgstr ""
+msgstr "Presionar"
 
 #. data/lang/sc/gui.en_US.json labels/options/quick-menu-access/description #0
 #: data/lang/sc/gui.en_US.json+labels/options/quick-menu-access/description+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/quick-menu-access/description"
 msgid "The access style to toggle the quick menu."
-msgstr ""
+msgstr "Como utilizar el acceso rápido."
 
 #. data/lang/sc/gui.en_US.json labels/options/skip-confirm/name #0
 #: data/lang/sc/gui.en_US.json+labels/options/skip-confirm/name+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/skip-confirm/name"
 msgid "Confirm Cutscene Skip"
-msgstr ""
+msgstr "Confirmar Saltar Cinemática"
 
 #. data/lang/sc/gui.en_US.json labels/options/skip-confirm/description #0
 #: data/lang/sc/gui.en_US.json+labels/options/skip-confirm/description+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/skip-confirm/description"
 msgid "Tick if skipping cutscenes should be confirmed."
-msgstr ""
+msgstr "Marca si quieres confirmar al saltar una cinemática."
 
 #. data/lang/sc/gui.en_US.json labels/options/game-sense/name #0
 #: data/lang/sc/gui.en_US.json+labels/options/game-sense/name+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/game-sense/name"
 msgid "Enable Game Sense"
-msgstr ""
+msgstr "Activar Game Sense"
 
 #. data/lang/sc/gui.en_US.json labels/options/game-sense/description #0
 #: data/lang/sc/gui.en_US.json+labels/options/game-sense/description+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/game-sense/description"
 msgid "Tick if Game Sense (Steel Series Engine 3) should be enabled."
-msgstr ""
+msgstr "Marca si quieres activar el Game Sense (Steel Series Engine 3)."
 
 #. data/lang/sc/gui.en_US.json labels/options/equip-level-display/name #0
 #: data/lang/sc/gui.en_US.json+labels/options/equip-level-display/name+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/equip-level-display/name"
 msgid "Show Levels in Equipment"
-msgstr ""
+msgstr "Mostrar Niveles del Equipamiento"
 
 #. data/lang/sc/gui.en_US.json labels/options/equip-level-display/description #0
 #: data/lang/sc/gui.en_US.json+labels/options/equip-level-display/description+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/equip-level-display/description"
 msgid "Enables the display in the equip menu which shows the player- and average equip level."
-msgstr ""
+msgstr "Muestra el nivel del jugador y su equipo en el menú de equipamiento."
 
 #. data/lang/sc/gui.en_US.json labels/options/enemy-status-bars/name #0
 #: data/lang/sc/gui.en_US.json+labels/options/enemy-status-bars/name+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/enemy-status-bars/name"
 msgid "Enemy Status Bar"
-msgstr ""
+msgstr "Barra de Estado Enemiga"
 
 #. data/lang/sc/gui.en_US.json labels/options/enemy-status-bars/description #0
 #: data/lang/sc/gui.en_US.json+labels/options/enemy-status-bars/description+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/enemy-status-bars/description"
 msgid "Tick if enemy status bars should be shown below enemies."
-msgstr ""
+msgstr "Marca si quieres que se muestre la barra de estado de los enemigos."
 
 #. data/lang/sc/gui.en_US.json labels/options/level-letter-display/name #0
 #: data/lang/sc/gui.en_US.json+labels/options/level-letter-display/name+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/level-letter-display/name"
 msgid "Show Level Symbol"
-msgstr ""
+msgstr "Mostrar Símbolo de Nivel"
 
 #. data/lang/sc/gui.en_US.json labels/options/level-letter-display/description #0
 #: data/lang/sc/gui.en_US.json+labels/options/level-letter-display/description+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/level-letter-display/description"
 msgid "Shows the Level Symbol next to the level of an equipment item."
-msgstr ""
+msgstr "Muestra el símbolo de nivel al lado de tu equipaje."
 
 #. data/lang/sc/gui.en_US.json labels/options/buff-help/name #0
 #: data/lang/sc/gui.en_US.json+labels/options/buff-help/name+%230
