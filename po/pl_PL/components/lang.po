@@ -3,15 +3,16 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-16 23:02+0000\n"
-"POT-Revision-Date: 2022-01-16 23:02+0000\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2022-01-18 08:27+0000\n"
+"Last-Translator: MoltenCoreDev <molters.tv@gmail.com>\n"
+"Language-Team: Polish <https://weblate.crosscode.ru/projects/crosscode/lang/pl/>\n"
 "Language: pl_PL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0 (4646031 2022-01-16)\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.5.3\n"
+"POT-Revision-Date: 2022-01-16 23:02+0000\n"
 
 #. data/lang/sc/gimmick.en_US.json labels/unknown #0
 #: data/lang/sc/gimmick.en_US.json+labels/unknown+%230
@@ -59,31 +60,31 @@ msgstr ""
 #: data/lang/sc/gimmick.en_US.json+labels/speedlines+%230
 msgctxt "data/lang/sc/gimmick.en_US.json//labels/speedlines"
 msgid "Speed lines added to make game faster and objectively better."
-msgstr ""
+msgstr "Linie prędkości włączone, aby gra była szybsza i objektywnie lepsza."
 
 #. data/lang/sc/gimmick.en_US.json labels/speedlinesRemove #0
 #: data/lang/sc/gimmick.en_US.json+labels/speedlinesRemove+%230
 msgctxt "data/lang/sc/gimmick.en_US.json//labels/speedlinesRemove"
 msgid "Speed lines removed to make game slower and objectively worse."
-msgstr ""
+msgstr "Linie prędkości wyłączone, aby gra była wolna i obiektywnie gorsza."
 
 #. data/lang/sc/gimmick.en_US.json labels/voiceActing #0
 #: data/lang/sc/gimmick.en_US.json+labels/voiceActing+%230
 msgctxt "data/lang/sc/gimmick.en_US.json//labels/voiceActing"
 msgid "High Quality Voice Acting is now \\c[3]enabled\\c[0]! Enter the code again to disable it."
-msgstr ""
+msgstr "Wysokiej jakości aktorstwo głosowe jest teraz \\c[3]włączone\\c[0]! Wprowadź kod ponownie aby je wyłączyć."
 
 #. data/lang/sc/gimmick.en_US.json labels/voiceActingRemove #0
 #: data/lang/sc/gimmick.en_US.json+labels/voiceActingRemove+%230
 msgctxt "data/lang/sc/gimmick.en_US.json//labels/voiceActingRemove"
 msgid "High Quality Voice Acting is now \\c[3]disabled\\c[0]! Enter the code again to enable it."
-msgstr ""
+msgstr "Wysokiej jakości aktorstwo głosowe jest teraz \\c[3]wyłączone\\c[0]! Wprowadź kod ponownie aby je włączyć."
 
 #. data/lang/sc/gui.en_US.json labels/arena/rushDisabled #0
 #: data/lang/sc/gui.en_US.json+labels/arena/rushDisabled+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/rushDisabled"
 msgid "Disabled"
-msgstr ""
+msgstr "Wyłączono"
 
 #. data/lang/sc/gui.en_US.json labels/arena/arenaName #0
 #: data/lang/sc/gui.en_US.json+labels/arena/arenaName+%230
@@ -95,19 +96,19 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/arena/score+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/score"
 msgid "Score"
-msgstr ""
+msgstr "Wynik"
 
 #. data/lang/sc/gui.en_US.json labels/arena/time #0
 #: data/lang/sc/gui.en_US.json+labels/arena/time+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/time"
 msgid "Time"
-msgstr ""
+msgstr "Czas"
 
 #. data/lang/sc/gui.en_US.json labels/arena/round #0
 #: data/lang/sc/gui.en_US.json+labels/arena/round+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/round"
 msgid "Round [!]"
-msgstr ""
+msgstr "Runda [!]"
 
 #. data/lang/sc/gui.en_US.json labels/arena/chain #0
 #: data/lang/sc/gui.en_US.json+labels/arena/chain+%230
@@ -137,25 +138,25 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/arena/summary+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/summary"
 msgid "Summary"
-msgstr ""
+msgstr "Podsumowanie"
 
 #. data/lang/sc/gui.en_US.json labels/arena/roundClear #0
 #: data/lang/sc/gui.en_US.json+labels/arena/roundClear+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/roundClear"
 msgid "Round [!] Clear!"
-msgstr ""
+msgstr "Runda [!] pokonana!"
 
 #. data/lang/sc/gui.en_US.json labels/arena/newRecord #0
 #: data/lang/sc/gui.en_US.json+labels/arena/newRecord+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/newRecord"
 msgid "New Record!"
-msgstr ""
+msgstr "Nowy rekord!"
 
 #. data/lang/sc/gui.en_US.json labels/arena/newTrophy #0
 #: data/lang/sc/gui.en_US.json+labels/arena/newTrophy+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/newTrophy"
 msgid "\\c[3]New Trophy Unlocked!\\c[0]"
-msgstr ""
+msgstr "\\c[3]Nowe trofeum odblokowane!\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/arena/rushModeDone #0
 #: data/lang/sc/gui.en_US.json+labels/arena/rushModeDone+%230
@@ -167,7 +168,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/arena/roundFail+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/roundFail"
 msgid "Round Failed!"
-msgstr ""
+msgstr "Runda Przegrana!"
 
 #. data/lang/sc/gui.en_US.json labels/arena/chainBonus #0
 #: data/lang/sc/gui.en_US.json+labels/arena/chainBonus+%230
@@ -191,49 +192,49 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/arena/totalScore+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/totalScore"
 msgid "Total Score"
-msgstr ""
+msgstr "Całkowity Wynik"
 
 #. data/lang/sc/gui.en_US.json labels/arena/overview/cupHeader #0
 #: data/lang/sc/gui.en_US.json+labels/arena/overview/cupHeader+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/overview/cupHeader"
 msgid "[CUP_NAME] Overview"
-msgstr ""
+msgstr "Podsumowanie [CUP_NAME]"
 
 #. data/lang/sc/gui.en_US.json labels/arena/overview/trophyHeader #0
 #: data/lang/sc/gui.en_US.json+labels/arena/overview/trophyHeader+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/overview/trophyHeader"
 msgid "You got"
-msgstr ""
+msgstr "Dostałeś"
 
 #. data/lang/sc/gui.en_US.json labels/arena/overview/trophyNone #0
 #: data/lang/sc/gui.en_US.json+labels/arena/overview/trophyNone+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/overview/trophyNone"
 msgid "Clear all Rounds once to get a Trophy!"
-msgstr ""
+msgstr "Ukończ wszystkie rundy aby zdobyć trofeum!"
 
 #. data/lang/sc/gui.en_US.json labels/arena/dialogs/next #0
 #: data/lang/sc/gui.en_US.json+labels/arena/dialogs/next+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/dialogs/next"
 msgid "Start the next Round?"
-msgstr ""
+msgstr "Zacząć następną rundę?"
 
 #. data/lang/sc/gui.en_US.json labels/arena/dialogs/repeat #0
 #: data/lang/sc/gui.en_US.json+labels/arena/dialogs/repeat+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/dialogs/repeat"
 msgid "Repeat the current Round?"
-msgstr ""
+msgstr "Powtórzyć obecną rundę?"
 
 #. data/lang/sc/gui.en_US.json labels/arena/dialogs/lobby #0
 #: data/lang/sc/gui.en_US.json+labels/arena/dialogs/lobby+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/dialogs/lobby"
 msgid "Return to the lobby?"
-msgstr ""
+msgstr "Wrócić do lobby?"
 
 #. data/lang/sc/gui.en_US.json labels/arena/dialogs/giveUp #0
 #: data/lang/sc/gui.en_US.json+labels/arena/dialogs/giveUp+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/dialogs/giveUp"
 msgid "Return to the lobby?"
-msgstr ""
+msgstr "Wrócić do lobby?"
 
 #. data/lang/sc/gui.en_US.json labels/arena/dialogs/restart #0
 #: data/lang/sc/gui.en_US.json+labels/arena/dialogs/restart+%230
@@ -245,31 +246,31 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/arena/buttons/names/giveUp+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/buttons/names/giveUp"
 msgid "Give Up"
-msgstr ""
+msgstr "Poddaj Się"
 
 #. data/lang/sc/gui.en_US.json labels/arena/buttons/names/repeat #0
 #: data/lang/sc/gui.en_US.json+labels/arena/buttons/names/repeat+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/buttons/names/repeat"
 msgid "Try again"
-msgstr ""
+msgstr "Spróbuj ponownie"
 
 #. data/lang/sc/gui.en_US.json labels/arena/buttons/names/nextRound #0
 #: data/lang/sc/gui.en_US.json+labels/arena/buttons/names/nextRound+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/buttons/names/nextRound"
 msgid "Next Round"
-msgstr ""
+msgstr "Następna Runda"
 
 #. data/lang/sc/gui.en_US.json labels/arena/buttons/names/return #0
 #: data/lang/sc/gui.en_US.json+labels/arena/buttons/names/return+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/buttons/names/return"
 msgid "Lobby"
-msgstr ""
+msgstr "Lobby"
 
 #. data/lang/sc/gui.en_US.json labels/arena/buttons/names/summary #0
 #: data/lang/sc/gui.en_US.json+labels/arena/buttons/names/summary+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/buttons/names/summary"
 msgid "Overview"
-msgstr ""
+msgstr "Podsumowanie"
 
 #. data/lang/sc/gui.en_US.json labels/arena/buttons/names/restart #0
 #: data/lang/sc/gui.en_US.json+labels/arena/buttons/names/restart+%230
@@ -281,25 +282,25 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/arena/buttons/names/rush+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/buttons/names/rush"
 msgid "Continue"
-msgstr ""
+msgstr "Kontynuuj"
 
 #. data/lang/sc/gui.en_US.json labels/arena/buttons/description/giveUp #0
 #: data/lang/sc/gui.en_US.json+labels/arena/buttons/description/giveUp+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/buttons/description/giveUp"
 msgid "Give up and return to the lobby."
-msgstr ""
+msgstr "Poddaj się i wróć do lobby."
 
 #. data/lang/sc/gui.en_US.json labels/arena/buttons/description/rush #0
 #: data/lang/sc/gui.en_US.json+labels/arena/buttons/description/rush+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/buttons/description/rush"
 msgid "Continue to the next round. Only 50% of your health is restored."
-msgstr ""
+msgstr "Kontynuuj w następnej rundzie. Tylko 50% twojego zdrowia zostanie przywrócone."
 
 #. data/lang/sc/gui.en_US.json labels/arena/buttons/description/repeat #0
 #: data/lang/sc/gui.en_US.json+labels/arena/buttons/description/repeat+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/buttons/description/repeat"
 msgid "Repeat the current round."
-msgstr ""
+msgstr "Powtórz obecną rundę."
 
 #. data/lang/sc/gui.en_US.json labels/arena/buttons/description/nextRound #0
 #: data/lang/sc/gui.en_US.json+labels/arena/buttons/description/nextRound+%230
@@ -311,7 +312,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/arena/buttons/description/return+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/buttons/description/return"
 msgid "Return to the lobby."
-msgstr ""
+msgstr "Wróć do lobby."
 
 #. data/lang/sc/gui.en_US.json labels/arena/buttons/description/summary #0
 #: data/lang/sc/gui.en_US.json+labels/arena/buttons/description/summary+%230
@@ -329,31 +330,31 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/arena/bonuses/HIT_COUNTER+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/bonuses/HIT_COUNTER"
 msgid "Take less than \\c[3][!] Hits\\c[0]"
-msgstr ""
+msgstr "Dostań mniej niż \\c[3][!] Uderzenia\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/arena/bonuses/TIME #0
 #: data/lang/sc/gui.en_US.json+labels/arena/bonuses/TIME+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/bonuses/TIME"
 msgid "Time Bonus: \\c[3][!] Minutes\\c[0]"
-msgstr ""
+msgstr "Bonus czasowy: \\c[3][!] Minut\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/arena/bonuses/ITEMS_USED #0
 #: data/lang/sc/gui.en_US.json+labels/arena/bonuses/ITEMS_USED+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/bonuses/ITEMS_USED"
 msgid "Use less than \\c[3][!] Items\\c[0]"
-msgstr ""
+msgstr "Użyj mniej niż \\c[3][!] przedmiotów\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/arena/bonuses/COMBAT_ARTS_USED #0
 #: data/lang/sc/gui.en_US.json+labels/arena/bonuses/COMBAT_ARTS_USED+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/bonuses/COMBAT_ARTS_USED"
 msgid "Use at least \\c[3][!] Combat Arts\\c[0]"
-msgstr ""
+msgstr "Użyj przynajmniej \\c[3][!] Sztuk Walki\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/arena/bonuses/EFFECTIVE_DAMAGE #0
 #: data/lang/sc/gui.en_US.json+labels/arena/bonuses/EFFECTIVE_DAMAGE+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/bonuses/EFFECTIVE_DAMAGE"
 msgid "Deal \\c[3][!] Effective Damage\\c[0]"
-msgstr ""
+msgstr "Zadaj \\c[3][!] Efektywnych obrażeń\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/arena/bonuses/CHAIN #0
 #: data/lang/sc/gui.en_US.json+labels/arena/bonuses/CHAIN+%230
@@ -365,19 +366,19 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/arena/bonuses/NO_DAMAGE_TAKEN+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/bonuses/NO_DAMAGE_TAKEN"
 msgid "\\c[5]No Damage Taken\\c[0]"
-msgstr ""
+msgstr "\\c[5]Nie Dostano Obrażeń\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/arena/bonuses/NO_ITEMS_USED #0
 #: data/lang/sc/gui.en_US.json+labels/arena/bonuses/NO_ITEMS_USED+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/bonuses/NO_ITEMS_USED"
 msgid "\\c[5]No Items Used\\c[0]"
-msgstr ""
+msgstr "\\c[5]Nie Użyto Przedmiotów\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/arena/bonuses/PVP_FLAWLESS #0
 #: data/lang/sc/gui.en_US.json+labels/arena/bonuses/PVP_FLAWLESS+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/bonuses/PVP_FLAWLESS"
 msgid "\\c[5]No Rounds Lost\\c[0]"
-msgstr ""
+msgstr "\\c[5]Nie Przegrano Ani Jednej Rundy\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/arena/challenges/descriptions/WEAPON_ADJUST #0
 #: data/lang/sc/gui.en_US.json+labels/arena/challenges/descriptions/WEAPON_ADJUST+%230
@@ -389,13 +390,13 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/arena/challenges/descriptions/NO_MELEE+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/challenges/descriptions/NO_MELEE"
 msgid "Close Combat and Melee Arts are disabled. "
-msgstr ""
+msgstr "Walka wręcz i sztuki walki wręcz są wyłączone. "
 
 #. data/lang/sc/gui.en_US.json labels/arena/challenges/descriptions/NO_RANGED #0
 #: data/lang/sc/gui.en_US.json+labels/arena/challenges/descriptions/NO_RANGED+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/challenges/descriptions/NO_RANGED"
 msgid "Throwing and Throw Arts are disabled."
-msgstr ""
+msgstr "Rzucanie i sztuki Rzucania są wyłączone."
 
 #. data/lang/sc/gui.en_US.json labels/arena/challenges/descriptions/NO_DASH #0
 #: data/lang/sc/gui.en_US.json+labels/arena/challenges/descriptions/NO_DASH+%230
@@ -413,19 +414,20 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/arena/challenges/descriptions/NO_COMBAT_ARTS+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/challenges/descriptions/NO_COMBAT_ARTS"
 msgid "Combat Arts are disabled."
-msgstr ""
+msgstr "Sztuki walki są wyłączone."
 
 #. data/lang/sc/gui.en_US.json labels/arena/challenges/descriptions/NO_ITEMS #0
 #: data/lang/sc/gui.en_US.json+labels/arena/challenges/descriptions/NO_ITEMS+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/challenges/descriptions/NO_ITEMS"
 msgid "Using items is disabled."
-msgstr ""
+msgstr "Używanie przedmiotów jest wyłączone."
 
 #. data/lang/sc/gui.en_US.json labels/arena/challenges/descriptions/LEA_MUST_DIE #0
 #: data/lang/sc/gui.en_US.json+labels/arena/challenges/descriptions/LEA_MUST_DIE+%230
+#, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/challenges/descriptions/LEA_MUST_DIE"
 msgid "Every attack instantly K.O.s you."
-msgstr ""
+msgstr "Każdy atak od razu cię K.O.-uje."
 
 #. data/lang/sc/gui.en_US.json labels/arena/challenges/descriptions/NO_HP_REGEN #0
 #: data/lang/sc/gui.en_US.json+labels/arena/challenges/descriptions/NO_HP_REGEN+%230
