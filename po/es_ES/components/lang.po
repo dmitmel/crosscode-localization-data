@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-11 15:55+0000\n"
-"PO-Revision-Date: 2022-01-17 00:21+0000\n"
+"PO-Revision-Date: 2022-01-17 02:24+0000\n"
 "Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.crosscode.ru/projects/crosscode/lang/es/>\n"
 "Language: es_ES\n"
@@ -3340,7 +3340,7 @@ msgstr "Blanco"
 #: data/lang/sc/gui.en_US.json+labels/menu/help/equip/colors/orange+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/equip/colors/orange"
 msgid "Orange"
-msgstr "Naranja"
+msgstr "Amarillo"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/equip/colors/red #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/equip/colors/red+%230
@@ -3352,26 +3352,25 @@ msgstr "Rojo"
 #: data/lang/sc/gui.en_US.json+labels/menu/help/equip/colorDesc/green+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/equip/colorDesc/green"
 msgid "Indicates that the levels are well aligned."
-msgstr "Indica que los niveles están bien alineados."
+msgstr "Los niveles son ideales."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/equip/colorDesc/white #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/equip/colorDesc/white+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/equip/colorDesc/white"
 msgid "Indicates that the levels are aligned good enough."
-msgstr "Indica que los niveles están lo suficientemente bien alineados."
+msgstr "Los niveles son adecuados."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/equip/colorDesc/orange #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/equip/colorDesc/orange+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/equip/colorDesc/orange"
 msgid "Indicates that the levels are not well aligned."
-msgstr "Indica que los niveles no están bien alineados."
+msgstr "Los niveles son problemáticos."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/equip/colorDesc/red #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/equip/colorDesc/red+%230
-#, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/equip/colorDesc/red"
 msgid "Indicates that the levels are badly aligned, which could lead to problems when fighting enemies of a similar level."
-msgstr "Indica que los niveles están mal alineados, lo que puede traer problemas cuando peleas contra enemigos de un nivel similar."
+msgstr "Los niveles son muy distintos, lo que puede traer problemas cuando peleas contra enemigos de un nivel similar."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/item/titles/hp #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/item/titles/hp+%230
@@ -4542,7 +4541,7 @@ msgstr "- Nada -"
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/unequip-name+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/equip/unequip-name"
 msgid "- Discard - "
-msgstr "- Descartar - "
+msgstr "- Desequipar - "
 
 #. data/lang/sc/gui.en_US.json labels/menu/equip/unequip-des #0
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/unequip-des+%230
@@ -4554,19 +4553,19 @@ msgstr "Quita to equipamiento actual."
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/levels+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/equip/levels"
 msgid "Player & Equip Level"
-msgstr "Nivel del Jugador y el Equipamiento"
+msgstr "Nivel del Jugador y su Equipo"
 
 #. data/lang/sc/gui.en_US.json labels/menu/equip/modifier/ITEM_GUARD #0
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/modifier/ITEM_GUARD+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/equip/modifier/ITEM_GUARD"
 msgid "Leaf Bracer"
-msgstr ""
+msgstr "Imparable"
 
 #. data/lang/sc/gui.en_US.json labels/menu/equip/modifier/SP_REGEN #0
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/modifier/SP_REGEN+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/equip/modifier/SP_REGEN"
 msgid "SP Regen"
-msgstr "Regeneración de PE"
+msgstr "Regen. de PE"
 
 #. data/lang/sc/gui.en_US.json labels/menu/equip/modifier/AIM_SPEED #0
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/modifier/AIM_SPEED+%230
@@ -4584,7 +4583,7 @@ msgstr "Entrenado"
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/modifier/XP_ZERO+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/equip/modifier/XP_ZERO"
 msgid "Zero XP"
-msgstr "Zero XP"
+msgstr "EXP Cero"
 
 #. data/lang/sc/gui.en_US.json labels/menu/equip/modifier/RANGED_DMG #0
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/modifier/RANGED_DMG+%230
@@ -4626,13 +4625,13 @@ msgstr "Pies Rápidos"
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/modifier/STUN_THRESHOLD+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/equip/modifier/STUN_THRESHOLD"
 msgid "Iron Stance"
-msgstr "Postura de Hierro"
+msgstr "Ancla"
 
 #. data/lang/sc/gui.en_US.json labels/menu/equip/modifier/HP_REGEN #0
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/modifier/HP_REGEN+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/equip/modifier/HP_REGEN"
 msgid "HP Regen"
-msgstr "Regeneración de PV"
+msgstr "Regen. de PV"
 
 #. data/lang/sc/gui.en_US.json labels/menu/equip/modifier/DROP_CHANCE #0
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/modifier/DROP_CHANCE+%230
@@ -4686,7 +4685,7 @@ msgstr "Esquive Extra"
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/modifier/MONEY_PLUS+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/equip/modifier/MONEY_PLUS"
 msgid "Keeper"
-msgstr ""
+msgstr "Carroñero"
 
 #. data/lang/sc/gui.en_US.json labels/menu/equip/modifier/CROSS_COUNTER #0
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/modifier/CROSS_COUNTER+%230
@@ -4734,7 +4733,7 @@ msgstr "Remate"
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/modifier/BERSERK+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/equip/modifier/BERSERK"
 msgid "Berserker"
-msgstr ""
+msgstr "Berserker"
 
 #. data/lang/sc/gui.en_US.json labels/menu/equip/modifier/MOMENTUM #0
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/modifier/MOMENTUM+%230
@@ -4788,7 +4787,7 @@ msgstr "Súper Pulso"
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/modifier/COND_EFFECT_ALL+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/equip/modifier/COND_EFFECT_ALL"
 msgid "Status Rush"
-msgstr "Súper Elementos"
+msgstr "Maestro"
 
 #. data/lang/sc/gui.en_US.json labels/menu/equip/modifier/COND_GUARD_HEAT #0
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/modifier/COND_GUARD_HEAT+%230
@@ -4902,7 +4901,7 @@ msgstr "Ningún ataque podrá interrumpirte mientras consumes objetos. Sin embar
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/descriptions/SP_REGEN+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/equip/descriptions/SP_REGEN"
 msgid "Increases SP regeneration of any form."
-msgstr "Incrementa la regeneración de PE de cualquier fuente."
+msgstr "Incrementa la regeneración de PE en general."
 
 #. data/lang/sc/gui.en_US.json labels/menu/equip/descriptions/MELEE_DMG #0
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/descriptions/MELEE_DMG+%230
