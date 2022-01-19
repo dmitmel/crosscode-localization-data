@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-11 15:55+0000\n"
-"PO-Revision-Date: 2022-01-13 00:34+0000\n"
+"PO-Revision-Date: 2022-01-19 23:27+0000\n"
 "Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.crosscode.ru/projects/crosscode/bergen-trail/es/>\n"
 "Language: es_ES\n"
@@ -730,10 +730,9 @@ msgstr "¡\\v[lore.title.seeker]a, uno de nuestros guardias necesita ayuda urgen
 #. EventTrigger goatFinal-end START IF tmp.finalGroup >= 3
 #. SHOW_MSG guards.captain-female-hairbun @DEFAULT
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/53/settings/event/28/message+%2312213
-#, fuzzy
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/53/settings/event/28/message"
 msgid "It seems like he ran into a group that tried to smuggle out a huge crate.\\. Please get there quickly!"
-msgstr "Parece que se topó con un grupo que intenta contrabandear una gran caja.\\. ¡Por favor, date prisa!"
+msgstr "Parece que se topó con un grupo que intentaba contrabandear una gran caja.\\. ¡Por favor, date prisa!"
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/53/settings/event/29/message #12203
 #. EventTrigger goatFinal-end START IF tmp.finalGroup >= 3
@@ -2243,7 +2242,6 @@ msgstr "Sin embargo continuaremos nuestro trabajo en otro lugar.\\. Uno que est�
 #. Prop holo-sign
 #. SHOW_MSG lab.scientist-xbox @HOLOGRAM
 #: data/maps/bergen-trail/lab/room-final.json+entities/46/settings/interact/event/16/message+%2312207
-#, fuzzy
 msgctxt "data/maps/bergen-trail/lab/room-final.json//entities/46/settings/interact/event/16/message"
 msgid "It will house the greatest minds of our generation to work tirelessly for the good of mankind!"
 msgstr "¡Albergará las mentes más brillantes de nuestra generación para que trabajen sin descanso por el bien de la humanidad!"
@@ -2432,6 +2430,12 @@ msgid ""
 "\n"
 "\\c[1][END OF MAIL]\\c[0]"
 msgstr ""
+"¡Todo aquel que consiga entrar será bienvenido!\n"
+"\n"
+"Sinceramente,\n"
+"\"Los 4 Visionarios\"\n"
+"\n"
+"\\c[1][END OF MAIL]\\c[0]"
 
 #. data/maps/bergen-trail/lab/room-final.json entities/49/settings/condAnims/0/interact/event/6/elseStep/0/text #12208
 #. Prop keyLore
@@ -8801,7 +8805,7 @@ msgstr "Guardia"
 #: data/maps/bergen-trail/path-7-2.json+entities/282/settings/analyzable/text+%23650
 msgctxt "data/maps/bergen-trail/path-7-2.json//entities/282/settings/analyzable/text"
 msgid "Mysterious Crate"
-msgstr ""
+msgstr "Caja Misteriosa"
 
 #. data/maps/bergen-trail/path-8.json entities/530/settings/interact/hoverText #240
 #. Prop
