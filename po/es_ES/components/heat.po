@@ -3,15 +3,16 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-11 15:55+0000\n"
-"POT-Revision-Date: 2022-01-11 15:55+0000\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2022-01-22 20:27+0000\n"
+"Last-Translator: Esteban Herrera Ortúzar <estebanherreraortuzar@gmail.com>\n"
+"Language-Team: Spanish <https://weblate.crosscode.ru/projects/crosscode/heat/es/>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0 (2168d54 2022-01-11)\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.5.3\n"
+"POT-Revision-Date: 2022-01-11 15:55+0000\n"
 
 #. data/maps/heat/caves/cliff-cave-01.json entities/243/settings/condAnims/0/interact/hoverText #83
 #. Prop probe SPAWN IF quest.trailblaze-maroon.started
@@ -415,7 +416,7 @@ msgstr "¡...!"
 #: data/maps/heat/caves/maroon-cave-02.json+entities/34/settings/event/10/message+%231
 msgctxt "data/maps/heat/caves/maroon-cave-02.json//entities/34/settings/event/10/message"
 msgid "Okey-dokey! First couple Tims defeated!"
-msgstr ""
+msgstr "¡Bien! ¡Primera dupla Tims derrotada!"
 
 #. data/maps/heat/caves/maroon-cave-02.json entities/34/settings/event/11/message #3
 #. EventTrigger BattleEnd START IF tmp.group1 >= 3
@@ -423,7 +424,7 @@ msgstr ""
 #: data/maps/heat/caves/maroon-cave-02.json+entities/34/settings/event/11/message+%233
 msgctxt "data/maps/heat/caves/maroon-cave-02.json//entities/34/settings/event/11/message"
 msgid "What's up with that name anyway?"
-msgstr ""
+msgstr "A todo esto, ¿por qué ese nombre?"
 
 #. data/maps/heat/caves/maroon-cave-02.json entities/34/settings/event/12/message #4
 #. EventTrigger BattleEnd START IF tmp.group1 >= 3
@@ -439,7 +440,7 @@ msgstr "..."
 #: data/maps/heat/caves/maroon-cave-02.json+entities/138/settings/event/1/message+%232
 msgctxt "data/maps/heat/caves/maroon-cave-02.json//entities/138/settings/event/1/message"
 msgid "That should be all for this level, right?"
-msgstr ""
+msgstr "Eso sería todo en este nivel, ¿verdad?"
 
 #. data/maps/heat/caves/maroon-cave-02.json entities/138/settings/event/2/message #5
 #. EventTrigger ctronComment START IF map.barrier1 && map.barrier2
@@ -447,7 +448,7 @@ msgstr ""
 #: data/maps/heat/caves/maroon-cave-02.json+entities/138/settings/event/2/message+%235
 msgctxt "data/maps/heat/caves/maroon-cave-02.json//entities/138/settings/event/2/message"
 msgid "By the way!\\. Did you know that worms have five hearts?\\. Like...\\. real earth worms do."
-msgstr ""
+msgstr "¡Por cierto!\\. ¿Sabías que los gusanos tienen cinco corazones?\\. Al igual que...\\. los gusanos de tierra de verdad."
 
 #. data/maps/heat/caves/maroon-cave-02.json entities/138/settings/event/3/message #6
 #. EventTrigger ctronComment START IF map.barrier1 && map.barrier2
@@ -455,7 +456,7 @@ msgstr ""
 #: data/maps/heat/caves/maroon-cave-02.json+entities/138/settings/event/3/message+%236
 msgctxt "data/maps/heat/caves/maroon-cave-02.json//entities/138/settings/event/3/message"
 msgid "...??"
-msgstr ""
+msgstr "¿¿...??"
 
 #. data/maps/heat/caves/maroon-cave-02.json entities/138/settings/event/4/message #7
 #. EventTrigger ctronComment START IF map.barrier1 && map.barrier2
@@ -463,7 +464,7 @@ msgstr ""
 #: data/maps/heat/caves/maroon-cave-02.json+entities/138/settings/event/4/message+%237
 msgctxt "data/maps/heat/caves/maroon-cave-02.json//entities/138/settings/event/4/message"
 msgid "I mean...\\. they are not quite as complex as human hearts, but still!"
-msgstr ""
+msgstr "Quiero decir...\\. no son tan complejos como los corazones humanos, ¡pero aun así!"
 
 #. data/maps/heat/caves/maroon-cave-02.json entities/138/settings/event/5/message #8
 #. EventTrigger ctronComment START IF map.barrier1 && map.barrier2
@@ -479,7 +480,7 @@ msgstr "..."
 #: data/maps/heat/caves/maroon-cave-02.json+entities/138/settings/event/6/message+%239
 msgctxt "data/maps/heat/caves/maroon-cave-02.json//entities/138/settings/event/6/message"
 msgid "Makes you wonder about the anatomy of those Sandworms."
-msgstr ""
+msgstr "Te hace preguntarte sobre la anatomía de esos Gusanos de Arena."
 
 #. data/maps/heat/caves/maroon-cave-02.json entities/138/settings/event/7/message #10
 #. EventTrigger ctronComment START IF map.barrier1 && map.barrier2
@@ -503,7 +504,7 @@ msgstr "¿No?"
 #: data/maps/heat/caves/maroon-cave-03.json+entities/48/settings/event/25/message+%231
 msgctxt "data/maps/heat/caves/maroon-cave-03.json//entities/48/settings/event/25/message"
 msgid "That must be the red sandworm, better be careful!"
-msgstr ""
+msgstr "Ese debe ser el gusano de arena rojo, ¡ten cuidado!"
 
 #. data/maps/heat/caves/maroon-cave-03.json entities/48/settings/event/26/message #2
 #. EventTrigger BossStart START IF map.bossStart
@@ -511,7 +512,7 @@ msgstr ""
 #: data/maps/heat/caves/maroon-cave-03.json+entities/48/settings/event/26/message+%232
 msgctxt "data/maps/heat/caves/maroon-cave-03.json//entities/48/settings/event/26/message"
 msgid "...!!"
-msgstr ""
+msgstr "¡¡...!!"
 
 #. data/maps/heat/caves/maroon-cave-03.json entities/53/settings/event/21/message #3
 #. EventTrigger bossKill START IF tmp.bossDefeated
@@ -519,7 +520,7 @@ msgstr ""
 #: data/maps/heat/caves/maroon-cave-03.json+entities/53/settings/event/21/message+%233
 msgctxt "data/maps/heat/caves/maroon-cave-03.json//entities/53/settings/event/21/message"
 msgid "Phew..."
-msgstr ""
+msgstr "Uf..."
 
 #. data/maps/heat/caves/maroon-cave-03.json entities/53/settings/event/22/message #4
 #. EventTrigger bossKill START IF tmp.bossDefeated
@@ -527,7 +528,7 @@ msgstr ""
 #: data/maps/heat/caves/maroon-cave-03.json+entities/53/settings/event/22/message+%234
 msgctxt "data/maps/heat/caves/maroon-cave-03.json//entities/53/settings/event/22/message"
 msgid "I suppose the \\c[3]\\v[item.362.name]\\c[0] is the strange item the guard wants to see, right?"
-msgstr ""
+msgstr "Supongo que el \\c[3]\\v[item.362.name]\\c[0] es el extraño objeto que el guardia quería ver, ¿no?"
 
 #. data/maps/heat/caves/maroon-cave-03.json entities/53/settings/event/23/message #5
 #. EventTrigger bossKill START IF tmp.bossDefeated
@@ -543,7 +544,7 @@ msgstr "[asiente]"
 #: data/maps/heat/caves/maroon-cave-03.json+entities/53/settings/event/24/message+%236
 msgctxt "data/maps/heat/caves/maroon-cave-03.json//entities/53/settings/event/24/message"
 msgid "Okey-dokey!\\. Then let's go ba-"
-msgstr ""
+msgstr "¡De acuerdo!\\. Vayamos a ba..."
 
 #. data/maps/heat/caves/maroon-cave-03.json entities/53/settings/event/26/message #7
 #. EventTrigger bossKill START IF tmp.bossDefeated
@@ -559,7 +560,7 @@ msgstr "¡...!"
 #: data/maps/heat/caves/maroon-cave-03.json+entities/53/settings/event/27/message+%238
 msgctxt "data/maps/heat/caves/maroon-cave-03.json//entities/53/settings/event/27/message"
 msgid "Oh, is that a direct link?"
-msgstr ""
+msgstr "Oh, ¿es el mensajero directo?"
 
 #. data/maps/heat/caves/maroon-cave-03.json entities/53/settings/event/28/message #9
 #. EventTrigger bossKill START IF tmp.bossDefeated
@@ -575,7 +576,7 @@ msgstr "[asiente]"
 #: data/maps/heat/caves/maroon-cave-03.json+entities/53/settings/event/34/message+%2331
 msgctxt "data/maps/heat/caves/maroon-cave-03.json//entities/53/settings/event/34/message"
 msgid "Lea, chérie!"
-msgstr ""
+msgstr "¡Lea, chérie!"
 
 #. data/maps/heat/caves/maroon-cave-03.json entities/53/settings/event/35/message #11
 #. EventTrigger bossKill START IF tmp.bossDefeated
@@ -591,7 +592,7 @@ msgstr "¡Hola!"
 #: data/maps/heat/caves/maroon-cave-03.json+entities/53/settings/event/36/message+%2312
 msgctxt "data/maps/heat/caves/maroon-cave-03.json//entities/53/settings/event/36/message"
 msgid "I'm, ba...\\.\\."
-msgstr ""
+msgstr "Soy, ba...\\.\\."
 
 #. data/maps/heat/caves/maroon-cave-03.json entities/53/settings/event/37/message #13
 #. EventTrigger bossKill START IF tmp.bossDefeated
@@ -599,7 +600,7 @@ msgstr ""
 #: data/maps/heat/caves/maroon-cave-03.json+entities/53/settings/event/37/message+%2313
 msgctxt "data/maps/heat/caves/maroon-cave-03.json//entities/53/settings/event/37/message"
 msgid "Wait, who's that?"
-msgstr ""
+msgstr "Un momento, ¿quién es ese?"
 
 #. data/maps/heat/caves/maroon-cave-03.json entities/53/settings/event/38/message #14
 #. EventTrigger bossKill START IF tmp.bossDefeated
@@ -607,7 +608,7 @@ msgstr ""
 #: data/maps/heat/caves/maroon-cave-03.json+entities/53/settings/event/38/message+%2314
 msgctxt "data/maps/heat/caves/maroon-cave-03.json//entities/53/settings/event/38/message"
 msgid "Uhm...\\. hello! I'm C'tron-\\.\\."
-msgstr ""
+msgstr "Mmm...\\. ¡hola! Soy C'tron-\\.\\."
 
 #. data/maps/heat/caves/maroon-cave-03.json entities/53/settings/event/39/message #15
 #. EventTrigger bossKill START IF tmp.bossDefeated
@@ -615,7 +616,7 @@ msgstr ""
 #: data/maps/heat/caves/maroon-cave-03.json+entities/53/settings/event/39/message+%2315
 msgctxt "data/maps/heat/caves/maroon-cave-03.json//entities/53/settings/event/39/message"
 msgid "OH!\\. You're the other member from the First Scholars, non?"
-msgstr ""
+msgstr "¡OH!\\. Tú eres el otro miembro de los Primeros Eruditos, ¿non?"
 
 #. data/maps/heat/caves/maroon-cave-03.json entities/53/settings/event/40/message #16
 #. EventTrigger bossKill START IF tmp.bossDefeated
@@ -623,7 +624,7 @@ msgstr ""
 #: data/maps/heat/caves/maroon-cave-03.json+entities/53/settings/event/40/message+%2316
 msgctxt "data/maps/heat/caves/maroon-cave-03.json//entities/53/settings/event/40/message"
 msgid "Yes, that's me."
-msgstr ""
+msgstr "Sí, soy yo."
 
 #. data/maps/heat/caves/maroon-cave-03.json entities/53/settings/event/41/message #17
 #. EventTrigger bossKill START IF tmp.bossDefeated
@@ -631,7 +632,7 @@ msgstr ""
 #: data/maps/heat/caves/maroon-cave-03.json+entities/53/settings/event/41/message+%2317
 msgctxt "data/maps/heat/caves/maroon-cave-03.json//entities/53/settings/event/41/message"
 msgid "Très bien!\\. So you'll join our party, oui?"
-msgstr ""
+msgstr "¡Très bien!\\. Entonces te unirás a nuestro grupo, ¿oui?"
 
 #. data/maps/heat/caves/maroon-cave-03.json entities/53/settings/event/42/message #18
 #. EventTrigger bossKill START IF tmp.bossDefeated
@@ -639,7 +640,7 @@ msgstr ""
 #: data/maps/heat/caves/maroon-cave-03.json+entities/53/settings/event/42/message+%2318
 msgctxt "data/maps/heat/caves/maroon-cave-03.json//entities/53/settings/event/42/message"
 msgid "Yes, in fact-\\.\\."
-msgstr ""
+msgstr "Sí, de hecho-\\.\\."
 
 #. data/maps/heat/caves/maroon-cave-03.json entities/53/settings/event/43/message #19
 #. EventTrigger bossKill START IF tmp.bossDefeated
@@ -647,7 +648,7 @@ msgstr ""
 #: data/maps/heat/caves/maroon-cave-03.json+entities/53/settings/event/43/message+%2319
 msgctxt "data/maps/heat/caves/maroon-cave-03.json//entities/53/settings/event/43/message"
 msgid "So where are you two right now?"
-msgstr ""
+msgstr "Bien, ¿dónde están ahora?"
 
 #. data/maps/heat/caves/maroon-cave-03.json entities/53/settings/event/44/message #20
 #. EventTrigger bossKill START IF tmp.bossDefeated
@@ -655,7 +656,7 @@ msgstr ""
 #: data/maps/heat/caves/maroon-cave-03.json+entities/53/settings/event/44/message+%2320
 msgctxt "data/maps/heat/caves/maroon-cave-03.json//entities/53/settings/event/44/message"
 msgid "Uhm...\\. Lea and I are currently in the Maroon Tree Cave..."
-msgstr ""
+msgstr "Mmm...\\. Lea y yo estamos en la Cueva del Árbol de Maroon..."
 
 #. data/maps/heat/caves/maroon-cave-03.json entities/53/settings/event/45/message #21
 #. EventTrigger bossKill START IF tmp.bossDefeated
@@ -663,7 +664,7 @@ msgstr ""
 #: data/maps/heat/caves/maroon-cave-03.json+entities/53/settings/event/45/message+%2321
 msgctxt "data/maps/heat/caves/maroon-cave-03.json//entities/53/settings/event/45/message"
 msgid "Maroon Tree Cave..."
-msgstr ""
+msgstr "Cueva del Árbol de Maroon..."
 
 #. data/maps/heat/caves/maroon-cave-03.json entities/53/settings/event/46/message #22
 #. EventTrigger bossKill START IF tmp.bossDefeated
@@ -671,7 +672,7 @@ msgstr ""
 #: data/maps/heat/caves/maroon-cave-03.json+entities/53/settings/event/46/message+%2322
 msgctxt "data/maps/heat/caves/maroon-cave-03.json//entities/53/settings/event/46/message"
 msgid "Wait!\\. You started that quest already?"
-msgstr ""
+msgstr "¡Un momento!\\. ¿Ya empezaron esa misión?"
 
 #. data/maps/heat/caves/maroon-cave-03.json entities/53/settings/event/47/message #23
 #. EventTrigger bossKill START IF tmp.bossDefeated
@@ -687,7 +688,7 @@ msgstr "[asiente]"
 #: data/maps/heat/caves/maroon-cave-03.json+entities/53/settings/event/48/message+%2324
 msgctxt "data/maps/heat/caves/maroon-cave-03.json//entities/53/settings/event/48/message"
 msgid "It looks like we almost finished it."
-msgstr ""
+msgstr "Ya nos falta poco para terminar."
 
 #. data/maps/heat/caves/maroon-cave-03.json entities/53/settings/event/49/message #25
 #. EventTrigger bossKill START IF tmp.bossDefeated
@@ -695,7 +696,7 @@ msgstr ""
 #: data/maps/heat/caves/maroon-cave-03.json+entities/53/settings/event/49/message+%2325
 msgctxt "data/maps/heat/caves/maroon-cave-03.json//entities/53/settings/event/49/message"
 msgid "Aww man...\\. I wanted to do that quest with you!"
-msgstr ""
+msgstr "Ay, no...\\. ¡Quería completarla con ustedes!"
 
 #. data/maps/heat/caves/maroon-cave-03.json entities/53/settings/event/50/message #26
 #. EventTrigger bossKill START IF tmp.bossDefeated
@@ -711,7 +712,7 @@ msgstr "..."
 #: data/maps/heat/caves/maroon-cave-03.json+entities/53/settings/event/51/message+%2327
 msgctxt "data/maps/heat/caves/maroon-cave-03.json//entities/53/settings/event/51/message"
 msgid "I-\\.I'm sorry, I didn't know you had that planned."
-msgstr ""
+msgstr "Lo-\\. lo siento, no sabía que lo tenían planeado."
 
 #. data/maps/heat/caves/maroon-cave-03.json entities/53/settings/event/52/message #28
 #. EventTrigger bossKill START IF tmp.bossDefeated
@@ -719,7 +720,7 @@ msgstr ""
 #: data/maps/heat/caves/maroon-cave-03.json+entities/53/settings/event/52/message+%2328
 msgctxt "data/maps/heat/caves/maroon-cave-03.json//entities/53/settings/event/52/message"
 msgid "Non, it's fine! Pas de problème!"
-msgstr ""
+msgstr "¡Está bien! ¡Pas de problème!"
 
 #. data/maps/heat/caves/maroon-cave-03.json entities/53/settings/event/53/message #29
 #. EventTrigger bossKill START IF tmp.bossDefeated
@@ -727,7 +728,7 @@ msgstr ""
 #: data/maps/heat/caves/maroon-cave-03.json+entities/53/settings/event/53/message+%2329
 msgctxt "data/maps/heat/caves/maroon-cave-03.json//entities/53/settings/event/53/message"
 msgid "I'll quickly rush through that quest myself!"
-msgstr ""
+msgstr "¡Completaré esa misión rápido yo sola!"
 
 #. data/maps/heat/caves/maroon-cave-03.json entities/53/settings/event/54/message #30
 #. EventTrigger bossKill START IF tmp.bossDefeated
@@ -735,7 +736,7 @@ msgstr ""
 #: data/maps/heat/caves/maroon-cave-03.json+entities/53/settings/event/54/message+%2330
 msgctxt "data/maps/heat/caves/maroon-cave-03.json//entities/53/settings/event/54/message"
 msgid "You two just wait for me, d'accord?"
-msgstr ""
+msgstr "Ustedes espérenme, ¿d'accord?"
 
 #. data/maps/heat/caves/maroon-cave-03.json entities/53/settings/event/55/message #10
 #. EventTrigger bossKill START IF tmp.bossDefeated
@@ -751,7 +752,7 @@ msgstr "[asiente]"
 #: data/maps/heat/caves/maroon-cave-03.json+entities/53/settings/event/56/message+%2332
 msgctxt "data/maps/heat/caves/maroon-cave-03.json//entities/53/settings/event/56/message"
 msgid "Uhm...\\. sure!"
-msgstr ""
+msgstr "Mmm...\\. ¡por supuesto!"
 
 #. data/maps/heat/caves/maroon-cave-03.json entities/53/settings/event/57/message #33
 #. EventTrigger bossKill START IF tmp.bossDefeated
@@ -759,7 +760,7 @@ msgstr ""
 #: data/maps/heat/caves/maroon-cave-03.json+entities/53/settings/event/57/message+%2333
 msgctxt "data/maps/heat/caves/maroon-cave-03.json//entities/53/settings/event/57/message"
 msgid "Au revoir!"
-msgstr ""
+msgstr "¡Au revoir!"
 
 #. data/maps/heat/caves/maroon-cave-03.json entities/53/settings/event/58/message #34
 #. EventTrigger bossKill START IF tmp.bossDefeated
@@ -775,7 +776,7 @@ msgstr "¡Adiós!"
 #: data/maps/heat/caves/maroon-cave-03.json+entities/53/settings/event/63/message+%2335
 msgctxt "data/maps/heat/caves/maroon-cave-03.json//entities/53/settings/event/63/message"
 msgid "Drat...\\. I feel bad now."
-msgstr ""
+msgstr "Maldición...\\. Ahora me siento culpable."
 
 #. data/maps/heat/caves/maroon-cave-03.json entities/53/settings/event/64/message #36
 #. EventTrigger bossKill START IF tmp.bossDefeated
@@ -791,7 +792,7 @@ msgstr "[niega con la cabeza]"
 #: data/maps/heat/caves/maroon-cave-03.json+entities/53/settings/event/65/message+%2337
 msgctxt "data/maps/heat/caves/maroon-cave-03.json//entities/53/settings/event/65/message"
 msgid "Uhm...\\. You mean I don't have to?\\. W-\\.Well..."
-msgstr ""
+msgstr "Mmm...\\. ¿Dices que no me sienta así?\\. Bue-\\. bueno..."
 
 #. data/maps/heat/caves/maroon-cave-03.json entities/53/settings/event/66/message #38
 #. EventTrigger bossKill START IF tmp.bossDefeated
@@ -799,7 +800,7 @@ msgstr ""
 #: data/maps/heat/caves/maroon-cave-03.json+entities/53/settings/event/66/message+%2338
 msgctxt "data/maps/heat/caves/maroon-cave-03.json//entities/53/settings/event/66/message"
 msgid "Let's just go back to the cave entrance and show the item to the guard."
-msgstr ""
+msgstr "Regresemos a la entrada de la cueva y mostrémosle el objeto al guardia."
 
 #. data/maps/heat/caves/maroon-cave-03.json entities/53/settings/event/67/message #39
 #. EventTrigger bossKill START IF tmp.bossDefeated
@@ -807,7 +808,7 @@ msgstr ""
 #: data/maps/heat/caves/maroon-cave-03.json+entities/53/settings/event/67/message+%2339
 msgctxt "data/maps/heat/caves/maroon-cave-03.json//entities/53/settings/event/67/message"
 msgid "I think the cave interior is instanced, but we might be able to meet Emilie outside."
-msgstr ""
+msgstr "Creo que el interior de la cueva es instanciado, pero tal vez podamos encontrarnos con Emilia afuera."
 
 #. data/maps/heat/caves/maroon-cave-03.json entities/53/settings/event/68/message #40
 #. EventTrigger bossKill START IF tmp.bossDefeated
@@ -823,7 +824,7 @@ msgstr "[asiente]"
 #: data/maps/heat/cliffs/cliffs-path-01.json+entities/546/settings/event/1/text+%231
 msgctxt "data/maps/heat/cliffs/cliffs-path-01.json//entities/546/settings/event/1/text"
 msgid "Bring me the coin..."
-msgstr ""
+msgstr "Tráeme la moneda..."
 
 #. data/maps/heat/cliffs/cliffs-path-01.json entities/548/settings/event/0/text #2
 #. EventTrigger coin! START IF map.coinGot
@@ -831,7 +832,7 @@ msgstr ""
 #: data/maps/heat/cliffs/cliffs-path-01.json+entities/548/settings/event/0/text+%232
 msgctxt "data/maps/heat/cliffs/cliffs-path-01.json//entities/548/settings/event/0/text"
 msgid "You brought the coin..."
-msgstr ""
+msgstr "Trajiste la moneda..."
 
 #. data/maps/heat/cliffs/cliffs-path-01.json entities/550/settings/event/0/message #12
 #. LocationEvent rockShapes START IF party.has.Emilie
@@ -6517,21 +6518,21 @@ msgstr ""
 #: data/maps/heat/path-00.json+entities/259/settings/teleportLabel+%2386
 msgctxt "data/maps/heat/path-00.json//entities/259/settings/teleportLabel"
 msgid "Bergen"
-msgstr ""
+msgstr "Bergen"
 
 #. data/maps/heat/path-00.json entities/275/settings/teleportLabel #87
 #. TeleportField off3
 #: data/maps/heat/path-00.json+entities/275/settings/teleportLabel+%2387
 msgctxt "data/maps/heat/path-00.json//entities/275/settings/teleportLabel"
 msgid "Bergen"
-msgstr ""
+msgstr "Bergen"
 
 #. data/maps/heat/path-00.json entities/276/settings/teleportLabel #88
 #. TeleportField off1
 #: data/maps/heat/path-00.json+entities/276/settings/teleportLabel+%2388
 msgctxt "data/maps/heat/path-00.json//entities/276/settings/teleportLabel"
 msgid "Bergen"
-msgstr ""
+msgstr "Bergen"
 
 #. data/maps/heat/path-00.json entities/298/settings/dialog/0/text #89
 #. XenoDialog
@@ -6539,7 +6540,7 @@ msgstr ""
 #: data/maps/heat/path-00.json+entities/298/settings/dialog/0/text+%2389
 msgctxt "data/maps/heat/path-00.json//entities/298/settings/dialog/0/text"
 msgid "Good thing we found this spot. Why is it so hot?"
-msgstr ""
+msgstr "Qué bueno que encontramos este lugar. ¿Por qué está tan caluroso?"
 
 #. data/maps/heat/path-00.json entities/298/settings/dialog/1/text #90
 #. XenoDialog
@@ -6547,7 +6548,7 @@ msgstr ""
 #: data/maps/heat/path-00.json+entities/298/settings/dialog/1/text+%2390
 msgctxt "data/maps/heat/path-00.json//entities/298/settings/dialog/1/text"
 msgid "Yeah! First freezing cold and now this?"
-msgstr ""
+msgstr "¡Sí! Primero un frío terrible y ¿ahora esto?"
 
 #. data/maps/heat/path-00.json entities/298/settings/dialog/2/text #91
 #. XenoDialog
@@ -6555,7 +6556,7 @@ msgstr ""
 #: data/maps/heat/path-00.json+entities/298/settings/dialog/2/text+%2391
 msgctxt "data/maps/heat/path-00.json//entities/298/settings/dialog/2/text"
 msgid "I don't know what you guys are talking about. I like the hot weather here."
-msgstr ""
+msgstr "No sé de qué se quejan. A mí me gusta el calor de acá."
 
 #. data/maps/heat/path-00.json entities/298/settings/dialog/3/text #92
 #. XenoDialog
@@ -6563,7 +6564,7 @@ msgstr ""
 #: data/maps/heat/path-00.json+entities/298/settings/dialog/3/text+%2392
 msgctxt "data/maps/heat/path-00.json//entities/298/settings/dialog/3/text"
 msgid "You probably turned down your temperature sensitivity."
-msgstr ""
+msgstr "Probablemente disminuiste tu sensibilidad a la temperatura."
 
 #. data/maps/heat/path-00.json entities/298/settings/dialog/4/text #93
 #. XenoDialog
@@ -6571,7 +6572,7 @@ msgstr ""
 #: data/maps/heat/path-00.json+entities/298/settings/dialog/4/text+%2393
 msgctxt "data/maps/heat/path-00.json//entities/298/settings/dialog/4/text"
 msgid "Nope, I just really like the heat."
-msgstr ""
+msgstr "Nop, simplemente me gusta el calor."
 
 #. data/maps/heat/path-00.json entities/298/settings/dialog/5/text #94
 #. XenoDialog
@@ -6579,7 +6580,7 @@ msgstr ""
 #: data/maps/heat/path-00.json+entities/298/settings/dialog/5/text+%2394
 msgctxt "data/maps/heat/path-00.json//entities/298/settings/dialog/5/text"
 msgid "I can't even..."
-msgstr ""
+msgstr "Ni siquiera puedo..."
 
 #. data/maps/heat/path-01-entrance.json entities/8/settings/interact/hoverText #5
 #. Prop
@@ -7093,7 +7094,7 @@ msgstr "¡De acuerdo! ¡Si humano me necesita aquí estoy!"
 #: data/maps/heat/path-01-entrance.json+entities/316/settings/npcStates/0/event/3/options/0/label+%2352
 msgctxt "data/maps/heat/path-01-entrance.json//entities/316/settings/npcStates/0/event/3/options/0/label"
 msgid "[yes]"
-msgstr "[si]"
+msgstr "[sí]"
 
 #. data/maps/heat/path-01-entrance.json entities/316/settings/npcStates/0/event/3/options/1/label #67
 #. NPC guide
