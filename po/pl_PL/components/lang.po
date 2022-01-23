@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-16 23:02+0000\n"
-"PO-Revision-Date: 2022-01-22 14:57+0000\n"
+"PO-Revision-Date: 2022-01-23 19:10+0000\n"
 "Last-Translator: MoltenCoreDev <molters.tv@gmail.com>\n"
 "Language-Team: Polish <https://weblate.crosscode.ru/projects/crosscode/lang/pl/>\n"
 "Language: pl_PL\n"
@@ -46,9 +46,10 @@ msgstr ""
 
 #. data/lang/sc/gimmick.en_US.json labels/regularTrees #0
 #: data/lang/sc/gimmick.en_US.json+labels/regularTrees+%230
+#, fuzzy
 msgctxt "data/lang/sc/gimmick.en_US.json//labels/regularTrees"
 msgid "Trees are now more regular in Autumn's Rise and Fall."
-msgstr ""
+msgstr "Drzewa są teraz normalniejsze w Autumn's Rise i Fall."
 
 #. data/lang/sc/gimmick.en_US.json labels/regularTreesRemove #0
 #: data/lang/sc/gimmick.en_US.json+labels/regularTreesRemove+%230
@@ -456,25 +457,26 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/arena/scoreTypes/KILL+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/scoreTypes/KILL"
 msgid "Elimination"
-msgstr ""
+msgstr "Eliminacja"
 
 #. data/lang/sc/gui.en_US.json labels/arena/scoreTypes/BOSS_KILL #0
 #: data/lang/sc/gui.en_US.json+labels/arena/scoreTypes/BOSS_KILL+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/scoreTypes/BOSS_KILL"
 msgid "Boss Elimination"
-msgstr ""
+msgstr "Eliminacja Bossa"
 
 #. data/lang/sc/gui.en_US.json labels/arena/scoreTypes/MULTI_KILL #0
 #: data/lang/sc/gui.en_US.json+labels/arena/scoreTypes/MULTI_KILL+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/scoreTypes/MULTI_KILL"
 msgid "Multi Elimination"
-msgstr ""
+msgstr "Multi-Eliminacja"
 
 #. data/lang/sc/gui.en_US.json labels/arena/scoreTypes/ONE_HIT_KILL #0
 #: data/lang/sc/gui.en_US.json+labels/arena/scoreTypes/ONE_HIT_KILL+%230
+#, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/scoreTypes/ONE_HIT_KILL"
 msgid "Overkill"
-msgstr ""
+msgstr "Overkill"
 
 #. data/lang/sc/gui.en_US.json labels/arena/scoreTypes/ENVIRONMENT_KILL #0
 #: data/lang/sc/gui.en_US.json+labels/arena/scoreTypes/ENVIRONMENT_KILL+%230
@@ -486,13 +488,13 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/arena/scoreTypes/DAMAGE_DONE+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/scoreTypes/DAMAGE_DONE"
 msgid "Damage Done"
-msgstr ""
+msgstr "Obrażenia Zadane"
 
 #. data/lang/sc/gui.en_US.json labels/arena/scoreTypes/DAMAGE_DONE_EFFECTIVE #0
 #: data/lang/sc/gui.en_US.json+labels/arena/scoreTypes/DAMAGE_DONE_EFFECTIVE+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/scoreTypes/DAMAGE_DONE_EFFECTIVE"
 msgid "Effective Damage"
-msgstr ""
+msgstr "Efektywne Obrażenia"
 
 #. data/lang/sc/gui.en_US.json labels/arena/scoreTypes/DAMAGE_TAKEN #0
 #: data/lang/sc/gui.en_US.json+labels/arena/scoreTypes/DAMAGE_TAKEN+%230
@@ -504,31 +506,33 @@ msgstr "Otrzymane Obrażenia"
 #: data/lang/sc/gui.en_US.json+labels/arena/scoreTypes/ENEMY_HEAL+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/scoreTypes/ENEMY_HEAL"
 msgid "Enemy HP Recovered"
-msgstr ""
+msgstr "Zdrowie Wrogo Przywrócone"
 
 #. data/lang/sc/gui.en_US.json labels/arena/scoreTypes/LOCK_FINISH #0
 #: data/lang/sc/gui.en_US.json+labels/arena/scoreTypes/LOCK_FINISH+%230
+#, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/scoreTypes/LOCK_FINISH"
 msgid "Level 2 Art Finisher"
-msgstr ""
+msgstr "Artystyczny Finisher 2 Stopnia"
 
 #. data/lang/sc/gui.en_US.json labels/arena/scoreTypes/LOCK_FINISH_3 #0
 #: data/lang/sc/gui.en_US.json+labels/arena/scoreTypes/LOCK_FINISH_3+%230
+#, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/scoreTypes/LOCK_FINISH_3"
 msgid "Level 3 Art Finisher"
-msgstr ""
+msgstr "Artystyczny Finisher 3 Stopnia"
 
 #. data/lang/sc/gui.en_US.json labels/arena/scoreTypes/ELEMENT_OVERLOAD #0
 #: data/lang/sc/gui.en_US.json+labels/arena/scoreTypes/ELEMENT_OVERLOAD+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/scoreTypes/ELEMENT_OVERLOAD"
 msgid "Element Overload"
-msgstr ""
+msgstr "Element Przeładowany"
 
 #. data/lang/sc/gui.en_US.json labels/arena/scoreTypes/PERFECT_SHIELD #0
 #: data/lang/sc/gui.en_US.json+labels/arena/scoreTypes/PERFECT_SHIELD+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/scoreTypes/PERFECT_SHIELD"
 msgid "Perfect Guard"
-msgstr ""
+msgstr "Perfekcyjna Obrona"
 
 #. data/lang/sc/gui.en_US.json labels/arena/scoreTypes/ENEMY_BREAK #0
 #: data/lang/sc/gui.en_US.json+labels/arena/scoreTypes/ENEMY_BREAK+%230
@@ -540,7 +544,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/arena/scoreTypes/GUARD_COUNTER+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/scoreTypes/GUARD_COUNTER"
 msgid "Guard Counter"
-msgstr ""
+msgstr "Licznik Obron"
 
 #. data/lang/sc/gui.en_US.json labels/arena/scoreTypes/STATUS_INFLICT #0
 #: data/lang/sc/gui.en_US.json+labels/arena/scoreTypes/STATUS_INFLICT+%230
@@ -552,49 +556,49 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/arena/scoreTypes/PERFECT_DODGE+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/scoreTypes/PERFECT_DODGE"
 msgid "Perfect Dodge"
-msgstr ""
+msgstr "Perfekcyjne Uniki"
 
 #. data/lang/sc/gui.en_US.json labels/arena/scoreTypes/PVP_ROUND_WON #0
 #: data/lang/sc/gui.en_US.json+labels/arena/scoreTypes/PVP_ROUND_WON+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/scoreTypes/PVP_ROUND_WON"
 msgid "Rounds Won"
-msgstr ""
+msgstr "Rundy Wygrane"
 
 #. data/lang/sc/gui.en_US.json labels/arena/scoreTypes/PVP_ROUND_LOST #0
 #: data/lang/sc/gui.en_US.json+labels/arena/scoreTypes/PVP_ROUND_LOST+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/scoreTypes/PVP_ROUND_LOST"
 msgid "Rounds Lost"
-msgstr ""
+msgstr "Rundy Przegrane"
 
 #. data/lang/sc/gui.en_US.json labels/arena/medals/0 #0
 #: data/lang/sc/gui.en_US.json+labels/arena/medals/0+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/medals/0"
 msgid "Bronze"
-msgstr ""
+msgstr "Bronz"
 
 #. data/lang/sc/gui.en_US.json labels/arena/medals/1 #0
 #: data/lang/sc/gui.en_US.json+labels/arena/medals/1+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/medals/1"
 msgid "Silver"
-msgstr ""
+msgstr "Srebro"
 
 #. data/lang/sc/gui.en_US.json labels/arena/medals/2 #0
 #: data/lang/sc/gui.en_US.json+labels/arena/medals/2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/medals/2"
 msgid "Gold"
-msgstr ""
+msgstr "Złoto"
 
 #. data/lang/sc/gui.en_US.json labels/arena/medals/3 #0
 #: data/lang/sc/gui.en_US.json+labels/arena/medals/3+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/medals/3"
 msgid "Platinum"
-msgstr ""
+msgstr "Platyna"
 
 #. data/lang/sc/gui.en_US.json labels/arena/medals/4 #0
 #: data/lang/sc/gui.en_US.json+labels/arena/medals/4+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/medals/4"
 msgid "True Platinum"
-msgstr ""
+msgstr "Prawdziwa Platyna"
 
 #. data/lang/sc/gui.en_US.json labels/arena/medals/5 #0
 #: data/lang/sc/gui.en_US.json+labels/arena/medals/5+%230
@@ -606,61 +610,61 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/arena/menu/trophy+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/menu/trophy"
 msgid "Trophy"
-msgstr ""
+msgstr "Trofeum"
 
 #. data/lang/sc/gui.en_US.json labels/arena/menu/medal #0
 #: data/lang/sc/gui.en_US.json+labels/arena/menu/medal+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/menu/medal"
 msgid "Medal"
-msgstr ""
+msgstr "Medal"
 
 #. data/lang/sc/gui.en_US.json labels/arena/menu/tabs/solo #0
 #: data/lang/sc/gui.en_US.json+labels/arena/menu/tabs/solo+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/menu/tabs/solo"
 msgid "Solo Cups"
-msgstr ""
+msgstr "Puchary Solo"
 
 #. data/lang/sc/gui.en_US.json labels/arena/menu/tabs/team #0
 #: data/lang/sc/gui.en_US.json+labels/arena/menu/tabs/team+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/menu/tabs/team"
 msgid "Team Cups"
-msgstr ""
+msgstr "Puchary Drużynowe"
 
 #. data/lang/sc/gui.en_US.json labels/arena/menu/creator #0
 #: data/lang/sc/gui.en_US.json+labels/arena/menu/creator+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/menu/creator"
 msgid "Creator"
-msgstr ""
+msgstr "Kreator"
 
 #. data/lang/sc/gui.en_US.json labels/arena/menu/silver #0
 #: data/lang/sc/gui.en_US.json+labels/arena/menu/silver+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/menu/silver"
 msgid "Silver"
-msgstr ""
+msgstr "Srebro"
 
 #. data/lang/sc/gui.en_US.json labels/arena/menu/gold #0
 #: data/lang/sc/gui.en_US.json+labels/arena/menu/gold+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/menu/gold"
 msgid "Gold"
-msgstr ""
+msgstr "Złoto"
 
 #. data/lang/sc/gui.en_US.json labels/arena/menu/time #0
 #: data/lang/sc/gui.en_US.json+labels/arena/menu/time+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/menu/time"
 msgid "Sum of Best"
-msgstr ""
+msgstr "Suma Najlepszych"
 
 #. data/lang/sc/gui.en_US.json labels/arena/menu/timeRound #0
 #: data/lang/sc/gui.en_US.json+labels/arena/menu/timeRound+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/menu/timeRound"
 msgid "Best Time"
-msgstr ""
+msgstr "Najlepszy Czas"
 
 #. data/lang/sc/gui.en_US.json labels/arena/menu/highscore #0
 #: data/lang/sc/gui.en_US.json+labels/arena/menu/highscore+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/menu/highscore"
 msgid "Highscore"
-msgstr ""
+msgstr "Najlepszy wynik"
 
 #. data/lang/sc/gui.en_US.json labels/arena/menu/coins #0
 #: data/lang/sc/gui.en_US.json+labels/arena/menu/coins+%230
@@ -690,7 +694,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/arena/menu/objective+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/menu/objective"
 msgid "Objective"
-msgstr ""
+msgstr "Cel"
 
 #. data/lang/sc/gui.en_US.json labels/arena/menu/startRushMode #0
 #: data/lang/sc/gui.en_US.json+labels/arena/menu/startRushMode+%230
@@ -702,7 +706,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/arena/menu/startAtRound+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/menu/startAtRound"
 msgid "Start \\c[3][CUP_NAME]\\c[0] at \\c[3]Round [ROUND_INDEX]\\c[0]?"
-msgstr ""
+msgstr "Wystartować \\c[3][CUP_NAME]\\c[0] na \\c[3]Rundzie [ROUND_INDEX]\\c[0]?"
 
 #. data/lang/sc/gui.en_US.json labels/arena/menu/objectiveRushMode #0
 #: data/lang/sc/gui.en_US.json+labels/arena/menu/objectiveRushMode+%230
@@ -714,19 +718,19 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/arena/menu/objectiveDefault+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/menu/objectiveDefault"
 msgid "Defeat all enemies!"
-msgstr ""
+msgstr "Wyeliminuj wszystkich wrogów!"
 
 #. data/lang/sc/gui.en_US.json labels/arena/menu/bonusNone #0
 #: data/lang/sc/gui.en_US.json+labels/arena/menu/bonusNone+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/menu/bonusNone"
 msgid "Select a round to see which bonus objectives are available."
-msgstr ""
+msgstr "Wybierz rundę aby zobaczyć jakie są bonusowe cele."
 
 #. data/lang/sc/gui.en_US.json labels/arena/menu/bonuses #0
 #: data/lang/sc/gui.en_US.json+labels/arena/menu/bonuses+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/menu/bonuses"
 msgid "Bonus Points"
-msgstr ""
+msgstr "Bonusowe Punkty"
 
 #. data/lang/sc/gui.en_US.json labels/arena/menu/notCleared #0
 #: data/lang/sc/gui.en_US.json+labels/arena/menu/notCleared+%230
@@ -738,31 +742,31 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/arena/menu/rounds+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/menu/rounds"
 msgid "Rounds"
-msgstr ""
+msgstr "Rundy"
 
 #. data/lang/sc/gui.en_US.json labels/arena/menu/difficulty #0
 #: data/lang/sc/gui.en_US.json+labels/arena/menu/difficulty+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/menu/difficulty"
 msgid "Difficulty"
-msgstr ""
+msgstr "Poziom Trudności"
 
 #. data/lang/sc/gui.en_US.json labels/arena/menu/info #0
 #: data/lang/sc/gui.en_US.json+labels/arena/menu/info+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/menu/info"
 msgid "Overview"
-msgstr ""
+msgstr "Podsumowanie"
 
 #. data/lang/sc/gui.en_US.json labels/arena/menu/noCup #0
 #: data/lang/sc/gui.en_US.json+labels/arena/menu/noCup+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/menu/noCup"
 msgid "No Cup Selected"
-msgstr ""
+msgstr "Nie Wybrano Pucharu"
 
 #. data/lang/sc/gui.en_US.json labels/arena/menu/noRound #0
 #: data/lang/sc/gui.en_US.json+labels/arena/menu/noRound+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/menu/noRound"
 msgid "No Round Selected"
-msgstr ""
+msgstr "Nie Wybrano Rundy"
 
 #. data/lang/sc/gui.en_US.json labels/arena/menu/totalPoints #0
 #: data/lang/sc/gui.en_US.json+labels/arena/menu/totalPoints+%230
@@ -780,49 +784,49 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/dlc/abr+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/dlc/abr"
 msgid "DLC"
-msgstr ""
+msgstr "DLC"
 
 #. data/lang/sc/gui.en_US.json labels/area/other #0
 #: data/lang/sc/gui.en_US.json+labels/area/other+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/area/other"
 msgid "Other"
-msgstr ""
+msgstr "Inne"
 
 #. data/lang/sc/gui.en_US.json labels/feats/hud-title #0
 #: data/lang/sc/gui.en_US.json+labels/feats/hud-title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/feats/hud-title"
 msgid "Trophies"
-msgstr ""
+msgstr "Trofea"
 
 #. data/lang/sc/gui.en_US.json labels/feats/unlocked #0
 #: data/lang/sc/gui.en_US.json+labels/feats/unlocked+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/feats/unlocked"
 msgid "Unlocked"
-msgstr ""
+msgstr "Odblokowane"
 
 #. data/lang/sc/gui.en_US.json labels/trade/trader #0
 #: data/lang/sc/gui.en_US.json+labels/trade/trader+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/trader"
 msgid "\\c[3]Trader\\c[0]"
-msgstr ""
+msgstr "\\c[3]Handlarz\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/trade/shop #0
 #: data/lang/sc/gui.en_US.json+labels/trade/shop+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/shop"
 msgid "\\c[3]Shop\\c[0]"
-msgstr ""
+msgstr "\\c[3]Sklep\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/trade/quest #0
 #: data/lang/sc/gui.en_US.json+labels/trade/quest+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/quest"
 msgid "\\c[3]Event\\c[0]"
-msgstr ""
+msgstr "\\c[3]Wydarzenie\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/trade/tradeOffer #0
 #: data/lang/sc/gui.en_US.json+labels/trade/tradeOffer+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/tradeOffer"
 msgid "Trade Offers"
-msgstr ""
+msgstr "Oferty wymiany"
 
 #. data/lang/sc/gui.en_US.json labels/trade/stats #0
 #: data/lang/sc/gui.en_US.json+labels/trade/stats+%230
@@ -834,13 +838,13 @@ msgstr "Statystyki"
 #: data/lang/sc/gui.en_US.json+labels/trade/modifier+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/modifier"
 msgid "Modifier"
-msgstr ""
+msgstr "Modyfikator"
 
 #. data/lang/sc/gui.en_US.json labels/trade/trade #0
 #: data/lang/sc/gui.en_US.json+labels/trade/trade+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/trade"
 msgid "Trade"
-msgstr ""
+msgstr "Wymiana"
 
 #. data/lang/sc/gui.en_US.json labels/trade/nothing #0
 #: data/lang/sc/gui.en_US.json+labels/trade/nothing+%230
@@ -858,13 +862,13 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/trade/owned+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/owned"
 msgid "(owned)"
-msgstr ""
+msgstr "(posiadane)"
 
 #. data/lang/sc/gui.en_US.json labels/trade/offer #0
 #: data/lang/sc/gui.en_US.json+labels/trade/offer+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/offer"
 msgid "Offer"
-msgstr ""
+msgstr "Oferta"
 
 #. data/lang/sc/gui.en_US.json labels/trade/toggle #0
 #: data/lang/sc/gui.en_US.json+labels/trade/toggle+%230
@@ -876,7 +880,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/trade/toggleEnd+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/toggleEnd"
 msgid "Show Stats"
-msgstr ""
+msgstr "Pokaż Statystyki"
 
 #. data/lang/sc/gui.en_US.json labels/trade/toggleDes #0
 #: data/lang/sc/gui.en_US.json+labels/trade/toggleDes+%230
@@ -888,7 +892,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/trade/description+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/description"
 msgid "Press to initiate the trade!"
-msgstr ""
+msgstr "Naciśnij aby zainiciować wymianę!"
 
 #. data/lang/sc/gui.en_US.json labels/trade/equipInfo #0
 #: data/lang/sc/gui.en_US.json+labels/trade/equipInfo+%230
@@ -900,13 +904,13 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/trade/end+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/end"
 msgid "End Trade."
-msgstr ""
+msgstr "Zakończ wymianę."
 
 #. data/lang/sc/gui.en_US.json labels/trade/credits #0
 #: data/lang/sc/gui.en_US.json+labels/trade/credits+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/credits"
 msgid "Credits:"
-msgstr ""
+msgstr "Napisy Końcowe:"
 
 #. data/lang/sc/gui.en_US.json labels/trade/rest #0
 #: data/lang/sc/gui.en_US.json+labels/trade/rest+%230
@@ -930,37 +934,37 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/trade/compareHEAD+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/compareHEAD"
 msgid "Head"
-msgstr ""
+msgstr "Głowa"
 
 #. data/lang/sc/gui.en_US.json labels/trade/compareARMRight #0
 #: data/lang/sc/gui.en_US.json+labels/trade/compareARMRight+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/compareARMRight"
 msgid "Right Arm"
-msgstr ""
+msgstr "Prawa Ręka"
 
 #. data/lang/sc/gui.en_US.json labels/trade/compareARMLeft #0
 #: data/lang/sc/gui.en_US.json+labels/trade/compareARMLeft+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/compareARMLeft"
 msgid "Left Arm"
-msgstr ""
+msgstr "Lewa Ręka"
 
 #. data/lang/sc/gui.en_US.json labels/trade/compareTORSO #0
 #: data/lang/sc/gui.en_US.json+labels/trade/compareTORSO+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/compareTORSO"
 msgid "Torso"
-msgstr ""
+msgstr "Tułów"
 
 #. data/lang/sc/gui.en_US.json labels/trade/compareFEET #0
 #: data/lang/sc/gui.en_US.json+labels/trade/compareFEET+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/compareFEET"
 msgid "Feet"
-msgstr ""
+msgstr "Stopy"
 
 #. data/lang/sc/gui.en_US.json labels/trade/compareBASE #0
 #: data/lang/sc/gui.en_US.json+labels/trade/compareBASE+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/compareBASE"
 msgid "Base Stats"
-msgstr ""
+msgstr "Bazowe Statystyki"
 
 #. data/lang/sc/gui.en_US.json labels/botanics/rate #0
 #: data/lang/sc/gui.en_US.json+labels/botanics/rate+%230
@@ -978,7 +982,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/botanics/infoLocked+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/botanics/infoLocked"
 msgid "- Info Locked -"
-msgstr ""
+msgstr "- Info Zablokowane -"
 
 #. data/lang/sc/gui.en_US.json labels/botanics/collect #0
 #: data/lang/sc/gui.en_US.json+labels/botanics/collect+%230
@@ -1018,9 +1022,10 @@ msgstr ""
 
 #. data/lang/sc/gui.en_US.json labels/msg/private #0
 #: data/lang/sc/gui.en_US.json+labels/msg/private+%230
+#, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/msg/private"
 msgid "Direct Link"
-msgstr ""
+msgstr "Bezpośrednie Połączenie"
 
 #. data/lang/sc/gui.en_US.json labels/msg/outgoing #0
 #: data/lang/sc/gui.en_US.json+labels/msg/outgoing+%230
@@ -1030,27 +1035,28 @@ msgstr ""
 
 #. data/lang/sc/gui.en_US.json labels/msg/incoming #0
 #: data/lang/sc/gui.en_US.json+labels/msg/incoming+%230
+#, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/msg/incoming"
 msgid "Direct Link Request"
-msgstr ""
+msgstr "Prośba o Bezpośrednie Połączenie"
 
 #. data/lang/sc/gui.en_US.json labels/get-msg/ACTIVATED #0
 #: data/lang/sc/gui.en_US.json+labels/get-msg/ACTIVATED+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/get-msg/ACTIVATED"
 msgid "[!] activated"
-msgstr ""
+msgstr "[!] Zaktywowane"
 
 #. data/lang/sc/gui.en_US.json labels/get-msg/OBTAINED #0
 #: data/lang/sc/gui.en_US.json+labels/get-msg/OBTAINED+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/get-msg/OBTAINED"
 msgid "[!] obtained"
-msgstr ""
+msgstr "[!] Zdobyte"
 
 #. data/lang/sc/gui.en_US.json labels/get-msg/REMOVED #0
 #: data/lang/sc/gui.en_US.json+labels/get-msg/REMOVED+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/get-msg/REMOVED"
 msgid "[!] removed"
-msgstr ""
+msgstr "[!] Usunięte"
 
 #. data/lang/sc/gui.en_US.json labels/get-msg/ENEMY #0
 #: data/lang/sc/gui.en_US.json+labels/get-msg/ENEMY+%230
@@ -1068,25 +1074,26 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/get-msg/WORD+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/get-msg/WORD"
 msgid "New word embedded: [!]"
-msgstr ""
+msgstr "Nowe słowo wbudowane: [!]"
 
 #. data/lang/sc/gui.en_US.json labels/get-msg/FRIENDSHIP #0
 #: data/lang/sc/gui.en_US.json+labels/get-msg/FRIENDSHIP+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/get-msg/FRIENDSHIP"
 msgid "Contacts shared with [!]"
-msgstr ""
+msgstr "Kontakty dzielone z [!]"
 
 #. data/lang/sc/gui.en_US.json labels/get-msg/PARTY #0
 #: data/lang/sc/gui.en_US.json+labels/get-msg/PARTY+%230
+#, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/get-msg/PARTY"
 msgid "[!] joined your party!"
-msgstr ""
+msgstr "[!] dołączył do party!"
 
 #. data/lang/sc/gui.en_US.json labels/get-msg/USED #0
 #: data/lang/sc/gui.en_US.json+labels/get-msg/USED+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/get-msg/USED"
 msgid "[!] used!"
-msgstr ""
+msgstr "[!] użyte!"
 
 #. data/lang/sc/gui.en_US.json labels/get-msg/HAND_OVER #0
 #: data/lang/sc/gui.en_US.json+labels/get-msg/HAND_OVER+%230
@@ -1098,7 +1105,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/get-msg/RESET+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/get-msg/RESET"
 msgid "[!] has been reset"
-msgstr ""
+msgstr "[!] zostało zresetowane"
 
 #. data/lang/sc/gui.en_US.json labels/dialogs/slotsOverflow #0
 #: data/lang/sc/gui.en_US.json+labels/dialogs/slotsOverflow+%230
@@ -1108,15 +1115,17 @@ msgstr ""
 
 #. data/lang/sc/gui.en_US.json labels/dialogs/newConfirm #0
 #: data/lang/sc/gui.en_US.json+labels/dialogs/newConfirm+%230
+#, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/dialogs/newConfirm"
 msgid "Create new save file?"
-msgstr ""
+msgstr "Stworzyć nowego save'a?"
 
 #. data/lang/sc/gui.en_US.json labels/dialogs/loadConfirm #0
 #: data/lang/sc/gui.en_US.json+labels/dialogs/loadConfirm+%230
+#, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/dialogs/loadConfirm"
 msgid "Load this save file?"
-msgstr ""
+msgstr "Wczytać tego save'a?"
 
 #. data/lang/sc/gui.en_US.json labels/dialogs/loadNewGameConfirm #0
 #: data/lang/sc/gui.en_US.json+labels/dialogs/loadNewGameConfirm+%230
@@ -1134,19 +1143,20 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/dialogs/titleConfirm+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/dialogs/titleConfirm"
 msgid "Return to title screen?"
-msgstr ""
+msgstr "Wrócić do ekranu tytułowego?"
 
 #. data/lang/sc/gui.en_US.json labels/dialogs/cancelConfirm #0
 #: data/lang/sc/gui.en_US.json+labels/dialogs/cancelConfirm+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/dialogs/cancelConfirm"
 msgid "Do you really want to cancel?"
-msgstr ""
+msgstr "Czy napewno chcesz anulować?"
 
 #. data/lang/sc/gui.en_US.json labels/dialogs/overrideConfirm #0
 #: data/lang/sc/gui.en_US.json+labels/dialogs/overrideConfirm+%230
+#, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/dialogs/overrideConfirm"
 msgid "Override this save file?"
-msgstr ""
+msgstr "Nadpisać tego save'a?"
 
 #. data/lang/sc/gui.en_US.json labels/dialogs/skipConfirm #0
 #: data/lang/sc/gui.en_US.json+labels/dialogs/skipConfirm+%230
