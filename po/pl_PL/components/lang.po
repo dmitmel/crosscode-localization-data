@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-16 23:02+0000\n"
-"PO-Revision-Date: 2022-01-23 19:19+0000\n"
-"Last-Translator: Alyxia Sother <lexisoth2005@gmail.com>\n"
+"PO-Revision-Date: 2022-01-23 19:58+0000\n"
+"Last-Translator: smartfridge <smartfrigde@gmail.com>\n"
 "Language-Team: Polish <https://weblate.crosscode.ru/projects/crosscode/lang/pl/>\n"
 "Language: pl_PL\n"
 "MIME-Version: 1.0\n"
@@ -1464,19 +1464,19 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/title-screen/start+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/start"
 msgid "New Game"
-msgstr ""
+msgstr "Nowa Gra"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/startPlus #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/startPlus+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/startPlus"
 msgid "New Game \\c[3]Plus\\c[0]"
-msgstr ""
+msgstr "Nowa Gra \\c[3]Plus\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/continue #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/continue+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/continue"
 msgid "Continue"
-msgstr ""
+msgstr "Kontynuuj"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/preset #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/preset+%230
@@ -1494,49 +1494,49 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/title-screen/grind+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/grind"
 msgid "Exploration"
-msgstr ""
+msgstr "Eksploracja"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/puzzle #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/puzzle+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/puzzle"
 msgid "Puzzle"
-msgstr ""
+msgstr "Zagadki"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/select #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/select+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/select"
 msgid "Select a demo mode to try out!"
-msgstr ""
+msgstr "Wybierz tryb demonstracyjny aby wypróbować!"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/load #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/load+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/load"
 msgid "Load Game"
-msgstr ""
+msgstr "Wczytaj Grę"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/options #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/options+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/options"
 msgid "Options"
-msgstr ""
+msgstr "Opcje"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/close #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/close+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/close"
 msgid "Exit"
-msgstr ""
+msgstr "Wyjdź"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/gamecode #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/gamecode+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/gamecode"
 msgid "Enter Bonus Code"
-msgstr ""
+msgstr "Wpisz bonusowy kod"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/perform-warn #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/perform-warn+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/perform-warn"
 msgid "Performance Warning"
-msgstr ""
+msgstr "Ostrzeżenie"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/perform-warn-text/old-nwjs #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/perform-warn-text/old-nwjs+%230
@@ -1547,6 +1547,10 @@ msgid ""
 "For many players, this version has shown to perform poorly, especially with modern graphics cards.\n"
 "If the game runs slow for you, consider disabling the use of the 'nwjs_old' BETA branch."
 msgstr ""
+"\\c[3]Ostrzeżenie !\\c[0]\n"
+"Grasz w CrossCode używając \\c[3]starą wersję\\c[0] NW.js.\n"
+"Dla wielu graczy ta wersja zmniejszała wydajność gry, szcególnie kiedy użyte razem z nowszymi kartami graficznymi.\n"
+"Jeśli gra chodzi wolno przemyśl wyłączenie użycia galęzi BETA  'nwjs_old'."
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/perform-warn-text/sample-rate #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/perform-warn-text/sample-rate+%230
