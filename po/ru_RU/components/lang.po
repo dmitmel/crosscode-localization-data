@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-07 07:49+0000\n"
-"POT-Revision-Date: 2022-02-07 07:49+0000\n"
+"POT-Creation-Date: 2022-02-07 15:43+0000\n"
+"POT-Revision-Date: 2022-02-07 15:43+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -2268,6 +2268,12 @@ msgstr "Члены вашей группы не будут ничего дела
 msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/noData"
 msgid "Insufficient Data! Fight against this enemy to reveal more information."
 msgstr "Недостаточно данных! Сразитесь с врагом, чтобы получить больше информации."
+
+#. data/lang/sc/gui.en_US.json labels/quick-menu/analyze/enemy-level #0
+#: data/lang/sc/gui.en_US.json+labels/quick-menu/analyze/enemy-level+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/analyze/enemy-level"
+msgid "LV"
+msgstr "LV"
 
 #. data/lang/sc/gui.en_US.json labels/shop/buy #0
 #: data/lang/sc/gui.en_US.json+labels/shop/buy+%230
@@ -11859,18 +11865,6 @@ msgctxt "data/lang/sc/gui.en_US.json//labels/options/assists-description/descrip
 msgid "\\c[3]CrossCode\\c[0] was designed with \\c[3]challenge\\c[0] in mind. However, if this makes the game less enjoyable or even inaccessible for you, you can use these options \\c[3]to tweak the difficulty\\c[0] to your liking!"
 msgstr "\\c[3]CrossCode\\c[0] был разработан, чтобы бросить игроку \\c[3]вызов\\c[0]. Однако если это делает игру слишком сложной или даже непроходимой для вас, то вы можете использовать эти опции, чтобы \\c[3]настроить сложность\\c[0] на ваш вкус!"
 
-#. data/lang/sc/gui.en_US.json labels/options/crosscode-ru/localized-labels-on-sprites/name #0
-#: data/lang/sc/gui.en_US.json+labels/options/crosscode-ru/localized-labels-on-sprites/name+%230
-msgctxt "data/lang/sc/gui.en_US.json//labels/options/crosscode-ru/localized-labels-on-sprites/name"
-msgid "Localized labels on sprites"
-msgstr "Локализация текстур"
-
-#. data/lang/sc/gui.en_US.json labels/options/crosscode-ru/localized-labels-on-sprites/description #0
-#: data/lang/sc/gui.en_US.json+labels/options/crosscode-ru/localized-labels-on-sprites/description+%230
-msgctxt "data/lang/sc/gui.en_US.json//labels/options/crosscode-ru/localized-labels-on-sprites/description"
-msgid "Enables translated labels on sprites such as signs in the game world. \\c[1]Needs a restart!"
-msgstr "Включает переведённые надписи на спрайтах, например, на табличках в игровом мире. \\c[1]Требуется перезапуск!"
-
 #. data/lang/sc/gui.en_US.json labels/options/logLevel-log/name #0
 #: data/lang/sc/gui.en_US.json+labels/options/logLevel-log/name+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-log/name"
@@ -11912,6 +11906,18 @@ msgstr "Включает всплывающие окна ошибок. \\c[1]Т�
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/mods-description/description"
 msgid "In this menu you can \\c[3]enable or disable installed mods\\c[0]. Mod descriptions are shown below. \\c[1]The game needs to be restarted\\c[0] if you change any options here!"
 msgstr "В этом меню вы можете \\c[3]включать или выключать установленные моды\\c[0]. Описания модов отображаются внизу. \\c[1]Игра должна быть перезапущена\\c[0], если вы измените здесь какие-либо параметры!"
+
+#. data/lang/sc/gui.en_US.json labels/options/crosscode-ru/localized-labels-on-sprites/name #0
+#: data/lang/sc/gui.en_US.json+labels/options/crosscode-ru/localized-labels-on-sprites/name+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/options/crosscode-ru/localized-labels-on-sprites/name"
+msgid "Localized labels on sprites"
+msgstr "Локализация текстур"
+
+#. data/lang/sc/gui.en_US.json labels/options/crosscode-ru/localized-labels-on-sprites/description #0
+#: data/lang/sc/gui.en_US.json+labels/options/crosscode-ru/localized-labels-on-sprites/description+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/options/crosscode-ru/localized-labels-on-sprites/description"
+msgid "Enables translated labels on sprites such as signs in the game world. \\c[1]Needs a restart!"
+msgstr "Включает переведённые надписи на спрайтах, например, на табличках в игровом мире. \\c[1]Требуется перезапуск!"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/pre #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/pre+%230
