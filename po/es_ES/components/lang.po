@@ -2,17 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-11 15:55+0000\n"
-"PO-Revision-Date: 2022-02-03 19:28+0000\n"
-"Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
-"Language-Team: Spanish <https://weblate.crosscode.ru/projects/crosscode/lang/es/>\n"
+"POT-Creation-Date: 2022-02-07 07:45+0000\n"
+"POT-Revision-Date: 2022-02-07 07:45+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.5.3\n"
-"POT-Revision-Date: 2022-01-11 15:55+0000\n"
+"Plural-Forms: \n"
+"X-Generator: crosscode-localization-engine 0.0.0 (e306904 2022-02-07)\n"
 
 #. data/lang/sc/gimmick.en_US.json labels/unknown #0
 #: data/lang/sc/gimmick.en_US.json+labels/unknown+%230
@@ -1400,6 +1399,24 @@ msgctxt "data/lang/sc/gui.en_US.json//labels/combat-hud/skip"
 msgid "skip"
 msgstr "Saltar"
 
+#. data/lang/sc/gui.en_US.json labels/combat-hud/pvp-round #0
+#: data/lang/sc/gui.en_US.json+labels/combat-hud/pvp-round+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/combat-hud/pvp-round"
+msgid "Round"
+msgstr ""
+
+#. data/lang/sc/gui.en_US.json labels/combat-hud/boss #0
+#: data/lang/sc/gui.en_US.json+labels/combat-hud/boss+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/combat-hud/boss"
+msgid "Boss"
+msgstr ""
+
+#. data/lang/sc/gui.en_US.json labels/combat-hud/rank #0
+#: data/lang/sc/gui.en_US.json+labels/combat-hud/rank+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/combat-hud/rank"
+msgid "Rank"
+msgstr ""
+
 #. data/lang/sc/gui.en_US.json labels/combat-msg/break #0
 #: data/lang/sc/gui.en_US.json+labels/combat-msg/break+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/combat-msg/break"
@@ -1567,6 +1584,12 @@ msgstr ""
 "Esto ha demostrado incrementar el us de la memoria y hace al juego \\c[3]más inestable\\c[0].\n"
 "Recomendamos que juegues al juego con una frecuencia de muestreo de \\c[3]96000 Hz o menos\\c[0].\n"
 "En Windows, puedes cambiar la frecuencia de muestreo desde el \\c[3]Panel de Control de Sonido\\c[0], en las \\c[3]Propiedades\\c[0] de tu \\c[3]Dispositivo de Audio\\c[0] activo al cambiar el \\c[3]Formato por Defecto\\c[0] en la pestaña \\c[3]Avanzado\\c[0]."
+
+#. data/lang/sc/gui.en_US.json labels/title-screen/changelog #0
+#: data/lang/sc/gui.en_US.json+labels/title-screen/changelog+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/changelog"
+msgid "Changelog"
+msgstr ""
 
 #. data/lang/sc/gui.en_US.json labels/dlc-list/button #0
 #: data/lang/sc/gui.en_US.json+labels/dlc-list/button+%230
@@ -5374,6 +5397,12 @@ msgstr "Asistencias"
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/option/arena"
 msgid "Arena"
 msgstr "Arena"
+
+#. data/lang/sc/gui.en_US.json labels/menu/option/mods #0
+#: data/lang/sc/gui.en_US.json+labels/menu/option/mods+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/menu/option/mods"
+msgid "Mods"
+msgstr ""
 
 #. data/lang/sc/gui.en_US.json labels/menu/save-menu/delete #0
 #: data/lang/sc/gui.en_US.json+labels/menu/save-menu/delete+%230
@@ -10396,6 +10425,12 @@ msgctxt "data/lang/sc/gui.en_US.json//labels/options/headers/arena"
 msgid "Arena"
 msgstr "Arena"
 
+#. data/lang/sc/gui.en_US.json labels/options/headers/logLevel #0
+#: data/lang/sc/gui.en_US.json+labels/options/headers/logLevel+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/options/headers/logLevel"
+msgid "Log levels"
+msgstr ""
+
 #. data/lang/sc/gui.en_US.json labels/options/arena-confirm/name #0
 #: data/lang/sc/gui.en_US.json+labels/options/arena-confirm/name+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/arena-confirm/name"
@@ -11799,6 +11834,48 @@ msgstr "Reduce la velocidad o incrementa la duración de algunos elementos en lo
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/assists-description/description"
 msgid "\\c[3]CrossCode\\c[0] was designed with \\c[3]challenge\\c[0] in mind. However, if this makes the game less enjoyable or even inaccessible for you, you can use these options \\c[3]to tweak the difficulty\\c[0] to your liking!"
 msgstr "\\c[3]CrossCode\\c[0] está diseñado con \\c[3]desafío\\c[0] en mente. Sin embargo, si estos desafíos hacen el juego menos disfrutable, o incluso inaccesible para ti, ¡puedes usar estas opciones para \\c[3]ajustar la dificultad\\c[0] a tu gusto!"
+
+#. data/lang/sc/gui.en_US.json labels/options/logLevel-log/name #0
+#: data/lang/sc/gui.en_US.json+labels/options/logLevel-log/name+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-log/name"
+msgid "Log level: Default"
+msgstr ""
+
+#. data/lang/sc/gui.en_US.json labels/options/logLevel-log/description #0
+#: data/lang/sc/gui.en_US.json+labels/options/logLevel-log/description+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-log/description"
+msgid "Enables default message popups. \\c[1]Needs a restart!"
+msgstr ""
+
+#. data/lang/sc/gui.en_US.json labels/options/logLevel-warn/name #0
+#: data/lang/sc/gui.en_US.json+labels/options/logLevel-warn/name+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-warn/name"
+msgid "Log level: Warnings"
+msgstr ""
+
+#. data/lang/sc/gui.en_US.json labels/options/logLevel-warn/description #0
+#: data/lang/sc/gui.en_US.json+labels/options/logLevel-warn/description+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-warn/description"
+msgid "Enables warning popups. \\c[1]Needs a restart!"
+msgstr ""
+
+#. data/lang/sc/gui.en_US.json labels/options/logLevel-error/name #0
+#: data/lang/sc/gui.en_US.json+labels/options/logLevel-error/name+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-error/name"
+msgid "Log level: Errors"
+msgstr ""
+
+#. data/lang/sc/gui.en_US.json labels/options/logLevel-error/description #0
+#: data/lang/sc/gui.en_US.json+labels/options/logLevel-error/description+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-error/description"
+msgid "Enables error popups. \\c[1]Needs a restart!"
+msgstr ""
+
+#. data/lang/sc/gui.en_US.json labels/options/mods-description/description #0
+#: data/lang/sc/gui.en_US.json+labels/options/mods-description/description+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/options/mods-description/description"
+msgid "In this menu you can \\c[3]enable or disable installed mods\\c[0]. Mod descriptions are shown below. \\c[1]The game needs to be restarted\\c[0] if you change any options here!"
+msgstr ""
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/pre #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/pre+%230

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-11 15:55+0000\n"
-"POT-Revision-Date: 2022-01-11 15:55+0000\n"
+"POT-Creation-Date: 2022-02-07 07:49+0000\n"
+"POT-Revision-Date: 2022-02-07 07:49+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0 (2168d54 2022-01-11)\n"
+"X-Generator: crosscode-localization-engine 0.0.0 (e306904 2022-02-07)\n"
 
 #. data/lang/sc/gimmick.en_US.json labels/unknown #0
 #: data/lang/sc/gimmick.en_US.json+labels/unknown+%230
@@ -1401,6 +1401,24 @@ msgctxt "data/lang/sc/gui.en_US.json//labels/combat-hud/skip"
 msgid "skip"
 msgstr "пропустить"
 
+#. data/lang/sc/gui.en_US.json labels/combat-hud/pvp-round #0
+#: data/lang/sc/gui.en_US.json+labels/combat-hud/pvp-round+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/combat-hud/pvp-round"
+msgid "Round"
+msgstr "Раунд"
+
+#. data/lang/sc/gui.en_US.json labels/combat-hud/boss #0
+#: data/lang/sc/gui.en_US.json+labels/combat-hud/boss+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/combat-hud/boss"
+msgid "Boss"
+msgstr "Босс"
+
+#. data/lang/sc/gui.en_US.json labels/combat-hud/rank #0
+#: data/lang/sc/gui.en_US.json+labels/combat-hud/rank+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/combat-hud/rank"
+msgid "Rank"
+msgstr "Rank"
+
 #. data/lang/sc/gui.en_US.json labels/combat-msg/break #0
 #: data/lang/sc/gui.en_US.json+labels/combat-msg/break+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/combat-msg/break"
@@ -1568,6 +1586,12 @@ msgstr ""
 "Это увеличивает потребление памяти и повышает вероятность \\c[3]сбоя игры\\c[0].\n"
 "Мы рекомендуем играть в игру с более низкой частотой дискретизации, равной \\c[3]96000 Гц или ниже\\c[0].\n"
 "В Windows вы можете изменить частоту дискретизации через \\c[3]Параметры управления звуком\\c[0], в \\c[3]Свойствах\\c[0] вашего активного\\c[3] устройства воспроизведения\\c[0], изменив\\c[3] формат по умолчанию\\c[0] на вкладке\\c[3] Дополнительно\\c[0]."
+
+#. data/lang/sc/gui.en_US.json labels/title-screen/changelog #0
+#: data/lang/sc/gui.en_US.json+labels/title-screen/changelog+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/changelog"
+msgid "Changelog"
+msgstr "История изменений"
 
 #. data/lang/sc/gui.en_US.json labels/dlc-list/button #0
 #: data/lang/sc/gui.en_US.json+labels/dlc-list/button+%230
@@ -4271,7 +4295,7 @@ msgstr "Арена"
 #: data/lang/sc/gui.en_US.json+labels/menu/menu-titles/arenaCustom+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/menu-titles/arenaCustom"
 msgid "Custom Arena"
-msgstr "Пользовательская арена"
+msgstr "Арена"
 
 #. data/lang/sc/gui.en_US.json labels/menu/menu-titles/arenaShop #0
 #: data/lang/sc/gui.en_US.json+labels/menu/menu-titles/arenaShop+%230
@@ -5380,6 +5404,12 @@ msgstr "Сложность"
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/option/arena"
 msgid "Arena"
 msgstr "Арена"
+
+#. data/lang/sc/gui.en_US.json labels/menu/option/mods #0
+#: data/lang/sc/gui.en_US.json+labels/menu/option/mods+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/menu/option/mods"
+msgid "Mods"
+msgstr "Моды"
 
 #. data/lang/sc/gui.en_US.json labels/menu/save-menu/delete #0
 #: data/lang/sc/gui.en_US.json+labels/menu/save-menu/delete+%230
@@ -10419,6 +10449,12 @@ msgctxt "data/lang/sc/gui.en_US.json//labels/options/headers/arena"
 msgid "Arena"
 msgstr "Арена"
 
+#. data/lang/sc/gui.en_US.json labels/options/headers/logLevel #0
+#: data/lang/sc/gui.en_US.json+labels/options/headers/logLevel+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/options/headers/logLevel"
+msgid "Log levels"
+msgstr "Настройки логирования через CCLoader"
+
 #. data/lang/sc/gui.en_US.json labels/options/arena-confirm/name #0
 #: data/lang/sc/gui.en_US.json+labels/options/arena-confirm/name+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/arena-confirm/name"
@@ -11823,6 +11859,60 @@ msgctxt "data/lang/sc/gui.en_US.json//labels/options/assists-description/descrip
 msgid "\\c[3]CrossCode\\c[0] was designed with \\c[3]challenge\\c[0] in mind. However, if this makes the game less enjoyable or even inaccessible for you, you can use these options \\c[3]to tweak the difficulty\\c[0] to your liking!"
 msgstr "\\c[3]CrossCode\\c[0] был разработан, чтобы бросить игроку \\c[3]вызов\\c[0]. Однако если это делает игру слишком сложной или даже непроходимой для вас, то вы можете использовать эти опции, чтобы \\c[3]настроить сложность\\c[0] на ваш вкус!"
 
+#. data/lang/sc/gui.en_US.json labels/options/crosscode-ru/localized-labels-on-sprites/name #0
+#: data/lang/sc/gui.en_US.json+labels/options/crosscode-ru/localized-labels-on-sprites/name+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/options/crosscode-ru/localized-labels-on-sprites/name"
+msgid "Localized labels on sprites"
+msgstr "Локализация текстур"
+
+#. data/lang/sc/gui.en_US.json labels/options/crosscode-ru/localized-labels-on-sprites/description #0
+#: data/lang/sc/gui.en_US.json+labels/options/crosscode-ru/localized-labels-on-sprites/description+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/options/crosscode-ru/localized-labels-on-sprites/description"
+msgid "Enables translated labels on sprites such as signs in the game world. \\c[1]Needs a restart!"
+msgstr "Включает переведённые надписи на спрайтах, например, на табличках в игровом мире. \\c[1]Требуется перезапуск!"
+
+#. data/lang/sc/gui.en_US.json labels/options/logLevel-log/name #0
+#: data/lang/sc/gui.en_US.json+labels/options/logLevel-log/name+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-log/name"
+msgid "Log level: Default"
+msgstr "Информационные сообщения"
+
+#. data/lang/sc/gui.en_US.json labels/options/logLevel-log/description #0
+#: data/lang/sc/gui.en_US.json+labels/options/logLevel-log/description+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-log/description"
+msgid "Enables default message popups. \\c[1]Needs a restart!"
+msgstr "Включает всплывающие окна информационных сообщений. \\c[1]Требуется перезапуск!"
+
+#. data/lang/sc/gui.en_US.json labels/options/logLevel-warn/name #0
+#: data/lang/sc/gui.en_US.json+labels/options/logLevel-warn/name+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-warn/name"
+msgid "Log level: Warnings"
+msgstr "Предупреждения"
+
+#. data/lang/sc/gui.en_US.json labels/options/logLevel-warn/description #0
+#: data/lang/sc/gui.en_US.json+labels/options/logLevel-warn/description+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-warn/description"
+msgid "Enables warning popups. \\c[1]Needs a restart!"
+msgstr "Включает всплывающие окна предупреждений. \\c[1]Требуется перезапуск!"
+
+#. data/lang/sc/gui.en_US.json labels/options/logLevel-error/name #0
+#: data/lang/sc/gui.en_US.json+labels/options/logLevel-error/name+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-error/name"
+msgid "Log level: Errors"
+msgstr "Ошибки"
+
+#. data/lang/sc/gui.en_US.json labels/options/logLevel-error/description #0
+#: data/lang/sc/gui.en_US.json+labels/options/logLevel-error/description+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-error/description"
+msgid "Enables error popups. \\c[1]Needs a restart!"
+msgstr "Включает всплывающие окна ошибок. \\c[1]Требуется перезапуск!"
+
+#. data/lang/sc/gui.en_US.json labels/options/mods-description/description #0
+#: data/lang/sc/gui.en_US.json+labels/options/mods-description/description+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/options/mods-description/description"
+msgid "In this menu you can \\c[3]enable or disable installed mods\\c[0]. Mod descriptions are shown below. \\c[1]The game needs to be restarted\\c[0] if you change any options here!"
+msgstr "В этом меню вы можете \\c[3]включать или выключать установленные моды\\c[0]. Описания модов отображаются внизу. \\c[1]Игра должна быть перезапущена\\c[0], если вы измените здесь какие-либо параметры!"
+
 #. data/lang/sc/gui.en_US.json labels/shakeit/pre #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/pre+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/pre"
@@ -12759,106 +12849,7 @@ msgctxt "data/lang/sc/gui.en_US.json//labels/loading/questUpdate"
 msgid "Some quests have changed. Those have been resetted. This means you might have to re-do some tasks or you get your rewards after you close this message."
 msgstr "Некоторые задания изменились. Они были перенесены. Это означает, что вам, возможно, придётся выполнить некоторые задачи заново, или вы получите вознаграждение после того, как закроете это сообщение."
 
-#. data/lang/sc/gui.en_US.json labels/combat-hud/pvp-round #0
-#. INJECTED_IN_MOD
-#: data/lang/sc/gui.en_US.json+labels/combat-hud/pvp-round+%230
-msgctxt "data/lang/sc/gui.en_US.json//labels/combat-hud/pvp-round"
-msgid "Round"
-msgstr "Раунд"
-
-#. data/lang/sc/gui.en_US.json labels/combat-hud/boss #0
-#. INJECTED_IN_MOD
-#: data/lang/sc/gui.en_US.json+labels/combat-hud/boss+%230
-msgctxt "data/lang/sc/gui.en_US.json//labels/combat-hud/boss"
-msgid "Boss"
-msgstr "Босс"
-
-#. data/lang/sc/gui.en_US.json labels/title-screen/changelog #0
-#. INJECTED_IN_MOD
-#: data/lang/sc/gui.en_US.json+labels/title-screen/changelog+%230
-msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/changelog"
-msgid "Changelog"
-msgstr "История изменений"
-
-#. data/lang/sc/gui.en_US.json labels/options/crosscode-ru/localized-labels-on-sprites/name #0
-#. INJECTED_IN_MOD
-#: data/lang/sc/gui.en_US.json+labels/options/crosscode-ru/localized-labels-on-sprites/name+%230
-msgctxt "data/lang/sc/gui.en_US.json//labels/options/crosscode-ru/localized-labels-on-sprites/name"
-msgid "Localized labels on sprites"
-msgstr "Локализация текстур"
-
-#. data/lang/sc/gui.en_US.json labels/options/crosscode-ru/localized-labels-on-sprites/description #0
-#. INJECTED_IN_MOD
-#: data/lang/sc/gui.en_US.json+labels/options/crosscode-ru/localized-labels-on-sprites/description+%230
-msgctxt "data/lang/sc/gui.en_US.json//labels/options/crosscode-ru/localized-labels-on-sprites/description"
-msgid "Enables translated labels on sprites such as signs in the game world. \\c[1]Needs a restart!"
-msgstr "Включает переведённые надписи на спрайтах, например, на табличках в игровом мире. \\c[1]Требуется перезапуск!"
-
-#. data/lang/sc/gui.en_US.json labels/menu/option/mods #0
-#. INJECTED_IN_MOD
-#: data/lang/sc/gui.en_US.json+labels/menu/option/mods+%230
-msgctxt "data/lang/sc/gui.en_US.json//labels/menu/option/mods"
-msgid "Mods"
-msgstr "Моды"
-
-#. data/lang/sc/gui.en_US.json labels/options/mods-description/description #0
-#. INJECTED_IN_MOD
-#: data/lang/sc/gui.en_US.json+labels/options/mods-description/description+%230
-msgctxt "data/lang/sc/gui.en_US.json//labels/options/mods-description/description"
-msgid "In this menu you can \\c[3]enable or disable installed mods\\c[0]. Mod descriptions are shown below. \\c[1]The game needs to be restarted\\c[0] if you change any options here!"
-msgstr "В этом меню вы можете \\c[3]включать или выключать установленные моды\\c[0]. Описания модов отображаются внизу. \\c[1]Игра должна быть перезапущена\\c[0], если вы измените здесь какие-либо параметры!"
-
-#. data/lang/sc/gui.en_US.json labels/options/headers/logLevel #0
-#. INJECTED_IN_MOD
-#: data/lang/sc/gui.en_US.json+labels/options/headers/logLevel+%230
-msgctxt "data/lang/sc/gui.en_US.json//labels/options/headers/logLevel"
-msgid "Log levels"
-msgstr "Настройки логирования через CCLoader"
-
-#. data/lang/sc/gui.en_US.json labels/options/logLevel-log/name #0
-#. INJECTED_IN_MOD
-#: data/lang/sc/gui.en_US.json+labels/options/logLevel-log/name+%230
-msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-log/name"
-msgid "Log level: Default"
-msgstr "Информационные сообщения"
-
-#. data/lang/sc/gui.en_US.json labels/options/logLevel-log/description #0
-#. INJECTED_IN_MOD
-#: data/lang/sc/gui.en_US.json+labels/options/logLevel-log/description+%230
-msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-log/description"
-msgid "Enables default message popups. \\c[1]Needs a restart!"
-msgstr "Включает всплывающие окна информационных сообщений. \\c[1]Требуется перезапуск!"
-
-#. data/lang/sc/gui.en_US.json labels/options/logLevel-warn/name #0
-#. INJECTED_IN_MOD
-#: data/lang/sc/gui.en_US.json+labels/options/logLevel-warn/name+%230
-msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-warn/name"
-msgid "Log level: Warnings"
-msgstr "Предупреждения"
-
-#. data/lang/sc/gui.en_US.json labels/options/logLevel-warn/description #0
-#. INJECTED_IN_MOD
-#: data/lang/sc/gui.en_US.json+labels/options/logLevel-warn/description+%230
-msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-warn/description"
-msgid "Enables warning popups. \\c[1]Needs a restart!"
-msgstr "Включает всплывающие окна предупреждений. \\c[1]Требуется перезапуск!"
-
-#. data/lang/sc/gui.en_US.json labels/options/logLevel-error/name #0
-#. INJECTED_IN_MOD
-#: data/lang/sc/gui.en_US.json+labels/options/logLevel-error/name+%230
-msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-error/name"
-msgid "Log level: Errors"
-msgstr "Ошибки"
-
-#. data/lang/sc/gui.en_US.json labels/options/logLevel-error/description #0
-#. INJECTED_IN_MOD
-#: data/lang/sc/gui.en_US.json+labels/options/logLevel-error/description+%230
-msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-error/description"
-msgid "Enables error popups. \\c[1]Needs a restart!"
-msgstr "Включает всплывающие окна ошибок. \\c[1]Требуется перезапуск!"
-
 #. data/lang/sc/gui.en_US.json labels/misc-time-var/12-00 #0
-#. INJECTED_IN_MOD
 #: data/lang/sc/gui.en_US.json+labels/misc-time-var/12-00+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/misc-time-var/12-00"
 msgid "It's High Noon"

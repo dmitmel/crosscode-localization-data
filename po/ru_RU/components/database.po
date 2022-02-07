@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-11 15:55+0000\n"
-"POT-Revision-Date: 2022-01-11 15:55+0000\n"
+"POT-Creation-Date: 2022-02-07 07:49+0000\n"
+"POT-Revision-Date: 2022-02-07 07:49+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0 (2168d54 2022-01-11)\n"
+"X-Generator: crosscode-localization-engine 0.0.0 (e306904 2022-02-07)\n"
 
 #. data/database.json achievements/story-01/name #13135
 #. IF plot.line >= 800
@@ -2359,6 +2359,12 @@ msgctxt "data/database.json//areas/arid/landmarks/town/description"
 msgid "Center of the \"Town\"."
 msgstr "\"Городской\" центр."
 
+#. data/database.json areas/arid/landmarks/town/teleportQuestion #0
+#: data/database.json+areas/arid/landmarks/town/teleportQuestion+%230
+msgctxt "data/database.json//areas/arid/landmarks/town/teleportQuestion"
+msgid "Teleport to Town Center?"
+msgstr "Телепортироваться в Западный город?"
+
 #. data/database.json areas/autumn-area/name #240
 #: data/database.json+areas/autumn-area/name+%23240
 msgctxt "data/database.json//areas/autumn-area/name"
@@ -2383,6 +2389,12 @@ msgctxt "data/database.json//areas/autumn-area/landmarks/guilds/description"
 msgid "The small guild village sometimes called \"Hidden Leaf\"."
 msgstr "Небольшое гильдейское поселение, иногда называемое \"Скрытый лист\"."
 
+#. data/database.json areas/autumn-area/landmarks/guilds/teleportQuestion #0
+#: data/database.json+areas/autumn-area/landmarks/guilds/teleportQuestion+%230
+msgctxt "data/database.json//areas/autumn-area/landmarks/guilds/teleportQuestion"
+msgid "Teleport to Autumn Residences?"
+msgstr "Телепортироваться в Резиденции Осени?"
+
 #. data/database.json areas/autumn-area/landmarks/observatory/name #249
 #: data/database.json+areas/autumn-area/landmarks/observatory/name+%23249
 msgctxt "data/database.json//areas/autumn-area/landmarks/observatory/name"
@@ -2394,6 +2406,12 @@ msgstr "Старая обсерватория"
 msgctxt "data/database.json//areas/autumn-area/landmarks/observatory/description"
 msgid "An abandoned Observatory, now crawling with enemies."
 msgstr "Заброшенная обсерватория, теперь кишащая врагами."
+
+#. data/database.json areas/autumn-area/landmarks/observatory/teleportQuestion #0
+#: data/database.json+areas/autumn-area/landmarks/observatory/teleportQuestion+%230
+msgctxt "data/database.json//areas/autumn-area/landmarks/observatory/teleportQuestion"
+msgid "Teleport to Old Observatory?"
+msgstr "Телепортироваться к Старой обсерватории?"
 
 #. data/database.json areas/autumn-area/landmarks/start/name #250
 #: data/database.json+areas/autumn-area/landmarks/start/name+%23250
@@ -2407,6 +2425,12 @@ msgctxt "data/database.json//areas/autumn-area/landmarks/start/description"
 msgid "Western Exit leading to Rookie Harbor."
 msgstr "Западный выход, ведущий к Гавани новичков."
 
+#. data/database.json areas/autumn-area/landmarks/start/teleportQuestion #0
+#: data/database.json+areas/autumn-area/landmarks/start/teleportQuestion+%230
+msgctxt "data/database.json//areas/autumn-area/landmarks/start/teleportQuestion"
+msgid "Teleport to Western Exit?"
+msgstr "Телепортироваться к Западному выходу?"
+
 #. data/database.json areas/autumn-area/landmarks/end/name #251
 #: data/database.json+areas/autumn-area/landmarks/end/name+%23251
 msgctxt "data/database.json//areas/autumn-area/landmarks/end/name"
@@ -2419,6 +2443,12 @@ msgctxt "data/database.json//areas/autumn-area/landmarks/end/description"
 msgid "Exit to the rural Bergen Trail area."
 msgstr "Выход в сельскую местность Тропы в Берген."
 
+#. data/database.json areas/autumn-area/landmarks/end/teleportQuestion #0
+#: data/database.json+areas/autumn-area/landmarks/end/teleportQuestion+%230
+msgctxt "data/database.json//areas/autumn-area/landmarks/end/teleportQuestion"
+msgid "Teleport to Northern Exit?"
+msgstr "Телепортироваться к Северному выходу?"
+
 #. data/database.json areas/autumn-area/landmarks/obelisk/name #252
 #: data/database.json+areas/autumn-area/landmarks/obelisk/name+%23252
 msgctxt "data/database.json//areas/autumn-area/landmarks/obelisk/name"
@@ -2430,6 +2460,12 @@ msgstr "Старый обелиск"
 msgctxt "data/database.json//areas/autumn-area/landmarks/obelisk/description"
 msgid "A memorial of unknown purpose in the center of Autumn's Rise."
 msgstr "Мемориал неизвестного назначения в центре Расцвета Осени."
+
+#. data/database.json areas/autumn-area/landmarks/obelisk/teleportQuestion #0
+#: data/database.json+areas/autumn-area/landmarks/obelisk/teleportQuestion+%230
+msgctxt "data/database.json//areas/autumn-area/landmarks/obelisk/teleportQuestion"
+msgid "Teleport to Old Obelisk?"
+msgstr "Телепортироваться к Старому обелиску?"
 
 #. data/database.json areas/autumn-fall/name #5126
 #: data/database.json+areas/autumn-fall/name+%235126
@@ -2455,6 +2491,12 @@ msgctxt "data/database.json//areas/autumn-fall/landmarks/east/description"
 msgid "East Exit of Autumn's Fall leading to the Sapphire Ridge."
 msgstr "Восточный выход Заката Осени, ведущий к Сапфировому краю."
 
+#. data/database.json areas/autumn-fall/landmarks/east/teleportQuestion #0
+#: data/database.json+areas/autumn-fall/landmarks/east/teleportQuestion+%230
+msgctxt "data/database.json//areas/autumn-fall/landmarks/east/teleportQuestion"
+msgid "Teleport to Eastern Exit?"
+msgstr "Телепортироваться к Восточному выходу?"
+
 #. data/database.json areas/autumn-fall/landmarks/raid/name #12452
 #: data/database.json+areas/autumn-fall/landmarks/raid/name+%2312452
 msgctxt "data/database.json//areas/autumn-fall/landmarks/raid/name"
@@ -2466,6 +2508,12 @@ msgstr "Райский остров"
 msgctxt "data/database.json//areas/autumn-fall/landmarks/raid/description"
 msgid "Island of Raids."
 msgstr "Остров рейдов."
+
+#. data/database.json areas/autumn-fall/landmarks/raid/teleportQuestion #0
+#: data/database.json+areas/autumn-fall/landmarks/raid/teleportQuestion+%230
+msgctxt "data/database.json//areas/autumn-fall/landmarks/raid/teleportQuestion"
+msgid "Teleport to Para Island?"
+msgstr "Телепортироваться на Райский остров?"
 
 #. data/database.json areas/autumn-fall/landmarks/autumn/name #6420
 #: data/database.json+areas/autumn-fall/landmarks/autumn/name+%236420
@@ -2479,6 +2527,12 @@ msgctxt "data/database.json//areas/autumn-fall/landmarks/autumn/description"
 msgid "The remains of an ancient village serve as a second entrance into Autumn's Fall."
 msgstr "Остатки древней деревни, служащие вторым входом в Закат осени."
 
+#. data/database.json areas/autumn-fall/landmarks/autumn/teleportQuestion #0
+#: data/database.json+areas/autumn-fall/landmarks/autumn/teleportQuestion+%230
+msgctxt "data/database.json//areas/autumn-fall/landmarks/autumn/teleportQuestion"
+msgid "Teleport to Ruined Village?"
+msgstr "Телепортироваться в Руины деревни?"
+
 #. data/database.json areas/autumn-fall/landmarks/exit/name #5748
 #: data/database.json+areas/autumn-fall/landmarks/exit/name+%235748
 msgctxt "data/database.json//areas/autumn-fall/landmarks/exit/name"
@@ -2491,6 +2545,12 @@ msgctxt "data/database.json//areas/autumn-fall/landmarks/exit/description"
 msgid "North Exit of Autumn's Fall leading to the Gaia's Garden."
 msgstr "Северный выход Заката Осени, ведущий к Саду Гайи."
 
+#. data/database.json areas/autumn-fall/landmarks/exit/teleportQuestion #0
+#: data/database.json+areas/autumn-fall/landmarks/exit/teleportQuestion+%230
+msgctxt "data/database.json//areas/autumn-fall/landmarks/exit/teleportQuestion"
+msgid "Teleport to Northern Exit?"
+msgstr "Телепортироваться к Северному выходу?"
+
 #. data/database.json areas/autumn-fall/landmarks/start/name #5255
 #: data/database.json+areas/autumn-fall/landmarks/start/name+%235255
 msgctxt "data/database.json//areas/autumn-fall/landmarks/start/name"
@@ -2502,6 +2562,12 @@ msgstr "Южный выход"
 msgctxt "data/database.json//areas/autumn-fall/landmarks/start/description"
 msgid "South Exit of Autumn's Fall located near a ruined outpost of the Ancients."
 msgstr "Южный выход Заката Осени, расположенный недалеко от разрушенного аванпоста Древних."
+
+#. data/database.json areas/autumn-fall/landmarks/start/teleportQuestion #0
+#: data/database.json+areas/autumn-fall/landmarks/start/teleportQuestion+%230
+msgctxt "data/database.json//areas/autumn-fall/landmarks/start/teleportQuestion"
+msgid "Teleport to Southern Exit?"
+msgstr "Телепортироваться к Южному выходу?"
 
 #. data/database.json areas/beach/name #17156
 #: data/database.json+areas/beach/name+%2317156
@@ -2533,6 +2599,12 @@ msgctxt "data/database.json//areas/beach/landmarks/landmark_2/description"
 msgid "An old temple said to hold the Ancient's key."
 msgstr "Старый храм, в котором, по преданиям, хранится ключ Древних."
 
+#. data/database.json areas/beach/landmarks/landmark_2/teleportQuestion #0
+#: data/database.json+areas/beach/landmarks/landmark_2/teleportQuestion+%230
+msgctxt "data/database.json//areas/beach/landmarks/landmark_2/teleportQuestion"
+msgid "Teleport to Altar Steps?"
+msgstr "Телепортироваться к Алтарным ступеням?"
+
 #. data/database.json areas/beach/landmarks/left/name #17231
 #: data/database.json+areas/beach/landmarks/left/name+%2317231
 msgctxt "data/database.json//areas/beach/landmarks/left/name"
@@ -2545,6 +2617,12 @@ msgctxt "data/database.json//areas/beach/landmarks/left/description"
 msgid "Surrounded by sharp cliffs, this lagoon is home to only the most chill fauna."
 msgstr "Окружённая острыми скалами, эта лагуна является домом только для самой спокойной фауны."
 
+#. data/database.json areas/beach/landmarks/left/teleportQuestion #0
+#: data/database.json+areas/beach/landmarks/left/teleportQuestion+%230
+msgctxt "data/database.json//areas/beach/landmarks/left/teleportQuestion"
+msgid "Teleport to Lagoon Resort?"
+msgstr "Телепортироваться на Лагунный курорт?"
+
 #. data/database.json areas/beach/landmarks/entrance/name #17233
 #: data/database.json+areas/beach/landmarks/entrance/name+%2317233
 msgctxt "data/database.json//areas/beach/landmarks/entrance/name"
@@ -2556,6 +2634,12 @@ msgstr "Воздушный вход"
 msgctxt "data/database.json//areas/beach/landmarks/entrance/description"
 msgid "Build on top of an ancient pillar, used as a power source."
 msgstr "Построен на вершине древнего столба, который использовался в качестве источника энергии."
+
+#. data/database.json areas/beach/landmarks/entrance/teleportQuestion #0
+#: data/database.json+areas/beach/landmarks/entrance/teleportQuestion+%230
+msgctxt "data/database.json//areas/beach/landmarks/entrance/teleportQuestion"
+msgid "Teleport to Airway Entrance?"
+msgstr "Телепортироваться к Воздушному входу?"
 
 #. data/database.json areas/bergen-trails/name #241
 #: data/database.json+areas/bergen-trails/name+%23241
@@ -2581,6 +2665,12 @@ msgctxt "data/database.json//areas/bergen-trails/landmarks/hermit/description"
 msgid "A lonesome house, commonly used as half-way break from the difficult climb."
 msgstr "Одинокий дом, используемый как привал на середине трудного подъёма."
 
+#. data/database.json areas/bergen-trails/landmarks/hermit/teleportQuestion #0
+#: data/database.json+areas/bergen-trails/landmarks/hermit/teleportQuestion+%230
+msgctxt "data/database.json//areas/bergen-trails/landmarks/hermit/teleportQuestion"
+msgid "Teleport to Hermit's House?"
+msgstr "Телепортироваться к Дому отшельника?"
+
 #. data/database.json areas/bergen-trails/landmarks/end/name #295
 #: data/database.json+areas/bergen-trails/landmarks/end/name+%23295
 msgctxt "data/database.json//areas/bergen-trails/landmarks/end/name"
@@ -2593,6 +2683,12 @@ msgctxt "data/database.json//areas/bergen-trails/landmarks/end/description"
 msgid "This landmark is only a few steps away from Bergen Village! You can do it!"
 msgstr "Этот ориентир всего в нескольких шагах от Бергена! Ты сможешь!"
 
+#. data/database.json areas/bergen-trails/landmarks/end/teleportQuestion #0
+#: data/database.json+areas/bergen-trails/landmarks/end/teleportQuestion+%230
+msgctxt "data/database.json//areas/bergen-trails/landmarks/end/teleportQuestion"
+msgid "Teleport to Outlook?"
+msgstr "Телепортироваться к Точке обзора?"
+
 #. data/database.json areas/bergen-trails/landmarks/start/name #297
 #: data/database.json+areas/bergen-trails/landmarks/start/name+%23297
 msgctxt "data/database.json//areas/bergen-trails/landmarks/start/name"
@@ -2604,6 +2700,12 @@ msgstr "Место отдыха"
 msgctxt "data/database.json//areas/bergen-trails/landmarks/start/description"
 msgid "The base of \\v[area.bergen-trails.name]. Often used as a preparation spot before the climb."
 msgstr "Основание Тропы в Берген. Обычно используется для подготовки к восхождению."
+
+#. data/database.json areas/bergen-trails/landmarks/start/teleportQuestion #0
+#: data/database.json+areas/bergen-trails/landmarks/start/teleportQuestion+%230
+msgctxt "data/database.json//areas/bergen-trails/landmarks/start/teleportQuestion"
+msgid "Teleport to Resting Spot?"
+msgstr "Телепортироваться к Месту отдыха?"
 
 #. data/database.json areas/bergen/name #281
 #: data/database.json+areas/bergen/name+%23281
@@ -2629,6 +2731,12 @@ msgctxt "data/database.json//areas/bergen/landmarks/north/description"
 msgid "Once an Inn this landmark now serves as library and official bureau. "
 msgstr "Раньше этот ориентир был гостиницей, а теперь это библиотека и официальное бюро."
 
+#. data/database.json areas/bergen/landmarks/north/teleportQuestion #0
+#: data/database.json+areas/bergen/landmarks/north/teleportQuestion+%230
+msgctxt "data/database.json//areas/bergen/landmarks/north/teleportQuestion"
+msgid "Teleport to Ye Old Inn?"
+msgstr "Телепортироваться на Север Бергена?"
+
 #. data/database.json areas/bergen/landmarks/south/name #285
 #: data/database.json+areas/bergen/landmarks/south/name+%23285
 msgctxt "data/database.json//areas/bergen/landmarks/south/name"
@@ -2640,6 +2748,12 @@ msgstr "Южная контрольная точка"
 msgctxt "data/database.json//areas/bergen/landmarks/south/description"
 msgid "Checkpoint for tired travelers who just finished the climb on \\v[area.bergen-trails.name]."
 msgstr "Место для усталых путешественников, завершивших своё восхождение по Тропе в Берген."
+
+#. data/database.json areas/bergen/landmarks/south/teleportQuestion #0
+#: data/database.json+areas/bergen/landmarks/south/teleportQuestion+%230
+msgctxt "data/database.json//areas/bergen/landmarks/south/teleportQuestion"
+msgid "Teleport to South Checkpoint?"
+msgstr "Телепортироваться на Юг Бергена?"
 
 #. data/database.json areas/cargo-ship/name #242
 #. IF plot.line >= 15000
@@ -2668,6 +2782,13 @@ msgstr "Грузовой отсек"
 msgctxt "data/database.json//areas/cargo-ship/landmarks/teleporter/description"
 msgid "At the Cargo Hold where Lea started her journey."
 msgstr "Грузовой отсек, в котором Лея начала своё путешествие."
+
+#. data/database.json areas/cargo-ship/landmarks/teleporter/teleportQuestion #0
+#. IF plot.line >= 15000
+#: data/database.json+areas/cargo-ship/landmarks/teleporter/teleportQuestion+%230
+msgctxt "data/database.json//areas/cargo-ship/landmarks/teleporter/teleportQuestion"
+msgid "Teleport to Cargo Hold?"
+msgstr "Телепортироваться в Грузовой отсек?"
 
 #. data/database.json areas/cold-dng/name #287
 #: data/database.json+areas/cold-dng/name+%23287
@@ -2704,6 +2825,12 @@ msgstr "Площадь"
 msgctxt "data/database.json//areas/evo-village/landmarks/center/description"
 msgid "This landmark sits right at the heart of \\v[area.evo-village.name]."
 msgstr "Этот ориентир находится прямо в сердце Хоумштадта."
+
+#. data/database.json areas/evo-village/landmarks/center/teleportQuestion #0
+#: data/database.json+areas/evo-village/landmarks/center/teleportQuestion+%230
+msgctxt "data/database.json//areas/evo-village/landmarks/center/teleportQuestion"
+msgid "Teleport to Plaza?"
+msgstr "Телепортироваться на Площадь?"
 
 #. data/database.json areas/fallback/name #247
 #. IF false
@@ -2743,6 +2870,12 @@ msgctxt "data/database.json//areas/final-dng/landmarks/center/description"
 msgid "The central platform in front of the huge crater."
 msgstr "Центральная площадка перед огромным кратером."
 
+#. data/database.json areas/final-dng/landmarks/center/teleportQuestion #0
+#: data/database.json+areas/final-dng/landmarks/center/teleportQuestion+%230
+msgctxt "data/database.json//areas/final-dng/landmarks/center/teleportQuestion"
+msgid "Teleport to Center?"
+msgstr "Телепортироваться в Центр?"
+
 #. data/database.json areas/forest/name #13414
 #: data/database.json+areas/forest/name+%2313414
 msgctxt "data/database.json//areas/forest/name"
@@ -2767,6 +2900,12 @@ msgctxt "data/database.json//areas/forest/landmarks/temple/description"
 msgid "A mysterious temple said to be the final destination of the Track of the Ancients."
 msgstr "Таинственный храм, считающийся конечным пунктом назначения Пути Древних."
 
+#. data/database.json areas/forest/landmarks/temple/teleportQuestion #0
+#: data/database.json+areas/forest/landmarks/temple/teleportQuestion+%230
+msgctxt "data/database.json//areas/forest/landmarks/temple/teleportQuestion"
+msgid "Teleport to Ascension Temple?"
+msgstr "Телепортироваться к Храму вознесения?"
+
 #. data/database.json areas/forest/landmarks/dojo/name #13458
 #: data/database.json+areas/forest/landmarks/dojo/name+%2313458
 msgctxt "data/database.json//areas/forest/landmarks/dojo/name"
@@ -2778,6 +2917,12 @@ msgstr "Старое додзё"
 msgctxt "data/database.json//areas/forest/landmarks/dojo/description"
 msgid "And old training ground build by early settlers."
 msgstr "Тренировочная площадка, построенная ранними поселенцами."
+
+#. data/database.json areas/forest/landmarks/dojo/teleportQuestion #0
+#: data/database.json+areas/forest/landmarks/dojo/teleportQuestion+%230
+msgctxt "data/database.json//areas/forest/landmarks/dojo/teleportQuestion"
+msgid "Teleport to Old Dojo?"
+msgstr "Телепортироваться к Старому додзё?"
 
 #. data/database.json areas/forest/landmarks/upper/name #13438
 #: data/database.json+areas/forest/landmarks/upper/name+%2313438
@@ -2791,6 +2936,12 @@ msgctxt "data/database.json//areas/forest/landmarks/upper/description"
 msgid "A rough path between caves leading to an old dojo."
 msgstr "Неровный путь между пещерами, ведущий к старому додзё."
 
+#. data/database.json areas/forest/landmarks/upper/teleportQuestion #0
+#: data/database.json+areas/forest/landmarks/upper/teleportQuestion+%230
+msgctxt "data/database.json//areas/forest/landmarks/upper/teleportQuestion"
+msgid "Teleport to Carved Pathway?"
+msgstr "Телепортироваться на Резную тропу?"
+
 #. data/database.json areas/forest/landmarks/hostel/name #13432
 #: data/database.json+areas/forest/landmarks/hostel/name+%2313432
 msgctxt "data/database.json//areas/forest/landmarks/hostel/name"
@@ -2803,6 +2954,12 @@ msgctxt "data/database.json//areas/forest/landmarks/hostel/description"
 msgid "An Inn designed after temples used to build centuries ago."
 msgstr "Трактир, спроектированный в честь храмов, построенных много веков назад."
 
+#. data/database.json areas/forest/landmarks/hostel/teleportQuestion #0
+#: data/database.json+areas/forest/landmarks/hostel/teleportQuestion+%230
+msgctxt "data/database.json//areas/forest/landmarks/hostel/teleportQuestion"
+msgid "Teleport to The Cave Inn?"
+msgstr "Телепортироваться к Пещерному трактиру?"
+
 #. data/database.json areas/forest/landmarks/west/name #13418
 #: data/database.json+areas/forest/landmarks/west/name+%2313418
 msgctxt "data/database.json//areas/forest/landmarks/west/name"
@@ -2814,6 +2971,12 @@ msgstr "Западный выход"
 msgctxt "data/database.json//areas/forest/landmarks/west/description"
 msgid "West Exit of \\v[area.forest.name] leading to the \\v[area.autumn-fall.name]."
 msgstr "Западный выход Сапфирового края, ведущий к Закату Осени."
+
+#. data/database.json areas/forest/landmarks/west/teleportQuestion #0
+#: data/database.json+areas/forest/landmarks/west/teleportQuestion+%230
+msgctxt "data/database.json//areas/forest/landmarks/west/teleportQuestion"
+msgid "Teleport to Western Exit?"
+msgstr "Телепортироваться к Западному выходу?"
 
 #. data/database.json areas/heat-area/name #3271
 #: data/database.json+areas/heat-area/name+%233271
@@ -2839,6 +3002,12 @@ msgctxt "data/database.json//areas/heat-area/landmarks/balcony/description"
 msgid "The Balcony of Faj'ro Temple."
 msgstr "Балкон Храма Фай'ро."
 
+#. data/database.json areas/heat-area/landmarks/balcony/teleportQuestion #0
+#: data/database.json+areas/heat-area/landmarks/balcony/teleportQuestion+%230
+msgctxt "data/database.json//areas/heat-area/landmarks/balcony/teleportQuestion"
+msgid "Teleport to Faj'ro Balcony?"
+msgstr "Телепортироваться на Балкон Фай'ро?"
+
 #. data/database.json areas/heat-area/landmarks/exit/name #3994
 #: data/database.json+areas/heat-area/landmarks/exit/name+%233994
 msgctxt "data/database.json//areas/heat-area/landmarks/exit/name"
@@ -2850,6 +3019,12 @@ msgstr "Западный вход"
 msgctxt "data/database.json//areas/heat-area/landmarks/exit/description"
 msgid "The western entrance of \\v[area.heat-area.name] leading to \\v[area.heat-village.name]."
 msgstr "Западный вход Бордовой долины, ведущий к Ба'кии Кум."
+
+#. data/database.json areas/heat-area/landmarks/exit/teleportQuestion #0
+#: data/database.json+areas/heat-area/landmarks/exit/teleportQuestion+%230
+msgctxt "data/database.json//areas/heat-area/landmarks/exit/teleportQuestion"
+msgid "Teleport to West Entrance?"
+msgstr "Телепортироваться к Западному входу?"
 
 #. data/database.json areas/heat-area/landmarks/dungeon/name #3996
 #: data/database.json+areas/heat-area/landmarks/dungeon/name+%233996
@@ -2863,6 +3038,12 @@ msgctxt "data/database.json//areas/heat-area/landmarks/dungeon/description"
 msgid "A single pillar inside the Great Scar from which a temple of the Ancient can be seen."
 msgstr "Единственный столб Великого шрама, с которого можно увидеть храм Древних."
 
+#. data/database.json areas/heat-area/landmarks/dungeon/teleportQuestion #0
+#: data/database.json+areas/heat-area/landmarks/dungeon/teleportQuestion+%230
+msgctxt "data/database.json//areas/heat-area/landmarks/dungeon/teleportQuestion"
+msgid "Teleport to Hourglass Pillar?"
+msgstr "Телепортироваться на Столб песочных часов?"
+
 #. data/database.json areas/heat-area/landmarks/middle/name #3992
 #: data/database.json+areas/heat-area/landmarks/middle/name+%233992
 msgctxt "data/database.json//areas/heat-area/landmarks/middle/name"
@@ -2874,6 +3055,12 @@ msgstr "Арочные камни"
 msgctxt "data/database.json//areas/heat-area/landmarks/middle/description"
 msgid "A landmark located close to the arcing stone structures of Maroon Valley."
 msgstr "Ориентир, расположенный недалеко от арочных каменных сооружений Бордовой долины."
+
+#. data/database.json areas/heat-area/landmarks/middle/teleportQuestion #0
+#: data/database.json+areas/heat-area/landmarks/middle/teleportQuestion+%230
+msgctxt "data/database.json//areas/heat-area/landmarks/middle/teleportQuestion"
+msgid "Teleport to Arcing Stones?"
+msgstr "Телепортироваться к Арочным камням?"
 
 #. data/database.json areas/heat-area/landmarks/oasis/name #3990
 #: data/database.json+areas/heat-area/landmarks/oasis/name+%233990
@@ -2887,6 +3074,12 @@ msgctxt "data/database.json//areas/heat-area/landmarks/oasis/description"
 msgid "A lush and vivid oasis crowned by a majestic maroon tree."
 msgstr "Пышный и яркий оазис, увенчанный величественным бордовым деревом."
 
+#. data/database.json areas/heat-area/landmarks/oasis/teleportQuestion #0
+#: data/database.json+areas/heat-area/landmarks/oasis/teleportQuestion+%230
+msgctxt "data/database.json//areas/heat-area/landmarks/oasis/teleportQuestion"
+msgid "Teleport to Maroon Tree?"
+msgstr "Телепортироваться к Бордовому дереву?"
+
 #. data/database.json areas/heat-area/landmarks/entrance/name #3636
 #: data/database.json+areas/heat-area/landmarks/entrance/name+%233636
 msgctxt "data/database.json//areas/heat-area/landmarks/entrance/name"
@@ -2898,6 +3091,12 @@ msgstr "Восточный вход"
 msgctxt "data/database.json//areas/heat-area/landmarks/entrance/description"
 msgid "The eastern entrance of \\v[area.heat-area.name] leading to \\v[area.bergen-trails.name]."
 msgstr "Восточный вход Бордовой долины, ведущий к Тропе в Берген."
+
+#. data/database.json areas/heat-area/landmarks/entrance/teleportQuestion #0
+#: data/database.json+areas/heat-area/landmarks/entrance/teleportQuestion+%230
+msgctxt "data/database.json//areas/heat-area/landmarks/entrance/teleportQuestion"
+msgid "Teleport to East Entrance?"
+msgstr "Телепортироваться к Восточному входу?"
 
 #. data/database.json areas/heat-dng/name #4026
 #: data/database.json+areas/heat-dng/name+%234026
@@ -2935,6 +3134,12 @@ msgctxt "data/database.json//areas/heat-village/landmarks/market/description"
 msgid "Right in front of the largest Building in town and only a few steps a way from the market."
 msgstr "Прямо перед самым большим зданием в городе и всего в паре шагов от рынка."
 
+#. data/database.json areas/heat-village/landmarks/market/teleportQuestion #0
+#: data/database.json+areas/heat-village/landmarks/market/teleportQuestion+%230
+msgctxt "data/database.json//areas/heat-village/landmarks/market/teleportQuestion"
+msgid "Teleport to Plaza?"
+msgstr "Телепортироваться на Площадь?"
+
 #. data/database.json areas/hideout/name #14071
 #: data/database.json+areas/hideout/name+%2314071
 msgctxt "data/database.json//areas/hideout/name"
@@ -2971,6 +3176,12 @@ msgctxt "data/database.json//areas/jungle-city/landmarks/center/description"
 msgid "The rainy and shiny center of Basin Keep, home to many traders."
 msgstr "Дождливый и блестящий центр Твердыни Бэйзина, дом для множества торговцев."
 
+#. data/database.json areas/jungle-city/landmarks/center/teleportQuestion #0
+#: data/database.json+areas/jungle-city/landmarks/center/teleportQuestion+%230
+msgctxt "data/database.json//areas/jungle-city/landmarks/center/teleportQuestion"
+msgid "Teleport to Rainy City Square?"
+msgstr "Телепортироваться в Центрум?"
+
 #. data/database.json areas/jungle/name #6579
 #: data/database.json+areas/jungle/name+%236579
 msgctxt "data/database.json//areas/jungle/name"
@@ -2995,6 +3206,12 @@ msgctxt "data/database.json//areas/jungle/landmarks/dungeon/description"
 msgid "A crossroad leading to the Zir'vitar Temple, So'najiz Temple and the Grand Krys'kajo."
 msgstr "Перекресток ведущий к Храму Зир'витар, Храму Со'найиз и Гранд Крис'кайо."
 
+#. data/database.json areas/jungle/landmarks/dungeon/teleportQuestion #0
+#: data/database.json+areas/jungle/landmarks/dungeon/teleportQuestion+%230
+msgctxt "data/database.json//areas/jungle/landmarks/dungeon/teleportQuestion"
+msgid "Teleport to Rite of Passage?"
+msgstr "Телепортироваться к Обряду посвящения?"
+
 #. data/database.json areas/jungle/landmarks/infested/name #7368
 #: data/database.json+areas/jungle/landmarks/infested/name+%237368
 msgctxt "data/database.json//areas/jungle/landmarks/infested/name"
@@ -3006,6 +3223,12 @@ msgstr "Заражённые болота"
 msgctxt "data/database.json//areas/jungle/landmarks/infested/description"
 msgid "These marshes have been infested by the corruption spreading from the north."
 msgstr "Эти болота наводнила порча, распространяющаяся с севера."
+
+#. data/database.json areas/jungle/landmarks/infested/teleportQuestion #0
+#: data/database.json+areas/jungle/landmarks/infested/teleportQuestion+%230
+msgctxt "data/database.json//areas/jungle/landmarks/infested/teleportQuestion"
+msgid "Teleport to Infested Marshes?"
+msgstr "Телепортироваться на Южное заражённое болото?"
 
 #. data/database.json areas/jungle/landmarks/end/name #7213
 #: data/database.json+areas/jungle/landmarks/end/name+%237213
@@ -3019,6 +3242,12 @@ msgctxt "data/database.json//areas/jungle/landmarks/end/description"
 msgid "This landmark links the two main paths to the Grand Krys'kajo."
 msgstr "Этот ориентир связывает два основных пути к Гранд Крис'кайо."
 
+#. data/database.json areas/jungle/landmarks/end/teleportQuestion #0
+#: data/database.json+areas/jungle/landmarks/end/teleportQuestion+%230
+msgctxt "data/database.json//areas/jungle/landmarks/end/teleportQuestion"
+msgid "Teleport to Peridot Approach?"
+msgstr "Телепортироваться к Хризолитовому подходу?"
+
 #. data/database.json areas/jungle/landmarks/clearing/name #6819
 #: data/database.json+areas/jungle/landmarks/clearing/name+%236819
 msgctxt "data/database.json//areas/jungle/landmarks/clearing/name"
@@ -3030,6 +3259,12 @@ msgstr "В'рда Виль"
 msgctxt "data/database.json//areas/jungle/landmarks/clearing/description"
 msgid "A small Shad settlement using trees as homes and bridges to connect them."
 msgstr "Небольшое поселение шадов, использующих деревья в качестве домов."
+
+#. data/database.json areas/jungle/landmarks/clearing/teleportQuestion #0
+#: data/database.json+areas/jungle/landmarks/clearing/teleportQuestion+%230
+msgctxt "data/database.json//areas/jungle/landmarks/clearing/teleportQuestion"
+msgid "Teleport to V'rda Vil?"
+msgstr "Телепортироваться в Восточный В'рда Виль?"
 
 #. data/database.json areas/jungle/landmarks/grove/name #6717
 #: data/database.json+areas/jungle/landmarks/grove/name+%236717
@@ -3043,6 +3278,12 @@ msgctxt "data/database.json//areas/jungle/landmarks/grove/description"
 msgid "A covert with a bright lake hidden in the north-west corner of \\v[area.jungle.name]."
 msgstr "Укрытие с ярким озером, спрятанное в северо-западном углу Сада Гайи."
 
+#. data/database.json areas/jungle/landmarks/grove/teleportQuestion #0
+#: data/database.json+areas/jungle/landmarks/grove/teleportQuestion+%230
+msgctxt "data/database.json//areas/jungle/landmarks/grove/teleportQuestion"
+msgid "Teleport to Royal Grove?"
+msgstr "Телепортироваться в Королевскую рощу?"
+
 #. data/database.json areas/jungle/landmarks/entrance/name #6715
 #: data/database.json+areas/jungle/landmarks/entrance/name+%236715
 msgctxt "data/database.json//areas/jungle/landmarks/entrance/name"
@@ -3054,6 +3295,12 @@ msgstr "Южный вход"
 msgctxt "data/database.json//areas/jungle/landmarks/entrance/description"
 msgid "The entrance to \\v[area.jungle.name]. A popular place for traders."
 msgstr "Вход в Сад Гайи. Популярное место у торговцев.\n"
+
+#. data/database.json areas/jungle/landmarks/entrance/teleportQuestion #0
+#: data/database.json+areas/jungle/landmarks/entrance/teleportQuestion+%230
+msgctxt "data/database.json//areas/jungle/landmarks/entrance/teleportQuestion"
+msgid "Teleport to Southern Entrance?"
+msgstr "Телепортироваться ко Входу в джунгли?"
 
 #. data/database.json areas/meta/name #15690
 #. IF false
@@ -3105,6 +3352,12 @@ msgctxt "data/database.json//areas/rhombus-sqr/landmarks/crosscentralTop/descrip
 msgid "The Balcony right above the main teleportation hub of CrossWorlds."
 msgstr "Балкон прямо над главным центром телепортации CrossWorlds."
 
+#. data/database.json areas/rhombus-sqr/landmarks/crosscentralTop/teleportQuestion #0
+#: data/database.json+areas/rhombus-sqr/landmarks/crosscentralTop/teleportQuestion+%230
+msgctxt "data/database.json//areas/rhombus-sqr/landmarks/crosscentralTop/teleportQuestion"
+msgid "Teleport to Cross Central Balcony?"
+msgstr "Телепортироваться на Балкон CrossCentral?"
+
 #. data/database.json areas/rhombus-sqr/landmarks/questhub/name #17829
 #: data/database.json+areas/rhombus-sqr/landmarks/questhub/name+%2317829
 msgctxt "data/database.json//areas/rhombus-sqr/landmarks/questhub/name"
@@ -3116,6 +3369,12 @@ msgstr "Мировой Квест-хаб"
 msgctxt "data/database.json//areas/rhombus-sqr/landmarks/questhub/description"
 msgid "A landmark right next to the global quest hub."
 msgstr "Ориентир рядом с мировым Квест-хабом."
+
+#. data/database.json areas/rhombus-sqr/landmarks/questhub/teleportQuestion #0
+#: data/database.json+areas/rhombus-sqr/landmarks/questhub/teleportQuestion+%230
+msgctxt "data/database.json//areas/rhombus-sqr/landmarks/questhub/teleportQuestion"
+msgid "Teleport to Global Quest Hub?"
+msgstr "Телепортироваться к Мировому Квест-хабу?"
 
 #. data/database.json areas/rhombus-sqr/landmarks/north/name #17265
 #: data/database.json+areas/rhombus-sqr/landmarks/north/name+%2317265
@@ -3129,6 +3388,12 @@ msgctxt "data/database.json//areas/rhombus-sqr/landmarks/north/description"
 msgid "This landmark is home to the business district and PvP fields."
 msgstr "Этот ориентир является точкой делового центра и полей PvP."
 
+#. data/database.json areas/rhombus-sqr/landmarks/north/teleportQuestion #0
+#: data/database.json+areas/rhombus-sqr/landmarks/north/teleportQuestion+%230
+msgctxt "data/database.json//areas/rhombus-sqr/landmarks/north/teleportQuestion"
+msgid "Teleport to Business District?"
+msgstr "Телепортироваться в Деловой район?"
+
 #. data/database.json areas/rhombus-sqr/landmarks/shops/name #15997
 #: data/database.json+areas/rhombus-sqr/landmarks/shops/name+%2315997
 msgctxt "data/database.json//areas/rhombus-sqr/landmarks/shops/name"
@@ -3140,6 +3405,12 @@ msgstr "Торговый район"
 msgctxt "data/database.json//areas/rhombus-sqr/landmarks/shops/description"
 msgid "Both shops and cafes call this part of town their home."
 msgstr "И магазины, и кафе называют эту часть города своим домом."
+
+#. data/database.json areas/rhombus-sqr/landmarks/shops/teleportQuestion #0
+#: data/database.json+areas/rhombus-sqr/landmarks/shops/teleportQuestion+%230
+msgctxt "data/database.json//areas/rhombus-sqr/landmarks/shops/teleportQuestion"
+msgid "Teleport to Shopping District?"
+msgstr "Телепортироваться в Торговый квартал?"
 
 #. data/database.json areas/rhombus-sqr/landmarks/resiSouth/name #15999
 #: data/database.json+areas/rhombus-sqr/landmarks/resiSouth/name+%2315999
@@ -3153,6 +3424,12 @@ msgctxt "data/database.json//areas/rhombus-sqr/landmarks/resiSouth/description"
 msgid "This landmark is close to both the Arena and the Southern Residence District."
 msgstr "Этот ориентир находится недалеко от арены и Южного района резиденций."
 
+#. data/database.json areas/rhombus-sqr/landmarks/resiSouth/teleportQuestion #0
+#: data/database.json+areas/rhombus-sqr/landmarks/resiSouth/teleportQuestion+%230
+msgctxt "data/database.json//areas/rhombus-sqr/landmarks/resiSouth/teleportQuestion"
+msgid "Teleport to South Arch?"
+msgstr "Телепортироваться к Южной арке?"
+
 #. data/database.json areas/rhombus-sqr/landmarks/crosscentralInner/name #836
 #: data/database.json+areas/rhombus-sqr/landmarks/crosscentralInner/name+%23836
 msgctxt "data/database.json//areas/rhombus-sqr/landmarks/crosscentralInner/name"
@@ -3164,6 +3441,12 @@ msgstr "CrossCentral"
 msgctxt "data/database.json//areas/rhombus-sqr/landmarks/crosscentralInner/description"
 msgid "The main teleportation hub of CrossWorlds and the central entrance to Rhombus Square."
 msgstr "Главный центр телепортации CrossWorlds и центральный вход на Площадь Ромба."
+
+#. data/database.json areas/rhombus-sqr/landmarks/crosscentralInner/teleportQuestion #0
+#: data/database.json+areas/rhombus-sqr/landmarks/crosscentralInner/teleportQuestion+%230
+msgctxt "data/database.json//areas/rhombus-sqr/landmarks/crosscentralInner/teleportQuestion"
+msgid "Teleport to Cross Central?"
+msgstr "Телепортироваться в CrossCentral?"
 
 #. data/database.json areas/rookie-harbor/name #246
 #: data/database.json+areas/rookie-harbor/name+%23246
@@ -3189,6 +3472,12 @@ msgctxt "data/database.json//areas/rookie-harbor/landmarks/harbor/description"
 msgid "The entrance to Rookie Harbor from Cross Central."
 msgstr "Вход в Гавань новичков из CrossCentral."
 
+#. data/database.json areas/rookie-harbor/landmarks/harbor/teleportQuestion #0
+#: data/database.json+areas/rookie-harbor/landmarks/harbor/teleportQuestion+%230
+msgctxt "data/database.json//areas/rookie-harbor/landmarks/harbor/teleportQuestion"
+msgid "Teleport to Harbor Teleporter?"
+msgstr "Телепортироваться к Арке новобранцев?"
+
 #. data/database.json areas/rookie-harbor/landmarks/center/name #256
 #: data/database.json+areas/rookie-harbor/landmarks/center/name+%23256
 msgctxt "data/database.json//areas/rookie-harbor/landmarks/center/name"
@@ -3200,6 +3489,12 @@ msgstr "Фонтан Ромба"
 msgctxt "data/database.json//areas/rookie-harbor/landmarks/center/description"
 msgid "A beautiful fountain sitting in the center of the busy marketplace."
 msgstr "Красивый фонтан в центре оживлённого рынка."
+
+#. data/database.json areas/rookie-harbor/landmarks/center/teleportQuestion #0
+#: data/database.json+areas/rookie-harbor/landmarks/center/teleportQuestion+%230
+msgctxt "data/database.json//areas/rookie-harbor/landmarks/center/teleportQuestion"
+msgid "Teleport to Rhombus Fountain?"
+msgstr "Телепортироваться на Рыночную площадь?"
 
 #. data/database.json areas/shock-dng/name #6719
 #: data/database.json+areas/shock-dng/name+%236719
@@ -3240,6 +3535,13 @@ msgstr "Тестовый ориентир"
 msgctxt "data/database.json//areas/testing-grounds/landmarks/landmark_0/description"
 msgid "Testing a landmark, is like testing a landmark. I have text."
 msgstr "Тестировать ориентир - это как тестировать ориентир. У меня есть текст."
+
+#. data/database.json areas/testing-grounds/landmarks/landmark_0/teleportQuestion #0
+#. IF false
+#: data/database.json+areas/testing-grounds/landmarks/landmark_0/teleportQuestion+%230
+msgctxt "data/database.json//areas/testing-grounds/landmarks/landmark_0/teleportQuestion"
+msgid "Teleport to Test Landmark?"
+msgstr "Телепортироваться к Тестовому ориентиру?"
 
 #. data/database.json areas/tree-dng/name #8955
 #: data/database.json+areas/tree-dng/name+%238955
@@ -43361,353 +43663,3 @@ msgstr "Ауры"
 msgctxt "data/database.json//toggle-sets/pet/name"
 msgid "Pets"
 msgstr "Питомцы"
-
-#. data/database.json areas/arid/landmarks/town/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/arid/landmarks/town/teleportQuestion+%230
-msgctxt "data/database.json//areas/arid/landmarks/town/teleportQuestion"
-msgid "Teleport to Town Center?"
-msgstr "Телепортироваться в Западный город?"
-
-#. data/database.json areas/autumn-area/landmarks/guilds/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/autumn-area/landmarks/guilds/teleportQuestion+%230
-msgctxt "data/database.json//areas/autumn-area/landmarks/guilds/teleportQuestion"
-msgid "Teleport to Autumn Residences?"
-msgstr "Телепортироваться в Резиденции Осени?"
-
-#. data/database.json areas/autumn-area/landmarks/observatory/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/autumn-area/landmarks/observatory/teleportQuestion+%230
-msgctxt "data/database.json//areas/autumn-area/landmarks/observatory/teleportQuestion"
-msgid "Teleport to Old Observatory?"
-msgstr "Телепортироваться к Старой обсерватории?"
-
-#. data/database.json areas/autumn-area/landmarks/start/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/autumn-area/landmarks/start/teleportQuestion+%230
-msgctxt "data/database.json//areas/autumn-area/landmarks/start/teleportQuestion"
-msgid "Teleport to Western Exit?"
-msgstr "Телепортироваться к Западному выходу?"
-
-#. data/database.json areas/autumn-area/landmarks/end/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/autumn-area/landmarks/end/teleportQuestion+%230
-msgctxt "data/database.json//areas/autumn-area/landmarks/end/teleportQuestion"
-msgid "Teleport to Northern Exit?"
-msgstr "Телепортироваться к Северному выходу?"
-
-#. data/database.json areas/autumn-area/landmarks/obelisk/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/autumn-area/landmarks/obelisk/teleportQuestion+%230
-msgctxt "data/database.json//areas/autumn-area/landmarks/obelisk/teleportQuestion"
-msgid "Teleport to Old Obelisk?"
-msgstr "Телепортироваться к Старому обелиску?"
-
-#. data/database.json areas/autumn-fall/landmarks/east/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/autumn-fall/landmarks/east/teleportQuestion+%230
-msgctxt "data/database.json//areas/autumn-fall/landmarks/east/teleportQuestion"
-msgid "Teleport to Eastern Exit?"
-msgstr "Телепортироваться к Восточному выходу?"
-
-#. data/database.json areas/autumn-fall/landmarks/raid/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/autumn-fall/landmarks/raid/teleportQuestion+%230
-msgctxt "data/database.json//areas/autumn-fall/landmarks/raid/teleportQuestion"
-msgid "Teleport to Para Island?"
-msgstr "Телепортироваться на Райский остров?"
-
-#. data/database.json areas/autumn-fall/landmarks/autumn/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/autumn-fall/landmarks/autumn/teleportQuestion+%230
-msgctxt "data/database.json//areas/autumn-fall/landmarks/autumn/teleportQuestion"
-msgid "Teleport to Ruined Village?"
-msgstr "Телепортироваться в Руины деревни?"
-
-#. data/database.json areas/autumn-fall/landmarks/exit/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/autumn-fall/landmarks/exit/teleportQuestion+%230
-msgctxt "data/database.json//areas/autumn-fall/landmarks/exit/teleportQuestion"
-msgid "Teleport to Northern Exit?"
-msgstr "Телепортироваться к Северному выходу?"
-
-#. data/database.json areas/autumn-fall/landmarks/start/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/autumn-fall/landmarks/start/teleportQuestion+%230
-msgctxt "data/database.json//areas/autumn-fall/landmarks/start/teleportQuestion"
-msgid "Teleport to Southern Exit?"
-msgstr "Телепортироваться к Южному выходу?"
-
-#. data/database.json areas/beach/landmarks/landmark_2/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/beach/landmarks/landmark_2/teleportQuestion+%230
-msgctxt "data/database.json//areas/beach/landmarks/landmark_2/teleportQuestion"
-msgid "Teleport to Altar Steps?"
-msgstr "Телепортироваться к Алтарным ступеням?"
-
-#. data/database.json areas/beach/landmarks/left/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/beach/landmarks/left/teleportQuestion+%230
-msgctxt "data/database.json//areas/beach/landmarks/left/teleportQuestion"
-msgid "Teleport to Lagoon Resort?"
-msgstr "Телепортироваться на Лагунный курорт?"
-
-#. data/database.json areas/beach/landmarks/entrance/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/beach/landmarks/entrance/teleportQuestion+%230
-msgctxt "data/database.json//areas/beach/landmarks/entrance/teleportQuestion"
-msgid "Teleport to Airway Entrance?"
-msgstr "Телепортироваться к Воздушному входу?"
-
-#. data/database.json areas/bergen-trails/landmarks/hermit/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/bergen-trails/landmarks/hermit/teleportQuestion+%230
-msgctxt "data/database.json//areas/bergen-trails/landmarks/hermit/teleportQuestion"
-msgid "Teleport to Hermit's House?"
-msgstr "Телепортироваться к Дому отшельника?"
-
-#. data/database.json areas/bergen-trails/landmarks/end/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/bergen-trails/landmarks/end/teleportQuestion+%230
-msgctxt "data/database.json//areas/bergen-trails/landmarks/end/teleportQuestion"
-msgid "Teleport to Outlook?"
-msgstr "Телепортироваться к Точке обзора?"
-
-#. data/database.json areas/bergen-trails/landmarks/start/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/bergen-trails/landmarks/start/teleportQuestion+%230
-msgctxt "data/database.json//areas/bergen-trails/landmarks/start/teleportQuestion"
-msgid "Teleport to Resting Spot?"
-msgstr "Телепортироваться к Месту отдыха?"
-
-#. data/database.json areas/bergen/landmarks/north/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/bergen/landmarks/north/teleportQuestion+%230
-msgctxt "data/database.json//areas/bergen/landmarks/north/teleportQuestion"
-msgid "Teleport to Ye Old Inn?"
-msgstr "Телепортироваться на Север Бергена?"
-
-#. data/database.json areas/bergen/landmarks/south/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/bergen/landmarks/south/teleportQuestion+%230
-msgctxt "data/database.json//areas/bergen/landmarks/south/teleportQuestion"
-msgid "Teleport to South Checkpoint?"
-msgstr "Телепортироваться на Юг Бергена?"
-
-#. data/database.json areas/cargo-ship/landmarks/teleporter/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/cargo-ship/landmarks/teleporter/teleportQuestion+%230
-msgctxt "data/database.json//areas/cargo-ship/landmarks/teleporter/teleportQuestion"
-msgid "Teleport to Cargo Hold?"
-msgstr "Телепортироваться в Грузовой отсек?"
-
-#. data/database.json areas/evo-village/landmarks/center/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/evo-village/landmarks/center/teleportQuestion+%230
-msgctxt "data/database.json//areas/evo-village/landmarks/center/teleportQuestion"
-msgid "Teleport to Plaza?"
-msgstr "Телепортироваться на Площадь?"
-
-#. data/database.json areas/final-dng/landmarks/center/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/final-dng/landmarks/center/teleportQuestion+%230
-msgctxt "data/database.json//areas/final-dng/landmarks/center/teleportQuestion"
-msgid "Teleport to Center?"
-msgstr "Телепортироваться в Центр?"
-
-#. data/database.json areas/forest/landmarks/temple/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/forest/landmarks/temple/teleportQuestion+%230
-msgctxt "data/database.json//areas/forest/landmarks/temple/teleportQuestion"
-msgid "Teleport to Ascension Temple?"
-msgstr "Телепортироваться к Храму вознесения?"
-
-#. data/database.json areas/forest/landmarks/dojo/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/forest/landmarks/dojo/teleportQuestion+%230
-msgctxt "data/database.json//areas/forest/landmarks/dojo/teleportQuestion"
-msgid "Teleport to Old Dojo?"
-msgstr "Телепортироваться к Старому додзё?"
-
-#. data/database.json areas/forest/landmarks/upper/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/forest/landmarks/upper/teleportQuestion+%230
-msgctxt "data/database.json//areas/forest/landmarks/upper/teleportQuestion"
-msgid "Teleport to Carved Pathway?"
-msgstr "Телепортироваться на Резную тропу?"
-
-#. data/database.json areas/forest/landmarks/hostel/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/forest/landmarks/hostel/teleportQuestion+%230
-msgctxt "data/database.json//areas/forest/landmarks/hostel/teleportQuestion"
-msgid "Teleport to The Cave Inn?"
-msgstr "Телепортироваться к Пещерному трактиру?"
-
-#. data/database.json areas/forest/landmarks/west/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/forest/landmarks/west/teleportQuestion+%230
-msgctxt "data/database.json//areas/forest/landmarks/west/teleportQuestion"
-msgid "Teleport to Western Exit?"
-msgstr "Телепортироваться к Западному выходу?"
-
-#. data/database.json areas/heat-area/landmarks/balcony/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/heat-area/landmarks/balcony/teleportQuestion+%230
-msgctxt "data/database.json//areas/heat-area/landmarks/balcony/teleportQuestion"
-msgid "Teleport to Faj'ro Balcony?"
-msgstr "Телепортироваться на Балкон Фай'ро?"
-
-#. data/database.json areas/heat-area/landmarks/exit/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/heat-area/landmarks/exit/teleportQuestion+%230
-msgctxt "data/database.json//areas/heat-area/landmarks/exit/teleportQuestion"
-msgid "Teleport to West Entrance?"
-msgstr "Телепортироваться к Западному входу?"
-
-#. data/database.json areas/heat-area/landmarks/dungeon/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/heat-area/landmarks/dungeon/teleportQuestion+%230
-msgctxt "data/database.json//areas/heat-area/landmarks/dungeon/teleportQuestion"
-msgid "Teleport to Hourglass Pillar?"
-msgstr "Телепортироваться на Столб песочных часов?"
-
-#. data/database.json areas/heat-area/landmarks/middle/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/heat-area/landmarks/middle/teleportQuestion+%230
-msgctxt "data/database.json//areas/heat-area/landmarks/middle/teleportQuestion"
-msgid "Teleport to Arcing Stones?"
-msgstr "Телепортироваться к Арочным камням?"
-
-#. data/database.json areas/heat-area/landmarks/oasis/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/heat-area/landmarks/oasis/teleportQuestion+%230
-msgctxt "data/database.json//areas/heat-area/landmarks/oasis/teleportQuestion"
-msgid "Teleport to Maroon Tree?"
-msgstr "Телепортироваться к Бордовому дереву?"
-
-#. data/database.json areas/heat-area/landmarks/entrance/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/heat-area/landmarks/entrance/teleportQuestion+%230
-msgctxt "data/database.json//areas/heat-area/landmarks/entrance/teleportQuestion"
-msgid "Teleport to East Entrance?"
-msgstr "Телепортироваться к Восточному входу?"
-
-#. data/database.json areas/heat-village/landmarks/market/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/heat-village/landmarks/market/teleportQuestion+%230
-msgctxt "data/database.json//areas/heat-village/landmarks/market/teleportQuestion"
-msgid "Teleport to Plaza?"
-msgstr "Телепортироваться на Площадь?"
-
-#. data/database.json areas/jungle-city/landmarks/center/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/jungle-city/landmarks/center/teleportQuestion+%230
-msgctxt "data/database.json//areas/jungle-city/landmarks/center/teleportQuestion"
-msgid "Teleport to Rainy City Square?"
-msgstr "Телепортироваться в Центрум?"
-
-#. data/database.json areas/jungle/landmarks/dungeon/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/jungle/landmarks/dungeon/teleportQuestion+%230
-msgctxt "data/database.json//areas/jungle/landmarks/dungeon/teleportQuestion"
-msgid "Teleport to Rite of Passage?"
-msgstr "Телепортироваться к Обряду посвящения?"
-
-#. data/database.json areas/jungle/landmarks/infested/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/jungle/landmarks/infested/teleportQuestion+%230
-msgctxt "data/database.json//areas/jungle/landmarks/infested/teleportQuestion"
-msgid "Teleport to Infested Marshes?"
-msgstr "Телепортироваться на Южное заражённое болото?"
-
-#. data/database.json areas/jungle/landmarks/end/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/jungle/landmarks/end/teleportQuestion+%230
-msgctxt "data/database.json//areas/jungle/landmarks/end/teleportQuestion"
-msgid "Teleport to Peridot Approach?"
-msgstr "Телепортироваться к Хризолитовому подходу?"
-
-#. data/database.json areas/jungle/landmarks/clearing/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/jungle/landmarks/clearing/teleportQuestion+%230
-msgctxt "data/database.json//areas/jungle/landmarks/clearing/teleportQuestion"
-msgid "Teleport to V'rda Vil?"
-msgstr "Телепортироваться в Восточный В'рда Виль?"
-
-#. data/database.json areas/jungle/landmarks/grove/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/jungle/landmarks/grove/teleportQuestion+%230
-msgctxt "data/database.json//areas/jungle/landmarks/grove/teleportQuestion"
-msgid "Teleport to Royal Grove?"
-msgstr "Телепортироваться в Королевскую рощу?"
-
-#. data/database.json areas/jungle/landmarks/entrance/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/jungle/landmarks/entrance/teleportQuestion+%230
-msgctxt "data/database.json//areas/jungle/landmarks/entrance/teleportQuestion"
-msgid "Teleport to Southern Entrance?"
-msgstr "Телепортироваться ко Входу в джунгли?"
-
-#. data/database.json areas/rhombus-sqr/landmarks/crosscentralTop/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/rhombus-sqr/landmarks/crosscentralTop/teleportQuestion+%230
-msgctxt "data/database.json//areas/rhombus-sqr/landmarks/crosscentralTop/teleportQuestion"
-msgid "Teleport to Cross Central Balcony?"
-msgstr "Телепортироваться на Балкон CrossCentral?"
-
-#. data/database.json areas/rhombus-sqr/landmarks/questhub/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/rhombus-sqr/landmarks/questhub/teleportQuestion+%230
-msgctxt "data/database.json//areas/rhombus-sqr/landmarks/questhub/teleportQuestion"
-msgid "Teleport to Global Quest Hub?"
-msgstr "Телепортироваться к Мировому Квест-хабу?"
-
-#. data/database.json areas/rhombus-sqr/landmarks/north/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/rhombus-sqr/landmarks/north/teleportQuestion+%230
-msgctxt "data/database.json//areas/rhombus-sqr/landmarks/north/teleportQuestion"
-msgid "Teleport to Business District?"
-msgstr "Телепортироваться в Деловой район?"
-
-#. data/database.json areas/rhombus-sqr/landmarks/shops/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/rhombus-sqr/landmarks/shops/teleportQuestion+%230
-msgctxt "data/database.json//areas/rhombus-sqr/landmarks/shops/teleportQuestion"
-msgid "Teleport to Shopping District?"
-msgstr "Телепортироваться в Торговый квартал?"
-
-#. data/database.json areas/rhombus-sqr/landmarks/resiSouth/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/rhombus-sqr/landmarks/resiSouth/teleportQuestion+%230
-msgctxt "data/database.json//areas/rhombus-sqr/landmarks/resiSouth/teleportQuestion"
-msgid "Teleport to South Arch?"
-msgstr "Телепортироваться к Южной арке?"
-
-#. data/database.json areas/rhombus-sqr/landmarks/crosscentralInner/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/rhombus-sqr/landmarks/crosscentralInner/teleportQuestion+%230
-msgctxt "data/database.json//areas/rhombus-sqr/landmarks/crosscentralInner/teleportQuestion"
-msgid "Teleport to Cross Central?"
-msgstr "Телепортироваться в CrossCentral?"
-
-#. data/database.json areas/rookie-harbor/landmarks/harbor/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/rookie-harbor/landmarks/harbor/teleportQuestion+%230
-msgctxt "data/database.json//areas/rookie-harbor/landmarks/harbor/teleportQuestion"
-msgid "Teleport to Harbor Teleporter?"
-msgstr "Телепортироваться к Арке новобранцев?"
-
-#. data/database.json areas/rookie-harbor/landmarks/center/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/rookie-harbor/landmarks/center/teleportQuestion+%230
-msgctxt "data/database.json//areas/rookie-harbor/landmarks/center/teleportQuestion"
-msgid "Teleport to Rhombus Fountain?"
-msgstr "Телепортироваться на Рыночную площадь?"
-
-#. data/database.json areas/testing-grounds/landmarks/landmark_0/teleportQuestion #0
-#. INJECTED_IN_MOD
-#: data/database.json+areas/testing-grounds/landmarks/landmark_0/teleportQuestion+%230
-msgctxt "data/database.json//areas/testing-grounds/landmarks/landmark_0/teleportQuestion"
-msgid "Teleport to Test Landmark?"
-msgstr "Телепортироваться к Тестовому ориентиру?"

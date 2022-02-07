@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-11 15:55+0000\n"
-"POT-Revision-Date: 2022-01-11 15:55+0000\n"
+"POT-Creation-Date: 2022-02-07 07:49+0000\n"
+"POT-Revision-Date: 2022-02-07 07:49+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0 (2168d54 2022-01-11)\n"
+"X-Generator: crosscode-localization-engine 0.0.0 (e306904 2022-02-07)\n"
 
 #. data/areas/bergen.json name #1
 #: data/areas/bergen.json+name+%231
@@ -449,6 +449,15 @@ msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/0/event/q
 msgid "Wait, what? Really? \\.\\.\\. But I'm \\c[3]Holiday Man\\c[0]!"
 msgstr "Подожди, что? На самом деле?\\.\\.\\. Но я же \\c[3]Сантама\\c[0]!"
 
+#. data/maps/bergen/bergen.json entities/836/settings/npcStates/0/event/quest/13/name #0
+#. NPC holiday-man
+#. IF gamecode.holidayQuest
+#. ADD_MSG_PERSON bergen.one-holiday-man @DEFAULT
+#: data/maps/bergen/bergen.json+entities/836/settings/npcStates/0/event/quest/13/name+%230
+msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/0/event/quest/13/name"
+msgid "Holiday Man"
+msgstr "Сантама"
+
 #. data/maps/bergen/bergen.json entities/836/settings/npcStates/0/event/quest/14/message #38
 #. NPC holiday-man
 #. IF gamecode.holidayQuest
@@ -726,6 +735,15 @@ msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/0/event/q
 msgid "Noooo!\\.\\.\\. Okay, no hard feelings."
 msgstr "Неееет!\\.\\.\\. Ладно, без обид."
 
+#. data/maps/bergen/bergen.json entities/836/settings/npcStates/1/event/0/name #0
+#. NPC holiday-man
+#. IF quest.holiday-man.started
+#. ADD_MSG_PERSON bergen.one-holiday-man @DEFAULT
+#: data/maps/bergen/bergen.json+entities/836/settings/npcStates/1/event/0/name+%230
+msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/1/event/0/name"
+msgid "Holiday Man"
+msgstr "Сантама"
+
 #. data/maps/bergen/bergen.json entities/836/settings/npcStates/1/event/2/message #72
 #. NPC holiday-man
 #. IF quest.holiday-man.started
@@ -752,6 +770,15 @@ msgstr "Не затягивай с этим, мы должны сделать э
 msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/1/event/4/message"
 msgid "[nods]"
 msgstr "[кивает]"
+
+#. data/maps/bergen/bergen.json entities/836/settings/npcStates/2/event/quest/0/name #0
+#. NPC holiday-man
+#. IF quest.holiday-man.task.4
+#. ADD_MSG_PERSON bergen.one-holiday-man @DEFAULT
+#: data/maps/bergen/bergen.json+entities/836/settings/npcStates/2/event/quest/0/name+%230
+msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/2/event/quest/0/name"
+msgid "Holiday Man"
+msgstr "Сантама"
 
 #. data/maps/bergen/bergen.json entities/836/settings/npcStates/2/event/quest/2/message #80
 #. NPC holiday-man
@@ -870,6 +897,15 @@ msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/2/event/q
 msgid "Okay, my secret stash is over here."
 msgstr "Хорошо, мой тайник находится здесь."
 
+#. data/maps/bergen/bergen.json entities/836/settings/npcStates/2/event/quest/18/name #0
+#. NPC holiday-man
+#. IF quest.holiday-man.task.4
+#. ADD_MSG_PERSON bergen.one-holiday-man @DEFAULT
+#: data/maps/bergen/bergen.json+entities/836/settings/npcStates/2/event/quest/18/name+%230
+msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/2/event/quest/18/name"
+msgid "Holiday Man"
+msgstr "Сантама"
+
 #. data/maps/bergen/bergen.json entities/836/settings/npcStates/2/event/quest/20/message #93
 #. NPC holiday-man
 #. IF quest.holiday-man.task.4
@@ -878,6 +914,15 @@ msgstr "Хорошо, мой тайник находится здесь."
 msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/2/event/quest/20/message"
 msgid "I'll lower the wall so you can get in."
 msgstr "Я опущу стену, чтобы ты смогла пройти."
+
+#. data/maps/bergen/bergen.json entities/836/settings/npcStates/2/event/quest/25/name #0
+#. NPC holiday-man
+#. IF quest.holiday-man.task.4
+#. ADD_MSG_PERSON bergen.one-holiday-man @DEFAULT
+#: data/maps/bergen/bergen.json+entities/836/settings/npcStates/2/event/quest/25/name+%230
+msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/2/event/quest/25/name"
+msgid "Holiday Man"
+msgstr "Сантама"
 
 #. data/maps/bergen/bergen.json entities/836/settings/npcStates/2/event/quest/27/message #94
 #. NPC holiday-man
@@ -897,6 +942,15 @@ msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/2/event/q
 msgid "..."
 msgstr "..."
 
+#. data/maps/bergen/bergen.json entities/836/settings/npcStates/3/event/0/name #0
+#. NPC holiday-man
+#. IF quest.holiday-man.task.5
+#. ADD_MSG_PERSON bergen.one-holiday-man @DEFAULT
+#: data/maps/bergen/bergen.json+entities/836/settings/npcStates/3/event/0/name+%230
+msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/3/event/0/name"
+msgid "Holiday Man"
+msgstr "Сантама"
+
 #. data/maps/bergen/bergen.json entities/836/settings/npcStates/3/event/2/message #96
 #. NPC holiday-man
 #. IF quest.holiday-man.task.5
@@ -914,6 +968,15 @@ msgstr "Пожалуйста, спаси мои подарки!"
 msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/3/event/3/message"
 msgid "..."
 msgstr "..."
+
+#. data/maps/bergen/bergen.json entities/836/settings/npcStates/4/event/quest/0/name #0
+#. NPC holiday-man
+#. IF quest.holiday-man.task.6
+#. ADD_MSG_PERSON bergen.one-holiday-man @DEFAULT
+#: data/maps/bergen/bergen.json+entities/836/settings/npcStates/4/event/quest/0/name+%230
+msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/4/event/quest/0/name"
+msgid "Holiday Man"
+msgstr "Сантама"
 
 #. data/maps/bergen/bergen.json entities/836/settings/npcStates/4/event/quest/2/message #98
 #. NPC holiday-man
@@ -1293,6 +1356,17 @@ msgstr "Вот, держи!"
 msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/5/event/7/thenStep/0/thenStep/6/object"
 msgid "\\v[item.16.name]"
 msgstr "\\v[item.16.name]"
+
+#. data/maps/bergen/bergen.json entities/836/settings/npcStates/5/event/7/thenStep/0/thenStep/7/name #0
+#. NPC holiday-man
+#. IF quest.holiday-man.solved
+#. IF !map.gotHolidayBoots && item.16.amount < 1
+#. IF player.hasElement.3 && player.hasElement.4
+#. ADD_MSG_PERSON bergen.one-holiday-man @BALD
+#: data/maps/bergen/bergen.json+entities/836/settings/npcStates/5/event/7/thenStep/0/thenStep/7/name+%230
+msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/5/event/7/thenStep/0/thenStep/7/name"
+msgid "Holiday Man"
+msgstr "Сантама"
 
 #. data/maps/bergen/bergen.json entities/836/settings/npcStates/5/event/7/thenStep/0/thenStep/9/message #437
 #. NPC holiday-man
@@ -2223,88 +2297,6 @@ msgstr "..."
 msgctxt "data/maps/bergen/bergen.json//entities/926/settings/npcStates/2/event/quest/9/message"
 msgid "Now excuse me, I have to deliver my own report.\\. Dismissed!"
 msgstr "А теперь прошу меня извинить, мне нужно представить свой доклад.\\. Разойтись!"
-
-#. data/maps/bergen/bergen.json entities/836/settings/npcStates/0/event/quest/13/name #0
-#. NPC
-#. gamecode.holidayQuest
-#. ADD_MSG_PERSON bergen.one-holiday-man @DEFAULT
-#. INJECTED_IN_MOD
-#: data/maps/bergen/bergen.json+entities/836/settings/npcStates/0/event/quest/13/name+%230
-msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/0/event/quest/13/name"
-msgid "Holiday Man"
-msgstr "Сантама"
-
-#. data/maps/bergen/bergen.json entities/836/settings/npcStates/1/event/0/name #0
-#. NPC
-#. quest.holiday-man.started
-#. ADD_MSG_PERSON bergen.one-holiday-man @DEFAULT
-#. INJECTED_IN_MOD
-#: data/maps/bergen/bergen.json+entities/836/settings/npcStates/1/event/0/name+%230
-msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/1/event/0/name"
-msgid "Holiday Man"
-msgstr "Сантама"
-
-#. data/maps/bergen/bergen.json entities/836/settings/npcStates/2/event/quest/0/name #0
-#. NPC
-#. quest.holiday-man.task.4
-#. ADD_MSG_PERSON bergen.one-holiday-man @DEFAULT
-#. INJECTED_IN_MOD
-#: data/maps/bergen/bergen.json+entities/836/settings/npcStates/2/event/quest/0/name+%230
-msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/2/event/quest/0/name"
-msgid "Holiday Man"
-msgstr "Сантама"
-
-#. data/maps/bergen/bergen.json entities/836/settings/npcStates/2/event/quest/18/name #0
-#. NPC
-#. quest.holiday-man.task.4
-#. ADD_MSG_PERSON bergen.one-holiday-man @DEFAULT
-#. INJECTED_IN_MOD
-#: data/maps/bergen/bergen.json+entities/836/settings/npcStates/2/event/quest/18/name+%230
-msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/2/event/quest/18/name"
-msgid "Holiday Man"
-msgstr "Сантама"
-
-#. data/maps/bergen/bergen.json entities/836/settings/npcStates/2/event/quest/25/name #0
-#. NPC
-#. quest.holiday-man.task.4
-#. ADD_MSG_PERSON bergen.one-holiday-man @DEFAULT
-#. INJECTED_IN_MOD
-#: data/maps/bergen/bergen.json+entities/836/settings/npcStates/2/event/quest/25/name+%230
-msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/2/event/quest/25/name"
-msgid "Holiday Man"
-msgstr "Сантама"
-
-#. data/maps/bergen/bergen.json entities/836/settings/npcStates/3/event/0/name #0
-#. NPC
-#. quest.holiday-man.task.5
-#. ADD_MSG_PERSON bergen.one-holiday-man @DEFAULT
-#. INJECTED_IN_MOD
-#: data/maps/bergen/bergen.json+entities/836/settings/npcStates/3/event/0/name+%230
-msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/3/event/0/name"
-msgid "Holiday Man"
-msgstr "Сантама"
-
-#. data/maps/bergen/bergen.json entities/836/settings/npcStates/4/event/quest/0/name #0
-#. NPC
-#. quest.holiday-man.task.6
-#. ADD_MSG_PERSON bergen.one-holiday-man @DEFAULT
-#. INJECTED_IN_MOD
-#: data/maps/bergen/bergen.json+entities/836/settings/npcStates/4/event/quest/0/name+%230
-msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/4/event/quest/0/name"
-msgid "Holiday Man"
-msgstr "Сантама"
-
-#. data/maps/bergen/bergen.json entities/836/settings/npcStates/5/event/7/thenStep/0/thenStep/7/name #0
-#. NPC
-#. quest.holiday-man.solved
-#. IF !map.gotHolidayBoots && item.16.amount < 1
-#. IF player.hasElement.3 && player.hasElement.4
-#. ADD_MSG_PERSON bergen.one-holiday-man @BALD
-#. INJECTED_IN_MOD
-#: data/maps/bergen/bergen.json+entities/836/settings/npcStates/5/event/7/thenStep/0/thenStep/7/name+%230
-msgctxt "data/maps/bergen/bergen.json//entities/836/settings/npcStates/5/event/7/thenStep/0/thenStep/7/name"
-msgid "Holiday Man"
-msgstr "Сантама"
 
 #. data/maps/bergen/bergen2.json entities/167/settings/teleportLabel #13
 #. TeleportField centerField
