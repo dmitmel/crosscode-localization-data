@@ -3,21 +3,22 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-08 21:33+0000\n"
-"POT-Revision-Date: 2022-02-08 21:33+0000\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2022-03-19 19:29+0000\n"
+"Last-Translator: Bogdan <bbucko175@gmail.com>\n"
+"Language-Team: Ukrainian <https://weblate.openkrosskod.org/projects/crosscode/lang/uk/>\n"
 "Language: uk_UA\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0 (e306904 2022-02-07)\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.5.3\n"
+"POT-Revision-Date: 2022-02-08 21:33+0000\n"
 
 #. data/lang/sc/gimmick.en_US.json labels/unknown #0
 #: data/lang/sc/gimmick.en_US.json+labels/unknown+%230
 msgctxt "data/lang/sc/gimmick.en_US.json//labels/unknown"
 msgid "Unsupported Bonus Code!"
-msgstr ""
+msgstr "Невірний бонусний код!"
 
 #. data/lang/sc/gimmick.en_US.json labels/sparklingShoes #0
 #: data/lang/sc/gimmick.en_US.json+labels/sparklingShoes+%230
@@ -227,13 +228,13 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/arena/dialogs/lobby+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/dialogs/lobby"
 msgid "Return to the lobby?"
-msgstr ""
+msgstr "Повернутися у лоббі?"
 
 #. data/lang/sc/gui.en_US.json labels/arena/dialogs/giveUp #0
 #: data/lang/sc/gui.en_US.json+labels/arena/dialogs/giveUp+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/dialogs/giveUp"
 msgid "Return to the lobby?"
-msgstr ""
+msgstr "Повернутися у лоббі?"
 
 #. data/lang/sc/gui.en_US.json labels/arena/dialogs/restart #0
 #: data/lang/sc/gui.en_US.json+labels/arena/dialogs/restart+%230
@@ -287,7 +288,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/arena/buttons/description/giveUp+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/buttons/description/giveUp"
 msgid "Give up and return to the lobby."
-msgstr ""
+msgstr "Здатися й повернутися у лоббі."
 
 #. data/lang/sc/gui.en_US.json labels/arena/buttons/description/rush #0
 #: data/lang/sc/gui.en_US.json+labels/arena/buttons/description/rush+%230
@@ -311,7 +312,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/arena/buttons/description/return+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/buttons/description/return"
 msgid "Return to the lobby."
-msgstr ""
+msgstr "Повернутися у лоббі."
 
 #. data/lang/sc/gui.en_US.json labels/arena/buttons/description/summary #0
 #: data/lang/sc/gui.en_US.json+labels/arena/buttons/description/summary+%230
@@ -521,7 +522,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/arena/scoreTypes/ELEMENT_OVERLOAD+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/scoreTypes/ELEMENT_OVERLOAD"
 msgid "Element Overload"
-msgstr ""
+msgstr "Елементальне перезавантаження"
 
 #. data/lang/sc/gui.en_US.json labels/arena/scoreTypes/PERFECT_SHIELD #0
 #: data/lang/sc/gui.en_US.json+labels/arena/scoreTypes/PERFECT_SHIELD+%230
@@ -779,7 +780,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/dlc/abr+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/dlc/abr"
 msgid "DLC"
-msgstr ""
+msgstr "DLC"
 
 #. data/lang/sc/gui.en_US.json labels/area/other #0
 #: data/lang/sc/gui.en_US.json+labels/area/other+%230
@@ -1103,7 +1104,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/dialogs/slotsOverflow+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/dialogs/slotsOverflow"
 msgid "Reached maximum number of slots! Delete some to create new save files."
-msgstr ""
+msgstr "Максимальна кількість слотів була досягнута! Видаліть старі, щоб створити нові збереження."
 
 #. data/lang/sc/gui.en_US.json labels/dialogs/newConfirm #0
 #: data/lang/sc/gui.en_US.json+labels/dialogs/newConfirm+%230
@@ -1115,7 +1116,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/dialogs/loadConfirm+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/dialogs/loadConfirm"
 msgid "Load this save file?"
-msgstr ""
+msgstr "Завантажити це збереження?"
 
 #. data/lang/sc/gui.en_US.json labels/dialogs/loadNewGameConfirm #0
 #: data/lang/sc/gui.en_US.json+labels/dialogs/loadNewGameConfirm+%230
@@ -1175,13 +1176,13 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/dialogs/yes+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/dialogs/yes"
 msgid "Yes"
-msgstr ""
+msgstr "Так"
 
 #. data/lang/sc/gui.en_US.json labels/dialogs/no #0
 #: data/lang/sc/gui.en_US.json+labels/dialogs/no+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/dialogs/no"
 msgid "No"
-msgstr ""
+msgstr "Ні"
 
 #. data/lang/sc/gui.en_US.json labels/bigChoice/tutorial/title #0
 #: data/lang/sc/gui.en_US.json+labels/bigChoice/tutorial/title+%230
@@ -1193,13 +1194,13 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/bigChoice/tutorial/yes+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/bigChoice/tutorial/yes"
 msgid "Show Tutorial"
-msgstr ""
+msgstr "Прочитати"
 
 #. data/lang/sc/gui.en_US.json labels/bigChoice/tutorial/no #0
 #: data/lang/sc/gui.en_US.json+labels/bigChoice/tutorial/no+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/bigChoice/tutorial/no"
 msgid "Skip"
-msgstr ""
+msgstr "Пропустити"
 
 #. data/lang/sc/gui.en_US.json labels/bigChoice/generic/title #0
 #: data/lang/sc/gui.en_US.json+labels/bigChoice/generic/title+%230
@@ -1211,13 +1212,13 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/bigChoice/generic/yes+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/bigChoice/generic/yes"
 msgid "Yes"
-msgstr ""
+msgstr "Так"
 
 #. data/lang/sc/gui.en_US.json labels/bigChoice/generic/no #0
 #: data/lang/sc/gui.en_US.json+labels/bigChoice/generic/no+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/bigChoice/generic/no"
 msgid "No"
-msgstr ""
+msgstr "Ні"
 
 #. data/lang/sc/gui.en_US.json labels/stats/stats #0
 #: data/lang/sc/gui.en_US.json+labels/stats/stats+%230
@@ -1469,91 +1470,91 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/title-screen/preset-title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/preset-title"
 msgid "Select a Preset Save"
-msgstr ""
+msgstr "Виберіть збережені налаштування"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/pressStart #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/pressStart+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/pressStart"
 msgid "Press to start"
-msgstr ""
+msgstr "Натисніть, щоб почати"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/start #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/start+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/start"
 msgid "New Game"
-msgstr ""
+msgstr "Нова гра"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/startPlus #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/startPlus+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/startPlus"
 msgid "New Game \\c[3]Plus\\c[0]"
-msgstr ""
+msgstr "Нова гра \\c[3]+\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/continue #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/continue+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/continue"
 msgid "Continue"
-msgstr ""
+msgstr "Продовжити"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/preset #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/preset+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/preset"
 msgid "Start with Preset"
-msgstr ""
+msgstr "Пресети"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/story #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/story+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/story"
 msgid "Story"
-msgstr ""
+msgstr "Історія"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/grind #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/grind+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/grind"
 msgid "Exploration"
-msgstr ""
+msgstr "Дослідження"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/puzzle #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/puzzle+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/puzzle"
 msgid "Puzzle"
-msgstr ""
+msgstr "Головоломки"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/select #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/select+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/select"
 msgid "Select a demo mode to try out!"
-msgstr ""
+msgstr "Виберіть демо режим та спробуйте!"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/load #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/load+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/load"
 msgid "Load Game"
-msgstr ""
+msgstr "Завантажити"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/options #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/options+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/options"
 msgid "Options"
-msgstr ""
+msgstr "Налаштування"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/close #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/close+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/close"
 msgid "Exit"
-msgstr ""
+msgstr "Вихід"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/gamecode #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/gamecode+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/gamecode"
 msgid "Enter Bonus Code"
-msgstr ""
+msgstr "Введіть бонусний код"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/perform-warn #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/perform-warn+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/perform-warn"
 msgid "Performance Warning"
-msgstr ""
+msgstr "Зменшення продуктивності"
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/perform-warn-text/old-nwjs #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/perform-warn-text/old-nwjs+%230
@@ -1564,6 +1565,10 @@ msgid ""
 "For many players, this version has shown to perform poorly, especially with modern graphics cards.\n"
 "If the game runs slow for you, consider disabling the use of the 'nwjs_old' BETA branch."
 msgstr ""
+"\\c[3]Зниження продуктивності!\\c[0]\n"
+"Ви граєте Crosscode з \\c[3]старою версією\\c[0] NW.js.\n"
+"Для багатьох гравців ця версія показала себе не ефективно, особливо з сучасними відеокартами.\n"
+"Якщо гра працює повільно, подумайте про перехід до бета-гілки \"nwjs_new\", щоб почати гру з новою версією NW.js."
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/perform-warn-text/sample-rate #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/perform-warn-text/sample-rate+%230
@@ -1575,30 +1580,35 @@ msgid ""
 "We recommend to play the game with a lower sampleRate setting of \\c[3]96000 Hz or lower\\c[0].\n"
 "On windows, you can change the sample rate through the \\c[3]Sound Control Panel\\c[0], in the \\c[3]Properties\\c[0] of your active \\c[3]Playback Device\\c[0] by changing the \\c[3]Default Format\\c[0] in the \\c[3]Advanced\\c[0] tab."
 msgstr ""
+"\\c[3]Зниження продуктивності!\\c[0]\n"
+"Ви граєте CrossCode з \\c[3]високою частотою дискретизації \\c[0]вашого приладу виводу звуку \\c[3][X]\\c[0].\n"
+"Це підвищує споживання пам'яті та збільшує ймовірність \\c[3]вилетів гри\\c[0].\n"
+"Ми рекомендуємо грати у гру з дуже низької частоти дискретизації, \\c[3]96000 Гц або навіть нижче\\c[0].\n"
+"У Windows ви можете змінити частоту дискретизацій через \\c[3]Параметри управління звуком\\c[0], в \\c[3]Властивостях\\c[0] вашої активності\\c[3] приладами відтворення\\c[0], змінивши\\c[3] формат по стандарту\\c[0] на вкладці\\c[3] Додатково\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/title-screen/changelog #0
 #: data/lang/sc/gui.en_US.json+labels/title-screen/changelog+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/changelog"
 msgid "Changelog"
-msgstr ""
+msgstr "Історія змін"
 
 #. data/lang/sc/gui.en_US.json labels/dlc-list/button #0
 #: data/lang/sc/gui.en_US.json+labels/dlc-list/button+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/dlc-list/button"
 msgid "DLC"
-msgstr ""
+msgstr "DLC"
 
 #. data/lang/sc/gui.en_US.json labels/dlc-list/title #0
 #: data/lang/sc/gui.en_US.json+labels/dlc-list/title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/dlc-list/title"
 msgid "Installed DLCs"
-msgstr ""
+msgstr "Встановленні DLC"
 
 #. data/lang/sc/gui.en_US.json labels/dlc-list/back #0
 #: data/lang/sc/gui.en_US.json+labels/dlc-list/back+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/dlc-list/back"
 msgid "Back"
-msgstr ""
+msgstr "Назад"
 
 #. data/lang/sc/gui.en_US.json labels/hit-task/title #0
 #: data/lang/sc/gui.en_US.json+labels/hit-task/title+%230
@@ -1856,7 +1866,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/pause-screen/info+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/pause-screen/info"
 msgid "Press ESC or P to return to the Game"
-msgstr ""
+msgstr "Натисніть ESC або P для повернення у гру"
 
 #. data/lang/sc/gui.en_US.json labels/pause-screen/lang-fix #0
 #: data/lang/sc/gui.en_US.json+labels/pause-screen/lang-fix+%230
@@ -1922,7 +1932,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/lang-edit/submit+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/lang-edit/submit"
 msgid "Submit"
-msgstr ""
+msgstr "Підтвеврдити"
 
 #. data/lang/sc/gui.en_US.json labels/lang-edit/send-report #0
 #: data/lang/sc/gui.en_US.json+labels/lang-edit/send-report+%230
@@ -1952,7 +1962,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/credits/note+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/credits/note"
 msgid "Note"
-msgstr ""
+msgstr "Записка"
 
 #. data/lang/sc/gui.en_US.json labels/credits/ideaConcept #0
 #: data/lang/sc/gui.en_US.json+labels/credits/ideaConcept+%230
@@ -2371,7 +2381,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/shop/submit+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shop/submit"
 msgid "Submit"
-msgstr ""
+msgstr "Прийняти"
 
 #. data/lang/sc/gui.en_US.json labels/shop/items #0
 #: data/lang/sc/gui.en_US.json+labels/shop/items+%230
@@ -2773,7 +2783,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/overload-disable+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/names/overload-disable"
 msgid "Truly Balanced"
-msgstr ""
+msgstr "Справжній баланс"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/names/infinite-sp #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/names/infinite-sp+%230
@@ -3043,7 +3053,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/descriptions/overload-disable+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/options/descriptions/overload-disable"
 msgid "Overload is disabled, meaning you can stay in element mode as long as you wish."
-msgstr ""
+msgstr "Перезавантаження вимкнено - ви можете залишатися у режимі елемента скільки заманеться."
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/options/descriptions/infinite-sp #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/options/descriptions/infinite-sp+%230
@@ -3109,7 +3119,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/rhombus/help+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/rhombus/help"
 msgid "\\i[help-icon]Select a location on the map you would like to travel to!"
-msgstr ""
+msgstr "\\i[help-icon]Виберіть місце на мапі, куди ви бажаєте відправитись!"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/arena/titles/points #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/arena/titles/points+%230
@@ -3475,13 +3485,13 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/help/status/description/element+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/status/description/element"
 msgid "Values below are displayed for the element shown here. See the manual to see how to switch between elements."
-msgstr ""
+msgstr "Значення нижче відображаються для елемента, показаного тут. Гляньте у посібник, щоб зрозуміти, як перемикатись між елементами."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/status/description/page #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/status/description/page+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/status/description/page"
 msgid "Name of the current Page. See the manual to see how to switch between pages."
-msgstr ""
+msgstr "Ім'я поточної сторінки. Дивіться посібник, щоб зрозуміти, як перемикатись між сторінками."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/quest/titles/level #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/quest/titles/level+%230
@@ -4189,7 +4199,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/menu-titles/load+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/menu-titles/load"
 msgid "Load"
-msgstr ""
+msgstr "Завантажити"
 
 #. data/lang/sc/gui.en_US.json labels/menu/menu-titles/options #0
 #: data/lang/sc/gui.en_US.json+labels/menu/menu-titles/options+%230
@@ -4249,7 +4259,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/menu-titles/help+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/menu-titles/help"
 msgid "Help Screen"
-msgstr ""
+msgstr "Довідка"
 
 #. data/lang/sc/gui.en_US.json labels/menu/menu-titles/botanics #0
 #: data/lang/sc/gui.en_US.json+labels/menu/menu-titles/botanics+%230
@@ -4303,7 +4313,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/manual+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/manual"
 msgid "Manual"
-msgstr ""
+msgstr "Посібник"
 
 #. data/lang/sc/gui.en_US.json labels/menu/back #0
 #: data/lang/sc/gui.en_US.json+labels/menu/back+%230
@@ -4393,7 +4403,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/description/back+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/description/back"
 msgid "Return to the previous menu."
-msgstr ""
+msgstr "Повернутися до попереднього меню."
 
 #. data/lang/sc/gui.en_US.json labels/menu/equip/moreMod #0
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/moreMod+%230
@@ -5002,7 +5012,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/descriptions/OVERHEAT_REDUCTION+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/equip/descriptions/OVERHEAT_REDUCTION"
 msgid "Slows down Overload while using an element."
-msgstr ""
+msgstr "Сповільнює перезавантаження при використанні елемента."
 
 #. data/lang/sc/gui.en_US.json labels/menu/equip/descriptions/AIM_STABILITY #0
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/descriptions/AIM_STABILITY+%230
@@ -5338,7 +5348,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/option/general+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/option/general"
 msgid "General"
-msgstr ""
+msgstr "Основні"
 
 #. data/lang/sc/gui.en_US.json labels/menu/option/interface #0
 #: data/lang/sc/gui.en_US.json+labels/menu/option/interface+%230
@@ -5356,7 +5366,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/option/audio+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/option/audio"
 msgid "Audio"
-msgstr ""
+msgstr "Аудіо"
 
 #. data/lang/sc/gui.en_US.json labels/menu/option/gamepad #0
 #: data/lang/sc/gui.en_US.json+labels/menu/option/gamepad+%230
@@ -5410,7 +5420,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/save-menu/load+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/save-menu/load"
 msgid "Load"
-msgstr ""
+msgstr "Завантажити"
 
 #. data/lang/sc/gui.en_US.json labels/menu/save-menu/save #0
 #: data/lang/sc/gui.en_US.json+labels/menu/save-menu/save+%230
@@ -5482,25 +5492,25 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/save-menu/delete-info-content+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/save-menu/delete-info-content"
 msgid "Hover over a slot (except the auto save slot and the new save file slot) and press \\i[help2] to delete the slot."
-msgstr ""
+msgstr "Наведіть курсор на слот збереження (за винятком автозбереження) й натисніть \\i[help2], щоб видалити слот."
 
 #. data/lang/sc/gui.en_US.json labels/menu/save-menu/description-save #0
 #: data/lang/sc/gui.en_US.json+labels/menu/save-menu/description-save+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/save-menu/description-save"
 msgid "Select a slot to save to."
-msgstr ""
+msgstr "Виберіть слот для збереження."
 
 #. data/lang/sc/gui.en_US.json labels/menu/save-menu/description-load #0
 #: data/lang/sc/gui.en_US.json+labels/menu/save-menu/description-load+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/save-menu/description-load"
 msgid "Select a slot to load from."
-msgstr ""
+msgstr "Виберіть слот для завантаження."
 
 #. data/lang/sc/gui.en_US.json labels/menu/save-menu/description-newgame #0
 #: data/lang/sc/gui.en_US.json+labels/menu/save-menu/description-newgame+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/save-menu/description-newgame"
 msgid "Select a slot from which to carry over data."
-msgstr ""
+msgstr "Виберіть слот для переміщення з нього даних."
 
 #. data/lang/sc/gui.en_US.json labels/menu/synopsis-menu/quests #0
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/quests+%230
@@ -5872,7 +5882,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/lore/tabs/earth-lore+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/lore/tabs/earth-lore"
 msgid "General"
-msgstr ""
+msgstr "Загальні"
 
 #. data/lang/sc/gui.en_US.json labels/menu/lore/tabs/memories #0
 #: data/lang/sc/gui.en_US.json+labels/menu/lore/tabs/memories+%230
@@ -6310,7 +6320,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/trophies/tabs/GENERAL+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/trophies/tabs/GENERAL"
 msgid "General"
-msgstr ""
+msgstr "Загальні"
 
 #. data/lang/sc/gui.en_US.json labels/menu/trophies/tabs/COMBAT #0
 #: data/lang/sc/gui.en_US.json+labels/menu/trophies/tabs/COMBAT+%230
@@ -6334,25 +6344,25 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/trophies/sections/GENERAL/PROGRESS+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/trophies/sections/GENERAL/PROGRESS"
 msgid "Progression"
-msgstr ""
+msgstr "Процес"
 
 #. data/lang/sc/gui.en_US.json labels/menu/trophies/sections/GENERAL/PLAYER #0
 #: data/lang/sc/gui.en_US.json+labels/menu/trophies/sections/GENERAL/PLAYER+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/trophies/sections/GENERAL/PLAYER"
 msgid "Player"
-msgstr ""
+msgstr "Гравці"
 
 #. data/lang/sc/gui.en_US.json labels/menu/trophies/sections/GENERAL/SPECIAL #0
 #: data/lang/sc/gui.en_US.json+labels/menu/trophies/sections/GENERAL/SPECIAL+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/trophies/sections/GENERAL/SPECIAL"
 msgid "Special"
-msgstr ""
+msgstr "Особисті"
 
 #. data/lang/sc/gui.en_US.json labels/menu/trophies/sections/GENERAL/ITEMS #0
 #: data/lang/sc/gui.en_US.json+labels/menu/trophies/sections/GENERAL/ITEMS+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/trophies/sections/GENERAL/ITEMS"
 msgid "Inventory"
-msgstr ""
+msgstr "Інвентар"
 
 #. data/lang/sc/gui.en_US.json labels/menu/trophies/sections/COMBAT/CUMULATIVE #0
 #: data/lang/sc/gui.en_US.json+labels/menu/trophies/sections/COMBAT/CUMULATIVE+%230
@@ -6406,7 +6416,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/trophies/sections/CHALLENGES/GENERAL+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/trophies/sections/CHALLENGES/GENERAL"
 msgid "General"
-msgstr ""
+msgstr "Загальні"
 
 #. data/lang/sc/gui.en_US.json labels/menu/trophies/sections/CHALLENGES/COMBAT #0
 #: data/lang/sc/gui.en_US.json+labels/menu/trophies/sections/CHALLENGES/COMBAT+%230
@@ -6472,7 +6482,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/tabs/general+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/stats/tabs/general"
 msgid "General"
-msgstr ""
+msgstr "Загальні"
 
 #. data/lang/sc/gui.en_US.json labels/menu/stats/tabs/combat #0
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/tabs/combat+%230
@@ -6826,7 +6836,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/elOverload+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/stats/keys/elOverload"
 msgid "Total Number of Overloads"
-msgstr ""
+msgstr "Загальна кількість перевантажень"
 
 #. data/lang/sc/gui.en_US.json labels/menu/stats/keys/elTime #0
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/elTime+%230
@@ -7786,7 +7796,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/hotkeys/deleteSlot+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/hotkeys/deleteSlot"
 msgid "Delete Slot"
-msgstr ""
+msgstr "Видалити слот"
 
 #. data/lang/sc/gui.en_US.json labels/menu/hotkeys/newSlot #0
 #: data/lang/sc/gui.en_US.json+labels/menu/hotkeys/newSlot+%230
@@ -8020,7 +8030,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/inventory/pages/1/content/2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/inventory/pages/1/content/2"
 msgid "The symbols you see tell you what stat or modifier changes and how strong the stat is increased. While in the Help Screen, select the \\c[3]UI in the bottom-left\\c[0] to see what each of the symbols mean."
-msgstr ""
+msgstr "Символи, які ви бачите, показують, яка характеристика чи модифікатор змінився і як сильно збільшується характеристика. Знаходячись на екрані довідки, виберіть \\c[3]нижній лівий елемент інтерфейсу\\c[0], щоб побачити, що означає кожен з символів."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/inventory/pages/2/title #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/inventory/pages/2/title+%230
@@ -8350,7 +8360,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/map/pages/1/content/2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/map/pages/1/content/2"
 msgid "Selecting yes closes the menu and teleports Lea to the location of the landmark"
-msgstr ""
+msgstr "Після підтвердження меню закриється, і Лія телепортується до орієнтиру."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/map/pages/1/content/3 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/map/pages/1/content/3+%230
@@ -8620,7 +8630,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/quests/pages/1/content/2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/quests/pages/1/content/2"
 msgid "Favorite quests are highlighted outside the menu in the top-right corner of the screen."
-msgstr ""
+msgstr "Вибрані завдання відображаються поза межами меню, в правому верхньому куті украну."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/quests/pages/1/content/3 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/quests/pages/1/content/3+%230
@@ -8761,13 +8771,13 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/save/pages/0/content/4+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/save/pages/0/content/4"
 msgid "Click on a slot or press \\i[gamepad-a] on the gamepad to save the game on the selected slot."
-msgstr ""
+msgstr "Клацніть на файл. або ж натисніть \\i[gamepad-a] на геймпаді, щоб зберегти гру у вибраний файл."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/save/pages/0/content/5 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/save/pages/0/content/5+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/save/pages/0/content/5"
 msgid "Press \\i[help3] to create \\c[3]a new save file\\c[0] or \\i[help2] to \\c[3]delete a save file\\c[0] by hovering over a slot."
-msgstr ""
+msgstr "Натисніть \\i[help3], щоб створити \\c[3]новий файл збереження\\c[0], або \\i[help2], щоб \\c[3]видалити файл\\c[0], вибравши його."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/save/pages/0/content/6 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/save/pages/0/content/6+%230
@@ -8845,109 +8855,109 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/load/title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/load/title"
 msgid "\\c[3]Load Menu\\c[0]"
-msgstr ""
+msgstr "\\c[3]Меню завантажень\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/load/pages/0/content/0 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/load/pages/0/content/0+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/load/pages/0/content/0"
 msgid "Welcome to the Load Menu!"
-msgstr ""
+msgstr "Ласкаво просимо у меню завантажень!"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/load/pages/0/content/1 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/load/pages/0/content/1+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/load/pages/0/content/1"
 msgid "......"
-msgstr ""
+msgstr "......"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/load/pages/0/content/2 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/load/pages/0/content/2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/load/pages/0/content/2"
 msgid "In this menu you can load a save file and start where you left."
-msgstr ""
+msgstr "У цьому меню ви можете завантажити раніше створені збереження та почати з того моменту, на якому зупинились."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/load/pages/0/content/3 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/load/pages/0/content/3+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/load/pages/0/content/3"
 msgid "Scroll through the save slots using \\i[mousewheel] with the mouse or the direction buttons on the gamepad."
-msgstr ""
+msgstr "Гортайте файли збереження, використовуючи \\i[mousewheel] миші, або кнопки напрямку на геймпаді."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/load/pages/0/content/4 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/load/pages/0/content/4+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/load/pages/0/content/4"
 msgid "Click on a slot or press \\i[gamepad-a] on the gamepad to load the save file on the selected slot."
-msgstr ""
+msgstr "Клацніть на файл, або ж натисніть \\i[gamepad-a] на геймпаді, щоб завантажити гру із вибраного файлу."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/load/pages/0/content/5 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/load/pages/0/content/5+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/load/pages/0/content/5"
 msgid "Press \\i[help2] to \\c[3] delete a save file\\c[0] by hovering over a slot."
-msgstr ""
+msgstr "Натисніть \\i[help2], щоб \\c[3]видалити файл збереження\\c[0], вибравши його."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/load/pages/1/title #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/load/pages/1/title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/load/pages/1/title"
 msgid "\\c[3]Load Menu\\c[0] - Save Files"
-msgstr ""
+msgstr "\\c[3]Меню завантаження\\c[0] - Файли збереження"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/load/pages/1/content/0 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/load/pages/1/content/0+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/load/pages/1/content/0"
 msgid "A single save file displays some basic information about you progress:"
-msgstr ""
+msgstr "Файл збереження відображає основну інформацію вашого прогресу:"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/load/pages/1/content/1 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/load/pages/1/content/1+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/load/pages/1/content/1"
 msgid "!!min=66"
-msgstr ""
+msgstr "!!min=90"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/load/pages/1/content/2 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/load/pages/1/content/2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/load/pages/1/content/2"
 msgid "--\\c[3]Chapter\\c[0]:-- Reflects your story progress via the chapter you are in and a small graphic."
-msgstr ""
+msgstr "--\\c[3]Розділ\\c[0]:-- Відображає прогрес у сюжеті у вигляді розділу, на якому ви знаходитесь, і з допомогою маленької картинки."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/load/pages/1/content/3 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/load/pages/1/content/3+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/load/pages/1/content/3"
 msgid "--\\c[3]Level\\c[0]:-- The level you have on this save file."
-msgstr ""
+msgstr "--\\c[3]Рівень\\c[0]:-- рівень персонажа."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/load/pages/1/content/4 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/load/pages/1/content/4+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/load/pages/1/content/4"
 msgid "--\\c[3]Element\\c[0]:-- The elements you have on this save file."
-msgstr ""
+msgstr "--\\c[3]Елемент\\c[0]:-- Елементи, які у вас є."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/load/pages/1/content/5 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/load/pages/1/content/5+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/load/pages/1/content/5"
 msgid "--\\c[3]Location\\c[0]:-- The area and map you saved in."
-msgstr ""
+msgstr "--\\c[3]Локація\\c[0]:-- Місце де ви збереглися."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/load/pages/1/content/6 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/load/pages/1/content/6+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/load/pages/1/content/6"
 msgid "--\\c[3]Version\\c[0]:-- Displayed at the bottom right. It shows the version of the game where this save was first created with."
-msgstr ""
+msgstr "--\\c[3]Версія\\c[0]:-- відображається знизу справа. Відображає версію гри, на який був створений файл збереження."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/load/pages/1/content/7 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/load/pages/1/content/7+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/load/pages/1/content/7"
 msgid "--\\c[3]Playtime\\c[0]:-- The play time of this save file."
-msgstr ""
+msgstr "--\\c[3]Час\\c[0]:-- Загальний час у грі на момент збереження."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/load/pages/1/content/8 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/load/pages/1/content/8+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/load/pages/1/content/8"
 msgid "--\\c[3]Credit\\c[0]:-- The money you accumulated."
-msgstr ""
+msgstr "--\\c[3]Кредити\\c[0]:-- Гроші, які у вас є."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/load/pages/1/content/9 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/load/pages/1/content/9+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/load/pages/1/content/9"
 msgid "!!min=-1"
-msgstr ""
+msgstr "!!min=-1"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/lore/title #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/lore/title+%230
@@ -9625,7 +9635,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/feat/pages/0/content/4+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/feat/pages/0/content/4"
 msgid "Trophies are separated by 3 categories: \\c[3]General\\c[0], \\c[3]Combat\\c[0] and \\c[3]Exploration\\c[0]. Use \\i[circle-right] and \\i[circle-left] to navigate through the tabs."
-msgstr ""
+msgstr "Трофеї розподіленні на три категорії: \\c[3]загальні\\c[0], \\c[3]бій\\c[0] та \\c[3]дослідження\\c[0]. Використовуйте \\i[circle-right] та \\i[circle-left] для перемикання між вкладками."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/feat/pages/0/content/5 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/feat/pages/0/content/5+%230
@@ -10345,19 +10355,19 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/options/headers/sound+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/headers/sound"
 msgid "Audio"
-msgstr ""
+msgstr "Аудіо"
 
 #. data/lang/sc/gui.en_US.json labels/options/headers/menu #0
 #: data/lang/sc/gui.en_US.json+labels/options/headers/menu+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/headers/menu"
 msgid "Menu"
-msgstr ""
+msgstr "Меню"
 
 #. data/lang/sc/gui.en_US.json labels/options/headers/gameplay #0
 #: data/lang/sc/gui.en_US.json+labels/options/headers/gameplay+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/headers/gameplay"
 msgid "Gameplay"
-msgstr ""
+msgstr "Геймплей"
 
 #. data/lang/sc/gui.en_US.json labels/options/headers/debug #0
 #: data/lang/sc/gui.en_US.json+labels/options/headers/debug+%230
@@ -10369,85 +10379,86 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/options/headers/main+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/headers/main"
 msgid "Main Menu"
-msgstr ""
+msgstr "Головне меню"
 
 #. data/lang/sc/gui.en_US.json labels/options/headers/field #0
 #: data/lang/sc/gui.en_US.json+labels/options/headers/field+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/headers/field"
 msgid "Gameplay"
-msgstr ""
+msgstr "Геймплей"
 
 #. data/lang/sc/gui.en_US.json labels/options/headers/quick #0
 #: data/lang/sc/gui.en_US.json+labels/options/headers/quick+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/headers/quick"
 msgid "Quick Menu"
-msgstr ""
+msgstr "Швидке меню"
 
 #. data/lang/sc/gui.en_US.json labels/options/headers/quests #0
 #: data/lang/sc/gui.en_US.json+labels/options/headers/quests+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/headers/quests"
 msgid "Quests"
-msgstr ""
+msgstr "Завдання"
 
 #. data/lang/sc/gui.en_US.json labels/options/headers/cutscenes #0
 #: data/lang/sc/gui.en_US.json+labels/options/headers/cutscenes+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/headers/cutscenes"
 msgid "Cutscenes"
-msgstr ""
+msgstr "Сцени"
 
 #. data/lang/sc/gui.en_US.json labels/options/headers/updates #0
 #: data/lang/sc/gui.en_US.json+labels/options/headers/updates+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/headers/updates"
 msgid "HUD Updates"
-msgstr ""
+msgstr "Розмір інтерфейсу"
 
 #. data/lang/sc/gui.en_US.json labels/options/headers/party #0
 #: data/lang/sc/gui.en_US.json+labels/options/headers/party+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/headers/party"
 msgid "Party"
-msgstr ""
+msgstr "Група"
 
 #. data/lang/sc/gui.en_US.json labels/options/headers/combat #0
 #: data/lang/sc/gui.en_US.json+labels/options/headers/combat+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/headers/combat"
 msgid "Combat"
-msgstr ""
+msgstr "Бій"
 
 #. data/lang/sc/gui.en_US.json labels/options/headers/puzzle #0
 #: data/lang/sc/gui.en_US.json+labels/options/headers/puzzle+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/headers/puzzle"
 msgid "Puzzles"
-msgstr ""
+msgstr "Головоломки"
 
 #. data/lang/sc/gui.en_US.json labels/options/headers/arena #0
 #: data/lang/sc/gui.en_US.json+labels/options/headers/arena+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/headers/arena"
 msgid "Arena"
-msgstr ""
+msgstr "Арена"
 
 #. data/lang/sc/gui.en_US.json labels/options/headers/logLevel #0
 #: data/lang/sc/gui.en_US.json+labels/options/headers/logLevel+%230
+#, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/headers/logLevel"
 msgid "Log levels"
-msgstr ""
+msgstr "Налаштування журналу через CCLoader"
 
 #. data/lang/sc/gui.en_US.json labels/options/arena-confirm/name #0
 #: data/lang/sc/gui.en_US.json+labels/options/arena-confirm/name+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/arena-confirm/name"
 msgid "Confirm Arena Dialogs"
-msgstr ""
+msgstr "Підтвердження діалогів на арені"
 
 #. data/lang/sc/gui.en_US.json labels/options/arena-confirm/description #0
 #: data/lang/sc/gui.en_US.json+labels/options/arena-confirm/description+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/arena-confirm/description"
 msgid "Tick if menu actions in the arena should be confirmed."
-msgstr ""
+msgstr "Включає підтвердження дій в меню арени."
 
 #. data/lang/sc/gui.en_US.json labels/options/arena-cam-focus/name #0
 #: data/lang/sc/gui.en_US.json+labels/options/arena-cam-focus/name+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/arena-cam-focus/name"
 msgid "Camera Center Focus"
-msgstr ""
+msgstr "Центрування камери"
 
 #. data/lang/sc/gui.en_US.json labels/options/arena-cam-focus/description #0
 #: data/lang/sc/gui.en_US.json+labels/options/arena-cam-focus/description+%230
@@ -10951,13 +10962,13 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/options/pause-unfocused/name+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/pause-unfocused/name"
 msgid "Pause when unfocused"
-msgstr ""
+msgstr "Пауза при згортанні гри"
 
 #. data/lang/sc/gui.en_US.json labels/options/pause-unfocused/description #0
 #: data/lang/sc/gui.en_US.json+labels/options/pause-unfocused/description+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/pause-unfocused/description"
 msgid "Pause the game when window is out of focus."
-msgstr ""
+msgstr "Ставить гру на паузу, якщо вікно не активне."
 
 #. data/lang/sc/gui.en_US.json labels/options/circuit-text-size/name #0
 #: data/lang/sc/gui.en_US.json+labels/options/circuit-text-size/name+%230
@@ -11089,49 +11100,49 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/options/language/name+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/language/name"
 msgid "Language"
-msgstr ""
+msgstr "Мова"
 
 #. data/lang/sc/gui.en_US.json labels/options/language/group/0 #0
 #: data/lang/sc/gui.en_US.json+labels/options/language/group/0+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/language/group/0"
 msgid "English"
-msgstr ""
+msgstr "Англійська"
 
 #. data/lang/sc/gui.en_US.json labels/options/language/group/1 #0
 #: data/lang/sc/gui.en_US.json+labels/options/language/group/1+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/language/group/1"
 msgid "German"
-msgstr ""
+msgstr "Німецька"
 
 #. data/lang/sc/gui.en_US.json labels/options/language/group/2 #0
 #: data/lang/sc/gui.en_US.json+labels/options/language/group/2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/language/group/2"
 msgid "Chinese"
-msgstr ""
+msgstr "Китайська"
 
 #. data/lang/sc/gui.en_US.json labels/options/language/group/3 #0
 #: data/lang/sc/gui.en_US.json+labels/options/language/group/3+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/language/group/3"
 msgid "Japanese"
-msgstr ""
+msgstr "Японська"
 
 #. data/lang/sc/gui.en_US.json labels/options/language/group/4 #0
 #: data/lang/sc/gui.en_US.json+labels/options/language/group/4+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/language/group/4"
 msgid "Korean"
-msgstr ""
+msgstr "Корейська"
 
 #. data/lang/sc/gui.en_US.json labels/options/language/group/5 #0
 #: data/lang/sc/gui.en_US.json+labels/options/language/group/5+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/language/group/5"
 msgid "Traditional Chinese"
-msgstr ""
+msgstr "Традиційна китайська"
 
 #. data/lang/sc/gui.en_US.json labels/options/language/description #0
 #: data/lang/sc/gui.en_US.json+labels/options/language/description+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/language/description"
 msgid "The language of the game. \\c[1]Needs a restart!"
-msgstr ""
+msgstr "Мова гри. \\c[1]Потребує перезапуск!"
 
 #. data/lang/sc/gui.en_US.json labels/options/low-health-warning/name #0
 #: data/lang/sc/gui.en_US.json+labels/options/low-health-warning/name+%230
@@ -11545,37 +11556,37 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/options/volume-music/name+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/volume-music/name"
 msgid "Music Volume"
-msgstr ""
+msgstr "Гучність музики"
 
 #. data/lang/sc/gui.en_US.json labels/options/volume-music/description #0
 #: data/lang/sc/gui.en_US.json+labels/options/volume-music/description+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/volume-music/description"
 msgid "Sets the volume of the music in the game."
-msgstr ""
+msgstr "Встановлює гучність музики в грі."
 
 #. data/lang/sc/gui.en_US.json labels/options/volume-sound/name #0
 #: data/lang/sc/gui.en_US.json+labels/options/volume-sound/name+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/volume-sound/name"
 msgid "Sound Volume"
-msgstr ""
+msgstr "Гучність звуків"
 
 #. data/lang/sc/gui.en_US.json labels/options/volume-sound/description #0
 #: data/lang/sc/gui.en_US.json+labels/options/volume-sound/description+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/volume-sound/description"
 msgid "Sets the volume of the sounds in the game."
-msgstr ""
+msgstr "Встановлює гучність звуків у грі."
 
 #. data/lang/sc/gui.en_US.json labels/options/web-audio/name #0
 #: data/lang/sc/gui.en_US.json+labels/options/web-audio/name+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/web-audio/name"
 msgid "Use Web Audio"
-msgstr ""
+msgstr "Використовувати Веб Аудіо"
 
 #. data/lang/sc/gui.en_US.json labels/options/web-audio/description #0
 #: data/lang/sc/gui.en_US.json+labels/options/web-audio/description+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/web-audio/description"
 msgid "Enables WebAudio for better sound quality and positioned sounds. \\c[1]Needs a restart!"
-msgstr ""
+msgstr "Включає Веб Аудіо для кращого звучання і позиціювання звучання. \\c[1]Потребує перезапуск!"
 
 #. data/lang/sc/gui.en_US.json labels/options/close-combat-input/name #0
 #: data/lang/sc/gui.en_US.json+labels/options/close-combat-input/name+%230
