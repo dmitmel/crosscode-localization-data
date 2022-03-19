@@ -3,15 +3,16 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-11 15:55+0000\n"
-"POT-Revision-Date: 2022-01-11 15:55+0000\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2022-03-19 22:08+0000\n"
+"Last-Translator: Bogdan <bbucko175@gmail.com>\n"
+"Language-Team: Ukrainian <https://weblate.openkrosskod.org/projects/crosscode/cargo-ship/uk/>\n"
 "Language: uk_UA\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0 (2168d54 2022-01-11)\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.5.3\n"
+"POT-Revision-Date: 2022-01-11 15:55+0000\n"
 
 #. data/areas/cargo-ship.json name #1
 #: data/areas/cargo-ship.json+name+%231
@@ -513,7 +514,7 @@ msgstr "Друже мій! Давно не чулися."
 #: data/maps/cargo-ship/bridge.json+entities/21/settings/event/34/message+%2320
 msgctxt "data/maps/cargo-ship/bridge.json//entities/21/settings/event/34/message"
 msgid "Indeed.\\. You are still clinging to that jet pack, I see?"
-msgstr ""
+msgstr "Та ну.\\. Бачу, ти все ж не вилазиш зі свого реактивного ранця?"
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/35/message #21
 #. EventTrigger firstVisit START IF plot.line >= 100
