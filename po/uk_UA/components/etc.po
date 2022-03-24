@@ -3,15 +3,16 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-11 15:55+0000\n"
-"POT-Revision-Date: 2022-01-11 15:55+0000\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2022-03-24 22:17+0000\n"
+"Last-Translator: Bogdan <bbucko175@gmail.com>\n"
+"Language-Team: Ukrainian <https://weblate.openkrosskod.org/projects/crosscode/etc/uk/>\n"
 "Language: uk_UA\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0 (2168d54 2022-01-11)\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.5.3\n"
+"POT-Revision-Date: 2022-01-11 15:55+0000\n"
 
 #. data/areas/arid-dng-1.json name #1
 #: data/areas/arid-dng-1.json+name+%231
@@ -3454,37 +3455,37 @@ msgstr ""
 #: data/players/apollo.json+actions/NEUTRAL/ATTACK_SPECIAL1_A/name+%2377
 msgctxt "data/players/apollo.json//actions/NEUTRAL/ATTACK_SPECIAL1_A/name"
 msgid "Spin Dance"
-msgstr ""
+msgstr "Круговий танець"
 
 #. data/players/apollo.json actions/NEUTRAL/ATTACK_SPECIAL1_A/description #78
 #: data/players/apollo.json+actions/NEUTRAL/ATTACK_SPECIAL1_A/description+%2378
 msgctxt "data/players/apollo.json//actions/NEUTRAL/ATTACK_SPECIAL1_A/description"
 msgid "A wide-ranged spinning move hitting many nearby enemies."
-msgstr ""
+msgstr "Широкі обертальні рухи, що вражають велику площу."
 
 #. data/players/apollo.json actions/NEUTRAL/ATTACK_SPECIAL2_A/name #81
 #: data/players/apollo.json+actions/NEUTRAL/ATTACK_SPECIAL2_A/name+%2381
 msgctxt "data/players/apollo.json//actions/NEUTRAL/ATTACK_SPECIAL2_A/name"
 msgid "Spiral Dance"
-msgstr ""
+msgstr "Спіральний танець"
 
 #. data/players/apollo.json actions/NEUTRAL/ATTACK_SPECIAL2_A/description #82
 #: data/players/apollo.json+actions/NEUTRAL/ATTACK_SPECIAL2_A/description+%2382
 msgctxt "data/players/apollo.json//actions/NEUTRAL/ATTACK_SPECIAL2_A/description"
 msgid "A Spin Dance with more spins, hits, damage, and knockback."
-msgstr ""
+msgstr "Круговий танець з великою кількістю обертів, ударів, урону та відкидання."
 
 #. data/players/apollo.json actions/NEUTRAL/THROW_SPECIAL1_A/name #73
 #: data/players/apollo.json+actions/NEUTRAL/THROW_SPECIAL1_A/name+%2373
 msgctxt "data/players/apollo.json//actions/NEUTRAL/THROW_SPECIAL1_A/name"
 msgid "Bullet Rain"
-msgstr ""
+msgstr "Дощ із куль"
 
 #. data/players/apollo.json actions/NEUTRAL/THROW_SPECIAL1_A/description #74
 #: data/players/apollo.json+actions/NEUTRAL/THROW_SPECIAL1_A/description+%2374
 msgctxt "data/players/apollo.json//actions/NEUTRAL/THROW_SPECIAL1_A/description"
 msgid "Fire a mass of small shots in a narrow angle."
-msgstr ""
+msgstr "Вистріл безліччю маленьких снарядів з маленьким разкидом."
 
 #. data/players/apollo.json actions/NEUTRAL/THROW_SPECIAL2_A/name #164
 #: data/players/apollo.json+actions/NEUTRAL/THROW_SPECIAL2_A/name+%23164
@@ -3706,7 +3707,7 @@ msgstr ""
 #: data/players/emilie.json+actions/NEUTRAL/ATTACK_SPECIAL1_A/name+%2313
 msgctxt "data/players/emilie.json//actions/NEUTRAL/ATTACK_SPECIAL1_A/name"
 msgid "Beatdown"
-msgstr ""
+msgstr "Прочухан"
 
 #. data/players/emilie.json actions/NEUTRAL/THROW_SPECIAL1_A/name #101
 #: data/players/emilie.json+actions/NEUTRAL/THROW_SPECIAL1_A/name+%23101
@@ -3934,13 +3935,13 @@ msgstr ""
 #: data/players/lea.json+actions/NEUTRAL/ATTACK_SPECIAL1_A/name+%2377
 msgctxt "data/players/lea.json//actions/NEUTRAL/ATTACK_SPECIAL1_A/name"
 msgid "Spin Dance"
-msgstr ""
+msgstr "Круговий танець"
 
 #. data/players/lea.json actions/NEUTRAL/ATTACK_SPECIAL1_A/description #78
 #: data/players/lea.json+actions/NEUTRAL/ATTACK_SPECIAL1_A/description+%2378
 msgctxt "data/players/lea.json//actions/NEUTRAL/ATTACK_SPECIAL1_A/description"
 msgid "A wide-ranged spinning move hitting many nearby enemies."
-msgstr ""
+msgstr "Широкі обертальні рухи, що вражають велику площу."
 
 #. data/players/lea.json actions/NEUTRAL/ATTACK_SPECIAL1_B/name #79
 #: data/players/lea.json+actions/NEUTRAL/ATTACK_SPECIAL1_B/name+%2379
@@ -5042,9 +5043,10 @@ msgstr ""
 
 #. data/players/luke.json actions/NEUTRAL/ATTACK_SPECIAL1_A/name #35
 #: data/players/luke.json+actions/NEUTRAL/ATTACK_SPECIAL1_A/name+%2335
+#, fuzzy
 msgctxt "data/players/luke.json//actions/NEUTRAL/ATTACK_SPECIAL1_A/name"
 msgid "Wirbelschlitzer"
-msgstr ""
+msgstr "Хребет"
 
 #. data/players/luke.json actions/NEUTRAL/DASH_SPECIAL1_A/name #84
 #: data/players/luke.json+actions/NEUTRAL/DASH_SPECIAL1_A/name+%2384
@@ -5108,9 +5110,10 @@ msgstr ""
 
 #. data/players/schneider.json actions/NEUTRAL/ATTACK_SPECIAL1_A/name #35
 #: data/players/schneider.json+actions/NEUTRAL/ATTACK_SPECIAL1_A/name+%2335
+#, fuzzy
 msgctxt "data/players/schneider.json//actions/NEUTRAL/ATTACK_SPECIAL1_A/name"
 msgid "Wirbelschlitzer"
-msgstr ""
+msgstr "Хребет"
 
 #. data/players/schneider.json actions/NEUTRAL/DASH_SPECIAL1_A/name #84
 #: data/players/schneider.json+actions/NEUTRAL/DASH_SPECIAL1_A/name+%2384
@@ -5176,7 +5179,7 @@ msgstr ""
 #: data/players/schneider2.json+actions/NEUTRAL/ATTACK_SPECIAL1_A/name+%2335
 msgctxt "data/players/schneider2.json//actions/NEUTRAL/ATTACK_SPECIAL1_A/name"
 msgid "Wirbelschlitzer"
-msgstr ""
+msgstr "Хребет"
 
 #. data/players/schneider2.json actions/NEUTRAL/DASH_SPECIAL1_A/name #84
 #: data/players/schneider2.json+actions/NEUTRAL/DASH_SPECIAL1_A/name+%2384
@@ -5236,13 +5239,13 @@ msgstr ""
 #: data/players/shizuka.json+actions/NEUTRAL/ATTACK_SPECIAL1_A/name+%2377
 msgctxt "data/players/shizuka.json//actions/NEUTRAL/ATTACK_SPECIAL1_A/name"
 msgid "Spin Dance"
-msgstr ""
+msgstr "Круговий танець"
 
 #. data/players/shizuka.json actions/NEUTRAL/ATTACK_SPECIAL1_A/description #78
 #: data/players/shizuka.json+actions/NEUTRAL/ATTACK_SPECIAL1_A/description+%2378
 msgctxt "data/players/shizuka.json//actions/NEUTRAL/ATTACK_SPECIAL1_A/description"
 msgid "A wide-ranged spinning move hitting many nearby enemies."
-msgstr ""
+msgstr "Широкі обертальні рухи, що вражають велику площу."
 
 #. data/players/shizuka.json actions/NEUTRAL/THROW_SPECIAL1_A/name #73
 #: data/players/shizuka.json+actions/NEUTRAL/THROW_SPECIAL1_A/name+%2373
