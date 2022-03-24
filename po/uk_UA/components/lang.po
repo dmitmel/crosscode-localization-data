@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-08 21:33+0000\n"
-"PO-Revision-Date: 2022-03-24 15:06+0000\n"
+"PO-Revision-Date: 2022-03-24 15:36+0000\n"
 "Last-Translator: Bogdan <bbucko175@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.openkrosskod.org/projects/crosscode/lang/uk/>\n"
 "Language: uk_UA\n"
@@ -378,7 +378,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/arena/bonuses/PVP_FLAWLESS+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/bonuses/PVP_FLAWLESS"
 msgid "\\c[5]No Rounds Lost\\c[0]"
-msgstr ""
+msgstr "\\c[5]Без програних раундів\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/arena/challenges/descriptions/WEAPON_ADJUST #0
 #: data/lang/sc/gui.en_US.json+labels/arena/challenges/descriptions/WEAPON_ADJUST+%230
@@ -444,7 +444,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/arena/challenges/descriptions/PVP_BATTLE+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/challenges/descriptions/PVP_BATTLE"
 msgid "PVP Combat - Penalty for taken damage is reduced."
-msgstr ""
+msgstr "PVP Битва - Штраф за отриманий урон зменшений."
 
 #. data/lang/sc/gui.en_US.json labels/arena/scoreTypes/TARGET_KILL #0
 #: data/lang/sc/gui.en_US.json+labels/arena/scoreTypes/TARGET_KILL+%230
@@ -558,13 +558,13 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/arena/scoreTypes/PVP_ROUND_WON+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/scoreTypes/PVP_ROUND_WON"
 msgid "Rounds Won"
-msgstr ""
+msgstr "Виграні раунди"
 
 #. data/lang/sc/gui.en_US.json labels/arena/scoreTypes/PVP_ROUND_LOST #0
 #: data/lang/sc/gui.en_US.json+labels/arena/scoreTypes/PVP_ROUND_LOST+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/scoreTypes/PVP_ROUND_LOST"
 msgid "Rounds Lost"
-msgstr ""
+msgstr "Програні раунди"
 
 #. data/lang/sc/gui.en_US.json labels/arena/medals/0 #0
 #: data/lang/sc/gui.en_US.json+labels/arena/medals/0+%230
@@ -990,7 +990,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/status-hud/maxhp+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/status-hud/maxhp"
 msgid "MAXHP"
-msgstr ""
+msgstr "MAXHP"
 
 #. data/lang/sc/gui.en_US.json labels/status-hud/atk #0
 #: data/lang/sc/gui.en_US.json+labels/status-hud/atk+%230
@@ -1014,7 +1014,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/status-hud/lvl+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/status-hud/lvl"
 msgid "LVL"
-msgstr ""
+msgstr "LVL"
 
 #. data/lang/sc/gui.en_US.json labels/msg/private #0
 #: data/lang/sc/gui.en_US.json+labels/msg/private+%230
@@ -1392,7 +1392,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/combat/element-overload+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/combat/element-overload"
 msgid "Elemental Overload"
-msgstr ""
+msgstr "Елементальне перевантаження"
 
 #. data/lang/sc/gui.en_US.json labels/combat-hud/skip #0
 #: data/lang/sc/gui.en_US.json+labels/combat-hud/skip+%230
@@ -1404,7 +1404,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/combat-hud/pvp-round+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/combat-hud/pvp-round"
 msgid "Round"
-msgstr ""
+msgstr "Раунд"
 
 #. data/lang/sc/gui.en_US.json labels/combat-hud/boss #0
 #: data/lang/sc/gui.en_US.json+labels/combat-hud/boss+%230
@@ -1614,7 +1614,7 @@ msgstr "Назад"
 #: data/lang/sc/gui.en_US.json+labels/hit-task/title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/hit-task/title"
 msgid "Task"
-msgstr ""
+msgstr "Завдання"
 
 #. data/lang/sc/gui.en_US.json labels/information/title #0
 #: data/lang/sc/gui.en_US.json+labels/information/title+%230
@@ -1644,7 +1644,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/levelup/hp+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/levelup/hp"
 msgid "MaxHP"
-msgstr ""
+msgstr "Здоров'я"
 
 #. data/lang/sc/gui.en_US.json labels/levelup/attack #0
 #: data/lang/sc/gui.en_US.json+labels/levelup/attack+%230
@@ -1752,19 +1752,19 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/task-hud/title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/task-hud/title"
 msgid "Task"
-msgstr ""
+msgstr "Задача"
 
 #. data/lang/sc/gui.en_US.json labels/quest-hud/taskDoneCenter #0
 #: data/lang/sc/gui.en_US.json+labels/quest-hud/taskDoneCenter+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quest-hud/taskDoneCenter"
 msgid "Quest: Next Task"
-msgstr ""
+msgstr "Завдання: наступна задача"
 
 #. data/lang/sc/gui.en_US.json labels/quest-hud/taskDoneCurrent #0
 #: data/lang/sc/gui.en_US.json+labels/quest-hud/taskDoneCurrent+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quest-hud/taskDoneCurrent"
 msgid "Quest: Task Done"
-msgstr ""
+msgstr "Завдання: Задача виконана"
 
 #. data/lang/sc/gui.en_US.json labels/quest-hud/title #0
 #: data/lang/sc/gui.en_US.json+labels/quest-hud/title+%230
@@ -1782,19 +1782,19 @@ msgstr "Задачі оновлені"
 #: data/lang/sc/gui.en_US.json+labels/quest-hud/taskDone+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quest-hud/taskDone"
 msgid "Task"
-msgstr ""
+msgstr "Задача"
 
 #. data/lang/sc/gui.en_US.json labels/quest-hud/taskDone2 #0
 #: data/lang/sc/gui.en_US.json+labels/quest-hud/taskDone2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quest-hud/taskDone2"
 msgid "Done"
-msgstr ""
+msgstr "Виконано"
 
 #. data/lang/sc/gui.en_US.json labels/quest-hud/nextTask #0
 #: data/lang/sc/gui.en_US.json+labels/quest-hud/nextTask+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quest-hud/nextTask"
 msgid "Next"
-msgstr ""
+msgstr "Далі"
 
 #. data/lang/sc/gui.en_US.json labels/landmark-hud/title-new #0
 #: data/lang/sc/gui.en_US.json+labels/landmark-hud/title-new+%230
@@ -2363,7 +2363,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/shop/select+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shop/select"
 msgid "Select"
-msgstr ""
+msgstr "Вибрано"
 
 #. data/lang/sc/gui.en_US.json labels/shop/cart #0
 #: data/lang/sc/gui.en_US.json+labels/shop/cart+%230
@@ -2399,7 +2399,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/shop/sellGroup+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shop/sellGroup"
 msgid "Select Category"
-msgstr ""
+msgstr "Вибрати категорію"
 
 #. data/lang/sc/gui.en_US.json labels/shop/sellPages/cons #0
 #: data/lang/sc/gui.en_US.json+labels/shop/sellPages/cons+%230
@@ -2549,7 +2549,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/dialogs/modeSelect+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/new-game/dialogs/modeSelect"
 msgid "Select Game Mode"
-msgstr ""
+msgstr "Виберіть режим гри"
 
 #. data/lang/sc/gui.en_US.json labels/menu/new-game/dialogs/normal #0
 #: data/lang/sc/gui.en_US.json+labels/menu/new-game/dialogs/normal+%230
@@ -3509,7 +3509,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/help/quest/titles/content+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/quest/titles/content"
 msgid "Quest Tasks"
-msgstr ""
+msgstr "Задачі завдання"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/quest/titles/location #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/quest/titles/location+%230
@@ -3545,7 +3545,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/help/quest/description/content+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/quest/description/content"
 msgid "Display the tasks you have already finished and the one you currently have to completed. The 3 dots show that more tasks have been finished and can be checked int the detailed view."
-msgstr ""
+msgstr "Відображає задачі, які ви вже виконали, та поточну задачу. Три крапки показують, що інші задачі були виконані, і їх можна переглянути детальніше."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/quest/description/content2 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/quest/description/content2+%230
@@ -3791,7 +3791,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/help/enemy/description/maxhp+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/enemy/description/maxhp"
 msgid "Maximum amount of Health Points for the selected enemy."
-msgstr ""
+msgstr "Максимальна кількість здоров'я для вибраного ворога."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/enemy/description/atk #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/enemy/description/atk+%230
@@ -4457,7 +4457,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/maxhp+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/equip/maxhp"
 msgid "MaxHp"
-msgstr ""
+msgstr "Здоров'я"
 
 #. data/lang/sc/gui.en_US.json labels/menu/equip/player #0
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/player+%230
@@ -4868,7 +4868,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/descriptions/maxhp+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/equip/descriptions/maxhp"
 msgid "Maximum amount of Health Points. Determines the damage you can survive and the efficiency of regeneration."
-msgstr ""
+msgstr "Максимальна кількість здоров'я. Впливає на ефективність регенерації."
 
 #. data/lang/sc/gui.en_US.json labels/menu/equip/descriptions/atk #0
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/descriptions/atk+%230
@@ -4982,7 +4982,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/descriptions/STUN_THRESHOLD+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/equip/descriptions/STUN_THRESHOLD"
 msgid "Increases knockback resistance to weak attacks, depending on your MaxHP."
-msgstr ""
+msgstr "Збільшує супротив відшкодування від слабких атак, залежить ві макс. здоров'я."
 
 #. data/lang/sc/gui.en_US.json labels/menu/equip/descriptions/HP_REGEN #0
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/descriptions/HP_REGEN+%230
@@ -5115,6 +5115,8 @@ msgstr ""
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/equip/descriptions/COND_EFFECT_HEAT"
 msgid "Increases the speed of inflicting the \\c[3]Burn\\c[0] Condition and its effect. \\c[3]Burn\\c[0] causes damage over time, depending on the MaxHP of the victim."
 msgstr ""
+"Збільшує швидкість накладення \\c[3]Горіння\\c[0] та його ефект. \n"
+"\\c[3]Горіння\\c[0] наносить урон поступово, залежить від макс. здоров'я жертви."
 
 #. data/lang/sc/gui.en_US.json labels/menu/equip/descriptions/COND_EFFECT_COLD #0
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/descriptions/COND_EFFECT_COLD+%230
@@ -5456,7 +5458,7 @@ msgstr "Епілог"
 #: data/lang/sc/gui.en_US.json+labels/menu/save-menu/level+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/save-menu/level"
 msgid "lvl"
-msgstr "рів"
+msgstr "lvl"
 
 #. data/lang/sc/gui.en_US.json labels/menu/save-menu/playtime #0
 #: data/lang/sc/gui.en_US.json+labels/menu/save-menu/playtime+%230
@@ -5798,7 +5800,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/quests/atCurLvl+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/quests/atCurLvl"
 msgid "*at current Level"
-msgstr ""
+msgstr "*на поточному рівні"
 
 #. data/lang/sc/gui.en_US.json labels/menu/quests/accept #0
 #: data/lang/sc/gui.en_US.json+labels/menu/quests/accept+%230
@@ -5858,7 +5860,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/quests/lvl+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/quests/lvl"
 msgid "LVL"
-msgstr ""
+msgstr "LVL"
 
 #. data/lang/sc/gui.en_US.json labels/menu/lore/tabs/story #0
 #: data/lang/sc/gui.en_US.json+labels/menu/lore/tabs/story+%230
@@ -5972,7 +5974,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/status/lvl+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/status/lvl"
 msgid "LVL"
-msgstr ""
+msgstr "LVL"
 
 #. data/lang/sc/gui.en_US.json labels/menu/status/sp #0
 #: data/lang/sc/gui.en_US.json+labels/menu/status/sp+%230
@@ -7220,31 +7222,31 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/subTaskKill+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/stats/keys/subTaskKill"
 msgid "Defeat Enemies"
-msgstr ""
+msgstr "Переможено противників"
 
 #. data/lang/sc/gui.en_US.json labels/menu/stats/keys/subTaskCol #0
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/subTaskCol+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/stats/keys/subTaskCol"
 msgid "Collect Items"
-msgstr ""
+msgstr "Зібрано предметів"
 
 #. data/lang/sc/gui.en_US.json labels/menu/stats/keys/subTaskAct #0
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/subTaskAct+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/stats/keys/subTaskAct"
 msgid "Interactions"
-msgstr ""
+msgstr "Взаємодії"
 
 #. data/lang/sc/gui.en_US.json labels/menu/stats/keys/subTaskQuest #0
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/subTaskQuest+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/stats/keys/subTaskQuest"
 msgid "Quests"
-msgstr ""
+msgstr "Квести"
 
 #. data/lang/sc/gui.en_US.json labels/menu/stats/keys/subTaskLandmark #0
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/subTaskLandmark+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/stats/keys/subTaskLandmark"
 msgid "Landmarks"
-msgstr ""
+msgstr "Орієнтири"
 
 #. data/lang/sc/gui.en_US.json labels/menu/stats/keys/questActive #0
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/questActive+%230
@@ -8552,7 +8554,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/synopsis/pages/0/content/3+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/synopsis/pages/0/content/3"
 msgid "On the left side you can a see a quick summary including your \\c[3]current task\\c[0] and your \\c[3]latest activities.\\c[0]"
-msgstr ""
+msgstr "Зліва ви можете побачити швидке зведення, що включає ваші \\c[3]поточні завдання\\c[0] та вашу \\c[3]останню активність.\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/synopsis/pages/0/content/4 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/synopsis/pages/0/content/4+%230
@@ -8594,7 +8596,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/quests/pages/0/content/4+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/quests/pages/0/content/4"
 msgid "Selecting a quest shows you a quick summary including the latest fulfilled tasks and description."
-msgstr ""
+msgstr "Вибране завдання показує швидке зведення, що включає останні виконані задачі й опис."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/quests/pages/0/content/5 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/quests/pages/0/content/5+%230
@@ -9131,7 +9133,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/enemy/pages/1/content/5+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/enemy/pages/1/content/5"
 msgid "Additional reports are unlocked through various tasks, such as defeating even more of enemy, solving quest, progressing the story and so on."
-msgstr ""
+msgstr "Додатковий звіт розблокується в ході всіляких задач, серед яких: перемогти ще багато супротивників, виконувати завдання, просуватися по сюжету і т.д."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/traders/title #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/traders/title+%230
@@ -9779,7 +9781,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/skills/names/MAXHP+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/names/MAXHP"
 msgid "MaxHP +"
-msgstr ""
+msgstr "Макс. HP +"
 
 #. data/lang/sc/gui.en_US.json labels/skills/names/ATK #0
 #: data/lang/sc/gui.en_US.json+labels/skills/names/ATK+%230
@@ -10295,7 +10297,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/OVERHEAT_REDUCTION+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/OVERHEAT_REDUCTION"
 msgid "Slows down the Elemental Overload by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Уповільнює елементальне перевантаження на \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/ITEM_BOOST #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/ITEM_BOOST+%230
@@ -12824,7 +12826,7 @@ msgstr "Цей файл збереження застарілий, можуть 
 #: data/lang/sc/gui.en_US.json+labels/loading/questUpdate+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/loading/questUpdate"
 msgid "Some quests have changed. Those have been resetted. This means you might have to re-do some tasks or you get your rewards after you close this message."
-msgstr ""
+msgstr "Деякі завдання змінились. Вони були переміщені. Це означає, що вам, можливо, треба виконати деякі задачі знову, або ви отримаєте винагороду після того, як закриєте це повідомлення."
 
 #. data/lang/sc/map-content.en_US.json labels/elevator/cancel #0
 #: data/lang/sc/map-content.en_US.json+labels/elevator/cancel+%230
