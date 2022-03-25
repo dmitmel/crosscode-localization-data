@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-08 21:33+0000\n"
-"PO-Revision-Date: 2022-03-25 16:48+0000\n"
+"PO-Revision-Date: 2022-03-25 19:42+0000\n"
 "Last-Translator: Bogdan <bbucko175@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.openkrosskod.org/projects/crosscode/lang/uk/>\n"
 "Language: uk_UA\n"
@@ -390,7 +390,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/arena/challenges/descriptions/NO_MELEE+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/challenges/descriptions/NO_MELEE"
 msgid "Close Combat and Melee Arts are disabled. "
-msgstr ""
+msgstr "Ближній бій та його техніки відключені. "
 
 #. data/lang/sc/gui.en_US.json labels/arena/challenges/descriptions/NO_RANGED #0
 #: data/lang/sc/gui.en_US.json+labels/arena/challenges/descriptions/NO_RANGED+%230
@@ -3401,25 +3401,25 @@ msgstr "Рівні погано збалансовані, це може прив
 #: data/lang/sc/gui.en_US.json+labels/menu/help/item/titles/hp+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/item/titles/hp"
 msgid "HP Bar"
-msgstr ""
+msgstr "Шкала HP"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/item/titles/sp #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/item/titles/sp+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/item/titles/sp"
 msgid "SP Bar"
-msgstr ""
+msgstr "Шкала SP"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/item/titles/exp #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/item/titles/exp+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/item/titles/exp"
 msgid "EXP Bar"
-msgstr ""
+msgstr "Шкала досвіду"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/item/titles/buffs #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/item/titles/buffs+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/item/titles/buffs"
 msgid "Current Buffs"
-msgstr ""
+msgstr "Активні бафи"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/item/titles/favs #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/item/titles/favs+%230
@@ -3431,31 +3431,31 @@ msgstr "Вибрані розхідники"
 #: data/lang/sc/gui.en_US.json+labels/menu/help/item/titles/avail+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/item/titles/avail"
 msgid "Availability"
-msgstr ""
+msgstr "Доступність"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/item/description/hp #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/item/description/hp+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/item/description/hp"
 msgid "Shows you your current and Max HP."
-msgstr ""
+msgstr "Показує ваше поточне та макс. HP."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/item/description/sp #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/item/description/sp+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/item/description/sp"
 msgid "Shows you your current and Max SP."
-msgstr ""
+msgstr "Показує ваше поточне та макс. SP."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/item/description/exp #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/item/description/exp+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/item/description/exp"
 msgid "Shows how much more experience you need for a level up."
-msgstr ""
+msgstr "Показує, скільки досвіду потрібно для отримання нового рівня."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/item/description/buffs #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/item/description/buffs+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/item/description/buffs"
 msgid "A list of all your active buffs."
-msgstr ""
+msgstr "Список всіх ваших активних бафів."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/item/description/favs #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/item/description/favs+%230
@@ -3467,7 +3467,7 @@ msgstr "Ваші улюблені розхідники. Додайте, щоб �
 #: data/lang/sc/gui.en_US.json+labels/menu/help/item/description/avail+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/item/description/avail"
 msgid "Shows where your commonly find a trade item."
-msgstr ""
+msgstr "Показує, де ви зазвичай знаходите предмет обміну."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/status/titles/element #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/status/titles/element+%230
@@ -3575,7 +3575,7 @@ msgstr "Список нагород, які ви можете отримати �
 #: data/lang/sc/gui.en_US.json+labels/menu/help/circuit/titles/points+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/circuit/titles/points"
 msgid "Circuit Points"
-msgstr "Очки Контору(ОК)"
+msgstr "Очки Контору(CP)"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/circuit/titles/branch #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/circuit/titles/branch+%230
@@ -3605,7 +3605,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/help/social/description/equip+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/social/description/equip"
 msgid "The equipment of the selected friend. They will automatically upgrade when visiting shops."
-msgstr "Екіпіровка вибраного друга. Вона буде автоматично оновлюватися при відвідуванні магазині."
+msgstr "Спорядження вибраного друга. Вона буде автоматично оновлюватися при відвідуванні магазині."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/synopsis/titles/objective #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/synopsis/titles/objective+%230
@@ -4169,7 +4169,7 @@ msgstr "Контури"
 #: data/lang/sc/gui.en_US.json+labels/menu/menu-titles/equipment+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/menu-titles/equipment"
 msgid "Equipment"
-msgstr "Екіпіровка"
+msgstr "Спорядження"
 
 #. data/lang/sc/gui.en_US.json labels/menu/menu-titles/status #0
 #: data/lang/sc/gui.en_US.json+labels/menu/menu-titles/status+%230
@@ -4529,7 +4529,7 @@ msgstr "Базові"
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/equip+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/equip/equip"
 msgid "Equip"
-msgstr "Спорядж."
+msgstr "Споряд."
 
 #. data/lang/sc/gui.en_US.json labels/menu/equip/skills #0
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/skills+%230
@@ -5941,25 +5941,25 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/status/pages/0+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/status/pages/0"
 msgid "Summary"
-msgstr ""
+msgstr "Спрощено"
 
 #. data/lang/sc/gui.en_US.json labels/menu/status/pages/1 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/status/pages/1+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/status/pages/1"
 msgid "Parameters"
-msgstr ""
+msgstr "Параметри"
 
 #. data/lang/sc/gui.en_US.json labels/menu/status/pages/2 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/status/pages/2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/status/pages/2"
 msgid "Modifiers"
-msgstr ""
+msgstr "Модифікатори"
 
 #. data/lang/sc/gui.en_US.json labels/menu/status/pages/3 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/status/pages/3+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/status/pages/3"
 msgid "Combat Arts"
-msgstr ""
+msgstr "Бойові техніки"
 
 #. data/lang/sc/gui.en_US.json labels/menu/status/artType/THROW_SPECIAL #0
 #: data/lang/sc/gui.en_US.json+labels/menu/status/artType/THROW_SPECIAL+%230
@@ -5971,7 +5971,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/status/artType/ATTACK_SPECIAL+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/status/artType/ATTACK_SPECIAL"
 msgid "Melee Arts"
-msgstr ""
+msgstr "Ближні бойові техніки"
 
 #. data/lang/sc/gui.en_US.json labels/menu/status/artType/DASH_SPECIAL #0
 #: data/lang/sc/gui.en_US.json+labels/menu/status/artType/DASH_SPECIAL+%230
@@ -6787,7 +6787,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/specialsClose+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/stats/keys/specialsClose"
 msgid "Melee Arts"
-msgstr ""
+msgstr "Ближні бойові техніки"
 
 #. data/lang/sc/gui.en_US.json labels/menu/stats/keys/specialsThrow #0
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/specialsThrow+%230
@@ -7753,7 +7753,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/hotkeys/equip+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/hotkeys/equip"
 msgid "Equipment"
-msgstr "Екіпіровка"
+msgstr "Спорядження"
 
 #. data/lang/sc/gui.en_US.json labels/menu/hotkeys/help #0
 #: data/lang/sc/gui.en_US.json+labels/menu/hotkeys/help+%230
@@ -8197,7 +8197,7 @@ msgstr "......"
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/circuit/pages/0/content/2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/circuit/pages/0/content/2"
 msgid "In this menu you can spend your collected \\c[3]Cross Points (CP)\\c[0] to unlock skills on the skill trees."
-msgstr "В цьому меню ви можете витратити отримані \\c[3]Очки Контору (ОК)\\c[0], щоб розблокувати навички в дереві навичків."
+msgstr "В цьому меню ви можете витратити отримані \\c[3]Очки Контору (CP)\\c[0], щоб розблокувати навички в дереві навичків."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/circuit/pages/0/content/3 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/circuit/pages/0/content/3+%230
@@ -8239,13 +8239,13 @@ msgstr "......"
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/circuit/pages/1/content/3+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/circuit/pages/1/content/3"
 msgid "Hover over a skill to see what it does and how many CP you need to activate it."
-msgstr ""
+msgstr "Вибравши навичок, можна побачити, що він робить та як багато CP потрібно для його активації."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/circuit/pages/1/content/4 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/circuit/pages/1/content/4+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/circuit/pages/1/content/4"
 msgid "Note that in order to activate a skill you must first unlock its parent. Alternatively you can activate all parent skills provided you have enough CP. In that case the button will display the text \\c[3]Activate All\\c[0]."
-msgstr "Важливо, для активації навичок необхідно спершу активувати попередній. Якщо попередні навички не активні, то маючи достатню кількість ОК, можна активувати їх все. В такому випадку відобразиться кнопка \\c[3]\"Активувати ціль\"\\c[0]."
+msgstr "Важливо, для активації навичок необхідно спершу активувати попередній. Якщо попередні навички не активні, то маючи достатню кількість CP, можна активувати їх все. В такому випадку відобразиться кнопка \\c[3]\"Активувати ціль\"\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/circuit/pages/2/title #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/circuit/pages/2/title+%230
@@ -8293,7 +8293,7 @@ msgstr "......"
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/circuit/pages/3/content/2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/circuit/pages/3/content/2"
 msgid "Those Combat Arts are skills that don't increase your parameters but instead allow you to perform special abilities during combat, in exchange for \\c[3]Special Points (SP)\\c[0]."
-msgstr "Бойові техніки - це навички, які не збільшують ваші параметри, але позволяють застосовувати особливі вміння в бою, використовуючи \\c[3]Очки Контору (ОК)\\c[0]."
+msgstr "Бойові техніки - це навички, які не збільшують ваші параметри, але дозволяють застосовувати особливі вміння в бою, використовуючи \\c[3]Очки Контору (CP)\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/circuit/pages/3/content/3 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/circuit/pages/3/content/3+%230
@@ -9205,223 +9205,223 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/status/title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/status/title"
 msgid "\\c[3]Status Menu\\c[0]"
-msgstr ""
+msgstr "\\c[3]Меню статусу\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/status/pages/0/content/0 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/status/pages/0/content/0+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/status/pages/0/content/0"
 msgid "Welcome to the Status Menu!"
-msgstr ""
+msgstr "Ласкаво просимо в меню статусу!"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/status/pages/0/content/1 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/status/pages/0/content/1+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/status/pages/0/content/1"
 msgid "......"
-msgstr ""
+msgstr "......"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/status/pages/0/content/2 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/status/pages/0/content/2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/status/pages/0/content/2"
 msgid "This menu gives you a detailed look at all your stats and parameters for all available elements."
-msgstr ""
+msgstr "В цьому меню можна детально переглянути на всі ваші характеристики та параметри для всіх доступних елементів."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/status/pages/0/content/3 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/status/pages/0/content/3+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/status/pages/0/content/3"
 msgid "Use \\i[page-left] and \\i[page-right] to switch through your elements."
-msgstr ""
+msgstr "Використовуйте \\i[page-left] та \\i[page-right], щоб переключатися між елементами."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/status/pages/0/content/4 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/status/pages/0/content/4+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/status/pages/0/content/4"
 msgid "To switch between the different views, use \\i[circle-left] and \\i[circle-right]. Available views are:"
-msgstr ""
+msgstr "Для переключення між різними видами використовуйте \\i[circle-left] та \\i[circle-right]. Доступні види:"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/status/pages/0/content/5 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/status/pages/0/content/5+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/status/pages/0/content/5"
 msgid "!!min=64"
-msgstr ""
+msgstr "!!min=64"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/status/pages/0/content/6 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/status/pages/0/content/6+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/status/pages/0/content/6"
 msgid "--\\c[3]Summary\\c[0]"
-msgstr ""
+msgstr "--\\c[3]Спрощено\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/status/pages/0/content/7 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/status/pages/0/content/7+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/status/pages/0/content/7"
 msgid "--\\c[3]Parameters\\c[0]"
-msgstr ""
+msgstr "--\\c[3]Параметри\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/status/pages/0/content/8 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/status/pages/0/content/8+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/status/pages/0/content/8"
 msgid "--\\c[3]Modifiers\\c[0]"
-msgstr ""
+msgstr "--\\c[3]Модифікатори\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/status/pages/0/content/9 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/status/pages/0/content/9+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/status/pages/0/content/9"
 msgid "--\\c[3]Combat Arts\\c[0]"
-msgstr ""
+msgstr "--\\c[3]Бойові техніки\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/status/pages/0/content/10 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/status/pages/0/content/10+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/status/pages/0/content/10"
 msgid "!!min=-1"
-msgstr ""
+msgstr "!!min=-1"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/status/pages/1/title #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/status/pages/1/title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/status/pages/1/title"
 msgid "\\c[3]Status Menu\\c[0] - Summary"
-msgstr ""
+msgstr "\\c[3]Меню статусу\\c[0] - Спрощено"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/status/pages/1/content/0 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/status/pages/1/content/0+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/status/pages/1/content/0"
 msgid "As the name suggests the summary services as an overview over your equipment and stats."
-msgstr ""
+msgstr "Як випливає з назви, показує спрощену інформацію, включаючи все спорядження та характеристики."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/status/pages/1/content/1 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/status/pages/1/content/1+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/status/pages/1/content/1"
 msgid "...."
-msgstr ""
+msgstr "...."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/status/pages/1/content/2 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/status/pages/1/content/2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/status/pages/1/content/2"
 msgid "The parameters shown on the left are your final parameters for the currently selected element, including equipment and skills."
-msgstr ""
+msgstr "Параметри, показані зліва, є кінцевими параметрами для поточного елемента, включаючи все спорядження та навички."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/status/pages/2/title #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/status/pages/2/title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/status/pages/2/title"
 msgid "\\c[3]Status Menu\\c[0] - Parameters"
-msgstr ""
+msgstr "\\c[3]Меню статусу\\c[0] - Параметри"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/status/pages/2/content/0 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/status/pages/2/content/0+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/status/pages/2/content/0"
 msgid "This views displays your base parameters for the currently selected element."
-msgstr ""
+msgstr "На цьому екрані відображається ваші базові параметри для вибраного наразі елемента."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/status/pages/2/content/1 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/status/pages/2/content/1+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/status/pages/2/content/1"
 msgid "...."
-msgstr ""
+msgstr "...."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/status/pages/2/content/2 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/status/pages/2/content/2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/status/pages/2/content/2"
 msgid "For each parameter you can see how the final value comes together based of the \\c[3]Base Value\\c[0], the \\c[3]Equipment\\c[0] and finally the \\c[3]Skill Additions\\c[0] from the Circuits. The description shows the purpose of each parameter."
-msgstr ""
+msgstr "Для кожного параметра можна побачити, яким чином підсумкове значення складується із \\c[3]стандартного значення\\c[0], \\c[3]спорядження\\c[0] та \\c[3]навичків\\c[0] з контурів. Опис показує значення кожного параметра."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/status/pages/2/content/3 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/status/pages/2/content/3+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/status/pages/2/content/3"
 msgid "To see the absolute values of each step for the final value of a parameter press \\i[help3]."
-msgstr ""
+msgstr "Щоб побачити абсолютне значення параметра на кожному шляху, натисніть \\i[help3]."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/status/pages/3/title #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/status/pages/3/title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/status/pages/3/title"
 msgid "\\c[3]Status Menu\\c[0] - Modifiers"
-msgstr ""
+msgstr "\\c[3]Меню статусу\\c[0] - Модифікатори"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/status/pages/3/content/0 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/status/pages/3/content/0+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/status/pages/3/content/0"
 msgid "This views displays all modifiers from your equipment and the currently selected element."
-msgstr ""
+msgstr "На цьому екрані відображаються всі модифікатори від вашого спорядження та вибраного наразі елемента."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/status/pages/3/content/1 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/status/pages/3/content/1+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/status/pages/3/content/1"
 msgid "...."
-msgstr ""
+msgstr "...."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/status/pages/3/content/2 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/status/pages/3/content/2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/status/pages/3/content/2"
 msgid "For each modifier you can see how the final value comes together based of your \\c[3]Equipment\\c[0] and the \\c[3]Skill Additions\\c[0] from the Circuits. The description shows the function of each modifier."
-msgstr ""
+msgstr "Для кожного модифікатора можна побачити, яким чином підсумкове значення збирається із \\c[3]спорядження\\c[0] та \\c[3]навичків доповнень\\c[0] із схем. Опис показує функції кожного модифікатора."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/status/pages/3/content/3 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/status/pages/3/content/3+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/status/pages/3/content/3"
 msgid "To see the absolute values of each step for the final value of a modifier press \\i[help3]."
-msgstr ""
+msgstr "Щоб побачити абсолютне значення модифікатора на кожному кроці, натисніть \\i[help3]."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/status/pages/4/title #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/status/pages/4/title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/status/pages/4/title"
 msgid "\\c[3]Status Menu\\c[0] - Combat Arts"
-msgstr ""
+msgstr "\\c[3]Меню статусу\\c[0] - Бойові техніки"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/status/pages/4/content/0 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/status/pages/4/content/0+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/status/pages/4/content/0"
 msgid "This views displays all currently active combat arts seperated by type. (\\c[3]Throw\\c[0], \\c[3]Melee\\c[0], \\c[3]Dash\\c[0], \\c[3]Guard\\c[0])"
-msgstr ""
+msgstr "На цьому екрані відображаються, всі активні в цей час бойові техніки, розділені по типу. (\\c[3]кидок\\c[0], \\c[3]ближній бій\\c[0], \\c[3]ривок\\c[0], \\c[3]блок\\c[0])"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/status/pages/4/content/1 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/status/pages/4/content/1+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/status/pages/4/content/1"
 msgid "...."
-msgstr ""
+msgstr "...."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/status/pages/4/content/2 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/status/pages/4/content/2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/status/pages/4/content/2"
 msgid "Next to the name and description, each Art shows how many \\c[3]SP\\c[0] are consumed, the damage modifier and additional effects."
-msgstr ""
+msgstr "Вслід за іменем та описом на кожній техніці написано, скільки \\c[3]SP\\c[0] треба для застосування, а також модифікатор урону та додаткові ефекти."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/status/pages/4/content/3 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/status/pages/4/content/3+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/status/pages/4/content/3"
 msgid "The damage type (displayed as DMG) highlights if the damage is either \\c[3]Melee\\c[0], \\c[3]Ranged\\c[0], \\c[3]Mixed\\c[0] or \\c[3]None\\c[0]."
-msgstr ""
+msgstr "Тип урону (відображається як ТИП) може бути \\c[3]ближній\\c[0], \\c[3]дальній\\c[0], \\c[3]змішаний\\c[0] або \\c[3]ні\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/status/pages/4/content/4 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/status/pages/4/content/4+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/status/pages/4/content/4"
 msgid "...."
-msgstr ""
+msgstr "...."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/status/pages/4/content/5 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/status/pages/4/content/5+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/status/pages/4/content/5"
 msgid "Effects show both the \\c[3]Stun Type\\c[0] and if the Art inflict a status condition. Stun Types can be the following:"
-msgstr ""
+msgstr "Ефекти показують \\c[3]тип оглушення\\c[0] та наносимий технікою статусний ефект. Типи оглушення:"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/status/pages/4/content/6 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/status/pages/4/content/6+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/status/pages/4/content/6"
 msgid "!!min=82"
-msgstr ""
+msgstr "!!min=82"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/status/pages/4/content/7 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/status/pages/4/content/7+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/status/pages/4/content/7"
 msgid "--\\c[3]\\i[status-stun-1]Interrupt\\c[0]:-- These Arts can interrupt enemy attacks."
-msgstr ""
+msgstr "--\\c[3]\\i[status-stun-1]Переривання\\c[0]:-- Ця техніка може переривати атаку противника."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/status/pages/4/content/8 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/status/pages/4/content/8+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/status/pages/4/content/8"
 msgid "--\\c[3]\\i[status-stun-2]Lock\\c[0]:-- These Arts lock enemies in place until its finished."
-msgstr ""
+msgstr "--\\c[3]\\i[status-stun-2]Блокування\\c[0]:-- Ця техніка не дозволяє противникам рухатися до свого закінчиння."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/status/pages/4/content/9 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/status/pages/4/content/9+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/status/pages/4/content/9"
 msgid "!!min=-1"
-msgstr ""
+msgstr "!!min=-1"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/social/title #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/social/title+%230
