@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-08 21:33+0000\n"
-"PO-Revision-Date: 2022-03-24 22:17+0000\n"
+"PO-Revision-Date: 2022-03-25 00:41+0000\n"
 "Last-Translator: Bogdan <bbucko175@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.openkrosskod.org/projects/crosscode/lang/uk/>\n"
 "Language: uk_UA\n"
@@ -9652,37 +9652,37 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/skills/special-types/THROW+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/special-types/THROW"
 msgid "Throw Art"
-msgstr ""
+msgstr "Техніка кидка"
 
 #. data/lang/sc/gui.en_US.json labels/skills/special-types/ATTACK #0
 #: data/lang/sc/gui.en_US.json+labels/skills/special-types/ATTACK+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/special-types/ATTACK"
 msgid "Melee Art"
-msgstr ""
+msgstr "Техніка ближнього бою"
 
 #. data/lang/sc/gui.en_US.json labels/skills/special-types/GUARD #0
 #: data/lang/sc/gui.en_US.json+labels/skills/special-types/GUARD+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/special-types/GUARD"
 msgid "Guard Art"
-msgstr ""
+msgstr "Техніка блоку"
 
 #. data/lang/sc/gui.en_US.json labels/skills/special-types/DASH #0
 #: data/lang/sc/gui.en_US.json+labels/skills/special-types/DASH+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/special-types/DASH"
 msgid "Dash Art"
-msgstr ""
+msgstr "Техніка ривка"
 
 #. data/lang/sc/gui.en_US.json labels/skills/specials/wip/name #0
 #: data/lang/sc/gui.en_US.json+labels/skills/specials/wip/name+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/specials/wip/name"
 msgid "???"
-msgstr ""
+msgstr "???"
 
 #. data/lang/sc/gui.en_US.json labels/skills/specials/wip/desc #0
 #: data/lang/sc/gui.en_US.json+labels/skills/specials/wip/desc+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/specials/wip/desc"
 msgid "\\c[1]Not implemented!"
-msgstr ""
+msgstr "\\c[1]Не реалізовані!"
 
 #. data/lang/sc/gui.en_US.json labels/skills/names/specials/NEUTRAL_THROW_1_A #0
 #: data/lang/sc/gui.en_US.json+labels/skills/names/specials/NEUTRAL_THROW_1_A+%230
@@ -10057,7 +10057,7 @@ msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/MAXHP"
 msgid ""
 "Increases MaxHP by \\c[3][xyz]%\\c[0]. \n"
 "Determines how much HP you can have to survive damage."
-msgstr ""
+msgstr "Збільшує макс. HP на \\c[3][xyz]%\\c[0]. Визначає кількість здоров'я, що дозволяє переживати урон."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/ATK #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/ATK+%230
@@ -10066,6 +10066,8 @@ msgid ""
 "Increases Attack by \\c[3][xyz]%\\c[0]. \n"
 "Increases the damage you can deal with your attacks."
 msgstr ""
+"Збільшує атаку на \\c[3][xyz]%\\c[0]. \n"
+"Збільшує урон від атак."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/DEF #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/DEF+%230
@@ -10074,152 +10076,157 @@ msgid ""
 "Increases Defense by \\c[3][xyz]%\\c[0]. \n"
 "Decreases the damage you take and improves guarding."
 msgstr ""
+"Збільшує захист на \\c[3][xyz]%\\c[0]. \n"
+"Зменшує отримуваний урон та покращує блок."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/FOC #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/FOC+%230
+#, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/FOC"
 msgid ""
 "Increases Focus by \\c[3][xyz]%\\c[0]. \n"
 "Determines frequency of critical hits and status effects, the time window for parry and dash invincibility and your SP Gain."
 msgstr ""
+"Збільшує фокус на \\c[3][xyz]%\\c[0].\n"
+"Впливає на частоту критів та ефективність статусних ефектів, тимчасове вікно для парирування, невразливість при ривку та отримані SP."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/OWN_ELEMENT_RES_HEAT #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/OWN_ELEMENT_RES_HEAT+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/OWN_ELEMENT_RES_HEAT"
 msgid "Increases resistance to Heat by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Збільшує стійкість до Полум'я на \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/COUNTER_ELEMENT_RES_HEAT #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/COUNTER_ELEMENT_RES_HEAT+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/COUNTER_ELEMENT_RES_HEAT"
 msgid "Increases resistance to Cold by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Збільшує стійкість до Холоду на \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/OWN_ELEMENT_RES_COLD #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/OWN_ELEMENT_RES_COLD+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/OWN_ELEMENT_RES_COLD"
 msgid "Increases resistance to Cold by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Збільшує стійкість до Холоду на \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/COUNTER_ELEMENT_RES_COLD #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/COUNTER_ELEMENT_RES_COLD+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/COUNTER_ELEMENT_RES_COLD"
 msgid "Increases resistance to Heat by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Збільшує стійкість до Полум'я на \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/OWN_ELEMENT_RES_SHOCK #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/OWN_ELEMENT_RES_SHOCK+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/OWN_ELEMENT_RES_SHOCK"
 msgid "Increases resistance to Shock by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Збільшує стійкість до Шоку на \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/COUNTER_ELEMENT_RES_SHOCK #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/COUNTER_ELEMENT_RES_SHOCK+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/COUNTER_ELEMENT_RES_SHOCK"
 msgid "Increases resistance to Wave by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Збільшує стійкість до Хвилі на \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/OWN_ELEMENT_RES_WAVE #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/OWN_ELEMENT_RES_WAVE+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/OWN_ELEMENT_RES_WAVE"
 msgid "Increases resistance to Wave by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Збільшує стійкість до Хвилі на \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/COUNTER_ELEMENT_RES_WAVE #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/COUNTER_ELEMENT_RES_WAVE+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/COUNTER_ELEMENT_RES_WAVE"
 msgid "Increases resistance to Shock by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Збільшує стійкість до Шоку на \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/ALL_ELEMENT_RES #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/ALL_ELEMENT_RES+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/ALL_ELEMENT_RES"
 msgid "Increases resistance to all Elements by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Збільшує стійкість до всіх елементів на \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/RANGED_DAMAGE #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/RANGED_DAMAGE+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/RANGED_DAMAGE"
 msgid "Increases the damage of Ranged Attacks by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Збільшує урон далеких атак на \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/CHARGED_KNOCKBACK #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/CHARGED_KNOCKBACK+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/CHARGED_KNOCKBACK"
 msgid "Increases the knockback distance of charged projectiles by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Збільшує дальність відстрибування заряджених снарядів на \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/MELEE_DAMAGE #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/MELEE_DAMAGE+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/MELEE_DAMAGE"
 msgid "Increases the damage of Melee Attacks by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Збільшує урон від атак в ближньому бою на \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/ASSAULT #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/ASSAULT+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/ASSAULT"
 msgid "Melee attacks fire additional small projectiles for \\c[3][xyz]%\\c[0] of the base damage."
-msgstr ""
+msgstr "Атаки ближнього бою стріляють додатковими маленькими снарядами з уроном \\c[3][xyz]%\\c[0] від основного."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/CRITICAL_DAMAGE #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/CRITICAL_DAMAGE+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/CRITICAL_DAMAGE"
 msgid "Increases the damage of Critical Strikes by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Збільшує урон критів на \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/AIMING_SPEED #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/AIMING_SPEED+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/AIMING_SPEED"
 msgid "Decreases time needed to aim by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Скорочує час, необхідне для прицілювання, на \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/AIMING_STABILITY #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/AIMING_STABILITY+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/AIMING_STABILITY"
 msgid "Decreases the loss of aim from quick aim movement and dashes by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Зменшує втрату точності при швидких рухах в прицілювані та ривках на \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/AIMING_MOVEMENT_SPEED #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/AIMING_MOVEMENT_SPEED+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/AIMING_MOVEMENT_SPEED"
 msgid "Increases your movement speed while aiming by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Збільшує швидкість переміщення при прицілювані на \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/DASH_DISTANCE #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/DASH_DISTANCE+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/DASH_DISTANCE"
 msgid "Prolongs the invincibility when dashing by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Продовжує невразливість під час ривка на \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/ADDITIONAL_DASH_STEP #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/ADDITIONAL_DASH_STEP+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/ADDITIONAL_DASH_STEP"
 msgid "Grants \\c[3]one\\c[0] additional dash step."
-msgstr ""
+msgstr "Дає \\c[3]один\\c[0] додатковий ривок."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/GUARD_STRENGTH #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/GUARD_STRENGTH+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/GUARD_STRENGTH"
 msgid "Strengthens your shield and decreases the damage taken when guarding by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Укріплює щит та зменшує урон, який отримується під час блоку, на \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/ADDITIONAL_GUARD_AREA #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/ADDITIONAL_GUARD_AREA+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/ADDITIONAL_GUARD_AREA"
 msgid "Allows to guard against attacks \\c[3]from the side\\c[0]. Activate twice to guard attacks \\c[3]from above\\c[0] too."
-msgstr ""
+msgstr "Позволяє блокувати атаки \\c[3]з блоком\\c[0]. Активуйте двічі, щоб також блокувати атаки \\c[3]зверху\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/ADDITIONAL_GUARD_AREA_2 #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/ADDITIONAL_GUARD_AREA_2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/ADDITIONAL_GUARD_AREA_2"
 msgid "Allows to guard against attacks \\c[3]from above\\c[0]."
-msgstr ""
+msgstr "Дозволяє блокувати атаки \\c[3]зверху\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/STUN_THRESHOLD #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/STUN_THRESHOLD+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/STUN_THRESHOLD"
 msgid "Increases the immunity to knockback from attacks by \\c[3][xyz]%\\c[0], depending on MaxHP."
-msgstr ""
+msgstr "Збільшує імунітет до відштовхування на \\c[3][xyz]%\\c[0], залежить від макс. HP."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/STATUS_CONDITION_EFFECT_HEAT #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/STATUS_CONDITION_EFFECT_HEAT+%230
@@ -10228,6 +10235,8 @@ msgid ""
 "Increases the speed of inflicting the \\c[3]Burn\\c[0] Condition and its effect by \\c[3][xyz]%\\c[0]. \n"
 "\\c[3]Burn\\c[0] causes damage over time, depending on the MaxHP of the victim."
 msgstr ""
+"Збільшує швидкість накладення \\c[3]Горіння\\c[0] та його ефект на \\c[3][xyz]%\\c[0]. \n"
+"\\c[3]Горіння\\c[0] наносить урон поступово, залежить від макс. HP жертви."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/STATUS_CONDITION_EFFECT_COLD #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/STATUS_CONDITION_EFFECT_COLD+%230
@@ -10236,6 +10245,8 @@ msgid ""
 "Increases the speed of inflicting the \\c[3]Chill\\c[0] Condition and its effect by \\c[3][xyz]%\\c[0]. \n"
 "\\c[3]Chill\\c[0] decreases the overall speed of the victim."
 msgstr ""
+"Збільшує швидкість накладення \\c[3]Охолонь\\c[0] та його ефект на \\c[3][xyz]%\\c[0]. \n"
+"\\c[3]Охолонь\\c[0] зменшує швидкість жертви."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/STATUS_CONDITION_EFFECT_SHOCK #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/STATUS_CONDITION_EFFECT_SHOCK+%230
@@ -10244,6 +10255,8 @@ msgid ""
 "Increases the speed of inflicting the \\c[3]Jolt\\c[0] Condition and its effect by \\c[3][xyz]%\\c[0]. \n"
 "\\c[3]Jolt\\c[0] causes damage and stuns in short intervals."
 msgstr ""
+"Збільшує швидкість накладення \\c[3]Потрясіння\\c[0] та його ефект на \\c[3][xyz]%\\c[0].\n"
+"\\c[3]Потрясіння\\c[0] наносить урон та оглушає на короткий проміжок часу."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/STATUS_CONDITION_EFFECT_WAVE #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/STATUS_CONDITION_EFFECT_WAVE+%230
@@ -10252,6 +10265,8 @@ msgid ""
 "Increases the speed of inflicting the \\c[3]Mark\\c[0] Condition and its effect by \\c[3][xyz]%\\c[0]. \n"
 "\\c[3]Mark\\c[0] increases the received ranged damage by 50%."
 msgstr ""
+"Збільшує швидкість накладення \\c[3]Мітки\\c[0] та її ефект на \\c[3][xyz]%\\c[0].\n"
+"\\c[3]Мітка\\c[0] збільшує утримувального дальнього урону на 50%."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/STATUS_CONDITION_GUARD_HEAT #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/STATUS_CONDITION_GUARD_HEAT+%230
@@ -10260,6 +10275,8 @@ msgid ""
 "Increases the resistance against the \\c[3]Burn\\c[0] Condition and reduces its effect by \\c[3][xyz]%\\c[0]. \n"
 "\\c[3]Burn\\c[0] causes damage over time, depending on the MaxHP of the victim."
 msgstr ""
+"Збільшує стійкість \\c[3]Горіння\\c[0] та ослаблює цей ефект на \\c[3][xyz]%\\c[0].\n"
+"\\c[3]Горіння\\c[0] наносить урон поступово, залежить від макс. HP жертви."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/STATUS_CONDITION_GUARD_COLD #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/STATUS_CONDITION_GUARD_COLD+%230
@@ -10268,6 +10285,8 @@ msgid ""
 "Increases the resistance against the \\c[3]Chill\\c[0] Condition and reduces its effect by \\c[3][xyz]%\\c[0]. \n"
 "\\c[3]Chill\\c[0] decreases the overall speed of the victim."
 msgstr ""
+"Збільшує стійкість до \\c[3]Охолонь\\c[0] та ослаблює его ефект на \\c[3][xyz]%\\c[0].\n"
+"\\c[3]Охолонь\\c[0] зменшує швидкість жертви."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/STATUS_CONDITION_GUARD_SHOCK #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/STATUS_CONDITION_GUARD_SHOCK+%230
@@ -10276,6 +10295,8 @@ msgid ""
 "Increases the resistance against the \\c[3]Jolt\\c[0] Condition and reduces its effect by \\c[3][xyz]%\\c[0]. \n"
 "\\c[3]Jolt\\c[0] causes damage and stuns in short intervals."
 msgstr ""
+"Збільшує стійкість до \\c[3]Потрясіння\\c[0] та ослаблює його ефект на \\c[3][xyz]%\\c[0].\n"
+"\\c[3]Потрясіння\\c[0] наносить урон та оглушає на короткий проміжок часу."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/STATUS_CONDITION_GUARD_WAVE #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/STATUS_CONDITION_GUARD_WAVE+%230
@@ -10284,18 +10305,20 @@ msgid ""
 "Increases the resistance against the \\c[3]Mark\\c[0] Condition and reduces its effect by \\c[3][xyz]%\\c[0]. \n"
 "\\c[3]Mark\\c[0] increases the received ranged damage by 50%."
 msgstr ""
+"Збільшує стійкість до \\c[3]Мітки\\c[0] та ослаблює її ефект на \\c[3][xyz]%\\c[0].\n"
+"\\c[3]Мітка\\c[0] збільшує отриманий далекий урон на 50%."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/STATUS_CONDITION_HEALING #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/STATUS_CONDITION_HEALING+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/STATUS_CONDITION_HEALING"
 msgid "Increases the recovery speed from all negative status conditions by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Збільшує швидкість відновлення від всіх негативних ефектів на \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/HP_REGENERATION #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/HP_REGENERATION+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/HP_REGENERATION"
 msgid "Regenerates \\c[3][xyz]%\\c[0] of HP over 60 seconds of combat. Healing frequency increases with higher percentage."
-msgstr ""
+msgstr "Відновлює \\c[3][xyz]%\\c[0] HP за 60 секунд бою. Частота зцілювання виростає зі збільшуванням відсотку."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/OVERHEAT_REDUCTION #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/OVERHEAT_REDUCTION+%230
@@ -10307,55 +10330,56 @@ msgstr "Уповільнює елементальне перевантаженн
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/ITEM_BOOST+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/ITEM_BOOST"
 msgid "Increases the effect of healing and the duration of buffs from items by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Збільшує ефективність лікування та тривалість бафів від предметів на \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/APPETITE #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/APPETITE+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/APPETITE"
 msgid "Unlocks \\c[3]one\\c[0] additional buff slot."
-msgstr ""
+msgstr "Відкриває \\c[3]одну\\c[0] додаткову комірку для бафів."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/SPIKE_DAMAGE #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/SPIKE_DAMAGE+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/SPIKE_DAMAGE"
 msgid "When guarding, reflects \\c[3][xyz]%\\c[0] of the total absorbed damage back on the attacker."
-msgstr ""
+msgstr "Коли є захист \\c[3][xyz]%\\c[0] отриманого урона відображається назад ворогу."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/CROSS_COUNTER #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/CROSS_COUNTER+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/CROSS_COUNTER"
 msgid "Increases damage on enemies that are attacking or charging by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Збільшує урон по атакуючим та зарядженим ворогам на \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/BERSERKER #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/BERSERKER+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/BERSERKER"
 msgid "Increases Damage by \\c[3][xyz]%\\c[0] when at critical HP. (Below 33% of MaxHP)"
-msgstr ""
+msgstr "Збільшує урон на \\c[3][xyz]%\\c[0] якщо у вас дуже мало здоров'я. (Нижче 33% від макс. HP)"
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/BREAK_DMG #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/BREAK_DMG+%230
+#, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/BREAK_DMG"
 msgid "Increases Damage on enemies that are stunned, weak or in break state by \\c[3][xyz]%\\c[0]."
-msgstr ""
+msgstr "Збільшує урон по ворогам в стані Оглушення, ослаблені або пробиті на \\c[3][xyz]%\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/ONCE_MORE #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/ONCE_MORE+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/ONCE_MORE"
 msgid "Survive exactly \\c[3]one attack\\c[0] that would normally kill you."
-msgstr ""
+msgstr "Дозволяє пережити \\c[3]одну летальну атаку\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/GUARD_SP #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/GUARD_SP+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/GUARD_SP"
 msgid "Restores SP on guard based on \\c[3][xyz]%\\c[0] of the attack's power. (\\c[3]Double\\c[0] for perfect guard)"
-msgstr ""
+msgstr "Відновлює SP в блоці, ґрунтуючись на \\c[3][xyz]%\\c[0] від сили атаки. (\\c[3]Подвоюється\\c[0] при ідеальному блоці)"
 
 #. data/lang/sc/gui.en_US.json labels/skills/descriptions/ACTIVE_PLACEHOLDER #0
 #: data/lang/sc/gui.en_US.json+labels/skills/descriptions/ACTIVE_PLACEHOLDER+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/descriptions/ACTIVE_PLACEHOLDER"
 msgid "\\c[3]Placeholder\\c[0] for a Special Attack that can be learned in future versions."
-msgstr ""
+msgstr "\\c[3]Заповнювач\\c[0] для особливої атаки, яку можна буде дослідити в майбутніх версіях гри."
 
 #. data/lang/sc/gui.en_US.json labels/options/headers/sound #0
 #: data/lang/sc/gui.en_US.json+labels/options/headers/sound+%230
