@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-08 21:33+0000\n"
-"PO-Revision-Date: 2022-03-25 21:41+0000\n"
+"PO-Revision-Date: 2022-03-26 15:20+0000\n"
 "Last-Translator: Bogdan <bbucko175@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.openkrosskod.org/projects/crosscode/lang/uk/>\n"
 "Language: uk_UA\n"
@@ -858,7 +858,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/trade/owned+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/owned"
 msgid "(owned)"
-msgstr ""
+msgstr "(в наявності)"
 
 #. data/lang/sc/gui.en_US.json labels/trade/offer #0
 #: data/lang/sc/gui.en_US.json+labels/trade/offer+%230
@@ -2359,7 +2359,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/shop/owned+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shop/owned"
 msgid "Owned"
-msgstr ""
+msgstr "В наявності"
 
 #. data/lang/sc/gui.en_US.json labels/shop/select #0
 #: data/lang/sc/gui.en_US.json+labels/shop/select+%230
@@ -3613,37 +3613,37 @@ msgstr "Спорядження вибраного друга. Вона буде 
 #: data/lang/sc/gui.en_US.json+labels/menu/help/synopsis/titles/objective+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/synopsis/titles/objective"
 msgid "Current Objective"
-msgstr ""
+msgstr "Поточна ціль"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/synopsis/titles/quest #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/synopsis/titles/quest+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/synopsis/titles/quest"
 msgid "Marked Quest"
-msgstr ""
+msgstr "Вибране"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/synopsis/titles/activity #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/synopsis/titles/activity+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/synopsis/titles/activity"
 msgid "Latest Activities"
-msgstr ""
+msgstr "Остання активність"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/synopsis/description/objective #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/synopsis/description/objective+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/synopsis/description/objective"
 msgid "Your current objective. This is tied to your story progress. Check back if you ever get lost."
-msgstr ""
+msgstr "Ваша поточна ціль. Це зв'язано з прогресом вашої історії. Перевірити, якщо ви загубились."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/synopsis/description/quest #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/synopsis/description/quest+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/synopsis/description/quest"
 msgid "Shows the current marked quest and the current task for the quest."
-msgstr ""
+msgstr "Показує поточне помічене завдання та поточну задачу для завдання."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/synopsis/description/activity #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/synopsis/description/activity+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/synopsis/description/activity"
 msgid "Displays your latest activities, such as quest tasks, new encyclopedia entries and more."
-msgstr ""
+msgstr "Відображає вашу останню активність, таку як завдання, нові нотатки в енциклопедії та багато іншого."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/map/titles/chest #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/map/titles/chest+%230
@@ -3721,7 +3721,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/help/trader/description/content+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/trader/description/content"
 msgid "Shows what items are needed to acquire this item. Current owned items are shown in brackets."
-msgstr ""
+msgstr "Показує, які елементи потрібні для покупки цього предмету. Предмети, які є у гравця, відображені в дужках."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/trader/description/money #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/trader/description/money+%230
@@ -4015,7 +4015,7 @@ msgstr "Сортує список за рівнем ворогів."
 #: data/lang/sc/gui.en_US.json+labels/menu/sort/des/unlocked+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/sort/des/unlocked"
 msgid "Sorts the list by unlocked entries. Unlocked Entries are sorted by \\c[3]Auto\\c[0]."
-msgstr "Сортує список послідовно розблокованих записів. Розблоковані записи сортуються \\c[3]автоматично\\c[0]."
+msgstr "Сортує список послідовно розблокованих нотатків. Розблоковані записи сортуються \\c[3]автоматично\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/menu/sort/des/name #0
 #: data/lang/sc/gui.en_US.json+labels/menu/sort/des/name+%230
@@ -5535,85 +5535,85 @@ msgstr "Виберіть слот для переміщення з нього д
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/quests+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/synopsis-menu/quests"
 msgid "Quests"
-msgstr ""
+msgstr "Завдання"
 
 #. data/lang/sc/gui.en_US.json labels/menu/synopsis-menu/map #0
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/map+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/synopsis-menu/map"
 msgid "Map"
-msgstr ""
+msgstr "Мапа"
 
 #. data/lang/sc/gui.en_US.json labels/menu/synopsis-menu/trophies #0
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/trophies+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/synopsis-menu/trophies"
 msgid "Trophies"
-msgstr ""
+msgstr "Трофеї"
 
 #. data/lang/sc/gui.en_US.json labels/menu/synopsis-menu/lore #0
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/lore+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/synopsis-menu/lore"
 msgid "Encyclopedia"
-msgstr ""
+msgstr "Енциклопедія"
 
 #. data/lang/sc/gui.en_US.json labels/menu/synopsis-menu/records #0
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/records+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/synopsis-menu/records"
 msgid "Statistics"
-msgstr ""
+msgstr "Статистика"
 
 #. data/lang/sc/gui.en_US.json labels/menu/synopsis-menu/items #0
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/items+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/synopsis-menu/items"
 msgid "Almanac"
-msgstr ""
+msgstr "Альманах"
 
 #. data/lang/sc/gui.en_US.json labels/menu/synopsis-menu/enemies #0
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/enemies+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/synopsis-menu/enemies"
 msgid "Monster Fibula"
-msgstr ""
+msgstr "Бестіарій"
 
 #. data/lang/sc/gui.en_US.json labels/menu/synopsis-menu/museum #0
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/museum+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/synopsis-menu/museum"
 msgid "Museum"
-msgstr ""
+msgstr "Музей"
 
 #. data/lang/sc/gui.en_US.json labels/menu/synopsis-menu/help #0
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/help+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/synopsis-menu/help"
 msgid "Help"
-msgstr ""
+msgstr "Допомога"
 
 #. data/lang/sc/gui.en_US.json labels/menu/synopsis-menu/trade #0
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/trade+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/synopsis-menu/trade"
 msgid "Trader Book"
-msgstr ""
+msgstr "Книга торгівлі"
 
 #. data/lang/sc/gui.en_US.json labels/menu/synopsis-menu/botanics #0
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/botanics+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/synopsis-menu/botanics"
 msgid "Botanics"
-msgstr ""
+msgstr "Ботаніка"
 
 #. data/lang/sc/gui.en_US.json labels/menu/synopsis-menu/newgame #0
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/newgame+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/synopsis-menu/newgame"
 msgid "New Game Plus"
-msgstr ""
+msgstr "Нова гра +"
 
 #. data/lang/sc/gui.en_US.json labels/menu/synopsis-menu/types/landmark #0
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/types/landmark+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/synopsis-menu/types/landmark"
 msgid "Unlocked Landmark "
-msgstr ""
+msgstr "Розблокований орієнтир "
 
 #. data/lang/sc/gui.en_US.json labels/menu/synopsis-menu/types/trader #0
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/types/trader+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/synopsis-menu/types/trader"
 msgid "Found Trader "
-msgstr ""
+msgstr "Знайдений торговець "
 
 #. data/lang/sc/gui.en_US.json labels/menu/synopsis-menu/types/traderUpdate #0
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/types/traderUpdate+%230
@@ -5625,7 +5625,7 @@ msgstr "Торговиць оновився "
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/types/lm+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/synopsis-menu/types/lm"
 msgid "in "
-msgstr ""
+msgstr "в локації "
 
 #. data/lang/sc/gui.en_US.json labels/menu/synopsis-menu/types/questTask #0
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/types/questTask+%230
@@ -5637,25 +5637,25 @@ msgstr "Завдання оновлені "
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/types/qtm+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/synopsis-menu/types/qtm"
 msgid "Task done: "
-msgstr ""
+msgstr "Задача виконана: "
 
 #. data/lang/sc/gui.en_US.json labels/menu/synopsis-menu/types/questStart #0
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/types/questStart+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/synopsis-menu/types/questStart"
 msgid "Started Quest "
-msgstr ""
+msgstr "Розпочате завдання "
 
 #. data/lang/sc/gui.en_US.json labels/menu/synopsis-menu/types/questFinish #0
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/types/questFinish+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/synopsis-menu/types/questFinish"
 msgid "Solved Quest "
-msgstr ""
+msgstr "Завершене завдання "
 
 #. data/lang/sc/gui.en_US.json labels/menu/synopsis-menu/types/lore #0
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/types/lore+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/synopsis-menu/types/lore"
 msgid "Unlocked Encyclopedia "
-msgstr ""
+msgstr "Розблокована енциклопедія "
 
 #. data/lang/sc/gui.en_US.json labels/menu/synopsis-menu/types/loreUpdated #0
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/types/loreUpdated+%230
@@ -5667,19 +5667,19 @@ msgstr "Енциклопедія оновлена "
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/types/dropCompleted+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/synopsis-menu/types/dropCompleted"
 msgid "Completely Analyzed "
-msgstr ""
+msgstr "Повністю проаналізовано "
 
 #. data/lang/sc/gui.en_US.json labels/menu/synopsis-menu/types/trophy #0
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/types/trophy+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/synopsis-menu/types/trophy"
 msgid "Unlocked Trophy"
-msgstr ""
+msgstr "Розблокований трофей"
 
 #. data/lang/sc/gui.en_US.json labels/menu/synopsis-menu/descriptions/map #0
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/descriptions/map+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/synopsis-menu/descriptions/map"
 msgid "Take a look at your current location and use the Teleport-System."
-msgstr ""
+msgstr "Перегляньте ваше місцеположення та скористайтесь системою телепортації."
 
 #. data/lang/sc/gui.en_US.json labels/menu/synopsis-menu/descriptions/quests #0
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/descriptions/quests+%230
@@ -5691,97 +5691,97 @@ msgstr "Перегляньте всі активні та виконані за�
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/descriptions/lore+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/synopsis-menu/descriptions/lore"
 msgid "View a synopsis of the story so far or read about the lore of the game."
-msgstr ""
+msgstr "Погляньте на короткий огляд історії чи прочитайте лор гри."
 
 #. data/lang/sc/gui.en_US.json labels/menu/synopsis-menu/descriptions/trophies #0
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/descriptions/trophies+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/synopsis-menu/descriptions/trophies"
 msgid "Bask in the glory of your trophies and find new ones to accomplish."
-msgstr ""
+msgstr "Погрійтесь у славі своїх зібраних трофеїв та знайдіть нові."
 
 #. data/lang/sc/gui.en_US.json labels/menu/synopsis-menu/descriptions/records #0
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/descriptions/records+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/synopsis-menu/descriptions/records"
 msgid "Admire a detailed record of your various stats and activities."
-msgstr ""
+msgstr "Помилуйтесь детальним звітом про ваші рідні статистичні дані та активності."
 
 #. data/lang/sc/gui.en_US.json labels/menu/synopsis-menu/descriptions/items #0
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/descriptions/items+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/synopsis-menu/descriptions/items"
 msgid "Here you can find a detailed list of all items and where to find them."
-msgstr ""
+msgstr "Тут можна знайти детальний список всіх предметів та де їх можна знайти."
 
 #. data/lang/sc/gui.en_US.json labels/menu/synopsis-menu/descriptions/trade #0
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/descriptions/trade+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/synopsis-menu/descriptions/trade"
 msgid "Look up the locations and offers of every trader you found so far."
-msgstr ""
+msgstr "Перегляньте місцеперебування та пропозиції всіх знайдених торговців."
 
 #. data/lang/sc/gui.en_US.json labels/menu/synopsis-menu/descriptions/enemies #0
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/descriptions/enemies+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/synopsis-menu/descriptions/enemies"
 msgid "Find detailed information about all the enemies you have come across on your journey."
-msgstr ""
+msgstr "Перегляньте детальну інформацію про всіх ворогів, які ви зустріли під час подорожей."
 
 #. data/lang/sc/gui.en_US.json labels/menu/synopsis-menu/descriptions/museum #0
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/descriptions/museum+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/synopsis-menu/descriptions/museum"
 msgid "Enjoy the things you have unlocked."
-msgstr ""
+msgstr "Насолодіться всіма речами, які ви розблокували."
 
 #. data/lang/sc/gui.en_US.json labels/menu/synopsis-menu/descriptions/help #0
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/descriptions/help+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/synopsis-menu/descriptions/help"
 msgid "Missed a description or a helpful hint? Find it in this section."
-msgstr ""
+msgstr "Пропустили опис чи корисну підказку? Знайдіть їх в цьому розділі."
 
 #. data/lang/sc/gui.en_US.json labels/menu/synopsis-menu/descriptions/botanics #0
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/descriptions/botanics+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/synopsis-menu/descriptions/botanics"
 msgid "Look up all environment objects of CrossWorlds and what kind of items they can drop."
-msgstr ""
+msgstr "Всі об'єкти та предмети CrossWorlds та, що з них може випасти."
 
 #. data/lang/sc/gui.en_US.json labels/menu/synopsis-menu/descriptions/newgame #0
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/descriptions/newgame+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/synopsis-menu/descriptions/newgame"
 msgid "Take a look at the \\c[3]New Game Plus\\c[0] options you have selected."
-msgstr ""
+msgstr "Погляньте на опції \\c[3]Нової гри +\\c[0], які ви вибрали."
 
 #. data/lang/sc/gui.en_US.json labels/menu/synopsis-menu/task #0
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/task+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/synopsis-menu/task"
 msgid "Current Objective"
-msgstr ""
+msgstr "Поточна ціль"
 
 #. data/lang/sc/gui.en_US.json labels/menu/synopsis-menu/log #0
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/log+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/synopsis-menu/log"
 msgid "Activity Log"
-msgstr ""
+msgstr "Журнал подій"
 
 #. data/lang/sc/gui.en_US.json labels/menu/synopsis-menu/notask #0
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/notask+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/synopsis-menu/notask"
 msgid "\\c[1]No Objective\\c[0]"
-msgstr ""
+msgstr "\\c[1]Нема цілі\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/menu/synopsis-menu/favquest #0
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/favquest+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/synopsis-menu/favquest"
 msgid "Current Highlighted Quest"
-msgstr ""
+msgstr "Поточну виділене завдання"
 
 #. data/lang/sc/gui.en_US.json labels/menu/synopsis-menu/noquest #0
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/noquest+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/synopsis-menu/noquest"
 msgid "\\c[1]No Highlighted Quest\\c[0]"
-msgstr ""
+msgstr "\\c[1]Нема виділеного завдання\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/menu/synopsis-menu/achievements #0
 #: data/lang/sc/gui.en_US.json+labels/menu/synopsis-menu/achievements+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/synopsis-menu/achievements"
 msgid "Latest Trophies"
-msgstr ""
+msgstr "Останні трофеї"
 
 #. data/lang/sc/gui.en_US.json labels/menu/quests/firstTask #0
 #: data/lang/sc/gui.en_US.json+labels/menu/quests/firstTask+%230
@@ -8103,7 +8103,7 @@ msgstr "Виділіть використовуючий предмет та на
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/equip/title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/equip/title"
 msgid "\\c[3]Equipment Menu\\c[0]"
-msgstr ""
+msgstr "\\c[3]Меню спорядження\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/equip/pages/0/content/0 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/equip/pages/0/content/0+%230
@@ -8553,19 +8553,19 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/synopsis/pages/0/content/0+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/synopsis/pages/0/content/0"
 msgid "Welcome to the Records Menu!"
-msgstr ""
+msgstr "Ласкаво просимо в меню нотатків!"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/synopsis/pages/0/content/1 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/synopsis/pages/0/content/1+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/synopsis/pages/0/content/1"
 msgid "......"
-msgstr ""
+msgstr "......"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/synopsis/pages/0/content/2 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/synopsis/pages/0/content/2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/synopsis/pages/0/content/2"
 msgid "This menu features a wide array of information about all your quests, stats and achievements!"
-msgstr ""
+msgstr "Це меню містить багато інформації про всіх ваші завдання, статистику та досягнення!"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/synopsis/pages/0/content/3 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/synopsis/pages/0/content/3+%230
@@ -8577,7 +8577,7 @@ msgstr "Зліва ви можете побачити швидке зведен�
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/synopsis/pages/0/content/4+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/synopsis/pages/0/content/4"
 msgid "To see more activities go the \\c[3]Activity Log\\c[0] Tab in the Statistics Menu."
-msgstr ""
+msgstr "Щоб побачити більше подій, перейдіть на вкладку \\c[3]\"Список подій\"\\c[0] в меню статистики."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/quests/title #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/quests/title+%230
@@ -9159,31 +9159,31 @@ msgstr "Додатковий звіт розблокується в ході в�
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/traders/title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/traders/title"
 msgid "\\c[3]Trader Book\\c[0]"
-msgstr ""
+msgstr "\\c[3]Книга торгівлі\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/traders/pages/0/content/0 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/traders/pages/0/content/0+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/traders/pages/0/content/0"
 msgid "Welcome to the Trader Book!"
-msgstr ""
+msgstr "Ласкаво просимо у книгу торгівлі!"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/traders/pages/0/content/1 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/traders/pages/0/content/1+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/traders/pages/0/content/1"
 msgid "......"
-msgstr ""
+msgstr "......"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/traders/pages/0/content/2 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/traders/pages/0/content/2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/traders/pages/0/content/2"
 msgid "This menu offers a log of every trader you met in each area."
-msgstr ""
+msgstr "Це меню містить список всіх пропозицій торговців, яких ви зустрічали."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/traders/pages/0/content/3 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/traders/pages/0/content/3+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/traders/pages/0/content/3"
 msgid "Cycle through the tabs using \\i[circle-left] and \\i[circle-right]."
-msgstr ""
+msgstr "Переключайтесь між вкладками, використовуючи \\i[circle-left] та \\i[circle-right]."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/traders/pages/0/content/4 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/traders/pages/0/content/4+%230
@@ -9195,13 +9195,13 @@ msgstr "Виберіть позицію, щоб побачити, які пре�
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/traders/pages/0/content/5+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/traders/pages/0/content/5"
 msgid "...."
-msgstr ""
+msgstr "...."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/traders/pages/0/content/6 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/traders/pages/0/content/6+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/traders/pages/0/content/6"
 msgid "While the detail view is open you can still switch through tabs and select different items."
-msgstr ""
+msgstr "Поки увімкнений детальний огляд, ви можете переключатися між вкладками та вибирати інші предмети."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/status/title #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/status/title+%230
