@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-29 15:40+0000\n"
-"PO-Revision-Date: 2022-03-31 22:27+0000\n"
+"PO-Revision-Date: 2022-04-02 10:27+0000\n"
 "Last-Translator: Erkishii <erkishii@protonmail.com>\n"
 "Language-Team: Turkish <https://weblate.openkrosskod.org/projects/crosscode/rookie-harbor/tr/>\n"
 "Language: tr_TR\n"
@@ -96,13 +96,13 @@ msgstr "Arayan Merkezi"
 #: data/areas/rookie-harbor.json+floors/2/maps/10/name+%2350
 msgctxt "data/areas/rookie-harbor.json//floors/2/maps/10/name"
 msgid "Rookie Harbor Guard HQ"
-msgstr "Acemi Limani Merkezi Karakolu"
+msgstr "Acemi Limani Karakol Merkezi"
 
 #. data/areas/rookie-harbor.json floors/2/maps/11/name #52
 #: data/areas/rookie-harbor.json+floors/2/maps/11/name+%2352
 msgctxt "data/areas/rookie-harbor.json//floors/2/maps/11/name"
 msgid "Fruits of Autumn HQ"
-msgstr "Sonbaharin Yapraklari Merkez"
+msgstr "Sonbaharin Yapraklari Merkezi"
 
 #. data/areas/rookie-harbor.json floors/2/maps/12/name #53
 #: data/areas/rookie-harbor.json+floors/2/maps/12/name+%2353
@@ -148,6 +148,7 @@ msgstr "Bagirsak Yumrugu"
 
 #. data/areas/rookie-harbor.json floors/2/maps/19/name #152
 #: data/areas/rookie-harbor.json+floors/2/maps/19/name+%23152
+#, fuzzy
 msgctxt "data/areas/rookie-harbor.json//floors/2/maps/19/name"
 msgid "Traders Kontor"
 msgstr "Tuccar Kontoru"
@@ -191,6 +192,9 @@ msgid ""
 "\\i[arrow-e] Falling Exit\n"
 "\\i[arrow-sw] Harbors"
 msgstr ""
+"\\i[arrow-nw] Pasaj Bolgesi  \n"
+"\\i[arrow-e] Asagi Cikis  \n"
+"\\i[arrow-sw] Limanlar"
 
 #. data/maps/rookie-harbor/center.json entities/400/settings/interact/hoverText #1
 #. Prop
@@ -200,6 +204,8 @@ msgid ""
 "\\i[arrow-n] Market Place\n"
 "\\i[arrow-s] Beginners Ark \n"
 msgstr ""
+"\\i[arrow-n] Pazar \n"
+"\\i[arrow-s] Acemiler Kavsagi \n"
 
 #. data/maps/rookie-harbor/center.json entities/401/settings/interact/hoverText #21
 #. Prop
@@ -209,6 +215,8 @@ msgid ""
 "\\i[arrow-n] Market Place\n"
 "\\i[arrow-s] Beginners Ark \n"
 msgstr ""
+"\\i[arrow-n] Pazar \n"
+"\\i[arrow-s] Acemiler Kavsagi \n"
 
 #. data/maps/rookie-harbor/center.json entities/402/settings/interact/hoverText #22
 #. Prop
@@ -218,6 +226,8 @@ msgid ""
 "\\i[arrow-n] Market Place\n"
 "\\i[arrow-s] Beginners Ark \n"
 msgstr ""
+"\\i[arrow-n] Pazar \n"
+"\\i[arrow-s] Acemiler Kavsagi \n"
 
 #. data/maps/rookie-harbor/center.json entities/403/settings/interact/hoverText #23
 #. Prop
@@ -228,6 +238,9 @@ msgid ""
 "\\i[arrow-w] Rising Exit\n"
 "\\i[arrow-se] Harbors"
 msgstr ""
+"\\i[arrow-ne] Pasaj Bolgesi   \n"
+"\\i[arrow-w] Asagi Cikis   \n"
+"\\i[arrow-se] Limanlar"
 
 #. data/maps/rookie-harbor/center.json entities/404/settings/interact/hoverText #24
 #. Prop
@@ -237,6 +250,8 @@ msgid ""
 "\\i[arrow-n] Market Place\n"
 "\\i[arrow-s] Beginners Ark \n"
 msgstr ""
+"\\i[arrow-n] Pazar \n"
+"\\i[arrow-s] Acemiler Kavsagi \n"
 
 #. data/maps/rookie-harbor/center.json entities/405/settings/interact/hoverText #25
 #. Prop
@@ -246,6 +261,8 @@ msgid ""
 "\\i[arrow-n] Market Place\n"
 "\\i[arrow-s] Beginners Ark \n"
 msgstr ""
+"\\i[arrow-n] Pazar \n"
+"\\i[arrow-s] Acemiler Kavsagi \n"
 
 #. data/maps/rookie-harbor/center.json entities/406/settings/interact/hoverText #26
 #. Prop
@@ -255,6 +272,8 @@ msgid ""
 "\\i[arrow-n] Market Place\n"
 "\\i[arrow-s] Beginners Ark \n"
 msgstr ""
+"\\i[arrow-n] Pazar \n"
+"\\i[arrow-s] Acemiler Kavsagi \n"
 
 #. data/maps/rookie-harbor/center.json entities/485/settings/blockEvent/4/message #252
 #. TeleportGround left
@@ -305,7 +324,7 @@ msgstr ""
 #: data/maps/rookie-harbor/center.json+entities/498/settings/npcStates/0/event/2/message+%23400
 msgctxt "data/maps/rookie-harbor/center.json//entities/498/settings/npcStates/0/event/2/message"
 msgid "Hoi!\\.\\. We're not set up yet, but we're giving it our all to deliver the bestest foods as soon as we can!"
-msgstr "Hey!\\.\\. Henuz acilmadik ama size en en iyi yemekleri sunmak icin var gucumuzle calisiyoruz!"
+msgstr "Hey!\\.\\. Henuz acilmadik ama size en çok iyi yemekleri sunmak icin var gucumuzle calisiyoruz!"
 
 #. data/maps/rookie-harbor/center.json entities/498/settings/npcStates/0/event/3/message #401
 #. NPC Trader_Buffs_4
@@ -393,7 +412,7 @@ msgstr "Burayi bularak iyi is cikardin."
 #: data/maps/rookie-harbor/center.json+entities/505/settings/npcStates/0/event/2/thenStep/1/message+%2328
 msgctxt "data/maps/rookie-harbor/center.json//entities/505/settings/npcStates/0/event/2/thenStep/1/message"
 msgid "Did you know that these treasure chests are instanced for each player?"
-msgstr "Biliyor muydun hazine sandiklari herkese ozel olusuyor?"
+msgstr "Hazine sandiklarinin herkese ozel olustugunu biliyor muydun?"
 
 #. data/maps/rookie-harbor/center.json entities/505/settings/npcStates/0/event/2/thenStep/2/message #29
 #. NPC Ark
@@ -618,7 +637,7 @@ msgstr "..."
 #: data/maps/rookie-harbor/center.json+entities/516/settings/npcStates/0/event/3/thenStep/3/message+%2351
 msgctxt "data/maps/rookie-harbor/center.json//entities/516/settings/npcStates/0/event/3/thenStep/3/message"
 msgid "That's not how you become water, my friend."
-msgstr "Boyle su olamazsin arkadasim."
+msgstr "Boyle su olamazsin dostum."
 
 #. data/maps/rookie-harbor/center.json entities/516/settings/npcStates/0/event/3/thenStep/4/message #52
 #. NPC ZenBademeister
@@ -831,7 +850,7 @@ msgstr ""
 #: data/maps/rookie-harbor/center.json+entities/554/settings/npcStates/0/event/quest/9/accepted/0/message+%2377
 msgctxt "data/maps/rookie-harbor/center.json//entities/554/settings/npcStates/0/event/quest/9/accepted/0/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[kafa sallar]"
 
 #. data/maps/rookie-harbor/center.json entities/554/settings/npcStates/0/event/quest/9/accepted/1/message #78
 #. NPC IceCreamDealer
