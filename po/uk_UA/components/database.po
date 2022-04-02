@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-11 15:55+0000\n"
-"PO-Revision-Date: 2022-03-25 20:09+0000\n"
+"PO-Revision-Date: 2022-04-03 11:41+0000\n"
 "Last-Translator: Bogdan <bbucko175@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.openkrosskod.org/projects/crosscode/database/uk/>\n"
 "Language: uk_UA\n"
@@ -19,7 +19,7 @@ msgstr ""
 #: data/database.json+achievements/story-01/name+%2313135
 msgctxt "data/database.json//achievements/story-01/name"
 msgid "Chapter 1 Complete"
-msgstr "Розділ 1 завершино"
+msgstr "Розділ 1 завершено"
 
 #. data/database.json achievements/story-01/description #13136
 #. IF plot.line >= 800
@@ -2641,7 +2641,7 @@ msgstr ""
 #: data/database.json+areas/cargo-ship/name+%23242
 msgctxt "data/database.json//areas/cargo-ship/name"
 msgid "Cargo Ship"
-msgstr ""
+msgstr "Вантажне судно"
 
 #. data/database.json areas/cargo-ship/description #259
 #. IF plot.line >= 15000
@@ -3068,7 +3068,7 @@ msgstr ""
 #: data/database.json+areas/rhombus-dng/name+%23245
 msgctxt "data/database.json//areas/rhombus-dng/name"
 msgid "Rhombus Dungeon"
-msgstr ""
+msgstr "Підземелля Ромбу"
 
 #. data/database.json areas/rhombus-dng/description #261
 #: data/database.json+areas/rhombus-dng/description+%23261
@@ -10798,7 +10798,7 @@ msgstr ""
 #: data/database.json+commonEvents/tutorial-melee-art/event/1/title+%23838
 msgctxt "data/database.json//commonEvents/tutorial-melee-art/event/1/title"
 msgid "Melee Arts"
-msgstr ""
+msgstr "Техніки ближнього бою"
 
 #. data/database.json commonEvents/tutorial-melee-art/event/1/content #839
 #. IF player.artLevel.ATTACK >= 1 && !option.skip-tutorials
@@ -10806,7 +10806,7 @@ msgstr ""
 #: data/database.json+commonEvents/tutorial-melee-art/event/1/content+%23839
 msgctxt "data/database.json//commonEvents/tutorial-melee-art/event/1/content"
 msgid "Learn how to use \\c[3]Melee Arts\\c[0] in combat."
-msgstr ""
+msgstr "Дізнайтесь, як використовувати \\c[3]техніку ближнього бою\\c[0]."
 
 #. data/database.json commonEvents/tutorial-melee-art/event/1/acceptStep/6/text #844
 #. IF player.artLevel.ATTACK >= 1 && !option.skip-tutorials
@@ -10815,7 +10815,7 @@ msgstr ""
 #: data/database.json+commonEvents/tutorial-melee-art/event/1/acceptStep/6/text+%23844
 msgctxt "data/database.json//commonEvents/tutorial-melee-art/event/1/acceptStep/6/text"
 msgid "Press and hold \\i[special] to charge the attack."
-msgstr ""
+msgstr "Натисніть та утримуйте \\i[special], щоб зарядити атаку."
 
 #. data/database.json commonEvents/tutorial-melee-art/event/1/acceptStep/9/text #3307
 #. IF player.artLevel.ATTACK >= 1 && !option.skip-tutorials
@@ -10826,7 +10826,7 @@ msgctxt "data/database.json//commonEvents/tutorial-melee-art/event/1/acceptStep/
 msgid ""
 "You can change your \\c[3]direction\\c[0] while charging.\n"
 "Release \\i[special] again to execute the attack."
-msgstr ""
+msgstr "Ви можете змінити \\c[3]направлення\\c[0] під час заряджання. Відпустіть \\i[special], щоб виконати атаку."
 
 #. data/database.json commonEvents/tutorial-melee-art/event/1/acceptStep/18/text #845
 #. IF player.artLevel.ATTACK >= 1 && !option.skip-tutorials
@@ -10835,7 +10835,7 @@ msgstr ""
 #: data/database.json+commonEvents/tutorial-melee-art/event/1/acceptStep/18/text+%23845
 msgctxt "data/database.json//commonEvents/tutorial-melee-art/event/1/acceptStep/18/text"
 msgid "Repeat?"
-msgstr ""
+msgstr "Повторити?"
 
 #. data/database.json commonEvents/tutorial-melee-art/event/1/acceptStep/18/options/0/label #846
 #. IF player.artLevel.ATTACK >= 1 && !option.skip-tutorials
@@ -10844,7 +10844,7 @@ msgstr ""
 #: data/database.json+commonEvents/tutorial-melee-art/event/1/acceptStep/18/options/0/label+%23846
 msgctxt "data/database.json//commonEvents/tutorial-melee-art/event/1/acceptStep/18/options/0/label"
 msgid "Yes"
-msgstr ""
+msgstr "Так"
 
 #. data/database.json commonEvents/tutorial-melee-art/event/1/acceptStep/18/options/1/label #847
 #. IF player.artLevel.ATTACK >= 1 && !option.skip-tutorials
@@ -10853,7 +10853,7 @@ msgstr ""
 #: data/database.json+commonEvents/tutorial-melee-art/event/1/acceptStep/18/options/1/label+%23847
 msgctxt "data/database.json//commonEvents/tutorial-melee-art/event/1/acceptStep/18/options/1/label"
 msgid "No"
-msgstr ""
+msgstr "Ні"
 
 #. data/database.json commonEvents/tutorial-throw-art/event/1/title #3308
 #. IF player.artLevel.THROW >= 1 && !option.skip-tutorials
@@ -10869,7 +10869,7 @@ msgstr ""
 #: data/database.json+commonEvents/tutorial-throw-art/event/1/content+%233309
 msgctxt "data/database.json//commonEvents/tutorial-throw-art/event/1/content"
 msgid "Learn how to use \\c[3]Throw Arts\\c[0] in combat."
-msgstr ""
+msgstr "Дізнайтесь, як використовувати \\c[3]техніку кидка\\c[0]."
 
 #. data/database.json commonEvents/tutorial-throw-art/event/1/acceptStep/6/text #3310
 #. IF player.artLevel.THROW >= 1 && !option.skip-tutorials
@@ -10948,7 +10948,7 @@ msgstr ""
 #: data/database.json+commonEvents/tutorial-dash-art/event/1/content+%233318
 msgctxt "data/database.json//commonEvents/tutorial-dash-art/event/1/content"
 msgid "Learn how to use \\c[3]Dash Arts\\c[0] in combat."
-msgstr ""
+msgstr "Дізнайтесь, як використовувати \\c[3]техніку ривка\\c[0]."
 
 #. data/database.json commonEvents/tutorial-dash-art/event/1/acceptStep/6/text #3319
 #. IF player.artLevel.DASH >= 1 && !option.skip-tutorials
@@ -11009,7 +11009,7 @@ msgstr ""
 #: data/database.json+commonEvents/tutorial-guard-art/event/1/content+%233326
 msgctxt "data/database.json//commonEvents/tutorial-guard-art/event/1/content"
 msgid "Learn how to use \\c[3]Guard Arts\\c[0] in combat."
-msgstr ""
+msgstr "Дізнайтесь, як використовувати \\c[3]техніку блоку\\c[0]."
 
 #. data/database.json commonEvents/tutorial-guard-art/event/1/acceptStep/6/text #3327
 #. IF player.artLevel.GUARD >= 1 && !option.skip-tutorials
@@ -11079,7 +11079,7 @@ msgstr ""
 #: data/database.json+commonEvents/tutorial-lvl2/event/1/content+%2316133
 msgctxt "data/database.json//commonEvents/tutorial-lvl2/event/1/content"
 msgid "Learn how to use \\c[3]Level 2 Combat Arts\\c[0] in combat."
-msgstr ""
+msgstr "Дізнайтесь, як використовувати \\c[3]бойові техніки 2-го рівня\\c[0] в бою."
 
 #. data/database.json commonEvents/tutorial-lvl2/event/1/acceptStep/7/text #16144
 #. IF player.artLevel.ANY >= 2 && !option.skip-tutorials
@@ -11158,7 +11158,7 @@ msgstr ""
 #: data/database.json+commonEvents/tutorial-lvl3/event/1/content+%2316142
 msgctxt "data/database.json//commonEvents/tutorial-lvl3/event/1/content"
 msgid "Learn how to use \\c[3]Level 3 Combat Arts\\c[0] in combat."
-msgstr ""
+msgstr "Дізнайтесь, як використовувати \\c[3]бойові техніки 3-го рівня\\c[0] в бою."
 
 #. data/database.json commonEvents/tutorial-lvl3/event/1/acceptStep/7/text #16143
 #. IF player.artLevel.ANY >= 3 && !option.skip-tutorials
@@ -27781,7 +27781,7 @@ msgstr ""
 #: data/database.json+enemies/simple-bot/descriptions/0/text+%23-3
 msgctxt "data/database.json//enemies/simple-bot/descriptions/0/text"
 msgid "This small robot is used as part of the official CrossWorlds tutorial. Carla also used this to teach you dodging and interrupting enemy attacks. It won't really do much damage and poses almost no threat. Use it to learn how to pummel enemies!"
-msgstr ""
+msgstr "Цей робот використовується як частина офіційного навчання CrossWorlds. Карла також використовувала його, коли вчила вас ухилятися та переривати атаки ворогів. Він не завдає серйозної шкоди і не становить жодної загрози. Використовуйте його, щоб навчитися бити ворогів!"
 
 #. data/database.json enemies/default/name #53
 #: data/database.json+enemies/default/name+%2353
@@ -30899,7 +30899,7 @@ msgstr ""
 #: data/database.json+lore/rookie-dungeon/title+%23579
 msgctxt "data/database.json//lore/rookie-dungeon/title"
 msgid "Rhombus Dungeon"
-msgstr ""
+msgstr "Підземелля Ромбу"
 
 #. data/database.json lore/rookie-dungeon/content/page-01-01/content #2225
 #: data/database.json+lore/rookie-dungeon/content/page-01-01/content+%232225
