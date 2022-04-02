@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-11 15:55+0000\n"
-"PO-Revision-Date: 2022-04-02 17:14+0000\n"
+"PO-Revision-Date: 2022-04-03 11:41+0000\n"
 "Last-Translator: Bogdan <bbucko175@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.openkrosskod.org/projects/crosscode/rhombus-dng/uk/>\n"
 "Language: uk_UA\n"
@@ -140,7 +140,7 @@ msgstr "Фінальна кімната"
 #: data/maps/rhombus-dng/boss.json+entities/20/settings/event/1/message+%239
 msgctxt "data/maps/rhombus-dng/boss.json//entities/20/settings/event/1/message"
 msgid "Incoming..."
-msgstr ""
+msgstr "А ось і він..."
 
 #. data/maps/rhombus-dng/boss.json entities/20/settings/event/2/message #10
 #. EventTrigger noGoingBack START IF map.wall1
@@ -148,14 +148,14 @@ msgstr ""
 #: data/maps/rhombus-dng/boss.json+entities/20/settings/event/2/message+%2310
 msgctxt "data/maps/rhombus-dng/boss.json//entities/20/settings/event/2/message"
 msgid "...?"
-msgstr ""
+msgstr "...?"
 
 #. data/maps/rhombus-dng/boss.json entities/21/settings/teleportLabel #8
 #. TeleportField teleporter SPAWN IF map.teleporter
 #: data/maps/rhombus-dng/boss.json+entities/21/settings/teleportLabel+%238
 msgctxt "data/maps/rhombus-dng/boss.json//entities/21/settings/teleportLabel"
 msgid "Onwards"
-msgstr ""
+msgstr "Далі"
 
 #. data/maps/rhombus-dng/boss.json entities/22/settings/event/0/thenStep/0/message #13
 #. EventTrigger SergeyPraise START IF map.teleporter && !player.hasLevelUp
@@ -164,7 +164,7 @@ msgstr ""
 #: data/maps/rhombus-dng/boss.json+entities/22/settings/event/0/thenStep/0/message+%2313
 msgctxt "data/maps/rhombus-dng/boss.json//entities/22/settings/event/0/thenStep/0/message"
 msgid "Well, yes...\\. that was about as quick as expected."
-msgstr ""
+msgstr "Ах, ну так...\\. це було так швидко, як й я очікував."
 
 #. data/maps/rhombus-dng/boss.json entities/22/settings/event/0/elseStep/0/message #11
 #. EventTrigger SergeyPraise START IF map.teleporter && !player.hasLevelUp
@@ -173,7 +173,7 @@ msgstr ""
 #: data/maps/rhombus-dng/boss.json+entities/22/settings/event/0/elseStep/0/message+%2311
 msgctxt "data/maps/rhombus-dng/boss.json//entities/22/settings/event/0/elseStep/0/message"
 msgid "Nice work, you did great!"
-msgstr ""
+msgstr "Гарна робота, ти чудово впоралася!"
 
 #. data/maps/rhombus-dng/boss.json entities/22/settings/event/1/message #12
 #. EventTrigger SergeyPraise START IF map.teleporter && !player.hasLevelUp
@@ -181,7 +181,7 @@ msgstr ""
 #: data/maps/rhombus-dng/boss.json+entities/22/settings/event/1/message+%2312
 msgctxt "data/maps/rhombus-dng/boss.json//entities/22/settings/event/1/message"
 msgid "...!"
-msgstr ""
+msgstr "...!"
 
 #. data/maps/rhombus-dng/entrance.json entities/6/settings/event/7/text #1
 #. EventTrigger intro START IF true
@@ -205,7 +205,7 @@ msgstr "Оу, вони додали привітання. Дуже гостин�
 #: data/maps/rhombus-dng/entrance.json+entities/6/settings/event/21/message+%233
 msgctxt "data/maps/rhombus-dng/entrance.json//entities/6/settings/event/21/message"
 msgid "Are you looking for that redhead pentafist from before?"
-msgstr "Ти шукаєш ту рудоволосий дівчину-пентафіста?"
+msgstr "Ти шукаєш ту рудоволоce дівчину-пентафіста?"
 
 #. data/maps/rhombus-dng/entrance.json entities/6/settings/event/22/message #5
 #. EventTrigger intro START IF true
@@ -277,14 +277,14 @@ msgstr "...!"
 #: data/maps/rhombus-dng/room-1-6.json+entities/2/settings/event/36/object+%231
 msgctxt "data/maps/rhombus-dng/room-1-6.json//entities/2/settings/event/36/object"
 msgid "Quick Menu"
-msgstr ""
+msgstr "Швидке меню"
 
 #. data/maps/rhombus-dng/room-1-6.json entities/37/settings/teleportLabel #2
 #. TeleportField end
 #: data/maps/rhombus-dng/room-1-6.json+entities/37/settings/teleportLabel+%232
 msgctxt "data/maps/rhombus-dng/room-1-6.json//entities/37/settings/teleportLabel"
 msgid "Next Level"
-msgstr ""
+msgstr "Наступний рівень"
 
 #. data/maps/rhombus-dng/room-1-6.json entities/42/settings/event/5/thenStep/0/text #53
 #. EventTrigger QUICK MENU START IF tmp.tutorialQuick
@@ -293,7 +293,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-1-6.json+entities/42/settings/event/5/thenStep/0/text+%2353
 msgctxt "data/maps/rhombus-dng/room-1-6.json//entities/42/settings/event/5/thenStep/0/text"
 msgid "Press \\i[quick] to open the \\c[3]quickmenu\\c[0]."
-msgstr ""
+msgstr "Натисніть \\i[quick], щоб відкрити \\c[3]швидке меню\\c[0]."
 
 #. data/maps/rhombus-dng/room-1-6.json entities/42/settings/event/5/elseStep/0/text #57
 #. EventTrigger QUICK MENU START IF tmp.tutorialQuick
@@ -302,7 +302,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-1-6.json+entities/42/settings/event/5/elseStep/0/text+%2357
 msgctxt "data/maps/rhombus-dng/room-1-6.json//entities/42/settings/event/5/elseStep/0/text"
 msgid "Press and hold \\i[quick] to open the \\c[3]quickmenu\\c[0]."
-msgstr ""
+msgstr "Натисніть та утримуйте \\i[quick], щоб відкрити \\c[3]швидке меню\\c[0]."
 
 #. data/maps/rhombus-dng/room-1-6.json entities/42/settings/event/7/text #54
 #. EventTrigger QUICK MENU START IF tmp.tutorialQuick
@@ -310,7 +310,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-1-6.json+entities/42/settings/event/7/text+%2354
 msgctxt "data/maps/rhombus-dng/room-1-6.json//entities/42/settings/event/7/text"
 msgid "Consume \\c[3]items\\c[0]"
-msgstr ""
+msgstr "Використовуйте \\c[3]розхідники\\c[0]"
 
 #. data/maps/rhombus-dng/room-1-6.json entities/42/settings/event/9/text #55
 #. EventTrigger QUICK MENU START IF tmp.tutorialQuick
@@ -318,7 +318,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-1-6.json+entities/42/settings/event/9/text+%2355
 msgctxt "data/maps/rhombus-dng/room-1-6.json//entities/42/settings/event/9/text"
 msgid "Open the \\c[3]map\\c[0]"
-msgstr ""
+msgstr "Відкрийте\\c[3]мапу\\c[0]"
 
 #. data/maps/rhombus-dng/room-1-6.json entities/42/settings/event/11/text #56
 #. EventTrigger QUICK MENU START IF tmp.tutorialQuick
@@ -326,7 +326,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-1-6.json+entities/42/settings/event/11/text+%2356
 msgctxt "data/maps/rhombus-dng/room-1-6.json//entities/42/settings/event/11/text"
 msgid "Inspect the \\c[3]environment\\c[0]"
-msgstr ""
+msgstr "Досліджуйте \\c[3]оточення\\c[0]"
 
 #. data/maps/rhombus-dng/room-1-6.json entities/44/settings/text #58
 #. Analyzable SPAWN IF !map.chestOpen1 && map.chests
@@ -362,7 +362,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-1.json+entities/10/settings/event/0/message+%231
 msgctxt "data/maps/rhombus-dng/room-1.json//entities/10/settings/event/0/message"
 msgid "Alright, Lea... I will be gone for a couple of minutes."
-msgstr ""
+msgstr "Гаразд, Лія... Мене не буде пару хвилин."
 
 #. data/maps/rhombus-dng/room-1.json entities/10/settings/event/1/message #2
 #. EventTrigger EventTrigger START IF map.sergeyAway
@@ -370,7 +370,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-1.json+entities/10/settings/event/1/message+%232
 msgctxt "data/maps/rhombus-dng/room-1.json//entities/10/settings/event/1/message"
 msgid "I will contact Jet and Carla, and try to investigate that blue individual."
-msgstr ""
+msgstr "Я зв'яжуся з Джетом та Карлою, спробую дізнатися щось про синього хлопця."
 
 #. data/maps/rhombus-dng/room-1.json entities/10/settings/event/2/message #3
 #. EventTrigger EventTrigger START IF map.sergeyAway
@@ -378,7 +378,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-1.json+entities/10/settings/event/2/message+%233
 msgctxt "data/maps/rhombus-dng/room-1.json//entities/10/settings/event/2/message"
 msgid "I am sure you will be fine by yourself. See you later!"
-msgstr ""
+msgstr "Впевнений, що ти сама впораєшся. Побачимося пізніше!"
 
 #. data/maps/rhombus-dng/room-1.json entities/10/settings/event/3/message #4
 #. EventTrigger EventTrigger START IF map.sergeyAway
@@ -386,7 +386,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-1.json+entities/10/settings/event/3/message+%234
 msgctxt "data/maps/rhombus-dng/room-1.json//entities/10/settings/event/3/message"
 msgid "...Hi."
-msgstr ""
+msgstr "...Привіт."
 
 #. data/maps/rhombus-dng/room-1.json entities/10/settings/event/4/message #5
 #. EventTrigger EventTrigger START IF map.sergeyAway
@@ -394,7 +394,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-1.json+entities/10/settings/event/4/message+%235
 msgctxt "data/maps/rhombus-dng/room-1.json//entities/10/settings/event/4/message"
 msgid "...I really have to work on your vocabulary."
-msgstr ""
+msgstr "...Мені справді треба попрацювати над твоїм словниковим запасом."
 
 #. data/maps/rhombus-dng/room-1.json entities/10/settings/event/5/message #6
 #. EventTrigger EventTrigger START IF map.sergeyAway
@@ -402,21 +402,21 @@ msgstr ""
 #: data/maps/rhombus-dng/room-1.json+entities/10/settings/event/5/message+%236
 msgctxt "data/maps/rhombus-dng/room-1.json//entities/10/settings/event/5/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[киває]"
 
 #. data/maps/rhombus-dng/room-2.json entities/0/settings/teleportLabel #1
 #. TeleportField door-east1
 #: data/maps/rhombus-dng/room-2.json+entities/0/settings/teleportLabel+%231
 msgctxt "data/maps/rhombus-dng/room-2.json//entities/0/settings/teleportLabel"
 msgid "Previous Level"
-msgstr ""
+msgstr "Попередній рівень"
 
 #. data/maps/rhombus-dng/room-2.json entities/36/settings/teleportLabel #2
 #. TeleportField door-west1
 #: data/maps/rhombus-dng/room-2.json+entities/36/settings/teleportLabel+%232
 msgctxt "data/maps/rhombus-dng/room-2.json//entities/36/settings/teleportLabel"
 msgid "Next Level"
-msgstr ""
+msgstr "Наступний рівень"
 
 #. data/maps/rhombus-dng/room-4.json entities/2/settings/event/11/task #1
 #. EventTrigger fight-start START IF tmp.fight
@@ -465,7 +465,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-5-newer.json+entities/2/settings/event/36/object+%231
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/2/settings/event/36/object"
 msgid "Character Menu"
-msgstr ""
+msgstr "Меню персонажа"
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/2/settings/event/37/task #60
 #. EventTrigger Upgrade START IF map.startUpgrade
@@ -473,14 +473,14 @@ msgstr ""
 #: data/maps/rhombus-dng/room-5-newer.json+entities/2/settings/event/37/task+%2360
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/2/settings/event/37/task"
 msgid "Complete the final dungeon of \\c[3]Newcomer's Bridge\\c[0]."
-msgstr ""
+msgstr "Завершіть фінальне підземелля \\c[3]Мусту новачків\\c[0]."
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/24/settings/teleportLabel #2
 #. TeleportField start
 #: data/maps/rhombus-dng/room-5-newer.json+entities/24/settings/teleportLabel+%232
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/24/settings/teleportLabel"
 msgid "Previous Level"
-msgstr ""
+msgstr "Попередній рівень"
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/31/settings/event/1/thenStep/0/guiInfo/settings/text #3
 #. EventTrigger Equip Notification START IF map.headGet ||  map.armsGet ||  map.beltGet ||  map.feetGet
@@ -493,6 +493,8 @@ msgid ""
 "Press \\i[menu] to open the menu.\n"
 "Select \\c[3]equipment\\c[0] to equip the new items."
 msgstr ""
+"Натисніть \\i[menu], щоб відкрити меню.\n"
+"Виберіть \\c[3]спорядження\\c[0], щоб одягнути нові предмети."
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/40/settings/event/0/thenStep/0/message #29
 #. EventTrigger Wave 2 START IF map.wave1 && map.enemyCount == 10
@@ -501,35 +503,35 @@ msgstr ""
 #: data/maps/rhombus-dng/room-5-newer.json+entities/40/settings/event/0/thenStep/0/message+%2329
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/40/settings/event/0/thenStep/0/message"
 msgid "Oh...\\. Right. Enemies start to give EXP at this point."
-msgstr ""
+msgstr "Ох...\\. Точно. З цього моменту за вбивство ворога дають досвід."
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/46/settings/interact/hoverText #4
 #. Prop armsSign SPAWN IF map.armsGet && !map.armsEquipped
 #: data/maps/rhombus-dng/room-5-newer.json+entities/46/settings/interact/hoverText+%234
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/46/settings/interact/hoverText"
 msgid "Equip Rookieblades"
-msgstr ""
+msgstr "Одягніть Мечі новачка"
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/47/settings/interact/hoverText #5
 #. Prop headSign SPAWN IF map.headGet && !map.headEquiped
 #: data/maps/rhombus-dng/room-5-newer.json+entities/47/settings/interact/hoverText+%235
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/47/settings/interact/hoverText"
 msgid "Equip Rookiehat"
-msgstr ""
+msgstr "Одягніть Шапку новачка"
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/50/settings/interact/hoverText #6
 #. Prop beltSign SPAWN IF map.beltGet && !map.beltEquipped
 #: data/maps/rhombus-dng/room-5-newer.json+entities/50/settings/interact/hoverText+%236
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/50/settings/interact/hoverText"
 msgid "Equip Rookiebelt"
-msgstr ""
+msgstr "Одягніть Пояс новачка"
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/51/settings/interact/hoverText #7
 #. Prop feetSign SPAWN IF map.feetGet && !map.feetEquipped
 #: data/maps/rhombus-dng/room-5-newer.json+entities/51/settings/interact/hoverText+%237
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/51/settings/interact/hoverText"
 msgid "Equip Rookieboots"
-msgstr ""
+msgstr "Одягніть Чоботи новачка"
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/54/settings/event/5/message #8
 #. EventTrigger Start
@@ -537,7 +539,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-5-newer.json+entities/54/settings/event/5/message+%238
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/54/settings/event/5/message"
 msgid "I am back!"
-msgstr ""
+msgstr "Я повернувся!"
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/54/settings/event/7/message #28
 #. EventTrigger Start
@@ -545,7 +547,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-5-newer.json+entities/54/settings/event/7/message+%2328
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/54/settings/event/7/message"
 msgid "Hi!"
-msgstr ""
+msgstr "Привіт!"
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/54/settings/event/9/message #10
 #. EventTrigger Start
@@ -553,7 +555,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-5-newer.json+entities/54/settings/event/9/message+%2310
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/54/settings/event/9/message"
 msgid "Greetings from Jet and Carla.\\. Everything is back to normal on the M.S. Solar."
-msgstr ""
+msgstr "Передаю привіт від Джета та Карли.\\. На M.S. Solar все повернулося до норми."
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/54/settings/event/10/message #11
 #. EventTrigger Start
@@ -561,7 +563,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-5-newer.json+entities/54/settings/event/10/message+%2311
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/54/settings/event/10/message"
 msgid "There are no traces left of that blue individual."
-msgstr ""
+msgstr "Від того синього хлопця не залишилося жодних слідів."
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/54/settings/event/11/message #12
 #. EventTrigger Start
@@ -569,7 +571,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-5-newer.json+entities/54/settings/event/11/message+%2312
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/54/settings/event/11/message"
 msgid "...!"
-msgstr ""
+msgstr "...!"
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/54/settings/event/12/message #13
 #. EventTrigger Start
@@ -577,7 +579,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-5-newer.json+entities/54/settings/event/12/message+%2313
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/54/settings/event/12/message"
 msgid "I also tried to find some information about him, but there is nothing."
-msgstr ""
+msgstr "Я також спробував знайти про нього хоч якусь інформацію, але нічого."
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/54/settings/event/13/message #14
 #. EventTrigger Start
@@ -585,7 +587,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-5-newer.json+entities/54/settings/event/13/message+%2314
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/54/settings/event/13/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/54/settings/event/14/message #15
 #. EventTrigger Start
@@ -593,7 +595,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-5-newer.json+entities/54/settings/event/14/message+%2315
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/54/settings/event/14/message"
 msgid "We can be pretty certain that he is not connected to the official game."
-msgstr ""
+msgstr "Ми можемо бути впевнені, що він не пов'язаний із офіційною грою."
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/54/settings/event/15/message #16
 #. EventTrigger Start
@@ -601,7 +603,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-5-newer.json+entities/54/settings/event/15/message+%2316
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/54/settings/event/15/message"
 msgid "I just cannot imagine a regular player leaving CrossWorlds and going on a rampage like this."
-msgstr ""
+msgstr "Я не можу уявити, що звичайний гравець залишив CrossWorlds і почав так буяти."
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/54/settings/event/16/message #17
 #. EventTrigger Start
@@ -609,7 +611,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-5-newer.json+entities/54/settings/event/16/message+%2317
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/54/settings/event/16/message"
 msgid "Something very strange is going on here."
-msgstr ""
+msgstr "Тут відбувається щось дуже дивне."
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/54/settings/event/17/message #18
 #. EventTrigger Start
@@ -617,7 +619,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-5-newer.json+entities/54/settings/event/17/message+%2318
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/54/settings/event/17/message"
 msgid "...\\. Not to mention that he recognized you."
-msgstr ""
+msgstr "...\\.Не говорячи про те, що він тебе впізнав."
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/54/settings/event/18/message #19
 #. EventTrigger Start
@@ -625,7 +627,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-5-newer.json+entities/54/settings/event/18/message+%2319
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/54/settings/event/18/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/54/settings/event/19/message #20
 #. EventTrigger Start
@@ -633,7 +635,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-5-newer.json+entities/54/settings/event/19/message+%2320
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/54/settings/event/19/message"
 msgid "Your memory might, in fact, contain some answers to all of this."
-msgstr ""
+msgstr "Насправді твоя пам'ять може містити деякі відповіді на все це."
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/54/settings/event/20/message #21
 #. EventTrigger Start
@@ -641,7 +643,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-5-newer.json+entities/54/settings/event/20/message+%2321
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/54/settings/event/20/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/54/settings/event/21/message #22
 #. EventTrigger Start
@@ -649,7 +651,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-5-newer.json+entities/54/settings/event/21/message+%2322
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/54/settings/event/21/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/54/settings/event/23/message #23
 #. EventTrigger Start
@@ -657,7 +659,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-5-newer.json+entities/54/settings/event/23/message+%2323
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/54/settings/event/23/message"
 msgid "Anyway, there is no need to worry about this right now."
-msgstr ""
+msgstr "У будь-якому випадку, немає потреби турбуватися про це прямо зараз."
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/54/settings/event/24/message #24
 #. EventTrigger Start
@@ -665,7 +667,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-5-newer.json+entities/54/settings/event/24/message+%2324
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/54/settings/event/24/message"
 msgid "Our goal is simply to play CrossWorlds!"
-msgstr ""
+msgstr "Наша мета – просто грати в CrossWorlds!"
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/54/settings/event/25/message #27
 #. EventTrigger Start
@@ -673,7 +675,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-5-newer.json+entities/54/settings/event/25/message+%2327
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/54/settings/event/25/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[киває]"
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/54/settings/event/26/message #25
 #. EventTrigger Start
@@ -681,7 +683,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-5-newer.json+entities/54/settings/event/26/message+%2325
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/54/settings/event/26/message"
 msgid "And I see you've made a lot of progress already!"
-msgstr ""
+msgstr "І я бачу, що ти вже досягла великого прогресу!"
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/54/settings/event/27/message #26
 #. EventTrigger Start
@@ -689,7 +691,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-5-newer.json+entities/54/settings/event/27/message+%2326
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/54/settings/event/27/message"
 msgid "So...\\. onwards!"
-msgstr ""
+msgstr "І так...\\. вперед!"
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/69/settings/event/0/thenStep/0/message #30
 #. EventTrigger SergeyComment START IF map.postDone && !player.hasLevelUp
@@ -698,7 +700,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-5-newer.json+entities/69/settings/event/0/thenStep/0/message+%2330
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/69/settings/event/0/thenStep/0/message"
 msgid "You already reached level 3?\\. That is strange. "
-msgstr ""
+msgstr "Ти вже досягла третього рівня?\\. Це дивно. "
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/69/settings/event/0/thenStep/1/message #31
 #. EventTrigger SergeyComment START IF map.postDone && !player.hasLevelUp
@@ -707,7 +709,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-5-newer.json+entities/69/settings/event/0/thenStep/1/message+%2331
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/69/settings/event/0/thenStep/1/message"
 msgid "I thought you were supposed to reach level 2 at this point."
-msgstr ""
+msgstr "Мені здавалося, що до цього моменту ти мала досягти лише другого."
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/69/settings/event/0/thenStep/2/message #32
 #. EventTrigger SergeyComment START IF map.postDone && !player.hasLevelUp
@@ -716,7 +718,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-5-newer.json+entities/69/settings/event/0/thenStep/2/message+%2332
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/69/settings/event/0/thenStep/2/message"
 msgid "I suppose they may have added more enemies..."
-msgstr ""
+msgstr "Гадаю, вони могли додати більше ворогів."
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/70/settings/event/4/text #57
 #. EventTrigger EQUIP MENU TUTORIAL START IF tmp.tutorialEquip
@@ -724,7 +726,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-5-newer.json+entities/70/settings/event/4/text+%2357
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/70/settings/event/4/text"
 msgid "Press \\i[menu] to open the \\c[3]character menu\\c[0]"
-msgstr ""
+msgstr "Натисніть \\i[menu], щоб відкрити \\c[3]меню персонажа\\c[0]"
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/70/settings/event/6/text #58
 #. EventTrigger EQUIP MENU TUTORIAL START IF tmp.tutorialEquip
@@ -732,7 +734,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-5-newer.json+entities/70/settings/event/6/text+%2358
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/70/settings/event/6/text"
 msgid "Check your \\c[3]inventory\\c[0] and select \\c[3]favorite items\\c[0]."
-msgstr ""
+msgstr "Перевірте свій \\c[3]інвентар\\c[0] та виберіть \\c[3]улюблені предмети\\c[0]."
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/70/settings/event/8/text #59
 #. EventTrigger EQUIP MENU TUTORIAL START IF tmp.tutorialEquip
@@ -740,7 +742,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-5-newer.json+entities/70/settings/event/8/text+%2359
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/70/settings/event/8/text"
 msgid "\\c[3]Equip items\\c[0] to prepare yourself for battle."
-msgstr ""
+msgstr "\\c[3]Одягайте предмети\\c[0], щоб підготувати себе до бою."
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/71/settings/event/10/thenStep/0/message #61
 #. EventTrigger UpgradePOST START IF map.upgradePost
@@ -777,7 +779,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-5-newer.json+entities/71/settings/event/10/thenStep/3/thenStep/0/message+%2364
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/71/settings/event/10/thenStep/3/thenStep/0/message"
 msgid "Oh no, you have all kinds of \\c[1]equipment\\c[0], too!!"
-msgstr ""
+msgstr "О ні, ще й купа \\c[1]спорядження\\c[0]!!"
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/71/settings/event/10/thenStep/3/thenStep/1/message #65
 #. EventTrigger UpgradePOST START IF map.upgradePost
@@ -825,14 +827,14 @@ msgstr ""
 #: data/maps/rhombus-dng/room-final.json+entities/13/settings/event/34/object+%231
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/13/settings/event/34/object"
 msgid "Circuit"
-msgstr ""
+msgstr "Контури"
 
 #. data/maps/rhombus-dng/room-final.json entities/28/settings/teleportLabel #3
 #. TeleportField end
 #: data/maps/rhombus-dng/room-final.json+entities/28/settings/teleportLabel+%233
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/28/settings/teleportLabel"
 msgid "Exit"
-msgstr ""
+msgstr "Вихід"
 
 #. data/maps/rhombus-dng/room-final.json entities/38/settings/event/1/message #4
 #. EventTrigger OnEnter
@@ -840,7 +842,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-final.json+entities/38/settings/event/1/message+%234
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/38/settings/event/1/message"
 msgid "Ready for one big upgrade?"
-msgstr ""
+msgstr "Готова до великого оновлення?"
 
 #. data/maps/rhombus-dng/room-final.json entities/38/settings/event/2/message #5
 #. EventTrigger OnEnter
@@ -848,7 +850,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-final.json+entities/38/settings/event/2/message+%235
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/38/settings/event/2/message"
 msgid "...?"
-msgstr ""
+msgstr "...?"
 
 #. data/maps/rhombus-dng/room-final.json entities/40/settings/event/3/message #6
 #. EventTrigger AlmostOut START IF map.almostOut
@@ -856,7 +858,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-final.json+entities/40/settings/event/3/message+%236
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/40/settings/event/3/message"
 msgid "Lea, please wait a second."
-msgstr ""
+msgstr "Ліє, будь ласка, зачекай секунду."
 
 #. data/maps/rhombus-dng/room-final.json entities/40/settings/event/4/message #7
 #. EventTrigger AlmostOut START IF map.almostOut
@@ -864,7 +866,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-final.json+entities/40/settings/event/4/message+%237
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/40/settings/event/4/message"
 msgid "I have a little upgrade for you, as well!"
-msgstr ""
+msgstr "Я теж приготував невелике покращення для тебе!"
 
 #. data/maps/rhombus-dng/room-final.json entities/40/settings/event/5/message #8
 #. EventTrigger AlmostOut START IF map.almostOut
@@ -872,7 +874,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-final.json+entities/40/settings/event/5/message+%238
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/40/settings/event/5/message"
 msgid "...?"
-msgstr ""
+msgstr "...?"
 
 #. data/maps/rhombus-dng/room-final.json entities/40/settings/event/6/message #9
 #. EventTrigger AlmostOut START IF map.almostOut
@@ -880,7 +882,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-final.json+entities/40/settings/event/6/message+%239
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/40/settings/event/6/message"
 msgid "I finally managed to add another word to your vocabulary."
-msgstr ""
+msgstr "Мені нарешті вдалося додати ще одне слово у твій словниковий запас."
 
 #. data/maps/rhombus-dng/room-final.json entities/40/settings/event/7/message #10
 #. EventTrigger AlmostOut START IF map.almostOut
@@ -888,7 +890,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-final.json+entities/40/settings/event/7/message+%2310
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/40/settings/event/7/message"
 msgid "...!"
-msgstr ""
+msgstr "...!"
 
 #. data/maps/rhombus-dng/room-final.json entities/40/settings/event/8/message #11
 #. EventTrigger AlmostOut START IF map.almostOut
@@ -896,7 +898,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-final.json+entities/40/settings/event/8/message+%2311
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/40/settings/event/8/message"
 msgid "Well, you know how it is.\\. No shiny effects from me.\\. Just the upgrade."
-msgstr ""
+msgstr "Ну, ти знаєш, як це.\\. У мене, звісно, без яскравих ефектів..\\ Просто покращення."
 
 #. data/maps/rhombus-dng/room-final.json entities/40/settings/event/9/message #12
 #. EventTrigger AlmostOut START IF map.almostOut
@@ -904,7 +906,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-final.json+entities/40/settings/event/9/message+%2312
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/40/settings/event/9/message"
 msgid "Here goes!"
-msgstr ""
+msgstr "Ось воно!"
 
 #. data/maps/rhombus-dng/room-final.json entities/40/settings/event/12/object #112
 #. EventTrigger AlmostOut START IF map.almostOut
@@ -912,7 +914,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-final.json+entities/40/settings/event/12/object+%23112
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/40/settings/event/12/object"
 msgid "Lea"
-msgstr ""
+msgstr "Лія"
 
 #. data/maps/rhombus-dng/room-final.json entities/40/settings/event/16/message #113
 #. EventTrigger AlmostOut START IF map.almostOut
@@ -920,7 +922,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-final.json+entities/40/settings/event/16/message+%23113
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/40/settings/event/16/message"
 msgid "...Lea?"
-msgstr ""
+msgstr "...Лія?"
 
 #. data/maps/rhombus-dng/room-final.json entities/40/settings/event/17/message #114
 #. EventTrigger AlmostOut START IF map.almostOut
@@ -928,7 +930,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-final.json+entities/40/settings/event/17/message+%23114
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/40/settings/event/17/message"
 msgid "I think you will need this one, since I will not be able to introduce you to other people anymore."
-msgstr ""
+msgstr "Я думаю, що воно тобі знадобиться, бо я більше не зможу тебе знайомити з іншими людьми."
 
 #. data/maps/rhombus-dng/room-final.json entities/40/settings/event/18/message #115
 #. EventTrigger AlmostOut START IF map.almostOut
@@ -936,7 +938,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-final.json+entities/40/settings/event/18/message+%23115
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/40/settings/event/18/message"
 msgid "...Lea. Hi."
-msgstr ""
+msgstr "...Лія. Привіт."
 
 #. data/maps/rhombus-dng/room-final.json entities/40/settings/event/19/message #116
 #. EventTrigger AlmostOut START IF map.almostOut
@@ -944,7 +946,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-final.json+entities/40/settings/event/19/message+%23116
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/40/settings/event/19/message"
 msgid "Hi, Hi, Lea."
-msgstr ""
+msgstr "Привіт, Привіт, Лія."
 
 #. data/maps/rhombus-dng/room-final.json entities/40/settings/event/20/message #117
 #. EventTrigger AlmostOut START IF map.almostOut
@@ -952,7 +954,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-final.json+entities/40/settings/event/20/message+%23117
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/40/settings/event/20/message"
 msgid "Hi, Lea, Hi."
-msgstr ""
+msgstr "Привіт, ЛІя, Привіт."
 
 #. data/maps/rhombus-dng/room-final.json entities/40/settings/event/21/message #118
 #. EventTrigger AlmostOut START IF map.almostOut
@@ -960,7 +962,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-final.json+entities/40/settings/event/21/message+%23118
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/40/settings/event/21/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/rhombus-dng/room-final.json entities/40/settings/event/22/message #119
 #. EventTrigger AlmostOut START IF map.almostOut
@@ -968,7 +970,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-final.json+entities/40/settings/event/22/message+%23119
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/40/settings/event/22/message"
 msgid "Do not look at me like that..."
-msgstr ""
+msgstr "Не дивися на мене так..."
 
 #. data/maps/rhombus-dng/room-final.json entities/40/settings/event/23/message #120
 #. EventTrigger AlmostOut START IF map.almostOut
@@ -976,7 +978,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-final.json+entities/40/settings/event/23/message+%23120
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/40/settings/event/23/message"
 msgid "I know, it takes a long time to add these words."
-msgstr ""
+msgstr "Я знаю, що додавання цих слів займає багато часу."
 
 #. data/maps/rhombus-dng/room-final.json entities/40/settings/event/24/message #121
 #. EventTrigger AlmostOut START IF map.almostOut
@@ -984,7 +986,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-final.json+entities/40/settings/event/24/message+%23121
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/40/settings/event/24/message"
 msgid "It is a very involved process, actually."
-msgstr ""
+msgstr "Насправді це дуже складний процес."
 
 #. data/maps/rhombus-dng/room-final.json entities/40/settings/event/25/message #122
 #. EventTrigger AlmostOut START IF map.almostOut
@@ -992,7 +994,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-final.json+entities/40/settings/event/25/message+%23122
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/40/settings/event/25/message"
 msgid "I need to manually extend your Thought Control Model..."
-msgstr ""
+msgstr "Мені доводиться вручну розширювати твою модель уявного управління."
 
 #. data/maps/rhombus-dng/room-final.json entities/40/settings/event/26/message #123
 #. EventTrigger AlmostOut START IF map.almostOut
@@ -1000,7 +1002,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-final.json+entities/40/settings/event/26/message+%23123
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/40/settings/event/26/message"
 msgid "...essentially modifying a statistically generated code base by hand."
-msgstr ""
+msgstr "...фактично змінюючи статично згенеровану базу коду вручну."
 
 #. data/maps/rhombus-dng/room-final.json entities/40/settings/event/27/message #124
 #. EventTrigger AlmostOut START IF map.almostOut
@@ -1008,7 +1010,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-final.json+entities/40/settings/event/27/message+%23124
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/40/settings/event/27/message"
 msgid "...??"
-msgstr ""
+msgstr "...??"
 
 #. data/maps/rhombus-dng/room-final.json entities/40/settings/event/28/message #125
 #. EventTrigger AlmostOut START IF map.almostOut
@@ -1016,7 +1018,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-final.json+entities/40/settings/event/28/message+%23125
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/40/settings/event/28/message"
 msgid "Yes, it is very technical."
-msgstr ""
+msgstr "Так, це зайві технічні подробиці."
 
 #. data/maps/rhombus-dng/room-final.json entities/40/settings/event/29/message #126
 #. EventTrigger AlmostOut START IF map.almostOut
@@ -1024,7 +1026,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-final.json+entities/40/settings/event/29/message+%23126
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/40/settings/event/29/message"
 msgid "The technology to control avatars is...\\. well...\\. complicated."
-msgstr ""
+msgstr "Технологія керування аватарами...\\. досить...\\. складна."
 
 #. data/maps/rhombus-dng/room-final.json entities/40/settings/event/30/message #127
 #. EventTrigger AlmostOut START IF map.almostOut
@@ -1032,7 +1034,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-final.json+entities/40/settings/event/30/message+%23127
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/40/settings/event/30/message"
 msgid "And that is an understatement."
-msgstr ""
+msgstr "І це ще надто м'яко сказано."
 
 #. data/maps/rhombus-dng/room-final.json entities/40/settings/event/31/message #128
 #. EventTrigger AlmostOut START IF map.almostOut
@@ -1040,7 +1042,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-final.json+entities/40/settings/event/31/message+%23128
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/40/settings/event/31/message"
 msgid "Anyway, the second word is done.\\. I will work on the next one right away!"
-msgstr ""
+msgstr "У будь-якому випадку, друге слово готове. Я зараз почну працювати над наступним."
 
 #. data/maps/rhombus-dng/room-final.json entities/40/settings/event/32/message #129
 #. EventTrigger AlmostOut START IF map.almostOut
@@ -1048,7 +1050,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-final.json+entities/40/settings/event/32/message+%23129
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/40/settings/event/32/message"
 msgid "...Lea!"
-msgstr ""
+msgstr "...Лія!"
 
 #. data/maps/rhombus-dng/room-final.json entities/41/settings/event/21/text #50
 #. EventTrigger CIRCUIT TUTORIAL START IF tmp.tutorialCircuit
@@ -1056,7 +1058,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-final.json+entities/41/settings/event/21/text+%2350
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/41/settings/event/21/text"
 msgid "Activate circuits using \\c[3]Circuit Points (CP)\\c[0], earned with each level up."
-msgstr ""
+msgstr "Активуйте контури за допомогою \\c[3]Очків контурів (CP)\\c[0], одержуваних з кожним новим рівнем."
 
 #. data/maps/rhombus-dng/room-final.json entities/41/settings/event/34/text #51
 #. EventTrigger CIRCUIT TUTORIAL START IF tmp.tutorialCircuit
@@ -1064,7 +1066,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-final.json+entities/41/settings/event/34/text+%2351
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/41/settings/event/34/text"
 msgid "Certain skills unlock \\c[3]combat arts\\c[0] that can be used in battle."
-msgstr ""
+msgstr "Деякі навички відкривають \\c[3]бойові техніки\\c[0], які ви можете використовувати в бою."
 
 #. data/maps/rhombus-dng/room-final.json entities/41/settings/event/38/thenStep/3/text #52
 #. EventTrigger CIRCUIT TUTORIAL START IF tmp.tutorialCircuit
@@ -1073,7 +1075,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-final.json+entities/41/settings/event/38/thenStep/3/text+%2352
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/41/settings/event/38/thenStep/3/text"
 msgid "You can \\c[3]switch between branching skills\\c[0] at any time without spending CP!"
-msgstr ""
+msgstr "\\c[3]Перемикатися між гілками умінь\\c[0] можна будь-якої миті без витрати CP!"
 
 #. data/maps/rhombus-dng/room-final.json entities/41/settings/event/38/elseStep/1/text #130
 #. EventTrigger CIRCUIT TUTORIAL START IF tmp.tutorialCircuit
@@ -1082,7 +1084,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-final.json+entities/41/settings/event/38/elseStep/1/text+%23130
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/41/settings/event/38/elseStep/1/text"
 msgid "You can \\c[3]switch between branching skills\\c[0] at any time without spending CP!"
-msgstr ""
+msgstr "\\c[3]Перемикатися між гілками умінь\\c[0] можна будь-якої миті без витрати CP!"
 
 #. data/maps/rhombus-dng/room-final.json entities/41/settings/event/52/text #131
 #. EventTrigger CIRCUIT TUTORIAL START IF tmp.tutorialCircuit
@@ -1090,7 +1092,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-final.json+entities/41/settings/event/52/text+%23131
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/41/settings/event/52/text"
 msgid "You now got \\c[3]special points\\c[0] (SP) used for \\c[3]combat arts\\c[0]."
-msgstr ""
+msgstr "Тепер у вас є \\c[3]спеціальні очки\\c[0] (SP), використовуйте для застосування \\c[3]бойових технік\\c[0]."
 
 #. data/maps/rhombus-dng/room-final.json entities/42/settings/event/5/thenStep/0/message #134
 #. EventTrigger UpgradePost START IF map.upgradePost
@@ -1108,7 +1110,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-final.json+entities/42/settings/event/5/thenStep/1/message+%23135
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/42/settings/event/5/thenStep/1/message"
 msgid "...!!"
-msgstr ""
+msgstr "...!!"
 
 #. data/maps/rhombus-dng/room-final.json entities/42/settings/event/5/thenStep/2/message #136
 #. EventTrigger UpgradePost START IF map.upgradePost
