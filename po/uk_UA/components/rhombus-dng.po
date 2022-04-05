@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-11 15:55+0000\n"
-"PO-Revision-Date: 2022-04-03 16:23+0000\n"
+"PO-Revision-Date: 2022-04-06 01:34+0000\n"
 "Last-Translator: Bogdan <bbucko175@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.openkrosskod.org/projects/crosscode/rhombus-dng/uk/>\n"
 "Language: uk_UA\n"
@@ -237,7 +237,7 @@ msgstr "Розумієш, кожен гравець поміщається в о
 #: data/maps/rhombus-dng/entrance.json+entities/6/settings/event/25/message+%2315
 msgctxt "data/maps/rhombus-dng/entrance.json//entities/6/settings/event/25/message"
 msgid "...?"
-msgstr ""
+msgstr "...?"
 
 #. data/maps/rhombus-dng/entrance.json entities/6/settings/event/26/message #16
 #. EventTrigger intro START IF true
@@ -333,28 +333,29 @@ msgstr "Досліджуйте \\c[3]оточення\\c[0]"
 #: data/maps/rhombus-dng/room-1-6.json+entities/44/settings/text+%2358
 msgctxt "data/maps/rhombus-dng/room-1-6.json//entities/44/settings/text"
 msgid "A chest! But what is inside?"
-msgstr ""
+msgstr "Скриня! Але що усередині?"
 
 #. data/maps/rhombus-dng/room-1-6.json entities/45/settings/text #59
 #. Analyzable SPAWN IF map.chestOpen1 && map.chests
 #: data/maps/rhombus-dng/room-1-6.json+entities/45/settings/text+%2359
+#, fuzzy
 msgctxt "data/maps/rhombus-dng/room-1-6.json//entities/45/settings/text"
 msgid "A Chest! Some yummy \\c[3]\\v[item.1.name]es\\c[0] were inside."
-msgstr ""
+msgstr "Скриня! Усередині було кілька смачних \\c[3]\\v[item.1.name]ей\\c[0]."
 
 #. data/maps/rhombus-dng/room-1-6.json entities/46/settings/text #60
 #. Analyzable SPAWN IF !map.chestOpen2 && map.chests
 #: data/maps/rhombus-dng/room-1-6.json+entities/46/settings/text+%2360
 msgctxt "data/maps/rhombus-dng/room-1-6.json//entities/46/settings/text"
 msgid "A Chest! But what is inside?"
-msgstr ""
+msgstr "Скриня! Але що усередині?"
 
 #. data/maps/rhombus-dng/room-1-6.json entities/47/settings/text #61
 #. Analyzable SPAWN IF map.chestOpen2 && map.chests
 #: data/maps/rhombus-dng/room-1-6.json+entities/47/settings/text+%2361
 msgctxt "data/maps/rhombus-dng/room-1-6.json//entities/47/settings/text"
 msgid "A Chest! Two \\c[3]\\v[item.2.name]s\\c[0] were inside."
-msgstr ""
+msgstr "Скриня! Усередині було два \\c[3]Зелених чаї\\c[0]."
 
 #. data/maps/rhombus-dng/room-1.json entities/10/settings/event/0/message #1
 #. EventTrigger EventTrigger START IF map.sergeyAway
@@ -424,7 +425,7 @@ msgstr "Наступний рівень"
 #: data/maps/rhombus-dng/room-4.json+entities/2/settings/event/11/task+%231
 msgctxt "data/maps/rhombus-dng/room-4.json//entities/2/settings/event/11/task"
 msgid "Survive Wave 1!"
-msgstr ""
+msgstr "Переживіть хвилю 1!"
 
 #. data/maps/rhombus-dng/room-4.json entities/6/settings/event/3/task #2
 #. EventTrigger wave2 START IF tmp.remaining <= 23
@@ -432,7 +433,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-4.json+entities/6/settings/event/3/task+%232
 msgctxt "data/maps/rhombus-dng/room-4.json//entities/6/settings/event/3/task"
 msgid "Survive Wave 2!"
-msgstr ""
+msgstr "Переживіть хвилю 2!"
 
 #. data/maps/rhombus-dng/room-4.json entities/7/settings/event/3/task #3
 #. EventTrigger wave3 START IF tmp.remaining <= 18
@@ -440,7 +441,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-4.json+entities/7/settings/event/3/task+%233
 msgctxt "data/maps/rhombus-dng/room-4.json//entities/7/settings/event/3/task"
 msgid "Survive Wave 3!"
-msgstr ""
+msgstr "Переживіть хвилю 3!"
 
 #. data/maps/rhombus-dng/room-4.json entities/8/settings/event/3/task #4
 #. EventTrigger wave4 START IF tmp.remaining <= 12
@@ -448,7 +449,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-4.json+entities/8/settings/event/3/task+%234
 msgctxt "data/maps/rhombus-dng/room-4.json//entities/8/settings/event/3/task"
 msgid "Survive the final wave!"
-msgstr ""
+msgstr "Переживіть фінальну хвилю!"
 
 #. data/maps/rhombus-dng/room-4.json entities/8/settings/event/9/guiInfo/settings/text #5
 #. EventTrigger wave4 START IF tmp.remaining <= 12
@@ -457,7 +458,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-4.json+entities/8/settings/event/9/guiInfo/settings/text+%235
 msgctxt "data/maps/rhombus-dng/room-4.json//entities/8/settings/event/9/guiInfo/settings/text"
 msgid "THE TIME FOR REVENGE IS NIGH!"
-msgstr ""
+msgstr "ЧАС ПОМСТИ НАБЛИЖАЄТЬСЯ!"
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/2/settings/event/36/object #1
 #. EventTrigger Upgrade START IF map.startUpgrade
@@ -751,7 +752,7 @@ msgstr "\\c[3]Одягайте предмети\\c[0], щоб підготува
 #: data/maps/rhombus-dng/room-5-newer.json+entities/71/settings/event/10/thenStep/0/message+%2361
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/71/settings/event/10/thenStep/0/message"
 msgid "W-Wait a moment!\\. What are all those \\c[1]items\\c[0] doing in your inventory?!"
-msgstr ""
+msgstr "С-Стривай но!\\. Що всі ці \\c[1]речі\\c[0] роблять у тебе в інвентарі?!"
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/71/settings/event/10/thenStep/1/message #62
 #. EventTrigger UpgradePOST START IF map.upgradePost
@@ -760,7 +761,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-5-newer.json+entities/71/settings/event/10/thenStep/1/message+%2362
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/71/settings/event/10/thenStep/1/message"
 msgid "...!!"
-msgstr ""
+msgstr "...!!"
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/71/settings/event/10/thenStep/2/message #63
 #. EventTrigger UpgradePOST START IF map.upgradePost
@@ -769,7 +770,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-5-newer.json+entities/71/settings/event/10/thenStep/2/message+%2363
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/71/settings/event/10/thenStep/2/message"
 msgid "You should barely have anything at this point.\\. Why?!"
-msgstr ""
+msgstr "На цьому етапі в тебе майже нічого не повинно бути.\\ Звідки?!"
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/71/settings/event/10/thenStep/3/thenStep/0/message #64
 #. EventTrigger UpgradePOST START IF map.upgradePost
@@ -789,7 +790,7 @@ msgstr "О ні, ще й купа \\c[1]спорядження\\c[0]!!"
 #: data/maps/rhombus-dng/room-5-newer.json+entities/71/settings/event/10/thenStep/3/thenStep/1/message+%2365
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/71/settings/event/10/thenStep/3/thenStep/1/message"
 msgid "...!!"
-msgstr ""
+msgstr "...!!"
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/71/settings/event/10/thenStep/3/thenStep/2/message #66
 #. EventTrigger UpgradePOST START IF map.upgradePost
@@ -799,7 +800,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-5-newer.json+entities/71/settings/event/10/thenStep/3/thenStep/2/message+%2366
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/71/settings/event/10/thenStep/3/thenStep/2/message"
 msgid "M-Maybe, you should not wear it? You know...\\. to not \\c[1]attract any attention\\c[0]?"
-msgstr ""
+msgstr "М-Може, тобі поки що не варто це вдягати? Ну, знаєш...\\. щоб \\c[1]не привертати уваги\\c[0]?"
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/71/settings/event/10/thenStep/3/thenStep/3/message #67
 #. EventTrigger UpgradePOST START IF map.upgradePost
@@ -809,7 +810,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-5-newer.json+entities/71/settings/event/10/thenStep/3/thenStep/3/message+%2367
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/71/settings/event/10/thenStep/3/thenStep/3/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/rhombus-dng/room-5-newer.json entities/71/settings/event/10/thenStep/3/thenStep/4/message #68
 #. EventTrigger UpgradePOST START IF map.upgradePost
@@ -819,7 +820,7 @@ msgstr ""
 #: data/maps/rhombus-dng/room-5-newer.json+entities/71/settings/event/10/thenStep/3/thenStep/4/message+%2368
 msgctxt "data/maps/rhombus-dng/room-5-newer.json//entities/71/settings/event/10/thenStep/3/thenStep/4/message"
 msgid "Lea, please..."
-msgstr ""
+msgstr "Ліє, будь ласка..."
 
 #. data/maps/rhombus-dng/room-final.json entities/13/settings/event/34/object #1
 #. EventTrigger UpgradeSequence START IF map.upgradeGet
@@ -1101,7 +1102,7 @@ msgstr "Тепер у вас є \\c[3]спеціальні очки\\c[0] (SP), 
 #: data/maps/rhombus-dng/room-final.json+entities/42/settings/event/5/thenStep/0/message+%23134
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/42/settings/event/5/thenStep/0/message"
 msgid "Wait... \\c[1]Why are all your elements already unlocked?!\\c[0]"
-msgstr ""
+msgstr "Почекай... \\c[1]Чому всі твої елементи вже відкриті?!\\c[0]"
 
 #. data/maps/rhombus-dng/room-final.json entities/42/settings/event/5/thenStep/1/message #135
 #. EventTrigger UpgradePost START IF map.upgradePost
@@ -1119,7 +1120,7 @@ msgstr "...!!"
 #: data/maps/rhombus-dng/room-final.json+entities/42/settings/event/5/thenStep/2/message+%23136
 msgctxt "data/maps/rhombus-dng/room-final.json//entities/42/settings/event/5/thenStep/2/message"
 msgid "This is not supposed to happen!\\. Seriously, this game has been out for quite some time already.\\. Why do these weird issues keep coming up?!"
-msgstr ""
+msgstr "Цього не повинно бути!\\. Серйозно, гра вийшла вже досить давно.\\. То чому вилазять усі ці дивні баги?!"
 
 #. data/maps/rhombus-dng/stream-test.json entities/49/settings/npcStates/0/event/2/message #1
 #. NPC shizuka
@@ -1127,7 +1128,7 @@ msgstr ""
 #: data/maps/rhombus-dng/stream-test.json+entities/49/settings/npcStates/0/event/2/message+%231
 msgctxt "data/maps/rhombus-dng/stream-test.json//entities/49/settings/npcStates/0/event/2/message"
 msgid "Come on, let's switch!"
-msgstr ""
+msgstr "Ну, давай поміняємося!"
 
 #. data/maps/rhombus-dng/stream-test.json entities/49/settings/npcStates/0/event/3/message #2
 #. NPC shizuka
@@ -1135,12 +1136,13 @@ msgstr ""
 #: data/maps/rhombus-dng/stream-test.json+entities/49/settings/npcStates/0/event/3/message+%232
 msgctxt "data/maps/rhombus-dng/stream-test.json//entities/49/settings/npcStates/0/event/3/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[киває]"
 
 #. data/maps/rhombus-dng/upgrade-test.json entities/25/settings/event/34/object #1
 #. EventTrigger
 #. SHOW_GET_MSG
 #: data/maps/rhombus-dng/upgrade-test.json+entities/25/settings/event/34/object+%231
+#, fuzzy
 msgctxt "data/maps/rhombus-dng/upgrade-test.json//entities/25/settings/event/34/object"
 msgid "Some shit"
-msgstr ""
+msgstr "Я бачив деяке лайно"
