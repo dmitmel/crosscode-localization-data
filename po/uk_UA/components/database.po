@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-11 15:55+0000\n"
-"PO-Revision-Date: 2022-04-08 18:27+0000\n"
+"PO-Revision-Date: 2022-04-14 15:58+0000\n"
 "Last-Translator: Bogdan <bbucko175@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.openkrosskod.org/projects/crosscode/database/uk/>\n"
 "Language: uk_UA\n"
@@ -30375,13 +30375,13 @@ msgstr ""
 #: data/database.json+lore/seeker/title+%231123
 msgctxt "data/database.json//lore/seeker/title"
 msgid "Seeker"
-msgstr ""
+msgstr "Шукач"
 
 #. data/database.json lore/seeker/content/page-01-01/content #2464
 #: data/database.json+lore/seeker/content/page-01-01/content+%232464
 msgctxt "data/database.json//lore/seeker/content/page-01-01/content"
 msgid "A \\v[lore.title.seeker] is a human who has undergone special training and has been allowed access to the \\c[3]\\v[lore.title.track-of-ancients]\\c[0]. Once they choose one of the \\c[3]5 Virtues\\c[0], their goal is to master all 4 elements and use them in a final challenge to solve the mysteries behind the track."
-msgstr ""
+msgstr "Шукач - це людина, що пройшла спеціальну підготовку та отримав доступ до \\c[3]шляху Прадавніх\\c[0]. Як тільки вони обирають одну з \\c[3]П'яти чеснот\\c[0], їхня мета полягає в тому, щоб освоїти всі чотири елементи й використовувати їх у фінальному випробуванні, щоб розгадати таємниці, що стоять за Шляхом."
 
 #. data/database.json lore/shad/title #1876
 #: data/database.json+lore/shad/title+%231876
@@ -31334,7 +31334,7 @@ msgstr ""
 #: data/database.json+lore/factions/title+%23637
 msgctxt "data/database.json//lore/factions/title"
 msgid "Factions"
-msgstr ""
+msgstr "Фракції"
 
 #. data/database.json lore/factions/content/page-01-01/content #1652
 #: data/database.json+lore/factions/content/page-01-01/content+%231652
@@ -31349,18 +31349,26 @@ msgid ""
 "\n"
 "While the factions are filled with highly resourceful experts of their field, they often need the support of the \\c[3]\\v[lore.title.seeker]s\\c[0] because of their special connection to the \\c[3]\\v[lore.title.track-of-ancients]\\c[0]."
 msgstr ""
+"Фракції - це групи людей, які працюють разом, щоб забезпечити виживання і подальший розвиток людства на \\c[3]Шадуні\\c[0].\n"
+"Більшість людей є частиною однієї з чотирьох великих фракцій з різними областями обов'язків та основними принципами, кожна з яких поділена на регіональні підрозділи:\n"
+"- \\c[3]Альянс авантюристів\\c[0]\n"
+"- \\c[3]Департамент захисту людей\\c[0]\n"
+"- \\c[3]Асоціація людського розвитку\\c[0]\n"
+"- \\c[3]Прибічники балансу\\c[0]\n"
+"\n"
+"Всупереч тому, що фракції сповнені дуже винахідливими у своїй області людьми, вони часто потребують допомоги \\[3]Шукачів\\c[0], через їх особливий зв'язок з \\c[3]Шляхом Ghflfdys[\\c[0]."
 
 #. data/database.json lore/faction-heat-main/title #1668
 #: data/database.json+lore/faction-heat-main/title+%231668
 msgctxt "data/database.json//lore/faction-heat-main/title"
 msgid "Venture Alliance"
-msgstr ""
+msgstr "Альянс авантюристів"
 
 #. data/database.json lore/faction-heat-main/content/page-01-01/content #3470
 #: data/database.json+lore/faction-heat-main/content/page-01-01/content+%233470
 msgctxt "data/database.json//lore/faction-heat-main/content/page-01-01/content"
 msgid "The \\c[3]Venture Alliance (VA)\\c[0] is a faction mainly responsible for doing pioneer work by exploring and claiming new land, hunting and scavenging wildlife and mining natural resources. Thus it often attracts an individualistic, adventuring type of person who prefers active work in the field, even if it's dangerous.\n"
-msgstr ""
+msgstr "\\c[3]Альянс авантюристів\\c[0] - фракція, переважно відповідальна у виконанні першопрохідницької діяльності шляхом дослідження та освоєння нових земель, полювання, зачистки дикої природи та видобутку природних ресурсів. Таким чином, він часто приваблює одинаків і ризикового типу людей, які віддають перевагу активній роботі в полі, навіть якщо це небезпечно.\n"
 
 #. data/database.json lore/faction-heat-main/content/page-01-02/content #2104
 #: data/database.json+lore/faction-heat-main/content/page-01-02/content+%232104
@@ -31369,24 +31377,27 @@ msgid ""
 "Subdivisions include:\n"
 "- \\c[3]Falldivers (FD)\\c[0] in \\c[3]\\v[area.rookie-harbor.name]\\c[0]"
 msgstr ""
+"Підрозділи:\n"
+"- \\c[3]Рейдери Осені\\c[0] в \\c[3]Гавані новачків\\c[0]"
 
 #. data/database.json lore/faction-heat-main/content/page-01-03/content #2105
 #: data/database.json+lore/faction-heat-main/content/page-01-03/content+%232105
+#, fuzzy
 msgctxt "data/database.json//lore/faction-heat-main/content/page-01-03/content"
 msgid "- \\c[3]Bergen Digging Mates (BDM)\\c[0] in \\c[3]\\v[area.bergen.name]\\c[0]"
-msgstr ""
+msgstr "- \\c[3]Братство шахтарів Бергена\\c[0] в \\c[3]\\v[area.bergen.name]і\\c[0]"
 
 #. data/database.json lore/faction-heat-main/content/page-01-04/content #8953
 #: data/database.json+lore/faction-heat-main/content/page-01-04/content+%238953
 msgctxt "data/database.json//lore/faction-heat-main/content/page-01-04/content"
 msgid "- \\c[3]Arid Breeze (AB)\\c[0] in \\c[3]\\v[area.heat-village.name]\\c[0]"
-msgstr ""
+msgstr "- \\c[3]Сухий бриз\\c[0] в \\c[3]\\\\v[area.heat-village.name]\\c[0]"
 
 #. data/database.json lore/faction-heat-main/content/page-01-05/content #13782
 #: data/database.json+lore/faction-heat-main/content/page-01-05/content+%2313782
 msgctxt "data/database.json//lore/faction-heat-main/content/page-01-05/content"
 msgid "- \\c[3]Woodland Vanguard (WV)\\c[0] in \\c[3]\\v[area.jungle-city.name]\\c[0]"
-msgstr ""
+msgstr "- \\c[3]Лісовий авангард\\c[0] в \\c[3]Твердині Бейзіна\\c[0]"
 
 #. data/database.json lore/faction-heat-rookieharbor/title #3471
 #: data/database.json+lore/faction-heat-rookieharbor/title+%233471
@@ -31468,7 +31479,7 @@ msgstr ""
 #: data/database.json+lore/faction-cold-main/title+%231670
 msgctxt "data/database.json//lore/faction-cold-main/title"
 msgid "Human Preservation Department"
-msgstr ""
+msgstr "Департамент захисту людей"
 
 #. data/database.json lore/faction-cold-main/content/page-01-01/content #3474
 #: data/database.json+lore/faction-cold-main/content/page-01-01/content+%233474
@@ -39840,19 +39851,19 @@ msgstr ""
 #: data/database.json+quests/faction-tutorial/hubSettings/location+%2313014
 msgctxt "data/database.json//quests/faction-tutorial/hubSettings/location"
 msgid "Get the authorization to assist the factions of Rookie Harbor. \\c[3]- Seeker Hub\\c[0]"
-msgstr ""
+msgstr "Отримайте дозвіл на допомогу новачкам Гавані. \\c[3]- Центр Шукачів\\c[0]"
 
 #. data/database.json quests/faction-tutorial/name #6743
 #: data/database.json+quests/faction-tutorial/name+%236743
 msgctxt "data/database.json//quests/faction-tutorial/name"
 msgid "Faction Introduction"
-msgstr ""
+msgstr "Введення у фракції"
 
 #. data/database.json quests/faction-tutorial/person #6744
 #: data/database.json+quests/faction-tutorial/person+%236744
 msgctxt "data/database.json//quests/faction-tutorial/person"
 msgid "Faction Advisor"
-msgstr ""
+msgstr "Радник фракції"
 
 #. data/database.json quests/faction-tutorial/description #6746
 #: data/database.json+quests/faction-tutorial/description+%236746
@@ -39860,81 +39871,81 @@ msgctxt "data/database.json//quests/faction-tutorial/description"
 msgid ""
 "Each of the \\c[3]4 Factions\\c[0] has a local subdivision in \\v[area.rookie-harbor.name]: \\c[3]Falldivers\\c[0], \\c[3]Rookie Harbor Guard\\c[0], \\c[3]Coastal Trading Coalition\\c[0] and \\c[3]Fruits of Autumn\\c[0].\n"
 "Introduce yourself to the representatives!"
-msgstr ""
+msgstr "Кожна з \\c[3]чотирьох фракцій\\c[0] має свій підрозділ в Гавані новачків: \\c[3]Рейдери Осені\\c[0], \\c[3]Вартова Гавані новачків\\c[0], \\c[3]Прибережна торгова коаліція\\c[0] і \\c[3] Дари осені\\c[0]. Представтесь кожній з них!"
 
 #. data/database.json quests/faction-tutorial/briefing #6747
 #: data/database.json+quests/faction-tutorial/briefing+%236747
 msgctxt "data/database.json//quests/faction-tutorial/briefing"
 msgid "You visited all the factions in \\v[area.rookie-harbor.name] and talked to all the representatives. Now you know where to offer your help!"
-msgstr ""
+msgstr "Ви відвідали всі фракції в Гавані новачків та поговорили з усіма представниками. Тепер ви знаєте де запропонувати свою допомогу!"
 
 #. data/database.json quests/faction-tutorial/tasks/0/task #6763
 #: data/database.json+quests/faction-tutorial/tasks/0/task+%236763
 msgctxt "data/database.json//quests/faction-tutorial/tasks/0/task"
 msgid "Visit the \\c[3]4 factions\\c[0] in \\v[area.rookie-harbor.name]"
-msgstr ""
+msgstr "Відвідайте \\c[3]чотири фракції\\c[0] у Гавані новачків"
 
 #. data/database.json quests/faction-tutorial/tasks/0/subtasks/0/text #6778
 #. CONDITION
 #: data/database.json+quests/faction-tutorial/tasks/0/subtasks/0/text+%236778
 msgctxt "data/database.json//quests/faction-tutorial/tasks/0/subtasks/0/text"
 msgid "Visit the \\c[3]FD\\c[0] HQ southwest of the \\c[3]Market\\c[0]"
-msgstr ""
+msgstr "Штаб \\c[3]Рейдерів Осені\\c[0] на південний захід від \\c[3]ринку\\c[0]"
 
 #. data/database.json quests/faction-tutorial/tasks/0/subtasks/0/shortText #6779
 #. CONDITION
 #: data/database.json+quests/faction-tutorial/tasks/0/subtasks/0/shortText+%236779
 msgctxt "data/database.json//quests/faction-tutorial/tasks/0/subtasks/0/shortText"
 msgid "Visit the \\c[3]FD\\c[0] HQ"
-msgstr ""
+msgstr "Штаб \\c[3]Рейдерів Осені\\c[0]"
 
 #. data/database.json quests/faction-tutorial/tasks/0/subtasks/1/text #6780
 #. CONDITION
 #: data/database.json+quests/faction-tutorial/tasks/0/subtasks/1/text+%236780
 msgctxt "data/database.json//quests/faction-tutorial/tasks/0/subtasks/1/text"
 msgid "Visit the \\c[3]RHG\\c[0] HQ near the \\c[3]western exit\\c[0]"
-msgstr ""
+msgstr "Штаб \\c[3]Вартових гавані\\c[0] біля \\c[3]західного виходу\\c[0]"
 
 #. data/database.json quests/faction-tutorial/tasks/0/subtasks/1/shortText #6781
 #. CONDITION
 #: data/database.json+quests/faction-tutorial/tasks/0/subtasks/1/shortText+%236781
 msgctxt "data/database.json//quests/faction-tutorial/tasks/0/subtasks/1/shortText"
 msgid "Visit the \\c[3]RHG\\c[0] HQ"
-msgstr ""
+msgstr "Штаб \\c[3]Вартових Гавані новачків\\c[0]"
 
 #. data/database.json quests/faction-tutorial/tasks/0/subtasks/2/text #6782
 #. CONDITION
 #: data/database.json+quests/faction-tutorial/tasks/0/subtasks/2/text+%236782
 msgctxt "data/database.json//quests/faction-tutorial/tasks/0/subtasks/2/text"
 msgid "Visit  the \\c[3]CTC\\c[0] ambassador at the \\c[3]Seeker HUB\\c[0]"
-msgstr ""
+msgstr "Представник \\c[3]ПТК\\c[0] у \\c[3]центрі Шукачів\\c[0]"
 
 #. data/database.json quests/faction-tutorial/tasks/0/subtasks/2/shortText #6783
 #. CONDITION
 #: data/database.json+quests/faction-tutorial/tasks/0/subtasks/2/shortText+%236783
 msgctxt "data/database.json//quests/faction-tutorial/tasks/0/subtasks/2/shortText"
 msgid "Visit the \\c[3]CTC\\c[0] ambassador"
-msgstr ""
+msgstr "Представник \\c[3]ПТК\\c[0]"
 
 #. data/database.json quests/faction-tutorial/tasks/0/subtasks/3/text #6784
 #. CONDITION
 #: data/database.json+quests/faction-tutorial/tasks/0/subtasks/3/text+%236784
 msgctxt "data/database.json//quests/faction-tutorial/tasks/0/subtasks/3/text"
 msgid "Visit the \\c[3]FoA\\c[0] HQ at the \\c[3]Market\\c[0]"
-msgstr ""
+msgstr "Штаб \\c[3]Дарів Осені\\c[0] на \\c[3]ринку\\c[0]"
 
 #. data/database.json quests/faction-tutorial/tasks/0/subtasks/3/shortText #6785
 #. CONDITION
 #: data/database.json+quests/faction-tutorial/tasks/0/subtasks/3/shortText+%236785
 msgctxt "data/database.json//quests/faction-tutorial/tasks/0/subtasks/3/shortText"
 msgid "Visit the \\c[3]FoA\\c[0] HQ"
-msgstr ""
+msgstr "Штаб \\c[3]Даров Осені\\c[0]"
 
 #. data/database.json quests/faction-tutorial/tasks/1/task #6786
 #: data/database.json+quests/faction-tutorial/tasks/1/task+%236786
 msgctxt "data/database.json//quests/faction-tutorial/tasks/1/task"
 msgid "Report back to the \\c[3]Faction Advisor\\c[0] in the \\c[3]Seeker HUB\\c[0]"
-msgstr ""
+msgstr "Відзвітуйтесь \\c[3]Раднику фракції\\c[0] у \\c[3]центрі Шукачів\\c[0]"
 
 #. data/database.json quests/wa-1-digging/hubSettings/location #12982
 #. IF quest.faction-tutorial.started
@@ -40395,48 +40406,50 @@ msgid ""
 "Assistance is needed for a simple delivery task. \n"
 "\\c[3]- Rookie Harbor Marketplace\\c[0]"
 msgstr ""
+"Потрібна допомога із простим доставленням. \n"
+"\\c[3]- ринок Гавані новачків\\c[0]"
 
 #. data/database.json quests/rftc-1-collect_trade/name #3958
 #: data/database.json+quests/rftc-1-collect_trade/name+%233958
 msgctxt "data/database.json//quests/rftc-1-collect_trade/name"
 msgid "Small Time Delivery"
-msgstr ""
+msgstr "Мізерне доставлення"
 
 #. data/database.json quests/rftc-1-collect_trade/person #3968
 #: data/database.json+quests/rftc-1-collect_trade/person+%233968
 msgctxt "data/database.json//quests/rftc-1-collect_trade/person"
 msgid "Mr. Nomsworth"
-msgstr ""
+msgstr "Містер Номсворт"
 
 #. data/database.json quests/rftc-1-collect_trade/description #3960
 #: data/database.json+quests/rftc-1-collect_trade/description+%233960
 msgctxt "data/database.json//quests/rftc-1-collect_trade/description"
 msgid "\\c[3]Mr. Nomsworth\\c[0], an employee of the trading association of \\v[area.rookie-harbor.name], commissioned you to acquire certain items from the market and deliver them to his client."
-msgstr ""
+msgstr "\\c[3]Містер Номсворт\\c[0], співробітник торгової асоціації Гавані новачків, доручив вам придбати певні товари на ринку та доставити їх своєму клієнту."
 
 #. data/database.json quests/rftc-1-collect_trade/briefing #3969
 #: data/database.json+quests/rftc-1-collect_trade/briefing+%233969
 msgctxt "data/database.json//quests/rftc-1-collect_trade/briefing"
 msgid "You've acquired the needed items, delivered them to the barkeep and got your reward."
-msgstr ""
+msgstr "Ви придбали потрібні товари, доставили бармену й отримали свою нагороду."
 
 #. data/database.json quests/rftc-1-collect_trade/tasks/0/task #3962
 #: data/database.json+quests/rftc-1-collect_trade/tasks/0/task+%233962
 msgctxt "data/database.json//quests/rftc-1-collect_trade/tasks/0/task"
 msgid "Get several trade items from the trader at the \\c[3]Market\\c[0]"
-msgstr ""
+msgstr "Отримайте кілька товарів у торговця на \\c[3]ринку\\c[0]"
 
 #. data/database.json quests/rftc-1-collect_trade/tasks/1/task #3970
 #: data/database.json+quests/rftc-1-collect_trade/tasks/1/task+%233970
 msgctxt "data/database.json//quests/rftc-1-collect_trade/tasks/1/task"
 msgid "Bring the items to \\c[3]the barkeeper\\c[0] of the pub \\c[3]Gut Punch\\c[0] at the sea"
-msgstr ""
+msgstr "Принесіть товари \\c[3]бармену\\c[0] у паб \\c[3]\"Удар під дих\"\\c[0] біля моря"
 
 #. data/database.json quests/rftc-1-collect_trade/tasks/2/task #3964
 #: data/database.json+quests/rftc-1-collect_trade/tasks/2/task+%233964
 msgctxt "data/database.json//quests/rftc-1-collect_trade/tasks/2/task"
 msgid "Report back to \\c[3]Mr. Nomsworth\\c[0] in the \\c[3]Marketplace\\c[0]"
-msgstr ""
+msgstr "Dslpdsneqntcm \\c[3]Містеру Номсвору\\c[0] на \\c[3]ринку\\\\c[0]"
 
 #. data/database.json quests/bull-arena-1/hubSettings/location #12987
 #. IF plot.line >= 3300 && quest.rftc-1-collect_trade.solved
