@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-11 15:55+0000\n"
-"PO-Revision-Date: 2022-04-14 10:06+0000\n"
+"PO-Revision-Date: 2022-04-17 03:20+0000\n"
 "Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/database/es/>\n"
 "Language: es_ES\n"
@@ -5878,7 +5878,7 @@ msgstr "\\c[1]¡¡Adiós!!\\c[0]"
 #: data/database.json+commonEvents/sergey-hax-ctron/event/5/thenStep/1/message+%2316630
 msgctxt "data/database.json//commonEvents/sergey-hax-ctron/event/5/thenStep/1/message"
 msgid "And there goes another one, flying."
-msgstr "Y ahí va otro más, volando."
+msgstr "¡Se va! ¡Y se fue!"
 
 #. data/database.json commonEvents/sergey-hax-ctron/event/5/thenStep/2/message #16631
 #. IF party.alive.Glasses && newgame.sergey-hax
@@ -5887,7 +5887,7 @@ msgstr "Y ahí va otro más, volando."
 #: data/database.json+commonEvents/sergey-hax-ctron/event/5/thenStep/2/message+%2316631
 msgctxt "data/database.json//commonEvents/sergey-hax-ctron/event/5/thenStep/2/message"
 msgid "Those enemies don't fly nearly as far when I hit them.\\. They must be reacting to your \\c[1]ridiculous damage\\c[0].\\. Neat detail."
-msgstr "Cuando yo le pego a los enemigos no salen disparados como contigo.\\. Debe ser una reacción a tu \\c[1]ridículo daño\\c[0].\\. Lindo detalle."
+msgstr "Esos enemigos deben estar reaccionando a tu \\c[1]ridículo daño\\c[0].\\. Cuando yo les pego no salen volando como contigo.\\. Lindo detalle."
 
 #. data/database.json commonEvents/sergey-hax-ctron/event/6/thenStep/0/message #16603
 #. IF party.alive.Glasses && newgame.sergey-hax
@@ -5905,7 +5905,7 @@ msgstr "\\c[1]¡¡Adiós adiós!!\\c[0]"
 #: data/database.json+commonEvents/sergey-hax-ctron/event/6/thenStep/1/message+%2316633
 msgctxt "data/database.json//commonEvents/sergey-hax-ctron/event/6/thenStep/1/message"
 msgid "Just imagine if those damage numbers stood for actual \\c[1]force\\c[0] applied..."
-msgstr "Imagina si tus estadística de daño significara \\c[1]fuerza\\c[0] aplicada..."
+msgstr "Imagina si el daño correspondiera a la \\c[1]fuerza\\c[0] aplicada..."
 
 #. data/database.json commonEvents/sergey-hax-ctron/event/6/thenStep/2/message #16634
 #. IF party.alive.Glasses && newgame.sergey-hax
@@ -5914,7 +5914,7 @@ msgstr "Imagina si tus estadística de daño significara \\c[1]fuerza\\c[0] apli
 #: data/database.json+commonEvents/sergey-hax-ctron/event/6/thenStep/2/message+%2316634
 msgctxt "data/database.json//commonEvents/sergey-hax-ctron/event/6/thenStep/2/message"
 msgid "You probably could \\c[1]shoot through any kind of matter like butter\\c[0], if they were consistent with it."
-msgstr "Podrías \\c[1]atravesar la materia como si fuera manteca\\c[0], suponiendo que fuera consistente."
+msgstr "Probablemente podrías \\c[1]atravesar la materia como si fuera manteca\\c[0]."
 
 #. data/database.json commonEvents/sergey-hax-ctron/event/6/thenStep/3/message #16635
 #. IF party.alive.Glasses && newgame.sergey-hax
@@ -5923,7 +5923,7 @@ msgstr "Podrías \\c[1]atravesar la materia como si fuera manteca\\c[0], suponie
 #: data/database.json+commonEvents/sergey-hax-ctron/event/6/thenStep/3/message+%2316635
 msgctxt "data/database.json//commonEvents/sergey-hax-ctron/event/6/thenStep/3/message"
 msgid "Good thing they aren't, I guess."
-msgstr "Menos mal que no lo son, supongo."
+msgstr "Es un alivio que no sea el caso."
 
 #. data/database.json commonEvents/sergey-hax-ctron/event/7/thenStep/0/message #16606
 #. IF party.alive.Glasses && newgame.sergey-hax
@@ -5941,7 +5941,7 @@ msgstr "\\c[1]Adiós~\\c[0]"
 #: data/database.json+commonEvents/sergey-hax-ctron/event/7/thenStep/1/message+%2316637
 msgctxt "data/database.json//commonEvents/sergey-hax-ctron/event/7/thenStep/1/message"
 msgid "And another one gone...\\. Not much to do for me, I suppose."
-msgstr "Y otro que se va volando...\\. No creo que necesites de mi ayuda."
+msgstr "Y allá va...\\. No creo que necesites mi ayuda."
 
 #. data/database.json commonEvents/sergey-hax-ctron-emilie/event/0/thenStep/0/message #16638
 #. IF party.alive.Glasses && party.alive.Emilie && newgame.sergey-hax
@@ -8186,7 +8186,7 @@ msgstr "¡Mon dieu! ¡No paras!"
 #: data/database.json+commonEvents/cooldown-A/event/0/1_0/0/message+%2312012
 msgctxt "data/database.json//commonEvents/cooldown-A/event/0/1_0/0/message"
 msgid "Uhm... anyone up for a break?"
-msgstr "Uhm... ¿alguien quiere tomar un descanso?"
+msgstr "Uhm... ¿no quieres tomar un descanso?"
 
 #. data/database.json commonEvents/cooldown-A/event/0/2_0/0/message #15844
 #. SELECT_RANDOM
@@ -8270,7 +8270,7 @@ msgstr "Jeje, ¡estamos en racha!"
 #: data/database.json+commonEvents/cooldown-B/event/0/1_0/0/message+%2312013
 msgctxt "data/database.json//commonEvents/cooldown-B/event/0/1_0/0/message"
 msgid "You're pretty into fighting, aren't you?"
-msgstr "Te gusta mucho pelear, ¿no?"
+msgstr "Te gusta pelear, ¿eh?"
 
 #. data/database.json commonEvents/cooldown-B/event/0/2_0/0/message #15846
 #. SELECT_RANDOM
