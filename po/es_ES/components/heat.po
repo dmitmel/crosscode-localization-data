@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-11 15:55+0000\n"
-"PO-Revision-Date: 2022-04-17 03:20+0000\n"
+"PO-Revision-Date: 2022-04-17 05:38+0000\n"
 "Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/heat/es/>\n"
 "Language: es_ES\n"
@@ -416,7 +416,7 @@ msgstr "¡...!"
 #: data/maps/heat/caves/maroon-cave-02.json+entities/34/settings/event/10/message+%231
 msgctxt "data/maps/heat/caves/maroon-cave-02.json//entities/34/settings/event/10/message"
 msgid "Okey-dokey! First couple Tims defeated!"
-msgstr "¡Bien! ¡Primera dupla Tims derrotada!"
+msgstr "¡Bien! ¡Ya hemos vencido a los primeros Tims!"
 
 #. data/maps/heat/caves/maroon-cave-02.json entities/34/settings/event/11/message #3
 #. EventTrigger BattleEnd START IF tmp.group1 >= 3
@@ -528,7 +528,7 @@ msgstr "Uf..."
 #: data/maps/heat/caves/maroon-cave-03.json+entities/53/settings/event/22/message+%234
 msgctxt "data/maps/heat/caves/maroon-cave-03.json//entities/53/settings/event/22/message"
 msgid "I suppose the \\c[3]\\v[item.362.name]\\c[0] is the strange item the guard wants to see, right?"
-msgstr "Supongo que el \\c[3]\\v[item.362.name]\\c[0] es el extraño objeto que el guardia quería ver, ¿no?"
+msgstr "Supongo que el \\c[3]\\v[item.362.name]\\c[0] nos servirá de prueba para el guardia, ¿no?"
 
 #. data/maps/heat/caves/maroon-cave-03.json entities/53/settings/event/23/message #5
 #. EventTrigger bossKill START IF tmp.bossDefeated
@@ -544,7 +544,7 @@ msgstr "[asiente]"
 #: data/maps/heat/caves/maroon-cave-03.json+entities/53/settings/event/24/message+%236
 msgctxt "data/maps/heat/caves/maroon-cave-03.json//entities/53/settings/event/24/message"
 msgid "Okey-dokey!\\. Then let's go ba-"
-msgstr "¡De acuerdo!\\. Vayamos a ba..."
+msgstr "¡De acuerdo!\\. Vayamos vol..."
 
 #. data/maps/heat/caves/maroon-cave-03.json entities/53/settings/event/26/message #7
 #. EventTrigger bossKill START IF tmp.bossDefeated
@@ -592,7 +592,7 @@ msgstr "¡Hola!"
 #: data/maps/heat/caves/maroon-cave-03.json+entities/53/settings/event/36/message+%2312
 msgctxt "data/maps/heat/caves/maroon-cave-03.json//entities/53/settings/event/36/message"
 msgid "I'm, ba...\\.\\."
-msgstr "Soy, ba...\\.\\."
+msgstr "Estoy...\\.\\."
 
 #. data/maps/heat/caves/maroon-cave-03.json entities/53/settings/event/37/message #13
 #. EventTrigger bossKill START IF tmp.bossDefeated
@@ -656,7 +656,7 @@ msgstr "Bien, ¿dónde están ahora?"
 #: data/maps/heat/caves/maroon-cave-03.json+entities/53/settings/event/44/message+%2320
 msgctxt "data/maps/heat/caves/maroon-cave-03.json//entities/53/settings/event/44/message"
 msgid "Uhm...\\. Lea and I are currently in the Maroon Tree Cave..."
-msgstr "Mmm...\\. Lea y yo estamos en la Cueva del Árbol de Maroon..."
+msgstr "Mmm...\\. Lea y yo estamos en la Cueva del Árbol Maroon..."
 
 #. data/maps/heat/caves/maroon-cave-03.json entities/53/settings/event/45/message #21
 #. EventTrigger bossKill START IF tmp.bossDefeated
@@ -664,7 +664,7 @@ msgstr "Mmm...\\. Lea y yo estamos en la Cueva del Árbol de Maroon..."
 #: data/maps/heat/caves/maroon-cave-03.json+entities/53/settings/event/45/message+%2321
 msgctxt "data/maps/heat/caves/maroon-cave-03.json//entities/53/settings/event/45/message"
 msgid "Maroon Tree Cave..."
-msgstr "Cueva del Árbol de Maroon..."
+msgstr "Cueva del Árbol Maroon..."
 
 #. data/maps/heat/caves/maroon-cave-03.json entities/53/settings/event/46/message #22
 #. EventTrigger bossKill START IF tmp.bossDefeated
@@ -808,7 +808,7 @@ msgstr "Regresemos a la entrada de la cueva y mostrémosle el objeto al guardia.
 #: data/maps/heat/caves/maroon-cave-03.json+entities/53/settings/event/67/message+%2339
 msgctxt "data/maps/heat/caves/maroon-cave-03.json//entities/53/settings/event/67/message"
 msgid "I think the cave interior is instanced, but we might be able to meet Emilie outside."
-msgstr "Creo que el interior de la cueva es instanciado, pero tal vez podamos encontrarnos con Emilia afuera."
+msgstr "Creo que el interior de la cueva es instanciado, pero quizá podamos encontrarnos con Emilie afuera."
 
 #. data/maps/heat/caves/maroon-cave-03.json entities/53/settings/event/68/message #40
 #. EventTrigger bossKill START IF tmp.bossDefeated
@@ -5277,7 +5277,7 @@ msgstr "¡...!"
 #: data/maps/heat/oasis/oasis-path-02.json+entities/637/settings/npcStates/2/event/quest/10/message+%2314
 msgctxt "data/maps/heat/oasis/oasis-path-02.json//entities/637/settings/npcStates/2/event/quest/10/message"
 msgid "Oh! Is that the pass?\\. So Human must be here to help \\c[3]defeat Sandworm\\c[0]!"
-msgstr "¡Oh! ¿Ese es pase?\\. Entonces humano debe ayudar a \\c[3]vencer Gusano de Arena\\c[0]!"
+msgstr "¡Oh! ¿Ese es el pase?\\. ¡Entonces humano debe ayudar a \\c[3]vencer Gusano de Arena\\c[0]!"
 
 #. data/maps/heat/oasis/oasis-path-02.json entities/637/settings/npcStates/2/event/quest/11/message #15
 #. NPC shadGuard
@@ -5956,7 +5956,7 @@ msgstr ""
 #: data/maps/heat/oasis/oasis-path-02.json+entities/650/settings/event/0/message+%23914
 msgctxt "data/maps/heat/oasis/oasis-path-02.json//entities/650/settings/event/0/message"
 msgid "There we are! That must be the \\c[3]Maroon Tree\\c[0]!"
-msgstr "¡Aquí estamos! ¡Ese debe ser el \\c[3]Árbol Maroon\\c[0]!"
+msgstr "¡Hemos llegado! ¡Ese debe ser el \\c[3]Árbol Maroon\\c[0]!"
 
 #. data/maps/heat/oasis/oasis-path-02.json entities/651/settings/event/0/message #915
 #. LocationEvent maroonTree2 START IF party.alive.Emilie
