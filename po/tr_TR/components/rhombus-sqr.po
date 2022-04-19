@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.4.2-1\n"
+"Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-29 15:40+0000\n"
-"POT-Revision-Date: 2022-03-29 15:40+0000\n"
+"POT-Creation-Date: 2022-04-19 22:43+0000\n"
+"POT-Revision-Date: 2022-04-19 22:43+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: tr_TR\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0 (4b4a0dc 2022-03-08)\n"
+"X-Generator: crosscode-localization-engine 0.0.0 (e2bc05b 2022-04-19)\n"
 
 #. data/areas/rhombus-sqr.json name #3
 #: data/areas/rhombus-sqr.json+name+%233
@@ -11921,7 +11921,7 @@ msgstr ""
 #. SHOW_SIDE_MSG main.emilie @DETERMINED
 #: data/maps/rhombus-sqr/interior/arena-01.json+entities/40/settings/event/4/elseStep/0/0_0/0/message+%2316095
 msgctxt "data/maps/rhombus-sqr/interior/arena-01.json//entities/40/settings/event/4/elseStep/0/0_0/0/message"
-msgid "My Fists are itching!"
+msgid "My fists are itching!"
 msgstr ""
 
 #. data/maps/rhombus-sqr/interior/arena-01.json entities/40/settings/event/4/elseStep/0/1_0/0/message #16096
@@ -13175,14 +13175,26 @@ msgctxt "data/maps/rhombus-sqr/interior/booster.json//entities/24/settings/npcSt
 msgid "Good Luck and happy hunting, Seeker!"
 msgstr ""
 
-#. data/maps/rhombus-sqr/interior/booster.json entities/24/settings/npcStates/1/event/5/0/16/message #25
+#. data/maps/rhombus-sqr/interior/booster.json entities/24/settings/npcStates/1/event/5/0/16/thenStep/0/message #33
 #. NPC d1
 #. IF map.explainDone
 #. SHOW_CHOICE main.lea @DEFAULT
+#. IF lea.words.thanks
 #. SHOW_MSG main.lea @EXCITED
-#: data/maps/rhombus-sqr/interior/booster.json+entities/24/settings/npcStates/1/event/5/0/16/message+%2325
-msgctxt "data/maps/rhombus-sqr/interior/booster.json//entities/24/settings/npcStates/1/event/5/0/16/message"
+#: data/maps/rhombus-sqr/interior/booster.json+entities/24/settings/npcStates/1/event/5/0/16/thenStep/0/message+%2333
+msgctxt "data/maps/rhombus-sqr/interior/booster.json//entities/24/settings/npcStates/1/event/5/0/16/thenStep/0/message"
 msgid "Thanks!"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/booster.json entities/24/settings/npcStates/1/event/5/0/16/elseStep/0/message #34
+#. NPC d1
+#. IF map.explainDone
+#. SHOW_CHOICE main.lea @DEFAULT
+#. IF NOT lea.words.thanks
+#. SHOW_MSG main.lea @EXCITED
+#: data/maps/rhombus-sqr/interior/booster.json+entities/24/settings/npcStates/1/event/5/0/16/elseStep/0/message+%2334
+msgctxt "data/maps/rhombus-sqr/interior/booster.json//entities/24/settings/npcStates/1/event/5/0/16/elseStep/0/message"
+msgid "...!"
 msgstr ""
 
 #. data/maps/rhombus-sqr/interior/booster.json entities/24/settings/npcStates/1/event/5/1/0/message #31
@@ -13205,14 +13217,26 @@ msgctxt "data/maps/rhombus-sqr/interior/booster.json//entities/24/settings/npcSt
 msgid "Good Luck and happy hunting, Seeker!"
 msgstr ""
 
-#. data/maps/rhombus-sqr/interior/booster.json entities/24/settings/npcStates/1/event/5/1/2/message #27
+#. data/maps/rhombus-sqr/interior/booster.json entities/24/settings/npcStates/1/event/5/1/2/thenStep/0/message #35
 #. NPC d1
 #. IF map.explainDone
 #. SHOW_CHOICE main.lea @DEFAULT
+#. IF lea.words.thanks
 #. SHOW_MSG main.lea @EXCITED
-#: data/maps/rhombus-sqr/interior/booster.json+entities/24/settings/npcStates/1/event/5/1/2/message+%2327
-msgctxt "data/maps/rhombus-sqr/interior/booster.json//entities/24/settings/npcStates/1/event/5/1/2/message"
+#: data/maps/rhombus-sqr/interior/booster.json+entities/24/settings/npcStates/1/event/5/1/2/thenStep/0/message+%2335
+msgctxt "data/maps/rhombus-sqr/interior/booster.json//entities/24/settings/npcStates/1/event/5/1/2/thenStep/0/message"
 msgid "Thanks!"
+msgstr ""
+
+#. data/maps/rhombus-sqr/interior/booster.json entities/24/settings/npcStates/1/event/5/1/2/elseStep/0/message #36
+#. NPC d1
+#. IF map.explainDone
+#. SHOW_CHOICE main.lea @DEFAULT
+#. IF NOT lea.words.thanks
+#. SHOW_MSG main.lea @EXCITED
+#: data/maps/rhombus-sqr/interior/booster.json+entities/24/settings/npcStates/1/event/5/1/2/elseStep/0/message+%2336
+msgctxt "data/maps/rhombus-sqr/interior/booster.json//entities/24/settings/npcStates/1/event/5/1/2/elseStep/0/message"
+msgid "...!"
 msgstr ""
 
 #. data/maps/rhombus-sqr/interior/booster.json entities/24/settings/npcStates/1/event/5/options/0/label #28

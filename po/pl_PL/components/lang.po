@@ -1,18 +1,17 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.4.2-1\n"
+"Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-16 23:02+0000\n"
-"PO-Revision-Date: 2022-01-28 20:27+0000\n"
-"Last-Translator: Tymon <xtymon@getbackinthe.kitchen>\n"
-"Language-Team: Polish <https://weblate.crosscode.ru/projects/crosscode/lang/pl/>\n"
+"POT-Creation-Date: 2022-04-19 22:43+0000\n"
+"POT-Revision-Date: 2022-04-19 22:43+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: pl_PL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5.3\n"
-"POT-Revision-Date: 2022-01-16 23:02+0000\n"
+"Plural-Forms: \n"
+"X-Generator: crosscode-localization-engine 0.0.0 (e2bc05b 2022-04-19)\n"
 
 #. data/lang/sc/gimmick.en_US.json labels/unknown #0
 #: data/lang/sc/gimmick.en_US.json+labels/unknown+%230
@@ -1400,6 +1399,24 @@ msgctxt "data/lang/sc/gui.en_US.json//labels/combat-hud/skip"
 msgid "skip"
 msgstr "pomiń"
 
+#. data/lang/sc/gui.en_US.json labels/combat-hud/pvp-round #0
+#: data/lang/sc/gui.en_US.json+labels/combat-hud/pvp-round+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/combat-hud/pvp-round"
+msgid "Round"
+msgstr ""
+
+#. data/lang/sc/gui.en_US.json labels/combat-hud/boss #0
+#: data/lang/sc/gui.en_US.json+labels/combat-hud/boss+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/combat-hud/boss"
+msgid "Boss"
+msgstr ""
+
+#. data/lang/sc/gui.en_US.json labels/combat-hud/rank #0
+#: data/lang/sc/gui.en_US.json+labels/combat-hud/rank+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/combat-hud/rank"
+msgid "Rank"
+msgstr ""
+
 #. data/lang/sc/gui.en_US.json labels/combat-msg/break #0
 #: data/lang/sc/gui.en_US.json+labels/combat-msg/break+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/combat-msg/break"
@@ -1561,6 +1578,12 @@ msgid ""
 "This has shown to increase memory consumption and makes the game more likely to \\c[3]crash\\c[0].\n"
 "We recommend to play the game with a lower sampleRate setting of \\c[3]96000 Hz or lower\\c[0].\n"
 "On windows, you can change the sample rate through the \\c[3]Sound Control Panel\\c[0], in the \\c[3]Properties\\c[0] of your active \\c[3]Playback Device\\c[0] by changing the \\c[3]Default Format\\c[0] in the \\c[3]Advanced\\c[0] tab."
+msgstr ""
+
+#. data/lang/sc/gui.en_US.json labels/title-screen/changelog #0
+#: data/lang/sc/gui.en_US.json+labels/title-screen/changelog+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/title-screen/changelog"
+msgid "Changelog"
 msgstr ""
 
 #. data/lang/sc/gui.en_US.json labels/dlc-list/button #0
@@ -2232,6 +2255,12 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/quick-menu/noData+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/noData"
 msgid "Insufficient Data! Fight against this enemy to reveal more information."
+msgstr ""
+
+#. data/lang/sc/gui.en_US.json labels/quick-menu/analyze/enemy-level #0
+#: data/lang/sc/gui.en_US.json+labels/quick-menu/analyze/enemy-level+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/quick-menu/analyze/enemy-level"
+msgid "LV"
 msgstr ""
 
 #. data/lang/sc/gui.en_US.json labels/shop/buy #0
@@ -5357,6 +5386,12 @@ msgctxt "data/lang/sc/gui.en_US.json//labels/menu/option/arena"
 msgid "Arena"
 msgstr ""
 
+#. data/lang/sc/gui.en_US.json labels/menu/option/mods #0
+#: data/lang/sc/gui.en_US.json+labels/menu/option/mods+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/menu/option/mods"
+msgid "Mods"
+msgstr ""
+
 #. data/lang/sc/gui.en_US.json labels/menu/save-menu/delete #0
 #: data/lang/sc/gui.en_US.json+labels/menu/save-menu/delete+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/save-menu/delete"
@@ -5813,6 +5848,12 @@ msgctxt "data/lang/sc/gui.en_US.json//labels/menu/quests/noquest"
 msgid "No Quest selected"
 msgstr ""
 
+#. data/lang/sc/gui.en_US.json labels/menu/quests/lvl #0
+#: data/lang/sc/gui.en_US.json+labels/menu/quests/lvl+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/menu/quests/lvl"
+msgid "LVL"
+msgstr ""
+
 #. data/lang/sc/gui.en_US.json labels/menu/lore/tabs/story #0
 #: data/lang/sc/gui.en_US.json+labels/menu/lore/tabs/story+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/lore/tabs/story"
@@ -6213,6 +6254,24 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/social/classes/UNKNOWN+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/social/classes/UNKNOWN"
 msgid "Unknown"
+msgstr ""
+
+#. data/lang/sc/gui.en_US.json labels/menu/social/statuses/party #0
+#: data/lang/sc/gui.en_US.json+labels/menu/social/statuses/party+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/menu/social/statuses/party"
+msgid "Party"
+msgstr ""
+
+#. data/lang/sc/gui.en_US.json labels/menu/social/statuses/online #0
+#: data/lang/sc/gui.en_US.json+labels/menu/social/statuses/online+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/menu/social/statuses/online"
+msgid "Online"
+msgstr ""
+
+#. data/lang/sc/gui.en_US.json labels/menu/social/statuses/offline #0
+#: data/lang/sc/gui.en_US.json+labels/menu/social/statuses/offline+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/menu/social/statuses/offline"
+msgid "Offline"
 msgstr ""
 
 #. data/lang/sc/gui.en_US.json labels/menu/questHub/tabs/open #0
@@ -10370,6 +10429,12 @@ msgctxt "data/lang/sc/gui.en_US.json//labels/options/headers/arena"
 msgid "Arena"
 msgstr "Arena"
 
+#. data/lang/sc/gui.en_US.json labels/options/headers/logLevel #0
+#: data/lang/sc/gui.en_US.json+labels/options/headers/logLevel+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/options/headers/logLevel"
+msgid "Log levels"
+msgstr ""
+
 #. data/lang/sc/gui.en_US.json labels/options/arena-confirm/name #0
 #: data/lang/sc/gui.en_US.json+labels/options/arena-confirm/name+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/arena-confirm/name"
@@ -11772,6 +11837,48 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/options/assists-description/description+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/assists-description/description"
 msgid "\\c[3]CrossCode\\c[0] was designed with \\c[3]challenge\\c[0] in mind. However, if this makes the game less enjoyable or even inaccessible for you, you can use these options \\c[3]to tweak the difficulty\\c[0] to your liking!"
+msgstr ""
+
+#. data/lang/sc/gui.en_US.json labels/options/logLevel-log/name #0
+#: data/lang/sc/gui.en_US.json+labels/options/logLevel-log/name+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-log/name"
+msgid "Log level: Default"
+msgstr ""
+
+#. data/lang/sc/gui.en_US.json labels/options/logLevel-log/description #0
+#: data/lang/sc/gui.en_US.json+labels/options/logLevel-log/description+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-log/description"
+msgid "Enables default message popups. \\c[1]Needs a restart!"
+msgstr ""
+
+#. data/lang/sc/gui.en_US.json labels/options/logLevel-warn/name #0
+#: data/lang/sc/gui.en_US.json+labels/options/logLevel-warn/name+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-warn/name"
+msgid "Log level: Warnings"
+msgstr ""
+
+#. data/lang/sc/gui.en_US.json labels/options/logLevel-warn/description #0
+#: data/lang/sc/gui.en_US.json+labels/options/logLevel-warn/description+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-warn/description"
+msgid "Enables warning popups. \\c[1]Needs a restart!"
+msgstr ""
+
+#. data/lang/sc/gui.en_US.json labels/options/logLevel-error/name #0
+#: data/lang/sc/gui.en_US.json+labels/options/logLevel-error/name+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-error/name"
+msgid "Log level: Errors"
+msgstr ""
+
+#. data/lang/sc/gui.en_US.json labels/options/logLevel-error/description #0
+#: data/lang/sc/gui.en_US.json+labels/options/logLevel-error/description+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-error/description"
+msgid "Enables error popups. \\c[1]Needs a restart!"
+msgstr ""
+
+#. data/lang/sc/gui.en_US.json labels/options/mods-description/description #0
+#: data/lang/sc/gui.en_US.json+labels/options/mods-description/description+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/options/mods-description/description"
+msgid "In this menu you can \\c[3]enable or disable installed mods\\c[0]. Mod descriptions are shown below. \\c[1]The game needs to be restarted\\c[0] if you change any options here!"
 msgstr ""
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/pre #0

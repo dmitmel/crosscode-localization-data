@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.4.2-1\n"
+"Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-11 15:55+0000\n"
-"POT-Revision-Date: 2022-01-11 15:55+0000\n"
+"POT-Creation-Date: 2022-04-19 22:43+0000\n"
+"POT-Revision-Date: 2022-04-19 22:43+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: uk_UA\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0 (2168d54 2022-01-11)\n"
+"X-Generator: crosscode-localization-engine 0.0.0 (e2bc05b 2022-04-19)\n"
 
 #. data/areas/jungle-city.json name #1
 #: data/areas/jungle-city.json+name+%231
@@ -3564,83 +3564,94 @@ msgctxt "data/maps/jungle-city/interior/calzone-1.json//entities/28/settings/npc
 msgid "What is it, \\v[lore.title.seeker]? Got business to take care of."
 msgstr ""
 
-#. data/maps/jungle-city/interior/calzone-1.json entities/28/settings/npcStates/1/event/quest/4/thenStep/2/message #442
+#. data/maps/jungle-city/interior/calzone-1.json entities/28/settings/npcStates/1/event/quest/4/thenStep/2/thenStep/0/message #442
+#. NPC birdquestInfo
+#. IF quest.jungleGuard-3-papagang_goats_1.task.0 && !quest.jungleGuard-3-papagang_goats_1.solved
+#. IF !map.talkInformant
+#. IF lea.words.where
+#. SHOW_MSG main.lea @SURPRISED_TOWARD
+#: data/maps/jungle-city/interior/calzone-1.json+entities/28/settings/npcStates/1/event/quest/4/thenStep/2/thenStep/0/message+%23442
+msgctxt "data/maps/jungle-city/interior/calzone-1.json//entities/28/settings/npcStates/1/event/quest/4/thenStep/2/thenStep/0/message"
+msgid "Where?"
+msgstr ""
+
+#. data/maps/jungle-city/interior/calzone-1.json entities/28/settings/npcStates/1/event/quest/4/thenStep/3/message #467
 #. NPC birdquestInfo
 #. IF quest.jungleGuard-3-papagang_goats_1.task.0 && !quest.jungleGuard-3-papagang_goats_1.solved
 #. IF !map.talkInformant
 #. SHOW_MSG main.lea @SURPRISED_TOWARD
-#: data/maps/jungle-city/interior/calzone-1.json+entities/28/settings/npcStates/1/event/quest/4/thenStep/2/message+%23442
-msgctxt "data/maps/jungle-city/interior/calzone-1.json//entities/28/settings/npcStates/1/event/quest/4/thenStep/2/message"
-msgid "Where?"
+#: data/maps/jungle-city/interior/calzone-1.json+entities/28/settings/npcStates/1/event/quest/4/thenStep/3/message+%23467
+msgctxt "data/maps/jungle-city/interior/calzone-1.json//entities/28/settings/npcStates/1/event/quest/4/thenStep/3/message"
+msgid "Wait!"
 msgstr ""
 
-#. data/maps/jungle-city/interior/calzone-1.json entities/28/settings/npcStates/1/event/quest/4/thenStep/3/message #441
+#. data/maps/jungle-city/interior/calzone-1.json entities/28/settings/npcStates/1/event/quest/4/thenStep/4/message #441
 #. NPC birdquestInfo
 #. IF quest.jungleGuard-3-papagang_goats_1.task.0 && !quest.jungleGuard-3-papagang_goats_1.solved
 #. IF !map.talkInformant
 #. SHOW_MSG basin.male-hat-2 @DEFAULT
-#: data/maps/jungle-city/interior/calzone-1.json+entities/28/settings/npcStates/1/event/quest/4/thenStep/3/message+%23441
-msgctxt "data/maps/jungle-city/interior/calzone-1.json//entities/28/settings/npcStates/1/event/quest/4/thenStep/3/message"
+#: data/maps/jungle-city/interior/calzone-1.json+entities/28/settings/npcStates/1/event/quest/4/thenStep/4/message+%23441
+msgctxt "data/maps/jungle-city/interior/calzone-1.json//entities/28/settings/npcStates/1/event/quest/4/thenStep/4/message"
 msgid "Ha, that is new.\\. A noble \\v[lore.title.seeker] coming to the likes of me for information?\\. Interesting times."
 msgstr ""
 
-#. data/maps/jungle-city/interior/calzone-1.json entities/28/settings/npcStates/1/event/quest/4/thenStep/4/message #443
+#. data/maps/jungle-city/interior/calzone-1.json entities/28/settings/npcStates/1/event/quest/4/thenStep/5/message #443
 #. NPC birdquestInfo
 #. IF quest.jungleGuard-3-papagang_goats_1.task.0 && !quest.jungleGuard-3-papagang_goats_1.solved
 #. IF !map.talkInformant
 #. SHOW_MSG main.lea @ANNOYED
-#: data/maps/jungle-city/interior/calzone-1.json+entities/28/settings/npcStates/1/event/quest/4/thenStep/4/message+%23443
-msgctxt "data/maps/jungle-city/interior/calzone-1.json//entities/28/settings/npcStates/1/event/quest/4/thenStep/4/message"
+#: data/maps/jungle-city/interior/calzone-1.json+entities/28/settings/npcStates/1/event/quest/4/thenStep/5/message+%23443
+msgctxt "data/maps/jungle-city/interior/calzone-1.json//entities/28/settings/npcStates/1/event/quest/4/thenStep/5/message"
 msgid "Where?\\. How?\\. Lea."
 msgstr ""
 
-#. data/maps/jungle-city/interior/calzone-1.json entities/28/settings/npcStates/1/event/quest/4/thenStep/5/message #444
+#. data/maps/jungle-city/interior/calzone-1.json entities/28/settings/npcStates/1/event/quest/4/thenStep/6/message #444
 #. NPC birdquestInfo
 #. IF quest.jungleGuard-3-papagang_goats_1.task.0 && !quest.jungleGuard-3-papagang_goats_1.solved
 #. IF !map.talkInformant
 #. SHOW_MSG basin.male-hat-2 @DEFAULT
-#: data/maps/jungle-city/interior/calzone-1.json+entities/28/settings/npcStates/1/event/quest/4/thenStep/5/message+%23444
-msgctxt "data/maps/jungle-city/interior/calzone-1.json//entities/28/settings/npcStates/1/event/quest/4/thenStep/5/message"
+#: data/maps/jungle-city/interior/calzone-1.json+entities/28/settings/npcStates/1/event/quest/4/thenStep/6/message+%23444
+msgctxt "data/maps/jungle-city/interior/calzone-1.json//entities/28/settings/npcStates/1/event/quest/4/thenStep/6/message"
 msgid "Well, surely I might have some information on the affairs of those winged crooks.\\. But I won't share it for free, feel me?"
 msgstr ""
 
-#. data/maps/jungle-city/interior/calzone-1.json entities/28/settings/npcStates/1/event/quest/4/thenStep/6/message #445
+#. data/maps/jungle-city/interior/calzone-1.json entities/28/settings/npcStates/1/event/quest/4/thenStep/7/message #445
 #. NPC birdquestInfo
 #. IF quest.jungleGuard-3-papagang_goats_1.task.0 && !quest.jungleGuard-3-papagang_goats_1.solved
 #. IF !map.talkInformant
 #. SHOW_MSG main.lea @EXHAUSTED
-#: data/maps/jungle-city/interior/calzone-1.json+entities/28/settings/npcStates/1/event/quest/4/thenStep/6/message+%23445
-msgctxt "data/maps/jungle-city/interior/calzone-1.json//entities/28/settings/npcStates/1/event/quest/4/thenStep/6/message"
+#: data/maps/jungle-city/interior/calzone-1.json+entities/28/settings/npcStates/1/event/quest/4/thenStep/7/message+%23445
+msgctxt "data/maps/jungle-city/interior/calzone-1.json//entities/28/settings/npcStates/1/event/quest/4/thenStep/7/message"
 msgid "..."
 msgstr ""
 
-#. data/maps/jungle-city/interior/calzone-1.json entities/28/settings/npcStates/1/event/quest/4/thenStep/7/message #446
+#. data/maps/jungle-city/interior/calzone-1.json entities/28/settings/npcStates/1/event/quest/4/thenStep/8/message #446
 #. NPC birdquestInfo
 #. IF quest.jungleGuard-3-papagang_goats_1.task.0 && !quest.jungleGuard-3-papagang_goats_1.solved
 #. IF !map.talkInformant
 #. SHOW_MSG main.lea @NERVOUS
-#: data/maps/jungle-city/interior/calzone-1.json+entities/28/settings/npcStates/1/event/quest/4/thenStep/7/message+%23446
-msgctxt "data/maps/jungle-city/interior/calzone-1.json//entities/28/settings/npcStates/1/event/quest/4/thenStep/7/message"
+#: data/maps/jungle-city/interior/calzone-1.json+entities/28/settings/npcStates/1/event/quest/4/thenStep/8/message+%23446
+msgctxt "data/maps/jungle-city/interior/calzone-1.json//entities/28/settings/npcStates/1/event/quest/4/thenStep/8/message"
 msgid "How?"
 msgstr ""
 
-#. data/maps/jungle-city/interior/calzone-1.json entities/28/settings/npcStates/1/event/quest/4/thenStep/8/message #288
+#. data/maps/jungle-city/interior/calzone-1.json entities/28/settings/npcStates/1/event/quest/4/thenStep/9/message #288
 #. NPC birdquestInfo
 #. IF quest.jungleGuard-3-papagang_goats_1.task.0 && !quest.jungleGuard-3-papagang_goats_1.solved
 #. IF !map.talkInformant
 #. SHOW_MSG basin.male-hat-2 @DEFAULT
-#: data/maps/jungle-city/interior/calzone-1.json+entities/28/settings/npcStates/1/event/quest/4/thenStep/8/message+%23288
-msgctxt "data/maps/jungle-city/interior/calzone-1.json//entities/28/settings/npcStates/1/event/quest/4/thenStep/8/message"
+#: data/maps/jungle-city/interior/calzone-1.json+entities/28/settings/npcStates/1/event/quest/4/thenStep/9/message+%23288
+msgctxt "data/maps/jungle-city/interior/calzone-1.json//entities/28/settings/npcStates/1/event/quest/4/thenStep/9/message"
 msgid "Well, I am a humble informant.\\. And hungry besides."
 msgstr ""
 
-#. data/maps/jungle-city/interior/calzone-1.json entities/28/settings/npcStates/1/event/quest/4/thenStep/9/message #447
+#. data/maps/jungle-city/interior/calzone-1.json entities/28/settings/npcStates/1/event/quest/4/thenStep/10/message #447
 #. NPC birdquestInfo
 #. IF quest.jungleGuard-3-papagang_goats_1.task.0 && !quest.jungleGuard-3-papagang_goats_1.solved
 #. IF !map.talkInformant
 #. SHOW_MSG basin.male-hat-2 @DEFAULT
-#: data/maps/jungle-city/interior/calzone-1.json+entities/28/settings/npcStates/1/event/quest/4/thenStep/9/message+%23447
-msgctxt "data/maps/jungle-city/interior/calzone-1.json//entities/28/settings/npcStates/1/event/quest/4/thenStep/9/message"
+#: data/maps/jungle-city/interior/calzone-1.json+entities/28/settings/npcStates/1/event/quest/4/thenStep/10/message+%23447
+msgctxt "data/maps/jungle-city/interior/calzone-1.json//entities/28/settings/npcStates/1/event/quest/4/thenStep/10/message"
 msgid "So\\..\\..\\.. Just, give me \\c[3]7000 credits\\c[0] and \\c[3]3 Chef Sandwiches\\c[0] and we have a deal."
 msgstr ""
 

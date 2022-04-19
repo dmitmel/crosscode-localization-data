@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.4.2-1\n"
+"Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-16 23:02+0000\n"
-"POT-Revision-Date: 2022-01-16 23:02+0000\n"
+"POT-Creation-Date: 2022-04-19 22:43+0000\n"
+"POT-Revision-Date: 2022-04-19 22:43+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: pl_PL\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0 (4646031 2022-01-16)\n"
+"X-Generator: crosscode-localization-engine 0.0.0 (e2bc05b 2022-04-19)\n"
 
 #. data/arena/boss-cup.json core/name #4
 #. SOLO_CUP
@@ -403,7 +403,7 @@ msgstr ""
 #: data/arena/faction-cup-1.json+rounds/5/objective+%2337
 msgctxt "data/arena/faction-cup-1.json//rounds/5/objective"
 msgid ""
-"Fight the favored machinery of treacherous Baki'Kum guards, \\c[3]\\v[combat.name.heat/special/baki-turret_1]s\\c[0] led by a \\c[3]\\v[combat.name.heat/special/baki-cmd_bot]\\c[0]!\n"
+"Fight the favored machinery of treacherous Ba'kii Kum guards, \\c[3]\\v[combat.name.heat/special/baki-turret_1]s\\c[0] led by a \\c[3]\\v[combat.name.heat/special/baki-cmd_bot]\\c[0]!\n"
 "\\c[3]Break the leader\\c[0] to deactivate the \\c[3]shields\\c[0] of the turrets!"
 msgstr ""
 
@@ -456,7 +456,7 @@ msgstr ""
 #: data/arena/faction-cup-2.json+rounds/1/objective+%2355
 msgctxt "data/arena/faction-cup-2.json//rounds/1/objective"
 msgid ""
-"Have another duel with \\c[3]\\v[combat.name.heat/special/guard-hostile-mustache]\\c[0], Bakii'Kums most treasonous guard!\n"
+"Have another duel with \\c[3]\\v[combat.name.heat/special/guard-hostile-mustache]\\c[0], Ba'kii Kum's most treasonous guard!\n"
 "And also trash his \\c[3]\\v[combat.name.heat/special/baki-turret_2]s\\c[0] while you're at it!"
 msgstr ""
 
@@ -631,7 +631,7 @@ msgstr ""
 #: data/arena/faction-team-cup-1.json+rounds/4/objective+%2337
 msgctxt "data/arena/faction-team-cup-1.json//rounds/4/objective"
 msgid ""
-"Fight the favored machinery of treacherous Baki'Kum guards, \\c[3]\\v[combat.name.heat/special/baki-turret_1]s\\c[0] led by a \\c[3]\\v[combat.name.heat/special/baki-cmd_bot]\\c[0]!\n"
+"Fight the favored machinery of treacherous Ba'kii Kum guards, \\c[3]\\v[combat.name.heat/special/baki-turret_1]s\\c[0] led by a \\c[3]\\v[combat.name.heat/special/baki-cmd_bot]\\c[0]!\n"
 "\\c[3]Break the leader\\c[0] to deactivate the \\c[3]shields\\c[0] of the turrets!"
 msgstr ""
 
@@ -1663,697 +1663,6 @@ msgctxt "data/arena/vermillion-cup.json//rounds/7/objective"
 msgid "Beat a stronger version of \\c[3]\\v[combat.name.boss/elephant]\\c[0] boss from the \\c[3]\\v[area.arid.name]\\c[0]!"
 msgstr ""
 
-#. extension/post-game/data/arena/ancient-boss-cup.json core/name #1
-#. SOLO_CUP
-#: extension/post-game/data/arena/ancient-boss-cup.json+core/name+%231
-msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//core/name"
-msgid "Ancient Boss Cup"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-boss-cup.json core/info #2
-#. SOLO_CUP
-#: extension/post-game/data/arena/ancient-boss-cup.json+core/info+%232
-msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//core/info"
-msgid "Take on stronger versions of boss fights from the \\v[area.final-dng.name]."
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-boss-cup.json core/creator #3
-#. SOLO_CUP
-#: extension/post-game/data/arena/ancient-boss-cup.json+core/creator+%233
-msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//core/creator"
-msgid "R.D."
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-boss-cup.json rounds/0/name #65
-#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/0/name+%2365
-msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/0/name"
-msgid "The S.H.I.E.L.D."
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-boss-cup.json rounds/0/objective #66
-#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/0/objective+%2366
-msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/0/objective"
-msgid "Beat a stronger version of the \\c[3]\\v[combat.name.final/guardian]\\c[0] boss from the \\c[3]\\v[area.final-dng.name]\\c[0]!"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-boss-cup.json rounds/1/name #67
-#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/1/name+%2367
-msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/1/name"
-msgid "The Hot Lid"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-boss-cup.json rounds/1/objective #68
-#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/1/objective+%2368
-msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/1/objective"
-msgid "Beat a stronger version of the \\c[3]Heat \\v[combat.name.final/guardian]\\c[0] boss from the \\c[3]\\v[area.final-dng.name]\\c[0]!"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-boss-cup.json rounds/2/name #69
-#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/2/name+%2369
-msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/2/name"
-msgid "The Cold Plate"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-boss-cup.json rounds/2/objective #70
-#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/2/objective+%2370
-msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/2/objective"
-msgid "Beat a stronger version of the \\c[3]Cold \\v[combat.name.final/guardian]\\c[0] boss from the \\c[3]\\v[area.final-dng.name]\\c[0]!"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-boss-cup.json rounds/3/name #71
-#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/3/name+%2371
-msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/3/name"
-msgid "The Blitz Buckler"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-boss-cup.json rounds/3/objective #72
-#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/3/objective+%2372
-msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/3/objective"
-msgid "Beat a stronger version of the \\c[3]Shock \\v[combat.name.final/guardian]\\c[0] boss from the \\c[3]\\v[area.final-dng.name]\\c[0]!"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-boss-cup.json rounds/4/name #73
-#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/4/name+%2373
-msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/4/name"
-msgid "The Wave Wall"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-boss-cup.json rounds/4/objective #74
-#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/4/objective+%2374
-msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/4/objective"
-msgid "Beat a stronger version of the \\c[3]Wave \\v[combat.name.final/guardian]\\c[0] boss from the \\c[3]\\v[area.final-dng.name]\\c[0]!"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-boss-cup.json rounds/5/name #75
-#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/5/name+%2375
-msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/5/name"
-msgid "The Monk"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-boss-cup.json rounds/5/objective #76
-#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/5/objective+%2376
-msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/5/objective"
-msgid "Beat a stronger version of \\c[3]\\v[combat.name.final/gynthar]\\c[0] boss from the \\c[3]\\v[area.final-dng.name]\\c[0]!"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-boss-cup.json rounds/6/name #77
-#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/6/name+%2377
-msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/6/name"
-msgid "The Ancient Gods"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-boss-cup.json rounds/6/objective #78
-#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/6/objective+%2378
-msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/6/objective"
-msgid "Beat stronger versions of the \\c[3]Ancient Gods\\c[0] from the \\c[3]\\v[area.final-dng.name]\\c[0]!"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-cup.json core/name #1
-#. SOLO_CUP
-#: extension/post-game/data/arena/ancient-cup.json+core/name+%231
-msgctxt "extension/post-game/data/arena/ancient-cup.json//core/name"
-msgid "Ancient Cup"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-cup.json core/info #2
-#. SOLO_CUP
-#: extension/post-game/data/arena/ancient-cup.json+core/info+%232
-msgctxt "extension/post-game/data/arena/ancient-cup.json//core/info"
-msgid "A cup featuring enemies from the \\v[area.beach.name] & the \\v[area.final-dng.name]."
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-cup.json core/creator #3
-#. SOLO_CUP
-#: extension/post-game/data/arena/ancient-cup.json+core/creator+%233
-msgctxt "extension/post-game/data/arena/ancient-cup.json//core/creator"
-msgid "R.D."
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-cup.json rounds/0/name #7
-#: extension/post-game/data/arena/ancient-cup.json+rounds/0/name+%237
-msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/0/name"
-msgid "Beach Stars"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-cup.json rounds/0/objective #8
-#: extension/post-game/data/arena/ancient-cup.json+rounds/0/objective+%238
-msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/0/objective"
-msgid "Defeat enemies hailing from \\c[3]\\v[area.beach.name]\\c[0]!"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-cup.json rounds/1/name #51
-#: extension/post-game/data/arena/ancient-cup.json+rounds/1/name+%2351
-msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/1/name"
-msgid "Sun Burners"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-cup.json rounds/1/objective #52
-#: extension/post-game/data/arena/ancient-cup.json+rounds/1/objective+%2352
-msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/1/objective"
-msgid "Defeat enemies hailing from \\c[3]\\v[area.beach.name]\\c[0]!"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-cup.json rounds/2/name #53
-#: extension/post-game/data/arena/ancient-cup.json+rounds/2/name+%2353
-msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/2/name"
-msgid "Global Worming"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-cup.json rounds/2/objective #54
-#: extension/post-game/data/arena/ancient-cup.json+rounds/2/objective+%2354
-msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/2/objective"
-msgid "Defeat enemies hailing from \\c[3]\\v[area.beach.name]\\c[0]!"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-cup.json rounds/3/name #55
-#: extension/post-game/data/arena/ancient-cup.json+rounds/3/name+%2355
-msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/3/name"
-msgid "Shell Fish Business"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-cup.json rounds/3/objective #56
-#: extension/post-game/data/arena/ancient-cup.json+rounds/3/objective+%2356
-msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/3/objective"
-msgid "Defeat enemies hailing from \\c[3]\\v[area.beach.name]\\c[0]!"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-cup.json rounds/4/name #57
-#: extension/post-game/data/arena/ancient-cup.json+rounds/4/name+%2357
-msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/4/name"
-msgid "Crystal Breakers"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-cup.json rounds/4/objective #58
-#: extension/post-game/data/arena/ancient-cup.json+rounds/4/objective+%2358
-msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/4/objective"
-msgid "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-cup.json rounds/5/name #61
-#: extension/post-game/data/arena/ancient-cup.json+rounds/5/name+%2361
-msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/5/name"
-msgid "Full Metal Birds"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-cup.json rounds/5/objective #62
-#: extension/post-game/data/arena/ancient-cup.json+rounds/5/objective+%2362
-msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/5/objective"
-msgid "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-cup.json rounds/6/name #59
-#: extension/post-game/data/arena/ancient-cup.json+rounds/6/name+%2359
-msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/6/name"
-msgid "Spicy Spirits"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-cup.json rounds/6/objective #60
-#: extension/post-game/data/arena/ancient-cup.json+rounds/6/objective+%2360
-msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/6/objective"
-msgid "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-cup.json rounds/7/name #63
-#: extension/post-game/data/arena/ancient-cup.json+rounds/7/name+%2363
-msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/7/name"
-msgid "Bad News Bearer"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-cup.json rounds/7/objective #64
-#: extension/post-game/data/arena/ancient-cup.json+rounds/7/objective+%2364
-msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/7/objective"
-msgid "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-cup.json rounds/8/name #67
-#: extension/post-game/data/arena/ancient-cup.json+rounds/8/name+%2367
-msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/8/name"
-msgid "Stacking Crew"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-cup.json rounds/8/objective #68
-#: extension/post-game/data/arena/ancient-cup.json+rounds/8/objective+%2368
-msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/8/objective"
-msgid "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-team-cup.json core/name #1
-#. TEAM_CUP
-#: extension/post-game/data/arena/ancient-team-cup.json+core/name+%231
-msgctxt "extension/post-game/data/arena/ancient-team-cup.json//core/name"
-msgid "Ancient Team Cup"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-team-cup.json core/info #2
-#. TEAM_CUP
-#: extension/post-game/data/arena/ancient-team-cup.json+core/info+%232
-msgctxt "extension/post-game/data/arena/ancient-team-cup.json//core/info"
-msgid "A team cup featuring enemies from the \\v[area.beach.name] & the \\v[area.final-dng.name]."
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-team-cup.json core/creator #3
-#. TEAM_CUP
-#: extension/post-game/data/arena/ancient-team-cup.json+core/creator+%233
-msgctxt "extension/post-game/data/arena/ancient-team-cup.json//core/creator"
-msgid "R.D."
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-team-cup.json rounds/0/name #7
-#: extension/post-game/data/arena/ancient-team-cup.json+rounds/0/name+%237
-msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/0/name"
-msgid "Beach Stars"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-team-cup.json rounds/0/objective #8
-#: extension/post-game/data/arena/ancient-team-cup.json+rounds/0/objective+%238
-msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/0/objective"
-msgid "Defeat enemies hailing from \\c[3]\\v[area.beach.name]\\c[0]!"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-team-cup.json rounds/1/name #51
-#: extension/post-game/data/arena/ancient-team-cup.json+rounds/1/name+%2351
-msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/1/name"
-msgid "Sun Burners"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-team-cup.json rounds/1/objective #52
-#: extension/post-game/data/arena/ancient-team-cup.json+rounds/1/objective+%2352
-msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/1/objective"
-msgid "Defeat enemies hailing from \\c[3]\\v[area.beach.name]\\c[0]!"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-team-cup.json rounds/2/name #53
-#: extension/post-game/data/arena/ancient-team-cup.json+rounds/2/name+%2353
-msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/2/name"
-msgid "Global Worming"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-team-cup.json rounds/2/objective #54
-#: extension/post-game/data/arena/ancient-team-cup.json+rounds/2/objective+%2354
-msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/2/objective"
-msgid "Defeat enemies hailing from \\c[3]\\v[area.beach.name]\\c[0]!"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-team-cup.json rounds/3/name #55
-#: extension/post-game/data/arena/ancient-team-cup.json+rounds/3/name+%2355
-msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/3/name"
-msgid "Shell Fish Business"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-team-cup.json rounds/3/objective #56
-#: extension/post-game/data/arena/ancient-team-cup.json+rounds/3/objective+%2356
-msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/3/objective"
-msgid "Defeat enemies hailing from \\c[3]\\v[area.beach.name]\\c[0]!"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-team-cup.json rounds/4/name #57
-#: extension/post-game/data/arena/ancient-team-cup.json+rounds/4/name+%2357
-msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/4/name"
-msgid "Crystal Breakers"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-team-cup.json rounds/4/objective #58
-#: extension/post-game/data/arena/ancient-team-cup.json+rounds/4/objective+%2358
-msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/4/objective"
-msgid "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-team-cup.json rounds/5/name #61
-#: extension/post-game/data/arena/ancient-team-cup.json+rounds/5/name+%2361
-msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/5/name"
-msgid "Full Metal Birds"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-team-cup.json rounds/5/objective #62
-#: extension/post-game/data/arena/ancient-team-cup.json+rounds/5/objective+%2362
-msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/5/objective"
-msgid "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-team-cup.json rounds/6/name #59
-#: extension/post-game/data/arena/ancient-team-cup.json+rounds/6/name+%2359
-msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/6/name"
-msgid "Spicy Spirits"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-team-cup.json rounds/6/objective #60
-#: extension/post-game/data/arena/ancient-team-cup.json+rounds/6/objective+%2360
-msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/6/objective"
-msgid "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-team-cup.json rounds/7/name #63
-#: extension/post-game/data/arena/ancient-team-cup.json+rounds/7/name+%2363
-msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/7/name"
-msgid "Bad News Bearer"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-team-cup.json rounds/7/objective #64
-#: extension/post-game/data/arena/ancient-team-cup.json+rounds/7/objective+%2364
-msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/7/objective"
-msgid "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-team-cup.json rounds/8/name #67
-#: extension/post-game/data/arena/ancient-team-cup.json+rounds/8/name+%2367
-msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/8/name"
-msgid "Stacking Crew"
-msgstr ""
-
-#. extension/post-game/data/arena/ancient-team-cup.json rounds/8/objective #68
-#: extension/post-game/data/arena/ancient-team-cup.json+rounds/8/objective+%2368
-msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/8/objective"
-msgid "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!"
-msgstr ""
-
-#. extension/post-game/data/arena/apollo-cup.json core/name #4
-#. SOLO_CUSTOM
-#: extension/post-game/data/arena/apollo-cup.json+core/name+%234
-msgctxt "extension/post-game/data/arena/apollo-cup.json//core/name"
-msgid "PvP vs Apollo"
-msgstr ""
-
-#. extension/post-game/data/arena/apollo-cup.json core/info #1
-#. SOLO_CUSTOM
-#: extension/post-game/data/arena/apollo-cup.json+core/info+%231
-msgctxt "extension/post-game/data/arena/apollo-cup.json//core/info"
-msgid "Fight Apollo in PvP Combat!"
-msgstr ""
-
-#. extension/post-game/data/arena/apollo-cup.json core/creator #28
-#. SOLO_CUSTOM
-#: extension/post-game/data/arena/apollo-cup.json+core/creator+%2328
-msgctxt "extension/post-game/data/arena/apollo-cup.json//core/creator"
-msgid "Apollo"
-msgstr ""
-
-#. extension/post-game/data/arena/apollo-cup.json rounds/0/name #33
-#. DEFAULT
-#: extension/post-game/data/arena/apollo-cup.json+rounds/0/name+%2333
-msgctxt "extension/post-game/data/arena/apollo-cup.json//rounds/0/name"
-msgid "A Challenge!"
-msgstr ""
-
-#. extension/post-game/data/arena/apollo-cup.json rounds/0/objective #34
-#. DEFAULT
-#: extension/post-game/data/arena/apollo-cup.json+rounds/0/objective+%2334
-msgctxt "extension/post-game/data/arena/apollo-cup.json//rounds/0/objective"
-msgid "Let us do combat, Spheromancer Lea!"
-msgstr ""
-
-#. extension/post-game/data/arena/faction-cup-3.json core/name #4
-#. SOLO_CUP
-#: extension/post-game/data/arena/faction-cup-3.json+core/name+%234
-msgctxt "extension/post-game/data/arena/faction-cup-3.json//core/name"
-msgid "Wanderer's Cup"
-msgstr ""
-
-#. extension/post-game/data/arena/faction-cup-3.json core/info #1
-#. SOLO_CUP
-#: extension/post-game/data/arena/faction-cup-3.json+core/info+%231
-msgctxt "extension/post-game/data/arena/faction-cup-3.json//core/info"
-msgid "Refight several challenging battles found during your endgame quests!"
-msgstr ""
-
-#. extension/post-game/data/arena/faction-cup-3.json core/creator #50
-#. SOLO_CUP
-#: extension/post-game/data/arena/faction-cup-3.json+core/creator+%2350
-msgctxt "extension/post-game/data/arena/faction-cup-3.json//core/creator"
-msgid "GFluegel"
-msgstr ""
-
-#. extension/post-game/data/arena/faction-cup-3.json rounds/0/name #56
-#. DEFAULT
-#: extension/post-game/data/arena/faction-cup-3.json+rounds/0/name+%2356
-msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/0/name"
-msgid "Sobering Slaughter"
-msgstr ""
-
-#. extension/post-game/data/arena/faction-cup-3.json rounds/0/objective #57
-#. DEFAULT
-#: extension/post-game/data/arena/faction-cup-3.json+rounds/0/objective+%2357
-msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/0/objective"
-msgid ""
-"Defeat the \\c[3]\\v[combat.name.heat/special/jellyfish-booze]s and \\v[combat.name.heat/special/heat-golem-booze]\\c[0] in \\c[3]the Distillery of \\v[area.heat-village.name]\\c[0]!\n"
-"Throw \\c[3]ice into the ovens to deactivate the shields\\c[0] and \\c[3]onto the machine to prevent overheating\\c[0]!"
-msgstr ""
-
-#. extension/post-game/data/arena/faction-cup-3.json rounds/1/name #54
-#. DEFAULT
-#: extension/post-game/data/arena/faction-cup-3.json+rounds/1/name+%2354
-msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/1/name"
-msgid "Ocean Operation"
-msgstr ""
-
-#. extension/post-game/data/arena/faction-cup-3.json rounds/1/objective #51
-#. DEFAULT
-#: extension/post-game/data/arena/faction-cup-3.json+rounds/1/objective+%2351
-msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/1/objective"
-msgid ""
-"Defeat the \\c[3]\\v[combat.name.autumn-rh/turret_boss-quest_naval]\\c[0] on \\c[3]the ocean\\c[0]!\n"
-"Make sure \\c[3]your turret-boat doesn't get destroyed!\\c[0]!"
-msgstr ""
-
-#. extension/post-game/data/arena/faction-cup-3.json rounds/2/name #58
-#. DEFAULT
-#: extension/post-game/data/arena/faction-cup-3.json+rounds/2/name+%2358
-msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/2/name"
-msgid "Ghost of a Chance"
-msgstr ""
-
-#. extension/post-game/data/arena/faction-cup-3.json rounds/2/objective #55
-#. DEFAULT
-#: extension/post-game/data/arena/faction-cup-3.json+rounds/2/objective+%2355
-msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/2/objective"
-msgid ""
-"Work with a salty helper to defeat \\c[3]\\v[combat.name.jungle/special/ghost-toxic]\\c[0] at the entrance to \\v[area.jungle-city.name]!\n"
-"\\c[3]Defend your ally\\c[0] while \\c[3]they weaken the enemy\\c[0]!"
-msgstr ""
-
-#. extension/post-game/data/arena/faction-cup-3.json rounds/3/name #40
-#. DEFAULT
-#: extension/post-game/data/arena/faction-cup-3.json+rounds/3/name+%2340
-msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/3/name"
-msgid "Tremoring Tech"
-msgstr ""
-
-#. extension/post-game/data/arena/faction-cup-3.json rounds/3/objective #41
-#. DEFAULT
-#: extension/post-game/data/arena/faction-cup-3.json+rounds/3/objective+%2341
-msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/3/objective"
-msgid ""
-"Defeat the shaking \\c[3]\\v[combat.name.autumn-fall/runbot-tremor]\\c[0] in the hidden office in \\c[3]\\v[area.rhombus-sqr.name]\\c[0]!\n"
-"Its \\c[3]aura\\c[0] can be \\c[3]neutralized\\c[0] with \\c[3]Shock\\c[0]!"
-msgstr ""
-
-#. extension/post-game/data/arena/faction-cup-3.json rounds/4/name #44
-#. DEFAULT
-#: extension/post-game/data/arena/faction-cup-3.json+rounds/4/name+%2344
-msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/4/name"
-msgid "Pewpew Parrot"
-msgstr ""
-
-#. extension/post-game/data/arena/faction-cup-3.json rounds/4/objective #45
-#. DEFAULT
-#: extension/post-game/data/arena/faction-cup-3.json+rounds/4/objective+%2345
-msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/4/objective"
-msgid ""
-"Defeat \\c[3]\\v[combat.name.jungle/special/parrot-gangster-boss-1]\\c[0] on a rooftop of \\c[3]\\v[area.jungle-city.name]\\c[0]!\n"
-"Try to \\c[3]shoot down the missiles\\c[0] before they overwhelm you!"
-msgstr ""
-
-#. extension/post-game/data/arena/faction-cup-3.json rounds/5/name #46
-#. DEFAULT
-#: extension/post-game/data/arena/faction-cup-3.json+rounds/5/name+%2346
-msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/5/name"
-msgid "The Goatfather, Part II"
-msgstr ""
-
-#. extension/post-game/data/arena/faction-cup-3.json rounds/5/objective #47
-#. DEFAULT
-#: extension/post-game/data/arena/faction-cup-3.json+rounds/5/objective+%2347
-msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/5/objective"
-msgid ""
-"Defeat \\c[3]\\v[combat.name.cold/goat-father-2]\\c[0] in \\c[3]\\v[area.rhombus-sqr.name]\\c[0]!\n"
-"This time you fight him for real!"
-msgstr ""
-
-#. extension/post-game/data/arena/faction-cup-3.json rounds/6/name #52
-#. DEFAULT
-#: extension/post-game/data/arena/faction-cup-3.json+rounds/6/name+%2352
-msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/6/name"
-msgid "Ape Assault"
-msgstr ""
-
-#. extension/post-game/data/arena/faction-cup-3.json rounds/6/objective #53
-#. DEFAULT
-#: extension/post-game/data/arena/faction-cup-3.json+rounds/6/objective+%2353
-msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/6/objective"
-msgid ""
-"Defeat the \\c[3]\\v[combat.name.beach/ape-beach]\\c[0] on the \\c[3]\\v[area.beach.name]\\c[0]!\n"
-"This is a duel for the ages!"
-msgstr ""
-
-#. extension/post-game/data/arena/guest-cup-1.json core/name #4
-#. SOLO_CUSTOM
-#: extension/post-game/data/arena/guest-cup-1.json+core/name+%234
-msgctxt "extension/post-game/data/arena/guest-cup-1.json//core/name"
-msgid "Supporters' Cup"
-msgstr ""
-
-#. extension/post-game/data/arena/guest-cup-1.json core/info #1
-#. SOLO_CUSTOM
-#: extension/post-game/data/arena/guest-cup-1.json+core/info+%231
-msgctxt "extension/post-game/data/arena/guest-cup-1.json//core/info"
-msgid "Refight several challenging battles envisioned by generous supporters!"
-msgstr ""
-
-#. extension/post-game/data/arena/guest-cup-1.json core/creator #50
-#. SOLO_CUSTOM
-#: extension/post-game/data/arena/guest-cup-1.json+core/creator+%2350
-msgctxt "extension/post-game/data/arena/guest-cup-1.json//core/creator"
-msgid "Supporters"
-msgstr ""
-
-#. extension/post-game/data/arena/guest-cup-1.json rounds/0/name #44
-#. DEFAULT
-#: extension/post-game/data/arena/guest-cup-1.json+rounds/0/name+%2344
-msgctxt "extension/post-game/data/arena/guest-cup-1.json//rounds/0/name"
-msgid "Some Standard Ninja Dude"
-msgstr ""
-
-#. extension/post-game/data/arena/guest-cup-1.json rounds/0/objective #45
-#. DEFAULT
-#: extension/post-game/data/arena/guest-cup-1.json+rounds/0/objective+%2345
-msgctxt "extension/post-game/data/arena/guest-cup-1.json//rounds/0/objective"
-msgid ""
-"Defeat \\c[3]\\v[combat.name.guest/sao]\\c[0] in the arena!\n"
-"It's an honorable 1 vs 1 duel... Though he might take a few beatings to stay down."
-msgstr ""
-
-#. extension/post-game/data/arena/guest-cup-1.json rounds/1/name #46
-#. DEFAULT
-#: extension/post-game/data/arena/guest-cup-1.json+rounds/1/name+%2346
-msgctxt "extension/post-game/data/arena/guest-cup-1.json//rounds/1/name"
-msgid "Highway Police"
-msgstr ""
-
-#. extension/post-game/data/arena/guest-cup-1.json rounds/1/objective #47
-#. DEFAULT
-#: extension/post-game/data/arena/guest-cup-1.json+rounds/1/objective+%2347
-msgctxt "extension/post-game/data/arena/guest-cup-1.json//rounds/1/objective"
-msgid ""
-"Defeat the \\c[3]\\v[combat.name.rhombus/meerkat-delorean]\\c[0] in \\c[3]\\v[area.rhombus-sqr.name]\\c[0]!\n"
-"Be careful in traffic and use the driving cars to avoid his destructive attacks!"
-msgstr ""
-
-#. extension/post-game/data/arena/kit-cup.json core/name #4
-#. SOLO_CUSTOM
-#: extension/post-game/data/arena/kit-cup.json+core/name+%234
-msgctxt "extension/post-game/data/arena/kit-cup.json//core/name"
-msgid "Some Test Cup"
-msgstr ""
-
-#. extension/post-game/data/arena/kit-cup.json core/info #1
-#. SOLO_CUSTOM
-#: extension/post-game/data/arena/kit-cup.json+core/info+%231
-msgctxt "extension/post-game/data/arena/kit-cup.json//core/info"
-msgid "Unused cup, maybe add some description here. PS: Sergey is a dork!"
-msgstr ""
-
-#. extension/post-game/data/arena/kit-cup.json core/creator #28
-#. SOLO_CUSTOM
-#: extension/post-game/data/arena/kit-cup.json+core/creator+%2328
-msgctxt "extension/post-game/data/arena/kit-cup.json//core/creator"
-msgid "Alan Smithee"
-msgstr ""
-
-#. extension/post-game/data/arena/kit-cup.json rounds/0/name #33
-#. DEFAULT
-#: extension/post-game/data/arena/kit-cup.json+rounds/0/name+%2333
-msgctxt "extension/post-game/data/arena/kit-cup.json//rounds/0/name"
-msgid "Round 1 - The only Round"
-msgstr ""
-
-#. extension/post-game/data/arena/kit-cup.json rounds/0/objective #34
-#. DEFAULT
-#: extension/post-game/data/arena/kit-cup.json+rounds/0/objective+%2334
-msgctxt "extension/post-game/data/arena/kit-cup.json//rounds/0/objective"
-msgid ""
-"Kill the thing.\n"
-"\\c[1]And make sure to remove this cup later.\\c[0]"
-msgstr ""
-
-#. extension/post-game/data/arena/lily-cup.json core/name #4
-#. SOLO_CUSTOM
-#: extension/post-game/data/arena/lily-cup.json+core/name+%234
-msgctxt "extension/post-game/data/arena/lily-cup.json//core/name"
-msgid "PvP vs Lily"
-msgstr ""
-
-#. extension/post-game/data/arena/lily-cup.json core/info #1
-#. SOLO_CUSTOM
-#: extension/post-game/data/arena/lily-cup.json+core/info+%231
-msgctxt "extension/post-game/data/arena/lily-cup.json//core/info"
-msgid "Fight Lily personally in PvP!"
-msgstr ""
-
-#. extension/post-game/data/arena/lily-cup.json core/creator #28
-#. SOLO_CUSTOM
-#: extension/post-game/data/arena/lily-cup.json+core/creator+%2328
-msgctxt "extension/post-game/data/arena/lily-cup.json//core/creator"
-msgid "Lily"
-msgstr ""
-
-#. extension/post-game/data/arena/lily-cup.json rounds/0/name #33
-#. DEFAULT
-#: extension/post-game/data/arena/lily-cup.json+rounds/0/name+%2333
-msgctxt "extension/post-game/data/arena/lily-cup.json//rounds/0/name"
-msgid "Fight me!"
-msgstr ""
-
-#. extension/post-game/data/arena/lily-cup.json rounds/0/objective #34
-#. DEFAULT
-#: extension/post-game/data/arena/lily-cup.json+rounds/0/objective+%2334
-msgctxt "extension/post-game/data/arena/lily-cup.json//rounds/0/objective"
-msgid "Defeat me in a duel on top of the arena!"
-msgstr ""
-
-#. extension/post-game/data/arena/shizuka-cup.json core/name #4
-#. SOLO_CUSTOM
-#: extension/post-game/data/arena/shizuka-cup.json+core/name+%234
-msgctxt "extension/post-game/data/arena/shizuka-cup.json//core/name"
-msgid "PvP vs Shizuka"
-msgstr ""
-
-#. extension/post-game/data/arena/shizuka-cup.json core/info #1
-#. SOLO_CUSTOM
-#: extension/post-game/data/arena/shizuka-cup.json+core/info+%231
-msgctxt "extension/post-game/data/arena/shizuka-cup.json//core/info"
-msgid "Fight Shizuka in PvP Combat!"
-msgstr ""
-
-#. extension/post-game/data/arena/shizuka-cup.json core/creator #28
-#. SOLO_CUSTOM
-#: extension/post-game/data/arena/shizuka-cup.json+core/creator+%2328
-msgctxt "extension/post-game/data/arena/shizuka-cup.json//core/creator"
-msgid "Shizuka"
-msgstr ""
-
-#. extension/post-game/data/arena/shizuka-cup.json rounds/0/name #33
-#. DEFAULT
-#: extension/post-game/data/arena/shizuka-cup.json+rounds/0/name+%2333
-msgctxt "extension/post-game/data/arena/shizuka-cup.json//rounds/0/name"
-msgid "A Rematch!"
-msgstr ""
-
-#. extension/post-game/data/arena/shizuka-cup.json rounds/0/objective #34
-#. DEFAULT
-#: extension/post-game/data/arena/shizuka-cup.json+rounds/0/objective+%2334
-msgctxt "extension/post-game/data/arena/shizuka-cup.json//rounds/0/objective"
-msgid "Let's see what new tricks you've learned!"
-msgstr ""
-
 #. data/maps/arena/boss/cold-midboss.json entities/5/settings/event/8/action/0/text #1
 #. EventTrigger BattleStart START IF true
 #. DO_ACTION
@@ -3156,6 +2465,697 @@ msgstr ""
 #: data/maps/arena/platform-labs/pincer-fight.json+entities/123/settings/condAnims/0/interact/hoverText+%23269
 msgctxt "data/maps/arena/platform-labs/pincer-fight.json//entities/123/settings/condAnims/0/interact/hoverText"
 msgid "Display"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-boss-cup.json core/name #1
+#. SOLO_CUP
+#: extension/post-game/data/arena/ancient-boss-cup.json+core/name+%231
+msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//core/name"
+msgid "Ancient Boss Cup"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-boss-cup.json core/info #2
+#. SOLO_CUP
+#: extension/post-game/data/arena/ancient-boss-cup.json+core/info+%232
+msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//core/info"
+msgid "Take on stronger versions of boss fights from the \\v[area.final-dng.name]."
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-boss-cup.json core/creator #3
+#. SOLO_CUP
+#: extension/post-game/data/arena/ancient-boss-cup.json+core/creator+%233
+msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//core/creator"
+msgid "R.D."
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-boss-cup.json rounds/0/name #65
+#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/0/name+%2365
+msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/0/name"
+msgid "The S.H.I.E.L.D."
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-boss-cup.json rounds/0/objective #66
+#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/0/objective+%2366
+msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/0/objective"
+msgid "Beat a stronger version of the \\c[3]\\v[combat.name.final/guardian]\\c[0] boss from the \\c[3]\\v[area.final-dng.name]\\c[0]!"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-boss-cup.json rounds/1/name #67
+#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/1/name+%2367
+msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/1/name"
+msgid "The Hot Lid"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-boss-cup.json rounds/1/objective #68
+#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/1/objective+%2368
+msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/1/objective"
+msgid "Beat a stronger version of the \\c[3]Heat \\v[combat.name.final/guardian]\\c[0] boss from the \\c[3]\\v[area.final-dng.name]\\c[0]!"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-boss-cup.json rounds/2/name #69
+#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/2/name+%2369
+msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/2/name"
+msgid "The Cold Plate"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-boss-cup.json rounds/2/objective #70
+#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/2/objective+%2370
+msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/2/objective"
+msgid "Beat a stronger version of the \\c[3]Cold \\v[combat.name.final/guardian]\\c[0] boss from the \\c[3]\\v[area.final-dng.name]\\c[0]!"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-boss-cup.json rounds/3/name #71
+#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/3/name+%2371
+msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/3/name"
+msgid "The Blitz Buckler"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-boss-cup.json rounds/3/objective #72
+#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/3/objective+%2372
+msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/3/objective"
+msgid "Beat a stronger version of the \\c[3]Shock \\v[combat.name.final/guardian]\\c[0] boss from the \\c[3]\\v[area.final-dng.name]\\c[0]!"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-boss-cup.json rounds/4/name #73
+#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/4/name+%2373
+msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/4/name"
+msgid "The Wave Wall"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-boss-cup.json rounds/4/objective #74
+#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/4/objective+%2374
+msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/4/objective"
+msgid "Beat a stronger version of the \\c[3]Wave \\v[combat.name.final/guardian]\\c[0] boss from the \\c[3]\\v[area.final-dng.name]\\c[0]!"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-boss-cup.json rounds/5/name #75
+#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/5/name+%2375
+msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/5/name"
+msgid "The Monk"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-boss-cup.json rounds/5/objective #76
+#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/5/objective+%2376
+msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/5/objective"
+msgid "Beat a stronger version of \\c[3]\\v[combat.name.final/gynthar]\\c[0] boss from the \\c[3]\\v[area.final-dng.name]\\c[0]!"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-boss-cup.json rounds/6/name #77
+#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/6/name+%2377
+msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/6/name"
+msgid "The Ancient Gods"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-boss-cup.json rounds/6/objective #78
+#: extension/post-game/data/arena/ancient-boss-cup.json+rounds/6/objective+%2378
+msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/6/objective"
+msgid "Beat stronger versions of the \\c[3]Ancient Gods\\c[0] from the \\c[3]\\v[area.final-dng.name]\\c[0]!"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-cup.json core/name #1
+#. SOLO_CUP
+#: extension/post-game/data/arena/ancient-cup.json+core/name+%231
+msgctxt "extension/post-game/data/arena/ancient-cup.json//core/name"
+msgid "Ancient Cup"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-cup.json core/info #2
+#. SOLO_CUP
+#: extension/post-game/data/arena/ancient-cup.json+core/info+%232
+msgctxt "extension/post-game/data/arena/ancient-cup.json//core/info"
+msgid "A cup featuring enemies from the \\v[area.beach.name] & the \\v[area.final-dng.name]."
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-cup.json core/creator #3
+#. SOLO_CUP
+#: extension/post-game/data/arena/ancient-cup.json+core/creator+%233
+msgctxt "extension/post-game/data/arena/ancient-cup.json//core/creator"
+msgid "R.D."
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-cup.json rounds/0/name #7
+#: extension/post-game/data/arena/ancient-cup.json+rounds/0/name+%237
+msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/0/name"
+msgid "Beach Stars"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-cup.json rounds/0/objective #8
+#: extension/post-game/data/arena/ancient-cup.json+rounds/0/objective+%238
+msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/0/objective"
+msgid "Defeat enemies hailing from \\c[3]\\v[area.beach.name]\\c[0]!"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-cup.json rounds/1/name #51
+#: extension/post-game/data/arena/ancient-cup.json+rounds/1/name+%2351
+msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/1/name"
+msgid "Sun Burners"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-cup.json rounds/1/objective #52
+#: extension/post-game/data/arena/ancient-cup.json+rounds/1/objective+%2352
+msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/1/objective"
+msgid "Defeat enemies hailing from \\c[3]\\v[area.beach.name]\\c[0]!"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-cup.json rounds/2/name #53
+#: extension/post-game/data/arena/ancient-cup.json+rounds/2/name+%2353
+msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/2/name"
+msgid "Global Worming"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-cup.json rounds/2/objective #54
+#: extension/post-game/data/arena/ancient-cup.json+rounds/2/objective+%2354
+msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/2/objective"
+msgid "Defeat enemies hailing from \\c[3]\\v[area.beach.name]\\c[0]!"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-cup.json rounds/3/name #55
+#: extension/post-game/data/arena/ancient-cup.json+rounds/3/name+%2355
+msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/3/name"
+msgid "Shell Fish Business"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-cup.json rounds/3/objective #56
+#: extension/post-game/data/arena/ancient-cup.json+rounds/3/objective+%2356
+msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/3/objective"
+msgid "Defeat enemies hailing from \\c[3]\\v[area.beach.name]\\c[0]!"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-cup.json rounds/4/name #57
+#: extension/post-game/data/arena/ancient-cup.json+rounds/4/name+%2357
+msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/4/name"
+msgid "Crystal Breakers"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-cup.json rounds/4/objective #58
+#: extension/post-game/data/arena/ancient-cup.json+rounds/4/objective+%2358
+msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/4/objective"
+msgid "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-cup.json rounds/5/name #61
+#: extension/post-game/data/arena/ancient-cup.json+rounds/5/name+%2361
+msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/5/name"
+msgid "Full Metal Birds"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-cup.json rounds/5/objective #62
+#: extension/post-game/data/arena/ancient-cup.json+rounds/5/objective+%2362
+msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/5/objective"
+msgid "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-cup.json rounds/6/name #59
+#: extension/post-game/data/arena/ancient-cup.json+rounds/6/name+%2359
+msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/6/name"
+msgid "Spicy Spirits"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-cup.json rounds/6/objective #60
+#: extension/post-game/data/arena/ancient-cup.json+rounds/6/objective+%2360
+msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/6/objective"
+msgid "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-cup.json rounds/7/name #63
+#: extension/post-game/data/arena/ancient-cup.json+rounds/7/name+%2363
+msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/7/name"
+msgid "Bad News Bearer"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-cup.json rounds/7/objective #64
+#: extension/post-game/data/arena/ancient-cup.json+rounds/7/objective+%2364
+msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/7/objective"
+msgid "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-cup.json rounds/8/name #67
+#: extension/post-game/data/arena/ancient-cup.json+rounds/8/name+%2367
+msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/8/name"
+msgid "Stacking Crew"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-cup.json rounds/8/objective #68
+#: extension/post-game/data/arena/ancient-cup.json+rounds/8/objective+%2368
+msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/8/objective"
+msgid "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-team-cup.json core/name #1
+#. TEAM_CUP
+#: extension/post-game/data/arena/ancient-team-cup.json+core/name+%231
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//core/name"
+msgid "Ancient Team Cup"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-team-cup.json core/info #2
+#. TEAM_CUP
+#: extension/post-game/data/arena/ancient-team-cup.json+core/info+%232
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//core/info"
+msgid "A team cup featuring enemies from the \\v[area.beach.name] & the \\v[area.final-dng.name]."
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-team-cup.json core/creator #3
+#. TEAM_CUP
+#: extension/post-game/data/arena/ancient-team-cup.json+core/creator+%233
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//core/creator"
+msgid "R.D."
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-team-cup.json rounds/0/name #7
+#: extension/post-game/data/arena/ancient-team-cup.json+rounds/0/name+%237
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/0/name"
+msgid "Beach Stars"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-team-cup.json rounds/0/objective #8
+#: extension/post-game/data/arena/ancient-team-cup.json+rounds/0/objective+%238
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/0/objective"
+msgid "Defeat enemies hailing from \\c[3]\\v[area.beach.name]\\c[0]!"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-team-cup.json rounds/1/name #51
+#: extension/post-game/data/arena/ancient-team-cup.json+rounds/1/name+%2351
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/1/name"
+msgid "Sun Burners"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-team-cup.json rounds/1/objective #52
+#: extension/post-game/data/arena/ancient-team-cup.json+rounds/1/objective+%2352
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/1/objective"
+msgid "Defeat enemies hailing from \\c[3]\\v[area.beach.name]\\c[0]!"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-team-cup.json rounds/2/name #53
+#: extension/post-game/data/arena/ancient-team-cup.json+rounds/2/name+%2353
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/2/name"
+msgid "Global Worming"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-team-cup.json rounds/2/objective #54
+#: extension/post-game/data/arena/ancient-team-cup.json+rounds/2/objective+%2354
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/2/objective"
+msgid "Defeat enemies hailing from \\c[3]\\v[area.beach.name]\\c[0]!"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-team-cup.json rounds/3/name #55
+#: extension/post-game/data/arena/ancient-team-cup.json+rounds/3/name+%2355
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/3/name"
+msgid "Shell Fish Business"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-team-cup.json rounds/3/objective #56
+#: extension/post-game/data/arena/ancient-team-cup.json+rounds/3/objective+%2356
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/3/objective"
+msgid "Defeat enemies hailing from \\c[3]\\v[area.beach.name]\\c[0]!"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-team-cup.json rounds/4/name #57
+#: extension/post-game/data/arena/ancient-team-cup.json+rounds/4/name+%2357
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/4/name"
+msgid "Crystal Breakers"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-team-cup.json rounds/4/objective #58
+#: extension/post-game/data/arena/ancient-team-cup.json+rounds/4/objective+%2358
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/4/objective"
+msgid "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-team-cup.json rounds/5/name #61
+#: extension/post-game/data/arena/ancient-team-cup.json+rounds/5/name+%2361
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/5/name"
+msgid "Full Metal Birds"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-team-cup.json rounds/5/objective #62
+#: extension/post-game/data/arena/ancient-team-cup.json+rounds/5/objective+%2362
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/5/objective"
+msgid "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-team-cup.json rounds/6/name #59
+#: extension/post-game/data/arena/ancient-team-cup.json+rounds/6/name+%2359
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/6/name"
+msgid "Spicy Spirits"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-team-cup.json rounds/6/objective #60
+#: extension/post-game/data/arena/ancient-team-cup.json+rounds/6/objective+%2360
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/6/objective"
+msgid "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-team-cup.json rounds/7/name #63
+#: extension/post-game/data/arena/ancient-team-cup.json+rounds/7/name+%2363
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/7/name"
+msgid "Bad News Bearer"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-team-cup.json rounds/7/objective #64
+#: extension/post-game/data/arena/ancient-team-cup.json+rounds/7/objective+%2364
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/7/objective"
+msgid "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-team-cup.json rounds/8/name #67
+#: extension/post-game/data/arena/ancient-team-cup.json+rounds/8/name+%2367
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/8/name"
+msgid "Stacking Crew"
+msgstr ""
+
+#. extension/post-game/data/arena/ancient-team-cup.json rounds/8/objective #68
+#: extension/post-game/data/arena/ancient-team-cup.json+rounds/8/objective+%2368
+msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/8/objective"
+msgid "Defeat enemies hailing from \\c[3]\\v[area.final-dng.name]\\c[0]!"
+msgstr ""
+
+#. extension/post-game/data/arena/apollo-cup.json core/name #4
+#. SOLO_CUSTOM
+#: extension/post-game/data/arena/apollo-cup.json+core/name+%234
+msgctxt "extension/post-game/data/arena/apollo-cup.json//core/name"
+msgid "PvP vs Apollo"
+msgstr ""
+
+#. extension/post-game/data/arena/apollo-cup.json core/info #1
+#. SOLO_CUSTOM
+#: extension/post-game/data/arena/apollo-cup.json+core/info+%231
+msgctxt "extension/post-game/data/arena/apollo-cup.json//core/info"
+msgid "Fight Apollo in PvP Combat!"
+msgstr ""
+
+#. extension/post-game/data/arena/apollo-cup.json core/creator #28
+#. SOLO_CUSTOM
+#: extension/post-game/data/arena/apollo-cup.json+core/creator+%2328
+msgctxt "extension/post-game/data/arena/apollo-cup.json//core/creator"
+msgid "Apollo"
+msgstr ""
+
+#. extension/post-game/data/arena/apollo-cup.json rounds/0/name #33
+#. DEFAULT
+#: extension/post-game/data/arena/apollo-cup.json+rounds/0/name+%2333
+msgctxt "extension/post-game/data/arena/apollo-cup.json//rounds/0/name"
+msgid "A Challenge!"
+msgstr ""
+
+#. extension/post-game/data/arena/apollo-cup.json rounds/0/objective #34
+#. DEFAULT
+#: extension/post-game/data/arena/apollo-cup.json+rounds/0/objective+%2334
+msgctxt "extension/post-game/data/arena/apollo-cup.json//rounds/0/objective"
+msgid "Let us do combat, Spheromancer Lea!"
+msgstr ""
+
+#. extension/post-game/data/arena/faction-cup-3.json core/name #4
+#. SOLO_CUP
+#: extension/post-game/data/arena/faction-cup-3.json+core/name+%234
+msgctxt "extension/post-game/data/arena/faction-cup-3.json//core/name"
+msgid "Wanderer's Cup"
+msgstr ""
+
+#. extension/post-game/data/arena/faction-cup-3.json core/info #1
+#. SOLO_CUP
+#: extension/post-game/data/arena/faction-cup-3.json+core/info+%231
+msgctxt "extension/post-game/data/arena/faction-cup-3.json//core/info"
+msgid "Refight several challenging battles found during your endgame quests!"
+msgstr ""
+
+#. extension/post-game/data/arena/faction-cup-3.json core/creator #50
+#. SOLO_CUP
+#: extension/post-game/data/arena/faction-cup-3.json+core/creator+%2350
+msgctxt "extension/post-game/data/arena/faction-cup-3.json//core/creator"
+msgid "GFluegel"
+msgstr ""
+
+#. extension/post-game/data/arena/faction-cup-3.json rounds/0/name #56
+#. DEFAULT
+#: extension/post-game/data/arena/faction-cup-3.json+rounds/0/name+%2356
+msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/0/name"
+msgid "Sobering Slaughter"
+msgstr ""
+
+#. extension/post-game/data/arena/faction-cup-3.json rounds/0/objective #57
+#. DEFAULT
+#: extension/post-game/data/arena/faction-cup-3.json+rounds/0/objective+%2357
+msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/0/objective"
+msgid ""
+"Defeat the \\c[3]\\v[combat.name.heat/special/jellyfish-booze]s and \\v[combat.name.heat/special/heat-golem-booze]\\c[0] in \\c[3]the Distillery of \\v[area.heat-village.name]\\c[0]!\n"
+"Throw \\c[3]ice into the ovens to deactivate the shields\\c[0] and \\c[3]onto the machine to prevent overheating\\c[0]!"
+msgstr ""
+
+#. extension/post-game/data/arena/faction-cup-3.json rounds/1/name #54
+#. DEFAULT
+#: extension/post-game/data/arena/faction-cup-3.json+rounds/1/name+%2354
+msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/1/name"
+msgid "Ocean Operation"
+msgstr ""
+
+#. extension/post-game/data/arena/faction-cup-3.json rounds/1/objective #51
+#. DEFAULT
+#: extension/post-game/data/arena/faction-cup-3.json+rounds/1/objective+%2351
+msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/1/objective"
+msgid ""
+"Defeat the \\c[3]\\v[combat.name.autumn-rh/turret_boss-quest_naval]\\c[0] on \\c[3]the ocean\\c[0]!\n"
+"Make sure \\c[3]your turret-boat doesn't get destroyed!\\c[0]!"
+msgstr ""
+
+#. extension/post-game/data/arena/faction-cup-3.json rounds/2/name #58
+#. DEFAULT
+#: extension/post-game/data/arena/faction-cup-3.json+rounds/2/name+%2358
+msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/2/name"
+msgid "Ghost of a Chance"
+msgstr ""
+
+#. extension/post-game/data/arena/faction-cup-3.json rounds/2/objective #55
+#. DEFAULT
+#: extension/post-game/data/arena/faction-cup-3.json+rounds/2/objective+%2355
+msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/2/objective"
+msgid ""
+"Work with a salty helper to defeat \\c[3]\\v[combat.name.jungle/special/ghost-toxic]\\c[0] at the entrance to \\v[area.jungle-city.name]!\n"
+"\\c[3]Defend your ally\\c[0] while \\c[3]they weaken the enemy\\c[0]!"
+msgstr ""
+
+#. extension/post-game/data/arena/faction-cup-3.json rounds/3/name #40
+#. DEFAULT
+#: extension/post-game/data/arena/faction-cup-3.json+rounds/3/name+%2340
+msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/3/name"
+msgid "Tremoring Tech"
+msgstr ""
+
+#. extension/post-game/data/arena/faction-cup-3.json rounds/3/objective #41
+#. DEFAULT
+#: extension/post-game/data/arena/faction-cup-3.json+rounds/3/objective+%2341
+msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/3/objective"
+msgid ""
+"Defeat the shaking \\c[3]\\v[combat.name.autumn-fall/runbot-tremor]\\c[0] in the hidden office in \\c[3]\\v[area.rhombus-sqr.name]\\c[0]!\n"
+"Its \\c[3]aura\\c[0] can be \\c[3]neutralized\\c[0] with \\c[3]Shock\\c[0]!"
+msgstr ""
+
+#. extension/post-game/data/arena/faction-cup-3.json rounds/4/name #44
+#. DEFAULT
+#: extension/post-game/data/arena/faction-cup-3.json+rounds/4/name+%2344
+msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/4/name"
+msgid "Pewpew Parrot"
+msgstr ""
+
+#. extension/post-game/data/arena/faction-cup-3.json rounds/4/objective #45
+#. DEFAULT
+#: extension/post-game/data/arena/faction-cup-3.json+rounds/4/objective+%2345
+msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/4/objective"
+msgid ""
+"Defeat \\c[3]\\v[combat.name.jungle/special/parrot-gangster-boss-1]\\c[0] on a rooftop of \\c[3]\\v[area.jungle-city.name]\\c[0]!\n"
+"Try to \\c[3]shoot down the missiles\\c[0] before they overwhelm you!"
+msgstr ""
+
+#. extension/post-game/data/arena/faction-cup-3.json rounds/5/name #46
+#. DEFAULT
+#: extension/post-game/data/arena/faction-cup-3.json+rounds/5/name+%2346
+msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/5/name"
+msgid "The Goatfather, Part II"
+msgstr ""
+
+#. extension/post-game/data/arena/faction-cup-3.json rounds/5/objective #47
+#. DEFAULT
+#: extension/post-game/data/arena/faction-cup-3.json+rounds/5/objective+%2347
+msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/5/objective"
+msgid ""
+"Defeat \\c[3]\\v[combat.name.cold/goat-father-2]\\c[0] in \\c[3]\\v[area.rhombus-sqr.name]\\c[0]!\n"
+"This time you fight him for real!"
+msgstr ""
+
+#. extension/post-game/data/arena/faction-cup-3.json rounds/6/name #52
+#. DEFAULT
+#: extension/post-game/data/arena/faction-cup-3.json+rounds/6/name+%2352
+msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/6/name"
+msgid "Ape Assault"
+msgstr ""
+
+#. extension/post-game/data/arena/faction-cup-3.json rounds/6/objective #53
+#. DEFAULT
+#: extension/post-game/data/arena/faction-cup-3.json+rounds/6/objective+%2353
+msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/6/objective"
+msgid ""
+"Defeat the \\c[3]\\v[combat.name.beach/ape-beach]\\c[0] on the \\c[3]\\v[area.beach.name]\\c[0]!\n"
+"This is a duel for the ages!"
+msgstr ""
+
+#. extension/post-game/data/arena/guest-cup-1.json core/name #4
+#. SOLO_CUSTOM
+#: extension/post-game/data/arena/guest-cup-1.json+core/name+%234
+msgctxt "extension/post-game/data/arena/guest-cup-1.json//core/name"
+msgid "Supporters' Cup"
+msgstr ""
+
+#. extension/post-game/data/arena/guest-cup-1.json core/info #1
+#. SOLO_CUSTOM
+#: extension/post-game/data/arena/guest-cup-1.json+core/info+%231
+msgctxt "extension/post-game/data/arena/guest-cup-1.json//core/info"
+msgid "Refight several challenging battles envisioned by generous supporters!"
+msgstr ""
+
+#. extension/post-game/data/arena/guest-cup-1.json core/creator #50
+#. SOLO_CUSTOM
+#: extension/post-game/data/arena/guest-cup-1.json+core/creator+%2350
+msgctxt "extension/post-game/data/arena/guest-cup-1.json//core/creator"
+msgid "Supporters"
+msgstr ""
+
+#. extension/post-game/data/arena/guest-cup-1.json rounds/0/name #44
+#. DEFAULT
+#: extension/post-game/data/arena/guest-cup-1.json+rounds/0/name+%2344
+msgctxt "extension/post-game/data/arena/guest-cup-1.json//rounds/0/name"
+msgid "Some Standard Ninja Dude"
+msgstr ""
+
+#. extension/post-game/data/arena/guest-cup-1.json rounds/0/objective #45
+#. DEFAULT
+#: extension/post-game/data/arena/guest-cup-1.json+rounds/0/objective+%2345
+msgctxt "extension/post-game/data/arena/guest-cup-1.json//rounds/0/objective"
+msgid ""
+"Defeat \\c[3]\\v[combat.name.guest/sao]\\c[0] in the arena!\n"
+"It's an honorable 1 vs 1 duel... Though he might take a few beatings to stay down."
+msgstr ""
+
+#. extension/post-game/data/arena/guest-cup-1.json rounds/1/name #46
+#. DEFAULT
+#: extension/post-game/data/arena/guest-cup-1.json+rounds/1/name+%2346
+msgctxt "extension/post-game/data/arena/guest-cup-1.json//rounds/1/name"
+msgid "Highway Police"
+msgstr ""
+
+#. extension/post-game/data/arena/guest-cup-1.json rounds/1/objective #47
+#. DEFAULT
+#: extension/post-game/data/arena/guest-cup-1.json+rounds/1/objective+%2347
+msgctxt "extension/post-game/data/arena/guest-cup-1.json//rounds/1/objective"
+msgid ""
+"Defeat the \\c[3]\\v[combat.name.rhombus/meerkat-delorean]\\c[0] in \\c[3]\\v[area.rhombus-sqr.name]\\c[0]!\n"
+"Be careful in traffic and use the driving cars to avoid his destructive attacks!"
+msgstr ""
+
+#. extension/post-game/data/arena/kit-cup.json core/name #4
+#. SOLO_CUSTOM
+#: extension/post-game/data/arena/kit-cup.json+core/name+%234
+msgctxt "extension/post-game/data/arena/kit-cup.json//core/name"
+msgid "Some Test Cup"
+msgstr ""
+
+#. extension/post-game/data/arena/kit-cup.json core/info #1
+#. SOLO_CUSTOM
+#: extension/post-game/data/arena/kit-cup.json+core/info+%231
+msgctxt "extension/post-game/data/arena/kit-cup.json//core/info"
+msgid "Unused cup, maybe add some description here. PS: Sergey is a dork!"
+msgstr ""
+
+#. extension/post-game/data/arena/kit-cup.json core/creator #28
+#. SOLO_CUSTOM
+#: extension/post-game/data/arena/kit-cup.json+core/creator+%2328
+msgctxt "extension/post-game/data/arena/kit-cup.json//core/creator"
+msgid "Alan Smithee"
+msgstr ""
+
+#. extension/post-game/data/arena/kit-cup.json rounds/0/name #33
+#. DEFAULT
+#: extension/post-game/data/arena/kit-cup.json+rounds/0/name+%2333
+msgctxt "extension/post-game/data/arena/kit-cup.json//rounds/0/name"
+msgid "Round 1 - The only Round"
+msgstr ""
+
+#. extension/post-game/data/arena/kit-cup.json rounds/0/objective #34
+#. DEFAULT
+#: extension/post-game/data/arena/kit-cup.json+rounds/0/objective+%2334
+msgctxt "extension/post-game/data/arena/kit-cup.json//rounds/0/objective"
+msgid ""
+"Kill the thing.\n"
+"\\c[1]And make sure to remove this cup later.\\c[0]"
+msgstr ""
+
+#. extension/post-game/data/arena/lily-cup.json core/name #4
+#. SOLO_CUSTOM
+#: extension/post-game/data/arena/lily-cup.json+core/name+%234
+msgctxt "extension/post-game/data/arena/lily-cup.json//core/name"
+msgid "PvP vs Lily"
+msgstr ""
+
+#. extension/post-game/data/arena/lily-cup.json core/info #1
+#. SOLO_CUSTOM
+#: extension/post-game/data/arena/lily-cup.json+core/info+%231
+msgctxt "extension/post-game/data/arena/lily-cup.json//core/info"
+msgid "Fight Lily personally in PvP!"
+msgstr ""
+
+#. extension/post-game/data/arena/lily-cup.json core/creator #28
+#. SOLO_CUSTOM
+#: extension/post-game/data/arena/lily-cup.json+core/creator+%2328
+msgctxt "extension/post-game/data/arena/lily-cup.json//core/creator"
+msgid "Lily"
+msgstr ""
+
+#. extension/post-game/data/arena/lily-cup.json rounds/0/name #33
+#. DEFAULT
+#: extension/post-game/data/arena/lily-cup.json+rounds/0/name+%2333
+msgctxt "extension/post-game/data/arena/lily-cup.json//rounds/0/name"
+msgid "Fight me!"
+msgstr ""
+
+#. extension/post-game/data/arena/lily-cup.json rounds/0/objective #34
+#. DEFAULT
+#: extension/post-game/data/arena/lily-cup.json+rounds/0/objective+%2334
+msgctxt "extension/post-game/data/arena/lily-cup.json//rounds/0/objective"
+msgid "Defeat me in a duel on top of the arena!"
+msgstr ""
+
+#. extension/post-game/data/arena/shizuka-cup.json core/name #4
+#. SOLO_CUSTOM
+#: extension/post-game/data/arena/shizuka-cup.json+core/name+%234
+msgctxt "extension/post-game/data/arena/shizuka-cup.json//core/name"
+msgid "PvP vs Shizuka"
+msgstr ""
+
+#. extension/post-game/data/arena/shizuka-cup.json core/info #1
+#. SOLO_CUSTOM
+#: extension/post-game/data/arena/shizuka-cup.json+core/info+%231
+msgctxt "extension/post-game/data/arena/shizuka-cup.json//core/info"
+msgid "Fight Shizuka in PvP Combat!"
+msgstr ""
+
+#. extension/post-game/data/arena/shizuka-cup.json core/creator #28
+#. SOLO_CUSTOM
+#: extension/post-game/data/arena/shizuka-cup.json+core/creator+%2328
+msgctxt "extension/post-game/data/arena/shizuka-cup.json//core/creator"
+msgid "Shizuka"
+msgstr ""
+
+#. extension/post-game/data/arena/shizuka-cup.json rounds/0/name #33
+#. DEFAULT
+#: extension/post-game/data/arena/shizuka-cup.json+rounds/0/name+%2333
+msgctxt "extension/post-game/data/arena/shizuka-cup.json//rounds/0/name"
+msgid "A Rematch!"
+msgstr ""
+
+#. extension/post-game/data/arena/shizuka-cup.json rounds/0/objective #34
+#. DEFAULT
+#: extension/post-game/data/arena/shizuka-cup.json+rounds/0/objective+%2334
+msgctxt "extension/post-game/data/arena/shizuka-cup.json//rounds/0/objective"
+msgid "Let's see what new tricks you've learned!"
 msgstr ""
 
 #. extension/post-game/data/maps/arena/dlc/creator.json entities/178/settings/event/7/guiInfo/settings/taskTitle #8
@@ -4383,7 +4383,7 @@ msgstr ""
 #. SHOW_SIDE_MSG guests.lily @DEFAULT
 #: extension/post-game/data/maps/arena/pvp/pvp-lily.json+entities/304/settings/event/0/elseStep/1/thenStep/0/message+%2318
 msgctxt "extension/post-game/data/maps/arena/pvp/pvp-lily.json//entities/304/settings/event/0/elseStep/1/thenStep/0/message"
-msgid "I think I got a hang for this now!"
+msgid "I think I got a hang of this now!"
 msgstr ""
 
 #. extension/post-game/data/maps/arena/pvp/pvp-lily.json entities/304/settings/event/0/elseStep/2/thenStep/0/thenStep/0/message #19

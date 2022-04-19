@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: crosscode 1.4.2-1\n"
+"Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-07 07:49+0000\n"
-"POT-Revision-Date: 2022-02-07 07:49+0000\n"
+"POT-Creation-Date: 2022-04-19 22:43+0000\n"
+"POT-Revision-Date: 2022-04-19 22:43+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0 (e306904 2022-02-07)\n"
+"X-Generator: crosscode-localization-engine 0.0.0 (e2bc05b 2022-04-19)\n"
 
 #. data/database.json achievements/story-01/name #13135
 #. IF plot.line >= 800
@@ -1370,7 +1370,7 @@ msgstr "Штурмовик-новичок"
 #. data/database.json achievements/melee-01/description #13134
 #: data/database.json+achievements/melee-01/description+%2313134
 msgctxt "data/database.json//achievements/melee-01/description"
-msgid "Sucessfully land \\c[3]\\v[misc.localNum.1000] close combat attacks\\c[0]."
+msgid "Successfully land \\c[3]\\v[misc.localNum.1000] close combat attacks\\c[0]."
 msgstr "Нанесите \\c[3]\\v[misc.localNum.1000] атак ближнего боя\\c[0]."
 
 #. data/database.json achievements/melee-02/name #13131
@@ -1382,7 +1382,7 @@ msgstr "Опытный штурмовик"
 #. data/database.json achievements/melee-02/description #13132
 #: data/database.json+achievements/melee-02/description+%2313132
 msgctxt "data/database.json//achievements/melee-02/description"
-msgid "Sucessfully land \\c[3]\\v[misc.localNum.5000] close combat attacks\\c[0]."
+msgid "Successfully land \\c[3]\\v[misc.localNum.5000] close combat attacks\\c[0]."
 msgstr "Нанесите \\c[3]\\v[misc.localNum.5000] атак ближнего боя\\c[0]."
 
 #. data/database.json achievements/melee-03/name #13133
@@ -1394,7 +1394,7 @@ msgstr "Легендарный штурмовик"
 #. data/database.json achievements/melee-03/description #13124
 #: data/database.json+achievements/melee-03/description+%2313124
 msgctxt "data/database.json//achievements/melee-03/description"
-msgid "Sucessfully land \\c[3]\\v[misc.localNum.10000] close combat attacks\\c[0]."
+msgid "Successfully land \\c[3]\\v[misc.localNum.10000] close combat attacks\\c[0]."
 msgstr "Нанесите \\c[3]\\v[misc.localNum.10000] атак ближнего боя\\c[0]."
 
 #. data/database.json achievements/melee-04/name #13137
@@ -1406,7 +1406,7 @@ msgstr "Железный кулак"
 #. data/database.json achievements/melee-04/description #13138
 #: data/database.json+achievements/melee-04/description+%2313138
 msgctxt "data/database.json//achievements/melee-04/description"
-msgid "Sucessfully land \\c[3]\\v[misc.localNum.50000] close combat attacks\\c[0]. Mashing to victory!"
+msgid "Successfully land \\c[3]\\v[misc.localNum.50000] close combat attacks\\c[0]. Mashing to victory!"
 msgstr "Нанесите \\c[3]\\v[misc.localNum.50000] атак ближнего боя\\c[0]. Пробиваемся к победе!"
 
 #. data/database.json achievements/dash-01/name #13152
@@ -3131,7 +3131,7 @@ msgstr "Площадь"
 #. data/database.json areas/heat-village/landmarks/market/description #4221
 #: data/database.json+areas/heat-village/landmarks/market/description+%234221
 msgctxt "data/database.json//areas/heat-village/landmarks/market/description"
-msgid "Right in front of the largest Building in town and only a few steps a way from the market."
+msgid "Right in front of the largest building in town and only a few steps away from the market."
 msgstr "Прямо перед самым большим зданием в городе и всего в паре шагов от рынка."
 
 #. data/database.json areas/heat-village/landmarks/market/teleportQuestion #0
@@ -8394,7 +8394,7 @@ msgstr "Ах, прямо как в старые добрые."
 #. SHOW_SIDE_MSG main.schneider @LAUGH
 #: data/database.json+commonEvents/cooldown-S/event/0/5_0/0/0_0/0/message+%2318538
 msgctxt "data/database.json//commonEvents/cooldown-S/event/0/5_0/0/0_0/0/message"
-msgid "In the mood for some competetive gaming today, aren't you?"
+msgid "In the mood for some competitive gaming today, aren't you?"
 msgstr "Я смотрю, ты сегодня в соревновательном настроении?"
 
 #. data/database.json commonEvents/cooldown-S/event/0/5_0/0/0_0/1/message #18548
@@ -8439,7 +8439,7 @@ msgstr "Когда-нибудь мне понадобится отдохнуть
 #. SHOW_SIDE_MSG main.luke @LAUGH
 #: data/database.json+commonEvents/cooldown-S/event/0/6_0/0/0_0/0/message+%2318552
 msgctxt "data/database.json//commonEvents/cooldown-S/event/0/6_0/0/0_0/0/message"
-msgid "In the mood for some competetive gaming today, aren't you?"
+msgid "In the mood for some competitive gaming today, aren't you?"
 msgstr "Я смотрю, ты сегодня в соревновательном настроении?"
 
 #. data/database.json commonEvents/cooldown-S/event/0/6_0/0/0_0/1/message #18553
@@ -25834,7 +25834,7 @@ msgstr "Человеческий страж"
 #: data/database.json+enemies/heat.special.guard-hostile-mustache/descriptions/0/text+%23-29
 msgctxt "data/database.json//enemies/heat.special.guard-hostile-mustache/descriptions/0/text"
 msgid ""
-"A corrupt guard that holds no respect for the Shad that are native on Shadoon. Did formerly hold a respectable position in the \\c[3]Maroon Baki Guard\\c[0], before his crimes were uncovered.\n"
+"A corrupt guard that holds no respect for the Shad that are native on Shadoon. Did formerly hold a respectable position in the \\c[3]Maroon Ba'kii Guard\\c[0], before his crimes were uncovered.\n"
 "\n"
 "While his sense of justice is warped, he is still a very capable fighter. He wields the standard issue \\c[3]Laserlance\\c[0] of the guards with great skill and always carries a few of \\c[3]his favorite sandwiches\\c[0], in case the battle tires him."
 msgstr ""
@@ -32237,7 +32237,7 @@ msgstr "- \\c[3]Бергенская стража\\c[0] в \\c[3]\\v[area.bergen
 #. data/database.json lore/faction-cold-main/content/page-01-04/content #8831
 #: data/database.json+lore/faction-cold-main/content/page-01-04/content+%238831
 msgctxt "data/database.json//lore/faction-cold-main/content/page-01-04/content"
-msgid "- \\c[3]Maroon Baki Guards (MBG)\\c[0] in \\c[3]\\v[area.heat-village.name]\\c[0]"
+msgid "- \\c[3]Maroon Ba'kii Guards (MBG)\\c[0] in \\c[3]\\v[area.heat-village.name]\\c[0]"
 msgstr "- \\c[3]Бордовая бакийская стража\\c[0] в \\c[3]Ба'кии Кум\\c[0]"
 
 #. data/database.json lore/faction-cold-main/content/page-01-05/content #13786
@@ -32285,13 +32285,13 @@ msgstr "Стражей командует \\c[3]сержант Сильвия С
 #. data/database.json lore/faction-cold-baki/title #6790
 #: data/database.json+lore/faction-cold-baki/title+%236790
 msgctxt "data/database.json//lore/faction-cold-baki/title"
-msgid "Maroon Baki Guard"
+msgid "Maroon Ba'kii Guard"
 msgstr "Бордовая бакийская стража"
 
 #. data/database.json lore/faction-cold-baki/content/page-01-01/content #6791
 #: data/database.json+lore/faction-cold-baki/content/page-01-01/content+%236791
 msgctxt "data/database.json//lore/faction-cold-baki/content/page-01-01/content"
-msgid "As the subdivision of the \\c[3]Human Preservation Department\\c[0] in \\c[3]\\v[area.heat-village.name]\\c[0], the \\c[3]Maroon Baki Guard (MBG)\\c[0] is tasked to keep justice and order in \\v[area.heat-village.name] and the surrounding areas of \\v[area.heat-area.name]. This includes both defending against attacks from the track and solving crimes committed by other humans."
+msgid "As the subdivision of the \\c[3]Human Preservation Department\\c[0] in \\c[3]\\v[area.heat-village.name]\\c[0], the \\c[3]Maroon Ba'kii Guard (MBG)\\c[0] is tasked to keep justice and order in \\v[area.heat-village.name] and the surrounding areas of \\v[area.heat-area.name]. This includes both defending against attacks from the track and solving crimes committed by other humans."
 msgstr "Как подразделению \\c[3]Департамента защиты людей\\c[0] в \\c[3] \\v[area.heat-village.name]е\\c[0], \\c[3]Бордовой бакийской страже\\c[0] поручено сохранять справедливость и порядок в \\v[area.heat-village.name] и окрестностях Бордовой долины. Это включает в себя защиту от атак Пути и раскрытие преступлений других людей."
 
 #. data/database.json lore/faction-cold-baki/content/page-01-02/content #6792
@@ -32349,7 +32349,7 @@ msgstr "- \\c[3]Металлоторговля Бергена\\c[0] в \\c[3]\\v
 #. data/database.json lore/faction-shock-main/content/page-01-04/content #8832
 #: data/database.json+lore/faction-shock-main/content/page-01-04/content+%238832
 msgctxt "data/database.json//lore/faction-shock-main/content/page-01-04/content"
-msgid "- \\c[3]Baki Bazaar Union (BBU)\\c[0] in \\c[3]\\v[area.heat-village.name]\\c[0]"
+msgid "- \\c[3]Ba'kii Bazaar Union (BBU)\\c[0] in \\c[3]\\v[area.heat-village.name]\\c[0]"
 msgstr "- \\c[3]Бакийский базарный союз\\c[0] в \\c[3]\\v[area.heat-village.name]\\c[0]"
 
 #. data/database.json lore/faction-shock-main/content/page-01-05/content #13790
@@ -32397,13 +32397,13 @@ msgstr "Металлоторговля Бергена управляется с�
 #. data/database.json lore/faction-shock-baki/title #6793
 #: data/database.json+lore/faction-shock-baki/title+%236793
 msgctxt "data/database.json//lore/faction-shock-baki/title"
-msgid "Baki Bazaar Union"
+msgid "Ba'kii Bazaar Union"
 msgstr "Бакийский базарный союз"
 
 #. data/database.json lore/faction-shock-baki/content/page-01-01/content #6794
 #: data/database.json+lore/faction-shock-baki/content/page-01-01/content+%236794
 msgctxt "data/database.json//lore/faction-shock-baki/content/page-01-01/content"
-msgid "As the subdivision of the \\c[3]Association of Human Advancement\\c[0] in \\c[3]\\v[area.heat-village.name]\\c[0], the \\c[3]Baki Bazaar Union (BBU)\\c[0] serves as a parent organization to every trader and craftsperson in \\c[3]\\v[area.heat-village.name]\\c[0]."
+msgid "As the subdivision of the \\c[3]Association of Human Advancement\\c[0] in \\c[3]\\v[area.heat-village.name]\\c[0], the \\c[3]Ba'kii Bazaar Union (BBU)\\c[0] serves as a parent organization to every trader and craftsperson in \\c[3]\\v[area.heat-village.name]\\c[0]."
 msgstr "Как подразделение \\c[3]Ассоциации человеческого развития\\c[0] в \\c[3]\\v[area.heat-village.name]\\c[0], \\c[3]Бакийский базарный союз\\c[0] является родительской организацией для каждого торговца и ремесленника в \\c[3]\\v[area.heat-village.name]е\\c[0]."
 
 #. data/database.json lore/faction-shock-baki/content/page-01-02/content #6795
@@ -33296,1269 +33296,1293 @@ msgstr ""
 "Капитан Манфред Макфлай\n"
 "Instatainment ACF Собиратель 25-b"
 
-#. data/database.json names/0/name #18614
-#: data/database.json+names/0/name+%2318614
+#. data/database.json names/0/name #18627
+#: data/database.json+names/0/name+%2318627
 msgctxt "data/database.json//names/0/name"
+msgid "Hillkat-ASMR"
+msgstr "Hillkat-ASMR"
+
+#. data/database.json names/1/name #18625
+#: data/database.json+names/1/name+%2318625
+msgctxt "data/database.json//names/1/name"
+msgid "Kiwawah"
+msgstr "Kiwawah"
+
+#. data/database.json names/2/name #18623
+#: data/database.json+names/2/name+%2318623
+msgctxt "data/database.json//names/2/name"
+msgid "Yagoo"
+msgstr "Yagoo"
+
+#. data/database.json names/3/name #18621
+#: data/database.json+names/3/name+%2318621
+msgctxt "data/database.json//names/3/name"
+msgid "Nyoron"
+msgstr "Nyoron"
+
+#. data/database.json names/4/name #18614
+#: data/database.json+names/4/name+%2318614
+msgctxt "data/database.json//names/4/name"
 msgid "JunoD'wey"
 msgstr "JunoD'wey"
 
-#. data/database.json names/1/name #18612
-#: data/database.json+names/1/name+%2318612
-msgctxt "data/database.json//names/1/name"
+#. data/database.json names/5/name #18612
+#: data/database.json+names/5/name+%2318612
+msgctxt "data/database.json//names/5/name"
 msgid "Bento-chan-lover96"
 msgstr "Bento-chan-lover96"
 
-#. data/database.json names/2/name #18610
-#: data/database.json+names/2/name+%2318610
-msgctxt "data/database.json//names/2/name"
+#. data/database.json names/6/name #18610
+#: data/database.json+names/6/name+%2318610
+msgctxt "data/database.json//names/6/name"
 msgid "VentusAmogus"
 msgstr "Yoba"
 
-#. data/database.json names/3/name #18563
-#: data/database.json+names/3/name+%2318563
-msgctxt "data/database.json//names/3/name"
+#. data/database.json names/7/name #18563
+#: data/database.json+names/7/name+%2318563
+msgctxt "data/database.json//names/7/name"
 msgid "Yui2Qt"
 msgstr "Yui2Qt"
 
-#. data/database.json names/4/name #17182
-#: data/database.json+names/4/name+%2317182
-msgctxt "data/database.json//names/4/name"
+#. data/database.json names/8/name #17182
+#: data/database.json+names/8/name+%2317182
+msgctxt "data/database.json//names/8/name"
 msgid "Akasan"
 msgstr "Akasan"
 
-#. data/database.json names/5/name #17180
-#: data/database.json+names/5/name+%2317180
-msgctxt "data/database.json//names/5/name"
+#. data/database.json names/9/name #17180
+#: data/database.json+names/9/name+%2317180
+msgctxt "data/database.json//names/9/name"
 msgid "Seiba"
 msgstr "Seiba"
 
-#. data/database.json names/6/name #17178
-#: data/database.json+names/6/name+%2317178
-msgctxt "data/database.json//names/6/name"
+#. data/database.json names/10/name #17178
+#: data/database.json+names/10/name+%2317178
+msgctxt "data/database.json//names/10/name"
 msgid "X-Potato"
 msgstr "X-Potato"
 
-#. data/database.json names/7/name #17176
-#: data/database.json+names/7/name+%2317176
-msgctxt "data/database.json//names/7/name"
+#. data/database.json names/11/name #17176
+#: data/database.json+names/11/name+%2317176
+msgctxt "data/database.json//names/11/name"
 msgid "FBK4Matsuri"
 msgstr "FBK4Matsuri"
 
-#. data/database.json names/8/name #17174
-#: data/database.json+names/8/name+%2317174
-msgctxt "data/database.json//names/8/name"
+#. data/database.json names/12/name #17174
+#: data/database.json+names/12/name+%2317174
+msgctxt "data/database.json//names/12/name"
 msgid "Blunzetto-san"
 msgstr "Blunzetto-san"
 
-#. data/database.json names/9/name #16363
-#: data/database.json+names/9/name+%2316363
-msgctxt "data/database.json//names/9/name"
+#. data/database.json names/13/name #16363
+#: data/database.json+names/13/name+%2316363
+msgctxt "data/database.json//names/13/name"
 msgid "xX_L00T_Xx"
 msgstr "xX_L00T_Xx"
 
-#. data/database.json names/10/name #15237
-#: data/database.json+names/10/name+%2315237
-msgctxt "data/database.json//names/10/name"
+#. data/database.json names/14/name #15237
+#: data/database.json+names/14/name+%2315237
+msgctxt "data/database.json//names/14/name"
 msgid "NotASmurf"
 msgstr "NotASmurf"
 
-#. data/database.json names/11/name #13878
-#: data/database.json+names/11/name+%2313878
-msgctxt "data/database.json//names/11/name"
+#. data/database.json names/15/name #13878
+#: data/database.json+names/15/name+%2313878
+msgctxt "data/database.json//names/15/name"
 msgid "Lourdes"
 msgstr "Liexierra"
 
-#. data/database.json names/12/name #13876
-#: data/database.json+names/12/name+%2313876
-msgctxt "data/database.json//names/12/name"
+#. data/database.json names/16/name #13876
+#: data/database.json+names/16/name+%2313876
+msgctxt "data/database.json//names/16/name"
 msgid "Ferania"
 msgstr "Ferania"
 
-#. data/database.json names/13/name #13874
-#: data/database.json+names/13/name+%2313874
-msgctxt "data/database.json//names/13/name"
+#. data/database.json names/17/name #13874
+#: data/database.json+names/17/name+%2313874
+msgctxt "data/database.json//names/17/name"
 msgid "Shiroe"
 msgstr "MrSuperParadox"
 
-#. data/database.json names/14/name #13872
-#: data/database.json+names/14/name+%2313872
-msgctxt "data/database.json//names/14/name"
+#. data/database.json names/18/name #13872
+#: data/database.json+names/18/name+%2313872
+msgctxt "data/database.json//names/18/name"
 msgid "JohnFreeman"
 msgstr "JohnFreeman"
 
-#. data/database.json names/15/name #13870
-#: data/database.json+names/15/name+%2313870
-msgctxt "data/database.json//names/15/name"
+#. data/database.json names/19/name #13870
+#: data/database.json+names/19/name+%2313870
+msgctxt "data/database.json//names/19/name"
 msgid "MarauderShields"
 msgstr "Maxum"
 
-#. data/database.json names/16/name #13756
-#: data/database.json+names/16/name+%2313756
-msgctxt "data/database.json//names/16/name"
+#. data/database.json names/20/name #13756
+#: data/database.json+names/20/name+%2313756
+msgctxt "data/database.json//names/20/name"
 msgid "-FreeCreditsPlz-"
 msgstr "-FreeCreditsPlz-"
 
-#. data/database.json names/17/name #13754
-#: data/database.json+names/17/name+%2313754
-msgctxt "data/database.json//names/17/name"
+#. data/database.json names/21/name #13754
+#: data/database.json+names/21/name+%2313754
+msgctxt "data/database.json//names/21/name"
 msgid "ElderJoe"
 msgstr "ElderJoe"
 
-#. data/database.json names/18/name #13616
-#: data/database.json+names/18/name+%2313616
-msgctxt "data/database.json//names/18/name"
+#. data/database.json names/22/name #13616
+#: data/database.json+names/22/name+%2313616
+msgctxt "data/database.json//names/22/name"
 msgid "VanHellsing"
 msgstr "VanHellsing"
 
-#. data/database.json names/19/name #13437
-#: data/database.json+names/19/name+%2313437
-msgctxt "data/database.json//names/19/name"
+#. data/database.json names/23/name #13437
+#: data/database.json+names/23/name+%2313437
+msgctxt "data/database.json//names/23/name"
 msgid "Luna"
 msgstr "Luna"
 
-#. data/database.json names/20/name #13435
-#: data/database.json+names/20/name+%2313435
-msgctxt "data/database.json//names/20/name"
+#. data/database.json names/24/name #13435
+#: data/database.json+names/24/name+%2313435
+msgctxt "data/database.json//names/24/name"
 msgid "Stella"
 msgstr "Stella"
 
-#. data/database.json names/21/name #12976
-#: data/database.json+names/21/name+%2312976
-msgctxt "data/database.json//names/21/name"
+#. data/database.json names/25/name #12976
+#: data/database.json+names/25/name+%2312976
+msgctxt "data/database.json//names/25/name"
 msgid "Ellen"
 msgstr "Ellen"
 
-#. data/database.json names/22/name #12974
-#: data/database.json+names/22/name+%2312974
-msgctxt "data/database.json//names/22/name"
+#. data/database.json names/26/name #12974
+#: data/database.json+names/26/name+%2312974
+msgctxt "data/database.json//names/26/name"
 msgid "Ana"
 msgstr "Ana"
 
-#. data/database.json names/23/name #12972
-#: data/database.json+names/23/name+%2312972
-msgctxt "data/database.json//names/23/name"
+#. data/database.json names/27/name #12972
+#: data/database.json+names/27/name+%2312972
+msgctxt "data/database.json//names/27/name"
 msgid "McCree"
 msgstr "McCree"
 
-#. data/database.json names/24/name #12970
-#: data/database.json+names/24/name+%2312970
-msgctxt "data/database.json//names/24/name"
+#. data/database.json names/28/name #12970
+#: data/database.json+names/28/name+%2312970
+msgctxt "data/database.json//names/28/name"
 msgid "Sophia"
 msgstr "София"
 
-#. data/database.json names/25/name #12968
-#: data/database.json+names/25/name+%2312968
-msgctxt "data/database.json//names/25/name"
+#. data/database.json names/29/name #12968
+#: data/database.json+names/29/name+%2312968
+msgctxt "data/database.json//names/29/name"
 msgid "Amelie"
 msgstr "Amelie"
 
-#. data/database.json names/26/name #12966
-#: data/database.json+names/26/name+%2312966
-msgctxt "data/database.json//names/26/name"
+#. data/database.json names/30/name #12966
+#: data/database.json+names/30/name+%2312966
+msgctxt "data/database.json//names/30/name"
 msgid "Iskra"
 msgstr "Iskra"
 
-#. data/database.json names/27/name #11215
-#: data/database.json+names/27/name+%2311215
-msgctxt "data/database.json//names/27/name"
+#. data/database.json names/31/name #11215
+#: data/database.json+names/31/name+%2311215
+msgctxt "data/database.json//names/31/name"
 msgid "2wei-3rei"
 msgstr "2wei-3rei"
 
-#. data/database.json names/28/name #9192
-#: data/database.json+names/28/name+%239192
-msgctxt "data/database.json//names/28/name"
+#. data/database.json names/32/name #9192
+#: data/database.json+names/32/name+%239192
+msgctxt "data/database.json//names/32/name"
 msgid "kappunuderu15"
 msgstr "SheshebenS"
 
-#. data/database.json names/29/name #9190
-#: data/database.json+names/29/name+%239190
-msgctxt "data/database.json//names/29/name"
+#. data/database.json names/33/name #9190
+#: data/database.json+names/33/name+%239190
+msgctxt "data/database.json//names/33/name"
 msgid "Joel"
 msgstr "Karech"
 
-#. data/database.json names/30/name #9188
-#: data/database.json+names/30/name+%239188
-msgctxt "data/database.json//names/30/name"
+#. data/database.json names/34/name #9188
+#: data/database.json+names/34/name+%239188
+msgctxt "data/database.json//names/34/name"
 msgid "Ellie"
 msgstr "Элли"
 
-#. data/database.json names/31/name #7678
-#: data/database.json+names/31/name+%237678
-msgctxt "data/database.json//names/31/name"
+#. data/database.json names/35/name #7678
+#: data/database.json+names/35/name+%237678
+msgctxt "data/database.json//names/35/name"
 msgid "Janina"
 msgstr "Janina"
 
-#. data/database.json names/32/name #5974
-#: data/database.json+names/32/name+%235974
-msgctxt "data/database.json//names/32/name"
+#. data/database.json names/36/name #5974
+#: data/database.json+names/36/name+%235974
+msgctxt "data/database.json//names/36/name"
 msgid "Shay"
 msgstr "mure"
 
-#. data/database.json names/33/name #5975
-#: data/database.json+names/33/name+%235975
-msgctxt "data/database.json//names/33/name"
+#. data/database.json names/37/name #5975
+#: data/database.json+names/37/name+%235975
+msgctxt "data/database.json//names/37/name"
 msgid "Lou"
 msgstr "Lou"
 
-#. data/database.json names/34/name #5976
-#: data/database.json+names/34/name+%235976
-msgctxt "data/database.json//names/34/name"
+#. data/database.json names/38/name #5976
+#: data/database.json+names/38/name+%235976
+msgctxt "data/database.json//names/38/name"
 msgid "Tiffy"
 msgstr "Tiffy"
 
-#. data/database.json names/35/name #5057
-#: data/database.json+names/35/name+%235057
-msgctxt "data/database.json//names/35/name"
+#. data/database.json names/39/name #5057
+#: data/database.json+names/39/name+%235057
+msgctxt "data/database.json//names/39/name"
 msgid "Linkle"
 msgstr "Linkle"
 
-#. data/database.json names/36/name #5055
-#: data/database.json+names/36/name+%235055
-msgctxt "data/database.json//names/36/name"
+#. data/database.json names/40/name #5055
+#: data/database.json+names/40/name+%235055
+msgctxt "data/database.json//names/40/name"
 msgid "Shrekt"
 msgstr "Shrekt"
 
-#. data/database.json names/37/name #5053
-#: data/database.json+names/37/name+%235053
-msgctxt "data/database.json//names/37/name"
+#. data/database.json names/41/name #5053
+#: data/database.json+names/41/name+%235053
+msgctxt "data/database.json//names/41/name"
 msgid "Rektangle"
 msgstr "Rektangle"
 
-#. data/database.json names/38/name #5051
-#: data/database.json+names/38/name+%235051
-msgctxt "data/database.json//names/38/name"
+#. data/database.json names/42/name #5051
+#: data/database.json+names/42/name+%235051
+msgctxt "data/database.json//names/42/name"
 msgid "MarieCurry"
 msgstr "MarieCurry"
 
-#. data/database.json names/39/name #5049
-#: data/database.json+names/39/name+%235049
-msgctxt "data/database.json//names/39/name"
+#. data/database.json names/43/name #5049
+#: data/database.json+names/43/name+%235049
+msgctxt "data/database.json//names/43/name"
 msgid "S.Hulk"
 msgstr "S.Hulk"
 
-#. data/database.json names/40/name #5047
-#: data/database.json+names/40/name+%235047
-msgctxt "data/database.json//names/40/name"
+#. data/database.json names/44/name #5047
+#: data/database.json+names/44/name+%235047
+msgctxt "data/database.json//names/44/name"
 msgid "Alex"
 msgstr "Alex"
 
-#. data/database.json names/41/name #5045
-#: data/database.json+names/41/name+%235045
-msgctxt "data/database.json//names/41/name"
+#. data/database.json names/45/name #5045
+#: data/database.json+names/45/name+%235045
+msgctxt "data/database.json//names/45/name"
 msgid "Daisy"
 msgstr "Daisy"
 
-#. data/database.json names/42/name #5043
-#: data/database.json+names/42/name+%235043
-msgctxt "data/database.json//names/42/name"
+#. data/database.json names/46/name #5043
+#: data/database.json+names/46/name+%235043
+msgctxt "data/database.json//names/46/name"
 msgid "Sky"
 msgstr "Sky"
 
-#. data/database.json names/43/name #5041
-#: data/database.json+names/43/name+%235041
-msgctxt "data/database.json//names/43/name"
+#. data/database.json names/47/name #5041
+#: data/database.json+names/47/name+%235041
+msgctxt "data/database.json//names/47/name"
 msgid "Fitz"
 msgstr "Fubuke"
 
-#. data/database.json names/44/name #5039
-#: data/database.json+names/44/name+%235039
-msgctxt "data/database.json//names/44/name"
+#. data/database.json names/48/name #5039
+#: data/database.json+names/48/name+%235039
+msgctxt "data/database.json//names/48/name"
 msgid "Simions"
 msgstr "Arimura"
 
-#. data/database.json names/45/name #5037
-#: data/database.json+names/45/name+%235037
-msgctxt "data/database.json//names/45/name"
+#. data/database.json names/49/name #5037
+#: data/database.json+names/49/name+%235037
+msgctxt "data/database.json//names/49/name"
 msgid "Corrin"
 msgstr "Klopfer"
 
-#. data/database.json names/46/name #5035
-#: data/database.json+names/46/name+%235035
-msgctxt "data/database.json//names/46/name"
+#. data/database.json names/50/name #5035
+#: data/database.json+names/50/name+%235035
+msgctxt "data/database.json//names/50/name"
 msgid "Elena"
 msgstr "Elena"
 
-#. data/database.json names/47/name #5033
-#: data/database.json+names/47/name+%235033
-msgctxt "data/database.json//names/47/name"
+#. data/database.json names/51/name #5033
+#: data/database.json+names/51/name+%235033
+msgctxt "data/database.json//names/51/name"
 msgid "Kara"
 msgstr "Kara"
 
-#. data/database.json names/48/name #5031
-#: data/database.json+names/48/name+%235031
-msgctxt "data/database.json//names/48/name"
+#. data/database.json names/52/name #5031
+#: data/database.json+names/52/name+%235031
+msgctxt "data/database.json//names/52/name"
 msgid "Pumparum"
 msgstr "Pumparum"
 
-#. data/database.json names/49/name #5029
-#: data/database.json+names/49/name+%235029
-msgctxt "data/database.json//names/49/name"
+#. data/database.json names/53/name #5029
+#: data/database.json+names/53/name+%235029
+msgctxt "data/database.json//names/53/name"
 msgid "Nancy95"
 msgstr "Nancy95"
 
-#. data/database.json names/50/name #5027
-#: data/database.json+names/50/name+%235027
-msgctxt "data/database.json//names/50/name"
+#. data/database.json names/54/name #5027
+#: data/database.json+names/54/name+%235027
+msgctxt "data/database.json//names/54/name"
 msgid "Pubbles"
 msgstr "Pubbles"
 
-#. data/database.json names/51/name #4543
-#: data/database.json+names/51/name+%234543
-msgctxt "data/database.json//names/51/name"
+#. data/database.json names/55/name #4543
+#: data/database.json+names/55/name+%234543
+msgctxt "data/database.json//names/55/name"
 msgid "ShadoBoXXer"
 msgstr "pinkkimono"
 
-#. data/database.json names/52/name #4141
-#: data/database.json+names/52/name+%234141
-msgctxt "data/database.json//names/52/name"
+#. data/database.json names/56/name #4141
+#: data/database.json+names/56/name+%234141
+msgctxt "data/database.json//names/56/name"
 msgid "MontyAneem"
 msgstr "IvoryKing"
 
-#. data/database.json names/53/name #3967
-#: data/database.json+names/53/name+%233967
-msgctxt "data/database.json//names/53/name"
+#. data/database.json names/57/name #3967
+#: data/database.json+names/57/name+%233967
+msgctxt "data/database.json//names/57/name"
 msgid "Selina"
 msgstr "Selina"
 
-#. data/database.json names/54/name #3965
-#: data/database.json+names/54/name+%233965
-msgctxt "data/database.json//names/54/name"
+#. data/database.json names/58/name #3965
+#: data/database.json+names/58/name+%233965
+msgctxt "data/database.json//names/58/name"
 msgid "WonderPink"
 msgstr "WonderPink"
 
-#. data/database.json names/55/name #3963
-#: data/database.json+names/55/name+%233963
-msgctxt "data/database.json//names/55/name"
+#. data/database.json names/59/name #3963
+#: data/database.json+names/59/name+%233963
+msgctxt "data/database.json//names/59/name"
 msgid "Watman"
 msgstr "Watman"
 
-#. data/database.json names/56/name #3961
-#: data/database.json+names/56/name+%233961
-msgctxt "data/database.json//names/56/name"
+#. data/database.json names/60/name #3961
+#: data/database.json+names/60/name+%233961
+msgctxt "data/database.json//names/60/name"
 msgid "MarriCurry"
 msgstr "MarriCurry"
 
-#. data/database.json names/57/name #3959
-#: data/database.json+names/57/name+%233959
-msgctxt "data/database.json//names/57/name"
+#. data/database.json names/61/name #3959
+#: data/database.json+names/61/name+%233959
+msgctxt "data/database.json//names/61/name"
 msgid "Jeanne"
 msgstr "Jeanne"
 
-#. data/database.json names/58/name #3957
-#: data/database.json+names/58/name+%233957
-msgctxt "data/database.json//names/58/name"
+#. data/database.json names/62/name #3957
+#: data/database.json+names/62/name+%233957
+msgctxt "data/database.json//names/62/name"
 msgid "Jessie"
 msgstr "Jessie"
 
-#. data/database.json names/59/name #3270
-#: data/database.json+names/59/name+%233270
-msgctxt "data/database.json//names/59/name"
+#. data/database.json names/63/name #3270
+#: data/database.json+names/63/name+%233270
+msgctxt "data/database.json//names/63/name"
 msgid "Blurak"
 msgstr "Blurak"
 
-#. data/database.json names/60/name #3268
-#: data/database.json+names/60/name+%233268
-msgctxt "data/database.json//names/60/name"
+#. data/database.json names/64/name #3268
+#: data/database.json+names/64/name+%233268
+msgctxt "data/database.json//names/64/name"
 msgid "Splizzard2"
 msgstr "crydayTV"
 
-#. data/database.json names/61/name #3266
-#: data/database.json+names/61/name+%233266
-msgctxt "data/database.json//names/61/name"
+#. data/database.json names/65/name #3266
+#: data/database.json+names/65/name+%233266
+msgctxt "data/database.json//names/65/name"
 msgid "Temmie"
 msgstr "Temmie"
 
-#. data/database.json names/62/name #3264
-#: data/database.json+names/62/name+%233264
-msgctxt "data/database.json//names/62/name"
+#. data/database.json names/66/name #3264
+#: data/database.json+names/66/name+%233264
+msgctxt "data/database.json//names/66/name"
 msgid "Toonces"
 msgstr "EastAsh"
 
-#. data/database.json names/63/name #3262
-#: data/database.json+names/63/name+%233262
-msgctxt "data/database.json//names/63/name"
+#. data/database.json names/67/name #3262
+#: data/database.json+names/67/name+%233262
+msgctxt "data/database.json//names/67/name"
 msgid "EricGene"
 msgstr "ArchonT3"
 
-#. data/database.json names/64/name #3260
-#: data/database.json+names/64/name+%233260
-msgctxt "data/database.json//names/64/name"
+#. data/database.json names/68/name #3260
+#: data/database.json+names/68/name+%233260
+msgctxt "data/database.json//names/68/name"
 msgid "Ruby"
 msgstr "Рубин"
 
-#. data/database.json names/65/name #3258
-#: data/database.json+names/65/name+%233258
-msgctxt "data/database.json//names/65/name"
+#. data/database.json names/69/name #3258
+#: data/database.json+names/69/name+%233258
+msgctxt "data/database.json//names/69/name"
 msgid "JoJo"
 msgstr "JoJo"
 
-#. data/database.json names/66/name #3256
-#: data/database.json+names/66/name+%233256
-msgctxt "data/database.json//names/66/name"
+#. data/database.json names/70/name #3256
+#: data/database.json+names/70/name+%233256
+msgctxt "data/database.json//names/70/name"
 msgid "TandemTheSpoony"
 msgstr "TandemTheSpoony"
 
-#. data/database.json names/67/name #3254
-#: data/database.json+names/67/name+%233254
-msgctxt "data/database.json//names/67/name"
+#. data/database.json names/71/name #3254
+#: data/database.json+names/71/name+%233254
+msgctxt "data/database.json//names/71/name"
 msgid "Melia"
 msgstr "Melia"
 
-#. data/database.json names/68/name #3252
-#: data/database.json+names/68/name+%233252
-msgctxt "data/database.json//names/68/name"
+#. data/database.json names/72/name #3252
+#: data/database.json+names/72/name+%233252
+msgctxt "data/database.json//names/72/name"
 msgid "Reyn"
 msgstr "ProfCM"
 
-#. data/database.json names/69/name #3250
-#: data/database.json+names/69/name+%233250
-msgctxt "data/database.json//names/69/name"
+#. data/database.json names/73/name #3250
+#: data/database.json+names/73/name+%233250
+msgctxt "data/database.json//names/73/name"
 msgid "Brian"
 msgstr "Brian"
 
-#. data/database.json names/70/name #3248
-#: data/database.json+names/70/name+%233248
-msgctxt "data/database.json//names/70/name"
+#. data/database.json names/74/name #3248
+#: data/database.json+names/74/name+%233248
+msgctxt "data/database.json//names/74/name"
 msgid "OlaXel"
 msgstr "OlaXel"
 
-#. data/database.json names/71/name #3246
-#: data/database.json+names/71/name+%233246
-msgctxt "data/database.json//names/71/name"
+#. data/database.json names/75/name #3246
+#: data/database.json+names/75/name+%233246
+msgctxt "data/database.json//names/75/name"
 msgid "TyrAnnie"
 msgstr "TyrAnnie"
 
-#. data/database.json names/72/name #3244
-#: data/database.json+names/72/name+%233244
-msgctxt "data/database.json//names/72/name"
+#. data/database.json names/76/name #3244
+#: data/database.json+names/76/name+%233244
+msgctxt "data/database.json//names/76/name"
 msgid "Sashura"
 msgstr "Sashura"
 
-#. data/database.json names/73/name #3242
-#: data/database.json+names/73/name+%233242
-msgctxt "data/database.json//names/73/name"
+#. data/database.json names/77/name #3242
+#: data/database.json+names/77/name+%233242
+msgctxt "data/database.json//names/77/name"
 msgid "CheddarKnight"
 msgstr "CheddarKnight"
 
-#. data/database.json names/74/name #3240
-#: data/database.json+names/74/name+%233240
-msgctxt "data/database.json//names/74/name"
+#. data/database.json names/78/name #3240
+#: data/database.json+names/78/name+%233240
+msgctxt "data/database.json//names/78/name"
 msgid "SioBubbles"
 msgstr "SioBubbles"
 
-#. data/database.json names/75/name #3238
-#: data/database.json+names/75/name+%233238
-msgctxt "data/database.json//names/75/name"
+#. data/database.json names/79/name #3238
+#: data/database.json+names/79/name+%233238
+msgctxt "data/database.json//names/79/name"
 msgid "Girlchan"
 msgstr "Girlchan"
 
-#. data/database.json names/76/name #3236
-#: data/database.json+names/76/name+%233236
-msgctxt "data/database.json//names/76/name"
+#. data/database.json names/80/name #3236
+#: data/database.json+names/80/name+%233236
+msgctxt "data/database.json//names/80/name"
 msgid "Sitonmi"
 msgstr "Sitonmi"
 
-#. data/database.json names/77/name #3234
-#: data/database.json+names/77/name+%233234
-msgctxt "data/database.json//names/77/name"
+#. data/database.json names/81/name #3234
+#: data/database.json+names/81/name+%233234
+msgctxt "data/database.json//names/81/name"
 msgid "Mikitora"
 msgstr "Mikitora"
 
-#. data/database.json names/78/name #3232
-#: data/database.json+names/78/name+%233232
-msgctxt "data/database.json//names/78/name"
+#. data/database.json names/82/name #3232
+#: data/database.json+names/82/name+%233232
+msgctxt "data/database.json//names/82/name"
 msgid "Pito"
 msgstr "Pito"
 
-#. data/database.json names/79/name #3230
-#: data/database.json+names/79/name+%233230
-msgctxt "data/database.json//names/79/name"
+#. data/database.json names/83/name #3230
+#: data/database.json+names/83/name+%233230
+msgctxt "data/database.json//names/83/name"
 msgid "MoreDread"
 msgstr "MoreDread"
 
-#. data/database.json names/80/name #3228
-#: data/database.json+names/80/name+%233228
-msgctxt "data/database.json//names/80/name"
+#. data/database.json names/84/name #3228
+#: data/database.json+names/84/name+%233228
+msgctxt "data/database.json//names/84/name"
 msgid "Rhue"
 msgstr "bronustar"
 
-#. data/database.json names/81/name #3226
-#: data/database.json+names/81/name+%233226
-msgctxt "data/database.json//names/81/name"
+#. data/database.json names/85/name #3226
+#: data/database.json+names/85/name+%233226
+msgctxt "data/database.json//names/85/name"
 msgid "ClaudeM"
 msgstr "Storlack"
 
-#. data/database.json names/82/name #3224
-#: data/database.json+names/82/name+%233224
-msgctxt "data/database.json//names/82/name"
+#. data/database.json names/86/name #3224
+#: data/database.json+names/86/name+%233224
+msgctxt "data/database.json//names/86/name"
 msgid "Erol"
 msgstr "rewfly"
 
-#. data/database.json names/83/name #3222
-#: data/database.json+names/83/name+%233222
-msgctxt "data/database.json//names/83/name"
+#. data/database.json names/87/name #3222
+#: data/database.json+names/87/name+%233222
+msgctxt "data/database.json//names/87/name"
 msgid "Hrist"
 msgstr "Hrist"
 
-#. data/database.json names/84/name #3220
-#: data/database.json+names/84/name+%233220
-msgctxt "data/database.json//names/84/name"
+#. data/database.json names/88/name #3220
+#: data/database.json+names/88/name+%233220
+msgctxt "data/database.json//names/88/name"
 msgid "MrZuho"
 msgstr "MrZuho"
 
-#. data/database.json names/85/name #3218
-#: data/database.json+names/85/name+%233218
-msgctxt "data/database.json//names/85/name"
+#. data/database.json names/89/name #3218
+#: data/database.json+names/89/name+%233218
+msgctxt "data/database.json//names/89/name"
 msgid "PrinceLotus"
 msgstr "CarKat"
 
-#. data/database.json names/86/name #3216
-#: data/database.json+names/86/name+%233216
-msgctxt "data/database.json//names/86/name"
+#. data/database.json names/90/name #3216
+#: data/database.json+names/90/name+%233216
+msgctxt "data/database.json//names/90/name"
 msgid "Popoi"
 msgstr "Popoi"
 
-#. data/database.json names/87/name #3214
-#: data/database.json+names/87/name+%233214
-msgctxt "data/database.json//names/87/name"
+#. data/database.json names/91/name #3214
+#: data/database.json+names/91/name+%233214
+msgctxt "data/database.json//names/91/name"
 msgid "Purim"
 msgstr "Purim"
 
-#. data/database.json names/88/name #3212
-#: data/database.json+names/88/name+%233212
-msgctxt "data/database.json//names/88/name"
+#. data/database.json names/92/name #3212
+#: data/database.json+names/92/name+%233212
+msgctxt "data/database.json//names/92/name"
 msgid "Randi"
 msgstr "Jknyf"
 
-#. data/database.json names/89/name #3210
-#: data/database.json+names/89/name+%233210
-msgctxt "data/database.json//names/89/name"
+#. data/database.json names/93/name #3210
+#: data/database.json+names/93/name+%233210
+msgctxt "data/database.json//names/93/name"
 msgid "Jeezil"
 msgstr "Jeezil"
 
-#. data/database.json names/90/name #3208
-#: data/database.json+names/90/name+%233208
-msgctxt "data/database.json//names/90/name"
+#. data/database.json names/94/name #3208
+#: data/database.json+names/94/name+%233208
+msgctxt "data/database.json//names/94/name"
 msgid "Sesoko"
 msgstr "Renhin"
 
-#. data/database.json names/91/name #3206
-#: data/database.json+names/91/name+%233206
-msgctxt "data/database.json//names/91/name"
+#. data/database.json names/95/name #3206
+#: data/database.json+names/95/name+%233206
+msgctxt "data/database.json//names/95/name"
 msgid "Chizea"
 msgstr "Chizea"
 
-#. data/database.json names/92/name #3204
-#: data/database.json+names/92/name+%233204
-msgctxt "data/database.json//names/92/name"
+#. data/database.json names/96/name #3204
+#: data/database.json+names/96/name+%233204
+msgctxt "data/database.json//names/96/name"
 msgid "DarknessBlade"
 msgstr "DarknessBlade"
 
-#. data/database.json names/93/name #3202
-#: data/database.json+names/93/name+%233202
-msgctxt "data/database.json//names/93/name"
+#. data/database.json names/97/name #3202
+#: data/database.json+names/97/name+%233202
+msgctxt "data/database.json//names/97/name"
 msgid "FormerlyKnownS"
 msgstr "Kopusha"
 
-#. data/database.json names/94/name #3200
-#: data/database.json+names/94/name+%233200
-msgctxt "data/database.json//names/94/name"
+#. data/database.json names/98/name #3200
+#: data/database.json+names/98/name+%233200
+msgctxt "data/database.json//names/98/name"
 msgid "NikRoT"
 msgstr "NikRoT"
 
-#. data/database.json names/95/name #3198
-#: data/database.json+names/95/name+%233198
-msgctxt "data/database.json//names/95/name"
+#. data/database.json names/99/name #3198
+#: data/database.json+names/99/name+%233198
+msgctxt "data/database.json//names/99/name"
 msgid "ChrisT"
 msgstr "ChrisT"
 
-#. data/database.json names/96/name #3196
-#: data/database.json+names/96/name+%233196
-msgctxt "data/database.json//names/96/name"
+#. data/database.json names/100/name #3196
+#: data/database.json+names/100/name+%233196
+msgctxt "data/database.json//names/100/name"
 msgid "Lao"
 msgstr "Kaper"
 
-#. data/database.json names/97/name #3194
-#: data/database.json+names/97/name+%233194
-msgctxt "data/database.json//names/97/name"
+#. data/database.json names/101/name #3194
+#: data/database.json+names/101/name+%233194
+msgctxt "data/database.json//names/101/name"
 msgid "Shan"
 msgstr "Shan"
 
-#. data/database.json names/98/name #3192
-#: data/database.json+names/98/name+%233192
-msgctxt "data/database.json//names/98/name"
+#. data/database.json names/102/name #3192
+#: data/database.json+names/102/name+%233192
+msgctxt "data/database.json//names/102/name"
 msgid "Wash"
 msgstr "Wash"
 
-#. data/database.json names/99/name #3190
-#: data/database.json+names/99/name+%233190
-msgctxt "data/database.json//names/99/name"
+#. data/database.json names/103/name #3190
+#: data/database.json+names/103/name+%233190
+msgctxt "data/database.json//names/103/name"
 msgid "River"
 msgstr "River"
 
-#. data/database.json names/100/name #3188
-#: data/database.json+names/100/name+%233188
-msgctxt "data/database.json//names/100/name"
+#. data/database.json names/104/name #3188
+#: data/database.json+names/104/name+%233188
+msgctxt "data/database.json//names/104/name"
 msgid "Kaylee"
 msgstr "Kaylee"
 
-#. data/database.json names/101/name #3186
-#: data/database.json+names/101/name+%233186
-msgctxt "data/database.json//names/101/name"
+#. data/database.json names/105/name #3186
+#: data/database.json+names/105/name+%233186
+msgctxt "data/database.json//names/105/name"
 msgid "Zoe"
 msgstr "Зои"
 
-#. data/database.json names/102/name #3184
-#: data/database.json+names/102/name+%233184
-msgctxt "data/database.json//names/102/name"
+#. data/database.json names/106/name #3184
+#: data/database.json+names/106/name+%233184
+msgctxt "data/database.json//names/106/name"
 msgid "Mal"
 msgstr "Minuna1"
 
-#. data/database.json names/103/name #3182
-#: data/database.json+names/103/name+%233182
-msgctxt "data/database.json//names/103/name"
+#. data/database.json names/107/name #3182
+#: data/database.json+names/107/name+%233182
+msgctxt "data/database.json//names/107/name"
 msgid "Mr.Wiggly"
 msgstr "Mr.Wiggly"
 
-#. data/database.json names/104/name #3180
-#: data/database.json+names/104/name+%233180
-msgctxt "data/database.json//names/104/name"
+#. data/database.json names/108/name #3180
+#: data/database.json+names/108/name+%233180
+msgctxt "data/database.json//names/108/name"
 msgid "Zaboo"
 msgstr "Zaboo"
 
-#. data/database.json names/105/name #3178
-#: data/database.json+names/105/name+%233178
-msgctxt "data/database.json//names/105/name"
+#. data/database.json names/109/name #3178
+#: data/database.json+names/109/name+%233178
+msgctxt "data/database.json//names/109/name"
 msgid "Vork"
 msgstr "Vork"
 
-#. data/database.json names/106/name #3176
-#: data/database.json+names/106/name+%233176
-msgctxt "data/database.json//names/106/name"
+#. data/database.json names/110/name #3176
+#: data/database.json+names/110/name+%233176
+msgctxt "data/database.json//names/110/name"
 msgid "Tink"
 msgstr "Tink"
 
-#. data/database.json names/107/name #3174
-#: data/database.json+names/107/name+%233174
-msgctxt "data/database.json//names/107/name"
+#. data/database.json names/111/name #3174
+#: data/database.json+names/111/name+%233174
+msgctxt "data/database.json//names/111/name"
 msgid "Clara"
 msgstr "Clara"
 
-#. data/database.json names/108/name #3172
-#: data/database.json+names/108/name+%233172
-msgctxt "data/database.json//names/108/name"
+#. data/database.json names/112/name #3172
+#: data/database.json+names/112/name+%233172
+msgctxt "data/database.json//names/112/name"
 msgid "Bladezz"
 msgstr "Paporatnik"
 
-#. data/database.json names/109/name #3170
-#: data/database.json+names/109/name+%233170
-msgctxt "data/database.json//names/109/name"
+#. data/database.json names/113/name #3170
+#: data/database.json+names/113/name+%233170
+msgctxt "data/database.json//names/113/name"
 msgid "Codex"
 msgstr "Codex"
 
-#. data/database.json names/110/name #3144
-#: data/database.json+names/110/name+%233144
-msgctxt "data/database.json//names/110/name"
+#. data/database.json names/114/name #3144
+#: data/database.json+names/114/name+%233144
+msgctxt "data/database.json//names/114/name"
 msgid "Trish"
 msgstr "Trish"
 
-#. data/database.json names/111/name #3143
-#: data/database.json+names/111/name+%233143
-msgctxt "data/database.json//names/111/name"
+#. data/database.json names/115/name #3143
+#: data/database.json+names/115/name+%233143
+msgctxt "data/database.json//names/115/name"
 msgid "Groot"
 msgstr "Groot"
 
-#. data/database.json names/112/name #3142
-#: data/database.json+names/112/name+%233142
-msgctxt "data/database.json//names/112/name"
+#. data/database.json names/116/name #3142
+#: data/database.json+names/116/name+%233142
+msgctxt "data/database.json//names/116/name"
 msgid "Crowfather"
 msgstr "Crowfather"
 
-#. data/database.json names/113/name #3141
-#: data/database.json+names/113/name+%233141
-msgctxt "data/database.json//names/113/name"
+#. data/database.json names/117/name #3141
+#: data/database.json+names/117/name+%233141
+msgctxt "data/database.json//names/117/name"
 msgid "MikeRafone"
 msgstr "MikeRafone"
 
-#. data/database.json names/114/name #3140
-#: data/database.json+names/114/name+%233140
-msgctxt "data/database.json//names/114/name"
+#. data/database.json names/118/name #3140
+#: data/database.json+names/118/name+%233140
+msgctxt "data/database.json//names/118/name"
 msgid "Link"
 msgstr "Link"
 
-#. data/database.json names/115/name #3139
-#: data/database.json+names/115/name+%233139
-msgctxt "data/database.json//names/115/name"
+#. data/database.json names/119/name #3139
+#: data/database.json+names/119/name+%233139
+msgctxt "data/database.json//names/119/name"
 msgid "Joe Momma"
 msgstr "Joe Momma"
 
-#. data/database.json names/116/name #3138
-#: data/database.json+names/116/name+%233138
-msgctxt "data/database.json//names/116/name"
+#. data/database.json names/120/name #3138
+#: data/database.json+names/120/name+%233138
+msgctxt "data/database.json//names/120/name"
 msgid "Wronski"
 msgstr "Wronski"
 
-#. data/database.json names/117/name #3137
-#: data/database.json+names/117/name+%233137
-msgctxt "data/database.json//names/117/name"
+#. data/database.json names/121/name #3137
+#: data/database.json+names/121/name+%233137
+msgctxt "data/database.json//names/121/name"
 msgid "Shepard"
 msgstr "Shepard"
 
-#. data/database.json names/118/name #3136
-#: data/database.json+names/118/name+%233136
-msgctxt "data/database.json//names/118/name"
+#. data/database.json names/122/name #3136
+#: data/database.json+names/122/name+%233136
+msgctxt "data/database.json//names/122/name"
 msgid "Na-Chus"
 msgstr "Na-Chus"
 
-#. data/database.json names/119/name #3135
-#: data/database.json+names/119/name+%233135
-msgctxt "data/database.json//names/119/name"
+#. data/database.json names/123/name #3135
+#: data/database.json+names/123/name+%233135
+msgctxt "data/database.json//names/123/name"
 msgid "NotNario"
 msgstr "NotNario"
 
-#. data/database.json names/120/name #3134
-#: data/database.json+names/120/name+%233134
-msgctxt "data/database.json//names/120/name"
+#. data/database.json names/124/name #3134
+#: data/database.json+names/124/name+%233134
+msgctxt "data/database.json//names/124/name"
 msgid "Columball"
 msgstr "Columball"
 
-#. data/database.json names/121/name #3133
-#: data/database.json+names/121/name+%233133
-msgctxt "data/database.json//names/121/name"
+#. data/database.json names/125/name #3133
+#: data/database.json+names/125/name+%233133
+msgctxt "data/database.json//names/125/name"
 msgid "Marie"
 msgstr "Marie"
 
-#. data/database.json names/122/name #3131
-#: data/database.json+names/122/name+%233131
-msgctxt "data/database.json//names/122/name"
+#. data/database.json names/126/name #3131
+#: data/database.json+names/126/name+%233131
+msgctxt "data/database.json//names/126/name"
 msgid "Vergil"
 msgstr "Vergil"
 
-#. data/database.json names/123/name #3130
-#: data/database.json+names/123/name+%233130
-msgctxt "data/database.json//names/123/name"
+#. data/database.json names/127/name #3130
+#: data/database.json+names/127/name+%233130
+msgctxt "data/database.json//names/127/name"
 msgid "Dante"
 msgstr "Dante"
 
-#. data/database.json names/124/name #3132
-#: data/database.json+names/124/name+%233132
-msgctxt "data/database.json//names/124/name"
+#. data/database.json names/128/name #3132
+#: data/database.json+names/128/name+%233132
+msgctxt "data/database.json//names/128/name"
 msgid "Irina"
 msgstr "Irina"
 
-#. data/database.json names/125/name #3128
-#: data/database.json+names/125/name+%233128
-msgctxt "data/database.json//names/125/name"
+#. data/database.json names/129/name #3128
+#: data/database.json+names/129/name+%233128
+msgctxt "data/database.json//names/129/name"
 msgid "C.Loud.S"
 msgstr "C.Loud.S"
 
-#. data/database.json names/126/name #3127
-#: data/database.json+names/126/name+%233127
-msgctxt "data/database.json//names/126/name"
+#. data/database.json names/130/name #3127
+#: data/database.json+names/130/name+%233127
+msgctxt "data/database.json//names/130/name"
 msgid "Xenia"
 msgstr "Xenia"
 
-#. data/database.json names/127/name #3126
-#: data/database.json+names/127/name+%233126
-msgctxt "data/database.json//names/127/name"
+#. data/database.json names/131/name #3126
+#: data/database.json+names/131/name+%233126
+msgctxt "data/database.json//names/131/name"
 msgid "Noah"
 msgstr "Ной"
 
-#. data/database.json names/128/name #3125
-#: data/database.json+names/128/name+%233125
-msgctxt "data/database.json//names/128/name"
+#. data/database.json names/132/name #3125
+#: data/database.json+names/132/name+%233125
+msgctxt "data/database.json//names/132/name"
 msgid "Judie"
 msgstr "Judie"
 
-#. data/database.json names/129/name #3124
-#: data/database.json+names/129/name+%233124
-msgctxt "data/database.json//names/129/name"
+#. data/database.json names/133/name #3124
+#: data/database.json+names/133/name+%233124
+msgctxt "data/database.json//names/133/name"
 msgid "Yuri"
 msgstr "Yuri"
 
-#. data/database.json names/130/name #3123
-#: data/database.json+names/130/name+%233123
-msgctxt "data/database.json//names/130/name"
+#. data/database.json names/134/name #3123
+#: data/database.json+names/134/name+%233123
+msgctxt "data/database.json//names/134/name"
 msgid "Lucies"
 msgstr "Lucies"
 
-#. data/database.json names/131/name #3122
-#: data/database.json+names/131/name+%233122
-msgctxt "data/database.json//names/131/name"
+#. data/database.json names/135/name #3122
+#: data/database.json+names/135/name+%233122
+msgctxt "data/database.json//names/135/name"
 msgid "Dr. Doctor"
 msgstr "Dr. Doctor"
 
-#. data/database.json names/132/name #3121
-#: data/database.json+names/132/name+%233121
-msgctxt "data/database.json//names/132/name"
+#. data/database.json names/136/name #3121
+#: data/database.json+names/136/name+%233121
+msgctxt "data/database.json//names/136/name"
 msgid "Haniball"
 msgstr "Haniball"
 
-#. data/database.json names/133/name #3120
-#: data/database.json+names/133/name+%233120
-msgctxt "data/database.json//names/133/name"
+#. data/database.json names/137/name #3120
+#: data/database.json+names/137/name+%233120
+msgctxt "data/database.json//names/137/name"
 msgid "Sokrates"
 msgstr "Sokrates"
 
-#. data/database.json names/134/name #3119
-#: data/database.json+names/134/name+%233119
-msgctxt "data/database.json//names/134/name"
+#. data/database.json names/138/name #3119
+#: data/database.json+names/138/name+%233119
+msgctxt "data/database.json//names/138/name"
 msgid "Angel"
 msgstr "Angel"
 
-#. data/database.json names/135/name #3118
-#: data/database.json+names/135/name+%233118
-msgctxt "data/database.json//names/135/name"
+#. data/database.json names/139/name #3118
+#: data/database.json+names/139/name+%233118
+msgctxt "data/database.json//names/139/name"
 msgid "Nemo"
 msgstr "Nemo"
 
-#. data/database.json names/136/name #3117
-#: data/database.json+names/136/name+%233117
-msgctxt "data/database.json//names/136/name"
+#. data/database.json names/140/name #3117
+#: data/database.json+names/140/name+%233117
+msgctxt "data/database.json//names/140/name"
 msgid "Dora"
 msgstr "Dora"
 
-#. data/database.json names/137/name #3116
-#: data/database.json+names/137/name+%233116
-msgctxt "data/database.json//names/137/name"
+#. data/database.json names/141/name #3116
+#: data/database.json+names/141/name+%233116
+msgctxt "data/database.json//names/141/name"
 msgid "Luka"
 msgstr "Luka"
 
-#. data/database.json names/138/name #3115
-#: data/database.json+names/138/name+%233115
-msgctxt "data/database.json//names/138/name"
+#. data/database.json names/142/name #3115
+#: data/database.json+names/142/name+%233115
+msgctxt "data/database.json//names/142/name"
 msgid "Marshmello"
 msgstr "Marshmello"
 
-#. data/database.json names/139/name #3114
-#: data/database.json+names/139/name+%233114
-msgctxt "data/database.json//names/139/name"
+#. data/database.json names/143/name #3114
+#: data/database.json+names/143/name+%233114
+msgctxt "data/database.json//names/143/name"
 msgid "Lara"
 msgstr "Lara"
 
-#. data/database.json names/140/name #3113
-#: data/database.json+names/140/name+%233113
-msgctxt "data/database.json//names/140/name"
+#. data/database.json names/144/name #3113
+#: data/database.json+names/144/name+%233113
+msgctxt "data/database.json//names/144/name"
 msgid "Lawrence"
 msgstr "ohNNmi"
 
-#. data/database.json names/141/name #3112
-#: data/database.json+names/141/name+%233112
-msgctxt "data/database.json//names/141/name"
+#. data/database.json names/145/name #3112
+#: data/database.json+names/145/name+%233112
+msgctxt "data/database.json//names/145/name"
 msgid "Mario"
 msgstr "Марио"
 
-#. data/database.json names/142/name #3111
-#: data/database.json+names/142/name+%233111
-msgctxt "data/database.json//names/142/name"
+#. data/database.json names/146/name #3111
+#: data/database.json+names/146/name+%233111
+msgctxt "data/database.json//names/146/name"
 msgid "Peach"
 msgstr "Peach"
 
-#. data/database.json names/143/name #3110
-#: data/database.json+names/143/name+%233110
-msgctxt "data/database.json//names/143/name"
+#. data/database.json names/147/name #3110
+#: data/database.json+names/147/name+%233110
+msgctxt "data/database.json//names/147/name"
 msgid "Nico"
 msgstr "Nico"
 
-#. data/database.json names/144/name #3109
-#: data/database.json+names/144/name+%233109
-msgctxt "data/database.json//names/144/name"
+#. data/database.json names/148/name #3109
+#: data/database.json+names/148/name+%233109
+msgctxt "data/database.json//names/148/name"
 msgid "Korra"
 msgstr "Korra"
 
-#. data/database.json names/145/name #3108
-#: data/database.json+names/145/name+%233108
-msgctxt "data/database.json//names/145/name"
+#. data/database.json names/149/name #3108
+#: data/database.json+names/149/name+%233108
+msgctxt "data/database.json//names/149/name"
 msgid "Aang"
 msgstr "Aang"
 
-#. data/database.json names/146/name #3107
-#: data/database.json+names/146/name+%233107
-msgctxt "data/database.json//names/146/name"
+#. data/database.json names/150/name #3107
+#: data/database.json+names/150/name+%233107
+msgctxt "data/database.json//names/150/name"
 msgid "Undefined"
 msgstr "Undefined"
 
-#. data/database.json names/147/name #3106
-#: data/database.json+names/147/name+%233106
-msgctxt "data/database.json//names/147/name"
+#. data/database.json names/151/name #3106
+#: data/database.json+names/151/name+%233106
+msgctxt "data/database.json//names/151/name"
 msgid "Samus"
 msgstr "Samus"
 
-#. data/database.json names/148/name #3105
-#: data/database.json+names/148/name+%233105
-msgctxt "data/database.json//names/148/name"
+#. data/database.json names/152/name #3105
+#: data/database.json+names/152/name+%233105
+msgctxt "data/database.json//names/152/name"
 msgid "Ness"
 msgstr "Ness"
 
-#. data/database.json names/149/name #3101
-#: data/database.json+names/149/name+%233101
-msgctxt "data/database.json//names/149/name"
+#. data/database.json names/153/name #3101
+#: data/database.json+names/153/name+%233101
+msgctxt "data/database.json//names/153/name"
 msgid "Jockey"
 msgstr "Jockey"
 
-#. data/database.json names/150/name #3100
-#: data/database.json+names/150/name+%233100
-msgctxt "data/database.json//names/150/name"
+#. data/database.json names/154/name #3100
+#: data/database.json+names/154/name+%233100
+msgctxt "data/database.json//names/154/name"
 msgid "Ripper"
 msgstr "Ripper"
 
-#. data/database.json names/151/name #3099
-#: data/database.json+names/151/name+%233099
-msgctxt "data/database.json//names/151/name"
+#. data/database.json names/155/name #3099
+#: data/database.json+names/155/name+%233099
+msgctxt "data/database.json//names/155/name"
 msgid "Bubblegum"
 msgstr "Bubblegum"
 
-#. data/database.json names/152/name #3098
-#: data/database.json+names/152/name+%233098
-msgctxt "data/database.json//names/152/name"
+#. data/database.json names/156/name #3098
+#: data/database.json+names/156/name+%233098
+msgctxt "data/database.json//names/156/name"
 msgid "Finn"
 msgstr "Finn"
 
-#. data/database.json names/153/name #3097
-#: data/database.json+names/153/name+%233097
-msgctxt "data/database.json//names/153/name"
+#. data/database.json names/157/name #3097
+#: data/database.json+names/157/name+%233097
+msgctxt "data/database.json//names/157/name"
 msgid "Gunther"
 msgstr "Gunther"
 
-#. data/database.json names/154/name #3094
-#: data/database.json+names/154/name+%233094
-msgctxt "data/database.json//names/154/name"
+#. data/database.json names/158/name #3094
+#: data/database.json+names/158/name+%233094
+msgctxt "data/database.json//names/158/name"
 msgid "Purrsalot"
 msgstr "Purrsalot"
 
-#. data/database.json names/155/name #3093
-#: data/database.json+names/155/name+%233093
-msgctxt "data/database.json//names/155/name"
+#. data/database.json names/159/name #3093
+#: data/database.json+names/159/name+%233093
+msgctxt "data/database.json//names/159/name"
 msgid "Zack"
 msgstr "Zack"
 
-#. data/database.json names/156/name #3092
-#: data/database.json+names/156/name+%233092
-msgctxt "data/database.json//names/156/name"
+#. data/database.json names/160/name #3092
+#: data/database.json+names/160/name+%233092
+msgctxt "data/database.json//names/160/name"
 msgid "Dogmeat"
 msgstr "Dogmeat"
 
-#. data/database.json names/157/name #3090
-#: data/database.json+names/157/name+%233090
-msgctxt "data/database.json//names/157/name"
+#. data/database.json names/161/name #3090
+#: data/database.json+names/161/name+%233090
+msgctxt "data/database.json//names/161/name"
 msgid "Glory"
 msgstr "Glory"
 
-#. data/database.json names/158/name #3104
-#: data/database.json+names/158/name+%233104
-msgctxt "data/database.json//names/158/name"
+#. data/database.json names/162/name #3104
+#: data/database.json+names/162/name+%233104
+msgctxt "data/database.json//names/162/name"
 msgid "Kirkwood"
 msgstr "Kirkwood"
 
-#. data/database.json names/159/name #3088
-#: data/database.json+names/159/name+%233088
-msgctxt "data/database.json//names/159/name"
+#. data/database.json names/163/name #3088
+#: data/database.json+names/163/name+%233088
+msgctxt "data/database.json//names/163/name"
 msgid "Gary"
 msgstr "pls nerf ekko"
 
-#. data/database.json names/160/name #3086
-#: data/database.json+names/160/name+%233086
-msgctxt "data/database.json//names/160/name"
+#. data/database.json names/164/name #3086
+#: data/database.json+names/164/name+%233086
+msgctxt "data/database.json//names/164/name"
 msgid "Darth Mall"
 msgstr "Darth Mall"
 
-#. data/database.json names/161/name #3495
-#: data/database.json+names/161/name+%233495
-msgctxt "data/database.json//names/161/name"
+#. data/database.json names/165/name #3495
+#: data/database.json+names/165/name+%233495
+msgctxt "data/database.json//names/165/name"
 msgid "DonFranco"
 msgstr "DonFranco"
 
-#. data/database.json names/162/name #3091
-#: data/database.json+names/162/name+%233091
-msgctxt "data/database.json//names/162/name"
+#. data/database.json names/166/name #3091
+#: data/database.json+names/166/name+%233091
+msgctxt "data/database.json//names/166/name"
 msgid "Enel"
 msgstr "Enel"
 
-#. data/database.json names/163/name #1215
-#: data/database.json+names/163/name+%231215
-msgctxt "data/database.json//names/163/name"
+#. data/database.json names/167/name #1215
+#: data/database.json+names/167/name+%231215
+msgctxt "data/database.json//names/167/name"
 msgid "SJFitsGoku99"
 msgstr "SJFitsGoku99"
 
-#. data/database.json names/164/name #1214
-#: data/database.json+names/164/name+%231214
-msgctxt "data/database.json//names/164/name"
+#. data/database.json names/168/name #1214
+#: data/database.json+names/168/name+%231214
+msgctxt "data/database.json//names/168/name"
 msgid "Lel"
 msgstr "Lel"
 
-#. data/database.json names/165/name #1212
-#: data/database.json+names/165/name+%231212
-msgctxt "data/database.json//names/165/name"
+#. data/database.json names/169/name #1212
+#: data/database.json+names/169/name+%231212
+msgctxt "data/database.json//names/169/name"
 msgid "Abrahammer"
 msgstr "Abrahammer"
 
-#. data/database.json names/166/name #1162
-#: data/database.json+names/166/name+%231162
-msgctxt "data/database.json//names/166/name"
+#. data/database.json names/170/name #1162
+#: data/database.json+names/170/name+%231162
+msgctxt "data/database.json//names/170/name"
 msgid "Manman"
 msgstr "Manman"
 
-#. data/database.json names/167/name #1161
-#: data/database.json+names/167/name+%231161
-msgctxt "data/database.json//names/167/name"
+#. data/database.json names/171/name #1161
+#: data/database.json+names/171/name+%231161
+msgctxt "data/database.json//names/171/name"
 msgid "Josephine"
 msgstr "Josephine"
 
-#. data/database.json names/168/name #1160
-#: data/database.json+names/168/name+%231160
-msgctxt "data/database.json//names/168/name"
+#. data/database.json names/172/name #1160
+#: data/database.json+names/172/name+%231160
+msgctxt "data/database.json//names/172/name"
 msgid "Stefan"
 msgstr "ncuxonam"
 
-#. data/database.json names/169/name #882
-#: data/database.json+names/169/name+%23882
-msgctxt "data/database.json//names/169/name"
+#. data/database.json names/173/name #882
+#: data/database.json+names/173/name+%23882
+msgctxt "data/database.json//names/173/name"
 msgid "Popinski"
 msgstr "Popinski"
 
-#. data/database.json names/170/name #853
-#: data/database.json+names/170/name+%23853
-msgctxt "data/database.json//names/170/name"
+#. data/database.json names/174/name #853
+#: data/database.json+names/174/name+%23853
+msgctxt "data/database.json//names/174/name"
 msgid "Stranger"
 msgstr "Stranger"
 
-#. data/database.json names/171/name #852
-#: data/database.json+names/171/name+%23852
-msgctxt "data/database.json//names/171/name"
+#. data/database.json names/175/name #852
+#: data/database.json+names/175/name+%23852
+msgctxt "data/database.json//names/175/name"
 msgid "Anna"
 msgstr "Anna"
 
-#. data/database.json names/172/name #851
-#: data/database.json+names/172/name+%23851
-msgctxt "data/database.json//names/172/name"
+#. data/database.json names/176/name #851
+#: data/database.json+names/176/name+%23851
+msgctxt "data/database.json//names/176/name"
 msgid "Patty"
 msgstr "Patty"
 
-#. data/database.json names/173/name #850
-#: data/database.json+names/173/name+%23850
-msgctxt "data/database.json//names/173/name"
+#. data/database.json names/177/name #850
+#: data/database.json+names/177/name+%23850
+msgctxt "data/database.json//names/177/name"
 msgid "Felix"
 msgstr "Феликс"
 
-#. data/database.json names/174/name #849
-#: data/database.json+names/174/name+%23849
-msgctxt "data/database.json//names/174/name"
+#. data/database.json names/178/name #849
+#: data/database.json+names/178/name+%23849
+msgctxt "data/database.json//names/178/name"
 msgid "Sarah"
 msgstr "Sarah"
 
-#. data/database.json names/175/name #832
-#: data/database.json+names/175/name+%23832
-msgctxt "data/database.json//names/175/name"
+#. data/database.json names/179/name #832
+#: data/database.json+names/179/name+%23832
+msgctxt "data/database.json//names/179/name"
 msgid "Lefto"
 msgstr "Neverhood"
 
-#. data/database.json names/176/name #830
-#: data/database.json+names/176/name+%23830
-msgctxt "data/database.json//names/176/name"
+#. data/database.json names/180/name #830
+#: data/database.json+names/180/name+%23830
+msgctxt "data/database.json//names/180/name"
 msgid "Manmayo"
 msgstr "Manmayo"
 
-#. data/database.json names/177/name #831
-#: data/database.json+names/177/name+%23831
-msgctxt "data/database.json//names/177/name"
+#. data/database.json names/181/name #831
+#: data/database.json+names/181/name+%23831
+msgctxt "data/database.json//names/181/name"
 msgid "Duddley"
 msgstr "Duddley"
 
-#. data/database.json names/178/name #828
-#: data/database.json+names/178/name+%23828
-msgctxt "data/database.json//names/178/name"
+#. data/database.json names/182/name #828
+#: data/database.json+names/182/name+%23828
+msgctxt "data/database.json//names/182/name"
 msgid "Buttersandwich"
 msgstr "Buttersandwich"
 
-#. data/database.json names/179/name #881
-#: data/database.json+names/179/name+%23881
-msgctxt "data/database.json//names/179/name"
+#. data/database.json names/183/name #881
+#: data/database.json+names/183/name+%23881
+msgctxt "data/database.json//names/183/name"
 msgid "Icetree"
 msgstr "Icetree"
 
-#. data/database.json names/180/name #825
-#: data/database.json+names/180/name+%23825
-msgctxt "data/database.json//names/180/name"
+#. data/database.json names/184/name #825
+#: data/database.json+names/184/name+%23825
+msgctxt "data/database.json//names/184/name"
 msgid "Henne"
 msgstr "Henne"
 
-#. data/database.json names/181/name #824
-#: data/database.json+names/181/name+%23824
-msgctxt "data/database.json//names/181/name"
+#. data/database.json names/185/name #824
+#: data/database.json+names/185/name+%23824
+msgctxt "data/database.json//names/185/name"
 msgid "Tabby"
 msgstr "Tabby"
 
-#. data/database.json names/182/name #823
-#: data/database.json+names/182/name+%23823
-msgctxt "data/database.json//names/182/name"
+#. data/database.json names/186/name #823
+#: data/database.json+names/186/name+%23823
+msgctxt "data/database.json//names/186/name"
 msgid "Jens"
 msgstr "Jens"
 
-#. data/database.json names/183/name #822
-#: data/database.json+names/183/name+%23822
-msgctxt "data/database.json//names/183/name"
+#. data/database.json names/187/name #822
+#: data/database.json+names/187/name+%23822
+msgctxt "data/database.json//names/187/name"
 msgid "V-King"
 msgstr "V-King"
 
-#. data/database.json names/184/name #821
-#: data/database.json+names/184/name+%23821
-msgctxt "data/database.json//names/184/name"
+#. data/database.json names/188/name #821
+#: data/database.json+names/188/name+%23821
+msgctxt "data/database.json//names/188/name"
 msgid "Sui"
 msgstr "Sui"
 
-#. data/database.json names/185/name #820
-#: data/database.json+names/185/name+%23820
-msgctxt "data/database.json//names/185/name"
+#. data/database.json names/189/name #820
+#: data/database.json+names/189/name+%23820
+msgctxt "data/database.json//names/189/name"
 msgid "Prof. B"
 msgstr "Prof. B"
 
-#. data/database.json names/186/name #819
-#: data/database.json+names/186/name+%23819
-msgctxt "data/database.json//names/186/name"
+#. data/database.json names/190/name #819
+#: data/database.json+names/190/name+%23819
+msgctxt "data/database.json//names/190/name"
 msgid "Trollin"
 msgstr "Trollin"
 
-#. data/database.json names/187/name #818
-#: data/database.json+names/187/name+%23818
-msgctxt "data/database.json//names/187/name"
+#. data/database.json names/191/name #818
+#: data/database.json+names/191/name+%23818
+msgctxt "data/database.json//names/191/name"
 msgid "Back-/"
 msgstr "Back-/"
 
-#. data/database.json names/188/name #817
-#: data/database.json+names/188/name+%23817
-msgctxt "data/database.json//names/188/name"
+#. data/database.json names/192/name #817
+#: data/database.json+names/192/name+%23817
+msgctxt "data/database.json//names/192/name"
 msgid "Stabbity"
 msgstr "Stabbity"
 
-#. data/database.json names/189/name #816
-#: data/database.json+names/189/name+%23816
-msgctxt "data/database.json//names/189/name"
+#. data/database.json names/193/name #816
+#: data/database.json+names/193/name+%23816
+msgctxt "data/database.json//names/193/name"
 msgid "Chucknourish"
 msgstr "Chucknourish"
 
-#. data/database.json names/190/name #815
-#: data/database.json+names/190/name+%23815
-msgctxt "data/database.json//names/190/name"
+#. data/database.json names/194/name #815
+#: data/database.json+names/194/name+%23815
+msgctxt "data/database.json//names/194/name"
 msgid "Nuggets"
 msgstr "Nuggets"
 
-#. data/database.json names/191/name #814
-#: data/database.json+names/191/name+%23814
-msgctxt "data/database.json//names/191/name"
+#. data/database.json names/195/name #814
+#: data/database.json+names/195/name+%23814
+msgctxt "data/database.json//names/195/name"
 msgid "_xXxDemonxXx_"
 msgstr "_xXxDemonxXx_"
 
-#. data/database.json names/192/name #813
-#: data/database.json+names/192/name+%23813
-msgctxt "data/database.json//names/192/name"
+#. data/database.json names/196/name #813
+#: data/database.json+names/196/name+%23813
+msgctxt "data/database.json//names/196/name"
 msgid "Radical"
 msgstr "Radical"
 
-#. data/database.json names/193/name #796
-#: data/database.json+names/193/name+%23796
-msgctxt "data/database.json//names/193/name"
+#. data/database.json names/197/name #796
+#: data/database.json+names/197/name+%23796
+msgctxt "data/database.json//names/197/name"
 msgid "UserOne"
 msgstr "UserOne"
 
-#. data/database.json names/194/name #3496
-#: data/database.json+names/194/name+%233496
-msgctxt "data/database.json//names/194/name"
+#. data/database.json names/198/name #3496
+#: data/database.json+names/198/name+%233496
+msgctxt "data/database.json//names/198/name"
 msgid "Raptor"
 msgstr "potifer"
 
-#. data/database.json names/195/name #797
-#: data/database.json+names/195/name+%23797
-msgctxt "data/database.json//names/195/name"
+#. data/database.json names/199/name #797
+#: data/database.json+names/199/name+%23797
+msgctxt "data/database.json//names/199/name"
 msgid "Fish"
 msgstr "Рыба"
 
-#. data/database.json names/196/name #798
-#: data/database.json+names/196/name+%23798
-msgctxt "data/database.json//names/196/name"
+#. data/database.json names/200/name #798
+#: data/database.json+names/200/name+%23798
+msgctxt "data/database.json//names/200/name"
 msgid "Bawkins"
 msgstr "Bawkins"
 
-#. data/database.json names/197/name #799
-#: data/database.json+names/197/name+%23799
-msgctxt "data/database.json//names/197/name"
+#. data/database.json names/201/name #799
+#: data/database.json+names/201/name+%23799
+msgctxt "data/database.json//names/201/name"
 msgid "Frisk"
 msgstr "Frisk"
 
-#. data/database.json names/198/name #802
-#: data/database.json+names/198/name+%23802
-msgctxt "data/database.json//names/198/name"
+#. data/database.json names/202/name #802
+#: data/database.json+names/202/name+%23802
+msgctxt "data/database.json//names/202/name"
 msgid "T-Dawg"
 msgstr "T-Dawg"
 
-#. data/database.json names/199/name #803
-#: data/database.json+names/199/name+%23803
-msgctxt "data/database.json//names/199/name"
+#. data/database.json names/203/name #803
+#: data/database.json+names/203/name+%23803
+msgctxt "data/database.json//names/203/name"
 msgid "Freece"
 msgstr "Freece"
 
-#. data/database.json names/200/name #804
-#: data/database.json+names/200/name+%23804
-msgctxt "data/database.json//names/200/name"
+#. data/database.json names/204/name #804
+#: data/database.json+names/204/name+%23804
+msgctxt "data/database.json//names/204/name"
 msgid "Intela"
 msgstr "Intela"
 
-#. data/database.json names/201/name #805
-#: data/database.json+names/201/name+%23805
-msgctxt "data/database.json//names/201/name"
+#. data/database.json names/205/name #805
+#: data/database.json+names/205/name+%23805
+msgctxt "data/database.json//names/205/name"
 msgid "TeeKuh"
 msgstr "TeeKuh"
 
-#. data/database.json names/202/name #806
-#: data/database.json+names/202/name+%23806
-msgctxt "data/database.json//names/202/name"
+#. data/database.json names/206/name #806
+#: data/database.json+names/206/name+%23806
+msgctxt "data/database.json//names/206/name"
 msgid "Chibi"
 msgstr "Chibi"
 
-#. data/database.json names/203/name #807
-#: data/database.json+names/203/name+%23807
-msgctxt "data/database.json//names/203/name"
+#. data/database.json names/207/name #807
+#: data/database.json+names/207/name+%23807
+msgctxt "data/database.json//names/207/name"
 msgid "Cheese"
 msgstr "Cheese"
 
-#. data/database.json names/204/name #808
-#: data/database.json+names/204/name+%23808
-msgctxt "data/database.json//names/204/name"
+#. data/database.json names/208/name #808
+#: data/database.json+names/208/name+%23808
+msgctxt "data/database.json//names/208/name"
 msgid "Teflon"
 msgstr "Teflon"
 
-#. data/database.json names/205/name #809
-#: data/database.json+names/205/name+%23809
-msgctxt "data/database.json//names/205/name"
+#. data/database.json names/209/name #809
+#: data/database.json+names/209/name+%23809
+msgctxt "data/database.json//names/209/name"
 msgid "Airs"
 msgstr "Narru"
 
-#. data/database.json names/206/name #810
-#: data/database.json+names/206/name+%23810
-msgctxt "data/database.json//names/206/name"
+#. data/database.json names/210/name #810
+#: data/database.json+names/210/name+%23810
+msgctxt "data/database.json//names/210/name"
 msgid "DandyMan"
 msgstr "DandyMan"
 
-#. data/database.json names/207/name #848
-#: data/database.json+names/207/name+%23848
-msgctxt "data/database.json//names/207/name"
+#. data/database.json names/211/name #848
+#: data/database.json+names/211/name+%23848
+msgctxt "data/database.json//names/211/name"
 msgid "Rey"
 msgstr "Rey"
 
-#. data/database.json names/208/name #812
-#: data/database.json+names/208/name+%23812
-msgctxt "data/database.json//names/208/name"
+#. data/database.json names/212/name #812
+#: data/database.json+names/212/name+%23812
+msgctxt "data/database.json//names/212/name"
 msgid "DarknessLord"
 msgstr "DarknessLord"
 
-#. data/database.json names/209/name #3102
-#: data/database.json+names/209/name+%233102
-msgctxt "data/database.json//names/209/name"
+#. data/database.json names/213/name #3102
+#: data/database.json+names/213/name+%233102
+msgctxt "data/database.json//names/213/name"
 msgid "Patches"
 msgstr "Patches"
 
-#. data/database.json names/210/name #3103
-#: data/database.json+names/210/name+%233103
-msgctxt "data/database.json//names/210/name"
+#. data/database.json names/214/name #3103
+#: data/database.json+names/214/name+%233103
+msgctxt "data/database.json//names/214/name"
 msgid "Burgerma"
 msgstr "Burgerma"
 
@@ -38093,7 +38117,7 @@ msgstr "Отчитайтесь \\c[3]Джоэлю Махиру\\c[0] в \\c[3]ш
 #. data/database.json quests/bakiGuard-1-basar_thief_1/hubSettings/location #12990
 #: data/database.json+quests/bakiGuard-1-basar_thief_1/hubSettings/location+%2312990
 msgctxt "data/database.json//quests/bakiGuard-1-basar_thief_1/hubSettings/location"
-msgid "Shad traders in our beautiful city are targeted by crime. Investigations needed. \\c[3]- Baki Guard HQ\\c[0]"
+msgid "Shad traders in our beautiful city are targeted by crime. Investigations needed. \\c[3]- Ba'kii Guard HQ\\c[0]"
 msgstr "Торговцы-шады в нашем прекрасном городе становятся жертвами преступлений. Необходимо расследование. \\c[3]- штаб Бакийской стражи\\c[0]"
 
 #. data/database.json quests/bakiGuard-1-basar_thief_1/name #9066
@@ -38189,14 +38213,14 @@ msgstr "Найдите подозрительного человека на \\c[
 #. data/database.json quests/bakiGuard-1-basar_thief_1/tasks/4/task #9075
 #: data/database.json+quests/bakiGuard-1-basar_thief_1/tasks/4/task+%239075
 msgctxt "data/database.json//quests/bakiGuard-1-basar_thief_1/tasks/4/task"
-msgid "Report back to \\c[3]Sgt. Niellos\\c[0] in the \\c[3]Baki Guard HQ\\c[0]"
+msgid "Report back to \\c[3]Sgt. Niellos\\c[0] in the \\c[3]Ba'kii Guard HQ\\c[0]"
 msgstr "Отчитайтесь \\c[3]сержанту Ниллосу\\c[0] в \\c[3]штабе Бакийской стражи\\c[0]"
 
 #. data/database.json quests/bakiGuard-2-evil_guard/hubSettings/location #13006
 #. IF dungeons.heat.beaten && quest.bakiGuard-1-basar_thief_1.solved
 #: data/database.json+quests/bakiGuard-2-evil_guard/hubSettings/location+%2313006
 msgctxt "data/database.json//quests/bakiGuard-2-evil_guard/hubSettings/location"
-msgid "The traitorous guard is terrorizing Shad traders again! He needs to be stopped. \\c[3]- Baki Guard HQ\\c[0]"
+msgid "The traitorous guard is terrorizing Shad traders again! He needs to be stopped. \\c[3]- Ba'kii Guard HQ\\c[0]"
 msgstr "Страж-предатель терроризирует торговцев-шадов снова! Его нужно остановить. \\c[3]- штаб Бакийской стражи\\c[0]"
 
 #. data/database.json quests/bakiGuard-2-evil_guard/name #9564
@@ -38244,7 +38268,7 @@ msgstr "Победите и схватите \\c[3]стража Биллстон
 #. data/database.json quests/bakiGuard-2-evil_guard/tasks/3/task #9574
 #: data/database.json+quests/bakiGuard-2-evil_guard/tasks/3/task+%239574
 msgctxt "data/database.json//quests/bakiGuard-2-evil_guard/tasks/3/task"
-msgid "Report back to \\c[3]Sgt. Niellos\\c[0] in the \\c[3]Baki Guard HQ\\c[0]"
+msgid "Report back to \\c[3]Sgt. Niellos\\c[0] in the \\c[3]Ba'kii Guard HQ\\c[0]"
 msgstr "Отчитайтесь \\c[3]сержанту Ниллосу\\c[0] в \\c[3]штабе Бакийской стражи\\c[0]"
 
 #. data/database.json quests/bakiTrader-1-crate_defense_1/hubSettings/location #13009
@@ -40301,7 +40325,7 @@ msgstr "Передайте Сломанные чакрамы Д'кару на \\
 #. data/database.json quests/unknown-warrior-5/tasks/2/task #16195
 #: data/database.json+quests/unknown-warrior-5/tasks/2/task+%2316195
 msgctxt "data/database.json//quests/unknown-warrior-5/tasks/2/task"
-msgid "Meet Dkar at the \\c[3]Observatory in \\v[area.autumn-area.name]\\c[0]"
+msgid "Meet D'Kar at the \\c[3]Observatory in \\v[area.autumn-area.name]\\c[0]"
 msgstr "Встретьтесь с Д'каром возле \\c[3]Обсерватории в Расцвете Осени\\c[0]"
 
 #. data/database.json quests/seizui-quest/hubSettings/location #16320
@@ -42053,7 +42077,7 @@ msgstr "Горячие напитки"
 #. data/database.json shops/bakiItems/name #4947
 #: data/database.json+shops/bakiItems/name+%234947
 msgctxt "data/database.json//shops/bakiItems/name"
-msgid "Baki Oasis"
+msgid "Ba'kii Oasis"
 msgstr "Бакийский оазис"
 
 #. data/database.json shops/bakiItems/pages/0/title #13767
@@ -42065,7 +42089,7 @@ msgstr "Обычные товары"
 #. data/database.json shops/bakiWeapons/name #4949
 #: data/database.json+shops/bakiWeapons/name+%234949
 msgctxt "data/database.json//shops/bakiWeapons/name"
-msgid "Baki Arsenal"
+msgid "Ba'kii Arsenal"
 msgstr "Бакийский аресенал"
 
 #. data/database.json shops/bakiWeapons/pages/0/title #4950
