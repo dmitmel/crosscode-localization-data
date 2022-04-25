@@ -3,15 +3,16 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"POT-Revision-Date: 2022-04-19 22:43+0000\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2022-04-25 13:31+0000\n"
+"Last-Translator: Bogdan <bbucko175@gmail.com>\n"
+"Language-Team: Ukrainian <https://weblate.openkrosskod.org/projects/crosscode/database/uk/>\n"
 "Language: uk_UA\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0 (e2bc05b 2022-04-19)\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.5.3\n"
+"POT-Revision-Date: 2022-04-19 22:43+0000\n"
 
 #. data/database.json achievements/story-01/name #13135
 #. IF plot.line >= 800
@@ -2303,43 +2304,44 @@ msgstr ""
 #: data/database.json+areas/arid-dng-1/name+%2313762
 msgctxt "data/database.json//areas/arid-dng-1/name"
 msgid "Vermillion Dungeon"
-msgstr ""
+msgstr "Підземелля Верміліон"
 
 #. data/database.json areas/arid-dng-1/description #13763
 #: data/database.json+areas/arid-dng-1/description+%2313763
 msgctxt "data/database.json//areas/arid-dng-1/description"
 msgid "Your own personal dungeon in Vermillion Wasteland."
-msgstr ""
+msgstr "Ваше особисте підземелля в Пустоші Верміліон."
 
 #. data/database.json areas/arid-dng-2/name #13972
 #: data/database.json+areas/arid-dng-2/name+%2313972
 msgctxt "data/database.json//areas/arid-dng-2/name"
 msgid "Vermillion Tower"
-msgstr ""
+msgstr "Вежа Верміліон"
 
 #. data/database.json areas/arid-dng-2/description #13973
 #: data/database.json+areas/arid-dng-2/description+%2313973
+#, fuzzy
 msgctxt "data/database.json//areas/arid-dng-2/description"
 msgid "The final challenge put together by Gautham."
-msgstr ""
+msgstr "Останнє випробування, створене Гаутамом."
 
 #. data/database.json areas/arid/name #13211
 #: data/database.json+areas/arid/name+%2313211
 msgctxt "data/database.json//areas/arid/name"
 msgid "Vermillion Wasteland"
-msgstr ""
+msgstr "Пустище Верміліон"
 
 #. data/database.json areas/arid/shortName #15680
 #: data/database.json+areas/arid/shortName+%2315680
 msgctxt "data/database.json//areas/arid/shortName"
 msgid "Ver. Wasteland"
-msgstr ""
+msgstr "Верміліон"
 
 #. data/database.json areas/arid/description #13212
 #: data/database.json+areas/arid/description+%2313212
 msgctxt "data/database.json//areas/arid/description"
 msgid "A deserted and gloomy area of unknown origin."
-msgstr ""
+msgstr "Пустельний та похмурий район невідомого походження."
 
 #. data/database.json areas/arid/landmarks/town/name #13440
 #: data/database.json+areas/arid/landmarks/town/name+%2313440
@@ -2357,13 +2359,13 @@ msgstr "'Міський' центр."
 #: data/database.json+areas/autumn-area/name+%23240
 msgctxt "data/database.json//areas/autumn-area/name"
 msgid "Autumn's Rise"
-msgstr ""
+msgstr "Розквіт Осені"
 
 #. data/database.json areas/autumn-area/description #257
 #: data/database.json+areas/autumn-area/description+%23257
 msgctxt "data/database.json//areas/autumn-area/description"
 msgid "A bright and lush area painted in the warm colors of autumn. "
-msgstr ""
+msgstr "Яскрава та пишна локація, пофарбована в теплі тони осені. "
 
 #. data/database.json areas/autumn-area/landmarks/guilds/name #894
 #: data/database.json+areas/autumn-area/landmarks/guilds/name+%23894
@@ -2429,13 +2431,13 @@ msgstr "Меморіал невідомого призначення у цент
 #: data/database.json+areas/autumn-fall/name+%235126
 msgctxt "data/database.json//areas/autumn-fall/name"
 msgid "Autumn's Fall"
-msgstr ""
+msgstr "Захід Осені"
 
 #. data/database.json areas/autumn-fall/description #5127
 #: data/database.json+areas/autumn-fall/description+%235127
 msgctxt "data/database.json//areas/autumn-fall/description"
 msgid "Known for it's many ponds and ruins this area is the little brother of Autumn's Rise. "
-msgstr ""
+msgstr "Відомий своїми ставками та руїнами, цей район – молодший брат Розквіту Осені. "
 
 #. data/database.json areas/autumn-fall/landmarks/east/name #13416
 #: data/database.json+areas/autumn-fall/landmarks/east/name+%2313416
@@ -2501,19 +2503,19 @@ msgstr "Південний вихід Заходу Осені, розташов�
 #: data/database.json+areas/beach/name+%2317156
 msgctxt "data/database.json//areas/beach/name"
 msgid "Azure Archipelago"
-msgstr ""
+msgstr "Лазурний архіпелаг"
 
 #. data/database.json areas/beach/shortName #17255
 #: data/database.json+areas/beach/shortName+%2317255
 msgctxt "data/database.json//areas/beach/shortName"
 msgid "Azure Archi."
-msgstr ""
+msgstr "Лазурний архіп."
 
 #. data/database.json areas/beach/description #17158
 #: data/database.json+areas/beach/description+%2317158
 msgctxt "data/database.json//areas/beach/description"
 msgid "A bright group of isles located in the middle of the ocean."
-msgstr ""
+msgstr "Яскрава група островів, що розташовані посеред океану."
 
 #. data/database.json areas/beach/landmarks/landmark_2/name #17238
 #: data/database.json+areas/beach/landmarks/landmark_2/name+%2317238
@@ -2555,13 +2557,13 @@ msgstr "Побудований на вершині стародавнього с
 #: data/database.json+areas/bergen-trails/name+%23241
 msgctxt "data/database.json//areas/bergen-trails/name"
 msgid "Bergen Trail"
-msgstr ""
+msgstr "Стежка у Берген"
 
 #. data/database.json areas/bergen-trails/description #258
 #: data/database.json+areas/bergen-trails/description+%23258
 msgctxt "data/database.json//areas/bergen-trails/description"
 msgid "A rural area leading up to the cold town of Bergen."
-msgstr ""
+msgstr "Сільська місцевість, що веде до холодного міста Берген."
 
 #. data/database.json areas/bergen-trails/landmarks/hermit/name #325
 #: data/database.json+areas/bergen-trails/landmarks/hermit/name+%23325
@@ -2603,13 +2605,13 @@ msgstr "Заснування стежки в Берген. Зазвичай ви
 #: data/database.json+areas/bergen/name+%23281
 msgctxt "data/database.json//areas/bergen/name"
 msgid "Bergen Village"
-msgstr ""
+msgstr "Берген"
 
 #. data/database.json areas/bergen/description #282
 #: data/database.json+areas/bergen/description+%23282
 msgctxt "data/database.json//areas/bergen/description"
 msgid "A sleepy village hidden in the snowy heights of Mount Berg."
-msgstr ""
+msgstr "Тихе поселення, заховане у засніжених вершинах гори Берг."
 
 #. data/database.json areas/bergen/landmarks/north/name #283
 #: data/database.json+areas/bergen/landmarks/north/name+%23283
@@ -2647,7 +2649,7 @@ msgstr "Вантажне судно"
 #: data/database.json+areas/cargo-ship/description+%23259
 msgctxt "data/database.json//areas/cargo-ship/description"
 msgid "One of the many cargo ships belonging to the maintenance crew of CrossWorlds."
-msgstr ""
+msgstr "Один із вантажних кораблів, що обслуговують команди CrossWorlds."
 
 #. data/database.json areas/cargo-ship/landmarks/teleporter/name #13780
 #. IF plot.line >= 15000
@@ -2667,25 +2669,25 @@ msgstr "Вантажний відсік, у якому Лія розпочала
 #: data/database.json+areas/cold-dng/name+%23287
 msgctxt "data/database.json//areas/cold-dng/name"
 msgid "Temple Mine"
-msgstr ""
+msgstr "Храм-Шахта"
 
 #. data/database.json areas/cold-dng/description #288
 #: data/database.json+areas/cold-dng/description+%23288
 msgctxt "data/database.json//areas/cold-dng/description"
 msgid "A once busy Mine with an uncovered temple crawling with hostile robots."
-msgstr ""
+msgstr "Колись робоча шахта, де виявили храм, що кишить ворожими роботами."
 
 #. data/database.json areas/evo-village/name #16698
 #: data/database.json+areas/evo-village/name+%2316698
 msgctxt "data/database.json//areas/evo-village/name"
 msgid "Homestedt"
-msgstr ""
+msgstr "Хоумштадт"
 
 #. data/database.json areas/evo-village/description #16700
 #: data/database.json+areas/evo-village/description+%2316700
 msgctxt "data/database.json//areas/evo-village/description"
 msgid "The small settlement established as a home for Evotars."
-msgstr ""
+msgstr "Невелике селище, створене як будинок для еватарів."
 
 #. data/database.json areas/evo-village/landmarks/center/name #16703
 #: data/database.json+areas/evo-village/landmarks/center/name+%2316703
@@ -2704,26 +2706,26 @@ msgstr "Цей орієнтир знаходиться прямо у серці 
 #: data/database.json+areas/fallback/name+%23247
 msgctxt "data/database.json//areas/fallback/name"
 msgid "Fallback"
-msgstr ""
+msgstr "Відступ"
 
 #. data/database.json areas/fallback/description #260
 #. IF false
 #: data/database.json+areas/fallback/description+%23260
 msgctxt "data/database.json//areas/fallback/description"
 msgid "This is where everything goes that is not wanted."
-msgstr ""
+msgstr "Ось куди попадає все те, що нікому не потрібне."
 
 #. data/database.json areas/final-dng/name #16746
 #: data/database.json+areas/final-dng/name+%2316746
 msgctxt "data/database.json//areas/final-dng/name"
 msgid "Ku'lero Temple"
-msgstr ""
+msgstr "Храм Ку'леро"
 
 #. data/database.json areas/final-dng/description #16748
 #: data/database.json+areas/final-dng/description+%2316748
 msgctxt "data/database.json//areas/final-dng/description"
 msgid "The last temple built by the Ancients, meant to test the worth of all who enter."
-msgstr ""
+msgstr "Останній храм, збудований Прадавніми, призначений для перевірки гідності всіх, хто увійшов."
 
 #. data/database.json areas/final-dng/landmarks/center/name #16809
 #: data/database.json+areas/final-dng/landmarks/center/name+%2316809
@@ -2741,13 +2743,13 @@ msgstr "Центральний майданчик перед величезни�
 #: data/database.json+areas/forest/name+%2313414
 msgctxt "data/database.json//areas/forest/name"
 msgid "Sapphire Ridge"
-msgstr ""
+msgstr "Сапфіровий край"
 
 #. data/database.json areas/forest/description #13415
 #: data/database.json+areas/forest/description+%2313415
 msgctxt "data/database.json//areas/forest/description"
 msgid "The tranquil ridge filled with bamboo structures and hidden paths."
-msgstr ""
+msgstr "Спокійний край, повний бамбукових структур та прихованих стежок."
 
 #. data/database.json areas/forest/landmarks/temple/name #15323
 #: data/database.json+areas/forest/landmarks/temple/name+%2315323
@@ -2813,13 +2815,13 @@ msgstr "Західний вихід Сапфірового краю, що вед
 #: data/database.json+areas/heat-area/name+%233271
 msgctxt "data/database.json//areas/heat-area/name"
 msgid "Maroon Valley"
-msgstr ""
+msgstr "Бордова долина"
 
 #. data/database.json areas/heat-area/description #3272
 #: data/database.json+areas/heat-area/description+%233272
 msgctxt "data/database.json//areas/heat-area/description"
 msgid "A dusty and barren area where only the fittest survive."
-msgstr ""
+msgstr "Пильна та безплідна область, де виживають лише пристосовані."
 
 #. data/database.json areas/heat-area/landmarks/balcony/name #11560
 #: data/database.json+areas/heat-area/landmarks/balcony/name+%2311560
@@ -2831,7 +2833,7 @@ msgstr "Балкон Файро"
 #: data/database.json+areas/heat-area/landmarks/balcony/description+%2311561
 msgctxt "data/database.json//areas/heat-area/landmarks/balcony/description"
 msgid "The Balcony of Faj'ro Temple."
-msgstr "Балкон храму Файро."
+msgstr "Балкон храму Фай'ро."
 
 #. data/database.json areas/heat-area/landmarks/exit/name #3994
 #: data/database.json+areas/heat-area/landmarks/exit/name+%233994
@@ -2897,25 +2899,25 @@ msgstr "Східний вхід Бордової долина, що веде д�
 #: data/database.json+areas/heat-dng/name+%234026
 msgctxt "data/database.json//areas/heat-dng/name"
 msgid "Faj'ro Temple"
-msgstr ""
+msgstr "Храм Фай'ро"
 
 #. data/database.json areas/heat-dng/description #4027
 #: data/database.json+areas/heat-dng/description+%234027
 msgctxt "data/database.json//areas/heat-dng/description"
 msgid "An ancient temple whose shape granted it the nickname \"Hourglass\"."
-msgstr ""
+msgstr "Стародавній храм, форма якого дала йому прізвисько \"Пісочний годинник\"."
 
 #. data/database.json areas/heat-village/name #4210
 #: data/database.json+areas/heat-village/name+%234210
 msgctxt "data/database.json//areas/heat-village/name"
 msgid "Ba'kii Kum"
-msgstr ""
+msgstr "Ба'кій Кум"
 
 #. data/database.json areas/heat-village/description #4211
 #: data/database.json+areas/heat-village/description+%234211
 msgctxt "data/database.json//areas/heat-village/description"
 msgid "A quiet Shad village set in a small ravine in Maroon Valley."
-msgstr ""
+msgstr "Тихе село шадів, розташоване в невеликій ущелині в Бордовій долині."
 
 #. data/database.json areas/heat-village/landmarks/market/name #4220
 #: data/database.json+areas/heat-village/landmarks/market/name+%234220
@@ -2933,25 +2935,25 @@ msgstr "Просто перед найбільшим будинком у міс�
 #: data/database.json+areas/hideout/name+%2314071
 msgctxt "data/database.json//areas/hideout/name"
 msgid "Old Hideout"
-msgstr ""
+msgstr "Старе укриття"
 
 #. data/database.json areas/hideout/description #14072
 #: data/database.json+areas/hideout/description+%2314072
 msgctxt "data/database.json//areas/hideout/description"
 msgid "An uncompleted part of CrossWorlds hidden inside \\v[area.forest.name]."
-msgstr ""
+msgstr "Незавершена частина CrossWorlds, прихована всередині краю Сапфіра."
 
 #. data/database.json areas/jungle-city/name #6713
 #: data/database.json+areas/jungle-city/name+%236713
 msgctxt "data/database.json//areas/jungle-city/name"
 msgid "Basin Keep"
-msgstr ""
+msgstr "Твердиня Бейзіна"
 
 #. data/database.json areas/jungle-city/description #6714
 #: data/database.json+areas/jungle-city/description+%236714
 msgctxt "data/database.json//areas/jungle-city/description"
 msgid "A techno-castle built on an island inside \\c[3]Gaia's Garden\\c[0] where it always rains."
-msgstr ""
+msgstr "Техно-замок, побудований на острові всередині \\c[3]Саду Ґайї\\c[0], де завжди йдуть дощі."
 
 #. data/database.json areas/jungle-city/landmarks/center/name #7843
 #: data/database.json+areas/jungle-city/landmarks/center/name+%237843
@@ -2969,13 +2971,13 @@ msgstr "Дощовий і блискучий центр Твердині Бей�
 #: data/database.json+areas/jungle/name+%236579
 msgctxt "data/database.json//areas/jungle/name"
 msgid "Gaia's Garden"
-msgstr ""
+msgstr "Сад Ґайї"
 
 #. data/database.json areas/jungle/description #6580
 #: data/database.json+areas/jungle/description+%236580
 msgctxt "data/database.json//areas/jungle/description"
 msgid "The great jungle of the north, home to the giant Tree known as \"Gaia\"."
-msgstr ""
+msgstr "Великі північні джунглі, будинок гігантського дерева, відомого як \"Ґая\"."
 
 #. data/database.json areas/jungle/landmarks/dungeon/name #7739
 #: data/database.json+areas/jungle/landmarks/dungeon/name+%237739
@@ -2987,7 +2989,7 @@ msgstr "Обряд посвячення"
 #: data/database.json+areas/jungle/landmarks/dungeon/description+%237740
 msgctxt "data/database.json//areas/jungle/landmarks/dungeon/description"
 msgid "A crossroad leading to the Zir'vitar Temple, So'najiz Temple and the Grand Krys'kajo."
-msgstr "Перехрестя, що веде до Храму Зірвітар, Храму Сонайіз та Гранд Кріскайо."
+msgstr "Перехрестя, що веде до Храму Зір'вітар, Храму Со'найіз та Гранд Кріс'кайо."
 
 #. data/database.json areas/jungle/landmarks/infested/name #7368
 #: data/database.json+areas/jungle/landmarks/infested/name+%237368
@@ -3011,7 +3013,7 @@ msgstr "Перидотний підхід"
 #: data/database.json+areas/jungle/landmarks/end/description+%237214
 msgctxt "data/database.json//areas/jungle/landmarks/end/description"
 msgid "This landmark links the two main paths to the Grand Krys'kajo."
-msgstr "Цей орієнтир пов'язує два основні шляхи до Гранд Кріскайо."
+msgstr "Цей орієнтир пов'язує два основні шляхи до Гранд Кріс'кайо."
 
 #. data/database.json areas/jungle/landmarks/clearing/name #6819
 #: data/database.json+areas/jungle/landmarks/clearing/name+%236819
@@ -3054,14 +3056,14 @@ msgstr "Вхід до Саду Гайї. Найпопулярніше місце
 #: data/database.json+areas/meta/name+%2315690
 msgctxt "data/database.json//areas/meta/name"
 msgid "Meta"
-msgstr ""
+msgstr "Мета"
 
 #. data/database.json areas/meta/description #15691
 #. IF false
 #: data/database.json+areas/meta/description+%2315691
 msgctxt "data/database.json//areas/meta/description"
 msgid "I'm so meta even this acronym."
-msgstr ""
+msgstr "Я настільки мета, що це навіть акронім."
 
 #. data/database.json areas/rhombus-dng/name #245
 #: data/database.json+areas/rhombus-dng/name+%23245
@@ -3073,7 +3075,7 @@ msgstr "Підземелля Ромбу"
 #: data/database.json+areas/rhombus-dng/description+%23261
 msgctxt "data/database.json//areas/rhombus-dng/description"
 msgid "The final tutorial dungeon teaching players the basics of CrossWorlds."
-msgstr ""
+msgstr "Завершальна частина підземелля, що навчають гравців основ CrossWorlds."
 
 #. data/database.json areas/rhombus-sqr/name #244
 #: data/database.json+areas/rhombus-sqr/name+%23244
@@ -3085,7 +3087,7 @@ msgstr "Площа Ромба"
 #: data/database.json+areas/rhombus-sqr/description+%23263
 msgctxt "data/database.json//areas/rhombus-sqr/description"
 msgid "The pulsating heart of CrossWorlds. Only accessible for advanced players."
-msgstr ""
+msgstr "Пульсуюче серце CrossWorlds. Доступно лише для досвідчених гравців."
 
 #. data/database.json areas/rhombus-sqr/landmarks/crosscentralTop/name #834
 #: data/database.json+areas/rhombus-sqr/landmarks/crosscentralTop/name+%23834
@@ -3163,13 +3165,13 @@ msgstr "Головний центр телепортації CrossWorlds та ц
 #: data/database.json+areas/rookie-harbor/name+%23246
 msgctxt "data/database.json//areas/rookie-harbor/name"
 msgid "Rookie Harbor"
-msgstr ""
+msgstr "Гавань новачків"
 
 #. data/database.json areas/rookie-harbor/description #264
 #: data/database.json+areas/rookie-harbor/description+%23264
 msgctxt "data/database.json//areas/rookie-harbor/description"
 msgid "A bustling city positively bursting with life, start of many adventures for new players."
-msgstr ""
+msgstr "Шумне місто, в якому вирує життя, початок пригод для багатьох гравців."
 
 #. data/database.json areas/rookie-harbor/landmarks/harbor/name #255
 #: data/database.json+areas/rookie-harbor/landmarks/harbor/name+%23255
@@ -3199,27 +3201,27 @@ msgstr "Гарний фонтан у центрі жвавого ринку."
 #: data/database.json+areas/shock-dng/name+%236719
 msgctxt "data/database.json//areas/shock-dng/name"
 msgid "Zir'vitar Temple"
-msgstr ""
+msgstr "Храм Зір'вітар"
 
 #. data/database.json areas/shock-dng/description #6720
 #: data/database.json+areas/shock-dng/description+%236720
 msgctxt "data/database.json//areas/shock-dng/description"
 msgid "An ancient shad temple, home to many shocking creatures."
-msgstr ""
+msgstr "Стародавній храм шадів, будинок для багатьох шокованих істот."
 
 #. data/database.json areas/testing-grounds/name #248
 #. IF false
 #: data/database.json+areas/testing-grounds/name+%23248
 msgctxt "data/database.json//areas/testing-grounds/name"
 msgid "Testing Ground"
-msgstr ""
+msgstr "Тестовий майданчик"
 
 #. data/database.json areas/testing-grounds/description #262
 #. IF false
 #: data/database.json+areas/testing-grounds/description+%23262
 msgctxt "data/database.json//areas/testing-grounds/description"
 msgid "Hey, how can ye read this? This is not part of the bloody playground, ye dobber!"
-msgstr ""
+msgstr "Гей, ти як це можеш читати? Це не частина чортової ігрової зони, йолоп!"
 
 #. data/database.json areas/testing-grounds/landmarks/landmark_0/name #253
 #. IF false
@@ -3239,25 +3241,25 @@ msgstr "Тестувати орієнтир – це як тестувати о�
 #: data/database.json+areas/tree-dng/name+%238955
 msgctxt "data/database.json//areas/tree-dng/name"
 msgid "Grand Krys'kajo"
-msgstr ""
+msgstr "Гранд Кріс'кайо"
 
 #. data/database.json areas/tree-dng/description #8956
 #: data/database.json+areas/tree-dng/description+%238956
 msgctxt "data/database.json//areas/tree-dng/description"
 msgid "Overgrown by a gigantic tree, this temple is guarded by an ancient entity. "
-msgstr ""
+msgstr "Цей храм, заріз гігантським деревом, охороняється стародавньою істотою. "
 
 #. data/database.json areas/wave-dng/name #8311
 #: data/database.json+areas/wave-dng/name+%238311
 msgctxt "data/database.json//areas/wave-dng/name"
 msgid "So'najiz Temple"
-msgstr ""
+msgstr "Храм Со'найіз"
 
 #. data/database.json areas/wave-dng/description #8312
 #: data/database.json+areas/wave-dng/description+%238312
 msgctxt "data/database.json//areas/wave-dng/description"
 msgid "An ancient underwater shad temple, home to many bouncing foes."
-msgstr ""
+msgstr "Стародавній підводний храм шадів, будинок для багатьох ворогів, що стрибають."
 
 #. data/database.json chapters/0/name #266
 #. IF true
