@@ -3,15 +3,16 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"POT-Revision-Date: 2022-04-19 22:43+0000\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2022-04-26 14:28+0000\n"
+"Last-Translator: Bogdan <bbucko175@gmail.com>\n"
+"Language-Team: Ukrainian <https://weblate.openkrosskod.org/projects/crosscode/rookie-harbor/uk/>\n"
 "Language: uk_UA\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0 (e2bc05b 2022-04-19)\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.5.3\n"
+"POT-Revision-Date: 2022-04-19 22:43+0000\n"
 
 #. data/areas/rookie-harbor.json name #2
 #: data/areas/rookie-harbor.json+name+%232
@@ -2125,7 +2126,7 @@ msgstr "Але навчання вона пройшла дуже швидко т
 #: data/maps/rookie-harbor/center.json+entities/619/settings/event/29/message+%23247
 msgctxt "data/maps/rookie-harbor/center.json//entities/619/settings/event/29/message"
 msgid "Well like they say -\\. still waters run deep, right?"
-msgstr "Ну, я то кажуть-\\. тиха вода людей топить, правильно?"
+msgstr "Ну, як то кажуть-\\. тиха вода людей топить, правильно?"
 
 #. data/maps/rookie-harbor/center.json entities/619/settings/event/30/thenStep/0/message #554
 #. EventTrigger SchneiderExplainsQuests START IF tmp.centerEntered
@@ -2233,7 +2234,7 @@ msgstr ""
 #: data/maps/rookie-harbor/center.json+entities/619/settings/event/30/elseStep/0/message+%23236
 msgctxt "data/maps/rookie-harbor/center.json//entities/619/settings/event/30/elseStep/0/message"
 msgid "Oui, oui.\\. What about that main quest? "
-msgstr "Oui, oui (Так-так). Що там із головним квестом? "
+msgstr "Oui, oui (Так-так). Що там із головним завданням? "
 
 #. data/maps/rookie-harbor/center.json entities/619/settings/event/31/message #237
 #. EventTrigger SchneiderExplainsQuests START IF tmp.centerEntered
@@ -3153,7 +3154,7 @@ msgstr "Містер Номсворт"
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/3/event/2/message+%23395
 msgctxt "data/maps/rookie-harbor/center.json//entities/636/settings/npcStates/3/event/2/message"
 msgid "You can get all the required goods on the central market near the fountain."
-msgstr ""
+msgstr "Ви можете отримати всі необхідні товари на центральному ринку біля фонтану."
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/3/event/3/message #396
 #. NPC ctc-questgiver-1
@@ -3162,7 +3163,7 @@ msgstr ""
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/3/event/3/message+%23396
 msgctxt "data/maps/rookie-harbor/center.json//entities/636/settings/npcStates/3/event/3/message"
 msgid "For the exchange you will need raw trading materials from the various plants of \\v[area.autumn-area.name]."
-msgstr ""
+msgstr "Для обміну вам потрібна сировина з різних рослин у Розквіту Осені."
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/4/event/quest/1/name #501
 #. NPC ctc-questgiver-1
@@ -4885,13 +4886,12 @@ msgstr ""
 #: data/maps/rookie-harbor/central-quest-hub.json+entities/55/settings/analyzable/text+%23397
 msgctxt "data/maps/rookie-harbor/central-quest-hub.json//entities/55/settings/analyzable/text"
 msgid "Faction Advisor"
-msgstr ""
+msgstr "Радник фракції"
 
 #. data/maps/rookie-harbor/central-quest-hub.json entities/55/settings/npcStates/0/event/1/name #459
 #. NPC faction-guide
 #. ADD_MSG_PERSON advisors.man-small-black @DEFAULT
 #: data/maps/rookie-harbor/central-quest-hub.json+entities/55/settings/npcStates/0/event/1/name+%23459
-#, fuzzy
 msgctxt "data/maps/rookie-harbor/central-quest-hub.json//entities/55/settings/npcStates/0/event/1/name"
 msgid "Faction Advisor"
 msgstr "Радник фракції"
@@ -5118,7 +5118,7 @@ msgstr "..."
 #: data/maps/rookie-harbor/central-quest-hub.json+entities/55/settings/npcStates/2/event/1/name+%23462
 msgctxt "data/maps/rookie-harbor/central-quest-hub.json//entities/55/settings/npcStates/2/event/1/name"
 msgid "Faction Advisor"
-msgstr ""
+msgstr "Радник фракції"
 
 #. data/maps/rookie-harbor/central-quest-hub.json entities/55/settings/npcStates/2/event/2/message #409
 #. NPC faction-guide
@@ -5163,7 +5163,7 @@ msgstr ""
 #: data/maps/rookie-harbor/central-quest-hub.json+entities/55/settings/npcStates/3/event/quest/1/name+%23463
 msgctxt "data/maps/rookie-harbor/central-quest-hub.json//entities/55/settings/npcStates/3/event/quest/1/name"
 msgid "Faction Advisor"
-msgstr ""
+msgstr "Радник фракції"
 
 #. data/maps/rookie-harbor/central-quest-hub.json entities/55/settings/npcStates/3/event/quest/2/message #413
 #. NPC faction-guide
@@ -5235,7 +5235,7 @@ msgstr ""
 #: data/maps/rookie-harbor/central-quest-hub.json+entities/55/settings/npcStates/4/event/1/name+%23464
 msgctxt "data/maps/rookie-harbor/central-quest-hub.json//entities/55/settings/npcStates/4/event/1/name"
 msgid "Faction Advisor"
-msgstr ""
+msgstr "Радник фракції"
 
 #. data/maps/rookie-harbor/central-quest-hub.json entities/55/settings/npcStates/4/event/2/message #420
 #. NPC faction-guide
@@ -5395,7 +5395,7 @@ msgstr ""
 #: data/maps/rookie-harbor/central-quest-hub.json+entities/89/settings/npcStates/0/event/2/message+%23434
 msgctxt "data/maps/rookie-harbor/central-quest-hub.json//entities/89/settings/npcStates/0/event/2/message"
 msgid "Greetings, \\v[lore.title.seeker].\\. We should talk after you have completed your briefing upstairs."
-msgstr ""
+msgstr "Вітаю, Шукач. Ми повинні поговорити після того, як ви пройдете брифінг зверху."
 
 #. data/maps/rookie-harbor/central-quest-hub.json entities/89/settings/npcStates/0/event/3/message #435
 #. NPC faction-guide-train
@@ -11318,7 +11318,7 @@ msgstr ""
 #: data/maps/rookie-harbor/inner-info-ug-2.json+entities/26/settings/event/55/message+%2369
 msgctxt "data/maps/rookie-harbor/inner-info-ug-2.json//entities/26/settings/event/55/message"
 msgid "\\c[3]Hit all the targets you must\\c[0]. That you can do, can you not?"
-msgstr ""
+msgstr "\\c[3]Потрапити по всіх цілях повинна ти\\c[0]. Чи зможеш це ти чи ні?"
 
 #. data/maps/rookie-harbor/inner-info-ug-2.json entities/26/settings/event/57/guiInfo/settings/taskTitle #12
 #. EventTrigger VRP_ROUND_1 START IF tmp.initVRP
@@ -16345,7 +16345,7 @@ msgstr "Тут так багато людей."
 #: data/maps/rookie-harbor/south.json+entities/174/settings/event/34/message+%2347
 msgctxt "data/maps/rookie-harbor/south.json//entities/174/settings/event/34/message"
 msgid "HOLERÖ!\\.\\."
-msgstr "HOLERÖ (ЗДОВ)!\\.\\."
+msgstr "HOLERÖ (ЗДОРОВ)!\\.\\."
 
 #. data/maps/rookie-harbor/south.json entities/174/settings/event/39/message #48
 #. EventTrigger EntranceSequence
@@ -16385,7 +16385,7 @@ msgstr "Ага, це було конче необхідно."
 #: data/maps/rookie-harbor/south.json+entities/174/settings/event/44/message+%2388
 msgctxt "data/maps/rookie-harbor/south.json//entities/174/settings/event/44/message"
 msgid "I see you brought a friend?"
-msgstr "Я дивлюся, чи ти привела подружку?"
+msgstr "Я дивлюся, ти привела подружку?"
 
 #. data/maps/rookie-harbor/south.json entities/174/settings/event/45/message #89
 #. EventTrigger EntranceSequence
@@ -17715,7 +17715,7 @@ msgstr "Бажаєш спробувати пару рухів?"
 #: data/maps/rookie-harbor/teleporter.json+entities/405/settings/npcStates/0/event/quest/18/message+%2326
 msgctxt "data/maps/rookie-harbor/teleporter.json//entities/405/settings/npcStates/0/event/quest/18/message"
 msgid "Try to reach them boxes back there, \\c[3]without touching the ground\\c[0]!"
-msgstr "Постарайся дістатися ось до тих коробок, не \\c[3]торкаючись землі \\c[0]!"
+msgstr "Постарайся дістатися ось до тих коробок, не \\c[3]торкаючись землі\\c[0]!"
 
 #. data/maps/rookie-harbor/teleporter.json entities/405/settings/npcStates/0/event/quest/23/message #27
 #. NPC RadDude
@@ -20818,7 +20818,7 @@ msgstr ""
 #: data/maps/rookie-harbor/west.json+entities/345/settings/dialog/0/text+%23175
 msgctxt "data/maps/rookie-harbor/west.json//entities/345/settings/dialog/0/text"
 msgid "Where is Ark? "
-msgstr ""
+msgstr "Де Арк? "
 
 #. data/maps/rookie-harbor/west.json entities/345/settings/dialog/1/text #208
 #. XenoDialog Waiting... SPAWN IF !rh.chestWatcherLeft
@@ -20826,7 +20826,7 @@ msgstr ""
 #: data/maps/rookie-harbor/west.json+entities/345/settings/dialog/1/text+%23208
 msgctxt "data/maps/rookie-harbor/west.json//entities/345/settings/dialog/1/text"
 msgid "Good question, I'd like to leave ASAP. I have some errands to run later."
-msgstr ""
+msgstr "Гарне питання, я хотіла б піти швидше. Є деякі доручення, які слід виконати."
 
 #. data/maps/rookie-harbor/west.json entities/345/settings/dialog/2/text #176
 #. XenoDialog Waiting... SPAWN IF !rh.chestWatcherLeft
@@ -20834,7 +20834,7 @@ msgstr ""
 #: data/maps/rookie-harbor/west.json+entities/345/settings/dialog/2/text+%23176
 msgctxt "data/maps/rookie-harbor/west.json//entities/345/settings/dialog/2/text"
 msgid "He's probably chilling at that chest in the center again."
-msgstr ""
+msgstr "Він, напевно, знову прохолоджується біля цієї скрині \\c[3]в центрі\\c[0]."
 
 #. data/maps/rookie-harbor/west.json entities/345/settings/dialog/3/text #209
 #. XenoDialog Waiting... SPAWN IF !rh.chestWatcherLeft
@@ -20842,7 +20842,7 @@ msgstr ""
 #: data/maps/rookie-harbor/west.json+entities/345/settings/dialog/3/text+%23209
 msgctxt "data/maps/rookie-harbor/west.json//entities/345/settings/dialog/3/text"
 msgid "Bugging people about how they should \"claim their prize\"."
-msgstr ""
+msgstr "Дістає людей щодо того, як вони повинні \"отримувати свою нагороду\"."
 
 #. data/maps/rookie-harbor/west.json entities/345/settings/dialog/4/text #210
 #. XenoDialog Waiting... SPAWN IF !rh.chestWatcherLeft
@@ -20850,7 +20850,7 @@ msgstr ""
 #: data/maps/rookie-harbor/west.json+entities/345/settings/dialog/4/text+%23210
 msgctxt "data/maps/rookie-harbor/west.json//entities/345/settings/dialog/4/text"
 msgid "Sounds like him for sure."
-msgstr ""
+msgstr "Дуже схоже на нього."
 
 #. data/maps/rookie-harbor/west.json entities/346/settings/dialog/0/text #211
 #. XenoDialog Arrived SPAWN IF rh.chestWatcherLeft
