@@ -3,15 +3,16 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"POT-Revision-Date: 2022-04-19 22:43+0000\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2022-05-02 05:44+0000\n"
+"Last-Translator: Luis Gabriel Ramos <luisgabrielramosrobles@gmail.com>\n"
+"Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/bergen-trail/es/>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0 (e2bc05b 2022-04-19)\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.5.3\n"
+"POT-Revision-Date: 2022-04-19 22:43+0000\n"
 
 #. data/maps/bergen-trail/cave/cave-08-smith.json entities/12/settings/interact/hoverText #1
 #. Prop SPAWN IF quest.oldman-drill.currentTask >= 3
@@ -9171,7 +9172,7 @@ msgstr "Vamos, Zira.\\. ¡Y saludos para ti, \\v[lore.title.seeker]a!"
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json+entities/3/settings/condAnims/0/interact/hoverText+%234
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json//entities/3/settings/condAnims/0/interact/hoverText"
 msgid "Display"
-msgstr ""
+msgstr "Pantalla"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/3/settings/condAnims/0/interact/event/1/text #3
 #. Prop
@@ -9183,6 +9184,8 @@ msgid ""
 "Upper Platform Elevator: \\c[1]disabled\\c[0].\n"
 "Do you want to enable the elevator?"
 msgstr ""
+"Elevador de la Plataforma Superior: \\c[1]desactivada\\c[0].\n"
+"¿Deseas activar el elevador?"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/3/settings/condAnims/0/interact/event/2/0/3/text #9
 #. Prop
@@ -9192,7 +9195,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json+entities/3/settings/condAnims/0/interact/event/2/0/3/text+%239
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json//entities/3/settings/condAnims/0/interact/event/2/0/3/text"
 msgid "Upper Platform Elevator \\c[2]enabled\\c[0]!"
-msgstr ""
+msgstr "¡Elevador de la Plataforma Superior \\c[2]activada\\c[0]!"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/3/settings/condAnims/0/interact/event/2/options/0/label #8
 #. Prop
@@ -9201,23 +9204,24 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json+entities/3/settings/condAnims/0/interact/event/2/options/0/label+%238
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json//entities/3/settings/condAnims/0/interact/event/2/options/0/label"
 msgid "[yes]"
-msgstr ""
+msgstr "[sí]"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/3/settings/condAnims/0/interact/event/2/options/1/label #10
 #. Prop
 #. IF !g.lab.bergen.elevator1
 #. SHOW_CHOICE main.lea @SURPRISED_TOWARD
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json+entities/3/settings/condAnims/0/interact/event/2/options/1/label+%2310
+#, fuzzy
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json//entities/3/settings/condAnims/0/interact/event/2/options/1/label"
 msgid "[no]"
-msgstr ""
+msgstr "[no]"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/62/settings/interact/hoverText #226
 #. Prop holo-sign
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json+entities/62/settings/interact/hoverText+%23226
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json//entities/62/settings/interact/hoverText"
 msgid "Hologram"
-msgstr ""
+msgstr "Holograma"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/62/settings/interact/event/6/name #236
 #. Prop holo-sign
@@ -9225,7 +9229,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json+entities/62/settings/interact/event/6/name+%23236
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json//entities/62/settings/interact/event/6/name"
 msgid "Xavier Bonegate"
-msgstr ""
+msgstr "Xavier Bonegate"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/62/settings/interact/event/8/message #27
 #. Prop holo-sign
@@ -9233,7 +9237,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json+entities/62/settings/interact/event/8/message+%2327
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json//entities/62/settings/interact/event/8/message"
 msgid "Welcome, everyone listening to this either in our laboratory or at your home, all around \\v[lore.title.planet]."
-msgstr ""
+msgstr "Bienvenidos, a todos escuchando esto tanto en nuestro laboratorio o en su hogar, a lo largo de todo \\v[lore.title.planet]."
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/62/settings/interact/event/9/message #227
 #. Prop holo-sign
@@ -9241,7 +9245,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json+entities/62/settings/interact/event/9/message+%23227
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json//entities/62/settings/interact/event/9/message"
 msgid "My name is \\c[3]Xavier Bonegate\\c[0], speaking for \\c[3]Heavy Hardware Inc\\c[0], as a representative...\\.\\. But also as a passionate engineer."
-msgstr ""
+msgstr "Mi nombre es \\c[3]Xavier Bonegate\\c[0], hablando en nombre de \\c[3]Equipo Pesado Inc.\\c[0], como un representativo...\\.\\. Pero también un ingeniero apasionado."
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/62/settings/interact/event/10/message #232
 #. Prop holo-sign
@@ -9249,7 +9253,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json+entities/62/settings/interact/event/10/message+%23232
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json//entities/62/settings/interact/event/10/message"
 msgid "We at Heavy Hardware strive to create the hardest, most sturdy of wares.\\. Machinery, vehicles, big and small."
-msgstr ""
+msgstr "Aquí en Equipo Pesado luchamos para crear los resistentes, robustas de las mercancías.\\. Maquinaria, vehículos, grandes y pequeños."
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/62/settings/interact/event/11/message #229
 #. Prop holo-sign
@@ -9257,7 +9261,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json+entities/62/settings/interact/event/11/message+%23229
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json//entities/62/settings/interact/event/11/message"
 msgid "For the benefit of companies, the military, ordinary users.\\. Everyone, everywhere, at every moment."
-msgstr ""
+msgstr "Por el beneficio de empresas, militares, usuarios comunes.\\. Para todos, en cualquier parte, en todo momento."
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/62/settings/interact/event/12/message #231
 #. Prop holo-sign
@@ -9265,7 +9269,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json+entities/62/settings/interact/event/12/message+%23231
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json//entities/62/settings/interact/event/12/message"
 msgid "For this purpose we are working together with equally passionate partners from various fields to deliver only the best of products."
-msgstr ""
+msgstr "Para este propósito, estamos trabajando junto con compañeros igualmente apasionados de varios campos para ofrecer solo los mejores productos."
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/62/settings/interact/event/13/message #237
 #. Prop holo-sign
@@ -9273,7 +9277,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json+entities/62/settings/interact/event/13/message+%23237
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json//entities/62/settings/interact/event/13/message"
 msgid "Using the sheer limitless energy of the \\v[lore.title.track-of-ancients], we are able to develop advanced gear as humanity has never seen before."
-msgstr ""
+msgstr "Usando la pura energía ilimitada del \\v[lore.title.track-of-ancients], somos capaces de desarrollar equipos avanzados como la humanidad nunca antes había visto."
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/62/settings/interact/event/14/message #228
 #. Prop holo-sign
@@ -9281,7 +9285,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json+entities/62/settings/interact/event/14/message+%23228
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json//entities/62/settings/interact/event/14/message"
 msgid "Even cooperation with creatures of the Track, more intelligent than any modern AI, has been made possible!"
-msgstr ""
+msgstr "¡Incluso se ha hecho posible la cooperación con criaturas del Camino, más inteligentes que cualquier IA moderna!"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/62/settings/interact/event/15/message #230
 #. Prop holo-sign
@@ -9289,7 +9293,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json+entities/62/settings/interact/event/15/message+%23230
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json//entities/62/settings/interact/event/15/message"
 msgid "Right now, we are living in the most interesting times humanity has ever seen.\\. And interesting times need creative solutions!"
-msgstr ""
+msgstr "En este momento, estamos viviendo en los tiempos más interesantes que la humanidad haya visto jamás.\\. ¡Y los tiempos interesantes necesitan soluciones creativas!"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/62/settings/interact/event/16/message #238
 #. Prop holo-sign
@@ -9297,7 +9301,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json+entities/62/settings/interact/event/16/message+%23238
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json//entities/62/settings/interact/event/16/message"
 msgid "With this creed in mind, I invite you to follow our work as we will present more of our future work in the future."
-msgstr ""
+msgstr "Con este credo en mente, los invito a seguir nuestro trabajo, ya que presentaremos más de nuestro s próximos trabajos en el futuro."
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/65/settings/condAnims/0/interact/hoverText #233
 #. Prop sideLore2
@@ -9305,7 +9309,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json+entities/65/settings/condAnims/0/interact/hoverText+%23233
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json//entities/65/settings/condAnims/0/interact/hoverText"
 msgid "Display"
-msgstr ""
+msgstr "Pantalla"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/65/settings/condAnims/0/interact/event/1/text #234
 #. Prop sideLore2
@@ -9318,6 +9322,9 @@ msgid ""
 "\n"
 "\\c[3]Title:\\c[0] Important reminder"
 msgstr ""
+"\\c[1]NOTA PRIVADA\\c[0]\n"
+"\n"
+"\\c[3]Título:\\c[0] Importante recordatorio"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/65/settings/condAnims/0/interact/event/2/text #235
 #. Prop sideLore2
@@ -9332,6 +9339,11 @@ msgid ""
 "\n"
 "\\c[1][END OF NOTE]\\c[0]"
 msgstr ""
+"- ¡Toma un descanso cuando lo necesites!\n"
+"- ¡Toma agua regularmente!\n"
+"- ¡Siempre ámate a ti mismo!\n"
+"\n"
+"\\c[1][FIN DE LA NOTA]\\c[0]"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json entities/65/settings/condAnims/0/interact/event/3/message #241
 #. Prop sideLore2
@@ -9340,7 +9352,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json+entities/65/settings/condAnims/0/interact/event/3/message+%23241
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2-sub1.json//entities/65/settings/condAnims/0/interact/event/3/message"
 msgid "...!"
-msgstr ""
+msgstr "¡...!"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room2.json entities/74/settings/condAnims/0/interact/hoverText #6
 #. Prop
@@ -9348,18 +9360,21 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room2.json+entities/74/settings/condAnims/0/interact/hoverText+%236
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room2.json//entities/74/settings/condAnims/0/interact/hoverText"
 msgid "Call"
-msgstr ""
+msgstr "Llamada"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/0/interact/1/text #30
 #. Prop
 #. IF !map.wallDownEast && !map.runTest
 #. SHOW_BOARD_MSG
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/0/interact/1/text+%2330
+#, fuzzy
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/0/interact/1/text"
 msgid ""
 "Bridge Elevator: \\c[1]disabled\\c[0].\n"
 "Do you want to enable the elevator?"
 msgstr ""
+"Elevador del Puente de Mando: \\c[1]desactivado\\c[0].\n"
+"¿Deseas activar el elevador?"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/0/interact/2/0/3/text #9
 #. Prop
@@ -9367,9 +9382,10 @@ msgstr ""
 #. SHOW_CHOICE main.lea @SURPRISED_TOWARD
 #. SHOW_BOARD_MSG
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/0/interact/2/0/3/text+%239
+#, fuzzy
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/0/interact/2/0/3/text"
 msgid "Bridge Elevator \\c[2]enabled\\c[0]!"
-msgstr ""
+msgstr "¡Elevador del Puente de Mando \\c[2]activado\\c[0]!"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/0/interact/2/options/0/label #8
 #. Prop
@@ -9378,7 +9394,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/0/interact/2/options/0/label+%238
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/0/interact/2/options/0/label"
 msgid "[yes]"
-msgstr ""
+msgstr "[sí]"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/0/interact/2/options/1/label #10
 #. Prop
@@ -9387,7 +9403,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/0/interact/2/options/1/label+%2310
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/0/interact/2/options/1/label"
 msgid "[no]"
-msgstr ""
+msgstr "[no]"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/0/interact/hoverText #11
 #. Prop
@@ -9395,18 +9411,21 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/0/interact/hoverText+%2311
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/0/interact/hoverText"
 msgid "Display"
-msgstr ""
+msgstr "Pantalla"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/0/interact/event/1/text #16
 #. Prop
 #. IF !map.wallDownEast && !map.runTest
 #. SHOW_BOARD_MSG
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/0/interact/event/1/text+%2316
+#, fuzzy
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/0/interact/event/1/text"
 msgid ""
 "Test sequence status: \\c[2]ready\\c[0].\n"
 "\\c[1]Start test sequence\\c[0]?"
 msgstr ""
+"Estado de la Secuencia de prueba: \\c[2]preparada\\c[0].\n"
+"¿\\c[1]Iniciar secuencia de prueba\\c[0]?"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/0/interact/event/2/0/3/text #17
 #. Prop
@@ -9416,7 +9435,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/0/interact/event/2/0/3/text+%2317
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/0/interact/event/2/0/3/text"
 msgid "Preparing to \\c[2]initiate test sequence\\c[0]!"
-msgstr ""
+msgstr "¡Preparando para \\c[2]iniciar la secuencia de prueba\\c[0]!"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/0/interact/event/2/0/4/text #18
 #. Prop
@@ -9426,7 +9445,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/0/interact/event/2/0/4/text+%2318
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/0/interact/event/2/0/4/text"
 msgid "Please \\c[3]enter room to the west \\c[0] to begin."
-msgstr ""
+msgstr "Por favor \\c[3]ingrese a la habitación al oeste\\c[0] para empezar."
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/0/interact/event/2/1/1/text #19
 #. Prop
@@ -9436,7 +9455,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/0/interact/event/2/1/1/text+%2319
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/0/interact/event/2/1/1/text"
 msgid "Completion of test sequence is \\c[3]required\\c[0] in order to access the east lab area."
-msgstr ""
+msgstr "La finalización de la secuencia de prueba es \\c[3]requerida\\c[0] para acceder al área este del laboratorio."
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/0/interact/event/2/1/2/message #15
 #. Prop
@@ -9444,9 +9463,10 @@ msgstr ""
 #. SHOW_CHOICE main.lea @SURPRISED_TOWARD
 #. SHOW_MSG main.lea @ANNOYED
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/0/interact/event/2/1/2/message+%2315
+#, fuzzy
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/0/interact/event/2/1/2/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/0/interact/event/2/options/0/label #20
 #. Prop
@@ -9455,7 +9475,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/0/interact/event/2/options/0/label+%2320
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/0/interact/event/2/options/0/label"
 msgid "[yes]"
-msgstr ""
+msgstr "[sí]"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/0/interact/event/2/options/1/label #21
 #. Prop
@@ -9464,7 +9484,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/0/interact/event/2/options/1/label+%2321
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/0/interact/event/2/options/1/label"
 msgid "[no]"
-msgstr ""
+msgstr "[no]"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/1/interact/1/text #22
 #. Prop
@@ -9476,6 +9496,8 @@ msgid ""
 "Bridge Elevator: \\c[1]disabled\\c[0].\n"
 "Do you want to enable the elevator?"
 msgstr ""
+"Elevador del Puente de Mando: \\c[1]desactivado\\c[0].\n"
+"¿Deseas activar el elevador?"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/1/interact/2/0/3/text #23
 #. Prop
@@ -9485,7 +9507,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/1/interact/2/0/3/text+%2323
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/1/interact/2/0/3/text"
 msgid "Bridge Elevator \\c[2]enabled\\c[0]!"
-msgstr ""
+msgstr "¡Elevador del Puente de Mando \\c[2]activado\\c[0]!"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/1/interact/2/options/0/label #24
 #. Prop
@@ -9494,7 +9516,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/1/interact/2/options/0/label+%2324
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/1/interact/2/options/0/label"
 msgid "[yes]"
-msgstr ""
+msgstr "[sí]"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/1/interact/2/options/1/label #25
 #. Prop
@@ -9503,7 +9525,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/1/interact/2/options/1/label+%2325
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/1/interact/2/options/1/label"
 msgid "[no]"
-msgstr ""
+msgstr "[no]"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/1/interact/hoverText #26
 #. Prop
@@ -9511,7 +9533,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/1/interact/hoverText+%2326
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/1/interact/hoverText"
 msgid "Display"
-msgstr ""
+msgstr "Pantalla"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/1/interact/event/1/text #27
 #. Prop
@@ -9523,6 +9545,8 @@ msgid ""
 "Test sequence status: \\c[2]completed\\c[0].\n"
 "Performance score: \\c[2]41.99%\\c[0]."
 msgstr ""
+"Estado de la secuencia de prueba: \\c[2]completado\\c[0].\n"
+"Puntuación de rendimiento: \\c[2]41.99%\\c[0]."
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/1/interact/event/4/text #28
 #. Prop
@@ -9531,7 +9555,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/1/interact/event/4/text+%2328
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/1/interact/event/4/text"
 msgid "Granting access to \\c[3]east lab area\\c[0]."
-msgstr ""
+msgstr "Concediendo acceso a el \\c[3]área este del laboratorio\\c[0]."
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/1/interact/event/5/message #29
 #. Prop
@@ -9540,18 +9564,21 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/1/interact/event/5/message+%2329
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/1/interact/event/5/message"
 msgid "...!"
-msgstr ""
+msgstr "¡...!"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/51/settings/condAnims/0/interact/1/text #31
 #. Prop open
 #. IF !map.sideOpen
 #. SHOW_BOARD_MSG
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/51/settings/condAnims/0/interact/1/text+%2331
+#, fuzzy
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/51/settings/condAnims/0/interact/1/text"
 msgid ""
 "Bridge Elevator: \\c[1]disabled\\c[0].\n"
 "Do you want to enable the elevator?"
 msgstr ""
+"Elevador del Puente de Mando: \\c[1]desactivado\\c[0].\n"
+"¿Deseas activar el elevador?"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/51/settings/condAnims/0/interact/2/0/3/text #32
 #. Prop open
@@ -9559,9 +9586,10 @@ msgstr ""
 #. SHOW_CHOICE main.lea @SURPRISED_TOWARD
 #. SHOW_BOARD_MSG
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/51/settings/condAnims/0/interact/2/0/3/text+%2332
+#, fuzzy
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/51/settings/condAnims/0/interact/2/0/3/text"
 msgid "Bridge Elevator \\c[2]enabled\\c[0]!"
-msgstr ""
+msgstr "¡Elevador del Puente de Mando \\c[2]activado\\c[0]!"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/51/settings/condAnims/0/interact/2/options/0/label #33
 #. Prop open
@@ -9570,7 +9598,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/51/settings/condAnims/0/interact/2/options/0/label+%2333
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/51/settings/condAnims/0/interact/2/options/0/label"
 msgid "[yes]"
-msgstr ""
+msgstr "[sí]"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/51/settings/condAnims/0/interact/2/options/1/label #34
 #. Prop open
@@ -9579,7 +9607,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/51/settings/condAnims/0/interact/2/options/1/label+%2334
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/51/settings/condAnims/0/interact/2/options/1/label"
 msgid "[no]"
-msgstr ""
+msgstr "[no]"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/51/settings/condAnims/0/interact/hoverText #35
 #. Prop open
@@ -9587,7 +9615,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/51/settings/condAnims/0/interact/hoverText+%2335
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/51/settings/condAnims/0/interact/hoverText"
 msgid "Display"
-msgstr ""
+msgstr "Pantalla"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/51/settings/condAnims/0/interact/event/1/text #36
 #. Prop open
@@ -9602,6 +9630,11 @@ msgid ""
 "\n"
 "PS: Good luck everyone on the other side!"
 msgstr ""
+"\\c[1]NOTA:\\c[0]\n"
+"\n"
+"Algunos de los \\v[combat.name.snowtank]s estaban escapando de la cámara de prueba y trataron de llegar al elevador. Pusimos algunas cajas aquí para que no vuelva a suceder.\n"
+"\n"
+"PD: ¡Buena suerte para aquellos en el otro lado!"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/51/settings/condAnims/0/interact/event/2/text #43
 #. Prop open
@@ -9610,7 +9643,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/51/settings/condAnims/0/interact/event/2/text+%2343
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/51/settings/condAnims/0/interact/event/2/text"
 msgid "Open \\c[3]ventilation shaft\\c[0]?"
-msgstr ""
+msgstr "¿Abrir \\c[3]ducto de ventilación\\c[0]?"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/51/settings/condAnims/0/interact/event/3/0/3/text #44
 #. Prop open
@@ -9620,7 +9653,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/51/settings/condAnims/0/interact/event/3/0/3/text+%2344
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/51/settings/condAnims/0/interact/event/3/0/3/text"
 msgid "Ventilation Shaft \\c[2]opened\\c[0]!"
-msgstr ""
+msgstr "¡Ducto de Ventilación \\c[2]abierto\\c[0]!"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/51/settings/condAnims/0/interact/event/3/options/0/label #41
 #. Prop open
@@ -9629,31 +9662,33 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/51/settings/condAnims/0/interact/event/3/options/0/label+%2341
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/51/settings/condAnims/0/interact/event/3/options/0/label"
 msgid "[yes]"
-msgstr ""
+msgstr "[sí]"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/51/settings/condAnims/0/interact/event/3/options/1/label #42
 #. Prop open
 #. IF !map.sideOpen
 #. SHOW_CHOICE main.lea @SURPRISED_TOWARD
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/51/settings/condAnims/0/interact/event/3/options/1/label+%2342
+#, fuzzy
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/51/settings/condAnims/0/interact/event/3/options/1/label"
 msgid "[no]"
-msgstr ""
+msgstr "[no]"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/123/settings/interact/hoverText #226
 #. Prop holo-sign
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/123/settings/interact/hoverText+%23226
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/123/settings/interact/hoverText"
 msgid "Hologram"
-msgstr ""
+msgstr "Holograma"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/123/settings/interact/event/6/name #236
 #. Prop holo-sign
 #. ADD_MSG_PERSON lab.scientist-xbox @HOLOGRAM
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/123/settings/interact/event/6/name+%23236
+#, fuzzy
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/123/settings/interact/event/6/name"
 msgid "Xavier Bonegate"
-msgstr ""
+msgstr "Xavier Bonegate"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/123/settings/interact/event/8/message #227
 #. Prop holo-sign
@@ -9661,7 +9696,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/123/settings/interact/event/8/message+%23227
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/123/settings/interact/event/8/message"
 msgid "Hello and welcome.\\. I'm \\c[3]Xavier Bonegate\\c[0] speaking for \\c[3]Heavy Hardware Inc\\c[0].\\. How are you?"
-msgstr ""
+msgstr "Hola y bienvenidos.\\. Soy \\c[3]Xavier Bonegate\\c[0] hablando en nombre de \\c[3]Hardware Pesado Inc\\c[0].\\. ¿Cómo estan?"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/123/settings/interact/event/9/message #239
 #. Prop holo-sign
@@ -9669,7 +9704,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/123/settings/interact/event/9/message+%23239
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/123/settings/interact/event/9/message"
 msgid "Whatever your answer may be, rest assured that we will always strive to improve the lives of everyone, everywhere, at every time."
-msgstr ""
+msgstr "Cualquiera que sea su respuesta, tenga la seguridad de que siempre nos esforzaremos por mejorar la vida de todos, en cualquier parte, en todo momento."
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/123/settings/interact/event/10/message #240
 #. Prop holo-sign
@@ -9677,7 +9712,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/123/settings/interact/event/10/message+%23240
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/123/settings/interact/event/10/message"
 msgid "For example, we are proud to report great successes in the field of fuel-independent, heavy ordnance vehicles."
-msgstr ""
+msgstr "Por ejemplo, nos enorgullece informar de grandes éxitos en el campo de los vehículos de artillería pesada, independientes del combustible."
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/123/settings/interact/event/11/message #232
 #. Prop holo-sign
@@ -9685,7 +9720,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/123/settings/interact/event/11/message+%23232
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/123/settings/interact/event/11/message"
 msgid "For now this technology is primarily geared towards the use in warfare.\\. To protect our settlements and advance to new, dangerous territories."
-msgstr ""
+msgstr "Por ahora, esta tecnología está orientada principalmente al uso en la guerra.\\. Para proteger nuestros asentamientos y avanzar hacia nuevos y peligrosos territorios."
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/123/settings/interact/event/12/message #237
 #. Prop holo-sign
@@ -9693,7 +9728,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/123/settings/interact/event/12/message+%23237
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/123/settings/interact/event/12/message"
 msgid "Energy of the Track, directly woven into every step of our production process, is granting us never before seen efficiency."
-msgstr ""
+msgstr "La energía del Camino, directamente entretejida en cada paso de nuestro proceso de producción, nos está otorgando una eficiencia nunca antes vista."
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/123/settings/interact/event/13/message #228
 #. Prop holo-sign
