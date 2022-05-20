@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-05-20 15:31+0000\n"
+"PO-Revision-Date: 2022-05-21 17:28+0000\n"
 "Last-Translator: Bogdan <bbucko175@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.openkrosskod.org/projects/crosscode/autumn/uk/>\n"
 "Language: uk_UA\n"
@@ -62,7 +62,7 @@ msgstr ""
 #: data/maps/autumn/cubaum.json+entities/509/settings/event/1/text+%2334
 msgctxt "data/maps/autumn/cubaum.json//entities/509/settings/event/1/text"
 msgid "Access denied"
-msgstr ""
+msgstr "Доступ заборонений"
 
 #. data/maps/autumn/cubaum.json entities/521/settings/npcStates/0/event/2/message #295
 #. NPC
@@ -741,7 +741,7 @@ msgstr ""
 #: data/maps/autumn/cubaum.json+entities/563/settings/event/0/message+%23778
 msgctxt "data/maps/autumn/cubaum.json//entities/563/settings/event/0/message"
 msgid "What a nice and regular laser bridge!"
-msgstr ""
+msgstr "Який чудовий правильний лазерний міст!"
 
 #. data/maps/autumn/entrance.json entities/92/settings/analyzable/text #213
 #. NPC equip-quest
@@ -995,7 +995,7 @@ msgstr "Привіт!"
 #: data/maps/autumn/entrance.json+entities/92/settings/npcStates/4/event/3/message+%2351
 msgctxt "data/maps/autumn/entrance.json//entities/92/settings/npcStates/4/event/3/message"
 msgid "Hello Ms. \\v[lore.title.seeker]!\\. Enjoying the adventure?"
-msgstr "Привіт, міс Шукач!\\. Насолоджуєшся подорожжю?"
+msgstr "Привіт, пані Шукач!\\. Насолоджуєшся подорожжю?"
 
 #. data/maps/autumn/entrance.json entities/92/settings/npcStates/4/event/4/message #52
 #. NPC equip-quest
@@ -1086,6 +1086,8 @@ msgid ""
 "\\i[arrow-w] Road to \\v[area.bergen-trails.name]\n"
 "\\i[arrow-e] \\v[area.rookie-harbor.name]"
 msgstr ""
+"\\i[arrow-w] Дорога до Стежки у Берген\n"
+"\\i[arrow-e] \\v[area.rookie-harbor.name]"
 
 #. data/maps/autumn/entrance.json entities/101/settings/event/1/title #197
 #. EventTrigger CombatRankTutorial
@@ -1198,7 +1200,7 @@ msgstr "Лазерний міст!"
 #: data/maps/autumn/entrance.json+entities/148/settings/event/13/message+%23223
 msgctxt "data/maps/autumn/entrance.json//entities/148/settings/event/13/message"
 msgid "Back to where our journey started..."
-msgstr ""
+msgstr "Повернулися туди, звідки почалася наша подорож..."
 
 #. data/maps/autumn/entrance.json entities/148/settings/event/14/message #224
 #. EventTrigger EndScene START IF plot.line >= 31400
@@ -1206,7 +1208,7 @@ msgstr ""
 #: data/maps/autumn/entrance.json+entities/148/settings/event/14/message+%23224
 msgctxt "data/maps/autumn/entrance.json//entities/148/settings/event/14/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[киває]"
 
 #. data/maps/autumn/entrance.json entities/148/settings/event/19/message #225
 #. EventTrigger EndScene START IF plot.line >= 31400
@@ -1214,7 +1216,7 @@ msgstr ""
 #: data/maps/autumn/entrance.json+entities/148/settings/event/19/message+%23225
 msgctxt "data/maps/autumn/entrance.json//entities/148/settings/event/19/message"
 msgid "By now, those enemies are kind of a joke, non?"
-msgstr ""
+msgstr "Тепер ці вороги виглядають кумедно, хіба ні?"
 
 #. data/maps/autumn/entrance.json entities/148/settings/event/20/thenStep/0/message #228
 #. EventTrigger EndScene START IF plot.line >= 31400
@@ -1223,7 +1225,7 @@ msgstr ""
 #: data/maps/autumn/entrance.json+entities/148/settings/event/20/thenStep/0/message+%23228
 msgctxt "data/maps/autumn/entrance.json//entities/148/settings/event/20/thenStep/0/message"
 msgid "I mean...\\. if we didn't have the \\c[3]boosters\\c[0] enabled, that is."
-msgstr ""
+msgstr "Я маю на увазі...\\. якби в нас не було активованих \\c[3]бустерів\\c[0]."
 
 #. data/maps/autumn/entrance.json entities/148/settings/event/26/message #227
 #. EventTrigger EndScene START IF plot.line >= 31400
@@ -1231,7 +1233,7 @@ msgstr ""
 #: data/maps/autumn/entrance.json+entities/148/settings/event/26/message+%23227
 msgctxt "data/maps/autumn/entrance.json//entities/148/settings/event/26/message"
 msgid "Sure...\\. now they are."
-msgstr ""
+msgstr "Звісно...\\. тепер."
 
 #. data/maps/autumn/entrance.json entities/148/settings/event/27/message #229
 #. EventTrigger EndScene START IF plot.line >= 31400
@@ -1239,7 +1241,7 @@ msgstr ""
 #: data/maps/autumn/entrance.json+entities/148/settings/event/27/message+%23229
 msgctxt "data/maps/autumn/entrance.json//entities/148/settings/event/27/message"
 msgid "I bet you got beat up plenty by those Hedgehags in the beginning."
-msgstr ""
+msgstr "Можу поспорити, що ці Дикоборзи багато разів вас побили на самому початку."
 
 #. data/maps/autumn/entrance.json entities/148/settings/event/28/message #230
 #. EventTrigger EndScene START IF plot.line >= 31400
@@ -1247,7 +1249,7 @@ msgstr ""
 #: data/maps/autumn/entrance.json+entities/148/settings/event/28/message+%23230
 msgctxt "data/maps/autumn/entrance.json//entities/148/settings/event/28/message"
 msgid "Non!\\. Not at all!"
-msgstr ""
+msgstr "Ні.\\. Зовсім ні!"
 
 #. data/maps/autumn/entrance.json entities/148/settings/event/29/thenStep/0/message #916
 #. EventTrigger EndScene START IF plot.line >= 31400
@@ -1256,7 +1258,7 @@ msgstr ""
 #: data/maps/autumn/entrance.json+entities/148/settings/event/29/thenStep/0/message+%23916
 msgctxt "data/maps/autumn/entrance.json//entities/148/settings/event/29/thenStep/0/message"
 msgid "Lea simply \\c[1]sniped them all away\\c[0], you see?"
-msgstr ""
+msgstr "Лея просто \\c[3]знищила їх усіх\\c[0], розумієш?"
 
 #. data/maps/autumn/entrance.json entities/148/settings/event/29/elseStep/0/message #231
 #. EventTrigger EndScene START IF plot.line >= 31400
@@ -1265,7 +1267,7 @@ msgstr ""
 #: data/maps/autumn/entrance.json+entities/148/settings/event/29/elseStep/0/message+%23231
 msgctxt "data/maps/autumn/entrance.json//entities/148/settings/event/29/elseStep/0/message"
 msgid "Those hedgehags were easy-peasy, right, Lea?"
-msgstr ""
+msgstr "Ці їжачки були легкші лекшого, правда, Лія?"
 
 #. data/maps/autumn/entrance.json entities/148/settings/event/31/thenStep/0/message #917
 #. EventTrigger EndScene START IF plot.line >= 31400
@@ -1274,7 +1276,7 @@ msgstr ""
 #: data/maps/autumn/entrance.json+entities/148/settings/event/31/thenStep/0/message+%23917
 msgctxt "data/maps/autumn/entrance.json//entities/148/settings/event/31/thenStep/0/message"
 msgid "\\c[1]Lea!\\c[0]"
-msgstr ""
+msgstr "\\c[1]Лія!\\c[0]"
 
 #. data/maps/autumn/entrance.json entities/148/settings/event/31/elseStep/0/message #232
 #. EventTrigger EndScene START IF plot.line >= 31400
@@ -1283,7 +1285,7 @@ msgstr ""
 #: data/maps/autumn/entrance.json+entities/148/settings/event/31/elseStep/0/message+%23232
 msgctxt "data/maps/autumn/entrance.json//entities/148/settings/event/31/elseStep/0/message"
 msgid "Lea!"
-msgstr ""
+msgstr "Лія!"
 
 #. data/maps/autumn/entrance.json entities/148/settings/event/32/message #914
 #. EventTrigger EndScene START IF plot.line >= 31400
@@ -1291,7 +1293,7 @@ msgstr ""
 #: data/maps/autumn/entrance.json+entities/148/settings/event/32/message+%23914
 msgctxt "data/maps/autumn/entrance.json//entities/148/settings/event/32/message"
 msgid "Right. I forgot you were well prepared thanks to my amazing tutorial."
-msgstr ""
+msgstr "Правильно. Я й забув, що ви були добре підготовлені завдяки моєму чудовому посібнику."
 
 #. data/maps/autumn/entrance.json entities/148/settings/event/33/thenStep/0/message #918
 #. EventTrigger EndScene START IF plot.line >= 31400
@@ -1300,7 +1302,7 @@ msgstr ""
 #: data/maps/autumn/entrance.json+entities/148/settings/event/33/thenStep/0/message+%23918
 msgctxt "data/maps/autumn/entrance.json//entities/148/settings/event/33/thenStep/0/message"
 msgid "Non.\\. Again.\\. It's because \\c[1]Lea just killed everything\\c[0]."
-msgstr ""
+msgstr "Нєа.\\. Знову ж таки.\\. Це тому, що \\c[1]Лея просто знищила всіх\\c[0]."
 
 #. data/maps/autumn/entrance.json entities/148/settings/event/33/thenStep/1/message #919
 #. EventTrigger EndScene START IF plot.line >= 31400
@@ -1309,7 +1311,7 @@ msgstr ""
 #: data/maps/autumn/entrance.json+entities/148/settings/event/33/thenStep/1/message+%23919
 msgctxt "data/maps/autumn/entrance.json//entities/148/settings/event/33/thenStep/1/message"
 msgid "\\c[1]Bye!!\\c[0]"
-msgstr ""
+msgstr "\\c[1]Бувай!!\\c[0]"
 
 #. data/maps/autumn/entrance.json entities/148/settings/event/33/elseStep/0/message #915
 #. EventTrigger EndScene START IF plot.line >= 31400
@@ -1318,7 +1320,7 @@ msgstr ""
 #: data/maps/autumn/entrance.json+entities/148/settings/event/33/elseStep/0/message+%23915
 msgctxt "data/maps/autumn/entrance.json//entities/148/settings/event/33/elseStep/0/message"
 msgid "Suuuure..."
-msgstr ""
+msgstr "Авжеееж..."
 
 #. data/maps/autumn/entrance.json entities/148/settings/event/42/text #913
 #. EventTrigger EndScene START IF plot.line >= 31400
@@ -1329,6 +1331,8 @@ msgid ""
 "Back then, she was the only clue I had.\\.\n"
 "That is why...\\. I put her into the game."
 msgstr ""
+"Тоді вона була моєю єдиною зачіпкою.\n"
+"Ось чому...\\. я втягнув її у цю гру."
 
 #. data/maps/autumn/extra-boss.json entities/285/settings/event/16/thenStep/0/message #1
 #. EventTrigger Start
@@ -1497,7 +1501,7 @@ msgstr ""
 #: data/maps/autumn/guild/entrance.json+entities/178/settings/event/1/text+%2352
 msgctxt "data/maps/autumn/guild/entrance.json//entities/178/settings/event/1/text"
 msgid "Access denied"
-msgstr ""
+msgstr "Доступ заборонений"
 
 #. data/maps/autumn/guild/entrance.json entities/181/settings/event/2/message #199
 #. EventTrigger Intro
@@ -15214,7 +15218,7 @@ msgstr ""
 #: data/maps/autumn/guild/left.json+entities/277/settings/event/1/text+%2352
 msgctxt "data/maps/autumn/guild/left.json//entities/277/settings/event/1/text"
 msgid "Access denied"
-msgstr ""
+msgstr "Доступ заборонений"
 
 #. data/maps/autumn/guild/left.json entities/280/settings/blockEvent/1/thenStep/2/message #73
 #. Door fsEntrance
@@ -20468,7 +20472,7 @@ msgstr ""
 #: data/maps/autumn/path-1.json+entities/176/settings/npcStates/0/event/2/message+%231
 msgctxt "data/maps/autumn/path-1.json//entities/176/settings/npcStates/0/event/2/message"
 msgid "A Spheromancer? Not something I see very often these days."
-msgstr ""
+msgstr "Сферомант? Таке не так вже й часто побачиш останнім часом."
 
 #. data/maps/autumn/path-1.json entities/176/settings/npcStates/0/event/3/message #2
 #. NPC
@@ -20477,7 +20481,7 @@ msgstr ""
 #: data/maps/autumn/path-1.json+entities/176/settings/npcStates/0/event/3/message+%232
 msgctxt "data/maps/autumn/path-1.json//entities/176/settings/npcStates/0/event/3/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/autumn/path-1.json entities/176/settings/npcStates/0/event/4/message #3
 #. NPC
@@ -20486,7 +20490,7 @@ msgstr ""
 #: data/maps/autumn/path-1.json+entities/176/settings/npcStates/0/event/4/message+%233
 msgctxt "data/maps/autumn/path-1.json//entities/176/settings/npcStates/0/event/4/message"
 msgid "You see, the class is very hard to master, so it became a bit unpopular, I would say."
-msgstr ""
+msgstr "Розумієш, я хочу сказати, що клас занадто складний для освоєння, тому він став непопулярним."
 
 #. data/maps/autumn/path-1.json entities/176/settings/npcStates/0/event/5/message #4
 #. NPC
@@ -20495,7 +20499,7 @@ msgstr ""
 #: data/maps/autumn/path-1.json+entities/176/settings/npcStates/0/event/5/message+%234
 msgctxt "data/maps/autumn/path-1.json//entities/176/settings/npcStates/0/event/5/message"
 msgid "And nowadays, you only find a handful of people trying to play it."
-msgstr ""
+msgstr "У наш час ти знайдеш лише невелику жменьку людей, які намагаються грати за нього."
 
 #. data/maps/autumn/path-1.json entities/176/settings/npcStates/0/event/6/message #5
 #. NPC
@@ -20504,7 +20508,7 @@ msgstr ""
 #: data/maps/autumn/path-1.json+entities/176/settings/npcStates/0/event/6/message+%235
 msgctxt "data/maps/autumn/path-1.json//entities/176/settings/npcStates/0/event/6/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/autumn/path-1.json entities/192/settings/interact/hoverText #39
 #. Prop
@@ -20515,13 +20519,16 @@ msgid ""
 "\\i[arrow-w] Road to Bergen Trail\n"
 "\\i[arrow-e] Rookie Harbor"
 msgstr ""
+"\\i[arrow-n] Звичайна галявина\n"
+"\\i[arrow-w] Дорога до Стежки у Берген\n"
+"\\i[arrow-e] Гавань новачків"
 
 #. data/maps/autumn/path-1.json entities/302/settings/analyzable/text #347
 #. NPC thief-quest1
 #: data/maps/autumn/path-1.json+entities/302/settings/analyzable/text+%23347
 msgctxt "data/maps/autumn/path-1.json//entities/302/settings/analyzable/text"
 msgid "Shady Shorsh"
-msgstr ""
+msgstr "Дивний парубок"
 
 #. data/maps/autumn/path-1.json entities/302/settings/npcStates/1/event/quest/6/name #454
 #. NPC thief-quest1
@@ -20530,7 +20537,7 @@ msgstr ""
 #: data/maps/autumn/path-1.json+entities/302/settings/npcStates/1/event/quest/6/name+%23454
 msgctxt "data/maps/autumn/path-1.json//entities/302/settings/npcStates/1/event/quest/6/name"
 msgid "Shady Shorsh"
-msgstr ""
+msgstr "Дивний парубок"
 
 #. data/maps/autumn/path-1.json entities/302/settings/npcStates/1/event/quest/7/message #292
 #. NPC thief-quest1
@@ -20539,7 +20546,7 @@ msgstr ""
 #: data/maps/autumn/path-1.json+entities/302/settings/npcStates/1/event/quest/7/message+%23292
 msgctxt "data/maps/autumn/path-1.json//entities/302/settings/npcStates/1/event/quest/7/message"
 msgid "Hi!"
-msgstr ""
+msgstr "Привіт!"
 
 #. data/maps/autumn/path-1.json entities/302/settings/npcStates/1/event/quest/8/message #291
 #. NPC thief-quest1
@@ -20548,7 +20555,7 @@ msgstr ""
 #: data/maps/autumn/path-1.json+entities/302/settings/npcStates/1/event/quest/8/message+%23291
 msgctxt "data/maps/autumn/path-1.json//entities/302/settings/npcStates/1/event/quest/8/message"
 msgid "I... I am so sorry.\\. For real this time."
-msgstr ""
+msgstr "Ме... Мені дуже шкода.\\. На цей раз по-справжньому."
 
 #. data/maps/autumn/path-1.json entities/302/settings/npcStates/1/event/quest/9/message #335
 #. NPC thief-quest1
@@ -20557,7 +20564,7 @@ msgstr ""
 #: data/maps/autumn/path-1.json+entities/302/settings/npcStates/1/event/quest/9/message+%23335
 msgctxt "data/maps/autumn/path-1.json//entities/302/settings/npcStates/1/event/quest/9/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/autumn/path-1.json entities/302/settings/npcStates/1/event/quest/10/message #336
 #. NPC thief-quest1
@@ -20566,7 +20573,7 @@ msgstr ""
 #: data/maps/autumn/path-1.json+entities/302/settings/npcStates/1/event/quest/10/message+%23336
 msgctxt "data/maps/autumn/path-1.json//entities/302/settings/npcStates/1/event/quest/10/message"
 msgid "I'm serious!\\. I'm out of smokebombs anyway, otherwise those damn \\v[combat.name.hedgehog]s never would've gotten me."
-msgstr ""
+msgstr "Я серйозно!\\. У мене все одно закінчилися димові шашки, інакше ці чортові \\v[combat.name.hedgehog]и ніколи б до мене не дісталися."
 
 #. data/maps/autumn/path-1.json entities/302/settings/npcStates/1/event/quest/11/message #462
 #. NPC thief-quest1
@@ -20575,7 +20582,7 @@ msgstr ""
 #: data/maps/autumn/path-1.json+entities/302/settings/npcStates/1/event/quest/11/message+%23462
 msgctxt "data/maps/autumn/path-1.json//entities/302/settings/npcStates/1/event/quest/11/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/autumn/path-1.json entities/302/settings/npcStates/1/event/quest/12/message #337
 #. NPC thief-quest1
@@ -20584,7 +20591,7 @@ msgstr ""
 #: data/maps/autumn/path-1.json+entities/302/settings/npcStates/1/event/quest/12/message+%23337
 msgctxt "data/maps/autumn/path-1.json//entities/302/settings/npcStates/1/event/quest/12/message"
 msgid "But maybe they've been sent by the Track to show me the error of my ways."
-msgstr ""
+msgstr "Але можливо, що вони були надіслані Шляхом, щоб вказати мені на скоєні помилки."
 
 #. data/maps/autumn/path-1.json entities/302/settings/npcStates/1/event/quest/13/message #338
 #. NPC thief-quest1
@@ -20593,7 +20600,7 @@ msgstr ""
 #: data/maps/autumn/path-1.json+entities/302/settings/npcStates/1/event/quest/13/message+%23338
 msgctxt "data/maps/autumn/path-1.json//entities/302/settings/npcStates/1/event/quest/13/message"
 msgid "This time I will turn myself in and atone for my crimes. Truly."
-msgstr ""
+msgstr "Цього разу я здамся та відповім за свої злочини. Чесно."
 
 #. data/maps/autumn/path-1.json entities/302/settings/npcStates/1/event/quest/14/message #463
 #. NPC thief-quest1
@@ -20602,7 +20609,7 @@ msgstr ""
 #: data/maps/autumn/path-1.json+entities/302/settings/npcStates/1/event/quest/14/message+%23463
 msgctxt "data/maps/autumn/path-1.json//entities/302/settings/npcStates/1/event/quest/14/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/autumn/path-1.json entities/302/settings/npcStates/1/event/quest/15/message #339
 #. NPC thief-quest1
@@ -20611,7 +20618,7 @@ msgstr ""
 #: data/maps/autumn/path-1.json+entities/302/settings/npcStates/1/event/quest/15/message+%23339
 msgctxt "data/maps/autumn/path-1.json//entities/302/settings/npcStates/1/event/quest/15/message"
 msgid "So... if you will excuse me."
-msgstr ""
+msgstr "Тож... дозвольте мені відкланятись."
 
 #. data/maps/autumn/path-1.json entities/302/settings/npcStates/1/event/quest/27/name #455
 #. NPC thief-quest1
@@ -20620,7 +20627,7 @@ msgstr ""
 #: data/maps/autumn/path-1.json+entities/302/settings/npcStates/1/event/quest/27/name+%23455
 msgctxt "data/maps/autumn/path-1.json//entities/302/settings/npcStates/1/event/quest/27/name"
 msgid "Shady Shorsh"
-msgstr ""
+msgstr "Дивний парубок"
 
 #. data/maps/autumn/path-1.json entities/302/settings/npcStates/1/event/quest/28/name #456
 #. NPC thief-quest1
@@ -20629,7 +20636,7 @@ msgstr ""
 #: data/maps/autumn/path-1.json+entities/302/settings/npcStates/1/event/quest/28/name+%23456
 msgctxt "data/maps/autumn/path-1.json//entities/302/settings/npcStates/1/event/quest/28/name"
 msgid "Guard Kima"
-msgstr ""
+msgstr "Вартовий Кіма"
 
 #. data/maps/autumn/path-1.json entities/302/settings/npcStates/1/event/quest/30/message #343
 #. NPC thief-quest1
@@ -20638,7 +20645,7 @@ msgstr ""
 #: data/maps/autumn/path-1.json+entities/302/settings/npcStates/1/event/quest/30/message+%23343
 msgctxt "data/maps/autumn/path-1.json//entities/302/settings/npcStates/1/event/quest/30/message"
 msgid "You're coming with me."
-msgstr ""
+msgstr "Ти підеш зі мною."
 
 #. data/maps/autumn/path-1.json entities/302/settings/npcStates/1/event/quest/31/message #341
 #. NPC thief-quest1
@@ -20647,7 +20654,7 @@ msgstr ""
 #: data/maps/autumn/path-1.json+entities/302/settings/npcStates/1/event/quest/31/message+%23341
 msgctxt "data/maps/autumn/path-1.json//entities/302/settings/npcStates/1/event/quest/31/message"
 msgid "B... but I was going to come to you anyway.\\. Don't you trust me?"
-msgstr ""
+msgstr "А... але я й так збирався прийти.\\. Ти мені не віриш?"
 
 #. data/maps/autumn/path-1.json entities/302/settings/npcStates/1/event/quest/32/message #342
 #. NPC thief-quest1
@@ -20656,7 +20663,7 @@ msgstr ""
 #: data/maps/autumn/path-1.json+entities/302/settings/npcStates/1/event/quest/32/message+%23342
 msgctxt "data/maps/autumn/path-1.json//entities/302/settings/npcStates/1/event/quest/32/message"
 msgid "Sorry, pal.\\. Trust is nice and all but I won't take any more risks with you."
-msgstr ""
+msgstr "Вибач, друже. Довіра - це добре і таке інше, але я більше не хочу ризикувати з тобою."
 
 #. data/maps/autumn/path-1.json entities/302/settings/npcStates/1/event/quest/33/message #344
 #. NPC thief-quest1
@@ -20665,7 +20672,7 @@ msgstr ""
 #: data/maps/autumn/path-1.json+entities/302/settings/npcStates/1/event/quest/33/message+%23344
 msgctxt "data/maps/autumn/path-1.json//entities/302/settings/npcStates/1/event/quest/33/message"
 msgid "Alright, alright.\\. Jeez."
-msgstr ""
+msgstr "Добре-добре.\\. Господи."
 
 #. data/maps/autumn/path-1.json entities/302/settings/npcStates/1/event/quest/39/message #345
 #. NPC thief-quest1
@@ -20674,7 +20681,7 @@ msgstr ""
 #: data/maps/autumn/path-1.json+entities/302/settings/npcStates/1/event/quest/39/message+%23345
 msgctxt "data/maps/autumn/path-1.json//entities/302/settings/npcStates/1/event/quest/39/message"
 msgid "In any case, thanks, girl.\\. You did great work here.\\. Report back to the chief to get your reward."
-msgstr ""
+msgstr "У будь-якому випадку, дякую дівчинко.\\. Ти виконала чудову роботу.\\. Відзвітуйся шефу, щоб отримати нагороду."
 
 #. data/maps/autumn/path-1.json entities/302/settings/npcStates/1/event/quest/40/message #333
 #. NPC thief-quest1
@@ -20683,7 +20690,7 @@ msgstr ""
 #: data/maps/autumn/path-1.json+entities/302/settings/npcStates/1/event/quest/40/message+%23333
 msgctxt "data/maps/autumn/path-1.json//entities/302/settings/npcStates/1/event/quest/40/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[киває]"
 
 #. data/maps/autumn/path-1.json entities/302/settings/npcStates/1/event/quest/42/message #346
 #. NPC thief-quest1
@@ -20692,7 +20699,7 @@ msgstr ""
 #: data/maps/autumn/path-1.json+entities/302/settings/npcStates/1/event/quest/42/message+%23346
 msgctxt "data/maps/autumn/path-1.json//entities/302/settings/npcStates/1/event/quest/42/message"
 msgid "Alright, off we go."
-msgstr ""
+msgstr "Гаразд, висуваємось."
 
 #. data/maps/autumn/path-1.json entities/306/settings/event/7/name #464
 #. EventTrigger thief-battlestart START IF tmp.startThiefScene && quest.rhg-1-pickpocket.task.5
@@ -20700,7 +20707,7 @@ msgstr ""
 #: data/maps/autumn/path-1.json+entities/306/settings/event/7/name+%23464
 msgctxt "data/maps/autumn/path-1.json//entities/306/settings/event/7/name"
 msgid "Shady Shorsh"
-msgstr ""
+msgstr "Дивний парубок"
 
 #. data/maps/autumn/path-1.json entities/306/settings/event/8/message #331
 #. EventTrigger thief-battlestart START IF tmp.startThiefScene && quest.rhg-1-pickpocket.task.5
@@ -20708,7 +20715,7 @@ msgstr ""
 #: data/maps/autumn/path-1.json+entities/306/settings/event/8/message+%23331
 msgctxt "data/maps/autumn/path-1.json//entities/306/settings/event/8/message"
 msgid "Hi!"
-msgstr ""
+msgstr "Привіт!"
 
 #. data/maps/autumn/path-1.json entities/306/settings/event/9/message #332
 #. EventTrigger thief-battlestart START IF tmp.startThiefScene && quest.rhg-1-pickpocket.task.5
@@ -20716,7 +20723,7 @@ msgstr ""
 #: data/maps/autumn/path-1.json+entities/306/settings/event/9/message+%23332
 msgctxt "data/maps/autumn/path-1.json//entities/306/settings/event/9/message"
 msgid "Ahhh, I'm sorry, I'm sorry, help meeee!"
-msgstr ""
+msgstr "Аххх, пробач, проббач, допоможи менііі!"
 
 #. data/maps/autumn/path-1.json entities/306/settings/event/10/message #408
 #. EventTrigger thief-battlestart START IF tmp.startThiefScene && quest.rhg-1-pickpocket.task.5
@@ -20724,7 +20731,7 @@ msgstr ""
 #: data/maps/autumn/path-1.json+entities/306/settings/event/10/message+%23408
 msgctxt "data/maps/autumn/path-1.json//entities/306/settings/event/10/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[киває]"
 
 #. data/maps/autumn/path-1.json entities/310/settings/analyzable/text #348
 #. NPC guard-pickpocketquest
