@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-05-17 22:28+0000\n"
+"PO-Revision-Date: 2022-05-20 15:31+0000\n"
 "Last-Translator: Bogdan <bbucko175@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.openkrosskod.org/projects/crosscode/database/uk/>\n"
 "Language: uk_UA\n"
@@ -6343,7 +6343,7 @@ msgstr ""
 #: data/database.json+commonEvents/emilie-hedgehag/event/1/message+%235785
 msgctxt "data/database.json//commonEvents/emilie-hedgehag/event/1/message"
 msgid "Let's see how those \\v[combat.name.hedgehog]s will fare!"
-msgstr ""
+msgstr "Подивімось, чого варті ці Дикобрази!"
 
 #. data/database.json commonEvents/emilie-snowman/event/0/message #5786
 #. IF party.alive.Emilie
@@ -8476,7 +8476,7 @@ msgstr ""
 #: data/database.json+commonEvents/emilie-hedgehog-end/event/0/thenStep/0/message+%233287
 msgctxt "data/database.json//commonEvents/emilie-hedgehog-end/event/0/thenStep/0/message"
 msgid "Voilà! Simple enough!"
-msgstr ""
+msgstr "Voilà (Вуаля)! Досить просто!"
 
 #. data/database.json commonEvents/emilie-hedgehog-end/event/0/elseStep/0/message #5815
 #. IF party.alive.Emilie && !newgame.sergey-hax
@@ -8973,7 +8973,7 @@ msgstr ""
 #: data/database.json+commonEvents/emilie-hedgehags2-end/event/0/thenStep/0/message+%2315797
 msgctxt "data/database.json//commonEvents/emilie-hedgehags2-end/event/0/thenStep/0/message"
 msgid "The hedgehags have returned, sharper and edgier than ever!"
-msgstr ""
+msgstr "Дикобрази повернулися, більш дикі та жвавіші, ніж будь-коли!"
 
 #. data/database.json commonEvents/emilie-volturbines/event/0/thenStep/0/message #12017
 #. IF party.alive.Emilie
@@ -25694,7 +25694,7 @@ msgstr ""
 #: data/database.json+enemies/hedgehog/name+%2344
 msgctxt "data/database.json//enemies/hedgehog/name"
 msgid "Hedgehag"
-msgstr ""
+msgstr "Дикобраз"
 
 #. data/database.json enemies/hedgehog/species #-4
 #: data/database.json+enemies/hedgehog/species+%23-4
@@ -25795,9 +25795,10 @@ msgstr ""
 
 #. data/database.json enemies/meerkat/name #61
 #: data/database.json+enemies/meerkat/name+%2361
+#, fuzzy
 msgctxt "data/database.json//enemies/meerkat/name"
 msgid "Rockin' Hillkat"
-msgstr ""
+msgstr "Гойдаючий горностай"
 
 #. data/database.json enemies/meerkat/species #-2
 #: data/database.json+enemies/meerkat/species+%23-2
@@ -33884,7 +33885,7 @@ msgstr "Скромний помічник"
 #: data/database.json+quests/my-first-quest/description+%2328
 msgctxt "data/database.json//quests/my-first-quest/description"
 msgid "A humble citizen has a quest for you! And it involves \\c[3]hitting things\\c[0]! Straightforward, isn't it?"
-msgstr "У скромного громадянина є квест для вас! І він містить \\c[3]мордобій\\c[0]! Просто, чи не так?"
+msgstr "У скромного громадянина є завдання для вас! І він містить \\c[3]мордобій\\c[0]! Просто, чи не так?"
 
 #. data/database.json quests/my-first-quest/briefing #11142
 #: data/database.json+quests/my-first-quest/briefing+%2311142
@@ -33896,7 +33897,7 @@ msgstr "Громадянин з радістю спостерігав за ти�
 #: data/database.json+quests/my-first-quest/tasks/0/task+%2342
 msgctxt "data/database.json//quests/my-first-quest/tasks/0/task"
 msgid "Defeat 10 \\c[3]\\v[combat.name.hedgehog]s\\c[0]"
-msgstr "Переможіть 10 \\c[3]Дикобразів\\c[0]"
+msgstr "Знищіть 10 \\c[3]Дикобразів\\c[0]"
 
 #. data/database.json quests/my-first-quest/tasks/1/task #3497
 #: data/database.json+quests/my-first-quest/tasks/1/task+%233497
