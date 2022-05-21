@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-05-21 17:28+0000\n"
+"PO-Revision-Date: 2022-05-22 09:10+0000\n"
 "Last-Translator: Bogdan <bbucko175@gmail.com>\n"
 "Language-Team: Ukrainian <https://weblate.openkrosskod.org/projects/crosscode/database/uk/>\n"
 "Language: uk_UA\n"
@@ -25721,13 +25721,13 @@ msgstr ""
 #: data/database.json+enemies/hedgehog-alt/name+%2347
 msgctxt "data/database.json//enemies/hedgehog-alt/name"
 msgid "Old Hedgehag"
-msgstr ""
+msgstr "Старий дикоборз"
 
 #. data/database.json enemies/hedgehog-alt/species #-1
 #: data/database.json+enemies/hedgehog-alt/species+%23-1
 msgctxt "data/database.json//enemies/hedgehog-alt/species"
 msgid "Mammal"
-msgstr ""
+msgstr "Cсавець"
 
 #. data/database.json enemies/hedgehog-alt/descriptions/0/text #-6
 #: data/database.json+enemies/hedgehog-alt/descriptions/0/text+%23-6
@@ -25736,6 +25736,8 @@ msgid ""
 "When a \\v[combat.name.hedgehog] becomes old, its needles acquire a red tint which strongly resembles rust. Much like its younger self it only attacks when threatened.\n"
 "However years of experience made it much more resilient and taught it to use its spinning attack to jump on aggressors."
 msgstr ""
+"Коли Дикобраз старіє, його голки набувають червоного відтінку, який сильно нагадує іржу. Як і його молодша версія, він атакує лише тоді, коли його провокують.\n"
+"Однак, багаторічний досвід зробив його більш життєздатним і навчив використовувати свою обертальну атаку, щоб застрибувати на агресорів."
 
 #. data/database.json enemies/autumn-fall.hedgehog-fall/name #5939
 #: data/database.json+enemies/autumn-fall.hedgehog-fall/name+%235939
@@ -25914,13 +25916,13 @@ msgstr ""
 #: data/database.json+enemies/buffalo/name+%2350
 msgctxt "data/database.json//enemies/buffalo/name"
 msgid "Mad Bovine"
-msgstr ""
+msgstr "Дикий бичара"
 
 #. data/database.json enemies/buffalo/species #-1
 #: data/database.json+enemies/buffalo/species+%23-1
 msgctxt "data/database.json//enemies/buffalo/species"
 msgid "Buff Mammal"
-msgstr ""
+msgstr "Ссавець бичара"
 
 #. data/database.json enemies/buffalo/descriptions/0/text #-3
 #: data/database.json+enemies/buffalo/descriptions/0/text+%23-3
@@ -25929,6 +25931,8 @@ msgid ""
 "This tanky buffalo creature looks like a mean meany but is actually a soft and fluffy fella. As long as you don't get on its wrong side. If you do you better get ready to feel the full wrath of its stomp and charge attacks. Its head is coated in a metal-like layer of skin that it uses to shield against attacks.\n"
 "Your only way out is to let it charge against a wall which will stun it for a short while, leaving it open for attacks from behind."
 msgstr ""
+"Ця витривала буйволоподібна істота виглядає неприязно, але насправді він м'який і пухнастий дружок. Доки ви не дізнаєтеся про його друге \"я\". Якщо це сталося, готуйтеся випробувати весь гнів його атак, що втоптують і гнівних атак. Його голова вкрита шаром шкіри, подібним до металу, який він використовує для захисту від атак.\n"
+"Ваш єдиний вихід - це дозволити йому вбігти у стіну, що ненадовго оглушити його та залишить відкритим для атак зі спини."
 
 #. data/database.json enemies/buffalo-alt/name #51
 #: data/database.json+enemies/buffalo-alt/name+%2351
@@ -33988,185 +33992,186 @@ msgstr ""
 #: data/database.json+quests/trailblaze-autumn/name+%233706
 msgctxt "data/database.json//quests/trailblaze-autumn/name"
 msgid "Autumn's Rise Trailblazing"
-msgstr ""
+msgstr "Першовідкривач Розквіту Осені"
 
 #. data/database.json quests/trailblaze-autumn/person #3707
 #: data/database.json+quests/trailblaze-autumn/person+%233707
 msgctxt "data/database.json//quests/trailblaze-autumn/person"
 msgid "Henry The Researcher"
-msgstr ""
+msgstr "Генрі-дослідник"
 
 #. data/database.json quests/trailblaze-autumn/description #3709
 #: data/database.json+quests/trailblaze-autumn/description+%233709
 msgctxt "data/database.json//quests/trailblaze-autumn/description"
 msgid "Henry the Researcher asked you to help him with his analysis of \\c[3]Autumn's Rise\\c[0] by exploring and probing the area."
-msgstr ""
+msgstr "Генрі-дослідник попросив вас допомогти йому з аналізом \\c[3]Розквіту Осені\\c[0], досліджуючи локацію та збираючи зразки."
 
 #. data/database.json quests/trailblaze-autumn/briefing #3710
 #: data/database.json+quests/trailblaze-autumn/briefing+%233710
 msgctxt "data/database.json//quests/trailblaze-autumn/briefing"
 msgid "You explored \\c[3]Autumn's Rise\\c[0] and presented the data to Henry. He was very pleased and hopes to work with you again soon."
-msgstr ""
+msgstr "Ви дослідили \\c[3]Розквіт Осені\\c[0] і надали дані Генрі. Він був дуже вдячний і сподівається невдовзі знову попрацювати з вами."
 
 #. data/database.json quests/trailblaze-autumn/tasks/0/task #3725
 #: data/database.json+quests/trailblaze-autumn/tasks/0/task+%233725
 msgctxt "data/database.json//quests/trailblaze-autumn/tasks/0/task"
 msgid "Finish the tasks Henry gave you"
-msgstr ""
+msgstr "Завершіть завдання, які Генрі вам дав"
 
 #. data/database.json quests/trailblaze-autumn/tasks/0/subtasks/0/text #3777
 #. QUEST
 #: data/database.json+quests/trailblaze-autumn/tasks/0/subtasks/0/text+%233777
 msgctxt "data/database.json//quests/trailblaze-autumn/tasks/0/subtasks/0/text"
 msgid "Finish the Collect Quest"
-msgstr ""
+msgstr "Завершіть завдання збору"
 
 #. data/database.json quests/trailblaze-autumn/tasks/0/subtasks/1/text #3875
 #. QUEST
 #: data/database.json+quests/trailblaze-autumn/tasks/0/subtasks/1/text+%233875
 msgctxt "data/database.json//quests/trailblaze-autumn/tasks/0/subtasks/1/text"
 msgid "Finish the Defeat Quest"
-msgstr ""
+msgstr "Завершіть завдання збору"
 
 #. data/database.json quests/trailblaze-autumn/tasks/0/subtasks/2/text #3876
 #. QUEST
 #: data/database.json+quests/trailblaze-autumn/tasks/0/subtasks/2/text+%233876
 msgctxt "data/database.json//quests/trailblaze-autumn/tasks/0/subtasks/2/text"
 msgid "Finish the Landmark Quest"
-msgstr ""
+msgstr "Завершіть завдання на орієнтири"
 
 #. data/database.json quests/trailblaze-autumn/tasks/0/subtasks/3/text #3877
 #. QUEST
 #: data/database.json+quests/trailblaze-autumn/tasks/0/subtasks/3/text+%233877
 msgctxt "data/database.json//quests/trailblaze-autumn/tasks/0/subtasks/3/text"
 msgid "Finish the Data Probe Quest"
-msgstr ""
+msgstr "Завершіть завдання із зондом"
 
 #. data/database.json quests/trailblaze-autumn/tasks/1/task #3796
 #: data/database.json+quests/trailblaze-autumn/tasks/1/task+%233796
 msgctxt "data/database.json//quests/trailblaze-autumn/tasks/1/task"
 msgid "Return to Henry in \\c[3]Autumn's Rise - Pathway 1\\c[0] to show him your findings"
-msgstr ""
+msgstr "Поверніться до Генрі в \\c[3]Розквіт Осені - Шлях 1\\c[0], щоб показати йому свої знахідки"
 
 #. data/database.json quests/trailblaze-autumn-1/name #3728
 #: data/database.json+quests/trailblaze-autumn-1/name+%233728
 msgctxt "data/database.json//quests/trailblaze-autumn-1/name"
 msgid "Autumn's Rise Collect"
-msgstr ""
+msgstr "Розквіт Осені - Збір"
 
 #. data/database.json quests/trailblaze-autumn-1/person #3729
 #: data/database.json+quests/trailblaze-autumn-1/person+%233729
 msgctxt "data/database.json//quests/trailblaze-autumn-1/person"
 msgid "Henry The Researcher"
-msgstr ""
+msgstr "Генрі-дослідник"
 
 #. data/database.json quests/trailblaze-autumn-1/description #3731
 #: data/database.json+quests/trailblaze-autumn-1/description+%233731
 msgctxt "data/database.json//quests/trailblaze-autumn-1/description"
 msgid "Collect the requested items for Henry in \\c[3]Autumn's Rise\\c[0]."
-msgstr ""
+msgstr "Зберіть потрібні для Генрі предмети в \\c[3]Розквіті Осені\\c[0]."
 
 #. data/database.json quests/trailblaze-autumn-1/briefing #3732
 #: data/database.json+quests/trailblaze-autumn-1/briefing+%233732
 msgctxt "data/database.json//quests/trailblaze-autumn-1/briefing"
 msgid "You found the requested items in \\c[3]Autumn's Rise\\c[0]"
-msgstr ""
+msgstr "Ви знайшли предмети, які слід зібрати в \\c[3]Розквіті Осені\\c[0]"
 
 #. data/database.json quests/trailblaze-autumn-1/tasks/0/task #3815
 #: data/database.json+quests/trailblaze-autumn-1/tasks/0/task+%233815
 msgctxt "data/database.json//quests/trailblaze-autumn-1/tasks/0/task"
 msgid "Find the items in \\c[3]\\v[area.autumn-area.name]\\c[0]"
-msgstr ""
+msgstr "Знайдіть предмети в \\c[3]Розквіті Осені\\c[0]"
 
 #. data/database.json quests/trailblaze-autumn-2/name #3781
 #: data/database.json+quests/trailblaze-autumn-2/name+%233781
 msgctxt "data/database.json//quests/trailblaze-autumn-2/name"
 msgid "Autumn's Rise Defeat"
-msgstr ""
+msgstr "Розквіт Осені - Розгром"
 
 #. data/database.json quests/trailblaze-autumn-2/person #3782
 #: data/database.json+quests/trailblaze-autumn-2/person+%233782
 msgctxt "data/database.json//quests/trailblaze-autumn-2/person"
 msgid "Henry The Researcher"
-msgstr ""
+msgstr "Генрі-дослідник"
 
 #. data/database.json quests/trailblaze-autumn-2/description #3784
 #: data/database.json+quests/trailblaze-autumn-2/description+%233784
 msgctxt "data/database.json//quests/trailblaze-autumn-2/description"
 msgid "Collect samples on different enemies by defeating them."
-msgstr ""
+msgstr "Зберіть зразки різних ворогів, перемагаючи їх."
 
 #. data/database.json quests/trailblaze-autumn-2/briefing #3785
 #: data/database.json+quests/trailblaze-autumn-2/briefing+%233785
 msgctxt "data/database.json//quests/trailblaze-autumn-2/briefing"
 msgid "You collected the data on the requested enemies."
-msgstr ""
+msgstr "Ви зібрали відомості про ворогів."
 
 #. data/database.json quests/trailblaze-autumn-2/tasks/0/task #3837
 #: data/database.json+quests/trailblaze-autumn-2/tasks/0/task+%233837
 msgctxt "data/database.json//quests/trailblaze-autumn-2/tasks/0/task"
 msgid "Defeat enemies in \\c[3]\\v[area.autumn-area.name]\\c[0]"
-msgstr ""
+msgstr "Переможіть ворогів у \\c[3]Розквіті Осені\\c[0]"
 
 #. data/database.json quests/trailblaze-autumn-3/name #3789
 #: data/database.json+quests/trailblaze-autumn-3/name+%233789
 msgctxt "data/database.json//quests/trailblaze-autumn-3/name"
 msgid "Autumn's Rise Landmarks"
-msgstr ""
+msgstr "Розквіт Осені - Орієнтири"
 
 #. data/database.json quests/trailblaze-autumn-3/person #3790
 #: data/database.json+quests/trailblaze-autumn-3/person+%233790
 msgctxt "data/database.json//quests/trailblaze-autumn-3/person"
 msgid "Henry The Researcher"
-msgstr ""
+msgstr "Генрі-дослідник"
 
 #. data/database.json quests/trailblaze-autumn-3/description #3792
 #: data/database.json+quests/trailblaze-autumn-3/description+%233792
 msgctxt "data/database.json//quests/trailblaze-autumn-3/description"
 msgid "Henry the Researcher asked you to find all the landmarks in \\c[3]Autumn's Rise\\c[0]."
-msgstr ""
+msgstr "Генрі-дослідник попросив вас знайти всі орієнтири в \\c[3]Розквіті Осені\\c[0]."
 
 #. data/database.json quests/trailblaze-autumn-3/briefing #3793
 #: data/database.json+quests/trailblaze-autumn-3/briefing+%233793
 msgctxt "data/database.json//quests/trailblaze-autumn-3/briefing"
 msgid "You found all Landmarks in \\c[3]Autumn's Rise\\c[0] for Henry."
-msgstr ""
+msgstr "Ви знайшли всі орієнтири в \\c[3]Розквіті Осені\\c[0] для Генрі."
 
 #. data/database.json quests/trailblaze-autumn-3/tasks/0/task #3830
 #: data/database.json+quests/trailblaze-autumn-3/tasks/0/task+%233830
 msgctxt "data/database.json//quests/trailblaze-autumn-3/tasks/0/task"
 msgid "Find all the landmarks in \\c[3]\\v[area.autumn-area.name]\\c[0]"
-msgstr ""
+msgstr "Знайдіть усі орієнтири в \\c[3]Розквіті Осені\\c[0]"
 
 #. data/database.json quests/trailblaze-autumn-4/name #3865
 #: data/database.json+quests/trailblaze-autumn-4/name+%233865
 msgctxt "data/database.json//quests/trailblaze-autumn-4/name"
 msgid "Autumn's Rise Data Probe"
-msgstr ""
+msgstr "Розквіт Осені - Зонд"
 
 #. data/database.json quests/trailblaze-autumn-4/person #3866
 #: data/database.json+quests/trailblaze-autumn-4/person+%233866
 msgctxt "data/database.json//quests/trailblaze-autumn-4/person"
 msgid "Henry the Researcher"
-msgstr ""
+msgstr "Генрі-дослідник"
 
 #. data/database.json quests/trailblaze-autumn-4/description #3868
 #: data/database.json+quests/trailblaze-autumn-4/description+%233868
 msgctxt "data/database.json//quests/trailblaze-autumn-4/description"
 msgid "Retrieve the data from a probe Henry installed in \\c[3]Pathway 6\\c[0] of \\c[3]Autumn's Rise\\c[0]. "
-msgstr ""
+msgstr "Отримайте дані з зонда, який Генрі встановив на \\c[3]Шляху 6\\c[0] в \\c[3]Розквіті Осені\\c[0]. "
 
 #. data/database.json quests/trailblaze-autumn-4/briefing #3869
 #: data/database.json+quests/trailblaze-autumn-4/briefing+%233869
 msgctxt "data/database.json//quests/trailblaze-autumn-4/briefing"
 msgid "You found and retrieved the data probe."
-msgstr ""
+msgstr "Ви знайшли та витягли дані із зонда."
 
 #. data/database.json quests/trailblaze-autumn-4/tasks/0/task #3874
 #: data/database.json+quests/trailblaze-autumn-4/tasks/0/task+%233874
+#, fuzzy
 msgctxt "data/database.json//quests/trailblaze-autumn-4/tasks/0/task"
 msgid "Find the probe in \\c[3]Pathway 6\\c[0] of \\c[3]\\v[area.autumn-area.name]\\c[0] using your \\c[3]Seeker Senses\\c[0]"
-msgstr ""
+msgstr "Знайдіть зонд на \\c[3]Шляху 6\\c[0] в \\c[3]Розквіті Осені\\c[0], використовуючи ваше \\c[3]чуття Шукача\\c[0]"
 
 #. data/database.json quests/round-and-round/name #178
 #: data/database.json+quests/round-and-round/name+%23178
