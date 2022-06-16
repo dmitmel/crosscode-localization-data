@@ -3,15 +3,16 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"POT-Revision-Date: 2022-04-19 22:43+0000\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2022-06-16 06:31+0000\n"
+"Last-Translator: Kevin Junior Neciosup Galeano <kjneciosup1@gmail.com>\n"
+"Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/enemies/es/>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0 (e2bc05b 2022-04-19)\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.5.3\n"
+"POT-Revision-Date: 2022-04-19 22:43+0000\n"
 
 #. data/enemies/arid/dice-mage.json actions/TrapActivate/0/text #7
 #. SHOW_AR_MSG
@@ -26,7 +27,7 @@ msgstr ""
 #: data/enemies/arid/element-turret-boss.json+actions/ShootShieldBall/4/thenStep/0/text+%235
 msgctxt "data/enemies/arid/element-turret-boss.json//actions/ShootShieldBall/4/thenStep/0/text"
 msgid "Elemental Shift"
-msgstr ""
+msgstr "Cambio elemental"
 
 #. data/enemies/arid/laser-catcher.json proxies/detector/action/3/elseStep/0/text #5
 #. GENERIC
@@ -35,7 +36,7 @@ msgstr ""
 #: data/enemies/arid/laser-catcher.json+proxies/detector/action/3/elseStep/0/text+%235
 msgctxt "data/enemies/arid/laser-catcher.json//proxies/detector/action/3/elseStep/0/text"
 msgid "No Evotars found."
-msgstr ""
+msgstr "No se encontraron Evotars."
 
 #. data/enemies/arid/shredder-cold.json actions/NotifyArea/2/text #4
 #. SHOW_AR_MSG
@@ -132,35 +133,35 @@ msgstr "Ataque++"
 #: data/enemies/arid/virus-cold.json+actions/SpawnVirus/4/text+%237
 msgctxt "data/enemies/arid/virus-cold.json//actions/SpawnVirus/4/text"
 msgid "Multiplying"
-msgstr ""
+msgstr "Multiplicando"
 
 #. data/enemies/arid/virus-heat.json actions/SpawnVirus/4/text #7
 #. SHOW_AR_MSG
 #: data/enemies/arid/virus-heat.json+actions/SpawnVirus/4/text+%237
 msgctxt "data/enemies/arid/virus-heat.json//actions/SpawnVirus/4/text"
 msgid "Multiplying"
-msgstr ""
+msgstr "Multiplicando"
 
 #. data/enemies/arid/virus-neutral.json actions/EnchantBreak/0/text #9
 #. SHOW_AR_MSG
 #: data/enemies/arid/virus-neutral.json+actions/EnchantBreak/0/text+%239
 msgctxt "data/enemies/arid/virus-neutral.json//actions/EnchantBreak/0/text"
 msgid "Anti-Virus"
-msgstr ""
+msgstr "Anti-Virus"
 
 #. data/enemies/arid/virus-neutral.json actions/EnchanterMerge/1/text #10
 #. SHOW_AR_MSG
 #: data/enemies/arid/virus-neutral.json+actions/EnchanterMerge/1/text+%2310
 msgctxt "data/enemies/arid/virus-neutral.json//actions/EnchanterMerge/1/text"
 msgid "Neutralizing!"
-msgstr ""
+msgstr "Neutralizante!"
 
 #. data/enemies/arid/virus-neutral.json actions/INIT/0/text #13
 #. SHOW_AR_MSG
 #: data/enemies/arid/virus-neutral.json+actions/INIT/0/text+%2313
 msgctxt "data/enemies/arid/virus-neutral.json//actions/INIT/0/text"
 msgid "asdasd + \\v[tmp.virus.spawn]"
-msgstr ""
+msgstr "asdasd + \\v[tmp.virus.spawn]"
 
 #. data/enemies/autumn-fall/ball.json actions/Init/0/thenStep/0/text #21
 #. IF test
