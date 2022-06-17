@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-06-17 09:01+0000\n"
+"PO-Revision-Date: 2022-06-18 07:33+0000\n"
 "Last-Translator: Kevin Junior Neciosup Galeano <kjneciosup1@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/lang/es/>\n"
 "Language: es_ES\n"
@@ -4949,14 +4949,13 @@ msgstr "Incrementa la velocidad en la que tu puntería se hace precisa."
 #, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/equip/descriptions/XP_ZERO"
 msgid "Disables exp gain from defeating enemies."
-msgstr "No conseguirás experiencia de las misiones ni por eliminar enemigos."
+msgstr "Deshabilita la experiencia conseguida por eliminar enemigos."
 
 #. data/lang/sc/gui.en_US.json labels/menu/equip/descriptions/XP_PLUS #0
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/descriptions/XP_PLUS+%230
-#, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/equip/descriptions/XP_PLUS"
 msgid "Increases amount of experience gained from defeating enemies."
-msgstr "Incrementa la cantidad de experiencia recibida al eliminar enemigos."
+msgstr "Incrementa la experiencia recibida al derrotar enemigos."
 
 #. data/lang/sc/gui.en_US.json labels/menu/equip/descriptions/RANGED_DMG #0
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/descriptions/RANGED_DMG+%230
@@ -6668,7 +6667,7 @@ msgstr "\\i[enemy-abstract]Abstracto"
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/enemies+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/stats/keys/enemies"
 msgid "Enemy Completion"
-msgstr "Enemigos Desbloqueados"
+msgstr "Progreso en Enemigos"
 
 #. data/lang/sc/gui.en_US.json labels/menu/stats/keys/damageGiven #0
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/damageGiven+%230
@@ -6698,7 +6697,7 @@ msgstr "Cantidad de Daño Recibido"
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/throws+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/stats/keys/throws"
 msgid "Total Balls Thrown"
-msgstr "Cantidad de Bolas Disparadas"
+msgstr "Bolas Disparadas"
 
 #. data/lang/sc/gui.en_US.json labels/menu/stats/keys/normalThrows #0
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/normalThrows+%230
@@ -6932,7 +6931,7 @@ msgstr "Disparos / Porcentaje de acierto"
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/dashTime+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/stats/keys/dashTime"
 msgid "Time Spent Dashing"
-msgstr "Tiempo Esquivando"
+msgstr "Tiempo transcurrido Esquivando"
 
 #. data/lang/sc/gui.en_US.json labels/menu/stats/keys/perfectDash #0
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/perfectDash+%230
@@ -6944,7 +6943,7 @@ msgstr "Esquives perfectos"
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/healed+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/stats/keys/healed"
 msgid "Total Amount of HP Healed"
-msgstr "Cantidad total de Salud recuperada"
+msgstr "Cantidad de Salud recuperada"
 
 #. data/lang/sc/gui.en_US.json labels/menu/stats/keys/maxDamage #0
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/maxDamage+%230
@@ -6966,10 +6965,9 @@ msgstr "Golpes cuerpo a cuerpo"
 
 #. data/lang/sc/gui.en_US.json labels/menu/stats/keys/items #0
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/items+%230
-#, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/stats/keys/items"
 msgid "Item Completion"
-msgstr "Objetos desbloqueados"
+msgstr "Progreso en Objetos"
 
 #. data/lang/sc/gui.en_US.json labels/menu/stats/keys/itemCons #0
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/itemCons+%230
@@ -7035,13 +7033,13 @@ msgstr "Consumibles usados"
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/dropsTotal+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/stats/keys/dropsTotal"
 msgid "Total Number of Drops"
-msgstr ""
+msgstr "Cantidad total de recursos obtenidos"
 
 #. data/lang/sc/gui.en_US.json labels/menu/stats/keys/dropsProps #0
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/dropsProps+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/stats/keys/dropsProps"
 msgid "Environment"
-msgstr ""
+msgstr "Ambiente"
 
 #. data/lang/sc/gui.en_US.json labels/menu/stats/keys/dropsEnemies #0
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/dropsEnemies+%230
@@ -7093,23 +7091,21 @@ msgstr "Objetos usados en intercambios"
 
 #. data/lang/sc/gui.en_US.json labels/menu/stats/keys/areas #0
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/areas+%230
-#, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/stats/keys/areas"
 msgid "Area Completion"
-msgstr "Áreas desbloqueadas"
+msgstr "Progreso en Áreas"
 
 #. data/lang/sc/gui.en_US.json labels/menu/stats/keys/landmarks #0
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/landmarks+%230
-#, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/stats/keys/landmarks"
 msgid "Landmark Completion"
-msgstr "Puntos de referencia desbloqueados"
+msgstr "Progreso en Puntos de referencia"
 
 #. data/lang/sc/gui.en_US.json labels/menu/stats/keys/lories #0
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/lories+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/stats/keys/lories"
 msgid "Encyclopedia Completion"
-msgstr ""
+msgstr "Progreso en las Entradas de Enciclopedia"
 
 #. data/lang/sc/gui.en_US.json labels/menu/stats/keys/loriesStory #0
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/loriesStory+%230
@@ -7151,7 +7147,7 @@ msgstr "\\i[lore-others]Otros"
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/enemyReports+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/stats/keys/enemyReports"
 msgid "Enemy Reports Completion"
-msgstr ""
+msgstr "Progreso en los Reportes de Enemigos"
 
 #. data/lang/sc/gui.en_US.json labels/menu/stats/keys/areasFound #0
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/areasFound+%230
@@ -7187,7 +7183,7 @@ msgstr "Número total de estadísticas en este menú"
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/chests+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/stats/keys/chests"
 msgid "Chests Completion"
-msgstr ""
+msgstr "Progreso con los Cofres"
 
 #. data/lang/sc/gui.en_US.json labels/menu/stats/keys/hiCount #0
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/hiCount+%230
@@ -7205,7 +7201,7 @@ msgstr "Cantidad de veces que Lea estuvo aburrida"
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/quests+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/stats/keys/quests"
 msgid "Quest Completion"
-msgstr ""
+msgstr "Progreso en Misiones"
 
 #. data/lang/sc/gui.en_US.json labels/menu/stats/keys/questTotal #0
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/questTotal+%230
@@ -7271,7 +7267,7 @@ msgstr "Número máximo de misiones activas simultáneas"
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/rewardExp+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/stats/keys/rewardExp"
 msgid "Total Exp gained through Quests"
-msgstr "Experiencia total conseguida por misiones"
+msgstr "Experiencia conseguida por misiones"
 
 #. data/lang/sc/gui.en_US.json labels/menu/stats/keys/rewardMoney #0
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/rewardMoney+%230
@@ -7343,7 +7339,7 @@ msgstr "Por agujeros"
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/respHighway+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/stats/keys/respHighway"
 msgid "By Highway"
-msgstr ""
+msgstr "por altura"
 
 #. data/lang/sc/gui.en_US.json labels/menu/stats/keys/words #0
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/words+%230
@@ -7361,7 +7357,7 @@ msgstr "Teletransportes usando el menú del mapa"
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/propsDestroyed+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/stats/keys/propsDestroyed"
 msgid "Environment Objects Destroyed"
-msgstr ""
+msgstr "Objetos Ambientales Destruidos"
 
 #. data/lang/sc/gui.en_US.json labels/menu/stats/keys/jumps #0
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/jumps+%230
@@ -7379,7 +7375,7 @@ msgstr "Número de habilidades aprendidas"
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/skillsPassive+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/stats/keys/skillsPassive"
 msgid "Passive"
-msgstr ""
+msgstr "Pasivas"
 
 #. data/lang/sc/gui.en_US.json labels/menu/stats/keys/skillsActive #0
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/skillsActive+%230
@@ -7391,7 +7387,7 @@ msgstr "Artes de Combate"
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/branches+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/stats/keys/branches"
 msgid "Number of Branches Switched"
-msgstr ""
+msgstr "Número de cambios de Habilidad"
 
 #. data/lang/sc/gui.en_US.json labels/menu/stats/keys/skillPoints #0
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/skillPoints+%230
@@ -7421,13 +7417,13 @@ msgstr "\\i[element-cold]Habilidades de hielo"
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/skillPoints3+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/stats/keys/skillPoints3"
 msgid "\\i[element-shock]Shock Tree"
-msgstr ""
+msgstr "\\i[element-shock]Habilidades de rayo"
 
 #. data/lang/sc/gui.en_US.json labels/menu/stats/keys/skillPoints4 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/skillPoints4+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/stats/keys/skillPoints4"
 msgid "\\i[element-wave]Wave Tree"
-msgstr ""
+msgstr "\\i[element-wave]Habilidades de pulso"
 
 #. data/lang/sc/gui.en_US.json labels/menu/stats/keys/expEnemies #0
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/expEnemies+%230
@@ -7493,7 +7489,7 @@ msgstr "Total de entradas de registro acumuladas"
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/gameBoots+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/stats/keys/gameBoots"
 msgid "Total Game Boots"
-msgstr ""
+msgstr "Total de veces que inicias del juego"
 
 #. data/lang/sc/gui.en_US.json labels/menu/stats/keys/randomNumber #0
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/randomNumber+%230
@@ -7511,7 +7507,7 @@ msgstr "Roturas de escudo sufridas"
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/tradersFound+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/stats/keys/tradersFound"
 msgid "Trader Completion"
-msgstr ""
+msgstr "Progreso con Comerciantes"
 
 #. data/lang/sc/gui.en_US.json labels/menu/stats/keys/traderTotal #0
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/traderTotal+%230
@@ -7523,13 +7519,13 @@ msgstr "Comerciantes encontrados"
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/dropsTotalPlants+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/stats/keys/dropsTotalPlants"
 msgid "Environment Objects Found"
-msgstr ""
+msgstr "Objetos Ambientales Encontrados"
 
 #. data/lang/sc/gui.en_US.json labels/menu/stats/keys/dropsCompleted #0
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/dropsCompleted+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/stats/keys/dropsCompleted"
 msgid "Completely Analyzed"
-msgstr ""
+msgstr "Completamente Analizado"
 
 #. data/lang/sc/gui.en_US.json labels/menu/stats/keys/arenaTime #0
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/arenaTime+%230
@@ -7553,7 +7549,7 @@ msgstr "Total de rondas terminadas"
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/arenaCompletion+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/stats/keys/arenaCompletion"
 msgid "Arena Completion"
-msgstr ""
+msgstr "Progreso en la Arena"
 
 #. data/lang/sc/gui.en_US.json labels/menu/stats/keys/roundsFailed #0
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/roundsFailed+%230
@@ -7565,7 +7561,7 @@ msgstr "Total de rondas fallidas"
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/rushDone+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/stats/keys/rushDone"
 msgid "Total Rush Clears"
-msgstr ""
+msgstr "Desafíos en Modo Rush Completados"
 
 #. data/lang/sc/gui.en_US.json labels/menu/stats/keys/arenaScore #0
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/arenaScore+%230
@@ -7655,7 +7651,7 @@ msgstr "Circuitos"
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/groups/questAreas+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/stats/groups/questAreas"
 msgid "Quest Completion by Area"
-msgstr ""
+msgstr "Progreso en las Misiones por Área"
 
 #. data/lang/sc/gui.en_US.json labels/menu/stats/groups/trades #0
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/groups/trades+%230
@@ -8219,13 +8215,13 @@ msgstr "\\c[3]Menú de Circuito\\c[0] - Vista detallada"
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/circuit/pages/1/content/0+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/circuit/pages/1/content/0"
 msgid "Use \\i[key-up]\\i[key-left]\\i[key-down]\\i[key-right] or drag the mouse to move around the skill tree."
-msgstr ""
+msgstr "Usa \\i[key-up]\\i[key-left]\\i[key-down]\\i[key-right] o arrastre el cursor para moverse por el árbol de habilidades."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/circuit/pages/1/content/1 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/circuit/pages/1/content/1+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/circuit/pages/1/content/1"
 msgid "With the gamepad you can use \\i[left-stick] to move the cursor around and \\i[right-stick] to just move the camera."
-msgstr ""
+msgstr "Con el gamepad puedes usar \\i[left-stick] para mover el cursor y \\i[right-stick] para mover la cámara."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/circuit/pages/1/content/2 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/circuit/pages/1/content/2+%230
@@ -8237,79 +8233,79 @@ msgstr "......"
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/circuit/pages/1/content/3+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/circuit/pages/1/content/3"
 msgid "Hover over a skill to see what it does and how many CP you need to activate it."
-msgstr ""
+msgstr "Pase el cursor sobre una habilidad para ver qué hace y cuántos Puntos de Circuito necesitas para activarla."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/circuit/pages/1/content/4 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/circuit/pages/1/content/4+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/circuit/pages/1/content/4"
 msgid "Note that in order to activate a skill you must first unlock its parent. Alternatively you can activate all parent skills provided you have enough CP. In that case the button will display the text \\c[3]Activate All\\c[0]."
-msgstr ""
+msgstr "Tenga en cuenta que para activar una habilidad, primero debe desbloquear las anteriores a él. En todo caso, puedes activar todas las habilidades hasta esta siempre que tengas suficientes Puntos de Circuito. En ese caso, se mostrará el botón \\c[3]Activar todo\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/circuit/pages/2/title #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/circuit/pages/2/title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/circuit/pages/2/title"
 msgid "\\c[3]Circuit Menu\\c[0] - Branches"
-msgstr ""
+msgstr "\\c[3]Menú del Circuito\\c[0] - Ramas"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/circuit/pages/2/content/0 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/circuit/pages/2/content/0+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/circuit/pages/2/content/0"
 msgid "Notice the branches on some paths along the skill tree? Those always offer 2 ways and you can only walk on one of them."
-msgstr ""
+msgstr "¿Puedes ver algunas ramas en del árbol de habilidades? Están en grupos de 2 ramas y solo puedes activar una de ellas a la vez."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/circuit/pages/2/content/1 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/circuit/pages/2/content/1+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/circuit/pages/2/content/1"
 msgid "However you can \\c[3]switch between both paths at any time without spending any additional points\\c[0] as long as you have a skill activated on one of the branch paths."
-msgstr ""
+msgstr "Sin embargo, puedes \\c[3]cambiar entre ambas ramas en cualquier momento sin gastar puntos adicionales\\c[0] siempre y cuando tengas una de ellas activada."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/circuit/pages/2/content/2 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/circuit/pages/2/content/2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/circuit/pages/2/content/2"
 msgid "By pressing \\i[help2] you can enter a special swap mode in the overview where you can quickly swap branches. Just select a panel and press it to swap the skills!"
-msgstr ""
+msgstr "Al presionar \\i[help2], ingresarás a un modo resumido donde podrás intercambiar ramas fácilmente. ¡Solo selecciona un panel y presiónalo para hacer un cambio de habilidad!"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/circuit/pages/3/title #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/circuit/pages/3/title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/circuit/pages/3/title"
 msgid "\\c[3]Circuit Menu\\c[0] - Combat Arts"
-msgstr ""
+msgstr "\\c[3]Menú del Circuito\\c[0] - Artes de Combate"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/circuit/pages/3/content/0 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/circuit/pages/3/content/0+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/circuit/pages/3/content/0"
 msgid "The aforementioned branches always contain at least one \\c[3]Combat Art\\c[0] on each way, which you can recognize by their \\c[3]light-grey background\\c[0]."
-msgstr ""
+msgstr "Las ramas antes mencionadas siempre tendrán al menos un \\c[3]Arte de Combate\\c[0], los podrás reconocer por su \\c[3]fondo gris claro\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/circuit/pages/3/content/1 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/circuit/pages/3/content/1+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/circuit/pages/3/content/1"
 msgid "......"
-msgstr ""
+msgstr "......"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/circuit/pages/3/content/2 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/circuit/pages/3/content/2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/circuit/pages/3/content/2"
 msgid "Those Combat Arts are skills that don't increase your parameters but instead allow you to perform special abilities during combat, in exchange for \\c[3]Special Points (SP)\\c[0]."
-msgstr ""
+msgstr "Estos Artes de Combate son habilidades que no aumentan tus parámetros, sino que te permiten realizar habilidades especiales durante el combate, a cambio de \\c[3]Puntos de Energía (PE)\\c[0]."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/circuit/pages/3/content/3 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/circuit/pages/3/content/3+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/circuit/pages/3/content/3"
 msgid "......"
-msgstr ""
+msgstr "......"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/circuit/pages/3/content/4 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/circuit/pages/3/content/4+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/circuit/pages/3/content/4"
 msgid "Combat Arts can greatly increase your chances in battle, so it is advised that you learn at least one of them as quickly as possible!"
-msgstr ""
+msgstr "Las Artes de Combate aumentan considerablemente tus posibilidades en la batalla, ¡Aprende al menos una de ellas lo más rápido posible!"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/map/title #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/map/title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/map/title"
 msgid "\\c[3]Map Menu\\c[0]"
-msgstr ""
+msgstr "\\c[3]Menú del Mapa\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/map/pages/0/content/0 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/map/pages/0/content/0+%230
@@ -9027,10 +9023,9 @@ msgstr "También puedes usar \\i[left] o \\i[right] o \\i[right-stick] en el gam
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/lore/pages/1/title #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/lore/pages/1/title+%230
-#, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/lore/pages/1/title"
 msgid "\\c[3]Encyclopedia\\c[0] - Unlocking Lore Entries"
-msgstr "\\c[3]Enciclopedia\\c[0] - Desbloqueo de la historia"
+msgstr "\\c[3]Enciclopedia\\c[0] - Desbloqueando la historia"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/lore/pages/1/content/0 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/lore/pages/1/content/0+%230
@@ -9052,7 +9047,6 @@ msgstr "\\c[3][Notas de Sergey]\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/lore/pages/1/content/3 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/lore/pages/1/content/3+%230
-#, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/lore/pages/1/content/3"
 msgid "I added some extra code here for you, Lea. Next to the in-game categories I added one for your progress and one for characters."
 msgstr "Agregué un código adicional aquí para ti, Lea. Ahora podrás anotar tu progreso y podrás guardar información de las personas que conozcas en CrossWorld."
@@ -9067,13 +9061,13 @@ msgstr "¡Insertaré tu progreso por ti, seré una especie de diario personal!"
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/enemy/title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/enemy/title"
 msgid "\\c[3]Monster Fibula\\c[0]"
-msgstr ""
+msgstr "\\c[3]Bestiario\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/enemy/pages/0/content/0 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/enemy/pages/0/content/0+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/enemy/pages/0/content/0"
 msgid "Welcome to the Monster Fibula!"
-msgstr ""
+msgstr "¡Bienvenido al Bestiario!"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/enemy/pages/0/content/1 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/enemy/pages/0/content/1+%230
@@ -9115,14 +9109,13 @@ msgstr "Si encuentras la etiqueta \"Especial\" sobre un enemigo, significa que l
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/enemy/pages/1/title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/enemy/pages/1/title"
 msgid "\\c[3]Monster Fibula\\c[0] - Reports"
-msgstr ""
+msgstr "\\c[3]Bestiario\\c[0] - Reportes"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/enemy/pages/1/content/0 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/enemy/pages/1/content/0+%230
-#, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/enemy/pages/1/content/0"
 msgid "Reports are unlocked by first defeating an enemy a certain amount of times."
-msgstr "Luego de derrotar un enemigo repetidas veces, desbloquearás un reporte detallado."
+msgstr "Luego de derrotar un enemigo repetidas veces, desbloquearás un reporte, información detallada del enemigo."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/enemy/pages/1/content/1 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/enemy/pages/1/content/1+%230
@@ -9158,13 +9151,13 @@ msgstr "Se desbloquean informes adicionales a través de varias tareas, como der
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/traders/title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/traders/title"
 msgid "\\c[3]Trader Book\\c[0]"
-msgstr ""
+msgstr "\\c[3]Lista de Comerciantes\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/traders/pages/0/content/0 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/traders/pages/0/content/0+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/traders/pages/0/content/0"
 msgid "Welcome to the Trader Book!"
-msgstr ""
+msgstr "¡Bienvenido a la Lista de Comerciantes!"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/traders/pages/0/content/1 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/traders/pages/0/content/1+%230
@@ -9434,7 +9427,7 @@ msgstr "\\c[3]Menú del equipo\\c[0]"
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/social/pages/0/content/0+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/social/pages/0/content/0"
 msgid "Welcome to the Party Menu!"
-msgstr ""
+msgstr "¡Bienvenido al Menú del Equipo!"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/social/pages/0/content/1 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/social/pages/0/content/1+%230
@@ -9446,7 +9439,7 @@ msgstr "......"
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/social/pages/0/content/2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/social/pages/0/content/2"
 msgid "In this menu you can invite/remove other players into your party or contact them."
-msgstr "En este menú puedes invitar/remover otros jugadores a tu equipo o contactarlos."
+msgstr "En este menú puedes invitar/echar otros jugadores a tu equipo o contactarlos."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/social/pages/0/content/3 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/social/pages/0/content/3+%230
@@ -9464,7 +9457,7 @@ msgstr "...."
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/social/pages/0/content/5+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/social/pages/0/content/5"
 msgid "Click on a slot or press \\i[gamepad-a] on the gamepad to invite/remove the player."
-msgstr "Haz clic en una ranura o presiona \\i[gamepad-a] en el gamepad para invitar/remover al jugador."
+msgstr "Haz clic en una ranura o presiona \\i[gamepad-a] en el gamepad para invitar/echar al jugador."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/social/pages/0/content/6 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/social/pages/0/content/6+%230
@@ -10468,7 +10461,7 @@ msgstr "Arena"
 #: data/lang/sc/gui.en_US.json+labels/options/headers/logLevel+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/headers/logLevel"
 msgid "Log levels"
-msgstr ""
+msgstr "Niveles de Registro"
 
 #. data/lang/sc/gui.en_US.json labels/options/arena-confirm/name #0
 #: data/lang/sc/gui.en_US.json+labels/options/arena-confirm/name+%230
@@ -11878,253 +11871,253 @@ msgstr "\\c[3]CrossCode\\c[0] está diseñado con \\c[3]desafío\\c[0] en mente.
 #: data/lang/sc/gui.en_US.json+labels/options/logLevel-log/name+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-log/name"
 msgid "Log level: Default"
-msgstr ""
+msgstr "Nivel de Registro: Por defecto"
 
 #. data/lang/sc/gui.en_US.json labels/options/logLevel-log/description #0
 #: data/lang/sc/gui.en_US.json+labels/options/logLevel-log/description+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-log/description"
 msgid "Enables default message popups. \\c[1]Needs a restart!"
-msgstr ""
+msgstr "Habilita los mensajes predeterminados. \\c[1]¡Necesita reiniciar!"
 
 #. data/lang/sc/gui.en_US.json labels/options/logLevel-warn/name #0
 #: data/lang/sc/gui.en_US.json+labels/options/logLevel-warn/name+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-warn/name"
 msgid "Log level: Warnings"
-msgstr ""
+msgstr "Nivel de Registro: Advertencias"
 
 #. data/lang/sc/gui.en_US.json labels/options/logLevel-warn/description #0
 #: data/lang/sc/gui.en_US.json+labels/options/logLevel-warn/description+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-warn/description"
 msgid "Enables warning popups. \\c[1]Needs a restart!"
-msgstr ""
+msgstr "Habilita los mensajes de advertencia. \\c[1]¡Necesita reiniciar!"
 
 #. data/lang/sc/gui.en_US.json labels/options/logLevel-error/name #0
 #: data/lang/sc/gui.en_US.json+labels/options/logLevel-error/name+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-error/name"
 msgid "Log level: Errors"
-msgstr ""
+msgstr "Nivel de Registro: Errores"
 
 #. data/lang/sc/gui.en_US.json labels/options/logLevel-error/description #0
 #: data/lang/sc/gui.en_US.json+labels/options/logLevel-error/description+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/logLevel-error/description"
 msgid "Enables error popups. \\c[1]Needs a restart!"
-msgstr ""
+msgstr "Habilita los mensajes de error. \\c[1]¡Necesita reiniciar!"
 
 #. data/lang/sc/gui.en_US.json labels/options/mods-description/description #0
 #: data/lang/sc/gui.en_US.json+labels/options/mods-description/description+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/options/mods-description/description"
 msgid "In this menu you can \\c[3]enable or disable installed mods\\c[0]. Mod descriptions are shown below. \\c[1]The game needs to be restarted\\c[0] if you change any options here!"
-msgstr ""
+msgstr "En este menú puedes \\c[3]habilitar o deshabilitar los mods instalados\\c[0]. Las descripciones de los mods se muestran a continuación. \\c[1]¡El juego debe reiniciarse\\c[0] si cambia alguna opción aquí!"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/pre #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/pre+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/pre"
 msgid "Can thee not seeth yond i am singing?"
-msgstr ""
+msgstr "¿No puedes ver nada más allá de mi canto?"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/start #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/start+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/start"
 msgid "Thou"
-msgstr ""
+msgstr "Tú,"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/0 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/0+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/0"
 msgid "artless"
-msgstr ""
+msgstr "tosco"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/1 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/1+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/1"
 msgid "bawdy"
-msgstr ""
+msgstr "obsceno"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/2 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/2"
 msgid "beslubbering"
-msgstr ""
+msgstr "adormilado"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/3 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/3+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/3"
 msgid "bootless"
-msgstr ""
+msgstr "inútil"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/4 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/4+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/4"
 msgid "churlish"
-msgstr ""
+msgstr "grosero"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/5 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/5+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/5"
 msgid "cockered"
-msgstr ""
+msgstr "engreído"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/6 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/6+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/6"
 msgid "clouted"
-msgstr ""
+msgstr "golpeado"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/7 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/7+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/7"
 msgid "craven"
-msgstr ""
+msgstr "cobarde"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/8 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/8+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/8"
 msgid "currish"
-msgstr ""
+msgstr "bruto"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/9 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/9+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/9"
 msgid "dankish"
-msgstr ""
+msgstr "húmedo"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/10 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/10+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/10"
 msgid "dissembling"
-msgstr ""
+msgstr "disimulando"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/11 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/11+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/11"
 msgid "droning"
-msgstr ""
+msgstr "zumbido"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/12 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/12+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/12"
 msgid "errant"
-msgstr ""
+msgstr "errante"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/13 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/13+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/13"
 msgid "fawning"
-msgstr ""
+msgstr "alago"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/14 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/14+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/14"
 msgid "fobbing"
-msgstr ""
+msgstr "engaño"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/15 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/15+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/15"
 msgid "froward"
-msgstr ""
+msgstr "desorientado"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/16 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/16+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/16"
 msgid "frothy"
-msgstr ""
+msgstr "espumoso"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/17 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/17+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/17"
 msgid "gleeking"
-msgstr ""
+msgstr "brillante"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/18 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/18+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/18"
 msgid "goatish"
-msgstr ""
+msgstr "lujurioso"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/19 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/19+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/19"
 msgid "gorbellied"
-msgstr ""
+msgstr "mórbido"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/20 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/20+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/20"
 msgid "impertinent"
-msgstr ""
+msgstr "impertinente"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/21 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/21+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/21"
 msgid "infectious"
-msgstr ""
+msgstr "infeccioso"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/22 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/22+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/22"
 msgid "jarring"
-msgstr ""
+msgstr "discorde"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/23 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/23+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/23"
 msgid "loggerheaded"
-msgstr ""
+msgstr "entercado"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/24 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/24+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/24"
 msgid "lumpish"
-msgstr ""
+msgstr "estúpido"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/25 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/25+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/25"
 msgid "mammering"
-msgstr ""
+msgstr "martilleando"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/26 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/26+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/26"
 msgid "mangled"
-msgstr ""
+msgstr "desfigurado"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/27 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/27+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/27"
 msgid "mewling"
-msgstr ""
+msgstr "quejido"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/28 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/28+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/28"
 msgid "paunchy"
-msgstr ""
+msgstr "barrigón"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/29 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/29+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/29"
 msgid "pribbling"
-msgstr ""
+msgstr "discutiendo en vano"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/30 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/30+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/30"
 msgid "puking"
-msgstr ""
+msgstr "vomitando"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/31 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/31+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/31"
 msgid "puny"
-msgstr ""
+msgstr "pequeñito"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/32 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/32+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/32"
 msgid "qualling"
-msgstr ""
+msgstr "desanimando"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/33 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/33+%230
@@ -12136,715 +12129,719 @@ msgstr "rango"
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/34+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/34"
 msgid "reeky"
-msgstr ""
+msgstr "humeante"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/35 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/35+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/35"
 msgid "roguish"
-msgstr ""
+msgstr "seductor"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/36 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/36+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/36"
 msgid "ruttish"
-msgstr ""
+msgstr "lascivo"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/37 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/37+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/37"
 msgid "saucy"
-msgstr ""
+msgstr "imprudente"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/38 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/38+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/38"
 msgid "spleeny"
-msgstr ""
+msgstr "malhumorado"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/39 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/39+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/39"
 msgid "spongy"
-msgstr ""
+msgstr "comprensible"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/40 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/40+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/40"
 msgid "surly"
-msgstr ""
+msgstr "malhumorado"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/41 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/41+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/41"
 msgid "tottering"
-msgstr ""
+msgstr "inestable"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/42 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/42+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/42"
 msgid "unmuzzled"
-msgstr ""
+msgstr "sin bozal"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/43 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/43+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/43"
 msgid "vain"
-msgstr ""
+msgstr "en vano"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/44 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/44+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/44"
 msgid "venomed"
-msgstr ""
+msgstr "envenenado"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/45 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/45+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/45"
 msgid "villainous"
-msgstr ""
+msgstr "malvado"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/46 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/46+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/46"
 msgid "warped"
-msgstr ""
+msgstr "anormal"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/47 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/47+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/47"
 msgid "wayward"
-msgstr ""
+msgstr "rebelde"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/48 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/48+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/48"
 msgid "weedy"
-msgstr ""
+msgstr "flaqucho"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/first/49 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/first/49+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/first/49"
 msgid "yeety"
-msgstr ""
+msgstr "despreocupado"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/0 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/0+%230
+#, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/0"
 msgid "base-court"
-msgstr ""
+msgstr "patio trasero/tribunal inferior"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/1 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/1+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/1"
 msgid "bat-fowling"
-msgstr ""
+msgstr "cazando pájaros"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/2 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/2"
 msgid "beef-witted"
-msgstr ""
+msgstr "menso"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/3 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/3+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/3"
 msgid "beetle-headed"
-msgstr ""
+msgstr "estúpido"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/4 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/4+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/4"
 msgid "boil-brained"
-msgstr ""
+msgstr "testarudo"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/5 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/5+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/5"
 msgid "clapper-clawed"
-msgstr ""
+msgstr "arañado"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/6 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/6+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/6"
 msgid "clay-brained"
-msgstr ""
+msgstr "tarado"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/7 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/7+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/7"
 msgid "common-kissing"
-msgstr ""
+msgstr "besuqueo"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/8 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/8+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/8"
 msgid "crook-pated"
-msgstr ""
+msgstr "torcido"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/9 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/9+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/9"
 msgid "dismal-dreaming"
-msgstr ""
+msgstr "sueños tristes"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/10 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/10+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/10"
 msgid "dizzy-eyed"
-msgstr ""
+msgstr "mareado"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/11 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/11+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/11"
 msgid "doghearted"
-msgstr ""
+msgstr "cruel"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/12 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/12+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/12"
 msgid "dread-bolted"
-msgstr ""
+msgstr "temible"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/13 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/13+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/13"
 msgid "earth-vexing"
-msgstr ""
+msgstr "afligiendo"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/14 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/14+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/14"
 msgid "elf-skinned"
-msgstr ""
+msgstr "cara arrugada"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/15 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/15+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/15"
 msgid "fat-kidneyed"
-msgstr ""
+msgstr "obsoleto"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/16 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/16+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/16"
 msgid "fen-sucked"
-msgstr ""
+msgstr "cargado de hombros"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/17 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/17+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/17"
 msgid "flap-mouthed"
-msgstr ""
+msgstr "boquiabierto"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/18 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/18+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/18"
 msgid "fly-bitten"
-msgstr ""
+msgstr "picado por moscas"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/19 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/19+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/19"
 msgid "folly-fallen"
-msgstr ""
+msgstr "Entercándose"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/20 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/20+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/20"
 msgid "fool-born"
-msgstr ""
+msgstr "Estúpido de nacimiento"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/21 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/21+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/21"
 msgid "full-gorged"
-msgstr ""
+msgstr "gordo"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/22 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/22+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/22"
 msgid "guts-griping"
-msgstr ""
+msgstr "desgarramiento"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/23 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/23+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/23"
 msgid "half-faced"
-msgstr ""
+msgstr "descubierto"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/24 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/24+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/24"
 msgid "hasty-witted"
-msgstr ""
+msgstr "apresurado"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/25 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/25+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/25"
 msgid "hedge-born"
-msgstr ""
+msgstr "Nacido apresuradamente"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/26 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/26+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/26"
 msgid "hell-hated"
-msgstr ""
+msgstr "odiado a muerte"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/27 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/27+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/27"
 msgid "idle-headed"
-msgstr ""
+msgstr "perezoso"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/28 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/28+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/28"
 msgid "ill-breeding"
-msgstr ""
+msgstr "malcriado"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/29 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/29+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/29"
 msgid "ill-nurtured"
-msgstr ""
+msgstr "maleducado"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/30 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/30+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/30"
 msgid "knotty-pated"
-msgstr ""
+msgstr "cabeza hueca"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/31 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/31+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/31"
 msgid "milk-livered"
-msgstr ""
+msgstr "cobarde"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/32 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/32+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/32"
 msgid "motley-minded"
-msgstr ""
+msgstr "confundido"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/33 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/33+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/33"
 msgid "onion-eyed"
-msgstr ""
+msgstr "lloroso"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/34 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/34+%230
+#, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/34"
 msgid "plume-plucked"
-msgstr ""
+msgstr "humillado/desplumado"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/35 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/35+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/35"
 msgid "pottle-deep"
-msgstr ""
+msgstr "profundo"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/36 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/36+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/36"
 msgid "pox-marked"
-msgstr ""
+msgstr "cubierto de granos"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/37 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/37+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/37"
 msgid "reeling-ripe"
-msgstr ""
+msgstr "muy ebrio"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/38 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/38+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/38"
 msgid "rough-hewn"
-msgstr ""
+msgstr "devastado"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/39 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/39+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/39"
 msgid "rude-growing"
-msgstr ""
+msgstr "salvaje"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/40 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/40+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/40"
 msgid "rump-fed"
-msgstr ""
+msgstr "alimentado con sobras"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/41 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/41+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/41"
 msgid "shard-borne"
-msgstr ""
+msgstr "dividido"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/42 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/42+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/42"
 msgid "sheep-biting"
-msgstr ""
+msgstr "desprecio"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/43 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/43+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/43"
 msgid "spur-galled"
-msgstr ""
+msgstr "acosado"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/44 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/44+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/44"
 msgid "swag-bellied"
-msgstr ""
+msgstr "barrigudo"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/45 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/45+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/45"
 msgid "tardy-gaited"
-msgstr ""
+msgstr "paso lento"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/46 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/46+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/46"
 msgid "tickle-brained"
-msgstr ""
+msgstr "cerebro inestable"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/47 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/47+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/47"
 msgid "toad-spotted"
-msgstr ""
+msgstr "infame"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/48 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/48+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/48"
 msgid "unchin-snouted"
-msgstr ""
+msgstr "hocico de erizo"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/second/49 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/second/49+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/second/49"
 msgid "weather-bitten"
-msgstr ""
+msgstr "decaído por el clima"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/0 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/0+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/0"
 msgid "apple-john"
-msgstr ""
+msgstr "manzana seca y dulce"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/1 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/1+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/1"
 msgid "baggage"
-msgstr ""
+msgstr "equipaje"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/2 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/2+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/2"
 msgid "barnacle"
-msgstr ""
+msgstr "percebe"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/3 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/3+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/3"
 msgid "bladder"
-msgstr ""
+msgstr "vejiga"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/4 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/4+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/4"
 msgid "boar-pig"
-msgstr ""
+msgstr "jabalí"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/5 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/5+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/5"
 msgid "bugbear"
-msgstr ""
+msgstr "pesadilla"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/6 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/6+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/6"
 msgid "bum-bailey"
-msgstr ""
+msgstr "mendigante"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/7 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/7+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/7"
 msgid "canker-blossom"
-msgstr ""
+msgstr "envidioso"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/8 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/8+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/8"
 msgid "clack-dish"
-msgstr ""
+msgstr "mendigando"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/9 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/9+%230
+#, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/9"
 msgid "clotpole"
-msgstr ""
+msgstr "muy estúpido/coágulo"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/10 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/10+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/10"
 msgid "coxcomb"
-msgstr ""
+msgstr "fatuo"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/11 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/11+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/11"
 msgid "codpiece"
-msgstr ""
+msgstr "bragueta"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/12 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/12+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/12"
 msgid "death-token"
-msgstr ""
+msgstr "señal de muerte"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/13 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/13+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/13"
 msgid "dewberry"
-msgstr ""
+msgstr "bayas dulces"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/14 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/14+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/14"
 msgid "flap-dragon"
-msgstr ""
+msgstr "lanzar brasas"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/15 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/15+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/15"
 msgid "flax-wench"
-msgstr ""
+msgstr "prostituta"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/16 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/16+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/16"
 msgid "flirt-gill"
-msgstr ""
+msgstr "coquetear"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/17 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/17+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/17"
 msgid "foot-licker"
-msgstr ""
+msgstr "adulador"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/18 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/18+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/18"
 msgid "fustilarian"
-msgstr ""
+msgstr "pesado y torpe"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/19 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/19+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/19"
 msgid "giglet"
-msgstr ""
+msgstr "risita"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/20 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/20+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/20"
 msgid "gudgeon"
-msgstr ""
+msgstr "albur"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/21 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/21+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/21"
 msgid "haggard"
-msgstr ""
+msgstr "demacrado"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/22 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/22+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/22"
 msgid "harpy"
-msgstr ""
+msgstr "arpía"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/23 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/23+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/23"
 msgid "hedge-pig"
-msgstr ""
+msgstr "bebe erizo"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/24 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/24+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/24"
 msgid "horn-beast"
-msgstr ""
+msgstr "bestia cornuda"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/25 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/25+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/25"
 msgid "hugger-mugger"
-msgstr ""
+msgstr "robo arrinconado"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/26 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/26+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/26"
 msgid "joithead"
-msgstr ""
+msgstr "jorobado"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/27 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/27+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/27"
 msgid "lewdster"
-msgstr ""
+msgstr "lascivo"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/28 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/28+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/28"
 msgid "lout"
-msgstr ""
+msgstr "patán"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/29 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/29+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/29"
 msgid "maggot-pie"
-msgstr ""
+msgstr "pastel de gusanos"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/30 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/30+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/30"
 msgid "malt-worm"
-msgstr ""
+msgstr "alcohólico"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/31 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/31+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/31"
 msgid "mammet"
-msgstr ""
+msgstr "dios falso"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/32 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/32+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/32"
 msgid "measle"
-msgstr ""
+msgstr "sarampión"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/33 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/33+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/33"
 msgid "minnow"
-msgstr ""
+msgstr "pececillo"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/34 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/34+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/34"
 msgid "miscreant"
-msgstr ""
+msgstr "sinvergüenza"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/35 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/35+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/35"
 msgid "moldwarp"
-msgstr ""
+msgstr "topo"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/36 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/36+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/36"
 msgid "mumble-news"
-msgstr ""
+msgstr "chismoso"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/37 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/37+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/37"
 msgid "nut-hook"
-msgstr ""
+msgstr "cascanueces"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/38 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/38+%230
+#, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/38"
 msgid "pigeon-egg"
-msgstr ""
+msgstr "huevo de paloma/insignificante"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/39 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/39+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/39"
 msgid "pignut"
-msgstr ""
+msgstr "nuez de nogal"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/40 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/40+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/40"
 msgid "puttock"
-msgstr ""
+msgstr "ave rapaz"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/41 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/41+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/41"
 msgid "pumpion"
-msgstr ""
+msgstr "calabacín"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/42 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/42+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/42"
 msgid "ratsbane"
-msgstr ""
+msgstr "peste"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/43 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/43+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/43"
 msgid "scut"
-msgstr ""
+msgstr "rabillo"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/44 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/44+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/44"
 msgid "skainsmate"
-msgstr ""
+msgstr "comparo de rancho"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/45 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/45+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/45"
 msgid "strumpet"
-msgstr ""
+msgstr "ramera"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/46 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/46+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/46"
 msgid "varlot"
-msgstr ""
+msgstr "bribón"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/47 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/47+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/47"
 msgid "vassal"
-msgstr ""
+msgstr "vasallo"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/48 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/48+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/48"
 msgid "whey-face"
-msgstr ""
+msgstr "pálido del susto"
 
 #. data/lang/sc/gui.en_US.json labels/shakeit/third/49 #0
 #: data/lang/sc/gui.en_US.json+labels/shakeit/third/49+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/shakeit/third/49"
 msgid "wagtail"
-msgstr ""
+msgstr "aguzanieves"
 
 #. data/lang/sc/gui.en_US.json labels/loading/trophyUpdate #0
 #: data/lang/sc/gui.en_US.json+labels/loading/trophyUpdate+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/loading/trophyUpdate"
 msgid "Trophies have changed and we tried to make sure you got all the trophies you should have until this point."
-msgstr ""
+msgstr "Los trofeos han cambiado y tratamos de asegurarnos de que obtuviste todos los trofeos que deberías tener hasta este punto."
 
 #. data/lang/sc/gui.en_US.json labels/loading/skillUpdate #0
 #: data/lang/sc/gui.en_US.json+labels/loading/skillUpdate+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/loading/skillUpdate"
 msgid "The Skill tree structure has changed, so we had to reset your skill configuration. Sorry! You can reassign your skills again."
-msgstr ""
+msgstr "Hubieron cambios en el árbol de habilidades, así que tuvimos que reiniciar tus habilidades. ¡Perdón! Por favor, reasigna tus habilidades de nuevo."
 
 #. data/lang/sc/gui.en_US.json labels/loading/versionOutdated #0
 #: data/lang/sc/gui.en_US.json+labels/loading/versionOutdated+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/loading/versionOutdated"
 msgid "This save file is outdated, bugs might occur. Use at own risk!"
-msgstr ""
+msgstr "Este archivo guardado está desactualizado, pueden ocurrir errores. ¡Úsalo bajo tu propio riesgo!"
 
 #. data/lang/sc/gui.en_US.json labels/loading/questUpdate #0
 #: data/lang/sc/gui.en_US.json+labels/loading/questUpdate+%230
@@ -12856,4 +12853,4 @@ msgstr "Algunas misiones cambiaron. Estas se reiniciaron. Esto significa que es 
 #: data/lang/sc/map-content.en_US.json+labels/elevator/cancel+%230
 msgctxt "data/lang/sc/map-content.en_US.json//labels/elevator/cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
