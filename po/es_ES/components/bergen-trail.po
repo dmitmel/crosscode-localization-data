@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-06-18 07:33+0000\n"
+"PO-Revision-Date: 2022-06-24 02:41+0000\n"
 "Last-Translator: Kevin Junior Neciosup Galeano <kjneciosup1@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/bergen-trail/es/>\n"
 "Language: es_ES\n"
@@ -7164,7 +7164,7 @@ msgid ""
 msgstr ""
 "\\i[arrow-n] Aldea de Bergen\n"
 "\\i[arrow-se] Base de la Montaña\n"
-"\\i[arrow-sw] Fuera del Camino"
+"\\i[arrow-sw] Desvío"
 
 #. data/maps/bergen-trail/path-5.json entities/518/settings/text #8
 #. Analyzable
@@ -9380,7 +9380,6 @@ msgstr ""
 #. SHOW_CHOICE main.lea @SURPRISED_TOWARD
 #. SHOW_BOARD_MSG
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/0/interact/2/0/3/text+%239
-#, fuzzy
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/0/interact/2/0/3/text"
 msgid "Bridge Elevator \\c[2]enabled\\c[0]!"
 msgstr "¡Elevador del Puente de Mando \\c[2]activado\\c[0]!"
@@ -9416,13 +9415,12 @@ msgstr "Pantalla"
 #. IF !map.wallDownEast && !map.runTest
 #. SHOW_BOARD_MSG
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/49/settings/condAnims/0/interact/event/1/text+%2316
-#, fuzzy
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/49/settings/condAnims/0/interact/event/1/text"
 msgid ""
 "Test sequence status: \\c[2]ready\\c[0].\n"
 "\\c[1]Start test sequence\\c[0]?"
 msgstr ""
-"Estado de la Secuencia de prueba: \\c[2]preparada\\c[0].\n"
+"Estado de la Secuencia de prueba: \\c[2]Lista\\c[0].\n"
 "¿\\c[1]Iniciar secuencia de prueba\\c[0]?"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/49/settings/condAnims/0/interact/event/2/0/3/text #17
@@ -9568,7 +9566,6 @@ msgstr "¡...!"
 #. IF !map.sideOpen
 #. SHOW_BOARD_MSG
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/51/settings/condAnims/0/interact/1/text+%2331
-#, fuzzy
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/51/settings/condAnims/0/interact/1/text"
 msgid ""
 "Bridge Elevator: \\c[1]disabled\\c[0].\n"
@@ -9583,7 +9580,6 @@ msgstr ""
 #. SHOW_CHOICE main.lea @SURPRISED_TOWARD
 #. SHOW_BOARD_MSG
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/51/settings/condAnims/0/interact/2/0/3/text+%2332
-#, fuzzy
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/51/settings/condAnims/0/interact/2/0/3/text"
 msgid "Bridge Elevator \\c[2]enabled\\c[0]!"
 msgstr "¡Elevador del Puente de Mando \\c[2]activado\\c[0]!"
@@ -9681,7 +9677,6 @@ msgstr "Holograma"
 #. Prop holo-sign
 #. ADD_MSG_PERSON lab.scientist-xbox @HOLOGRAM
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/123/settings/interact/event/6/name+%23236
-#, fuzzy
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/123/settings/interact/event/6/name"
 msgid "Xavier Bonegate"
 msgstr "Xavier Bonegate"
@@ -9756,7 +9751,7 @@ msgstr "Pudimos crear vehículos para ellos que podían controlar fácilmente si
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/123/settings/interact/event/16/message+%23243
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/123/settings/interact/event/16/message"
 msgid "They can handle dangerous work even in the coldest of conditions!"
-msgstr ""
+msgstr "¡Pueden realizar trabajos peligrosos incluso en las condiciones más frías!"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/123/settings/interact/event/17/message #251
 #. Prop holo-sign
@@ -9764,7 +9759,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/123/settings/interact/event/17/message+%23251
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/123/settings/interact/event/17/message"
 msgid "This will greatly minimize risks for workers everywhere!"
-msgstr ""
+msgstr "¡Esto minimizará en gran medida los riesgos para los trabajadores en todas partes!"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/123/settings/interact/event/18/message #238
 #. Prop holo-sign
@@ -9772,7 +9767,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/123/settings/interact/event/18/message+%23238
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/123/settings/interact/event/18/message"
 msgid "And for our greatest project we will equip the most promising \\v[combat.name.snowman] with the most powerful machine we have created so far."
-msgstr ""
+msgstr "Y para nuestro mayor proyecto, equiparemos al \\v[combat.name.snowman] más prometedor con la máquina más poderosa que hemos creado hasta ahora."
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/123/settings/interact/event/19/message #245
 #. Prop holo-sign
@@ -9780,7 +9775,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/123/settings/interact/event/19/message+%23245
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/123/settings/interact/event/19/message"
 msgid "I am sure that, because of pioneering projects like this, our next report will be an even better one.\\. Until then!"
-msgstr ""
+msgstr "Estoy seguro de que, gracias a proyectos pioneros como este, nuestro próximo informe será aún mejor.\\. ¡Hasta entonces!"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/124/settings/condAnims/0/interact/hoverText #213
 #. Prop sideLore
@@ -9788,7 +9783,7 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room3.json+entities/124/settings/condAnims/0/interact/hoverText+%23213
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/124/settings/condAnims/0/interact/hoverText"
 msgid "Display"
-msgstr ""
+msgstr "Monitor"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/124/settings/condAnims/0/interact/event/1/text #215
 #. Prop sideLore
@@ -9804,6 +9799,12 @@ msgid ""
 "\n"
 "\\c[3]Subject:\\c[0] BOXES???"
 msgstr ""
+"\\c[1]CORREO INTERNO, SALIENTE\\c[0]\n"
+"\n"
+"\\c[3]DESDE:\\c[0] Instalaciones de Bergen, Oficina 21b\n"
+"\\c[3]TO:\\c[0] \"Hardware pesado\", Gestión\n"
+"\n"
+"\\c[3]Asunto:\\c[0] CAJAS???"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/124/settings/condAnims/0/interact/event/2/text #246
 #. Prop sideLore
@@ -9821,6 +9822,14 @@ msgid ""
 "\n"
 "\\c[1][END OF MAIL]\\c[0]"
 msgstr ""
+"Saludos,\n"
+"\n"
+"¿Qué es esto? ¿Por qué de repente hay cajas bloqueando la entrada de nuestra oficina?\n"
+"\n"
+"Sinceramente,\n"
+"[NOMBRE ELIMINADO]\n"
+"\n"
+"\\c[1][FIN DEL CORREO]\\c[0]"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/124/settings/condAnims/0/interact/event/3/text #247
 #. Prop sideLore
@@ -9836,6 +9845,12 @@ msgid ""
 "\n"
 "\\c[3]Subject:\\c[0] RE: RE: BOXES???"
 msgstr ""
+"\\c[1]CORREO INTERNO, SALIENTE\\c[0]\n"
+"\n"
+"\\c[3]DESDE:\\c[0] Instalaciones de Bergen, Oficina 21b\n"
+"\\c[3]TO:\\c[0] \"Hardware pesado\", Gestión\n"
+"\n"
+"\\c[3]Asunto:\\c[0] RE: RE: CAJAS???"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/124/settings/condAnims/0/interact/event/4/text #217
 #. Prop sideLore
@@ -9846,7 +9861,7 @@ msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room3.json//entities/
 msgid ""
 "A safety precaution in case of another breakout? What are we on this side to do then, hide under the tables?\n"
 "It's bad enough that the Track seems to constantly reshape our facility and place weird stuff everywhere. Now we also have to deal with our colleagues, putting boxes in the way."
-msgstr ""
+msgstr "¿Una precaución de seguridad en caso de otra fuga? ¿Qué vamos a hacer nosotros de este lado entonces, escondernos debajo de las mesas? Ya es bastante malo que Track parezca remodelar constantemente nuestras instalaciones y colocar cosas extrañas en todas partes. Ahora también tenemos que lidiar con nuestros compañeros, poniendo cajas en el camino."
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/124/settings/condAnims/0/interact/event/5/text #248
 #. Prop sideLore
@@ -9860,6 +9875,10 @@ msgid ""
 "\n"
 "\\c[1][END OF MAIL]\\c[0]"
 msgstr ""
+"\n"
+"¡Esto es ridículo!\n"
+"\n"
+"\\c[1][FIN DEL CORREO]\\c[0]"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/124/settings/condAnims/0/interact/event/6/text #249
 #. Prop sideLore
@@ -9875,6 +9894,12 @@ msgid ""
 "\n"
 "\\c[3]Subject:\\c[0] RE: RE: RE: RE: BOXES???"
 msgstr ""
+"\\c[1]CORREO INTERNO, SALIENTE\\c[0]\n"
+"\n"
+"\\c[3]DESDE:\\c[0] Instalaciones de Bergen, Oficina 21b\n"
+"\\c[3]TO:\\c[0] \"Hardware pesado\", Gestión\n"
+"\n"
+"\\c[3]Asunto:\\c[0] RE: RE: RE: RE: CAJAS???"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room3.json entities/124/settings/condAnims/0/interact/event/7/text #250
 #. Prop sideLore
@@ -9888,6 +9913,10 @@ msgid ""
 "\n"
 "\\c[1][END OF MAIL]\\c[0]"
 msgstr ""
+"¡Eres un mal jugador de equipo! 1\n"
+"¿Y qué quieres decir con \"las cajas son bastante populares en estos días\"? Están EN EL CAMINO. ¡No podemos trabajar así!\n"
+"\n"
+"\\c[1][FIN DEL CORREO]\\c[0]"
 
 #. extension/snowman-tank/data/maps/bergen-trail/lab/room5.json entities/97/settings/condAnims/0/interact/hoverText #6
 #. Prop
@@ -9895,4 +9924,4 @@ msgstr ""
 #: extension/snowman-tank/data/maps/bergen-trail/lab/room5.json+entities/97/settings/condAnims/0/interact/hoverText+%236
 msgctxt "extension/snowman-tank/data/maps/bergen-trail/lab/room5.json//entities/97/settings/condAnims/0/interact/hoverText"
 msgid "Call"
-msgstr ""
+msgstr "Llamada"
