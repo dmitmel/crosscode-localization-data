@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-06-21 05:41+0000\n"
+"PO-Revision-Date: 2022-06-25 16:00+0000\n"
 "Last-Translator: Kevin Junior Neciosup Galeano <kjneciosup1@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/forest/es/>\n"
 "Language: es_ES\n"
@@ -24,7 +24,7 @@ msgstr "sin título"
 #: data/areas/forest.json+floors/0/maps/0/name+%23253
 msgctxt "data/areas/forest.json//floors/0/maps/0/name"
 msgid "Facility X Entrance"
-msgstr ""
+msgstr "Entrada a Facility X"
 
 #. data/areas/forest.json floors/0/maps/1/name #254
 #: data/areas/forest.json+floors/0/maps/1/name+%23254
@@ -216,7 +216,7 @@ msgstr ""
 #: data/areas/forest.json+floors/1/maps/29/name+%23188
 msgctxt "data/areas/forest.json//floors/1/maps/29/name"
 msgid "Hidden Entrance"
-msgstr ""
+msgstr "Entrada Oculta"
 
 #. data/areas/forest.json floors/1/maps/30/name #198
 #: data/areas/forest.json+floors/1/maps/30/name+%23198
@@ -2733,7 +2733,7 @@ msgstr ""
 #: data/maps/forest/caves/path-11-maze.json+entities/168/settings/event/7/message+%237
 msgctxt "data/maps/forest/caves/path-11-maze.json//entities/168/settings/event/7/message"
 msgid "Is it here?\\. Is the entrance in this area?"
-msgstr ""
+msgstr "¿Está eso aquí?\\. ¿La entrada está en esta área?"
 
 #. data/maps/forest/caves/path-11-maze.json entities/168/settings/event/8/message #8
 #. EventTrigger introScene START IF party.size == 1
@@ -9590,6 +9590,8 @@ msgid ""
 "\\i[arrow-w] Tunnel to \\v[area.autumn-fall.name]\n"
 "\\i[arrow-e] \\v[area.forest.name] Paths\n"
 msgstr ""
+"\\i[arrow-w] Túnel a \\v[area.autumn-fall.name]\n"
+"\\i[arrow-e] \\v[area.forest.name] Caminos\n"
 
 #. data/maps/forest/path-01-entrance.json entities/491/settings/event/2/thenStep/9/message #202
 #. EventTrigger intro
@@ -9608,7 +9610,7 @@ msgstr "¡...!"
 #: data/maps/forest/path-01-entrance.json+entities/491/settings/event/2/thenStep/10/thenStep/1/message+%23219
 msgctxt "data/maps/forest/path-01-entrance.json//entities/491/settings/event/2/thenStep/10/thenStep/1/message"
 msgid "We finally set foot in \\c[3]Sapphire Ridge\\c[0]!"
-msgstr ""
+msgstr "¡Finalmente pusimos un pie en \\c[3]Cresta Zafiro\\c[0]!"
 
 #. data/maps/forest/path-01-entrance.json entities/491/settings/event/2/thenStep/10/thenStep/2/message #220
 #. EventTrigger intro
