@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-06-25 16:00+0000\n"
+"PO-Revision-Date: 2022-07-01 06:41+0000\n"
 "Last-Translator: Kevin Junior Neciosup Galeano <kjneciosup1@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/heat/es/>\n"
 "Language: es_ES\n"
@@ -656,7 +656,7 @@ msgstr "Bien, ¿dónde están ahora?"
 #: data/maps/heat/caves/maroon-cave-03.json+entities/53/settings/event/44/message+%2320
 msgctxt "data/maps/heat/caves/maroon-cave-03.json//entities/53/settings/event/44/message"
 msgid "Uhm...\\. Lea and I are currently in the Maroon Tree Cave..."
-msgstr "Mmm...\\. Lea y yo estamos en la Cueva del Árbol Maroon..."
+msgstr "Mmm...\\. Lea y yo estamos en la Cueva del Árbol Granate..."
 
 #. data/maps/heat/caves/maroon-cave-03.json entities/53/settings/event/45/message #21
 #. EventTrigger bossKill START IF tmp.bossDefeated
@@ -664,7 +664,7 @@ msgstr "Mmm...\\. Lea y yo estamos en la Cueva del Árbol Maroon..."
 #: data/maps/heat/caves/maroon-cave-03.json+entities/53/settings/event/45/message+%2321
 msgctxt "data/maps/heat/caves/maroon-cave-03.json//entities/53/settings/event/45/message"
 msgid "Maroon Tree Cave..."
-msgstr "Cueva del Árbol Maroon..."
+msgstr "Cueva del Árbol Granate..."
 
 #. data/maps/heat/caves/maroon-cave-03.json entities/53/settings/event/46/message #22
 #. EventTrigger bossKill START IF tmp.bossDefeated
@@ -3350,7 +3350,7 @@ msgstr "Oui, ¡allez!"
 #: data/maps/heat/dng-top.json+entities/366/settings/event/24/message+%2325
 msgctxt "data/maps/heat/dng-top.json//entities/366/settings/event/24/message"
 msgid "Okey-dokey! Got that squared away."
-msgstr ""
+msgstr "¡École! Entendí eso."
 
 #. data/maps/heat/dng-top.json entities/366/settings/event/25/message #180
 #. EventTrigger PostExpoScene START IF plot.line >= 6600
@@ -5214,7 +5214,7 @@ msgstr "Necesita \\c[3]Pase de la Anciana\\c[0] para entrar."
 #: data/maps/heat/oasis/oasis-path-02.json+entities/637/settings/npcStates/1/event/quest/8/message+%2382
 msgctxt "data/maps/heat/oasis/oasis-path-02.json//entities/637/settings/npcStates/1/event/quest/8/message"
 msgid "Hey Lea, do you want to tackle the Maroon Tree Quest by yourself now?"
-msgstr "Lea, ¿vas a hacer la misión del Árbol Maroon tú sola?"
+msgstr "Lea, ¿vas a hacer la misión del Árbol Granate tú sola?"
 
 #. data/maps/heat/oasis/oasis-path-02.json entities/637/settings/npcStates/1/event/quest/9/message #83
 #. NPC shadGuard
@@ -5511,7 +5511,7 @@ msgstr "\\v[item.362.name]"
 #: data/maps/heat/oasis/oasis-path-02.json+entities/637/settings/npcStates/4/event/quest/16/message+%2341
 msgctxt "data/maps/heat/oasis/oasis-path-02.json//entities/637/settings/npcStates/4/event/quest/16/message"
 msgid "Strange item very good for Maroon Tree!\\. Putting in earth helps to grow!"
-msgstr "¡Objeto extraño muy bueno para Árbol Maroon!\\. ¡Poner en tierra ayuda a crecer!"
+msgstr "¡Objeto extraño muy bueno para Árbol Granate!\\. ¡Poner en tierra ayuda a crecer!"
 
 #. data/maps/heat/oasis/oasis-path-02.json entities/637/settings/npcStates/4/event/quest/17/message #42
 #. NPC shadGuard
@@ -5894,7 +5894,7 @@ msgstr "¡Finalmente! ¡Nuestro grupo ha llegado al oasis del este!"
 #: data/maps/heat/oasis/oasis-path-02.json+entities/649/settings/event/18/message+%23224
 msgctxt "data/maps/heat/oasis/oasis-path-02.json//entities/649/settings/event/18/message"
 msgid "The maroon tree in all its majestic glory was but within a stone's throw!"
-msgstr "¡El Árbol Maroon en toda su majestuosa gloria estaba más cerca de lo que creíamos!"
+msgstr "¡El Árbol Granate en toda su majestuosa gloria estaba más cerca de lo que creíamos!"
 
 #. data/maps/heat/oasis/oasis-path-02.json entities/649/settings/event/19/message #225
 #. EventTrigger EndScene START IF plot.line >= 31400
@@ -5956,7 +5956,7 @@ msgstr ""
 #: data/maps/heat/oasis/oasis-path-02.json+entities/650/settings/event/0/message+%23914
 msgctxt "data/maps/heat/oasis/oasis-path-02.json//entities/650/settings/event/0/message"
 msgid "There we are! That must be the \\c[3]Maroon Tree\\c[0]!"
-msgstr "¡Hemos llegado! ¡Ese debe ser el \\c[3]Árbol Maroon\\c[0]!"
+msgstr "¡Hemos llegado! ¡Ese debe ser el \\c[3]Árbol Granate\\c[0]!"
 
 #. data/maps/heat/oasis/oasis-path-02.json entities/651/settings/event/0/message #915
 #. LocationEvent maroonTree2 START IF party.alive.Emilie
@@ -6438,7 +6438,7 @@ msgstr "Talatu Lips"
 #: data/maps/heat/oasis/oasis-path-03.json+entities/540/settings/npcStates/0/event/2/message+%231
 msgctxt "data/maps/heat/oasis/oasis-path-03.json//entities/540/settings/npcStates/0/event/2/message"
 msgid "Hey there sweetheart!"
-msgstr ""
+msgstr "¡Hola dulzura!"
 
 #. data/maps/heat/oasis/oasis-path-03.json entities/540/settings/npcStates/0/event/3/message #2
 #. NPC tulips
@@ -6456,7 +6456,7 @@ msgstr "¡Hola!"
 #: data/maps/heat/oasis/oasis-path-03.json+entities/540/settings/npcStates/0/event/4/message+%233
 msgctxt "data/maps/heat/oasis/oasis-path-03.json//entities/540/settings/npcStates/0/event/4/message"
 msgid "Phew, it's hotter'n blazes here, tell you what."
-msgstr ""
+msgstr "Uf, hace más calor que llamas aquí, te diré una cosa."
 
 #. data/maps/heat/oasis/oasis-path-03.json entities/540/settings/npcStates/0/event/5/message #9
 #. NPC tulips
@@ -6465,7 +6465,7 @@ msgstr ""
 #: data/maps/heat/oasis/oasis-path-03.json+entities/540/settings/npcStates/0/event/5/message+%239
 msgctxt "data/maps/heat/oasis/oasis-path-03.json//entities/540/settings/npcStates/0/event/5/message"
 msgid "But the flora's quite a sight, ain't it?"
-msgstr ""
+msgstr "Pero la flora es todo un espectáculo, ¿no?"
 
 #. data/maps/heat/oasis/oasis-path-03.json entities/540/settings/npcStates/0/event/6/message #4
 #. NPC tulips
@@ -6483,7 +6483,7 @@ msgstr "[asiente]"
 #: data/maps/heat/oasis/oasis-path-03.json+entities/540/settings/npcStates/0/event/7/message+%235
 msgctxt "data/maps/heat/oasis/oasis-path-03.json//entities/540/settings/npcStates/0/event/7/message"
 msgid "Well, how 'bout y'all? Explorin' comin' along?"
-msgstr ""
+msgstr "Bueno, ¿Qué tal todos ustedes? Explorando a lo largo?"
 
 #. data/maps/heat/oasis/oasis-path-03.json entities/540/settings/npcStates/0/event/8/message #6
 #. NPC tulips
@@ -6510,7 +6510,7 @@ msgstr "[asiente]"
 #: data/maps/heat/oasis/oasis-path-03.json+entities/540/settings/npcStates/0/event/10/message+%238
 msgctxt "data/maps/heat/oasis/oasis-path-03.json//entities/540/settings/npcStates/0/event/10/message"
 msgid "Glad ta hear it. Y'all be good now!"
-msgstr ""
+msgstr "Me alegra escucharlo. ¡Son muy buenos ahora!"
 
 #. data/maps/heat/oasis/oasis-path-03.json entities/553/settings/event/0/message #11
 #. LocationEvent waterFall START IF party.has.Glasses
@@ -6518,7 +6518,7 @@ msgstr ""
 #: data/maps/heat/oasis/oasis-path-03.json+entities/553/settings/event/0/message+%2311
 msgctxt "data/maps/heat/oasis/oasis-path-03.json//entities/553/settings/event/0/message"
 msgid "This is one impressive waterfall!"
-msgstr ""
+msgstr "¡Esta es una cascada impresionante!"
 
 #. data/maps/heat/oasis/oasis-path-03.json entities/553/settings/event/1/message #12
 #. LocationEvent waterFall START IF party.has.Glasses
@@ -6526,7 +6526,7 @@ msgstr ""
 #: data/maps/heat/oasis/oasis-path-03.json+entities/553/settings/event/1/message+%2312
 msgctxt "data/maps/heat/oasis/oasis-path-03.json//entities/553/settings/event/1/message"
 msgid "You really wouldn't expect such an abundance of water in a desert area."
-msgstr ""
+msgstr "Realmente no esperarías tanta agua en un área desértica."
 
 #. data/maps/heat/oasis/oasis-path-03.json entities/554/settings/event/0/message #13
 #. LocationEvent waterFallEmilie START IF party.has.Emilie
@@ -6534,7 +6534,7 @@ msgstr ""
 #: data/maps/heat/oasis/oasis-path-03.json+entities/554/settings/event/0/message+%2313
 msgctxt "data/maps/heat/oasis/oasis-path-03.json//entities/554/settings/event/0/message"
 msgid "Whoa, look at this! Better watch your step."
-msgstr ""
+msgstr "¡Oh! ¡Mira eso! Mejor cuida tus pasos."
 
 #. data/maps/heat/path-00.json entities/259/settings/teleportLabel #86
 #. TeleportField off2
@@ -8098,7 +8098,7 @@ msgstr "¡...!"
 #: data/maps/heat/path-04.json+entities/215/settings/event/7/message+%2312226
 msgctxt "data/maps/heat/path-04.json//entities/215/settings/event/7/message"
 msgid "Praise no reason for dilly-dally, human!\\. Every second could be spend better with improved machine calculating!"
-msgstr ""
+msgstr "¡No hay motivo para perder el tiempo, humano!\\. ¡Cada segundo podría usarse mejor en mejorar la máquina!"
 
 #. data/maps/heat/path-04.json entities/215/settings/event/8/message #12219
 #. EventTrigger pc-device-taken START IF tmp.deviceTaken
@@ -8114,7 +8114,7 @@ msgstr "..."
 #: data/maps/heat/path-04.json+entities/215/settings/event/9/message+%2312207
 msgctxt "data/maps/heat/path-04.json//entities/215/settings/event/9/message"
 msgid "Back to mission.\\. Some location device dropped.\\. You picked up?"
-msgstr ""
+msgstr "Volver a la misión.\\. Se cayó algún dispositivo de ubicación.\\. ¿Lo recogiste?"
 
 #. data/maps/heat/path-04.json entities/215/settings/event/10/message #12218
 #. EventTrigger pc-device-taken START IF tmp.deviceTaken
@@ -8130,7 +8130,7 @@ msgstr "[asiente]"
 #: data/maps/heat/path-04.json+entities/215/settings/event/11/message+%2312227
 msgctxt "data/maps/heat/path-04.json//entities/215/settings/event/11/message"
 msgid "Good!\\. Secret place of special parts must be near."
-msgstr ""
+msgstr "¡Bueno!\\. El lugar secreto de piezas especiales debe estar cerca."
 
 #. data/maps/heat/path-04.json entities/215/settings/event/12/message #12228
 #. EventTrigger pc-device-taken START IF tmp.deviceTaken
@@ -8138,7 +8138,7 @@ msgstr ""
 #: data/maps/heat/path-04.json+entities/215/settings/event/12/message+%2312228
 msgctxt "data/maps/heat/path-04.json//entities/215/settings/event/12/message"
 msgid "Follow beeping of smart device."
-msgstr ""
+msgstr "Siga el pitido del dispositivo inteligente."
 
 #. data/maps/heat/path-04.json entities/215/settings/event/13/message #12224
 #. EventTrigger pc-device-taken START IF tmp.deviceTaken
@@ -8154,7 +8154,7 @@ msgstr "[asiente]"
 #: data/maps/heat/path-04.json+entities/215/settings/event/14/message+%2312229
 msgctxt "data/maps/heat/path-04.json//entities/215/settings/event/14/message"
 msgid "Forthgoing, \\v[lore.title.seeker]!"
-msgstr ""
+msgstr "A continuación, \\v[lore.title.seeker]!"
 
 #. data/maps/heat/path-04.json entities/215/settings/event/15/message #12214
 #. EventTrigger pc-device-taken START IF tmp.deviceTaken
@@ -8170,16 +8170,17 @@ msgstr "Adiós."
 #: data/maps/heat/path-04.json+entities/218/settings/interact/event/3/text+%2312217
 msgctxt "data/maps/heat/path-04.json//entities/218/settings/interact/event/3/text"
 msgid "Key Applied"
-msgstr ""
+msgstr "Llave Aplicada"
 
 #. data/maps/heat/path-05.json entities/202/settings/event/4/guiInfo/settings/text #178
 #. EventTrigger quest_traders-defense_start START IF tmp.quest_traders-defense_start
 #. ADD_GUI
 #. BarWidget
 #: data/maps/heat/path-05.json+entities/202/settings/event/4/guiInfo/settings/text+%23178
+#, fuzzy
 msgctxt "data/maps/heat/path-05.json//entities/202/settings/event/4/guiInfo/settings/text"
 msgid "Crate HP"
-msgstr ""
+msgstr "Caja HP"
 
 #. data/maps/heat/path-05.json entities/202/settings/event/5/task #163
 #. EventTrigger quest_traders-defense_start START IF tmp.quest_traders-defense_start
@@ -8187,7 +8188,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/202/settings/event/5/task+%23163
 msgctxt "data/maps/heat/path-05.json//entities/202/settings/event/5/task"
 msgid "Bone-like noises approaching!"
-msgstr ""
+msgstr "¡Ruidos de huesos acercándose!"
 
 #. data/maps/heat/path-05.json entities/202/settings/event/29/task #175
 #. EventTrigger quest_traders-defense_start START IF tmp.quest_traders-defense_start
@@ -8195,7 +8196,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/202/settings/event/29/task+%23175
 msgctxt "data/maps/heat/path-05.json//entities/202/settings/event/29/task"
 msgid "\\c[3]Defend the transport for 2 minutes\\c[0] until it is repaired!"
-msgstr ""
+msgstr "\\c[3]¡Defiende el transporte durante 2 minutos\\c[0] hasta que esté reparado!"
 
 #. data/maps/heat/path-05.json entities/203/settings/event/1/thenStep/4/thenStep/0/text #146
 #. EventTrigger quest_traders-crate_tackled START IF tmp.quest_traders-crate_tackled
@@ -8205,7 +8206,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/203/settings/event/1/thenStep/4/thenStep/0/text+%23146
 msgctxt "data/maps/heat/path-05.json//entities/203/settings/event/1/thenStep/4/thenStep/0/text"
 msgid "Crate scratched!"
-msgstr ""
+msgstr "¡Caja rayada!"
 
 #. data/maps/heat/path-05.json entities/203/settings/event/1/thenStep/5/thenStep/0/text #147
 #. EventTrigger quest_traders-crate_tackled START IF tmp.quest_traders-crate_tackled
@@ -8215,7 +8216,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/203/settings/event/1/thenStep/5/thenStep/0/text+%23147
 msgctxt "data/maps/heat/path-05.json//entities/203/settings/event/1/thenStep/5/thenStep/0/text"
 msgid "Crate damaged!"
-msgstr ""
+msgstr "¡Caja dañada!"
 
 #. data/maps/heat/path-05.json entities/203/settings/event/1/thenStep/6/thenStep/0/text #149
 #. EventTrigger quest_traders-crate_tackled START IF tmp.quest_traders-crate_tackled
@@ -8225,7 +8226,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/203/settings/event/1/thenStep/6/thenStep/0/text+%23149
 msgctxt "data/maps/heat/path-05.json//entities/203/settings/event/1/thenStep/6/thenStep/0/text"
 msgid "Crate heavily damaged!"
-msgstr ""
+msgstr "¡Caja muy dañada!"
 
 #. data/maps/heat/path-05.json entities/203/settings/event/1/thenStep/7/thenStep/0/text #639
 #. EventTrigger quest_traders-crate_tackled START IF tmp.quest_traders-crate_tackled
@@ -8235,7 +8236,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/203/settings/event/1/thenStep/7/thenStep/0/text+%23639
 msgctxt "data/maps/heat/path-05.json//entities/203/settings/event/1/thenStep/7/thenStep/0/text"
 msgid "Crate critically damaged!"
-msgstr ""
+msgstr "¡Caja gravemente dañada!"
 
 #. data/maps/heat/path-05.json entities/204/settings/event/12/text #148
 #. EventTrigger quest_traders_failed START IF tmp.quest_traders-failed
@@ -8243,7 +8244,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/204/settings/event/12/text+%23148
 msgctxt "data/maps/heat/path-05.json//entities/204/settings/event/12/text"
 msgid "Crate is gonna blow!"
-msgstr ""
+msgstr "¡La caja va a explotar!"
 
 #. data/maps/heat/path-05.json entities/204/settings/event/27/text #177
 #. EventTrigger quest_traders_failed START IF tmp.quest_traders-failed
@@ -8251,7 +8252,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/204/settings/event/27/text+%23177
 msgctxt "data/maps/heat/path-05.json//entities/204/settings/event/27/text"
 msgid "Crate destroyed!"
-msgstr ""
+msgstr "¡Caja destruida!"
 
 #. data/maps/heat/path-05.json entities/204/settings/event/40/text #176
 #. EventTrigger quest_traders_failed START IF tmp.quest_traders-failed
@@ -8263,6 +8264,9 @@ msgid ""
 "\n"
 "Restart task to try again"
 msgstr ""
+"\\c[1]MISIÓN FALLIDA\\c[0]\n"
+"\n"
+"Reinicie la tarea para volver a intentarlo"
 
 #. data/maps/heat/path-05.json entities/205/settings/event/18/text #173
 #. EventTrigger quest_traders-defense_end START IF (tmp.quest_traders-defense_started && timers.quest_defense-timer.remainingTime <= 0) || tmp.endTest
@@ -8270,7 +8274,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/205/settings/event/18/text+%23173
 msgctxt "data/maps/heat/path-05.json//entities/205/settings/event/18/text"
 msgid "Transport repaired!"
-msgstr ""
+msgstr "¡Transporte reparado!"
 
 #. data/maps/heat/path-05.json entities/205/settings/event/34/name #710
 #. EventTrigger quest_traders-defense_end START IF (tmp.quest_traders-defense_started && timers.quest_defense-timer.remainingTime <= 0) || tmp.endTest
@@ -8278,7 +8282,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/205/settings/event/34/name+%23710
 msgctxt "data/maps/heat/path-05.json//entities/205/settings/event/34/name"
 msgid "Quo'wark"
-msgstr ""
+msgstr "Quo'wark"
 
 #. data/maps/heat/path-05.json entities/205/settings/event/35/name #711
 #. EventTrigger quest_traders-defense_end START IF (tmp.quest_traders-defense_started && timers.quest_defense-timer.remainingTime <= 0) || tmp.endTest
@@ -8286,7 +8290,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/205/settings/event/35/name+%23711
 msgctxt "data/maps/heat/path-05.json//entities/205/settings/event/35/name"
 msgid "Diaz'trez"
-msgstr ""
+msgstr "Diaz'trez"
 
 #. data/maps/heat/path-05.json entities/205/settings/event/37/message #703
 #. EventTrigger quest_traders-defense_end START IF (tmp.quest_traders-defense_started && timers.quest_defense-timer.remainingTime <= 0) || tmp.endTest
@@ -8294,7 +8298,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/205/settings/event/37/message+%23703
 msgctxt "data/maps/heat/path-05.json//entities/205/settings/event/37/message"
 msgid "Human did good job!"
-msgstr ""
+msgstr "¡La humano hizo un buen trabajo!"
 
 #. data/maps/heat/path-05.json entities/205/settings/event/38/message #704
 #. EventTrigger quest_traders-defense_end START IF (tmp.quest_traders-defense_started && timers.quest_defense-timer.remainingTime <= 0) || tmp.endTest
@@ -8302,7 +8306,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/205/settings/event/38/message+%23704
 msgctxt "data/maps/heat/path-05.json//entities/205/settings/event/38/message"
 msgid "Yes, cargo saved, \\v[lore.title.shad] saved, day saved!"
-msgstr ""
+msgstr "¡Sí, cargamento salvado, \\v[lore.title.shad] lo hizo día salvado!"
 
 #. data/maps/heat/path-05.json entities/205/settings/event/39/message #651
 #. EventTrigger quest_traders-defense_end START IF (tmp.quest_traders-defense_started && timers.quest_defense-timer.remainingTime <= 0) || tmp.endTest
@@ -8318,7 +8322,7 @@ msgstr "¡...!"
 #: data/maps/heat/path-05.json+entities/205/settings/event/40/message+%23705
 msgctxt "data/maps/heat/path-05.json//entities/205/settings/event/40/message"
 msgid "Now travel continue.\\. Hopefully uneventful.\\. Boss already angry as is, I wager."
-msgstr ""
+msgstr "Ahora continúa el viaje.\\. Esperemos que sin incidentes.\\. El jefe ya está enojado, seguramente."
 
 #. data/maps/heat/path-05.json entities/205/settings/event/41/message #706
 #. EventTrigger quest_traders-defense_end START IF (tmp.quest_traders-defense_started && timers.quest_defense-timer.remainingTime <= 0) || tmp.endTest
@@ -8326,7 +8330,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/205/settings/event/41/message+%23706
 msgctxt "data/maps/heat/path-05.json//entities/205/settings/event/41/message"
 msgid "We, hurry then!\\. Boss rage scary!"
-msgstr ""
+msgstr "¡Démonos prisa entonces!\\. ¡La rabia del jefe da miedo!"
 
 #. data/maps/heat/path-05.json entities/205/settings/event/42/message #707
 #. EventTrigger quest_traders-defense_end START IF (tmp.quest_traders-defense_started && timers.quest_defense-timer.remainingTime <= 0) || tmp.endTest
@@ -8342,7 +8346,7 @@ msgstr "..."
 #: data/maps/heat/path-05.json+entities/205/settings/event/43/message+%23708
 msgctxt "data/maps/heat/path-05.json//entities/205/settings/event/43/message"
 msgid "Thank you and goodbye, \\v[lore.title.seeker].\\. Talk to boss in town for reward."
-msgstr ""
+msgstr "Gracias y adiós, \\v[lore.title.seeker].\\. Habla con el jefe de la ciudad para obtener una recompensa."
 
 #. data/maps/heat/path-05.json entities/205/settings/event/44/message #709
 #. EventTrigger quest_traders-defense_end START IF (tmp.quest_traders-defense_started && timers.quest_defense-timer.remainingTime <= 0) || tmp.endTest
@@ -8357,7 +8361,7 @@ msgstr "¡Adiós!"
 #: data/maps/heat/path-05.json+entities/208/settings/analyzable/text+%23619
 msgctxt "data/maps/heat/path-05.json//entities/208/settings/analyzable/text"
 msgid "Quo'wark"
-msgstr ""
+msgstr "Quo'wark"
 
 #. data/maps/heat/path-05.json entities/208/settings/npcStates/1/event/0/name #712
 #. NPC quest-NPCtrader1
@@ -8366,7 +8370,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/208/settings/npcStates/1/event/0/name+%23712
 msgctxt "data/maps/heat/path-05.json//entities/208/settings/npcStates/1/event/0/name"
 msgid "Diaz'trez"
-msgstr ""
+msgstr "Diaz'trez"
 
 #. data/maps/heat/path-05.json entities/208/settings/npcStates/1/event/2/message #629
 #. NPC quest-NPCtrader1
@@ -8375,7 +8379,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/208/settings/npcStates/1/event/2/message+%23629
 msgctxt "data/maps/heat/path-05.json//entities/208/settings/npcStates/1/event/2/message"
 msgid "I don't like the sand.\\. Such coarse, rough... and full of biting bones!"
-msgstr ""
+msgstr "No me gusta la arena.\\. ¡Tan basto, áspero... y lleno de huesos mordedores!"
 
 #. data/maps/heat/path-05.json entities/208/settings/npcStates/1/event/3/message #630
 #. NPC quest-NPCtrader1
@@ -8393,7 +8397,7 @@ msgstr "¿...?"
 #: data/maps/heat/path-05.json+entities/208/settings/npcStates/1/event/4/message+%23685
 msgctxt "data/maps/heat/path-05.json//entities/208/settings/npcStates/1/event/4/message"
 msgid "Please find items quickly, so we can return to town!"
-msgstr ""
+msgstr "¡Encuentra los objetos rápidamente para que podamos regresar a la ciudad!"
 
 #. data/maps/heat/path-05.json entities/226/settings/event/1/thenStep/0/text #649
 #. EventTrigger FAIL-shitEventThatSucks START IF false && (tmp.quest_traders-sharkKill-1-1 || tmp.quest_traders-sharkKill-1-2 || tmp.quest_traders-sharkKill-1-3)
@@ -8402,14 +8406,14 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/226/settings/event/1/thenStep/0/text+%23649
 msgctxt "data/maps/heat/path-05.json//entities/226/settings/event/1/thenStep/0/text"
 msgid "KILL"
-msgstr ""
+msgstr "MATAR"
 
 #. data/maps/heat/path-05.json entities/227/settings/analyzable/text #650
 #. NPC quest-crate
 #: data/maps/heat/path-05.json+entities/227/settings/analyzable/text+%23650
 msgctxt "data/maps/heat/path-05.json//entities/227/settings/analyzable/text"
 msgid "Important Crate"
-msgstr ""
+msgstr "Caja Importante"
 
 #. data/maps/heat/path-05.json entities/228/settings/event/6/name #713
 #. EventTrigger quest_traders-talk-1 START IF tmp.quest_traders-talk1
@@ -8417,7 +8421,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/228/settings/event/6/name+%23713
 msgctxt "data/maps/heat/path-05.json//entities/228/settings/event/6/name"
 msgid "Quo'wark"
-msgstr ""
+msgstr "Quo'wark"
 
 #. data/maps/heat/path-05.json entities/228/settings/event/7/name #714
 #. EventTrigger quest_traders-talk-1 START IF tmp.quest_traders-talk1
@@ -8425,7 +8429,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/228/settings/event/7/name+%23714
 msgctxt "data/maps/heat/path-05.json//entities/228/settings/event/7/name"
 msgid "Dia'strez"
-msgstr ""
+msgstr "Dia'strez"
 
 #. data/maps/heat/path-05.json entities/228/settings/event/9/message #634
 #. EventTrigger quest_traders-talk-1 START IF tmp.quest_traders-talk1
@@ -8441,7 +8445,7 @@ msgstr "¡Hola!"
 #: data/maps/heat/path-05.json+entities/228/settings/event/10/message+%23626
 msgctxt "data/maps/heat/path-05.json//entities/228/settings/event/10/message"
 msgid "Ah, please no eat scaly Shad.\\."
-msgstr ""
+msgstr "Ah, por favor, no comas al Shad escamoso.\\."
 
 #. data/maps/heat/path-05.json entities/228/settings/event/11/message #671
 #. EventTrigger quest_traders-talk-1 START IF tmp.quest_traders-talk1
@@ -8449,7 +8453,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/228/settings/event/11/message+%23671
 msgctxt "data/maps/heat/path-05.json//entities/228/settings/event/11/message"
 msgid "Oh dummy!\\. Open eyes, it not a monster.\\. It human!"
-msgstr ""
+msgstr "¡Ay tonto!\\. Abre los ojos, no es un monstruo.\\. ¡Es humano!"
 
 #. data/maps/heat/path-05.json entities/228/settings/event/12/message #666
 #. EventTrigger quest_traders-talk-1 START IF tmp.quest_traders-talk1
@@ -8457,7 +8461,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/228/settings/event/12/message+%23666
 msgctxt "data/maps/heat/path-05.json//entities/228/settings/event/12/message"
 msgid "Oh.\\. Yes, that true.\\. Such danger here, not good for Shad nerves."
-msgstr ""
+msgstr "Vaya.\\. Sí, es verdad.\\. Tal peligro aquí, no es bueno para los nervios de Shad."
 
 #. data/maps/heat/path-05.json entities/228/settings/event/13/message #667
 #. EventTrigger quest_traders-talk-1 START IF tmp.quest_traders-talk1
@@ -8473,7 +8477,7 @@ msgstr "..."
 #: data/maps/heat/path-05.json+entities/228/settings/event/14/message+%23668
 msgctxt "data/maps/heat/path-05.json//entities/228/settings/event/14/message"
 msgid "Ignore big baby.\\. Is human here to help?\\. Us could need help with great problem."
-msgstr ""
+msgstr "Ignorar al niñito.\\. ¿Hay humanos aquí para ayudar?\\. Nosotros podríamos necesitar ayuda con un problema."
 
 #. data/maps/heat/path-05.json entities/228/settings/event/15/message #669
 #. EventTrigger quest_traders-talk-1 START IF tmp.quest_traders-talk1
@@ -8489,7 +8493,7 @@ msgstr "[asiente]"
 #: data/maps/heat/path-05.json+entities/228/settings/event/16/message+%23670
 msgctxt "data/maps/heat/path-05.json//entities/228/settings/event/16/message"
 msgid "Sent by Bazaarboss itself?\\. Such kindness, he thinking of workers!"
-msgstr ""
+msgstr "¿Enviado por el jefe del bazar mismo?\\. ¡Qué amabilidad, pensando en los trabajadores!"
 
 #. data/maps/heat/path-05.json entities/228/settings/event/17/message #635
 #. EventTrigger quest_traders-talk-1 START IF tmp.quest_traders-talk1
@@ -8497,7 +8501,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/228/settings/event/17/message+%23635
 msgctxt "data/maps/heat/path-05.json//entities/228/settings/event/17/message"
 msgid "He more think of precious cargo, me think.\\. No matter, help is help!"
-msgstr ""
+msgstr "Piensa más en el cargamento preciado, creo yo.\\. No importa, ¡ayuda es ayuda!"
 
 #. data/maps/heat/path-05.json entities/228/settings/event/18/message #672
 #. EventTrigger quest_traders-talk-1 START IF tmp.quest_traders-talk1
@@ -8505,7 +8509,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/228/settings/event/18/message+%23672
 msgctxt "data/maps/heat/path-05.json//entities/228/settings/event/18/message"
 msgid "\\v[lore.title.seeker], look at transportation platform behind us."
-msgstr ""
+msgstr "\\v[lore.title.seeker], mira la plataforma de transporte detrás de nosotros."
 
 #. data/maps/heat/path-05.json entities/228/settings/event/19/message #627
 #. EventTrigger quest_traders-talk-1 START IF tmp.quest_traders-talk1
@@ -8521,7 +8525,7 @@ msgstr "[asiente]"
 #: data/maps/heat/path-05.json+entities/228/settings/event/24/name+%23715
 msgctxt "data/maps/heat/path-05.json//entities/228/settings/event/24/name"
 msgid "Quo'wark"
-msgstr ""
+msgstr "Quo'wark"
 
 #. data/maps/heat/path-05.json entities/228/settings/event/25/name #716
 #. EventTrigger quest_traders-talk-1 START IF tmp.quest_traders-talk1
@@ -8529,7 +8533,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/228/settings/event/25/name+%23716
 msgctxt "data/maps/heat/path-05.json//entities/228/settings/event/25/name"
 msgid "Dia'strez"
-msgstr ""
+msgstr "Dia'strez"
 
 #. data/maps/heat/path-05.json entities/228/settings/event/27/message #675
 #. EventTrigger quest_traders-talk-1 START IF tmp.quest_traders-talk1
@@ -8537,7 +8541,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/228/settings/event/27/message+%23675
 msgctxt "data/maps/heat/path-05.json//entities/228/settings/event/27/message"
 msgid "It fine human technology, helped us move much crates.\\. But now it broke."
-msgstr ""
+msgstr "La tecnología humana nos ayudó a mover muchas cajas.\\. Pero ahora se rompió."
 
 #. data/maps/heat/path-05.json entities/228/settings/event/28/message #676
 #. EventTrigger quest_traders-talk-1 START IF tmp.quest_traders-talk1
@@ -8553,7 +8557,7 @@ msgstr "..."
 #: data/maps/heat/path-05.json+entities/228/settings/event/29/message+%23674
 msgctxt "data/maps/heat/path-05.json//entities/228/settings/event/29/message"
 msgid "Yes, shield still work, so no monsters eat precious cargo.\\. But floaty device not work anymore."
-msgstr ""
+msgstr "Sí, el escudo todavía funciona, por lo que ningún monstruo molesto aún.\\. Pero el dispositivo flotante ya no funciona."
 
 #. data/maps/heat/path-05.json entities/228/settings/event/30/message #677
 #. EventTrigger quest_traders-talk-1 START IF tmp.quest_traders-talk1
@@ -8561,7 +8565,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/228/settings/event/30/message+%23677
 msgctxt "data/maps/heat/path-05.json//entities/228/settings/event/30/message"
 msgid "Meaning we stuck like rock.\\. And need materials for repair. Like \\c[3]\\v[item.190.name]\\c[0] from city."
-msgstr ""
+msgstr "Ósea, nos quedamos estancados.\\. Y necesitamos materiales para la reparación. Como \\c[3]\\v[item.190.name]\\c[0] de la ciudad."
 
 #. data/maps/heat/path-05.json entities/228/settings/event/31/message #678
 #. EventTrigger quest_traders-talk-1 START IF tmp.quest_traders-talk1
@@ -8569,7 +8573,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/228/settings/event/31/message+%23678
 msgctxt "data/maps/heat/path-05.json//entities/228/settings/event/31/message"
 msgid "Also \\c[3]\\v[item.186.name]\\c[0]!\\. And \\c[3]\\v[item.177.name]\\c[0]!\\. Both found in desert, if hit plants!"
-msgstr ""
+msgstr "También \\c[3]\\v[item.186.name]\\c[0]!\\. Y \\c[3]\\v[item.177.name]\\c[0]!\\. ¡Ambos se encuentran en el desierto, si golpeas las plantas!"
 
 #. data/maps/heat/path-05.json entities/228/settings/event/32/message #679
 #. EventTrigger quest_traders-talk-1 START IF tmp.quest_traders-talk1
@@ -8577,7 +8581,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/228/settings/event/32/message+%23679
 msgctxt "data/maps/heat/path-05.json//entities/228/settings/event/32/message"
 msgid "Yes, but different plants, not forget!\\. And that it."
-msgstr ""
+msgstr "Sí, pero plantas diferentes, ¡no lo olvides!\\. Y eso."
 
 #. data/maps/heat/path-05.json entities/228/settings/event/37/name #717
 #. EventTrigger quest_traders-talk-1 START IF tmp.quest_traders-talk1
@@ -8585,7 +8589,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/228/settings/event/37/name+%23717
 msgctxt "data/maps/heat/path-05.json//entities/228/settings/event/37/name"
 msgid "Quo'wark"
-msgstr ""
+msgstr "Quo'wark"
 
 #. data/maps/heat/path-05.json entities/228/settings/event/38/name #718
 #. EventTrigger quest_traders-talk-1 START IF tmp.quest_traders-talk1
@@ -8593,7 +8597,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/228/settings/event/38/name+%23718
 msgctxt "data/maps/heat/path-05.json//entities/228/settings/event/38/name"
 msgid "Dia'strez"
-msgstr ""
+msgstr "Dia'strez"
 
 #. data/maps/heat/path-05.json entities/228/settings/event/40/message #680
 #. EventTrigger quest_traders-talk-1 START IF tmp.quest_traders-talk1
@@ -8601,7 +8605,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/228/settings/event/40/message+%23680
 msgctxt "data/maps/heat/path-05.json//entities/228/settings/event/40/message"
 msgid "Human understand and bring materials?"
-msgstr ""
+msgstr "El humano entendió y nos traerá materiales?"
 
 #. data/maps/heat/path-05.json entities/228/settings/event/41/message #681
 #. EventTrigger quest_traders-talk-1 START IF tmp.quest_traders-talk1
@@ -8617,7 +8621,7 @@ msgstr "[asiente]"
 #: data/maps/heat/path-05.json+entities/228/settings/event/42/message+%23682
 msgctxt "data/maps/heat/path-05.json//entities/228/settings/event/42/message"
 msgid "Good news!\\. Please hurry and help us move again."
-msgstr ""
+msgstr "¡Buenas noticias por fin!\\. Por favor, apúrate y ayúdanos a movernos de nuevo."
 
 #. data/maps/heat/path-05.json entities/228/settings/event/43/message #683
 #. EventTrigger quest_traders-talk-1 START IF tmp.quest_traders-talk1
@@ -8625,7 +8629,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/228/settings/event/43/message+%23683
 msgctxt "data/maps/heat/path-05.json//entities/228/settings/event/43/message"
 msgid "Yes, we wait and guard crate.\\. And try not be eaten."
-msgstr ""
+msgstr "Sí, esperaremos y vigilaremos la caja.\\. Bueno, y trataremos de no ser comidos."
 
 #. data/maps/heat/path-05.json entities/228/settings/event/44/message #684
 #. EventTrigger quest_traders-talk-1 START IF tmp.quest_traders-talk1
@@ -8641,7 +8645,7 @@ msgstr "¡Adiós!"
 #: data/maps/heat/path-05.json+entities/229/settings/event/6/name+%23719
 msgctxt "data/maps/heat/path-05.json//entities/229/settings/event/6/name"
 msgid "Quo'wark"
-msgstr ""
+msgstr "Quo'wark"
 
 #. data/maps/heat/path-05.json entities/229/settings/event/7/name #720
 #. EventTrigger quest_traders-talk-2 START IF tmp.quest_traders-talk2
@@ -8649,7 +8653,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/229/settings/event/7/name+%23720
 msgctxt "data/maps/heat/path-05.json//entities/229/settings/event/7/name"
 msgid "Dia'strez"
-msgstr ""
+msgstr "Dia'strez"
 
 #. data/maps/heat/path-05.json entities/229/settings/event/9/message #631
 #. EventTrigger quest_traders-talk-2 START IF tmp.quest_traders-talk2
@@ -8665,15 +8669,16 @@ msgstr "¡Hola!"
 #: data/maps/heat/path-05.json+entities/229/settings/event/10/message+%23638
 msgctxt "data/maps/heat/path-05.json//entities/229/settings/event/10/message"
 msgid "You got needed materials?\\. It splendid!"
-msgstr ""
+msgstr "¿Tienes los materiales necesarios?\\. ¡Espléndido!"
 
 #. data/maps/heat/path-05.json entities/229/settings/event/11/message #686
 #. EventTrigger quest_traders-talk-2 START IF tmp.quest_traders-talk2
 #. SHOW_MSG baki.male-yellow-bald @DEFAULT
 #: data/maps/heat/path-05.json+entities/229/settings/event/11/message+%23686
+#, fuzzy
 msgctxt "data/maps/heat/path-05.json//entities/229/settings/event/11/message"
 msgid "Yes!\\. It splendid!\\. Now we can do repairs and leave sandy sharkplace!"
-msgstr ""
+msgstr "¡Sí!\\. ¡Es espléndido!\\. ¡Ahora podemos hacer reparaciones y dejar Sandy Sharkplace!"
 
 #. data/maps/heat/path-05.json entities/229/settings/event/12/message #633
 #. EventTrigger quest_traders-talk-2 START IF tmp.quest_traders-talk2
@@ -8689,7 +8694,7 @@ msgstr "[asiente]"
 #: data/maps/heat/path-05.json+entities/229/settings/event/13/message+%23687
 msgctxt "data/maps/heat/path-05.json//entities/229/settings/event/13/message"
 msgid "Yes, but there one problem.\\. To repair engine, platform needs restart.\\. Including shield."
-msgstr ""
+msgstr "Sí, pero hay un problema.\\. Para reparar el motor, la plataforma necesita reiniciarse.\\. Incluyendo el escudo."
 
 #. data/maps/heat/path-05.json entities/229/settings/event/14/message #688
 #. EventTrigger quest_traders-talk-2 START IF tmp.quest_traders-talk2
@@ -8697,7 +8702,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/229/settings/event/14/message+%23688
 msgctxt "data/maps/heat/path-05.json//entities/229/settings/event/14/message"
 msgid "Oh no.\\. Then monsters can attack precious cargo!"
-msgstr ""
+msgstr "Oh, no.\\. ¡Entonces los monstruos pueden atacar el cargamento!"
 
 #. data/maps/heat/path-05.json entities/229/settings/event/15/message #689
 #. EventTrigger quest_traders-talk-2 START IF tmp.quest_traders-talk2
@@ -8713,7 +8718,7 @@ msgstr "¡...!"
 #: data/maps/heat/path-05.json+entities/229/settings/event/16/message+%23690
 msgctxt "data/maps/heat/path-05.json//entities/229/settings/event/16/message"
 msgid "\\v[lore.title.seeker] we need more help.\\. Please also protect transport for time needed to restart."
-msgstr ""
+msgstr "\\v[lore.title.seeker] Necesitamos más ayuda.\\. Protégenos durante el tiempo necesario para reiniciar."
 
 #. data/maps/heat/path-05.json entities/229/settings/event/17/message #691
 #. EventTrigger quest_traders-talk-2 START IF tmp.quest_traders-talk2
@@ -8721,7 +8726,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/229/settings/event/17/message+%23691
 msgctxt "data/maps/heat/path-05.json//entities/229/settings/event/17/message"
 msgid "Yes, yes.\\. Please help.\\. It only around 2 minutes!"
-msgstr ""
+msgstr "Sí, sí.\\. Por favor ayuda.\\. ¡Serán solo 2 minutos, creo!"
 
 #. data/maps/heat/path-05.json entities/229/settings/event/18/message #692
 #. EventTrigger quest_traders-talk-2 START IF tmp.quest_traders-talk2
@@ -8745,7 +8750,7 @@ msgstr "[asiente]"
 #: data/maps/heat/path-05.json+entities/229/settings/event/20/message+%23694
 msgctxt "data/maps/heat/path-05.json//entities/229/settings/event/20/message"
 msgid "Good, good!\\. Please prepare for protection and talk again, when ready!"
-msgstr ""
+msgstr "¡Bien bien!\\. ¡Prepárese para protegernos y vuelva a hablar cuando esté listo!"
 
 #. data/maps/heat/path-05.json entities/230/settings/event/7/name #721
 #. EventTrigger quest_traders-talk-3 START IF tmp.quest_traders-talk3
@@ -8753,7 +8758,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/230/settings/event/7/name+%23721
 msgctxt "data/maps/heat/path-05.json//entities/230/settings/event/7/name"
 msgid "Quo'wark"
-msgstr ""
+msgstr "Quo'wark"
 
 #. data/maps/heat/path-05.json entities/230/settings/event/8/name #722
 #. EventTrigger quest_traders-talk-3 START IF tmp.quest_traders-talk3
@@ -8761,7 +8766,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/230/settings/event/8/name+%23722
 msgctxt "data/maps/heat/path-05.json//entities/230/settings/event/8/name"
 msgid "Dia'strez"
-msgstr ""
+msgstr "Dia'strez"
 
 #. data/maps/heat/path-05.json entities/230/settings/event/10/message #702
 #. EventTrigger quest_traders-talk-3 START IF tmp.quest_traders-talk3
@@ -8777,7 +8782,7 @@ msgstr "¡Hola!"
 #: data/maps/heat/path-05.json+entities/230/settings/event/11/message+%23653
 msgctxt "data/maps/heat/path-05.json//entities/230/settings/event/11/message"
 msgid "Human ready to defend crate?"
-msgstr ""
+msgstr "¿Humano listo para defender la caja?"
 
 #. data/maps/heat/path-05.json entities/230/settings/event/12/0/0/message #636
 #. EventTrigger quest_traders-talk-3 START IF tmp.quest_traders-talk3
@@ -8795,7 +8800,7 @@ msgstr "[asiente]"
 #: data/maps/heat/path-05.json+entities/230/settings/event/12/0/1/message+%23647
 msgctxt "data/maps/heat/path-05.json//entities/230/settings/event/12/0/1/message"
 msgid "Hurray!"
-msgstr ""
+msgstr "¡Viva!"
 
 #. data/maps/heat/path-05.json entities/230/settings/event/12/0/2/message #695
 #. EventTrigger quest_traders-talk-3 START IF tmp.quest_traders-talk3
@@ -8804,7 +8809,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/230/settings/event/12/0/2/message+%23695
 msgctxt "data/maps/heat/path-05.json//entities/230/settings/event/12/0/2/message"
 msgid "Good, we starting repairs then.\\. Please protect crate till shield is back!"
-msgstr ""
+msgstr "Bien, empezamos las reparaciones entonces.\\. ¡Protege la caja hasta que el escudo regrese por favor!"
 
 #. data/maps/heat/path-05.json entities/230/settings/event/12/0/10/text #658
 #. EventTrigger quest_traders-talk-3 START IF tmp.quest_traders-talk3
@@ -8813,7 +8818,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/230/settings/event/12/0/10/text+%23658
 msgctxt "data/maps/heat/path-05.json//entities/230/settings/event/12/0/10/text"
 msgid "Self-repair process started. Shields offline!"
-msgstr ""
+msgstr "Se inició el proceso de autor reparación. ¡Escudos fuera de línea!"
 
 #. data/maps/heat/path-05.json entities/230/settings/event/12/0/14/name #723
 #. EventTrigger quest_traders-talk-3 START IF tmp.quest_traders-talk3
@@ -8822,7 +8827,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/230/settings/event/12/0/14/name+%23723
 msgctxt "data/maps/heat/path-05.json//entities/230/settings/event/12/0/14/name"
 msgid "Quo'wark"
-msgstr ""
+msgstr "Quo'wark"
 
 #. data/maps/heat/path-05.json entities/230/settings/event/12/0/15/name #724
 #. EventTrigger quest_traders-talk-3 START IF tmp.quest_traders-talk3
@@ -8831,7 +8836,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/230/settings/event/12/0/15/name+%23724
 msgctxt "data/maps/heat/path-05.json//entities/230/settings/event/12/0/15/name"
 msgid "Dia'strez"
-msgstr ""
+msgstr "Dia'strez"
 
 #. data/maps/heat/path-05.json entities/230/settings/event/12/0/17/message #699
 #. EventTrigger quest_traders-talk-3 START IF tmp.quest_traders-talk3
@@ -8840,7 +8845,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/230/settings/event/12/0/17/message+%23699
 msgctxt "data/maps/heat/path-05.json//entities/230/settings/event/12/0/17/message"
 msgid "Oh no, bad feeling!"
-msgstr ""
+msgstr "¡Ay, mal presentimiento!"
 
 #. data/maps/heat/path-05.json entities/230/settings/event/12/0/18/message #700
 #. EventTrigger quest_traders-talk-3 START IF tmp.quest_traders-talk3
@@ -8849,7 +8854,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/230/settings/event/12/0/18/message+%23700
 msgctxt "data/maps/heat/path-05.json//entities/230/settings/event/12/0/18/message"
 msgid "\\v[lore.title.seeker] be ready!\\. Angry bone creatures come near!"
-msgstr ""
+msgstr "\\v[lore.title.seeker] ¡Prepárate!\\. ¡Criaturas óseas enojadas se acercan!"
 
 #. data/maps/heat/path-05.json entities/230/settings/event/12/0/19/message #701
 #. EventTrigger quest_traders-talk-3 START IF tmp.quest_traders-talk3
@@ -8876,7 +8881,7 @@ msgstr "[niega con la cabeza]"
 #: data/maps/heat/path-05.json+entities/230/settings/event/12/1/1/message+%23696
 msgctxt "data/maps/heat/path-05.json//entities/230/settings/event/12/1/1/message"
 msgid "Fine, come back when ready.\\. Please return soon!"
-msgstr ""
+msgstr "Bien, regresa cuando estés listo.\\. ¡Por favor regrese pronto!"
 
 #. data/maps/heat/path-05.json entities/230/settings/event/12/1/2/message #648
 #. EventTrigger quest_traders-talk-3 START IF tmp.quest_traders-talk3
@@ -8885,7 +8890,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/230/settings/event/12/1/2/message+%23648
 msgctxt "data/maps/heat/path-05.json//entities/230/settings/event/12/1/2/message"
 msgid "Yes, please not leave \\v[lore.title.shad] in coarse sand much longer."
-msgstr ""
+msgstr "Sí, no nos dejes \\v[lore.title.shad] aquí por mucho más tiempo."
 
 #. data/maps/heat/path-05.json entities/230/settings/event/12/options/0/label #645
 #. EventTrigger quest_traders-talk-3 START IF tmp.quest_traders-talk3
@@ -8893,7 +8898,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/230/settings/event/12/options/0/label+%23645
 msgctxt "data/maps/heat/path-05.json//entities/230/settings/event/12/options/0/label"
 msgid "[Yes]"
-msgstr ""
+msgstr "[Sí]"
 
 #. data/maps/heat/path-05.json entities/230/settings/event/12/options/1/label #646
 #. EventTrigger quest_traders-talk-3 START IF tmp.quest_traders-talk3
@@ -8901,14 +8906,14 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/230/settings/event/12/options/1/label+%23646
 msgctxt "data/maps/heat/path-05.json//entities/230/settings/event/12/options/1/label"
 msgid "[No]"
-msgstr ""
+msgstr "[No]"
 
 #. data/maps/heat/path-05.json entities/231/settings/analyzable/text #654
 #. NPC quest-NPCtrader2
 #: data/maps/heat/path-05.json+entities/231/settings/analyzable/text+%23654
 msgctxt "data/maps/heat/path-05.json//entities/231/settings/analyzable/text"
 msgid "Diaz'trez"
-msgstr ""
+msgstr "Diaz'trez"
 
 #. data/maps/heat/path-05.json entities/231/settings/npcStates/1/event/0/name #725
 #. NPC quest-NPCtrader2
@@ -8917,7 +8922,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/231/settings/npcStates/1/event/0/name+%23725
 msgctxt "data/maps/heat/path-05.json//entities/231/settings/npcStates/1/event/0/name"
 msgid "Diaz'trez"
-msgstr ""
+msgstr "Diaz'trez"
 
 #. data/maps/heat/path-05.json entities/231/settings/npcStates/1/event/2/message #697
 #. NPC quest-NPCtrader2
@@ -8926,7 +8931,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/231/settings/npcStates/1/event/2/message+%23697
 msgctxt "data/maps/heat/path-05.json//entities/231/settings/npcStates/1/event/2/message"
 msgid "Human please bring \\c[3]\\v[item.190.name]\\c[0] from town market!"
-msgstr ""
+msgstr "Humano, por favor traiga \\c[3]\\v[item.190.name]\\c[0] del mercado de la ciudad!"
 
 #. data/maps/heat/path-05.json entities/231/settings/npcStates/1/event/3/message #698
 #. NPC quest-NPCtrader2
@@ -8935,7 +8940,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/231/settings/npcStates/1/event/3/message+%23698
 msgctxt "data/maps/heat/path-05.json//entities/231/settings/npcStates/1/event/3/message"
 msgid "Also \\c[3]\\v[item.186.name]\\c[0]!\\. And \\c[3]\\v[item.177.name]\\c[0] from plants in this desert!"
-msgstr ""
+msgstr "También \\c[3]\\v[item.186.name]\\c[0]!\\. ¡Y \\c[3]\\v[item.177.name]\\c[0] de plantas en este desierto!"
 
 #. data/maps/heat/path-05.json entities/231/settings/npcStates/1/event/4/message #656
 #. NPC quest-NPCtrader2
@@ -8950,9 +8955,10 @@ msgstr "[asiente]"
 #. EventTrigger triggerTest START IF tmp.triggerTest
 #. SHOW_AR_MSG
 #: data/maps/heat/path-05.json+entities/233/settings/event/0/text+%23657
+#, fuzzy
 msgctxt "data/maps/heat/path-05.json//entities/233/settings/event/0/text"
 msgid "TRIGGER"
-msgstr ""
+msgstr "APUNTAR"
 
 #. data/maps/heat/path-05.json entities/235/settings/event/1/thenStep/0/thenStep/0/message #663
 #. EventTrigger quest_traders-tackled_bla START IF tmp.quest_traders-tackle_bla
@@ -8962,7 +8968,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/235/settings/event/1/thenStep/0/thenStep/0/message+%23663
 msgctxt "data/maps/heat/path-05.json//entities/235/settings/event/1/thenStep/0/thenStep/0/message"
 msgid "Ah, \\v[lore.title.seeker], defend us from mean sharks!"
-msgstr ""
+msgstr "¡Ah, \\v[lore.title.seeker], defiéndenos de los malvados tiburones!"
 
 #. data/maps/heat/path-05.json entities/235/settings/event/1/thenStep/1/thenStep/0/message #660
 #. EventTrigger quest_traders-tackled_bla START IF tmp.quest_traders-tackle_bla
@@ -8972,7 +8978,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/235/settings/event/1/thenStep/1/thenStep/0/message+%23660
 msgctxt "data/maps/heat/path-05.json//entities/235/settings/event/1/thenStep/1/thenStep/0/message"
 msgid "Boss be angry when he sees damage..."
-msgstr ""
+msgstr "El jefe se enfada cuando ve daños..."
 
 #. data/maps/heat/path-05.json entities/235/settings/event/1/thenStep/1/thenStep/1/message #661
 #. EventTrigger quest_traders-tackled_bla START IF tmp.quest_traders-tackle_bla
@@ -8982,7 +8988,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/235/settings/event/1/thenStep/1/thenStep/1/message+%23661
 msgctxt "data/maps/heat/path-05.json//entities/235/settings/event/1/thenStep/1/thenStep/1/message"
 msgid "Oh no!"
-msgstr ""
+msgstr "Oh no!"
 
 #. data/maps/heat/path-05.json entities/235/settings/event/1/thenStep/2/thenStep/0/message #662
 #. EventTrigger quest_traders-tackled_bla START IF tmp.quest_traders-tackle_bla
@@ -8992,7 +8998,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/235/settings/event/1/thenStep/2/thenStep/0/message+%23662
 msgctxt "data/maps/heat/path-05.json//entities/235/settings/event/1/thenStep/2/thenStep/0/message"
 msgid "Ouch, not sound good."
-msgstr ""
+msgstr "Ouch, no suena bien."
 
 #. data/maps/heat/path-05.json entities/235/settings/event/1/thenStep/2/thenStep/1/message #659
 #. EventTrigger quest_traders-tackled_bla START IF tmp.quest_traders-tackle_bla
@@ -9002,7 +9008,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/235/settings/event/1/thenStep/2/thenStep/1/message+%23659
 msgctxt "data/maps/heat/path-05.json//entities/235/settings/event/1/thenStep/2/thenStep/1/message"
 msgid "No, not good at all."
-msgstr ""
+msgstr "No, no es bueno en absoluto."
 
 #. data/maps/heat/path-05.json entities/235/settings/event/1/thenStep/3/thenStep/0/message #664
 #. EventTrigger quest_traders-tackled_bla START IF tmp.quest_traders-tackle_bla
@@ -9012,7 +9018,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/235/settings/event/1/thenStep/3/thenStep/0/message+%23664
 msgctxt "data/maps/heat/path-05.json//entities/235/settings/event/1/thenStep/3/thenStep/0/message"
 msgid "\\v[lore.title.seeker], crate get unstable!\\. No more hit, please!"
-msgstr ""
+msgstr "\\v[lore.title.seeker], ¡la caja se vuelve inestable!\\. ¡No más golpes, por favor!"
 
 #. data/maps/heat/path-05.json entities/235/settings/event/1/thenStep/3/thenStep/1/message #665
 #. EventTrigger quest_traders-tackled_bla START IF tmp.quest_traders-tackle_bla
@@ -9022,7 +9028,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/235/settings/event/1/thenStep/3/thenStep/1/message+%23665
 msgctxt "data/maps/heat/path-05.json//entities/235/settings/event/1/thenStep/3/thenStep/1/message"
 msgid "Use body to protect, if must!"
-msgstr ""
+msgstr "¡Usa tu cuerpo para protegerlo, si es necesario!"
 
 #. data/maps/heat/path-05.json entities/237/settings/event/0/message #13
 #. LocationEvent gaps1 START IF party.alive.Emilie
@@ -9030,7 +9036,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/237/settings/event/0/message+%2313
 msgctxt "data/maps/heat/path-05.json//entities/237/settings/event/0/message"
 msgid "Whoa...\\. you can actually walk through here?"
-msgstr ""
+msgstr "Vaya...\\. ¿De verdad puedes caminar por aquí?"
 
 #. data/maps/heat/path-05.json entities/238/settings/event/4/message #729
 #. EventTrigger FindKit START IF quest.dekay-quest.started
@@ -9038,7 +9044,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/238/settings/event/4/message+%23729
 msgctxt "data/maps/heat/path-05.json//entities/238/settings/event/4/message"
 msgid "Hi Lea!"
-msgstr ""
+msgstr "¡Hola Lea!"
 
 #. data/maps/heat/path-05.json entities/238/settings/event/5/message #730
 #. EventTrigger FindKit START IF quest.dekay-quest.started
@@ -9046,7 +9052,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/238/settings/event/5/message+%23730
 msgctxt "data/maps/heat/path-05.json//entities/238/settings/event/5/message"
 msgid "Hi?"
-msgstr ""
+msgstr "¿Hola?"
 
 #. data/maps/heat/path-05.json entities/238/settings/event/6/message #731
 #. EventTrigger FindKit START IF quest.dekay-quest.started
@@ -9054,7 +9060,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/238/settings/event/6/message+%23731
 msgctxt "data/maps/heat/path-05.json//entities/238/settings/event/6/message"
 msgid "This is Kit!"
-msgstr ""
+msgstr "¡Este es Kit!"
 
 #. data/maps/heat/path-05.json entities/238/settings/event/7/message #732
 #. EventTrigger FindKit START IF quest.dekay-quest.started
@@ -9062,7 +9068,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/238/settings/event/7/message+%23732
 msgctxt "data/maps/heat/path-05.json//entities/238/settings/event/7/message"
 msgid "I see you arrived in \\c[3]Barren Arcs\\c[0]!"
-msgstr ""
+msgstr "¡Veo que llegaste a \\c[3]Arcos Estériles\\c[0]!"
 
 #. data/maps/heat/path-05.json entities/238/settings/event/8/message #733
 #. EventTrigger FindKit START IF quest.dekay-quest.started
@@ -9070,7 +9076,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/238/settings/event/8/message+%23733
 msgctxt "data/maps/heat/path-05.json//entities/238/settings/event/8/message"
 msgid "We'll need to meet at a certain spot...\\. hm...\\. how to describe it..."
-msgstr ""
+msgstr "Tendremos que encontrarnos en un lugar determinado...\\. mmm...\\. como describirlo..."
 
 #. data/maps/heat/path-05.json entities/238/settings/event/9/message #738
 #. EventTrigger FindKit START IF quest.dekay-quest.started
@@ -9078,7 +9084,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/238/settings/event/9/message+%23738
 msgctxt "data/maps/heat/path-05.json//entities/238/settings/event/9/message"
 msgid "Okay, first look for a \\c[3]lonely pillar\\c[0] in a \\c[3]nearby chasm\\c[0]..."
-msgstr ""
+msgstr "Bien, primero busca un \\c[3]pilar solitario\\c[0] en un \\c[3]abismo cercano\\c[0]..."
 
 #. data/maps/heat/path-05.json entities/238/settings/event/10/message #734
 #. EventTrigger FindKit START IF quest.dekay-quest.started
@@ -9086,7 +9092,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/238/settings/event/10/message+%23734
 msgctxt "data/maps/heat/path-05.json//entities/238/settings/event/10/message"
 msgid "From there, just head \\c[3]straight to the south\\c[0]!"
-msgstr ""
+msgstr "¡Desde allí, dirígete \\c[3]directamente hacia el sur\\c[0]!"
 
 #. data/maps/heat/path-05.json entities/238/settings/event/11/message #735
 #. EventTrigger FindKit START IF quest.dekay-quest.started
@@ -9094,7 +9100,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/238/settings/event/11/message+%23735
 msgctxt "data/maps/heat/path-05.json//entities/238/settings/event/11/message"
 msgid "Got that?"
-msgstr ""
+msgstr "¿Lo tienes?"
 
 #. data/maps/heat/path-05.json entities/238/settings/event/12/message #736
 #. EventTrigger FindKit START IF quest.dekay-quest.started
@@ -9119,7 +9125,7 @@ msgstr "[asiente]"
 #: data/maps/heat/path-05.json+entities/238/settings/event/14/thenStep/0/message+%23819
 msgctxt "data/maps/heat/path-05.json//entities/238/settings/event/14/thenStep/0/message"
 msgid "Oh... and also please make sure you are \\c[3]by yourself\\c[0]."
-msgstr ""
+msgstr "Oh... y también asegúrate de estar \\c[3]solo\\c[0]."
 
 #. data/maps/heat/path-05.json entities/238/settings/event/14/thenStep/1/message #820
 #. EventTrigger FindKit START IF quest.dekay-quest.started
@@ -9128,7 +9134,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/238/settings/event/14/thenStep/1/message+%23820
 msgctxt "data/maps/heat/path-05.json//entities/238/settings/event/14/thenStep/1/message"
 msgid "We need to keep this confidential!"
-msgstr ""
+msgstr "¡Tenemos que mantener esto confidencial!"
 
 #. data/maps/heat/path-05.json entities/238/settings/event/14/thenStep/2/message #821
 #. EventTrigger FindKit START IF quest.dekay-quest.started
@@ -9145,7 +9151,7 @@ msgstr "..."
 #: data/maps/heat/path-05.json+entities/238/settings/event/17/message+%23810
 msgctxt "data/maps/heat/path-05.json//entities/238/settings/event/17/message"
 msgid "Lea, again, are you really sure about this?"
-msgstr ""
+msgstr "Lea, de nuevo, ¿estás realmente segura de esto?"
 
 #. data/maps/heat/path-05.json entities/238/settings/event/18/message #811
 #. EventTrigger FindKit START IF quest.dekay-quest.started
@@ -9161,7 +9167,7 @@ msgstr "[asiente]"
 #: data/maps/heat/path-05.json+entities/240/settings/event/3/message+%23739
 msgctxt "data/maps/heat/path-05.json//entities/240/settings/event/3/message"
 msgid "Right...\\. you found the \\c[3]lonely pillar\\c[0]."
-msgstr ""
+msgstr "Bien...\\. encontraste el \\c[3]pilar solitario\\c[0]."
 
 #. data/maps/heat/path-05.json entities/240/settings/event/4/message #740
 #. EventTrigger SouthDirection START IF tmp.kitSouth
@@ -9169,7 +9175,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/240/settings/event/4/message+%23740
 msgctxt "data/maps/heat/path-05.json//entities/240/settings/event/4/message"
 msgid "Now just head \\c[3]straight to the south\\c[0]!"
-msgstr ""
+msgstr "¡Ahora dirígete \\c[3]directamente hacia el sur\\c[0]!"
 
 #. data/maps/heat/path-05.json entities/240/settings/event/5/message #741
 #. EventTrigger SouthDirection START IF tmp.kitSouth
@@ -9177,7 +9183,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/240/settings/event/5/message+%23741
 msgctxt "data/maps/heat/path-05.json//entities/240/settings/event/5/message"
 msgid "You're very close!"
-msgstr ""
+msgstr "¡Estás muy cerca!"
 
 #. data/maps/heat/path-05.json entities/240/settings/event/6/message #742
 #. EventTrigger SouthDirection START IF tmp.kitSouth
@@ -9194,7 +9200,7 @@ msgstr "..."
 #: data/maps/heat/path-05.json+entities/241/settings/npcStates/1/event/2/message+%23754
 msgctxt "data/maps/heat/path-05.json//entities/241/settings/npcStates/1/event/2/message"
 msgid "Just keep running at this wall to \\c[3]east\\c[0]."
-msgstr ""
+msgstr "Sigue corriendo hacia este muro hacia el \\c[3]este\\c[0]."
 
 #. data/maps/heat/path-05.json entities/241/settings/npcStates/1/event/3/message #771
 #. NPC kit
@@ -9203,7 +9209,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/241/settings/npcStates/1/event/3/message+%23771
 msgctxt "data/maps/heat/path-05.json//entities/241/settings/npcStates/1/event/3/message"
 msgid "Once you do that, I'll give you instructions to find exactly the \\c[3]right spot\\c[0]!"
-msgstr ""
+msgstr "¡Una vez que lo hagas, te daré instrucciones para encontrar exactamente el \\c[3]lugar correcto\\c[0]!"
 
 #. data/maps/heat/path-05.json entities/241/settings/npcStates/1/event/4/message #772
 #. NPC kit
@@ -9221,7 +9227,7 @@ msgstr "[asiente]"
 #: data/maps/heat/path-05.json+entities/241/settings/npcStates/4/event/2/message+%23806
 msgctxt "data/maps/heat/path-05.json//entities/241/settings/npcStates/4/event/2/message"
 msgid "From here keep running at the wall to \\c[3]south\\c[0]."
-msgstr ""
+msgstr "Desde aquí sigue corriendo hacia la pared hacia el \\c[3]sur\\c[0]."
 
 #. data/maps/heat/path-05.json entities/241/settings/npcStates/4/event/3/message #807
 #. NPC kit
@@ -9230,7 +9236,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/241/settings/npcStates/4/event/3/message+%23807
 msgctxt "data/maps/heat/path-05.json//entities/241/settings/npcStates/4/event/3/message"
 msgid "I'll again give you instructions to find the \\c[3]right spot\\c[0]!"
-msgstr ""
+msgstr "¡Otra vez te daré instrucciones para encontrar el \\c[3]lugar correcto\\c[0]!"
 
 #. data/maps/heat/path-05.json entities/241/settings/npcStates/4/event/4/message #808
 #. NPC kit
@@ -9248,7 +9254,7 @@ msgstr "..."
 #: data/maps/heat/path-05.json+entities/243/settings/event/1/thenStep/4/message+%23822
 msgctxt "data/maps/heat/path-05.json//entities/243/settings/event/1/thenStep/4/message"
 msgid "Lea... you need to \\c[3]disband your party\\c[0]."
-msgstr ""
+msgstr "Lea... necesitas \\c[3]disolver tu grupo\\c[0]."
 
 #. data/maps/heat/path-05.json entities/243/settings/event/1/thenStep/5/message #823
 #. EventTrigger kitAppears START IF tmp.meetKit
@@ -9257,7 +9263,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/243/settings/event/1/thenStep/5/message+%23823
 msgctxt "data/maps/heat/path-05.json//entities/243/settings/event/1/thenStep/5/message"
 msgid "We shouldn't risk to have more players involved in this."
-msgstr ""
+msgstr "No deberíamos arriesgarnos a tener más jugadores involucrados en esto."
 
 #. data/maps/heat/path-05.json entities/243/settings/event/1/thenStep/6/message #824
 #. EventTrigger kitAppears START IF tmp.meetKit
@@ -9275,7 +9281,7 @@ msgstr "..."
 #: data/maps/heat/path-05.json+entities/243/settings/event/1/elseStep/12/message+%23743
 msgctxt "data/maps/heat/path-05.json//entities/243/settings/event/1/elseStep/12/message"
 msgid "There you are!"
-msgstr ""
+msgstr "¡Ahí tienes!"
 
 #. data/maps/heat/path-05.json entities/243/settings/event/1/elseStep/13/message #744
 #. EventTrigger kitAppears START IF tmp.meetKit
@@ -9284,7 +9290,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/243/settings/event/1/elseStep/13/message+%23744
 msgctxt "data/maps/heat/path-05.json//entities/243/settings/event/1/elseStep/13/message"
 msgid "Hi?!"
-msgstr ""
+msgstr "¡¿Hola?!"
 
 #. data/maps/heat/path-05.json entities/243/settings/event/1/elseStep/15/message #745
 #. EventTrigger kitAppears START IF tmp.meetKit
@@ -9293,7 +9299,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/243/settings/event/1/elseStep/15/message+%23745
 msgctxt "data/maps/heat/path-05.json//entities/243/settings/event/1/elseStep/15/message"
 msgid "Ha...\\. you look confused.\\. That makes sense."
-msgstr ""
+msgstr "Ah...\\. te ves confundida.\\. Eso tiene sentido."
 
 #. data/maps/heat/path-05.json entities/243/settings/event/1/elseStep/16/message #746
 #. EventTrigger kitAppears START IF tmp.meetKit
@@ -9302,7 +9308,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/243/settings/event/1/elseStep/16/message+%23746
 msgctxt "data/maps/heat/path-05.json//entities/243/settings/event/1/elseStep/16/message"
 msgid "You don't see avatars like mine around here that often, do you?"
-msgstr ""
+msgstr "No ves avatares como el mío por aquí tan a menudo, ¿verdad?"
 
 #. data/maps/heat/path-05.json entities/243/settings/event/1/elseStep/17/message #747
 #. EventTrigger kitAppears START IF tmp.meetKit
@@ -9320,7 +9326,7 @@ msgstr "¿Cómo?"
 #: data/maps/heat/path-05.json+entities/243/settings/event/1/elseStep/18/message+%23748
 msgctxt "data/maps/heat/path-05.json//entities/243/settings/event/1/elseStep/18/message"
 msgid "Well...\\. there are some tricks you can use to get an avatar like this."
-msgstr ""
+msgstr "Bien...\\. hay algunos trucos que puedes usar para conseguir un avatar como este."
 
 #. data/maps/heat/path-05.json entities/243/settings/event/1/elseStep/19/message #749
 #. EventTrigger kitAppears START IF tmp.meetKit
@@ -9329,7 +9335,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/243/settings/event/1/elseStep/19/message+%23749
 msgctxt "data/maps/heat/path-05.json//entities/243/settings/event/1/elseStep/19/message"
 msgid "Though this isn't exactly allowed.\\. Which is why I can't just walk around all willy-nilly!"
-msgstr ""
+msgstr "Aunque esto no está permitido.\\. ¡Es por eso que no puedo simplemente caminar por ahí como si nada!"
 
 #. data/maps/heat/path-05.json entities/243/settings/event/1/elseStep/20/message #750
 #. EventTrigger kitAppears START IF tmp.meetKit
@@ -9356,7 +9362,7 @@ msgstr "¿Por qué?"
 #: data/maps/heat/path-05.json+entities/243/settings/event/1/elseStep/22/message+%23752
 msgctxt "data/maps/heat/path-05.json//entities/243/settings/event/1/elseStep/22/message"
 msgid "Huh?\\. Why am I using this Avatar then?"
-msgstr ""
+msgstr "¿Eh?\\. ¿Por qué estoy usando este Avatar entonces?"
 
 #. data/maps/heat/path-05.json entities/243/settings/event/1/elseStep/23/message #753
 #. EventTrigger kitAppears START IF tmp.meetKit
@@ -9374,7 +9380,7 @@ msgstr "[asiente]"
 #: data/maps/heat/path-05.json+entities/243/settings/event/1/elseStep/24/message+%23773
 msgctxt "data/maps/heat/path-05.json//entities/243/settings/event/1/elseStep/24/message"
 msgid "Well...\\. it's cute, don't you think?"
-msgstr ""
+msgstr "Bien...\\. es lindo, ¿no crees?"
 
 #. data/maps/heat/path-05.json entities/243/settings/event/1/elseStep/25/message #781
 #. EventTrigger kitAppears START IF tmp.meetKit
@@ -9392,7 +9398,7 @@ msgstr "..."
 #: data/maps/heat/path-05.json+entities/243/settings/event/1/elseStep/26/message+%23755
 msgctxt "data/maps/heat/path-05.json//entities/243/settings/event/1/elseStep/26/message"
 msgid "Also it will be helpful for what we're about to do."
-msgstr ""
+msgstr "También será útil para lo que estamos a punto de hacer."
 
 #. data/maps/heat/path-05.json entities/243/settings/event/1/elseStep/27/message #756
 #. EventTrigger kitAppears START IF tmp.meetKit
@@ -9401,7 +9407,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/243/settings/event/1/elseStep/27/message+%23756
 msgctxt "data/maps/heat/path-05.json//entities/243/settings/event/1/elseStep/27/message"
 msgid "There is a reason they don't want modded avatars like this."
-msgstr ""
+msgstr "Hay una razón por la que no quieren avatares modificados como este."
 
 #. data/maps/heat/path-05.json entities/243/settings/event/1/elseStep/28/message #757
 #. EventTrigger kitAppears START IF tmp.meetKit
@@ -9410,7 +9416,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/243/settings/event/1/elseStep/28/message+%23757
 msgctxt "data/maps/heat/path-05.json//entities/243/settings/event/1/elseStep/28/message"
 msgid "The game tends to glitch...\\. just a little bit easier!"
-msgstr ""
+msgstr "El juego tiende a fallar...\\. ¡solo un poco más fácil!"
 
 #. data/maps/heat/path-05.json entities/243/settings/event/1/elseStep/29/message #758
 #. EventTrigger kitAppears START IF tmp.meetKit
@@ -9428,7 +9434,7 @@ msgstr "¿...?"
 #: data/maps/heat/path-05.json+entities/243/settings/event/1/elseStep/30/message+%23759
 msgctxt "data/maps/heat/path-05.json//entities/243/settings/event/1/elseStep/30/message"
 msgid "Oh yeah, I probably should explain what we're doing today!"
-msgstr ""
+msgstr "Oh, sí, ¡probablemente debería explicar lo que haremos hoy!"
 
 #. data/maps/heat/path-05.json entities/243/settings/event/1/elseStep/31/message #760
 #. EventTrigger kitAppears START IF tmp.meetKit
@@ -9437,7 +9443,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/243/settings/event/1/elseStep/31/message+%23760
 msgctxt "data/maps/heat/path-05.json//entities/243/settings/event/1/elseStep/31/message"
 msgid "We'll explore some \\c[3]new and unknown territory\\c[0]!"
-msgstr ""
+msgstr "¡Exploraremos algún \\c[3]territorio nuevo y desconocido\\c[0]!"
 
 #. data/maps/heat/path-05.json entities/243/settings/event/1/elseStep/32/message #761
 #. EventTrigger kitAppears START IF tmp.meetKit
@@ -9455,7 +9461,7 @@ msgstr "¡...!"
 #: data/maps/heat/path-05.json+entities/243/settings/event/1/elseStep/33/message+%23762
 msgctxt "data/maps/heat/path-05.json//entities/243/settings/event/1/elseStep/33/message"
 msgid "In fact, I understand it's a little testing area for developers that has been left in the Playground."
-msgstr ""
+msgstr "De hecho, entiendo que es una pequeña área de prueba para desarrolladores que se ha dejado en el Patio de Juegos."
 
 #. data/maps/heat/path-05.json entities/243/settings/event/1/elseStep/34/message #763
 #. EventTrigger kitAppears START IF tmp.meetKit
@@ -9464,7 +9470,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/243/settings/event/1/elseStep/34/message+%23763
 msgctxt "data/maps/heat/path-05.json//entities/243/settings/event/1/elseStep/34/message"
 msgid "And it's supposed to be quite the experience!"
-msgstr ""
+msgstr "¡Y se supone que es toda una experiencia!"
 
 #. data/maps/heat/path-05.json entities/243/settings/event/1/elseStep/35/message #764
 #. EventTrigger kitAppears START IF tmp.meetKit
@@ -9473,7 +9479,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/243/settings/event/1/elseStep/35/message+%23764
 msgctxt "data/maps/heat/path-05.json//entities/243/settings/event/1/elseStep/35/message"
 msgid "...!!"
-msgstr ""
+msgstr "...!!"
 
 #. data/maps/heat/path-05.json entities/243/settings/event/1/elseStep/36/message #765
 #. EventTrigger kitAppears START IF tmp.meetKit
@@ -9482,7 +9488,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/243/settings/event/1/elseStep/36/message+%23765
 msgctxt "data/maps/heat/path-05.json//entities/243/settings/event/1/elseStep/36/message"
 msgid "We'll just have to do a few things...\\. very precisely...\\. to get there."
-msgstr ""
+msgstr "Tendremos que hacer algunas cosas...\\. muy precisamente...\\. para llegar allí."
 
 #. data/maps/heat/path-05.json entities/243/settings/event/1/elseStep/37/message #766
 #. EventTrigger kitAppears START IF tmp.meetKit
@@ -9491,7 +9497,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/243/settings/event/1/elseStep/37/message+%23766
 msgctxt "data/maps/heat/path-05.json//entities/243/settings/event/1/elseStep/37/message"
 msgid "This way!"
-msgstr ""
+msgstr "¡De esta manera!"
 
 #. data/maps/heat/path-05.json entities/243/settings/event/1/elseStep/46/message #767
 #. EventTrigger kitAppears START IF tmp.meetKit
@@ -9500,7 +9506,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/243/settings/event/1/elseStep/46/message+%23767
 msgctxt "data/maps/heat/path-05.json//entities/243/settings/event/1/elseStep/46/message"
 msgid "I'll need you to run against this wall here. To the \\c[3]east\\c[0]."
-msgstr ""
+msgstr "Necesitaré que corras contra esta pared aquí. Al \\c[3]este\\c[0]."
 
 #. data/maps/heat/path-05.json entities/243/settings/event/1/elseStep/47/message #768
 #. EventTrigger kitAppears START IF tmp.meetKit
@@ -9509,7 +9515,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/243/settings/event/1/elseStep/47/message+%23768
 msgctxt "data/maps/heat/path-05.json//entities/243/settings/event/1/elseStep/47/message"
 msgid "But you'll have to run at just the \\c[3]right spot\\c[0]."
-msgstr ""
+msgstr "Pero tendrás que correr justo en el \\c[3]punto correcto\\c[0]."
 
 #. data/maps/heat/path-05.json entities/243/settings/event/1/elseStep/48/message #769
 #. EventTrigger kitAppears START IF tmp.meetKit
@@ -11212,7 +11218,7 @@ msgstr "Bien, ya que estamos aquí..."
 #: data/maps/heat/path-11.json+entities/457/settings/npcStates/0/event/quest/21/message+%2347
 msgctxt "data/maps/heat/path-11.json//entities/457/settings/npcStates/0/event/quest/21/message"
 msgid "Did you already finish that \\c[3]Maroon Tree Quest\\c[0]?"
-msgstr "¿Has terminado esa \\c[3]Misión del Árbol Maroon\\c[0]?"
+msgstr "¿Has terminado esa \\c[3]Misión del Árbol Granate\\c[0]?"
 
 #. data/maps/heat/path-11.json entities/457/settings/npcStates/0/event/quest/22/message #48
 #. NPC glasses
@@ -11351,7 +11357,7 @@ msgstr "C'tron"
 #: data/maps/heat/path-11.json+entities/457/settings/npcStates/0/event/quest/39/task+%2360
 msgctxt "data/maps/heat/path-11.json//entities/457/settings/npcStates/0/event/quest/39/task"
 msgid "You and C'tron decided to explore Maroon Valley and solve the \\c[3]Maroon Tree Defender\\c[0] quest together."
-msgstr "C'tron y tú decidieron explorar Maroon Valley y terminar la misión \"\\c[3]Defensor del Árbol Maroon\\c[0]\" juntos."
+msgstr "C'tron y tú decidieron explorar el Valle Granate y terminar la misión \"\\c[3]Defensor del Árbol Granate\\c[0]\" juntos."
 
 #. data/maps/heat/path-11.json entities/458/settings/event/8/message #1142
 #. EventTrigger ctronRememberEvent2 START IF tmp.ctronEvent
@@ -11801,7 +11807,7 @@ msgstr ""
 #: data/maps/heat/special/glitch-area.json+entities/304/settings/npcStates/0/event/2/message+%23841
 msgctxt "data/maps/heat/special/glitch-area.json//entities/304/settings/npcStates/0/event/2/message"
 msgid "Good luck! I heard they've been really creative with the usage of props in this level."
-msgstr ""
+msgstr "¡Buena suerte! Escuché que han sido muy creativos con el uso de accesorios en este nivel."
 
 #. data/maps/heat/special/glitch-area.json entities/304/settings/npcStates/0/event/3/message #840
 #. NPC kit
@@ -11827,7 +11833,7 @@ msgstr ""
 #: data/maps/heat/special/glitch-area.json+entities/304/settings/npcStates/1/event/3/message+%23861
 msgctxt "data/maps/heat/special/glitch-area.json//entities/304/settings/npcStates/1/event/3/message"
 msgid "Good luck!"
-msgstr ""
+msgstr "¡Buena suerte!"
 
 #. data/maps/heat/special/glitch-area.json entities/304/settings/npcStates/1/event/4/message #862
 #. NPC kit
@@ -12018,7 +12024,7 @@ msgstr ""
 #: data/maps/heat/special/glitch-area.json+entities/410/settings/event/14/message+%23852
 msgctxt "data/maps/heat/special/glitch-area.json//entities/410/settings/event/14/message"
 msgid "Good luck!"
-msgstr ""
+msgstr "¡Buena suerte!"
 
 #. data/maps/heat/special/glitch-area.json entities/410/settings/event/15/message #853
 #. EventTrigger reachedEnd START IF tmp.reachedEnd
@@ -13659,6 +13665,14 @@ msgid ""
 "\n"
 "\\c[1][END OF MAIL]\\c[0]"
 msgstr ""
+"De todos modos, buena suerte con eso y por favor no dejes que se escapen en esta dirección.\n"
+"\n"
+"Salud,\n"
+"[NOMBRE ELIMINADO]\n"
+"\n"
+"PD: ¿Cena conjunta y boliche láser el próximo viernes?\n"
+"\n"
+"\\c[1][FIN DEL CORREO]\\c[0]"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-boss.json entities/3/settings/condAnims/0/interact/hoverText #6
 #. Prop
