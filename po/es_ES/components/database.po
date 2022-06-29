@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-06-28 23:41+0000\n"
+"PO-Revision-Date: 2022-07-01 06:41+0000\n"
 "Last-Translator: Kevin Junior Neciosup Galeano <kjneciosup1@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/database/es/>\n"
 "Language: es_ES\n"
@@ -730,7 +730,7 @@ msgstr "Tienen 5 corazones"
 #: data/database.json+achievements/kill-boss-worm/description+%2313244
 msgctxt "data/database.json//achievements/kill-boss-worm/description"
 msgid "\\c[3]Defeat \\v[combat.name.heat/sandworm-boss]\\c[0] below the Maroon Tree in \\v[area.heat-area.name]."
-msgstr "\\c[3]Derrota a \\v[combat.name.heat/sandworm-boss]\\c[0] debajo del Árbol Maroon en \\v[area.heat-area.name]."
+msgstr "\\c[3]Derrota a \\v[combat.name.heat/sandworm-boss]\\c[0] debajo del Árbol Granate en \\v[area.heat-area.name]."
 
 #. data/database.json achievements/kill-boss-moth/name #13219
 #: data/database.json+achievements/kill-boss-moth/name+%2313219
@@ -2876,13 +2876,13 @@ msgstr "Un punto de referencia localizado cerca de las piedras arqueadas del Val
 #: data/database.json+areas/heat-area/landmarks/oasis/name+%233990
 msgctxt "data/database.json//areas/heat-area/landmarks/oasis/name"
 msgid "Maroon Tree"
-msgstr "Árbol Maroon"
+msgstr "Árbol Granate"
 
 #. data/database.json areas/heat-area/landmarks/oasis/description #3991
 #: data/database.json+areas/heat-area/landmarks/oasis/description+%233991
 msgctxt "data/database.json//areas/heat-area/landmarks/oasis/description"
 msgid "A lush and vivid oasis crowned by a majestic maroon tree."
-msgstr "Un oasis exuberante y vivo, coronado por el majestuoso Árbol Maroon."
+msgstr "Un oasis exuberante y vivo, coronado por el majestuoso Árbol Granate."
 
 #. data/database.json areas/heat-area/landmarks/entrance/name #3636
 #: data/database.json+areas/heat-area/landmarks/entrance/name+%233636
@@ -11427,7 +11427,7 @@ msgstr "Aprende más sobre las \\c[3]Misiones de Élite\\c[0]."
 #: data/database.json+commonEvents/tutorial-elite/event/1/acceptStep/10/text+%238198
 msgctxt "data/database.json//commonEvents/tutorial-elite/event/1/acceptStep/10/text"
 msgid "\\c[3]Elite Quests\\c[0] are difficult quests marked with an \\c[3]exclamation mark and red outlines\\c[0]."
-msgstr "Las \\c[3]Misiones de Élite\\c[0] son misiones difíciles maracadas con \\c[3]un signo de exclamación y un marco rojo\\c[0]."
+msgstr "Las \\c[3]Misiones de Élite\\c[0] son misiones difíciles marcadas con \\c[3]un signo de exclamación y un marco rojo\\c[0]."
 
 #. data/database.json commonEvents/tutorial-elite/event/1/acceptStep/12/text #8199
 #. IF tutorials.questElite
@@ -16599,7 +16599,7 @@ msgstr "¡...!"
 #: data/database.json+commonEvents/joern-contact/event/8/thenStep/5/message+%2317493
 msgctxt "data/database.json//commonEvents/joern-contact/event/8/thenStep/5/message"
 msgid "Anyway, have fun with the new area.\\. And good luck with your duel!"
-msgstr ""
+msgstr "De todos modos, diviértete con la nueva área.\\. ¡Y buena suerte con tu duelo!"
 
 #. data/database.json commonEvents/joern-contact/event/8/thenStep/6/message #17494
 #. IF plot.line >= 44400
@@ -26742,13 +26742,13 @@ msgstr ""
 #: data/database.json+enemies/heat.volturbine/name+%234126
 msgctxt "data/database.json//enemies/heat.volturbine/name"
 msgid "Vulturbine"
-msgstr ""
+msgstr "Buiturbina"
 
 #. data/database.json enemies/heat.volturbine/species #-1
 #: data/database.json+enemies/heat.volturbine/species+%23-1
 msgctxt "data/database.json//enemies/heat.volturbine/species"
 msgid "Flaming Bird"
-msgstr ""
+msgstr "Pájaro Llameante"
 
 #. data/database.json enemies/heat.volturbine/descriptions/0/text #-3
 #: data/database.json+enemies/heat.volturbine/descriptions/0/text+%23-3
@@ -26757,6 +26757,8 @@ msgid ""
 "This bird is often described as the phoenix of \\c[3]\\v[area.heat-area.name]\\c[0]. Until provoked they will usually just fly around and only prey on deceased animals. \n"
 "If you however choose to attack them... get ready for all their flaming wrath. They can use their jet turbines to boost into a flaming dive attack. If you time your guard you can counter and leave them open for big damage! Otherwise you better keep your distance and use ranged attacks whenever you see an opening."
 msgstr ""
+"Esta ave es descrito como el fénix de \\c[3]\\v[area.heat-area.name]\\c[0]. Amenos que sean provocados, por lo general solo volarán y solo se alimentarán de animales muertos.\n"
+"Sin embargo, si eliges atacarlos... prepárate para toda su ira llameante. Pueden usar sus turbinas para impulsar un ataque en picado en llamas. ¡Si bloqueas correctamente, puedes contraatacar y dejarlos abiertos para un gran daño! Sino, es mejor que uses ataques a distancia cada vez que veas la oportunidad."
 
 #. data/database.json enemies/heat.special.volturbine-cave/name #10299
 #: data/database.json+enemies/heat.special.volturbine-cave/name+%2310299
@@ -37597,7 +37599,7 @@ msgstr "\\c[3]Guard Billston\\c[0] parece sospechoso. \\c[3]Inspeccione\\c[0] en
 #: data/database.json+quests/bakiGuard-1-basar_thief_1/tasks/3/task+%239575
 msgctxt "data/database.json//quests/bakiGuard-1-basar_thief_1/tasks/3/task"
 msgid "Search for a suspicious person at the \\c[3]\\v[area.heat-village.name] Solarfarm\\c[0]"
-msgstr "Busque a una persona sospechosa en \\c[3]\\v[area.heat-village.name] Solarfarm\\c[0]"
+msgstr "Busque a una persona sospechosa en la \\c[3]Granja Solar de \\v[area.heat-village.name]\\c[0]"
 
 #. data/database.json quests/bakiGuard-1-basar_thief_1/tasks/4/task #9075
 #: data/database.json+quests/bakiGuard-1-basar_thief_1/tasks/4/task+%239075
@@ -39775,7 +39777,7 @@ msgstr "Busca a \\c[3]Reize\\c[0] en \\c[3]Sendero de Bergen\\c[0] cerca de una 
 #: data/database.json+quests/seizui-quest/tasks/2/task+%2316252
 msgctxt "data/database.json//quests/seizui-quest/tasks/2/task"
 msgid "Look for \\c[3]Reize\\c[0] in \\c[3]Maroon Valley\\c[0] close to a \\c[3]pink tree\\c[0]"
-msgstr "Busca a \\c[3]Reize\\c[0] en \\c[3]Maroon Valley\\c[0] cerca de un \\c[3]árbol rosa\\c[0]"
+msgstr "Busca a \\c[3]Reize\\c[0] en el \\c[3]Valle Granate\\c[0] cerca de un \\c[3]árbol rosa\\c[0]"
 
 #. data/database.json quests/seizui-quest/tasks/3/task #16253
 #: data/database.json+quests/seizui-quest/tasks/3/task+%2316253
