@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-07-02 16:41+0000\n"
+"PO-Revision-Date: 2022-07-04 04:41+0000\n"
 "Last-Translator: Kevin Junior Neciosup Galeano <kjneciosup1@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/heat/es/>\n"
 "Language: es_ES\n"
@@ -8177,10 +8177,9 @@ msgstr "Llave Aplicada"
 #. ADD_GUI
 #. BarWidget
 #: data/maps/heat/path-05.json+entities/202/settings/event/4/guiInfo/settings/text+%23178
-#, fuzzy
 msgctxt "data/maps/heat/path-05.json//entities/202/settings/event/4/guiInfo/settings/text"
 msgid "Crate HP"
-msgstr "Caja HP"
+msgstr "PV de la Caja"
 
 #. data/maps/heat/path-05.json entities/202/settings/event/5/task #163
 #. EventTrigger quest_traders-defense_start START IF tmp.quest_traders-defense_start
@@ -8954,7 +8953,6 @@ msgstr "[asiente]"
 #. EventTrigger triggerTest START IF tmp.triggerTest
 #. SHOW_AR_MSG
 #: data/maps/heat/path-05.json+entities/233/settings/event/0/text+%23657
-#, fuzzy
 msgctxt "data/maps/heat/path-05.json//entities/233/settings/event/0/text"
 msgid "TRIGGER"
 msgstr "APUNTAR"
@@ -9523,7 +9521,7 @@ msgstr "Pero tendrás que correr justo en el \\c[3]punto correcto\\c[0]."
 #: data/maps/heat/path-05.json+entities/243/settings/event/1/elseStep/48/message+%23769
 msgctxt "data/maps/heat/path-05.json//entities/243/settings/event/1/elseStep/48/message"
 msgid "I suggest you just keep running against this wall and I'll give more detailed instructions for your position!"
-msgstr ""
+msgstr "¡Te sugiero que sigas corriendo contra esta pared y te daré instrucciones más detalladas de tu posición!"
 
 #. data/maps/heat/path-05.json entities/243/settings/event/1/elseStep/49/message #770
 #. EventTrigger kitAppears START IF tmp.meetKit
@@ -9541,7 +9539,7 @@ msgstr "[asiente]"
 #: data/maps/heat/path-05.json+entities/243/settings/event/1/elseStep/54/message+%23812
 msgctxt "data/maps/heat/path-05.json//entities/243/settings/event/1/elseStep/54/message"
 msgid "Are you...\\. about to use that glitch?"
-msgstr ""
+msgstr "Estas...\\. a punto de usar ese glitch?"
 
 #. data/maps/heat/path-05.json entities/244/settings/event/3/thenStep/3/thenStep/0/elseStep/0/thenStep/0/message #780
 #. EventTrigger wallCheck START IF quest.dekay-quest.currentTask == 2 && party.size == 1
@@ -9553,7 +9551,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/244/settings/event/3/thenStep/3/thenStep/0/elseStep/0/thenStep/0/message+%23780
 msgctxt "data/maps/heat/path-05.json//entities/244/settings/event/3/thenStep/3/thenStep/0/elseStep/0/thenStep/0/message"
 msgid "No, wait! Your position is \\c[3]wrong again\\c[0]!"
-msgstr ""
+msgstr "¡No, espera! ¡Tu posición esta \\c[3]mal otra vez\\c[0]!"
 
 #. data/maps/heat/path-05.json entities/244/settings/event/3/thenStep/3/elseStep/0/thenStep/2/thenStep/0/message #774
 #. EventTrigger wallCheck START IF quest.dekay-quest.currentTask == 2 && party.size == 1
@@ -9565,7 +9563,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/244/settings/event/3/thenStep/3/elseStep/0/thenStep/2/thenStep/0/message+%23774
 msgctxt "data/maps/heat/path-05.json//entities/244/settings/event/3/thenStep/3/elseStep/0/thenStep/2/thenStep/0/message"
 msgid "More to the \\c[3]south\\c[0]..."
-msgstr ""
+msgstr "Más al \\c[3]sur\\c[0]..."
 
 #. data/maps/heat/path-05.json entities/244/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/thenStep/0/message #776
 #. EventTrigger wallCheck START IF quest.dekay-quest.currentTask == 2 && party.size == 1
@@ -9578,7 +9576,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/244/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/thenStep/0/message+%23776
 msgctxt "data/maps/heat/path-05.json//entities/244/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/thenStep/0/message"
 msgid "Just a \\c[1]bit\\c[0] to the \\c[3]south\\c[0]..."
-msgstr ""
+msgstr "Sólo un \\c[1]pixel\\c[0] al \\c[3]sur\\c[0]..."
 
 #. data/maps/heat/path-05.json entities/244/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/elseStep/0/thenStep/0/message #777
 #. EventTrigger wallCheck START IF quest.dekay-quest.currentTask == 2 && party.size == 1
@@ -9592,7 +9590,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/244/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/elseStep/0/thenStep/0/message+%23777
 msgctxt "data/maps/heat/path-05.json//entities/244/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/elseStep/0/thenStep/0/message"
 msgid "More to the \\c[3]north\\c[0]..."
-msgstr ""
+msgstr "Más al \\c[3]norte\\c[0]..."
 
 #. data/maps/heat/path-05.json entities/244/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/elseStep/0/elseStep/0/thenStep/0/message #778
 #. EventTrigger wallCheck START IF quest.dekay-quest.currentTask == 2 && party.size == 1
@@ -9607,7 +9605,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/244/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/elseStep/0/elseStep/0/thenStep/0/message+%23778
 msgctxt "data/maps/heat/path-05.json//entities/244/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/elseStep/0/elseStep/0/thenStep/0/message"
 msgid "Just a \\c[1]bit\\c[0] to the \\c[3]north\\c[0]..."
-msgstr ""
+msgstr "Solo un \\c[1]pixel más\\c[0] al \\c[3]norte\\c[0]..."
 
 #. data/maps/heat/path-05.json entities/244/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/elseStep/0/elseStep/0/elseStep/0/message #779
 #. EventTrigger wallCheck START IF quest.dekay-quest.currentTask == 2 && party.size == 1
@@ -9622,7 +9620,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/244/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/elseStep/0/elseStep/0/elseStep/0/message+%23779
 msgctxt "data/maps/heat/path-05.json//entities/244/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/elseStep/0/elseStep/0/elseStep/0/message"
 msgid "\\c[2]That's it\\c[0]! Just \\c[3]keep running\\c[0] at this point!"
-msgstr ""
+msgstr "\\c[2]¡Eso es\\c[0]! ¡Solo \\c[3]sigue corriendo\\c[0] en este punto!"
 
 #. data/maps/heat/path-05.json entities/244/settings/event/3/elseStep/0/thenStep/4/message #775
 #. EventTrigger wallCheck START IF quest.dekay-quest.currentTask == 2 && party.size == 1
@@ -9632,7 +9630,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/244/settings/event/3/elseStep/0/thenStep/4/message+%23775
 msgctxt "data/maps/heat/path-05.json//entities/244/settings/event/3/elseStep/0/thenStep/4/message"
 msgid "You need to \\c[3]keep running\\c[0] against the wall, Lea!"
-msgstr ""
+msgstr "¡Tienes que \\c[3]seguir corriendo\\c[0] contra la pared, Lea!"
 
 #. data/maps/heat/path-05.json entities/252/settings/event/15/message #782
 #. EventTrigger wallGlitched1 START IF tmp.glitch.moved == 1
@@ -9640,7 +9638,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/252/settings/event/15/message+%23782
 msgctxt "data/maps/heat/path-05.json//entities/252/settings/event/15/message"
 msgid "Nice!\\. That worked faster than I expected!"
-msgstr ""
+msgstr "¡Bien!\\. ¡Eso funcionó más rápido de lo que esperaba!"
 
 #. data/maps/heat/path-05.json entities/252/settings/event/17/message #783
 #. EventTrigger wallGlitched1 START IF tmp.glitch.moved == 1
@@ -9648,7 +9646,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/252/settings/event/17/message+%23783
 msgctxt "data/maps/heat/path-05.json//entities/252/settings/event/17/message"
 msgid "HOW?!"
-msgstr ""
+msgstr "¡¿CÓMO?!"
 
 #. data/maps/heat/path-05.json entities/252/settings/event/19/message #815
 #. EventTrigger wallGlitched1 START IF tmp.glitch.moved == 1
@@ -9656,7 +9654,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/252/settings/event/19/message+%23815
 msgctxt "data/maps/heat/path-05.json//entities/252/settings/event/19/message"
 msgid "LEA!\\. Stop doing this!"
-msgstr ""
+msgstr "¡LEA!\\. ¡Deja de hacer esto!"
 
 #. data/maps/heat/path-05.json entities/252/settings/event/20/message #784
 #. EventTrigger wallGlitched1 START IF tmp.glitch.moved == 1
@@ -9664,7 +9662,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/252/settings/event/20/message+%23784
 msgctxt "data/maps/heat/path-05.json//entities/252/settings/event/20/message"
 msgid "Hahaha, I suppose that was your first \\c[3]wall phasing glitch\\c[0]."
-msgstr ""
+msgstr "Jajaja, supongo que ese fue tu primera vez \\c[3]atravesando una pared\\c[0]."
 
 #. data/maps/heat/path-05.json entities/252/settings/event/21/message #785
 #. EventTrigger wallGlitched1 START IF tmp.glitch.moved == 1
@@ -9672,7 +9670,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/252/settings/event/21/message+%23785
 msgctxt "data/maps/heat/path-05.json//entities/252/settings/event/21/message"
 msgid "In case you are wondering...\\. it's due to a little workaround they added in the early days."
-msgstr ""
+msgstr "En caso de que te lo estés preguntando...\\. se debe a un arreglo que agregaron hace poco."
 
 #. data/maps/heat/path-05.json entities/252/settings/event/22/message #786
 #. EventTrigger wallGlitched1 START IF tmp.glitch.moved == 1
@@ -9680,7 +9678,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/252/settings/event/22/message+%23786
 msgctxt "data/maps/heat/path-05.json//entities/252/settings/event/22/message"
 msgid "...Why? "
-msgstr ""
+msgstr "¿Por qué? "
 
 #. data/maps/heat/path-05.json entities/252/settings/event/23/message #787
 #. EventTrigger wallGlitched1 START IF tmp.glitch.moved == 1
@@ -9688,7 +9686,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/252/settings/event/23/message+%23787
 msgctxt "data/maps/heat/path-05.json//entities/252/settings/event/23/message"
 msgid "Well...\\. back then players sometimes got stuck in arbitrary locations."
-msgstr ""
+msgstr "Bueno...\\. al inicio los jugadores se quedaban atrapados en ubicaciones raras."
 
 #. data/maps/heat/path-05.json entities/252/settings/event/24/message #788
 #. EventTrigger wallGlitched1 START IF tmp.glitch.moved == 1
@@ -9696,7 +9694,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/252/settings/event/24/message+%23788
 msgctxt "data/maps/heat/path-05.json//entities/252/settings/event/24/message"
 msgid "The workaround would just slightly teleport them forward if they were stuck for too long."
-msgstr ""
+msgstr "La solución rápida era teletransportarte a otro lado si estaban atascados demasiado tiempo."
 
 #. data/maps/heat/path-05.json entities/252/settings/event/25/message #789
 #. EventTrigger wallGlitched1 START IF tmp.glitch.moved == 1
@@ -9712,7 +9710,7 @@ msgstr "..."
 #: data/maps/heat/path-05.json+entities/252/settings/event/26/message+%23790
 msgctxt "data/maps/heat/path-05.json//entities/252/settings/event/26/message"
 msgid "And it seems they never managed to fix the bug entirely! "
-msgstr ""
+msgstr "¡Y parece que nunca lograron arreglar el error por completo! "
 
 #. data/maps/heat/path-05.json entities/252/settings/event/27/message #816
 #. EventTrigger wallGlitched1 START IF tmp.glitch.moved == 1
@@ -9720,7 +9718,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/252/settings/event/27/message+%23816
 msgctxt "data/maps/heat/path-05.json//entities/252/settings/event/27/message"
 msgid "Yes, yes.\\. It is really complicated, you see?"
-msgstr ""
+msgstr "Sí, sí.\\. Es muy complicado, ¿ves?"
 
 #. data/maps/heat/path-05.json entities/252/settings/event/28/message #791
 #. EventTrigger wallGlitched1 START IF tmp.glitch.moved == 1
@@ -9728,7 +9726,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/252/settings/event/28/message+%23791
 msgctxt "data/maps/heat/path-05.json//entities/252/settings/event/28/message"
 msgid "Sometimes you still see other players just running against walls, right?"
-msgstr ""
+msgstr "A veces todavía ves a otros jugadores corriendo contra las paredes, ¿verdad?"
 
 #. data/maps/heat/path-05.json entities/252/settings/event/29/message #792
 #. EventTrigger wallGlitched1 START IF tmp.glitch.moved == 1
@@ -9736,7 +9734,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/252/settings/event/29/message+%23792
 msgctxt "data/maps/heat/path-05.json//entities/252/settings/event/29/message"
 msgid "And that's why the workaround is still active, it's just much harder to trigger than it used to be."
-msgstr ""
+msgstr "Y es por eso que la solución sigue, solo que es mucho más difícil de activar de lo que era antes."
 
 #. data/maps/heat/path-05.json entities/252/settings/event/30/message #817
 #. EventTrigger wallGlitched1 START IF tmp.glitch.moved == 1
@@ -9744,7 +9742,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/252/settings/event/30/message+%23817
 msgctxt "data/maps/heat/path-05.json//entities/252/settings/event/30/message"
 msgid "Well it should be!\\. We tried really hard to make it impossible to abuse."
-msgstr ""
+msgstr "¡Pues debería!\\. Nos esforzamos mucho para que fuera imposible abusar de eso."
 
 #. data/maps/heat/path-05.json entities/252/settings/event/31/message #793
 #. EventTrigger wallGlitched1 START IF tmp.glitch.moved == 1
@@ -9752,7 +9750,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/252/settings/event/31/message+%23793
 msgctxt "data/maps/heat/path-05.json//entities/252/settings/event/31/message"
 msgid "It's actually close to impossible to trigger it on your own."
-msgstr ""
+msgstr "En realidad, es casi imposible activarlo por tu cuenta."
 
 #. data/maps/heat/path-05.json entities/252/settings/event/32/message #818
 #. EventTrigger wallGlitched1 START IF tmp.glitch.moved == 1
@@ -9760,7 +9758,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/252/settings/event/32/message+%23818
 msgctxt "data/maps/heat/path-05.json//entities/252/settings/event/32/message"
 msgid "Of course, we never considered multiple players would cooperate to make it work."
-msgstr ""
+msgstr "Por supuesto, nunca consideramos que varios jugadores cooperarían para que funcionara."
 
 #. data/maps/heat/path-05.json entities/252/settings/event/34/message #794
 #. EventTrigger wallGlitched1 START IF tmp.glitch.moved == 1
@@ -9776,7 +9774,7 @@ msgstr "..."
 #: data/maps/heat/path-05.json+entities/252/settings/event/35/message+%23795
 msgctxt "data/maps/heat/path-05.json//entities/252/settings/event/35/message"
 msgid "Why-\\."
-msgstr ""
+msgstr "Por qué-\\."
 
 #. data/maps/heat/path-05.json entities/252/settings/event/36/message #796
 #. EventTrigger wallGlitched1 START IF tmp.glitch.moved == 1
@@ -9784,7 +9782,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/252/settings/event/36/message+%23796
 msgctxt "data/maps/heat/path-05.json//entities/252/settings/event/36/message"
 msgid "Anyway!\\. Let's move on!"
-msgstr ""
+msgstr "¡De todos modos!\\. ¡Vámonos!"
 
 #. data/maps/heat/path-05.json entities/252/settings/event/37/message #797
 #. EventTrigger wallGlitched1 START IF tmp.glitch.moved == 1
@@ -9792,7 +9790,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/252/settings/event/37/message+%23797
 msgctxt "data/maps/heat/path-05.json//entities/252/settings/event/37/message"
 msgid "From here we need to move to the \\c[3]south\\c[0]!\\. You go first again."
-msgstr ""
+msgstr "Desde aquí tenemos que movernos al \\c[3]sur\\c[0]!\\. Vas primero otra vez."
 
 #. data/maps/heat/path-05.json entities/252/settings/event/38/message #798
 #. EventTrigger wallGlitched1 START IF tmp.glitch.moved == 1
@@ -9808,7 +9806,7 @@ msgstr "..."
 #: data/maps/heat/path-05.json+entities/252/settings/event/40/message+%23814
 msgctxt "data/maps/heat/path-05.json//entities/252/settings/event/40/message"
 msgid "Seriously Lea!\\. We might really get into trouble if anyone spots you doing this!"
-msgstr ""
+msgstr "¡En serio Lea!\\. ¡Realmente podríamos meternos en problemas si alguien te ve haciendo esto!"
 
 #. data/maps/heat/path-05.json entities/253/settings/event/3/thenStep/3/thenStep/0/elseStep/0/thenStep/0/message #799
 #. EventTrigger wallCheck2 START IF tmp.glitch.moved  == 2
@@ -9820,7 +9818,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/253/settings/event/3/thenStep/3/thenStep/0/elseStep/0/thenStep/0/message+%23799
 msgctxt "data/maps/heat/path-05.json//entities/253/settings/event/3/thenStep/3/thenStep/0/elseStep/0/thenStep/0/message"
 msgid "No, wait! Your position is \\c[3]wrong again\\c[0]!"
-msgstr ""
+msgstr "¡No, espera! ¡Tu posición es \\c[3]equivocada otra vez\\c[0]!"
 
 #. data/maps/heat/path-05.json entities/253/settings/event/3/thenStep/3/elseStep/0/thenStep/2/thenStep/0/message #800
 #. EventTrigger wallCheck2 START IF tmp.glitch.moved  == 2
@@ -9832,7 +9830,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/253/settings/event/3/thenStep/3/elseStep/0/thenStep/2/thenStep/0/message+%23800
 msgctxt "data/maps/heat/path-05.json//entities/253/settings/event/3/thenStep/3/elseStep/0/thenStep/2/thenStep/0/message"
 msgid "More to the \\c[3]east\\c[0]..."
-msgstr ""
+msgstr "Más al \\c[3]este\\c[0]..."
 
 #. data/maps/heat/path-05.json entities/253/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/thenStep/0/message #801
 #. EventTrigger wallCheck2 START IF tmp.glitch.moved  == 2
@@ -9845,7 +9843,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/253/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/thenStep/0/message+%23801
 msgctxt "data/maps/heat/path-05.json//entities/253/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/thenStep/0/message"
 msgid "Just a \\c[1]bit\\c[0] to the \\c[3]east\\c[0]..."
-msgstr ""
+msgstr "Sólo un \\c[1]pixel más\\c[0] al \\c[3]este\\c[0]..."
 
 #. data/maps/heat/path-05.json entities/253/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/elseStep/0/thenStep/0/message #802
 #. EventTrigger wallCheck2 START IF tmp.glitch.moved  == 2
@@ -9859,7 +9857,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/253/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/elseStep/0/thenStep/0/message+%23802
 msgctxt "data/maps/heat/path-05.json//entities/253/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/elseStep/0/thenStep/0/message"
 msgid "More to the \\c[3]west\\c[0]..."
-msgstr ""
+msgstr "Más al \\c[3]oeste\\c[0]..."
 
 #. data/maps/heat/path-05.json entities/253/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/elseStep/0/elseStep/0/thenStep/0/message #803
 #. EventTrigger wallCheck2 START IF tmp.glitch.moved  == 2
@@ -9874,7 +9872,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/253/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/elseStep/0/elseStep/0/thenStep/0/message+%23803
 msgctxt "data/maps/heat/path-05.json//entities/253/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/elseStep/0/elseStep/0/thenStep/0/message"
 msgid "Just a \\c[1]bit\\c[0] to the \\c[3]west\\c[0]..."
-msgstr ""
+msgstr "Sólo un \\c[1]pixel más\\c[0] al \\c[3]oeste\\c[0]..."
 
 #. data/maps/heat/path-05.json entities/253/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/elseStep/0/elseStep/0/elseStep/0/message #804
 #. EventTrigger wallCheck2 START IF tmp.glitch.moved  == 2
@@ -9889,7 +9887,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/253/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/elseStep/0/elseStep/0/elseStep/0/message+%23804
 msgctxt "data/maps/heat/path-05.json//entities/253/settings/event/3/thenStep/3/elseStep/0/thenStep/2/elseStep/0/elseStep/0/elseStep/0/elseStep/0/message"
 msgid "\\c[2]That's it\\c[0]! Just \\c[3]keep running\\c[0] at this point!"
-msgstr ""
+msgstr "\\c[2]¡Eso es\\c[0]! ¡Solo \\c[3]sigue corriendo\\c[0] en este punto!"
 
 #. data/maps/heat/path-05.json entities/253/settings/event/3/elseStep/0/thenStep/4/message #805
 #. EventTrigger wallCheck2 START IF tmp.glitch.moved  == 2
@@ -9899,14 +9897,14 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/253/settings/event/3/elseStep/0/thenStep/4/message+%23805
 msgctxt "data/maps/heat/path-05.json//entities/253/settings/event/3/elseStep/0/thenStep/4/message"
 msgid "You need to \\c[3]keep running\\c[0] against the wall, Lea!"
-msgstr ""
+msgstr "¡Tienes que \\c[3]seguir corriendo\\c[0] contra la pared, Lea!"
 
 #. data/maps/heat/path-05.json entities/255/settings/teleportLabel #809
 #. TeleportField glitchEntrance SPAWN IF g.glitchAreaFound
 #: data/maps/heat/path-05.json+entities/255/settings/teleportLabel+%23809
 msgctxt "data/maps/heat/path-05.json//entities/255/settings/teleportLabel"
 msgid "Go to \\c[3]Testing Area\\c[0]"
-msgstr ""
+msgstr "Ir a \\c[3]Área de Prueba\\c[0]"
 
 #. data/maps/heat/path-05.json entities/255/settings/blockEvent/2/message #828
 #. TeleportField glitchEntrance SPAWN IF g.glitchAreaFound
@@ -9914,7 +9912,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/255/settings/blockEvent/2/message+%23828
 msgctxt "data/maps/heat/path-05.json//entities/255/settings/blockEvent/2/message"
 msgid "No, Lea, stop this."
-msgstr ""
+msgstr "No, Lea, detén esto."
 
 #. data/maps/heat/path-05.json entities/255/settings/blockEvent/3/message #829
 #. TeleportField glitchEntrance SPAWN IF g.glitchAreaFound
@@ -9930,7 +9928,7 @@ msgstr "¿...?"
 #: data/maps/heat/path-05.json+entities/255/settings/blockEvent/4/message+%23830
 msgctxt "data/maps/heat/path-05.json//entities/255/settings/blockEvent/4/message"
 msgid "Do not drag other players into that testing area."
-msgstr ""
+msgstr "No arrastre a otros jugadores a esa área de prueba."
 
 #. data/maps/heat/path-05.json entities/255/settings/blockEvent/5/message #831
 #. TeleportField glitchEntrance SPAWN IF g.glitchAreaFound
@@ -9938,7 +9936,7 @@ msgstr ""
 #: data/maps/heat/path-05.json+entities/255/settings/blockEvent/5/message+%23831
 msgctxt "data/maps/heat/path-05.json//entities/255/settings/blockEvent/5/message"
 msgid "It is bad enough that you are walking around in it."
-msgstr ""
+msgstr "Ya es bastante malo que estés caminando en él."
 
 #. data/maps/heat/path-05.json entities/255/settings/blockEvent/6/message #832
 #. TeleportField glitchEntrance SPAWN IF g.glitchAreaFound
@@ -10037,7 +10035,7 @@ msgstr "[asiente]"
 #: data/maps/heat/path-07.json+entities/324/settings/event/0/message+%23915
 msgctxt "data/maps/heat/path-07.json//entities/324/settings/event/0/message"
 msgid "Those are some really impressive stone arcs."
-msgstr ""
+msgstr "Esos son unos arcos de piedra realmente impresionantes."
 
 #. data/maps/heat/path-07.json entities/324/settings/event/1/message #916
 #. LocationEvent maroonTree2 START IF party.alive.Glasses
@@ -10045,7 +10043,7 @@ msgstr ""
 #: data/maps/heat/path-07.json+entities/324/settings/event/1/message+%23916
 msgctxt "data/maps/heat/path-07.json//entities/324/settings/event/1/message"
 msgid "Those usually appear due to water erosion. There probably used to be a river at this place a long time ago."
-msgstr ""
+msgstr "Suelen aparecer por erosión hídrica. Probablemente hubo un río en este lugar hace mucho tiempo."
 
 #. data/maps/heat/path-07.json entities/324/settings/event/2/message #917
 #. LocationEvent maroonTree2 START IF party.alive.Glasses
@@ -10061,7 +10059,7 @@ msgstr "¡...!"
 #: data/maps/heat/path-07.json+entities/327/settings/event/3/name+%2312197
 msgctxt "data/maps/heat/path-07.json//entities/327/settings/event/3/name"
 msgid "Ey'leet"
-msgstr ""
+msgstr "Ey'leet"
 
 #. data/maps/heat/path-07.json entities/327/settings/event/5/message #12199
 #. EventTrigger pc-fight1-end START IF tmp.pcFight-counter >= 3
@@ -10069,7 +10067,7 @@ msgstr ""
 #: data/maps/heat/path-07.json+entities/327/settings/event/5/message+%2312199
 msgctxt "data/maps/heat/path-07.json//entities/327/settings/event/5/message"
 msgid "Woaah, \\v[lore.title.seeker]!\\. Those wicked rad scorpions sure were some thing."
-msgstr ""
+msgstr "Woaah, \\v[lore.title.seeker]!\\. Esos malvados escorpiones radiactivos seguro que eran algo."
 
 #. data/maps/heat/path-07.json entities/327/settings/event/6/message #46
 #. EventTrigger pc-fight1-end START IF tmp.pcFight-counter >= 3
@@ -10083,9 +10081,10 @@ msgstr "[asiente]"
 #. EventTrigger pc-fight1-end START IF tmp.pcFight-counter >= 3
 #. SHOW_MSG baki.male-steam1337 @DEFAULT
 #: data/maps/heat/path-07.json+entities/327/settings/event/7/message+%2312198
+#, fuzzy
 msgctxt "data/maps/heat/path-07.json//entities/327/settings/event/7/message"
 msgid "Gave reading of high performance across all the parameter.\\. Sign of great machine parts and elite craft!"
-msgstr ""
+msgstr "Dio lectura de alto rendimiento a través de todos los parámetros.\\. ¡Signo de grandes piezas de maquinaria y artesanía de élite!"
 
 #. data/maps/heat/path-07.json entities/327/settings/event/8/message #11550
 #. EventTrigger pc-fight1-end START IF tmp.pcFight-counter >= 3
@@ -10093,7 +10092,7 @@ msgstr ""
 #: data/maps/heat/path-07.json+entities/327/settings/event/8/message+%2311550
 msgctxt "data/maps/heat/path-07.json//entities/327/settings/event/8/message"
 msgid "Sad all of it went poof after receiving defeat.\\. But could find hint for location of secret lab!"
-msgstr ""
+msgstr "Triste, todo salió mal después ser derrotado.\\. ¡Pero podría encontrar una pista para la ubicación del laboratorio secreto!"
 
 #. data/maps/heat/path-07.json entities/327/settings/event/9/message #11551
 #. EventTrigger pc-fight1-end START IF tmp.pcFight-counter >= 3
@@ -10109,7 +10108,7 @@ msgstr "¡...!"
 #: data/maps/heat/path-07.json+entities/327/settings/event/10/message+%2312204
 msgctxt "data/maps/heat/path-07.json//entities/327/settings/event/10/message"
 msgid "Yes, yes, I am best information man of entire village.\\. Please admire but without distraction."
-msgstr ""
+msgstr "Sí, sí, soy el mejor informante de todo el pueblo.\\. Por favor admirar pero sin distracciones."
 
 #. data/maps/heat/path-07.json entities/327/settings/event/11/message #12202
 #. EventTrigger pc-fight1-end START IF tmp.pcFight-counter >= 3
@@ -10117,7 +10116,7 @@ msgstr ""
 #: data/maps/heat/path-07.json+entities/327/settings/event/11/message+%2312202
 msgctxt "data/maps/heat/path-07.json//entities/327/settings/event/11/message"
 msgid "When calm again, move to area of \\c[3]Long Piece\\c[0].\\. Next group there and very likely also the lab!"
-msgstr ""
+msgstr "Cuando todo se calme, muévete a \\c[3]Pieza Larga\\c[0].\\. ¡Luego agrúpate ahí en el laboratorio probablemente!"
 
 #. data/maps/heat/path-07.json entities/327/settings/event/12/message #12203
 #. EventTrigger pc-fight1-end START IF tmp.pcFight-counter >= 3
@@ -10221,7 +10220,7 @@ msgstr "En fin, sigamos..."
 #: data/maps/heat/path-08.json+entities/275/settings/event/0/message+%2312
 msgctxt "data/maps/heat/path-08.json//entities/275/settings/event/0/message"
 msgid "Oh... better don't look down."
-msgstr ""
+msgstr "Oh... mejor no mires hacia abajo."
 
 #. data/maps/heat/path-09.json entities/306/settings/event/1/text #52
 #. EventTrigger BarrierBlock START IF tmp.barrierBlock
@@ -10229,7 +10228,7 @@ msgstr ""
 #: data/maps/heat/path-09.json+entities/306/settings/event/1/text+%2352
 msgctxt "data/maps/heat/path-09.json//entities/306/settings/event/1/text"
 msgid "Blocked"
-msgstr ""
+msgstr "Bloqueado"
 
 #. data/maps/heat/path-09.json entities/314/settings/interact/hoverText #5
 #. Prop
@@ -10240,6 +10239,9 @@ msgid ""
 "\\i[arrow-e] Shortcut to \\v[area.bergen.name]\n"
 "\\i[arrow-s] Road to \\v[area.bergen.name]"
 msgstr ""
+"\\i[arrow-w] Camino a \\v[area.heat-village.name]\n"
+"\\i[arrow-e] Atajo a \\v[area.bergen.name]\n"
+"\\i[arrow-s] Camino a \\v[area.bergen.name]"
 
 #. data/maps/heat/path-09.json entities/318/settings/event/1/message #6
 #. EventTrigger Emilie Rant START IF plot.line >= 4320
@@ -10296,7 +10298,7 @@ msgstr "¡Hola!"
 #: data/maps/heat/path-09.json+entities/323/settings/npcStates/0/event/quest/3/message+%23133
 msgctxt "data/maps/heat/path-09.json//entities/323/settings/npcStates/0/event/quest/3/message"
 msgid "Greetings there, \\v[lore.title.seeker].\\. I have been waiting for your arrival."
-msgstr ""
+msgstr "Saludos, \\v[lore.title.seeker].\\. He estado esperando tu llegada."
 
 #. data/maps/heat/path-09.json entities/323/settings/npcStates/0/event/quest/4/message #87
 #. NPC aw-quest-hira
@@ -10305,7 +10307,7 @@ msgstr ""
 #: data/maps/heat/path-09.json+entities/323/settings/npcStates/0/event/quest/4/message+%2387
 msgctxt "data/maps/heat/path-09.json//entities/323/settings/npcStates/0/event/quest/4/message"
 msgid "If the instructions on that tablet are correct, the place we have been searching for should be somewhere nearby. "
-msgstr ""
+msgstr "Si las instrucciones de esa tableta son correctas, el lugar que hemos estado buscando debería estar cerca. "
 
 #. data/maps/heat/path-09.json entities/323/settings/npcStates/0/event/quest/5/message #418
 #. NPC aw-quest-hira
@@ -10341,7 +10343,7 @@ msgstr "[asiente]"
 #: data/maps/heat/path-09.json+entities/323/settings/npcStates/1/event/0/name+%23424
 msgctxt "data/maps/heat/path-09.json//entities/323/settings/npcStates/1/event/0/name"
 msgid "Hira"
-msgstr ""
+msgstr "Hira"
 
 #. data/maps/heat/path-09.json entities/323/settings/npcStates/1/event/2/message #130
 #. NPC aw-quest-hira
@@ -10350,7 +10352,7 @@ msgstr ""
 #: data/maps/heat/path-09.json+entities/323/settings/npcStates/1/event/2/message+%23130
 msgctxt "data/maps/heat/path-09.json//entities/323/settings/npcStates/1/event/2/message"
 msgid "The entrance to the Ancient place should be somewhere around here."
-msgstr ""
+msgstr "La entrada al lugar Antiguo debería estar en algún lugar por aquí."
 
 #. data/maps/heat/path-09.json entities/323/settings/npcStates/1/event/3/message #410
 #. NPC aw-quest-hira
@@ -10377,7 +10379,7 @@ msgstr "[asiente]"
 #: data/maps/heat/path-09.json+entities/323/settings/npcStates/2/event/0/name+%23425
 msgctxt "data/maps/heat/path-09.json//entities/323/settings/npcStates/2/event/0/name"
 msgid "Hira"
-msgstr ""
+msgstr "Hira"
 
 #. data/maps/heat/path-09.json entities/323/settings/npcStates/2/event/2/message #411
 #. NPC aw-quest-hira
@@ -10386,7 +10388,7 @@ msgstr ""
 #: data/maps/heat/path-09.json+entities/323/settings/npcStates/2/event/2/message+%23411
 msgctxt "data/maps/heat/path-09.json//entities/323/settings/npcStates/2/event/2/message"
 msgid "Enter the cave, \\v[lore.title.seeker].\\. I will follow you, as soon as I have examined the surroundings for Ancient traces!"
-msgstr ""
+msgstr "Entra en la cueva, \\v[lore.title.seeker].\\. ¡Te seguiré, tan pronto como haya examinado los alrededores en busca de rastros antiguos!"
 
 #. data/maps/heat/path-09.json entities/323/settings/npcStates/2/event/3/message #412
 #. NPC aw-quest-hira
@@ -10402,7 +10404,7 @@ msgstr "[asiente]"
 #: data/maps/heat/path-09.json+entities/324/settings/interact/hoverText+%23409
 msgctxt "data/maps/heat/path-09.json//entities/324/settings/interact/hoverText"
 msgid "Open Entrance"
-msgstr ""
+msgstr "Abrir Entrada"
 
 #. data/maps/heat/path-09.json entities/324/settings/interact/event/2/text #414
 #. Prop caveEntrance-prop SPAWN IF quest.nomadAdv-2-tomb_raiding_2.currentTask == 1
@@ -10410,7 +10412,7 @@ msgstr ""
 #: data/maps/heat/path-09.json+entities/324/settings/interact/event/2/text+%23414
 msgctxt "data/maps/heat/path-09.json//entities/324/settings/interact/event/2/text"
 msgid "Searching for a mechanism..."
-msgstr ""
+msgstr "Buscando mecanismos..."
 
 #. data/maps/heat/path-09.json entities/324/settings/interact/event/24/name #426
 #. Prop caveEntrance-prop SPAWN IF quest.nomadAdv-2-tomb_raiding_2.currentTask == 1
@@ -10418,7 +10420,7 @@ msgstr ""
 #: data/maps/heat/path-09.json+entities/324/settings/interact/event/24/name+%23426
 msgctxt "data/maps/heat/path-09.json//entities/324/settings/interact/event/24/name"
 msgid "Hira"
-msgstr ""
+msgstr "Hira"
 
 #. data/maps/heat/path-09.json entities/324/settings/interact/event/26/message #415
 #. Prop caveEntrance-prop SPAWN IF quest.nomadAdv-2-tomb_raiding_2.currentTask == 1
@@ -10434,7 +10436,7 @@ msgstr "¡Hola!"
 #: data/maps/heat/path-09.json+entities/324/settings/interact/event/27/message+%23421
 msgctxt "data/maps/heat/path-09.json//entities/324/settings/interact/event/27/message"
 msgid "\\v[lore.title.seeker], excellent work!\\. This must be the entrance!"
-msgstr ""
+msgstr "\\v[lore.title.seeker], ¡Excelente trabajo!\\. ¡Esta debe ser la entrada!"
 
 #. data/maps/heat/path-09.json entities/324/settings/interact/event/28/message #420
 #. Prop caveEntrance-prop SPAWN IF quest.nomadAdv-2-tomb_raiding_2.currentTask == 1
@@ -10450,7 +10452,7 @@ msgstr "¡Hola!"
 #: data/maps/heat/path-09.json+entities/324/settings/interact/event/29/message+%23416
 msgctxt "data/maps/heat/path-09.json//entities/324/settings/interact/event/29/message"
 msgid "But we are far from done here.\\. The truly exciting part should be inside."
-msgstr ""
+msgstr "Pero estamos lejos de terminar aquí.\\. La parte verdaderamente emocionante debe estar dentro."
 
 #. data/maps/heat/path-09.json entities/324/settings/interact/event/30/message #422
 #. Prop caveEntrance-prop SPAWN IF quest.nomadAdv-2-tomb_raiding_2.currentTask == 1
@@ -10458,7 +10460,7 @@ msgstr ""
 #: data/maps/heat/path-09.json+entities/324/settings/interact/event/30/message+%23422
 msgctxt "data/maps/heat/path-09.json//entities/324/settings/interact/event/30/message"
 msgid "Go ahead and search for a way to the inner sanctum.\\. I will follow after examining the entrance mechanism."
-msgstr ""
+msgstr "Adelante, busca un camino hacia el santuario interior.\\. Lo seguiré después de examinar el mecanismo de entrada."
 
 #. data/maps/heat/path-09.json entities/324/settings/interact/event/31/message #417
 #. Prop caveEntrance-prop SPAWN IF quest.nomadAdv-2-tomb_raiding_2.currentTask == 1
@@ -10473,7 +10475,7 @@ msgstr "[asiente]"
 #: data/maps/heat/path-10.json+entities/151/settings/teleportLabel+%235
 msgctxt "data/maps/heat/path-10.json//entities/151/settings/teleportLabel"
 msgid "To Faj'ro Temple"
-msgstr ""
+msgstr "Al Templo Faj'ro"
 
 #. data/maps/heat/path-10.json entities/157/settings/npcStates/0/event/2/message #266
 #. NPC
@@ -10785,7 +10787,7 @@ msgstr "[asiente]"
 #: data/maps/heat/path-11.json+entities/446/settings/event/10/name+%23293
 msgctxt "data/maps/heat/path-11.json//entities/446/settings/event/10/name"
 msgid "Billston"
-msgstr ""
+msgstr "Billston"
 
 #. data/maps/heat/path-11.json entities/446/settings/event/13/message #10
 #. EventTrigger quest-battleStart START IF tmp.touch-battleStart
@@ -10793,7 +10795,7 @@ msgstr ""
 #: data/maps/heat/path-11.json+entities/446/settings/event/13/message+%2310
 msgctxt "data/maps/heat/path-11.json//entities/446/settings/event/13/message"
 msgid "Hi...!"
-msgstr ""
+msgstr "Hola...!"
 
 #. data/maps/heat/path-11.json entities/446/settings/event/16/message #23
 #. EventTrigger quest-battleStart START IF tmp.touch-battleStart
@@ -10801,7 +10803,7 @@ msgstr ""
 #: data/maps/heat/path-11.json+entities/446/settings/event/16/message+%2323
 msgctxt "data/maps/heat/path-11.json//entities/446/settings/event/16/message"
 msgid "Who\\..\\..\\..\\.\\. what!?\\. You again?"
-msgstr ""
+msgstr "Quién\\..\\..\\..\\.\\. ¿¡qué!?\\. ¿Tú otra vez?"
 
 #. data/maps/heat/path-11.json entities/446/settings/event/17/message #11
 #. EventTrigger quest-battleStart START IF tmp.touch-battleStart
@@ -10809,7 +10811,7 @@ msgstr ""
 #: data/maps/heat/path-11.json+entities/446/settings/event/17/message+%2311
 msgctxt "data/maps/heat/path-11.json//entities/446/settings/event/17/message"
 msgid "Ah, \\v[lore.title.seeker]!\\. Time good for appearing.\\. I in hurry and run now.\\. Bye!"
-msgstr ""
+msgstr "¡Ah, \\v[lore.title.seeker]!\\. Tiempo bueno para presentarse.\\. Tengo prisa y corro ahora.\\. ¡Adiós!"
 
 #. data/maps/heat/path-11.json entities/446/settings/event/18/message #22
 #. EventTrigger quest-battleStart START IF tmp.touch-battleStart
@@ -10825,7 +10827,7 @@ msgstr "Adiós..."
 #: data/maps/heat/path-11.json+entities/446/settings/event/31/name+%23294
 msgctxt "data/maps/heat/path-11.json//entities/446/settings/event/31/name"
 msgid "Billston"
-msgstr ""
+msgstr "Billston"
 
 #. data/maps/heat/path-11.json entities/446/settings/event/33/message #21
 #. EventTrigger quest-battleStart START IF tmp.touch-battleStart
@@ -10833,7 +10835,7 @@ msgstr ""
 #: data/maps/heat/path-11.json+entities/446/settings/event/33/message+%2321
 msgctxt "data/maps/heat/path-11.json//entities/446/settings/event/33/message"
 msgid "You..."
-msgstr ""
+msgstr "Tú..."
 
 #. data/maps/heat/path-11.json entities/446/settings/event/34/message #32
 #. EventTrigger quest-battleStart START IF tmp.touch-battleStart
@@ -10849,7 +10851,7 @@ msgstr "¿...?"
 #: data/maps/heat/path-11.json+entities/446/settings/event/35/message+%2331
 msgctxt "data/maps/heat/path-11.json//entities/446/settings/event/35/message"
 msgid "You just had to come along and mess with the order in this place, didn't you."
-msgstr ""
+msgstr "Tenías que venir y alterar el orden en este lugar, ¿no es así?."
 
 #. data/maps/heat/path-11.json entities/446/settings/event/36/message #24
 #. EventTrigger quest-battleStart START IF tmp.touch-battleStart
@@ -10865,7 +10867,7 @@ msgstr "..."
 #: data/maps/heat/path-11.json+entities/446/settings/event/37/message+%2325
 msgctxt "data/maps/heat/path-11.json//entities/446/settings/event/37/message"
 msgid "You fancy heroes don't seem to understand how things work."
-msgstr ""
+msgstr "Ustedes, los héroes de lujo, no parecen entender cómo funcionan las cosas."
 
 #. data/maps/heat/path-11.json entities/446/settings/event/38/message #26
 #. EventTrigger quest-battleStart START IF tmp.touch-battleStart
@@ -10873,7 +10875,7 @@ msgstr ""
 #: data/maps/heat/path-11.json+entities/446/settings/event/38/message+%2326
 msgctxt "data/maps/heat/path-11.json//entities/446/settings/event/38/message"
 msgid "We humans are the ones running the place!\\. Building roads, protecting the settlements... keeping civilization.\\."
-msgstr ""
+msgstr "¡Nosotros los humanos somos los que dirigimos el lugar!\\. Construyendo carreteras, protegiendo los asentamientos... manteniendo la civilización.\\."
 
 #. data/maps/heat/path-11.json entities/446/settings/event/39/message #27
 #. EventTrigger quest-battleStart START IF tmp.touch-battleStart
@@ -10889,7 +10891,7 @@ msgstr "..."
 #: data/maps/heat/path-11.json+entities/446/settings/event/40/message+%2328
 msgctxt "data/maps/heat/path-11.json//entities/446/settings/event/40/message"
 msgid "We should just take what we need.\\. And you won't stop me, \\v[lore.title.seeker] or not!"
-msgstr ""
+msgstr "Sólo deberíamos tomar lo que necesitamos.\\. ¡Y no me detendrás, \\v[lore.title.seeker] o no!"
 
 #. data/maps/heat/path-11.json entities/446/settings/event/41/message #29
 #. EventTrigger quest-battleStart START IF tmp.touch-battleStart
@@ -10905,7 +10907,7 @@ msgstr "¡...!"
 #: data/maps/heat/path-11.json+entities/446/settings/event/45/message+%2330
 msgctxt "data/maps/heat/path-11.json//entities/446/settings/event/45/message"
 msgid "Let me teach you some rules of the world I kept running."
-msgstr ""
+msgstr "Déjame enseñarte algunas reglas del mundo crudo y real."
 
 #. data/maps/heat/path-11.json entities/448/settings/dialog/0/text #8
 #. XenoDialog quest-xeno SPAWN IF quest.bakiGuard-2-evil_guard.task.0 && !map.questXenoOver
@@ -10913,7 +10915,7 @@ msgstr ""
 #: data/maps/heat/path-11.json+entities/448/settings/dialog/0/text+%238
 msgctxt "data/maps/heat/path-11.json//entities/448/settings/dialog/0/text"
 msgid "Come on, be a good, simple citizen and pay the toll. It is needed for your protection."
-msgstr ""
+msgstr "Vamos, sé un buen ciudadano y paga el peaje. Es necesario para tu protección."
 
 #. data/maps/heat/path-11.json entities/448/settings/dialog/1/text #9
 #. XenoDialog quest-xeno SPAWN IF quest.bakiGuard-2-evil_guard.task.0 && !map.questXenoOver
@@ -10921,7 +10923,7 @@ msgstr ""
 #: data/maps/heat/path-11.json+entities/448/settings/dialog/1/text+%239
 msgctxt "data/maps/heat/path-11.json//entities/448/settings/dialog/1/text"
 msgid "But human guard. Taxes get paid and rest trademoney is needed for life."
-msgstr ""
+msgstr "Pero guardia humana. Los impuestos se pagan y el comercio se necesita de por vida."
 
 #. data/maps/heat/path-11.json entities/448/settings/dialog/2/text #13
 #. XenoDialog quest-xeno SPAWN IF quest.bakiGuard-2-evil_guard.task.0 && !map.questXenoOver
@@ -10929,7 +10931,7 @@ msgstr ""
 #: data/maps/heat/path-11.json+entities/448/settings/dialog/2/text+%2313
 msgctxt "data/maps/heat/path-11.json//entities/448/settings/dialog/2/text"
 msgid "We need that money to properly keep the peace you need for your profitable business. So just pay up."
-msgstr ""
+msgstr "Necesitamos ese dinero para mantener adecuadamente un negocio rentable. Así que solo paga."
 
 #. data/maps/heat/path-11.json entities/448/settings/dialog/3/text #14
 #. XenoDialog quest-xeno SPAWN IF quest.bakiGuard-2-evil_guard.task.0 && !map.questXenoOver
@@ -10937,7 +10939,7 @@ msgstr ""
 #: data/maps/heat/path-11.json+entities/448/settings/dialog/3/text+%2314
 msgctxt "data/maps/heat/path-11.json//entities/448/settings/dialog/3/text"
 msgid "This not justice. Not fair. Such scandal!"
-msgstr ""
+msgstr "Esto no es justicia. No es justo. ¡Qué escándalo!"
 
 #. data/maps/heat/path-11.json entities/448/settings/dialog/4/text #12
 #. XenoDialog quest-xeno SPAWN IF quest.bakiGuard-2-evil_guard.task.0 && !map.questXenoOver
@@ -10945,7 +10947,7 @@ msgstr ""
 #: data/maps/heat/path-11.json+entities/448/settings/dialog/4/text+%2312
 msgctxt "data/maps/heat/path-11.json//entities/448/settings/dialog/4/text"
 msgid "I am justified to \\c[5]take it by force\\c[0]. Don't make me repeat myself!"
-msgstr ""
+msgstr "Estoy justificado para \\c[5]tomarlo por la fuerza\\c[0]. ¡No me hagas repetir!"
 
 #. data/maps/heat/path-11.json entities/451/settings/event/10/name #295
 #. EventTrigger quest-battleEnd START IF tmp.guardBattleOver
@@ -10953,7 +10955,7 @@ msgstr ""
 #: data/maps/heat/path-11.json+entities/451/settings/event/10/name+%23295
 msgctxt "data/maps/heat/path-11.json//entities/451/settings/event/10/name"
 msgid "Billston"
-msgstr ""
+msgstr "Billston"
 
 #. data/maps/heat/path-11.json entities/451/settings/event/11/message #18
 #. EventTrigger quest-battleEnd START IF tmp.guardBattleOver
@@ -10967,9 +10969,10 @@ msgstr "¡Hola!"
 #. EventTrigger quest-battleEnd START IF tmp.guardBattleOver
 #. SHOW_MSG guards.quest-male-mustache-white @DEFAULT
 #: data/maps/heat/path-11.json+entities/451/settings/event/12/message+%2316
+#, fuzzy
 msgctxt "data/maps/heat/path-11.json//entities/451/settings/event/12/message"
 msgid "You... you sure learned some fancy tricks at \\v[lore.title.seeker]-academy, eh?"
-msgstr ""
+msgstr "Seguro que aprendiste algunos trucos sofisticados en la academia de \\v[lore.title.seeker]es, ¿eh?"
 
 #. data/maps/heat/path-11.json entities/451/settings/event/13/message #33
 #. EventTrigger quest-battleEnd START IF tmp.guardBattleOver
@@ -10985,7 +10988,7 @@ msgstr "..."
 #: data/maps/heat/path-11.json+entities/451/settings/event/14/message+%2334
 msgctxt "data/maps/heat/path-11.json//entities/451/settings/event/14/message"
 msgid "Well... as for us old-fashioned guards... we only learned to uphold justice and honesty."
-msgstr ""
+msgstr "Bueno... en cuanto a nosotros, los guardias anticuados... solo aprendimos a defender la justicia y la honestidad."
 
 #. data/maps/heat/path-11.json entities/451/settings/event/15/message #35
 #. EventTrigger quest-battleEnd START IF tmp.guardBattleOver
@@ -11001,7 +11004,7 @@ msgstr "¿...?"
 #: data/maps/heat/path-11.json+entities/451/settings/event/16/message+%2336
 msgctxt "data/maps/heat/path-11.json//entities/451/settings/event/16/message"
 msgid "But we also deal with a lot of shady trickery, so\\..\\..\\.."
-msgstr ""
+msgstr "Pero también nos ocupamos de muchos trucos turbios, así que\\..\\..\\.."
 
 #. data/maps/heat/path-11.json entities/451/settings/event/32/message #37
 #. EventTrigger quest-battleEnd START IF tmp.guardBattleOver
@@ -11016,28 +11019,28 @@ msgstr "¿...?"
 #: data/maps/heat/path-11.json+entities/453/settings/text+%2319
 msgctxt "data/maps/heat/path-11.json//entities/453/settings/text"
 msgid "\\c[3]Secret Lair of Billston\\c[0]"
-msgstr ""
+msgstr "\\c[3]La guarida secreta de Billston\\c[0]"
 
 #. data/maps/heat/path-11.json entities/454/settings/text #20
 #. Analyzable anal-questCave-solved SPAWN IF quest.bakiGuard-2-evil_guard.solved
 #: data/maps/heat/path-11.json+entities/454/settings/text+%2320
 msgctxt "data/maps/heat/path-11.json//entities/454/settings/text"
 msgid "Former Secret Lair of Billston"
-msgstr ""
+msgstr "Antigua guarida secreta de Billston"
 
 #. data/maps/heat/path-11.json entities/455/settings/text #38
 #. Analyzable anal-questFootprints1 SPAWN IF (quest.bakiGuard-2-evil_guard.currentTask >= 1) && !quest.bakiGuard-2-evil_guard.solved
 #: data/maps/heat/path-11.json+entities/455/settings/text+%2338
 msgctxt "data/maps/heat/path-11.json//entities/455/settings/text"
 msgid "\\c[1]Footprints?\\c[0] "
-msgstr ""
+msgstr "\\c[1]¿Huellas?\\c[0] "
 
 #. data/maps/heat/path-11.json entities/456/settings/text #39
 #. Analyzable anal-questFootprints2 SPAWN IF (quest.bakiGuard-2-evil_guard.currentTask >= 1) && !quest.bakiGuard-2-evil_guard.solved
 #: data/maps/heat/path-11.json+entities/456/settings/text+%2339
 msgctxt "data/maps/heat/path-11.json//entities/456/settings/text"
 msgid "\\c[1]Footprints??\\c[0]"
-msgstr ""
+msgstr "\\c[1]¿Huellas?\\c[0]"
 
 #. data/maps/heat/path-11.json entities/457/settings/npcStates/0/event/quest/2/message #44
 #. NPC glasses
@@ -11271,7 +11274,7 @@ msgstr "[asiente]"
 #: data/maps/heat/path-11.json+entities/457/settings/npcStates/0/event/quest/27/message+%2353
 msgctxt "data/maps/heat/path-11.json//entities/457/settings/npcStates/0/event/quest/27/message"
 msgid "Okey-dokey!\\. Let's go then!"
-msgstr ""
+msgstr "¡École!\\. ¡Vamos entonces!"
 
 #. data/maps/heat/path-11.json entities/457/settings/npcStates/0/event/quest/28/message #54
 #. NPC glasses
@@ -11364,7 +11367,7 @@ msgstr "C'tron y tú decidieron explorar el Valle Granate y terminar la misión 
 #: data/maps/heat/path-11.json+entities/458/settings/event/8/message+%231142
 msgctxt "data/maps/heat/path-11.json//entities/458/settings/event/8/message"
 msgid "Ah yes, this is it!"
-msgstr ""
+msgstr "Ah, sí, ¡esto es todo!"
 
 #. data/maps/heat/path-11.json entities/458/settings/event/9/message #1141
 #. EventTrigger ctronRememberEvent2 START IF tmp.ctronEvent
@@ -11380,7 +11383,7 @@ msgstr "¡...!"
 #: data/maps/heat/path-11.json+entities/458/settings/event/10/message+%231143
 msgctxt "data/maps/heat/path-11.json//entities/458/settings/event/10/message"
 msgid "It seems I'm starting to remember things...\n"
-msgstr ""
+msgstr "Parece que estoy empezando a recordar cosas...\n"
 
 #. data/maps/heat/path-11.json entities/458/settings/event/11/message #1144
 #. EventTrigger ctronRememberEvent2 START IF tmp.ctronEvent
@@ -11404,7 +11407,7 @@ msgstr "..."
 #: data/maps/heat/path-11.json+entities/458/settings/event/17/message+%231146
 msgctxt "data/maps/heat/path-11.json//entities/458/settings/event/17/message"
 msgid "I was waiting here for you to arrive."
-msgstr ""
+msgstr "Estaba esperando aquí a que llegaras."
 
 #. data/maps/heat/path-11.json entities/458/settings/event/18/message #1147
 #. EventTrigger ctronRememberEvent2 START IF tmp.ctronEvent
@@ -11412,7 +11415,7 @@ msgstr ""
 #: data/maps/heat/path-11.json+entities/458/settings/event/18/message+%231147
 msgctxt "data/maps/heat/path-11.json//entities/458/settings/event/18/message"
 msgid "I was a little bit nervous...\n"
-msgstr ""
+msgstr "Estaba con los nervios...\n"
 
 #. data/maps/heat/path-11.json entities/458/settings/event/20/message #1148
 #. EventTrigger ctronRememberEvent2 START IF tmp.ctronEvent
@@ -11428,7 +11431,7 @@ msgstr "¿Por qué?"
 #: data/maps/heat/path-11.json+entities/458/settings/event/21/message+%231149
 msgctxt "data/maps/heat/path-11.json//entities/458/settings/event/21/message"
 msgid "I don't know exactly...\n"
-msgstr ""
+msgstr "No se exactamente...\n"
 
 #. data/maps/heat/path-11.json entities/458/settings/event/22/message #1150
 #. EventTrigger ctronRememberEvent2 START IF tmp.ctronEvent
@@ -11436,7 +11439,7 @@ msgstr ""
 #: data/maps/heat/path-11.json+entities/458/settings/event/22/message+%231150
 msgctxt "data/maps/heat/path-11.json//entities/458/settings/event/22/message"
 msgid "There's this...\\. weird feeling I've had about you. "
-msgstr ""
+msgstr "Hay esto...\\. extraño sentimiento que he tenido acerca de ti. "
 
 #. data/maps/heat/path-11.json entities/458/settings/event/23/message #1151
 #. EventTrigger ctronRememberEvent2 START IF tmp.ctronEvent
@@ -11444,7 +11447,7 @@ msgstr ""
 #: data/maps/heat/path-11.json+entities/458/settings/event/23/message+%231151
 msgctxt "data/maps/heat/path-11.json//entities/458/settings/event/23/message"
 msgid "From the start."
-msgstr ""
+msgstr "Desde el comienzo."
 
 #. data/maps/heat/path-11.json entities/458/settings/event/24/message #1152
 #. EventTrigger ctronRememberEvent2 START IF tmp.ctronEvent
@@ -11460,7 +11463,7 @@ msgstr "..."
 #: data/maps/heat/path-11.json+entities/458/settings/event/30/message+%231153
 msgctxt "data/maps/heat/path-11.json//entities/458/settings/event/30/message"
 msgid "So...\\. Where should we go next?"
-msgstr ""
+msgstr "Así que...\\. ¿Adónde debemos ir después?"
 
 #. data/maps/heat/path-11.json entities/458/settings/event/31/message #1154
 #. EventTrigger ctronRememberEvent2 START IF tmp.ctronEvent
@@ -11476,7 +11479,7 @@ msgstr "¡...!"
 #: data/maps/heat/path-11.json+entities/458/settings/event/33/titleText+%23304
 msgctxt "data/maps/heat/path-11.json//entities/458/settings/event/33/titleText"
 msgid "You remembered a new location!"
-msgstr ""
+msgstr "¡Recordaste una nueva ubicación!"
 
 #. data/maps/heat/path-11.json entities/458/settings/event/33/text #305
 #. EventTrigger ctronRememberEvent2 START IF tmp.ctronEvent
@@ -11484,7 +11487,7 @@ msgstr ""
 #: data/maps/heat/path-11.json+entities/458/settings/event/33/text+%23305
 msgctxt "data/maps/heat/path-11.json//entities/458/settings/event/33/text"
 msgid "That place in \\c[3]Gaia's Garden\\c[0] where you reconciled with Emilie."
-msgstr ""
+msgstr "Ese lugar en el \\c[3]Jardín de Gaia\\c[0] donde te reconciliaste con Emilie."
 
 #. data/maps/heat/path-11.json entities/458/settings/event/36/task #308
 #. EventTrigger ctronRememberEvent2 START IF tmp.ctronEvent
@@ -11492,7 +11495,7 @@ msgstr ""
 #: data/maps/heat/path-11.json+entities/458/settings/event/36/task+%23308
 msgctxt "data/maps/heat/path-11.json//entities/458/settings/event/36/task"
 msgid "Go to \\c[3]Gaia's Garden - Peridot Approach\\c[0] where you reunited with Emilie."
-msgstr ""
+msgstr "Ve al \\c[3]Jardín de Gaia - Acceso Peridot\\c[0] donde te reuniste con Emilie."
 
 #. data/maps/heat/shortcut-02-09.json entities/228/settings/event/1/text #52
 #. EventTrigger BarrierBlock START IF tmp.barrierBlock
@@ -11500,7 +11503,7 @@ msgstr ""
 #: data/maps/heat/shortcut-02-09.json+entities/228/settings/event/1/text+%2352
 msgctxt "data/maps/heat/shortcut-02-09.json//entities/228/settings/event/1/text"
 msgid "Blocked"
-msgstr ""
+msgstr "Bloqueado"
 
 #. data/maps/heat/special/cursed-temple.json entities/2/settings/event/10/message #19
 #. EventTrigger StartFight START IF map.startFight
@@ -11516,15 +11519,16 @@ msgstr "¡...!"
 #: data/maps/heat/special/cursed-temple.json+entities/2/settings/event/23/text+%2324
 msgctxt "data/maps/heat/special/cursed-temple.json//entities/2/settings/event/23/text"
 msgid "NO! Don't put them back!"
-msgstr ""
+msgstr "¡NO! ¡No los vuelvas a poner!"
 
 #. data/maps/heat/special/cursed-temple.json entities/2/settings/event/24/text #25
 #. EventTrigger StartFight START IF map.startFight
 #. SHOW_DREAM_MSG
 #: data/maps/heat/special/cursed-temple.json+entities/2/settings/event/24/text+%2325
+#, fuzzy
 msgctxt "data/maps/heat/special/cursed-temple.json//entities/2/settings/event/24/text"
 msgid "There are MINE!"
-msgstr ""
+msgstr "¡Eso es MÍO!"
 
 #. data/maps/heat/special/cursed-temple.json entities/2/settings/event/25/text #27
 #. EventTrigger StartFight START IF map.startFight
@@ -11532,7 +11536,7 @@ msgstr ""
 #: data/maps/heat/special/cursed-temple.json+entities/2/settings/event/25/text+%2327
 msgctxt "data/maps/heat/special/cursed-temple.json//entities/2/settings/event/25/text"
 msgid "I will never let you have them."
-msgstr ""
+msgstr "Nunca te dejaré tenerlos."
 
 #. data/maps/heat/special/cursed-temple.json entities/2/settings/event/40/guiInfo/settings/taskTitle #3
 #. EventTrigger StartFight START IF map.startFight
@@ -11541,7 +11545,7 @@ msgstr ""
 #: data/maps/heat/special/cursed-temple.json+entities/2/settings/event/40/guiInfo/settings/taskTitle+%233
 msgctxt "data/maps/heat/special/cursed-temple.json//entities/2/settings/event/40/guiInfo/settings/taskTitle"
 msgid "Chest"
-msgstr ""
+msgstr "Cofre"
 
 #. data/maps/heat/special/cursed-temple.json entities/2/settings/event/41/guiInfo/settings/taskTitle #2
 #. EventTrigger StartFight START IF map.startFight
@@ -11550,7 +11554,7 @@ msgstr ""
 #: data/maps/heat/special/cursed-temple.json+entities/2/settings/event/41/guiInfo/settings/taskTitle+%232
 msgctxt "data/maps/heat/special/cursed-temple.json//entities/2/settings/event/41/guiInfo/settings/taskTitle"
 msgid "Coins"
-msgstr ""
+msgstr "Monedas"
 
 #. data/maps/heat/special/cursed-temple.json entities/3/settings/condAnims/0/interact/hoverText #13
 #. Prop theChest
@@ -11558,7 +11562,7 @@ msgstr ""
 #: data/maps/heat/special/cursed-temple.json+entities/3/settings/condAnims/0/interact/hoverText+%2313
 msgctxt "data/maps/heat/special/cursed-temple.json//entities/3/settings/condAnims/0/interact/hoverText"
 msgid "Fill Chest"
-msgstr ""
+msgstr "Cofre Lleno"
 
 #. data/maps/heat/special/cursed-temple.json entities/3/settings/condAnims/1/interact/hoverText #28
 #. Prop theChest
@@ -11566,7 +11570,7 @@ msgstr ""
 #: data/maps/heat/special/cursed-temple.json+entities/3/settings/condAnims/1/interact/hoverText+%2328
 msgctxt "data/maps/heat/special/cursed-temple.json//entities/3/settings/condAnims/1/interact/hoverText"
 msgid "Fill Chest"
-msgstr ""
+msgstr "Cofre Lleno"
 
 #. data/maps/heat/special/cursed-temple.json entities/3/settings/condAnims/2/interact/hoverText #29
 #. Prop theChest
@@ -11574,7 +11578,7 @@ msgstr ""
 #: data/maps/heat/special/cursed-temple.json+entities/3/settings/condAnims/2/interact/hoverText+%2329
 msgctxt "data/maps/heat/special/cursed-temple.json//entities/3/settings/condAnims/2/interact/hoverText"
 msgid "Fill Chest"
-msgstr ""
+msgstr "Cofre Lleno"
 
 #. data/maps/heat/special/cursed-temple.json entities/3/settings/condAnims/3/interact/hoverText #30
 #. Prop theChest
@@ -11582,7 +11586,7 @@ msgstr ""
 #: data/maps/heat/special/cursed-temple.json+entities/3/settings/condAnims/3/interact/hoverText+%2330
 msgctxt "data/maps/heat/special/cursed-temple.json//entities/3/settings/condAnims/3/interact/hoverText"
 msgid "Fill Chest"
-msgstr ""
+msgstr "Cofre Lleno"
 
 #. data/maps/heat/special/cursed-temple.json entities/3/settings/condAnims/4/interact/hoverText #31
 #. Prop theChest
@@ -11590,7 +11594,7 @@ msgstr ""
 #: data/maps/heat/special/cursed-temple.json+entities/3/settings/condAnims/4/interact/hoverText+%2331
 msgctxt "data/maps/heat/special/cursed-temple.json//entities/3/settings/condAnims/4/interact/hoverText"
 msgid "Fill Chest"
-msgstr ""
+msgstr "Cofre Lleno"
 
 #. data/maps/heat/special/cursed-temple.json entities/3/settings/condAnims/5/interact/hoverText #22
 #. Prop theChest
@@ -11598,7 +11602,7 @@ msgstr ""
 #: data/maps/heat/special/cursed-temple.json+entities/3/settings/condAnims/5/interact/hoverText+%2322
 msgctxt "data/maps/heat/special/cursed-temple.json//entities/3/settings/condAnims/5/interact/hoverText"
 msgid "Touch Chest"
-msgstr ""
+msgstr "Cofre Tocado"
 
 #. data/maps/heat/special/cursed-temple.json entities/26/settings/event/1/message #26
 #. EventTrigger lockHER! START IF map.firstEntry
@@ -11615,7 +11619,7 @@ msgstr "..."
 #: data/maps/heat/special/cursed-temple.json+entities/28/settings/event/4/thenStep/0/message+%2332
 msgctxt "data/maps/heat/special/cursed-temple.json//entities/28/settings/event/4/thenStep/0/message"
 msgid "test"
-msgstr ""
+msgstr "prueba"
 
 #. data/maps/heat/special/cursed-temple.json entities/40/settings/event/0/text #33
 #. EventTrigger coinCheck START IF tmp.bossInSection && map.bossCoins <= 0
@@ -11623,7 +11627,7 @@ msgstr ""
 #: data/maps/heat/special/cursed-temple.json+entities/40/settings/event/0/text+%2333
 msgctxt "data/maps/heat/special/cursed-temple.json//entities/40/settings/event/0/text"
 msgid "NO! My treasure!"
-msgstr ""
+msgstr "¡NO! ¡Mi tesoro!"
 
 #. data/maps/heat/special/glitch-area.json entities/167/settings/event/4/message #835
 #. EventTrigger sandBarrier1 START IF map.sandButton1
@@ -11631,7 +11635,7 @@ msgstr ""
 #: data/maps/heat/special/glitch-area.json+entities/167/settings/event/4/message+%23835
 msgctxt "data/maps/heat/special/glitch-area.json//entities/167/settings/event/4/message"
 msgid "How?!"
-msgstr ""
+msgstr "¡¿Cómo?!"
 
 #. data/maps/heat/special/glitch-area.json entities/167/settings/event/5/message #836
 #. EventTrigger sandBarrier1 START IF map.sandButton1
@@ -11639,14 +11643,14 @@ msgstr ""
 #: data/maps/heat/special/glitch-area.json+entities/167/settings/event/5/message+%23836
 msgctxt "data/maps/heat/special/glitch-area.json//entities/167/settings/event/5/message"
 msgid "Haha, did that quicksand just make you respawn from the top?\\. That's neat!"
-msgstr ""
+msgstr "Jaja, ¿esas arenas movedizas te hicieron reaparecer desde arriba?\\. ¡Está muy bien!"
 
 #. data/maps/heat/special/glitch-area.json entities/302/settings/teleportLabel #809
 #. TeleportField entrance SPAWN IF g.glitchAreaFound
 #: data/maps/heat/special/glitch-area.json+entities/302/settings/teleportLabel+%23809
 msgctxt "data/maps/heat/special/glitch-area.json//entities/302/settings/teleportLabel"
 msgid "Back to \\c[3]Official Playground\\c[0]"
-msgstr ""
+msgstr "Volver a \\c[3]Campos de Juegos Oficial\\c[0]"
 
 #. data/maps/heat/special/glitch-area.json entities/303/settings/event/20/message #811
 #. EventTrigger intro START IF quest.dekay-quest.started
@@ -11654,7 +11658,7 @@ msgstr ""
 #: data/maps/heat/special/glitch-area.json+entities/303/settings/event/20/message+%23811
 msgctxt "data/maps/heat/special/glitch-area.json//entities/303/settings/event/20/message"
 msgid "Here we are!\\. This must be the testing area!"
-msgstr ""
+msgstr "¡Aquí estamos!\\. ¡Esta debe ser el área de prueba!"
 
 #. data/maps/heat/special/glitch-area.json entities/303/settings/event/23/message #812
 #. EventTrigger intro START IF quest.dekay-quest.started
@@ -11662,7 +11666,7 @@ msgstr ""
 #: data/maps/heat/special/glitch-area.json+entities/303/settings/event/23/message+%23812
 msgctxt "data/maps/heat/special/glitch-area.json//entities/303/settings/event/23/message"
 msgid "What the heck is this monstrosity?"
-msgstr ""
+msgstr "¿Qué diablos es esta monstruosidad?"
 
 #. data/maps/heat/special/glitch-area.json entities/303/settings/event/26/message #813
 #. EventTrigger intro START IF quest.dekay-quest.started
@@ -11670,7 +11674,7 @@ msgstr ""
 #: data/maps/heat/special/glitch-area.json+entities/303/settings/event/26/message+%23813
 msgctxt "data/maps/heat/special/glitch-area.json//entities/303/settings/event/26/message"
 msgid "I bet this was the hellspawn of a few over-ambitious interns."
-msgstr ""
+msgstr "Apuesto a que este fue el engendro del infierno de unos ambiciosos."
 
 #. data/maps/heat/special/glitch-area.json entities/303/settings/event/33/message #819
 #. EventTrigger intro START IF quest.dekay-quest.started
@@ -11678,7 +11682,7 @@ msgstr ""
 #: data/maps/heat/special/glitch-area.json+entities/303/settings/event/33/message+%23819
 msgctxt "data/maps/heat/special/glitch-area.json//entities/303/settings/event/33/message"
 msgid "Boy oh boy, doesn't this look exciting?"
-msgstr ""
+msgstr "Chico, oh chico, ¿no parece esto emocionante?"
 
 #. data/maps/heat/special/glitch-area.json entities/303/settings/event/34/message #820
 #. EventTrigger intro START IF quest.dekay-quest.started
@@ -11694,7 +11698,7 @@ msgstr "[asiente]"
 #: data/maps/heat/special/glitch-area.json+entities/303/settings/event/35/message+%23821
 msgctxt "data/maps/heat/special/glitch-area.json//entities/303/settings/event/35/message"
 msgid "Well then, let's go!"
-msgstr ""
+msgstr "¡Pues bien, vamos!"
 
 #. data/maps/heat/special/glitch-area.json entities/303/settings/event/41/message #822
 #. EventTrigger intro START IF quest.dekay-quest.started
@@ -11702,7 +11706,7 @@ msgstr ""
 #: data/maps/heat/special/glitch-area.json+entities/303/settings/event/41/message+%23822
 msgctxt "data/maps/heat/special/glitch-area.json//entities/303/settings/event/41/message"
 msgid "Ah... wait. "
-msgstr ""
+msgstr "Ah... espera. "
 
 #. data/maps/heat/special/glitch-area.json entities/303/settings/event/44/message #823
 #. EventTrigger intro START IF quest.dekay-quest.started
@@ -11718,7 +11722,7 @@ msgstr "¿...?"
 #: data/maps/heat/special/glitch-area.json+entities/303/settings/event/45/message+%23824
 msgctxt "data/maps/heat/special/glitch-area.json//entities/303/settings/event/45/message"
 msgid "I heard this area has been optimized for \\c[3]single players\\c[0]."
-msgstr ""
+msgstr "Escuché que esta área ha sido optimizada para \\c[3]jugadores individuales\\c[0]."
 
 #. data/maps/heat/special/glitch-area.json entities/303/settings/event/46/message #825
 #. EventTrigger intro START IF quest.dekay-quest.started
@@ -11726,7 +11730,7 @@ msgstr ""
 #: data/maps/heat/special/glitch-area.json+entities/303/settings/event/46/message+%23825
 msgctxt "data/maps/heat/special/glitch-area.json//entities/303/settings/event/46/message"
 msgid "Though it seems they didn't bother making it a proper instance."
-msgstr ""
+msgstr "Aunque parece que no se molestaron en convertirlo en una instancia adecuada."
 
 #. data/maps/heat/special/glitch-area.json entities/303/settings/event/47/message #826
 #. EventTrigger intro START IF quest.dekay-quest.started
@@ -11734,7 +11738,7 @@ msgstr ""
 #: data/maps/heat/special/glitch-area.json+entities/303/settings/event/47/message+%23826
 msgctxt "data/maps/heat/special/glitch-area.json//entities/303/settings/event/47/message"
 msgid "In any case...\\. we better go through this level one after another.\\. Just to be safe."
-msgstr ""
+msgstr "En todo caso...\\. será mejor que pasemos por este nivel uno tras otro.\\. Solo para estar seguros."
 
 #. data/maps/heat/special/glitch-area.json entities/303/settings/event/48/message #827
 #. EventTrigger intro START IF quest.dekay-quest.started
@@ -11750,7 +11754,7 @@ msgstr "..."
 #: data/maps/heat/special/glitch-area.json+entities/303/settings/event/49/message+%23828
 msgctxt "data/maps/heat/special/glitch-area.json//entities/303/settings/event/49/message"
 msgid "It's fine!\\. You can go first!"
-msgstr ""
+msgstr "¡Está bien!\\. ¡Tú puedes ir primero!"
 
 #. data/maps/heat/special/glitch-area.json entities/303/settings/event/50/message #829
 #. EventTrigger intro START IF quest.dekay-quest.started
@@ -11758,7 +11762,7 @@ msgstr ""
 #: data/maps/heat/special/glitch-area.json+entities/303/settings/event/50/message+%23829
 msgctxt "data/maps/heat/special/glitch-area.json//entities/303/settings/event/50/message"
 msgid "I'll just wait and watch until you're done!"
-msgstr ""
+msgstr "¡Esperaré y observaré hasta que termines!"
 
 #. data/maps/heat/special/glitch-area.json entities/303/settings/event/51/message #830
 #. EventTrigger intro START IF quest.dekay-quest.started
@@ -11774,7 +11778,7 @@ msgstr "¡...!"
 #: data/maps/heat/special/glitch-area.json+entities/303/settings/event/58/message+%23818
 msgctxt "data/maps/heat/special/glitch-area.json//entities/303/settings/event/58/message"
 msgid "I assume I will not be able to stop you now, will I?"
-msgstr ""
+msgstr "Supongo que no podré detenerte ahora, ¿verdad?"
 
 #. data/maps/heat/special/glitch-area.json entities/303/settings/event/59/message #831
 #. EventTrigger intro START IF quest.dekay-quest.started
@@ -11790,7 +11794,7 @@ msgstr "[niega con la cabeza]"
 #: data/maps/heat/special/glitch-area.json+entities/303/settings/event/60/message+%23832
 msgctxt "data/maps/heat/special/glitch-area.json//entities/303/settings/event/60/message"
 msgid "Fine. At least this location seems isolated, so it is unlikely you will be spotted here."
-msgstr ""
+msgstr "Bien. Al menos esta ubicación parece aislada, por lo que es poco probable que te vean aquí."
 
 #. data/maps/heat/special/glitch-area.json entities/303/settings/event/61/message #833
 #. EventTrigger intro START IF quest.dekay-quest.started
@@ -11798,7 +11802,7 @@ msgstr ""
 #: data/maps/heat/special/glitch-area.json+entities/303/settings/event/61/message+%23833
 msgctxt "data/maps/heat/special/glitch-area.json//entities/303/settings/event/61/message"
 msgid "But please be careful."
-msgstr ""
+msgstr "Pero ten cuidado."
 
 #. data/maps/heat/special/glitch-area.json entities/304/settings/npcStates/0/event/2/message #841
 #. NPC kit
@@ -11823,7 +11827,7 @@ msgstr "¿...?"
 #: data/maps/heat/special/glitch-area.json+entities/304/settings/npcStates/1/event/2/message+%23860
 msgctxt "data/maps/heat/special/glitch-area.json//entities/304/settings/npcStates/1/event/2/message"
 msgid "You're still here?\\. That last challenge is waiting for you!"
-msgstr ""
+msgstr "¿Sigues aquí?\\. ¡Ese último desafío te está esperando!"
 
 #. data/maps/heat/special/glitch-area.json entities/304/settings/npcStates/1/event/3/message #861
 #. NPC kit
@@ -11849,7 +11853,7 @@ msgstr "¡...!"
 #: data/maps/heat/special/glitch-area.json+entities/405/settings/event/0/message+%23834
 msgctxt "data/maps/heat/special/glitch-area.json//entities/405/settings/event/0/message"
 msgid "Nice going!\\. ...\\. Dang it, I should stop watching! I don't want to spoil the solution for myself."
-msgstr ""
+msgstr "¡Bien hecho!\\. ...\\. ¡Maldita sea, debería dejar de mirar! No quiero estropear la solución por mí mismo."
 
 #. data/maps/heat/special/glitch-area.json entities/405/settings/event/1/message #837
 #. EventTrigger checkpointA START IF map.checkpointA
@@ -11865,7 +11869,7 @@ msgstr "..."
 #: data/maps/heat/special/glitch-area.json+entities/406/settings/event/0/message+%23838
 msgctxt "data/maps/heat/special/glitch-area.json//entities/406/settings/event/0/message"
 msgid "Oh boy, this is quite the parkour, isn't it? But seems like you're almost through!"
-msgstr ""
+msgstr "Oh chico, esto es bastante parkour, ¿no? ¡Pero parece que ya casi lo has terminado!"
 
 #. data/maps/heat/special/glitch-area.json entities/406/settings/event/1/message #839
 #. EventTrigger checkpointC START IF map.checkpointC
@@ -11882,7 +11886,7 @@ msgstr "¡...!"
 #: data/maps/heat/special/glitch-area.json+entities/410/settings/event/5/thenStep/0/message+%23854
 msgctxt "data/maps/heat/special/glitch-area.json//entities/410/settings/event/5/thenStep/0/message"
 msgid "Now look at that!"
-msgstr ""
+msgstr "¡Ahora mira eso!"
 
 #. data/maps/heat/special/glitch-area.json entities/410/settings/event/5/elseStep/0/message #842
 #. EventTrigger reachedEnd START IF tmp.reachedEnd
@@ -11891,7 +11895,7 @@ msgstr ""
 #: data/maps/heat/special/glitch-area.json+entities/410/settings/event/5/elseStep/0/message+%23842
 msgctxt "data/maps/heat/special/glitch-area.json//entities/410/settings/event/5/elseStep/0/message"
 msgid "Ha!"
-msgstr ""
+msgstr "Ha!"
 
 #. data/maps/heat/special/glitch-area.json entities/410/settings/event/5/elseStep/2/message #843
 #. EventTrigger reachedEnd START IF tmp.reachedEnd
@@ -11900,16 +11904,17 @@ msgstr ""
 #: data/maps/heat/special/glitch-area.json+entities/410/settings/event/5/elseStep/2/message+%23843
 msgctxt "data/maps/heat/special/glitch-area.json//entities/410/settings/event/5/elseStep/2/message"
 msgid "...?!"
-msgstr ""
+msgstr "...?!"
 
 #. data/maps/heat/special/glitch-area.json entities/410/settings/event/11/thenStep/1/message #855
 #. EventTrigger reachedEnd START IF tmp.reachedEnd
 #. IF !map.checkpointC
 #. SHOW_MSG guests.kit @DEFAULT
 #: data/maps/heat/special/glitch-area.json+entities/410/settings/event/11/thenStep/1/message+%23855
+#, fuzzy
 msgctxt "data/maps/heat/special/glitch-area.json//entities/410/settings/event/11/thenStep/1/message"
 msgid "So you know how to use \\c[3]JADC\\c[0]!\\. Cool!"
-msgstr ""
+msgstr "Entonces ya sabes cómo usar \\c[3]JADC\\c[0]!\\. ¡Genial!"
 
 #. data/maps/heat/special/glitch-area.json entities/410/settings/event/11/thenStep/2/message #856
 #. EventTrigger reachedEnd START IF tmp.reachedEnd
@@ -11927,7 +11932,7 @@ msgstr "¡...!"
 #: data/maps/heat/special/glitch-area.json+entities/410/settings/event/11/thenStep/3/message+%23857
 msgctxt "data/maps/heat/special/glitch-area.json//entities/410/settings/event/11/thenStep/3/message"
 msgid "Don't you feel like doing this area the proper way?"
-msgstr ""
+msgstr "¿No tienes ganas de hacer esta área de la manera adecuada?"
 
 #. data/maps/heat/special/glitch-area.json entities/410/settings/event/11/thenStep/4/message #859
 #. EventTrigger reachedEnd START IF tmp.reachedEnd
@@ -11945,7 +11950,7 @@ msgstr "..."
 #: data/maps/heat/special/glitch-area.json+entities/410/settings/event/11/thenStep/5/message+%23858
 msgctxt "data/maps/heat/special/glitch-area.json//entities/410/settings/event/11/thenStep/5/message"
 msgid "Well...\\. I actually might give it a try anyway."
-msgstr ""
+msgstr "Bien...\\. De hecho, podría darle una oportunidad de todos modos."
 
 #. data/maps/heat/special/glitch-area.json entities/410/settings/event/11/elseStep/1/message #844
 #. EventTrigger reachedEnd START IF tmp.reachedEnd
@@ -11963,7 +11968,7 @@ msgstr "¿Cómo?"
 #: data/maps/heat/special/glitch-area.json+entities/410/settings/event/11/elseStep/2/message+%23845
 msgctxt "data/maps/heat/special/glitch-area.json//entities/410/settings/event/11/elseStep/2/message"
 msgid "Hm?\\. It's called a \\c[3]JADC\\c[0]. Never seen it before?"
-msgstr ""
+msgstr "¿Hm?\\. Se llama \\c[3]JADC\\c[0]. ¿Nunca lo habías visto antes?"
 
 #. data/maps/heat/special/glitch-area.json entities/410/settings/event/11/elseStep/3/message #846
 #. EventTrigger reachedEnd START IF tmp.reachedEnd
@@ -11972,7 +11977,7 @@ msgstr ""
 #: data/maps/heat/special/glitch-area.json+entities/410/settings/event/11/elseStep/3/message+%23846
 msgctxt "data/maps/heat/special/glitch-area.json//entities/410/settings/event/11/elseStep/3/message"
 msgid "I'm kinda surprised they missed such an obvious shortcut."
-msgstr ""
+msgstr "Estoy un poco sorprendido de que se hayan perdido un atajo tan obvio."
 
 #. data/maps/heat/special/glitch-area.json entities/410/settings/event/11/elseStep/4/message #847
 #. EventTrigger reachedEnd START IF tmp.reachedEnd
@@ -11981,7 +11986,7 @@ msgstr ""
 #: data/maps/heat/special/glitch-area.json+entities/410/settings/event/11/elseStep/4/message+%23847
 msgctxt "data/maps/heat/special/glitch-area.json//entities/410/settings/event/11/elseStep/4/message"
 msgid "Then again...\\. it IS just a testing area..."
-msgstr ""
+msgstr "Entonces otra vez...\\. Esto ES solo un área de prueba..."
 
 #. data/maps/heat/special/glitch-area.json entities/410/settings/event/11/elseStep/5/message #848
 #. EventTrigger reachedEnd START IF tmp.reachedEnd
@@ -11999,7 +12004,7 @@ msgstr "..."
 #: data/maps/heat/special/glitch-area.json+entities/410/settings/event/11/elseStep/6/message+%23849
 msgctxt "data/maps/heat/special/glitch-area.json//entities/410/settings/event/11/elseStep/6/message"
 msgid "Oh well, I might as well try to do this the proper way."
-msgstr ""
+msgstr "Bueno, también podría tratar de hacer esto de la manera adecuada."
 
 #. data/maps/heat/special/glitch-area.json entities/410/settings/event/12/message #850
 #. EventTrigger reachedEnd START IF tmp.reachedEnd
@@ -12007,7 +12012,7 @@ msgstr ""
 #: data/maps/heat/special/glitch-area.json+entities/410/settings/event/12/message+%23850
 msgctxt "data/maps/heat/special/glitch-area.json//entities/410/settings/event/12/message"
 msgid "You can go ahead."
-msgstr ""
+msgstr "Puedes continuar."
 
 #. data/maps/heat/special/glitch-area.json entities/410/settings/event/13/message #851
 #. EventTrigger reachedEnd START IF tmp.reachedEnd
@@ -12015,7 +12020,7 @@ msgstr ""
 #: data/maps/heat/special/glitch-area.json+entities/410/settings/event/13/message+%23851
 msgctxt "data/maps/heat/special/glitch-area.json//entities/410/settings/event/13/message"
 msgid "There's supposed to be a very nice challenge after this!"
-msgstr ""
+msgstr "¡Se supone que hay un desafío muy bueno después de esto!"
 
 #. data/maps/heat/special/glitch-area.json entities/410/settings/event/14/message #852
 #. EventTrigger reachedEnd START IF tmp.reachedEnd
@@ -12038,14 +12043,14 @@ msgstr "¡...!"
 #: data/maps/heat/special/glitch-area.json+entities/420/settings/text+%23863
 msgctxt "data/maps/heat/special/glitch-area.json//entities/420/settings/text"
 msgid "?"
-msgstr ""
+msgstr "?"
 
 #. data/maps/heat/special/glitch-area.json entities/421/settings/text #864
 #. Analyzable analHidden2 SPAWN IF g.dekeArena
 #: data/maps/heat/special/glitch-area.json+entities/421/settings/text+%23864
 msgctxt "data/maps/heat/special/glitch-area.json//entities/421/settings/text"
 msgid "?"
-msgstr ""
+msgstr "?"
 
 #. data/maps/heat/special/glitch-boss.json entities/2/settings/event/12/message #2
 #. EventTrigger bossStart START IF tmp.bossStart
@@ -12053,7 +12058,7 @@ msgstr ""
 #: data/maps/heat/special/glitch-boss.json+entities/2/settings/event/12/message+%232
 msgctxt "data/maps/heat/special/glitch-boss.json//entities/2/settings/event/12/message"
 msgid "Oh nooo!\\. Not THAT thing!"
-msgstr ""
+msgstr "¡Oh nooo!\\. ¡No ESA cosa!"
 
 #. data/maps/heat/special/glitch-boss.json entities/2/settings/event/20/message #3
 #. EventTrigger bossStart START IF tmp.bossStart
@@ -12061,7 +12066,7 @@ msgstr ""
 #: data/maps/heat/special/glitch-boss.json+entities/2/settings/event/20/message+%233
 msgctxt "data/maps/heat/special/glitch-boss.json//entities/2/settings/event/20/message"
 msgid "I remember the people who came up with this."
-msgstr ""
+msgstr "Recuerdo a las personas a las que se les ocurrió esto."
 
 #. data/maps/heat/special/glitch-boss.json entities/2/settings/event/21/message #4
 #. EventTrigger bossStart START IF tmp.bossStart
@@ -12069,7 +12074,7 @@ msgstr ""
 #: data/maps/heat/special/glitch-boss.json+entities/2/settings/event/21/message+%234
 msgctxt "data/maps/heat/special/glitch-boss.json//entities/2/settings/event/21/message"
 msgid "It started as a little joke that escalated."
-msgstr ""
+msgstr "Comenzó como una pequeña broma que se intensificó."
 
 #. data/maps/heat/special/glitch-boss.json entities/2/settings/event/22/message #5
 #. EventTrigger bossStart START IF tmp.bossStart
@@ -12077,7 +12082,7 @@ msgstr ""
 #: data/maps/heat/special/glitch-boss.json+entities/2/settings/event/22/message+%235
 msgctxt "data/maps/heat/special/glitch-boss.json//entities/2/settings/event/22/message"
 msgid "And it ended with this mess of a boss fight that breaks the majority of our design guidelines."
-msgstr ""
+msgstr "Y terminó con este lío de una pelea de jefes que rompe la mayoría de nuestras pautas de diseño."
 
 #. data/maps/heat/special/glitch-boss.json entities/2/settings/event/23/message #6
 #. EventTrigger bossStart START IF tmp.bossStart
@@ -12085,7 +12090,7 @@ msgstr ""
 #: data/maps/heat/special/glitch-boss.json+entities/2/settings/event/23/message+%236
 msgctxt "data/maps/heat/special/glitch-boss.json//entities/2/settings/event/23/message"
 msgid "But they were really proud of their creation, so of course they would just hide it somewhere!"
-msgstr ""
+msgstr "Pero estaban realmente orgullosos de todo esto, ¡así que, por supuesto, solo lo escondieron!"
 
 #. data/maps/heat/special/glitch-boss.json entities/2/settings/event/24/message #7
 #. EventTrigger bossStart START IF tmp.bossStart
@@ -12093,7 +12098,7 @@ msgstr ""
 #: data/maps/heat/special/glitch-boss.json+entities/2/settings/event/24/message+%237
 msgctxt "data/maps/heat/special/glitch-boss.json//entities/2/settings/event/24/message"
 msgid "Bye!!"
-msgstr ""
+msgstr "¡¡Adiós!!"
 
 #. data/maps/heat/special/glitch-boss.json entities/2/settings/event/25/message #8
 #. EventTrigger bossStart START IF tmp.bossStart
@@ -12101,7 +12106,7 @@ msgstr ""
 #: data/maps/heat/special/glitch-boss.json+entities/2/settings/event/25/message+%238
 msgctxt "data/maps/heat/special/glitch-boss.json//entities/2/settings/event/25/message"
 msgid "Oh, sorry. I will be quiet.\n"
-msgstr ""
+msgstr "Oh, lo siento. Estaré callado.\n"
 
 #. data/maps/heat/special/glitch-boss.json entities/109/settings/event/4/message #9
 #. EventTrigger bossKill START IF tmp.bossDefeated
@@ -12109,7 +12114,7 @@ msgstr ""
 #: data/maps/heat/special/glitch-boss.json+entities/109/settings/event/4/message+%239
 msgctxt "data/maps/heat/special/glitch-boss.json//entities/109/settings/event/4/message"
 msgid "Good riddance."
-msgstr ""
+msgstr "Buen viaaaje."
 
 #. data/maps/heat/special/guards-billstonLair-1.json entities/33/settings/event/8/name #635
 #. EventTrigger battleStart START IF tmp.touch-battleStart
@@ -12117,7 +12122,7 @@ msgstr ""
 #: data/maps/heat/special/guards-billstonLair-1.json+entities/33/settings/event/8/name+%23635
 msgctxt "data/maps/heat/special/guards-billstonLair-1.json//entities/33/settings/event/8/name"
 msgid "Billston"
-msgstr ""
+msgstr "Billston"
 
 #. data/maps/heat/special/guards-billstonLair-1.json entities/33/settings/event/10/message #10
 #. EventTrigger battleStart START IF tmp.touch-battleStart
@@ -12125,15 +12130,16 @@ msgstr ""
 #: data/maps/heat/special/guards-billstonLair-1.json+entities/33/settings/event/10/message+%2310
 msgctxt "data/maps/heat/special/guards-billstonLair-1.json//entities/33/settings/event/10/message"
 msgid "Hi...!"
-msgstr ""
+msgstr "Hola...!"
 
 #. data/maps/heat/special/guards-billstonLair-1.json entities/33/settings/event/11/message #11
 #. EventTrigger battleStart START IF tmp.touch-battleStart
 #. SHOW_MSG guards.quest-male-mustache-white @DEFAULT
 #: data/maps/heat/special/guards-billstonLair-1.json+entities/33/settings/event/11/message+%2311
+#, fuzzy
 msgctxt "data/maps/heat/special/guards-billstonLair-1.json//entities/33/settings/event/11/message"
 msgid "You even saw through my holographic hidden entrance?\\. Truly you \\v[lore.title.seeker]s are something else."
-msgstr ""
+msgstr "¿Incluso viste a través de mi entrada oculta holográfica?\\. Verdaderamente ustedes \\v[lore.title.seeker]es son otra cosa."
 
 #. data/maps/heat/special/guards-billstonLair-1.json entities/33/settings/event/12/message #622
 #. EventTrigger battleStart START IF tmp.touch-battleStart
@@ -12149,7 +12155,7 @@ msgstr "..."
 #: data/maps/heat/special/guards-billstonLair-1.json+entities/33/settings/event/13/message+%23623
 msgctxt "data/maps/heat/special/guards-billstonLair-1.json//entities/33/settings/event/13/message"
 msgid "But this will be the end of the line for you.\\. No one will beat me, when I am this well prepared.\\.\\. Behold...!"
-msgstr ""
+msgstr "Pero este será el final para ti.\\. Nadie me vencerá, cuando estoy así de bien preparado.\\.\\. Mirad...!"
 
 #. data/maps/heat/special/guards-billstonLair-1.json entities/33/settings/event/14/message #630
 #. EventTrigger battleStart START IF tmp.touch-battleStart
@@ -12157,7 +12163,7 @@ msgstr ""
 #: data/maps/heat/special/guards-billstonLair-1.json+entities/33/settings/event/14/message+%23630
 msgctxt "data/maps/heat/special/guards-billstonLair-1.json//entities/33/settings/event/14/message"
 msgid "...!?"
-msgstr ""
+msgstr "...!?"
 
 #. data/maps/heat/special/guards-billstonLair-1.json entities/33/settings/event/43/name #636
 #. EventTrigger battleStart START IF tmp.touch-battleStart
@@ -12165,7 +12171,7 @@ msgstr ""
 #: data/maps/heat/special/guards-billstonLair-1.json+entities/33/settings/event/43/name+%23636
 msgctxt "data/maps/heat/special/guards-billstonLair-1.json//entities/33/settings/event/43/name"
 msgid "Billston"
-msgstr ""
+msgstr "Billston"
 
 #. data/maps/heat/special/guards-billstonLair-1.json entities/33/settings/event/45/message #12
 #. EventTrigger battleStart START IF tmp.touch-battleStart
@@ -12173,7 +12179,7 @@ msgstr ""
 #: data/maps/heat/special/guards-billstonLair-1.json+entities/33/settings/event/45/message+%2312
 msgctxt "data/maps/heat/special/guards-billstonLair-1.json//entities/33/settings/event/45/message"
 msgid "Hi...!"
-msgstr ""
+msgstr "Hola...!"
 
 #. data/maps/heat/special/guards-billstonLair-1.json entities/33/settings/event/46/message #13
 #. EventTrigger battleStart START IF tmp.touch-battleStart
@@ -12181,7 +12187,7 @@ msgstr ""
 #: data/maps/heat/special/guards-billstonLair-1.json+entities/33/settings/event/46/message+%2313
 msgctxt "data/maps/heat/special/guards-billstonLair-1.json//entities/33/settings/event/46/message"
 msgid "Now \\v[lore.title.seeker]... have at thee!"
-msgstr ""
+msgstr "Ahora \\v[lore.title.seeker]... ¡Tenlo contigo!"
 
 #. data/maps/heat/special/guards-billstonLair-1.json entities/61/settings/event/12/name #637
 #. EventTrigger battleEnd START IF tmp.guardBattleOver
@@ -12189,7 +12195,7 @@ msgstr ""
 #: data/maps/heat/special/guards-billstonLair-1.json+entities/61/settings/event/12/name+%23637
 msgctxt "data/maps/heat/special/guards-billstonLair-1.json//entities/61/settings/event/12/name"
 msgid "Billston"
-msgstr ""
+msgstr "Billston"
 
 #. data/maps/heat/special/guards-billstonLair-1.json entities/61/settings/event/14/message #14
 #. EventTrigger battleEnd START IF tmp.guardBattleOver
@@ -12205,7 +12211,7 @@ msgstr "..."
 #: data/maps/heat/special/guards-billstonLair-1.json+entities/61/settings/event/15/message+%2315
 msgctxt "data/maps/heat/special/guards-billstonLair-1.json//entities/61/settings/event/15/message"
 msgid "D-damn it.\\. All those preparations... done for nothing."
-msgstr ""
+msgstr "M-maldita sea.\\. Todos esos preparativos... hechos para nada."
 
 #. data/maps/heat/special/guards-billstonLair-1.json entities/61/settings/event/28/name #638
 #. EventTrigger battleEnd START IF tmp.guardBattleOver
@@ -12213,7 +12219,7 @@ msgstr ""
 #: data/maps/heat/special/guards-billstonLair-1.json+entities/61/settings/event/28/name+%23638
 msgctxt "data/maps/heat/special/guards-billstonLair-1.json//entities/61/settings/event/28/name"
 msgid "Billston"
-msgstr ""
+msgstr "Billston"
 
 #. data/maps/heat/special/guards-billstonLair-1.json entities/61/settings/event/30/name #639
 #. EventTrigger battleEnd START IF tmp.guardBattleOver
@@ -12221,7 +12227,7 @@ msgstr ""
 #: data/maps/heat/special/guards-billstonLair-1.json+entities/61/settings/event/30/name+%23639
 msgctxt "data/maps/heat/special/guards-billstonLair-1.json//entities/61/settings/event/30/name"
 msgid "Zaida"
-msgstr ""
+msgstr "Zaida"
 
 #. data/maps/heat/special/guards-billstonLair-1.json entities/61/settings/event/31/message #17
 #. EventTrigger battleEnd START IF tmp.guardBattleOver
@@ -12229,7 +12235,7 @@ msgstr ""
 #: data/maps/heat/special/guards-billstonLair-1.json+entities/61/settings/event/31/message+%2317
 msgctxt "data/maps/heat/special/guards-billstonLair-1.json//entities/61/settings/event/31/message"
 msgid "You are coming with me, traitor!\\. You are a stain on the honor of the Ba'kii Guard!"
-msgstr ""
+msgstr "¡Te vienes conmigo, traidor!\\. ¡Eres una mancha en el honor de la Guardia Ba'kii!"
 
 #. data/maps/heat/special/guards-billstonLair-1.json entities/61/settings/event/32/message #16
 #. EventTrigger battleEnd START IF tmp.guardBattleOver
@@ -12237,7 +12243,7 @@ msgstr ""
 #: data/maps/heat/special/guards-billstonLair-1.json+entities/61/settings/event/32/message+%2316
 msgctxt "data/maps/heat/special/guards-billstonLair-1.json//entities/61/settings/event/32/message"
 msgid "Hi...!"
-msgstr ""
+msgstr "Hola...!"
 
 #. data/maps/heat/special/guards-billstonLair-1.json entities/61/settings/event/33/message #625
 #. EventTrigger battleEnd START IF tmp.guardBattleOver
@@ -12245,7 +12251,7 @@ msgstr ""
 #: data/maps/heat/special/guards-billstonLair-1.json+entities/61/settings/event/33/message+%23625
 msgctxt "data/maps/heat/special/guards-billstonLair-1.json//entities/61/settings/event/33/message"
 msgid "Ah, hello Ms. \\v[lore.title.seeker].\\. You have done well in apprehending him.\\. Now we will bring him to justice."
-msgstr ""
+msgstr "Ah, hola Sra. \\v[lore.title.seeker].\\. Has hecho bien en aprehenderlo.\\. Ahora lo llevaremos ante la justicia."
 
 #. data/maps/heat/special/guards-billstonLair-1.json entities/61/settings/event/34/message #621
 #. EventTrigger battleEnd START IF tmp.guardBattleOver
@@ -12253,7 +12259,7 @@ msgstr ""
 #: data/maps/heat/special/guards-billstonLair-1.json+entities/61/settings/event/34/message+%23621
 msgctxt "data/maps/heat/special/guards-billstonLair-1.json//entities/61/settings/event/34/message"
 msgid "What, you?\\. I was your superior and this is how you show your respect?"
-msgstr ""
+msgstr "¿Qué, tu?\\. ¿Yo era tu superior y así es como muestras tu respeto?"
 
 #. data/maps/heat/special/guards-billstonLair-1.json entities/61/settings/event/35/message #631
 #. EventTrigger battleEnd START IF tmp.guardBattleOver
@@ -12261,7 +12267,7 @@ msgstr ""
 #: data/maps/heat/special/guards-billstonLair-1.json+entities/61/settings/event/35/message+%23631
 msgctxt "data/maps/heat/special/guards-billstonLair-1.json//entities/61/settings/event/35/message"
 msgid "I am a guard of \\v[area.heat-village.name] and sworn to protect shad- and humankind from evil.\\. Like you, traitor."
-msgstr ""
+msgstr "Soy un guardia de \\v[area.heat-village.name] y juré proteger a Shad- y a la humanidad del mal.\\. Como tú, traidor."
 
 #. data/maps/heat/special/guards-billstonLair-1.json entities/61/settings/event/36/message #632
 #. EventTrigger battleEnd START IF tmp.guardBattleOver
@@ -12269,7 +12275,7 @@ msgstr ""
 #: data/maps/heat/special/guards-billstonLair-1.json+entities/61/settings/event/36/message+%23632
 msgctxt "data/maps/heat/special/guards-billstonLair-1.json//entities/61/settings/event/36/message"
 msgid "I see...\\. the guard truly has become soft."
-msgstr ""
+msgstr "Ya veo...\\. la guardia realmente se ha ablandado."
 
 #. data/maps/heat/special/guards-billstonLair-1.json entities/61/settings/event/40/name #640
 #. EventTrigger battleEnd START IF tmp.guardBattleOver
@@ -12277,7 +12283,7 @@ msgstr ""
 #: data/maps/heat/special/guards-billstonLair-1.json+entities/61/settings/event/40/name+%23640
 msgctxt "data/maps/heat/special/guards-billstonLair-1.json//entities/61/settings/event/40/name"
 msgid "Billston"
-msgstr ""
+msgstr "Billston"
 
 #. data/maps/heat/special/guards-billstonLair-1.json entities/61/settings/event/42/name #641
 #. EventTrigger battleEnd START IF tmp.guardBattleOver
@@ -12285,7 +12291,7 @@ msgstr ""
 #: data/maps/heat/special/guards-billstonLair-1.json+entities/61/settings/event/42/name+%23641
 msgctxt "data/maps/heat/special/guards-billstonLair-1.json//entities/61/settings/event/42/name"
 msgid "Zaida"
-msgstr ""
+msgstr "Zaida"
 
 #. data/maps/heat/special/guards-billstonLair-1.json entities/61/settings/event/43/message #624
 #. EventTrigger battleEnd START IF tmp.guardBattleOver
@@ -12293,7 +12299,7 @@ msgstr ""
 #: data/maps/heat/special/guards-billstonLair-1.json+entities/61/settings/event/43/message+%23624
 msgctxt "data/maps/heat/special/guards-billstonLair-1.json//entities/61/settings/event/43/message"
 msgid "And you, \\v[lore.title.seeker]..."
-msgstr ""
+msgstr "Y tú, \\v[lore.title.seeker]..."
 
 #. data/maps/heat/special/guards-billstonLair-1.json entities/61/settings/event/44/message #626
 #. EventTrigger battleEnd START IF tmp.guardBattleOver
@@ -12309,7 +12315,7 @@ msgstr "¿...?"
 #: data/maps/heat/special/guards-billstonLair-1.json+entities/61/settings/event/45/message+%23627
 msgctxt "data/maps/heat/special/guards-billstonLair-1.json//entities/61/settings/event/45/message"
 msgid "...don't think you've seen the last of me!\\. My human ingenuity will always find a way!"
-msgstr ""
+msgstr "...¡No creas que has visto lo último de mí!\\. ¡Mi ingenio humano siempre encontrará la manera!"
 
 #. data/maps/heat/special/guards-billstonLair-1.json entities/61/settings/event/46/message #628
 #. EventTrigger battleEnd START IF tmp.guardBattleOver
@@ -12325,7 +12331,7 @@ msgstr "..."
 #: data/maps/heat/special/guards-billstonLair-1.json+entities/61/settings/event/48/message+%23629
 msgctxt "data/maps/heat/special/guards-billstonLair-1.json//entities/61/settings/event/48/message"
 msgid "We will see about that.\\. For now you're under arrest.\\. Now move it!"
-msgstr ""
+msgstr "Ya lo veremos.\\. Por ahora estás bajo arresto.\\. ¡Ahora muévete!"
 
 #. data/maps/heat/special/guards-billstonLair-1.json entities/61/settings/event/49/message #633
 #. EventTrigger battleEnd START IF tmp.guardBattleOver
@@ -12333,7 +12339,7 @@ msgstr ""
 #: data/maps/heat/special/guards-billstonLair-1.json+entities/61/settings/event/49/message+%23633
 msgctxt "data/maps/heat/special/guards-billstonLair-1.json//entities/61/settings/event/49/message"
 msgid "Yes, yes.\\. Whatever you say, officer."
-msgstr ""
+msgstr "Sí, sí.\\. Lo que usted diga, oficial."
 
 #. data/maps/heat/special/guards-billstonLair-1.json entities/61/settings/event/50/message #634
 #. EventTrigger battleEnd START IF tmp.guardBattleOver
@@ -12348,14 +12354,14 @@ msgstr "...adiós."
 #: data/maps/heat/special/guards-billstonLair-1.json+entities/62/settings/analyzable/text+%23620
 msgctxt "data/maps/heat/special/guards-billstonLair-1.json//entities/62/settings/analyzable/text"
 msgid "Zaida"
-msgstr ""
+msgstr "Zaida"
 
 #. data/maps/heat/special/heatadv-questTemple-2.json entities/31/settings/analyzable/text #134
 #. NPC npc-hira
 #: data/maps/heat/special/heatadv-questTemple-2.json+entities/31/settings/analyzable/text+%23134
 msgctxt "data/maps/heat/special/heatadv-questTemple-2.json//entities/31/settings/analyzable/text"
 msgid "Hira"
-msgstr ""
+msgstr "Hira"
 
 #. data/maps/heat/special/heatadv-questTemple-2.json entities/31/settings/npcStates/2/event/4/name #156
 #. NPC npc-hira
@@ -12364,7 +12370,7 @@ msgstr ""
 #: data/maps/heat/special/heatadv-questTemple-2.json+entities/31/settings/npcStates/2/event/4/name+%23156
 msgctxt "data/maps/heat/special/heatadv-questTemple-2.json//entities/31/settings/npcStates/2/event/4/name"
 msgid "Hira"
-msgstr ""
+msgstr "Hira"
 
 #. data/maps/heat/special/heatadv-questTemple-2.json entities/31/settings/npcStates/2/event/6/message #154
 #. NPC npc-hira
@@ -12373,7 +12379,7 @@ msgstr ""
 #: data/maps/heat/special/heatadv-questTemple-2.json+entities/31/settings/npcStates/2/event/6/message+%23154
 msgctxt "data/maps/heat/special/heatadv-questTemple-2.json//entities/31/settings/npcStates/2/event/6/message"
 msgid "\\v[lore.title.seeker], we are still working on preparing the next expedition to the inside."
-msgstr ""
+msgstr "\\v[lore.title.seeker], todavía estamos trabajando para preparar la próxima expedición al interior."
 
 #. data/maps/heat/special/heatadv-questTemple-2.json entities/31/settings/npcStates/2/event/7/message #153
 #. NPC npc-hira
@@ -12382,7 +12388,7 @@ msgstr ""
 #: data/maps/heat/special/heatadv-questTemple-2.json+entities/31/settings/npcStates/2/event/7/message+%23153
 msgctxt "data/maps/heat/special/heatadv-questTemple-2.json//entities/31/settings/npcStates/2/event/7/message"
 msgid "Our leader will tell you when we can continue.\\. I can't wait for what lies beyond those sands!"
-msgstr ""
+msgstr "Nuestro líder le dirá cuándo podemos continuar.\\. ¡No puedo esperar por lo que hay más allá de esas arenas!"
 
 #. data/maps/heat/special/heatadv-questTemple-2.json entities/31/settings/npcStates/2/event/8/message #138
 #. NPC npc-hira
@@ -12400,7 +12406,7 @@ msgstr "¡...!"
 #: data/maps/heat/special/heatadv-questTemple-2.json+entities/31/settings/npcStates/3/event/quest/2/name+%23158
 msgctxt "data/maps/heat/special/heatadv-questTemple-2.json//entities/31/settings/npcStates/3/event/quest/2/name"
 msgid "Hira"
-msgstr ""
+msgstr "Hira"
 
 #. data/maps/heat/special/heatadv-questTemple-2.json entities/31/settings/npcStates/3/event/quest/8/message #159
 #. NPC npc-hira
@@ -12418,7 +12424,7 @@ msgstr "¡Hola!"
 #: data/maps/heat/special/heatadv-questTemple-2.json+entities/31/settings/npcStates/3/event/quest/9/message+%23160
 msgctxt "data/maps/heat/special/heatadv-questTemple-2.json//entities/31/settings/npcStates/3/event/quest/9/message"
 msgid "\\v[lore.title.seeker], greetings.\\. I have waited for you to return."
-msgstr ""
+msgstr "\\v[lore.title.seeker], saludos.\\. He esperado a que volvieras."
 
 #. data/maps/heat/special/heatadv-questTemple-2.json entities/31/settings/npcStates/3/event/quest/10/message #169
 #. NPC npc-hira
@@ -12427,7 +12433,7 @@ msgstr ""
 #: data/maps/heat/special/heatadv-questTemple-2.json+entities/31/settings/npcStates/3/event/quest/10/message+%23169
 msgctxt "data/maps/heat/special/heatadv-questTemple-2.json//entities/31/settings/npcStates/3/event/quest/10/message"
 msgid "We have finally integrated this area into Trackwalker and uncovered the mechanism to reveal the way forward."
-msgstr ""
+msgstr "Finalmente integramos esta área en Aprendiz del Camino y descubrimos el mecanismo para revelar el camino a seguir."
 
 #. data/maps/heat/special/heatadv-questTemple-2.json entities/31/settings/npcStates/3/event/quest/11/message #161
 #. NPC npc-hira
@@ -12445,7 +12451,7 @@ msgstr "¡...!"
 #: data/maps/heat/special/heatadv-questTemple-2.json+entities/31/settings/npcStates/3/event/quest/12/message+%23170
 msgctxt "data/maps/heat/special/heatadv-questTemple-2.json//entities/31/settings/npcStates/3/event/quest/12/message"
 msgid "Allow me to open the path for you."
-msgstr ""
+msgstr "Permíteme abrirte el camino."
 
 #. data/maps/heat/special/heatadv-questTemple-2.json entities/31/settings/npcStates/3/event/quest/35/name #171
 #. NPC npc-hira
@@ -12454,7 +12460,7 @@ msgstr ""
 #: data/maps/heat/special/heatadv-questTemple-2.json+entities/31/settings/npcStates/3/event/quest/35/name+%23171
 msgctxt "data/maps/heat/special/heatadv-questTemple-2.json//entities/31/settings/npcStates/3/event/quest/35/name"
 msgid "Hira"
-msgstr ""
+msgstr "Hira"
 
 #. data/maps/heat/special/heatadv-questTemple-2.json entities/31/settings/npcStates/3/event/quest/37/message #162
 #. NPC npc-hira
@@ -12463,7 +12469,7 @@ msgstr ""
 #: data/maps/heat/special/heatadv-questTemple-2.json+entities/31/settings/npcStates/3/event/quest/37/message+%23162
 msgctxt "data/maps/heat/special/heatadv-questTemple-2.json//entities/31/settings/npcStates/3/event/quest/37/message"
 msgid "There.\\. Not the most comfortable way, but this hole will lead you deeper inside."
-msgstr ""
+msgstr "Ahí.\\. No es la forma más cómoda, pero este agujero te llevará más adentro."
 
 #. data/maps/heat/special/heatadv-questTemple-2.json entities/31/settings/npcStates/3/event/quest/38/message #172
 #. NPC npc-hira
@@ -12472,7 +12478,7 @@ msgstr ""
 #: data/maps/heat/special/heatadv-questTemple-2.json+entities/31/settings/npcStates/3/event/quest/38/message+%23172
 msgctxt "data/maps/heat/special/heatadv-questTemple-2.json//entities/31/settings/npcStates/3/event/quest/38/message"
 msgid "Follow the way and search for the treasure inside the temple's core."
-msgstr ""
+msgstr "Sigue el camino y busca el tesoro dentro del núcleo del templo."
 
 #. data/maps/heat/special/heatadv-questTemple-2.json entities/31/settings/npcStates/3/event/quest/39/message #46
 #. NPC npc-hira
@@ -12490,7 +12496,7 @@ msgstr "[asiente]"
 #: data/maps/heat/special/heatadv-questTemple-2.json+entities/31/settings/npcStates/4/event/4/name+%23163
 msgctxt "data/maps/heat/special/heatadv-questTemple-2.json//entities/31/settings/npcStates/4/event/4/name"
 msgid "Hira"
-msgstr ""
+msgstr "Hira"
 
 #. data/maps/heat/special/heatadv-questTemple-2.json entities/31/settings/npcStates/4/event/6/message #164
 #. NPC npc-hira
@@ -12499,7 +12505,7 @@ msgstr ""
 #: data/maps/heat/special/heatadv-questTemple-2.json+entities/31/settings/npcStates/4/event/6/message+%23164
 msgctxt "data/maps/heat/special/heatadv-questTemple-2.json//entities/31/settings/npcStates/4/event/6/message"
 msgid "Follow the quicksand to proceed even deeper inside the temple and find the Ancient treasure."
-msgstr ""
+msgstr "Sigue las arenas movedizas para profundizar aún más en el interior del templo y encontrar el tesoro antiguo."
 
 #. data/maps/heat/special/heatadv-questTemple-2.json entities/31/settings/npcStates/5/event/4/name #165
 #. NPC npc-hira
@@ -12508,7 +12514,7 @@ msgstr ""
 #: data/maps/heat/special/heatadv-questTemple-2.json+entities/31/settings/npcStates/5/event/4/name+%23165
 msgctxt "data/maps/heat/special/heatadv-questTemple-2.json//entities/31/settings/npcStates/5/event/4/name"
 msgid "Hira"
-msgstr ""
+msgstr "Hira"
 
 #. data/maps/heat/special/heatadv-questTemple-2.json entities/31/settings/npcStates/5/event/6/message #166
 #. NPC npc-hira
@@ -12517,7 +12523,7 @@ msgstr ""
 #: data/maps/heat/special/heatadv-questTemple-2.json+entities/31/settings/npcStates/5/event/6/message+%23166
 msgctxt "data/maps/heat/special/heatadv-questTemple-2.json//entities/31/settings/npcStates/5/event/6/message"
 msgid "Ah, I see you have finally found the relic.\\. Quickly bring it to our headquarters so that we can study it!"
-msgstr ""
+msgstr "Ah, veo que finalmente has encontrado la reliquia.\\. ¡Tráelo rápidamente a nuestra sede para que podamos estudiarlo!"
 
 #. data/maps/heat/special/heatadv-questTemple-2.json entities/31/settings/npcStates/6/event/4/name #167
 #. NPC npc-hira
@@ -12526,7 +12532,7 @@ msgstr ""
 #: data/maps/heat/special/heatadv-questTemple-2.json+entities/31/settings/npcStates/6/event/4/name+%23167
 msgctxt "data/maps/heat/special/heatadv-questTemple-2.json//entities/31/settings/npcStates/6/event/4/name"
 msgid "Hira"
-msgstr ""
+msgstr "Hira"
 
 #. data/maps/heat/special/heatadv-questTemple-2.json entities/31/settings/npcStates/6/event/6/message #168
 #. NPC npc-hira
@@ -12535,7 +12541,7 @@ msgstr ""
 #: data/maps/heat/special/heatadv-questTemple-2.json+entities/31/settings/npcStates/6/event/6/message+%23168
 msgctxt "data/maps/heat/special/heatadv-questTemple-2.json//entities/31/settings/npcStates/6/event/6/message"
 msgid "Though you might have retrieved the treasure within it, the temple might still have more secrets for us to uncover!"
-msgstr ""
+msgstr "¡Aunque es posible que hayas recuperado el tesoro que contiene, el templo aún podría tener más secretos para que los descubramos!"
 
 #. data/maps/heat/special/heatadv-questTemple-2.json entities/34/settings/event/12/message #86
 #. EventTrigger endScene START IF tmp.touch-endScene
@@ -12551,7 +12557,7 @@ msgstr "¿...?"
 #: data/maps/heat/special/heatadv-questTemple-2.json+entities/34/settings/event/13/message+%23135
 msgctxt "data/maps/heat/special/heatadv-questTemple-2.json//entities/34/settings/event/13/message"
 msgid "How utterly fascinating!"
-msgstr ""
+msgstr "¡Qué absolutamente fascinante!"
 
 #. data/maps/heat/special/heatadv-questTemple-2.json entities/34/settings/event/19/name #157
 #. EventTrigger endScene START IF tmp.touch-endScene
@@ -12559,7 +12565,7 @@ msgstr ""
 #: data/maps/heat/special/heatadv-questTemple-2.json+entities/34/settings/event/19/name+%23157
 msgctxt "data/maps/heat/special/heatadv-questTemple-2.json//entities/34/settings/event/19/name"
 msgid "Hira"
-msgstr ""
+msgstr "Hira"
 
 #. data/maps/heat/special/heatadv-questTemple-2.json entities/34/settings/event/21/message #143
 #. EventTrigger endScene START IF tmp.touch-endScene
@@ -12567,7 +12573,7 @@ msgstr ""
 #: data/maps/heat/special/heatadv-questTemple-2.json+entities/34/settings/event/21/message+%23143
 msgctxt "data/maps/heat/special/heatadv-questTemple-2.json//entities/34/settings/event/21/message"
 msgid "\\v[lore.title.seeker], this is amazing!\\. Surely the greatest discovery since the opening of the \\v[area.heat-dng.name]!"
-msgstr ""
+msgstr "\\v[lore.title.seeker], ¡Esto es increíble!\\. ¡Seguramente el mayor descubrimiento desde la apertura de \\v[area.heat-dng.name]!"
 
 #. data/maps/heat/special/heatadv-questTemple-2.json entities/34/settings/event/22/message #139
 #. EventTrigger endScene START IF tmp.touch-endScene
@@ -12583,7 +12589,7 @@ msgstr "¿...?"
 #: data/maps/heat/special/heatadv-questTemple-2.json+entities/34/settings/event/24/message+%23140
 msgctxt "data/maps/heat/special/heatadv-questTemple-2.json//entities/34/settings/event/24/message"
 msgid "Yes, it might not look like much.\\. In fact it gives an impression of being a dead-end."
-msgstr ""
+msgstr "Sí, puede que no parezca mucho.\\. De hecho, da la impresión de ser un callejón sin salida."
 
 #. data/maps/heat/special/heatadv-questTemple-2.json entities/34/settings/event/25/message #103
 #. EventTrigger endScene START IF tmp.touch-endScene
@@ -12599,7 +12605,7 @@ msgstr "[asiente]"
 #: data/maps/heat/special/heatadv-questTemple-2.json+entities/34/settings/event/28/message+%23141
 msgctxt "data/maps/heat/special/heatadv-questTemple-2.json//entities/34/settings/event/28/message"
 msgid "But you see...\\. these devices..."
-msgstr ""
+msgstr "Pero tu ves...\\. estos dispositivos..."
 
 #. data/maps/heat/special/heatadv-questTemple-2.json entities/34/settings/event/30/message #142
 #. EventTrigger endScene START IF tmp.touch-endScene
@@ -12607,7 +12613,7 @@ msgstr ""
 #: data/maps/heat/special/heatadv-questTemple-2.json+entities/34/settings/event/30/message+%23142
 msgctxt "data/maps/heat/special/heatadv-questTemple-2.json//entities/34/settings/event/30/message"
 msgid "... and the nature of the sand...\\. it all hints to a hidden way into a deep sanctuary of Ancient nature."
-msgstr ""
+msgstr "... y la naturaleza de la arena...\\. todo apunta a un camino oculto hacia un santuario profundo de la naturaleza antigua."
 
 #. data/maps/heat/special/heatadv-questTemple-2.json entities/34/settings/event/31/message #155
 #. EventTrigger endScene START IF tmp.touch-endScene
@@ -12623,7 +12629,7 @@ msgstr "¡...!"
 #: data/maps/heat/special/heatadv-questTemple-2.json+entities/34/settings/event/33/message+%23133
 msgctxt "data/maps/heat/special/heatadv-questTemple-2.json//entities/34/settings/event/33/message"
 msgid "Yes, it is so very exciting!\\. Now sadly..."
-msgstr ""
+msgstr "¡Sí, es tan emocionante!\\. Ahora tristemente..."
 
 #. data/maps/heat/special/heatadv-questTemple-2.json entities/34/settings/event/34/message #144
 #. EventTrigger endScene START IF tmp.touch-endScene
@@ -12639,7 +12645,7 @@ msgstr "¿...?"
 #: data/maps/heat/special/heatadv-questTemple-2.json+entities/34/settings/event/35/message+%23145
 msgctxt "data/maps/heat/special/heatadv-questTemple-2.json//entities/34/settings/event/35/message"
 msgid "... the mechanism seems to be unusable to us right now."
-msgstr ""
+msgstr "... el mecanismo parece ser inutilizable para nosotros en este momento."
 
 #. data/maps/heat/special/heatadv-questTemple-2.json entities/34/settings/event/36/message #146
 #. EventTrigger endScene START IF tmp.touch-endScene
@@ -12647,7 +12653,7 @@ msgstr ""
 #: data/maps/heat/special/heatadv-questTemple-2.json+entities/34/settings/event/36/message+%23146
 msgctxt "data/maps/heat/special/heatadv-questTemple-2.json//entities/34/settings/event/36/message"
 msgid "To find a way inside, we will need to examine this place and properly integrate it into Trackwalker."
-msgstr ""
+msgstr "Para encontrar una forma de entrar, tendremos que examinar este lugar e integrarlo correctamente en Aprendiz del Camino."
 
 #. data/maps/heat/special/heatadv-questTemple-2.json entities/34/settings/event/37/message #147
 #. EventTrigger endScene START IF tmp.touch-endScene
@@ -12663,7 +12669,7 @@ msgstr "¡...!"
 #: data/maps/heat/special/heatadv-questTemple-2.json+entities/34/settings/event/38/message+%23148
 msgctxt "data/maps/heat/special/heatadv-questTemple-2.json//entities/34/settings/event/38/message"
 msgid "Yes, this will take some time to finish.\\. But we have already made great progress today.\\. Amazing job, \\v[lore.title.seeker]!"
-msgstr ""
+msgstr "Sí, esto tomará algún tiempo para terminar.\\. Pero ya hemos hecho un gran progreso hoy.\\. ¡Excelente trabajo, \\v[lore.title.seeker]!"
 
 #. data/maps/heat/special/heatadv-questTemple-2.json entities/34/settings/event/39/message #149
 #. EventTrigger endScene START IF tmp.touch-endScene
@@ -12679,7 +12685,7 @@ msgstr "..."
 #: data/maps/heat/special/heatadv-questTemple-2.json+entities/34/settings/event/40/message+%23150
 msgctxt "data/maps/heat/special/heatadv-questTemple-2.json//entities/34/settings/event/40/message"
 msgid "You can now return to HQ and leave this to us.\\. Send my regards to the leader, yes?"
-msgstr ""
+msgstr "Ahora puede regresar a la sede y dejarnos esto a nosotros.\\. Enviar mis saludos al líder, ¿sí?"
 
 #. data/maps/heat/special/heatadv-questTemple-2.json entities/34/settings/event/41/message #151
 #. EventTrigger endScene START IF tmp.touch-endScene
@@ -12702,35 +12708,36 @@ msgstr "¡Adiós!"
 #: data/maps/heat/special/heatadv-questTemple-2.json+entities/37/settings/analyzable/text+%23137
 msgctxt "data/maps/heat/special/heatadv-questTemple-2.json//entities/37/settings/analyzable/text"
 msgid "???"
-msgstr ""
+msgstr "???"
 
 #. data/maps/heat/special/heatadv-questTemple-2.json entities/38/settings/analyzable/text #136
 #. NPC myterious2
 #: data/maps/heat/special/heatadv-questTemple-2.json+entities/38/settings/analyzable/text+%23136
 msgctxt "data/maps/heat/special/heatadv-questTemple-2.json//entities/38/settings/analyzable/text"
 msgid "???"
-msgstr ""
+msgstr "???"
 
 #. data/maps/heat/special/heatadv-questTemple-3.json entities/110/settings/teleportLabel #3
 #. TeleportField exit
 #: data/maps/heat/special/heatadv-questTemple-3.json+entities/110/settings/teleportLabel+%233
 msgctxt "data/maps/heat/special/heatadv-questTemple-3.json//entities/110/settings/teleportLabel"
 msgid "UP"
-msgstr ""
+msgstr "ARRIBA"
 
 #. data/maps/heat/special/heatadv-questTemple-4-boss.json entities/16/settings/teleportLabel #3
 #. TeleportField exit
 #: data/maps/heat/special/heatadv-questTemple-4-boss.json+entities/16/settings/teleportLabel+%233
 msgctxt "data/maps/heat/special/heatadv-questTemple-4-boss.json//entities/16/settings/teleportLabel"
 msgid "UP"
-msgstr ""
+msgstr "ARRIBA"
 
 #. data/maps/heat/special/heatadv-questcave-1.json entities/3/settings/interact/hoverText #1
 #. Prop
 #: data/maps/heat/special/heatadv-questcave-1.json+entities/3/settings/interact/hoverText+%231
+#, fuzzy
 msgctxt "data/maps/heat/special/heatadv-questcave-1.json//entities/3/settings/interact/hoverText"
 msgid "\\v[combat.name.heat/special/kamikatze-helper] control panel"
-msgstr ""
+msgstr "panel de control de \\v[combat.name.heat/special/kamikatze-helper]"
 
 #. data/maps/heat/special/heatadv-questcave-1.json entities/3/settings/interact/event/2/0/1/text #79
 #. Prop
@@ -12739,7 +12746,7 @@ msgstr ""
 #: data/maps/heat/special/heatadv-questcave-1.json+entities/3/settings/interact/event/2/0/1/text+%2379
 msgctxt "data/maps/heat/special/heatadv-questcave-1.json//entities/3/settings/interact/event/2/0/1/text"
 msgid "Thank you for deciding to use the \\c[3]\\v[combat.name.heat/special/kamikatze-helper]\\c[0], the ideal choice for mining, demolition, pest-control and passionate festivities!"
-msgstr ""
+msgstr "¡Gracias por decidir usar el \\c[3]\\v[combat.name.heat/special/kamikatze-helper]\\c[0], la opción ideal para minería, demolición, control de plagas y festividades apasionantes!"
 
 #. data/maps/heat/special/heatadv-questcave-1.json entities/3/settings/interact/event/2/0/2/text #80
 #. Prop
@@ -12748,7 +12755,7 @@ msgstr ""
 #: data/maps/heat/special/heatadv-questcave-1.json+entities/3/settings/interact/event/2/0/2/text+%2380
 msgctxt "data/maps/heat/special/heatadv-questcave-1.json//entities/3/settings/interact/event/2/0/2/text"
 msgid "This highly-advanced machine is programmed to follow its user after activation and dispenses explosive devices (also known as \\c[3]\"bombs\"\\c[0]) after being hit with a \\c[3]charged range attack\\c[0]."
-msgstr ""
+msgstr "Esta máquina altamente avanzada está programada para seguir a su usuario después de la activación y dispensa dispositivos explosivos (también conocidos como \\c[3]\"bombas\"\\c[0]) después de ser golpeada con un \\c[3]ataque de rango cargado\\c [0]."
 
 #. data/maps/heat/special/heatadv-questcave-1.json entities/3/settings/interact/event/2/0/3/text #81
 #. Prop
@@ -12757,7 +12764,7 @@ msgstr ""
 #: data/maps/heat/special/heatadv-questcave-1.json+entities/3/settings/interact/event/2/0/3/text+%2381
 msgctxt "data/maps/heat/special/heatadv-questcave-1.json//entities/3/settings/interact/event/2/0/3/text"
 msgid "When reloading and generally not dispensing \"bombs\" it will try to evade the movements of its user with highly refined movement algorithms."
-msgstr ""
+msgstr "Al recargar y, en general, no dispensará \"bombas\", la maquina evitará apuntar usuario con algoritmos altamente refinados."
 
 #. data/maps/heat/special/heatadv-questcave-1.json entities/3/settings/interact/event/2/0/4/text #82
 #. Prop
@@ -12766,16 +12773,17 @@ msgstr ""
 #: data/maps/heat/special/heatadv-questcave-1.json+entities/3/settings/interact/event/2/0/4/text+%2382
 msgctxt "data/maps/heat/special/heatadv-questcave-1.json//entities/3/settings/interact/event/2/0/4/text"
 msgid "It can be manually deactivated again at this console or it will automatically return to the idle-state when the user leaves the space of operation (for example: a cave)."
-msgstr ""
+msgstr "Se puede volver a desactivar manualmente en esta consola o volverá automáticamente al estado de reposo cuando el usuario abandone el espacio de operación (por ejemplo: una cueva)."
 
 #. data/maps/heat/special/heatadv-questcave-1.json entities/3/settings/interact/event/2/0/5/text #83
 #. Prop
 #. SHOW_CHOICE main.lea @DEFAULT
 #. SHOW_BOARD_MSG
 #: data/maps/heat/special/heatadv-questcave-1.json+entities/3/settings/interact/event/2/0/5/text+%2383
+#, fuzzy
 msgctxt "data/maps/heat/special/heatadv-questcave-1.json//entities/3/settings/interact/event/2/0/5/text"
 msgid "WARNING: Keep stored in dry and cool locations. Should only be used by trained personnel. Keep far away from children and dogs."
-msgstr ""
+msgstr "ADVERTENCIA: Mantener almacenado en lugares frescos y secos. Sólo debe ser utilizado por personal capacitado. Mantener alejado de niños y Ranejos."
 
 #. data/maps/heat/special/heatadv-questcave-1.json entities/3/settings/interact/event/2/1/1/thenStep/0/text #4
 #. Prop
@@ -12783,9 +12791,10 @@ msgstr ""
 #. IF tmp.helperReturning
 #. SHOW_AR_MSG
 #: data/maps/heat/special/heatadv-questcave-1.json+entities/3/settings/interact/event/2/1/1/thenStep/0/text+%234
+#, fuzzy
 msgctxt "data/maps/heat/special/heatadv-questcave-1.json//entities/3/settings/interact/event/2/1/1/thenStep/0/text"
 msgid "\\v[combat.name.heat/special/kamikatze-helper] not at station!"
-msgstr ""
+msgstr "¡\\v[combat.name.heat/special/kamikatze-helper] no en la estación!"
 
 #. data/maps/heat/special/heatadv-questcave-1.json entities/3/settings/interact/event/2/options/0/label #8
 #. Prop
@@ -12793,7 +12802,7 @@ msgstr ""
 #: data/maps/heat/special/heatadv-questcave-1.json+entities/3/settings/interact/event/2/options/0/label+%238
 msgctxt "data/maps/heat/special/heatadv-questcave-1.json//entities/3/settings/interact/event/2/options/0/label"
 msgid "Information and manual"
-msgstr ""
+msgstr "Información y manual"
 
 #. data/maps/heat/special/heatadv-questcave-1.json entities/3/settings/interact/event/2/options/1/label #9
 #. Prop
@@ -12801,7 +12810,7 @@ msgstr ""
 #: data/maps/heat/special/heatadv-questcave-1.json+entities/3/settings/interact/event/2/options/1/label+%239
 msgctxt "data/maps/heat/special/heatadv-questcave-1.json//entities/3/settings/interact/event/2/options/1/label"
 msgid "Activate \\v[combat.name.heat/special/kamikatze-helper]"
-msgstr ""
+msgstr "Activar \\v[combat.name.heat/special/kamikatze-helper]"
 
 #. data/maps/heat/special/heatadv-questcave-1.json entities/3/settings/interact/event/2/options/2/label #12
 #. Prop
@@ -12809,7 +12818,7 @@ msgstr ""
 #: data/maps/heat/special/heatadv-questcave-1.json+entities/3/settings/interact/event/2/options/2/label+%2312
 msgctxt "data/maps/heat/special/heatadv-questcave-1.json//entities/3/settings/interact/event/2/options/2/label"
 msgid "Deactivate \\v[combat.name.heat/special/kamikatze-helper]"
-msgstr ""
+msgstr "Desactivar \\v[combat.name.heat/special/kamikatze-helper]"
 
 #. data/maps/heat/special/heatadv-questcave-1.json entities/3/settings/interact/event/2/options/3/label #16
 #. Prop
@@ -12817,7 +12826,7 @@ msgstr ""
 #: data/maps/heat/special/heatadv-questcave-1.json+entities/3/settings/interact/event/2/options/3/label+%2316
 msgctxt "data/maps/heat/special/heatadv-questcave-1.json//entities/3/settings/interact/event/2/options/3/label"
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #. data/maps/heat/special/heatadv-questcave-1.json entities/50/settings/event/7/action/0/text #13
 #. EventTrigger map-deactivateHelper START IF tmp.exit
@@ -12826,7 +12835,7 @@ msgstr ""
 #: data/maps/heat/special/heatadv-questcave-1.json+entities/50/settings/event/7/action/0/text+%2313
 msgctxt "data/maps/heat/special/heatadv-questcave-1.json//entities/50/settings/event/7/action/0/text"
 msgid "Returning to station..."
-msgstr ""
+msgstr "Volviendo a la estación..."
 
 #. data/maps/heat/special/heatadv-questcave-1.json entities/50/settings/event/7/action/4/text #14
 #. EventTrigger map-deactivateHelper START IF tmp.exit
@@ -12844,7 +12853,7 @@ msgstr "¡Desactivado!"
 #: data/maps/heat/test.json+entities/68/settings/event/4/guiInfo/settings/text+%23178
 msgctxt "data/maps/heat/test.json//entities/68/settings/event/4/guiInfo/settings/text"
 msgid "Crate HP"
-msgstr ""
+msgstr "PV de la Caja"
 
 #. data/maps/heat/test.json entities/68/settings/event/5/task #163
 #. EventTrigger questfoa_2-defense_start START IF tmp.quest_traders-defense_start
@@ -12852,7 +12861,7 @@ msgstr ""
 #: data/maps/heat/test.json+entities/68/settings/event/5/task+%23163
 msgctxt "data/maps/heat/test.json//entities/68/settings/event/5/task"
 msgid "Hungry lifeforms approaching!"
-msgstr ""
+msgstr "¡Se acercan formas de vida hambrientas!"
 
 #. data/maps/heat/test.json entities/68/settings/event/19/task #175
 #. EventTrigger questfoa_2-defense_start START IF tmp.quest_traders-defense_start
@@ -12860,7 +12869,7 @@ msgstr ""
 #: data/maps/heat/test.json+entities/68/settings/event/19/task+%23175
 msgctxt "data/maps/heat/test.json//entities/68/settings/event/19/task"
 msgid "\\c[3]Defend the tree for 2 minutes\\c[0] for the salve to take effect!"
-msgstr ""
+msgstr "\\c[3]¡Defiende el árbol durante 2 minutos\\c[0] para que el ungüento surta efecto!"
 
 #. data/maps/heat/test.json entities/69/settings/event/1/thenStep/1/thenStep/0/text #146
 #. EventTrigger quest_traders-crate_tackled START IF tmp.quest_traders-crate_tackled
@@ -12870,7 +12879,7 @@ msgstr ""
 #: data/maps/heat/test.json+entities/69/settings/event/1/thenStep/1/thenStep/0/text+%23146
 msgctxt "data/maps/heat/test.json//entities/69/settings/event/1/thenStep/1/thenStep/0/text"
 msgid "Salve weakened!"
-msgstr ""
+msgstr "¡Ungüento debilitado!"
 
 #. data/maps/heat/test.json entities/69/settings/event/1/thenStep/2/thenStep/0/text #147
 #. EventTrigger quest_traders-crate_tackled START IF tmp.quest_traders-crate_tackled
@@ -12880,7 +12889,7 @@ msgstr ""
 #: data/maps/heat/test.json+entities/69/settings/event/1/thenStep/2/thenStep/0/text+%23147
 msgctxt "data/maps/heat/test.json//entities/69/settings/event/1/thenStep/2/thenStep/0/text"
 msgid "Salve strongly weakened!"
-msgstr ""
+msgstr "¡Ungüento muy debilitado!"
 
 #. data/maps/heat/test.json entities/69/settings/event/1/thenStep/3/thenStep/0/text #149
 #. EventTrigger quest_traders-crate_tackled START IF tmp.quest_traders-crate_tackled
@@ -12890,7 +12899,7 @@ msgstr ""
 #: data/maps/heat/test.json+entities/69/settings/event/1/thenStep/3/thenStep/0/text+%23149
 msgctxt "data/maps/heat/test.json//entities/69/settings/event/1/thenStep/3/thenStep/0/text"
 msgid "Salve almost dissolved!"
-msgstr ""
+msgstr "¡Ungüento casi disuelto!"
 
 #. data/maps/heat/test.json entities/69/settings/event/1/thenStep/4/thenStep/2/text #148
 #. EventTrigger quest_traders-crate_tackled START IF tmp.quest_traders-crate_tackled
@@ -12900,7 +12909,7 @@ msgstr ""
 #: data/maps/heat/test.json+entities/69/settings/event/1/thenStep/4/thenStep/2/text+%23148
 msgctxt "data/maps/heat/test.json//entities/69/settings/event/1/thenStep/4/thenStep/2/text"
 msgid "Salve dissolved!"
-msgstr ""
+msgstr "¡Ungüento disuelto!"
 
 #. data/maps/heat/test.json entities/70/settings/event/7/text #177
 #. EventTrigger quest_foa2_failed START IF tmp.quest_traders-failed
@@ -12908,7 +12917,7 @@ msgstr ""
 #: data/maps/heat/test.json+entities/70/settings/event/7/text+%23177
 msgctxt "data/maps/heat/test.json//entities/70/settings/event/7/text"
 msgid "Salve lost effect. The sickness returned!"
-msgstr ""
+msgstr "Ungüento perdió su efecto. ¡La enfermedad volvió!"
 
 #. data/maps/heat/test.json entities/70/settings/event/18/text #176
 #. EventTrigger quest_foa2_failed START IF tmp.quest_traders-failed
@@ -12920,6 +12929,9 @@ msgid ""
 "\n"
 "Restart task to try again"
 msgstr ""
+"\\c[1]MISIÓN FALLIDA\\c[0]\n"
+"\n"
+"Reinicie la tarea para volver a intentarlo"
 
 #. data/maps/heat/test.json entities/71/settings/event/11/text #173
 #. EventTrigger quest_traders-defense_end START IF tmp.quest_traders-defense_started && timers.quest_defense-timer.remainingTime <= 0
@@ -12927,14 +12939,14 @@ msgstr ""
 #: data/maps/heat/test.json+entities/71/settings/event/11/text+%23173
 msgctxt "data/maps/heat/test.json//entities/71/settings/event/11/text"
 msgid "Tree healed!"
-msgstr ""
+msgstr "¡Árbol curado!"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-1.json entities/52/settings/interact/hoverText #2
 #. Prop warningSign
 #: extension/scorpion-robo/data/maps/heat/lab/room-1.json+entities/52/settings/interact/hoverText+%232
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-1.json//entities/52/settings/interact/hoverText"
 msgid "WARNING"
-msgstr ""
+msgstr "WARNING"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-1.json entities/52/settings/interact/event/1/text #270
 #. Prop warningSign
@@ -12948,6 +12960,11 @@ msgid ""
 "\n"
 "~ The Management"
 msgstr ""
+"\\c[1]ADVERTENCIA\\c[0]\n"
+"\n"
+"El laboratorio A ha sido gravemente dañado por una insurgencia de pájaros militantes. Permanecerá cerrado por reformas hasta nuevo aviso.\n"
+"\n"
+"~ La Gerencia"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json entities/44/settings/condAnims/0/interact/hoverText #213
 #. Prop sideLore1
@@ -12955,7 +12972,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json+entities/44/settings/condAnims/0/interact/hoverText+%23213
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json//entities/44/settings/condAnims/0/interact/hoverText"
 msgid "Display"
-msgstr ""
+msgstr "Mostrar"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json entities/44/settings/condAnims/0/interact/event/1/text #215
 #. Prop sideLore1
@@ -12971,6 +12988,12 @@ msgid ""
 "\n"
 "\\c[3]Subject:\\c[0] This Office"
 msgstr ""
+"\\c[1]CORREO INTERNO, ENVIADO\\c[0]\n"
+"\n"
+"\\c[3]DE:\\c[0] Personal de la instalación, Oficina 2B\n"
+"\\c[3]A:\\c[0] \"Presión\", Gestión\n"
+"\n"
+"\\c[3]Asunto:\\c[0] Esta oficina"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json entities/44/settings/condAnims/0/interact/event/2/text #231
 #. Prop sideLore1
@@ -12983,6 +13006,9 @@ msgid ""
 "\n"
 "I do appreciate the fact the management is supplying us with the latest tech, but are you guys for real? Who thought this place would be good for an office?"
 msgstr ""
+"Saludos,\n"
+"\n"
+"Aprecio el hecho de que la gerencia nos esté proporcionando la última tecnología, pero ¿Es serio? ¿Quién pensó que este lugar sería bueno para una oficina?"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json entities/44/settings/condAnims/0/interact/event/3/text #216
 #. Prop sideLore1
@@ -12991,7 +13017,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json+entities/44/settings/condAnims/0/interact/event/3/text+%23216
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json//entities/44/settings/condAnims/0/interact/event/3/text"
 msgid "We are all caked in sweat from the damn Isolation Chamber. I can only assume that something must be wrong with the ventilation but this needs to get fixed ASAP."
-msgstr ""
+msgstr "Todos estamos cubiertos de sudor por la maldita Cámara de Aislamiento. Solo puedo suponer que algo debe estar mal con la ventilación, pero esto debe ser solucionado lo antes posible."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json entities/44/settings/condAnims/0/interact/event/4/text #217
 #. Prop sideLore1
@@ -13007,6 +13033,12 @@ msgid ""
 "\n"
 "\\c[1][END OF MAIL]\\c[0]"
 msgstr ""
+"Por el momento es algo fresco, beber algo es suficiente.\n"
+"\n"
+"Mis más sinceros saludos,\n"
+"[NOMBRE ELIMINADO]\n"
+"\n"
+"\\c[1][FIN DEL CORREO]\\c[0]"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json entities/59/settings/condAnims/0/interact/hoverText #4
 #. Prop elevator
@@ -13014,7 +13046,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json+entities/59/settings/condAnims/0/interact/hoverText+%234
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json//entities/59/settings/condAnims/0/interact/hoverText"
 msgid "Display"
-msgstr ""
+msgstr "Mostrar"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json entities/59/settings/condAnims/0/interact/event/1/text #3
 #. Prop elevator
@@ -13026,6 +13058,8 @@ msgid ""
 "Maintenance Elevator: \\c[1]disabled\\c[0].\n"
 "Do you want to enable the elevator?"
 msgstr ""
+"Ascensor de mantenimiento: \\c[1]deshabilitado\\c[0].\n"
+"¿Quieres habilitar el ascensor?"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json entities/59/settings/condAnims/0/interact/event/2/0/3/text #9
 #. Prop elevator
@@ -13035,7 +13069,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json+entities/59/settings/condAnims/0/interact/event/2/0/3/text+%239
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json//entities/59/settings/condAnims/0/interact/event/2/0/3/text"
 msgid "Maintenance Elevator \\c[2]enabled\\c[0]!"
-msgstr ""
+msgstr "Ascensor de Mantenimiento \\c[2]habilitado\\c[0]!"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json entities/59/settings/condAnims/0/interact/event/2/options/0/label #8
 #. Prop elevator
@@ -13044,7 +13078,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json+entities/59/settings/condAnims/0/interact/event/2/options/0/label+%238
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json//entities/59/settings/condAnims/0/interact/event/2/options/0/label"
 msgid "[yes]"
-msgstr ""
+msgstr "[sí]"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json entities/59/settings/condAnims/0/interact/event/2/options/1/label #10
 #. Prop elevator
@@ -13053,14 +13087,14 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json+entities/59/settings/condAnims/0/interact/event/2/options/1/label+%2310
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json//entities/59/settings/condAnims/0/interact/event/2/options/1/label"
 msgid "[no]"
-msgstr ""
+msgstr "[no]"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json entities/60/settings/interact/hoverText #226
 #. Prop holo-sign
 #: extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json+entities/60/settings/interact/hoverText+%23226
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json//entities/60/settings/interact/hoverText"
 msgid "Hologram"
-msgstr ""
+msgstr "Holograma"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json entities/60/settings/interact/event/6/name #236
 #. Prop holo-sign
@@ -13068,7 +13102,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json+entities/60/settings/interact/event/6/name+%23236
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json//entities/60/settings/interact/event/6/name"
 msgid "Steve B. Ruger"
-msgstr ""
+msgstr "Steve B. Ruger"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json entities/60/settings/interact/event/8/message #27
 #. Prop holo-sign
@@ -13076,7 +13110,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json+entities/60/settings/interact/event/8/message+%2327
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json//entities/60/settings/interact/event/8/message"
 msgid "Hello, thank you for visiting the compound.\\. I am \\c[3]Steve B. Ruger\\c[0], speaking for \\c[3]High-Pressure Arms\\c[0]."
-msgstr ""
+msgstr "Hola, gracias por visitar el recinto.\\. Soy \\c[3]Steve B. Ruger\\c[0], hablando en nombre de \\c[3]Brazos de Alta Presión\\c[0]."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json entities/60/settings/interact/event/9/message #240
 #. Prop holo-sign
@@ -13084,7 +13118,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json+entities/60/settings/interact/event/9/message+%23240
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json//entities/60/settings/interact/event/9/message"
 msgid "You might have heard of our company.\\. We made some advancements in weapon technology over the years."
-msgstr ""
+msgstr "Es posible que hayas oído hablar de nuestra empresa.\\. Hicimos algunos avances en la tecnología de armas a lo largo de los años."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json entities/60/settings/interact/event/10/message #241
 #. Prop holo-sign
@@ -13092,7 +13126,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json+entities/60/settings/interact/event/10/message+%23241
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json//entities/60/settings/interact/event/10/message"
 msgid "Powerful, long-ranged guns.\\. Some lasers, always nice.\\. Guided missiles as well.\\. Also, convenient self-defense guns."
-msgstr ""
+msgstr "Potentes armas de largo alcance.\\. Algunos láseres, siempre agradables.\\. Misiles guiados también.\\. Además, convenientes armas de autodefensa."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json entities/60/settings/interact/event/11/message #242
 #. Prop holo-sign
@@ -13100,7 +13134,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json+entities/60/settings/interact/event/11/message+%23242
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json//entities/60/settings/interact/event/11/message"
 msgid "Basically lots of weapons, used by many different kinds of people.\\. Keeping the \\v[lore.title.track-of-ancients] at bay and all that."
-msgstr ""
+msgstr "Básicamente muchas armas, usadas por diferentes tipos de personas.\\. Manteniendo el \\v[lore.title.track-of-ancients] a raya y todo eso."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json entities/60/settings/interact/event/12/message #243
 #. Prop holo-sign
@@ -13108,7 +13142,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json+entities/60/settings/interact/event/12/message+%23243
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json//entities/60/settings/interact/event/12/message"
 msgid "We also make sure to create open systems for our products to closely work together with partners from other fields."
-msgstr ""
+msgstr "También nos aseguramos de crear sistemas abiertos para que nuestros productos trabajen en estrecha colaboración con socios de otros campos."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json entities/60/settings/interact/event/13/message #244
 #. Prop holo-sign
@@ -13116,7 +13150,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json+entities/60/settings/interact/event/13/message+%23244
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json//entities/60/settings/interact/event/13/message"
 msgid "That way we have access to a very broad set of skills to create all those ambitious projects of ours."
-msgstr ""
+msgstr "De esa manera tenemos acceso a un conjunto muy amplio de habilidades para crear todos esos ambiciosos proyectos nuestros."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json entities/60/settings/interact/event/14/message #245
 #. Prop holo-sign
@@ -13124,7 +13158,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json+entities/60/settings/interact/event/14/message+%23245
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json//entities/60/settings/interact/event/14/message"
 msgid "For example, our recent task involves taming some of the more intelligent birds on this planet and arming them."
-msgstr ""
+msgstr "Por ejemplo, nuestra tarea reciente consiste en domesticar algunas de las aves más inteligentes de este planeta y armarlas."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json entities/60/settings/interact/event/15/message #246
 #. Prop holo-sign
@@ -13132,7 +13166,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json+entities/60/settings/interact/event/15/message+%23246
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json//entities/60/settings/interact/event/15/message"
 msgid "This could open up a variety of useful applications for society, if we see it finished."
-msgstr ""
+msgstr "Esto podría abrir una variedad de aplicaciones útiles para la sociedad, si lo terminados."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json entities/60/settings/interact/event/16/message #247
 #. Prop holo-sign
@@ -13140,7 +13174,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json+entities/60/settings/interact/event/16/message+%23247
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json//entities/60/settings/interact/event/16/message"
 msgid "In any case, I hope you enjoy following our progress and stick around for future developments."
-msgstr ""
+msgstr "En cualquier caso, espero que disfrutes siguiendo nuestro progreso y que se quede para futuros desarrollos."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json entities/62/settings/condAnims/0/interact/hoverText #233
 #. Prop sideLore2
@@ -13148,7 +13182,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json+entities/62/settings/condAnims/0/interact/hoverText+%23233
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json//entities/62/settings/condAnims/0/interact/hoverText"
 msgid "Display"
-msgstr ""
+msgstr "Mostrar"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json entities/62/settings/condAnims/0/interact/event/1/text #234
 #. Prop sideLore2
@@ -13161,6 +13195,9 @@ msgid ""
 "\n"
 "\\c[3]Title:\\c[0] Important reminder"
 msgstr ""
+"\\c[1]NOTA PRIVADA\\c[0]\n"
+"\n"
+"\\c[3]Título:\\c[0] Recordatorio importante"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json entities/62/settings/condAnims/0/interact/event/2/text #235
 #. Prop sideLore2
@@ -13175,6 +13212,11 @@ msgid ""
 "\n"
 "\\c[1][END OF NOTE]\\c[0]"
 msgstr ""
+"- ¡Toma descansos cuando los necesites!\n"
+"- ¡Bebe agua regularmente!\n"
+"- ¡Ámate a ti mismo, siempre!\n"
+"\n"
+"\\c[1][FIN DE LA NOTA]\\c[0]"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-2-sub.json entities/62/settings/condAnims/0/interact/event/3/message #248
 #. Prop sideLore2
@@ -13191,7 +13233,7 @@ msgstr "¡...!"
 #: extension/scorpion-robo/data/maps/heat/lab/room-2.json+entities/141/settings/condAnims/0/interact/hoverText+%236
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-2.json//entities/141/settings/condAnims/0/interact/hoverText"
 msgid "Call"
-msgstr ""
+msgstr "Llamada"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/16/settings/condAnims/0/interact/hoverText #6
 #. Prop
@@ -13199,7 +13241,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-3.json+entities/16/settings/condAnims/0/interact/hoverText+%236
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-3.json//entities/16/settings/condAnims/0/interact/hoverText"
 msgid "Call"
-msgstr ""
+msgstr "Llamada"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/62/settings/condAnims/0/interact/1/text #22
 #. Prop startTest
@@ -13211,6 +13253,8 @@ msgid ""
 "Bridge Elevator: \\c[1]disabled\\c[0].\n"
 "Do you want to enable the elevator?"
 msgstr ""
+"Ascensor del puente: \\c[1]deshabilitado\\c[0].\n"
+"¿Quieres habilitar el ascensor?"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/62/settings/condAnims/0/interact/2/0/3/text #9
 #. Prop startTest
@@ -13220,7 +13264,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-3.json+entities/62/settings/condAnims/0/interact/2/0/3/text+%239
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-3.json//entities/62/settings/condAnims/0/interact/2/0/3/text"
 msgid "Bridge Elevator \\c[2]enabled\\c[0]!"
-msgstr ""
+msgstr "Ascensor de puente \\c[2]habilitado\\c[0]!"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/62/settings/condAnims/0/interact/2/options/0/label #8
 #. Prop startTest
@@ -13229,7 +13273,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-3.json+entities/62/settings/condAnims/0/interact/2/options/0/label+%238
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-3.json//entities/62/settings/condAnims/0/interact/2/options/0/label"
 msgid "[yes]"
-msgstr ""
+msgstr "[sí]"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/62/settings/condAnims/0/interact/2/options/1/label #10
 #. Prop startTest
@@ -13238,7 +13282,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-3.json+entities/62/settings/condAnims/0/interact/2/options/1/label+%2310
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-3.json//entities/62/settings/condAnims/0/interact/2/options/1/label"
 msgid "[no]"
-msgstr ""
+msgstr "[no]"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/62/settings/condAnims/0/interact/hoverText #11
 #. Prop startTest
@@ -13246,7 +13290,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-3.json+entities/62/settings/condAnims/0/interact/hoverText+%2311
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-3.json//entities/62/settings/condAnims/0/interact/hoverText"
 msgid "Display"
-msgstr ""
+msgstr "Mostrar"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/62/settings/condAnims/0/interact/event/1/text #16
 #. Prop startTest
@@ -13258,6 +13302,8 @@ msgid ""
 "Test sequence status: \\c[2]ready\\c[0].\n"
 "\\c[1]Start test sequence\\c[0]?"
 msgstr ""
+"Estado de la secuencia de prueba: \\c[2]listo\\c[0].\n"
+"\\c[1]¿Iniciar secuencia de prueba\\c[0]?"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/62/settings/condAnims/0/interact/event/2/0/3/text #17
 #. Prop startTest
@@ -13267,7 +13313,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-3.json+entities/62/settings/condAnims/0/interact/event/2/0/3/text+%2317
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-3.json//entities/62/settings/condAnims/0/interact/event/2/0/3/text"
 msgid "Preparing to \\c[2]initiate test sequence\\c[0]!"
-msgstr ""
+msgstr "¡Preparándose para \\c[2]iniciar la secuencia de prueba\\c[0]!"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/62/settings/condAnims/0/interact/event/2/0/4/text #18
 #. Prop startTest
@@ -13277,7 +13323,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-3.json+entities/62/settings/condAnims/0/interact/event/2/0/4/text+%2318
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-3.json//entities/62/settings/condAnims/0/interact/event/2/0/4/text"
 msgid "Please \\c[3]enter\\c[0] the \\c[3]lower area\\c[0] to begin."
-msgstr ""
+msgstr "Por favor, \\c[3]entra\\c[0] al \\c[3]área inferior\\c[0] para comenzar."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/62/settings/condAnims/0/interact/event/2/1/1/text #19
 #. Prop startTest
@@ -13287,7 +13333,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-3.json+entities/62/settings/condAnims/0/interact/event/2/1/1/text+%2319
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-3.json//entities/62/settings/condAnims/0/interact/event/2/1/1/text"
 msgid "Completion of test sequence is \\c[3]required\\c[0] in order to open the door."
-msgstr ""
+msgstr "Se requiere \\c[3]completar la secuencia de prueba\\c[0] para abrir la puerta."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/62/settings/condAnims/0/interact/event/2/1/2/message #15
 #. Prop startTest
@@ -13306,7 +13352,7 @@ msgstr "..."
 #: extension/scorpion-robo/data/maps/heat/lab/room-3.json+entities/62/settings/condAnims/0/interact/event/2/options/0/label+%2320
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-3.json//entities/62/settings/condAnims/0/interact/event/2/options/0/label"
 msgid "[yes]"
-msgstr ""
+msgstr "[sí]"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/62/settings/condAnims/0/interact/event/2/options/1/label #21
 #. Prop startTest
@@ -13315,7 +13361,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-3.json+entities/62/settings/condAnims/0/interact/event/2/options/1/label+%2321
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-3.json//entities/62/settings/condAnims/0/interact/event/2/options/1/label"
 msgid "[no]"
-msgstr ""
+msgstr "[no]"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/95/settings/condAnims/0/interact/1/text #23
 #. Prop openDoor
@@ -13327,6 +13373,8 @@ msgid ""
 "Bridge Elevator: \\c[1]disabled\\c[0].\n"
 "Do you want to enable the elevator?"
 msgstr ""
+"Ascensor del puente: \\c[1]deshabilitado\\c[0].\n"
+"¿Quieres habilitar el ascensor?"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/95/settings/condAnims/0/interact/2/0/3/text #24
 #. Prop openDoor
@@ -13336,7 +13384,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-3.json+entities/95/settings/condAnims/0/interact/2/0/3/text+%2324
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-3.json//entities/95/settings/condAnims/0/interact/2/0/3/text"
 msgid "Bridge Elevator \\c[2]enabled\\c[0]!"
-msgstr ""
+msgstr "Ascensor de puente \\c[2]habilitado\\c[0]!"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/95/settings/condAnims/0/interact/2/options/0/label #25
 #. Prop openDoor
@@ -13345,7 +13393,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-3.json+entities/95/settings/condAnims/0/interact/2/options/0/label+%2325
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-3.json//entities/95/settings/condAnims/0/interact/2/options/0/label"
 msgid "[yes]"
-msgstr ""
+msgstr "[sí]"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/95/settings/condAnims/0/interact/2/options/1/label #26
 #. Prop openDoor
@@ -13354,7 +13402,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-3.json+entities/95/settings/condAnims/0/interact/2/options/1/label+%2326
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-3.json//entities/95/settings/condAnims/0/interact/2/options/1/label"
 msgid "[no]"
-msgstr ""
+msgstr "[no]"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/95/settings/condAnims/0/interact/hoverText #27
 #. Prop openDoor
@@ -13362,7 +13410,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-3.json+entities/95/settings/condAnims/0/interact/hoverText+%2327
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-3.json//entities/95/settings/condAnims/0/interact/hoverText"
 msgid "Display"
-msgstr ""
+msgstr "Mostrar"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/95/settings/condAnims/0/interact/event/1/text #28
 #. Prop openDoor
@@ -13374,6 +13422,8 @@ msgid ""
 "Mortal Chamber Status: \\c[1]closed\\c[0].\n"
 "\\c[2]Open Door?\\c[0]"
 msgstr ""
+"Estado de la Cámara Mortal: \\c[1]cerrado\\c[0].\n"
+"\\c[2]¿Abrir Puerta?\\c[0]"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/95/settings/condAnims/0/interact/event/2/options/0/label #29
 #. Prop openDoor
@@ -13382,7 +13432,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-3.json+entities/95/settings/condAnims/0/interact/event/2/options/0/label+%2329
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-3.json//entities/95/settings/condAnims/0/interact/event/2/options/0/label"
 msgid "[yes]"
-msgstr ""
+msgstr "[sí]"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/95/settings/condAnims/0/interact/event/2/options/1/label #30
 #. Prop openDoor
@@ -13391,14 +13441,14 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-3.json+entities/95/settings/condAnims/0/interact/event/2/options/1/label+%2330
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-3.json//entities/95/settings/condAnims/0/interact/event/2/options/1/label"
 msgid "[no]"
-msgstr ""
+msgstr "[no]"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/122/settings/interact/hoverText #226
 #. Prop holo-sign
 #: extension/scorpion-robo/data/maps/heat/lab/room-3.json+entities/122/settings/interact/hoverText+%23226
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-3.json//entities/122/settings/interact/hoverText"
 msgid "Hologram"
-msgstr ""
+msgstr "Holograma"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/122/settings/interact/event/6/name #236
 #. Prop holo-sign
@@ -13406,7 +13456,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-3.json+entities/122/settings/interact/event/6/name+%23236
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-3.json//entities/122/settings/interact/event/6/name"
 msgid "Steve B. Ruger"
-msgstr ""
+msgstr "Steve B. Ruger"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/122/settings/interact/event/8/message #252
 #. Prop holo-sign
@@ -13414,7 +13464,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-3.json+entities/122/settings/interact/event/8/message+%23252
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-3.json//entities/122/settings/interact/event/8/message"
 msgid "Hello and welcome back to our research facility.\\. Things are still progressing at a steady rate."
-msgstr ""
+msgstr "Hola y bienvenido de nuevo a nuestro centro de investigación.\\. Las cosas siguen progresando a un ritmo constante."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/122/settings/interact/event/9/message #240
 #. Prop holo-sign
@@ -13422,7 +13472,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-3.json+entities/122/settings/interact/event/9/message+%23240
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-3.json//entities/122/settings/interact/event/9/message"
 msgid "Well, mostly.\\. We have worked a bit too well in some regards, but I will talk about those complications later."
-msgstr ""
+msgstr "Bueno, la mayoría.\\. Hemos trabajado mucho en algunas cosas, pero hablaré de esas complicaciones más adelante."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/122/settings/interact/event/10/message #254
 #. Prop holo-sign
@@ -13430,7 +13480,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-3.json+entities/122/settings/interact/event/10/message+%23254
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-3.json//entities/122/settings/interact/event/10/message"
 msgid "First off, taming some of the more intelligent beings on this fascinating planet was easier than expected."
-msgstr ""
+msgstr "En primer lugar, domesticar a algunos de los seres más inteligentes de este fascinante planeta fue más fácil de lo esperado."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/122/settings/interact/event/11/message #260
 #. Prop holo-sign
@@ -13438,7 +13488,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-3.json+entities/122/settings/interact/event/11/message+%23260
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-3.json//entities/122/settings/interact/event/11/message"
 msgid "In fact it seems like they want to outright cooperate with us!\\. The results of our logic tests have been very satisfying."
-msgstr ""
+msgstr "De hecho, ¡Parece que quieren cooperar abiertamente con nosotros!\\. Los resultados de nuestras pruebas lógicas han sido muy satisfactorios."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/122/settings/interact/event/12/message #255
 #. Prop holo-sign
@@ -13446,7 +13496,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-3.json+entities/122/settings/interact/event/12/message+%23255
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-3.json//entities/122/settings/interact/event/12/message"
 msgid "Their reception of the firearms has also been very positive."
-msgstr ""
+msgstr "La recepción de las armas de fuego también ha sido muy positiva."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/122/settings/interact/event/13/message #261
 #. Prop holo-sign
@@ -13454,7 +13504,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-3.json+entities/122/settings/interact/event/13/message+%23261
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-3.json//entities/122/settings/interact/event/13/message"
 msgid "They got the hang of it immediately and became inseparable from their new tools."
-msgstr ""
+msgstr "Aprendieron el truco de inmediato y se volvieron inseparables de sus nuevas herramientas."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/122/settings/interact/event/14/message #262
 #. Prop holo-sign
@@ -13462,7 +13512,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-3.json+entities/122/settings/interact/event/14/message+%23262
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-3.json//entities/122/settings/interact/event/14/message"
 msgid "However, that's where the problems first began, actually.\\. And maybe expectedly."
-msgstr ""
+msgstr "Sin embargo, ahí es donde comenzaron los problemas, en realidad.\\. Y tal vez de forma esperada."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/122/settings/interact/event/15/message #263
 #. Prop holo-sign
@@ -13470,7 +13520,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-3.json+entities/122/settings/interact/event/15/message+%23263
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-3.json//entities/122/settings/interact/event/15/message"
 msgid "The intelligent birds that we armed with cutting-edge weapons became unruly.\\. Imagine that."
-msgstr ""
+msgstr "Los pájaros inteligentes que armamos con armas de última generación se volvieron rebeldes.\\. Imagina eso."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/122/settings/interact/event/16/message #264
 #. Prop holo-sign
@@ -13478,7 +13528,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-3.json+entities/122/settings/interact/event/16/message+%23264
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-3.json//entities/122/settings/interact/event/16/message"
 msgid "Long story short, they tried to revolt and escape.\\. A very disappointing development."
-msgstr ""
+msgstr "Para resumir, intentaron rebelarse y escapar.\\. Un desarrollo muy decepcionante."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/122/settings/interact/event/17/message #265
 #. Prop holo-sign
@@ -13486,7 +13536,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-3.json+entities/122/settings/interact/event/17/message+%23265
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-3.json//entities/122/settings/interact/event/17/message"
 msgid "However, we already started a second project with different types of creatures in the facility next door."
-msgstr ""
+msgstr "Sin embargo, ya comenzamos un segundo proyecto con diferentes tipos de criaturas en las instalaciones de al lado."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/122/settings/interact/event/18/message #266
 #. Prop holo-sign
@@ -13494,7 +13544,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-3.json+entities/122/settings/interact/event/18/message+%23266
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-3.json//entities/122/settings/interact/event/18/message"
 msgid "This time we are trying to combine ground-based creatures with light artillery weapons."
-msgstr ""
+msgstr "Esta vez estamos tratando de combinar criaturas terrestres con armas de artillería ligera."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/122/settings/interact/event/19/message #267
 #. Prop holo-sign
@@ -13502,7 +13552,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-3.json+entities/122/settings/interact/event/19/message+%23267
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-3.json//entities/122/settings/interact/event/19/message"
 msgid "This should prove much less risky than our previous endeavor, so please look forward to our next report!"
-msgstr ""
+msgstr "Esto debería resultar mucho menos arriesgado que nuestro esfuerzo anterior, ¡Así que, espera nuestro próximo informe!"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/122/settings/interact/event/20/message #268
 #. Prop holo-sign
@@ -13510,7 +13560,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-3.json+entities/122/settings/interact/event/20/message+%23268
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-3.json//entities/122/settings/interact/event/20/message"
 msgid "Until then... bye!"
-msgstr ""
+msgstr "Hasta entonces... ¡Adiós!"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/123/settings/condAnims/0/interact/hoverText #213
 #. Prop sideLore1
@@ -13518,7 +13568,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-3.json+entities/123/settings/condAnims/0/interact/hoverText+%23213
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-3.json//entities/123/settings/condAnims/0/interact/hoverText"
 msgid "Display"
-msgstr ""
+msgstr "Mostrar"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/123/settings/condAnims/0/interact/event/1/text #215
 #. Prop sideLore1
@@ -13534,6 +13584,12 @@ msgid ""
 "\n"
 "\\c[3]Subject:\\c[0] Facility Hygiene"
 msgstr ""
+"\\c[1]CORREO INTERNO, ENVIADO\\c[0]\n"
+"\n"
+"\\c[3]DE:\\c[0] Personal de la instalación, Oficina 3A\n"
+"\\c[3]PARA:\\c[0] \"Presión\", Gestión\n"
+"\n"
+"\\c[3]Asunto:\\c[0] Higiene de las instalaciones"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/123/settings/condAnims/0/interact/event/2/text #231
 #. Prop sideLore1
@@ -13546,6 +13602,9 @@ msgid ""
 "\n"
 "First I want to repeat my gratitude for all the trust and opportunities you have given me with this job. This work has been very fulfilling and interesting."
 msgstr ""
+"Buen día estimada gerencia,\n"
+"\n"
+"En primer lugar quiero reiterar mi agradecimiento por toda esta confianza y las oportunidades que me confiaron con este trabajo. Todo esto ha sido muy gratificante e interesante para mi."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/123/settings/condAnims/0/interact/event/3/text #272
 #. Prop sideLore1
@@ -13554,7 +13613,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-3.json+entities/123/settings/condAnims/0/interact/event/3/text+%23272
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-3.json//entities/123/settings/condAnims/0/interact/event/3/text"
 msgid "However, those birds, as fascinating as they are, cause a lot of problems with their excrement. They leave it everywhere and also shoot holes into the walls. Combined with the heat of this place it really creates an uncomfortable smell in the entire facility."
-msgstr ""
+msgstr "Sin embargo, estas aves, por muy fascinantes que sean, causan muchos problemas con sus excrementos. Lo dejan por todas partes y también hacen agujeros en las paredes. Combinado con el calor de este lugar, realmente crea un olor incómodo en toda la instalación."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/123/settings/condAnims/0/interact/event/4/text #273
 #. Prop sideLore1
@@ -13570,6 +13629,12 @@ msgid ""
 "\n"
 "\\c[1][END OF MAIL]\\c[0]"
 msgstr ""
+"Por lo tanto, solicitaría amablemente más mano de obra en la limpieza. ¡Gracias de antemano!\n"
+"\n"
+"Mis más sinceros saludos,\n"
+"[NOMBRE ELIMINADO]\n"
+"\n"
+"\\c[1][FIN DEL CORREO]\\c[0]"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/124/settings/condAnims/0/interact/hoverText #269
 #. Prop sideLore2
@@ -13577,7 +13642,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-3.json+entities/124/settings/condAnims/0/interact/hoverText+%23269
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-3.json//entities/124/settings/condAnims/0/interact/hoverText"
 msgid "Display"
-msgstr ""
+msgstr "Mostrar"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/124/settings/condAnims/0/interact/event/1/text #270
 #. Prop sideLore2
@@ -13593,6 +13658,12 @@ msgid ""
 "\n"
 "\\c[3]Subject:\\c[0] That Noise"
 msgstr ""
+"\\c[1]CORREO INTERNO, ENVIADO\\c[0]\n"
+"\n"
+"\\c[3]DE:\\c[0] Personal de la instalación, Oficina 3B\n"
+"\\c[3]PARA:\\c[0] Personal de las instalaciones, Oficina 3A\n"
+"\n"
+"\\c[3]Asunto:\\c[0] Ese ruido"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/124/settings/condAnims/0/interact/event/2/text #271
 #. Prop sideLore2
@@ -13605,6 +13676,9 @@ msgid ""
 "\n"
 "There's constant noise coming from your side, like you are having a war over there. Can you try to keep it down a bit? We just got everything settled in here and our cute scorpions are already getting restless."
 msgstr ""
+"Hola, chicos de al lado,\n"
+"\n"
+"Hay un ruido constante proveniente de tu lado, como si estuvieras teniendo una guerra allí. ¿Puedes tratar de mantenerlo un poco bajo? Acabamos de instalar todo aquí y nuestros lindos escorpiones ya están inquietos."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/124/settings/condAnims/0/interact/event/3/text #217
 #. Prop sideLore2
@@ -13620,6 +13694,12 @@ msgid ""
 "\n"
 "\\c[1][END OF MAIL]\\c[0]"
 msgstr ""
+"Casi los tenemos debidamente domesticados y listos para un entrenamiento real, así que no nos hagas esto demasiado difícil, ¿de acuerdo?\n"
+"\n"
+"Saludos,\n"
+"[NOMBRE ELIMINADO]\n"
+"\n"
+"\\c[1][FIN DEL CORREO]\\c[0]"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/124/settings/condAnims/0/interact/event/4/text #274
 #. Prop sideLore2
@@ -13635,6 +13715,12 @@ msgid ""
 "\n"
 "\\c[3]Subject:\\c[0] RE:RE:That Noise"
 msgstr ""
+"\\c[1]CORREO INTERNO, ENVIADO\\c[0]\n"
+"\n"
+"\\c[3]DE:\\c[0] Personal de la instalación, Oficina 3B\n"
+"\\c[3]PARA:\\c[0] Personal de las instalaciones, Oficina 3A\n"
+"\n"
+"\\c[3]Asunto:\\c[0] RE:RE:Ese ruido"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/124/settings/condAnims/0/interact/event/5/text #275
 #. Prop sideLore2
@@ -13647,6 +13733,9 @@ msgid ""
 "\n"
 "An armed revolt you say? Huh, that sounds rough. I guess birds with guns were a bit of a risky gamble. I hope you are getting this under control before it becomes a bother for all of us."
 msgstr ""
+"Hola vecinos,\n"
+"\n"
+"¿Una revuelta armada dices? Huh, eso suena duro. Supongo que los pájaros con armas eran una apuesta un poco arriesgada. Espero que estés controlando esto antes de que se convierta en una molestia para todos nosotros."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-3.json entities/124/settings/condAnims/0/interact/event/6/text #276
 #. Prop sideLore2
@@ -13679,7 +13768,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-boss.json+entities/3/settings/condAnims/0/interact/hoverText+%236
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-boss.json//entities/3/settings/condAnims/0/interact/hoverText"
 msgid "Call"
-msgstr ""
+msgstr "Llamada"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-boss.json entities/38/settings/event/12/text #3
 #. EventTrigger bossStart START IF tmp.bossStart
@@ -13691,13 +13780,16 @@ msgid ""
 "Subject:\\.\n"
 "Heavy Laser Unit"
 msgstr ""
+"\\c[1]--- Iniciando secuencia de prueba ---\\.\n"
+"Tema:\\.\n"
+"Unidad láser pesada"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/122/settings/interact/hoverText #226
 #. Prop holo-sign
 #: extension/scorpion-robo/data/maps/heat/lab/room-final.json+entities/122/settings/interact/hoverText+%23226
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-final.json//entities/122/settings/interact/hoverText"
 msgid "Hologram"
-msgstr ""
+msgstr "Holograma"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/122/settings/interact/event/7/name #236
 #. Prop holo-sign
@@ -13705,7 +13797,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-final.json+entities/122/settings/interact/event/7/name+%23236
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-final.json//entities/122/settings/interact/event/7/name"
 msgid "Steve B. Ruger"
-msgstr ""
+msgstr "Steve B. Ruger"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/122/settings/interact/event/9/message #227
 #. Prop holo-sign
@@ -13713,7 +13805,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-final.json+entities/122/settings/interact/event/9/message+%23227
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-final.json//entities/122/settings/interact/event/9/message"
 msgid "Well... This certainly did not work out as planned.\\. If you are seeing this you surely will have noticed already."
-msgstr ""
+msgstr "Bueno... Esto ciertamente no funcionó como estaba planeado.\\. Si estás viendo esto seguro que ya te habrás dado cuenta."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/122/settings/interact/event/10/message #12218
 #. Prop holo-sign
@@ -13721,7 +13813,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-final.json+entities/122/settings/interact/event/10/message+%2312218
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-final.json//entities/122/settings/interact/event/10/message"
 msgid "The birds revolted again and this time, found a way to escape."
-msgstr ""
+msgstr "Los pájaros se rebelaron de nuevo y esta vez encontraron una forma de escapar."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/122/settings/interact/event/11/message #12219
 #. Prop holo-sign
@@ -13729,7 +13821,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-final.json+entities/122/settings/interact/event/11/message+%2312219
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-final.json//entities/122/settings/interact/event/11/message"
 msgid "We should have known that having windows was a security risk, but hindsight doesn't help us much now."
-msgstr ""
+msgstr "Deberíamos haber sabido que tener ventanas era un riesgo de seguridad, pero la retrospectiva no nos ayuda mucho ahora."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/122/settings/interact/event/12/message #12220
 #. Prop holo-sign
@@ -13737,7 +13829,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-final.json+entities/122/settings/interact/event/12/message+%2312220
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-final.json//entities/122/settings/interact/event/12/message"
 msgid "At this point they have already spread all over \\v[lore.title.planet] and started to cause trouble."
-msgstr ""
+msgstr "A este punto, ya se han extendido por todo \\v[lore.title.planet] y comenzaron a causar problemas."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/122/settings/interact/event/13/message #12221
 #. Prop holo-sign
@@ -13745,7 +13837,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-final.json+entities/122/settings/interact/event/13/message+%2312221
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-final.json//entities/122/settings/interact/event/13/message"
 msgid "Now it is only a matter of time before this all leads back to us and our secret projects.\\. We need to close this down."
-msgstr ""
+msgstr "Ahora es solo cuestión de tiempo antes de que todo esto arruine nuestros proyectos secretos.\\. Tenemos que cerrar esto."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/122/settings/interact/event/14/message #12222
 #. Prop holo-sign
@@ -13753,7 +13845,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-final.json+entities/122/settings/interact/event/14/message+%2312222
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-final.json//entities/122/settings/interact/event/14/message"
 msgid "Progress with the \\v[combat.name.heat/scorpion]s has been going great.\\. It is a shame that we need to leave them behind."
-msgstr ""
+msgstr "El progreso con los \\v[combat.name.heat/scorpion] ha ido muy bien.\\. Es una pena que tengamos que dejarlos atrás."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/122/settings/interact/event/15/message #254
 #. Prop holo-sign
@@ -13761,7 +13853,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-final.json+entities/122/settings/interact/event/15/message+%23254
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-final.json//entities/122/settings/interact/event/15/message"
 msgid "It seems like creating the third entry in our line of experiments won't be possible this way..."
-msgstr ""
+msgstr "Parece que crear la tercera entrada en nuestra línea de experimentos no será posible de esta manera..."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/122/settings/interact/event/16/message #12223
 #. Prop holo-sign
@@ -13769,7 +13861,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-final.json+entities/122/settings/interact/event/16/message+%2312223
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-final.json//entities/122/settings/interact/event/16/message"
 msgid "However, after talking with our colleagues, we decided on an alternative option."
-msgstr ""
+msgstr "Sin embargo, después de hablar con nuestros colegas, nos decidimos por una opción alternativa."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/122/settings/interact/event/17/message #12224
 #. Prop holo-sign
@@ -13777,7 +13869,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-final.json+entities/122/settings/interact/event/17/message+%2312224
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-final.json//entities/122/settings/interact/event/17/message"
 msgid "We will work on a secret joint facility that can house the most qualified of workers for our next project."
-msgstr ""
+msgstr "Trabajaremos en una instalación conjunta secreta que pueda albergar a los trabajadores más calificados para nuestro próximo proyecto."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/122/settings/interact/event/18/message #12225
 #. Prop holo-sign
@@ -13785,7 +13877,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-final.json+entities/122/settings/interact/event/18/message+%2312225
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-final.json//entities/122/settings/interact/event/18/message"
 msgid "This might even surpass everything we did so far.\\. We will see.\\. Interesting times ahead."
-msgstr ""
+msgstr "Esto podría incluso superar todo lo que hemos hecho hasta ahora.\\. Ya veremos.\\. Se avecinan tiempos interesantes."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/122/settings/interact/event/19/message #12226
 #. Prop holo-sign
@@ -13793,7 +13885,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-final.json+entities/122/settings/interact/event/19/message+%2312226
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-final.json//entities/122/settings/interact/event/19/message"
 msgid "So, maybe we will see you around, if you can find us.\\. Goodbye."
-msgstr ""
+msgstr "Entonces, tal vez nos veamos por ahí, si nos puedes encontrar.\\. Adiós."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/123/settings/condAnims/0/interact/hoverText #213
 #. Prop keyLore
@@ -13801,7 +13893,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-final.json+entities/123/settings/condAnims/0/interact/hoverText+%23213
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-final.json//entities/123/settings/condAnims/0/interact/hoverText"
 msgid "Display"
-msgstr ""
+msgstr "Mostrar"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/123/settings/condAnims/0/interact/event/1/text #215
 #. Prop keyLore
@@ -13817,6 +13909,12 @@ msgid ""
 "\n"
 "\\c[3]Subject:\\c[0] The Future"
 msgstr ""
+"\\c[1]CORREO INTERNO, INBOX\\c[0]\n"
+"\n"
+"\\c[3]DE:\\c[0] \"Los 4 Visionarios\"\n"
+"\\c[3]PARA:\\c[0] Todas las instalaciones\n"
+"\n"
+"\\c[3]Asunto:\\c[0] El futuro"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/123/settings/condAnims/0/interact/event/2/text #12212
 #. Prop keyLore
@@ -13829,6 +13927,9 @@ msgid ""
 "\n"
 "Since \\c[3]our funding has been cut\\c[0] and \\c[3]the facilities got taken by the Track\\c[0], we established a \\c[3]new place\\c[0] where we will preserve and continue our research."
 msgstr ""
+"Buenas tardes a todos,\n"
+"\n"
+"Dado que \\c[3]nuestra financiación ha sido recortada\\c[0] y \\c[3]las instalaciones fueron tomadas por la Pista\\c[0], establecimos un \\c[3]nuevo lugar\\c[0] donde preservaremos y continuaremos nuestra investigación."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/123/settings/condAnims/0/interact/event/3/text #12213
 #. Prop keyLore
@@ -13841,6 +13942,9 @@ msgid ""
 "You will find the \\c[3]key\\c[0] to enter it in the \\c[3]attachment\\c[0] of this message.\n"
 "However, \\c[3]by itself the key will not work\\c[0]."
 msgstr ""
+"La entrada se puede encontrar \\c[3]en algún lugar de \\v[area.forest.name]\\c[0].\n"
+"Encontrará la \\c[3]clave\\c[0] para ingresarla en el \\c[3]archivo adjunto\\c[0] de este mensaje.\n"
+"Sin embargo, \\c[3]por sí misma la clave no funcionará\\c[0]."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/123/settings/condAnims/0/interact/event/4/text #12210
 #. Prop keyLore
@@ -13849,7 +13953,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-final.json+entities/123/settings/condAnims/0/interact/event/4/text+%2312210
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-final.json//entities/123/settings/condAnims/0/interact/event/4/text"
 msgid "You will first need to \\c[3]decrypt\\c[0] it at \\c[3]4 different places\\c[0] that are hidden somewhere on \\v[lore.title.planet], each in a \\c[3]different region\\c[0]."
-msgstr ""
+msgstr "Primero necesitarán \\c[3]descifrar\\c[0] en \\c[3]4 lugares diferentes\\c[0] que están ocultos en algún lugar de \\v[lore.title.planet], cada uno en una \\ c[3]región diferente\\c[0]."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/123/settings/condAnims/0/interact/event/5/text #12214
 #. Prop keyLore
@@ -13861,6 +13965,8 @@ msgid ""
 "Hints towards \\c[1]one\\c[0] of the locations can be found in each of our 4 facilities.\n"
 "\\c[3]So you will learn one location after reading this very message.\\c[0]"
 msgstr ""
+"Se pueden encontrar pistas para \\c[1]una\\c[0] de las ubicaciones en cada una de nuestras 4 instalaciones.\n"
+"\\c[3]Así que sabrás una ubicación después de leer este mismo mensaje.\\c[0]"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/123/settings/condAnims/0/interact/event/6/thenStep/0/text #12215
 #. Prop keyLore
@@ -13877,6 +13983,12 @@ msgid ""
 "\n"
 "\\c[1][END OF MAIL]\\c[0]"
 msgstr ""
+"¡Todos los que logren entrar serán bienvenidos!\n"
+"\n"
+"Sinceramente,\n"
+"\"Los 4 visionarios\"\n"
+"\n"
+"\\c[1][FIN DEL CORREO]\\c[0]"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/123/settings/condAnims/0/interact/event/6/elseStep/0/text #12208
 #. Prop keyLore
@@ -13886,7 +13998,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-final.json+entities/123/settings/condAnims/0/interact/event/6/elseStep/0/text+%2312208
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-final.json//entities/123/settings/condAnims/0/interact/event/6/elseStep/0/text"
 msgid "Interested \\c[3]\\v[lore.title.seeker]s\\c[0] should know that \\c[3]each of their kind\\c[0] is destined to enter \\c[3]only one of the 4 facilities\\c[0] and find a part of the information."
-msgstr ""
+msgstr "Los \\c[3]\\v[lore.title.seeker]s\\c[0] interesados deben saber que \\c[3]cada uno de su tipo\\c[0] está destinado a ingresar a \\c[3]solo una de las 4 instalaciones\\c[0] y encontrar una parte de la información."
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/123/settings/condAnims/0/interact/event/6/elseStep/1/text #12211
 #. Prop keyLore
@@ -13904,6 +14016,13 @@ msgid ""
 "\n"
 "\\c[1][END OF MAIL]\\c[0]"
 msgstr ""
+"¡Pero \\c[3]a través del trabajo en equipo y la comunicación\\c[0] podría ser posible obtener todas las ubicaciones independientemente!\n"
+"¡Todos los que logren entrar serán bienvenidos!\n"
+"\n"
+"Sinceramente,\n"
+"\"Los 4 visionarios\"\n"
+"\n"
+"\\c[1][FIN DEL CORREO]\\c[0]"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/123/settings/condAnims/0/interact/event/7/text #12209
 #. Prop keyLore
@@ -13916,6 +14035,9 @@ msgid ""
 "\n"
 "One of the hidden places can be found in \\c[3]\\v[area.heat-area.name]\\c[0], \\c[3]\"At a hidden source of water, uncovered while searching for cursed treasure.\"\\c[0]!"
 msgstr ""
+"\\c[1]ADJUNTO:\\c[0]\n"
+"\n"
+"Uno de los lugares ocultos se puede encontrar en \\c[3]\\v[area.heat-area.name]\\c[0], \\c[3]\"En una fuente de agua oculta, descubierta mientras buscaba un tesoro maldito .\"\\c[0]!"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/124/settings/event/6/name #12197
 #. EventTrigger pc-end START IF map.scientist-talk
@@ -13923,7 +14045,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-final.json+entities/124/settings/event/6/name+%2312197
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-final.json//entities/124/settings/event/6/name"
 msgid "Ey'leet"
-msgstr ""
+msgstr "Ey'leet"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/124/settings/event/8/message #12200
 #. EventTrigger pc-end START IF map.scientist-talk
@@ -13931,7 +14053,7 @@ msgstr ""
 #: extension/scorpion-robo/data/maps/heat/lab/room-final.json+entities/124/settings/event/8/message+%2312200
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-final.json//entities/124/settings/event/8/message"
 msgid "\\v[lore.title.seeker], part of the elite acquire in hidden place, yes?"
-msgstr ""
+msgstr "\\v[lore.title.seeker], parte de la élite adquiere en un lugar oculto, ¿sí?"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/124/settings/event/9/message #401
 #. EventTrigger pc-end START IF map.scientist-talk
@@ -13947,7 +14069,7 @@ msgstr "[asiente]"
 #: extension/scorpion-robo/data/maps/heat/lab/room-final.json+entities/124/settings/event/10/message+%2312205
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-final.json//entities/124/settings/event/10/message"
 msgid "Such radical accomplishment!\\. Very impress!"
-msgstr ""
+msgstr "¡Qué logro tan radical!\\. Muy impresionado!"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/124/settings/event/11/message #12204
 #. EventTrigger pc-end START IF map.scientist-talk
@@ -13963,7 +14085,7 @@ msgstr "..."
 #: extension/scorpion-robo/data/maps/heat/lab/room-final.json+entities/124/settings/event/12/message+%2312201
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-final.json//entities/124/settings/event/12/message"
 msgid "But machine not receive more power by human standing around and being proud of accomplishment!"
-msgstr ""
+msgstr "¡Pero la máquina no recibe más poder por parte de los humanos que se paran y se enorgullecen de su logro!"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/124/settings/event/13/message #12227
 #. EventTrigger pc-end START IF map.scientist-talk
@@ -13979,7 +14101,7 @@ msgstr "..."
 #: extension/scorpion-robo/data/maps/heat/lab/room-final.json+entities/124/settings/event/14/message+%2312206
 msgctxt "extension/scorpion-robo/data/maps/heat/lab/room-final.json//entities/124/settings/event/14/message"
 msgid "You better bring parts back to me in \\v[area.heat-village.name] so machine can be graded up!"
-msgstr ""
+msgstr "¡Será mejor que me devuelvas las piezas en \\v[area.heat-village.name] para que la máquina pueda mejorar!"
 
 #. extension/scorpion-robo/data/maps/heat/lab/room-final.json entities/124/settings/event/15/message #12228
 #. EventTrigger pc-end START IF map.scientist-talk
