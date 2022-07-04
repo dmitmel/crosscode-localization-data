@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-07-01 06:41+0000\n"
+"PO-Revision-Date: 2022-07-04 22:08+0000\n"
 "Last-Translator: Kevin Junior Neciosup Galeano <kjneciosup1@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/database/es/>\n"
 "Language: es_ES\n"
@@ -1658,7 +1658,6 @@ msgstr "\\c[3]Encuentra el 25% de todas las Entradas en la Enciclopedia\\c[0] en
 
 #. data/database.json achievements/lore-found-02/name #13472
 #: data/database.json+achievements/lore-found-02/name+%2313472
-#, fuzzy
 msgctxt "data/database.json//achievements/lore-found-02/name"
 msgid "Veteran Scholar"
 msgstr "Erudito Veterano"
@@ -1799,7 +1798,7 @@ msgstr "Referencias de Sapphire"
 #: data/database.json+achievements/landmarks-forest/description+%2313489
 msgctxt "data/database.json//achievements/landmarks-forest/description"
 msgid "\\c[3]Find all Landmarks\\c[0] in Sapphire Ridge."
-msgstr "\\c[3]Encuentra todos los Puntos de Referencia\\c[0] en Sapphire Ridge."
+msgstr "\\c[3]Encuentra todos los Puntos de Referencia\\c[0] en Cresta Zafiro."
 
 #. data/database.json achievements/landmarks-rhombus/name #13490
 #: data/database.json+achievements/landmarks-rhombus/name+%2313490
@@ -1919,7 +1918,7 @@ msgstr "Carroñero de Sapphire"
 #: data/database.json+achievements/chests-forest/description+%2313373
 msgctxt "data/database.json//achievements/chests-forest/description"
 msgid "\\c[3]Find and open all Chests\\c[0] in Sapphire-Ridge."
-msgstr "\\c[3]Encuentra y abre todos los Cofres\\c[0] en Sapphire Ridge."
+msgstr "\\c[3]Encuentra y abre todos los Cofres\\c[0] en Cresta Zafiro."
 
 #. data/database.json achievements/chests-rhombus/name #13374
 #: data/database.json+achievements/chests-rhombus/name+%2313374
@@ -2449,7 +2448,7 @@ msgstr "Salida Este"
 #: data/database.json+areas/autumn-fall/landmarks/east/description+%2313417
 msgctxt "data/database.json//areas/autumn-fall/landmarks/east/description"
 msgid "East Exit of Autumn's Fall leading to the Sapphire Ridge."
-msgstr "Salida Este del Anochecer del Otoño, dirigiendo a Sapphire Ridge."
+msgstr "Salida Este del Anochecer del Otoño, dirigiendo a Cresta Zafiro."
 
 #. data/database.json areas/autumn-fall/landmarks/raid/name #12452
 #: data/database.json+areas/autumn-fall/landmarks/raid/name+%2312452
@@ -2744,7 +2743,7 @@ msgstr "Yo"
 #: data/database.json+areas/forest/name+%2313414
 msgctxt "data/database.json//areas/forest/name"
 msgid "Sapphire Ridge"
-msgstr "Sapphire Ridge"
+msgstr "Cresta Zafiro"
 
 #. data/database.json areas/forest/description #13415
 #: data/database.json+areas/forest/description+%2313415
@@ -3673,7 +3672,7 @@ msgctxt "data/database.json//commonEvents/facility-x-key/event/3/thenStep/1/text
 msgid ""
 "\\c[2]Decryption Complete\\c[0]!\n"
 "Key can now be used to access \\c[3]Facility X\\c[0], located in \\c[3]Sapphire Ridge\\c[0]"
-msgstr "La llave ahora puede ser utilizada para acceder a las \\c[3]Instalaciones X\\c[0], localizadas en \\c[3]Sapphire Ridge\\c[0]"
+msgstr "La llave ahora puede ser utilizada para acceder a las \\c[3]Instalaciones X\\c[0], localizadas en \\c[3]Cresta Zafiro\\c[0]"
 
 #. data/database.json commonEvents/facility-x-key/event/3/thenStep/5/object #16456
 #. IF g.lab.decrypted >= 4
@@ -8220,7 +8219,7 @@ msgstr ""
 #: data/database.json+commonEvents/cooldown-A/event/0/4_0/0/1_0/0/message+%2315847
 msgctxt "data/database.json//commonEvents/cooldown-A/event/0/4_0/0/1_0/0/message"
 msgid "Now we're talking."
-msgstr ""
+msgstr "Ahora estamos hablando."
 
 #. data/database.json commonEvents/cooldown-A/event/0/4_0/0/1_0/1/message #18537
 #. SELECT_RANDOM
@@ -13427,10 +13426,9 @@ msgstr "Habrá muchas más oportunidades."
 #. IF plot.line >= 19050
 #. SHOW_MSG main.emilie @SMILE
 #: data/database.json+commonEvents/emilie-contact/event/24/thenStep/6/message+%2314642
-#, fuzzy
 msgctxt "data/database.json//commonEvents/emilie-contact/event/24/thenStep/6/message"
 msgid "For now let's focus on exploring \\c[3]Sapphire Ridge\\c[0]!"
-msgstr "¡Por ahora, centrémonos en Explorar \\c[3]Sapphire Ridge\\c[0]!"
+msgstr "¡Por ahora, centrémonos en Explorar \\c[3]Cresta Zafiro\\c[0]!"
 
 #. data/database.json commonEvents/emilie-contact/event/24/thenStep/7/message #14643
 #. IF plot.line >= 19050
@@ -14941,7 +14939,7 @@ msgstr "Bueno, supongo que no puedo convencerte."
 #: data/database.json+commonEvents/glasses-contact/event/17/thenStep/8/message+%2314726
 msgctxt "data/database.json//commonEvents/glasses-contact/event/17/thenStep/8/message"
 msgid "It's fine! We can still explore Sapphire Ridge together, if you like!"
-msgstr "¡Está bien! ¡Aún podemos explorar Sapphire Ridge juntos, si quieres!"
+msgstr "¡Está bien! ¡Aún podemos explorar Cresta Zafiro juntos, si quieres!"
 
 #. data/database.json commonEvents/glasses-contact/event/18/thenStep/0/message #14727
 #. IF plot.line >= 18800
@@ -15969,7 +15967,7 @@ msgstr "¡Hola!"
 #: data/database.json+commonEvents/apollo-contact/event/14/thenStep/1/message+%2314813
 msgctxt "data/database.json//commonEvents/apollo-contact/event/14/thenStep/1/message"
 msgid "Spheromancer Lea! Sapphire Ridge is quite the mysterious place, isn't it?"
-msgstr "¡Spheromancer Lea! Sapphire Ridge es un lugar misterioso, ¿no crees?"
+msgstr "¡Spheromancer Lea! Cresta Zafiro es un lugar misterioso, ¿no crees?"
 
 #. data/database.json commonEvents/apollo-contact/event/14/thenStep/2/message #14814
 #. IF plot.line >= 19100
@@ -16001,7 +15999,7 @@ msgstr "¡Hola!"
 #: data/database.json+commonEvents/apollo-contact/event/15/thenStep/1/message+%2314817
 msgctxt "data/database.json//commonEvents/apollo-contact/event/15/thenStep/1/message"
 msgid "Spheromancer Lea! Joern and I are planning to explore \\c[3]Sapphire Ridge\\c[0]! Let us know if you want to join us!"
-msgstr "¡Spheromancer Lea! ¡Joern y yo vamos a explorar \\c[3]Sapphire Ridge\\c[0]! ¡Avísanos si te nos quieres unir!"
+msgstr "¡Spheromancer Lea! ¡Joern y yo vamos a explorar la \\c[3]Cresta Zafiro\\c[0]! ¡Avísanos si te nos quieres unir!"
 
 #. data/database.json commonEvents/apollo-contact/event/15/thenStep/2/message #14818
 #. IF plot.line >= 19050
@@ -16775,7 +16773,7 @@ msgstr "¡Hola!"
 #: data/database.json+commonEvents/joern-contact/event/14/thenStep/1/message+%2314949
 msgctxt "data/database.json//commonEvents/joern-contact/event/14/thenStep/1/message"
 msgid "Are you strolling through Sapphire Ridge right now?"
-msgstr "¿Estás explorando Sapphire Ridge?"
+msgstr "¿Estás explorando la Cresta Zafiro?"
 
 #. data/database.json commonEvents/joern-contact/event/14/thenStep/2/message #14950
 #. IF plot.line >= 19100
@@ -16807,7 +16805,7 @@ msgstr "¡Hola!"
 #: data/database.json+commonEvents/joern-contact/event/15/thenStep/1/message+%2314953
 msgctxt "data/database.json//commonEvents/joern-contact/event/15/thenStep/1/message"
 msgid "Hey, Lea. Polly and I plan to explore Sapphire Ridge today. Care to join us?"
-msgstr "Ey, Lea. Polly y yo planeamos explorar Sapphire Ridge hoy. ¿Te nos unes?"
+msgstr "Ey, Lea. Polly y yo planeamos explorar la Cresta Zafiro hoy. ¿Te nos unes?"
 
 #. data/database.json commonEvents/joern-contact/event/15/thenStep/2/message #14954
 #. IF plot.line >= 19050
@@ -19548,7 +19546,7 @@ msgstr "¡Hola!"
 #: data/database.json+commonEvents/hlin-contact/event/17/thenStep/1/message+%2315101
 msgctxt "data/database.json//commonEvents/hlin-contact/event/17/thenStep/1/message"
 msgid "Lea, dear! We're waiting in Sapphire Ridge."
-msgstr "¡Lea, querida! Te estamos esperando en Sapphire Ridge."
+msgstr "¡Lea, querida! Te estamos esperando en la Cresta Zafiro."
 
 #. data/database.json commonEvents/hlin-contact/event/17/thenStep/2/message #15074
 #. IF plot.line >= 25000
@@ -19668,7 +19666,7 @@ msgstr "¡Hola!"
 #: data/database.json+commonEvents/hlin-contact/event/19/thenStep/1/message+%2315085
 msgctxt "data/database.json//commonEvents/hlin-contact/event/19/thenStep/1/message"
 msgid "Lea, dear! Did you already arrive in Sapphire Ridge?"
-msgstr "¡Lea, querida! ¿Ya has llegado a Sapphire Ridge?"
+msgstr "¡Lea, querida! ¿Ya has llegado a la Cresta Zafiro?"
 
 #. data/database.json commonEvents/hlin-contact/event/19/thenStep/2/message #15086
 #. IF plot.line >= 19050
@@ -31492,7 +31490,7 @@ msgstr ""
 #: data/database.json+lore/forest/title+%2315327
 msgctxt "data/database.json//lore/forest/title"
 msgid "Sapphire Ridge"
-msgstr ""
+msgstr "Cresta Zafiro"
 
 #. data/database.json lore/forest/content/page-01-01/content #15328
 #: data/database.json+lore/forest/content/page-01-01/content+%2315328
@@ -34714,7 +34712,7 @@ msgstr "Explora el \\c[3]Viejo Observatorio\\c[0] en \\c[3]\\v[area.autumn-area.
 #: data/database.json+quests/daft-frobbit/name+%2311919
 msgctxt "data/database.json//quests/daft-frobbit/name"
 msgid "Chase of the Hologram Frobbit"
-msgstr "La persecución del holograma del Ranejo"
+msgstr "Persigue ese Ranejo Holográfico"
 
 #. data/database.json quests/daft-frobbit/person #11920
 #: data/database.json+quests/daft-frobbit/person+%2311920
@@ -40385,7 +40383,7 @@ msgstr "Usaste la sonda para extraer datos del Track y también derrotaste a otr
 #: data/database.json+quests/fd-3-ball_egg_1/tasks/0/task+%2313260
 msgctxt "data/database.json//quests/fd-3-ball_egg_1/tasks/0/task"
 msgid "Meet up with \\c[3]Pioneer Deggart\\c[0] at the landmark of \\c[3]Village Remains\\c[0] in \\c[3]\\v[area.autumn-fall.name]\\c[0]"
-msgstr "Reúnete con el \\c[3]Pionero Deggart\\c[0] en el hito de \\c[3]Restos del Pueblo\\c[0] en \\c[3]\\v[area.autumn-fall.name]\\c [0]"
+msgstr "Reúnete con el \\c[3]Pionero Deggart\\c[0] en el hito de \\c[3]Restos del Pueblo\\c[0] en \\c[3]\\v[area.autumn-fall.name]\\c[0]"
 
 #. data/database.json quests/fd-3-ball_egg_1/tasks/1/task #13261
 #: data/database.json+quests/fd-3-ball_egg_1/tasks/1/task+%2313261
