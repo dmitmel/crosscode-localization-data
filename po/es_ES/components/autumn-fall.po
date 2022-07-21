@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-07-10 05:41+0000\n"
-"Last-Translator: Kevin Junior Neciosup Galeano <kjneciosup1@gmail.com>\n"
+"PO-Revision-Date: 2022-07-22 16:41+0000\n"
+"Last-Translator: Esteban Herrera Ortúzar <estebanherreraortuzar@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/autumn-fall/es/>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
@@ -72,13 +72,13 @@ msgstr "Cueva del Lago 4"
 #: data/areas/autumn-fall.json+floors/1/maps/4/name+%23248
 msgctxt "data/areas/autumn-fall.json//floors/1/maps/4/name"
 msgid "Para Island Cave"
-msgstr "Cueva de la Isla Para"
+msgstr "Cueva de la Isla Apartada"
 
 #. data/areas/autumn-fall.json floors/1/maps/5/name #479
 #: data/areas/autumn-fall.json+floors/1/maps/5/name+%23479
 msgctxt "data/areas/autumn-fall.json//floors/1/maps/5/name"
 msgid "Para Island Cave"
-msgstr "Cueva de la Isla Para"
+msgstr "Cueva de la Isla Apartada"
 
 #. data/areas/autumn-fall.json floors/1/maps/6/name #359
 #: data/areas/autumn-fall.json+floors/1/maps/6/name+%23359
@@ -3897,7 +3897,7 @@ msgstr "¡Estamos listos para comenzar!"
 #: data/maps/autumn-fall/raid/raid-01.json+entities/57/settings/event/24/message+%2377
 msgctxt "data/maps/autumn-fall/raid/raid-01.json//entities/57/settings/event/24/message"
 msgid "Welcome, everyone, to \\c[3]Para Island\\c[0]!"
-msgstr "Bienvenido a todos, a la \\c[3]Isla Para\\c[0]!"
+msgstr "¡Bienvenidos todos a la \\c[3]Isla Apartada\\c[0]!"
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/57/settings/event/25/message #107
 #. EventTrigger keksStart START IF tmp.raidStart
@@ -4055,10 +4055,9 @@ msgstr "De hecho, ¡creo que tengo el papel perfecto para ti!"
 #. EventTrigger keksStart START IF tmp.raidStart
 #. SHOW_MSG main.guild-leader @THINKING
 #: data/maps/autumn-fall/raid/raid-01.json+entities/57/settings/event/60/message+%23111
-#, fuzzy
 msgctxt "data/maps/autumn-fall/raid/raid-01.json//entities/57/settings/event/60/message"
 msgid "See, one member of each team will be the \\c[3]column tackler\\c[0]! And I think you'd be a good choice for this."
-msgstr "¡Mira, un miembro de cada equipo será el \\c[3]líder\\c[0] de su grupo! Y creo que serías una buena opción para esto."
+msgstr "¡Mira, un miembro de cada equipo será el \\c[3]líder\\c[0] de su grupo! Y creo tú que serías una buena opción para esto."
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/57/settings/event/61/message #112
 #. EventTrigger keksStart START IF tmp.raidStart
@@ -4394,7 +4393,7 @@ msgstr "¿Puede que esté un poco emocionado por la raid?"
 #: data/maps/autumn-fall/raid/raid-01.json+entities/305/settings/event/20/message+%23204
 msgctxt "data/maps/autumn-fall/raid/raid-01.json//entities/305/settings/event/20/message"
 msgid "...\\. And set!\n"
-msgstr ""
+msgstr "...\\. ¡Y estamos listos!\n"
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/305/settings/event/25/message #205
 #. EventTrigger keksStart2 START IF tmp.raidStart && plot.line >= 42000
@@ -4402,7 +4401,7 @@ msgstr ""
 #: data/maps/autumn-fall/raid/raid-01.json+entities/305/settings/event/25/message+%23205
 msgctxt "data/maps/autumn-fall/raid/raid-01.json//entities/305/settings/event/25/message"
 msgid "Welcome, everyone, to Para Island!\\. Again!"
-msgstr ""
+msgstr "¡Bienvenidos todos a la Isla Apartada!\\. ¡Otra vez!"
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/305/settings/event/26/message #250
 #. EventTrigger keksStart2 START IF tmp.raidStart && plot.line >= 42000
@@ -4410,7 +4409,7 @@ msgstr ""
 #: data/maps/autumn-fall/raid/raid-01.json+entities/305/settings/event/26/message+%23250
 msgctxt "data/maps/autumn-fall/raid/raid-01.json//entities/305/settings/event/26/message"
 msgid "An important milestone of the track that we'll definitely manage to pass this time around!"
-msgstr ""
+msgstr "Este es un evento importante del camino que definitivamente lograremos superar esta vez!"
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/305/settings/event/27/message #251
 #. EventTrigger keksStart2 START IF tmp.raidStart && plot.line >= 42000
@@ -4418,7 +4417,7 @@ msgstr ""
 #: data/maps/autumn-fall/raid/raid-01.json+entities/305/settings/event/27/message+%23251
 msgctxt "data/maps/autumn-fall/raid/raid-01.json//entities/305/settings/event/27/message"
 msgid "But don't think for a moment that this will be a cake walk! "
-msgstr ""
+msgstr "¡Pero no crean ni por un segundo que esto será pan comido! "
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/305/settings/event/28/message #252
 #. EventTrigger keksStart2 START IF tmp.raidStart && plot.line >= 42000
@@ -4426,7 +4425,7 @@ msgstr ""
 #: data/maps/autumn-fall/raid/raid-01.json+entities/305/settings/event/28/message+%23252
 msgctxt "data/maps/autumn-fall/raid/raid-01.json//entities/305/settings/event/28/message"
 msgid "Because this time, the Ancients will put our teamwork to a much harder test!"
-msgstr ""
+msgstr "¡Ya que esta vez, los Antiguos pondrán a prueba nuestro trabajo en equipo, pero a un nivel mucho más difícil!"
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/305/settings/event/29/message #253
 #. EventTrigger keksStart2 START IF tmp.raidStart && plot.line >= 42000
@@ -4434,7 +4433,7 @@ msgstr ""
 #: data/maps/autumn-fall/raid/raid-01.json+entities/305/settings/event/29/message+%23253
 msgctxt "data/maps/autumn-fall/raid/raid-01.json//entities/305/settings/event/29/message"
 msgid "Once again, we shall head towards the \\c[3]top of the hill\\c[0]!"
-msgstr ""
+msgstr "Una vez más, debemos dirigirnos a ¡la \\c[3]cima de la colina\\c[0]!"
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/305/settings/event/30/message #254
 #. EventTrigger keksStart2 START IF tmp.raidStart && plot.line >= 42000
@@ -4442,7 +4441,7 @@ msgstr ""
 #: data/maps/autumn-fall/raid/raid-01.json+entities/305/settings/event/30/message+%23254
 msgctxt "data/maps/autumn-fall/raid/raid-01.json//entities/305/settings/event/30/message"
 msgid "Together, as two teams, moving in unison!"
-msgstr ""
+msgstr "¡Juntos en dos grupos nos moveremos al mismo tiempo!"
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/305/settings/event/35/message #212
 #. EventTrigger keksStart2 START IF tmp.raidStart && plot.line >= 42000
@@ -4450,7 +4449,7 @@ msgstr ""
 #: data/maps/autumn-fall/raid/raid-01.json+entities/305/settings/event/35/message+%23212
 msgctxt "data/maps/autumn-fall/raid/raid-01.json//entities/305/settings/event/35/message"
 msgid "The first team, ascending on the right, the honorable Evotars \\c[3]Lea\\c[0] and \\c[3]Luke\\c[0]... and also \\c[3]Emilie\\c[0]!"
-msgstr ""
+msgstr "El primer equipo que ascenderá por la derecha lo componen los honorables Evotars ¡\\c[3]Lea\\c[0] y \\c[3]Luke\\c[0]... y también \\c[3]Emilie\\c[0]!"
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/305/settings/event/37/message #213
 #. EventTrigger keksStart2 START IF tmp.raidStart && plot.line >= 42000
@@ -4458,7 +4457,7 @@ msgstr ""
 #: data/maps/autumn-fall/raid/raid-01.json+entities/305/settings/event/37/message+%23213
 msgctxt "data/maps/autumn-fall/raid/raid-01.json//entities/305/settings/event/37/message"
 msgid "Wait, am I not honorable?"
-msgstr ""
+msgstr "Un momento, ¿yo no soy honorable?"
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/305/settings/event/38/message #255
 #. EventTrigger keksStart2 START IF tmp.raidStart && plot.line >= 42000
@@ -4466,7 +4465,7 @@ msgstr ""
 #: data/maps/autumn-fall/raid/raid-01.json+entities/305/settings/event/38/message+%23255
 msgctxt "data/maps/autumn-fall/raid/raid-01.json//entities/305/settings/event/38/message"
 msgid "... \\c[3]Emilie\\c[0] the fierce one!"
-msgstr ""
+msgstr "... \\c[3]Emilie\\c[0], ¡la feroz!"
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/305/settings/event/39/message #256
 #. EventTrigger keksStart2 START IF tmp.raidStart && plot.line >= 42000
@@ -4474,7 +4473,7 @@ msgstr ""
 #: data/maps/autumn-fall/raid/raid-01.json+entities/305/settings/event/39/message+%23256
 msgctxt "data/maps/autumn-fall/raid/raid-01.json//entities/305/settings/event/39/message"
 msgid "That's better!"
-msgstr ""
+msgstr "¡Así está mejor!"
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/305/settings/event/44/message #214
 #. EventTrigger keksStart2 START IF tmp.raidStart && plot.line >= 42000
@@ -4485,6 +4484,8 @@ msgid ""
 "The second team, ascending on the left, will be the veterans:\n"
 "\\c[3]Schneider\\c[0], \\c[3]Buggy\\c[0]...\\. and \\c[3]me\\c[0]!"
 msgstr ""
+"El segundo equipo que ascenderá por la izquierda lo componen los veteranos:\n"
+"¡\\c[3]Schneider\\c[0], \\c[3]Buggy\\c[0]...\\. y \\c[3]yo\\c[0]!"
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/305/settings/event/46/message #215
 #. EventTrigger keksStart2 START IF tmp.raidStart && plot.line >= 42000
@@ -4492,7 +4493,7 @@ msgstr ""
 #: data/maps/autumn-fall/raid/raid-01.json+entities/305/settings/event/46/message+%23215
 msgctxt "data/maps/autumn-fall/raid/raid-01.json//entities/305/settings/event/46/message"
 msgid "Okay!!\\. Can I be column tackler again?\n"
-msgstr ""
+msgstr "¡¡Bien!!\\. ¿Puedo ser el pilar derribador?\n"
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/305/settings/event/47/message #257
 #. EventTrigger keksStart2 START IF tmp.raidStart && plot.line >= 42000
@@ -4500,7 +4501,7 @@ msgstr ""
 #: data/maps/autumn-fall/raid/raid-01.json+entities/305/settings/event/47/message+%23257
 msgctxt "data/maps/autumn-fall/raid/raid-01.json//entities/305/settings/event/47/message"
 msgid "Uhm..."
-msgstr ""
+msgstr "Uhm..."
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/305/settings/event/49/message #258
 #. EventTrigger keksStart2 START IF tmp.raidStart && plot.line >= 42000
@@ -4508,7 +4509,7 @@ msgstr ""
 #: data/maps/autumn-fall/raid/raid-01.json+entities/305/settings/event/49/message+%23258
 msgctxt "data/maps/autumn-fall/raid/raid-01.json//entities/305/settings/event/49/message"
 msgid "Non, non!\\. You messed up last time!"
-msgstr ""
+msgstr "¡Non, non!\\. ¡La vez pasada lo arruinaste!"
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/305/settings/event/50/message #259
 #. EventTrigger keksStart2 START IF tmp.raidStart && plot.line >= 42000
@@ -4516,7 +4517,7 @@ msgstr ""
 #: data/maps/autumn-fall/raid/raid-01.json+entities/305/settings/event/50/message+%23259
 msgctxt "data/maps/autumn-fall/raid/raid-01.json//entities/305/settings/event/50/message"
 msgid "C'mon!\\. I wanna do better this time!"
-msgstr ""
+msgstr "¡Por favor!\\. ¡Lo haré mejor esta vez!"
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/305/settings/event/51/message #260
 #. EventTrigger keksStart2 START IF tmp.raidStart && plot.line >= 42000
@@ -4524,7 +4525,7 @@ msgstr ""
 #: data/maps/autumn-fall/raid/raid-01.json+entities/305/settings/event/51/message+%23260
 msgctxt "data/maps/autumn-fall/raid/raid-01.json//entities/305/settings/event/51/message"
 msgid "Let's give Raphael another chance, eh?"
-msgstr ""
+msgstr "Démosle a Raphael otra oportunidad, ¿eh?"
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/305/settings/event/52/message #261
 #. EventTrigger keksStart2 START IF tmp.raidStart && plot.line >= 42000
@@ -4532,7 +4533,7 @@ msgstr ""
 #: data/maps/autumn-fall/raid/raid-01.json+entities/305/settings/event/52/message+%23261
 msgctxt "data/maps/autumn-fall/raid/raid-01.json//entities/305/settings/event/52/message"
 msgid "Fine!"
-msgstr ""
+msgstr "¡Está bien!"
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/305/settings/event/57/message #262
 #. EventTrigger keksStart2 START IF tmp.raidStart && plot.line >= 42000
@@ -4540,7 +4541,7 @@ msgstr ""
 #: data/maps/autumn-fall/raid/raid-01.json+entities/305/settings/event/57/message+%23262
 msgctxt "data/maps/autumn-fall/raid/raid-01.json//entities/305/settings/event/57/message"
 msgid "But then Lea should be our column tackler again as well! "
-msgstr ""
+msgstr "¡Pero después Lea debería ser nuestra pilar derribadora de nuevo! "
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/305/settings/event/58/message #263
 #. EventTrigger keksStart2 START IF tmp.raidStart && plot.line >= 42000
@@ -4548,7 +4549,7 @@ msgstr ""
 #: data/maps/autumn-fall/raid/raid-01.json+entities/305/settings/event/58/message+%23263
 msgctxt "data/maps/autumn-fall/raid/raid-01.json//entities/305/settings/event/58/message"
 msgid "She actually did a good job!"
-msgstr ""
+msgstr "¡De verdad hizo un gran trabajo!"
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/305/settings/event/60/message #218
 #. EventTrigger keksStart2 START IF tmp.raidStart && plot.line >= 42000
@@ -4556,7 +4557,7 @@ msgstr ""
 #: data/maps/autumn-fall/raid/raid-01.json+entities/305/settings/event/60/message+%23218
 msgctxt "data/maps/autumn-fall/raid/raid-01.json//entities/305/settings/event/60/message"
 msgid "Is that okay for you, Lea?"
-msgstr ""
+msgstr "¿Te parece bien, Lea?"
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/305/settings/event/62/message #264
 #. EventTrigger keksStart2 START IF tmp.raidStart && plot.line >= 42000
@@ -4572,7 +4573,7 @@ msgstr "[asiente]"
 #: data/maps/autumn-fall/raid/raid-01.json+entities/305/settings/event/63/message+%23265
 msgctxt "data/maps/autumn-fall/raid/raid-01.json//entities/305/settings/event/63/message"
 msgid "Great, so we got that out of the way already!"
-msgstr ""
+msgstr "¡Perfecto, entonces estamos listos con este tema!"
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/305/settings/event/67/message #222
 #. EventTrigger keksStart2 START IF tmp.raidStart && plot.line >= 42000
@@ -4580,7 +4581,7 @@ msgstr ""
 #: data/maps/autumn-fall/raid/raid-01.json+entities/305/settings/event/67/message+%23222
 msgctxt "data/maps/autumn-fall/raid/raid-01.json//entities/305/settings/event/67/message"
 msgid "Uhm..."
-msgstr ""
+msgstr "Uhm..."
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/305/settings/event/68/message #266
 #. EventTrigger keksStart2 START IF tmp.raidStart && plot.line >= 42000
@@ -4588,7 +4589,7 @@ msgstr ""
 #: data/maps/autumn-fall/raid/raid-01.json+entities/305/settings/event/68/message+%23266
 msgctxt "data/maps/autumn-fall/raid/raid-01.json//entities/305/settings/event/68/message"
 msgid "What's a column tackler?"
-msgstr ""
+msgstr "¿Qué es un pilar derribador?"
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/305/settings/event/71/message #267
 #. EventTrigger keksStart2 START IF tmp.raidStart && plot.line >= 42000
@@ -4596,7 +4597,7 @@ msgstr ""
 #: data/maps/autumn-fall/raid/raid-01.json+entities/305/settings/event/71/message+%23267
 msgctxt "data/maps/autumn-fall/raid/raid-01.json//entities/305/settings/event/71/message"
 msgid "It's easy!"
-msgstr ""
+msgstr "¡Simple!"
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/305/settings/event/73/message #268
 #. EventTrigger keksStart2 START IF tmp.raidStart && plot.line >= 42000
@@ -4604,7 +4605,7 @@ msgstr ""
 #: data/maps/autumn-fall/raid/raid-01.json+entities/305/settings/event/73/message+%23268
 msgctxt "data/maps/autumn-fall/raid/raid-01.json//entities/305/settings/event/73/message"
 msgid "Lea will hit things first and then we hit them as well!"
-msgstr ""
+msgstr "¡Lea atacará primero y luego nosotros!"
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/305/settings/event/74/message #269
 #. EventTrigger keksStart2 START IF tmp.raidStart && plot.line >= 42000
@@ -4612,7 +4613,7 @@ msgstr ""
 #: data/maps/autumn-fall/raid/raid-01.json+entities/305/settings/event/74/message+%23269
 msgctxt "data/maps/autumn-fall/raid/raid-01.json//entities/305/settings/event/74/message"
 msgid "Alright..."
-msgstr ""
+msgstr "Está bien..."
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/305/settings/event/80/message #240
 #. EventTrigger keksStart2 START IF tmp.raidStart && plot.line >= 42000
@@ -4620,7 +4621,7 @@ msgstr ""
 #: data/maps/autumn-fall/raid/raid-01.json+entities/305/settings/event/80/message+%23240
 msgctxt "data/maps/autumn-fall/raid/raid-01.json//entities/305/settings/event/80/message"
 msgid "Is everyone ready?"
-msgstr ""
+msgstr "¿Están todos listos?"
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/305/settings/event/82/message #241
 #. EventTrigger keksStart2 START IF tmp.raidStart && plot.line >= 42000
@@ -4636,7 +4637,7 @@ msgstr "[asiente]"
 #: data/maps/autumn-fall/raid/raid-01.json+entities/305/settings/event/84/message+%23242
 msgctxt "data/maps/autumn-fall/raid/raid-01.json//entities/305/settings/event/84/message"
 msgid "I guess..."
-msgstr ""
+msgstr "Supongo..."
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/305/settings/event/86/message #243
 #. EventTrigger keksStart2 START IF tmp.raidStart && plot.line >= 42000
@@ -4644,7 +4645,7 @@ msgstr ""
 #: data/maps/autumn-fall/raid/raid-01.json+entities/305/settings/event/86/message+%23243
 msgctxt "data/maps/autumn-fall/raid/raid-01.json//entities/305/settings/event/86/message"
 msgid "Japp!"
-msgstr ""
+msgstr "¡Japp!"
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/305/settings/event/88/message #244
 #. EventTrigger keksStart2 START IF tmp.raidStart && plot.line >= 42000
@@ -4652,7 +4653,7 @@ msgstr ""
 #: data/maps/autumn-fall/raid/raid-01.json+entities/305/settings/event/88/message+%23244
 msgctxt "data/maps/autumn-fall/raid/raid-01.json//entities/305/settings/event/88/message"
 msgid "Yes, Ma'am!"
-msgstr ""
+msgstr "¡Sí, Señorita!"
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/305/settings/event/90/message #245
 #. EventTrigger keksStart2 START IF tmp.raidStart && plot.line >= 42000
@@ -4660,7 +4661,7 @@ msgstr ""
 #: data/maps/autumn-fall/raid/raid-01.json+entities/305/settings/event/90/message+%23245
 msgctxt "data/maps/autumn-fall/raid/raid-01.json//entities/305/settings/event/90/message"
 msgid "Time to finish this!!"
-msgstr ""
+msgstr "¡Es hora de acabar con esto!"
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/305/settings/event/95/message #246
 #. EventTrigger keksStart2 START IF tmp.raidStart && plot.line >= 42000
@@ -4668,7 +4669,7 @@ msgstr ""
 #: data/maps/autumn-fall/raid/raid-01.json+entities/305/settings/event/95/message+%23246
 msgctxt "data/maps/autumn-fall/raid/raid-01.json//entities/305/settings/event/95/message"
 msgid "Alrighty!\\. Get ready, everyone!\\. Column tacklers first, step on those marks on the ground!"
-msgstr ""
+msgstr "¡Está bien!\\. ¡Prepárense!\\. ¡Primero, que los pilares derribadores se paren en esos marcadores del suelo!"
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/305/settings/event/109/text #247
 #. EventTrigger keksStart2 START IF tmp.raidStart && plot.line >= 42000
@@ -4676,7 +4677,7 @@ msgstr ""
 #: data/maps/autumn-fall/raid/raid-01.json+entities/305/settings/event/109/text+%23247
 msgctxt "data/maps/autumn-fall/raid/raid-01.json//entities/305/settings/event/109/text"
 msgid "Setup Column Tackler"
-msgstr ""
+msgstr "Prepárate, Pilar Derribador"
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/305/settings/event/110/text #248
 #. EventTrigger keksStart2 START IF tmp.raidStart && plot.line >= 42000
@@ -4684,7 +4685,7 @@ msgstr ""
 #: data/maps/autumn-fall/raid/raid-01.json+entities/305/settings/event/110/text+%23248
 msgctxt "data/maps/autumn-fall/raid/raid-01.json//entities/305/settings/event/110/text"
 msgid "Setup Column Tackler"
-msgstr ""
+msgstr "Prepárate, Pilar Derribador"
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/305/settings/event/135/thenStep/1/text #271
 #. EventTrigger keksStart2 START IF tmp.raidStart && plot.line >= 42000
@@ -4698,6 +4699,10 @@ msgid ""
 "\n"
 "Note: During the raid a small argument rises between Luke and Schneider that is revolved towards the end."
 msgstr ""
+"La Raid aún no está completa.\n"
+"¡La Historia ahora comenzará de nuevo después de la raid!\n"
+"\n"
+"Nota: Durante la raid, Luke y Schneider tienen una pequeña discusión cerca del final."
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/305/settings/event/135/elseStep/2/task #249
 #. EventTrigger keksStart2 START IF tmp.raidStart && plot.line >= 42000
@@ -4706,14 +4711,14 @@ msgstr ""
 #: data/maps/autumn-fall/raid/raid-01.json+entities/305/settings/event/135/elseStep/2/task+%23249
 msgctxt "data/maps/autumn-fall/raid/raid-01.json//entities/305/settings/event/135/elseStep/2/task"
 msgid "Complete the \\c[3]raid\\c[0] together with the other First Scholar members!"
-msgstr ""
+msgstr "¡Completa la \\c[3]raid\\c[0] junto con los otros miembros de los Primeros Eruditos!"
 
 #. data/maps/autumn-fall/raid/raid-01.json entities/306/settings/teleportLabel #292
 #. TeleportField raidEnd SPAWN IF plot.line >= 43000
 #: data/maps/autumn-fall/raid/raid-01.json+entities/306/settings/teleportLabel+%23292
 msgctxt "data/maps/autumn-fall/raid/raid-01.json//entities/306/settings/teleportLabel"
 msgid "To Para Island Vista"
-msgstr ""
+msgstr "Hacia el Panorama de la Isla Apartada"
 
 #. data/maps/autumn-fall/raid/raid-02.json entities/16/settings/event/15/message #11
 #. EventTrigger battleAStart START IF tmp.battleAStart
@@ -4875,7 +4880,7 @@ msgstr "¡A la siguiente etapa, todos!"
 #: data/maps/autumn-fall/raid/raid-02.json+entities/494/settings/event/15/message+%2322
 msgctxt "data/maps/autumn-fall/raid/raid-02.json//entities/494/settings/event/15/message"
 msgid "Let's gooo~"
-msgstr ""
+msgstr "¡Vamooos!"
 
 #. data/maps/autumn-fall/raid/raid-02.json entities/494/settings/event/16/message #45
 #. EventTrigger battleAStartRight START IF tmp.battleAStartRight
@@ -4883,7 +4888,7 @@ msgstr ""
 #: data/maps/autumn-fall/raid/raid-02.json+entities/494/settings/event/16/message+%2345
 msgctxt "data/maps/autumn-fall/raid/raid-02.json//entities/494/settings/event/16/message"
 msgid "Whooo~"
-msgstr ""
+msgstr "Wooo"
 
 #. data/maps/autumn-fall/raid/raid-02.json entities/504/settings/event/5/message #23
 #. EventTrigger waveA3Right START IF tmp.kills1Right >= 5
