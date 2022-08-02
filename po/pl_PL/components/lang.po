@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-08-02 17:41+0000\n"
+"PO-Revision-Date: 2022-08-02 18:15+0000\n"
 "Last-Translator: MoltenCoreDev <molters.tv@gmail.com>\n"
 "Language-Team: Polish <https://weblate.openkrosskod.org/projects/crosscode/lang/pl/>\n"
 "Language: pl_PL\n"
@@ -732,7 +732,7 @@ msgstr "Bonusowe Punkty"
 #: data/lang/sc/gui.en_US.json+labels/arena/menu/notCleared+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/menu/notCleared"
 msgid "Not Cleared"
-msgstr ""
+msgstr "Nie pokonano"
 
 #. data/lang/sc/gui.en_US.json labels/arena/menu/rounds #0
 #: data/lang/sc/gui.en_US.json+labels/arena/menu/rounds+%230
@@ -768,13 +768,13 @@ msgstr "Nie Wybrano Rundy"
 #: data/lang/sc/gui.en_US.json+labels/arena/menu/totalPoints+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/menu/totalPoints"
 msgid "Arena Coins"
-msgstr ""
+msgstr "Monety Areny"
 
 #. data/lang/sc/gui.en_US.json labels/arena/menu/roundUnlockCond #0
 #: data/lang/sc/gui.en_US.json+labels/arena/menu/roundUnlockCond+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/menu/roundUnlockCond"
 msgid "Clear the previous round to unlock this round."
-msgstr ""
+msgstr "Pokonaj poprzednią rundę aby odblokować tą."
 
 #. data/lang/sc/gui.en_US.json labels/dlc/abr #0
 #: data/lang/sc/gui.en_US.json+labels/dlc/abr+%230
@@ -846,7 +846,7 @@ msgstr "Wymiana"
 #: data/lang/sc/gui.en_US.json+labels/trade/nothing+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/nothing"
 msgid "select equipment to compare"
-msgstr ""
+msgstr "wybierz wyposażenie do porównania"
 
 #. data/lang/sc/gui.en_US.json labels/trade/for #0
 #: data/lang/sc/gui.en_US.json+labels/trade/for+%230
@@ -870,7 +870,7 @@ msgstr "Oferta"
 #: data/lang/sc/gui.en_US.json+labels/trade/toggle+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/toggle"
 msgid "Compare To Equip"
-msgstr ""
+msgstr "Porównaj aby Użyć"
 
 #. data/lang/sc/gui.en_US.json labels/trade/toggleEnd #0
 #: data/lang/sc/gui.en_US.json+labels/trade/toggleEnd+%230
@@ -882,7 +882,7 @@ msgstr "Pokaż Statystyki"
 #: data/lang/sc/gui.en_US.json+labels/trade/toggleDes+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/toggleDes"
 msgid "Toggle to display the difference to the current equip or see the raw stats."
-msgstr ""
+msgstr "Przełącz aby wdizieć różnicę pomięcy obecnym przedmiotem lub zobaczyć statystyki."
 
 #. data/lang/sc/gui.en_US.json labels/trade/description #0
 #: data/lang/sc/gui.en_US.json+labels/trade/description+%230
@@ -894,7 +894,7 @@ msgstr "Naciśnij aby zainiciować wymianę!"
 #: data/lang/sc/gui.en_US.json+labels/trade/equipInfo+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/trade/equipInfo"
 msgid "One or more items you need are currently equipped! Unequip and proceed with the trade?"
-msgstr ""
+msgstr "Jeden lub więcej przedmiotów jest obecnie używanych! Zdjąć i kontynuować wymianę?"
 
 #. data/lang/sc/gui.en_US.json labels/trade/end #0
 #: data/lang/sc/gui.en_US.json+labels/trade/end+%230
@@ -964,9 +964,10 @@ msgstr "Bazowe Statystyki"
 
 #. data/lang/sc/gui.en_US.json labels/botanics/rate #0
 #: data/lang/sc/gui.en_US.json+labels/botanics/rate+%230
+#, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/botanics/rate"
 msgid "Drop Rate"
-msgstr ""
+msgstr "Szansa na Drop"
 
 #. data/lang/sc/gui.en_US.json labels/botanics/locText #0
 #: data/lang/sc/gui.en_US.json+labels/botanics/locText+%230
