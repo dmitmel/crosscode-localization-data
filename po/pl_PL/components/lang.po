@@ -3,15 +3,16 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"POT-Revision-Date: 2022-04-19 22:43+0000\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2022-08-02 17:41+0000\n"
+"Last-Translator: MoltenCoreDev <molters.tv@gmail.com>\n"
+"Language-Team: Polish <https://weblate.openkrosskod.org/projects/crosscode/lang/pl/>\n"
 "Language: pl_PL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0 (e2bc05b 2022-04-19)\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.5.3\n"
+"POT-Revision-Date: 2022-04-19 22:43+0000\n"
 
 #. data/lang/sc/gimmick.en_US.json labels/unknown #0
 #: data/lang/sc/gimmick.en_US.json+labels/unknown+%230
@@ -35,13 +36,13 @@ msgstr "Zadanie swiąteczne odblokowane! Znajdziesz je w Wiosce Bergen."
 #: data/lang/sc/gimmick.en_US.json+labels/caramelldansen+%230
 msgctxt "data/lang/sc/gimmick.en_US.json//labels/caramelldansen"
 msgid "Caramelldansen on idle activated!"
-msgstr ""
+msgstr "Caramelldansen w trakcie bezruchu włączony!"
 
 #. data/lang/sc/gimmick.en_US.json labels/caramelldansenRemove #0
 #: data/lang/sc/gimmick.en_US.json+labels/caramelldansenRemove+%230
 msgctxt "data/lang/sc/gimmick.en_US.json//labels/caramelldansenRemove"
 msgid "Caramelldansen on idle deactivated!"
-msgstr ""
+msgstr "Caramelldansen w trakcie bezruchu wyłączony!"
 
 #. data/lang/sc/gimmick.en_US.json labels/regularTrees #0
 #: data/lang/sc/gimmick.en_US.json+labels/regularTrees+%230
@@ -89,7 +90,7 @@ msgstr "Wyłączono"
 #: data/lang/sc/gui.en_US.json+labels/arena/arenaName+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/arenaName"
 msgid "Rhombus Arena"
-msgstr ""
+msgstr "Arena Rhombus'a"
 
 #. data/lang/sc/gui.en_US.json labels/arena/score #0
 #: data/lang/sc/gui.en_US.json+labels/arena/score+%230
@@ -239,7 +240,7 @@ msgstr "Wrócić do lobby?"
 #: data/lang/sc/gui.en_US.json+labels/arena/dialogs/restart+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/dialogs/restart"
 msgid "Restart the Cup at Round 1?"
-msgstr ""
+msgstr "Zrestartować turniej na rundzie 1.?"
 
 #. data/lang/sc/gui.en_US.json labels/arena/buttons/names/giveUp #0
 #: data/lang/sc/gui.en_US.json+labels/arena/buttons/names/giveUp+%230
@@ -275,7 +276,7 @@ msgstr "Podsumowanie"
 #: data/lang/sc/gui.en_US.json+labels/arena/buttons/names/restart+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/buttons/names/restart"
 msgid "Restart Cup"
-msgstr ""
+msgstr "Zrestartuj turniej"
 
 #. data/lang/sc/gui.en_US.json labels/arena/buttons/names/rush #0
 #: data/lang/sc/gui.en_US.json+labels/arena/buttons/names/rush+%230
@@ -305,7 +306,7 @@ msgstr "Powtórz obecną rundę."
 #: data/lang/sc/gui.en_US.json+labels/arena/buttons/description/nextRound+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/buttons/description/nextRound"
 msgid "Take on the next round in the cup."
-msgstr ""
+msgstr "Podejmij się następnego wyzwania w turnieju."
 
 #. data/lang/sc/gui.en_US.json labels/arena/buttons/description/return #0
 #: data/lang/sc/gui.en_US.json+labels/arena/buttons/description/return+%230
@@ -317,13 +318,13 @@ msgstr "Wróć do lobby."
 #: data/lang/sc/gui.en_US.json+labels/arena/buttons/description/summary+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/buttons/description/summary"
 msgid "Take a look at your trophy and your progress with all rounds in the cup."
-msgstr ""
+msgstr "Zobacz swój puchar i postęp z wszystkich rund turnieju."
 
 #. data/lang/sc/gui.en_US.json labels/arena/buttons/description/restart #0
 #: data/lang/sc/gui.en_US.json+labels/arena/buttons/description/restart+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/buttons/description/restart"
 msgid "Restart the cup from round 1."
-msgstr ""
+msgstr "Zacznij turniej od nowa od rundy 1."
 
 #. data/lang/sc/gui.en_US.json labels/arena/bonuses/HIT_COUNTER #0
 #: data/lang/sc/gui.en_US.json+labels/arena/bonuses/HIT_COUNTER+%230
@@ -401,13 +402,13 @@ msgstr "Rzucanie i sztuki Rzucania są wyłączone."
 #: data/lang/sc/gui.en_US.json+labels/arena/challenges/descriptions/NO_DASH+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/challenges/descriptions/NO_DASH"
 msgid "Dashing and Dash Arts are disabled."
-msgstr ""
+msgstr "Dashowanie i Sztuki Dasha są wyłączone."
 
 #. data/lang/sc/gui.en_US.json labels/arena/challenges/descriptions/NO_GUARD #0
 #: data/lang/sc/gui.en_US.json+labels/arena/challenges/descriptions/NO_GUARD+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/challenges/descriptions/NO_GUARD"
 msgid "Guarding and Guard Arts are disabled."
-msgstr ""
+msgstr "Garda i Sztuki Gardy są wyłączone."
 
 #. data/lang/sc/gui.en_US.json labels/arena/challenges/descriptions/NO_COMBAT_ARTS #0
 #: data/lang/sc/gui.en_US.json+labels/arena/challenges/descriptions/NO_COMBAT_ARTS+%230
@@ -437,19 +438,19 @@ msgstr "Regeneracja HP jest wyłączona."
 #: data/lang/sc/gui.en_US.json+labels/arena/challenges/descriptions/ENVIRO_HAZARD+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/challenges/descriptions/ENVIRO_HAZARD"
 msgid "This round contains environmental hazards."
-msgstr ""
+msgstr "Ta runda zawiera katastrofy żywiołowe."
 
 #. data/lang/sc/gui.en_US.json labels/arena/challenges/descriptions/PVP_BATTLE #0
 #: data/lang/sc/gui.en_US.json+labels/arena/challenges/descriptions/PVP_BATTLE+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/challenges/descriptions/PVP_BATTLE"
 msgid "PVP Combat - Penalty for taken damage is reduced."
-msgstr ""
+msgstr "Walka PVP - Kara za otrzymane obrażenia jest zmniejszona."
 
 #. data/lang/sc/gui.en_US.json labels/arena/scoreTypes/TARGET_KILL #0
 #: data/lang/sc/gui.en_US.json+labels/arena/scoreTypes/TARGET_KILL+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/scoreTypes/TARGET_KILL"
 msgid "Target Destroyed"
-msgstr ""
+msgstr "Cel Unicestwiony"
 
 #. data/lang/sc/gui.en_US.json labels/arena/scoreTypes/KILL #0
 #: data/lang/sc/gui.en_US.json+labels/arena/scoreTypes/KILL+%230
@@ -479,7 +480,7 @@ msgstr "Overkill"
 #: data/lang/sc/gui.en_US.json+labels/arena/scoreTypes/ENVIRONMENT_KILL+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/scoreTypes/ENVIRONMENT_KILL"
 msgid "Environment Kill"
-msgstr ""
+msgstr "Zabójstwo Żywiołowe"
 
 #. data/lang/sc/gui.en_US.json labels/arena/scoreTypes/DAMAGE_DONE #0
 #: data/lang/sc/gui.en_US.json+labels/arena/scoreTypes/DAMAGE_DONE+%230
@@ -599,7 +600,7 @@ msgstr "Prawdziwa Platyna"
 #: data/lang/sc/gui.en_US.json+labels/arena/medals/5+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/medals/5"
 msgid "Hi Modders! :)"
-msgstr ""
+msgstr "Co tam modderzy? :)"
 
 #. data/lang/sc/gui.en_US.json labels/arena/menu/trophy #0
 #: data/lang/sc/gui.en_US.json+labels/arena/menu/trophy+%230
@@ -695,7 +696,7 @@ msgstr "Cel"
 #: data/lang/sc/gui.en_US.json+labels/arena/menu/startRushMode+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/menu/startRushMode"
 msgid "Start \\c[3][CUP_NAME]\\c[0] in \\c[3]Rush Mode\\c[0]?"
-msgstr ""
+msgstr "Rozpocznij \\c[3][CUP_NAME]\\c[0] w \\c[3]Rush Mode\\c[0]?"
 
 #. data/lang/sc/gui.en_US.json labels/arena/menu/startAtRound #0
 #: data/lang/sc/gui.en_US.json+labels/arena/menu/startAtRound+%230
@@ -707,7 +708,7 @@ msgstr "Wystartować \\c[3][CUP_NAME]\\c[0] na \\c[3]Rundzie [ROUND_INDEX]\\c[0]
 #: data/lang/sc/gui.en_US.json+labels/arena/menu/objectiveRushMode+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/menu/objectiveRushMode"
 msgid "Clear every round \\c[3]without stopping\\c[0] and only \\c[3]regenerate 50% of your health between rounds.\\c[0]"
-msgstr ""
+msgstr "Pokonaj każdą rundę \\c[3]bez zatrzymywania się\\c[0] i tylko \\c[3]zregeneruj 50% swojego zdrowia pomiędzy rundami.\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/arena/menu/objectiveDefault #0
 #: data/lang/sc/gui.en_US.json+labels/arena/menu/objectiveDefault+%230
