@@ -3,15 +3,16 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"POT-Revision-Date: 2022-04-19 22:43+0000\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2022-08-04 08:30+0000\n"
+"Last-Translator: Bogdan <bbucko175@gmail.com>\n"
+"Language-Team: Ukrainian <https://weblate.openkrosskod.org/projects/crosscode/bergen-trail/uk/>\n"
 "Language: uk_UA\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0 (e2bc05b 2022-04-19)\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.5.3\n"
+"POT-Revision-Date: 2022-04-19 22:43+0000\n"
 
 #. data/maps/bergen-trail/cave/cave-08-smith.json entities/12/settings/interact/hoverText #1
 #. Prop SPAWN IF quest.oldman-drill.currentTask >= 3
@@ -2446,7 +2447,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/427/settings/dialog/0/text+%237
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/427/settings/dialog/0/text"
 msgid "Did you notice how they removed the meeting place here?"
-msgstr ""
+msgstr "Ви помітили, що вони прибрали звідси місце зустрічі?"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/427/settings/dialog/1/text #8
 #. XenoDialog Why
@@ -2454,7 +2455,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/427/settings/dialog/1/text+%238
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/427/settings/dialog/1/text"
 msgid "Yeah, Patch notes said it's for some bigger update soon."
-msgstr ""
+msgstr "Так, у записках розробників сказано, що найближчим часом будуть великі оновлення."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/427/settings/dialog/2/text #9
 #. XenoDialog Why
@@ -2462,7 +2463,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/427/settings/dialog/2/text+%239
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/427/settings/dialog/2/text"
 msgid "Ha, \"soon\" probably means \"Not this month\". "
-msgstr ""
+msgstr "Ха, \"найближчий час\", швидше за все, означає \"не цього місяця\". "
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/427/settings/dialog/3/text #27
 #. XenoDialog Why
@@ -2470,7 +2471,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/427/settings/dialog/3/text+%2327
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/427/settings/dialog/3/text"
 msgid "Yep."
-msgstr ""
+msgstr "Ага."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/427/settings/dialog/4/text #28
 #. XenoDialog Why
@@ -2478,21 +2479,21 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/427/settings/dialog/4/text+%2328
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/427/settings/dialog/4/text"
 msgid "True that."
-msgstr ""
+msgstr "Це точно."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/437/settings/analyzable/text #526
 #. NPC ironMailGirl
 #: data/maps/bergen-trail/path-1-entrance.json+entities/437/settings/analyzable/text+%23526
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/437/settings/analyzable/text"
 msgid "Megan98"
-msgstr ""
+msgstr "Megan98"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/437/settings/displayName #393
 #. NPC ironMailGirl
 #: data/maps/bergen-trail/path-1-entrance.json+entities/437/settings/displayName+%23393
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/437/settings/displayName"
 msgid "Megan98"
-msgstr ""
+msgstr "Megan98"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/437/settings/npcStates/0/event/quest/2/message #10
 #. NPC ironMailGirl
@@ -2501,7 +2502,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/437/settings/npcStates/0/event/quest/2/message+%2310
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/437/settings/npcStates/0/event/quest/2/message"
 msgid "Uhm...\\. Hiyah!"
-msgstr ""
+msgstr "Гмм...\\. Хай!"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/437/settings/npcStates/0/event/quest/3/message #29
 #. NPC ironMailGirl
@@ -2510,7 +2511,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/437/settings/npcStates/0/event/quest/3/message+%2329
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/437/settings/npcStates/0/event/quest/3/message"
 msgid "Hi!"
-msgstr ""
+msgstr "Привіт!"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/437/settings/npcStates/0/event/quest/4/message #30
 #. NPC ironMailGirl
@@ -2519,7 +2520,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/437/settings/npcStates/0/event/quest/4/message+%2330
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/437/settings/npcStates/0/event/quest/4/message"
 msgid "Are you...\\. a new player too?"
-msgstr ""
+msgstr "Ти...\\. теж новий гравець?"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/437/settings/npcStates/0/event/quest/5/message #31
 #. NPC ironMailGirl
@@ -2528,7 +2529,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/437/settings/npcStates/0/event/quest/5/message+%2331
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/437/settings/npcStates/0/event/quest/5/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[киває]"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/437/settings/npcStates/0/event/quest/6/message #32
 #. NPC ironMailGirl
@@ -2537,7 +2538,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/437/settings/npcStates/0/event/quest/6/message+%2332
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/437/settings/npcStates/0/event/quest/6/message"
 msgid "Great! ...\\. I mean uh...\\. Could you help me with something?"
-msgstr ""
+msgstr "Чудово! ...\\. Я маю на увазі, е-е...\\. Не могла б ти мені допомогти?"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/437/settings/npcStates/0/event/quest/7/message #33
 #. NPC ironMailGirl
@@ -2546,7 +2547,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/437/settings/npcStates/0/event/quest/7/message+%2333
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/437/settings/npcStates/0/event/quest/7/message"
 msgid "See...\\. I need equipment...\\. A \\c[3]\\v[item.30.name]\\c[0]."
-msgstr ""
+msgstr "Розумієш...\\. Мені потрібне екіпірування...\\. \\c[3]\\v[item.30.name]\\c[0]."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/437/settings/npcStates/0/event/quest/8/message #34
 #. NPC ironMailGirl
@@ -2555,7 +2556,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/437/settings/npcStates/0/event/quest/8/message+%2334
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/437/settings/npcStates/0/event/quest/8/message"
 msgid "They offer it in the armory of R-\\.\\c[3]Rookie Harbor\\c[0]..."
-msgstr ""
+msgstr "Вони продають її в збройовій Г-\\.\\c[3]Гавані новачків\\c[0]..."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/437/settings/npcStates/0/event/quest/9/message #35
 #. NPC ironMailGirl
@@ -2564,7 +2565,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/437/settings/npcStates/0/event/quest/9/message+%2335
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/437/settings/npcStates/0/event/quest/9/message"
 msgid "I'd teleport back to the city and buy it myself...\\. but...\\. see..."
-msgstr ""
+msgstr "Я могла б будь-якої миті телепортуватися в місто і купити сама.... але...\\. розумієш..."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/437/settings/npcStates/0/event/quest/10/message #36
 #. NPC ironMailGirl
@@ -2573,7 +2574,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/437/settings/npcStates/0/event/quest/10/message+%2336
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/437/settings/npcStates/0/event/quest/10/message"
 msgid "...?"
-msgstr ""
+msgstr "...?"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/437/settings/npcStates/0/event/quest/11/message #37
 #. NPC ironMailGirl
@@ -2582,7 +2583,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/437/settings/npcStates/0/event/quest/11/message+%2337
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/437/settings/npcStates/0/event/quest/11/message"
 msgid "I hate towns!\\. They're always so crowded!\\. So many people, signs and noises!\\. I-\\.I can't take it..."
-msgstr ""
+msgstr "Я ненавиджу міста!\\. Вони завжди такі людні!\\. Стільки людей, вивісок та шумів!\\. Я-\\.Я не винесу цього..."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/437/settings/npcStates/0/event/quest/12/message #38
 #. NPC ironMailGirl
@@ -2591,7 +2592,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/437/settings/npcStates/0/event/quest/12/message+%2338
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/437/settings/npcStates/0/event/quest/12/message"
 msgid "So uh...\\. Could you please buy a \\c[3]\\v[item.30.name]\\c[0] for me in Rookie Harbor?"
-msgstr ""
+msgstr "Тож е...\\. Не могла б ти, будь ласка, купити \\c[3]Бронзову кольчугу\\c[0] для мене в Гавані новачків?"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/437/settings/npcStates/0/event/quest/13/message #39
 #. NPC ironMailGirl
@@ -2600,7 +2601,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/437/settings/npcStates/0/event/quest/13/message+%2339
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/437/settings/npcStates/0/event/quest/13/message"
 msgid "O-\\.Of course I'll pay you back...\\. So...\\. uhm...\\. pretty please?"
-msgstr ""
+msgstr "З-\\.Звичайно, я поверну тобі гроші...\\. Так...\\. хм...\\. ну, будь ласка?"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/437/settings/npcStates/0/event/quest/14/accepted/0/message #40
 #. NPC ironMailGirl
@@ -2610,7 +2611,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/437/settings/npcStates/0/event/quest/14/accepted/0/message+%2340
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/437/settings/npcStates/0/event/quest/14/accepted/0/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[киває]"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/437/settings/npcStates/0/event/quest/14/accepted/1/message #41
 #. NPC ironMailGirl
@@ -2620,7 +2621,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/437/settings/npcStates/0/event/quest/14/accepted/1/message+%2341
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/437/settings/npcStates/0/event/quest/14/accepted/1/message"
 msgid "...T-\\.Thanks! You're a lifesaver!"
-msgstr ""
+msgstr "...С-\\.Спасибі! Ти моя рятівниця!"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/437/settings/npcStates/0/event/quest/14/accepted/2/message #42
 #. NPC ironMailGirl
@@ -2630,7 +2631,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/437/settings/npcStates/0/event/quest/14/accepted/2/message+%2342
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/437/settings/npcStates/0/event/quest/14/accepted/2/message"
 msgid "I'll wait here for you!"
-msgstr ""
+msgstr "Я чекатиму на тебе тут!"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/437/settings/npcStates/0/event/quest/14/declined/0/message #43
 #. NPC ironMailGirl
@@ -2640,7 +2641,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/437/settings/npcStates/0/event/quest/14/declined/0/message+%2343
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/437/settings/npcStates/0/event/quest/14/declined/0/message"
 msgid "[shakes head]"
-msgstr ""
+msgstr "[махає головою]"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/437/settings/npcStates/0/event/quest/14/declined/1/message #44
 #. NPC ironMailGirl
@@ -2650,7 +2651,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/437/settings/npcStates/0/event/quest/14/declined/1/message+%2344
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/437/settings/npcStates/0/event/quest/14/declined/1/message"
 msgid "... I see.\\. S-\\.Sorry for asking!"
-msgstr ""
+msgstr "...Розумію. П-\\.Пробач за таке прохання!"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/437/settings/npcStates/1/event/2/message #52
 #. NPC ironMailGirl
@@ -2659,7 +2660,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/437/settings/npcStates/1/event/2/message+%2352
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/437/settings/npcStates/1/event/2/message"
 msgid "P-\\.Please buy me that \\c[3]\\v[item.30.name]\\c[0] from the armory in Rookie Harbor."
-msgstr ""
+msgstr "Б-\\.Будь ласка, купи мені \\c[3]Бронзову кольчугу\\c[0] зі збройової в Гавані новачків."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/437/settings/npcStates/1/event/3/message #54
 #. NPC ironMailGirl
@@ -2668,7 +2669,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/437/settings/npcStates/1/event/3/message+%2354
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/437/settings/npcStates/1/event/3/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[киває]"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/437/settings/npcStates/2/event/quest/2/message #55
 #. NPC ironMailGirl
@@ -2677,7 +2678,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/437/settings/npcStates/2/event/quest/2/message+%2355
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/437/settings/npcStates/2/event/quest/2/message"
 msgid "Hiyah!"
-msgstr ""
+msgstr "Хай!"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/437/settings/npcStates/2/event/quest/3/message #46
 #. NPC ironMailGirl
@@ -2686,7 +2687,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/437/settings/npcStates/2/event/quest/3/message+%2346
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/437/settings/npcStates/2/event/quest/3/message"
 msgid "...Oh!\\. I-\\.Is that the \\c[3]\\v[item.30.name]\\c[0] you bought for me?"
-msgstr ""
+msgstr "...Ой!\\. Ц-\\\\.Це ж \\c[3]\\v[item.30.name]\\c[0], яку ти купила для мене?"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/437/settings/npcStates/2/event/quest/4/message #47
 #. NPC ironMailGirl
@@ -2695,7 +2696,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/437/settings/npcStates/2/event/quest/4/message+%2347
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/437/settings/npcStates/2/event/quest/4/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[киває]"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/437/settings/npcStates/2/event/quest/5/message #48
 #. NPC ironMailGirl
@@ -2704,7 +2705,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/437/settings/npcStates/2/event/quest/5/message+%2348
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/437/settings/npcStates/2/event/quest/5/message"
 msgid "T-\\.Thank you so much!"
-msgstr ""
+msgstr "Д-\\.Дуже тобі дякую!"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/437/settings/npcStates/2/event/quest/6/message #49
 #. NPC ironMailGirl
@@ -2713,7 +2714,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/437/settings/npcStates/2/event/quest/6/message+%2349
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/437/settings/npcStates/2/event/quest/6/message"
 msgid "Here, I'll pay you back the price!\\. P-\\.Plus some extra!"
-msgstr ""
+msgstr "Ось, я повертаю тобі гроші!\\. П-\\.Плюс невеликий бонус!"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/437/settings/npcStates/2/event/quest/7/message #50
 #. NPC ironMailGirl
@@ -2722,7 +2723,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/437/settings/npcStates/2/event/quest/7/message+%2350
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/437/settings/npcStates/2/event/quest/7/message"
 msgid "A-\\.And also some items I found in Bergen Trail!\\. It's not much, but maybe you can use it..."
-msgstr ""
+msgstr "І-\\.І ще кілька предметів, які я знайшла на Стежці в Берген!\\. Це небагато, але, можливо, ти знайдеш ним застосування..."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/437/settings/npcStates/2/event/quest/8/message #51
 #. NPC ironMailGirl
@@ -2731,7 +2732,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/437/settings/npcStates/2/event/quest/8/message+%2351
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/437/settings/npcStates/2/event/quest/8/message"
 msgid "I g-\\.gotta go now!\\. Thanks again!"
-msgstr ""
+msgstr "М-\\.Мені треба йти!\\. Ще раз дякую!"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/454/settings/npcStates/0/event/2/message #236
 #. NPC
@@ -2739,7 +2740,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/454/settings/npcStates/0/event/2/message+%23236
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/454/settings/npcStates/0/event/2/message"
 msgid "W... W... Welcome to Bergen Trail!"
-msgstr ""
+msgstr "Л... Л... Ласкаво просимо на Стежку в Берген!"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/454/settings/npcStates/0/event/3/message #237
 #. NPC
@@ -2747,7 +2748,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/454/settings/npcStates/0/event/3/message+%23237
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/454/settings/npcStates/0/event/3/message"
 msgid "...?"
-msgstr ""
+msgstr "...?"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/454/settings/npcStates/0/event/4/message #238
 #. NPC
@@ -2755,7 +2756,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/454/settings/npcStates/0/event/4/message+%23238
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/454/settings/npcStates/0/event/4/message"
 msgid "Puh... Apologies my lady. I just came down from \\c[3]Bergen\\c[0]."
-msgstr ""
+msgstr "Фух... Перепрошую, леді. Я щойно спустився з \\c[3]Бергена\\c[0]."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/454/settings/npcStates/0/event/5/message #239
 #. NPC
@@ -2763,7 +2764,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/454/settings/npcStates/0/event/5/message+%23239
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/454/settings/npcStates/0/event/5/message"
 msgid "They say: \"Down is the easy way\"."
-msgstr ""
+msgstr "Вони кажуть: \"Вниз - це легко\"."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/454/settings/npcStates/0/event/6/message #240
 #. NPC
@@ -2771,7 +2772,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/454/settings/npcStates/0/event/6/message+%23240
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/454/settings/npcStates/0/event/6/message"
 msgid "At my age, neither way is the easy way."
-msgstr ""
+msgstr "У мої роки будь-який шлях нелегкий."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/454/settings/npcStates/0/event/7/message #241
 #. NPC
@@ -2779,7 +2780,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/454/settings/npcStates/0/event/7/message+%23241
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/454/settings/npcStates/0/event/7/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/455/settings/displayName #392
 #. NPC Jean
@@ -4125,7 +4126,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/469/settings/event/12/message+%2387
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/469/settings/event/12/message"
 msgid "\\c[3]Bergen Trail\\c[0], here we are!"
-msgstr ""
+msgstr "\\c[3]Стежка в Берген\\c[0], ось ми й тут!"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/469/settings/event/19/message #394
 #. EventTrigger HereComesApollo START IF party.has.Emilie
@@ -4133,7 +4134,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/469/settings/event/19/message+%23394
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/469/settings/event/19/message"
 msgid "So where is Monsieur Grasshead? Don't tell me he's late...\\."
-msgstr ""
+msgstr "Ну і де ж мосьє Травоголовий? Тільки не кажи мені, що він спізнюється...."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/469/settings/event/20/message #395
 #. EventTrigger HereComesApollo START IF party.has.Emilie
@@ -4141,7 +4142,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/469/settings/event/20/message+%23395
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/469/settings/event/20/message"
 msgid "Blue-haired Spheromancer!"
-msgstr ""
+msgstr "Синьоволосий сферомант!"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/469/settings/event/24/message #396
 #. EventTrigger HereComesApollo START IF party.has.Emilie
@@ -4149,7 +4150,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/469/settings/event/24/message+%23396
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/469/settings/event/24/message"
 msgid "Finally, you've arrived!"
-msgstr ""
+msgstr "Нарешті ти прийшла!"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/469/settings/event/35/message #397
 #. EventTrigger HereComesApollo START IF party.has.Emilie
@@ -4157,7 +4158,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/469/settings/event/35/message+%23397
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/469/settings/event/35/message"
 msgid "It is time for our duel!"
-msgstr ""
+msgstr "Настав час для нашої дуелі!"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/469/settings/event/36/message #398
 #. EventTrigger HereComesApollo START IF party.has.Emilie
@@ -4165,7 +4166,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/469/settings/event/36/message+%23398
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/469/settings/event/36/message"
 msgid "As for the location, this place here is just perfect."
-msgstr ""
+msgstr "Говорячи про місце, ця галявина ідеально підійде."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/469/settings/event/37/message #399
 #. EventTrigger HereComesApollo START IF party.has.Emilie
@@ -4173,7 +4174,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/469/settings/event/37/message+%23399
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/469/settings/event/37/message"
 msgid "Isn't it kinda crowded here?"
-msgstr ""
+msgstr "Хіба тут не занадто людно?"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/469/settings/event/38/message #400
 #. EventTrigger HereComesApollo START IF party.has.Emilie
@@ -4181,7 +4182,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/469/settings/event/38/message+%23400
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/469/settings/event/38/message"
 msgid "Why, that's exactly the point!"
-msgstr ""
+msgstr "Так, саме в цьому весь сенс!"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/469/settings/event/39/message #401
 #. EventTrigger HereComesApollo START IF party.has.Emilie
@@ -4189,7 +4190,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/469/settings/event/39/message+%23401
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/469/settings/event/39/message"
 msgid "People should witness the grace of the Spheromancer's fighting style!"
-msgstr ""
+msgstr "Люди повинні побачити витонченість стилю бою сферомантів!"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/469/settings/event/40/message #402
 #. EventTrigger HereComesApollo START IF party.has.Emilie
@@ -4197,7 +4198,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/469/settings/event/40/message+%23402
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/469/settings/event/40/message"
 msgid "...!"
-msgstr ""
+msgstr "...!"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/469/settings/event/41/message #403
 #. EventTrigger HereComesApollo START IF party.has.Emilie
@@ -4205,7 +4206,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/469/settings/event/41/message+%23403
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/469/settings/event/41/message"
 msgid "I see..."
-msgstr ""
+msgstr "Зрозуміло..."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/469/settings/event/42/message #404
 #. EventTrigger HereComesApollo START IF party.has.Emilie
@@ -4213,7 +4214,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/469/settings/event/42/message+%23404
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/469/settings/event/42/message"
 msgid "Now, there is no reason to rush."
-msgstr ""
+msgstr "Однак нам нема чого поспішати."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/469/settings/event/44/message #405
 #. EventTrigger HereComesApollo START IF party.has.Emilie
@@ -4221,7 +4222,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/469/settings/event/44/message+%23405
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/469/settings/event/44/message"
 msgid "Prepare yourself and tell me when you're ready to start."
-msgstr ""
+msgstr "Підготуйся і скажи мені, коли будеш готова почати."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/469/settings/event/45/thenStep/0/message #575
 #. EventTrigger HereComesApollo START IF party.has.Emilie
@@ -4230,7 +4231,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/469/settings/event/45/thenStep/0/message+%23575
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/469/settings/event/45/thenStep/0/message"
 msgid "Though I hardly believe there is any reason for you to prepare with \\c[1]your kind of level\\c[0]."
-msgstr ""
+msgstr "Хоча я з важкістю вірю, що в тебе є причина готуватися з \\c[1]твоїм же рівнем\\c[0]."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/469/settings/event/45/thenStep/2/message #576
 #. EventTrigger HereComesApollo START IF party.has.Emilie
@@ -4239,7 +4240,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/469/settings/event/45/thenStep/2/message+%23576
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/469/settings/event/45/thenStep/2/message"
 msgid "Damn straight!\\. We'll serve you the beating of a lifetime!"
-msgstr ""
+msgstr "Страшенно правильно!\\. Ми дамо такого прочухана, що запам'ятаєш на все життя!"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/469/settings/event/45/elseStep/0/message #406
 #. EventTrigger HereComesApollo START IF party.has.Emilie
@@ -4248,7 +4249,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/469/settings/event/45/elseStep/0/message+%23406
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/469/settings/event/45/elseStep/0/message"
 msgid "And don't even think about chickening out."
-msgstr ""
+msgstr "І навіть не думай боягузливо втекти!"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/469/settings/event/45/elseStep/2/message #407
 #. EventTrigger HereComesApollo START IF party.has.Emilie
@@ -4257,7 +4258,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/469/settings/event/45/elseStep/2/message+%23407
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/469/settings/event/45/elseStep/2/message"
 msgid "Hell no! We're gonna show you!"
-msgstr ""
+msgstr "Ну ж ні! Ми тобі покажемо!"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/469/settings/event/46/message #408
 #. EventTrigger HereComesApollo START IF party.has.Emilie
@@ -4265,7 +4266,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/469/settings/event/46/message+%23408
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/469/settings/event/46/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/469/settings/event/47/message #409
 #. EventTrigger HereComesApollo START IF party.has.Emilie
@@ -4273,7 +4274,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/469/settings/event/47/message+%23409
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/469/settings/event/47/message"
 msgid "Must I remind you of the definition of a duel?"
-msgstr ""
+msgstr "Мені нагадати тобі, як проводиться дуель?"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/469/settings/event/48/message #410
 #. EventTrigger HereComesApollo START IF party.has.Emilie
@@ -4281,7 +4282,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/469/settings/event/48/message+%23410
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/469/settings/event/48/message"
 msgid "It's Spheromancer versus Spheromancer."
-msgstr ""
+msgstr "Сферомант проти Сфероманта."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/469/settings/event/49/message #411
 #. EventTrigger HereComesApollo START IF party.has.Emilie
@@ -4289,7 +4290,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/469/settings/event/49/message+%23411
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/469/settings/event/49/message"
 msgid "No Pentafist."
-msgstr ""
+msgstr "Жодних пентафістів."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/469/settings/event/50/message #412
 #. EventTrigger HereComesApollo START IF party.has.Emilie
@@ -4297,7 +4298,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/469/settings/event/50/message+%23412
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/469/settings/event/50/message"
 msgid "Oui, oui, I know!"
-msgstr ""
+msgstr "Oui, oui (Так-так), я знаю!"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/469/settings/event/51/message #413
 #. EventTrigger HereComesApollo START IF party.has.Emilie
@@ -4305,7 +4306,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/469/settings/event/51/message+%23413
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/469/settings/event/51/message"
 msgid "I'm gonna watch as Lea beats you up!"
-msgstr ""
+msgstr "Я буду спостерігати, як Лія вибиватиме з тебе дурість!"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/469/settings/event/52/message #414
 #. EventTrigger HereComesApollo START IF party.has.Emilie
@@ -4313,7 +4314,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/469/settings/event/52/message+%23414
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/469/settings/event/52/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/469/settings/event/53/message #415
 #. EventTrigger HereComesApollo START IF party.has.Emilie
@@ -4321,7 +4322,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/469/settings/event/53/message+%23415
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/469/settings/event/53/message"
 msgid "Anyway. Just talk to me when you're ready."
-msgstr ""
+msgstr "В будь-якому випадку. Просто поговори зі мною, коли будеш готова."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/2/thenStep/0/message #578
 #. NPC Apollo
@@ -4331,7 +4332,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/2/thenStep/0/message+%23578
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/2/thenStep/0/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/2/thenStep/1/message #577
 #. NPC Apollo
@@ -4341,7 +4342,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/2/thenStep/1/message+%23577
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/2/thenStep/1/message"
 msgid "Yes...\\. beating you with those \\c[1]stats\\c[0] will be very challenging."
-msgstr ""
+msgstr "Так...\\. Перемогти тебе з твоїми характеристиками буде досить складно."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/2/thenStep/2/message #416
 #. NPC Apollo
@@ -4351,7 +4352,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/2/thenStep/2/message+%23416
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/2/thenStep/2/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/2/thenStep/3/message #579
 #. NPC Apollo
@@ -4361,7 +4362,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/2/thenStep/3/message+%23579
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/2/thenStep/3/message"
 msgid "But I'll show you what a true Spheromancer is capable of!"
-msgstr ""
+msgstr "Але я покажу тобі, на що здатен справжній сферомант!"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/2/thenStep/4/message #580
 #. NPC Apollo
@@ -4371,7 +4372,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/2/thenStep/4/message+%23580
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/2/thenStep/4/message"
 msgid "...!"
-msgstr ""
+msgstr "...!"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/2/elseStep/0/thenStep/0/message #581
 #. NPC Apollo
@@ -4382,7 +4383,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/2/elseStep/0/thenStep/0/message+%23581
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/2/elseStep/0/thenStep/0/message"
 msgid "Hm...\\. Your \\c[3]stats seem rather low\\c[0]. I suggest you upgrade your \\c[3]circuits\\c[0] and \\c[3]equipment\\c[0] before the duel."
-msgstr ""
+msgstr "Хм...\\. Твої \\c[3]характеристики здаються досить низькими\\c[0]. Тобі варто було б покращити свої \\c[3]контури\\c[0] і \\c[3]екіпіровку\\c[0] до дуелі."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/2/elseStep/0/thenStep/1/message #506
 #. NPC Apollo
@@ -4393,7 +4394,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/2/elseStep/0/thenStep/1/message+%23506
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/2/elseStep/0/thenStep/1/message"
 msgid "You can still challenge with your current stats, but don't even think about using it as an excuse."
-msgstr ""
+msgstr "Можеш спробувати й з поточними характеристиками, але навіть не думай використати це як виправдання."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/2/elseStep/0/elseStep/0/thenStep/0/message #560
 #. NPC Apollo
@@ -4405,7 +4406,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/2/elseStep/0/elseStep/0/thenStep/0/message+%23560
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/2/elseStep/0/elseStep/0/thenStep/0/message"
 msgid "What."
-msgstr ""
+msgstr "Що."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/2/elseStep/0/elseStep/0/thenStep/1/message #561
 #. NPC Apollo
@@ -4417,7 +4418,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/2/elseStep/0/elseStep/0/thenStep/1/message+%23561
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/2/elseStep/0/elseStep/0/thenStep/1/message"
 msgid "What is the deal with your \\c[3]stats\\c[0]."
-msgstr ""
+msgstr "Що з твоїми \\c[3]характеристиками\\c[0]."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/2/elseStep/0/elseStep/0/thenStep/2/message #419
 #. NPC Apollo
@@ -4429,7 +4430,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/2/elseStep/0/elseStep/0/thenStep/2/message+%23419
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/2/elseStep/0/elseStep/0/thenStep/2/message"
 msgid "...!"
-msgstr ""
+msgstr "...!"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/2/elseStep/0/elseStep/0/thenStep/3/message #562
 #. NPC Apollo
@@ -4441,7 +4442,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/2/elseStep/0/elseStep/0/thenStep/3/message+%23562
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/2/elseStep/0/elseStep/0/thenStep/3/message"
 msgid "This explains why I waited for so long. You took your time to prepare."
-msgstr ""
+msgstr "Це пояснює, чому я чекав так довго. Ти добре скористалася своїм часом на підготовку."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/2/elseStep/0/elseStep/0/thenStep/4/message #563
 #. NPC Apollo
@@ -4453,7 +4454,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/2/elseStep/0/elseStep/0/thenStep/4/message+%23563
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/2/elseStep/0/elseStep/0/thenStep/4/message"
 msgid "Oh well, let's get this over with."
-msgstr ""
+msgstr "Ну, гаразд, покінчімо з цим."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/2/elseStep/0/elseStep/0/elseStep/0/thenStep/0/message #564
 #. NPC Apollo
@@ -4466,7 +4467,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/2/elseStep/0/elseStep/0/elseStep/0/thenStep/0/message+%23564
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/2/elseStep/0/elseStep/0/elseStep/0/thenStep/0/message"
 msgid "I see you worked hard!"
-msgstr ""
+msgstr "Бачу, що ти добре попрацювала!"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/2/elseStep/0/elseStep/0/elseStep/0/thenStep/1/message #565
 #. NPC Apollo
@@ -4479,7 +4480,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/2/elseStep/0/elseStep/0/elseStep/0/thenStep/1/message+%23565
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/2/elseStep/0/elseStep/0/elseStep/0/thenStep/1/message"
 msgid "Those are some \\c[3]excellent stats\\c[0]. This is going to be interesting!"
-msgstr ""
+msgstr "А в тебе досить \\c[3]непогані характеристики\\c[0]. Буде цікаво!"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/2/elseStep/0/elseStep/0/elseStep/0/elseStep/0/message #568
 #. NPC Apollo
@@ -4492,7 +4493,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/2/elseStep/0/elseStep/0/elseStep/0/elseStep/0/message+%23568
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/2/elseStep/0/elseStep/0/elseStep/0/elseStep/0/message"
 msgid "I see you are prepared."
-msgstr ""
+msgstr "Я бачу, ти підготувалася."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/3/message #507
 #. NPC Apollo
@@ -4501,7 +4502,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/3/message+%23507
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/3/message"
 msgid "Are you ready for the duel?"
-msgstr ""
+msgstr "Чи готова почати дуель?"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/4/0/2/message #566
 #. NPC Apollo
@@ -4511,7 +4512,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/4/0/2/message+%23566
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/4/0/2/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[киває]"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/4/0/4/message #420
 #. NPC Apollo
@@ -4521,7 +4522,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/4/0/4/message+%23420
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/4/0/4/message"
 msgid "Good."
-msgstr ""
+msgstr "Добре."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/4/0/7/message #421
 #. NPC Apollo
@@ -4531,7 +4532,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/4/0/7/message+%23421
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/4/0/7/message"
 msgid "Pentafist! It's time for you to step back."
-msgstr ""
+msgstr "Пентафіст! Настав час відійти вбік."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/4/0/8/message #422
 #. NPC Apollo
@@ -4541,7 +4542,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/4/0/8/message+%23422
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/4/0/8/message"
 msgid "Oui, oui."
-msgstr ""
+msgstr "Oui, oui (Так-так)."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/4/0/15/message #425
 #. NPC Apollo
@@ -4551,7 +4552,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/4/0/15/message+%23425
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/4/0/15/message"
 msgid "Get ready!"
-msgstr ""
+msgstr "Приготуйся!"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/4/0/22/message #426
 #. NPC Apollo
@@ -4561,7 +4562,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/4/0/22/message+%23426
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/4/0/22/message"
 msgid "PvP Combat, ACTIVATE!"
-msgstr ""
+msgstr "PvP Бій, АКТИВАЦІЯ!"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/4/0/37/message #427
 #. NPC Apollo
@@ -4571,7 +4572,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/4/0/37/message+%23427
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/4/0/37/message"
 msgid "...?"
-msgstr ""
+msgstr "...?"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/4/0/38/message #428
 #. NPC Apollo
@@ -4581,7 +4582,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/4/0/38/message+%23428
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/4/0/38/message"
 msgid "What is it? Is this your first PvP battle?"
-msgstr ""
+msgstr "Що таке? Це твоя перша PvP-битва?"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/4/0/39/message #429
 #. NPC Apollo
@@ -4591,7 +4592,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/4/0/39/message+%23429
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/4/0/39/message"
 msgid "[nods]"
-msgstr ""
+msgstr "[киває]"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/4/0/40/message #430
 #. NPC Apollo
@@ -4601,7 +4602,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/4/0/40/message+%23430
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/4/0/40/message"
 msgid "\\c[3]Player versus Player\\c[0]. It's simple."
-msgstr ""
+msgstr "\\c[3]Гравець проти гравця\\c[0]. Все просто."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/4/0/41/message #431
 #. NPC Apollo
@@ -4611,7 +4612,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/4/0/41/message+%23431
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/4/0/41/message"
 msgid "We fight several rounds.\\. \\c[3]5 out of 9\\c[0].\\. No items.\\. No escape."
-msgstr ""
+msgstr "Змагаємося кілька раундів. \\c[3]5 із 9\\c[0].\\. Жодних розхідників.\\. Жодного відступу."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/4/0/49/message #432
 #. NPC Apollo
@@ -4621,7 +4622,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/4/0/49/message+%23432
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/4/0/49/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/4/0/52/message #433
 #. NPC Apollo
@@ -4631,7 +4632,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/4/0/52/message+%23433
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/4/0/52/message"
 msgid "Go Lea!!\\. I'm sure you can do it!"
-msgstr ""
+msgstr "Вперед, Лію!!\\. Я впевнена, що ти впораєшся!"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/4/0/56/message #434
 #. NPC Apollo
@@ -4641,7 +4642,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/4/0/56/message+%23434
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/4/0/56/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/4/0/57/message #435
 #. NPC Apollo
@@ -4651,7 +4652,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/4/0/57/message+%23435
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/4/0/57/message"
 msgid "...!!"
-msgstr ""
+msgstr "...!!"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/4/0/63/message #436
 #. NPC Apollo
@@ -4661,7 +4662,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/4/0/63/message+%23436
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/4/0/63/message"
 msgid "The time has come..."
-msgstr ""
+msgstr "Час настав..."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/4/0/64/message #437
 #. NPC Apollo
@@ -4671,7 +4672,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/4/0/64/message+%23437
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/4/0/64/message"
 msgid "I, \\c[3]Apollo\\c[0], will show you the right path."
-msgstr ""
+msgstr "Я, \\c[3]Аполло\\c[0], покажу тобі істинний шлях."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/4/0/65/message #438
 #. NPC Apollo
@@ -4681,7 +4682,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/4/0/65/message+%23438
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/4/0/65/message"
 msgid "The path of a proper Spheromancer!"
-msgstr ""
+msgstr "Шлях справжнього сфероманта!"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/4/0/66/message #439
 #. NPC Apollo
@@ -4691,7 +4692,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/4/0/66/message+%23439
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/4/0/66/message"
 msgid "The path...\\.\\. of \\c[3]Justice\\c[0]!"
-msgstr ""
+msgstr "Шлях...\\.\\. \\c[3]справедливості\\c[0]!"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/4/0/75/message #440
 #. NPC Apollo
@@ -4701,7 +4702,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/4/0/75/message+%23440
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/4/0/75/message"
 msgid "Let the duel begin!"
-msgstr ""
+msgstr "Та почнеться дуель!"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/4/1/0/message #423
 #. NPC Apollo
@@ -4711,7 +4712,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/4/1/0/message+%23423
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/4/1/0/message"
 msgid "[shakes head]"
-msgstr ""
+msgstr "[махає головою]"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/4/1/2/message #424
 #. NPC Apollo
@@ -4721,7 +4722,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/4/1/2/message+%23424
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/4/1/2/message"
 msgid "Alright. Don't make me wait too long."
-msgstr ""
+msgstr "Добре. Не змушуй мене чекати надто довго."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/4/options/0/label #417
 #. NPC Apollo
@@ -4730,7 +4731,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/4/options/0/label+%23417
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/4/options/0/label"
 msgid "[yes]"
-msgstr ""
+msgstr "[так]"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/470/settings/npcStates/1/event/quest/4/options/1/label #418
 #. NPC Apollo
@@ -4739,7 +4740,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/470/settings/npcStates/1/event/quest/4/options/1/label+%23418
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/470/settings/npcStates/1/event/quest/4/options/1/label"
 msgid "[no]"
-msgstr ""
+msgstr "[ні]"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/473/settings/event/0/thenStep/0/thenStep/0/thenStep/0/message #583
 #. EventTrigger pvpBrake START IF pvp.brake
@@ -5643,7 +5644,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/486/settings/event/2/message+%23508
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/486/settings/event/2/message"
 msgid "Going ahead already?"
-msgstr ""
+msgstr "Вже йдеш?"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/486/settings/event/3/message #509
 #. EventTrigger ApolloBlocker START IF tmp.dareToLeave && plot.line < 3400
@@ -5651,7 +5652,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/486/settings/event/3/message+%23509
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/486/settings/event/3/message"
 msgid "You accepted the duel! I am waiting!"
-msgstr ""
+msgstr "Ти прийняла дуель! Я чекаю!"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/486/settings/event/10/message #510
 #. EventTrigger ApolloBlocker START IF tmp.dareToLeave && plot.line < 3400
@@ -5659,7 +5660,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/486/settings/event/10/message+%23510
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/486/settings/event/10/message"
 msgid "Come on, Lea!\\. Monsieur is waiting for his beating."
-msgstr ""
+msgstr "Давай, Лію! Monsieur (Мосьє) чекає на свого прочухана."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/487/settings/dialog/0/text #520
 #. XenoDialog NewQuestsBla
@@ -5667,7 +5668,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/487/settings/dialog/0/text+%23520
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/487/settings/dialog/0/text"
 msgid "Sure feels nice to have a change of landscape."
-msgstr ""
+msgstr "Як приємно змінити обстановку."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/487/settings/dialog/1/text #522
 #. XenoDialog NewQuestsBla
@@ -5675,7 +5676,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/487/settings/dialog/1/text+%23522
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/487/settings/dialog/1/text"
 msgid "I don't think I wanna see another apple in a while."
-msgstr ""
+msgstr "Не думаю, що я знову захочу бачити ці яблука."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/487/settings/dialog/2/text #521
 #. XenoDialog NewQuestsBla
@@ -5683,7 +5684,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/487/settings/dialog/2/text+%23521
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/487/settings/dialog/2/text"
 msgid "But I've heard that we could actually do more quests in Rookie Harbor now."
-msgstr ""
+msgstr "Але я чула, що ми могли б зробити більше квестів у Гавані новачків."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/487/settings/dialog/3/text #523
 #. XenoDialog NewQuestsBla
@@ -5691,7 +5692,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/487/settings/dialog/3/text+%23523
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/487/settings/dialog/3/text"
 msgid "Sounds like a good idea before climbing that mountain, right?"
-msgstr ""
+msgstr "Звучить як хороша ідея перед сходженням на цю гору, чи не так?"
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/487/settings/dialog/4/text #524
 #. XenoDialog NewQuestsBla
@@ -5699,7 +5700,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/487/settings/dialog/4/text+%23524
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/487/settings/dialog/4/text"
 msgid "B... but... you wanna walk all the way back for that? "
-msgstr ""
+msgstr "А... але... ти справді хочеш для цього пройти весь цей шлях назад? "
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/487/settings/dialog/5/text #525
 #. XenoDialog NewQuestsBla
@@ -5707,7 +5708,7 @@ msgstr ""
 #: data/maps/bergen-trail/path-1-entrance.json+entities/487/settings/dialog/5/text+%23525
 msgctxt "data/maps/bergen-trail/path-1-entrance.json//entities/487/settings/dialog/5/text"
 msgid "Well, there IS this quick-travel system, you know..."
-msgstr ""
+msgstr "Ну, знаєш, тут є система ШВИДКОГО переміщення."
 
 #. data/maps/bergen-trail/path-1-entrance.json entities/541/settings/event/10/text #503
 #. EventTrigger postDream START IF plot.line >= 3450
