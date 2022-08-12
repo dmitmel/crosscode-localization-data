@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-07-07 08:45+0000\n"
-"Last-Translator: Kevin Junior Neciosup Galeano <kjneciosup1@gmail.com>\n"
+"PO-Revision-Date: 2022-08-12 04:16+0000\n"
+"Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/arid-dng/es/>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
@@ -629,7 +629,7 @@ msgstr "..."
 #: data/maps/arid-dng/first/room-03.json+entities/1/settings/blockEvent/1/message+%2345
 msgctxt "data/maps/arid-dng/first/room-03.json//entities/1/settings/blockEvent/1/message"
 msgid "No, not that way, Lea. Please use the exit sign."
-msgstr "No, por ahí no, Lea. Por favor, usa el símbolo de salida."
+msgstr "No, por ahí no, Lea. Por favor, interactúa con el símbolo."
 
 #. data/maps/arid-dng/first/room-03.json entities/1/settings/blockEvent/2/thenStep/1/message #24
 #. Door exit
@@ -657,7 +657,7 @@ msgstr "Te prometo que funcionará esta vez..."
 #: data/maps/arid-dng/first/room-03.json+entities/34/settings/event/6/message+%233
 msgctxt "data/maps/arid-dng/first/room-03.json//entities/34/settings/event/6/message"
 msgid "Okay, you are at the right position now, Lea."
-msgstr "Bien, estas en la posición correcta ahora, Lea."
+msgstr "Muy bien, te encuentras en el lugar correcto, Lea."
 
 #. data/maps/arid-dng/first/room-03.json entities/34/settings/event/7/message #4
 #. EventTrigger intro
@@ -665,7 +665,7 @@ msgstr "Bien, estas en la posición correcta ahora, Lea."
 #: data/maps/arid-dng/first/room-03.json+entities/34/settings/event/7/message+%234
 msgctxt "data/maps/arid-dng/first/room-03.json//entities/34/settings/event/7/message"
 msgid "I just need a little bit longer to manage things on my side."
-msgstr "Solo necesito algo de tiempo para arreglar las cosas de mi lado."
+msgstr "Dame unos minutos para terminar los preparativos."
 
 #. data/maps/arid-dng/first/room-03.json entities/34/settings/event/8/message #5
 #. EventTrigger intro
@@ -673,7 +673,7 @@ msgstr "Solo necesito algo de tiempo para arreglar las cosas de mi lado."
 #: data/maps/arid-dng/first/room-03.json+entities/34/settings/event/8/message+%235
 msgctxt "data/maps/arid-dng/first/room-03.json//entities/34/settings/event/8/message"
 msgid "Meanwhile, you can take care of the enemies in this room."
-msgstr "Mientras, puedes encargarte de los enemigos en esta habitación."
+msgstr "Mientras, encárgate de los enemigos de esta habitación."
 
 #. data/maps/arid-dng/first/room-03.json entities/34/settings/event/9/message #6
 #. EventTrigger intro
@@ -737,7 +737,7 @@ msgstr "Ahora solo tenemos que encontrarnos con él..."
 #: data/maps/arid-dng/first/room-03.json+entities/48/settings/event/26/message+%2314
 msgctxt "data/maps/arid-dng/first/room-03.json//entities/48/settings/event/26/message"
 msgid "...by breaking through the dungeon room instances."
-msgstr "...rompiendo las paredes de las instancias de la mazmorra."
+msgstr "...atravesando las paredes de la mazmorra."
 
 #. data/maps/arid-dng/first/room-03.json entities/48/settings/event/27/message #15
 #. EventTrigger Battle End START IF map.preDone
@@ -776,7 +776,7 @@ msgstr "Ahora, intenta interactuar con el símbolo."
 #: data/maps/arid-dng/first/room-03.json+entities/49/settings/interact/hoverText+%2318
 msgctxt "data/maps/arid-dng/first/room-03.json//entities/49/settings/interact/hoverText"
 msgid "Take off."
-msgstr "Salir."
+msgstr "Despegar"
 
 #. data/maps/arid-dng/first/room-03.json entities/49/settings/interact/event/4/thenStep/12/message #26
 #. Prop exitSign SPAWN IF map.exitSign
@@ -803,7 +803,7 @@ msgstr "¡¿POR QUÉ?!"
 #: data/maps/arid-dng/first/room-03.json+entities/49/settings/interact/event/4/thenStep/19/message+%2328
 msgctxt "data/maps/arid-dng/first/room-03.json//entities/49/settings/interact/event/4/thenStep/19/message"
 msgid "S-Sorry! I must have made a little mistake here."
-msgstr "¡P-Perdón! Habré cometido un pequeño error por aquí."
+msgstr "¡L-Lo siento! Tuve que haber cometido un pequeño error."
 
 #. data/maps/arid-dng/first/room-03.json entities/49/settings/interact/event/4/thenStep/20/message #29
 #. Prop exitSign SPAWN IF map.exitSign
@@ -884,7 +884,7 @@ msgstr "Uhm..."
 #: data/maps/arid-dng/first/room-03.json+entities/49/settings/interact/event/5/thenStep/6/message+%2336
 msgctxt "data/maps/arid-dng/first/room-03.json//entities/49/settings/interact/event/5/thenStep/6/message"
 msgid "Oh right, forgot about that thing."
-msgstr "Oh si, me olvidé de una cosa."
+msgstr "Oh si, se me olvidaba un pequeño detalle."
 
 #. data/maps/arid-dng/first/room-03.json entities/49/settings/interact/event/5/thenStep/13/message #37
 #. Prop exitSign SPAWN IF map.exitSign
@@ -893,7 +893,7 @@ msgstr "Oh si, me olvidé de una cosa."
 #: data/maps/arid-dng/first/room-03.json+entities/49/settings/interact/event/5/thenStep/13/message+%2337
 msgctxt "data/maps/arid-dng/first/room-03.json//entities/49/settings/interact/event/5/thenStep/13/message"
 msgid "Sorry Lea, we need one more attempt."
-msgstr "Perdón Lea, necesitamos un intento más."
+msgstr "Lo siento, Lea. Una vez más por favor."
 
 #. data/maps/arid-dng/first/room-03.json entities/49/settings/interact/event/5/thenStep/14/message #38
 #. Prop exitSign SPAWN IF map.exitSign
@@ -902,7 +902,7 @@ msgstr "Perdón Lea, necesitamos un intento más."
 #: data/maps/arid-dng/first/room-03.json+entities/49/settings/interact/event/5/thenStep/14/message+%2338
 msgctxt "data/maps/arid-dng/first/room-03.json//entities/49/settings/interact/event/5/thenStep/14/message"
 msgid "In my defense, this whole routine is pretty experimental..."
-msgstr "En mi defensa, todo esto es bastante experimental..."
+msgstr "En mi defensa, diré que todo esto es bastante complejo..."
 
 #. data/maps/arid-dng/first/room-03.json entities/49/settings/interact/event/5/thenStep/15/message #39
 #. Prop exitSign SPAWN IF map.exitSign
@@ -929,7 +929,7 @@ msgstr "Hm..."
 #: data/maps/arid-dng/first/room-03.json+entities/49/settings/interact/event/5/thenStep/17/message+%2341
 msgctxt "data/maps/arid-dng/first/room-03.json//entities/49/settings/interact/event/5/thenStep/17/message"
 msgid "Okay, this should do it."
-msgstr "Okey, esto tendría que funcionar."
+msgstr "Muy bien, esto debería bastar."
 
 #. data/maps/arid-dng/first/room-03.json entities/49/settings/interact/event/5/thenStep/18/message #42
 #. Prop exitSign SPAWN IF map.exitSign
@@ -995,7 +995,7 @@ msgstr "¡Lea, acabamos de saltar hacia otra instancia!"
 #: data/maps/arid-dng/first/room-04.json+entities/24/settings/event/15/message+%235
 msgctxt "data/maps/arid-dng/first/room-04.json//entities/24/settings/event/15/message"
 msgid "Dungeon instances... they work on a room-by-room basis."
-msgstr "Las instancias de mazmorras... son como muchas copias de la misma habitación."
+msgstr "Las instancias de mazmorras... imagina varias copias de la misma habitación."
 
 #. data/maps/arid-dng/first/room-04.json entities/24/settings/event/16/message #6
 #. EventTrigger start
@@ -1003,7 +1003,7 @@ msgstr "Las instancias de mazmorras... son como muchas copias de la misma habita
 #: data/maps/arid-dng/first/room-04.json+entities/24/settings/event/16/message+%236
 msgctxt "data/maps/arid-dng/first/room-04.json//entities/24/settings/event/16/message"
 msgid "And all room-instances are placed within a \\c[3]massive compound\\c[0]."
-msgstr "Y todas las instancias estan en un \\c[3]complejo enorme\\c[0]."
+msgstr "Todas ordenadas una al lado de la otra en un \\c[3]complejo enorme\\c[0]."
 
 #. data/maps/arid-dng/first/room-04.json entities/24/settings/event/17/message #7
 #. EventTrigger start
@@ -1011,7 +1011,7 @@ msgstr "Y todas las instancias estan en un \\c[3]complejo enorme\\c[0]."
 #: data/maps/arid-dng/first/room-04.json+entities/24/settings/event/17/message+%237
 msgctxt "data/maps/arid-dng/first/room-04.json//entities/24/settings/event/17/message"
 msgid "What we will do is jump between those instances until we reach the room Lukas is in!"
-msgstr "¡Lo que haremos será saltar por varias instancias hasta que lleguemos a la que está Lukas!"
+msgstr "¡Lo que haremos será saltar por varias instancias hasta que lleguemos a la de Lukas!"
 
 #. data/maps/arid-dng/first/room-04.json entities/24/settings/event/18/message #8
 #. EventTrigger start
@@ -1035,7 +1035,7 @@ msgstr "¡...!"
 #: data/maps/arid-dng/first/room-04.json+entities/24/settings/event/20/message+%2310
 msgctxt "data/maps/arid-dng/first/room-04.json//entities/24/settings/event/20/message"
 msgid "As strange as it sounds, it is our best chance to get out of this place."
-msgstr "Tan raro como suene, es nuestra mejor chance para salir de este lugar."
+msgstr "Es un plan extraño, lo admito. Pero puede funcionar. Es nuestra mejor oportunidad."
 
 #. data/maps/arid-dng/first/room-04.json entities/24/settings/event/21/message #11
 #. EventTrigger start
@@ -1059,7 +1059,7 @@ msgstr "..."
 #: data/maps/arid-dng/first/room-04.json+entities/24/settings/event/29/message+%2322
 msgctxt "data/maps/arid-dng/first/room-04.json//entities/24/settings/event/29/message"
 msgid "Yes, it has to be on that side of the room. Sorry."
-msgstr "Si, tiene que estar de ese lado de la habitación. Perdón."
+msgstr "Sí, \\c[3]tiene\\c[0] que estar de ese lado de la habitación. Lo siento."
 
 #. data/maps/arid-dng/first/room-04.json entities/24/settings/event/30/message #20
 #. EventTrigger start
@@ -1074,7 +1074,7 @@ msgstr "Por lo que parece, deberías poder llegar al punto."
 #: data/maps/arid-dng/first/room-04.json+entities/26/settings/interact/hoverText+%2318
 msgctxt "data/maps/arid-dng/first/room-04.json//entities/26/settings/interact/hoverText"
 msgid "Take off."
-msgstr "Salir."
+msgstr "Despegar"
 
 #. data/maps/arid-dng/first/room-05.json entities/0/settings/blockEvent/1/message #23
 #. Door entrance
@@ -1107,14 +1107,14 @@ msgstr "¡Buen aterrizaje! La siguiente salida está ahí abajo."
 #: data/maps/arid-dng/first/room-05.json+entities/67/settings/event/10/message+%2319
 msgctxt "data/maps/arid-dng/first/room-05.json//entities/67/settings/event/10/message"
 msgid "You can just ignore the puzzle in this room..."
-msgstr "Puedes ignorar el puzzle en esta habitación..."
+msgstr "Puedes ignorar esta habitación..."
 
 #. data/maps/arid-dng/first/room-05.json entities/68/settings/interact/hoverText #18
 #. Prop exitSign SPAWN IF map.exitSign
 #: data/maps/arid-dng/first/room-05.json+entities/68/settings/interact/hoverText+%2318
 msgctxt "data/maps/arid-dng/first/room-05.json//entities/68/settings/interact/hoverText"
 msgid "Take off."
-msgstr "Salir."
+msgstr "Despegar"
 
 #. data/maps/arid-dng/first/room-06.json entities/0/settings/blockEvent/1/message #24
 #. Door entrance
@@ -1162,7 +1162,7 @@ msgstr "¡Esta vez saldremos por la pared al este!"
 #: data/maps/arid-dng/first/room-06.json+entities/44/settings/interact/hoverText+%2318
 msgctxt "data/maps/arid-dng/first/room-06.json//entities/44/settings/interact/hoverText"
 msgid "Take off."
-msgstr "Salir."
+msgstr "Despegar"
 
 #. data/maps/arid-dng/first/room-06.json entities/44/settings/interact/event/9/thenStep/2/message #41
 #. Prop exitSign SPAWN IF map.exitSign
@@ -1189,7 +1189,7 @@ msgstr "¡¿POR QUÉ?!"
 #: data/maps/arid-dng/first/room-06.json+entities/44/settings/interact/event/9/thenStep/10/message+%2328
 msgctxt "data/maps/arid-dng/first/room-06.json//entities/44/settings/interact/event/9/thenStep/10/message"
 msgid "Sorry, I forgot to fix the routine for sideway jumps..."
-msgstr "Perdón, me olvidé de arreglar la rutina para los saltos de lado..."
+msgstr "Lo siento, se me olvidó un detallito para habilitar los saltos de lado..."
 
 #. data/maps/arid-dng/first/room-06.json entities/44/settings/interact/event/9/thenStep/11/message #46
 #. Prop exitSign SPAWN IF map.exitSign
@@ -1207,7 +1207,7 @@ msgstr "¡¿...Cómo?!"
 #: data/maps/arid-dng/first/room-06.json+entities/44/settings/interact/event/9/thenStep/12/message+%2344
 msgctxt "data/maps/arid-dng/first/room-06.json//entities/44/settings/interact/event/9/thenStep/12/message"
 msgid "A-Anyway, it should work now. Promise."
-msgstr "C-Como sea, debería funcionar ahora. Lo prometo."
+msgstr "N-No importa, debería funcionar ahora. Lo prometo."
 
 #. data/maps/arid-dng/first/room-06.json entities/44/settings/interact/event/9/thenStep/13/message #45
 #. Prop exitSign SPAWN IF map.exitSign
