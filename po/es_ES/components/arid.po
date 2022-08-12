@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-08-12 01:18+0000\n"
+"PO-Revision-Date: 2022-08-12 02:17+0000\n"
 "Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/arid/es/>\n"
 "Language: es_ES\n"
@@ -789,7 +789,7 @@ msgstr "Reclutas, bienvenidos al \\c[3]Proyecto Rojo\\c[0]."
 #: data/maps/arid/expo-space.json+entities/12/settings/event/14/message+%2335
 msgctxt "data/maps/arid/expo-space.json//entities/12/settings/event/14/message"
 msgid "Today we have a new mission for you."
-msgstr "Hoy tenemos una nueva misión para ustedes."
+msgstr "Hoy tenemos una nueva misión que encomendarles."
 
 #. data/maps/arid/expo-space.json entities/12/settings/event/24/message #36
 #. EventTrigger Day3 START IF plot.line >= 12800
@@ -797,7 +797,7 @@ msgstr "Hoy tenemos una nueva misión para ustedes."
 #: data/maps/arid/expo-space.json+entities/12/settings/event/24/message+%2336
 msgctxt "data/maps/arid/expo-space.json//entities/12/settings/event/24/message"
 msgid "Your task is to inspect the \\c[3]northern Trial Building\\c[0]."
-msgstr "Su tarea es inspeccionar el \\c[3]Edificio de Pruebas norte\\c[0]."
+msgstr "Su tarea será investigar el \\c[3]Edificio de Pruebas Norteño\\c[0]."
 
 #. data/maps/arid/expo-space.json entities/12/settings/event/32/message #37
 #. EventTrigger Day3 START IF plot.line >= 12800
@@ -845,7 +845,7 @@ msgstr "Por favor vuelvan a su habitación y descansen por hoy."
 #: data/maps/arid/expo-space.json+entities/13/settings/event/16/message+%2342
 msgctxt "data/maps/arid/expo-space.json//entities/13/settings/event/16/message"
 msgid "Expect your next mission soon."
-msgstr "Esperen su próxima misión pronto."
+msgstr "Se les asignará una nueva misión pronto."
 
 #. data/maps/arid/forest-1.json entities/245/settings/condAnims/0/interact/hoverText #14
 #. Prop masterSign SPAWN IF !g.arid.master2B
@@ -1183,7 +1183,7 @@ msgstr "Vuelve a \\c[3]Vertedero Vermillion - Lago Carmesí\\c[0] para proceder 
 #: data/maps/arid/forest-1.json+entities/512/settings/event/0/message+%23162
 msgctxt "data/maps/arid/forest-1.json//entities/512/settings/event/0/message"
 msgid "Is there really nothing else you'd like to do?"
-msgstr "¿En serio no hay nada más que quieras hacer?"
+msgstr "¿Realmente quieres hacer esto?"
 
 #. data/maps/arid/forest-1.json entities/512/settings/event/1/message #6
 #. EventTrigger SchneiderLeaDepressedComment START IF plot.line >= 12900
@@ -1207,7 +1207,7 @@ msgstr "¿Lea...?"
 #: data/maps/arid/forest-1.json+entities/514/settings/event/0/message+%23164
 msgctxt "data/maps/arid/forest-1.json//entities/514/settings/event/0/message"
 msgid "Hah, told you we'd be jumping over these flowers."
-msgstr "Ja, te dije que íbamos a tener que saltar por esas flores."
+msgstr "Ja, te dije que tendríamos que saltar por esas flores."
 
 #. data/maps/arid/forest-1.json entities/514/settings/event/1/message #165
 #. EventTrigger SchneiderFlowerToldYa START IF map.signC && tmp.jumpingPath
@@ -1258,7 +1258,7 @@ msgstr "..."
 #: data/maps/arid/forest-1.json+entities/541/settings/event/6/message+%2319
 msgctxt "data/maps/arid/forest-1.json//entities/541/settings/event/6/message"
 msgid "Okay, here we go again..."
-msgstr "Ok, aquí vamos otra vez..."
+msgstr "Muy bien, aquí vamos otra vez..."
 
 #. data/maps/arid/forest-1.json entities/541/settings/event/14/message #169
 #. EventTrigger BeforeTrailBuldingEnter START IF tmp.beforeTrialBuilding
@@ -1274,7 +1274,7 @@ msgstr "¿Hm?"
 #: data/maps/arid/forest-1.json+entities/541/settings/event/25/message+%23168
 msgctxt "data/maps/arid/forest-1.json//entities/541/settings/event/25/message"
 msgid "Enemies already?\\. Let us enter the damn building first!"
-msgstr "¿Ya hay enemigos?\\. ¡Déjennos entrar al maldito edificio primero!"
+msgstr "¿Enemigos? ¿Ya?\\. ¡Al menos déjennos entrar al maldito edificio primero!"
 
 #. data/maps/arid/forest-1.json entities/560/settings/event/13/message #179
 #. EventTrigger battleEnd2 START IF tmp.enemyKill2 >= 4
@@ -1282,7 +1282,7 @@ msgstr "¿Ya hay enemigos?\\. ¡Déjennos entrar al maldito edificio primero!"
 #: data/maps/arid/forest-1.json+entities/560/settings/event/13/message+%23179
 msgctxt "data/maps/arid/forest-1.json//entities/560/settings/event/13/message"
 msgid "Finally..."
-msgstr "Finalmente..."
+msgstr "Por fin..."
 
 #. data/maps/arid/forest-1.json entities/560/settings/event/14/message #180
 #. EventTrigger battleEnd2 START IF tmp.enemyKill2 >= 4
@@ -1298,7 +1298,7 @@ msgstr "..."
 #: data/maps/arid/forest-1.json+entities/560/settings/event/17/message+%23181
 msgctxt "data/maps/arid/forest-1.json//entities/560/settings/event/17/message"
 msgid "So...\\. should we enter?"
-msgstr "Así que...\\. ¿deberíamos entrar?"
+msgstr "Bueno...\\. ¿entramos?"
 
 #. data/maps/arid/forest-1.json entities/560/settings/event/19/message #182
 #. EventTrigger battleEnd2 START IF tmp.enemyKill2 >= 4
@@ -1314,7 +1314,7 @@ msgstr "..."
 #: data/maps/arid/forest-1.json+entities/560/settings/event/20/message+%23183
 msgctxt "data/maps/arid/forest-1.json//entities/560/settings/event/20/message"
 msgid "Honestly, I don't have a good feeling about this."
-msgstr "Para ser sincero, no tengo un buen presentimiento sobre esto."
+msgstr "Debo decir, esto me da un mal presentimiento."
 
 #. data/maps/arid/forest-1.json entities/560/settings/event/21/message #184
 #. EventTrigger battleEnd2 START IF tmp.enemyKill2 >= 4
@@ -1322,7 +1322,7 @@ msgstr "Para ser sincero, no tengo un buen presentimiento sobre esto."
 #: data/maps/arid/forest-1.json+entities/560/settings/event/21/message+%23184
 msgctxt "data/maps/arid/forest-1.json//entities/560/settings/event/21/message"
 msgid "There will probably be more high-level enemies in there."
-msgstr "Probablemente haya más enemigos de alto nivel ahí."
+msgstr "Seguramente haya enemigos de nivel alto ahí dentro."
 
 #. data/maps/arid/forest-1.json entities/560/settings/event/22/thenStep/0/message #918
 #. EventTrigger battleEnd2 START IF tmp.enemyKill2 >= 4
@@ -1331,7 +1331,7 @@ msgstr "Probablemente haya más enemigos de alto nivel ahí."
 #: data/maps/arid/forest-1.json+entities/560/settings/event/22/thenStep/0/message+%23918
 msgctxt "data/maps/arid/forest-1.json//entities/560/settings/event/22/thenStep/0/message"
 msgid "Not that this matters much for you, but still...\\. with you being like this today..."
-msgstr "No que te importe mucho, pero aún así...\\. estando de este humor hoy..."
+msgstr "\\c[1]No que te importe mucho\\c[0], pero aún así...\\. con tu humor de hoy..."
 
 #. data/maps/arid/forest-1.json entities/560/settings/event/22/elseStep/0/message #185
 #. EventTrigger battleEnd2 START IF tmp.enemyKill2 >= 4
@@ -1340,7 +1340,7 @@ msgstr "No que te importe mucho, pero aún así...\\. estando de este humor hoy.
 #: data/maps/arid/forest-1.json+entities/560/settings/event/22/elseStep/0/message+%23185
 msgctxt "data/maps/arid/forest-1.json//entities/560/settings/event/22/elseStep/0/message"
 msgid "And with you being like this today..."
-msgstr "Y contigo estando de este humor hoy..."
+msgstr "Y con tu humor de hoy..."
 
 #. data/maps/arid/forest-1.json entities/560/settings/event/23/message #186
 #. EventTrigger battleEnd2 START IF tmp.enemyKill2 >= 4
@@ -1356,7 +1356,7 @@ msgstr "..."
 #: data/maps/arid/forest-1.json+entities/560/settings/event/24/message+%23187
 msgctxt "data/maps/arid/forest-1.json//entities/560/settings/event/24/message"
 msgid "Should we continue another time?\\. There is no reason to rush this, right?"
-msgstr "¿Deberíamos seguir otro día?\\. No hay motivo para apurarnos, ¿no?"
+msgstr "¿No quieres continuar otro día?\\. No tenemos por qué apurarnos, ¿no crees?"
 
 #. data/maps/arid/forest-1.json entities/560/settings/event/25/message #188
 #. EventTrigger battleEnd2 START IF tmp.enemyKill2 >= 4
@@ -1380,7 +1380,7 @@ msgstr "..."
 #: data/maps/arid/forest-1.json+entities/560/settings/event/27/message+%23199
 msgctxt "data/maps/arid/forest-1.json//entities/560/settings/event/27/message"
 msgid "It really would help if you'd respond... at all."
-msgstr "En serio ayudaría si me respondieras... algo."
+msgstr "Se me haría más fácil si me dijeras algo... lo que sea."
 
 #. data/maps/arid/forest-1.json entities/560/settings/event/28/message #189
 #. EventTrigger battleEnd2 START IF tmp.enemyKill2 >= 4
@@ -1388,7 +1388,7 @@ msgstr "En serio ayudaría si me respondieras... algo."
 #: data/maps/arid/forest-1.json+entities/560/settings/event/28/message+%23189
 msgctxt "data/maps/arid/forest-1.json//entities/560/settings/event/28/message"
 msgid "I mean...\\. I understand why you'd feel down in a situation like this."
-msgstr "O sea...\\. entiendo que te sientas deprimida en una situación como esta."
+msgstr "Es decir...\\. entiendo que te sientas deprimida en una situación como esta."
 
 #. data/maps/arid/forest-1.json entities/560/settings/event/29/message #190
 #. EventTrigger battleEnd2 START IF tmp.enemyKill2 >= 4
@@ -1396,7 +1396,7 @@ msgstr "O sea...\\. entiendo que te sientas deprimida en una situación como est
 #: data/maps/arid/forest-1.json+entities/560/settings/event/29/message+%23190
 msgctxt "data/maps/arid/forest-1.json//entities/560/settings/event/29/message"
 msgid "But...\\. things don't have to stay that way."
-msgstr "Pero...\\. las cosas no tienen por que quedar así."
+msgstr "Pero...\\. las cosas no se van a quedar así."
 
 #. data/maps/arid/forest-1.json entities/560/settings/event/30/message #191
 #. EventTrigger battleEnd2 START IF tmp.enemyKill2 >= 4
@@ -1404,7 +1404,7 @@ msgstr "Pero...\\. las cosas no tienen por que quedar así."
 #: data/maps/arid/forest-1.json+entities/560/settings/event/30/message+%23191
 msgctxt "data/maps/arid/forest-1.json//entities/560/settings/event/30/message"
 msgid "I'm sure we'll find a way out.\\. Out of this place...\\. out of this game..."
-msgstr "Estoy seguro de que encontraremos una forma de salir.\\. De salir de este lugar...\\. de salir del juego..."
+msgstr "Estoy seguro de que encontraremos la forma de salir.\\. Salir de este lugar...\\. Salir de este juego..."
 
 #. data/maps/arid/forest-1.json entities/560/settings/event/31/message #192
 #. EventTrigger battleEnd2 START IF tmp.enemyKill2 >= 4
@@ -1420,7 +1420,7 @@ msgstr "..."
 #: data/maps/arid/forest-1.json+entities/560/settings/event/32/message+%23193
 msgctxt "data/maps/arid/forest-1.json//entities/560/settings/event/32/message"
 msgid "We just shouldn't lose hope..."
-msgstr "No deberíamos perder la esperanza..."
+msgstr "No perdamos la esperanza..."
 
 #. data/maps/arid/forest-1.json entities/560/settings/event/35/message #194
 #. EventTrigger battleEnd2 START IF tmp.enemyKill2 >= 4
@@ -3549,7 +3549,7 @@ msgstr "Bien, ¡sígueme!"
 #: data/maps/arid/interior/quest-hub.json+entities/62/settings/event/9/message+%23534
 msgctxt "data/maps/arid/interior/quest-hub.json//entities/62/settings/event/9/message"
 msgid "Okay...\\. time to enter space again."
-msgstr "Okey...\\. es hora de entrar al espacio otra vez."
+msgstr "Bueno...\\. hora de volver al espacio."
 
 #. data/maps/arid/interior/quest-hub.json entities/63/settings/event/17/message #535
 #. EventTrigger ExpositionEnd Day3 START IF plot.line >= 12860
@@ -3557,7 +3557,7 @@ msgstr "Okey...\\. es hora de entrar al espacio otra vez."
 #: data/maps/arid/interior/quest-hub.json+entities/63/settings/event/17/message+%23535
 msgctxt "data/maps/arid/interior/quest-hub.json//entities/63/settings/event/17/message"
 msgid "Dust-dry as usual."
-msgstr "Parece que escatimaron en escritores otra vez."
+msgstr "Tan soso como siempre."
 
 #. data/maps/arid/interior/quest-hub.json entities/63/settings/event/18/message #539
 #. EventTrigger ExpositionEnd Day3 START IF plot.line >= 12860
@@ -3565,7 +3565,7 @@ msgstr "Parece que escatimaron en escritores otra vez."
 #: data/maps/arid/interior/quest-hub.json+entities/63/settings/event/18/message+%23539
 msgctxt "data/maps/arid/interior/quest-hub.json//entities/63/settings/event/18/message"
 msgid "Well at least we got a proper quest today."
-msgstr "Bueno, al menos tenemos una misión hoy."
+msgstr "Bueno, al menos nos han dado una misión."
 
 #. data/maps/arid/interior/quest-hub.json entities/63/settings/event/19/message #543
 #. EventTrigger ExpositionEnd Day3 START IF plot.line >= 12860
@@ -3589,7 +3589,7 @@ msgstr "..."
 #: data/maps/arid/interior/quest-hub.json+entities/63/settings/event/21/message+%23541
 msgctxt "data/maps/arid/interior/quest-hub.json//entities/63/settings/event/21/message"
 msgid "Look, it's clear something isn't quite right with you."
-msgstr "Mira, está claro que algo anda mal contigo."
+msgstr "Mira, no creas que no me doy cuenta de que te sucede algo."
 
 #. data/maps/arid/interior/quest-hub.json entities/63/settings/event/22/message #542
 #. EventTrigger ExpositionEnd Day3 START IF plot.line >= 12860
@@ -3629,7 +3629,7 @@ msgstr "..."
 #: data/maps/arid/interior/quest-hub.json+entities/63/settings/event/26/message+%23546
 msgctxt "data/maps/arid/interior/quest-hub.json//entities/63/settings/event/26/message"
 msgid "Or we just go ahead and solve today's quest?"
-msgstr "¿O deberíamos solo seguir y hacer la misión de hoy?"
+msgstr "¿O prefieres continuar con la misión de hoy?"
 
 #. data/maps/arid/interior/quest-hub.json entities/63/settings/event/27/message #547
 #. EventTrigger ExpositionEnd Day3 START IF plot.line >= 12860
@@ -3645,7 +3645,7 @@ msgstr "[asiente]"
 #: data/maps/arid/interior/quest-hub.json+entities/63/settings/event/28/message+%23538
 msgctxt "data/maps/arid/interior/quest-hub.json//entities/63/settings/event/28/message"
 msgid "Okay..."
-msgstr "Okey..."
+msgstr "Muy bien..."
 
 #. data/maps/arid/interior/quest-hub.json entities/63/settings/event/30/task #29
 #. EventTrigger ExpositionEnd Day3 START IF plot.line >= 12860
@@ -3653,7 +3653,7 @@ msgstr "Okey..."
 #: data/maps/arid/interior/quest-hub.json+entities/63/settings/event/30/task+%2329
 msgctxt "data/maps/arid/interior/quest-hub.json//entities/63/settings/event/30/task"
 msgid "Solve the quest \\c[3]The Northern Trial Building\\c[0] together with Lukas."
-msgstr "Completa la misión \\c[3]El Edificio de Pruebas Norte\\c[0] junto con Lukas."
+msgstr "Completa la misión \\c[3]El Edificio de Pruebas Norteño\\c[0] junto con Lukas."
 
 #. data/maps/arid/interior/quest-hub.json entities/64/settings/event/9/message #548
 #. EventTrigger QuestResolve_Day4 START IF plot.line >= 13410
@@ -7350,7 +7350,7 @@ msgstr ""
 "\\i[arrow-n] Bosque\n"
 "\\i[arrow-sw] Acantilado\n"
 "\\i[arrow-s] Río\n"
-"\\i[arrow-e] Ayuntamiento"
+"\\i[arrow-e] Centro"
 
 #. data/maps/arid/lake-1.json entities/479/settings/interact/hoverText #15
 #. Prop
@@ -7365,7 +7365,7 @@ msgstr ""
 "\\i[arrow-n] Bosque\n"
 "\\i[arrow-sw] Acantilado\n"
 "\\i[arrow-s] Río\n"
-"\\i[arrow-e] Ayuntamiento"
+"\\i[arrow-e] Centro"
 
 #. data/maps/arid/lake-1.json entities/501/settings/event/8/message #120
 #. EventTrigger SchneiderTour1 START IF plot.line >= 11900
@@ -8885,7 +8885,7 @@ msgid ""
 msgstr ""
 "\\i[arrow-n] Lago\n"
 "\\i[arrow-sw] Río Delta\n"
-"\\i[arrow-e] Ayuntamiento"
+"\\i[arrow-e] Centro"
 
 #. data/maps/arid/river-1.json entities/404/settings/event/0/message #914
 #. LocationEvent boringBridge START IF party.alive.Emilie && plot.line < 40000
@@ -12033,7 +12033,7 @@ msgstr "Vuelve a tu cuarto en el \\c[3]Dormitorio\\c[0]."
 #: data/maps/arid/town-1.json+entities/298/settings/event/0/message+%23149
 msgctxt "data/maps/arid/town-1.json//entities/298/settings/event/0/message"
 msgid "So what happened? Did you have a bad dream?"
-msgstr "¿Qué pasó? ¿Tuviste un mal sueño?"
+msgstr "Entonces, ¿qué te pasó? ¿Tuviste un mal sueño?"
 
 #. data/maps/arid/town-1.json entities/298/settings/event/1/message #150
 #. EventTrigger SchneiderCommentsOnLea START IF plot.line >= 12800
