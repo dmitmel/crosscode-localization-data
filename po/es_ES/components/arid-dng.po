@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-08-12 04:16+0000\n"
+"PO-Revision-Date: 2022-08-12 04:59+0000\n"
 "Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/arid-dng/es/>\n"
 "Language: es_ES\n"
@@ -963,7 +963,7 @@ msgstr "Uhm... será mejor que no vayas por ahí Lea. Puede que se rompa algo."
 #: data/maps/arid-dng/first/room-04.json+entities/1/settings/blockEvent/1/message+%2323
 msgctxt "data/maps/arid-dng/first/room-04.json//entities/1/settings/blockEvent/1/message"
 msgid "Lea, please take the exit point, not the door."
-msgstr "Lea, por favor ve al punto de salida, no la puerta."
+msgstr "Lea, por favor ve al punto de salida, no por la puerta."
 
 #. data/maps/arid-dng/first/room-04.json entities/24/settings/event/11/message #2
 #. EventTrigger start
@@ -1122,7 +1122,7 @@ msgstr "Despegar"
 #: data/maps/arid-dng/first/room-06.json+entities/0/settings/blockEvent/1/message+%2324
 msgctxt "data/maps/arid-dng/first/room-06.json//entities/0/settings/blockEvent/1/message"
 msgid "We should not leave through the entrance. Strange things could happen."
-msgstr "No deberíamos salir por la entrada. Pueden pasar cosas raras."
+msgstr "No deberíamos salir por ahí. No sabemos lo que pueda suceder."
 
 #. data/maps/arid-dng/first/room-06.json entities/1/settings/blockEvent/1/message #23
 #. Door exit
@@ -1305,7 +1305,7 @@ msgstr "¡Ahí estás!"
 #: data/maps/arid-dng/first/room-07.json+entities/3/settings/event/57/message+%2334
 msgctxt "data/maps/arid-dng/first/room-07.json//entities/3/settings/event/57/message"
 msgid "This was certainly not meant to be seen by the likes of you."
-msgstr "Esto ciertamente no se suponía que fuera visto por gente como tú."
+msgstr "Esto no debería ser visto por gente como tú."
 
 #. data/maps/arid-dng/first/room-07.json entities/3/settings/event/58/message #35
 #. EventTrigger startProper
@@ -1313,7 +1313,7 @@ msgstr "Esto ciertamente no se suponía que fuera visto por gente como tú."
 #: data/maps/arid-dng/first/room-07.json+entities/3/settings/event/58/message+%2335
 msgctxt "data/maps/arid-dng/first/room-07.json//entities/3/settings/event/58/message"
 msgid "In this tower you shall abide to the constraints laid in front of you."
-msgstr "En esta torre debes acatar las restricciones que se te presenten."
+msgstr "En esta torre deberás acatar las restricciones dadas."
 
 #. data/maps/arid-dng/first/room-07.json entities/3/settings/event/59/message #36
 #. EventTrigger startProper
@@ -1321,7 +1321,7 @@ msgstr "En esta torre debes acatar las restricciones que se te presenten."
 #: data/maps/arid-dng/first/room-07.json+entities/3/settings/event/59/message+%2336
 msgctxt "data/maps/arid-dng/first/room-07.json//entities/3/settings/event/59/message"
 msgid "Not break through the walls as you please."
-msgstr "No romper las paredes como desees."
+msgstr "No te permitiré romper las paredes a tu gusto."
 
 #. data/maps/arid-dng/first/room-07.json entities/3/settings/event/60/message #37
 #. EventTrigger startProper
@@ -1353,7 +1353,7 @@ msgstr "Demonios..."
 #: data/maps/arid-dng/first/room-07.json+entities/3/settings/event/87/message+%23851
 msgctxt "data/maps/arid-dng/first/room-07.json//entities/3/settings/event/87/message"
 msgid "He found out sooner than I had hoped."
-msgstr "Se enteró antes de lo que esperaba."
+msgstr "Se ha dado cuenta antes de lo que esperaba."
 
 #. data/maps/arid-dng/first/room-07.json entities/3/settings/event/88/message #852
 #. EventTrigger startProper
@@ -1376,7 +1376,7 @@ msgstr "¡Corre hasta el siguiente símbolo tan rápido como puedas!"
 #: data/maps/arid-dng/first/room-07.json+entities/31/settings/interact/hoverText+%2318
 msgctxt "data/maps/arid-dng/first/room-07.json//entities/31/settings/interact/hoverText"
 msgid "Take off."
-msgstr "Salir."
+msgstr "Despegar"
 
 #. data/maps/arid-dng/first/room-07.json entities/32/settings/event/1/thenStep/0/message #856
 #. EventTrigger shreddersKilled START IF tmp.shredderKill >= 4
@@ -1394,7 +1394,7 @@ msgstr "\\c[1]¡Lea!\\c[0]"
 #: data/maps/arid-dng/first/room-07.json+entities/32/settings/event/1/thenStep/1/message+%23855
 msgctxt "data/maps/arid-dng/first/room-07.json//entities/32/settings/event/1/thenStep/1/message"
 msgid "Preposterous!\\. Is there any end to your damage?!"
-msgstr "¡Absurdo!\\. ¡¿Hay algún fin a tu daño?!"
+msgstr "¡Esto es absurdo!\\. ¡¿Acaso no hay quién pueda con tu daño?!"
 
 #. data/maps/arid-dng/first/room-07.json entities/32/settings/event/1/elseStep/0/message #854
 #. EventTrigger shreddersKilled START IF tmp.shredderKill >= 4
@@ -1418,7 +1418,7 @@ msgstr "¡Tienes que llegar al \\c[3]otro lado\\c[0] de esta habitación! ¡Haci
 #: data/maps/arid-dng/first/room-08.json+entities/37/settings/interact/hoverText+%2318
 msgctxt "data/maps/arid-dng/first/room-08.json//entities/37/settings/interact/hoverText"
 msgid "Take off."
-msgstr "Salir."
+msgstr "Despegar"
 
 #. data/maps/arid-dng/first/room-08.json entities/40/settings/event/1/thenStep/0/message #856
 #. EventTrigger shreddersKilled START IF tmp.shredderKill >= 2
@@ -1436,7 +1436,7 @@ msgstr "\\c[1]¡...!\\c[0]"
 #: data/maps/arid-dng/first/room-08.json+entities/40/settings/event/1/thenStep/1/message+%23855
 msgctxt "data/maps/arid-dng/first/room-08.json//entities/40/settings/event/1/thenStep/1/message"
 msgid "Stop this at once!!"
-msgstr "¡¡Para de una vez!!"
+msgstr "¡¡\\c[1]Para de una vez\\c[0]!!"
 
 #. data/maps/arid-dng/first/room-08.json entities/40/settings/event/1/elseStep/0/message #857
 #. EventTrigger shreddersKilled START IF tmp.shredderKill >= 2
@@ -1460,7 +1460,7 @@ msgstr "¡Más hacia el \\c[3]este\\c[0]! ¡Tienes que llegar a la \\c[3]pared\\
 #: data/maps/arid-dng/first/room-09.json+entities/40/settings/interact/hoverText+%2318
 msgctxt "data/maps/arid-dng/first/room-09.json//entities/40/settings/interact/hoverText"
 msgid "Take off."
-msgstr "Salir."
+msgstr "Despegar"
 
 #. data/maps/arid-dng/first/room-09.json entities/45/settings/event/1/thenStep/0/message #856
 #. EventTrigger shreddersKilled START IF tmp.shredderKill >= 2
@@ -1502,7 +1502,7 @@ msgstr "¡Ya casi! ¡Al \\c[3]este\\c[0]!"
 #: data/maps/arid-dng/first/room-10.json+entities/10/settings/interact/hoverText+%2318
 msgctxt "data/maps/arid-dng/first/room-10.json//entities/10/settings/interact/hoverText"
 msgid "Take off."
-msgstr "Salir."
+msgstr "Despegar"
 
 #. data/maps/arid-dng/first/room-10.json entities/27/settings/interact/hoverText #855
 #. Prop hackPunch SPAWN IF tmp.pk.hackReady
@@ -1533,7 +1533,7 @@ msgstr "¡Hora de demostrar el \\c[3]crecimiento exponencial\\c[0]!"
 #: data/maps/arid-dng/first/room-10.json+entities/31/settings/event/19/message+%23859
 msgctxt "data/maps/arid-dng/first/room-10.json//entities/31/settings/event/19/message"
 msgid "Now that was quite predictable!"
-msgstr "¡Eso fue predecible!"
+msgstr "¡Eres muy predecible!"
 
 #. data/maps/arid-dng/first/room-10.json entities/31/settings/event/20/message #860
 #. EventTrigger bossStart START IF tmp.bossStart
@@ -1541,7 +1541,7 @@ msgstr "¡Eso fue predecible!"
 #: data/maps/arid-dng/first/room-10.json+entities/31/settings/event/20/message+%23860
 msgctxt "data/maps/arid-dng/first/room-10.json//entities/31/settings/event/20/message"
 msgid "We have a good idea of where you are heading."
-msgstr "Tenemos una buena idea de hacia donde vas."
+msgstr "Creemos saber a dónde te diriges."
 
 #. data/maps/arid-dng/first/room-10.json entities/31/settings/event/22/message #861
 #. EventTrigger bossStart START IF tmp.bossStart
@@ -1573,7 +1573,7 @@ msgstr "¡...!"
 #: data/maps/arid-dng/first/room-10.json+entities/31/settings/event/25/message+%23864
 msgctxt "data/maps/arid-dng/first/room-10.json//entities/31/settings/event/25/message"
 msgid "Now, we can't have you meet up with your friend!"
-msgstr "¡Bueno, no podemos dejar que te juntes con tu amigo!"
+msgstr "¡Bueno, no podremos permitir que te juntes con tu amigo!"
 
 #. data/maps/arid-dng/first/room-10.json entities/31/settings/event/26/message #865
 #. EventTrigger bossStart START IF tmp.bossStart
@@ -1581,7 +1581,7 @@ msgstr "¡Bueno, no podemos dejar que te juntes con tu amigo!"
 #: data/maps/arid-dng/first/room-10.json+entities/31/settings/event/26/message+%23865
 msgctxt "data/maps/arid-dng/first/room-10.json//entities/31/settings/event/26/message"
 msgid "This place is designed for one individual at a time, after all."
-msgstr "Este lugar está diseñado para un individuo a la vez, después de todo."
+msgstr "Este lugar está diseñado para un individuo a la vez."
 
 #. data/maps/arid-dng/first/room-10.json entities/31/settings/event/27/message #866
 #. EventTrigger bossStart START IF tmp.bossStart
@@ -1589,7 +1589,7 @@ msgstr "Este lugar está diseñado para un individuo a la vez, después de todo.
 #: data/maps/arid-dng/first/room-10.json+entities/31/settings/event/27/message+%23866
 msgctxt "data/maps/arid-dng/first/room-10.json//entities/31/settings/event/27/message"
 msgid "If your hopes are to escape this place, your journey is destined to fail!"
-msgstr "¡Si esperas salir de este lugar, tu intento está destinado a fallar!"
+msgstr "¡Si esperas escapar de este lugar, no te molestes! ¡Estás destinada al fracaso!"
 
 #. data/maps/arid-dng/first/room-10.json entities/31/settings/event/28/message #867
 #. EventTrigger bossStart START IF tmp.bossStart
@@ -1597,7 +1597,7 @@ msgstr "¡Si esperas salir de este lugar, tu intento está destinado a fallar!"
 #: data/maps/arid-dng/first/room-10.json+entities/31/settings/event/28/message+%23867
 msgctxt "data/maps/arid-dng/first/room-10.json//entities/31/settings/event/28/message"
 msgid "An exit does not exist."
-msgstr "No existe una salida."
+msgstr "No hay salida."
 
 #. data/maps/arid-dng/first/room-10.json entities/31/settings/event/29/message #868
 #. EventTrigger bossStart START IF tmp.bossStart
@@ -1613,7 +1613,7 @@ msgstr "¿...?"
 #: data/maps/arid-dng/first/room-10.json+entities/31/settings/event/30/message+%23869
 msgctxt "data/maps/arid-dng/first/room-10.json//entities/31/settings/event/30/message"
 msgid "That is what he thinks, anyway.\\. I will get you out of here, trust me."
-msgstr "Eso es lo que el cree.\\. Te sacaré de aquí, créeme."
+msgstr "Eso es lo que él cree.\\. Te sacaré de aquí, confía en mí."
 
 #. data/maps/arid-dng/first/room-10.json entities/31/settings/event/31/message #870
 #. EventTrigger bossStart START IF tmp.bossStart
@@ -1629,7 +1629,7 @@ msgstr "¡...!"
 #: data/maps/arid-dng/first/room-10.json+entities/31/settings/event/32/message+%23871
 msgctxt "data/maps/arid-dng/first/room-10.json//entities/31/settings/event/32/message"
 msgid "Alas, watching you twirling through this complex..."
-msgstr "Aunque, verte girar por este complejo..."
+msgstr "Aunque, verte bailar por todo el complejo..."
 
 #. data/maps/arid-dng/first/room-10.json entities/31/settings/event/33/message #872
 #. EventTrigger bossStart START IF tmp.bossStart
@@ -1645,7 +1645,7 @@ msgstr "¡Es bastante entretenido debo admitir!"
 #: data/maps/arid-dng/first/room-10.json+entities/31/settings/event/34/message+%23873
 msgctxt "data/maps/arid-dng/first/room-10.json//entities/31/settings/event/34/message"
 msgid "This resourcefulness... It is unlike anything we have witnessed so far."
-msgstr "Este ingenio... es distinto a todo lo que he presenciado hasta ahora."
+msgstr "Este ingenio... es distinto a todo lo que hemos presenciado hasta ahora."
 
 #. data/maps/arid-dng/first/room-10.json entities/31/settings/event/35/message #874
 #. EventTrigger bossStart START IF tmp.bossStart
@@ -1653,7 +1653,7 @@ msgstr "Este ingenio... es distinto a todo lo que he presenciado hasta ahora."
 #: data/maps/arid-dng/first/room-10.json+entities/31/settings/event/35/message+%23874
 msgctxt "data/maps/arid-dng/first/room-10.json//entities/31/settings/event/35/message"
 msgid "Hence, we shall honor it with an appropriate climax!!"
-msgstr "¡¡Por ello debe ser honrado con un clímax apropiado!!"
+msgstr "¡¡Por ello lo honraremos con un clímax que esté a la altura!!"
 
 #. data/maps/arid-dng/first/room-10.json entities/31/settings/event/62/message #875
 #. EventTrigger bossStart START IF tmp.bossStart
@@ -1669,7 +1669,7 @@ msgstr "¡Será tu desafío final!"
 #: data/maps/arid-dng/first/room-10.json+entities/31/settings/event/63/message+%23876
 msgctxt "data/maps/arid-dng/first/room-10.json//entities/31/settings/event/63/message"
 msgid "Let us see if you can overcome the nigh impossible!"
-msgstr "¡Veamos si puedes superar lo casi imposible!"
+msgstr "¡Veamos si puedes superar lo imposible!"
 
 #. data/maps/arid-dng/first/room-10.json entities/31/settings/event/79/message #877
 #. EventTrigger bossStart START IF tmp.bossStart
@@ -1685,7 +1685,7 @@ msgstr "Lea...\\. pase lo que pase, ¡no te rindas!\\. ¡Tenemos que superar est
 #: data/maps/arid-dng/first/room-10.json+entities/32/settings/event/8/message+%23889
 msgctxt "data/maps/arid-dng/first/room-10.json//entities/32/settings/event/8/message"
 msgid "Lea...\\. this enemy...\\. its maximum HP is ridiculously high."
-msgstr "Lea...\\. este enemigo...\\. su vida máxima es ridículamente alta."
+msgstr "Lea...\\. este enemigo...\\. su vida máxima es absurdamente alta."
 
 #. data/maps/arid-dng/first/room-10.json entities/32/settings/event/9/message #878
 #. EventTrigger sergeyMessage START IF tmp.sergeyMsg
@@ -1709,7 +1709,7 @@ msgstr "¡¿...?!"
 #: data/maps/arid-dng/first/room-10.json+entities/32/settings/event/11/message+%23879
 msgctxt "data/maps/arid-dng/first/room-10.json//entities/32/settings/event/11/message"
 msgid "I'm not even sure how to say this number..."
-msgstr "Ni siquiera estoy seguro de como decir este número..."
+msgstr "No estoy seguro de saber como se pronuncia este número..."
 
 #. data/maps/arid-dng/first/room-10.json entities/32/settings/event/12/message #881
 #. EventTrigger sergeyMessage START IF tmp.sergeyMsg
@@ -1725,7 +1725,7 @@ msgstr "Aún así...\\. ¡\\c[3]no es infinito\\c[0]!"
 #: data/maps/arid-dng/first/room-10.json+entities/32/settings/event/13/message+%23882
 msgctxt "data/maps/arid-dng/first/room-10.json//entities/32/settings/event/13/message"
 msgid "That means it is possible to defeat it!"
-msgstr "¡Eso significa que es posible derrotar!"
+msgstr "¡Eso significa que se puede vencer!"
 
 #. data/maps/arid-dng/first/room-10.json entities/32/settings/event/14/message #883
 #. EventTrigger sergeyMessage START IF tmp.sergeyMsg
@@ -1767,7 +1767,7 @@ msgstr "¡¿...?!"
 #: data/maps/arid-dng/first/room-10.json+entities/32/settings/event/17/thenStep/1/message+%23909
 msgctxt "data/maps/arid-dng/first/room-10.json//entities/32/settings/event/17/thenStep/1/message"
 msgid "Yes, you heard that right. We have to make your \\c[1]ridiculous attack damage\\c[0] even higher."
-msgstr "Sí, oíste bien. Tenemos que hacer tu \\c[1]ridículo nivel de daño\\c[0] aún más grande."
+msgstr "Sí, oíste bien. Tenemos que hacer que tu \\c[1]absurdo daño\\c[0] sea aún más absurdo."
 
 #. data/maps/arid-dng/first/room-10.json entities/32/settings/event/18/message #908
 #. EventTrigger sergeyMessage START IF tmp.sergeyMsg
@@ -1853,7 +1853,7 @@ msgstr "¡¡N-No puede ser!!"
 #: data/maps/arid-dng/first/room-10.json+entities/33/settings/event/3/thenStep/1/message+%23905
 msgctxt "data/maps/arid-dng/first/room-10.json//entities/33/settings/event/3/thenStep/1/message"
 msgid "The nigh impossible...\\. about to be overcome!!"
-msgstr "¡¡Lo casi imposible...\\. a punto de ser superado!!"
+msgstr "¡¡Lo imposible...\\. al borde del éxito!!"
 
 #. data/maps/arid-dng/first/room-10.json entities/35/settings/event/0/thenStep/0/message #895
 #. EventTrigger WallTalk START IF tmp.wallTalk > tmp.wallTalked
@@ -1862,7 +1862,7 @@ msgstr "¡¡Lo casi imposible...\\. a punto de ser superado!!"
 #: data/maps/arid-dng/first/room-10.json+entities/35/settings/event/0/thenStep/0/message+%23895
 msgctxt "data/maps/arid-dng/first/room-10.json//entities/35/settings/event/0/thenStep/0/message"
 msgid "We see where this is going... but we won't let you have your way that easily!"
-msgstr "Ya veo a donde va esto... ¡pero no te saldrás con la tuya así de facil!"
+msgstr "Comprendemos lo que pretendes... ¡pero no te permitiremos salirte con la tuya así de fácil!"
 
 #. data/maps/arid-dng/first/room-10.json entities/35/settings/event/1/thenStep/0/message #896
 #. EventTrigger WallTalk START IF tmp.wallTalk > tmp.wallTalked
@@ -1871,7 +1871,7 @@ msgstr "Ya veo a donde va esto... ¡pero no te saldrás con la tuya así de faci
 #: data/maps/arid-dng/first/room-10.json+entities/35/settings/event/1/thenStep/0/message+%23896
 msgctxt "data/maps/arid-dng/first/room-10.json//entities/35/settings/event/1/thenStep/0/message"
 msgid "Now... How long can you keep up with this?!"
-msgstr "Ahora... ¡¿Cuánto tiempo puedes seguir con esto?!"
+msgstr "Veamos... ¡¿Cuánto tiempo podrás aguantar?!"
 
 #. data/maps/arid-dng/first/room-10.json entities/35/settings/event/1/thenStep/1/message #897
 #. EventTrigger WallTalk START IF tmp.wallTalk > tmp.wallTalked
@@ -1907,7 +1907,7 @@ msgstr "Yyyy... ¡¡YA!!"
 #: data/maps/arid-dng/first/room-10.json+entities/35/settings/event/4/thenStep/0/message+%23900
 msgctxt "data/maps/arid-dng/first/room-10.json//entities/35/settings/event/4/thenStep/0/message"
 msgid "Quick, to the marker!!"
-msgstr "¡¡Rápdio, al marcador!!"
+msgstr "¡¡Rápido, al marcador!!"
 
 #. data/maps/arid-dng/first/room-10.json entities/36/settings/event/0/thenStep/0/message #906
 #. EventTrigger BossDies START IF tmp.bossKill || tmp.bossPreKill
@@ -1934,7 +1934,7 @@ msgstr "¡Noooo!\\. ¡Eso fue \\c[1]muy rápido\\c[0]!"
 #: data/maps/arid-dng/first/room-10.json+entities/36/settings/event/6/elseStep/0/message+%23912
 msgctxt "data/maps/arid-dng/first/room-10.json//entities/36/settings/event/6/elseStep/0/message"
 msgid "This is too rich!!"
-msgstr "¡¡Muy rico!!"
+msgstr "¡¡Esto es ridículo!!"
 
 #. data/maps/arid-dng/first/room-10.json entities/36/settings/event/45/message #903
 #. EventTrigger BossDies START IF tmp.bossKill || tmp.bossPreKill
@@ -1958,7 +1958,7 @@ msgstr "¡¿Lea?!"
 #: data/maps/arid-dng/first/room-11.json+entities/38/settings/event/22/message+%23854
 msgctxt "data/maps/arid-dng/first/room-11.json//entities/38/settings/event/22/message"
 msgid "D-Did you just break through that wall?!"
-msgstr "¡¿A-Acabas de romper a través de la pared?!"
+msgstr "¡¿A-Acabas de atravesar la pared?!"
 
 #. data/maps/arid-dng/first/room-11.json entities/38/settings/event/23/message #855
 #. EventTrigger startProper
@@ -1974,7 +1974,7 @@ msgstr "[asiente]"
 #: data/maps/arid-dng/first/room-11.json+entities/38/settings/event/24/message+%23856
 msgctxt "data/maps/arid-dng/first/room-11.json//entities/38/settings/event/24/message"
 msgid "...Okay."
-msgstr "...Okey."
+msgstr "...De acuerdo."
 
 #. data/maps/arid-dng/first/room-11.json entities/38/settings/event/25/message #857
 #. EventTrigger startProper
@@ -2014,7 +2014,7 @@ msgstr "¿Cómo es que llegaste aquí?"
 #: data/maps/arid-dng/first/room-11.json+entities/38/settings/event/35/message+%23861
 msgctxt "data/maps/arid-dng/first/room-11.json//entities/38/settings/event/35/message"
 msgid "I thought this place is instanced...?"
-msgstr "¿Creí que este lugar estaba instanciado...?"
+msgstr "Creí que este lugar estaba instanciado..."
 
 #. data/maps/arid-dng/first/room-11.json entities/38/settings/event/36/message #862
 #. EventTrigger startProper
@@ -2030,7 +2030,7 @@ msgstr "..."
 #: data/maps/arid-dng/first/room-11.json+entities/38/settings/event/38/message+%23863
 msgctxt "data/maps/arid-dng/first/room-11.json//entities/38/settings/event/38/message"
 msgid "Lea, we must hurry!"
-msgstr "¡Lea, debemos apurarnos!"
+msgstr "¡Lea, debemos apresurarnos!"
 
 #. data/maps/arid-dng/first/room-11.json entities/38/settings/event/39/message #864
 #. EventTrigger startProper
@@ -2046,7 +2046,7 @@ msgstr "¡Ambos deben tomar el próximo punto de salida!"
 #: data/maps/arid-dng/first/room-11.json+entities/38/settings/event/40/message+%23865
 msgctxt "data/maps/arid-dng/first/room-11.json//entities/38/settings/event/40/message"
 msgid "It will be your last jump!"
-msgstr "¡Será tu último salto!"
+msgstr "¡Este es el último!"
 
 #. data/maps/arid-dng/first/room-11.json entities/38/settings/event/41/message #866
 #. EventTrigger startProper
@@ -2062,7 +2062,7 @@ msgstr "¡...!"
 #: data/maps/arid-dng/first/room-11.json+entities/38/settings/event/51/message+%23869
 msgctxt "data/maps/arid-dng/first/room-11.json//entities/38/settings/event/51/message"
 msgid "What's that sign over there? Should we go there?"
-msgstr "¿Qué es ese símbolo de ahí? ¿Deberíamos ir allí?"
+msgstr "¿Qué es ese símbolo de ahí? ¿Debemos ir?"
 
 #. data/maps/arid-dng/first/room-11.json entities/38/settings/event/52/message #870
 #. EventTrigger startProper
@@ -2078,7 +2078,7 @@ msgstr "[asiente]"
 #: data/maps/arid-dng/first/room-11.json+entities/38/settings/event/53/message+%23871
 msgctxt "data/maps/arid-dng/first/room-11.json//entities/38/settings/event/53/message"
 msgid "O-Okay?"
-msgstr "¿O-Okey?"
+msgstr "¿B-Bueno?"
 
 #. data/maps/arid-dng/first/room-11.json entities/38/settings/event/62/message #872
 #. EventTrigger startProper
@@ -2086,7 +2086,7 @@ msgstr "¿O-Okey?"
 #: data/maps/arid-dng/first/room-11.json+entities/38/settings/event/62/message+%23872
 msgctxt "data/maps/arid-dng/first/room-11.json//entities/38/settings/event/62/message"
 msgid "Wait...\\.\\. What..."
-msgstr "Espera...\\.\\. Que..."
+msgstr "Espera...\\.\\. Qué..."
 
 #. data/maps/arid-dng/first/room-11.json entities/38/settings/event/68/message #873
 #. EventTrigger startProper
@@ -2102,7 +2102,7 @@ msgstr "\\s[5]Quéééééééééééééééééééééé..."
 #: data/maps/arid-dng/first/room-12.json+entities/30/settings/npcStates/0/event/2/message+%2332
 msgctxt "data/maps/arid-dng/first/room-12.json//entities/30/settings/npcStates/0/event/2/message"
 msgid "... and another rubbish pull. Why am I even playing this?"
-msgstr "... y otra tirada basura. ¿Por qué juego esto?"
+msgstr "...y otra vez me han dado basura. ¿Por qué juego esto?"
 
 #. data/maps/arid-dng/first/room-12.json entities/30/settings/npcStates/0/event/3/message #33
 #. NPC
@@ -2118,7 +2118,7 @@ msgstr "¿Hola?"
 #: data/maps/arid-dng/first/room-12.json+entities/30/settings/npcStates/0/event/4/message+%2330
 msgctxt "data/maps/arid-dng/first/room-12.json//entities/30/settings/npcStates/0/event/4/message"
 msgid "Ah, yes, greetings. I'm working!"
-msgstr "Ah, si, saludos. ¡Estoy trabajando!"
+msgstr "Ah, sí, saludos. ¡Estoy trabajando!"
 
 #. data/maps/arid-dng/first/room-12.json entities/30/settings/npcStates/0/event/5/message #31
 #. NPC
@@ -2134,7 +2134,7 @@ msgstr "... ¿Adiós?"
 #: data/maps/arid-dng/first/room-12.json+entities/36/settings/npcStates/0/event/2/message+%2315
 msgctxt "data/maps/arid-dng/first/room-12.json//entities/36/settings/npcStates/0/event/2/message"
 msgid "Oh hey, don't mind me. I'm just looking up recipes on how to brew new magical sounds."
-msgstr "Oh, hola, no me hagas caso. Solo estoy buscando recetas sobre como elaborar nuevos sonidos mágicos."
+msgstr "Oh, hola, no me hagas caso. Estoy buscando recetas sobre como elaborar sonidos mágicos."
 
 #. data/maps/arid-dng/first/room-12.json entities/36/settings/npcStates/0/event/3/message #16
 #. NPC
@@ -2150,7 +2150,7 @@ msgstr "¡Y sobre hechizos para cambiar mi voz, pero no le digas a nadie!"
 #: data/maps/arid-dng/first/room-12.json+entities/40/settings/npcStates/0/event/2/message+%2317
 msgctxt "data/maps/arid-dng/first/room-12.json//entities/40/settings/npcStates/0/event/2/message"
 msgid "Yo Lea, good to see you made it this far. "
-msgstr "Ey Lea, es bueno ver que llegaste hasta aquí. "
+msgstr "Oye Lea, me alegro de ver que hayas llegado hasta aquí. "
 
 #. data/maps/arid-dng/first/room-12.json entities/40/settings/npcStates/0/event/3/message #18
 #. NPC
@@ -2158,7 +2158,7 @@ msgstr "Ey Lea, es bueno ver que llegaste hasta aquí. "
 #: data/maps/arid-dng/first/room-12.json+entities/40/settings/npcStates/0/event/3/message+%2318
 msgctxt "data/maps/arid-dng/first/room-12.json//entities/40/settings/npcStates/0/event/3/message"
 msgid "I'm currently playing as you inside the game that plays inside a game. "
-msgstr "Estoy jugando como tú dentro del juego que juega dentro de un juego. "
+msgstr "Ahora mismo estoy jugando como tú dentro del juego, que se juega dentro de un juego. "
 
 #. data/maps/arid-dng/first/room-12.json entities/40/settings/npcStates/0/event/4/message #19
 #. NPC
@@ -2174,7 +2174,7 @@ msgstr "¿...?"
 #: data/maps/arid-dng/first/room-12.json+entities/40/settings/npcStates/0/event/5/message+%2320
 msgctxt "data/maps/arid-dng/first/room-12.json//entities/40/settings/npcStates/0/event/5/message"
 msgid "Don't think to much about it. 'Else we reach a singularity."
-msgstr "No pienses mucho en ello. Sino alcanzaremos una singularidad."
+msgstr "No le des muchas vueltas. Puede que alcancemos una singularidad."
 
 #. data/maps/arid-dng/first/room-12.json entities/46/settings/npcStates/0/event/2/message #29
 #. NPC
@@ -2265,7 +2265,7 @@ msgstr "Git Gud: Edición Desarrollador de Videojuegos"
 #: data/maps/arid-dng/first/room-12.json+entities/68/settings/text+%2323
 msgctxt "data/maps/arid-dng/first/room-12.json//entities/68/settings/text"
 msgid "A literal cactus"
-msgstr "Un cactus literal"
+msgstr "Es solo un cactus"
 
 #. data/maps/arid-dng/first/room-12.json entities/69/settings/text #24
 #. Analyzable
@@ -2279,7 +2279,7 @@ msgstr "Sir Radfish van Blob"
 #: data/maps/arid-dng/first/room-12.json+entities/70/settings/text+%2327
 msgctxt "data/maps/arid-dng/first/room-12.json//entities/70/settings/text"
 msgid "There is nothing here"
-msgstr "No hay nada aquí"
+msgstr "Nada por aquí"
 
 #. data/maps/arid-dng/first/room-12.json entities/81/settings/npcStates/0/event/2/message #34
 #. NPC
@@ -2295,7 +2295,7 @@ msgstr "Es difícil satisfacer las papilas gustativas de todos..."
 #: data/maps/arid-dng/first/room-12.json+entities/81/settings/npcStates/0/event/3/message+%2335
 msgctxt "data/maps/arid-dng/first/room-12.json//entities/81/settings/npcStates/0/event/3/message"
 msgid "...but watching them falling into a food coma with a smile on their face is really worth it!"
-msgstr "...pero verlos caer en un coma de comida con una sonrisa en su cara lo vale todo!"
+msgstr "...¡pero ver a la gente quedar boquiabierta por la comida y con una gran sonrisa lo vale!"
 
 #. data/maps/arid-dng/first/room-12.json entities/81/settings/npcStates/0/event/4/message #36
 #. NPC
@@ -2325,7 +2325,7 @@ msgstr "Una bendición"
 #: data/maps/arid-dng/first/room-12.json+entities/85/settings/npcStates/0/event/2/message+%2340
 msgctxt "data/maps/arid-dng/first/room-12.json//entities/85/settings/npcStates/0/event/2/message"
 msgid "Hey, I'm just somebody who's been animated by a certain someone. I shouldn't be here."
-msgstr "Ey, solo soy alguien que ha sido animado por algún tipo. No debería estar aquí."
+msgstr "Oye, yo solo he sido animada por un tipo particular. No debería estar aquí."
 
 #. data/maps/arid-dng/first/room-12.json entities/85/settings/npcStates/0/event/3/message #41
 #. NPC
@@ -2341,7 +2341,7 @@ msgstr "¿...?"
 #: data/maps/arid-dng/first/room-12.json+entities/85/settings/npcStates/0/event/4/message+%2342
 msgctxt "data/maps/arid-dng/first/room-12.json//entities/85/settings/npcStates/0/event/4/message"
 msgid "Oh, I heard he has animated you, too!"
-msgstr "Oh, ¡he oído que te animó a tí también!"
+msgstr "Oh, ¡he oído que también te animó a ti!"
 
 #. data/maps/arid-dng/first/room-12.json entities/85/settings/npcStates/0/event/5/message #43
 #. NPC
