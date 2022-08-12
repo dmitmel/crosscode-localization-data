@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-08-12 03:30+0000\n"
+"PO-Revision-Date: 2022-08-12 04:16+0000\n"
 "Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/arid/es/>\n"
 "Language: es_ES\n"
@@ -3796,7 +3796,7 @@ msgstr "Usar Terminal."
 #: data/maps/arid/interior/stealth-2.json+entities/46/settings/condAnims/0/interact/event/31/message+%2320
 msgctxt "data/maps/arid/interior/stealth-2.json//entities/46/settings/condAnims/0/interact/event/31/message"
 msgid "I totally saw that one coming!"
-msgstr "¡Ya me lo veía venir!"
+msgstr "¡Ya tardaban!"
 
 #. data/maps/arid/interior/stealth-2.json entities/46/settings/condAnims/0/interact/event/32/message #21
 #. Prop
@@ -3830,7 +3830,7 @@ msgstr "Esta terminal está posicionada de forma demasiado conveniente, ¿no cre
 #: data/maps/arid/interior/stealth-2.json+entities/90/settings/npcStates/3/event/2/message+%2322
 msgctxt "data/maps/arid/interior/stealth-2.json//entities/90/settings/npcStates/3/event/2/message"
 msgid "Let's hope that exit opened up now..."
-msgstr "Espero que esa salida se haya abierto ahora..."
+msgstr "La salida debería estar abierta ahora..."
 
 #. data/maps/arid/interior/stealth-2.json entities/91/settings/event/7/message #5
 #. EventTrigger areaIntro START IF true
@@ -3838,7 +3838,7 @@ msgstr "Espero que esa salida se haya abierto ahora..."
 #: data/maps/arid/interior/stealth-2.json+entities/91/settings/event/7/message+%235
 msgctxt "data/maps/arid/interior/stealth-2.json//entities/91/settings/event/7/message"
 msgid "There's supposedly more guards down here."
-msgstr "Se supone que hay más guardias ahí abajo."
+msgstr "Supuestamente hay más guardias aquí abajo."
 
 #. data/maps/arid/interior/stealth-2.json entities/91/settings/event/8/message #6
 #. EventTrigger areaIntro START IF true
@@ -3862,7 +3862,7 @@ msgstr "..."
 #: data/maps/arid/interior/stealth-2.json+entities/100/settings/event/8/message+%2310
 msgctxt "data/maps/arid/interior/stealth-2.json//entities/100/settings/event/8/message"
 msgid "Hm... this is the only way, isn't it? Maybe there's something in this room."
-msgstr "Hm... este es el único camino, ¿no? Quizá haya algo en esta habitación."
+msgstr "Hm... ¿punto muerto? Quizá haya algo en esta habitación."
 
 #. data/maps/arid/interior/stealth-2.json entities/124/settings/event/7/thenStep/0/message #23
 #. EventTrigger Battle End START IF map.preDone
@@ -3871,7 +3871,7 @@ msgstr "Hm... este es el único camino, ¿no? Quizá haya algo en esta habitaci�
 #: data/maps/arid/interior/stealth-2.json+entities/124/settings/event/7/thenStep/0/message+%2323
 msgctxt "data/maps/arid/interior/stealth-2.json//entities/124/settings/event/7/thenStep/0/message"
 msgid "Aaaaand done."
-msgstr "Yyyyyy hecho."
+msgstr "Yyyyyy listo."
 
 #. data/maps/arid/interior/stealth-2.json entities/124/settings/event/7/elseStep/0/message #8
 #. EventTrigger Battle End START IF map.preDone
@@ -3888,7 +3888,7 @@ msgstr "Finalmente..."
 #: data/maps/arid/interior/stealth-2.json+entities/125/settings/event/11/message+%234
 msgctxt "data/maps/arid/interior/stealth-2.json//entities/125/settings/event/11/message"
 msgid "Alright, another elevator! Let's hope that one goes up again."
-msgstr "¡Bien, otro elevador! Espero que este suba también."
+msgstr "¡Bien, otro elevador! Espero que este nos devuelva arriba."
 
 #. data/maps/arid/interior/stealth-3.json entities/1/settings/destinations/0/label #1
 #. Elevator elevator
@@ -9159,7 +9159,7 @@ msgstr "Vete."
 #: data/maps/arid/tower-1.json+entities/195/settings/blockEvent/0/thenStep/2/message+%231220
 msgctxt "data/maps/arid/tower-1.json//entities/195/settings/blockEvent/0/thenStep/2/message"
 msgid "Lea? Don't you remember all those guards lining up right at the entrance?"
-msgstr "¿Lea? ¿No recuerdas a esos guardias enfilandose justo en la entrada?"
+msgstr "¿Lea? ¿Ya te olvidaste de todos los guardias que habían apilados en la entrada?"
 
 #. data/maps/arid/tower-1.json entities/195/settings/blockEvent/0/thenStep/3/message #1221
 #. TeleportGround south-1
@@ -9262,7 +9262,7 @@ msgstr "Bien... ahora solo tenemos que pasar por allí... sin que nos vean."
 #: data/maps/arid/tower-1.json+entities/242/settings/event/10/thenStep/0/message+%231263
 msgctxt "data/maps/arid/tower-1.json//entities/242/settings/event/10/thenStep/0/message"
 msgid "I'm afraid your \\c[1]one-hit-kill\\c[0] ability won't help us much here."
-msgstr "Me temo de que tu habilidad de \\c[1]muerte instantánea\\c[0] no nos ayudará mucho aquí."
+msgstr "Me temo que tu habilidad de \\c[1]muerte instantánea\\c[0] no nos servirá de mucho."
 
 #. data/maps/arid/tower-1.json entities/242/settings/event/11/message #53
 #. EventTrigger StealthStart START IF plot.line >= 13620
@@ -9270,7 +9270,7 @@ msgstr "Me temo de que tu habilidad de \\c[1]muerte instantánea\\c[0] no nos ay
 #: data/maps/arid/tower-1.json+entities/242/settings/event/11/message+%2353
 msgctxt "data/maps/arid/tower-1.json//entities/242/settings/event/11/message"
 msgid "There's supposedly a door up there that we can enter."
-msgstr "Se supone que hay una puerta por allí por la que podemos entrar."
+msgstr "Se supone que hay una puerta tras estos guardias por la que podremos entrar."
 
 #. data/maps/arid/tower-1.json entities/242/settings/event/18/message #54
 #. EventTrigger StealthStart START IF plot.line >= 13620
@@ -9278,7 +9278,7 @@ msgstr "Se supone que hay una puerta por allí por la que podemos entrar."
 #: data/maps/arid/tower-1.json+entities/242/settings/event/18/message+%2354
 msgctxt "data/maps/arid/tower-1.json//entities/242/settings/event/18/message"
 msgid "Let's go separately, it's probably easier to stay hidden that way."
-msgstr "Vayamos separados, será más facil que no nos vean así."
+msgstr "Vayamos separados, será más sencillo escabullirse de ese modo."
 
 #. data/maps/arid/tower-1.json entities/242/settings/event/19/message #55
 #. EventTrigger StealthStart START IF plot.line >= 13620
@@ -9358,7 +9358,7 @@ msgstr "Esta bien, ¡ve tú primera!"
 #: data/maps/arid/tower-1.json+entities/242/settings/event/28/message+%2364
 msgctxt "data/maps/arid/tower-1.json//entities/242/settings/event/28/message"
 msgid "I've got your back!"
-msgstr "¡Yo me quedo atrás!"
+msgstr "¡Yo te cubro!"
 
 #. data/maps/arid/tower-1.json entities/242/settings/event/29/message #65
 #. EventTrigger StealthStart START IF plot.line >= 13620
@@ -9414,7 +9414,7 @@ msgstr "Bien, ¡parece que nos acercamos!"
 #: data/maps/arid/tower-1.json+entities/258/settings/event/10/message+%2370
 msgctxt "data/maps/arid/tower-1.json//entities/258/settings/event/10/message"
 msgid "Whoa... we did it, didn't we?"
-msgstr "Wow... lo logramos, ¿no?"
+msgstr "Puff... lo conseguimos, ¿no?"
 
 #. data/maps/arid/tower-1.json entities/258/settings/event/11/message #71
 #. EventTrigger StealthEnd START IF tmp.stealthDone
@@ -9438,7 +9438,7 @@ msgstr "Bien... veamos si podemos acceder a la torre desde aquí."
 #: data/maps/arid/tower-1.json+entities/258/settings/event/26/message+%2373
 msgctxt "data/maps/arid/tower-1.json//entities/258/settings/event/26/message"
 msgid "It's... entirely empty?"
-msgstr "Está... ¿completamente vacía?"
+msgstr "La entrada... ¿por qué está completamente desprotegida?"
 
 #. data/maps/arid/tower-1.json entities/258/settings/event/27/message #74
 #. EventTrigger StealthEnd START IF tmp.stealthDone
@@ -9446,7 +9446,7 @@ msgstr "Está... ¿completamente vacía?"
 #: data/maps/arid/tower-1.json+entities/258/settings/event/27/message+%2374
 msgctxt "data/maps/arid/tower-1.json//entities/258/settings/event/27/message"
 msgid "What a strange way to prioritize security."
-msgstr "Que forma tan extraña de priorizar la seguridad."
+msgstr "Tienen que arreglar sus prioridades."
 
 #. data/maps/arid/tower-1.json entities/258/settings/event/28/message #75
 #. EventTrigger StealthEnd START IF tmp.stealthDone
@@ -9462,7 +9462,7 @@ msgstr "..."
 #: data/maps/arid/tower-1.json+entities/258/settings/event/29/message+%2376
 msgctxt "data/maps/arid/tower-1.json//entities/258/settings/event/29/message"
 msgid "Well then... nothing stopping us here. Let's enter that tower!"
-msgstr "Entonces... no hay nada que nos detenga. ¡Entremos a la torre!"
+msgstr "Entonces... no hay nada que nos detenga. ¡Entremos en la torre!"
 
 #. data/maps/arid/tower-1.json entities/258/settings/event/30/message #77
 #. EventTrigger StealthEnd START IF tmp.stealthDone
@@ -9478,7 +9478,7 @@ msgstr "[asiente]"
 #: data/maps/arid/tower-1.json+entities/258/settings/event/37/task+%23873
 msgctxt "data/maps/arid/tower-1.json//entities/258/settings/event/37/task"
 msgid "Enter the tower together with Lukas."
-msgstr "Entra a la torre con Lukas."
+msgstr "Entra en la torre junto a Lukas."
 
 #. data/maps/arid/tower-1.json entities/261/settings/event/4/message #79
 #. EventTrigger enterTower START IF tmp.enterTower
@@ -9502,7 +9502,7 @@ msgstr "Hm..."
 #: data/maps/arid/tower-1.json+entities/261/settings/event/12/message+%2381
 msgctxt "data/maps/arid/tower-1.json//entities/261/settings/event/12/message"
 msgid "I gotta be honest... I have a bad feeling about this."
-msgstr "Debo ser sincero... tengo un mal presentimiento."
+msgstr "Debo ser sincero... esto me da mala espina."
 
 #. data/maps/arid/tower-1.json entities/261/settings/event/13/message #82
 #. EventTrigger enterTower START IF tmp.enterTower
@@ -9518,7 +9518,7 @@ msgstr "¿Por qué?"
 #: data/maps/arid/tower-1.json+entities/261/settings/event/14/message+%2383
 msgctxt "data/maps/arid/tower-1.json//entities/261/settings/event/14/message"
 msgid "The way we managed to get past all those guards."
-msgstr "La forma en la que logramos esquivar esos guardias."
+msgstr "¿No te pareció un poco.... sencillo?"
 
 #. data/maps/arid/tower-1.json entities/261/settings/event/15/message #84
 #. EventTrigger enterTower START IF tmp.enterTower
@@ -9534,7 +9534,7 @@ msgstr "¿No parece casi... intencional?"
 #: data/maps/arid/tower-1.json+entities/261/settings/event/16/message+%2385
 msgctxt "data/maps/arid/tower-1.json//entities/261/settings/event/16/message"
 msgid "Like they wanted us to get through here?"
-msgstr "¿Como si quisieran que pasásemos por aquí?"
+msgstr "¿Como si quisieran que entremos aquí?"
 
 #. data/maps/arid/tower-1.json entities/261/settings/event/17/message #86
 #. EventTrigger enterTower START IF tmp.enterTower
@@ -9550,7 +9550,7 @@ msgstr "..."
 #: data/maps/arid/tower-1.json+entities/261/settings/event/18/message+%2387
 msgctxt "data/maps/arid/tower-1.json//entities/261/settings/event/18/message"
 msgid "Well... it's not like we have any other option, right?"
-msgstr "Bueno... no es como si tuvieramos otra opción, ¿no?"
+msgstr "Pero... a decir verdad no tenemos más alternativa."
 
 #. data/maps/arid/tower-1.json entities/261/settings/event/19/message #88
 #. EventTrigger enterTower START IF tmp.enterTower
@@ -9566,7 +9566,7 @@ msgstr "[asiente]"
 #: data/maps/arid/tower-1.json+entities/261/settings/event/20/message+%2389
 msgctxt "data/maps/arid/tower-1.json//entities/261/settings/event/20/message"
 msgid "Alright then. Let's enter and see what happens!"
-msgstr "De acuerdo. ¡Entremos y veamos que pasa!"
+msgstr "Muy bien. ¡Entremos y veamos que pasa!"
 
 #. data/maps/arid/tower-1.json entities/262/settings/event/7/message #872
 #. EventTrigger StealthRestart START IF plot.stealthBreak
@@ -12356,7 +12356,7 @@ msgstr "¡...!"
 #: data/maps/arid/town-1.json+entities/305/settings/npcStates/3/event/7/message+%23195
 msgctxt "data/maps/arid/town-1.json//entities/305/settings/npcStates/3/event/7/message"
 msgid "H-How long have I been sitting here?"
-msgstr "¿Q-Que cuanto tiempo llevo sentado aquí?"
+msgstr "¿Q-Qué cuanto tiempo llevo sentado aquí?"
 
 #. data/maps/arid/town-1.json entities/305/settings/npcStates/3/event/8/message #196
 #. NPC plotQuadro
@@ -12383,7 +12383,7 @@ msgstr "..."
 #: data/maps/arid/town-1.json+entities/305/settings/npcStates/3/event/10/message+%23198
 msgctxt "data/maps/arid/town-1.json//entities/305/settings/npcStates/3/event/10/message"
 msgid "Remember the other guy that was with me all the time?"
-msgstr "¿Recuerdas al otro tipo que estaba conmigo todo el tiempo?"
+msgstr "¿Recuerdas al otro tipo que estaba siempre conmigo?"
 
 #. data/maps/arid/town-1.json entities/305/settings/npcStates/3/event/11/message #199
 #. NPC plotQuadro
@@ -12401,7 +12401,7 @@ msgstr "Ayer, fue a la torre... Así que se ha ido."
 #: data/maps/arid/town-1.json+entities/305/settings/npcStates/3/event/12/message+%23200
 msgctxt "data/maps/arid/town-1.json//entities/305/settings/npcStates/3/event/12/message"
 msgid "Should I... go there myself as well?"
-msgstr "¿Debería... ir allí yo tambíen?"
+msgstr "¿Debería... ir allí yo también?"
 
 #. data/maps/arid/town-1.json entities/305/settings/npcStates/3/event/13/message #201
 #. NPC plotQuadro
@@ -12428,7 +12428,7 @@ msgstr "Realmente no lo sé.\\. No lo entiendo...\\. No entiendo nada de esto."
 #: data/maps/arid/town-1.json+entities/305/settings/npcStates/3/event/15/message+%23203
 msgctxt "data/maps/arid/town-1.json//entities/305/settings/npcStates/3/event/15/message"
 msgid "Going to that tower is the only way left."
-msgstr "Ir a esa torre es el único camino que queda."
+msgstr "Ir a esa torre es el único camino que me queda."
 
 #. data/maps/arid/town-1.json entities/305/settings/npcStates/3/event/16/message #204
 #. NPC plotQuadro
@@ -12437,7 +12437,7 @@ msgstr "Ir a esa torre es el único camino que queda."
 #: data/maps/arid/town-1.json+entities/305/settings/npcStates/3/event/16/message+%23204
 msgctxt "data/maps/arid/town-1.json//entities/305/settings/npcStates/3/event/16/message"
 msgid "Yet nobody knows what awaits us there..."
-msgstr "Aún así, nadie sabe lo que nos espera ahí..."
+msgstr "Pero... nadie sabe lo que nos espera allí..."
 
 #. data/maps/arid/town-1.json entities/306/settings/dialog/0/text #177
 #. XenoDialog firstTalk SPAWN IF plot.line >= 12500 && plot.line < 13250
