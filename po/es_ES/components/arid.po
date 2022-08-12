@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-08-12 02:17+0000\n"
+"PO-Revision-Date: 2022-08-12 03:11+0000\n"
 "Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/arid/es/>\n"
 "Language: es_ES\n"
@@ -1485,7 +1485,7 @@ msgstr "..."
 #: data/maps/arid/forest-1.json+entities/561/settings/event/14/thenStep/0/message+%23919
 msgctxt "data/maps/arid/forest-1.json//entities/561/settings/event/14/thenStep/0/message"
 msgid "They might throw another high level enemy at us, so I'll be counting on your support in that case."
-msgstr "Puede que nos enfrentemos a más enemigos de alto nivel, así que contaré contigo en ese caso."
+msgstr "Puede que nos estén esperando enemigos difíciles ahí dentro, así que \\c[1]cuento con tu ayuda\\c[0]."
 
 #. data/maps/arid/forest-1.json entities/561/settings/event/14/elseStep/0/message #202
 #. EventTrigger BeforeTrailBuldingEnter2 START IF tmp.beforeTrialBuilding && plot.line >= 13300
@@ -1494,7 +1494,7 @@ msgstr "Puede que nos enfrentemos a más enemigos de alto nivel, así que contar
 #: data/maps/arid/forest-1.json+entities/561/settings/event/14/elseStep/0/message+%23202
 msgctxt "data/maps/arid/forest-1.json//entities/561/settings/event/14/elseStep/0/message"
 msgid "They might throw another high level enemy at us, so better keep your guard up."
-msgstr "Puede que nos enfrentemos a más enemigos de alto nivel, así que mejor estate atenta."
+msgstr "Puede que nos estén esperando enemigos difíciles ahí dentro, estemos alerta."
 
 #. data/maps/arid/forest-1.json entities/561/settings/event/15/message #203
 #. EventTrigger BeforeTrailBuldingEnter2 START IF tmp.beforeTrialBuilding && plot.line >= 13300
@@ -1734,7 +1734,7 @@ msgstr "..."
 #: data/maps/arid/interior/barrack-room01.json+entities/37/settings/event/9/message+%2317
 msgctxt "data/maps/arid/interior/barrack-room01.json//entities/37/settings/event/9/message"
 msgid "So...\\. I guess this is where we split."
-msgstr "Así que...\\. Supongo que aquí nos separamos."
+msgstr "Bueno...\\. Supongo que aquí nos despedimos."
 
 #. data/maps/arid/interior/barrack-room01.json entities/37/settings/event/10/message #22
 #. EventTrigger GoToBed_Day3 START IF tmp.goToBed && plot.line >= 13100
@@ -1750,7 +1750,7 @@ msgstr "..."
 #: data/maps/arid/interior/barrack-room01.json+entities/37/settings/event/11/message+%2321
 msgctxt "data/maps/arid/interior/barrack-room01.json//entities/37/settings/event/11/message"
 msgid "Will you be okay by yourself?"
-msgstr "¿Estarás bien por ti misma?"
+msgstr "¿Estarás bien tú sola?"
 
 #. data/maps/arid/interior/barrack-room01.json entities/37/settings/event/13/message #19
 #. EventTrigger GoToBed_Day3 START IF tmp.goToBed && plot.line >= 13100
@@ -1766,7 +1766,7 @@ msgstr "..."
 #: data/maps/arid/interior/barrack-room01.json+entities/37/settings/event/22/message+%2323
 msgctxt "data/maps/arid/interior/barrack-room01.json//entities/37/settings/event/22/message"
 msgid "Things will work out."
-msgstr "Las cosas saldrán bien."
+msgstr "Todo saldrá bien."
 
 #. data/maps/arid/interior/barrack-room01.json entities/37/settings/event/23/message #24
 #. EventTrigger GoToBed_Day3 START IF tmp.goToBed && plot.line >= 13100
@@ -2331,7 +2331,7 @@ msgstr "¿...?"
 #: data/maps/arid/interior/flat.json+entities/35/settings/event/33/message+%2329
 msgctxt "data/maps/arid/interior/flat.json//entities/35/settings/event/33/message"
 msgid "Uhm...\\. Junge, I sure wonder what room this is?"
-msgstr "Uhm...\\. Junge, me pregunto que será esta habitación."
+msgstr "Uhm...\\. Junge, me pregunto qué será esta habitación."
 
 #. data/maps/arid/interior/flat.json entities/35/settings/event/34/message #30
 #. EventTrigger FirstEnteredWithSchneider
@@ -7637,7 +7637,7 @@ msgstr "Bien, mira...\\. no puedo seguir viéndote así."
 #: data/maps/arid/lake-1.json+entities/511/settings/event/18/message+%23151
 msgctxt "data/maps/arid/lake-1.json//entities/511/settings/event/18/message"
 msgid "There must be a way to help you out of this."
-msgstr "Debe haber una forma de ayudarte un poco."
+msgstr "Debe haber una forma en que pueda ayudar."
 
 #. data/maps/arid/lake-1.json entities/511/settings/event/19/message #152
 #. EventTrigger LakeScene1 START IF plot.line >= 13010
@@ -7685,7 +7685,7 @@ msgstr "Bien, veamos..."
 #: data/maps/arid/lake-1.json+entities/511/settings/event/24/message+%23157
 msgctxt "data/maps/arid/lake-1.json//entities/511/settings/event/24/message"
 msgid "I suppose you remembered something about yourself... Something that made you sad?"
-msgstr "Supongo que recordaste algo de tí misma... ¿Algo que te puso triste?"
+msgstr "Supongo que recordaste algo de ti misma... ¿Algo que te puso triste?"
 
 #. data/maps/arid/lake-1.json entities/511/settings/event/25/message #158
 #. EventTrigger LakeScene1 START IF plot.line >= 13010
@@ -7717,7 +7717,7 @@ msgstr "Bien, ¿qué podrá ser?"
 #: data/maps/arid/lake-1.json+entities/511/settings/event/28/message+%23161
 msgctxt "data/maps/arid/lake-1.json//entities/511/settings/event/28/message"
 msgid "Did you...\\. lose somebody dear to you?"
-msgstr "¿Perdiste...\\. a alguien importante para tí?"
+msgstr "¿No habrás...\\. perdido a alguien cercano a ti?"
 
 #. data/maps/arid/lake-1.json entities/511/settings/event/29/message #167
 #. EventTrigger LakeScene1 START IF plot.line >= 13010
@@ -7781,7 +7781,7 @@ msgstr "Lamento oír eso..."
 #: data/maps/arid/lake-1.json+entities/511/settings/event/36/message+%23170
 msgctxt "data/maps/arid/lake-1.json//entities/511/settings/event/36/message"
 msgid "Just what did this person exactly do to you..."
-msgstr "Qué habrá hecho esta persona exactamente..."
+msgstr "Qué habrá hecho esta persona..."
 
 #. data/maps/arid/lake-1.json entities/511/settings/event/37/message #171
 #. EventTrigger LakeScene1 START IF plot.line >= 13010
@@ -7797,7 +7797,7 @@ msgstr "..."
 #: data/maps/arid/lake-1.json+entities/511/settings/event/38/message+%23188
 msgctxt "data/maps/arid/lake-1.json//entities/511/settings/event/38/message"
 msgid "Are all your troubles... because of that person?"
-msgstr "¿Son todos tus problemas... producto de esa persona?"
+msgstr "¿Eso es todo lo que pasó?"
 
 #. data/maps/arid/lake-1.json entities/511/settings/event/39/message #172
 #. EventTrigger LakeScene1 START IF plot.line >= 13010
@@ -7861,7 +7861,7 @@ msgstr "..."
 #: data/maps/arid/lake-1.json+entities/511/settings/event/48/message+%23178
 msgctxt "data/maps/arid/lake-1.json//entities/511/settings/event/48/message"
 msgid "I wonder how the others are doing.\\. Hlin, Buggy, Emilie...\\. all of them."
-msgstr "Me pregunto como estarán los otros.\\. Hlin, Buggy, Emilie...\\. todos ellos."
+msgstr "Me pregunto como estarán los demás.\\. Hlin, Buggy, Emilie...\\. todos ellos."
 
 #. data/maps/arid/lake-1.json entities/511/settings/event/49/message #179
 #. EventTrigger LakeScene1 START IF plot.line >= 13010
@@ -7877,7 +7877,7 @@ msgstr "..."
 #: data/maps/arid/lake-1.json+entities/511/settings/event/50/message+%23180
 msgctxt "data/maps/arid/lake-1.json//entities/511/settings/event/50/message"
 msgid "It seemed like you got along quite well with Emilie and Tronny, didn't you?"
-msgstr "Pareciera que te llevas bastante bien con Emilie y Tronny, ¿no?"
+msgstr "Te llevas bastante bien con Emilie y Tronny, ¿no?"
 
 #. data/maps/arid/lake-1.json entities/511/settings/event/51/message #181
 #. EventTrigger LakeScene1 START IF plot.line >= 13010
@@ -7893,7 +7893,7 @@ msgstr "[asiente]"
 #: data/maps/arid/lake-1.json+entities/511/settings/event/52/message+%23182
 msgctxt "data/maps/arid/lake-1.json//entities/511/settings/event/52/message"
 msgid "So...\\. I'm sure we'll be missed."
-msgstr "Entonces...\\. estoy seguro de que nos extrañan."
+msgstr "Me alegro...\\. estoy seguro de que nos extrañan."
 
 #. data/maps/arid/lake-1.json entities/511/settings/event/53/message #183
 #. EventTrigger LakeScene1 START IF plot.line >= 13010
@@ -7901,7 +7901,7 @@ msgstr "Entonces...\\. estoy seguro de que nos extrañan."
 #: data/maps/arid/lake-1.json+entities/511/settings/event/53/message+%23183
 msgctxt "data/maps/arid/lake-1.json//entities/511/settings/event/53/message"
 msgid "In difficult times like these...\\. it's good to know there are people out there that care for you."
-msgstr "En tiempos difíciles como estos...\\. es bueno saber que hay gente que se preocupa por tí."
+msgstr "En tiempos difíciles como estos...\\. es bueno saber que hay gente que se preocupa por ti."
 
 #. data/maps/arid/lake-1.json entities/511/settings/event/54/message #184
 #. EventTrigger LakeScene1 START IF plot.line >= 13010
@@ -7933,7 +7933,7 @@ msgstr "..."
 #: data/maps/arid/lake-1.json+entities/511/settings/event/71/message+%23193
 msgctxt "data/maps/arid/lake-1.json//entities/511/settings/event/71/message"
 msgid "I think it's probably better if we call it a day."
-msgstr "Creo que sería mejor si paramos por hoy."
+msgstr "Creo que sería mejor que acabemos por hoy."
 
 #. data/maps/arid/lake-1.json entities/511/settings/event/72/message #194
 #. EventTrigger LakeScene1 START IF plot.line >= 13010
@@ -7965,7 +7965,7 @@ msgstr "De acuerdo, de vuelta al dormitorio."
 #: data/maps/arid/lake-1.json+entities/511/settings/event/76/task+%2329
 msgctxt "data/maps/arid/lake-1.json//entities/511/settings/event/76/task"
 msgid "You decided to call it a day and head back to the \\c[3]Dormitory\\c[0]."
-msgstr "Decidiste parar por hoy y volver al \\c[3]Dormitorio\\c[0]."
+msgstr "Decidiste acabar por hoy y volver al \\c[3]Dormitorio\\c[0]."
 
 #. data/maps/arid/lake-1.json entities/512/settings/event/11/message #197
 #. EventTrigger LakeScene2 START IF plot.line >= 13400
@@ -7973,7 +7973,7 @@ msgstr "Decidiste parar por hoy y volver al \\c[3]Dormitorio\\c[0]."
 #: data/maps/arid/lake-1.json+entities/512/settings/event/11/message+%23197
 msgctxt "data/maps/arid/lake-1.json//entities/512/settings/event/11/message"
 msgid "Beating up that Rhino-thing just to see such a place, I can't believe it."
-msgstr "Derrotar a esa cosa que se parece a un rinoceronte para ver un lugar como este... no lo puedo creer."
+msgstr "Tuvimos que derrotar a ese rinoceronte robot para ver un lugar como ese. No lo puedo creer."
 
 #. data/maps/arid/lake-1.json entities/512/settings/event/12/message #198
 #. EventTrigger LakeScene2 START IF plot.line >= 13400
@@ -8013,7 +8013,7 @@ msgstr "..."
 #: data/maps/arid/lake-1.json+entities/512/settings/event/18/message+%23202
 msgctxt "data/maps/arid/lake-1.json//entities/512/settings/event/18/message"
 msgid "Anyway... I seem to remember a little more now."
-msgstr "Como sea... creo recordar un poco más ahora."
+msgstr "En fin... creo que recuerdo un poco más ahora."
 
 #. data/maps/arid/lake-1.json entities/512/settings/event/19/message #203
 #. EventTrigger LakeScene2 START IF plot.line >= 13400
@@ -8021,7 +8021,7 @@ msgstr "Como sea... creo recordar un poco más ahora."
 #: data/maps/arid/lake-1.json+entities/512/settings/event/19/message+%23203
 msgctxt "data/maps/arid/lake-1.json//entities/512/settings/event/19/message"
 msgid "Like the place I live at...\\. the place I work at..."
-msgstr "Como el lugar en donde vivo...\\. el lugar en donde trabajo..."
+msgstr "Recuerdo dónde vivo...\\. dónde trabajo..."
 
 #. data/maps/arid/lake-1.json entities/512/settings/event/20/message #204
 #. EventTrigger LakeScene2 START IF plot.line >= 13400
@@ -8037,7 +8037,7 @@ msgstr "¿Cómo se llamaba la compañía? "
 #: data/maps/arid/lake-1.json+entities/512/settings/event/21/message+%23205
 msgctxt "data/maps/arid/lake-1.json//entities/512/settings/event/21/message"
 msgid "Anyway, I think I worked in the IT department..."
-msgstr "Como sea, creo que trabajaba en el departamento de IT..."
+msgstr "No lo se, pero creo que trabajaba en el departamento de IT..."
 
 #. data/maps/arid/lake-1.json entities/512/settings/event/22/message #206
 #. EventTrigger LakeScene2 START IF plot.line >= 13400
@@ -8061,7 +8061,7 @@ msgstr "Aún así... todo esto se siente muy raro."
 #: data/maps/arid/lake-1.json+entities/512/settings/event/24/message+%23208
 msgctxt "data/maps/arid/lake-1.json//entities/512/settings/event/24/message"
 msgid "Like...\\. why did I forget all of this suddenly?"
-msgstr "O sea...\\. ¿cómo es que me olvidé de todo esto así de repente?"
+msgstr "Es decir...\\. ¿por qué olvidé todo así de repente?"
 
 #. data/maps/arid/lake-1.json entities/512/settings/event/25/message #209
 #. EventTrigger LakeScene2 START IF plot.line >= 13400
@@ -8093,7 +8093,7 @@ msgstr "¿...?"
 #: data/maps/arid/lake-1.json+entities/512/settings/event/28/message+%23212
 msgctxt "data/maps/arid/lake-1.json//entities/512/settings/event/28/message"
 msgid "I'm spending all of my time in this game now...."
-msgstr "Estoy pasando todo mi tiempo en este juego ahora...."
+msgstr "Todo mi tiempo está pasando en este juego ahora..."
 
 #. data/maps/arid/lake-1.json entities/512/settings/event/29/message #213
 #. EventTrigger LakeScene2 START IF plot.line >= 13400
@@ -8101,7 +8101,7 @@ msgstr "Estoy pasando todo mi tiempo en este juego ahora...."
 #: data/maps/arid/lake-1.json+entities/512/settings/event/29/message+%23213
 msgctxt "data/maps/arid/lake-1.json//entities/512/settings/event/29/message"
 msgid "The only thing left from my \"real life\" are those memories that are slowly returning."
-msgstr "Lo único que queda de mi \"vida real\" son esos recuerdos que vuelven lentamente."
+msgstr "Lo único que me queda de mi \"vida real\" son esos recuerdos que vuelven lentamente."
 
 #. data/maps/arid/lake-1.json entities/512/settings/event/30/message #214
 #. EventTrigger LakeScene2 START IF plot.line >= 13400
@@ -8189,7 +8189,7 @@ msgstr "Bueno..."
 #: data/maps/arid/lake-1.json+entities/512/settings/event/40/message+%23224
 msgctxt "data/maps/arid/lake-1.json//entities/512/settings/event/40/message"
 msgid "Here's the thing, though..."
-msgstr "Este es el tema..."
+msgstr "Pero, piénsalo así..."
 
 #. data/maps/arid/lake-1.json entities/512/settings/event/41/message #225
 #. EventTrigger LakeScene2 START IF plot.line >= 13400
@@ -8213,7 +8213,7 @@ msgstr "..."
 #: data/maps/arid/lake-1.json+entities/512/settings/event/43/message+%23227
 msgctxt "data/maps/arid/lake-1.json//entities/512/settings/event/43/message"
 msgid "Does that make our lives any less meaningful?"
-msgstr "¿Hace eso a nuestras vidas menos significativas?"
+msgstr "¿Hace esto que nuestras vidas sean menos significativas?"
 
 #. data/maps/arid/lake-1.json entities/512/settings/event/44/message #228
 #. EventTrigger LakeScene2 START IF plot.line >= 13400
@@ -8237,7 +8237,7 @@ msgstr "No sabemos por qué estamos atrapados en este juego..."
 #: data/maps/arid/lake-1.json+entities/512/settings/event/46/message+%23230
 msgctxt "data/maps/arid/lake-1.json//entities/512/settings/event/46/message"
 msgid "But, honestly...\\. we don't even know why we live in the first place."
-msgstr "Pero, honestamente...\\. no sabemos ni por qué vivimos en primer lugar."
+msgstr "Pero, si lo piensas...\\. no sabemos siquiera qué es la vida, ni por qué existimos."
 
 #. data/maps/arid/lake-1.json entities/512/settings/event/47/message #231
 #. EventTrigger LakeScene2 START IF plot.line >= 13400
@@ -8253,7 +8253,7 @@ msgstr "..."
 #: data/maps/arid/lake-1.json+entities/512/settings/event/48/message+%23232
 msgctxt "data/maps/arid/lake-1.json//entities/512/settings/event/48/message"
 msgid "So we're either stuck in this game or stuck in \"real life\". What's the big difference?"
-msgstr "Entonces estamos o atrapados en el juego, o atrapados en la \"vida real\". ¿Cuál es la gran diferencia?"
+msgstr "Entonces es estar atrapado en el juego, o estar atrapado en la \"vida real\". ¿Cuál es la gran diferencia?"
 
 #. data/maps/arid/lake-1.json entities/512/settings/event/49/message #233
 #. EventTrigger LakeScene2 START IF plot.line >= 13400
@@ -8269,7 +8269,7 @@ msgstr "..."
 #: data/maps/arid/lake-1.json+entities/512/settings/event/50/message+%23234
 msgctxt "data/maps/arid/lake-1.json//entities/512/settings/event/50/message"
 msgid "Is it so strange thinking that way?"
-msgstr "¿Es tan raro pensar de ese modo?"
+msgstr "¿Te parece muy descabellado?"
 
 #. data/maps/arid/lake-1.json entities/512/settings/event/51/message #235
 #. EventTrigger LakeScene2 START IF plot.line >= 13400
@@ -8293,7 +8293,7 @@ msgstr "Oh bueno..."
 #: data/maps/arid/lake-1.json+entities/512/settings/event/53/message+%23237
 msgctxt "data/maps/arid/lake-1.json//entities/512/settings/event/53/message"
 msgid "I think what's important... is that it's a life worth living."
-msgstr "Creo que lo importante... es que es una vida que vale la pena vivir."
+msgstr "Creo que lo importante... es que sea una vida que valga la pena vivir."
 
 #. data/maps/arid/lake-1.json entities/512/settings/event/54/message #238
 #. EventTrigger LakeScene2 START IF plot.line >= 13400
@@ -8357,7 +8357,7 @@ msgstr "Así que no está tan mal, ¿no?"
 #: data/maps/arid/lake-1.json+entities/512/settings/event/61/message+%23245
 msgctxt "data/maps/arid/lake-1.json//entities/512/settings/event/61/message"
 msgid "Especially if we get out of this place. This place kinda sucks, honestly."
-msgstr "Sobre todo si conseguimos salir de este lugar. Este lugar como que apesta, sinceramente."
+msgstr "Sobre todo si conseguimos salir de este lugar. Este lugar apesta, sinceramente."
 
 #. data/maps/arid/lake-1.json entities/512/settings/event/62/message #246
 #. EventTrigger LakeScene2 START IF plot.line >= 13400
@@ -8365,7 +8365,7 @@ msgstr "Sobre todo si conseguimos salir de este lugar. Este lugar como que apest
 #: data/maps/arid/lake-1.json+entities/512/settings/event/62/message+%23246
 msgctxt "data/maps/arid/lake-1.json//entities/512/settings/event/62/message"
 msgid "Now that I think about it, my room fits in pretty well..."
-msgstr "Ahora que lo pienso, mi habitación encaja perfectamente..."
+msgstr "Ahora que lo pienso, mi habitación encaja a la perfección..."
 
 #. data/maps/arid/lake-1.json entities/512/settings/event/63/message #247
 #. EventTrigger LakeScene2 START IF plot.line >= 13400
@@ -12105,7 +12105,7 @@ msgstr "[asiente]"
 #: data/maps/arid/town-1.json+entities/299/settings/event/18/message+%23158
 msgctxt "data/maps/arid/town-1.json//entities/299/settings/event/18/message"
 msgid "That's good..."
-msgstr "Bien..."
+msgstr "Bien, eso es bueno..."
 
 #. data/maps/arid/town-1.json entities/299/settings/event/19/message #159
 #. EventTrigger MeetupDay4 START IF plot.line >= 13310
@@ -12113,7 +12113,7 @@ msgstr "Bien..."
 #: data/maps/arid/town-1.json+entities/299/settings/event/19/message+%23159
 msgctxt "data/maps/arid/town-1.json//entities/299/settings/event/19/message"
 msgid "So...\\. should we finish that trial building today?"
-msgstr "Así que...\\. ¿deberíamos ir a terminar ese edificio de prueba hoy?"
+msgstr "Bueno...\\. ¿quieres terminar el edificio de prueba hoy?"
 
 #. data/maps/arid/town-1.json entities/299/settings/event/20/message #160
 #. EventTrigger MeetupDay4 START IF plot.line >= 13310
