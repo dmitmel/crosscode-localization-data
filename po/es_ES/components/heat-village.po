@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-07-28 20:41+0000\n"
+"PO-Revision-Date: 2022-08-19 07:41+0000\n"
 "Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/heat-village/es/>\n"
 "Language: es_ES\n"
@@ -84,7 +84,7 @@ msgstr "Sede Central de la Brisa Árida"
 #: data/areas/heat-village.json+floors/1/maps/6/name+%2335
 msgctxt "data/areas/heat-village.json//floors/1/maps/6/name"
 msgid "Ba'kii Guard HQ"
-msgstr "Sede de la Guardia Baki"
+msgstr "Sede de la Guardia Ba'kii"
 
 #. data/areas/heat-village.json floors/1/maps/7/name #36
 #: data/areas/heat-village.json+floors/1/maps/7/name+%2336
@@ -142,7 +142,7 @@ msgstr "- \\c[3]Ba'kii Kum\\c[0] -"
 #: data/maps/heat-village/baki-1.json+entities/578/settings/event/16/message+%239
 msgctxt "data/maps/heat-village/baki-1.json//entities/578/settings/event/16/message"
 msgid "Here we are, that should be the village!"
-msgstr "¡Finalmente! ¡Esta debe ser la aldea!"
+msgstr "¡Por fin! ¡Esta debe ser la aldea!"
 
 #. data/maps/heat-village/baki-1.json entities/578/settings/event/17/message #10
 #. EventTrigger IntroScene
@@ -285,7 +285,7 @@ msgstr "Bueno, ¿supongo que podríamos entrar a la mazmorra?"
 #: data/maps/heat-village/baki-1.json+entities/586/settings/dialog/2/text+%23264
 msgctxt "data/maps/heat-village/baki-1.json//entities/586/settings/dialog/2/text"
 msgid "We could also do some quests. You decide."
-msgstr "Quizá misiones secundarias."
+msgstr "Tampoco me molestaría hacer misiones secundarias. Tú decides."
 
 #. data/maps/heat-village/baki-1.json entities/586/settings/dialog/3/text #266
 #. XenoDialog
@@ -293,7 +293,7 @@ msgstr "Quizá misiones secundarias."
 #: data/maps/heat-village/baki-1.json+entities/586/settings/dialog/3/text+%23266
 msgctxt "data/maps/heat-village/baki-1.json//entities/586/settings/dialog/3/text"
 msgid "Quests sound good to me."
-msgstr "Eso suena bien."
+msgstr "Creo que prefiero hacer secundarias."
 
 #. data/maps/heat-village/baki-1.json entities/589/settings/dialog/0/text #267
 #. XenoDialog SPAWN IF map.randomsArrive
@@ -301,7 +301,7 @@ msgstr "Eso suena bien."
 #: data/maps/heat-village/baki-1.json+entities/589/settings/dialog/0/text+%23267
 msgctxt "data/maps/heat-village/baki-1.json//entities/589/settings/dialog/0/text"
 msgid "We made it."
-msgstr "Finalmente hemos llegado."
+msgstr "Por fin hemos llegado."
 
 #. data/maps/heat-village/baki-1.json entities/589/settings/dialog/1/text #268
 #. XenoDialog SPAWN IF map.randomsArrive
@@ -317,7 +317,7 @@ msgstr "Sí, ha sido todo un laberinto."
 #: data/maps/heat-village/baki-1.json+entities/589/settings/dialog/2/text+%23269
 msgctxt "data/maps/heat-village/baki-1.json//entities/589/settings/dialog/2/text"
 msgid "Tell me about it. "
-msgstr "No me lo recuerdes. "
+msgstr "Ni me lo digas. "
 
 #. data/maps/heat-village/baki-1.json entities/589/settings/dialog/3/text #270
 #. XenoDialog SPAWN IF map.randomsArrive
@@ -341,7 +341,7 @@ msgstr "Me han dicho que esto es una especie de centro urbano para los Shad o al
 #: data/maps/heat-village/baki-1.json+entities/589/settings/dialog/5/text+%23272
 msgctxt "data/maps/heat-village/baki-1.json//entities/589/settings/dialog/5/text"
 msgid "Looks like they're pretty advanced after all. I mean this is a solar farm, right?"
-msgstr "Parecen ser muy avanzados. Es decir, ¿no es esto una granja solar?"
+msgstr "Parecen ser muy avanzados. Es decir, ¿no es eso una granja solar?"
 
 #. data/maps/heat-village/baki-1.json entities/589/settings/dialog/6/text #273
 #. XenoDialog SPAWN IF map.randomsArrive
@@ -518,7 +518,7 @@ msgstr "¿Eras tú con la que hablaba en el comunicador?\\. Maldito Billston..."
 #: data/maps/heat-village/baki-1.json+entities/600/settings/npcStates/1/event/quest/10/message+%23583
 msgctxt "data/maps/heat-village/baki-1.json//entities/600/settings/npcStates/1/event/quest/10/message"
 msgid "I thought someone as ruthless as him would at least be more careful."
-msgstr "Hice mal en creer que alguien tan despiadado como él tendría más cuidado."
+msgstr "Creí que alguien tan despiadado como él tendría más cuidado."
 
 #. data/maps/heat-village/baki-1.json entities/600/settings/npcStates/1/event/quest/11/message #584
 #. NPC quest-thief1
@@ -554,7 +554,7 @@ msgstr "\"A nadie le importará\",\\. me dijo. \"¡Esos estúpidos pajarracos ni
 #: data/maps/heat-village/baki-1.json+entities/600/settings/npcStates/1/event/quest/17/message+%23587
 msgctxt "data/maps/heat-village/baki-1.json//entities/600/settings/npcStates/1/event/quest/17/message"
 msgid "Well, time to come clean then, I suppose.\\. At least I can bring down that jerk with me."
-msgstr "Bueno, supongo que me entregaré.\\. Al menos voy a arrastrar a ese idiota conmigo."
+msgstr "Bueno, supongo que me entregaré\\. y arrastraré a ese idiota conmigo."
 
 #. data/maps/heat-village/baki-1.json entities/600/settings/npcStates/1/event/quest/18/message #588
 #. NPC quest-thief1
@@ -816,7 +816,7 @@ msgstr "...Lea..."
 #: data/maps/heat-village/baki-1.json+entities/613/settings/event/32/message+%23611
 msgctxt "data/maps/heat-village/baki-1.json//entities/613/settings/event/32/message"
 msgid "What...?\\. After all we've been through?\\. I was a victim as much as everyone here!"
-msgstr "¿Qué...?\\. ¿Después de todo lo que vivimos juntos?\\. ¡Yo he sido una víctima como todos los demás!"
+msgstr "¿Qué...?\\. ¿Después de todo por lo que hemos pasado?\\. ¡Yo he sido una víctima al igual que el resto!"
 
 #. data/maps/heat-village/baki-1.json entities/613/settings/event/33/message #612
 #. EventTrigger quest-SolarFightOver START IF tmp.solarEnemies1 >= 8
@@ -880,7 +880,7 @@ msgstr "Geeklich"
 #: data/maps/heat-village/baki-1.json+entities/623/settings/npcStates/0/event/2/message+%23627
 msgctxt "data/maps/heat-village/baki-1.json//entities/623/settings/npcStates/0/event/2/message"
 msgid "Que onda!"
-msgstr "¡Wassup!"
+msgstr "¡Qué onda!"
 
 #. data/maps/heat-village/baki-1.json entities/623/settings/npcStates/0/event/3/message #628
 #. NPC
@@ -920,7 +920,7 @@ msgstr "Sí... ya me han dado miradas extrañas."
 #: data/maps/heat-village/baki-1.json+entities/623/settings/npcStates/0/event/7/message+%23632
 msgctxt "data/maps/heat-village/baki-1.json//entities/623/settings/npcStates/0/event/7/message"
 msgid "Believe it or not, I'm usually cold so... I'm used to being like this, always."
-msgstr "Aunque no lo creas, yo suelo tener bastante frío, entonces... ya me acostumbré a andar vestido así, todo el rato."
+msgstr "Aunque no lo creas, yo suelo tener bastante frío, entonces... me acostumbré a andar vestido así, todo el rato."
 
 #. data/maps/heat-village/baki-1.json entities/623/settings/npcStates/0/event/8/message #633
 #. NPC
@@ -936,7 +936,7 @@ msgstr "¡...!"
 #: data/maps/heat-village/baki-1.json+entities/623/settings/npcStates/0/event/9/message+%23634
 msgctxt "data/maps/heat-village/baki-1.json//entities/623/settings/npcStates/0/event/9/message"
 msgid "Oh vaya you're also a Spheromacer, que va. I've not seen many in a while, what's your name?"
-msgstr "Oh men, eres una Spheromancer, so cool! Es una clase bastante inusual, ¿cuál es tu nombre?"
+msgstr "¡Oh vaya, también eres Spheromancer, qué va! Es una clase bastante inusual, ¿cuál es tu nombre?"
 
 #. data/maps/heat-village/baki-1.json entities/623/settings/npcStates/0/event/10/message #635
 #. NPC
@@ -1047,7 +1047,7 @@ msgstr "Central Cross"
 #: data/maps/heat-village/baki-2.json+entities/334/settings/condAnims/0/interact/hoverText+%23640
 msgctxt "data/maps/heat-village/baki-2.json//entities/334/settings/condAnims/0/interact/hoverText"
 msgid "Examine the insides of the vase"
-msgstr "Examinar la vasija"
+msgstr "Examinar el interior de la vasija"
 
 #. data/maps/heat-village/baki-2.json entities/334/settings/condAnims/0/interact/title #641
 #. Prop quest-vase
@@ -1165,7 +1165,7 @@ msgstr "Guardia"
 #: data/maps/heat-village/baki-2.json+entities/334/settings/condAnims/0/interact/event/0/elseStep/5/message+%23642
 msgctxt "data/maps/heat-village/baki-2.json//entities/334/settings/condAnims/0/interact/event/0/elseStep/5/message"
 msgid "Hey, \\v[lore.title.seeker]!\\. Hands off that vase!\\. Stealing is prohibited, even for the fancy likes of you!"
-msgstr "¡Ey, \\v[lore.title.seeker]a!\\. ¡Quita las manos de esa vasija!\\. ¡Robar es un delito, incluso para gente como tú!"
+msgstr "¡Oye, \\v[lore.title.seeker]a!\\. ¡Quita las manos de esa vasija!\\. ¡Robar es un delito, incluso para gente como tú!"
 
 #. data/maps/heat-village/baki-2.json entities/334/settings/condAnims/0/interact/event/0/elseStep/6/message #643
 #. Prop quest-vase
@@ -1183,7 +1183,7 @@ msgstr "¡...!"
 #: data/maps/heat-village/baki-2.json+entities/782/settings/npcStates/0/event/2/message+%2318
 msgctxt "data/maps/heat-village/baki-2.json//entities/782/settings/npcStates/0/event/2/message"
 msgid "I have nothing to offer human... yet."
-msgstr "No tengo nada para ofrecerte, humano... aún."
+msgstr "No tengo nada para ofrecer a humano... aún."
 
 #. data/maps/heat-village/baki-2.json entities/782/settings/npcStates/0/event/3/message #264
 #. NPC loot_temple
@@ -1191,7 +1191,7 @@ msgstr "No tengo nada para ofrecerte, humano... aún."
 #: data/maps/heat-village/baki-2.json+entities/782/settings/npcStates/0/event/3/message+%23264
 msgctxt "data/maps/heat-village/baki-2.json//entities/782/settings/npcStates/0/event/3/message"
 msgid "Return later, once Ancients have given you more blessings."
-msgstr "Vuelve más tarde, cuando los Antiguos te hayan dados sus bendiciones."
+msgstr "Vuelve más tarde, cuando Antiguos hayan dados bendiciones."
 
 #. data/maps/heat-village/baki-2.json entities/783/settings/analyzable/text #268
 #. NPC trader-special
@@ -1326,7 +1326,7 @@ msgstr "De todos modos...\\. me gustaría saber más de ti."
 #: data/maps/heat-village/baki-2.json+entities/786/settings/event/29/message+%23976
 msgctxt "data/maps/heat-village/baki-2.json//entities/786/settings/event/29/message"
 msgid "So maybe some day, if you feel like it, please tell me more about you!"
-msgstr "Así que algún día, si quieres, ¡cuéntame algo de ti!"
+msgstr "Así que algún día, si quieres, ¡cuéntame un poco de tu vida!"
 
 #. data/maps/heat-village/baki-2.json entities/786/settings/event/30/message #977
 #. EventTrigger FatalLogout START IF plot.line >= 4560
@@ -1414,7 +1414,7 @@ msgstr "Y otra vez: Merci por jugar conmigo y escuchar de mis problemas."
 #: data/maps/heat-village/baki-2.json+entities/786/settings/event/40/message+%23278
 msgctxt "data/maps/heat-village/baki-2.json//entities/786/settings/event/40/message"
 msgid "That really helped me a lot."
-msgstr "Realmente me ayuda mucho."
+msgstr "Me ha ayudado mucho."
 
 #. data/maps/heat-village/baki-2.json entities/786/settings/event/41/message #279
 #. EventTrigger FatalLogout START IF plot.line >= 4560
@@ -1550,7 +1550,7 @@ msgstr "¿...Por qué?"
 #: data/maps/heat-village/baki-2.json+entities/786/settings/event/77/message+%23499
 msgctxt "data/maps/heat-village/baki-2.json//entities/786/settings/event/77/message"
 msgid "... I do not understand..."
-msgstr ".\\..\\..\\. No entiendo que quieres decir..."
+msgstr ".\\..\\..\\. No entiendo qué quieres decir..."
 
 #. data/maps/heat-village/baki-2.json entities/786/settings/event/78/message #500
 #. EventTrigger FatalLogout START IF plot.line >= 4560
@@ -1638,7 +1638,7 @@ msgstr "[asiente]"
 #: data/maps/heat-village/baki-2.json+entities/786/settings/event/89/message+%23510
 msgctxt "data/maps/heat-village/baki-2.json//entities/786/settings/event/89/message"
 msgid "I was afraid you would ask sooner or later."
-msgstr "Me temía que era cuestión de tiempo hasta que preguntaras."
+msgstr "Me lo temía. Era cuestión de tiempo hasta que preguntaras."
 
 #. data/maps/heat-village/baki-2.json entities/786/settings/event/90/message #511
 #. EventTrigger FatalLogout START IF plot.line >= 4560
@@ -1750,7 +1750,7 @@ msgstr "..."
 #: data/maps/heat-village/baki-2.json+entities/786/settings/event/112/message+%23521
 msgctxt "data/maps/heat-village/baki-2.json//entities/786/settings/event/112/message"
 msgid "For some strange reason, it seems that you regained your consciousness within CrossWorlds."
-msgstr "Pero por alguna extraña razón, parece que dentro de CrossWorlds, estás consciente."
+msgstr "Pero por alguna extraña razón, pareces haber recuperado la consciencia dentro de CrossWorlds."
 
 #. data/maps/heat-village/baki-2.json entities/786/settings/event/113/message #522
 #. EventTrigger FatalLogout START IF plot.line >= 4560
@@ -1758,7 +1758,7 @@ msgstr "Pero por alguna extraña razón, parece que dentro de CrossWorlds, está
 #: data/maps/heat-village/baki-2.json+entities/786/settings/event/113/message+%23522
 msgctxt "data/maps/heat-village/baki-2.json//entities/786/settings/event/113/message"
 msgid "That is...\\. why we play the game, Lea."
-msgstr "Es por eso...\\. que jugamos el juego, Lea."
+msgstr "Es eso...\\. por lo que jugamos el juego, Lea."
 
 #. data/maps/heat-village/baki-2.json entities/786/settings/event/114/message #523
 #. EventTrigger FatalLogout START IF plot.line >= 4560
@@ -1766,7 +1766,7 @@ msgstr "Es por eso...\\. que jugamos el juego, Lea."
 #: data/maps/heat-village/baki-2.json+entities/786/settings/event/114/message+%23523
 msgctxt "data/maps/heat-village/baki-2.json//entities/786/settings/event/114/message"
 msgid "By recovering your memory in the game we hope that you will be able to wake up in real life."
-msgstr "Si recuperamos tus recuerdos en el juego, suponemos que podrás despertarte en la vida real."
+msgstr "Al recuperar tus recuerdos en el juego esperamos que despiertes en la vida real."
 
 #. data/maps/heat-village/baki-2.json entities/786/settings/event/115/message #526
 #. EventTrigger FatalLogout START IF plot.line >= 4560
@@ -1814,7 +1814,7 @@ msgstr "Tu situación es grave, pero no hay ningún apuro."
 #: data/maps/heat-village/baki-2.json+entities/786/settings/event/120/message+%23531
 msgctxt "data/maps/heat-village/baki-2.json//entities/786/settings/event/120/message"
 msgid "We just have to try out everything and hope for the best."
-msgstr "Debemos intentar todo lo posible y rezar que funcione."
+msgstr "Debemos intentar todo lo posible y esperar lo mejor."
 
 #. data/maps/heat-village/baki-2.json entities/786/settings/event/121/message #532
 #. EventTrigger FatalLogout START IF plot.line >= 4560
@@ -1894,7 +1894,7 @@ msgstr "Mira. Lea."
 #: data/maps/heat-village/baki-2.json+entities/786/settings/event/134/message+%23770
 msgctxt "data/maps/heat-village/baki-2.json//entities/786/settings/event/134/message"
 msgid "I really cannot imagine how you must feel right now."
-msgstr "No puedo ni imaginarme como debes sentirte ahora."
+msgstr "No puedo imaginarme como debes estar sintiéndote."
 
 #. data/maps/heat-village/baki-2.json entities/786/settings/event/135/message #771
 #. EventTrigger FatalLogout START IF plot.line >= 4560
@@ -1902,7 +1902,7 @@ msgstr "No puedo ni imaginarme como debes sentirte ahora."
 #: data/maps/heat-village/baki-2.json+entities/786/settings/event/135/message+%23771
 msgctxt "data/maps/heat-village/baki-2.json//entities/786/settings/event/135/message"
 msgid "All I can tell you is that there is hope..."
-msgstr "Todo lo que puedo decirte es que aún hay esperanza..."
+msgstr "Todo lo que puedo decir es que aún hay esperanza..."
 
 #. data/maps/heat-village/baki-2.json entities/786/settings/event/136/message #772
 #. EventTrigger FatalLogout START IF plot.line >= 4560
@@ -1950,7 +1950,7 @@ msgstr "[asiente]"
 #: data/maps/heat-village/baki-2.json+entities/786/settings/event/141/message+%23552
 msgctxt "data/maps/heat-village/baki-2.json//entities/786/settings/event/141/message"
 msgid "Anyway, it is probably better to give you more time to cope with this."
-msgstr "De todos modos, será mejor que te de tiempo para que asimiles la situación."
+msgstr "En fin, será mejor que te de tiempo para que asimiles la situación."
 
 #. data/maps/heat-village/baki-2.json entities/786/settings/event/142/message #544
 #. EventTrigger FatalLogout START IF plot.line >= 4560
@@ -2075,7 +2075,7 @@ msgstr "¡Felicidades!\\. Comerciar estaba difícil con rufián suelto."
 #: data/maps/heat-village/baki-2.json+entities/791/settings/npcStates/1/event/quest/6/message+%23633
 msgctxt "data/maps/heat-village/baki-2.json//entities/791/settings/npcStates/1/event/quest/6/message"
 msgid "Was worried guards lose interest in case.\\. Mustache guard very watchful but he also speak much to rectangle."
-msgstr "Preocupada de que guardias no siguieran el caso.\\. Guardia bigotudo muy atento, pero habla mucho a su rectángulo."
+msgstr "Preocupada de que guardias no siguieran el caso.\\. Guardia bigotudo muy atento, pero habla mucho a rectángulo."
 
 #. data/maps/heat-village/baki-2.json entities/791/settings/npcStates/1/event/quest/7/message #635
 #. NPC quest-trader2
@@ -2215,7 +2215,7 @@ msgstr "¡Vivan!"
 #: data/maps/heat-village/baki-2.json+entities/801/settings/dialog/0/text+%23562
 msgctxt "data/maps/heat-village/baki-2.json//entities/801/settings/dialog/0/text"
 msgid "Hey bro, do you think we need a damage dealer at some point?"
-msgstr "Oye bro, ¿crees que necesitaremos a alguien que haga más daño?"
+msgstr "Oye bro, ¿crees que necesitaremos a alguien que se encargue de hacer daño?"
 
 #. data/maps/heat-village/baki-2.json entities/801/settings/dialog/1/text #563
 #. XenoDialog SPAWN IF plot.line < 46200
@@ -2231,7 +2231,7 @@ msgstr "¡JAMÁS! ¡Somos tanques! ¡Absorberemos todo el daño!"
 #: data/maps/heat-village/baki-2.json+entities/801/settings/dialog/2/text+%23564
 msgctxt "data/maps/heat-village/baki-2.json//entities/801/settings/dialog/2/text"
 msgid "Twin tank bros all the way."
-msgstr "¡Eso es! ¡Los hermanos tanque de por vida!"
+msgstr "¡Eso es! ¡Tank-bros de por vida!"
 
 #. data/maps/heat-village/baki-2.json entities/801/settings/dialog/3/text #565
 #. XenoDialog SPAWN IF plot.line < 46200
@@ -2271,7 +2271,7 @@ msgstr "¿O serán generadores?"
 #: data/maps/heat-village/baki-2.json+entities/805/settings/dialog/3/text+%23569
 msgctxt "data/maps/heat-village/baki-2.json//entities/805/settings/dialog/3/text"
 msgid "So basically, you're as clueless as I am?"
-msgstr "¿Por qué no admites que no tienes la menor idea?"
+msgstr "Entonces, ¿estás tan desconcertada como yo?"
 
 #. data/maps/heat-village/baki-2.json entities/805/settings/dialog/4/text #570
 #. XenoDialog
@@ -2279,7 +2279,7 @@ msgstr "¿Por qué no admites que no tienes la menor idea?"
 #: data/maps/heat-village/baki-2.json+entities/805/settings/dialog/4/text+%23570
 msgctxt "data/maps/heat-village/baki-2.json//entities/805/settings/dialog/4/text"
 msgid "Yup."
-msgstr "Ehhhhhh."
+msgstr "Eso mismo."
 
 #. data/maps/heat-village/baki-2.json entities/819/settings/event/0/thenStep/0/message #571
 #. LocationEvent
@@ -2412,7 +2412,7 @@ msgstr "..."
 #: data/maps/heat-village/baki-2.json+entities/820/settings/npcStates/1/event/quest/7/message+%23589
 msgctxt "data/maps/heat-village/baki-2.json//entities/820/settings/npcStates/1/event/quest/7/message"
 msgid "Listen, \\v[lore.title.seeker].\\. I know your kind always searches for grand adventures and villains to slay."
-msgstr "Escucha, \\v[lore.title.seeker]a.\\. Sé que la gente como tú se la pasa buscando grandes aventuras y villanos que derrotar."
+msgstr "Escucha, \\v[lore.title.seeker]a.\\. Se que la gente como tú se la pasa buscando grandes aventuras y villanos qué derrotar."
 
 #. data/maps/heat-village/baki-2.json entities/820/settings/npcStates/1/event/quest/8/message #590
 #. NPC evil-guard
@@ -2457,7 +2457,7 @@ msgstr "Billston"
 #: data/maps/heat-village/baki-2.json+entities/820/settings/npcStates/2/event/2/message+%23595
 msgctxt "data/maps/heat-village/baki-2.json//entities/820/settings/npcStates/2/event/2/message"
 msgid "There is watch to keep.\\. Don't waste my time, unless you can present some solid proof."
-msgstr "En fin, estoy trabajando.\\. No me molestes a menos que tengas pruebas concretas."
+msgstr "Estoy trabajando.\\. No me molestes a menos que tengas pruebas concretas."
 
 #. data/maps/heat-village/baki-2.json entities/820/settings/npcStates/2/event/3/message #596
 #. NPC evil-guard
@@ -2484,7 +2484,7 @@ msgstr "Billston"
 #: data/maps/heat-village/baki-2.json+entities/820/settings/npcStates/3/event/2/message+%23654
 msgctxt "data/maps/heat-village/baki-2.json//entities/820/settings/npcStates/3/event/2/message"
 msgid "There is watch to keep.\\. Don't waste my time, unless you can present some solid proof."
-msgstr "En fin, estoy trabajando.\\. No me molestes a menos que tengas pruebas concretas."
+msgstr "Estoy trabajando.\\. No me molestes a menos que tengas pruebas concretas."
 
 #. data/maps/heat-village/baki-2.json entities/820/settings/npcStates/3/event/3/message #655
 #. NPC evil-guard
@@ -2531,7 +2531,7 @@ msgstr "Cuando vine por primera vez, estos extraños seres que llamamos los \\v[
 #: data/maps/heat-village/baki-2.json+entities/823/settings/npcStates/0/event/3/message+%23582
 msgctxt "data/maps/heat-village/baki-2.json//entities/823/settings/npcStates/0/event/3/message"
 msgid "But soon I learned what honorable people they were beneath their scaly skin."
-msgstr "Pero por suerte me dí cuenta de que son personas muy honorables."
+msgstr "Pero pronto me dí cuenta de las honorables personas que se ocultaban bajo esas escamas."
 
 #. data/maps/heat-village/baki-2.json entities/823/settings/npcStates/0/event/4/message #583
 #. NPC nice-guard
@@ -2602,7 +2602,7 @@ msgstr "[asiente]"
 #: data/maps/heat-village/baki-2.json+entities/823/settings/npcStates/1/event/quest/7/message+%23598
 msgctxt "data/maps/heat-village/baki-2.json//entities/823/settings/npcStates/1/event/quest/7/message"
 msgid "I see, so the Sergeant is finally losing his patience.\\. I can't blame him."
-msgstr "Ya veo, finalmente el Sargento está perdiendo la paciencia.\\. No lo culpo."
+msgstr "Ya veo, el Sargento estará perdiendo la paciencia.\\. No lo culpo."
 
 #. data/maps/heat-village/baki-2.json entities/823/settings/npcStates/1/event/quest/8/message #599
 #. NPC nice-guard
@@ -2938,7 +2938,7 @@ msgstr "..."
 #: data/maps/heat-village/baki-2.json+entities/826/settings/npcStates/1/event/quest/5/message+%23664
 msgctxt "data/maps/heat-village/baki-2.json//entities/826/settings/npcStates/1/event/quest/5/message"
 msgid "Much useful wisdom could be learned from communication, I dare proclaim with greatest certainty."
-msgstr "Mucho puede aprender de la comunicación, digo con toda certeza."
+msgstr "Mucho se puede aprender de la comunicación, digo con toda certeza."
 
 #. data/maps/heat-village/baki-2.json entities/826/settings/npcStates/1/event/quest/6/message #665
 #. NPC leader-trader
@@ -2947,7 +2947,7 @@ msgstr "Mucho puede aprender de la comunicación, digo con toda certeza."
 #: data/maps/heat-village/baki-2.json+entities/826/settings/npcStates/1/event/quest/6/message+%23665
 msgctxt "data/maps/heat-village/baki-2.json//entities/826/settings/npcStates/1/event/quest/6/message"
 msgid "But, as humans like saying, time is of the essential ingredient for early bird."
-msgstr "Pero, como humano gusta decir, tiempo al tiempo."
+msgstr "Pero, como humano gusta decir, tiempo es esencial para ave madrugadora."
 
 #. data/maps/heat-village/baki-2.json entities/826/settings/npcStates/1/event/quest/7/message #666
 #. NPC leader-trader
@@ -3129,7 +3129,7 @@ msgstr "[niega con la cabeza]"
 #: data/maps/heat-village/baki-2.json+entities/826/settings/npcStates/1/event/quest/16/declined/1/message+%23678
 msgctxt "data/maps/heat-village/baki-2.json//entities/826/settings/npcStates/1/event/quest/16/declined/1/message"
 msgid "Human certain?\\. No interest in progress of shad and humans?\\. Sad."
-msgstr "¿Humano seguro?\\. No se interesa por progreso entre humanos y Shad?\\. Vergüenza."
+msgstr "¿Humano seguro?\\. No se interesa por progreso entre humanos y Shad?\\. Triste."
 
 #. data/maps/heat-village/baki-2.json entities/826/settings/npcStates/1/event/quest/16/declined/2/message #294
 #. NPC leader-trader
@@ -3328,7 +3328,7 @@ msgstr "..."
 #: data/maps/heat-village/baki-2.json+entities/826/settings/npcStates/4/event/quest/10/message+%23988
 msgctxt "data/maps/heat-village/baki-2.json//entities/826/settings/npcStates/4/event/quest/10/message"
 msgid "It core ingredient for profitable venture of great benefits:\\. \\c[3]Creating drinks of enjoyment, in way of Ancients!\\c[0]"
-msgstr "Es ingrediente principal"
+msgstr "Es ingrediente principal para importante emprendimiento de gran beneficio:\\. ¡\\c[3]Crear bebida de disfrute a estilo de Antiguos\\c[0]!"
 
 #. data/maps/heat-village/baki-2.json entities/826/settings/npcStates/4/event/quest/11/message #1007
 #. NPC leader-trader
@@ -3366,7 +3366,7 @@ msgstr "[asiente]"
 #: data/maps/heat-village/baki-2.json+entities/826/settings/npcStates/4/event/quest/13/accepted/1/message+%23989
 msgctxt "data/maps/heat-village/baki-2.json//entities/826/settings/npcStates/4/event/quest/13/accepted/1/message"
 msgid "Human thirst for profit express signs of starving wolf.\\. This tip scales of trade in most pleasant direction."
-msgstr "Humano se ve sediento por dinero.\\. Esto ayudará a saciar."
+msgstr "Humano se ve sediento por dinero como lobo con hambre.\\. Esto ayudará a saciar."
 
 #. data/maps/heat-village/baki-2.json entities/826/settings/npcStates/4/event/quest/13/accepted/2/message #298
 #. NPC leader-trader
@@ -3406,7 +3406,7 @@ msgstr "¿...?"
 #: data/maps/heat-village/baki-2.json+entities/826/settings/npcStates/4/event/quest/13/accepted/5/message+%23993
 msgctxt "data/maps/heat-village/baki-2.json//entities/826/settings/npcStates/4/event/quest/13/accepted/5/message"
 msgid "You speak to \\c[3]human woman with red hair\\c[0] in the \\c[3]trade-building behind me\\c[0].\\. She very popular, hard to miss I often hear."
-msgstr "Tú habla con \\c[3]mujer humano de pelo rojo\\c[0] en \\c[3]centro de intercambio detrás mío\\c[0].\\. Ella muy popular, fácil avistarle."
+msgstr "Tú habla con \\c[3]mujer humano de pelo rojo\\c[0] en \\c[3]centro de intercambio detrás mío\\c[0].\\. Ella muy popular, fácil de ver."
 
 #. data/maps/heat-village/baki-2.json entities/826/settings/npcStates/4/event/quest/13/accepted/6/message #997
 #. NPC leader-trader
@@ -3426,7 +3426,7 @@ msgstr "..."
 #: data/maps/heat-village/baki-2.json+entities/826/settings/npcStates/4/event/quest/13/accepted/7/message+%23994
 msgctxt "data/maps/heat-village/baki-2.json//entities/826/settings/npcStates/4/event/quest/13/accepted/7/message"
 msgid "Contents of precious chest will already be used by woman so work can start with hastiness."
-msgstr "El contenido del preciado cofre si resultó útil. Ahora la mujer podrá comenzar a trabajar ahora mismo."
+msgstr "Contenido del preciado cofre si resultó útil. Mujer podrá comenzar a trabajar ahora mismo."
 
 #. data/maps/heat-village/baki-2.json entities/826/settings/npcStates/4/event/quest/13/accepted/8/message #995
 #. NPC leader-trader
@@ -3436,7 +3436,7 @@ msgstr "El contenido del preciado cofre si resultó útil. Ahora la mujer podrá
 #: data/maps/heat-village/baki-2.json+entities/826/settings/npcStates/4/event/quest/13/accepted/8/message+%23995
 msgctxt "data/maps/heat-village/baki-2.json//entities/826/settings/npcStates/4/event/quest/13/accepted/8/message"
 msgid "Rest will be explained in human to human meeting.\\. \\v[lore.title.seeker] brain absorbed procedure?"
-msgstr "Todo será explicado en ese encuentro de humano- humano.\\. \\v[lore.title.seeker] ¿entendiste?"
+msgstr "Todo será explicado en encuentro con humano de pelo rojo.\\. ¿Cerebro de \\v[lore.title.seeker] absorbe?"
 
 #. data/maps/heat-village/baki-2.json entities/826/settings/npcStates/4/event/quest/13/accepted/9/message #324
 #. NPC leader-trader
@@ -3456,7 +3456,7 @@ msgstr "[asiente]"
 #: data/maps/heat-village/baki-2.json+entities/826/settings/npcStates/4/event/quest/13/accepted/10/message+%23998
 msgctxt "data/maps/heat-village/baki-2.json//entities/826/settings/npcStates/4/event/quest/13/accepted/10/message"
 msgid "Excellent.\\. Then make hurry and do progress!"
-msgstr "Excelente.\\. ¡Entonces date prisa y progresa!"
+msgstr "Excelente.\\. ¡Entonces apura y progresa!"
 
 #. data/maps/heat-village/baki-2.json entities/826/settings/npcStates/4/event/quest/13/accepted/11/message #333
 #. NPC leader-trader
@@ -3486,7 +3486,7 @@ msgstr "[niega con la cabeza]"
 #: data/maps/heat-village/baki-2.json+entities/826/settings/npcStates/4/event/quest/13/declined/1/message+%23999
 msgctxt "data/maps/heat-village/baki-2.json//entities/826/settings/npcStates/4/event/quest/13/declined/1/message"
 msgid "\\v[lore.title.seeker] not want to reap fruit of mystery chest?\\. Sun done damage to curiosity of brain?"
-msgstr "¿\\v[lore.title.seeker] no quieres cosechar frutos del cofre misterioso?\\. ¿Sol fundió la curiosidad de tu cerebro?"
+msgstr "¿\\v[lore.title.seeker] no quiere cosechar fruto de cofre misterioso?\\. ¿El sol derritió curiosidad en cerebro?"
 
 #. data/maps/heat-village/baki-2.json entities/826/settings/npcStates/4/event/quest/13/declined/2/message #305
 #. NPC leader-trader
@@ -3496,7 +3496,7 @@ msgstr "¿\\v[lore.title.seeker] no quieres cosechar frutos del cofre misterioso
 #: data/maps/heat-village/baki-2.json+entities/826/settings/npcStates/4/event/quest/13/declined/2/message+%23305
 msgctxt "data/maps/heat-village/baki-2.json//entities/826/settings/npcStates/4/event/quest/13/declined/2/message"
 msgid ".\\..\\..?"
-msgstr ".\\..\\..?"
+msgstr "¿.\\..\\..?"
 
 #. data/maps/heat-village/baki-2.json entities/826/settings/npcStates/5/event/0/name #1029
 #. NPC leader-trader
@@ -3514,7 +3514,7 @@ msgstr "Kney'tehab"
 #: data/maps/heat-village/baki-2.json+entities/826/settings/npcStates/5/event/2/message+%23996
 msgctxt "data/maps/heat-village/baki-2.json//entities/826/settings/npcStates/5/event/2/message"
 msgid "You speak to \\c[3]woman with red hair\\c[0] in \\c[3]Trade house\\c[0].\\. Easy to find, she very popular for reasons of mystery."
-msgstr "Habla con la \\c[3]mujer pelirroja\\c[0] en la \\c[3]Casa comercial\\c[0].\\. Ella es fácil de encontrar, es muy popular por saber muchos misterios."
+msgstr "Habla con \\c[3]mujer de pelo rojo\\c[0] en \\c[3]Casa comercial\\c[0].\\. Fácil de encontrar, muy popular misteriosamente."
 
 #. data/maps/heat-village/baki-2.json entities/826/settings/npcStates/6/event/quest/0/name #1030
 #. NPC leader-trader
@@ -3541,7 +3541,7 @@ msgstr "¡Hola!"
 #: data/maps/heat-village/baki-2.json+entities/826/settings/npcStates/6/event/quest/3/message+%23309
 msgctxt "data/maps/heat-village/baki-2.json//entities/826/settings/npcStates/6/event/quest/3/message"
 msgid "\\v[lore.title.seeker]! Happy report of success already flew into reach.\\. Splendid!"
-msgstr "\\v[lore.title.seeker]! Feliz informe de éxito ya está a tu alcance.\\. ¡Espléndido!"
+msgstr "¡\\v[lore.title.seeker]! Feliz informe de éxito ha llegado.\\. ¡Espléndido!"
 
 #. data/maps/heat-village/baki-2.json entities/826/settings/npcStates/6/event/quest/4/message #310
 #. NPC leader-trader
@@ -3559,7 +3559,7 @@ msgstr "[asiente]"
 #: data/maps/heat-village/baki-2.json+entities/826/settings/npcStates/6/event/quest/5/message+%231001
 msgctxt "data/maps/heat-village/baki-2.json//entities/826/settings/npcStates/6/event/quest/5/message"
 msgid "Already sight is filled with smell of sweetness and taste of ripened drink... and lush profits, not to forget."
-msgstr "Ya la vista se llena de olor a dulzura y sabor a bebida madura... y exuberantes mejoras, no olvidar."
+msgstr "Vista llena ya de olor a dulzura y sabor a bebida madura... y exuberantes ganancias, no olvidar."
 
 #. data/maps/heat-village/baki-2.json entities/826/settings/npcStates/6/event/quest/6/message #1002
 #. NPC leader-trader
@@ -3577,7 +3577,7 @@ msgstr "..."
 #: data/maps/heat-village/baki-2.json+entities/826/settings/npcStates/6/event/quest/7/message+%231003
 msgctxt "data/maps/heat-village/baki-2.json//entities/826/settings/npcStates/6/event/quest/7/message"
 msgid "Also brewed liquid miraculous creator of friendship and persuasion according to human myths of trade."
-msgstr "También se elabora una cerveza milagrosa creadora de la amistad y persuasión según los mitos humanos."
+msgstr "También se elabora bebida milagrosa creadora de amistad y persuasión según mitos de comercio."
 
 #. data/maps/heat-village/baki-2.json entities/826/settings/npcStates/6/event/quest/8/message #1004
 #. NPC leader-trader
@@ -3595,7 +3595,7 @@ msgstr "¿...?"
 #: data/maps/heat-village/baki-2.json+entities/826/settings/npcStates/6/event/quest/9/message+%231005
 msgctxt "data/maps/heat-village/baki-2.json//entities/826/settings/npcStates/6/event/quest/9/message"
 msgid "Yes, yes.\\. This indeed might be venture of century for bazaar.\\. \\v[lore.title.seeker] get regal reward and thanks from heart!"
-msgstr "Sí, sí.\\. De hecho, esto podría ser la aventura del siglo para el bazar.\\. \\v[lore.title.seeker] ¡Obtenga una recompensa real y gracias de corazón!"
+msgstr "Sí, sí.\\. Esto podría ser aventura del siglo para bazar.\\. ¡\\v[lore.title.seeker], tenga recompensa real y gracias de corazón!"
 
 #. data/maps/heat-village/baki-2.json entities/826/settings/npcStates/6/event/quest/10/message #1006
 #. NPC leader-trader
@@ -3631,7 +3631,7 @@ msgstr "¡Hola!"
 #: data/maps/heat-village/baki-2.json+entities/826/settings/npcStates/7/event/quest/3/message+%23433
 msgctxt "data/maps/heat-village/baki-2.json//entities/826/settings/npcStates/7/event/quest/3/message"
 msgid "Legendary \\v[lore.title.seeker]!\\. Tales of big exploits reached humble market!\\. Such splendor!"
-msgstr "¡El legendario \\v[lore.title.seeker]!\\. ¡Cuentos de grandes proezas llegaron al humilde mercado!\\. ¡Qué esplendor!"
+msgstr "¡Legendario \\v[lore.title.seeker]!\\. ¡Cuentos de grandes proezas llegaron a humilde mercado!\\. ¡Qué esplendor!"
 
 #. data/maps/heat-village/baki-2.json entities/826/settings/npcStates/7/event/quest/4/message #1192
 #. NPC leader-trader
@@ -3649,7 +3649,7 @@ msgstr "Reunir."
 #: data/maps/heat-village/baki-2.json+entities/826/settings/npcStates/7/event/quest/5/message+%231187
 msgctxt "data/maps/heat-village/baki-2.json//entities/826/settings/npcStates/7/event/quest/5/message"
 msgid "Yes, yes, great honor to meet again.\\. Hope memory past cooperations still blessing \\v[lore.title.seeker]s heart!"
-msgstr "Si, si, es bueno volver a encontrarnos.\\. ¡Espero que la memoria de nuestros experiencias pasadas sigan estando en tu corazón de \\v[lore.title.seeker]!"
+msgstr "Sí, sí, gran honor reunirnos otra vez.\\. ¡Espero que memoria de nuestras experiencias pasadas llenen corazón del \\v[lore.title.seeker]!"
 
 #. data/maps/heat-village/baki-2.json entities/826/settings/npcStates/7/event/quest/6/message #406
 #. NPC leader-trader
@@ -3667,7 +3667,7 @@ msgstr "[asiente]"
 #: data/maps/heat-village/baki-2.json+entities/826/settings/npcStates/7/event/quest/7/message+%231188
 msgctxt "data/maps/heat-village/baki-2.json//entities/826/settings/npcStates/7/event/quest/7/message"
 msgid "Good, good.\\. Thus honorable Bazaar also holds great steaks in success of \\v[lore.title.seeker], never forget!"
-msgstr "Bien, bien.\\. Por lo tanto, el bazar honorable también tiene grandes bistecs en el éxito de \\v[lore.title.seeker], ¡Nunca lo olvides!"
+msgstr "Bien, bien.\\. Por lo tanto, honorable bazar posee grandes bistecs gracias a éxito de \\v[lore.title.seeker], ¡no olvidar!"
 
 #. data/maps/heat-village/baki-2.json entities/826/settings/npcStates/7/event/quest/8/message #434
 #. NPC leader-trader
@@ -3685,7 +3685,7 @@ msgstr "Lea..."
 #: data/maps/heat-village/baki-2.json+entities/826/settings/npcStates/7/event/quest/9/message+%231189
 msgctxt "data/maps/heat-village/baki-2.json//entities/826/settings/npcStates/7/event/quest/9/message"
 msgid "With that in back of mind, new task awaits to further inflate credit of \\v[lore.title.seeker] legend!"
-msgstr "Con eso en mente, ¡Una nueva tarea espera dar fama y gloria a la leyenda \\v[lore.title.seeker]!"
+msgstr "Con eso en mente, ¡nueva tarea espera para aumentar fama y gloria de \\v[lore.title.seeker]!"
 
 #. data/maps/heat-village/baki-2.json entities/826/settings/npcStates/7/event/quest/10/message #1190
 #. NPC leader-trader
@@ -3694,7 +3694,7 @@ msgstr "Con eso en mente, ¡Una nueva tarea espera dar fama y gloria a la leyend
 #: data/maps/heat-village/baki-2.json+entities/826/settings/npcStates/7/event/quest/10/message+%231190
 msgctxt "data/maps/heat-village/baki-2.json//entities/826/settings/npcStates/7/event/quest/10/message"
 msgid "Red woman found way to grade brewing machine up further into the heavens!\\. A task worthy of attention, yes?"
-msgstr "¡La mujer roja encontró la manera de elevar la máquina cervecera más hacia los cielos!\\. Una tarea digna de atención, ¿sí?"
+msgstr "¡Mujer roja encontró modo de elevar máquina cervecera hacia los cielos!\\. Tarea digna de atención, ¿sí?"
 
 #. data/maps/heat-village/baki-2.json entities/826/settings/npcStates/7/event/quest/11/accepted/0/message #1191
 #. NPC leader-trader
@@ -3714,7 +3714,7 @@ msgstr "[asiente]"
 #: data/maps/heat-village/baki-2.json+entities/826/settings/npcStates/7/event/quest/11/accepted/1/message+%231194
 msgctxt "data/maps/heat-village/baki-2.json//entities/826/settings/npcStates/7/event/quest/11/accepted/1/message"
 msgid "Yes, good.\\. Very good indeed.\\. Many more riches are to be had."
-msgstr "Si, bien.\\. Muy bueno la verdad.\\. Hay que tener muchas más riquezas."
+msgstr "Sí, bien.\\. Muy bien verdad.\\. Esperan muchas riquezas."
 
 #. data/maps/heat-village/baki-2.json entities/826/settings/npcStates/7/event/quest/11/accepted/2/message #408
 #. NPC leader-trader
@@ -3734,7 +3734,7 @@ msgstr "..."
 #: data/maps/heat-village/baki-2.json+entities/826/settings/npcStates/7/event/quest/11/accepted/3/message+%231196
 msgctxt "data/maps/heat-village/baki-2.json//entities/826/settings/npcStates/7/event/quest/11/accepted/3/message"
 msgid "Details are known to technical people of lower paygrade.\\. But involving new Ancient recipe for exciting drink!"
-msgstr "Los detalles son conocidos técnicamente por gente mal pagada.\\. ¡Pero involucrando una nueva receta antigua para una bebida emocionante!"
+msgstr "Detalles los tienen técnicos de menor categoría.\\. ¡Pero incluye nueva emocionante receta de Antiguos!"
 
 #. data/maps/heat-village/baki-2.json entities/826/settings/npcStates/7/event/quest/11/accepted/4/message #440
 #. NPC leader-trader
@@ -3754,7 +3754,7 @@ msgstr "..."
 #: data/maps/heat-village/baki-2.json+entities/826/settings/npcStates/7/event/quest/11/accepted/5/message+%231195
 msgctxt "data/maps/heat-village/baki-2.json//entities/826/settings/npcStates/7/event/quest/11/accepted/5/message"
 msgid "Pay visit to \\c[3]female red human\\c[0] in the \\c[3]trade-building behind me\\c[0], again.\\. She giving you special task!"
-msgstr "Haz una visita a la \\c[3]mujer humana roja\\c[0] en el \\c[3]edificio comercial detrás de mí\\c[0], otra vez.\\. ¡Ella te está dando una tarea especial!"
+msgstr "Visita \\c[3]mujer humana roja\\c[0] en \\c[3]edificio comercial detrás de mí\\c[0], otra vez.\\. ¡Ella te da tarea especial!"
 
 #. data/maps/heat-village/baki-2.json entities/826/settings/npcStates/7/event/quest/11/accepted/6/message #411
 #. NPC leader-trader
@@ -3794,7 +3794,7 @@ msgstr "[niega con la cabeza]"
 #: data/maps/heat-village/baki-2.json+entities/826/settings/npcStates/7/event/quest/11/declined/1/message+%231193
 msgctxt "data/maps/heat-village/baki-2.json//entities/826/settings/npcStates/7/event/quest/11/declined/1/message"
 msgid "\\v[lore.title.seeker] disagree?\\. Glory not ruined taste for material wealth, yes?"
-msgstr "¿Un \\v[lore.title.seeker] en desacuerdo?\\. La gloria no arruinó tu gusto por la riqueza material, ¿verdad?"
+msgstr "¿\\v[lore.title.seeker] no quiere?\\. La gloria no arruinó gusto por riqueza material, ¿verdad?"
 
 #. data/maps/heat-village/baki-2.json entities/826/settings/npcStates/7/event/quest/11/declined/2/message #416
 #. NPC leader-trader
@@ -3822,7 +3822,7 @@ msgstr "Kney'tehab"
 #: data/maps/heat-village/baki-2.json+entities/826/settings/npcStates/8/event/2/message+%231176
 msgctxt "data/maps/heat-village/baki-2.json//entities/826/settings/npcStates/8/event/2/message"
 msgid "You speak to \\c[3]woman with red hair\\c[0] in \\c[3]Trade house\\c[0] again.\\. She still busy employee!"
-msgstr "Hablaste con la \\c[3]mujer pelirroja\\c[0] en la \\c[3]Casa comercial\\c[0] otra vez.\\. ¡Todavía es una empleada ocupada!"
+msgstr "Tú habla con \\c[3]mujer de pelo rojo\\c[0] en \\c[3]Casa comercial\\c[0] otra vez.\\. ¡Es empleada ocupada!"
 
 #. data/maps/heat-village/baki-2.json entities/826/settings/npcStates/9/event/quest/0/name #1177
 #. NPC leader-trader
@@ -3849,7 +3849,7 @@ msgstr "¡Hola!"
 #: data/maps/heat-village/baki-2.json+entities/826/settings/npcStates/9/event/quest/3/message+%231179
 msgctxt "data/maps/heat-village/baki-2.json//entities/826/settings/npcStates/9/event/quest/3/message"
 msgid "Great \\v[lore.title.seeker]!\\. Happy report of success already flew into reach.\\. Splendid!"
-msgstr "¡Gran \\v[lore.title.seeker]!\\. El feliz informe de éxito ya voló.\\. ¡Espléndido!"
+msgstr "¡Gran \\v[lore.title.seeker]!\\. Feliz informe de éxito ha llegado.\\. ¡Espléndido!"
 
 #. data/maps/heat-village/baki-2.json entities/826/settings/npcStates/9/event/quest/4/message #1180
 #. NPC leader-trader
@@ -3867,7 +3867,7 @@ msgstr "[asiente]"
 #: data/maps/heat-village/baki-2.json+entities/826/settings/npcStates/9/event/quest/5/message+%231181
 msgctxt "data/maps/heat-village/baki-2.json//entities/826/settings/npcStates/9/event/quest/5/message"
 msgid "Heard of complications happening with machine spirit.\\. But as expected of \\v[lore.title.seeker], chance of ghost was zero."
-msgstr "He oído hablar de las complicaciones que ocurren con el espíritu mecánico.\\. Pero como se esperaba de \\v[lore.title.seeker], la probabilidad de fantasmas fue de cero."
+msgstr "Oí hablar de complicaciones con espíritu de máquina.\\. Pero como se esperaba de \\v[lore.title.seeker], sin fantasmas."
 
 #. data/maps/heat-village/baki-2.json entities/826/settings/npcStates/9/event/quest/6/message #1182
 #. NPC leader-trader
@@ -3885,7 +3885,7 @@ msgstr "..."
 #: data/maps/heat-village/baki-2.json+entities/826/settings/npcStates/9/event/quest/7/message+%231183
 msgctxt "data/maps/heat-village/baki-2.json//entities/826/settings/npcStates/9/event/quest/7/message"
 msgid "Now, as red woman explained, work was for Sake of Fox.\\. Machine should be ready to produce now!"
-msgstr "Ahora, como explicó la mujer roja, el trabajo era por el bien de Fox.\\. ¡La máquina debería estar lista para producir ahora!"
+msgstr "Ahora, como dijo mujer roja, el trabajo produjo Sake de Fox.\\. ¡Máquina lista para producir ahora!"
 
 #. data/maps/heat-village/baki-2.json entities/826/settings/npcStates/9/event/quest/8/message #1184
 #. NPC leader-trader
@@ -3903,7 +3903,7 @@ msgstr "¡...!"
 #: data/maps/heat-village/baki-2.json+entities/826/settings/npcStates/9/event/quest/9/message+%231185
 msgctxt "data/maps/heat-village/baki-2.json//entities/826/settings/npcStates/9/event/quest/9/message"
 msgid "Certainly this foxy drink shall deliver in great profits and bring eternal honor to cooperation of humens and shad!"
-msgstr "¡Ciertamente, esta bebida astuta generará grandes ganancias y brindará un honor eterno a la cooperación de Humanos y Shad!"
+msgstr "¡Ciertamente, Sake generará grandes ganancias y brindará honor eterno a cooperación de humenos y shad!"
 
 #. data/maps/heat-village/baki-2.json entities/826/settings/npcStates/9/event/quest/10/message #1186
 #. NPC leader-trader
@@ -3921,7 +3921,7 @@ msgstr "..."
 #: data/maps/heat-village/baki-2.json+entities/826/settings/npcStates/9/event/quest/11/message+%231197
 msgctxt "data/maps/heat-village/baki-2.json//entities/826/settings/npcStates/9/event/quest/11/message"
 msgid "\\v[lore.title.seeker] services have been of great asset for us.\\. May your well be fair until we meet again."
-msgstr "Los servicios del \\v[lore.title.seeker] han sido de gran valor para nosotros.\\. Que tu bienestar sea justo hasta que nos volvamos a encontrar."
+msgstr "Servicios de \\v[lore.title.seeker] han sido de gran valor para nosotros.\\. Hasta próxima."
 
 #. data/maps/heat-village/baki-2.json entities/826/settings/npcStates/9/event/quest/12/message #1198
 #. NPC leader-trader
@@ -3948,7 +3948,7 @@ msgstr "Kney'tehab"
 #: data/maps/heat-village/baki-2.json+entities/826/settings/npcStates/10/event/2/message+%23661
 msgctxt "data/maps/heat-village/baki-2.json//entities/826/settings/npcStates/10/event/2/message"
 msgid "Human, take look over market!\\. Ba'kii Bazaar crafts are finest on Shadoon!"
-msgstr "¡Humano, echa un vistazo al mercado!\\. ¡Las artesanías Ba'kii Bazaar son las mejores en Shadoon!"
+msgstr "¡Humano, echa vistazo a mercado!\\. ¡Artesanías de Ba'kii Bazar son las mejores en Shadoon!"
 
 #. data/maps/heat-village/baki-2.json entities/826/settings/npcStates/10/event/3/message #688
 #. NPC leader-trader
@@ -3957,7 +3957,7 @@ msgstr "¡Humano, echa un vistazo al mercado!\\. ¡Las artesanías Ba'kii Bazaar
 #: data/maps/heat-village/baki-2.json+entities/826/settings/npcStates/10/event/3/message+%23688
 msgctxt "data/maps/heat-village/baki-2.json//entities/826/settings/npcStates/10/event/3/message"
 msgid "Also, all profit go to hardworking \\v[lore.title.shad] and helping humans."
-msgstr "Además, todos los productos son para \\v[lore.title.shad] y a ayudar a los humanos."
+msgstr "Además, todas ganancias son para \\v[lore.title.shad] y para ayudar humanos."
 
 #. data/maps/heat-village/baki-2.json entities/826/settings/npcStates/10/event/4/message #357
 #. NPC leader-trader
@@ -4054,7 +4054,7 @@ msgstr "[asiente]"
 #: data/maps/heat-village/baki-2.json+entities/829/settings/event/32/message+%23785
 msgctxt "data/maps/heat-village/baki-2.json//entities/829/settings/event/32/message"
 msgid "That is unfortunate..."
-msgstr "Siento oírlo..."
+msgstr "Siento oír eso..."
 
 #. data/maps/heat-village/baki-2.json entities/829/settings/event/33/message #786
 #. EventTrigger postDream START IF plot.line >= 4650
@@ -4062,7 +4062,7 @@ msgstr "Siento oírlo..."
 #: data/maps/heat-village/baki-2.json+entities/829/settings/event/33/message+%23786
 msgctxt "data/maps/heat-village/baki-2.json//entities/829/settings/event/33/message"
 msgid "I mean, it is a good thing that you have those dreams."
-msgstr "Es decir, es algo bueno que tengas esos sueños."
+msgstr "Es decir, es bueno que tengas esos sueños."
 
 #. data/maps/heat-village/baki-2.json entities/829/settings/event/34/message #787
 #. EventTrigger postDream START IF plot.line >= 4650
@@ -4078,7 +4078,7 @@ msgstr "Después de todo, son nuestra mejor herramienta para recuperar tus recue
 #: data/maps/heat-village/baki-2.json+entities/829/settings/event/35/message+%23788
 msgctxt "data/maps/heat-village/baki-2.json//entities/829/settings/event/35/message"
 msgid "But of course, they also include the things you would rather not remember."
-msgstr "Pero por supuesto, también hay cosas que quizá preferirías no recordar."
+msgstr "Pero por supuesto, también hay cosas que quizá prefieras no recordar."
 
 #. data/maps/heat-village/baki-2.json entities/829/settings/event/36/message #789
 #. EventTrigger postDream START IF plot.line >= 4650
@@ -4118,7 +4118,7 @@ msgstr "[niega con la cabeza]"
 #: data/maps/heat-village/baki-2.json+entities/829/settings/event/40/message+%23793
 msgctxt "data/maps/heat-village/baki-2.json//entities/829/settings/event/40/message"
 msgid "Okay.\\. We just have to give it enough time."
-msgstr "De acuerdo.\\. Tiempo al tiempo."
+msgstr "De acuerdo.\\. Habrá que darle algo de tiempo."
 
 #. data/maps/heat-village/baki-2.json entities/829/settings/event/41/message #794
 #. EventTrigger postDream START IF plot.line >= 4650
@@ -4458,7 +4458,7 @@ msgstr "Y que has logrado vencerlo.\\. Él insiste que has hecho \\c[1]trampa\\c
 #: data/maps/heat-village/baki-2.json+entities/831/settings/event/37/thenStep/0/thenStep/1/message+%231075
 msgctxt "data/maps/heat-village/baki-2.json//entities/831/settings/event/37/thenStep/0/thenStep/1/message"
 msgid "Sounds like a sore loser to me."
-msgstr "Es un mal perdedor."
+msgstr "A mí me suena a que es mal perdedor."
 
 #. data/maps/heat-village/baki-2.json entities/831/settings/event/37/thenStep/0/thenStep/2/message #834
 #. EventTrigger WaitingForEmilie START IF tmp.questHubFront && plot.line >= 4800
@@ -4523,7 +4523,7 @@ msgstr "No te pongas mal. Es un jugador experimentado, era de esperarse."
 #: data/maps/heat-village/baki-2.json+entities/831/settings/event/38/message+%23838
 msgctxt "data/maps/heat-village/baki-2.json//entities/831/settings/event/38/message"
 msgid "Anyways, he talks a lot about you. Almost makes me jealous."
-msgstr "En fin, habla mucho sobre ti. A veces me pongo celoso."
+msgstr "En fin, habla mucho sobre ti. A veces hasta me pongo celoso."
 
 #. data/maps/heat-village/baki-2.json entities/831/settings/event/39/message #839
 #. EventTrigger WaitingForEmilie START IF tmp.questHubFront && plot.line >= 4800
@@ -4707,7 +4707,7 @@ msgstr "¡...!"
 #: data/maps/heat-village/baki-2.json+entities/831/settings/event/83/message+%231036
 msgctxt "data/maps/heat-village/baki-2.json//entities/831/settings/event/83/message"
 msgid "Pretty much!"
-msgstr "¡Bien!"
+msgstr "¡Bastante bien!"
 
 #. data/maps/heat-village/baki-2.json entities/831/settings/event/84/message #1037
 #. EventTrigger WaitingForEmilie START IF tmp.questHubFront && plot.line >= 4800
@@ -4715,7 +4715,7 @@ msgstr "¡Bien!"
 #: data/maps/heat-village/baki-2.json+entities/831/settings/event/84/message+%231037
 msgctxt "data/maps/heat-village/baki-2.json//entities/831/settings/event/84/message"
 msgid "It's actually quite amazing how precisely they managed to synchronize your dexterity."
-msgstr "Es bastante sorprendente con qué nivel de precisión consiguieron rastrear los dedos."
+msgstr "Es realmente sorprendente con qué nivel de precisión el juego sincroniza tus dedos."
 
 #. data/maps/heat-village/baki-2.json entities/831/settings/event/85/message #1038
 #. EventTrigger WaitingForEmilie START IF tmp.questHubFront && plot.line >= 4800
@@ -4795,7 +4795,7 @@ msgstr "Sí, esa es complicada."
 #: data/maps/heat-village/baki-2.json+entities/831/settings/event/94/message+%23862
 msgctxt "data/maps/heat-village/baki-2.json//entities/831/settings/event/94/message"
 msgid "Anyway, since you can mimic things with your hands, maybe sign language would be an option for communication?"
-msgstr "En fin, ya que mueves mover tus manos con total libertad, ¿quizá podrías aprender lenguaje de señas para poder comunicarte?"
+msgstr "En fin, ya que puedes mover tus manos con total libertad, ¿quizá podrías aprender lenguaje de señas para poder comunicarte?"
 
 #. data/maps/heat-village/baki-2.json entities/831/settings/event/95/message #863
 #. EventTrigger WaitingForEmilie START IF tmp.questHubFront && plot.line >= 4800
@@ -4819,7 +4819,7 @@ msgstr "Bueno...\\. supongo que sería tedioso de aprender."
 #: data/maps/heat-village/baki-2.json+entities/831/settings/event/97/message+%23865
 msgctxt "data/maps/heat-village/baki-2.json//entities/831/settings/event/97/message"
 msgid "Also, I guess most other players don't know sign language either."
-msgstr "Y sería raro encontrarse con otra persona que sepa lenguaje de señas."
+msgstr "Y también es cierto que la mayoría no te entendería de todos modos."
 
 #. data/maps/heat-village/baki-2.json entities/831/settings/event/98/message #866
 #. EventTrigger WaitingForEmilie START IF tmp.questHubFront && plot.line >= 4800
@@ -4955,7 +4955,7 @@ msgstr "¡Adiós!"
 #: data/maps/heat-village/baki-2.json+entities/831/settings/event/123/message+%23884
 msgctxt "data/maps/heat-village/baki-2.json//entities/831/settings/event/123/message"
 msgid "Okey-dokey!\\. Let's go back to the \\c[3]quest hub\\c[0], then!"
-msgstr "¡École!\\. ¡Entonces volvamos al \\c[3]centro de misiones\\c[0]!"
+msgstr "¡École!\\. ¡Esperémosla en el \\c[3]centro de misiones\\c[0]!"
 
 #. data/maps/heat-village/baki-2.json entities/831/settings/event/124/message #885
 #. EventTrigger WaitingForEmilie START IF tmp.questHubFront && plot.line >= 4800
@@ -5011,7 +5011,7 @@ msgstr "..."
 #: data/maps/heat-village/baki-2.json+entities/831/settings/event/130/message+%23891
 msgctxt "data/maps/heat-village/baki-2.json//entities/831/settings/event/130/message"
 msgid "Uhm...\\. anyway...\\. Let's just go, okay?"
-msgstr "Uhm...\\. bueno, en fin...\\. vayamos a esperar a Emilie, ¿si?"
+msgstr "Uhm...\\. bueno, en fin...\\. vayamos de una vez, ¿si?"
 
 #. data/maps/heat-village/baki-2.json entities/834/settings/event/4/message #902
 #. EventTrigger ApolloChallenge START IF tmp.apolloDetect
@@ -5094,7 +5094,7 @@ msgstr "¡He vuelto para darle fin a tu deshonroso comportamiento!"
 #: data/maps/heat-village/baki-2.json+entities/834/settings/event/28/elseStep/0/message+%23899
 msgctxt "data/maps/heat-village/baki-2.json//entities/834/settings/event/28/elseStep/0/message"
 msgid "Anyway!\\. I'm glad to see you progressed this far into the game!"
-msgstr "¡Me alegro que hayas avanzado tanto en el juego!"
+msgstr "¡Me alegro de ver que hayas avanzado tanto en el juego!"
 
 #. data/maps/heat-village/baki-2.json entities/834/settings/event/28/elseStep/1/message #900
 #. EventTrigger ApolloChallenge START IF tmp.apolloDetect
@@ -5103,7 +5103,7 @@ msgstr "¡Me alegro que hayas avanzado tanto en el juego!"
 #: data/maps/heat-village/baki-2.json+entities/834/settings/event/28/elseStep/1/message+%23900
 msgctxt "data/maps/heat-village/baki-2.json//entities/834/settings/event/28/elseStep/1/message"
 msgid "It is due time to put your skills to another test!"
-msgstr "¡Ya es hora de poner tus habilidades en prueba!"
+msgstr "¡Ya es hora de poner tus habilidades a prueba!"
 
 #. data/maps/heat-village/baki-2.json entities/834/settings/event/37/message #108
 #. EventTrigger ApolloChallenge START IF tmp.apolloDetect
