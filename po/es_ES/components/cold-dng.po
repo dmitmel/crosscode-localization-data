@@ -3,15 +3,16 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"POT-Revision-Date: 2022-04-19 22:43+0000\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2022-08-21 17:41+0000\n"
+"Last-Translator: Esteban Herrera Ortúzar <estebanherreraortuzar@gmail.com>\n"
+"Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/cold-dng/es/>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0 (e2bc05b 2022-04-19)\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.5.3\n"
+"POT-Revision-Date: 2022-04-19 22:43+0000\n"
 
 #. data/areas/cold-dng.json name #1
 #: data/areas/cold-dng.json+name+%231
@@ -125,7 +126,7 @@ msgstr "Acantilado Congelado 5"
 #: data/areas/cold-dng.json+floors/1/maps/6/name+%23138
 msgctxt "data/areas/cold-dng.json//floors/1/maps/6/name"
 msgid "Overrun Chamber"
-msgstr "Cámara Abrumada"
+msgstr "Cámara Infestada"
 
 #. data/areas/cold-dng.json floors/1/maps/7/name #158
 #: data/areas/cold-dng.json+floors/1/maps/7/name+%23158
@@ -179,7 +180,7 @@ msgstr "Cámara Abandonada 2"
 #: data/areas/cold-dng.json+floors/3/maps/0/name+%2385
 msgctxt "data/areas/cold-dng.json//floors/3/maps/0/name"
 msgid "Crossing Funnel"
-msgstr "Camino Estrecho"
+msgstr "Cruce"
 
 #. data/areas/cold-dng.json floors/3/maps/1/name #87
 #: data/areas/cold-dng.json+floors/3/maps/1/name+%2387
@@ -269,13 +270,13 @@ msgstr "Controles del Elevador"
 #: data/areas/cold-dng.json+floors/4/maps/5/name+%2382
 msgctxt "data/areas/cold-dng.json//floors/4/maps/5/name"
 msgid "Forbidden Chasm"
-msgstr "Abismo Olvidado"
+msgstr "Abismo Prohibido"
 
 #. data/areas/cold-dng.json floors/4/maps/6/name #195
 #: data/areas/cold-dng.json+floors/4/maps/6/name+%23195
 msgctxt "data/areas/cold-dng.json//floors/4/maps/6/name"
 msgid "Forbidden Storage"
-msgstr "Almacenamiento Olvidado"
+msgstr "Almacenamiento Prohibido"
 
 #. data/areas/cold-dng.json floors/4/maps/7/name #196
 #: data/areas/cold-dng.json+floors/4/maps/7/name+%23196
@@ -343,7 +344,7 @@ msgstr "Sala de Control B"
 #: data/maps/cold-dng/b1/center.json+entities/36/settings/event/5/message+%23121
 msgctxt "data/maps/cold-dng/b1/center.json//entities/36/settings/event/5/message"
 msgid "Hey, Lea... how is it going?"
-msgstr "Oye, Lea... ¿cómo vas?"
+msgstr "Hola, Lea... ¿cómo vas?"
 
 #. data/maps/cold-dng/b1/center.json entities/36/settings/event/6/message #122
 #. EventTrigger EmilieBugsA START IF cold-dng.b1.control-a-shortcut
@@ -359,7 +360,7 @@ msgstr "¿...?"
 #: data/maps/cold-dng/b1/center.json+entities/36/settings/event/7/message+%23123
 msgctxt "data/maps/cold-dng/b1/center.json//entities/36/settings/event/7/message"
 msgid "Ah... I just need a short breather, this dungeon is pretty long, non?"
-msgstr "Ah... sólo necesito un descanso, esta mazmorra es muy larga, ¿non?"
+msgstr "Ah... solo necesito un descanso, esta mazmorra es muy larga, ¿non?"
 
 #. data/maps/cold-dng/b1/center.json entities/36/settings/event/8/message #124
 #. EventTrigger EmilieBugsA START IF cold-dng.b1.control-a-shortcut
@@ -391,7 +392,7 @@ msgstr "¿...?"
 #: data/maps/cold-dng/b1/center.json+entities/36/settings/event/11/message+%23127
 msgctxt "data/maps/cold-dng/b1/center.json//entities/36/settings/event/11/message"
 msgid "You know... \\c[3]them\\c[0]."
-msgstr "Ya sabes... \\c[3]ellos\\c[0]."
+msgstr "Ya sabes... a \\c[3]ellos\\c[0]."
 
 #. data/maps/cold-dng/b1/center.json entities/36/settings/event/12/message #128
 #. EventTrigger EmilieBugsA START IF cold-dng.b1.control-a-shortcut
@@ -504,7 +505,7 @@ msgstr "¡...!"
 #: data/maps/cold-dng/b1/control-a.json+entities/49/settings/event/10/action/0/text+%231
 msgctxt "data/maps/cold-dng/b1/control-a.json//entities/49/settings/event/10/action/0/text"
 msgid "Threat detected"
-msgstr "Amenaza Detectada"
+msgstr "Amenaza detectada"
 
 #. data/maps/cold-dng/b1/control-a.json entities/59/settings/teleportLabel #2
 #. TeleportField backTeleport SPAWN IF cold-dng.b1.control-a-shortcut
@@ -607,7 +608,7 @@ msgstr "S4"
 #: data/maps/cold-dng/b3/room7.json+entities/6/settings/event/6/action/0/text+%231
 msgctxt "data/maps/cold-dng/b3/room7.json//entities/6/settings/event/6/action/0/text"
 msgid "Threat detected"
-msgstr "Amenaza Detectada"
+msgstr "Amenaza detectada"
 
 #. data/maps/cold-dng/b3/room7.json entities/41/settings/event/31/object #2
 #. EventTrigger UpgradeSequence START IF map.upgradeGet
@@ -623,7 +624,7 @@ msgstr "Modo Fuego"
 #: data/maps/cold-dng/b3/room7.json+entities/42/settings/event/17/text+%234
 msgctxt "data/maps/cold-dng/b3/room7.json//entities/42/settings/event/17/text"
 msgid "Press \\i[heat] to switch to \\c[3]heat mode\\c[0] at any time!"
-msgstr "¡Presiona \\i[heat] para cambiar al \\c[3]modo fuego\\c[0]!"
+msgstr "¡Oprime \\i[heat] para cambiar al \\c[3]modo fuego\\c[0]!"
 
 #. data/maps/cold-dng/b3/room7.json entities/42/settings/event/21/text #5
 #. EventTrigger HEAT TUTORIAL START IF tmp.heatTutorial
@@ -631,7 +632,7 @@ msgstr "¡Presiona \\i[heat] para cambiar al \\c[3]modo fuego\\c[0]!"
 #: data/maps/cold-dng/b3/room7.json+entities/42/settings/event/21/text+%235
 msgctxt "data/maps/cold-dng/b3/room7.json//entities/42/settings/event/21/text"
 msgid "Press \\i[heat] \\c[3]again\\c[3] to switch back to \\c[3]neutral mode\\c[0]."
-msgstr "Presiona \\i[heat] otra vez para \\c[3]volver al modo neutral\\c[0]."
+msgstr "Oprime \\i[heat] otra vez para \\c[3]volver al modo neutral\\c[0]."
 
 #. data/maps/cold-dng/b3/room7.json entities/43/settings/event/0/title #838
 #. EventTrigger PostUpdate START IF map.upgradePost
@@ -656,7 +657,7 @@ msgstr "Aprende a controlar la \\c[3]Sobrecarga Elemental\\c[0]."
 #: data/maps/cold-dng/b3/room7.json+entities/43/settings/event/0/acceptStep/5/text+%23844
 msgctxt "data/maps/cold-dng/b3/room7.json//entities/43/settings/event/0/acceptStep/5/text"
 msgid "Doing actions in element mode will increase your \\c[3]element load\\c[0]."
-msgstr "Cada acción que realices mientras tengas activado algún modo elemental incrementará tu \\c[3]carga elemental\\c[0]."
+msgstr "Cada acción que realices mientras tengas activado algún modo elemental incrementará la \\c[3]carga elemental\\c[0]."
 
 #. data/maps/cold-dng/b3/room7.json entities/43/settings/event/0/acceptStep/40/text #848
 #. EventTrigger PostUpdate START IF map.upgradePost
@@ -665,7 +666,7 @@ msgstr "Cada acción que realices mientras tengas activado algún modo elemental
 #: data/maps/cold-dng/b3/room7.json+entities/43/settings/event/0/acceptStep/40/text+%23848
 msgctxt "data/maps/cold-dng/b3/room7.json//entities/43/settings/event/0/acceptStep/40/text"
 msgid "Your \\c[3]element load\\c[0] is displayed around the element mode symbol."
-msgstr "Tu \\c[3]carga elemental\\c[0] se mostrará encima el símbolo del modo elemental."
+msgstr "La \\c[3]carga elemental\\c[0] se mostrará en el área del símbolo del modo elemental."
 
 #. data/maps/cold-dng/b3/room7.json entities/43/settings/event/0/acceptStep/54/text #849
 #. EventTrigger PostUpdate START IF map.upgradePost
@@ -674,7 +675,7 @@ msgstr "Tu \\c[3]carga elemental\\c[0] se mostrará encima el símbolo del modo 
 #: data/maps/cold-dng/b3/room7.json+entities/43/settings/event/0/acceptStep/54/text+%23849
 msgctxt "data/maps/cold-dng/b3/room7.json//entities/43/settings/event/0/acceptStep/54/text"
 msgid "If your element load fills up, you reach the \\c[3]Elemental Overload\\c[0], which temporarily blocks the use of \\c[3]all element modes\\c[0]."
-msgstr "Si tu carga elemental se llena, causarás una \\c[3]Sobrecarga Elemental\\c[0], que bloqueará temporalmente el uso de \\c[3]cualquier modo elemental\\c[0]."
+msgstr "Si tu carga elemental se llena, causarás una \\c[3]Sobrecarga Elemental\\c[0] y se bloqueará temporalmente el uso de \\c[3]cualquier modo elemental\\c[0]."
 
 #. data/maps/cold-dng/b3/room7.json entities/43/settings/event/0/acceptStep/56/text #850
 #. EventTrigger PostUpdate START IF map.upgradePost
@@ -683,7 +684,7 @@ msgstr "Si tu carga elemental se llena, causarás una \\c[3]Sobrecarga Elemental
 #: data/maps/cold-dng/b3/room7.json+entities/43/settings/event/0/acceptStep/56/text+%23850
 msgctxt "data/maps/cold-dng/b3/room7.json//entities/43/settings/event/0/acceptStep/56/text"
 msgid "Your element load will steadily decrease in \\c[3]Neutral mode\\c[0]."
-msgstr "Tu carga elemental decrementará gradualmente en el \\c[3]Modo Neutral\\c[0]."
+msgstr "Tu carga elemental disminuirá gradualmente en el \\c[3]Modo Neutral\\c[0]."
 
 #. data/maps/cold-dng/b3/room7.json entities/43/settings/event/0/acceptStep/57/text #851
 #. EventTrigger PostUpdate START IF map.upgradePost
@@ -692,7 +693,7 @@ msgstr "Tu carga elemental decrementará gradualmente en el \\c[3]Modo Neutral\\
 #: data/maps/cold-dng/b3/room7.json+entities/43/settings/event/0/acceptStep/57/text+%23851
 msgctxt "data/maps/cold-dng/b3/room7.json//entities/43/settings/event/0/acceptStep/57/text"
 msgid "The best approach to \\c[3]quickly decrease\\c[0] your load is to \\c[3]deal damage\\c[0] in \\c[3]Neutral Mode\\c[0]."
-msgstr "La mejor forma de \\c[3]librarse rápidamente\\c[0] de la carga elemental es \\c[3]causar daño\\c[0] en el \\c[3]Modo Neutral\\c[0]."
+msgstr "La mejor forma de \\c[3]disminuir rápidamente\\c[0] la carga elemental es \\c[3]causando daño\\c[0] con el \\c[3]Modo Neutral\\c[0]."
 
 #. data/maps/cold-dng/b3/room7.json entities/43/settings/event/0/acceptStep/61/text #845
 #. EventTrigger PostUpdate START IF map.upgradePost
@@ -701,7 +702,7 @@ msgstr "La mejor forma de \\c[3]librarse rápidamente\\c[0] de la carga elementa
 #: data/maps/cold-dng/b3/room7.json+entities/43/settings/event/0/acceptStep/61/text+%23845
 msgctxt "data/maps/cold-dng/b3/room7.json//entities/43/settings/event/0/acceptStep/61/text"
 msgid "Repeat?"
-msgstr "¿Repetir?"
+msgstr "¿Volver a explicar?"
 
 #. data/maps/cold-dng/b3/room7.json entities/43/settings/event/0/acceptStep/61/options/0/label #846
 #. EventTrigger PostUpdate START IF map.upgradePost
@@ -728,7 +729,7 @@ msgstr "No"
 #: data/maps/cold-dng/b3/room7.json+entities/53/settings/event/6/action/0/text+%236
 msgctxt "data/maps/cold-dng/b3/room7.json//entities/53/settings/event/6/action/0/text"
 msgid "Threat detected"
-msgstr "Amenaza Detectada"
+msgstr "Amenaza detectada"
 
 #. data/maps/cold-dng/b3/room7.json entities/56/settings/event/1/guiInfo/settings/text #7
 #. EventTrigger QuestBattleFirstHPBreak START IF tmp.questFirstHPBreak
@@ -849,7 +850,7 @@ msgstr "..."
 #: data/maps/cold-dng/b4/room9.json+entities/81/settings/event/14/message+%23125
 msgctxt "data/maps/cold-dng/b4/room9.json//entities/81/settings/event/14/message"
 msgid "ANYWAY! Race. Still on. Not gonna give up."
-msgstr "¡EN FIN! La carrera. Sigue en curso. No me rendiré."
+msgstr "¡EN FIN! La carrera sigue en curso. No me rendiré."
 
 #. data/maps/cold-dng/b4/room9.json entities/81/settings/event/15/message #126
 #. EventTrigger EmilieBugsB
@@ -928,7 +929,7 @@ msgid ""
 "These mountains stood \n"
 "for eons, nearly unchanged..."
 msgstr ""
-"Estas montañas han permanecido\n"
+"Estas montañas han existido\n"
 "por eones, sin sufrir cambios..."
 
 #. data/maps/cold-dng/g/expo-space.json entities/4/settings/event/9/text #3
@@ -940,8 +941,8 @@ msgid ""
 "Their frozen crown, \n"
 "shimmering in the sun."
 msgstr ""
-"Sus congeladas coronas,\n"
-"brillan en el Sol."
+"Sus congeladas cimas,\n"
+"brillan en el sol."
 
 #. data/maps/cold-dng/g/expo-space.json entities/4/settings/event/10/text #4
 #. EventTrigger
@@ -976,8 +977,8 @@ msgid ""
 "You, the traveler, \n"
 "the envoy of change. "
 msgstr ""
-"Tu, el viajero,\n"
-"el agente del cambio. "
+"Tú, el viajero,\n"
+"el enviado del cambio. "
 
 #. data/maps/cold-dng/g/expo-space.json entities/4/settings/event/13/text #7
 #. EventTrigger
@@ -1016,15 +1017,15 @@ msgid ""
 "Let your every step\n"
 "form the path of your growth."
 msgstr ""
-"Deja que tus pasos\n"
-"formen tus enseñanzas."
+"Que cada uno de tus pasos\n"
+"forme el camino de tu crecimiento."
 
 #. data/maps/cold-dng/g/shade-room.json entities/10/settings/interact/hoverText #1
 #. Prop SPAWN IF map.infoText >= 3
 #: data/maps/cold-dng/g/shade-room.json+entities/10/settings/interact/hoverText+%231
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/10/settings/interact/hoverText"
 msgid "Birth of Di'aro"
-msgstr "El Nacimiento de Di'aro"
+msgstr "El nacimiento de Di'aro"
 
 #. data/maps/cold-dng/g/shade-room.json entities/10/settings/interact/event/0/text #3
 #. Prop SPAWN IF map.infoText >= 3
@@ -1040,7 +1041,7 @@ msgstr "Todo comenzó cuando \\c[3]Di'orbis\\c[0], el Dios etéreo de la creaci�
 #: data/maps/cold-dng/g/shade-room.json+entities/10/settings/interact/event/1/text+%2353
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/10/settings/interact/event/1/text"
 msgid "After pondering for eons in solitude, his desire for company gave birth to the \\c[3]Gods of Shape\\c[0]."
-msgstr "Luego de años de reflexión en soledad, su deseo por compañía creo a los \\c[3]Dioses de la Forma\\c[0]."
+msgstr "Luego de pasar eones en solitud, su deseo por compañía dio luz a los \\c[3]Dioses de la Forma\\c[0]."
 
 #. data/maps/cold-dng/g/shade-room.json entities/10/settings/interact/event/2/text #54
 #. Prop SPAWN IF map.infoText >= 3
@@ -1048,7 +1049,7 @@ msgstr "Luego de años de reflexión en soledad, su deseo por compañía creo a 
 #: data/maps/cold-dng/g/shade-room.json+entities/10/settings/interact/event/2/text+%2354
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/10/settings/interact/event/2/text"
 msgid "Di'aro is one of these gods. The God of the \\c[3]Square\\c[0] and the creator of \\c[3]solid surface\\c[0]."
-msgstr "\\c[3]Di'aro\\c[0] es uno de estos dioses. El Dios del \\c[3]Cuadrado\\c[0] y el creador de las \\c[3]superficies sólidas\\c[0]."
+msgstr "\\c[3]Di'aro\\c[0] es uno de estos dioses. El Dios del \\c[3]Cuadrado\\c[0] y creador de las \\c[3]superficies sólidas\\c[0]."
 
 #. data/maps/cold-dng/g/shade-room.json entities/11/settings/interact/hoverText #46
 #. Prop SPAWN IF map.infoText >= 4
@@ -1071,7 +1072,7 @@ msgstr "Di'aro es el creador de las \\c[3]superficies sólidas\\c[0]."
 #: data/maps/cold-dng/g/shade-room.json+entities/11/settings/interact/event/1/text+%2355
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/11/settings/interact/event/1/text"
 msgid "His powers could form the most \\c[3]majestic mountains\\c[0] and \\c[3]freeze\\c[0] the vastest of seas."
-msgstr "Sus poderes podían formar las más \\c[3]majestuosas montañas\\c[0] y \\c[3]congelar\\c[0] el más vasto de los océanos."
+msgstr "Sus poderes podían formar las más \\c[3]majestuosas montañas\\c[0] y \\c[3]congelar\\c[0] el más vasto de los mares."
 
 #. data/maps/cold-dng/g/shade-room.json entities/11/settings/interact/event/2/text #56
 #. Prop SPAWN IF map.infoText >= 4
@@ -1079,7 +1080,7 @@ msgstr "Sus poderes podían formar las más \\c[3]majestuosas montañas\\c[0] y 
 #: data/maps/cold-dng/g/shade-room.json+entities/11/settings/interact/event/2/text+%2356
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/11/settings/interact/event/2/text"
 msgid "Indeed, his creations are enduring and overwhelming sights to behold, yet motionless and without life."
-msgstr "En efecto, sus creaciones fueron duraderas y abrumadoras vistas que admirar, pero inmóviles y carentes de vida."
+msgstr "En efecto, sus creaciones son duraderas, abrumadoras y dignas de admirar, pero inmóviles y carentes de vida."
 
 #. data/maps/cold-dng/g/shade-room.json entities/12/settings/interact/hoverText #50
 #. Prop SPAWN IF map.infoText >= 1
@@ -1094,7 +1095,7 @@ msgstr "Fuego y Tierra"
 #: data/maps/cold-dng/g/shade-room.json+entities/12/settings/interact/event/0/text+%2352
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/12/settings/interact/event/0/text"
 msgid "\\c[3]E'nel\\c[0] is a Goddess of Shape, the mistress of the flame, and creator of the sun."
-msgstr "\\c[3]E'nel\\c[0] es una Diosa de la Forma, la dama del fuego, y creadora del Sol."
+msgstr "\\c[3]E'nel\\c[0] es una Diosa de la Forma, la dama del fuego y creadora del Sol."
 
 #. data/maps/cold-dng/g/shade-room.json entities/12/settings/interact/event/1/text #57
 #. Prop SPAWN IF map.infoText >= 1
@@ -1102,7 +1103,7 @@ msgstr "\\c[3]E'nel\\c[0] es una Diosa de la Forma, la dama del fuego, y creador
 #: data/maps/cold-dng/g/shade-room.json+entities/12/settings/interact/event/1/text+%2357
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/12/settings/interact/event/1/text"
 msgid "Yet she was envious of her fellow gods, who created fascinating shapes and worlds full of life and color."
-msgstr "Sin embargo, tenía celos de los otros dioses, quienes creaban fascinantes formas y mundos llenos de vida y color."
+msgstr "Sin embargo, sentía envidia de los otros dioses, quienes creaban fascinantes formas y mundos llenos de vida y color."
 
 #. data/maps/cold-dng/g/shade-room.json entities/12/settings/interact/event/2/text #58
 #. Prop SPAWN IF map.infoText >= 1
@@ -1110,7 +1111,7 @@ msgstr "Sin embargo, tenía celos de los otros dioses, quienes creaban fascinant
 #: data/maps/cold-dng/g/shade-room.json+entities/12/settings/interact/event/2/text+%2358
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/12/settings/interact/event/2/text"
 msgid "She longed to take part, adding a warming fire to these worlds, yet her flame was too mighty and consumed all in its path."
-msgstr "Deseaba formar parte, agregando su caluroso fuego a estos mundos, pero su llama era muy fuerte, y consumía todo en su camino."
+msgstr "Ansiaba formar parte de estas creaciones para agregar su caluroso fuego a estos mundos, pero su llama era muy intensa y consumía todo en su camino."
 
 #. data/maps/cold-dng/g/shade-room.json entities/12/settings/interact/event/3/text #59
 #. Prop SPAWN IF map.infoText >= 1
@@ -1118,7 +1119,7 @@ msgstr "Deseaba formar parte, agregando su caluroso fuego a estos mundos, pero s
 #: data/maps/cold-dng/g/shade-room.json+entities/12/settings/interact/event/3/text+%2359
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/12/settings/interact/event/3/text"
 msgid "It was then when \\c[3]Di'aro\\c[0] had a proposal."
-msgstr "Fue entonces que \\c[3]Di'aro\\c[0] le hizo una propuesta."
+msgstr "Fue en ese entonces cuando \\c[3]Di'aro\\c[0] le hizo una propuesta."
 
 #. data/maps/cold-dng/g/shade-room.json entities/12/settings/interact/event/4/text #60
 #. Prop SPAWN IF map.infoText >= 1
@@ -1134,7 +1135,7 @@ msgstr "Formó una esfera hueca con múltiples agujeros, rodeada de altas monta�
 #: data/maps/cold-dng/g/shade-room.json+entities/12/settings/interact/event/5/text+%2361
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/12/settings/interact/event/5/text"
 msgid "E'nel filled this shape with her flame, creating a world with a heated core and life on its surface."
-msgstr "E'nel llenó esta forma con sus llamas, creando un mundo con un núcleo ardiente y vida en su superficie."
+msgstr "E'nel llenó esta forma con sus llamas y creó un mundo con un núcleo ardiente y vida en su superficie."
 
 #. data/maps/cold-dng/g/shade-room.json entities/12/settings/interact/event/6/text #62
 #. Prop SPAWN IF map.infoText >= 1
@@ -1142,7 +1143,7 @@ msgstr "E'nel llenó esta forma con sus llamas, creando un mundo con un núcleo 
 #: data/maps/cold-dng/g/shade-room.json+entities/12/settings/interact/event/6/text+%2362
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/12/settings/interact/event/6/text"
 msgid "Today, every \\c[3]volcano\\c[0] is a record of \\c[3]E'nel\\c[0] and \\c[3]Di'aro\\c[0] working in union."
-msgstr "Hoy, todo \\c[3]volcán\\c[0] es un recordatorio de la unión de \\c[3]E'nel\\c[0] y \\c[3]Di'aro\\c[0]."
+msgstr "Hoy, todo \\c[3]volcán\\c[0] es un recordatorio de la unión entre \\c[3]E'nel\\c[0] y \\c[3]Di'aro\\c[0]."
 
 #. data/maps/cold-dng/g/shade-room.json entities/13/settings/interact/hoverText #63
 #. Prop SPAWN IF map.infoText >= 2
@@ -1173,7 +1174,7 @@ msgstr "Di'aro, sin embargo, no estaba de acuerdo. Él no veía más que infante
 #: data/maps/cold-dng/g/shade-room.json+entities/13/settings/interact/event/2/text+%2366
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/13/settings/interact/event/2/text"
 msgid "Di'orbis then pointed to Shadoon and asked Di'aro to watch. Di'aro saw how our kind climbed the \\c[3]highest of mountains\\c[0] and reached the very \\c[3]bottom of the sea\\c[0]."
-msgstr "Di'orbis entonces le pidió a Di'aro que observe Shadoon. Di'aro vio como nuestra especie escalaba las \\c[3]más altas montañas\\c[0] y se sumergía hasta los \\c[3]océanos más profundos\\c[0]."
+msgstr "Di'orbis entonces le pidió a Di'aro que observe Shadoon. Di'aro vio cómo nuestra especie escalaba las \\c[3]más altas montañas\\c[0] y se sumergía hasta los \\c[3]océanos más profundos\\c[0]."
 
 #. data/maps/cold-dng/g/shade-room.json entities/13/settings/interact/event/3/text #67
 #. Prop SPAWN IF map.infoText >= 2
@@ -1181,7 +1182,7 @@ msgstr "Di'orbis entonces le pidió a Di'aro que observe Shadoon. Di'aro vio com
 #: data/maps/cold-dng/g/shade-room.json+entities/13/settings/interact/event/3/text+%2367
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/13/settings/interact/event/3/text"
 msgid "Di'aro was shocked yet proud of our achievements. Reluctantly, he agreed that indeed we had been ready to start our journey."
-msgstr "Fue entonces que Di'aro quedó igualmente asombrado y orgulloso de nuestros logros. De mala gana, aceptó que en efecto, estábamos listos para nuestro viaje."
+msgstr "Di'aro quedó anonadado, pero orgulloso de nuestros logros. De mala gana, aceptó que nosotros sí estábamos listos para nuestro viaje."
 
 #. data/maps/cold-dng/g/shade-room.json entities/13/settings/interact/event/4/text #68
 #. Prop SPAWN IF map.infoText >= 2
@@ -1189,7 +1190,7 @@ msgstr "Fue entonces que Di'aro quedó igualmente asombrado y orgulloso de nuest
 #: data/maps/cold-dng/g/shade-room.json+entities/13/settings/interact/event/4/text+%2368
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/13/settings/interact/event/4/text"
 msgid "Di'aro then prepared an \\c[3]envelope\\c[0] of solid rock and ice, used to send the \\c[3]Message of the Sky\\c[0]."
-msgstr "Entonces Di'aro preparó un \\c[3]sobre\\c[0] de piedra y hielo sólido, y lo utilizó para enviar el \\c[3]Mensaje del Cielo\\c[0]."
+msgstr "Di'aro preparó un \\c[3]sobre\\c[0] de piedra y hielo sólido, y lo utilizó para enviar el \\c[3]Mensaje del Cielo\\c[0]."
 
 #. data/maps/cold-dng/g/shade-room.json entities/18/settings/dialog/0/text #5
 #. XenoDialog SPAWN IF npc.heightChan == 20
@@ -1221,7 +1222,7 @@ msgstr "¡Toda la mazmorra no era más que un gran abismo!"
 #: data/maps/cold-dng/g/shade-room.json+entities/18/settings/dialog/3/text+%238
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/18/settings/dialog/3/text"
 msgid "The last boss was over a cliff for Pete's sake!"
-msgstr "¡El jefe final estaba en una colina, por el amor a Pete!"
+msgstr "¡El jefe final estaba en una colina, por el amor de Dios!"
 
 #. data/maps/cold-dng/g/shade-room.json entities/18/settings/dialog/4/text #9
 #. XenoDialog SPAWN IF npc.heightChan == 20
@@ -1229,7 +1230,7 @@ msgstr "¡El jefe final estaba en una colina, por el amor a Pete!"
 #: data/maps/cold-dng/g/shade-room.json+entities/18/settings/dialog/4/text+%239
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/18/settings/dialog/4/text"
 msgid "Still, you made it.\\. I'm so proud of you!"
-msgstr "Y aún así, lo conseguiste.\\. ¡Estoy orgullosa de ti!"
+msgstr "Y aun así, lo lograste.\\. ¡Estoy orgullosa de ti!"
 
 #. data/maps/cold-dng/g/shade-room.json entities/18/settings/dialog/5/text #10
 #. XenoDialog SPAWN IF npc.heightChan == 20
@@ -1237,7 +1238,7 @@ msgstr "Y aún así, lo conseguiste.\\. ¡Estoy orgullosa de ti!"
 #: data/maps/cold-dng/g/shade-room.json+entities/18/settings/dialog/5/text+%2310
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/18/settings/dialog/5/text"
 msgid "Gee, thanks."
-msgstr "Bueno, gracias."
+msgstr "Ay, gracias."
 
 #. data/maps/cold-dng/g/shade-room.json entities/18/settings/dialog/6/text #12
 #. XenoDialog SPAWN IF npc.heightChan == 20
@@ -1286,7 +1287,7 @@ msgstr "¡Oh, vamos!"
 #: data/maps/cold-dng/g/shade-room.json+entities/20/settings/event/12/thenStep/13/message+%2311
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/20/settings/event/12/thenStep/13/message"
 msgid "Awww... you're first."
-msgstr "Awww... llegaste primero."
+msgstr "Awww... llegaste primera."
 
 #. data/maps/cold-dng/g/shade-room.json entities/20/settings/event/12/thenStep/14/message #17
 #. EventTrigger DungeonEnd START IF party.has.Emilie
@@ -1323,7 +1324,7 @@ msgstr "Fue por esos bichos, ¡oui!"
 #: data/maps/cold-dng/g/shade-room.json+entities/20/settings/event/12/thenStep/17/thenStep/0/message+%23191
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/20/settings/event/12/thenStep/17/thenStep/0/message"
 msgid "Also I'm sure we both can agree that you being \\c[1]over-powered\\c[0] certainly made a difference."
-msgstr "Además, creo que podemos estar de acuerdo en que tus... \\c[1]ventajas\\c[0] te han facilitado la cosas."
+msgstr "Además, creo que podemos estar de acuerdo en que tus... \\c[1]ventajas\\c[0] te han facilitado las cosas."
 
 #. data/maps/cold-dng/g/shade-room.json entities/20/settings/event/12/thenStep/17/thenStep/1/message #192
 #. EventTrigger DungeonEnd START IF party.has.Emilie
@@ -1351,7 +1352,7 @@ msgstr "..."
 #: data/maps/cold-dng/g/shade-room.json+entities/20/settings/event/12/thenStep/19/message+%2334
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/20/settings/event/12/thenStep/19/message"
 msgid "Seriously, what was up with that battle for the master key?!"
-msgstr "No, en serio, ¡¿a quién se le ocurrió esa batalla en la que consigues la llave maestra?!"
+msgstr "No, en serio, ¡¿a quién se le ocurrió esa batalla para conseguir la llave maestra?!"
 
 #. data/maps/cold-dng/g/shade-room.json entities/20/settings/event/12/thenStep/20/message #35
 #. EventTrigger DungeonEnd START IF party.has.Emilie
@@ -1360,7 +1361,7 @@ msgstr "No, en serio, ¡¿a quién se le ocurrió esa batalla en la que consigue
 #: data/maps/cold-dng/g/shade-room.json+entities/20/settings/event/12/thenStep/20/message+%2335
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/20/settings/event/12/thenStep/20/message"
 msgid "It's like they designed this dungeon after my worst nightmares!"
-msgstr "¡Toda la mazmorra parece algo salido de mis pesadillas!"
+msgstr "¡Es como si hubiesen diseñado la mazmorra a partir de mis peores pesadillas!"
 
 #. data/maps/cold-dng/g/shade-room.json entities/20/settings/event/12/thenStep/21/message #43
 #. EventTrigger DungeonEnd START IF party.has.Emilie
@@ -1378,7 +1379,7 @@ msgstr "¡...!"
 #: data/maps/cold-dng/g/shade-room.json+entities/20/settings/event/12/thenStep/22/message+%2321
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/20/settings/event/12/thenStep/22/message"
 msgid "Oh well!\\. I'll get you next time!"
-msgstr "¡Oh bueno!\\. ¡Ya te ganaré la próxima vez!"
+msgstr "¡Oh, bueno!\\. ¡Ya te ganaré la próxima vez!"
 
 #. data/maps/cold-dng/g/shade-room.json entities/20/settings/event/12/thenStep/23/message #36
 #. EventTrigger DungeonEnd START IF party.has.Emilie
@@ -1415,7 +1416,7 @@ msgstr "¡...!"
 #: data/maps/cold-dng/g/shade-room.json+entities/20/settings/event/12/elseStep/7/thenStep/0/message+%23193
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/20/settings/event/12/elseStep/7/thenStep/0/message"
 msgid "Guess being \\c[1]over-powered\\c[0] doesn't help you much with those puzzles, oui?"
-msgstr "Ya veo que tus \\c[1]ventajas\\c[0] no te facilitan los puzles, ¿non?"
+msgstr "Veo que tus \\c[1]ventajas\\c[0] no te sirven mucho para resolver esos puzles, ¿non?"
 
 #. data/maps/cold-dng/g/shade-room.json entities/20/settings/event/12/elseStep/7/thenStep/1/message #194
 #. EventTrigger DungeonEnd START IF party.has.Emilie
@@ -1500,7 +1501,7 @@ msgstr "En fin, creo que deberíamos ir a ver esa estatua de ahí."
 #: data/maps/cold-dng/g/shade-room.json+entities/23/settings/event/20/message+%2325
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/23/settings/event/20/message"
 msgid "...Bird people. Bird people in space."
-msgstr "...esta gente... ¿son pájaros? ¿y están en el espacio?"
+msgstr "...Esta gente... ¿son pájaros? ¿Y están en el espacio?"
 
 #. data/maps/cold-dng/g/shade-room.json entities/23/settings/event/21/message #26
 #. EventTrigger PostExpoScene START IF plot.line >= 4120
@@ -1508,7 +1509,7 @@ msgstr "...esta gente... ¿son pájaros? ¿y están en el espacio?"
 #: data/maps/cold-dng/g/shade-room.json+entities/23/settings/event/21/message+%2326
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/23/settings/event/21/message"
 msgid "So that's the Ancients?"
-msgstr "¿Son esos los Antiguos?"
+msgstr "¿Esos son los Antiguos?"
 
 #. data/maps/cold-dng/g/shade-room.json entities/23/settings/event/22/message #27
 #. EventTrigger PostExpoScene START IF plot.line >= 4120
@@ -1524,7 +1525,7 @@ msgstr "[asiente]"
 #: data/maps/cold-dng/g/shade-room.json+entities/23/settings/event/23/message+%2328
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/23/settings/event/23/message"
 msgid "Fair enough."
-msgstr "Bien entonces."
+msgstr "Bien."
 
 #. data/maps/cold-dng/g/shade-room.json entities/23/settings/event/24/message #29
 #. EventTrigger PostExpoScene START IF plot.line >= 4120
@@ -1532,7 +1533,7 @@ msgstr "Bien entonces."
 #: data/maps/cold-dng/g/shade-room.json+entities/23/settings/event/24/message+%2329
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/23/settings/event/24/message"
 msgid "Alors... do you see those \\c[3]rotating info thingies\\c[0]?"
-msgstr "Alors... ¿ves esas \\c[3]cosas de información giratorias\\c[0]?"
+msgstr "Alors... ¿ves esas \\c[3]cositas de información giratorias\\c[0]?"
 
 #. data/maps/cold-dng/g/shade-room.json entities/23/settings/event/25/message #30
 #. EventTrigger PostExpoScene START IF plot.line >= 4120
@@ -1540,7 +1541,7 @@ msgstr "Alors... ¿ves esas \\c[3]cosas de información giratorias\\c[0]?"
 #: data/maps/cold-dng/g/shade-room.json+entities/23/settings/event/25/message+%2330
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/23/settings/event/25/message"
 msgid "I bet those have all the info about the Ancients we need."
-msgstr "Apuesto que tienen toda la información que necesitamos de los Antiguos."
+msgstr "Apuesto que tienen toda la información que necesitamos sobre los Antiguos."
 
 #. data/maps/cold-dng/g/shade-room.json entities/23/settings/event/26/message #31
 #. EventTrigger PostExpoScene START IF plot.line >= 4120
@@ -1548,7 +1549,7 @@ msgstr "Apuesto que tienen toda la información que necesitamos de los Antiguos.
 #: data/maps/cold-dng/g/shade-room.json+entities/23/settings/event/26/message+%2331
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/23/settings/event/26/message"
 msgid "Don't forget about the \\c[3]quiz\\c[0]..."
-msgstr "No te olvides que tenemos que hacer esa \\c[3]prueba\\c[0]..."
+msgstr "No te olvides de que tenemos que hacer esa \\c[3]prueba\\c[0]..."
 
 #. data/maps/cold-dng/g/shade-room.json entities/23/settings/event/27/message #32
 #. EventTrigger PostExpoScene START IF plot.line >= 4120
@@ -1564,7 +1565,7 @@ msgstr "¡...!"
 #: data/maps/cold-dng/g/shade-room.json+entities/23/settings/event/29/task+%23171
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/23/settings/event/29/task"
 msgid "Read about the Ancients in the \\c[3]Temple Mine\\c[0] and take the quiz at the \\c[3]First Scholars HQ\\c[0]."
-msgstr "Infórmate sobre los Antiguos en el \\c[3]Templo Mina\\c[0] y haz la prueba en la \\c[3]Sede de los Primeros Eruditos\\c[0]."
+msgstr "Lee sobre los Antiguos en el \\c[3]Templo Mina\\c[0] y haz la prueba en la \\c[3]Sede de los Primeros Eruditos\\c[0]."
 
 #. data/maps/cold-dng/g/shade-room.json entities/24/settings/event/1/message #73
 #. EventTrigger readEverything START IF map.info1 && map.info2 && map.info3 && map.info4
@@ -1572,7 +1573,7 @@ msgstr "Infórmate sobre los Antiguos en el \\c[3]Templo Mina\\c[0] y haz la pru
 #: data/maps/cold-dng/g/shade-room.json+entities/24/settings/event/1/message+%2373
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/24/settings/event/1/message"
 msgid "Alright! Just read everything there is."
-msgstr "¡De acuerdo! Tan solo lee todo lo que veas."
+msgstr "¡De acuerdo! Solo lee todo lo que haya."
 
 #. data/maps/cold-dng/g/shade-room.json entities/24/settings/event/2/message #74
 #. EventTrigger readEverything START IF map.info1 && map.info2 && map.info3 && map.info4
@@ -1596,7 +1597,7 @@ msgstr "Agua. Agua congelada."
 #: data/maps/cold-dng/g/shade-room.json+entities/30/settings/npcStates/0/event/4/message+%23188
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/30/settings/npcStates/0/event/4/message"
 msgid "Solid as rock, smooth as silk."
-msgstr "Sólida como una piedra, suave como la seda."
+msgstr "Sólida como una roca, suave como la seda."
 
 #. data/maps/cold-dng/g/shade-room.json entities/30/settings/npcStates/0/event/6/message #189
 #. NPC slipping
@@ -1620,7 +1621,7 @@ msgstr "...¡Demasiaaaaaado resbaladiza!"
 #: data/maps/cold-dng/g/shade-room.json+entities/31/settings/dialog/0/text+%23172
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/31/settings/dialog/0/text"
 msgid "And, did you find all the chests already?"
-msgstr "¿Y bien? ¿Ya has podido encontrar todos los cofres?"
+msgstr "¿Y bien? ¿Encontraste todos los cofres?"
 
 #. data/maps/cold-dng/g/shade-room.json entities/31/settings/dialog/1/text #173
 #. XenoDialog chestRambling
@@ -1636,7 +1637,7 @@ msgstr "No, aún me falta uno."
 #: data/maps/cold-dng/g/shade-room.json+entities/31/settings/dialog/2/text+%23174
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/31/settings/dialog/2/text"
 msgid "Yeah, me too. Somebody gave me a hint, though."
-msgstr "Si, a mí también. Pero alguien me dio una pista."
+msgstr "Sí, a mí también. Pero alguien me dio una pista."
 
 #. data/maps/cold-dng/g/shade-room.json entities/31/settings/dialog/3/text #175
 #. XenoDialog chestRambling
@@ -1692,7 +1693,7 @@ msgstr "Enorme. Pero era demasiado lento. ¡Me encantó pegarle a las bombas!"
 #: data/maps/cold-dng/g/shade-room.json+entities/32/settings/dialog/2/text+%23181
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/32/settings/dialog/2/text"
 msgid "You know you can throw balls at the bombs, right?"
-msgstr "Sabías que puedes tirarle bolas a las bombas, ¿cierto?"
+msgstr "Puedes tirarle bolas a las bombas, ¿lo sabías?"
 
 #. data/maps/cold-dng/g/shade-room.json entities/32/settings/dialog/3/text #182
 #. XenoDialog bossTalk
@@ -1732,4 +1733,4 @@ msgstr "¡Me gustan las espadas!"
 #: data/maps/cold-dng/g/shade-room.json+entities/32/settings/dialog/7/text+%23186
 msgctxt "data/maps/cold-dng/g/shade-room.json//entities/32/settings/dialog/7/text"
 msgid "Yes... Yes you do."
-msgstr "Si... ya lo sé."
+msgstr "Sí... ya lo sé."
