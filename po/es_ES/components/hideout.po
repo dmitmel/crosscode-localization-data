@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-07-04 22:08+0000\n"
+"PO-Revision-Date: 2022-08-28 04:41+0000\n"
 "Last-Translator: Kevin Junior Neciosup Galeano <kjneciosup1@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/hideout/es/>\n"
 "Language: es_ES\n"
@@ -4887,7 +4887,6 @@ msgstr "¡Jugando CrossWorlds mientras estamos atrapados aquí!"
 #. IF tmp.shizukaTalk == 6
 #. SHOW_SIDE_MSG main.shizuka @STRICT
 #: data/maps/hideout/path-3.json+entities/456/settings/event/1/elseStep/0/elseStep/6/thenStep/0/message+%23731
-#, fuzzy
 msgctxt "data/maps/hideout/path-3.json//entities/456/settings/event/1/elseStep/0/elseStep/6/thenStep/0/message"
 msgid "At least have the decency to stay out of this!"
 msgstr "¡Al menos ten la decencia de no entrometerte!"
@@ -5033,7 +5032,6 @@ msgstr "..."
 #. EventTrigger pvpReallyEnd START IF plot.line >= 20200
 #. SHOW_MSG main.shizuka @DENYING
 #: data/maps/hideout/path-3.json+entities/598/settings/event/15/message+%23740
-#, fuzzy
 msgctxt "data/maps/hideout/path-3.json//entities/598/settings/event/15/message"
 msgid "No, it's nothing."
 msgstr "No, no es nada."
@@ -5538,7 +5536,6 @@ msgstr "Adiós."
 #. EventTrigger LogoutBeforeFinal START IF plot.line >= 25100
 #. SHOW_MSG main.sergey @EYES_CLOSED
 #: data/maps/hideout/path-3.json+entities/790/settings/event/54/message+%23884
-#, fuzzy
 msgctxt "data/maps/hideout/path-3.json//entities/790/settings/event/54/message"
 msgid "Goodnight, Lea."
 msgstr "Buenas noches, Lea."
@@ -5739,7 +5736,6 @@ msgstr "¡Gracias!"
 #. EventTrigger postDream16 START IF plot.line >= 25300
 #. SHOW_MSG main.sergey @SMILE
 #: data/maps/hideout/path-3.json+entities/791/settings/event/62/message+%231151
-#, fuzzy
 msgctxt "data/maps/hideout/path-3.json//entities/791/settings/event/62/message"
 msgid "You're welcome!"
 msgstr "¡De nada!"
@@ -5804,7 +5800,6 @@ msgstr "Japp.\\. Ciertamente le gana a nuestra pequeña sede."
 #. EventTrigger TheHugging START IF plot.line >= 31400
 #. SHOW_MSG main.shizuka @SMILE
 #: data/maps/hideout/path-3.json+entities/799/settings/event/32/message+%231214
-#, fuzzy
 msgctxt "data/maps/hideout/path-3.json//entities/799/settings/event/32/message"
 msgid "Well...\\. we had the connections, after all."
 msgstr "Bueno...\\. teníamos ciertas conexiones después de todo."
@@ -6086,7 +6081,6 @@ msgstr "Adiós..."
 #. EventTrigger TheHugging START IF plot.line >= 31400
 #. SHOW_MSG antagonists.fancyguy @SUSPICIOUS
 #: data/maps/hideout/path-3.json+entities/799/settings/event/161/message+%231425
-#, fuzzy
 msgctxt "data/maps/hideout/path-3.json//entities/799/settings/event/161/message"
 msgid "Now, please unhand me!"
 msgstr "¡Ahora suéltame, por favor!"
@@ -6103,7 +6097,6 @@ msgstr "Adiós, pequeña."
 #. EventTrigger TheHugging START IF plot.line >= 31400
 #. SHOW_MSG main.shizuka @SURPRISED
 #: data/maps/hideout/path-3.json+entities/799/settings/event/181/message+%231427
-#, fuzzy
 msgctxt "data/maps/hideout/path-3.json//entities/799/settings/event/181/message"
 msgid "No, wait...\\. this is awkward!"
 msgstr "No espera...\\. ¡esto es raro!"
