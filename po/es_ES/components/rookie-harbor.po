@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-08-01 18:41+0000\n"
-"Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
+"PO-Revision-Date: 2022-08-28 22:30+0000\n"
+"Last-Translator: Kevin Junior Neciosup Galeano <kjneciosup1@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/rookie-harbor/es/>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
@@ -2313,10 +2313,9 @@ msgstr "Escucha la \\c[3]Introducción Obligatoria\\c[0] dentro del \\c[3]Centro
 #. EventTrigger SchneiderPostExpo START IF tmp.centerEntered && plot.line >= 2560
 #. SHOW_MSG main.schneider @SKEPTICAL
 #: data/maps/rookie-harbor/center.json+entities/622/settings/event/6/message+%23248
-#, fuzzy
 msgctxt "data/maps/rookie-harbor/center.json//entities/622/settings/event/6/message"
 msgid "So, how was it, Lea?\\. Enjoyed being in space?"
-msgstr "Entonces, ¿qué tal estuvo, Lea?\\. ¿Disfrutaste estar en el espacio?"
+msgstr "Entonces, ¿Qué tal estuvo, Lea?\\. ¿Disfrutaste estar en el espacio?"
 
 #. data/maps/rookie-harbor/center.json entities/622/settings/event/7/message #276
 #. EventTrigger SchneiderPostExpo START IF tmp.centerEntered && plot.line >= 2560
@@ -4588,7 +4587,6 @@ msgstr "Es un sistema autosuficiente en el que el desafiado elige una de las \\c
 #. IF item.135.amount >= 1
 #. SHOW_BOARD_MSG
 #: data/maps/rookie-harbor/central-quest-hub-2.json+entities/29/settings/condAnims/0/interact/event/2/text+%2377
-#, fuzzy
 msgctxt "data/maps/rookie-harbor/central-quest-hub-2.json//entities/29/settings/condAnims/0/interact/event/2/text"
 msgid "Even now, after 10000 years, this system is still intact and active."
 msgstr "Incluso ahora, luego de 10.000 años, este sistema sigue intacto y activo."
@@ -4778,7 +4776,6 @@ msgstr "Grandes partes de la humanidad se organizan en \\c[3]4 grandes facciones
 #. IF item.135.amount >= 1
 #. SHOW_BOARD_MSG
 #: data/maps/rookie-harbor/central-quest-hub.json+entities/29/settings/condAnims/0/interact/event/1/text+%23425
-#, fuzzy
 msgctxt "data/maps/rookie-harbor/central-quest-hub.json//entities/29/settings/condAnims/0/interact/event/1/text"
 msgid "Each of them is responsible for different aspects of human civilization, all of them crucial for survival and prosperity."
 msgstr "Cada una de ellas es responsable de diferentes aspectos de la civilización humana, todos son cruciales para su supervivencia y prosperidad."
@@ -5460,7 +5457,6 @@ msgstr "¡...!"
 #. IF plot.line >= 2560
 #. SHOW_MSG advisors.female-tall-blond @DEFAULT
 #: data/maps/rookie-harbor/central-quest-hub.json+entities/89/settings/npcStates/1/event/5/message+%23439
-#, fuzzy
 msgctxt "data/maps/rookie-harbor/central-quest-hub.json//entities/89/settings/npcStates/1/event/5/message"
 msgid "He can teach you everything you need to know and more. Once you have mastered both the \\c[3]Heat\\c[0] and \\c[3]Cold\\c[0] elements, please find him in \\c[3]\\v[area.rookie-harbor.name] - Info Hub Dojo\\c[0]!"
 msgstr "Te enseñará todo lo que tienes que saber y más. ¡Una vez que hayas dominado tanto los elementos de \\c[3]Fuego\\c[0] como el de \\c[3]Hielo\\c[0], ve a verlo en \\c[3]\\v[area.rookie-harbor.name] - Dojo del Centro de Información\\c[0]!"
@@ -6522,7 +6518,6 @@ msgstr "Has conseguido la \\c[3]\\v[item.231.name]\\c[0], una de las dos Sombras
 #. IF plot.waveLine >= 1000
 #. SHOW_MSG advisors.general @OFFLINE
 #: data/maps/rookie-harbor/expo-space.json+entities/16/settings/event/10/thenStep/0/message+%2398
-#, fuzzy
 msgctxt "data/maps/rookie-harbor/expo-space.json//entities/16/settings/event/10/thenStep/0/message"
 msgid "Now that you've collected both of the Shades, it is time to take on the final challenge of Gaia's Garden."
 msgstr "Ahora que has conseguido ambas Sombras, es hora de enfrentar el desafío final del Jardín de Gaia."
@@ -6647,7 +6642,6 @@ msgstr "\\v[item.428.name] x3"
 #. EventTrigger PostBeach START IF plot.line >= 44600
 #. SHOW_MSG advisors.general @OFFLINE
 #: data/maps/rookie-harbor/expo-space.json+entities/17/settings/event/49/message+%23127
-#, fuzzy
 msgctxt "data/maps/rookie-harbor/expo-space.json//entities/17/settings/event/49/message"
 msgid "Seeker, once the preparations are completed, I'll be expecting you at the entrance of the \\c[3]Ku'lero Temple\\c[0]."
 msgstr "Buscador, una vez estén completadas las preparaciones, te estaré esperando en la entrada del \\[3]Templo Ku'lero\\c[0]."
@@ -10464,7 +10458,6 @@ msgstr "Terminal de Reinicio de Circuitos"
 #. Prop resetConsole
 #. SHOW_BOARD_MSG
 #: data/maps/rookie-harbor/inner-info-ug-1.json+entities/34/settings/interact/event/12/text+%23332
-#, fuzzy
 msgctxt "data/maps/rookie-harbor/inner-info-ug-1.json//entities/34/settings/interact/event/12/text"
 msgid ""
 "\\s[0]Circuit Reset Terminal\n"
@@ -10738,10 +10731,9 @@ msgstr "Reinicia un Circuito \\c[2](gratis)\\c[0]"
 #. Prop resetConsole
 #. SHOW_CHOICE main.lea @DEFAULT
 #: data/maps/rookie-harbor/inner-info-ug-1.json+entities/34/settings/interact/event/13/options/7/label+%23502
-#, fuzzy
 msgctxt "data/maps/rookie-harbor/inner-info-ug-1.json//entities/34/settings/interact/event/13/options/7/label"
 msgid "Reset all Circuits \\c[3](\\v[tmp.resetAllCost] tokens)\\c[0]"
-msgstr "Reinicia Todos los Circuitos \\c[3](Costo: \\v[tmp.resetAllCost])\\c[0]"
+msgstr "Reinicia todo tu circuito \\c[3](Costo: \\v[tmp.resetAllCost])\\c[0]"
 
 #. data/maps/rookie-harbor/inner-info-ug-1.json entities/34/settings/interact/event/13/options/8/label #509
 #. Prop resetConsole
@@ -12601,7 +12593,6 @@ msgstr "Debes tener en cuenta, sin embargo, que algunos enemigos son \\c[3]resis
 #. SHOW_CHOICE main.lea @SURPRISED_AWAY
 #. SHOW_MSG advisors.female-nerd-combat @DEFAULT
 #: data/maps/rookie-harbor/inner-info.json+entities/26/settings/npcStates/0/event/6/1/9/message+%23542
-#, fuzzy
 msgctxt "data/maps/rookie-harbor/inner-info.json//entities/26/settings/npcStates/0/event/6/1/9/message"
 msgid "More questions?"
 msgstr "¿Más preguntas?"
@@ -15480,7 +15471,6 @@ msgstr "¡...!"
 #. IF quest.rftc-3-metalstuff.task.1 && !quest.rftc-3-metalstuff.solved
 #. SHOW_MSG business.leader-rh-male-wheelchair @DEFAULT
 #: data/maps/rookie-harbor/inner-north-trade-upper1.json+entities/16/settings/npcStates/1/event/quest/9/message+%23479
-#, fuzzy
 msgctxt "data/maps/rookie-harbor/inner-north-trade-upper1.json//entities/16/settings/npcStates/1/event/quest/9/message"
 msgid "Despite this, we still lack the capacity to acquire high-quality metal without relying on the other settlements."
 msgstr "Aunque aún no tenemos la capacidad de adquirir metales de alta calidad sin depender de otros asentamientos."
@@ -16546,7 +16536,6 @@ msgstr "\\c[3]Schneider\\c[0] es muy amable por mostrarte el Puerto de los Princ
 #. IF item.156.amount >= 1
 #. SHOW_MSG cross-worlds.triblader-male-blue @DEFAULT
 #: data/maps/rookie-harbor/south.json+entities/177/settings/npcStates/0/event/2/thenStep/0/message+%23333
-#, fuzzy
 msgctxt "data/maps/rookie-harbor/south.json//entities/177/settings/npcStates/0/event/2/thenStep/0/message"
 msgid "Ah, I see you now can open the golden chests.\\. Congrats!"
 msgstr "Ah, veo que ya puedes abrir los cofres dorados.\\. ¡Felicidades!"
@@ -16587,7 +16576,6 @@ msgstr "[asiente]"
 #. IF NOT item.156.amount >= 1
 #. SHOW_MSG cross-worlds.triblader-male-blue @DEFAULT
 #: data/maps/rookie-harbor/south.json+entities/177/settings/npcStates/0/event/2/elseStep/2/message+%23334
-#, fuzzy
 msgctxt "data/maps/rookie-harbor/south.json//entities/177/settings/npcStates/0/event/2/elseStep/2/message"
 msgid "Yeah, you can't open it yet."
 msgstr "Bueno, aún no puedes abrirlo."
@@ -16899,7 +16887,6 @@ msgstr ""
 #. EventTrigger Outro Start START IF plot.line >= 51000
 #. SHOW_MSG main.luke @DEFAULT
 #: data/maps/rookie-harbor/south.json+entities/194/settings/event/27/message+%23344
-#, fuzzy
 msgctxt "data/maps/rookie-harbor/south.json//entities/194/settings/event/27/message"
 msgid "Finally, we set foot on the great continent of the croissant!"
 msgstr "¡Finalmente llegamos al gran continente del croissant!"
@@ -21050,7 +21037,6 @@ msgstr "¡Hola!"
 #. IF NOT map.noddedwaiter
 #. SHOW_MSG cross-worlds.triblader-male-black @DEFAULT
 #: data/maps/rookie-harbor/west.json+entities/346/settings/dialog/5/event/0/elseStep/5/message+%23224
-#, fuzzy
 msgctxt "data/maps/rookie-harbor/west.json//entities/346/settings/dialog/5/event/0/elseStep/5/message"
 msgid "See, Hina, told you I was helping someone!"
 msgstr "¡Ves Hina! ¡Te dije que estaba ayudando a alguien!"
@@ -21110,7 +21096,6 @@ msgstr "[niega con la cabeza]"
 #. SHOW_CHOICE main.lea @SURPRISED_AWAY
 #. SHOW_MSG cross-worlds.triblader-female-purple @DEFAULT
 #: data/maps/rookie-harbor/west.json+entities/346/settings/dialog/5/event/0/elseStep/7/1/1/message+%23230
-#, fuzzy
 msgctxt "data/maps/rookie-harbor/west.json//entities/346/settings/dialog/5/event/0/elseStep/7/1/1/message"
 msgid "I knew it. You were slacking off again."
 msgstr "Lo sabía. Estabas holgazaneando otra vez."
@@ -21581,7 +21566,6 @@ msgstr "Miembros del grupo"
 #. EventTrigger LuaksExplainsShops START IF plot.line >= 2561
 #. SHOW_TUTORIAL_START
 #: data/maps/rookie-harbor/west.json+entities/378/settings/event/95/content+%23292
-#, fuzzy
 msgctxt "data/maps/rookie-harbor/west.json//entities/378/settings/event/95/content"
 msgid "Learn about the party members, the Party menu and party strategy."
 msgstr "Aprende acerca de los miembros del grupo, el Menú Social y la estrategia de grupo."
