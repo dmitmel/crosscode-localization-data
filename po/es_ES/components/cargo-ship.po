@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-08-28 04:41+0000\n"
+"PO-Revision-Date: 2022-08-28 22:30+0000\n"
 "Last-Translator: Kevin Junior Neciosup Galeano <kjneciosup1@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/cargo-ship/es/>\n"
 "Language: es_ES\n"
@@ -1691,7 +1691,6 @@ msgstr "Oh, ey...\\. ¿estás de vuelta en nuestro barco?"
 #. IF plot.line >= 40000
 #. SHOW_MSG cargo-crew.colleague @DEFAULT
 #: data/maps/cargo-ship/cabins1.json+entities/133/settings/npcStates/0/event/4/message+%2348
-#, fuzzy
 msgctxt "data/maps/cargo-ship/cabins1.json//entities/133/settings/npcStates/0/event/4/message"
 msgid "It's been a while, hasn't it?"
 msgstr "Ha pasado un tiempo, ¿no?"
@@ -2412,7 +2411,6 @@ msgstr "¿Qué descubriste?"
 #. IF subevent.carla.messy.progress == 30
 #. SHOW_MSG main.sergey @JOKING
 #: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/6/message+%231219
-#, fuzzy
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/6/message"
 msgid "The reason why you can keep your room as messy as it is, without Jet saying anything!"
 msgstr "¡El motivo por el cual puedes mantener tu cuarto tan desordenado, sin que Jet diga nada!"
@@ -2443,10 +2441,9 @@ msgstr "¡Oh Dios!\\. ¡Esa vieja historia!"
 #. IF subevent.carla.messy.progress == 30
 #. SHOW_MSG main.carla @UP_GRIN
 #: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/9/message+%231222
-#, fuzzy
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/9/message"
 msgid "Damn, when was it you asked me about that?"
-msgstr "Uff, ¿cuándo fue que me preguntaste?"
+msgstr "Uff, ¿Cuándo fue que me lo preguntaste?"
 
 #. data/maps/cargo-ship/cabins2.json entities/132/settings/npcStates/9/event/5/thenStep/10/message #1223
 #. NPC carla
@@ -2454,7 +2451,6 @@ msgstr "Uff, ¿cuándo fue que me preguntaste?"
 #. IF subevent.carla.messy.progress == 30
 #. SHOW_MSG main.carla @SMUG
 #: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/10/message+%231223
-#, fuzzy
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/10/message"
 msgid "Must've been ages ago!"
 msgstr "¡Debe haber sido hace siglos!"
@@ -2465,7 +2461,6 @@ msgstr "¡Debe haber sido hace siglos!"
 #. IF subevent.carla.messy.progress == 30
 #. SHOW_MSG main.sergey @DRAMATIC
 #: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/11/message+%231224
-#, fuzzy
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/11/message"
 msgid "Yes...\\. And I have never quite forgotten about it.\\. Even Jet himself would not tell me why."
 msgstr "Si...\\. Y nunca me olvidé de ello del todo.\\. Ni siquiera Jet me decía por qué."
@@ -2496,7 +2491,6 @@ msgstr "Entonces, ¡oigámoslo!\\. ¿Cuál es mi secreto?"
 #. IF subevent.carla.messy.progress == 30
 #. SHOW_MSG main.sergey @SERIOUS
 #: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/14/message+%231227
-#, fuzzy
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/14/message"
 msgid "Jet... hates water.\\. He cannot swim."
 msgstr "Jet... odia el agua.\\. No puede nadar."
@@ -2517,7 +2511,6 @@ msgstr "..."
 #. IF subevent.carla.messy.progress == 30
 #. SHOW_MSG main.sergey @THINKING
 #: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/16/message+%231229
-#, fuzzy
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/16/message"
 msgid "That is why he wears that jetpack all the time.\\. It suddenly all makes sense."
 msgstr "Por eso tiene ese Jet pack todo el tiempo.\\. Ahora todo tiene sentido."
@@ -2558,7 +2551,6 @@ msgstr "Por supuesto..."
 #. IF subevent.carla.messy.progress == 30
 #. SHOW_MSG main.sergey @COMPLEX
 #: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/20/message+%231233
-#, fuzzy
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/20/message"
 msgid "But...\\. am I really understanding this correctly?"
 msgstr "Pero...\\. ¿es esto realmente así?"
@@ -2569,7 +2561,6 @@ msgstr "Pero...\\. ¿es esto realmente así?"
 #. IF subevent.carla.messy.progress == 30
 #. SHOW_MSG main.sergey @SERIOUS
 #: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/21/message+%231234
-#, fuzzy
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/21/message"
 msgid "Did you actually blackmail Jet with this information?"
 msgstr "¿Realmente chantajeas a Jet con esta información?"
@@ -2590,7 +2581,6 @@ msgstr "¿Chantajear?\\. ¡Por supuesto que no!"
 #. IF subevent.carla.messy.progress == 30
 #. SHOW_MSG main.carla @IRRITATED
 #: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/23/message+%231236
-#, fuzzy
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/23/message"
 msgid "Really Sergey, what do you take me for..."
 msgstr "En serio Sergey, ¿por quién me tomas?"
@@ -2611,7 +2601,6 @@ msgstr "Emm..."
 #. IF subevent.carla.messy.progress == 30
 #. SHOW_MSG main.carla @WHISTLING
 #: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/25/message+%231238
-#, fuzzy
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/25/message"
 msgid "We just found an agreement."
 msgstr "Simplemente digamos que tenemos un acuerdo."
@@ -2632,7 +2621,6 @@ msgstr "Le dije que necesito que mi cuarto esté así para concentrarme en mi tr
 #. IF subevent.carla.messy.progress == 30
 #. SHOW_MSG main.carla @WHISTLING
 #: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/27/message+%231240
-#, fuzzy
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/27/message"
 msgid "And I wouldn't ask him to take off his jetpack either, you see?\\. It's actually a bit of a safety hazard."
 msgstr "No le pediría que se quite el Jet pack, ¿sabes?\\. De hecho es un riesgo para la salud."
@@ -2683,7 +2671,6 @@ msgstr "..."
 #. IF subevent.carla.messy.progress == 30
 #. SHOW_MSG main.carla @IRRITATED
 #: data/maps/cargo-ship/cabins2.json+entities/132/settings/npcStates/9/event/5/thenStep/33/message+%231245
-#, fuzzy
 msgctxt "data/maps/cargo-ship/cabins2.json//entities/132/settings/npcStates/9/event/5/thenStep/33/message"
 msgid "That Sergey never forgets, does he?"
 msgstr "Ese Sergey nunca se olvida, ¿no?"
@@ -8106,10 +8093,9 @@ msgstr "Si lo siento...\\. Estaba muy ocupado revisando el cargamento en ese tie
 #. IF plot.line >= 40000
 #. SHOW_MSG cargo-crew.male-short-blue @DEFAULT
 #: data/maps/cargo-ship/ship.json+entities/82/settings/npcStates/2/event/16/message+%231001
-#, fuzzy
 msgctxt "data/maps/cargo-ship/ship.json//entities/82/settings/npcStates/2/event/16/message"
 msgid "I tend to get absorbed in my tasks like that..."
-msgstr "Tiendo a quedar absorbido en mis tareas..."
+msgstr "Suelo enfrascarme así en mis tareas..."
 
 #. data/maps/cargo-ship/ship.json entities/82/settings/npcStates/2/event/17/message #1002
 #. NPC
@@ -8738,7 +8724,6 @@ msgstr "Bueno...\\. Para ser sincero, la mayoría fue causado por esa persona de
 #. IF plot.line >= 40000
 #. SHOW_MSG cargo-crew.male-bald @DEFAULT
 #: data/maps/cargo-ship/ship.json+entities/86/settings/npcStates/2/event/10/message+%231030
-#, fuzzy
 msgctxt "data/maps/cargo-ship/ship.json//entities/86/settings/npcStates/2/event/10/message"
 msgid "Still, I could have sworn our captain strictly banned any running instant matter on deck ever since."
 msgstr "Aún así, juraría que nuestro capitán prohibió cualquier tipo de Materia Instantánea en el barco desde entonces."
