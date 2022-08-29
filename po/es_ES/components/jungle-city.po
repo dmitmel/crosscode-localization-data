@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-08-28 22:30+0000\n"
+"PO-Revision-Date: 2022-08-30 22:41+0000\n"
 "Last-Translator: Kevin Junior Neciosup Galeano <kjneciosup1@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/jungle-city/es/>\n"
 "Language: es_ES\n"
@@ -2594,7 +2594,7 @@ msgstr "¡...!"
 #: data/maps/jungle-city/entrance.json+entities/381/settings/event/0/message+%23197
 msgctxt "data/maps/jungle-city/entrance.json//entities/381/settings/event/0/message"
 msgid "Another regular bridge."
-msgstr ""
+msgstr "Otro puente simple."
 
 #. data/maps/jungle-city/entrance.json entities/381/settings/event/1/message #456
 #. LocationEvent boringBridge START IF party.alive.Emilie && party.alive.Glasses
@@ -2602,7 +2602,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/381/settings/event/1/message+%23456
 msgctxt "data/maps/jungle-city/entrance.json//entities/381/settings/event/1/message"
 msgid "Did you notice that there's not a single laser bridge in the whole jungle?"
-msgstr ""
+msgstr "¿Notaste que no hay ni un solo puente láser en toda la jungla?"
 
 #. data/maps/jungle-city/entrance.json entities/381/settings/event/2/message #457
 #. LocationEvent boringBridge START IF party.alive.Emilie && party.alive.Glasses
@@ -2610,7 +2610,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/381/settings/event/2/message+%23457
 msgctxt "data/maps/jungle-city/entrance.json//entities/381/settings/event/2/message"
 msgid "Maybe they're hard to maintain due to the climate and vegetation..."
-msgstr ""
+msgstr "Quizás son difíciles de mantener debido al clima y la vegetación..."
 
 #. data/maps/jungle-city/entrance.json entities/381/settings/event/3/message #458
 #. LocationEvent boringBridge START IF party.alive.Emilie && party.alive.Glasses
@@ -2618,7 +2618,7 @@ msgstr ""
 #: data/maps/jungle-city/entrance.json+entities/381/settings/event/3/message+%23458
 msgctxt "data/maps/jungle-city/entrance.json//entities/381/settings/event/3/message"
 msgid "Excuses!"
-msgstr ""
+msgstr "¡Excusas!"
 
 #. data/maps/jungle-city/entrance.json entities/384/settings/text #882
 #. Analyzable quest-analPlantLeft SPAWN IF (quest.jungleGreens-3-escort_2.currentTask == 0) && !map.questPlantLeft && !tmp.battleGreenieStarted
@@ -11727,7 +11727,7 @@ msgstr "Genial, gracias a este extraño Shad ahora tengo que esperar mi cita con
 #: data/maps/jungle-city/interior/questhub-02-office.json+entities/51/settings/destinations/0/label+%23476
 msgctxt "data/maps/jungle-city/interior/questhub-02-office.json//entities/51/settings/destinations/0/label"
 msgid "GF: Lobby"
-msgstr ""
+msgstr "GF: Vestíbulo"
 
 #. data/maps/jungle-city/special/hostage-1-1.json entities/10/settings/event/14/text #3
 #. EventTrigger firstHostage START IF tmp.fight1-counter >= 2
@@ -11735,7 +11735,7 @@ msgstr ""
 #: data/maps/jungle-city/special/hostage-1-1.json+entities/10/settings/event/14/text+%233
 msgctxt "data/maps/jungle-city/special/hostage-1-1.json//entities/10/settings/event/14/text"
 msgid "[Threatening bird noises]"
-msgstr ""
+msgstr "[Ruidos amenazantes de pájaros]"
 
 #. data/maps/jungle-city/special/hostage-1-1.json entities/10/settings/event/17/name #487
 #. EventTrigger firstHostage START IF tmp.fight1-counter >= 2
@@ -11743,7 +11743,7 @@ msgstr ""
 #: data/maps/jungle-city/special/hostage-1-1.json+entities/10/settings/event/17/name+%23487
 msgctxt "data/maps/jungle-city/special/hostage-1-1.json//entities/10/settings/event/17/name"
 msgid "Hostage"
-msgstr ""
+msgstr "Rehén"
 
 #. data/maps/jungle-city/special/hostage-1-1.json entities/10/settings/event/18/message #485
 #. EventTrigger firstHostage START IF tmp.fight1-counter >= 2
@@ -11751,7 +11751,7 @@ msgstr ""
 #: data/maps/jungle-city/special/hostage-1-1.json+entities/10/settings/event/18/message+%23485
 msgctxt "data/maps/jungle-city/special/hostage-1-1.json//entities/10/settings/event/18/message"
 msgid "Ohhh, please, Ms. \\v[lore.title.seeker].\\. Free me from this scoundrel so I can get home safely!"
-msgstr ""
+msgstr "Ohhh, por favor, Sra. \\v[lore.title.seeker].\\. ¡Libérame de este sinvergüenza para que pueda llegar a casa sano y salvo!"
 
 #. data/maps/jungle-city/special/hostage-1-1.json entities/10/settings/event/19/message #508
 #. EventTrigger firstHostage START IF tmp.fight1-counter >= 2
@@ -11770,6 +11770,8 @@ msgid ""
 "\\c[3]Stun\\c[0] the Papagangster with \\c[3]a charged attack\\c[0] to \\c[3]free the hostage\\c[0].\n"
 "\\c[1]Be careful to not get too close or hurt the hostage!\\c[0]"
 msgstr ""
+"\\c[3]Aturde\\c[0] al Papagangster con \\c[3]un ataque cargado\\c[0] para \\c[3]liberar al rehén\\c[0].\n"
+"\\c[1]¡Ten cuidado de no acercarte demasiado ni lastimar al rehén!\\c[0]"
 
 #. data/maps/jungle-city/special/hostage-1-1.json entities/55/settings/event/8/text #503
 #. EventTrigger firstBattle START IF tmp.touch-firstBattle
@@ -11777,7 +11779,7 @@ msgstr ""
 #: data/maps/jungle-city/special/hostage-1-1.json+entities/55/settings/event/8/text+%23503
 msgctxt "data/maps/jungle-city/special/hostage-1-1.json//entities/55/settings/event/8/text"
 msgid "[demanding squawking]"
-msgstr ""
+msgstr "[graznidos exigentes]"
 
 #. data/maps/jungle-city/special/hostage-1-1.json entities/55/settings/event/9/text #516
 #. EventTrigger firstBattle START IF tmp.touch-firstBattle
@@ -11785,7 +11787,7 @@ msgstr ""
 #: data/maps/jungle-city/special/hostage-1-1.json+entities/55/settings/event/9/text+%23516
 msgctxt "data/maps/jungle-city/special/hostage-1-1.json//entities/55/settings/event/9/text"
 msgid "[demanding squawking]"
-msgstr ""
+msgstr "[graznidos exigentes]"
 
 #. data/maps/jungle-city/special/hostage-1-1.json entities/55/settings/event/14/0/0/message #478
 #. EventTrigger firstBattle START IF tmp.touch-firstBattle
@@ -11839,7 +11841,7 @@ msgstr "Adiós."
 #: data/maps/jungle-city/special/hostage-1-1.json+entities/55/settings/event/14/4/6/text+%23494
 msgctxt "data/maps/jungle-city/special/hostage-1-1.json//entities/55/settings/event/14/4/6/text"
 msgid "[aggressive squawking]"
-msgstr ""
+msgstr "[graznidos agresivos]"
 
 #. data/maps/jungle-city/special/hostage-1-1.json entities/55/settings/event/14/4/7/text #500
 #. EventTrigger firstBattle START IF tmp.touch-firstBattle
@@ -11848,7 +11850,7 @@ msgstr ""
 #: data/maps/jungle-city/special/hostage-1-1.json+entities/55/settings/event/14/4/7/text+%23500
 msgctxt "data/maps/jungle-city/special/hostage-1-1.json//entities/55/settings/event/14/4/7/text"
 msgid "[aggressive squawking]"
-msgstr ""
+msgstr "[graznidos agresivos]"
 
 #. data/maps/jungle-city/special/hostage-1-1.json entities/55/settings/event/14/options/0/label #495
 #. EventTrigger firstBattle START IF tmp.touch-firstBattle
@@ -11856,7 +11858,7 @@ msgstr ""
 #: data/maps/jungle-city/special/hostage-1-1.json+entities/55/settings/event/14/options/0/label+%23495
 msgctxt "data/maps/jungle-city/special/hostage-1-1.json//entities/55/settings/event/14/options/0/label"
 msgid "\"Hi!\""
-msgstr ""
+msgstr "\"¡Hola!\""
 
 #. data/maps/jungle-city/special/hostage-1-1.json entities/55/settings/event/14/options/1/label #484
 #. EventTrigger firstBattle START IF tmp.touch-firstBattle
@@ -11864,7 +11866,7 @@ msgstr ""
 #: data/maps/jungle-city/special/hostage-1-1.json+entities/55/settings/event/14/options/1/label+%23484
 msgctxt "data/maps/jungle-city/special/hostage-1-1.json//entities/55/settings/event/14/options/1/label"
 msgid "\"Lea.\""
-msgstr ""
+msgstr "\"Lea.\""
 
 #. data/maps/jungle-city/special/hostage-1-1.json entities/55/settings/event/14/options/2/label #509
 #. EventTrigger firstBattle START IF tmp.touch-firstBattle
@@ -11872,7 +11874,7 @@ msgstr ""
 #: data/maps/jungle-city/special/hostage-1-1.json+entities/55/settings/event/14/options/2/label+%23509
 msgctxt "data/maps/jungle-city/special/hostage-1-1.json//entities/55/settings/event/14/options/2/label"
 msgid "\"How?\""
-msgstr ""
+msgstr "\"¿Cómo?\""
 
 #. data/maps/jungle-city/special/hostage-1-1.json entities/55/settings/event/14/options/3/label #486
 #. EventTrigger firstBattle START IF tmp.touch-firstBattle
@@ -11880,7 +11882,7 @@ msgstr ""
 #: data/maps/jungle-city/special/hostage-1-1.json+entities/55/settings/event/14/options/3/label+%23486
 msgctxt "data/maps/jungle-city/special/hostage-1-1.json//entities/55/settings/event/14/options/3/label"
 msgid "\"Why?\""
-msgstr ""
+msgstr "\"¿Por qué?\""
 
 #. data/maps/jungle-city/special/hostage-1-1.json entities/55/settings/event/14/options/4/label #510
 #. EventTrigger firstBattle START IF tmp.touch-firstBattle
@@ -11896,7 +11898,7 @@ msgstr "\"Adiós.\" \\c[1](cancelar las negociaciones)\\c[0]"
 #: data/maps/jungle-city/special/hostage-1-1.json+entities/55/settings/event/18/text+%23488
 msgctxt "data/maps/jungle-city/special/hostage-1-1.json//entities/55/settings/event/18/text"
 msgid "[annoyed squawking]"
-msgstr ""
+msgstr "[graznidos molestos]"
 
 #. data/maps/jungle-city/special/hostage-1-1.json entities/55/settings/event/19/text #515
 #. EventTrigger firstBattle START IF tmp.touch-firstBattle
@@ -11904,7 +11906,7 @@ msgstr ""
 #: data/maps/jungle-city/special/hostage-1-1.json+entities/55/settings/event/19/text+%23515
 msgctxt "data/maps/jungle-city/special/hostage-1-1.json//entities/55/settings/event/19/text"
 msgid "[annoyed squawking]"
-msgstr ""
+msgstr "[graznidos molestos]"
 
 #. data/maps/jungle-city/special/hostage-1-1.json entities/55/settings/event/23/0/0/message #489
 #. EventTrigger firstBattle START IF tmp.touch-firstBattle
@@ -11958,7 +11960,7 @@ msgstr "Adiós."
 #: data/maps/jungle-city/special/hostage-1-1.json+entities/55/settings/event/23/4/6/text+%23504
 msgctxt "data/maps/jungle-city/special/hostage-1-1.json//entities/55/settings/event/23/4/6/text"
 msgid "[aggressive squawking]"
-msgstr ""
+msgstr "[graznidos agresivos]"
 
 #. data/maps/jungle-city/special/hostage-1-1.json entities/55/settings/event/23/4/7/text #511
 #. EventTrigger firstBattle START IF tmp.touch-firstBattle
@@ -11967,7 +11969,7 @@ msgstr ""
 #: data/maps/jungle-city/special/hostage-1-1.json+entities/55/settings/event/23/4/7/text+%23511
 msgctxt "data/maps/jungle-city/special/hostage-1-1.json//entities/55/settings/event/23/4/7/text"
 msgid "[aggressive squawking]"
-msgstr ""
+msgstr "[graznidos agresivos]"
 
 #. data/maps/jungle-city/special/hostage-1-1.json entities/55/settings/event/23/options/0/label #477
 #. EventTrigger firstBattle START IF tmp.touch-firstBattle
@@ -11975,7 +11977,7 @@ msgstr ""
 #: data/maps/jungle-city/special/hostage-1-1.json+entities/55/settings/event/23/options/0/label+%23477
 msgctxt "data/maps/jungle-city/special/hostage-1-1.json//entities/55/settings/event/23/options/0/label"
 msgid "\"Hi!\""
-msgstr ""
+msgstr "\"¡Hola!\""
 
 #. data/maps/jungle-city/special/hostage-1-1.json entities/55/settings/event/23/options/1/label #496
 #. EventTrigger firstBattle START IF tmp.touch-firstBattle
@@ -11983,7 +11985,7 @@ msgstr ""
 #: data/maps/jungle-city/special/hostage-1-1.json+entities/55/settings/event/23/options/1/label+%23496
 msgctxt "data/maps/jungle-city/special/hostage-1-1.json//entities/55/settings/event/23/options/1/label"
 msgid "\"Lea.\""
-msgstr ""
+msgstr "\"Lea.\""
 
 #. data/maps/jungle-city/special/hostage-1-1.json entities/55/settings/event/23/options/2/label #497
 #. EventTrigger firstBattle START IF tmp.touch-firstBattle
@@ -11991,7 +11993,7 @@ msgstr ""
 #: data/maps/jungle-city/special/hostage-1-1.json+entities/55/settings/event/23/options/2/label+%23497
 msgctxt "data/maps/jungle-city/special/hostage-1-1.json//entities/55/settings/event/23/options/2/label"
 msgid "\"How?\""
-msgstr ""
+msgstr "\"¿Cómo?\""
 
 #. data/maps/jungle-city/special/hostage-1-1.json entities/55/settings/event/23/options/3/label #498
 #. EventTrigger firstBattle START IF tmp.touch-firstBattle
@@ -11999,7 +12001,7 @@ msgstr ""
 #: data/maps/jungle-city/special/hostage-1-1.json+entities/55/settings/event/23/options/3/label+%23498
 msgctxt "data/maps/jungle-city/special/hostage-1-1.json//entities/55/settings/event/23/options/3/label"
 msgid "\"Why?\""
-msgstr ""
+msgstr "\"¿Por qué?\""
 
 #. data/maps/jungle-city/special/hostage-1-1.json entities/55/settings/event/23/options/4/label #499
 #. EventTrigger firstBattle START IF tmp.touch-firstBattle
@@ -12015,7 +12017,7 @@ msgstr "\"Adiós.\" \\c[1](cancelar las negociaciones)\\c[0]"
 #: data/maps/jungle-city/special/hostage-1-1.json+entities/55/settings/event/29/text+%23512
 msgctxt "data/maps/jungle-city/special/hostage-1-1.json//entities/55/settings/event/29/text"
 msgid "[aggressive squawking]"
-msgstr ""
+msgstr "[graznidos agresivos]"
 
 #. data/maps/jungle-city/special/hostage-1-1.json entities/55/settings/event/30/text #513
 #. EventTrigger firstBattle START IF tmp.touch-firstBattle
@@ -12023,7 +12025,7 @@ msgstr ""
 #: data/maps/jungle-city/special/hostage-1-1.json+entities/55/settings/event/30/text+%23513
 msgctxt "data/maps/jungle-city/special/hostage-1-1.json//entities/55/settings/event/30/text"
 msgid "[aggressive squawking]"
-msgstr ""
+msgstr "[graznidos agresivos]"
 
 #. data/maps/jungle-city/special/hostage-1-1.json entities/55/settings/event/34/message #501
 #. EventTrigger firstBattle START IF tmp.touch-firstBattle
@@ -12047,7 +12049,7 @@ msgstr "¡...!"
 #: data/maps/jungle-city/special/hostage-1-1.json+entities/56/settings/event/0/text+%234
 msgctxt "data/maps/jungle-city/special/hostage-1-1.json//entities/56/settings/event/0/text"
 msgid "[HOSTAGE LOST!]"
-msgstr ""
+msgstr "[¡REHEN HERIDO!]"
 
 #. data/maps/jungle-city/special/hostage-1-1.json entities/57/settings/event/10/message #505
 #. EventTrigger firstHostage-end START IF tmp.fight1-counter >= 3
@@ -12055,7 +12057,7 @@ msgstr ""
 #: data/maps/jungle-city/special/hostage-1-1.json+entities/57/settings/event/10/message+%23505
 msgctxt "data/maps/jungle-city/special/hostage-1-1.json//entities/57/settings/event/10/message"
 msgid "Apparently, NPCs with more refined communicative recognition have been implemented at this point."
-msgstr ""
+msgstr "Aparentemente, en este punto se han implementado NPCs con un reconocimiento comunicativo más refinado."
 
 #. data/maps/jungle-city/special/hostage-1-1.json entities/57/settings/event/11/message #506
 #. EventTrigger firstHostage-end START IF tmp.fight1-counter >= 3
@@ -12063,7 +12065,7 @@ msgstr ""
 #: data/maps/jungle-city/special/hostage-1-1.json+entities/57/settings/event/11/message+%23506
 msgctxt "data/maps/jungle-city/special/hostage-1-1.json//entities/57/settings/event/11/message"
 msgid "It is a shame that your vocabulary is not up to these tasks..."
-msgstr ""
+msgstr "Es una pena que tu vocabulario no esté a la altura de estas tareas..."
 
 #. data/maps/jungle-city/special/hostage-1-1.json entities/57/settings/event/12/message #507
 #. EventTrigger firstHostage-end START IF tmp.fight1-counter >= 3
@@ -12088,7 +12090,7 @@ msgstr "Tolerancia de rehenes"
 #: data/maps/jungle-city/special/hostage-1-1.json+entities/93/settings/event/3/text+%23177
 msgctxt "data/maps/jungle-city/special/hostage-1-1.json//entities/93/settings/event/3/text"
 msgid "Too many hostages unconscious!!!"
-msgstr ""
+msgstr "¡¡¡Demasiados rehenes inconscientes!!!"
 
 #. data/maps/jungle-city/special/hostage-1-1.json entities/93/settings/event/13/text #176
 #. EventTrigger hostageFail START IF tmp.hostageFail
@@ -12100,20 +12102,23 @@ msgid ""
 "\n"
 "Restart task to try again"
 msgstr ""
+"\\c[1]MISIÓN FALLIDA\\c[0]\n"
+"\n"
+"Reinicie la tarea para volver a intentarlo"
 
 #. data/maps/jungle-city/special/hostage-1-1.json entities/95/settings/destinations/0/label #476
 #. Elevator elevator1
 #: data/maps/jungle-city/special/hostage-1-1.json+entities/95/settings/destinations/0/label+%23476
 msgctxt "data/maps/jungle-city/special/hostage-1-1.json//entities/95/settings/destinations/0/label"
 msgid "2nd Floor"
-msgstr ""
+msgstr "2do Piso"
 
 #. data/maps/jungle-city/special/hostage-1-1.json entities/95/settings/destinations/1/label #514
 #. Elevator elevator1
 #: data/maps/jungle-city/special/hostage-1-1.json+entities/95/settings/destinations/1/label+%23514
 msgctxt "data/maps/jungle-city/special/hostage-1-1.json//entities/95/settings/destinations/1/label"
 msgid "XXth Floor"
-msgstr ""
+msgstr "Piso XX"
 
 #. data/maps/jungle-city/special/hostage-1-2.json entities/17/settings/event/0/text #4
 #. EventTrigger hostageDeadMsg START IF tmp.hostageDeadMsg > 0
@@ -12121,7 +12126,7 @@ msgstr ""
 #: data/maps/jungle-city/special/hostage-1-2.json+entities/17/settings/event/0/text+%234
 msgctxt "data/maps/jungle-city/special/hostage-1-2.json//entities/17/settings/event/0/text"
 msgid "[HOSTAGE LOST!]"
-msgstr ""
+msgstr "[¡REHEN HERIDO!]"
 
 #. data/maps/jungle-city/special/hostage-1-2.json entities/20/settings/event/31/guiInfo/settings/text #5
 #. EventTrigger secondBattleA START IF tmp.touch-secondBattle
@@ -12130,7 +12135,7 @@ msgstr ""
 #: data/maps/jungle-city/special/hostage-1-2.json+entities/20/settings/event/31/guiInfo/settings/text+%235
 msgctxt "data/maps/jungle-city/special/hostage-1-2.json//entities/20/settings/event/31/guiInfo/settings/text"
 msgid "Hostage Tolerance"
-msgstr ""
+msgstr "Tolerancia de rehenes"
 
 #. data/maps/jungle-city/special/hostage-1-2.json entities/22/settings/event/3/text #177
 #. EventTrigger hostageFail START IF tmp.hostageFail
@@ -12138,7 +12143,7 @@ msgstr ""
 #: data/maps/jungle-city/special/hostage-1-2.json+entities/22/settings/event/3/text+%23177
 msgctxt "data/maps/jungle-city/special/hostage-1-2.json//entities/22/settings/event/3/text"
 msgid "Too many hostages unconscious!!!"
-msgstr ""
+msgstr "¡¡¡Demasiados rehenes inconscientes!!!"
 
 #. data/maps/jungle-city/special/hostage-1-2.json entities/22/settings/event/13/text #176
 #. EventTrigger hostageFail START IF tmp.hostageFail
@@ -12150,6 +12155,9 @@ msgid ""
 "\n"
 "Restart task to try again"
 msgstr ""
+"\\c[1]MISIÓN FALLIDA\\c[0]\n"
+"\n"
+"Reinicie la tarea para volver a intentarlo"
 
 #. data/maps/jungle-city/special/hostage-1-2.json entities/23/settings/destinations/0/label #476
 #. Elevator elevator1
@@ -12179,7 +12187,7 @@ msgstr "¿...?"
 #: data/maps/jungle-city/special/hostage-1-2.json+entities/107/settings/event/43/text+%23481
 msgctxt "data/maps/jungle-city/special/hostage-1-2.json//entities/107/settings/event/43/text"
 msgid "[Furious bird noises]"
-msgstr ""
+msgstr "[Ruidos de pájaros furiosos]"
 
 #. data/maps/jungle-city/special/hostage-1-2.json entities/107/settings/event/44/text #482
 #. EventTrigger secondBattleC START IF tmp.fight2-counter >= 7
@@ -12187,7 +12195,7 @@ msgstr ""
 #: data/maps/jungle-city/special/hostage-1-2.json+entities/107/settings/event/44/text+%23482
 msgctxt "data/maps/jungle-city/special/hostage-1-2.json//entities/107/settings/event/44/text"
 msgid "[Furious bird noises]"
-msgstr ""
+msgstr "[Ruidos de pájaros furiosos]"
 
 #. data/maps/jungle-city/special/hostage-1-2.json entities/107/settings/event/45/text #483
 #. EventTrigger secondBattleC START IF tmp.fight2-counter >= 7
@@ -12195,7 +12203,7 @@ msgstr ""
 #: data/maps/jungle-city/special/hostage-1-2.json+entities/107/settings/event/45/text+%23483
 msgctxt "data/maps/jungle-city/special/hostage-1-2.json//entities/107/settings/event/45/text"
 msgid "[Furious bird noises]"
-msgstr ""
+msgstr "[Ruidos de pájaros furiosos]"
 
 #. data/maps/jungle-city/special/hostage-1-2.json entities/107/settings/event/46/text #484
 #. EventTrigger secondBattleC START IF tmp.fight2-counter >= 7
@@ -12203,7 +12211,7 @@ msgstr ""
 #: data/maps/jungle-city/special/hostage-1-2.json+entities/107/settings/event/46/text+%23484
 msgctxt "data/maps/jungle-city/special/hostage-1-2.json//entities/107/settings/event/46/text"
 msgid "[Furious bird noises]"
-msgstr ""
+msgstr "[Ruidos de pájaros furiosos]"
 
 #. data/maps/jungle-city/special/hostage-1-2.json entities/107/settings/event/47/text #485
 #. EventTrigger secondBattleC START IF tmp.fight2-counter >= 7
@@ -12211,7 +12219,7 @@ msgstr ""
 #: data/maps/jungle-city/special/hostage-1-2.json+entities/107/settings/event/47/text+%23485
 msgctxt "data/maps/jungle-city/special/hostage-1-2.json//entities/107/settings/event/47/text"
 msgid "[Furious bird noises]"
-msgstr ""
+msgstr "[Ruidos de pájaros furiosos]"
 
 #. data/maps/jungle-city/special/hostage-1-2.json entities/107/settings/event/60/message #478
 #. EventTrigger secondBattleC START IF tmp.fight2-counter >= 7
@@ -12796,7 +12804,7 @@ msgstr "Perdón\\..\\..\\.. Adiós..."
 #: data/maps/jungle-city/special/parrot-hq-1.json+entities/35/settings/event/1/text+%23512
 msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/35/settings/event/1/text"
 msgid "[aggressive squawking]"
-msgstr ""
+msgstr "[graznidos agresivos]"
 
 #. data/maps/jungle-city/special/parrot-hq-1.json entities/35/settings/event/35/message #501
 #. EventTrigger firstBattle START IF tmp.firstBattle
@@ -12812,7 +12820,7 @@ msgstr "¡...!"
 #: data/maps/jungle-city/special/parrot-hq-1.json+entities/35/settings/event/43/text+%23559
 msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/35/settings/event/43/text"
 msgid "[aggressive squawking]"
-msgstr ""
+msgstr "[graznidos agresivos]"
 
 #. data/maps/jungle-city/special/parrot-hq-1.json entities/35/settings/event/44/text #513
 #. EventTrigger firstBattle START IF tmp.firstBattle
@@ -12820,7 +12828,7 @@ msgstr ""
 #: data/maps/jungle-city/special/parrot-hq-1.json+entities/35/settings/event/44/text+%23513
 msgctxt "data/maps/jungle-city/special/parrot-hq-1.json//entities/35/settings/event/44/text"
 msgid "[aggressive squawking]"
-msgstr ""
+msgstr "[graznidos agresivos]"
 
 #. data/maps/jungle-city/special/parrot-hq-1.json entities/36/settings/npcStates/0/event/2/message #552
 #. NPC gangster-1-bird
