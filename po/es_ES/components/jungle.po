@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-09-03 22:41+0000\n"
+"PO-Revision-Date: 2022-09-05 06:41+0000\n"
 "Last-Translator: Kevin Junior Neciosup Galeano <kjneciosup1@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/jungle/es/>\n"
 "Language: es_ES\n"
@@ -235,10 +235,9 @@ msgstr "Atado Verde"
 
 #. data/areas/jungle.json floors/3/maps/18/name #212
 #: data/areas/jungle.json+floors/3/maps/18/name+%23212
-#, fuzzy
 msgctxt "data/areas/jungle.json//floors/3/maps/18/name"
 msgid "Peridot Approach"
-msgstr "Enfoque Peridot"
+msgstr "Acceso Peridot"
 
 #. data/areas/jungle.json floors/3/maps/19/name #213
 #: data/areas/jungle.json+floors/3/maps/19/name+%23213
@@ -1275,10 +1274,9 @@ msgstr "¡...!"
 #. OPEN_QUEST_DIALOG
 #. SHOW_OFFSCREEN_MSG
 #: data/maps/jungle/caves/questcave-td-1.json+entities/46/settings/npcStates/1/event/quest/4/accepted/7/message+%23821
-#, fuzzy
 msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/46/settings/npcStates/1/event/quest/4/accepted/7/message"
 msgid "[ Thank you for using TURRET products! ]"
-msgstr "[ ¡Gracias por usar los productos TURRET! ]"
+msgstr "[ ¡Gracias por usar los productos tipo TORRETA! ]"
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/46/settings/npcStates/1/event/quest/4/accepted/8/message #822
 #. NPC td-targetEntity-doorOpener
@@ -3601,7 +3599,6 @@ msgstr "Puntaje"
 #. ADD_GUI
 #. ScoreHud
 #: data/maps/jungle/caves/questcave-td-2.json+entities/37/settings/npcStates/2/event/trade/event/3/0/33/guiInfo/settings/taskTitle+%23824
-#, fuzzy
 msgctxt "data/maps/jungle/caves/questcave-td-2.json//entities/37/settings/npcStates/2/event/trade/event/3/0/33/guiInfo/settings/taskTitle"
 msgid "Energy"
 msgstr "Energía"
@@ -4817,7 +4814,6 @@ msgstr "(CAMBIO-CÁMARA)"
 #. EventTrigger turretDefenseTestWaveBuffels START IF tmp.tdStarted && tmp.tdWave1-1Startx
 #. SHOW_AR_MSG
 #: data/maps/jungle/caves/questcave-td-2.json+entities/138/settings/event/10/text+%23848
-#, fuzzy
 msgctxt "data/maps/jungle/caves/questcave-td-2.json//entities/138/settings/event/10/text"
 msgid "ELEMENTS available!"
 msgstr "¡ELEMENTOS disponibles!"
@@ -5089,7 +5085,7 @@ msgstr "Bien, aquí vamos."
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/3/settings/npcStates/0/event/quest/3/message+%2351
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/3/settings/npcStates/0/event/quest/3/message"
 msgid "This is the part of the cavern that got breached by those darn guards."
-msgstr ""
+msgstr "Esta es la parte de la caverna que fue abierta por esos malditos guardias."
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/3/settings/npcStates/0/event/quest/19/message #12
 #. NPC mick
@@ -5098,7 +5094,7 @@ msgstr ""
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/3/settings/npcStates/0/event/quest/19/message+%2312
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/3/settings/npcStates/0/event/quest/19/message"
 msgid "Here, take the chip."
-msgstr ""
+msgstr "Toma, coge el chip."
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/3/settings/npcStates/0/event/quest/21/object #16
 #. NPC mick
@@ -5107,7 +5103,7 @@ msgstr ""
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/3/settings/npcStates/0/event/quest/21/object+%2316
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/3/settings/npcStates/0/event/quest/21/object"
 msgid "\\v[item.344.name]"
-msgstr ""
+msgstr "\\v[item.344.name]"
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/3/settings/npcStates/0/event/quest/25/message #17
 #. NPC mick
@@ -5116,7 +5112,7 @@ msgstr ""
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/3/settings/npcStates/0/event/quest/25/message+%2317
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/3/settings/npcStates/0/event/quest/25/message"
 msgid "Once I move the box here, the chip will start tracking your movement. "
-msgstr ""
+msgstr "Una vez que mueva la caja aquí, el chip comenzará a rastrear su movimiento. "
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/3/settings/npcStates/0/event/quest/26/message #53
 #. NPC mick
@@ -5125,7 +5121,7 @@ msgstr ""
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/3/settings/npcStates/0/event/quest/26/message+%2353
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/3/settings/npcStates/0/event/quest/26/message"
 msgid "Your goal is to find a way to the exit south of here without a guard noticing you."
-msgstr ""
+msgstr "Tu objetivo es encontrar una forma de llegar a la salida al sur de aquí sin que un guardia te note."
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/3/settings/npcStates/0/event/quest/27/message #54
 #. NPC mick
@@ -5134,7 +5130,7 @@ msgstr ""
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/3/settings/npcStates/0/event/quest/27/message+%2354
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/3/settings/npcStates/0/event/quest/27/message"
 msgid "Talk to me when ya ready, capiche?"
-msgstr ""
+msgstr "Háblame cuando estés listo, ¿capiche?"
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/3/settings/npcStates/0/event/quest/28/message #55
 #. NPC mick
@@ -5143,7 +5139,7 @@ msgstr ""
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/3/settings/npcStates/0/event/quest/28/message+%2355
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/3/settings/npcStates/0/event/quest/28/message"
 msgid "And be prepared, because I won't let ya go until ya done, woman."
-msgstr ""
+msgstr "Y prepárate, porque no te dejaré ir hasta que termines, mujer."
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/3/settings/npcStates/0/event/quest/29/message #56
 #. NPC mick
@@ -5161,7 +5157,7 @@ msgstr "..."
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/3/settings/npcStates/0/event/quest/30/message+%2357
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/3/settings/npcStates/0/event/quest/30/message"
 msgid "Oh wait, before my dad yells at me again. Here's a \\c[3]Smokaway\\c[0] and some \\c[3]Intel on the Guards\\c[0] our men found."
-msgstr ""
+msgstr "Oh, espera, antes de que mi padre me grite de nuevo. Aquí hay un \\c[3]Smokaway\\c[0] y algo de \\c[3]información sobre los guardias\\c[0] que nuestros hombres encontraron."
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/3/settings/npcStates/0/event/quest/32/object #52
 #. NPC mick
@@ -5170,7 +5166,7 @@ msgstr ""
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/3/settings/npcStates/0/event/quest/32/object+%2352
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/3/settings/npcStates/0/event/quest/32/object"
 msgid "\\v[item.343.name]"
-msgstr ""
+msgstr "\\v[item.343.name]"
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/3/settings/npcStates/0/event/quest/34/object #50
 #. NPC mick
@@ -5179,7 +5175,7 @@ msgstr ""
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/3/settings/npcStates/0/event/quest/34/object+%2350
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/3/settings/npcStates/0/event/quest/34/object"
 msgid "\\v[combat.name.jungle/special/guard]"
-msgstr ""
+msgstr "\\v[combat.name.jungle/special/guard]"
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/3/settings/npcStates/0/event/quest/38/message #58
 #. NPC mick
@@ -5188,7 +5184,7 @@ msgstr ""
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/3/settings/npcStates/0/event/quest/38/message+%2358
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/3/settings/npcStates/0/event/quest/38/message"
 msgid "Use the Smokaway when you get caught, you'll be able to run back here and I'll close the box, got it?"
-msgstr ""
+msgstr "Usa el Smokaway cuando te atrapen, podrás volver corriendo aquí y yo cerraré la caja, ¿entendido?"
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/3/settings/npcStates/0/event/quest/39/message #59
 #. NPC mick
@@ -5206,7 +5202,7 @@ msgstr "[asiente]"
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/3/settings/npcStates/0/event/quest/40/message+%2360
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/3/settings/npcStates/0/event/quest/40/message"
 msgid "Good, ready when you are."
-msgstr ""
+msgstr "Bien, estoy listo cuando tú lo estés."
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/3/settings/npcStates/1/event/quest/2/message #1
 #. NPC mick
@@ -5215,7 +5211,7 @@ msgstr ""
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/3/settings/npcStates/1/event/quest/2/message+%231
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/3/settings/npcStates/1/event/quest/2/message"
 msgid "Ready?"
-msgstr ""
+msgstr "¿Listo?"
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/3/settings/npcStates/1/event/quest/3/0/1/message #5
 #. NPC mick
@@ -5235,7 +5231,7 @@ msgstr "[asiente]"
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/3/settings/npcStates/1/event/quest/3/0/2/message+%2362
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/3/settings/npcStates/1/event/quest/3/0/2/message"
 msgid "Alright, talk to me again if ya want to chicken out."
-msgstr ""
+msgstr "De acuerdo, háblame de nuevo si ya no quieres acobardarte."
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/3/settings/npcStates/1/event/quest/3/0/3/message #63
 #. NPC mick
@@ -5245,7 +5241,7 @@ msgstr ""
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/3/settings/npcStates/1/event/quest/3/0/3/message+%2363
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/3/settings/npcStates/1/event/quest/3/0/3/message"
 msgid "Also, don't attack the guards in any way. Don't wanna raise suspicion, right?"
-msgstr ""
+msgstr "Además, no ataques a los guardias de ninguna manera. No quieres levantar sospechas, ¿verdad?"
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/3/settings/npcStates/1/event/quest/3/0/4/message #64
 #. NPC mick
@@ -5265,7 +5261,7 @@ msgstr "[asiente]"
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/3/settings/npcStates/1/event/quest/3/0/5/message+%2370
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/3/settings/npcStates/1/event/quest/3/0/5/message"
 msgid "Use \\c[3]Direct Link\\c[0] to call me once you're through."
-msgstr ""
+msgstr "Usa \\c[3]Mensajes Directos\\c[0] directo para llamarme una vez que hayas terminado."
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/3/settings/npcStates/1/event/quest/3/1/0/message #10
 #. NPC mick
@@ -5285,7 +5281,7 @@ msgstr "[niega con la cabeza]"
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/3/settings/npcStates/1/event/quest/3/1/1/message+%2365
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/3/settings/npcStates/1/event/quest/3/1/1/message"
 msgid "Don't waste my time woman. Get on with it already."
-msgstr ""
+msgstr "No me hagas perder el tiempo mujer. Sigue con ello de una vez."
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/3/settings/npcStates/1/event/quest/3/1/2/message #66
 #. NPC mick
@@ -5322,7 +5318,7 @@ msgstr "No"
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/3/settings/npcStates/2/event/quest/2/message+%236
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/3/settings/npcStates/2/event/quest/2/message"
 msgid "Wanna Stop?"
-msgstr ""
+msgstr "¿Quieres parar?"
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/3/settings/npcStates/2/event/quest/3/0/0/message #7
 #. NPC mick
@@ -5342,7 +5338,7 @@ msgstr "[asiente]"
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/3/settings/npcStates/2/event/quest/3/0/1/message+%2367
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/3/settings/npcStates/2/event/quest/3/0/1/message"
 msgid "I knew ya would chicken out."
-msgstr ""
+msgstr "Sabía que te acobardarías."
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/3/settings/npcStates/2/event/quest/3/0/2/message #68
 #. NPC mick
@@ -5372,7 +5368,7 @@ msgstr "[niega con la cabeza]"
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/3/settings/npcStates/2/event/quest/3/1/1/message+%2369
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/3/settings/npcStates/2/event/quest/3/1/1/message"
 msgid "Then don't stand here and find a way woman."
-msgstr ""
+msgstr "Entonces no te quedes aquí y encuentra una manera mujer."
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/3/settings/npcStates/2/event/quest/3/options/0/label #8
 #. NPC mick
@@ -5398,7 +5394,7 @@ msgstr "No"
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/16/settings/event/2/message+%2314
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/16/settings/event/2/message"
 msgid "Halt! Who goes there!?"
-msgstr ""
+msgstr "¡Alto! ¿Quién va allí?"
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/16/settings/event/3/message #15
 #. EventTrigger !!!!!!!! START IF tmp.stealth.playerDetected
@@ -5414,7 +5410,7 @@ msgstr "¡...!"
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/392/settings/event/6/message+%2321
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/392/settings/event/6/message"
 msgid "Mh... Oh, it's you. Did ya find a way?"
-msgstr ""
+msgstr "Mh... Oh, eres tú. ¿Encontraste la manera?"
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/392/settings/event/7/message #22
 #. EventTrigger StealthDone START IF map.stealthDone
@@ -5440,7 +5436,7 @@ msgstr ""
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/392/settings/event/8/elseStep/0/message+%2326
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/392/settings/event/8/elseStep/0/message"
 msgid "Finally! And it only took you one try. I'm actually impressed."
-msgstr ""
+msgstr "¡Por fin! Y sólo te ha costado un intento. Estoy realmente impresionado."
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/392/settings/event/9/message #24
 #. EventTrigger StealthDone START IF map.stealthDone
@@ -5454,9 +5450,10 @@ msgstr "..."
 #. EventTrigger StealthDone START IF map.stealthDone
 #. SHOW_MSG basin.don-mick @DEFAULT
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/392/settings/event/10/message+%2325
+#, fuzzy
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/392/settings/event/10/message"
 msgid "Give me a minute, I'll use the same way using the tracker chip I gave you."
-msgstr ""
+msgstr "Dame un minuto, Usaré la misma forma usando el chip rastreador que te di."
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/392/settings/event/21/message #27
 #. EventTrigger StealthDone START IF map.stealthDone
@@ -5464,7 +5461,7 @@ msgstr ""
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/392/settings/event/21/message+%2327
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/392/settings/event/21/message"
 msgid "Damn, woman, was this really the only way?"
-msgstr ""
+msgstr "Maldita sea, mujer, ¿realmente era esta la única manera?"
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/392/settings/event/22/message #28
 #. EventTrigger StealthDone START IF map.stealthDone
@@ -5472,7 +5469,7 @@ msgstr ""
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/392/settings/event/22/message+%2328
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/392/settings/event/22/message"
 msgid "So much walking... \\.\\.\\. Thankfully, I don't have to carry the goods. That would be just awful."
-msgstr ""
+msgstr "Tanto caminar... \\.\\.\\. Afortunadamente, no tengo que llevar la mercancía. Eso sería horrible."
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/392/settings/event/23/message #29
 #. EventTrigger StealthDone START IF map.stealthDone
@@ -5488,7 +5485,7 @@ msgstr "..."
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/392/settings/event/24/message+%2330
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/392/settings/event/24/message"
 msgid "Don't give me that look, will ya?"
-msgstr ""
+msgstr "No me mires así, ¿quieres?"
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/392/settings/event/25/message #31
 #. EventTrigger StealthDone START IF map.stealthDone
@@ -5496,7 +5493,7 @@ msgstr ""
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/392/settings/event/25/message+%2331
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/392/settings/event/25/message"
 msgid "Ya can go back to my dad with the tracker chip and get your reward."
-msgstr ""
+msgstr "Puedes volver con mi padre con el chip rastreador y obtendrás tu recompensa."
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/392/settings/event/26/message #49
 #. EventTrigger StealthDone START IF map.stealthDone
@@ -5512,7 +5509,7 @@ msgstr "[asiente]"
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/392/settings/event/27/message+%2348
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/392/settings/event/27/message"
 msgid "Ya can keep the \\v[item.343.name] and explore this cavern if ya want."
-msgstr ""
+msgstr "Puedes quedarte con el \\v[item.343.name] y explorar estas caverna si quieres."
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/392/settings/event/28/message #32
 #. EventTrigger StealthDone START IF map.stealthDone
@@ -5520,7 +5517,7 @@ msgstr ""
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/392/settings/event/28/message+%2332
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/392/settings/event/28/message"
 msgid "Also, be a good girl and make sure to tell him I helped a lot, gotcha?"
-msgstr ""
+msgstr "Además, sé una buena chica y asegúrate de decirle que he ayudado mucho, ¿entendido?"
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/392/settings/event/29/0/0/message #33
 #. EventTrigger StealthDone START IF map.stealthDone
@@ -5538,7 +5535,7 @@ msgstr "[asiente]"
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/392/settings/event/29/0/1/message+%2337
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/392/settings/event/29/0/1/message"
 msgid "I *knew* I could count on ya. Now off you go, the rest is just a long small tunnel anyway."
-msgstr ""
+msgstr "*Sabía* que podía contar contigo. Ahora vete, el resto es sólo un pequeño y largo túnel de todos modos."
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/392/settings/event/29/1/0/message #34
 #. EventTrigger StealthDone START IF map.stealthDone
@@ -5556,7 +5553,7 @@ msgstr "[niega con la cabeza]"
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/392/settings/event/29/1/1/message+%2338
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/392/settings/event/29/1/1/message"
 msgid "You... what? Come on... at least have some mercy, will ya?"
-msgstr ""
+msgstr "Tú... ¿qué? Vamos... al menos ten un poco de piedad, ¿quieres?"
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/392/settings/event/29/1/2/message #39
 #. EventTrigger StealthDone START IF map.stealthDone
@@ -5574,7 +5571,7 @@ msgstr "..."
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/392/settings/event/29/1/3/message+%2340
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/392/settings/event/29/1/3/message"
 msgid "Screw it then. Off you go. I can handle the rest without you."
-msgstr ""
+msgstr "Que le den entonces. Vete. Puedo manejar el resto sin ti."
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/392/settings/event/29/options/0/label #35
 #. EventTrigger StealthDone START IF map.stealthDone
@@ -5599,7 +5596,7 @@ msgstr "No"
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/393/settings/npcStates/1/event/2/message+%2341
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/393/settings/npcStates/1/event/2/message"
 msgid "What are you still here for? Go to my dad with the chip already."
-msgstr ""
+msgstr "¿Por qué sigues aquí? Ve con mi padre con el chip ya."
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/393/settings/npcStates/1/event/3/message #42
 #. NPC mick2
@@ -5617,7 +5614,7 @@ msgstr "..."
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/393/settings/npcStates/2/event/2/message+%2343
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/393/settings/npcStates/2/event/2/message"
 msgid "Well look who it is."
-msgstr ""
+msgstr "Pues mira quién es."
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/393/settings/npcStates/2/event/3/message #44
 #. NPC mick2
@@ -5635,7 +5632,7 @@ msgstr "Hola..."
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/393/settings/npcStates/2/event/4/message+%2345
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/393/settings/npcStates/2/event/4/message"
 msgid "Thanks to ya, I'm now to stand here almost all day watching the carriers bringing in the goods."
-msgstr ""
+msgstr "Gracias a ti, ahora voy a estar aquí casi todo el día viendo cómo los transportistas traen la mercancía."
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/393/settings/npcStates/2/event/5/message #46
 #. NPC mick2
@@ -5644,7 +5641,7 @@ msgstr ""
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/393/settings/npcStates/2/event/5/message+%2346
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/393/settings/npcStates/2/event/5/message"
 msgid "So thanks for that, really nice of ya."
-msgstr ""
+msgstr "Así que gracias por eso, muy amable de tu parte."
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/393/settings/npcStates/2/event/6/message #47
 #. NPC mick2
@@ -6570,7 +6567,7 @@ msgstr "Cerrar sesión"
 #: data/maps/jungle/clearing/clear-path-01.json+entities/778/settings/interact/hoverText+%2373
 msgctxt "data/maps/jungle/clearing/clear-path-01.json//entities/778/settings/interact/hoverText"
 msgid "\\c[3]V'rda Vil\\c[0]"
-msgstr ""
+msgstr "\\c[3]Villa V'rda\\c[0]"
 
 #. data/maps/jungle/clearing/clear-path-01.json entities/781/settings/npcStates/0/event/2/message #74
 #. NPC
@@ -7103,7 +7100,7 @@ msgstr "Reúnete con \\c[3]C'tron\\c[0] en el punto de referencia \\c[3]Enfoque 
 #: data/maps/jungle/clearing/clear-path-01.json+entities/793/settings/event/0/message+%23197
 msgctxt "data/maps/jungle/clearing/clear-path-01.json//entities/793/settings/event/0/message"
 msgid "Boring wood bridge. Why no laser bridge?"
-msgstr ""
+msgstr "Puente de madera aburrido. ¿Por qué no hay puente láser?"
 
 #. data/maps/jungle/clearing/clear-path-01.json entities/794/settings/event/0/message #207
 #. LocationEvent shadWood START IF party.has.Joern && party.has.Apollo && plot.jungleQuest >= 300
@@ -7150,7 +7147,7 @@ msgstr "[asiente]"
 #: data/maps/jungle/clearing/clear-path-02.json+entities/145/settings/interact/hoverText+%233
 msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/145/settings/interact/hoverText"
 msgid "\\c[3]V'rda Vil\\c[0]"
-msgstr ""
+msgstr "\\c[3]Villa V'rda\\c[0]"
 
 #. data/maps/jungle/clearing/clear-path-02.json entities/497/settings/analyzable/text #218
 #. NPC fridgequest-shopper
@@ -7288,7 +7285,6 @@ msgstr "Anciana no quiere maquinas de poder humano.\\. Pero tal vez mi sobrino O
 #. IF quest.jungleTrader-3-shad_fridge_1.started
 #. SHOW_MSG baki.male-pink-tall @DEFAULT
 #: data/maps/jungle/clearing/clear-path-02.json+entities/497/settings/npcStates/2/event/quest/10/message+%23550
-#, fuzzy
 msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/497/settings/npcStates/2/event/quest/10/message"
 msgid "He smart shad, full of dream and aspire!\\. Even studied human science at coolleg in city!"
 msgstr "¡Es listo, lleno de sueños y aspiraciones!\\. ¡Incluso estudió ciencias humanas en la unive de la ciudad!"
@@ -7710,7 +7706,7 @@ msgstr "Asombroso."
 #: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/hoverText+%23409
 msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/hoverText"
 msgid "Knock door"
-msgstr ""
+msgstr "Golpear la puerta"
 
 #. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/20/name #520
 #. Prop door-prop SPAWN IF quest.jungleTrader-3-shad_fridge_1.currentTask == 1
@@ -7718,7 +7714,7 @@ msgstr ""
 #: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/20/name+%23520
 msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/20/name"
 msgid "Owo'kyari"
-msgstr ""
+msgstr "Owo'kyari"
 
 #. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/21/message #521
 #. Prop door-prop SPAWN IF quest.jungleTrader-3-shad_fridge_1.currentTask == 1
@@ -7726,7 +7722,7 @@ msgstr ""
 #: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/21/message+%23521
 msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/21/message"
 msgid "Yes, what is?"
-msgstr ""
+msgstr "Sí, ¿qué es?"
 
 #. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/22/message #537
 #. Prop door-prop SPAWN IF quest.jungleTrader-3-shad_fridge_1.currentTask == 1
@@ -7742,7 +7738,7 @@ msgstr "Hola..."
 #: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/23/message+%23538
 msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/23/message"
 msgid "\\.\\.Ohh... A \\v[lore.title.seeker], huh?\\. What is special occasion?"
-msgstr ""
+msgstr "\\.\\.Ohh... Un \\v[lore.title.seeker], eh?\\. ¿Qué es una ocasión especial?"
 
 #. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/24/message #539
 #. Prop door-prop SPAWN IF quest.jungleTrader-3-shad_fridge_1.currentTask == 1
@@ -7750,7 +7746,7 @@ msgstr ""
 #: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/24/message+%23539
 msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/24/message"
 msgid "...Lea.\\.\\. Meet!"
-msgstr ""
+msgstr "...Lea.\\.\\. ¡Reunir!"
 
 #. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/25/message #540
 #. Prop door-prop SPAWN IF quest.jungleTrader-3-shad_fridge_1.currentTask == 1
@@ -7758,7 +7754,7 @@ msgstr ""
 #: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/25/message+%23540
 msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/25/message"
 msgid "Ah, uncle sent you because power is needed for fridging devices?\\. How full of wonder!"
-msgstr ""
+msgstr "Ah, ¿el tío te envió porque se necesita energía para los aparatos de refrigeración?\\. ¡Qué maravilla!"
 
 #. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/27/message #541
 #. Prop door-prop SPAWN IF quest.jungleTrader-3-shad_fridge_1.currentTask == 1
@@ -7766,7 +7762,7 @@ msgstr ""
 #: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/27/message+%23541
 msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/27/message"
 msgid "Yes, there no connection to human plant of power and chief won't ever allow dirty generator in village."
-msgstr ""
+msgstr "Sí, mientas no haya conexión con la planta de energía humana. El jefe nunca permitirá un sucio generador en el pueblo."
 
 #. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/28/message #542
 #. Prop door-prop SPAWN IF quest.jungleTrader-3-shad_fridge_1.currentTask == 1
@@ -7774,7 +7770,7 @@ msgstr ""
 #: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/28/message+%23542
 msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/28/message"
 msgid "BUT, \\v[lore.title.seeker], I developed alternative!\\. Device powered by nature!"
-msgstr ""
+msgstr "PERO, \\v[lore.title.seeker], ¡Desarrollé una alternativa!\\. ¡Un dispositivo alimentado por la naturaleza!"
 
 #. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/29/message #543
 #. Prop door-prop SPAWN IF quest.jungleTrader-3-shad_fridge_1.currentTask == 1
@@ -7790,7 +7786,7 @@ msgstr "¡...!"
 #: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/30/message+%23682
 msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/30/message"
 msgid "Only developed one prototype however.\\. Need parts for more.\\. \\v[lore.title.seeker] help?"
-msgstr ""
+msgstr "Sin embargo, sólo desarrollamos un prototipo.\\. Necesito muchas piezas.\\. \\¿Me ayudas \\v[lore.title.seeker]?"
 
 #. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/31/message #683
 #. Prop door-prop SPAWN IF quest.jungleTrader-3-shad_fridge_1.currentTask == 1
@@ -7806,7 +7802,7 @@ msgstr "[asiente]"
 #: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/32/message+%23684
 msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/32/message"
 msgid "Good, good.\\. I will give you list.\\. \\c[3]Very precious metal\\c[0] is needed and some other things."
-msgstr ""
+msgstr "Bien, bien.\\. Te daré la lista.\\. Se necesita un \\c[3]metal muy valioso\\c[0] y algunas otras cosas."
 
 #. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/33/message #685
 #. Prop door-prop SPAWN IF quest.jungleTrader-3-shad_fridge_1.currentTask == 1
@@ -7814,7 +7810,7 @@ msgstr ""
 #: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/33/message+%23685
 msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/33/message"
 msgid "\\c[3]\\v[item.281.name]\\c[0] is held by \\c[3]ghosts in local temples\\c[0], \\c[3]\\v[item.391.name]\\c[0] and \\c[3]\\v[item.409.name]\\c[0] can found in \\c[3]\\v[area.forest.name]\\c[0]."
-msgstr ""
+msgstr "\\c[3]\\v[item.281.name]\\c[0] se encuentran en los \\c[3]fantasmas de templos locales\\c[0], \\c[3]\\v[item.391.name]\\c[0] y \\c[3]\\v[item.409.name]\\c[0] pueden encontrarse en \\c[3]\\v[area.forest.name]\\c[0]."
 
 #. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/34/message #686
 #. Prop door-prop SPAWN IF quest.jungleTrader-3-shad_fridge_1.currentTask == 1
@@ -7838,7 +7834,7 @@ msgstr "[asiente]"
 #: data/maps/jungle/clearing/clear-path-02.json+entities/668/settings/interact/event/36/message+%23688
 msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/668/settings/interact/event/36/message"
 msgid "Good.\\. Come back when materials acquired."
-msgstr ""
+msgstr "Bien.\\. Vuelve cuando adquieras los materiales."
 
 #. data/maps/jungle/clearing/clear-path-02.json entities/668/settings/interact/event/37/message #689
 #. Prop door-prop SPAWN IF quest.jungleTrader-3-shad_fridge_1.currentTask == 1
@@ -7853,7 +7849,7 @@ msgstr "¡Adiós!"
 #: data/maps/jungle/clearing/clear-path-02.json+entities/669/settings/analyzable/text+%23519
 msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/669/settings/analyzable/text"
 msgid "Owo'kyari"
-msgstr ""
+msgstr "Owo'kyari"
 
 #. data/maps/jungle/clearing/clear-path-02.json entities/669/settings/npcStates/2/event/1/name #533
 #. NPC fridgequest-techNephew
@@ -7862,7 +7858,7 @@ msgstr ""
 #: data/maps/jungle/clearing/clear-path-02.json+entities/669/settings/npcStates/2/event/1/name+%23533
 msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/669/settings/npcStates/2/event/1/name"
 msgid "Owo'kyari"
-msgstr ""
+msgstr "Owo'kyari"
 
 #. data/maps/jungle/clearing/clear-path-02.json entities/669/settings/npcStates/2/event/2/message #690
 #. NPC fridgequest-techNephew
@@ -7871,7 +7867,7 @@ msgstr ""
 #: data/maps/jungle/clearing/clear-path-02.json+entities/669/settings/npcStates/2/event/2/message+%23690
 msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/669/settings/npcStates/2/event/2/message"
 msgid "Bring me material for more power machines.\\. First, there is need for \\c[3]very precious metal\\c[0]."
-msgstr ""
+msgstr "Tráeme material para más máquinas de energía.\\. Primero, se necesita un \\c[3]metal muy precioso\\c[0]."
 
 #. data/maps/jungle/clearing/clear-path-02.json entities/669/settings/npcStates/2/event/3/message #691
 #. NPC fridgequest-techNephew
@@ -7880,7 +7876,7 @@ msgstr ""
 #: data/maps/jungle/clearing/clear-path-02.json+entities/669/settings/npcStates/2/event/3/message+%23691
 msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/669/settings/npcStates/2/event/3/message"
 msgid "\\c[3]\\v[item.281.name]\\c[0] is held by \\c[3]ghosts in local temples\\c[0].\\. \\c[3]\\v[item.391.name] and \\v[item.409.name]\\c[0] can found in \\c[3]\\v[area.forest.name]\\c[0]."
-msgstr ""
+msgstr "\\c[3]\\v[item.281.name]\\c[0] se encuentran en los \\c[3]fantasmas de templos locales\\c[0].\\. \\c[3]\\v[item.391.name]\\c[0] y \\c[3]\\v[item.409.name]\\c[0] pueden encontrarse en \\c[3]\\v[area.forest.name]\\c[0]."
 
 #. data/maps/jungle/clearing/clear-path-02.json entities/669/settings/npcStates/3/event/quest/5/name #692
 #. NPC fridgequest-techNephew
@@ -7889,7 +7885,7 @@ msgstr ""
 #: data/maps/jungle/clearing/clear-path-02.json+entities/669/settings/npcStates/3/event/quest/5/name+%23692
 msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/669/settings/npcStates/3/event/quest/5/name"
 msgid "Owo'kyari"
-msgstr ""
+msgstr "Owo'kyari"
 
 #. data/maps/jungle/clearing/clear-path-02.json entities/669/settings/npcStates/3/event/quest/6/message #697
 #. NPC fridgequest-techNephew
@@ -7898,7 +7894,7 @@ msgstr ""
 #: data/maps/jungle/clearing/clear-path-02.json+entities/669/settings/npcStates/3/event/quest/6/message+%23697
 msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/669/settings/npcStates/3/event/quest/6/message"
 msgid "\\v[lore.title.seeker], you got all materials?"
-msgstr ""
+msgstr "\\v[lore.title.seeker], ¿conseguiste todos los materiales?"
 
 #. data/maps/jungle/clearing/clear-path-02.json entities/669/settings/npcStates/3/event/quest/7/message #695
 #. NPC fridgequest-techNephew
@@ -7916,7 +7912,7 @@ msgstr "[asiente]"
 #: data/maps/jungle/clearing/clear-path-02.json+entities/669/settings/npcStates/3/event/quest/8/message+%23694
 msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/669/settings/npcStates/3/event/quest/8/message"
 msgid "Excellent!\\. Now I can create more generator of power!\\. \\v[lore.title.seeker] just wait and prepare the awe!"
-msgstr ""
+msgstr "¡Excelente!\\. ¡Ahora puedo crear más generadores de poder!\\. ¡\\v[lore.title.seeker] sólo tiene que esperar y preparar el asombro!"
 
 #. data/maps/jungle/clearing/clear-path-02.json entities/669/settings/npcStates/3/event/quest/9/message #698
 #. NPC fridgequest-techNephew
@@ -7925,7 +7921,7 @@ msgstr ""
 #: data/maps/jungle/clearing/clear-path-02.json+entities/669/settings/npcStates/3/event/quest/9/message+%23698
 msgctxt "data/maps/jungle/clearing/clear-path-02.json//entities/669/settings/npcStates/3/event/quest/9/message"
 msgid "Lea wait!"
-msgstr ""
+msgstr "¡Lea espera!"
 
 #. data/maps/jungle/clearing/clear-path-02.json entities/669/settings/npcStates/3/event/quest/11/message #699
 #. NPC fridgequest-techNephew
@@ -10210,7 +10206,7 @@ msgstr "¿...?"
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/22/message+%23896
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/22/message"
 msgid "What's this?"
-msgstr ""
+msgstr "¿Qué es esto?"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/26/message #243
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10218,7 +10214,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/26/message+%23243
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/26/message"
 msgid "... \\.\\.\\."
-msgstr ""
+msgstr "... \\.\\.\\."
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/28/message #244
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10234,7 +10230,7 @@ msgstr "..."
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/31/message+%23897
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/31/message"
 msgid "Wait...\\. something is coming from down there!"
-msgstr ""
+msgstr "Espera... ¡algo viene desde ahí abajo!"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/65/message #245
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10266,7 +10262,7 @@ msgstr "¡...!"
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/75/message+%23898
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/75/message"
 msgid "Oh, you have got to be kidding!"
-msgstr ""
+msgstr "¡Oh, tienes que estar bromeando!"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/76/message #899
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10274,7 +10270,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/76/message+%23899
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/76/message"
 msgid "Not the bird people. Again."
-msgstr ""
+msgstr "No la gente pájaro. Otra vez."
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/77/message #248
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10290,7 +10286,7 @@ msgstr "..."
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/87/name+%23249
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/87/name"
 msgid "K'tara"
-msgstr ""
+msgstr "K'tara"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/88/message #250
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10298,7 +10294,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/88/message+%23250
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/88/message"
 msgid "Seeker!"
-msgstr ""
+msgstr "¡Buscador!"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/90/message #251
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10314,7 +10310,7 @@ msgstr "Hola..."
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/91/message+%23252
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/91/message"
 msgid "I'm so sorry. I could not stop them."
-msgstr ""
+msgstr "Lo siento mucho. No pude detenerlos."
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/92/message #253
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10322,7 +10318,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/92/message+%23253
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/92/message"
 msgid "...Why?"
-msgstr ""
+msgstr "¿...Por qué?"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/93/message #254
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10330,7 +10326,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/93/message+%23254
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/93/message"
 msgid "The \\c[3]Wiccats\\c[0], they're back already! Some of my people have been attacked!"
-msgstr ""
+msgstr "Los \\c[3]Wiccats\\c[0], ¡están de vuelta! ¡Algunos de los míos han sido atacados!"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/94/message #255
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10338,7 +10334,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/94/message+%23255
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/94/message"
 msgid "Now, they're hell bent on shutting down the power plant for real."
-msgstr ""
+msgstr "Ahora, están empeñados en cerrar la central de verdad."
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/95/message #256
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10354,7 +10350,7 @@ msgstr "¡...!"
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/97/message+%23257
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/97/message"
 msgid "Hey, Tara, it's been a while. And you brought a lot of company as well!"
-msgstr ""
+msgstr "Hola, Tara, ha pasado mucho tiempo. ¡Y también has traído mucha compañía!"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/101/name #259
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10362,7 +10358,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/101/name+%23259
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/101/name"
 msgid "Dr. Cretia"
-msgstr ""
+msgstr "Dr. Cretia"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/103/message #260
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10370,7 +10366,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/103/message+%23260
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/103/message"
 msgid "Lou!"
-msgstr ""
+msgstr "¡Lou!"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/104/message #261
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10378,7 +10374,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/104/message+%23261
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/104/message"
 msgid "We're in trouble!"
-msgstr ""
+msgstr "¡Estamos en problemas!"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/106/message #262
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10386,7 +10382,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/106/message+%23262
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/106/message"
 msgid "Let me guess, the Cats are back?"
-msgstr ""
+msgstr "Déjame adivinar, ¿los Gatos han vuelto?"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/107/message #263
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10394,7 +10390,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/107/message+%23263
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/107/message"
 msgid "Yes, how'd you know?"
-msgstr ""
+msgstr "Sí, ¿cómo lo sabes?"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/108/message #264
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10402,7 +10398,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/108/message+%23264
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/108/message"
 msgid "Well, we got them too. Right at the power plant."
-msgstr ""
+msgstr "Bueno, nosotros también los tenemos. Justo en la central eléctrica."
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/109/message #265
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10410,7 +10406,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/109/message+%23265
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/109/message"
 msgid "That's terrible!"
-msgstr ""
+msgstr "¡Esto es terrible!"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/110/message #266
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10418,7 +10414,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/110/message+%23266
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/110/message"
 msgid "No, that's perfect!"
-msgstr ""
+msgstr "¡No, es perfecto!"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/111/message #267
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10426,7 +10422,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/111/message+%23267
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/111/message"
 msgid "I've got them right where I want them!"
-msgstr ""
+msgstr "¡Los tengo justo donde los quiero!"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/113/message #268
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10434,7 +10430,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/113/message+%23268
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/113/message"
 msgid "This is the perfect opportunity to research the heck out of these buggers!"
-msgstr ""
+msgstr "¡Esta es la oportunidad perfecta para investigar el infierno de estos bichos!"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/114/message #269
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10442,7 +10438,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/114/message+%23269
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/114/message"
 msgid "To determine their source - the actual reason for their existence!"
-msgstr ""
+msgstr "Para determinar su origen: ¡la verdadera razón de su existencia!"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/115/message #270
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10450,7 +10446,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/115/message+%23270
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/115/message"
 msgid "Spoilers: It won't be the power plant."
-msgstr ""
+msgstr "Spoilers: No será la central eléctrica."
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/116/message #271
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10458,7 +10454,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/116/message+%23271
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/116/message"
 msgid "I wish I had your confidence..."
-msgstr ""
+msgstr "Me gustaría tener tu confianza..."
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/117/message #272
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10466,7 +10462,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/117/message+%23272
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/117/message"
 msgid "Oh, I don't need confidence! I have science!"
-msgstr ""
+msgstr "¡Oh, no necesito confianza! ¡Tengo a la ciencia!"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/118/message #273
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10474,7 +10470,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/118/message+%23273
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/118/message"
 msgid "Anyway, Tara... Please try to keep your folks calm."
-msgstr ""
+msgstr "De todos modos, Tara... Por favor, trata de mantener a tu gente tranquila."
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/119/message #274
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10482,7 +10478,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/119/message+%23274
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/119/message"
 msgid "I can't have them charge the power plant for the time being."
-msgstr ""
+msgstr "No puedo hacer que carguen la central por el momento."
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/120/message #275
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10490,7 +10486,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/120/message+%23275
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/120/message"
 msgid "I'll try my best..."
-msgstr ""
+msgstr "Haré lo que pueda..."
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/121/message #276
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10498,7 +10494,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/121/message+%23276
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/121/message"
 msgid "Seeker!"
-msgstr ""
+msgstr "¡Buscador!"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/122/message #277
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10506,7 +10502,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/122/message+%23277
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/122/message"
 msgid "...Hi?"
-msgstr ""
+msgstr "¿...Hola?"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/123/message #278
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10514,7 +10510,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/123/message+%23278
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/123/message"
 msgid "You have experience in dealing with those Wiccats, correct?"
-msgstr ""
+msgstr "Tienes experiencia en tratar con esos Wiccats, ¿verdad?"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/124/message #279
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10530,7 +10526,7 @@ msgstr "[asiente]"
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/125/message+%23280
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/125/message"
 msgid "Great! Follow me this way, I need your assistance ASAP!"
-msgstr ""
+msgstr "¡Genial! Sígueme por aquí, ¡necesito tu ayuda cuanto antes!"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/130/name #286
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10538,7 +10534,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/130/name+%23286
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/130/name"
 msgid "K'tara"
-msgstr ""
+msgstr "K'tara"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/131/message #285
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10554,7 +10550,7 @@ msgstr "..."
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/133/message+%23287
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/133/message"
 msgid "Yeah, she's the kind that takes your assistance for granted."
-msgstr ""
+msgstr "Sí, es de las que dan por sentada su asistencia."
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/134/message #288
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10562,7 +10558,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/134/message+%23288
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/134/message"
 msgid "Still... this might be our only chance to resolve this conflict peacefully..."
-msgstr ""
+msgstr "Aun así... esta podría ser nuestra única oportunidad de resolver este conflicto pacíficamente..."
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/135/message #289
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10570,7 +10566,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/135/message+%23289
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/135/message"
 msgid "Let's all work together!"
-msgstr ""
+msgstr "¡Trabajemos todos juntos!"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/136/message #290
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10586,7 +10582,7 @@ msgstr "[asiente]"
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/138/message+%23901
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/138/message"
 msgid "Looks like we have to solve another little quest before entering the last dungeon."
-msgstr ""
+msgstr "Parece que tenemos que resolver otra pequeña búsqueda antes de entrar en la última mazmorra."
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/139/message #902
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10594,7 +10590,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/139/message+%23902
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/139/message"
 msgid "Oui, oui. It would have been too easy otherwise, I guess!"
-msgstr ""
+msgstr "Oui, oui. Si no, ¡habría sido demasiado fácil, supongo!"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/350/settings/event/140/task #895
 #. EventTrigger shadInvade START IF g.storyContinuesJungle && tmp.barrierOpenZone && !map.barrierOpen2
@@ -10602,7 +10598,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/350/settings/event/140/task+%23895
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/350/settings/event/140/task"
 msgid "Solve the quest \\c[3]The Root Cause\\c[0] to get access to \\c[3]Grand Krys'kajo\\c[0]!"
-msgstr ""
+msgstr "¡Resuelve la misión \\c[3]La Causa Raíz\\c[0] para acceder al \\c[3]Gran Krys'kajo\\c[0]!"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/369/settings/npcStates/1/event/0/name #283
 #. NPC tara
@@ -10611,7 +10607,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/369/settings/npcStates/1/event/0/name+%23283
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/369/settings/npcStates/1/event/0/name"
 msgid "K'tara"
-msgstr ""
+msgstr "K'tara"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/369/settings/npcStates/1/event/2/message #284
 #. NPC tara
@@ -10620,7 +10616,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/369/settings/npcStates/1/event/2/message+%23284
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/369/settings/npcStates/1/event/2/message"
 msgid "Lou and I have known each other for a long time. "
-msgstr ""
+msgstr "Lou y yo nos conocemos desde hace mucho tiempo. "
 
 #. data/maps/jungle/dng/dng-crossing.json entities/369/settings/npcStates/1/event/3/message #291
 #. NPC tara
@@ -10629,7 +10625,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/369/settings/npcStates/1/event/3/message+%23291
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/369/settings/npcStates/1/event/3/message"
 msgid "Without her, I probably wouldn't have found my interest in human society."
-msgstr ""
+msgstr "Sin ella, probablemente no habría encontrado mi interés por la sociedad humana."
 
 #. data/maps/jungle/dng/dng-crossing.json entities/369/settings/npcStates/1/event/4/message #292
 #. NPC tara
@@ -10647,7 +10643,7 @@ msgstr "..."
 #: data/maps/jungle/dng/dng-crossing.json+entities/369/settings/npcStates/1/event/5/message+%23293
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/369/settings/npcStates/1/event/5/message"
 msgid "Anyway, if she's that confident I'm sure she has a plan that will help us all."
-msgstr ""
+msgstr "De todos modos, si está tan segura de ti misma, estoy seguro de que tiene un plan que nos ayudará a todos."
 
 #. data/maps/jungle/dng/dng-crossing.json entities/369/settings/npcStates/1/event/6/message #294
 #. NPC tara
@@ -10656,7 +10652,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/369/settings/npcStates/1/event/6/message+%23294
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/369/settings/npcStates/1/event/6/message"
 msgid "You follow her to the power plant. I'll try and hold off my people for as long as I can."
-msgstr ""
+msgstr "Síguela a la central eléctrica. Intentaré retener a mi gente todo el tiempo que pueda."
 
 #. data/maps/jungle/dng/dng-crossing.json entities/369/settings/npcStates/1/event/7/message #295
 #. NPC tara
@@ -10841,7 +10837,7 @@ msgstr "Completa \\c[3]So'najiz\\c[0] o \\c[3]Zir'vitar Temple\\c[0] junto con \
 #: data/maps/jungle/dng/dng-crossing.json+entities/372/settings/teleportLabel+%23185
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/372/settings/teleportLabel"
 msgid "\\c[3]So'najiz End\\c[0]"
-msgstr ""
+msgstr "\\c[3]Final de So'najiz\\c[0]"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/374/settings/event/10/message #556
 #. EventTrigger FirstDungeonSolved START IF tmp.enteredCenter && (plot.waveLine >= 1000 || plot.shockLine >= 1000)
@@ -10849,7 +10845,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/374/settings/event/10/message+%23556
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/374/settings/event/10/message"
 msgid "Here we are again..."
-msgstr ""
+msgstr "Aquí estamos de nuevo..."
 
 #. data/maps/jungle/dng/dng-crossing.json entities/374/settings/event/11/message #557
 #. EventTrigger FirstDungeonSolved START IF tmp.enteredCenter && (plot.waveLine >= 1000 || plot.shockLine >= 1000)
@@ -10857,7 +10853,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/374/settings/event/11/message+%23557
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/374/settings/event/11/message"
 msgid "So...\\. should we start another dungeon now?"
-msgstr ""
+msgstr "Así que...\\. ¿deberíamos empezar otra mazmorra ahora?"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/374/settings/event/12/message #558
 #. EventTrigger FirstDungeonSolved START IF tmp.enteredCenter && (plot.waveLine >= 1000 || plot.shockLine >= 1000)
@@ -10865,7 +10861,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/374/settings/event/12/message+%23558
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/374/settings/event/12/message"
 msgid "Well...\\. It is a bit late, isn't it?"
-msgstr ""
+msgstr "Bueno...\\. Es un poco tarde, ¿no?"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/374/settings/event/13/message #559
 #. EventTrigger FirstDungeonSolved START IF tmp.enteredCenter && (plot.waveLine >= 1000 || plot.shockLine >= 1000)
@@ -10873,7 +10869,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/374/settings/event/13/message+%23559
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/374/settings/event/13/message"
 msgid "I'm afraid I have to logout soon."
-msgstr ""
+msgstr "Me temo que tengo que cerrar la sesión pronto."
 
 #. data/maps/jungle/dng/dng-crossing.json entities/374/settings/event/14/message #560
 #. EventTrigger FirstDungeonSolved START IF tmp.enteredCenter && (plot.waveLine >= 1000 || plot.shockLine >= 1000)
@@ -10881,7 +10877,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/374/settings/event/14/message+%23560
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/374/settings/event/14/message"
 msgid "Oui, same for me. I don't think another dungeon fits in."
-msgstr ""
+msgstr "Oui, lo mismo para mí. No creo que nos de tiempo para otra mazmorra."
 
 #. data/maps/jungle/dng/dng-crossing.json entities/374/settings/event/15/message #561
 #. EventTrigger FirstDungeonSolved START IF tmp.enteredCenter && (plot.waveLine >= 1000 || plot.shockLine >= 1000)
@@ -10897,7 +10893,7 @@ msgstr "..."
 #: data/maps/jungle/dng/dng-crossing.json+entities/374/settings/event/16/message+%23562
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/374/settings/event/16/message"
 msgid "Oh, you know what?"
-msgstr ""
+msgstr "Oh, ¿Sabes qué?"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/374/settings/event/17/message #563
 #. EventTrigger FirstDungeonSolved START IF tmp.enteredCenter && (plot.waveLine >= 1000 || plot.shockLine >= 1000)
@@ -10905,7 +10901,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/374/settings/event/17/message+%23563
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/374/settings/event/17/message"
 msgid "Before we log off, we should drop by the headquarters and say hello to Lin and the others."
-msgstr ""
+msgstr "Antes de cerrar la sesión, deberíamos pasar por el gremio y saludar a Lin y a los demás."
 
 #. data/maps/jungle/dng/dng-crossing.json entities/374/settings/event/18/message #564
 #. EventTrigger FirstDungeonSolved START IF tmp.enteredCenter && (plot.waveLine >= 1000 || plot.shockLine >= 1000)
@@ -10913,7 +10909,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/374/settings/event/18/message+%23564
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/374/settings/event/18/message"
 msgid "Just let them know that Lea is back again and ready for action."
-msgstr ""
+msgstr "Sólo hazles saber que Lea está de vuelta y lista para la acción."
 
 #. data/maps/jungle/dng/dng-crossing.json entities/374/settings/event/19/message #565
 #. EventTrigger FirstDungeonSolved START IF tmp.enteredCenter && (plot.waveLine >= 1000 || plot.shockLine >= 1000)
@@ -10921,7 +10917,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/374/settings/event/19/message+%23565
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/374/settings/event/19/message"
 msgid "Oh, that's a good idea!"
-msgstr ""
+msgstr "¡Oh, es una buena idea!"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/374/settings/event/20/message #566
 #. EventTrigger FirstDungeonSolved START IF tmp.enteredCenter && (plot.waveLine >= 1000 || plot.shockLine >= 1000)
@@ -10945,7 +10941,7 @@ msgstr "[asiente]"
 #: data/maps/jungle/dng/dng-crossing.json+entities/374/settings/event/22/message+%23568
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/374/settings/event/22/message"
 msgid "D'accord! Let's not wait too long, then."
-msgstr ""
+msgstr "¡D'accord! No esperemos demasiado, entonces."
 
 #. data/maps/jungle/dng/dng-crossing.json entities/374/settings/event/23/message #569
 #. EventTrigger FirstDungeonSolved START IF tmp.enteredCenter && (plot.waveLine >= 1000 || plot.shockLine >= 1000)
@@ -10953,7 +10949,7 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/374/settings/event/23/message+%23569
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/374/settings/event/23/message"
 msgid "I'm not sure how much longer they'll be online."
-msgstr ""
+msgstr "No estoy segura de cuánto tiempo más estarán en línea."
 
 #. data/maps/jungle/dng/dng-crossing.json entities/374/settings/event/25/task #834
 #. EventTrigger FirstDungeonSolved START IF tmp.enteredCenter && (plot.waveLine >= 1000 || plot.shockLine >= 1000)
@@ -10961,14 +10957,14 @@ msgstr ""
 #: data/maps/jungle/dng/dng-crossing.json+entities/374/settings/event/25/task+%23834
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/374/settings/event/25/task"
 msgid "Talk to \\c[3]Hlin\\c[0] in the \\c[3]First Scholars HQ\\c[0]."
-msgstr ""
+msgstr "Habla con \\c[3]Hlin\\c[0] en la \\c[3]Sede de los Primeros Eruditos\\c[0]."
 
 #. data/maps/jungle/dng/dng-crossing.json entities/375/settings/teleportLabel #570
 #. TeleportField zirvitarShortcut SPAWN IF g.zirvitarTeleport
 #: data/maps/jungle/dng/dng-crossing.json+entities/375/settings/teleportLabel+%23570
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/375/settings/teleportLabel"
 msgid "\\c[3]Zir'Vitar End\\c[0]"
-msgstr ""
+msgstr "\\c[3]Final de Zir'Vitar\\c[0]"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/376/settings/event/7/name #574
 #. EventTrigger FinalKtaraScene START IF plot.jungleQuest >= 10000 && tmp.barrierOpenZone
@@ -11788,6 +11784,8 @@ msgid ""
 "A little spark can grant life\n"
 "to any creature of this world."
 msgstr ""
+"Una pequeña chispa puede dar vida\n"
+"a cualquier criatura de este mundo."
 
 #. data/maps/jungle/dng/shock-expo-space.json entities/4/settings/event/9/text #25
 #. EventTrigger
@@ -11798,6 +11796,8 @@ msgid ""
 "Yet a most furious thunder\n"
 "will humble those creatures in awe."
 msgstr ""
+"Sin embargo, un trueno furioso\n"
+"humillará a esas criaturas con su temor."
 
 #. data/maps/jungle/dng/shock-expo-space.json entities/4/settings/event/10/text #27
 #. EventTrigger
@@ -11808,6 +11808,8 @@ msgid ""
 "Among the fiercest of lightning\n"
 "you stayed persistent."
 msgstr ""
+"Entre el más feroz de los relámpagos\n"
+"te mantuviste persistente."
 
 #. data/maps/jungle/dng/shock-expo-space.json entities/4/settings/event/11/text #30
 #. EventTrigger
@@ -11818,6 +11820,8 @@ msgid ""
 "With calm and calculated waves,\n"
 "you phased through electric discord."
 msgstr ""
+"Con ondas tranquilas y calculadas,\n"
+"atravesaste la discordia eléctrica."
 
 #. data/maps/jungle/dng/shock-expo-space.json entities/4/settings/event/12/text #28
 #. EventTrigger
@@ -11828,6 +11832,8 @@ msgid ""
 "You, the traveler, \n"
 "the envoy of change."
 msgstr ""
+"Tú, el viajero, \n"
+"el enviado del cambio."
 
 #. data/maps/jungle/dng/shock-expo-space.json entities/4/settings/event/13/text #29
 #. EventTrigger
@@ -11835,7 +11841,7 @@ msgstr ""
 #: data/maps/jungle/dng/shock-expo-space.json+entities/4/settings/event/13/text+%2329
 msgctxt "data/maps/jungle/dng/shock-expo-space.json//entities/4/settings/event/13/text"
 msgid "You have proven yourself worthy."
-msgstr ""
+msgstr "Has demostrado ser digno."
 
 #. data/maps/jungle/dng/shock-expo-space.json entities/4/settings/event/14/text #26
 #. EventTrigger
@@ -11846,6 +11852,8 @@ msgid ""
 "Take this Shade, one of a pair,\n"
 "to reach the grand tree."
 msgstr ""
+"Toma esta sombra, una de un par,\n"
+"para llegar al gran árbol."
 
 #. data/maps/jungle/dng/shock-expo-space.json entities/4/settings/event/21/object #22
 #. EventTrigger
@@ -11853,7 +11861,7 @@ msgstr ""
 #: data/maps/jungle/dng/shock-expo-space.json+entities/4/settings/event/21/object+%2322
 msgctxt "data/maps/jungle/dng/shock-expo-space.json//entities/4/settings/event/21/object"
 msgid "\\v[item.231.name]"
-msgstr ""
+msgstr "\\v[item.231.name]"
 
 #. data/maps/jungle/dng/shock-expo-space.json entities/4/settings/event/23/text #8
 #. EventTrigger
@@ -11864,6 +11872,8 @@ msgid ""
 "Let your every step\n"
 "form the path of your growth."
 msgstr ""
+"Deja que cada uno de tus pasos\n"
+"forme el camino de tu crecimiento."
 
 #. data/maps/jungle/dng/shock-exterior-end.json entities/121/settings/teleportLabel #1
 #. TeleportField entrance
@@ -12123,7 +12133,7 @@ msgstr "Gracias a su confianza en nuestra resistencia, nuestra especie recibió 
 #: data/maps/jungle/dng/shock-exterior-end.json+entities/128/settings/interact/hoverText+%23884
 msgctxt "data/maps/jungle/dng/shock-exterior-end.json//entities/128/settings/interact/hoverText"
 msgid "Birth of K'win"
-msgstr ""
+msgstr "Nacimiento de K'win"
 
 #. data/maps/jungle/dng/shock-exterior-end.json entities/128/settings/interact/event/0/text #885
 #. Prop SPAWN IF map.infoText >= 3
@@ -12131,7 +12141,7 @@ msgstr ""
 #: data/maps/jungle/dng/shock-exterior-end.json+entities/128/settings/interact/event/0/text+%23885
 msgctxt "data/maps/jungle/dng/shock-exterior-end.json//entities/128/settings/interact/event/0/text"
 msgid "It all started when \\c[3]Di'orbis\\c[0], the ethereal god of creation, was born into the emptiness of the void."
-msgstr ""
+msgstr "Todo comenzó cuando \\c[3]Di'orbis\\c[0], el dios etéreo de la creación, nació en el vacío de la nada."
 
 #. data/maps/jungle/dng/shock-exterior-end.json entities/128/settings/interact/event/1/text #909
 #. Prop SPAWN IF map.infoText >= 3
@@ -12139,7 +12149,7 @@ msgstr ""
 #: data/maps/jungle/dng/shock-exterior-end.json+entities/128/settings/interact/event/1/text+%23909
 msgctxt "data/maps/jungle/dng/shock-exterior-end.json//entities/128/settings/interact/event/1/text"
 msgid "After pondering for eons in solitude, his desire for company gave birth to the \\c[3]Gods of Shape\\c[0]."
-msgstr ""
+msgstr "Luego de pasar eones en solitud, su deseo por compañía dio luz a los \\c[3]Dioses de la Forma\\c[0]."
 
 #. data/maps/jungle/dng/shock-exterior-end.json entities/128/settings/interact/event/2/text #910
 #. Prop SPAWN IF map.infoText >= 3
@@ -12147,14 +12157,14 @@ msgstr ""
 #: data/maps/jungle/dng/shock-exterior-end.json+entities/128/settings/interact/event/2/text+%23910
 msgctxt "data/maps/jungle/dng/shock-exterior-end.json//entities/128/settings/interact/event/2/text"
 msgid "\\c[3]K'win\\c[0] is one of these gods. Born a twin to \\c[3]G'oni\\c[0], she is the God of the \\c[3]Pentagon\\c[0] and the creator of \\c[3]storms and lightning\\c[0]."
-msgstr ""
+msgstr "\\c[3]K'win\\c[0] es uno de estos dioses. Nacida como gemela de \\c[3]G'oni\\c[0], es la Diosa del \\c[3]Pentágono\\c[0] y la creadora de las \\c[3]tormentas y los rayos\\c[0]."
 
 #. data/maps/jungle/dng/shock-exterior-end.json entities/129/settings/interact/hoverText #886
 #. Prop SPAWN IF map.infoText >= 4
 #: data/maps/jungle/dng/shock-exterior-end.json+entities/129/settings/interact/hoverText+%23886
 msgctxt "data/maps/jungle/dng/shock-exterior-end.json//entities/129/settings/interact/hoverText"
 msgid "The creations of K'win"
-msgstr ""
+msgstr "Las creaciones de K'win"
 
 #. data/maps/jungle/dng/shock-exterior-end.json entities/129/settings/interact/event/0/text #887
 #. Prop SPAWN IF map.infoText >= 4
@@ -12162,7 +12172,7 @@ msgstr ""
 #: data/maps/jungle/dng/shock-exterior-end.json+entities/129/settings/interact/event/0/text+%23887
 msgctxt "data/maps/jungle/dng/shock-exterior-end.json//entities/129/settings/interact/event/0/text"
 msgid "K'win is the creator of \\c[3]storms and lightning\\c[0]."
-msgstr ""
+msgstr "K'win es el creador de las tormentas \\c[3]y de los relámpagos[0]."
 
 #. data/maps/jungle/dng/shock-exterior-end.json entities/129/settings/interact/event/1/text #911
 #. Prop SPAWN IF map.infoText >= 4
@@ -12170,7 +12180,7 @@ msgstr ""
 #: data/maps/jungle/dng/shock-exterior-end.json+entities/129/settings/interact/event/1/text+%23911
 msgctxt "data/maps/jungle/dng/shock-exterior-end.json//entities/129/settings/interact/event/1/text"
 msgid "Her strong winds keep our world in constant motion, her fierce thunderstorms are awe-inspiring, sparking curiosity within us."
-msgstr ""
+msgstr "Sus fuertes vientos mantienen nuestro mundo en constante movimiento, sus feroces tormentas son sobrecogedoras y despiertan nuestra curiosidad."
 
 #. data/maps/jungle/dng/shock-exterior-end.json entities/129/settings/interact/event/2/text #912
 #. Prop SPAWN IF map.infoText >= 4
@@ -12178,14 +12188,14 @@ msgstr ""
 #: data/maps/jungle/dng/shock-exterior-end.json+entities/129/settings/interact/event/2/text+%23912
 msgctxt "data/maps/jungle/dng/shock-exterior-end.json//entities/129/settings/interact/event/2/text"
 msgid "Finally, her little sparks also give life to every creature of this world."
-msgstr ""
+msgstr "Por último, sus pequeñas chispas también dan vida a todas las criaturas de este mundo."
 
 #. data/maps/jungle/dng/shock-exterior-end.json entities/131/settings/teleportLabel #185
 #. TeleportField shortcut SPAWN IF g.zirvitarTeleport
 #: data/maps/jungle/dng/shock-exterior-end.json+entities/131/settings/teleportLabel+%23185
 msgctxt "data/maps/jungle/dng/shock-exterior-end.json//entities/131/settings/teleportLabel"
 msgid "Back to \\c[3]Rite of Passage\\c[0]"
-msgstr ""
+msgstr "Volver al \\c[3]Rito de paso\\c[0]"
 
 #. data/maps/jungle/dng/shock-exterior-end.json entities/132/settings/event/26/message #25
 #. EventTrigger PostExpoScene START IF plot.shockLine >= 700
@@ -12193,7 +12203,7 @@ msgstr ""
 #: data/maps/jungle/dng/shock-exterior-end.json+entities/132/settings/event/26/message+%2325
 msgctxt "data/maps/jungle/dng/shock-exterior-end.json//entities/132/settings/event/26/message"
 msgid "And done!"
-msgstr ""
+msgstr "¡Y listo!"
 
 #. data/maps/jungle/dng/shock-exterior-end.json entities/132/settings/event/27/thenStep/0/message #890
 #. EventTrigger PostExpoScene START IF plot.shockLine >= 700
@@ -12202,7 +12212,7 @@ msgstr ""
 #: data/maps/jungle/dng/shock-exterior-end.json+entities/132/settings/event/27/thenStep/0/message+%23890
 msgctxt "data/maps/jungle/dng/shock-exterior-end.json//entities/132/settings/event/27/thenStep/0/message"
 msgid "One dungeon completed, two to go!"
-msgstr ""
+msgstr "Una mazmorra completada, ¡faltan dos!"
 
 #. data/maps/jungle/dng/shock-exterior-end.json entities/132/settings/event/27/elseStep/0/message #888
 #. EventTrigger PostExpoScene START IF plot.shockLine >= 700
@@ -12211,7 +12221,7 @@ msgstr ""
 #: data/maps/jungle/dng/shock-exterior-end.json+entities/132/settings/event/27/elseStep/0/message+%23888
 msgctxt "data/maps/jungle/dng/shock-exterior-end.json//entities/132/settings/event/27/elseStep/0/message"
 msgid "So that means we're finally ready for that Grand-something dungeon, right?"
-msgstr ""
+msgstr "Eso significa que por fin estamos listos para la mazmorra de Grand-esa cosa, ¿verdad?"
 
 #. data/maps/jungle/dng/shock-exterior-end.json entities/132/settings/event/27/elseStep/1/task #895
 #. EventTrigger PostExpoScene START IF plot.shockLine >= 700
@@ -12220,7 +12230,7 @@ msgstr ""
 #: data/maps/jungle/dng/shock-exterior-end.json+entities/132/settings/event/27/elseStep/1/task+%23895
 msgctxt "data/maps/jungle/dng/shock-exterior-end.json//entities/132/settings/event/27/elseStep/1/task"
 msgid "You are ready to enter the \\c[3]Grand Krys'kajo\\c[0] now!"
-msgstr ""
+msgstr "¡Ahora estamos listos para entrar en el \\c[3]Gran Krys'kajo\\c[0]!"
 
 #. data/maps/jungle/dng/shock-exterior-end.json entities/132/settings/event/28/message #891
 #. EventTrigger PostExpoScene START IF plot.shockLine >= 700
@@ -12236,7 +12246,7 @@ msgstr "[asiente]"
 #: data/maps/jungle/dng/shock-exterior-end.json+entities/132/settings/event/29/message+%23892
 msgctxt "data/maps/jungle/dng/shock-exterior-end.json//entities/132/settings/event/29/message"
 msgid "Awesome!"
-msgstr ""
+msgstr "¡Impresionante!"
 
 #. data/maps/jungle/dng/shock-exterior-end.json entities/132/settings/event/30/message #180
 #. EventTrigger PostExpoScene START IF plot.shockLine >= 700
@@ -12244,7 +12254,7 @@ msgstr ""
 #: data/maps/jungle/dng/shock-exterior-end.json+entities/132/settings/event/30/message+%23180
 msgctxt "data/maps/jungle/dng/shock-exterior-end.json//entities/132/settings/event/30/message"
 msgid "This place here is pretty nice, don't you think?"
-msgstr ""
+msgstr "Este lugar es muy bonito, ¿no crees?"
 
 #. data/maps/jungle/dng/shock-exterior-end.json entities/132/settings/event/31/message #893
 #. EventTrigger PostExpoScene START IF plot.shockLine >= 700
@@ -12252,7 +12262,7 @@ msgstr ""
 #: data/maps/jungle/dng/shock-exterior-end.json+entities/132/settings/event/31/message+%23893
 msgctxt "data/maps/jungle/dng/shock-exterior-end.json//entities/132/settings/event/31/message"
 msgid "I'd like to have a small look around before we continue."
-msgstr ""
+msgstr "Me gustaría echar un pequeño vistazo antes de continuar."
 
 #. data/maps/jungle/dng/shock-exterior-end.json entities/132/settings/event/32/message #894
 #. EventTrigger PostExpoScene START IF plot.shockLine >= 700
@@ -12260,7 +12270,7 @@ msgstr ""
 #: data/maps/jungle/dng/shock-exterior-end.json+entities/132/settings/event/32/message+%23894
 msgctxt "data/maps/jungle/dng/shock-exterior-end.json//entities/132/settings/event/32/message"
 msgid "Sure! Though I have to admit that huge electric stream up there makes me slightly nervous."
-msgstr ""
+msgstr "¡Claro que sí! Aunque tengo que admitir que esa enorme corriente eléctrica de ahí arriba me pone ligeramente nervioso."
 
 #. data/maps/jungle/dng/shock-exterior-end.json entities/132/settings/event/33/message #27
 #. EventTrigger PostExpoScene START IF plot.shockLine >= 700
@@ -17219,6 +17229,8 @@ msgid ""
 "Water rises up to the sky,\n"
 "falls upon the earth, flows into the sea."
 msgstr ""
+"El agua sube al cielo,\n"
+"cae sobre la tierra y fluye hacia el mar."
 
 #. data/maps/jungle/dng/wave-expo-space.json entities/4/settings/event/9/text #29
 #. EventTrigger
@@ -17229,6 +17241,8 @@ msgid ""
 "An everlasting circle painting this world\n"
 "in the vivid colors of abundant flora."
 msgstr ""
+"Un círculo eterno que pinta este mundo\n"
+"en los vivos colores de la abundante flora."
 
 #. data/maps/jungle/dng/wave-expo-space.json entities/4/settings/event/10/text #30
 #. EventTrigger
@@ -17239,6 +17253,8 @@ msgid ""
 "Yet under the pressure of deep waters,\n"
 "you stayed persistent."
 msgstr ""
+"Bajo la presión de las aguas profundas,\n"
+"te mantuviste persistente."
 
 #. data/maps/jungle/dng/wave-expo-space.json entities/4/settings/event/11/text #31
 #. EventTrigger
@@ -17249,6 +17265,8 @@ msgid ""
 "With lightning fast conduction,\n"
 "you pulled your way through fluid obstacles."
 msgstr ""
+"Con una conducción rápida como un rayo,\n"
+"te abriste paso a través de estos obstáculos."
 
 #. data/maps/jungle/dng/wave-expo-space.json entities/4/settings/event/12/text #25
 #. EventTrigger
@@ -17259,6 +17277,8 @@ msgid ""
 "You, the traveler, \n"
 "the envoy of change."
 msgstr ""
+"Tú, el viajero, \n"
+"el enviado del cambio."
 
 #. data/maps/jungle/dng/wave-expo-space.json entities/4/settings/event/13/text #26
 #. EventTrigger
@@ -17266,7 +17286,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-expo-space.json+entities/4/settings/event/13/text+%2326
 msgctxt "data/maps/jungle/dng/wave-expo-space.json//entities/4/settings/event/13/text"
 msgid "You have proven yourself worthy."
-msgstr ""
+msgstr "Demostraste ser digno."
 
 #. data/maps/jungle/dng/wave-expo-space.json entities/4/settings/event/14/text #28
 #. EventTrigger
@@ -17277,6 +17297,8 @@ msgid ""
 "Take this Shade, one of a pair,\n"
 "to reach the grand tree."
 msgstr ""
+"Toma esta sombra, una de un par,\n"
+"para llegar al gran árbol."
 
 #. data/maps/jungle/dng/wave-expo-space.json entities/4/settings/event/21/object #22
 #. EventTrigger
@@ -17284,7 +17306,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-expo-space.json+entities/4/settings/event/21/object+%2322
 msgctxt "data/maps/jungle/dng/wave-expo-space.json//entities/4/settings/event/21/object"
 msgid "\\v[item.286.name]"
-msgstr ""
+msgstr "\\v[item.286.name]"
 
 #. data/maps/jungle/dng/wave-expo-space.json entities/4/settings/event/23/text #8
 #. EventTrigger
@@ -17295,6 +17317,8 @@ msgid ""
 "Let your every step\n"
 "form the path of your growth."
 msgstr ""
+"Deja que cada uno de tus pasos\n"
+"forme el camino de tu crecimiento."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/337/settings/teleportLabel #1
 #. TeleportField entrance
@@ -17310,7 +17334,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/338/settings/event/20/thenStep/14/message+%2378
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/338/settings/event/20/thenStep/14/message"
 msgid "Aww, just second?\\. I thought I was rather quick this time."
-msgstr ""
+msgstr "Aww, ¿Quedé segundo?\\. Pensé que fui bastante rápido esta vez."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/338/settings/event/20/thenStep/15/message #76
 #. EventTrigger DungeonEnd START IF party.has.Emilie
@@ -17328,7 +17352,7 @@ msgstr "¡...!"
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/338/settings/event/20/thenStep/16/message+%2377
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/338/settings/event/20/thenStep/16/message"
 msgid "Anyway, congratulations!"
-msgstr ""
+msgstr "De todos modos, ¡Felicidades!"
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/338/settings/event/20/thenStep/29/message #4
 #. EventTrigger DungeonEnd START IF party.has.Emilie
@@ -17337,7 +17361,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/338/settings/event/20/thenStep/29/message+%234
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/338/settings/event/20/thenStep/29/message"
 msgid "Whaaat? I'm the last one this time?"
-msgstr ""
+msgstr "¿Queeé? ¿Soy la última esta vez?"
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/338/settings/event/20/thenStep/30/message #81
 #. EventTrigger DungeonEnd START IF party.has.Emilie
@@ -17346,7 +17370,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/338/settings/event/20/thenStep/30/message+%2381
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/338/settings/event/20/thenStep/30/message"
 msgid "Looks like it."
-msgstr ""
+msgstr "Parece que sí."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/338/settings/event/20/thenStep/31/message #79
 #. EventTrigger DungeonEnd START IF party.has.Emilie
@@ -17355,7 +17379,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/338/settings/event/20/thenStep/31/message+%2379
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/338/settings/event/20/thenStep/31/message"
 msgid "Lea wait!"
-msgstr ""
+msgstr "¡Lea espera!"
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/338/settings/event/20/thenStep/32/message #82
 #. EventTrigger DungeonEnd START IF party.has.Emilie
@@ -17364,7 +17388,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/338/settings/event/20/thenStep/32/message+%2382
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/338/settings/event/20/thenStep/32/message"
 msgid "Yes, Lea!\\. I get it!\\. You waited!\\. Mon Dieu!"
-msgstr ""
+msgstr "¡Sí, Lea!\\. ¡Lo entiendo!\\. ¡Has esperado!\\. ¡Mon Dieu!"
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/338/settings/event/20/thenStep/33/thenStep/0/message #937
 #. EventTrigger DungeonEnd START IF party.has.Emilie
@@ -17374,7 +17398,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/338/settings/event/20/thenStep/33/thenStep/0/message+%23937
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/338/settings/event/20/thenStep/33/thenStep/0/message"
 msgid "No wonder you did, with your weird \\c[1]damage thing\\c[0] or whatever.\\. Cheater."
-msgstr ""
+msgstr "No me extraña que lo hicieras, con tu extraña \\c[1]cosa de daño\\c[0] o lo que sea.\\. Tramposa."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/338/settings/event/20/thenStep/34/message #83
 #. EventTrigger DungeonEnd START IF party.has.Emilie
@@ -17383,7 +17407,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/338/settings/event/20/thenStep/34/message+%2383
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/338/settings/event/20/thenStep/34/message"
 msgid "Sorry~"
-msgstr ""
+msgstr "Lo siento~"
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/338/settings/event/20/thenStep/35/message #84
 #. EventTrigger DungeonEnd START IF party.has.Emilie
@@ -17392,7 +17416,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/338/settings/event/20/thenStep/35/message+%2384
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/338/settings/event/20/thenStep/35/message"
 msgid "To be fair, we didn't really wait that long. It was pretty close."
-msgstr ""
+msgstr "Para ser justos, no hemos esperado tanto. Estuvo bastante cerca."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/338/settings/event/20/thenStep/36/message #85
 #. EventTrigger DungeonEnd START IF party.has.Emilie
@@ -17401,7 +17425,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/338/settings/event/20/thenStep/36/message+%2385
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/338/settings/event/20/thenStep/36/message"
 msgid "Oui...\\. And this is not our last race!"
-msgstr ""
+msgstr "Oui...\\. ¡Y esta no es nuestra última carrera!"
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/338/settings/event/20/thenStep/37/message #80
 #. EventTrigger DungeonEnd START IF party.has.Emilie
@@ -17410,7 +17434,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/338/settings/event/20/thenStep/37/message+%2380
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/338/settings/event/20/thenStep/37/message"
 msgid "Anyway, let's just go to the space bird."
-msgstr ""
+msgstr "De todos modos, vayamos al pájaro espacial."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/338/settings/event/20/elseStep/9/message #86
 #. EventTrigger DungeonEnd START IF party.has.Emilie
@@ -17419,7 +17443,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/338/settings/event/20/elseStep/9/message+%2386
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/338/settings/event/20/elseStep/9/message"
 msgid "Oh, look!"
-msgstr ""
+msgstr "¡Oh, mira!"
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/338/settings/event/20/elseStep/10/message #98
 #. EventTrigger DungeonEnd START IF party.has.Emilie
@@ -17428,7 +17452,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/338/settings/event/20/elseStep/10/message+%2398
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/338/settings/event/20/elseStep/10/message"
 msgid "It's Lea who wanted to \"wait\" for us!"
-msgstr ""
+msgstr "¡Es Lea quien quería \"esperarnos\"!"
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/338/settings/event/20/elseStep/11/message #87
 #. EventTrigger DungeonEnd START IF party.has.Emilie
@@ -17446,7 +17470,7 @@ msgstr "..."
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/338/settings/event/20/elseStep/12/message+%2388
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/338/settings/event/20/elseStep/12/message"
 msgid "More like you made us wait, chérie!"
-msgstr ""
+msgstr "¡Más bien nos has hecho esperar, chérie!"
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/338/settings/event/20/elseStep/13/message #89
 #. EventTrigger DungeonEnd START IF party.has.Emilie
@@ -17464,7 +17488,7 @@ msgstr "..."
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/338/settings/event/20/elseStep/14/message+%2390
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/338/settings/event/20/elseStep/14/message"
 msgid "Well...\\. it was close.\\. So we didn't wait that long."
-msgstr ""
+msgstr "Bueno...\\. estuvo cerca.\\. Así que no esperamos tanto."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/338/settings/event/20/elseStep/15/message #91
 #. EventTrigger DungeonEnd START IF party.has.Emilie
@@ -17473,7 +17497,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/338/settings/event/20/elseStep/15/message+%2391
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/338/settings/event/20/elseStep/15/message"
 msgid "Hush!\\. Let me have this moment."
-msgstr ""
+msgstr "¡Silencio!\\. Déjame tener este momento."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/338/settings/event/20/elseStep/16/message #92
 #. EventTrigger DungeonEnd START IF party.has.Emilie
@@ -17482,7 +17506,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/338/settings/event/20/elseStep/16/message+%2392
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/338/settings/event/20/elseStep/16/message"
 msgid "I actually just came in second this time. Tronny was first."
-msgstr ""
+msgstr "En realidad, esta vez sólo quedé en segundo lugar. Tronny fue el primero."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/338/settings/event/20/elseStep/17/message #93
 #. EventTrigger DungeonEnd START IF party.has.Emilie
@@ -17500,7 +17524,7 @@ msgstr "¡...!"
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/338/settings/event/20/elseStep/18/message+%2394
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/338/settings/event/20/elseStep/18/message"
 msgid "Well...\\. I suppose water is sort of my element?"
-msgstr ""
+msgstr "Bueno...\\. Supongo que ¿el agua es mi elemento?"
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/338/settings/event/20/elseStep/19/message #95
 #. EventTrigger DungeonEnd START IF party.has.Emilie
@@ -17509,7 +17533,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/338/settings/event/20/elseStep/19/message+%2395
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/338/settings/event/20/elseStep/19/message"
 msgid "Oui, and you didn't even waste any second complaining about water pressure."
-msgstr ""
+msgstr "Oui, y no perdiste ni un segundo en quejarte de la presión del agua."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/338/settings/event/20/elseStep/20/message #96
 #. EventTrigger DungeonEnd START IF party.has.Emilie
@@ -17518,7 +17542,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/338/settings/event/20/elseStep/20/message+%2396
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/338/settings/event/20/elseStep/20/message"
 msgid "Well then, let's head to the Space Bird, d'accord?"
-msgstr ""
+msgstr "Bueno, entonces, vayamos al Pájaro Espacial, ¿d'accordo?"
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/338/settings/event/20/elseStep/21/message #97
 #. EventTrigger DungeonEnd START IF party.has.Emilie
@@ -17534,7 +17558,7 @@ msgstr "[asiente]"
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/347/settings/interact/hoverText+%23882
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/347/settings/interact/hoverText"
 msgid "The Flow of Water"
-msgstr ""
+msgstr "El Flujo del Agua"
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/347/settings/interact/event/0/text #883
 #. Prop SPAWN IF map.infoText >= 4
@@ -17542,7 +17566,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/347/settings/interact/event/0/text+%23883
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/347/settings/interact/event/0/text"
 msgid "As \\c[3]G'oni\\c[0] created oceans, lakes, and rivers spreading across the land, he was happy to see that plants flourished close to the water."
-msgstr ""
+msgstr "Cuando \\c[3]G'oni\\c[0] creó los océanos, lagos y ríos que se extendían por la tierra, se alegró de ver que las plantas florecían cerca del agua."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/347/settings/interact/event/1/text #896
 #. Prop SPAWN IF map.infoText >= 4
@@ -17550,7 +17574,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/347/settings/interact/event/1/text+%23896
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/347/settings/interact/event/1/text"
 msgid "However, he was constantly busy refilling the lakes on the land as the water kept flowing down the hills back into the ocean."
-msgstr ""
+msgstr "Sin embargo, estaba constantemente ocupado rellenando los lagos de la tierra, ya que el agua seguía bajando por las colinas de vuelta al océano."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/347/settings/interact/event/2/text #897
 #. Prop SPAWN IF map.infoText >= 4
@@ -17558,7 +17582,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/347/settings/interact/event/2/text+%23897
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/347/settings/interact/event/2/text"
 msgid "Then G'oni had an idea. He took the water from the oceans and moved it into clouds floating high in the sky."
-msgstr ""
+msgstr "Entonces G'oni tuvo una idea. Tomó el agua de los océanos y la trasladó a nubes que flotaban en lo alto del cielo."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/347/settings/interact/event/3/text #898
 #. Prop SPAWN IF map.infoText >= 4
@@ -17566,7 +17590,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/347/settings/interact/event/3/text+%23898
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/347/settings/interact/event/3/text"
 msgid "Then he asked \\c[3]K'win\\c[0], his twin-sister and creator of wind and thunder, to move the clouds back to the land."
-msgstr ""
+msgstr "Entonces le pidió a \\c[3]K'win\\c[0], su hermana gemela y creadora del viento y el trueno, que trasladara las nubes a la tierra."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/347/settings/interact/event/4/text #899
 #. Prop SPAWN IF map.infoText >= 4
@@ -17574,7 +17598,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/347/settings/interact/event/4/text+%23899
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/347/settings/interact/event/4/text"
 msgid "Once the clouds would reach the lakes, G'oni would let them rain down, refilling the lakes and making the water flow in circles."
-msgstr ""
+msgstr "Cuando las nubes llegaban a los lagos, G'oni dejaba que lloviera, llenando los lagos y haciendo que el agua fluyera cíclicamente."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/347/settings/interact/event/5/text #900
 #. Prop SPAWN IF map.infoText >= 4
@@ -17582,7 +17606,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/347/settings/interact/event/5/text+%23900
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/347/settings/interact/event/5/text"
 msgid "K'win, however, thought this flow was boring. So instead she decided to move the clouds all over the place and let them rain right over the land."
-msgstr ""
+msgstr "K'win, sin embargo, pensó que este flujo era aburrido. Así que decidió mover las nubes por todo el lugar y dejar que llovieran sobre la tierra."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/347/settings/interact/event/6/text #901
 #. Prop SPAWN IF map.infoText >= 4
@@ -17590,7 +17614,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/347/settings/interact/event/6/text+%23901
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/347/settings/interact/event/6/text"
 msgid "At first G'oni was furious watching the water being spread in this chaotic manner."
-msgstr ""
+msgstr "Al principio, G'oni se enfureció al ver cómo se esparcía el agua de esta manera tan caótica."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/347/settings/interact/event/7/text #902
 #. Prop SPAWN IF map.infoText >= 4
@@ -17598,7 +17622,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/347/settings/interact/event/7/text+%23902
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/347/settings/interact/event/7/text"
 msgid "However, he quickly noticed how rich plant life started to appear on every corner of the land, far beyond the edges of his lakes and rivers."
-msgstr ""
+msgstr "Sin embargo, no tardó en notar cómo empezaba a aparecer una rica vida vegetal en cada rincón de la tierra, mucho más allá de los bordes de sus lagos y ríos."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/347/settings/interact/event/8/text #903
 #. Prop SPAWN IF map.infoText >= 4
@@ -17606,14 +17630,14 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/347/settings/interact/event/8/text+%23903
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/347/settings/interact/event/8/text"
 msgid "As he saw the planet covered in trees and flowers, he quickly accepted the chaotic nature of rain falling wherever it pleases."
-msgstr ""
+msgstr "Al ver el planeta cubierto de árboles y flores, aceptó que la naturaleza caótica de la lluvia que cae donde quiere es lo mejor para todos."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/348/settings/interact/hoverText #880
 #. Prop SPAWN IF map.infoText >= 1
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/348/settings/interact/hoverText+%23880
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/348/settings/interact/hoverText"
 msgid "The creations of G'oni"
-msgstr ""
+msgstr "Las creaciones de G'oni"
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/348/settings/interact/event/0/text #881
 #. Prop SPAWN IF map.infoText >= 1
@@ -17621,7 +17645,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/348/settings/interact/event/0/text+%23881
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/348/settings/interact/event/0/text"
 msgid "\\c[3]G'oni\\c[0] is the creator of \\c[3]ever-flowing waters\\c[0]."
-msgstr ""
+msgstr "\\c[3]G'oni\\c[0] es el creador de las \\c[3]aguas siempre fluyentes\\c[0]."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/348/settings/interact/event/1/text #904
 #. Prop SPAWN IF map.infoText >= 1
@@ -17629,7 +17653,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/348/settings/interact/event/1/text+%23904
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/348/settings/interact/event/1/text"
 msgid "He blessed our planet with vast oceans, strong currents, calm lakes, and long rivers stretching over every corner of this land."
-msgstr ""
+msgstr "Bendijo nuestro planeta con vastos océanos, fuertes corrientes, lagos tranquilos y largos ríos que se extienden por todos los rincones de esta tierra."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/348/settings/interact/event/2/text #905
 #. Prop SPAWN IF map.infoText >= 1
@@ -17637,14 +17661,14 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/348/settings/interact/event/2/text+%23905
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/348/settings/interact/event/2/text"
 msgid "His creations also gave birth to an endless variety of plants, painting our lands in beautiful colors."
-msgstr ""
+msgstr "Sus creaciones también dieron lugar a una interminable variedad de plantas, pintando nuestras tierras de hermosos colores."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/349/settings/interact/hoverText #884
 #. Prop SPAWN IF map.infoText >= 2
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/349/settings/interact/hoverText+%23884
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/349/settings/interact/hoverText"
 msgid "Birth of G'oni"
-msgstr ""
+msgstr "Nacimiento de G'oni"
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/349/settings/interact/event/0/text #885
 #. Prop SPAWN IF map.infoText >= 2
@@ -17652,7 +17676,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/349/settings/interact/event/0/text+%23885
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/349/settings/interact/event/0/text"
 msgid "It all started when \\c[3]Di'orbis\\c[0], the ethereal god of creation, was born into the emptiness of the void."
-msgstr ""
+msgstr "Todo comenzó cuando \\c[3]Di'orbis\\c[0], el dios etéreo de la creación, nació en el vacío de la nada."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/349/settings/interact/event/1/text #906
 #. Prop SPAWN IF map.infoText >= 2
@@ -17660,7 +17684,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/349/settings/interact/event/1/text+%23906
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/349/settings/interact/event/1/text"
 msgid "After pondering for eons in solitude, his desire for company gave birth to the \\c[3]Gods of Shape\\c[0]."
-msgstr ""
+msgstr "Tras reflexionar durante eones en soledad, su deseo de compañía dio origen a los \\c[3]Dioses de la Forma\\c[0]."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/349/settings/interact/event/2/text #907
 #. Prop SPAWN IF map.infoText >= 2
@@ -17668,14 +17692,14 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/349/settings/interact/event/2/text+%23907
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/349/settings/interact/event/2/text"
 msgid "\\c[3]G'oni\\c[0] is one of these gods. Born a twin to \\c[3]K'win\\c[0], he is the God of the \\c[3]Hexagon\\c[0] and the creator of \\c[3]ever-flowing waters\\c[0]."
-msgstr ""
+msgstr "\\c[3]G'oni\\c[0] es uno de estos dioses. Nacido como gemelo de \\c[3]K'win\\c[0], es el Dios del \\c[3]Hexágono\\c[0] y el creador de \\c[3]las aguas eternas\\c[0]."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/350/settings/interact/hoverText #886
 #. Prop SPAWN IF map.infoText >= 3
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/350/settings/interact/hoverText+%23886
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/350/settings/interact/hoverText"
 msgid "The Message of the Sky"
-msgstr ""
+msgstr "El Mensaje del Cielo"
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/350/settings/interact/event/0/text #887
 #. Prop SPAWN IF map.infoText >= 3
@@ -17683,7 +17707,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/350/settings/interact/event/0/text+%23887
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/350/settings/interact/event/0/text"
 msgid "When \\c[3]Di'aro\\c[0] and \\c[3]Di'orbis\\c[0] witnessed the advancements of our kind, they decided to send the \\c[3]Message of the Sky\\c[0] wrapped in an \\c[3]Envelope of solid rock and ice\\c[0]."
-msgstr ""
+msgstr "Cuando \\c[3]Di'aro\\c[0] y \\c[3]Di'orbis\\c[0] observaron los avances de nuestra especie, decidieron enviar el \\c[3]Mensaje del Cielo\\c[0] envuelto en un \\c[3]Sobre de roca sólida y hielo\\c[0]."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/350/settings/interact/event/1/text #908
 #. Prop SPAWN IF map.infoText >= 3
@@ -17691,7 +17715,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/350/settings/interact/event/1/text+%23908
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/350/settings/interact/event/1/text"
 msgid "However, Di'aro was concerned. His envelope was massive in size and it could lead to great disaster, if it landed in the wrong spot."
-msgstr ""
+msgstr "Sin embargo, Di'aro estaba preocupado. Su sobre era de un gran tamaño y podía provocar un gran desastre, si caía en el lugar equivocado."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/350/settings/interact/event/2/text #909
 #. Prop SPAWN IF map.infoText >= 3
@@ -17699,7 +17723,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/350/settings/interact/event/2/text+%23909
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/350/settings/interact/event/2/text"
 msgid "Fortunately, \\c[3]G'oni\\c[0], being quiet and observative, detected the \\c[3]signal\\c[0] from our kind and determined the exact position where we expected the message to arrive.\n"
-msgstr ""
+msgstr "Afortunadamente, \\c[3]G'oni\\c[0], al ser silencioso y observador, detectó la \\c[3]señal\\c[0] de nuestra clase y determinó la posición exacta donde esperábamos que llegara el mensaje.\n"
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/350/settings/interact/event/3/text #910
 #. Prop SPAWN IF map.infoText >= 3
@@ -17707,7 +17731,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/350/settings/interact/event/3/text+%23910
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/350/settings/interact/event/3/text"
 msgid "He told the other gods and together they aimed the envelope in the right direction so that our kind could receive it properly."
-msgstr ""
+msgstr "Se lo dijo a los otros dioses y juntos apuntaron el sobre en la dirección correcta para que nuestra especie pudiera recibirlo adecuadamente."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/352/settings/event/27/message #25
 #. EventTrigger PostExpoScene START IF plot.waveLine >= 700
@@ -17715,7 +17739,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/352/settings/event/27/message+%2325
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/352/settings/event/27/message"
 msgid "And done!"
-msgstr ""
+msgstr "¡Y listo!"
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/352/settings/event/28/thenStep/0/message #890
 #. EventTrigger PostExpoScene START IF plot.waveLine >= 700
@@ -17724,7 +17748,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/352/settings/event/28/thenStep/0/message+%23890
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/352/settings/event/28/thenStep/0/message"
 msgid "One dungeon completed, two to go!"
-msgstr ""
+msgstr "Una mazmorra completada, ¡faltan dos!"
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/352/settings/event/28/elseStep/0/message #888
 #. EventTrigger PostExpoScene START IF plot.waveLine >= 700
@@ -17733,7 +17757,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/352/settings/event/28/elseStep/0/message+%23888
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/352/settings/event/28/elseStep/0/message"
 msgid "So that means we're finally ready for that Grand-something dungeon, right?"
-msgstr ""
+msgstr "Eso significa que por fin estamos listos para la mazmorra de Grand-esa cosa, ¿verdad?"
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/352/settings/event/28/elseStep/1/task #895
 #. EventTrigger PostExpoScene START IF plot.waveLine >= 700
@@ -17742,7 +17766,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/352/settings/event/28/elseStep/1/task+%23895
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/352/settings/event/28/elseStep/1/task"
 msgid "You are ready to enter the \\c[3]Grand Krys'kajo\\c[0] now!"
-msgstr ""
+msgstr "¡Ahora estamos listos para entrar en el \\c[3]Gran Krys'kajo\\c[0]!"
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/352/settings/event/29/message #891
 #. EventTrigger PostExpoScene START IF plot.waveLine >= 700
@@ -17758,7 +17782,7 @@ msgstr "[asiente]"
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/352/settings/event/30/message+%23892
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/352/settings/event/30/message"
 msgid "Well then...\\. let's go!"
-msgstr ""
+msgstr "Bueno...\\. ¡Vamos!"
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/352/settings/event/31/message #180
 #. EventTrigger PostExpoScene START IF plot.waveLine >= 700
@@ -17766,7 +17790,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/352/settings/event/31/message+%23180
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/352/settings/event/31/message"
 msgid "Honestly don't feel like staying here too long."
-msgstr ""
+msgstr "Sinceramente, no tengo ganas de quedarme aquí mucho tiempo."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/352/settings/event/32/message #893
 #. EventTrigger PostExpoScene START IF plot.waveLine >= 700
@@ -17774,7 +17798,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/352/settings/event/32/message+%23893
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/352/settings/event/32/message"
 msgid "Yeah, the constant rain isn't all that comfortable, is it?"
-msgstr ""
+msgstr "Sí, la lluvia constante no es tan cómoda, ¿verdad?"
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/352/settings/event/33/message #27
 #. EventTrigger PostExpoScene START IF plot.waveLine >= 700
@@ -17789,7 +17813,7 @@ msgstr "..."
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/353/settings/teleportLabel+%23185
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/353/settings/teleportLabel"
 msgid "Back to \\c[3]Rite of Passage\\c[0]"
-msgstr ""
+msgstr "Volver al \\c[3]Rito de paso\\c[0]"
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/357/settings/dialog/0/text #915
 #. XenoDialog heightTalk SPAWN IF npc.heightChan == 42 || npc.heightChan == 46
@@ -17797,7 +17821,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/357/settings/dialog/0/text+%23915
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/357/settings/dialog/0/text"
 msgid "We did it! Another dungeon finished!"
-msgstr ""
+msgstr "¡Lo hemos conseguido! ¡Otra mazmorra terminada!"
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/357/settings/dialog/1/text #913
 #. XenoDialog heightTalk SPAWN IF npc.heightChan == 42 || npc.heightChan == 46
@@ -17805,7 +17829,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/357/settings/dialog/1/text+%23913
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/357/settings/dialog/1/text"
 msgid "Yep, underwater dungeon crawling. Pretty neat."
-msgstr ""
+msgstr "Sí, una mazmorra subacuática. Fue bastante bueno."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/357/settings/dialog/2/text #916
 #. XenoDialog heightTalk SPAWN IF npc.heightChan == 42 || npc.heightChan == 46
@@ -17813,7 +17837,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/357/settings/dialog/2/text+%23916
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/357/settings/dialog/2/text"
 msgid "In fact, I think this was my favorite dungeon so far!"
-msgstr ""
+msgstr "De hecho, ¡creo que esta ha sido mi mazmorra favorita hasta ahora!"
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/357/settings/dialog/3/text #917
 #. XenoDialog heightTalk SPAWN IF npc.heightChan == 42 || npc.heightChan == 46
@@ -17821,7 +17845,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/357/settings/dialog/3/text+%23917
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/357/settings/dialog/3/text"
 msgid "Everything on one floor, no chasms to fall into, perfect!"
-msgstr ""
+msgstr "Todo en una sola planta, sin abismos en los que caer, ¡perfecto!"
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/357/settings/dialog/4/text #918
 #. XenoDialog heightTalk SPAWN IF npc.heightChan == 42 || npc.heightChan == 46
@@ -17829,7 +17853,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/357/settings/dialog/4/text+%23918
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/357/settings/dialog/4/text"
 msgid "Heh."
-msgstr ""
+msgstr "Heh."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/357/settings/dialog/5/text #919
 #. XenoDialog heightTalk SPAWN IF npc.heightChan == 42 || npc.heightChan == 46
@@ -17837,7 +17861,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/357/settings/dialog/5/text+%23919
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/357/settings/dialog/5/text"
 msgid "With the exception of those teleporters that send you straight through the ground."
-msgstr ""
+msgstr "A excepción de esos teletransportadores que te envían directamente al suelo."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/357/settings/dialog/6/text #920
 #. XenoDialog heightTalk SPAWN IF npc.heightChan == 42 || npc.heightChan == 46
@@ -17845,7 +17869,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/357/settings/dialog/6/text+%23920
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/357/settings/dialog/6/text"
 msgid "I hate those."
-msgstr ""
+msgstr "Los detesto."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/366/settings/dialog/0/text #921
 #. XenoDialog runnerWatchTalk
@@ -17877,7 +17901,7 @@ msgstr "Algunas personas tienen demasiada energía."
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/369/settings/dialog/0/text+%23924
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/369/settings/dialog/0/text"
 msgid "Can we leave already? The rain is getting on my nerves."
-msgstr ""
+msgstr "¿Podemos irnos ya? La lluvia me pone de los nervios."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/369/settings/dialog/1/text #925
 #. XenoDialog waterTalk
@@ -17885,7 +17909,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/369/settings/dialog/1/text+%23925
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/369/settings/dialog/1/text"
 msgid "I swear I saw something over there in the lake!"
-msgstr ""
+msgstr "¡Juro que he visto algo en el lago!"
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/369/settings/dialog/2/text #926
 #. XenoDialog waterTalk
@@ -17893,7 +17917,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/369/settings/dialog/2/text+%23926
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/369/settings/dialog/2/text"
 msgid "If you want to watch more sea creatures you can just head straight back into this temple!"
-msgstr ""
+msgstr "¡Si quieres ver más criaturas marinas, puedes volver a entrar al templo!"
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/370/settings/npcStates/0/event/5/message #927
 #. NPC
@@ -17909,7 +17933,7 @@ msgstr "¡Hola!"
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/370/settings/npcStates/0/event/6/message+%23928
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/370/settings/npcStates/0/event/6/message"
 msgid "The rain falls..."
-msgstr ""
+msgstr "La lluvia cae..."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/370/settings/npcStates/0/event/7/message #929
 #. NPC
@@ -17917,7 +17941,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/370/settings/npcStates/0/event/7/message+%23929
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/370/settings/npcStates/0/event/7/message"
 msgid "Dripping, flowing..."
-msgstr ""
+msgstr "Goteando, fluyendo..."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/370/settings/npcStates/0/event/8/message #930
 #. NPC
@@ -17925,7 +17949,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/370/settings/npcStates/0/event/8/message+%23930
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/370/settings/npcStates/0/event/8/message"
 msgid "Cleansing body and soul..."
-msgstr ""
+msgstr "Limpian el cuerpo y el alma..."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/370/settings/npcStates/0/event/9/message #931
 #. NPC
@@ -17941,7 +17965,7 @@ msgstr "[asiente]"
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/373/settings/dialog/0/text+%23932
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/373/settings/dialog/0/text"
 msgid "So why are we standing here again?"
-msgstr ""
+msgstr "Entonces, ¿por qué estamos aquí de nuevo?"
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/373/settings/dialog/1/text #933
 #. XenoDialog waitingTalk
@@ -17949,7 +17973,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/373/settings/dialog/1/text+%23933
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/373/settings/dialog/1/text"
 msgid "Waiting for our last party member."
-msgstr ""
+msgstr "Estamos esperando a nuestro último miembro del grupo."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/373/settings/dialog/2/text #934
 #. XenoDialog waitingTalk
@@ -17957,7 +17981,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/373/settings/dialog/2/text+%23934
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/373/settings/dialog/2/text"
 msgid "Can't we just wait at the crossing?"
-msgstr ""
+msgstr "¿No podemos esperar en el cruce?"
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/373/settings/dialog/3/text #935
 #. XenoDialog waitingTalk
@@ -17965,7 +17989,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/373/settings/dialog/3/text+%23935
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/373/settings/dialog/3/text"
 msgid "We agreed on meeting here..."
-msgstr ""
+msgstr "Acordamos reunirnos aquí..."
 
 #. data/maps/jungle/dng/wave-exterior-end.json entities/373/settings/dialog/4/text #936
 #. XenoDialog waitingTalk
@@ -17973,7 +17997,7 @@ msgstr ""
 #: data/maps/jungle/dng/wave-exterior-end.json+entities/373/settings/dialog/4/text+%23936
 msgctxt "data/maps/jungle/dng/wave-exterior-end.json//entities/373/settings/dialog/4/text"
 msgid "Yes, but back then we didn't know it would be raining non-stop."
-msgstr ""
+msgstr "Sí, pero no sabíamos que iba a llover sin parar."
 
 #. data/maps/jungle/dng/wave-exterior.json entities/398/settings/blockEvent/0/thenStep/3/message #3
 #. Door entrance
