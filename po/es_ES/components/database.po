@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-09-06 04:07+0000\n"
+"PO-Revision-Date: 2022-09-07 06:41+0000\n"
 "Last-Translator: Kevin Junior Neciosup Galeano <kjneciosup1@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/database/es/>\n"
 "Language: es_ES\n"
@@ -1768,7 +1768,7 @@ msgstr "\\c[3]Encuentra todos los Puntos de Referencia\\c[0] en el Sendero de Be
 #: data/database.json+achievements/landmarks-maroon/name+%2313484
 msgctxt "data/database.json//achievements/landmarks-maroon/name"
 msgid "Maroon Landmarks"
-msgstr "Referencias de Maroon"
+msgstr "Referencias Granate"
 
 #. data/database.json achievements/landmarks-maroon/description #13485
 #: data/database.json+achievements/landmarks-maroon/description+%2313485
@@ -1888,7 +1888,7 @@ msgstr "\\c[3]Encuentra y abre todos los Cofres\\c[0] en \\v[area.bergen-trails.
 #: data/database.json+achievements/chests-maroon/name+%2313368
 msgctxt "data/database.json//achievements/chests-maroon/name"
 msgid "Maroon Scavenger"
-msgstr "Carroñero de Maroon"
+msgstr "Carroñero Granate"
 
 #. data/database.json achievements/chests-maroon/description #13369
 #: data/database.json+achievements/chests-maroon/description+%2313369
@@ -2107,9 +2107,10 @@ msgstr "\\c[3]Termina todas las misiones \\c[0]para la Alianza de Riesgo [o sub 
 #. data/database.json achievements/quest-factions-VA-maroon/name #13386
 #. IF quest.ENTER_QUEST_NAME.solved
 #: data/database.json+achievements/quest-factions-VA-maroon/name+%2313386
+#, fuzzy
 msgctxt "data/database.json//achievements/quest-factions-VA-maroon/name"
 msgid "VA MAROON"
-msgstr "Alianza de Riesgo: Maroon"
+msgstr "Alianza de Riesgo: Granate"
 
 #. data/database.json achievements/quest-factions-VA-maroon/description #13387
 #. IF quest.ENTER_QUEST_NAME.solved
@@ -2123,7 +2124,7 @@ msgstr "\\c[3]Termina todas las misiones \\c[0]para la Alianza de Riesgo [o sub 
 #: data/database.json+achievements/quest-factions-VA-jungle/name+%2313320
 msgctxt "data/database.json//achievements/quest-factions-VA-jungle/name"
 msgid "VA MAROON"
-msgstr "Alianza de Riesgo: Maroon"
+msgstr "Alianza de Riesgo: Granate"
 
 #. data/database.json achievements/quest-factions-VA-jungle/description #13389
 #. IF quest.ENTER_QUEST_NAME.solved
@@ -2165,7 +2166,7 @@ msgstr "\\c[3]Termina todas las misiones \\c[0]para la HPD [o sub nombre] en \\v
 #: data/database.json+achievements/quest-factions-HPD-maroon/name+%2313394
 msgctxt "data/database.json//achievements/quest-factions-HPD-maroon/name"
 msgid "HPD MAROON"
-msgstr "HPD MAROON"
+msgstr "HPD GRANATE"
 
 #. data/database.json achievements/quest-factions-HPD-maroon/description #13395
 #. IF quest.ENTER_QUEST_NAME.solved
@@ -2221,7 +2222,7 @@ msgstr "\\c[3]Termina todas las misiones \\c[0]para la AHA [o sub nombre] en \\v
 #: data/database.json+achievements/quest-factions-AHA-maroon/name+%2313402
 msgctxt "data/database.json//achievements/quest-factions-AHA-maroon/name"
 msgid "AHA MAROON"
-msgstr "AHA MAROON"
+msgstr "AHA GRANATE"
 
 #. data/database.json achievements/quest-factions-AHA-maroon/description #13403
 #. IF quest.ENTER_QUEST_NAME.solved
@@ -2277,7 +2278,7 @@ msgstr "\\c[3]Termina todas las misiones \\c[0]para la AOB [o sub nombre] en \\v
 #: data/database.json+achievements/quest-factions-AOB-maroon/name+%2313410
 msgctxt "data/database.json//achievements/quest-factions-AOB-maroon/name"
 msgid "AOB MAROON"
-msgstr "AOB MAROON"
+msgstr "AOB GRANATE"
 
 #. data/database.json achievements/quest-factions-AOB-maroon/description #13411
 #. IF quest.ENTER_QUEST_NAME.solved
@@ -7997,7 +7998,7 @@ msgstr "¡¡...!!"
 #: data/database.json+commonEvents/cooldown-S/event/0/2_0/0/0_1/0/message+%2315838
 msgctxt "data/database.json//commonEvents/cooldown-S/event/0/2_0/0/0_1/0/message"
 msgid "I see you're pushing your Spheromancer skills to the limit!"
-msgstr "Ya veo, ¡estas llevando las habilidades de Spheromancer al límite!"
+msgstr "Ya veo, ¡estas llevando las habilidades de un Spheromancer al límite!"
 
 #. data/database.json commonEvents/cooldown-S/event/0/2_0/0/0_2/0/message #15839
 #. SELECT_RANDOM
@@ -8024,7 +8025,7 @@ msgstr "Dios, que masacre."
 #: data/database.json+commonEvents/cooldown-S/event/0/3_0/0/0_1/0/message+%2315841
 msgctxt "data/database.json//commonEvents/cooldown-S/event/0/3_0/0/0_1/0/message"
 msgid "I didn't expect to be playing with such a fierce little devil."
-msgstr "No esperaba estar jugando un este bravo diablillo."
+msgstr "No esperaba jugar con una diablilla tan feroz."
 
 #. data/database.json commonEvents/cooldown-S/event/0/3_0/0/0_1/1/message #15842
 #. SELECT_RANDOM
@@ -8192,7 +8193,7 @@ msgstr "Uhm... ¿no quieres tomar un descanso?"
 #: data/database.json+commonEvents/cooldown-A/event/0/2_0/0/message+%2315844
 msgctxt "data/database.json//commonEvents/cooldown-A/event/0/2_0/0/message"
 msgid "You seem to be in the flow of the Trail, Spheromancer Lea!"
-msgstr "¡Pareces ser una con el Camino, Spheromancer Lea!"
+msgstr "¡Pareces ser una con la Pista, Spheromancer Lea!"
 
 #. data/database.json commonEvents/cooldown-A/event/0/3_0/0/message #15845
 #. SELECT_RANDOM
@@ -11291,7 +11292,6 @@ msgstr "Presiona \\i[help2] para \\c[3]marcar\\c[0] una misión como favorita. �
 #. IF gamepad.active
 #. SHOW_TUTORIAL_MSG
 #: data/database.json+commonEvents/tutorial-quests/event/1/acceptStep/30/thenStep/0/text+%2316377
-#, fuzzy
 msgctxt "data/database.json//commonEvents/tutorial-quests/event/1/acceptStep/30/thenStep/0/text"
 msgid "You can cycle through the tasks of marked quests outside the menu by \\c[3]pressing\\c[0] \\i[left-stick] and \\i[right-stick]."
 msgstr "Puedes revisar las tareas de las misiones marcadas fuera del menú \\c[3]presionando\\c[0] \\i[left-stick] y \\i[right-stick]."
@@ -11301,7 +11301,6 @@ msgstr "Puedes revisar las tareas de las misiones marcadas fuera del menú \\c[3
 #. IF NOT gamepad.active
 #. SHOW_TUTORIAL_MSG
 #: data/database.json+commonEvents/tutorial-quests/event/1/acceptStep/30/elseStep/0/text+%2316378
-#, fuzzy
 msgctxt "data/database.json//commonEvents/tutorial-quests/event/1/acceptStep/30/elseStep/0/text"
 msgid "You can cycle through the tasks of marked quests outside the menu with \\i[circle-left] and \\i[circle-right]."
 msgstr "Puedes revisar las tareas de las misiones marcadas fuera del menú \\c[3]presionando\\c[0] \\i[circle-left] y \\i[circle-right]."
@@ -11841,10 +11840,9 @@ msgstr "Tengo nuevo equipamiento, ¡whopp whoop!"
 #. SELECT_RANDOM
 #. SHOW_SIDE_MSG main.shizuka @DENYING
 #: data/database.json+commonEvents/shizuka-dies/event/0/0_0/0/message+%2318508
-#, fuzzy
 msgctxt "data/database.json//commonEvents/shizuka-dies/event/0/0_0/0/message"
 msgid "Damn input lag..."
-msgstr "Ah, tengo lag..."
+msgstr "Demonios, tengo lag..."
 
 #. data/database.json commonEvents/shizuka-dies/event/0/0_1/0/message #18506
 #. SELECT_RANDOM
@@ -11929,7 +11927,6 @@ msgstr "Dreck, creo que no debí meterme de lleno."
 #. SELECT_RANDOM
 #. SHOW_SIDE_MSG main.schneider @EYES_CLOSED
 #: data/database.json+commonEvents/schneider-dies/event/0/1_0/0/message+%2318516
-#, fuzzy
 msgctxt "data/database.json//commonEvents/schneider-dies/event/0/1_0/0/message"
 msgid "Well, this is not exactly build according to safety regulations."
 msgstr "Bueno, esto no es exactamente jugar de forma segura."
@@ -15604,7 +15601,6 @@ msgstr "¡Hola!"
 #. IF plot.line >= 48000
 #. SHOW_MSG antagonists.fancyguy @DEFAULT
 #: data/database.json+commonEvents/apollo-contact/event/5/thenStep/1/message+%2317462
-#, fuzzy
 msgctxt "data/database.json//commonEvents/apollo-contact/event/5/thenStep/1/message"
 msgid "Spheromancer Lea!"
 msgstr "¡Spheromancer Lea!"
@@ -17075,7 +17071,6 @@ msgstr "¿...?"
 #. IF plot.line >= 48000
 #. SHOW_MSG main.schneider @SKEPTICAL
 #: data/database.json+commonEvents/schneider-contact/event/7/thenStep/6/message+%2317504
-#, fuzzy
 msgctxt "data/database.json//commonEvents/schneider-contact/event/7/thenStep/6/message"
 msgid "Kinda cheating, isn't it?"
 msgstr "Es como un poco de trampa, ¿no?"
@@ -17984,10 +17979,9 @@ msgstr "¡Hola, Lea!\\. ¿Cómo estás?"
 #. IF plot.line >= 48000
 #. SHOW_MSG main.shizuka @BRIGHT
 #: data/database.json+commonEvents/shizuka-contact/event/6/thenStep/2/message+%2317533
-#, fuzzy
 msgctxt "data/database.json//commonEvents/shizuka-contact/event/6/thenStep/2/message"
 msgid "I'm currently having a calm moment at my favorite place in the Playground."
-msgstr "Actualmente estoy teniendo un momento de calma en mi lugar favorito en el Jardín."
+msgstr "Actualmente estoy teniendo un momento de calma en mi lugar favorito en el Campo de Juego."
 
 #. data/database.json commonEvents/shizuka-contact/event/6/thenStep/3/message #17534
 #. IF plot.line >= 48000
@@ -18114,7 +18108,6 @@ msgstr "¡Hola Lea! ¡Estoy esperando frente al edificio de Satoshi!"
 #. IF plot.line >= 46000
 #. SHOW_MSG main.shizuka @SMILE
 #: data/database.json+commonEvents/shizuka-contact/event/9/thenStep/2/message+%2317549
-#, fuzzy
 msgctxt "data/database.json//commonEvents/shizuka-contact/event/9/thenStep/2/message"
 msgid "Let's see what brother's up to."
 msgstr "Vamos a ver qué está haciendo nuestro hermano."
@@ -25504,12 +25497,13 @@ msgstr "Guerrero de la Justicia"
 
 #. data/database.json enemies/avatar.apollo-4/descriptions/0/text #-6
 #: data/database.json+enemies/avatar.apollo-4/descriptions/0/text+%23-6
-#, fuzzy
 msgctxt "data/database.json//enemies/avatar.apollo-4/descriptions/0/text"
 msgid ""
 "The \\c[3]Warrior of Justice\\c[0] demands one last duel to decide who is the truest of the true Spheromancers!\n"
 "This time he will do his title justice by unleashing the full arsenal of his abilities. Combat Arts of all 3 levels and 4 elements await you!"
-msgstr "¡Mira quién ha vuelto! Apollo quiere terminar las cosas y está listo para usar tanto el Elemento de Fuego como el de Hielo contra tí para demostrar el \"verdadero potencial\" de un Buscador. Al igual que tú, puede usar Artes de Combate de Nivel 2 que pueden hacer bastante daño y romper tu guardia si no tienes cuidado."
+msgstr ""
+"¡El \\c[3]Guerrero de la Justicia\\c[0] exige un último duelo para decidir quién es el Spheromancer definitivo!\n"
+"Esta vez hará justicia a su título desatando toda sus habilidades. ¡Te esperan artes de combate de los 3 niveles y usando los 4 elementos!"
 
 #. data/database.json enemies/jungle.special.guard/name #9601
 #: data/database.json+enemies/jungle.special.guard/name+%239601
@@ -25611,10 +25605,9 @@ msgstr "Guerrero de la Justicia"
 
 #. data/database.json enemies/avatar.lily/descriptions/0/text #-6
 #: data/database.json+enemies/avatar.lily/descriptions/0/text+%23-6
-#, fuzzy
 msgctxt "data/database.json//enemies/avatar.lily/descriptions/0/text"
 msgid "A hexacast player from a new guild called the \\c[3]Star Chasers\\c[0]. She is quite curious of her new surroundings (and new leader after their previous one was permabanned). While her sweet demeanor is disarming, she fights with the grace of a breeze and as fierce as the tempest!"
-msgstr "¡Mira quién ha vuelto! Apollo quiere terminar las cosas y está listo para usar tanto el Elemento de Fuego como el de Hielo contra tí para demostrar el \"verdadero potencial\" de un Buscador. Al igual que tú, puede usar Artes de Combate de Nivel 2 que pueden hacer bastante daño y romper tu guardia si no tienes cuidado."
+msgstr "Un hexacast de un nuevo gremio llamado \\c[3]Star Chasers\\c[0]. Tiene bastante curiosidad por su nuevo entorno (y por su nuevo líder después de que fuera baneado). ¡Mientras que su dulce comportamiento es encantador, lucha con la gracia de una brisa y tan feroz como la tempestad!"
 
 #. data/database.json enemies/final.gynthar/name #16917
 #: data/database.json+enemies/final.gynthar/name+%2316917
@@ -26458,7 +26451,7 @@ msgstr ""
 #: data/database.json+enemies/cold.goat-father-2/name+%2318448
 msgctxt "data/database.json//enemies/cold.goat-father-2/name"
 msgid "The Goatfather"
-msgstr ""
+msgstr "El Padre Cabra"
 
 #. data/database.json enemies/cold.goat-father-2/species #-4
 #: data/database.json+enemies/cold.goat-father-2/species+%23-4
@@ -26573,7 +26566,7 @@ msgstr ""
 #: data/database.json+enemies/heat.scorpion/name+%234062
 msgctxt "data/database.json//enemies/heat.scorpion/name"
 msgid "Pinceron"
-msgstr ""
+msgstr "Pinceron"
 
 #. data/database.json enemies/heat.scorpion/species #-4
 #: data/database.json+enemies/heat.scorpion/species+%23-4
@@ -26595,7 +26588,7 @@ msgstr ""
 #: data/database.json+enemies/heat.scorpion-alt/name+%234652
 msgctxt "data/database.json//enemies/heat.scorpion-alt/name"
 msgid "Boss Pincer"
-msgstr ""
+msgstr "Jefe Pinceron"
 
 #. data/database.json enemies/heat.scorpion-alt/species #-4
 #: data/database.json+enemies/heat.scorpion-alt/species+%23-4
@@ -26613,7 +26606,7 @@ msgstr "Cuando un \\v[combat.name.heat/scorpion] envejece adquiere el rango de \
 #: data/database.json+enemies/heat.scorpion-robo/name+%2316579
 msgctxt "data/database.json//enemies/heat.scorpion-robo/name"
 msgid "Pincetron"
-msgstr ""
+msgstr "Pincetron"
 
 #. data/database.json enemies/heat.scorpion-robo/species #-4
 #: data/database.json+enemies/heat.scorpion-robo/species+%23-4
@@ -26737,7 +26730,7 @@ msgstr ""
 #: data/database.json+enemies/heat.sandworm/name+%234061
 msgctxt "data/database.json//enemies/heat.sandworm/name"
 msgid "Tim"
-msgstr ""
+msgstr "Tim"
 
 #. data/database.json enemies/heat.sandworm/species #-4
 #: data/database.json+enemies/heat.sandworm/species+%23-4
@@ -26766,7 +26759,7 @@ msgstr "Según una idea de C'tron, los gusanos poseen 5 corazones. Es un misteri
 #: data/database.json+enemies/heat.sandworm-boss/name+%2311540
 msgctxt "data/database.json//enemies/heat.sandworm-boss/name"
 msgid "Ti'im"
-msgstr ""
+msgstr "Ti'im"
 
 #. data/database.json enemies/heat.sandworm-boss/species #-4
 #: data/database.json+enemies/heat.sandworm-boss/species+%23-4
@@ -26900,7 +26893,7 @@ msgstr ""
 #: data/database.json+enemies/heat.antlion/name+%234578
 msgctxt "data/database.json//enemies/heat.antlion/name"
 msgid "Pinzo'jrahrrrn"
-msgstr ""
+msgstr "Pinzo'jrahrrrn"
 
 #. data/database.json enemies/heat.antlion/species #-4
 #: data/database.json+enemies/heat.antlion/species+%23-4
@@ -27304,7 +27297,7 @@ msgstr "Este pez es capaz de sumergirse en cualquier superficie pasando a una di
 #: data/database.json+enemies/jungle.ape-boss/name+%2310139
 msgctxt "data/database.json//enemies/jungle.ape-boss/name"
 msgid "Son of the East"
-msgstr ""
+msgstr "Hijo del Este"
 
 #. data/database.json enemies/jungle.ape-boss/species #-4
 #: data/database.json+enemies/jungle.ape-boss/species+%23-4
@@ -27322,7 +27315,7 @@ msgstr "Nacido en la cima de una montaña de una piedra mágica, este simio sabi
 #: data/database.json+enemies/beach.ape-beach/name+%2318360
 msgctxt "data/database.json//enemies/beach.ape-beach/name"
 msgid "Son of the Beach"
-msgstr ""
+msgstr "Hijo de la Playa"
 
 #. data/database.json enemies/beach.ape-beach/species #-4
 #: data/database.json+enemies/beach.ape-beach/species+%23-4
@@ -27344,7 +27337,7 @@ msgstr ""
 #: data/database.json+enemies/jungle.whale-boss/name+%2310550
 msgctxt "data/database.json//enemies/jungle.whale-boss/name"
 msgid "Ancient Guardian"
-msgstr ""
+msgstr "Guardián Antiguo"
 
 #. data/database.json enemies/jungle.whale-boss/species #-4
 #: data/database.json+enemies/jungle.whale-boss/species+%23-4
@@ -27362,7 +27355,7 @@ msgstr "Iluminada y distante, esta sabia ballena es la verdadera guardiana del \
 #: data/database.json+enemies/forest.bug-samurai-heat/name+%2313524
 msgctxt "data/database.json//enemies/forest.bug-samurai-heat/name"
 msgid "Sun Beetle"
-msgstr ""
+msgstr "Escarabajo Solar"
 
 #. data/database.json enemies/forest.bug-samurai-heat/species #-4
 #: data/database.json+enemies/forest.bug-samurai-heat/species+%23-4
@@ -27386,7 +27379,7 @@ msgstr "Sus armas preferidas son espadas dobles conocidas como \"Hojas Solares\"
 #: data/database.json+enemies/forest.bug-samurai-shock/name+%2313525
 msgctxt "data/database.json//enemies/forest.bug-samurai-shock/name"
 msgid "Moon Beetle"
-msgstr ""
+msgstr "Escarabajo Lunar"
 
 #. data/database.json enemies/forest.bug-samurai-shock/species #-4
 #: data/database.json+enemies/forest.bug-samurai-shock/species+%23-4
@@ -27410,7 +27403,7 @@ msgstr "Sus armas preferidas son espadas dobles conocidas como \"Hoja Lunar\". C
 #: data/database.json+enemies/forest.samurai-boss/name+%2314044
 msgctxt "data/database.json//enemies/forest.samurai-boss/name"
 msgid "Twilight Master"
-msgstr ""
+msgstr "Maestro Crepuscular"
 
 #. data/database.json enemies/forest.samurai-boss/species #-4
 #: data/database.json+enemies/forest.samurai-boss/species+%23-4
@@ -27660,7 +27653,7 @@ msgstr "Mientras que los \\c[3]\\c[combat.name.jungle/fish]\\c[0] suelen ser bas
 #: data/database.json+enemies/beach.worm/name+%2317242
 msgctxt "data/database.json//enemies/beach.worm/name"
 msgid "K'im"
-msgstr ""
+msgstr "K'im"
 
 #. data/database.json enemies/beach.worm/species #-4
 #: data/database.json+enemies/beach.worm/species+%23-4
@@ -27702,7 +27695,7 @@ msgstr "Los investigadores que se hicieron amigos de algunas de estas tortugas d
 #: data/database.json+enemies/boss.radfish/name+%2317879
 msgctxt "data/database.json//enemies/boss.radfish/name"
 msgid "Radical Fish"
-msgstr ""
+msgstr "Pez Radical"
 
 #. data/database.json enemies/boss.radfish/species #-4
 #: data/database.json+enemies/boss.radfish/species+%23-4
@@ -27738,7 +27731,7 @@ msgstr "Estos Invertebrados evolucionaron hasta alcanzar proporciones enormes y 
 #: data/database.json+enemies/frobbit-miniboss-gallant/name+%233027
 msgctxt "data/database.json//enemies/frobbit-miniboss-gallant/name"
 msgid "Gallant Frobbit"
-msgstr ""
+msgstr "Ranejo Galante"
 
 #. data/database.json enemies/frobbit-miniboss-gallant/species #-2
 #: data/database.json+enemies/frobbit-miniboss-gallant/species+%23-2
@@ -27762,7 +27755,7 @@ msgstr "Mamífero"
 #: data/database.json+enemies/cold.goat-father/name+%236920
 msgctxt "data/database.json//enemies/cold.goat-father/name"
 msgid "The Goatfather"
-msgstr ""
+msgstr "El Padre Cabra"
 
 #. data/database.json enemies/cold.goat-father/species #-4
 #: data/database.json+enemies/cold.goat-father/species+%23-4
@@ -27792,7 +27785,7 @@ msgstr "Caballo de Mar Volador"
 #: data/database.json+enemies/frobbit-miniboss-femme/name+%233028
 msgctxt "data/database.json//enemies/frobbit-miniboss-femme/name"
 msgid "Lady Frobbit"
-msgstr ""
+msgstr "Señora Ranejo"
 
 #. data/database.json enemies/frobbit-miniboss-femme/species #-2
 #: data/database.json+enemies/frobbit-miniboss-femme/species+%23-2
@@ -28710,7 +28703,7 @@ msgstr ""
 #: data/database.json+enemies/final.ele-pillar-heat/name+%2316772
 msgctxt "data/database.json//enemies/final.ele-pillar-heat/name"
 msgid "Heat Statue"
-msgstr ""
+msgstr "Estatua de Fuego"
 
 #. data/database.json enemies/final.ele-pillar-heat/species #-1
 #: data/database.json+enemies/final.ele-pillar-heat/species+%23-1
@@ -28728,7 +28721,7 @@ msgstr "Esta estructura de piedra viva es en realidad parte de la mente colmena 
 #: data/database.json+enemies/final.ele-pillar-cold/name+%2316771
 msgctxt "data/database.json//enemies/final.ele-pillar-cold/name"
 msgid "Cold Statue"
-msgstr ""
+msgstr "Estatua de Hielo"
 
 #. data/database.json enemies/final.ele-pillar-cold/species #-1
 #: data/database.json+enemies/final.ele-pillar-cold/species+%23-1
@@ -28746,7 +28739,7 @@ msgstr "Esta estructura de piedra viva es en realidad parte de la mente colmena 
 #: data/database.json+enemies/final.ele-pillar-shock/name+%2316766
 msgctxt "data/database.json//enemies/final.ele-pillar-shock/name"
 msgid "Shock Statue"
-msgstr ""
+msgstr "Estatua de Rayo"
 
 #. data/database.json enemies/final.ele-pillar-shock/species #-1
 #: data/database.json+enemies/final.ele-pillar-shock/species+%23-1
@@ -28764,7 +28757,7 @@ msgstr "Esta estructura de piedra viva es en realidad parte de la mente colmena 
 #: data/database.json+enemies/final.ele-pillar-wave/name+%2316765
 msgctxt "data/database.json//enemies/final.ele-pillar-wave/name"
 msgid "Wave Statue"
-msgstr ""
+msgstr "Estatua de Pulso"
 
 #. data/database.json enemies/final.ele-pillar-wave/species #-1
 #: data/database.json+enemies/final.ele-pillar-wave/species+%23-1
@@ -28782,7 +28775,7 @@ msgstr "Esta estructura de piedra viva es en realidad parte de la mente colmena 
 #: data/database.json+enemies/final.guardian/name+%2316792
 msgctxt "data/database.json//enemies/final.guardian/name"
 msgid "Guardian Statue"
-msgstr ""
+msgstr "Estatua Guardián"
 
 #. data/database.json enemies/final.guardian/species #-4
 #: data/database.json+enemies/final.guardian/species+%23-4
@@ -28818,7 +28811,7 @@ msgstr "Diseñadas por Gautham, estas torretas elementales sirven como prueba fi
 #: data/database.json+enemies/boss.elephant/name+%2315217
 msgctxt "data/database.json//enemies/boss.elephant/name"
 msgid "The Creator"
-msgstr ""
+msgstr "El Creador"
 
 #. data/database.json enemies/boss.elephant/species #-2
 #: data/database.json+enemies/boss.elephant/species+%23-2
@@ -29119,7 +29112,7 @@ msgstr "Centinela Automático"
 #: data/database.json+enemies/autumn-fall.ball/name+%2313470
 msgctxt "data/database.json//enemies/autumn-fall.ball/name"
 msgid "Probe"
-msgstr ""
+msgstr "Prueba"
 
 #. data/database.json enemies/autumn-fall.ball/species #-4
 #: data/database.json+enemies/autumn-fall.ball/species+%23-4
@@ -29215,7 +29208,7 @@ msgstr "Centinela Guardián"
 #: data/database.json+enemies/autumn-rh.practice-bot/name+%2310176
 msgctxt "data/database.json//enemies/autumn-rh.practice-bot/name"
 msgid "Practice Bot"
-msgstr ""
+msgstr "Robot de Práctica"
 
 #. data/database.json enemies/autumn-rh.practice-bot/species #-1
 #: data/database.json+enemies/autumn-rh.practice-bot/species+%23-1
@@ -29411,7 +29404,7 @@ msgstr "Centinela Novato"
 #: data/database.json+enemies/minibosses.raid-core/name+%2317166
 msgctxt "data/database.json//enemies/minibosses.raid-core/name"
 msgid "Core"
-msgstr ""
+msgstr "Núcleo"
 
 #. data/database.json enemies/minibosses.raid-core/species #-4
 #: data/database.json+enemies/minibosses.raid-core/species+%23-4
@@ -29423,7 +29416,7 @@ msgstr "????"
 #: data/database.json+enemies/minibosses.raid-turret/name+%2317170
 msgctxt "data/database.json//enemies/minibosses.raid-turret/name"
 msgid "Big Slider"
-msgstr ""
+msgstr "Gran Deslizador"
 
 #. data/database.json enemies/minibosses.raid-turret/species #-4
 #: data/database.json+enemies/minibosses.raid-turret/species+%23-4
@@ -29435,7 +29428,7 @@ msgstr "????"
 #: data/database.json+enemies/minibosses.raid-turret-small/name+%2317169
 msgctxt "data/database.json//enemies/minibosses.raid-turret-small/name"
 msgid "Slider"
-msgstr ""
+msgstr "Deslizador"
 
 #. data/database.json enemies/minibosses.raid-turret-small/species #-4
 #: data/database.json+enemies/minibosses.raid-turret-small/species+%23-4
@@ -29447,7 +29440,7 @@ msgstr "????"
 #: data/database.json+enemies/minibosses.raid-laser/name+%2317202
 msgctxt "data/database.json//enemies/minibosses.raid-laser/name"
 msgid "Laser"
-msgstr ""
+msgstr "Láser"
 
 #. data/database.json enemies/minibosses.raid-laser/species #-4
 #: data/database.json+enemies/minibosses.raid-laser/species+%23-4
@@ -29459,7 +29452,7 @@ msgstr "????"
 #: data/database.json+enemies/minibosses.raid-dispenser/name+%2317167
 msgctxt "data/database.json//enemies/minibosses.raid-dispenser/name"
 msgid "Dispenser"
-msgstr ""
+msgstr "Dispensador"
 
 #. data/database.json enemies/minibosses.raid-dispenser/species #-4
 #: data/database.json+enemies/minibosses.raid-dispenser/species+%23-4
@@ -29471,7 +29464,7 @@ msgstr "????"
 #: data/database.json+enemies/minibosses.raid-face/name+%2318013
 msgctxt "data/database.json//enemies/minibosses.raid-face/name"
 msgid "Face"
-msgstr ""
+msgstr "Cara"
 
 #. data/database.json enemies/minibosses.raid-face/species #-4
 #: data/database.json+enemies/minibosses.raid-face/species+%23-4
@@ -42696,25 +42689,25 @@ msgstr "Vendedor Atrevido"
 #: data/database.json+traders/villageFood/name+%2318458
 msgctxt "data/database.json//traders/villageFood/name"
 msgid "V'rda Vil Food"
-msgstr "Comida de la Villa V'rda"
+msgstr "Comida de V'rda Vil"
 
 #. data/database.json traders/villageMaterials/name #18457
 #: data/database.json+traders/villageMaterials/name+%2318457
 msgctxt "data/database.json//traders/villageMaterials/name"
 msgid "V'rda Vil Trades"
-msgstr "Comerciantes de la Villa V'rda"
+msgstr "Comerciantes de V'rda Vil"
 
 #. data/database.json traders/villageSets/name #13676
 #: data/database.json+traders/villageSets/name+%2313676
 msgctxt "data/database.json//traders/villageSets/name"
 msgid "V'rda Vil Sets"
-msgstr "Sets de la Villa V'rda"
+msgstr "Sets de V'rda Vil"
 
 #. data/database.json traders/villageMetals/name #13677
 #: data/database.json+traders/villageMetals/name+%2313677
 msgctxt "data/database.json//traders/villageMetals/name"
 msgid "V'rda Vil Metals"
-msgstr "Metales de la Villa V'rda"
+msgstr "Metales de V'rda Vil"
 
 #. data/database.json traders/villageEquip1/name #18593
 #: data/database.json+traders/villageEquip1/name+%2318593
