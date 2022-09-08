@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-09-08 13:41+0000\n"
-"Last-Translator: Esteban Herrera Ortúzar <estebanherreraortuzar@gmail.com>\n"
+"PO-Revision-Date: 2022-09-09 03:31+0000\n"
+"Last-Translator: Kevin Junior Neciosup Galeano <kjneciosup1@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/bergen-trail/es/>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
@@ -93,7 +93,7 @@ msgstr ""
 #: data/maps/bergen-trail/cave/cave-4-1-1.json+entities/19/settings/condAnims/0/interact/hoverText+%2383
 msgctxt "data/maps/bergen-trail/cave/cave-4-1-1.json//entities/19/settings/condAnims/0/interact/hoverText"
 msgid "Henry's Data Probe"
-msgstr "Sonda de Información de Henry"
+msgstr "Sonda de Datos de Henry"
 
 #. data/maps/bergen-trail/cave/cave-4-1-1.json entities/19/settings/condAnims/0/interact/event/0/text #85
 #. Prop probe SPAWN IF quest.trailblaze-bergen.started
@@ -118,14 +118,14 @@ msgstr "\\c[3]\\v[item.224.name]\\c[0]"
 #: data/maps/bergen-trail/cave/cave-4-1-1.json+entities/20/settings/text+%2389
 msgctxt "data/maps/bergen-trail/cave/cave-4-1-1.json//entities/20/settings/text"
 msgid "A data probe installed by a player for Henry."
-msgstr "Una sonda de información instalada por un jugador para Henry."
+msgstr "Una sonda de datos instalada por un jugador para Henry."
 
 #. data/maps/bergen-trail/cave/cave-4-1-1.json entities/21/settings/text #90
 #. Analyzable SPAWN IF quest.trailblaze-bergen-4.solved
 #: data/maps/bergen-trail/cave/cave-4-1-1.json+entities/21/settings/text+%2390
 msgctxt "data/maps/bergen-trail/cave/cave-4-1-1.json//entities/21/settings/text"
 msgid "A data probe installed by a player for Henry. The data has been retrieved."
-msgstr "Una sonda de información instalada por un jugador para Henry. La información ha sido recolectada."
+msgstr "Una sonda de datos instalada por un jugador para Henry. La información ha sido recolectada."
 
 #. data/maps/bergen-trail/cave/cave-6-1.json entities/26/settings/event/0/message #7
 #. EventTrigger firstEntrance START IF party.has.Emilie
@@ -249,7 +249,7 @@ msgstr "[niega con la cabeza]"
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/18/settings/event/21/message+%2312
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/18/settings/event/21/message"
 msgid "You see, goats have always struck me as majestic creatures that deserve a bigger place on this world."
-msgstr "Verás, las cabras siempre me han parecido criaturas majestuosas que merecen más importancia en este mundo."
+msgstr "Verás, las cabras siempre me han parecido las criaturas majestuosas que merecen más importancia en este mundo."
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/18/settings/event/22/message #440
 #. EventTrigger battleScene-Start START IF tmp.fightStart && quest.bg-2-goat_cave_1.task.2
@@ -563,7 +563,7 @@ msgstr "Tienes en tus manos la sangre de muchos de los nuestros."
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/35/settings/event/36/text+%23494
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/35/settings/event/36/text"
 msgid "We will forgive you this one time but humanity's fate will depend on its behavior from here on out."
-msgstr "Te perdonaremos esta vez, pero el destino de la humanidad dependerá de su comportamiento a partir de ahora."
+msgstr "Te perdonaremos esta vez, pero el destino de la humanidad dependerá de tu comportamiento a partir de ahora."
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/35/settings/event/38/message #482
 #. EventTrigger lastScene-goatTalk START IF quest.bg-2-goat_cave_1.task.4
