@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-09-09 03:31+0000\n"
+"PO-Revision-Date: 2022-09-10 16:12+0000\n"
 "Last-Translator: Kevin Junior Neciosup Galeano <kjneciosup1@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/heat/es/>\n"
 "Language: es_ES\n"
@@ -938,7 +938,7 @@ msgstr "Oh, por favor, no es para tanto."
 #: data/maps/heat/cliffs/cliffs-path-02.json+entities/388/settings/dialog/1/event/8/message+%2363
 msgctxt "data/maps/heat/cliffs/cliffs-path-02.json//entities/388/settings/dialog/1/event/8/message"
 msgid "I'm part of the \\v[lore.unlock.colony-federation]\\c[3]ACF's\\c[0] exploration team."
-msgstr "Soy parte de la \\v[lore.unlock.colony-federation], el equipo de exploración de la \\c[3]ACF\\c[0]."
+msgstr "Soy parte de la \\v[lore.unlock.colony-federation]\\c[3]ACF\\c[0], el equipo de exploración."
 
 #. data/maps/heat/cliffs/cliffs-path-02.json entities/388/settings/dialog/1/event/9/message #66
 #. XenoDialog
@@ -6791,7 +6791,7 @@ msgstr "¡Hola, Humano! ¡Te ves confundido!"
 #: data/maps/heat/path-01-entrance.json+entities/315/settings/event/12/message+%2327
 msgctxt "data/maps/heat/path-01-entrance.json//entities/315/settings/event/12/message"
 msgid "You entered \\c[3]Maroon Valley\\c[0], hot-sandy desert and home of us \\c[3]Shad\\c[0]!"
-msgstr "Estás en \\c[3]Valle Maroon\\c[0], ¡caluroso desierto, y hogar de los \\c[3]Shad\\c[0]!"
+msgstr "Estás en el \\c[3]Valle Granate\\c[0], ¡caluroso desierto, y hogar de los \\c[3]Shad\\c[0]!"
 
 #. data/maps/heat/path-01-entrance.json entities/315/settings/event/13/message #28
 #. EventTrigger IntroScene START IF plot.line >= 4300
@@ -6879,7 +6879,7 @@ msgstr "[asiente]"
 #: data/maps/heat/path-01-entrance.json+entities/315/settings/event/37/message+%2338
 msgctxt "data/maps/heat/path-01-entrance.json//entities/315/settings/event/37/message"
 msgid "Très bien!\\. Did you just enter Maroon Valley by any chance?"
-msgstr "¡Très bien!\\. ¿Por casualidad acabas de entrar al Valle Maroon?"
+msgstr "¡Très bien!\\. ¿Por casualidad acabas de entrar al Valle Granate?"
 
 #. data/maps/heat/path-01-entrance.json entities/315/settings/event/38/message #39
 #. EventTrigger IntroScene START IF plot.line >= 4300
@@ -7228,7 +7228,7 @@ msgstr "¡B-B-Bienvenida de v-vuelta, Lea!"
 #: data/maps/heat/path-02.json+entities/271/settings/npcStates/2/event/quest/3/message+%23409
 msgctxt "data/maps/heat/path-02.json//entities/271/settings/npcStates/2/event/quest/3/message"
 msgid "Are you f-finished with the s-s-survey?"
-msgstr "¿Has ac-cabado con la enc-cuesta?"
+msgstr "¿Has ac-cabado con la est-tudio?"
 
 #. data/maps/heat/path-02.json entities/271/settings/npcStates/2/event/quest/4/message #410
 #. NPC henry
@@ -7529,7 +7529,7 @@ msgstr "¡T-Tienes que hacer lo m-m-mismo que la o-otra vez!"
 #: data/maps/heat/path-02.json+entities/272/settings/dialog/1/event/14/0/5/message+%23377
 msgctxt "data/maps/heat/path-02.json//entities/272/settings/dialog/1/event/14/0/5/message"
 msgid "I-I want to gather some d-data for \\c[3]Maroon Valley\\c[0] this time."
-msgstr "N-Necesito información d-del \\c[3]Valle Maroon\\c[0] est-ta vez."
+msgstr "N-Necesito información d-del \\c[3]Valle Granate\\c[0] est-ta vez."
 
 #. data/maps/heat/path-02.json entities/272/settings/dialog/1/event/14/0/6/message #378
 #. XenoDialog XenoQuest SPAWN IF !quest.trailblaze-maroon.started && quest.trailblaze-bergen.solved
@@ -7538,7 +7538,7 @@ msgstr "N-Necesito información d-del \\c[3]Valle Maroon\\c[0] est-ta vez."
 #: data/maps/heat/path-02.json+entities/272/settings/dialog/1/event/14/0/6/message+%23378
 msgctxt "data/maps/heat/path-02.json//entities/272/settings/dialog/1/event/14/0/6/message"
 msgid "I-It's a rural area, but I need the survey data."
-msgstr "E-Es un área rural, p-pero aún así necesito los d-datos de la e-encuesta."
+msgstr "E-Es un área rural, p-pero aún así necesito los d-datos de la e-estudio."
 
 #. data/maps/heat/path-02.json entities/272/settings/dialog/1/event/14/0/7/message #381
 #. XenoDialog XenoQuest SPAWN IF !quest.trailblaze-maroon.started && quest.trailblaze-bergen.solved
@@ -10794,7 +10794,7 @@ msgstr "Billston"
 #: data/maps/heat/path-11.json+entities/446/settings/event/13/message+%2310
 msgctxt "data/maps/heat/path-11.json//entities/446/settings/event/13/message"
 msgid "Hi...!"
-msgstr "Hola...!"
+msgstr "¡Hola...!"
 
 #. data/maps/heat/path-11.json entities/446/settings/event/16/message #23
 #. EventTrigger quest-battleStart START IF tmp.touch-battleStart
@@ -12126,7 +12126,7 @@ msgstr "Billston"
 #: data/maps/heat/special/guards-billstonLair-1.json+entities/33/settings/event/10/message+%2310
 msgctxt "data/maps/heat/special/guards-billstonLair-1.json//entities/33/settings/event/10/message"
 msgid "Hi...!"
-msgstr "Hola...!"
+msgstr "¡Hola...!"
 
 #. data/maps/heat/special/guards-billstonLair-1.json entities/33/settings/event/11/message #11
 #. EventTrigger battleStart START IF tmp.touch-battleStart
@@ -12134,7 +12134,7 @@ msgstr "Hola...!"
 #: data/maps/heat/special/guards-billstonLair-1.json+entities/33/settings/event/11/message+%2311
 msgctxt "data/maps/heat/special/guards-billstonLair-1.json//entities/33/settings/event/11/message"
 msgid "You even saw through my holographic hidden entrance?\\. Truly you \\v[lore.title.seeker]s are something else."
-msgstr "¿Incluso viste a través de mi entrada holográfica oculta ?\\. De verdad ustedes \\v[lore.title.seeker]es son otra cosa."
+msgstr "¿Incluso viste a través de mi entrada holográfica oculta?\\. De verdad ustedes \\v[lore.title.seeker]es son otra cosa."
 
 #. data/maps/heat/special/guards-billstonLair-1.json entities/33/settings/event/12/message #622
 #. EventTrigger battleStart START IF tmp.touch-battleStart
@@ -12150,7 +12150,7 @@ msgstr "..."
 #: data/maps/heat/special/guards-billstonLair-1.json+entities/33/settings/event/13/message+%23623
 msgctxt "data/maps/heat/special/guards-billstonLair-1.json//entities/33/settings/event/13/message"
 msgid "But this will be the end of the line for you.\\. No one will beat me, when I am this well prepared.\\.\\. Behold...!"
-msgstr "Pero este será el final para ti.\\. Nadie me vencerá, cuando estoy así de bien preparado.\\.\\. Mirad...!"
+msgstr "Pero este será el final para ti.\\. Nadie me vencerá, cuando estoy así de bien preparado.\\.\\. ¡Mirad...!"
 
 #. data/maps/heat/special/guards-billstonLair-1.json entities/33/settings/event/14/message #630
 #. EventTrigger battleStart START IF tmp.touch-battleStart
@@ -12158,7 +12158,7 @@ msgstr "Pero este será el final para ti.\\. Nadie me vencerá, cuando estoy as�
 #: data/maps/heat/special/guards-billstonLair-1.json+entities/33/settings/event/14/message+%23630
 msgctxt "data/maps/heat/special/guards-billstonLair-1.json//entities/33/settings/event/14/message"
 msgid "...!?"
-msgstr "...!?"
+msgstr "¡¿...!?"
 
 #. data/maps/heat/special/guards-billstonLair-1.json entities/33/settings/event/43/name #636
 #. EventTrigger battleStart START IF tmp.touch-battleStart
@@ -12174,7 +12174,7 @@ msgstr "Billston"
 #: data/maps/heat/special/guards-billstonLair-1.json+entities/33/settings/event/45/message+%2312
 msgctxt "data/maps/heat/special/guards-billstonLair-1.json//entities/33/settings/event/45/message"
 msgid "Hi...!"
-msgstr "Hola...!"
+msgstr "¡Hola...!"
 
 #. data/maps/heat/special/guards-billstonLair-1.json entities/33/settings/event/46/message #13
 #. EventTrigger battleStart START IF tmp.touch-battleStart
@@ -12182,7 +12182,7 @@ msgstr "Hola...!"
 #: data/maps/heat/special/guards-billstonLair-1.json+entities/33/settings/event/46/message+%2313
 msgctxt "data/maps/heat/special/guards-billstonLair-1.json//entities/33/settings/event/46/message"
 msgid "Now \\v[lore.title.seeker]... have at thee!"
-msgstr "Ahora \\v[lore.title.seeker]... ¡Tenlo contigo!"
+msgstr "Ahora \\v[lore.title.seeker]... ¡Toma nota!"
 
 #. data/maps/heat/special/guards-billstonLair-1.json entities/61/settings/event/12/name #637
 #. EventTrigger battleEnd START IF tmp.guardBattleOver
@@ -12238,7 +12238,7 @@ msgstr "¡Te vienes conmigo, traidor!\\. ¡Eres una mancha en el honor de la Gua
 #: data/maps/heat/special/guards-billstonLair-1.json+entities/61/settings/event/32/message+%2316
 msgctxt "data/maps/heat/special/guards-billstonLair-1.json//entities/61/settings/event/32/message"
 msgid "Hi...!"
-msgstr "Hola...!"
+msgstr "¡Hola...!"
 
 #. data/maps/heat/special/guards-billstonLair-1.json entities/61/settings/event/33/message #625
 #. EventTrigger battleEnd START IF tmp.guardBattleOver
@@ -12262,7 +12262,7 @@ msgstr "¿Qué, tu?\\. ¿Yo era tu superior y así es como muestras tu respeto?"
 #: data/maps/heat/special/guards-billstonLair-1.json+entities/61/settings/event/35/message+%23631
 msgctxt "data/maps/heat/special/guards-billstonLair-1.json//entities/61/settings/event/35/message"
 msgid "I am a guard of \\v[area.heat-village.name] and sworn to protect shad- and humankind from evil.\\. Like you, traitor."
-msgstr "Soy un guardia de \\v[area.heat-village.name] y juré proteger a Shad- y a la humanidad del mal.\\. Como tú, traidor."
+msgstr "Soy un guardia de \\v[area.heat-village.name] y juré proteger a los Shad y a la humanidad del mal.\\. Como tú, traidor."
 
 #. data/maps/heat/special/guards-billstonLair-1.json entities/61/settings/event/36/message #632
 #. EventTrigger battleEnd START IF tmp.guardBattleOver
@@ -12749,7 +12749,7 @@ msgstr "¡Gracias por decidir usar el \\c[3]\\v[combat.name.heat/special/kamikat
 #: data/maps/heat/special/heatadv-questcave-1.json+entities/3/settings/interact/event/2/0/2/text+%2380
 msgctxt "data/maps/heat/special/heatadv-questcave-1.json//entities/3/settings/interact/event/2/0/2/text"
 msgid "This highly-advanced machine is programmed to follow its user after activation and dispenses explosive devices (also known as \\c[3]\"bombs\"\\c[0]) after being hit with a \\c[3]charged range attack\\c[0]."
-msgstr "Esta máquina altamente avanzada está programada para seguir a su usuario después de la activación y dispensa dispositivos explosivos (también conocidos como \\c[3]\"bombas\"\\c[0]) después de ser golpeada con un \\c[3]ataque de rango cargado\\c [0]."
+msgstr "Esta máquina altamente avanzada está programada para seguir a su usuario después de la activación y dispensa dispositivos explosivos (también conocidos como \\c[3]\"bombas\"\\c[0]) después de ser golpeada con un \\c[3]ataque de rango cargado\\c[0]."
 
 #. data/maps/heat/special/heatadv-questcave-1.json entities/3/settings/interact/event/2/0/3/text #81
 #. Prop
