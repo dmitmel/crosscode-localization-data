@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-08-16 07:03+0000\n"
-"Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
+"PO-Revision-Date: 2022-10-09 03:37+0000\n"
+"Last-Translator: Kevin Junior Neciosup Galeano <kjneciosup1@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/arid/es/>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
@@ -14536,20 +14536,18 @@ msgstr "Si, lo sé. No conseguí hacer eso contigo."
 #. IF g.codeKnight >= 2 && plot.line >= 30000
 #. SHOW_MSG main.sergey @NOTIFYING
 #: data/maps/arid/town-2.json+entities/462/settings/npcStates/0/event/49/message+%231079
-#, fuzzy
 msgctxt "data/maps/arid/town-2.json//entities/462/settings/npcStates/0/event/49/message"
 msgid " I thought it was impossible without violating security constraints."
-msgstr " Creí que era imposible sin violar las medidas de seguridad."
+msgstr " Creí que era imposible hacerlo sin violar las medidas de seguridad."
 
 #. data/maps/arid/town-2.json entities/462/settings/npcStates/0/event/50/message #1080
 #. NPC
 #. IF g.codeKnight >= 2 && plot.line >= 30000
 #. SHOW_MSG main.sergey @WHISTLING
 #: data/maps/arid/town-2.json+entities/462/settings/npcStates/0/event/50/message+%231080
-#, fuzzy
 msgctxt "data/maps/arid/town-2.json//entities/462/settings/npcStates/0/event/50/message"
 msgid "They must have found a better loophole, I supposed."
-msgstr "Supongo que han encontrado una mejor forma."
+msgstr "Supongo que se encontró una mejor forma."
 
 #. data/maps/arid/town-2.json entities/462/settings/npcStates/0/event/51/message #1081
 #. NPC
@@ -15453,7 +15451,6 @@ msgstr "Déjame hechar un vistazo."
 #. EventTrigger SecondVisit START IF plot.line >= 50000
 #. SHOW_MSG main.glasses @DEFAULT
 #: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/31/settings/event/14/message+%231587
-#, fuzzy
 msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/31/settings/event/14/message"
 msgid "Yes...\\. it's still here. My \\c[3]former user ID\\c[0]."
 msgstr "Si...\\. aún está aquí. Mi \\c[3]ID de usuario original\\c[0]."
