@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-08-28 04:41+0000\n"
+"PO-Revision-Date: 2022-10-09 03:37+0000\n"
 "Last-Translator: Kevin Junior Neciosup Galeano <kjneciosup1@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/hideout/es/>\n"
 "Language: es_ES\n"
@@ -2770,10 +2770,9 @@ msgstr "Lo más probable es que el Servidor Evotar esté derivado de alguna vers
 #. EventTrigger FinalPlan START IF plot.line >= 25000
 #. SHOW_MSG main.sergey @DEFAULT
 #: data/maps/hideout/inner-office.json+entities/81/settings/event/32/message+%23225
-#, fuzzy
 msgctxt "data/maps/hideout/inner-office.json//entities/81/settings/event/32/message"
 msgid "That means it should be vulnerable to a certain DDoS attack we experienced in the past."
-msgstr "Eso significa que debería ser vulnerable a cierto ataque DoS que experimentamos en el pasado."
+msgstr "Eso significa que debería ser vulnerable a los ataques DoS que experimentamos en el pasado."
 
 #. data/maps/hideout/inner-office.json entities/81/settings/event/33/message #221
 #. EventTrigger FinalPlan START IF plot.line >= 25000
@@ -3124,7 +3123,6 @@ msgstr "Eso seguro.\\. ¡Nos vemos pronto!"
 #. EventTrigger FinalPlan START IF plot.line >= 25000
 #. SHOW_MSG main.shizuka @DEFAULT
 #: data/maps/hideout/inner-office.json+entities/81/settings/event/97/message+%23267
-#, fuzzy
 msgctxt "data/maps/hideout/inner-office.json//entities/81/settings/event/97/message"
 msgid "Goodnight."
 msgstr "Buenas noches."
@@ -3158,7 +3156,6 @@ msgstr "Error Inesperado"
 #. EventTrigger FirstBattle START IF tmp.battleStart
 #. SHOW_MSG antagonists.gautham @DEFAULT
 #: data/maps/hideout/path-1.json+entities/40/settings/event/28/message+%231
-#, fuzzy
 msgctxt "data/maps/hideout/path-1.json//entities/40/settings/event/28/message"
 msgid "I'm sorry, but I can't let you go any further."
 msgstr "Lo siento pero no puedo permitirte ir más lejos."
@@ -4211,7 +4208,6 @@ msgstr "..."
 #. IF plot.line >= 48400
 #. SHOW_MSG main.shizuka @SMILE
 #: data/maps/hideout/path-3.json+entities/454/settings/npcStates/5/event/26/message+%231725
-#, fuzzy
 msgctxt "data/maps/hideout/path-3.json//entities/454/settings/npcStates/5/event/26/message"
 msgid "Still lacking the proper words?"
 msgstr "¿No tienes las palabras indicadas?"
@@ -4399,7 +4395,6 @@ msgstr "Shizuka..."
 #. EventTrigger ShizukaPvPStart START IF tmp.battleStart && plot.line >= 19500
 #. SHOW_MSG main.shizuka @SARCASTIC
 #: data/maps/hideout/path-3.json+entities/455/settings/event/12/message+%23707
-#, fuzzy
 msgctxt "data/maps/hideout/path-3.json//entities/455/settings/event/12/message"
 msgid "Hello, again."
 msgstr "Hola de nuevo."
@@ -4496,7 +4491,6 @@ msgstr "... como si fueran tuyos para usar libremente."
 #. EventTrigger ShizukaPvPStart START IF tmp.battleStart && plot.line >= 19500
 #. SHOW_MSG main.shizuka @SCREAM
 #: data/maps/hideout/path-3.json+entities/455/settings/event/40/message+%23701
-#, fuzzy
 msgctxt "data/maps/hideout/path-3.json//entities/455/settings/event/40/message"
 msgid "Can somebody PLEASE JUST DELETE YOU, ALREADY?!"
 msgstr "¡¿Puede alguien por favor BORRARTE DE UNA VEZ?!"
@@ -4513,7 +4507,6 @@ msgstr "..."
 #. EventTrigger ShizukaPvPStart START IF tmp.battleStart && plot.line >= 19500
 #. SHOW_MSG main.shizuka @YELL
 #: data/maps/hideout/path-3.json+entities/455/settings/event/43/message+%23703
-#, fuzzy
 msgctxt "data/maps/hideout/path-3.json//entities/455/settings/event/43/message"
 msgid "Oh, how I'd love to just rip your head off!"
 msgstr "¡Oh como me gustaría arrancarte la cabeza!"
@@ -4538,10 +4531,9 @@ msgstr "..."
 #. EventTrigger ShizukaPvPStart START IF tmp.battleStart && plot.line >= 19500
 #. SHOW_MSG main.shizuka @STRICT
 #: data/maps/hideout/path-3.json+entities/455/settings/event/46/message+%23705
-#, fuzzy
 msgctxt "data/maps/hideout/path-3.json//entities/455/settings/event/46/message"
 msgid "If only I knew the machine you're running on!"
-msgstr "¡Si tan solo supiera en qué máquina estás almacenada!"
+msgstr "¡Si tan solo supiera en qué parte del servidor estás almacenada!"
 
 #. data/maps/hideout/path-3.json entities/455/settings/event/47/message #706
 #. EventTrigger ShizukaPvPStart START IF tmp.battleStart && plot.line >= 19500
@@ -5327,7 +5319,6 @@ msgstr "..."
 #. EventTrigger LogoutBeforeFinal START IF plot.line >= 25100
 #. SHOW_MSG main.sergey @DOWN
 #: data/maps/hideout/path-3.json+entities/790/settings/event/28/message+%23858
-#, fuzzy
 msgctxt "data/maps/hideout/path-3.json//entities/790/settings/event/28/message"
 msgid "By now you've probably already guessed it, but I plan to involve the other First Scholar members."
 msgstr "Supongo que ya lo adivinaste, pero planeo involucrar a los otros miembros de los Primeros Eruditos."
