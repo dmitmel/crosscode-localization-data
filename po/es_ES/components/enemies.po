@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-09-09 03:31+0000\n"
+"PO-Revision-Date: 2022-10-14 19:31+0000\n"
 "Last-Translator: Kevin Junior Neciosup Galeano <kjneciosup1@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/enemies/es/>\n"
 "Language: es_ES\n"
@@ -650,10 +650,9 @@ msgstr "[ ¡VOY A EXPLOTAR! ]"
 #. data/enemies/autumn-rh/suicider_float-quest_naval.json actions/ReachGoal/0/text #23
 #. SHOW_AR_MSG
 #: data/enemies/autumn-rh/suicider_float-quest_naval.json+actions/ReachGoal/0/text+%2323
-#, fuzzy
 msgctxt "data/enemies/autumn-rh/suicider_float-quest_naval.json//actions/ReachGoal/0/text"
 msgid "[ WEAPON ESCAPED! ]"
-msgstr "[ ¡ARMA ESCAPADA! ]"
+msgstr "[ ¡ARMAMENTO DESAPARECIDO! ]"
 
 #. data/enemies/autumn-rh/suicider_float-quest_naval.json actions/ReachRail/1/thenStep/0/text #30
 #. IF test
@@ -730,10 +729,9 @@ msgstr "[ ¡Apuntando a la torreta! ]"
 #. data/enemies/autumn-rh/turret_big_float-quest_naval.json actions/ReachGoal/0/text #23
 #. SHOW_AR_MSG
 #: data/enemies/autumn-rh/turret_big_float-quest_naval.json+actions/ReachGoal/0/text+%2323
-#, fuzzy
 msgctxt "data/enemies/autumn-rh/turret_big_float-quest_naval.json//actions/ReachGoal/0/text"
 msgid "[ WEAPON ESCAPED! ]"
-msgstr "[ ¡ARMA ESCAPADA! ]"
+msgstr "[ ¡ARMAMENTO DESAPARECIDO! ]"
 
 #. data/enemies/autumn-rh/turret_boss-quest_naval.json proxies/missilesHoming/action/0/thenStep/0/text #41
 #. GENERIC
@@ -852,10 +850,9 @@ msgstr "[Torreta de Orientación]"
 #. data/enemies/autumn-rh/turret_boss-quest_naval.json actions/ReachGoal/0/text #23
 #. SHOW_AR_MSG
 #: data/enemies/autumn-rh/turret_boss-quest_naval.json+actions/ReachGoal/0/text+%2323
-#, fuzzy
 msgctxt "data/enemies/autumn-rh/turret_boss-quest_naval.json//actions/ReachGoal/0/text"
 msgid "[ WEAPON ESCAPED! ]"
-msgstr "[ ¡ARMA ESCAPADA! ]"
+msgstr "[ ¡ARMAMENTO DESAPARECIDO! ]"
 
 #. data/enemies/autumn-rh/turret_boss-quest_naval.json actions/StunStart/0/text #32
 #. SHOW_AR_MSG
@@ -2608,10 +2605,9 @@ msgstr "[¡Descontrolado!]"
 #. data/enemies/jungle/special/parrot-gangster-1.json actions/GangsterWarning/1/text #16
 #. SHOW_AR_MSG
 #: data/enemies/jungle/special/parrot-gangster-1.json+actions/GangsterWarning/1/text+%2316
-#, fuzzy
 msgctxt "data/enemies/jungle/special/parrot-gangster-1.json//actions/GangsterWarning/1/text"
 msgid "[WARNING BIRDNOISES!]"
-msgstr "[¡ADVERTENCIA, RUIDO DE PÁJARO!]"
+msgstr "[¡RUIDOS DE PÁJARO AMENAZADORES!]"
 
 #. data/enemies/jungle/special/parrot-gangster-1.json actions/GangsterShootHostage/0/text #20
 #. SHOW_AR_MSG
@@ -3515,10 +3511,9 @@ msgstr "(CAPTURA: \\v[tmp.temp] )"
 #. IF test
 #. SHOW_AR_MSG
 #: data/enemies/jungle/special/shockat-capture.json+actions/CaptureFail/6/thenStep/0/text+%2327
-#, fuzzy
 msgctxt "data/enemies/jungle/special/shockat-capture.json//actions/CaptureFail/6/thenStep/0/text"
 msgid "( FREE!!! \\v[entity.attrib.cageName] )"
-msgstr "( ¡¡¡LIBRE!!! \\v[entity.attrib.cageName] )"
+msgstr "( ¡¡¡\\v[entity.attrib.cageName] LIBRE!!! )"
 
 #. data/enemies/jungle/special/shockat-capture.json actions/InterruptCapture/5/thenStep/0/text #28
 #. IF test
@@ -3992,7 +3987,6 @@ msgstr "[Cargando Disparo]"
 
 #. data/enemies/jungle/whale-boss.json bossLabel #8
 #: data/enemies/jungle/whale-boss.json+bossLabel+%238
-#, fuzzy
 msgctxt "data/enemies/jungle/whale-boss.json//bossLabel"
 msgid "Whale"
 msgstr "Ballena"
@@ -4172,10 +4166,9 @@ msgstr "Z-5+"
 #. IF !entity.attrib.left
 #. SHOW_AR_MSG
 #: data/enemies/minibosses/raid-dispenser.json+actions/Recover/0/thenStep/1/thenStep/0/text+%237
-#, fuzzy
 msgctxt "data/enemies/minibosses/raid-dispenser.json//actions/Recover/0/thenStep/1/thenStep/0/text"
 msgid "Switch Mode"
-msgstr "Modo Cambio"
+msgstr "Cambiar Modo"
 
 #. data/enemies/minibosses/raid-laser.json actions/TurnOn/0/thenStep/2/text #7
 #. IF tmp.raidB.round >= entity.attrib.level
