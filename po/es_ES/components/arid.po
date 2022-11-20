@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-11-20 12:54+0000\n"
+"PO-Revision-Date: 2022-11-21 13:31+0000\n"
 "Last-Translator: Jose de Andrés <joseanan98@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/arid/es/>\n"
 "Language: es_ES\n"
@@ -2734,7 +2734,7 @@ msgstr "Alguien la ayudó... "
 #: data/maps/arid/interior/gautham-room.json+entities/31/settings/event/13/message+%239
 msgctxt "data/maps/arid/interior/gautham-room.json//entities/31/settings/event/13/message"
 msgid "Somebody interfered...\\. hacked the environment server..."
-msgstr "Alguien interfirió...\\. hackearon los servidores..."
+msgstr "Alguien interfirió...\\. ha hackeado el servidor de entorno..."
 
 #. data/maps/arid/interior/gautham-room.json entities/31/settings/event/16/text #10
 #. EventTrigger scene2 START IF plot.line == 15400
@@ -5654,7 +5654,7 @@ msgstr "Hay formas de evitar que nos descubran, pero mis opciones son muy limita
 #: data/maps/arid/interior/the-room.json+entities/36/settings/event/37/message+%23609
 msgctxt "data/maps/arid/interior/the-room.json//entities/36/settings/event/37/message"
 msgid "Because I do not have access to the \\c[3]environment server\\c[0] of this region."
-msgstr "Porque no tengo acceso al \\c[3]servidor de ambiente\\c[0] de esta región."
+msgstr "Porque no tengo acceso al \\c[3]servidor de entorno\\c[0] de esta región."
 
 #. data/maps/arid/interior/the-room.json entities/36/settings/event/38/message #610
 #. EventTrigger GoToBed_Day2 START IF plot.line >= 12400
@@ -10630,7 +10630,7 @@ msgstr "Dentro de una \\c[3]instancia de mazmorra\\c[0]."
 #: data/maps/arid/tower-1.json+entities/288/settings/event/194/message+%231167
 msgctxt "data/maps/arid/tower-1.json//entities/288/settings/event/194/message"
 msgid "I hold control over the environment server."
-msgstr "Tengo control sobre el servidor del ambiente."
+msgstr "Tengo control sobre el servidor de entorno."
 
 #. data/maps/arid/tower-1.json entities/288/settings/event/195/message #1168
 #. EventTrigger GetReadyForDungeon START IF plot.line >= 29300
@@ -10678,7 +10678,7 @@ msgstr "Oíste bien. El comando para borrar los datos no pasa por el servidor de
 #: data/maps/arid/tower-1.json+entities/288/settings/event/201/message+%231173
 msgctxt "data/maps/arid/tower-1.json//entities/288/settings/event/201/message"
 msgid "It goes through the \\c[3]Environment Server\\c[0]!"
-msgstr "¡Pasa por el \\c[3]Servidor del Ambiente\\c[0]!"
+msgstr "¡Pasa por el \\c[3]Servidor de Entorno\\c[0]!"
 
 #. data/maps/arid/tower-1.json entities/288/settings/event/202/message #1174
 #. EventTrigger GetReadyForDungeon START IF plot.line >= 29300
@@ -10894,7 +10894,7 @@ msgstr "Correcto."
 #: data/maps/arid/tower-1.json+entities/288/settings/event/326/message+%231206
 msgctxt "data/maps/arid/tower-1.json//entities/288/settings/event/326/message"
 msgid "It seems he has taken control of the Environment Server."
-msgstr "Parece que tomó control del Servidor de Ambiente."
+msgstr "Parece que ha tomado el control del Servidor de Entorno."
 
 #. data/maps/arid/tower-1.json entities/288/settings/event/330/message #1207
 #. EventTrigger GetReadyForDungeon START IF plot.line >= 29300
@@ -14706,10 +14706,9 @@ msgstr "¡Wow, esos rinocerontes daban miedo también!"
 #. EventTrigger BattleEnd START IF tmp.enemyDefeat >= 5
 #. SHOW_MSG main.glasses @EXHAUSTED
 #: extension/post-game/data/maps/arid/lab/ug-01-entrance.json+entities/27/settings/event/16/message+%236
-#, fuzzy
 msgctxt "extension/post-game/data/maps/arid/lab/ug-01-entrance.json//entities/27/settings/event/16/message"
 msgid "I'm sort of surprised that those enemies are still here."
-msgstr "Estoy algo sorprendido de que sigan habiendo enemigos aquí."
+msgstr "Estoy algo sorprendido de que esos enemigos sigan aquí."
 
 #. extension/post-game/data/maps/arid/lab/ug-01-entrance.json entities/27/settings/event/18/message #7
 #. EventTrigger BattleEnd START IF tmp.enemyDefeat >= 5
@@ -15491,7 +15490,6 @@ msgstr "Y la reaparición de Lea nos dio fuertes indicios de que había una elab
 #. EventTrigger SecondVisit START IF plot.line >= 50000
 #. SHOW_MSG main.glasses @DOWN
 #: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/31/settings/event/24/message+%231592
-#, fuzzy
 msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/31/settings/event/24/message"
 msgid "To achieve that... they'd have to secure the Evotar server."
 msgstr "Para conseguirlo... deberían asegurar el Servidor Evotar."
@@ -15549,7 +15547,6 @@ msgstr "Para tener alguna chance de ser rescatado..."
 #. EventTrigger SecondVisit START IF plot.line >= 50000
 #. SHOW_MSG main.glasses @DEFAULT
 #: extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json+entities/31/settings/event/31/message+%231599
-#, fuzzy
 msgctxt "extension/post-game/data/maps/arid/lab/ug-04-sidwell-meeting-room.json//entities/31/settings/event/31/message"
 msgid "I'd have to migrate to the main Evotar server."
 msgstr "Tendría que migrar al Servidor Evotar principal."
@@ -16192,7 +16189,7 @@ msgid ""
 "The time has come \n"
 "to release you of your position."
 msgstr ""
-"El tiempo ha llegado\n"
+"Ha llegado la hora\n"
 "de librarte de tu posición."
 
 #. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/88/settings/event/47/text #1208
@@ -16211,14 +16208,13 @@ msgstr ""
 #. EventTrigger battleStart START IF tmp.battleStart
 #. SHOW_DREAM_MSG
 #: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/88/settings/event/48/text+%231209
-#, fuzzy
 msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/88/settings/event/48/text"
 msgid ""
 "That is why this will be\n"
 "your final interrogation."
 msgstr ""
 "Es por eso que esta será\n"
-"tu última interrogación."
+"tu último interrogatorio."
 
 #. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/88/settings/event/70/message #1210
 #. EventTrigger battleStart START IF tmp.battleStart
@@ -16472,10 +16468,9 @@ msgstr "Era mi útima interrogación."
 #. EventTrigger Flashback START IF plot.line >= 49900
 #. SHOW_MSG main.glasses @PONDERING
 #: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/119/settings/event/77/message+%231598
-#, fuzzy
 msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/119/settings/event/77/message"
 msgid "To make sure I didn't keep any secrets from the real me."
-msgstr "Para asegurarse, que no mantuviera ningún secreto de mi yo real."
+msgstr "Para asegurarse de que yo no mantenía ningún secreto de mi yo real."
 
 #. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/119/settings/event/79/message #1599
 #. EventTrigger Flashback START IF plot.line >= 49900
@@ -16625,7 +16620,6 @@ msgstr "Parece que Gautham estuvo involucrado en su creación."
 #. EventTrigger sergeyMessage START IF tmp.sergeyMsg
 #. SHOW_MSG main.sergey @WORRIED
 #: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/126/settings/event/14/message+%231621
-#, fuzzy
 msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/126/settings/event/14/message"
 msgid "This time, it is using a ridiculously large \\c[3]defense boost\\c[0] to negate your damage."
 msgstr "Esta vez, está usando una \\c[3]mejora de defensa\\c[0] ridículamente alta para negar tu daño."
@@ -17038,10 +17032,9 @@ msgstr "..."
 #. EventTrigger BuffComment START IF tmp.buffSound
 #. SHOW_SIDE_MSG main.emilie @ASTONISHED
 #: extension/post-game/data/maps/arid/lab/ug-06-sidwell.json+entities/144/settings/event/0/message+%231657
-#, fuzzy
 msgctxt "extension/post-game/data/maps/arid/lab/ug-06-sidwell.json//entities/144/settings/event/0/message"
 msgid "Oh!\\. We can beat the clones!\\. And they make us stronger!\\. Awesome!!"
-msgstr "¡Oh!\\. ¡Podemos vencer a los clones!\\. ¡Y nos hacen más fuertes!\\. ¡¡Asombroso!!"
+msgstr "¡Oh!\\. ¡Podemos vencer a los clones!\\. ¡Y nos están haciendo más fuertes!\\. ¡¡Asombroso!!"
 
 #. extension/post-game/data/maps/arid/lab/ug-06-sidwell.json entities/145/settings/event/0/message #1654
 #. EventTrigger shadyBreak(2) START IF tmp.shadyBreak >= 2
