@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-11-20 05:52+0000\n"
+"PO-Revision-Date: 2022-11-29 03:10+0000\n"
 "Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/jungle-city/es/>\n"
 "Language: es_ES\n"
@@ -10490,9 +10490,9 @@ msgid ""
 "\\c[3]1F\\c[0]: Basin Arsenal\n"
 "\\c[3]2F\\c[0]: Umbrella Inc."
 msgstr ""
-"\\c[3]GF\\c[0]: Artículos y Bienes\n"
-"\\c[3]1F\\c[0]: Cuenca Arsenal\n"
-"\\c[3]2F\\c[0]: Umbrella Inc."
+"\\c[3]PB\\c[0]: Artículos y Bienes\n"
+"\\c[3]P1\\c[0]: Cuenca Arsenal\n"
+"\\c[3]P2\\c[0]: Umbrella Inc."
 
 #. data/maps/jungle-city/interior/mall-1.json entities/13/settings/npcStates/0/event/shop/2/message #263
 #. NPC shop-item
@@ -10627,11 +10627,11 @@ msgid ""
 "\\c[3]1F\\c[0]: \\c[4]Mayor's Office\\c[0]\n"
 "\\c[3]GF\\c[0]: Quest Hub\n"
 msgstr ""
-"\\c[3]4F\\c[0]: \\c[4]Asuntos serios\\c[0]\n"
-"\\c[3]3F\\c[0]: \\c[4]Más Negocios\\c[0]\n"
-"\\c[3]2F\\c[0]: \\c[4]Negocios\\c[0]\n"
-"\\c[3]1F\\c[0]: \\c[4]Oficina del Alcalde\\c[0]\n"
-"\\c[3]GF\\c[0]: Centro de misiones\n"
+"\\c[3]P4\\c[0]: \\c[4]Negocios Serios\\c[0]\n"
+"\\c[3]P3\\c[0]: \\c[4]Más Negocios\\c[0]\n"
+"\\c[3]P2\\c[0]: \\c[4]Negocios\\c[0]\n"
+"\\c[3]P1\\c[0]: \\c[4]Oficina del Alcalde\\c[0]\n"
+"\\c[3]PB\\c[0]: Centro de Misiones\n"
 
 #. data/maps/jungle-city/interior/questhub-01.json entities/65/settings/interact/hoverText #475
 #. Prop
@@ -10652,28 +10652,28 @@ msgstr "Un mapa de CrossWorlds"
 #: data/maps/jungle-city/interior/questhub-01.json+entities/92/settings/destinations/0/label+%23481
 msgctxt "data/maps/jungle-city/interior/questhub-01.json//entities/92/settings/destinations/0/label"
 msgid "4F: Serious Business"
-msgstr "4F: Asuntos serios"
+msgstr "P4: Negocios Serios"
 
 #. data/maps/jungle-city/interior/questhub-01.json entities/92/settings/destinations/1/label #479
 #. Elevator elevator1
 #: data/maps/jungle-city/interior/questhub-01.json+entities/92/settings/destinations/1/label+%23479
 msgctxt "data/maps/jungle-city/interior/questhub-01.json//entities/92/settings/destinations/1/label"
 msgid "3F: More Business"
-msgstr "3F: Más Negocios"
+msgstr "P3: Más Negocios"
 
 #. data/maps/jungle-city/interior/questhub-01.json entities/92/settings/destinations/2/label #478
 #. Elevator elevator1
 #: data/maps/jungle-city/interior/questhub-01.json+entities/92/settings/destinations/2/label+%23478
 msgctxt "data/maps/jungle-city/interior/questhub-01.json//entities/92/settings/destinations/2/label"
 msgid "2F: Business"
-msgstr "2F: Negocios"
+msgstr "P2: Negocios"
 
 #. data/maps/jungle-city/interior/questhub-01.json entities/92/settings/destinations/3/label #476
 #. Elevator elevator1
 #: data/maps/jungle-city/interior/questhub-01.json+entities/92/settings/destinations/3/label+%23476
 msgctxt "data/maps/jungle-city/interior/questhub-01.json//entities/92/settings/destinations/3/label"
 msgid "1F: Mayor's Office"
-msgstr "1F: Oficina del Alcalde"
+msgstr "P1: Oficina del Alcalde"
 
 #. data/maps/jungle-city/interior/questhub-01.json entities/96/settings/npcStates/0/event/quest/0/name #59
 #. NPC
@@ -10689,10 +10689,9 @@ msgstr "Talatu Lips"
 #. IF quest.botanics.task.5
 #. SHOW_MSG greenies.female-researcher @DEFAULT
 #: data/maps/jungle-city/interior/questhub-01.json+entities/96/settings/npcStates/0/event/quest/2/message+%2342
-#, fuzzy
 msgctxt "data/maps/jungle-city/interior/questhub-01.json//entities/96/settings/npcStates/0/event/quest/2/message"
 msgid "Good ta see y'all again, girl!"
-msgstr "¡Qué bueno verlos a todos de nuevo, niña!"
+msgstr "¡Qué alegría verte otra ve', chica!"
 
 #. data/maps/jungle-city/interior/questhub-01.json entities/96/settings/npcStates/0/event/quest/3/message #43
 #. NPC
@@ -10710,7 +10709,7 @@ msgstr "¡Hola!"
 #: data/maps/jungle-city/interior/questhub-01.json+entities/96/settings/npcStates/0/event/quest/4/message+%2344
 msgctxt "data/maps/jungle-city/interior/questhub-01.json//entities/96/settings/npcStates/0/event/quest/4/message"
 msgid "As Ah said in the DL, Ah've got a peachy new upgrade fer yer hat!"
-msgstr "Como dije en el MD, ¡tengo una nueva y excelente mejora para tu sombrero!"
+msgstr "Como te he dicho en el MD, ¡tengo una mejora para ese sombrero tuio!"
 
 #. data/maps/jungle-city/interior/questhub-01.json entities/96/settings/npcStates/0/event/quest/5/message #45
 #. NPC
@@ -10719,7 +10718,7 @@ msgstr "Como dije en el MD, ¡tengo una nueva y excelente mejora para tu sombrer
 #: data/maps/jungle-city/interior/questhub-01.json+entities/96/settings/npcStates/0/event/quest/5/message+%2345
 msgctxt "data/maps/jungle-city/interior/questhub-01.json//entities/96/settings/npcStates/0/event/quest/5/message"
 msgid "Y'all ready fer the upgrade?"
-msgstr "¿Estás lista para la mejora?"
+msgstr "¿'Tas lista?"
 
 #. data/maps/jungle-city/interior/questhub-01.json entities/96/settings/npcStates/0/event/quest/6/message #46
 #. NPC
@@ -10737,7 +10736,7 @@ msgstr "[asiente]"
 #: data/maps/jungle-city/interior/questhub-01.json+entities/96/settings/npcStates/0/event/quest/7/message+%2350
 msgctxt "data/maps/jungle-city/interior/questhub-01.json//entities/96/settings/npcStates/0/event/quest/7/message"
 msgid "Here ya go!"
-msgstr "¡Aquí tienes!"
+msgstr "¡Ahí va!"
 
 #. data/maps/jungle-city/interior/questhub-01.json entities/96/settings/npcStates/0/event/quest/9/object #41
 #. NPC
@@ -10764,7 +10763,7 @@ msgstr "Talatu Lips"
 #: data/maps/jungle-city/interior/questhub-01.json+entities/96/settings/npcStates/0/event/quest/14/message+%2352
 msgctxt "data/maps/jungle-city/interior/questhub-01.json//entities/96/settings/npcStates/0/event/quest/14/message"
 msgid "It's stronger an' smells nice too!"
-msgstr "¡Es más fuerte y huele bien también!"
+msgstr "¡E' má' duro, y huele mejor, que sí!"
 
 #. data/maps/jungle-city/interior/questhub-01.json entities/96/settings/npcStates/0/event/quest/15/message #53
 #. NPC
@@ -10782,7 +10781,7 @@ msgstr "..."
 #: data/maps/jungle-city/interior/questhub-01.json+entities/96/settings/npcStates/0/event/quest/16/message+%2355
 msgctxt "data/maps/jungle-city/interior/questhub-01.json//entities/96/settings/npcStates/0/event/quest/16/message"
 msgid "Ah've gotta skedaddle. See y'all!"
-msgstr "Tengo que desaparecer. ¡Nos vemos!"
+msgstr "Pue' me piro. ¡Chauchi'!"
 
 #. data/maps/jungle-city/interior/questhub-01.json entities/96/settings/npcStates/0/event/quest/17/message #58
 #. NPC
@@ -10798,7 +10797,7 @@ msgstr "¡Adiós!"
 #: data/maps/jungle-city/interior/questhub-01.json+entities/97/settings/interact/hoverText+%2340
 msgctxt "data/maps/jungle-city/interior/questhub-01.json//entities/97/settings/interact/hoverText"
 msgid "???"
-msgstr "???"
+msgstr "¿¿¿???"
 
 #. data/maps/jungle-city/interior/questhub-01.json entities/100/settings/dialog/0/text #482
 #. XenoDialog tableTalk SPAWN IF npc.tableChan <= 40
@@ -10822,7 +10821,7 @@ msgstr "No hay nada en esta mesa."
 #: data/maps/jungle-city/interior/questhub-01.json+entities/100/settings/dialog/2/text+%23484
 msgctxt "data/maps/jungle-city/interior/questhub-01.json//entities/100/settings/dialog/2/text"
 msgid "T-the table surface is really shiny!"
-msgstr "¡La superficie de la mesa es realmente brillante!"
+msgstr "¡P-Pero la superficie es realmente brillante!"
 
 #. data/maps/jungle-city/interior/questhub-01.json entities/100/settings/dialog/3/text #485
 #. XenoDialog tableTalk SPAWN IF npc.tableChan <= 40
@@ -10830,7 +10829,7 @@ msgstr "¡La superficie de la mesa es realmente brillante!"
 #: data/maps/jungle-city/interior/questhub-01.json+entities/100/settings/dialog/3/text+%23485
 msgctxt "data/maps/jungle-city/interior/questhub-01.json//entities/100/settings/dialog/3/text"
 msgid "Really? Is that why you have to sit on it?"
-msgstr "¿En serio? ¿Es por eso que tienes que sentarte en él?"
+msgstr "¿En serio? ¿Es por eso por lo que te sientas en ella?"
 
 #. data/maps/jungle-city/interior/questhub-01.json entities/100/settings/dialog/4/text #486
 #. XenoDialog tableTalk SPAWN IF npc.tableChan <= 40
@@ -10838,7 +10837,7 @@ msgstr "¿En serio? ¿Es por eso que tienes que sentarte en él?"
 #: data/maps/jungle-city/interior/questhub-01.json+entities/100/settings/dialog/4/text+%23486
 msgctxt "data/maps/jungle-city/interior/questhub-01.json//entities/100/settings/dialog/4/text"
 msgid "Y-Yes! I have to inspect it really closely."
-msgstr "¡S-Sí! Tengo que inspeccionarlo muy de cerca."
+msgstr "¡S-Sí! Tengo que inspeccionarla muy de cerca."
 
 #. data/maps/jungle-city/interior/questhub-01.json entities/100/settings/dialog/5/text #487
 #. XenoDialog tableTalk SPAWN IF npc.tableChan <= 40
@@ -10846,7 +10845,7 @@ msgstr "¡S-Sí! Tengo que inspeccionarlo muy de cerca."
 #: data/maps/jungle-city/interior/questhub-01.json+entities/100/settings/dialog/5/text+%23487
 msgctxt "data/maps/jungle-city/interior/questhub-01.json//entities/100/settings/dialog/5/text"
 msgid "I think I'm starting to get it."
-msgstr "Creo que estoy empezando a entenderlo."
+msgstr "Creo que ya entiendo."
 
 #. data/maps/jungle-city/interior/questhub-01.json entities/100/settings/dialog/6/text #488
 #. XenoDialog tableTalk SPAWN IF npc.tableChan <= 40
@@ -10854,7 +10853,7 @@ msgstr "Creo que estoy empezando a entenderlo."
 #: data/maps/jungle-city/interior/questhub-01.json+entities/100/settings/dialog/6/text+%23488
 msgctxt "data/maps/jungle-city/interior/questhub-01.json//entities/100/settings/dialog/6/text"
 msgid "This is not about the table or what's on the table."
-msgstr "No se trata de la mesa o de lo que hay sobre la mesa."
+msgstr "No te importa la mesa, ni lo que esté en ella."
 
 #. data/maps/jungle-city/interior/questhub-01.json entities/100/settings/dialog/7/text #489
 #. XenoDialog tableTalk SPAWN IF npc.tableChan <= 40
@@ -10870,7 +10869,7 @@ msgstr "¿Qué?"
 #: data/maps/jungle-city/interior/questhub-01.json+entities/100/settings/dialog/8/text+%23490
 msgctxt "data/maps/jungle-city/interior/questhub-01.json//entities/100/settings/dialog/8/text"
 msgid "You just like to sit on tables, don't you?"
-msgstr "Te gusta sentarte en las mesas, ¿no?"
+msgstr "Tan solo te gusta sentarte en ellas, ¿no es así?"
 
 #. data/maps/jungle-city/interior/questhub-01.json entities/100/settings/dialog/9/text #491
 #. XenoDialog tableTalk SPAWN IF npc.tableChan <= 40
@@ -10878,7 +10877,7 @@ msgstr "Te gusta sentarte en las mesas, ¿no?"
 #: data/maps/jungle-city/interior/questhub-01.json+entities/100/settings/dialog/9/text+%23491
 msgctxt "data/maps/jungle-city/interior/questhub-01.json//entities/100/settings/dialog/9/text"
 msgid "What?\\. No!\\. I just...\\. like to examine things closely."
-msgstr "¿Qué?\\. ¡No!\\. Yo solo...\\. me gusta examinar las cosas de cerca."
+msgstr "¿Qué?\\. ¡No!\\. Yo solo...\\. quiero inspeccionar las cosas con detenimiento."
 
 #. data/maps/jungle-city/interior/questhub-01.json entities/100/settings/dialog/10/text #492
 #. XenoDialog tableTalk SPAWN IF npc.tableChan <= 40
@@ -10886,7 +10885,7 @@ msgstr "¿Qué?\\. ¡No!\\. Yo solo...\\. me gusta examinar las cosas de cerca."
 #: data/maps/jungle-city/interior/questhub-01.json+entities/100/settings/dialog/10/text+%23492
 msgctxt "data/maps/jungle-city/interior/questhub-01.json//entities/100/settings/dialog/10/text"
 msgid "Just admit it already!"
-msgstr "¡Solo admítelo ya!"
+msgstr "¡Admítelo de una vez!"
 
 #. data/maps/jungle-city/interior/questhub-01.json entities/102/settings/npcStates/0/event/2/message #28
 #. NPC advisor
@@ -10894,7 +10893,7 @@ msgstr "¡Solo admítelo ya!"
 #: data/maps/jungle-city/interior/questhub-01.json+entities/102/settings/npcStates/0/event/2/message+%2328
 msgctxt "data/maps/jungle-city/interior/questhub-01.json//entities/102/settings/npcStates/0/event/2/message"
 msgid "Good day and welcome to \\v[area.jungle-city.name], Seeker."
-msgstr "Buen día y bienvenido a \\v[area.jungle-city.name], Buscador."
+msgstr "Buen día y bienvenida al \\v[area.jungle-city.name], Buscadora."
 
 #. data/maps/jungle-city/interior/questhub-01.json entities/102/settings/npcStates/0/event/3/message #29
 #. NPC advisor
@@ -10910,7 +10909,7 @@ msgstr "Este centro sirve como lugar de encuentro para los Buscadores y como ofi
 #: data/maps/jungle-city/interior/questhub-01.json+entities/102/settings/npcStates/0/event/4/message+%23493
 msgctxt "data/maps/jungle-city/interior/questhub-01.json//entities/102/settings/npcStates/0/event/4/message"
 msgid "Please be advised that while the mayor handles Seeker-related topics, his time is very limited."
-msgstr "Tenga en cuenta que, si bien el alcalde se ocupa de los temas relacionados con los Buscadores, su tiempo es muy limitado."
+msgstr "Tenga en cuenta que, si bien el alcalde se ocupa de los asuntos relacionados con los Buscadores, su tiempo es muy limitado."
 
 #. data/maps/jungle-city/interior/questhub-01.json entities/102/settings/npcStates/0/event/5/message #494
 #. NPC advisor
@@ -10918,7 +10917,7 @@ msgstr "Tenga en cuenta que, si bien el alcalde se ocupa de los temas relacionad
 #: data/maps/jungle-city/interior/questhub-01.json+entities/102/settings/npcStates/0/event/5/message+%23494
 msgctxt "data/maps/jungle-city/interior/questhub-01.json//entities/102/settings/npcStates/0/event/5/message"
 msgid "As such, you are free to simply enter the Temples north of \\v[area.jungle.name] whenever you desire."
-msgstr "Como tal, eres libre de simplemente ingresar a los Templos al norte de \\v[area.jungle.name] cuando lo desees."
+msgstr "Como tal, es usted libre de ingresar a los Templos al norte del \\v[area.jungle.name] cuando lo desee."
 
 #. data/maps/jungle-city/interior/questhub-01.json entities/102/settings/npcStates/0/event/6/message #30
 #. NPC advisor
@@ -10934,7 +10933,7 @@ msgstr "...."
 #: data/maps/jungle-city/interior/questhub-01.json+entities/111/settings/dialog/0/text+%23495
 msgctxt "data/maps/jungle-city/interior/questhub-01.json//entities/111/settings/dialog/0/text"
 msgid "Man, there are not a lot of resting places in this hub..."
-msgstr "Hombre, no hay muchos lugares de descanso en este centro..."
+msgstr "Hombre, no hay muchas zonas de descanso en este centro..."
 
 #. data/maps/jungle-city/interior/questhub-01.json entities/111/settings/dialog/1/text #496
 #. XenoDialog
@@ -10950,7 +10949,7 @@ msgstr "¿Qué? \\.\\.\\. ¿Qué no hay uno justo a la izquierda?"
 #: data/maps/jungle-city/interior/questhub-01.json+entities/111/settings/dialog/2/text+%23497
 msgctxt "data/maps/jungle-city/interior/questhub-01.json//entities/111/settings/dialog/2/text"
 msgid "But it is so small..."
-msgstr "Pero es tan pequeño..."
+msgstr "Pero es muy pequeño..."
 
 #. data/maps/jungle-city/interior/questhub-01.json entities/111/settings/dialog/3/text #498
 #. XenoDialog
@@ -10958,7 +10957,7 @@ msgstr "Pero es tan pequeño..."
 #: data/maps/jungle-city/interior/questhub-01.json+entities/111/settings/dialog/3/text+%23498
 msgctxt "data/maps/jungle-city/interior/questhub-01.json//entities/111/settings/dialog/3/text"
 msgid "That's some quality A first world problem you got there."
-msgstr "Lo que tienes solo es un problema de primer mundo aquí."
+msgstr "Ya quisiera yo tener tus problemas de primer mundo..."
 
 #. data/maps/jungle-city/interior/questhub-02-major.json entities/23/settings/npcStates/1/event/0/name #14
 #. NPC major
@@ -11493,11 +11492,11 @@ msgid ""
 "\\c[3]1F\\c[0]: Mayor's Office\n"
 "\\c[3]GF\\c[0]: \\c[4]Quest Hub\\c[0]\n"
 msgstr ""
-"\\c[3]4F\\c[0]: \\c[4]Asuntos serios\\c[0]\n"
-"\\c[3]3F\\c[0]: \\c[4]Más Negocios\\c[0]\n"
-"\\c[3]2F\\c[0]: \\c[4]Negocios\\c[0]\n"
-"\\c[3]1F\\c[0]: Oficina del Alcalde\n"
-"\\c[3]GF\\c[0]: \\c[4]Centro de misiones\\c[0]\n"
+"\\c[3]P4\\c[0]: \\c[4]Negocios Serios\\c[0]\n"
+"\\c[3]P3\\c[0]: \\c[4]Más Negocios\\c[0]\n"
+"\\c[3]P2\\c[0]: \\c[4]Negocios\\c[0]\n"
+"\\c[3]P1\\c[0]: \\c[4]Oficina del Alcalde\\c[0]\n"
+"\\c[3]PB\\c[0]: Centro de Misiones\n"
 
 #. data/maps/jungle-city/interior/questhub-02-office.json entities/19/settings/npcStates/0/event/quest/2/message #494
 #. NPC sec
@@ -11506,7 +11505,7 @@ msgstr ""
 #: data/maps/jungle-city/interior/questhub-02-office.json+entities/19/settings/npcStates/0/event/quest/2/message+%23494
 msgctxt "data/maps/jungle-city/interior/questhub-02-office.json//entities/19/settings/npcStates/0/event/quest/2/message"
 msgid "Greetings, Seeker. Do you have any business with the mayor?"
-msgstr "Saludos, Buscador. ¿Tienes algún negocio con el alcalde?"
+msgstr "Saludos, Buscadora. ¿Tienes algún asunto con el alcalde?"
 
 #. data/maps/jungle-city/interior/questhub-02-office.json entities/19/settings/npcStates/0/event/quest/3/message #493
 #. NPC sec
@@ -11533,7 +11532,7 @@ msgstr "[asiente]"
 #: data/maps/jungle-city/interior/questhub-02-office.json+entities/19/settings/npcStates/0/event/quest/5/message+%23495
 msgctxt "data/maps/jungle-city/interior/questhub-02-office.json//entities/19/settings/npcStates/0/event/quest/5/message"
 msgid "Are you sure?"
-msgstr "¿Estas segura?"
+msgstr "¿Estás segura?"
 
 #. data/maps/jungle-city/interior/questhub-02-office.json entities/19/settings/npcStates/0/event/quest/6/message #496
 #. NPC sec
@@ -11542,7 +11541,7 @@ msgstr "¿Estas segura?"
 #: data/maps/jungle-city/interior/questhub-02-office.json+entities/19/settings/npcStates/0/event/quest/6/message+%23496
 msgctxt "data/maps/jungle-city/interior/questhub-02-office.json//entities/19/settings/npcStates/0/event/quest/6/message"
 msgid "Do you perhaps want to proceed along the \\c[3]Track of the Ancients\\c[0]?"
-msgstr "¿Quizás quieres seguir por la \\c[3]Pista de los Antiguos\\c[0]?"
+msgstr "¿Por casualidad tiene algo que ver con proceder con el \\c[3]Camino de los Antiguos\\c[0]?"
 
 #. data/maps/jungle-city/interior/questhub-02-office.json entities/19/settings/npcStates/0/event/quest/7/message #497
 #. NPC sec
@@ -11569,7 +11568,7 @@ msgstr "Entonces no necesitas ver al alcalde."
 #: data/maps/jungle-city/interior/questhub-02-office.json+entities/19/settings/npcStates/0/event/quest/9/message+%23499
 msgctxt "data/maps/jungle-city/interior/questhub-02-office.json//entities/19/settings/npcStates/0/event/quest/9/message"
 msgid "Your next task as Seekers is to visit the temples in the \\c[3]north of Gaia's Garden\\c[0]."
-msgstr "Tu próxima tarea como buscadores es visitar los templos en el \\c[3]norte del Jardín de Gaia\\c[0]."
+msgstr "Tu próxima tarea como buscador es visitar los templos en el \\c[3]norte del Jardín de Gaia\\c[0]."
 
 #. data/maps/jungle-city/interior/questhub-02-office.json entities/19/settings/npcStates/0/event/quest/10/message #500
 #. NPC sec
@@ -11596,7 +11595,7 @@ msgstr "¡...!"
 #: data/maps/jungle-city/interior/questhub-02-office.json+entities/19/settings/npcStates/0/event/quest/12/message+%23502
 msgctxt "data/maps/jungle-city/interior/questhub-02-office.json//entities/19/settings/npcStates/0/event/quest/12/message"
 msgid "Maybe also tell your fellow Seekers that they don't have to show up here. They just keep doing it."
-msgstr "Tal vez sería buena idea que se lo digas a tus compañeros Buscadores, que no tienen que aparecer aquí. Simplemente siguen haciéndolo."
+msgstr "Me harías un gran favor si le dijeras a tus colegas Buscadores que no tienen que venir aquí. Se siguen acumulando."
 
 #. data/maps/jungle-city/interior/questhub-02-office.json entities/19/settings/npcStates/0/event/quest/13/message #503
 #. NPC sec
@@ -11614,7 +11613,7 @@ msgstr "¿Por qué querrían ver al alcalde de todos modos?"
 #: data/maps/jungle-city/interior/questhub-02-office.json+entities/19/settings/npcStates/0/event/quest/14/message+%23504
 msgctxt "data/maps/jungle-city/interior/questhub-02-office.json//entities/19/settings/npcStates/0/event/quest/14/message"
 msgid "It's not like he has any business with the track, right?"
-msgstr "No es que tenga ninguna relación con la pista, ¿verdad?"
+msgstr "No es que tenga relación alguna con el Camino, ¿verdad?"
 
 #. data/maps/jungle-city/interior/questhub-02-office.json entities/19/settings/npcStates/0/event/quest/15/message #505
 #. NPC sec
@@ -11659,7 +11658,7 @@ msgstr "No es necesario visitar al \\c[3]alcalde\\c[0] esta vez. ¡Puedes dirigi
 #: data/maps/jungle-city/interior/questhub-02-office.json+entities/19/settings/npcStates/1/event/2/message+%23507
 msgctxt "data/maps/jungle-city/interior/questhub-02-office.json//entities/19/settings/npcStates/1/event/2/message"
 msgid "Greetings Seeker."
-msgstr "Saludos Buscador."
+msgstr "Saludos Buscadora."
 
 #. data/maps/jungle-city/interior/questhub-02-office.json entities/19/settings/npcStates/1/event/3/message #508
 #. NPC sec
@@ -11668,7 +11667,7 @@ msgstr "Saludos Buscador."
 #: data/maps/jungle-city/interior/questhub-02-office.json+entities/19/settings/npcStates/1/event/3/message+%23508
 msgctxt "data/maps/jungle-city/interior/questhub-02-office.json//entities/19/settings/npcStates/1/event/3/message"
 msgid "If you want to proceed along the \\c[3]Track of the Ancients\\c[0] you don't need to see the mayor."
-msgstr "Si quieres seguir por la \\c[3]Pista de los Antiguos\\c[0] no necesitas ver al alcalde."
+msgstr "Si quieres seguir por el \\c[3]Camino de los Antiguos\\c[0] no necesitas ver al alcalde."
 
 #. data/maps/jungle-city/interior/questhub-02-office.json entities/19/settings/npcStates/1/event/4/message #509
 #. NPC sec
@@ -11677,7 +11676,7 @@ msgstr "Si quieres seguir por la \\c[3]Pista de los Antiguos\\c[0] no necesitas 
 #: data/maps/jungle-city/interior/questhub-02-office.json+entities/19/settings/npcStates/1/event/4/message+%23509
 msgctxt "data/maps/jungle-city/interior/questhub-02-office.json//entities/19/settings/npcStates/1/event/4/message"
 msgid "Just visit the Temples in the \\c[3]north of Gaia's Garden\\c[0]."
-msgstr "Solo visita los Templos en el \\c[3]norte del Jardín de Gaia\\c[0]."
+msgstr "Tan solo visita los Templos en el \\c[3]norte del Jardín de Gaia\\c[0]."
 
 #. data/maps/jungle-city/interior/questhub-02-office.json entities/19/settings/npcStates/1/event/5/message #510
 #. NPC sec
