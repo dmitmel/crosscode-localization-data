@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-11-29 08:15+0000\n"
+"PO-Revision-Date: 2022-11-29 08:32+0000\n"
 "Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/jungle/es/>\n"
 "Language: es_ES\n"
@@ -10674,7 +10674,7 @@ msgstr "¡Aquí estamos! ¡Ese famoso cruce de mazmorras!"
 #: data/maps/jungle/dng/dng-crossing.json+entities/371/settings/event/22/message+%23314
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/371/settings/event/22/message"
 msgid "So... which dungeon is first?"
-msgstr "Entonces... ¿Cuál mazmorra es la primera?"
+msgstr "Entonces... ¿cuál mazmorra es la primera?"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/371/settings/event/23/message #315
 #. EventTrigger enterDungeon START IF plot.line >= 17300
@@ -10688,10 +10688,9 @@ msgstr "Creo que eso depende de nosotros."
 #. EventTrigger enterDungeon START IF plot.line >= 17300
 #. SHOW_MSG main.glasses @TOWARD
 #: data/maps/jungle/dng/dng-crossing.json+entities/371/settings/event/24/message+%23316
-#, fuzzy
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/371/settings/event/24/message"
 msgid "There are two temples we have to complete first in any order."
-msgstr "Es la primera vez que hay dos templos que tenemos que completar en cualquier orden."
+msgstr "Hay dos templos que tenemos que completar primero, en cualquier orden."
 
 #. data/maps/jungle/dng/dng-crossing.json entities/371/settings/event/31/message #317
 #. EventTrigger enterDungeon START IF plot.line >= 17300
@@ -10715,7 +10714,7 @@ msgstr "...y el \\c[3]Templo Zir'vitar\\c[0] en el este."
 #: data/maps/jungle/dng/dng-crossing.json+entities/371/settings/event/45/message+%23319
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/371/settings/event/45/message"
 msgid "Once we have completed both, we can enter the \\c[3]Grand Krys'kajo\\c[0] to the north!"
-msgstr "¡Una vez que hayamos completado ambos, podemos ingresar al \\c[3]Grand Krys'kajo\\c[0] al norte!"
+msgstr "¡Una vez hayamos completado ambos, podemos ingresar al \\c[3]Gran Krys'kajo\\c[0] al norte!"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/371/settings/event/53/message #320
 #. EventTrigger enterDungeon START IF plot.line >= 17300
@@ -10739,7 +10738,7 @@ msgstr "[asiente]"
 #: data/maps/jungle/dng/dng-crossing.json+entities/371/settings/event/55/message+%23322
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/371/settings/event/55/message"
 msgid "Well, we don't have to do them all at once."
-msgstr "Bueno, no tenemos que hacerlos todos a la vez."
+msgstr "Bueno, no tenemos que hacerlas todas a la vez."
 
 #. data/maps/jungle/dng/dng-crossing.json entities/371/settings/event/56/message #323
 #. EventTrigger enterDungeon START IF plot.line >= 17300
@@ -10747,7 +10746,7 @@ msgstr "Bueno, no tenemos que hacerlos todos a la vez."
 #: data/maps/jungle/dng/dng-crossing.json+entities/371/settings/event/56/message+%23323
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/371/settings/event/56/message"
 msgid "Oui, but I'd like to finish at least one of them today."
-msgstr "Oui, pero me gustaría terminar al menos uno de ellos hoy."
+msgstr "Oui, pero me gustaría terminar al menos una hoy."
 
 #. data/maps/jungle/dng/dng-crossing.json entities/371/settings/event/57/message #324
 #. EventTrigger enterDungeon START IF plot.line >= 17300
@@ -10771,7 +10770,7 @@ msgstr "Oh cierto, ¿y tú, Lea? "
 #: data/maps/jungle/dng/dng-crossing.json+entities/371/settings/event/66/message+%23326
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/371/settings/event/66/message"
 msgid "Are you ready to dive right into dungeon crawling?"
-msgstr "¿Estás listo para sumergirte en la carrera de mazmorras?"
+msgstr "¿Estás lista para las mazmorras?"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/371/settings/event/67/message #332
 #. EventTrigger enterDungeon START IF plot.line >= 17300
@@ -10787,7 +10786,7 @@ msgstr "..."
 #: data/maps/jungle/dng/dng-crossing.json+entities/371/settings/event/68/message+%23327
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/371/settings/event/68/message"
 msgid "If you like, we can take a stroll through the jungle first. Punching some more parrots."
-msgstr "Si quieres, podemos dar un paseo por la jungla primero. Golpeando algunos loros. Tú me entiendes."
+msgstr "Si prefieres, podemos dar un paseo por la jungla primero. Dar unos golpes a esos loros. Ya sabes."
 
 #. data/maps/jungle/dng/dng-crossing.json entities/371/settings/event/69/message #328
 #. EventTrigger enterDungeon START IF plot.line >= 17300
@@ -10795,7 +10794,7 @@ msgstr "Si quieres, podemos dar un paseo por la jungla primero. Golpeando alguno
 #: data/maps/jungle/dng/dng-crossing.json+entities/371/settings/event/69/message+%23328
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/371/settings/event/69/message"
 msgid "Well, yeah...\\. we could do that."
-msgstr "Bueno sí...\\. podríamos hacer eso."
+msgstr "Bueno, sí...\\. podríamos hacer eso."
 
 #. data/maps/jungle/dng/dng-crossing.json entities/371/settings/event/70/message #329
 #. EventTrigger enterDungeon START IF plot.line >= 17300
@@ -10803,7 +10802,7 @@ msgstr "Bueno sí...\\. podríamos hacer eso."
 #: data/maps/jungle/dng/dng-crossing.json+entities/371/settings/event/70/message+%23329
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/371/settings/event/70/message"
 msgid "We leave it up to you, Lea."
-msgstr "Te lo dejamos a ti, Lea."
+msgstr "Tú decides, Lea."
 
 #. data/maps/jungle/dng/dng-crossing.json entities/371/settings/event/71/message #330
 #. EventTrigger enterDungeon START IF plot.line >= 17300
@@ -10811,7 +10810,7 @@ msgstr "Te lo dejamos a ti, Lea."
 #: data/maps/jungle/dng/dng-crossing.json+entities/371/settings/event/71/message+%23330
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/371/settings/event/71/message"
 msgid "But of course, no entering a dungeon without us!"
-msgstr "Pero, por supuesto, ¡nada de entrar en una mazmorra sin nosotros!"
+msgstr "Pero, por supuesto, ¡ni se te ocurra entrar a una mazmorra sin nosotros!"
 
 #. data/maps/jungle/dng/dng-crossing.json entities/371/settings/event/72/message #331
 #. EventTrigger enterDungeon START IF plot.line >= 17300
@@ -10827,7 +10826,7 @@ msgstr "¡...!"
 #: data/maps/jungle/dng/dng-crossing.json+entities/371/settings/event/74/task+%23833
 msgctxt "data/maps/jungle/dng/dng-crossing.json//entities/371/settings/event/74/task"
 msgid "Run the \\c[3]So'najiz\\c[0] or \\c[3]Zir'vitar Temple\\c[0] together with \\c[3]Emilie\\c[0] and \\c[3]C'tron\\c[0]."
-msgstr "Completa \\c[3]So'najiz\\c[0] o \\c[3]Zir'vitar Temple\\c[0] junto con \\c[3]Emilie\\c[0] y \\c[3]C 'tron\\c[0]."
+msgstr "Completa el Templo \\c[3]So'najiz\\c[0] o \\c[3]Zir'vitar\\c[0] junto con \\c[3]Emilie\\c[0] y \\c[3]C 'tron\\c[0]."
 
 #. data/maps/jungle/dng/dng-crossing.json entities/372/settings/teleportLabel #185
 #. TeleportField sonajizShortcut SPAWN IF g.sonajizTeleport
@@ -24050,7 +24049,7 @@ msgstr "[asiente]"
 #: data/maps/jungle/path-04-end.json+entities/671/settings/npcStates/0/event/quest/182/message+%23371
 msgctxt "data/maps/jungle/path-04-end.json//entities/671/settings/npcStates/0/event/quest/182/message"
 msgid "Parfaitement! "
-msgstr "Parfaitement! "
+msgstr "¡Parfaitement! "
 
 #. data/maps/jungle/path-04-end.json entities/671/settings/npcStates/0/event/quest/183/message #372
 #. NPC glasses
