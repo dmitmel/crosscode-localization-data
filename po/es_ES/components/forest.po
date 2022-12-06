@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-12-06 01:11+0000\n"
+"PO-Revision-Date: 2022-12-06 02:12+0000\n"
 "Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/forest/es/>\n"
 "Language: es_ES\n"
@@ -2713,7 +2713,7 @@ msgstr "Lea, debemos asegurarnos de explorar esta parte por nuestra cuenta. "
 #: data/maps/forest/caves/path-11-maze.json+entities/167/settings/event/2/message+%235
 msgctxt "data/maps/forest/caves/path-11-maze.json//entities/167/settings/event/2/message"
 msgid "So it is time to disband your party."
-msgstr "Así que es hora de disolver tu equipo."
+msgstr "Así que es hora de desbandar tu grupo."
 
 #. data/maps/forest/caves/path-11-maze.json entities/167/settings/event/3/message #6
 #. EventTrigger plsNoParty START IF party.size > 1
@@ -2737,7 +2737,7 @@ msgstr "¡¡Espera!!"
 #: data/maps/forest/caves/path-11-maze.json+entities/168/settings/event/7/message+%237
 msgctxt "data/maps/forest/caves/path-11-maze.json//entities/168/settings/event/7/message"
 msgid "Is it here?\\. Is the entrance in this area?"
-msgstr "¿Está eso aquí?\\. ¿La entrada está en esta área?"
+msgstr "¿Es aquí?\\. ¿La entrada está en este área?"
 
 #. data/maps/forest/caves/path-11-maze.json entities/168/settings/event/8/message #8
 #. EventTrigger introScene START IF party.size == 1
@@ -2761,7 +2761,7 @@ msgstr "Muy bien...\\. ahora..."
 #: data/maps/forest/caves/path-11-maze.json+entities/168/settings/event/10/message+%2310
 msgctxt "data/maps/forest/caves/path-11-maze.json//entities/168/settings/event/10/message"
 msgid "Is there any way to \\c[3]activate it\\c[0]?"
-msgstr "¿Hay alguna forma de que \\c[3]se active \\c[0]?"
+msgstr "¿Hay alguna forma de \\c[3]activarla\\c[0]?"
 
 #. data/maps/forest/caves/path-11-maze.json entities/168/settings/event/11/message #11
 #. EventTrigger introScene START IF party.size == 1
@@ -2777,7 +2777,7 @@ msgstr "[asiente]"
 #: data/maps/forest/caves/path-11-maze.json+entities/168/settings/event/12/message+%2312
 msgctxt "data/maps/forest/caves/path-11-maze.json//entities/168/settings/event/12/message"
 msgid "And you remember how to do it?"
-msgstr "¿Y te acuerdas de cómo hacerlo?"
+msgstr "¿Y recuerdas cómo hacerlo?"
 
 #. data/maps/forest/caves/path-11-maze.json entities/168/settings/event/13/message #13
 #. EventTrigger introScene START IF party.size == 1
@@ -2825,7 +2825,7 @@ msgstr "Perdón..."
 #: data/maps/forest/caves/path-11-maze.json+entities/168/settings/event/18/message+%2318
 msgctxt "data/maps/forest/caves/path-11-maze.json//entities/168/settings/event/18/message"
 msgid "It is alright, we will just try our best."
-msgstr "Está bien, nos esforzaremos al máximo."
+msgstr "Está bien, haremos lo que podamos."
 
 #. data/maps/forest/caves/path-11-maze.json entities/168/settings/event/19/message #19
 #. EventTrigger introScene START IF party.size == 1
@@ -2833,7 +2833,7 @@ msgstr "Está bien, nos esforzaremos al máximo."
 #: data/maps/forest/caves/path-11-maze.json+entities/168/settings/event/19/message+%2319
 msgctxt "data/maps/forest/caves/path-11-maze.json//entities/168/settings/event/19/message"
 msgid "You have a look around and I will watch the logs.\\. Maybe I can pick up something as well."
-msgstr "Echa un vistazo y yo miraré los registros. Tal vez pueda recoger algo también."
+msgstr "Tú echa un vistazo por el lugar, yo revisaré los registros.\\. Puede que me de cuenta de algo también."
 
 #. data/maps/forest/caves/path-11-maze.json entities/168/settings/event/20/message #20
 #. EventTrigger introScene START IF party.size == 1
@@ -2852,7 +2852,7 @@ msgstr "[asiente]"
 #: data/maps/forest/caves/path-11-maze.json+entities/184/settings/event/1/thenStep/2/thenStep/1/thenStep/0/message+%2321
 msgctxt "data/maps/forest/caves/path-11-maze.json//entities/184/settings/event/1/thenStep/2/thenStep/1/thenStep/0/message"
 msgid "I am detecting some \\c[3]tracking\\c[0] in the logs."
-msgstr "Estoy detectando algo de \\c[3]rastreo\\c[0] en los registros."
+msgstr "Estoy detectando un \\c[3]rastreo\\c[0] en los registros."
 
 #. data/maps/forest/caves/path-11-maze.json entities/184/settings/event/1/thenStep/2/thenStep/1/elseStep/0/thenStep/0/message #22
 #. EventTrigger sergeyComment START IF tmp.tracking != tmp.track.comment
@@ -2931,7 +2931,7 @@ msgstr "\\c[1]Cancelado\\c[0]..."
 #: data/maps/forest/caves/path-11-maze.json+entities/226/settings/event/1/thenStep/2/message+%2328
 msgctxt "data/maps/forest/caves/path-11-maze.json//entities/226/settings/event/1/thenStep/2/message"
 msgid "Tracking stopped..."
-msgstr "El rastro se detuvo..."
+msgstr "El rastreo se detuvo..."
 
 #. data/maps/forest/caves/path-11-maze.json entities/226/settings/event/1/thenStep/3/message #29
 #. EventTrigger doneComment START IF map.roomCnt > map.commentCnt
@@ -2940,7 +2940,7 @@ msgstr "El rastro se detuvo..."
 #: data/maps/forest/caves/path-11-maze.json+entities/226/settings/event/1/thenStep/3/message+%2329
 msgctxt "data/maps/forest/caves/path-11-maze.json//entities/226/settings/event/1/thenStep/3/message"
 msgid "Did you hear that sound, too?"
-msgstr "¿Tú también has oído ese sonido?"
+msgstr "¿Tú también oíste ese sonido?"
 
 #. data/maps/forest/caves/path-11-maze.json entities/226/settings/event/1/thenStep/4/message #30
 #. EventTrigger doneComment START IF map.roomCnt > map.commentCnt
@@ -2958,7 +2958,7 @@ msgstr "[asiente]"
 #: data/maps/forest/caves/path-11-maze.json+entities/226/settings/event/1/thenStep/5/message+%2331
 msgctxt "data/maps/forest/caves/path-11-maze.json//entities/226/settings/event/1/thenStep/5/message"
 msgid "It sounded like we did something right."
-msgstr "Parecía que habíamos hecho algo bien."
+msgstr "Sonó cómo si hubiéramos hecho algo bien."
 
 #. data/maps/forest/caves/path-11-maze.json entities/226/settings/event/1/thenStep/6/message #32
 #. EventTrigger doneComment START IF map.roomCnt > map.commentCnt
@@ -3012,7 +3012,7 @@ msgstr "[asiente]"
 #: data/maps/forest/caves/path-11-maze.json+entities/226/settings/event/3/thenStep/6/message+%2337
 msgctxt "data/maps/forest/caves/path-11-maze.json//entities/226/settings/event/3/thenStep/6/message"
 msgid "That must be it!"
-msgstr "¡Debe ser eso!"
+msgstr "¡Creo que ya está!"
 
 #. data/maps/forest/caves/path-11-maze.json entities/226/settings/event/3/thenStep/7/message #38
 #. EventTrigger doneComment START IF map.roomCnt > map.commentCnt
@@ -3021,7 +3021,7 @@ msgstr "¡Debe ser eso!"
 #: data/maps/forest/caves/path-11-maze.json+entities/226/settings/event/3/thenStep/7/message+%2338
 msgctxt "data/maps/forest/caves/path-11-maze.json//entities/226/settings/event/3/thenStep/7/message"
 msgid "We did it, Lea!"
-msgstr "¡Lo hicimos, Lea!"
+msgstr "¡Lo conseguimos, Lea!"
 
 #. data/maps/forest/caves/path-11-maze.json entities/226/settings/event/3/thenStep/8/message #39
 #. EventTrigger doneComment START IF map.roomCnt > map.commentCnt
@@ -3086,7 +3086,7 @@ msgstr "¿Pasa algo, Lea?"
 #: data/maps/forest/caves/path-11-to-12.json+entities/196/settings/event/11/thenStep/2/2_0/1/message+%233
 msgctxt "data/maps/forest/caves/path-11-to-12.json//entities/196/settings/event/11/thenStep/2/2_0/1/message"
 msgid "Spheromancer Lea! Is something the matter?"
-msgstr "¡Spheromancer Lea! ¿Pasa algo?"
+msgstr "¡Spheromancer Lea! ¿Hay algún problema?"
 
 #. data/maps/forest/caves/path-11-to-12.json entities/196/settings/event/11/thenStep/2/3_0/1/message #8
 #. EventTrigger START IF tmp.seeWaterfall
@@ -3129,7 +3129,7 @@ msgstr "[asiente]"
 #: data/maps/forest/caves/path-11-to-12.json+entities/196/settings/event/17/message+%2312
 msgctxt "data/maps/forest/caves/path-11-to-12.json//entities/196/settings/event/17/message"
 msgid "Phew... Finally, we found something."
-msgstr "Uf... Finalmente, encontramos algo."
+msgstr "Bien... Por fin encontramos algo."
 
 #. data/maps/forest/caves/path-11-to-12.json entities/196/settings/event/18/message #13
 #. EventTrigger START IF tmp.seeWaterfall
@@ -3137,7 +3137,7 @@ msgstr "Uf... Finalmente, encontramos algo."
 #: data/maps/forest/caves/path-11-to-12.json+entities/196/settings/event/18/message+%2313
 msgctxt "data/maps/forest/caves/path-11-to-12.json//entities/196/settings/event/18/message"
 msgid "Well then, we should have a closer look around here."
-msgstr "Entonces, deberíamos echar un vistazo más de cerca por aquí."
+msgstr "Pues bien, echemos un vistazo más de cerca por aquí."
 
 #. data/maps/forest/caves/path-11-to-12.json entities/196/settings/event/19/message #14
 #. EventTrigger START IF tmp.seeWaterfall
@@ -4231,7 +4231,7 @@ msgstr "Vagabundo"
 #: data/maps/forest/interior/dojo-boss.json+entities/30/settings/event/28/message+%2337
 msgctxt "data/maps/forest/interior/dojo-boss.json//entities/30/settings/event/28/message"
 msgid "That I would see the day a Seeker would best me in combat..."
-msgstr "Quien diría que vería el día en que un Buscador me superara en combate..."
+msgstr "Quien diría que vería el día en que un Buscador me supere en combate..."
 
 #. data/maps/forest/interior/dojo-boss.json entities/30/settings/event/29/message #38
 #. EventTrigger BossDone START IF map.bossKilled
@@ -8466,7 +8466,7 @@ msgstr "Completamos el Camino y ahora podemos entrar a \\c[3]Rhombus Square\\c[0
 #: data/maps/forest/interior/statue-room.json+entities/324/settings/event/34/message+%23907
 msgctxt "data/maps/forest/interior/statue-room.json//entities/324/settings/event/34/message"
 msgid "It means we reached the \\c[3]end game\\c[0]!"
-msgstr "¡Significa que hemos llegado al \\c[3]final del juego \\c[0]!"
+msgstr "¡Significa que hemos llegado al \\c[3]final del juego\\c[0]!"
 
 #. data/maps/forest/interior/statue-room.json entities/324/settings/event/35/message #908
 #. EventTrigger PostExpoScene START IF plot.line >= 19160
