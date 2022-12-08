@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-12-07 04:36+0000\n"
-"Last-Translator: Kevin Junior Neciosup Galeano <kjneciosup1@gmail.com>\n"
+"PO-Revision-Date: 2022-12-08 05:12+0000\n"
+"Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/database/es/>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
@@ -1810,7 +1810,7 @@ msgstr "Referencias de Rhombus"
 #: data/database.json+achievements/landmarks-rhombus/description+%2313491
 msgctxt "data/database.json//achievements/landmarks-rhombus/description"
 msgid "\\c[3]Find all Landmarks\\c[0] in Rhombus Square."
-msgstr "\\c[3]Encuentra todos los Puntos de Referencia\\c[0] en Rhombus Square."
+msgstr "\\c[3]Encuentra todos los Puntos de Referencia\\c[0] en Plaza Rombo."
 
 #. data/database.json achievements/chests-total-01/name #13356
 #: data/database.json+achievements/chests-total-01/name+%2313356
@@ -3081,7 +3081,7 @@ msgstr "La última mazmorra tutorial, enseñando a los jugadores lo básico de C
 #: data/database.json+areas/rhombus-sqr/name+%23244
 msgctxt "data/database.json//areas/rhombus-sqr/name"
 msgid "Rhombus Square"
-msgstr "Rhombus Square"
+msgstr "Plaza Rombo"
 
 #. data/database.json areas/rhombus-sqr/description #263
 #: data/database.json+areas/rhombus-sqr/description+%23263
@@ -3159,7 +3159,7 @@ msgstr "Cruce Central"
 #: data/database.json+areas/rhombus-sqr/landmarks/crosscentralInner/description+%23837
 msgctxt "data/database.json//areas/rhombus-sqr/landmarks/crosscentralInner/description"
 msgid "The main teleportation hub of CrossWorlds and the central entrance to Rhombus Square."
-msgstr "El principal centro de teleportación de CrossWorlds y la entrada central a Rhombus Square."
+msgstr "El principal centro de teleportación de CrossWorlds y la entrada central a Plaza Rombo."
 
 #. data/database.json areas/rookie-harbor/name #246
 #: data/database.json+areas/rookie-harbor/name+%23246
@@ -13314,7 +13314,7 @@ msgstr "¡Lea, estamos esperando en el \\c[3]Cruce Central\\c[0]!"
 #: data/database.json+commonEvents/emilie-contact/event/22/thenStep/2/message+%2314628
 msgctxt "data/database.json//commonEvents/emilie-contact/event/22/thenStep/2/message"
 msgid "Let's enter \\c[3]Rhombus Square\\c[0] together!"
-msgstr "¡Entremos a \\c[3]Rhombus Square\\c[0] juntas!"
+msgstr "¡Entremos a \\c[3]Plaza Rombo\\c[0] juntas!"
 
 #. data/database.json commonEvents/emilie-contact/event/23/thenStep/0/message #14629
 #. IF plot.line >= 19100
@@ -14161,7 +14161,7 @@ msgstr "¡Lea, estamos esperando en el \\c[3]Cruce Central\\c[0]!"
 #: data/database.json+commonEvents/emilie-join/event/9/thenStep/1/message+%2314695
 msgctxt "data/database.json//commonEvents/emilie-join/event/9/thenStep/1/message"
 msgid "Let's enter \\c[3]Rhombus Square\\c[0] together!"
-msgstr "¡Entremos a \\c[3]Rhombus Square\\c[0] juntas!"
+msgstr "¡Entremos a \\c[3]Plaza Rombo\\c[0] juntas!"
 
 #. data/database.json commonEvents/emilie-join/event/10/thenStep/0/message #14696
 #. IF plot.line >= 18800 && plot.line < 19050
@@ -14825,7 +14825,7 @@ msgstr "¡Hola Lea!"
 #: data/database.json+commonEvents/glasses-contact/event/15/thenStep/2/message+%2314712
 msgctxt "data/database.json//commonEvents/glasses-contact/event/15/thenStep/2/message"
 msgid "Gosh... Rhombus Square is massive! And so much going on. Traffic and people everywhere."
-msgstr "Dios... ¡Rhombus Square es enorme! Y tan lleno de vida. Hay tráfico y personas por todos lados."
+msgstr "Dios... ¡Plaza Rombo es enorme! Y tan lleno de vida. Hay tráfico y personas por todos lados."
 
 #. data/database.json commonEvents/glasses-contact/event/15/thenStep/3/message #14713
 #. IF plot.line >= 19250
@@ -14865,7 +14865,7 @@ msgstr "¡Hola!"
 #: data/database.json+commonEvents/glasses-contact/event/16/thenStep/1/message+%2314717
 msgctxt "data/database.json//commonEvents/glasses-contact/event/16/thenStep/1/message"
 msgid "Hello, Lea! We're waiting in \\c[3]CrossCentral\\c[0] right in front of the entrance to \\c[3]Rhombus Square\\c[0]!"
-msgstr "¡Hola, Lea! ¡Te estamos esperando en el \\c[3]Cruce Central\\c[0] justo en frente de la entrada a \\c[3]Rhombus Square\\c[0]!"
+msgstr "¡Hola, Lea! ¡Te estamos esperando en el \\c[3]Cruce Central\\c[0] justo en frente de la entrada a \\c[3]Plaza Rombo\\c[0]!"
 
 #. data/database.json commonEvents/glasses-contact/event/17/thenStep/0/message #14718
 #. IF plot.line >= 19050
@@ -15427,7 +15427,7 @@ msgstr "¡P-Perdón, Lea!\\. ¡Tengo que revisar algo!\\. ¡Volveré pronto, lo 
 #: data/database.json+commonEvents/glasses-join/event/9/thenStep/0/message+%2314770
 msgctxt "data/database.json//commonEvents/glasses-join/event/9/thenStep/0/message"
 msgid "Hello Lea! We're waiting in the \\c[3]Cross Central\\c[0] right in front of the entrance to \\c[3]Rhombus Square\\c[0]!"
-msgstr "¡Hola Lea! ¡Te estamos esperando en el \\c[3]Cruce Central\\c[0] justo en frente de la entrada de \\c[3]Rhombus Square\\c[0]!"
+msgstr "¡Hola Lea! ¡Te estamos esperando en el \\c[3]Cruce Central\\c[0] justo en frente de la entrada de \\c[3]Plaza Rombo\\c[0]!"
 
 #. data/database.json commonEvents/glasses-join/event/10/thenStep/0/message #14771
 #. IF plot.line >= 18800 && plot.line < 19050
@@ -15853,7 +15853,7 @@ msgstr "¡Hola!"
 #: data/database.json+commonEvents/apollo-contact/event/12/thenStep/1/message+%2314799
 msgctxt "data/database.json//commonEvents/apollo-contact/event/12/thenStep/1/message"
 msgid "Spheromancer Lea! Do you enjoy exploring \\c[3]Rhombus Square\\c[0]?"
-msgstr "¡Spheromancer Lea! ¿Disfrutas explorar \\c[3]Rhombus Square\\c[0]?"
+msgstr "¡Spheromancer Lea! ¿Disfrutas explorar \\c[3]Plaza Rombo\\c[0]?"
 
 #. data/database.json commonEvents/apollo-contact/event/12/thenStep/2/message #14800
 #. IF plot.line >= 19250
@@ -16291,7 +16291,7 @@ msgstr "¡Estoy seguro de que podremos iniciar nuestro honorable grupo luego!"
 #: data/database.json+commonEvents/apollo-join/event/6/thenStep/0/message+%2317797
 msgctxt "data/database.json//commonEvents/apollo-join/event/6/thenStep/0/message"
 msgid "Spheromancer Lea, I'm waiting for you at the \\c[3]Open PVP Fields\\c[0] in Rhombus Square!"
-msgstr "Spheromancer Lea, ¡Te espero en los \\c[3]campos PvP abiertos\\c[0] de Rhombus Square!"
+msgstr "Spheromancer Lea, ¡Te espero en los \\c[3]campos PvP abiertos\\c[0] de Plaza Rombo!"
 
 #. data/database.json commonEvents/apollo-join/event/6/thenStep/1/message #17798
 #. IF plot.line >= 44700 && plot.line < 45000
@@ -16731,7 +16731,7 @@ msgstr "Ey, Lea."
 #: data/database.json+commonEvents/joern-contact/event/12/thenStep/2/message+%2314944
 msgctxt "data/database.json//commonEvents/joern-contact/event/12/thenStep/2/message"
 msgid "Rhombus Square is nice. Almost like a proper city."
-msgstr "Me gusta Rhombus Square. Casi como una verdadera ciudad."
+msgstr "Me gusta Plaza Rombo. Casi como una verdadera ciudad."
 
 #. data/database.json commonEvents/joern-contact/event/12/thenStep/3/message #14945
 #. IF plot.line >= 19250
@@ -18222,7 +18222,7 @@ msgstr "Pero no te preocupes en llegar a ese nivel."
 #: data/database.json+commonEvents/shizuka-contact/event/11/thenStep/5/message+%2316022
 msgctxt "data/database.json//commonEvents/shizuka-contact/event/11/thenStep/5/message"
 msgid "Just make sure you get the \\c[3]good equipment\\c[0] from \\c[3]Rhombus Square\\c[0]. That will do."
-msgstr "Solo asegúrate de tener \\c[3]buen equipamiento\\c[0] de \\c[3]Rhombus Square\\c[0]. Eso debería bastar."
+msgstr "Solo asegúrate de tener \\c[3]buen equipamiento\\c[0] de \\c[3]Plaza Rombo\\c[0]. Eso debería bastar."
 
 #. data/database.json commonEvents/shizuka-contact/event/11/thenStep/6/message #16023
 #. IF plot.line >= 21200
@@ -19569,7 +19569,7 @@ msgstr "¡Hola!"
 #: data/database.json+commonEvents/hlin-contact/event/18/thenStep/1/message+%2315075
 msgctxt "data/database.json//commonEvents/hlin-contact/event/18/thenStep/1/message"
 msgid "Lea, dear! So I heard you finally reached Rhombus Square?"
-msgstr "¡Lea, querida! ¿He oído que finalmente llegaste a Rhombus Square?"
+msgstr "¡Lea, querida! ¿He oído que finalmente llegaste a Plaza Rombo?"
 
 #. data/database.json commonEvents/hlin-contact/event/18/thenStep/2/message #15076
 #. IF plot.line >= 19200
@@ -20195,7 +20195,7 @@ msgstr "Estoy muy emocionado."
 #: data/database.json+commonEvents/grumpy-contact/event/6/thenStep/7/message+%2317638
 msgctxt "data/database.json//commonEvents/grumpy-contact/event/6/thenStep/7/message"
 msgid "To be frank, Ivan told me a bit about what is planned.\\. It sounds quite promising."
-msgstr "Para ser franco, Iván me contó un poco sobre lo que se está planeado.\\. Suena bastante prometedor."
+msgstr "Para ser franco, Ivan me contó un poco sobre lo que se está planeado.\\. Suena bastante prometedor."
 
 #. data/database.json commonEvents/grumpy-contact/event/6/thenStep/8/message #17639
 #. IF plot.line >= 48400
@@ -20677,7 +20677,7 @@ msgstr "¡Hola!"
 #: data/database.json+commonEvents/grumpy-contact/event/14/thenStep/1/message+%2315296
 msgctxt "data/database.json//commonEvents/grumpy-contact/event/14/thenStep/1/message"
 msgid "Good day, Lea. I'm waiting for you in \\c[3]Rhombus Square\\c[0]. Better be quick, Ivan doesn't have a lot of free time."
-msgstr "Buen día, Lea. Te estoy esperando en \\c[3]Rhombus Square\\c[0]. Será mejor que te apures, Ivan no tiene mucho tiempo libre."
+msgstr "Buen día, Lea. Te estoy esperando en \\c[3]Plaza Rombo\\c[0]. Será mejor que te apures, Ivan no tiene mucho tiempo libre."
 
 #. data/database.json commonEvents/grumpy-contact/event/14/thenStep/2/message #15297
 #. IF plot.line >= 22500
@@ -20701,7 +20701,7 @@ msgstr "¡Hola!"
 #: data/database.json+commonEvents/grumpy-contact/event/15/thenStep/1/message+%2315299
 msgctxt "data/database.json//commonEvents/grumpy-contact/event/15/thenStep/1/message"
 msgid "So you saw me together with \\c[3]Ivan\\c[0] in Rhombus Square, hm?"
-msgstr "Así que me viste con \\c[3]Ivan\\c[0] en Rhombus Square, ¿no?"
+msgstr "Así que me viste con \\c[3]Ivan\\c[0] en Plaza Rombo, ¿no?"
 
 #. data/database.json commonEvents/grumpy-contact/event/15/thenStep/2/message #15300
 #. IF plot.line >= 22000
@@ -20765,7 +20765,7 @@ msgstr "¿...?"
 #: data/database.json+commonEvents/grumpy-contact/event/16/thenStep/3/message+%2315111
 msgctxt "data/database.json//commonEvents/grumpy-contact/event/16/thenStep/3/message"
 msgid "I am meeting an old friend in Rhombus Square."
-msgstr "Me juntaré con un viejo amigo en Rhombus Square."
+msgstr "Me juntaré con un viejo amigo en Plaza Rombo."
 
 #. data/database.json commonEvents/grumpy-contact/event/16/thenStep/4/message #15112
 #. IF plot.line >= 21200
@@ -29599,7 +29599,7 @@ msgstr "Capítulo 02: \\v[chapter.name.2]"
 #: data/database.json+lore/chapter-02/content/page-01-01/content+%233020
 msgctxt "data/database.json//lore/chapter-02/content/page-01-01/content"
 msgid "After narrowly escaping the \\c[3]mysterious blue man\\c[0] on the \\c[3]M.S. Solar\\c[0], Lea arrived at \\c[3]Newcomer's Bridge\\c[0] in \\c[3]Rhombus Square\\c[0] via teleportation. Sergey explained the tight security measures of that location, relieved because the blue individual would be unable to interfere again. He was also worried, though, because Lea had to pass as a real player. He promised to unlock new words for her soon to make that task easier."
-msgstr "Luego de casi ser atrapada por ese \\c[3]misterioso hombre azul\\c[0] en el \\c[3]M.S. Solar\\c[0], Lea fue transportada al \\c[3]Puente de los Principiantes\\c[0] en \\c[3]Rhombus Square\\c[0]. Sergey le explicó que ese área poseía varias medidas de seguridad, lo que fue un alivio ya que el extraño individuo no podría interrumpirlos otra vez. Pero aún así estaba preocupado, ya que Lea no debía levantar sospechas, y al no poder hablar, esa tarea se complicaría. Le prometió agregar más palabras a su vocabulario para ayudar ese fin."
+msgstr "Luego de casi ser atrapada por ese \\c[3]misterioso hombre azul\\c[0] en el \\c[3]M.S. Solar\\c[0], Lea fue transportada al \\c[3]Puente de los Principiantes\\c[0] en \\c[3]Plaza Rombo\\c[0]. Sergey le explicó que ese área poseía varias medidas de seguridad, lo que fue un alivio ya que el extraño individuo no podría interrumpirlos otra vez. Pero aún así estaba preocupado, ya que Lea no debía levantar sospechas, y al no poder hablar, esa tarea se complicaría. Le prometió agregar más palabras a su vocabulario para ayudar ese fin."
 
 #. data/database.json lore/chapter-02/content/page-01-02/content #3432
 #: data/database.json+lore/chapter-02/content/page-01-02/content+%233432
@@ -31279,7 +31279,7 @@ msgstr ""
 #: data/database.json+lore/rhombus-square/title+%23576
 msgctxt "data/database.json//lore/rhombus-square/title"
 msgid "Rhombus Square"
-msgstr "Rhombus Square"
+msgstr "Plaza Rombo"
 
 #. data/database.json lore/rhombus-square/content/page-01-01/content #2227
 #: data/database.json+lore/rhombus-square/content/page-01-01/content+%232227
@@ -31288,7 +31288,7 @@ msgid ""
 "Rhombus Square is the biggest city and capital of the human settlements on \\c[3]\\v[lore.title.planet]\\c[0]. It is located in the sea near \\c[3]\\v[area.rookie-harbor.name]\\c[0] and constructed entirely out of glass and advanced metal alloys.\n"
 "In order for a \\c[3]Seeker\\c[0] to gain access to the city, he must first collect all elements on the Track of the Ancients.\n"
 msgstr ""
-"Rhombus Square es la mayor ciudad y capital de los asentamientos humanos de \\c[3]\\v[lore.title.planet]\\c[0]. Está situada en el mar, cerca del \\c[3]\\v[area.rookie-harbor.name]\\c[0] y está construida enteramente de cristal y aleaciones metálicas avanzadas.\n"
+"Plaza Rombo es la mayor ciudad y capital de los asentamientos humanos de \\c[3]\\v[lore.title.planet]\\c[0]. Está situada en el mar, cerca del \\c[3]\\v[area.rookie-harbor.name]\\c[0] y está construida enteramente de cristal y aleaciones metálicas avanzadas.\n"
 "Para que un \\c[3]Buscador\\c[0] pueda acceder a la ciudad, primero debe reunir todos los elementos del Camino de los Antiguos.\n"
 
 #. data/database.json lore/newcomers-bridge/title #2349
@@ -31301,7 +31301,7 @@ msgstr "Puente de los Principiantes"
 #: data/database.json+lore/newcomers-bridge/content/page-01-01/content+%232351
 msgctxt "data/database.json//lore/newcomers-bridge/content/page-01-01/content"
 msgid "The Newcomer's Bridge is located in the skyline of \\c[3]Rhombus Square\\c[0] and serves as the basic training for new \\c[3]\\v[lore.title.seeker]s\\c[0]. Located near the end of the bridge is the \\c[3]\\v[area.rhombus-dng.name]\\c[0] where the new recruits face their final test before taking the skyrails to \\c[3]\\v[lore.title.cross-central]\\c[0] and leaving for the mainland."
-msgstr "El Puente de los Principiantes está situado debajo de \\c[3]Rhombus Square\\c[0] y sirve como entrenamiento básico para los nuevos \\c[3]\\v[lore.title.seeker]es\\c[0]. Cerca del final del puente se encuentra la \\c[3]\\v[area.rhombus-dng.name]\\c[0], donde los nuevos reclutas se enfrentan a su prueba final antes de tomar los raíles del cielo hacia \\c[3]\\v[lore.title.cross-central]\\c[0] y partir hacia el continente."
+msgstr "El Puente de los Principiantes está situado debajo de \\c[3]Plaza Rombo\\c[0] y sirve como entrenamiento básico para los nuevos \\c[3]\\v[lore.title.seeker]es\\c[0]. Cerca del final del puente se encuentra la \\c[3]\\v[area.rhombus-dng.name]\\c[0], donde los nuevos reclutas se enfrentan a su prueba final antes de tomar los raíles del cielo hacia \\c[3]\\v[lore.title.cross-central]\\c[0] y partir hacia el continente."
 
 #. data/database.json lore/rookie-dungeon/title #579
 #: data/database.json+lore/rookie-dungeon/title+%23579
@@ -31347,7 +31347,7 @@ msgid ""
 "It was founded directly after human arrival on the planet, even before the construction of the current capital Rhombus Square was started. Located at the coast in the middle of the continent, it is also the main trading and travelling hotspot of the mainland. It is often seen as the most comfortable human settlement."
 msgstr ""
 "El Puerto de los Novatos es el primer asentamiento humano real en el \\c[3]\\v[lore.title.planet]\\c[0] y también sirve como inicio del viaje de todo \\c[3]\\v[lore.title.seeker] en el \\c[3]\\v[lore.title.track-of-ancients]\\c[0].\n"
-"Se fundó inmediatamente después de la llegada de los humanos al planeta, incluso antes de que se iniciara la construcción de la capital, Rhombus Square. Situada en la costa, en el centro del continente, es también el principal punto de comercio y viajes del continente. A menudo se considera el asentamiento humano más cómodo."
+"Se fundó inmediatamente después de la llegada de los humanos al planeta, incluso antes de que se iniciara la construcción de la capital, Plaza Rombo. Situada en la costa, en el centro del continente, es también el principal punto de comercio y viajes del continente. A menudo se considera el asentamiento humano más cómodo."
 
 #. data/database.json lore/rookie-harbor/content/page-01-02/content #2142
 #: data/database.json+lore/rookie-harbor/content/page-01-02/content+%232142
@@ -31632,7 +31632,7 @@ msgstr "El Torreón de la Cuenca es una ciudad construida en una pequeña isla s
 #: data/database.json+lore/jungle-city/content/page-02/content+%2315647
 msgctxt "data/database.json//lore/jungle-city/content/page-02/content"
 msgid "The city grew large very fast as it became the main supplier for clean electricity that meets the demands of humans on \\c[3]Shadoon\\c[0]. Many Bars and luxurious penthouses can be visited or rented respectively.  Basin Keep is often viewed as gloomy since it is always raining and the high buildings leave the city in a permanent dark setting. Still many prefer the more urban nature of it compared to bright cities like \\c[3]Rhombus Square\\c[0]."
-msgstr "La ciudad creció muy rápido y se convirtió en el principal proveedor de electricidad limpia que satisface las demandas de los humanos en \\c[3]Shadoon\\c[0]. Numerosos Bares y lujosos áticos pueden ser visitados o alquilados respectivamente. El Torreón de la Cuenca a menudo se ve como sombrío ya que siempre llueve y los altos edificios dejan la ciudad en una oscuridad permanente. Aún así, muchos prefieren su naturaleza urbana un poco opuesta a \\c[3]Rhombus Square\\c[0]."
+msgstr "La ciudad creció muy rápido y se convirtió en el principal proveedor de electricidad limpia que satisface las demandas de los humanos en \\c[3]Shadoon\\c[0]. Numerosos Bares y lujosos áticos pueden ser visitados o alquilados respectivamente. El Torreón de la Cuenca a menudo se ve como sombrío ya que siempre llueve y los altos edificios dejan la ciudad en una oscuridad permanente. Aún así, muchos prefieren su naturaleza urbana un poco opuesta a \\c[3]Plaza Rombo\\c[0]."
 
 #. data/database.json lore/shock-dng/title #13546
 #: data/database.json+lore/shock-dng/title+%2313546
@@ -40111,7 +40111,7 @@ msgstr "Busca \\c[3]Reize\\c[0] en el \\c[3]Jardín de Gaia\\c[0] en algún luga
 #: data/database.json+quests/seizui-quest/tasks/4/task+%2316254
 msgctxt "data/database.json//quests/seizui-quest/tasks/4/task"
 msgid "Look for \\c[3]Reize\\c[0] in \\c[3]Rhombus Square\\c[0] to the \\c[3]south of the arena\\c[0]."
-msgstr "Busca a \\c[3]Reize\\c[0] en \\c[3]Rhombus Square\\c[0] al \\c[3]sur de la arena\\c[0]."
+msgstr "Busca a \\c[3]Reize\\c[0] en \\c[3]Plaza Rombo\\c[0] al \\c[3]sur de la arena\\c[0]."
 
 #. data/database.json quests/autobahn/hubSettings/location #18341
 #. IF plot.line >= 40000
@@ -40136,31 +40136,31 @@ msgstr "Capitán Curtis"
 #: data/database.json+quests/autobahn/description+%2318298
 msgctxt "data/database.json//quests/autobahn/description"
 msgid "A troupe of Hillkats has been spotted in the parks of Rhombus Square, digging up the precious soil. Help Captain Curtis to catch them!"
-msgstr "Se ha visto a un tropa de Colicatas en los parques de Rhombus Square, excavando el precioso suelo. ¡Ayuda al capitán Curtis a atraparlos!"
+msgstr "Se ha visto a un tropa de Colicatas en los parques de Plaza Rombo, excavando el precioso suelo. ¡Ayuda al capitán Curtis a atraparlos!"
 
 #. data/database.json quests/autobahn/briefing #18299
 #: data/database.json+quests/autobahn/briefing+%2318299
 msgctxt "data/database.json//quests/autobahn/briefing"
 msgid "All of the Hillkats and their dirt-filled vehicles have been dealt with!\\. Hopefully the parks of Rhombus Square are now safe."
-msgstr "¡Todos los Colicatas y sus vehículos llenos de tierra han sido tratados!\\. Esperemos que los parques de Rhombus Square ahora sean seguros."
+msgstr "¡Todos los Colicatas y sus vehículos llenos de tierra han sido tratados!\\. Esperemos que los parques de Plaza Rombo ahora sean seguros."
 
 #. data/database.json quests/autobahn/tasks/0/task #18342
 #: data/database.json+quests/autobahn/tasks/0/task+%2318342
 msgctxt "data/database.json//quests/autobahn/tasks/0/task"
 msgid "Watch for meerkats to appear in \\c[3]Rhombus Square - North Arch\\c[0]"
-msgstr "Esté atento a los suricatos que aparecen en \\c[3]Rhombus Square - Arco Norte\\c[0]"
+msgstr "Esté atento a los suricatos que aparecen en \\c[3]Plaza Rombo - Arco Norte\\c[0]"
 
 #. data/database.json quests/autobahn/tasks/1/task #18324
 #: data/database.json+quests/autobahn/tasks/1/task+%2318324
 msgctxt "data/database.json//quests/autobahn/tasks/1/task"
 msgid "Fight the Meerkats in the grass patch of \\c[3]Rhombus Square - North Arch\\c[0]"
-msgstr "Lucha contra los suricatos en el parche de hierba de \\c[3]Rhombus Square - Arco Norte\\c[0]"
+msgstr "Lucha contra los suricatos en el parche de hierba de \\c[3]Plaza Rombo - Arco Norte\\c[0]"
 
 #. data/database.json quests/autobahn/tasks/2/task #18343
 #: data/database.json+quests/autobahn/tasks/2/task+%2318343
 msgctxt "data/database.json//quests/autobahn/tasks/2/task"
 msgid "Meet Captain Curtis at the highway at \\c[3]Rhombus Square - Cliff Exhibition\\c[0]"
-msgstr "Reúnase con el Capitán Curtis en la autopista en \\c[3]Rhombus Square - Exhibición del Acantilado\\c[0]"
+msgstr "Reúnase con el Capitán Curtis en la autopista en \\c[3]Plaza Rombo - Exhibición del Acantilado\\c[0]"
 
 #. data/database.json quests/autobahn/tasks/3/task #18344
 #: data/database.json+quests/autobahn/tasks/3/task+%2318344
