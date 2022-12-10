@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-12-10 03:23+0000\n"
+"PO-Revision-Date: 2022-12-10 04:13+0000\n"
 "Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/lang/es/>\n"
 "Language: es_ES\n"
@@ -114,19 +114,19 @@ msgstr "Ronda [!]"
 #: data/lang/sc/gui.en_US.json+labels/arena/chain+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/chain"
 msgid "Chain"
-msgstr "Combo"
+msgstr "Racha"
 
 #. data/lang/sc/gui.en_US.json labels/arena/rushChain #0
 #: data/lang/sc/gui.en_US.json+labels/arena/rushChain+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/rushChain"
 msgid "Rush Chain"
-msgstr "Combo Rápido"
+msgstr "Racha Rápida"
 
 #. data/lang/sc/gui.en_US.json labels/arena/rushChainHigh #0
 #: data/lang/sc/gui.en_US.json+labels/arena/rushChainHigh+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/rushChainHigh"
 msgid "Highest Rush Chain"
-msgstr "Mayor Combo Rápido"
+msgstr "Racha Rápida Máxima"
 
 #. data/lang/sc/gui.en_US.json labels/arena/rushAbbreviated #0
 #: data/lang/sc/gui.en_US.json+labels/arena/rushAbbreviated+%230
@@ -156,13 +156,13 @@ msgstr "¡Nuevo Record!"
 #: data/lang/sc/gui.en_US.json+labels/arena/newTrophy+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/newTrophy"
 msgid "\\c[3]New Trophy Unlocked!\\c[0]"
-msgstr "\\c[3]Nuevo Trofeo Desbloqueado\\c[0]"
+msgstr "\\c[3]¡Nuevo Trofeo Desbloqueado!\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/arena/rushModeDone #0
 #: data/lang/sc/gui.en_US.json+labels/arena/rushModeDone+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/rushModeDone"
 msgid "Rush Mode Completed!"
-msgstr "¡Modo Rush Completado!"
+msgstr "¡Modo Oleada Completado!"
 
 #. data/lang/sc/gui.en_US.json labels/arena/roundFail #0
 #: data/lang/sc/gui.en_US.json+labels/arena/roundFail+%230
@@ -174,7 +174,7 @@ msgstr "¡Ronda Fallida!"
 #: data/lang/sc/gui.en_US.json+labels/arena/chainBonus+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/chainBonus"
 msgid "Chain Bonus"
-msgstr "Bonus de Cadena"
+msgstr "Bonus de Racha"
 
 #. data/lang/sc/gui.en_US.json labels/arena/dimReturns #0
 #: data/lang/sc/gui.en_US.json+labels/arena/dimReturns+%230
@@ -204,7 +204,7 @@ msgstr "Descripción de la [CUP_NAME]"
 #: data/lang/sc/gui.en_US.json+labels/arena/overview/trophyHeader+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/overview/trophyHeader"
 msgid "You got"
-msgstr "Has conseguido"
+msgstr "Obtuviste"
 
 #. data/lang/sc/gui.en_US.json labels/arena/overview/trophyNone #0
 #: data/lang/sc/gui.en_US.json+labels/arena/overview/trophyNone+%230
@@ -336,7 +336,7 @@ msgstr "Evita más de \\c[3][!] Golpes\\c[0]"
 #: data/lang/sc/gui.en_US.json+labels/arena/bonuses/TIME+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/bonuses/TIME"
 msgid "Time Bonus: \\c[3][!] Minutes\\c[0]"
-msgstr "Tiempo Bonus: \\c[3][!] Minutes\\c[0]"
+msgstr "Tiempo Bonus: \\c[3][!] Minutos\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/arena/bonuses/ITEMS_USED #0
 #: data/lang/sc/gui.en_US.json+labels/arena/bonuses/ITEMS_USED+%230
@@ -360,7 +360,7 @@ msgstr "Causa \\c[3][!]de Daño Efectivo\\c[0]"
 #: data/lang/sc/gui.en_US.json+labels/arena/bonuses/CHAIN+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/arena/bonuses/CHAIN"
 msgid "Reach a \\c[3][!]x Chain Multiplier\\c[0]"
-msgstr "Llega a un \\c[3]Multiplicador de Combo [!]x\\c[0]"
+msgstr "Alcanza un \\c[3]Multiplicador de Racha x[!]\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/arena/bonuses/NO_DAMAGE_TAKEN #0
 #: data/lang/sc/gui.en_US.json+labels/arena/bonuses/NO_DAMAGE_TAKEN+%230
@@ -3226,7 +3226,7 @@ msgstr "Te muestra tu cantidad de monedas de arena acumuladas. Gana Copas para c
 #: data/lang/sc/gui.en_US.json+labels/menu/help/arena/description/highscore+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/arena/description/highscore"
 msgid "Shows the combined score of all rounds including the Rush Mode score."
-msgstr "Muestra el puntaje combinado de todas las rondas, incluyendo el puntaje del Modo Rush."
+msgstr "Muestra el puntaje combinado de todas las rondas, incluyendo el puntaje del Modo Oleada."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/arena/description/highscoreRound #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/arena/description/highscoreRound+%230
@@ -3238,7 +3238,7 @@ msgstr "Muestra el puntaje más alto que hayas conseguido. Debajo puedes ver cua
 #: data/lang/sc/gui.en_US.json+labels/menu/help/arena/description/time+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/arena/description/time"
 msgid "Shows the combined time of all rounds. Below is the best time achieved in Rush Mode."
-msgstr "Muestra el tiempo combinado de todas las rondas. Debajo está tu mejor tiempo en el Modo Rush."
+msgstr "Muestra el tiempo combinado de todas las rondas. Debajo está tu mejor tiempo en el Modo Oleada."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/arena/description/difficulty #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/arena/description/difficulty+%230
@@ -3256,19 +3256,19 @@ msgstr "Muestra las Monedas de Arena obtenidas y la cantidad máxima que se pued
 #: data/lang/sc/gui.en_US.json+labels/menu/help/arena/description/coinsRound+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/arena/description/coinsRound"
 msgid "Shows the obtained and maximum Arena coins in a round or Rush Mode."
-msgstr "Muestra la cantidad obtenida y máxima de las Monedas de Arena en una ronda o el Modo Rush."
+msgstr "Muestra la cantidad obtenida y máxima de las Monedas de Arena en una ronda o el Modo Oleada."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/arena/description/rounds #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/arena/description/rounds+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/arena/description/rounds"
 msgid "Shows the number of rounds cleared and the total rounds in a cup. Below you can see what Rush Mode medal was achieved in a cup."
-msgstr "Muestra el número de rondas completadas y las rondas totales en una Copa. Debajo puedes ver que medalla del Modo Rush se obtuvo en la Copa."
+msgstr "Muestra el número de rondas completadas y las rondas totales en una Copa. Debajo puedes ver qué medalla del Modo Oleada se obtuvo en la Copa."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/arena/description/timeRound #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/arena/description/timeRound+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/arena/description/timeRound"
 msgid "Shows the best time achieved in a round or Rush Mode."
-msgstr "Muestra el mejor tiempo obtenido en una ronda o el Modo Rush."
+msgstr "Muestra el mejor tiempo obtenido en una ronda o el Modo Oleada."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/arena/description/avgLevel #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/arena/description/avgLevel+%230
@@ -3280,13 +3280,13 @@ msgstr "Muestra el nivel promedio de los enemigos en la Copa."
 #: data/lang/sc/gui.en_US.json+labels/menu/help/arena/description/clears+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/arena/description/clears"
 msgid "Shows the number of times a round or Rush Mode was completed."
-msgstr "Muestra la cantidad de veces que una ronda o el Modo Rush se ha completado."
+msgstr "Muestra la cantidad de veces que una ronda o el Modo Oleada se ha completado."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/arena/description/objective #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/arena/description/objective+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help/arena/description/objective"
 msgid "Shows what you need to do in order to successfully clear a round or Ruse Mode."
-msgstr "Muestra lo que debes hacer para completar una ronda o el Modo Rush exitosmente."
+msgstr "Muestra lo que debes hacer para completar una ronda o el Modo Oleada exitosamente."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help/arena/description/bonus #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help/arena/description/bonus+%230
@@ -7561,7 +7561,7 @@ msgstr "Total de rondas fallidas"
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/rushDone+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/stats/keys/rushDone"
 msgid "Total Rush Clears"
-msgstr "Desafíos en Modo Rush Completados"
+msgstr "Desafíos en Modo Oleada Completados"
 
 #. data/lang/sc/gui.en_US.json labels/menu/stats/keys/arenaScore #0
 #: data/lang/sc/gui.en_US.json+labels/menu/stats/keys/arenaScore+%230
