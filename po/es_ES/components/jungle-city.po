@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-12-11 01:47+0000\n"
-"Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
+"PO-Revision-Date: 2022-12-13 04:49+0000\n"
+"Last-Translator: Kevin Junior Neciosup Galeano <kjneciosup1@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/jungle-city/es/>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
@@ -3087,7 +3087,6 @@ msgstr "¡\\v[lore.title.seeker], el escudo ha caído!"
 #. EventTrigger bossCompressor START IF !tmp.bossShielded && tmp.ghostWalls && false
 #. SHOW_SIDE_MSG greenies-jungle.female-examiner-white @DEFAULT
 #: data/maps/jungle-city/entrance.json+entities/410/settings/event/10/message+%231773
-#, fuzzy
 msgctxt "data/maps/jungle-city/entrance.json//entities/410/settings/event/10/message"
 msgid "Use this wave-charger thingie to get him behind those walls!"
 msgstr "¡Usa este Cargador de Pulsos para ponerlo detrás de esas paredes!"
@@ -3335,7 +3334,6 @@ msgstr "Ya es bastante difícil perseguir a alguien en esta ciudad, con todo el 
 #. EventTrigger battleDone START IF map.bugsKilled >= 44
 #. SHOW_MSG basin.boogie @BALD
 #: data/maps/jungle-city/halloween/boss.json+entities/11/settings/event/19/message+%2310
-#, fuzzy
 msgctxt "data/maps/jungle-city/halloween/boss.json//entities/11/settings/event/19/message"
 msgid "So I knew I had to aim for something big, start a proper... boosiness!"
 msgstr "Así que supe que tenía que aspirar a algo grande, empezar un verdadero... ¡espectáculo!"
@@ -4750,7 +4748,7 @@ msgstr "[niega con la cabeza]"
 #: data/maps/jungle-city/interior/faction-adv-1.json+entities/67/settings/npcStates/1/event/quest/8/declined/1/message+%23540
 msgctxt "data/maps/jungle-city/interior/faction-adv-1.json//entities/67/settings/npcStates/1/event/quest/8/declined/1/message"
 msgid "Man, just our luck.\\. I hope you can clear some time for us soon."
-msgstr ""
+msgstr "Hombre, que mala suerte. \\. Espero que puedas liberar algo de tiempo para nosotros pronto."
 
 #. data/maps/jungle-city/interior/faction-adv-1.json entities/67/settings/npcStates/1/event/quest/8/declined/2/message #482
 #. NPC faction-leader
@@ -12966,7 +12964,7 @@ msgstr "... ¿Por qué?"
 #: data/maps/jungle-city/special/parrot-hq-2.json+entities/20/settings/event/3/0/16/text+%23565
 msgctxt "data/maps/jungle-city/special/parrot-hq-2.json//entities/20/settings/event/3/0/16/text"
 msgid "[curses of the bird variety]"
-msgstr ""
+msgstr "[maldiciones de pájaros]"
 
 #. data/maps/jungle-city/special/parrot-hq-2.json entities/20/settings/event/3/0/19/message #575
 #. EventTrigger firstBattle START IF tmp.touchScene1
