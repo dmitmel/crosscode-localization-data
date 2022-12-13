@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-12-13 06:27+0000\n"
-"Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
+"PO-Revision-Date: 2022-12-14 01:19+0000\n"
+"Last-Translator: Kevin Junior Neciosup Galeano <kjneciosup1@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/database/es/>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
@@ -18043,10 +18043,9 @@ msgstr "Me siento un poco oxidada...\\. Ha pasado un tiempo desde que estuve res
 #. IF plot.line >= 46500
 #. SHOW_MSG main.shizuka @SMUG
 #: data/database.json+commonEvents/shizuka-contact/event/7/thenStep/3/message+%2317541
-#, fuzzy
 msgctxt "data/database.json//commonEvents/shizuka-contact/event/7/thenStep/3/message"
 msgid "It would certainly help if I could borrow your recent memory for a change."
-msgstr "Sin duda ayudaría si pudiera tomar prestado tus recuerdos cercanos para variar."
+msgstr "Sin duda ayudaría si pudiera tomar prestado tus recuerdos para variar."
 
 #. data/database.json commonEvents/shizuka-contact/event/7/thenStep/4/message #17542
 #. IF plot.line >= 46500
@@ -18854,7 +18853,6 @@ msgstr "Tampoco ayuda que las casas parezcan tener un aislamiento de sonido bast
 #. IF maps.evoVillage/interior/leaUpper.musicOn
 #. SHOW_MSG main.luke @COMPLAINING
 #: data/database.json+commonEvents/luke-contact/event/10/thenStep/5/thenStep/0/message+%2317588
-#, fuzzy
 msgctxt "data/database.json//commonEvents/luke-contact/event/10/thenStep/5/thenStep/0/message"
 msgid "That's why I can hear every single note of that music playing from your house."
 msgstr "Por eso puedo escuchar cada una de las notas de esa música que suena en tu casa."
@@ -26433,7 +26431,6 @@ msgstr "Mamífero"
 
 #. data/database.json enemies/cold.goat-worker/descriptions/0/text #-14
 #: data/database.json+enemies/cold.goat-worker/descriptions/0/text+%23-14
-#, fuzzy
 msgctxt "data/database.json//enemies/cold.goat-worker/descriptions/0/text"
 msgid ""
 "This much more powerful and intelligent variant of the \\c[3]\\v[combat.name.goat]\\c[0] has only been sighted very recently.\n"
@@ -26824,7 +26821,7 @@ msgstr ""
 #: data/database.json+enemies/heat.moth/name+%234222
 msgctxt "data/database.json//enemies/heat.moth/name"
 msgid "Pada Moth"
-msgstr ""
+msgstr "Polilla Parda"
 
 #. data/database.json enemies/heat.moth/species #-1
 #: data/database.json+enemies/heat.moth/species+%23-1
@@ -26846,7 +26843,7 @@ msgstr ""
 #: data/database.json+enemies/heat.darth-moth/name+%234223
 msgctxt "data/database.json//enemies/heat.darth-moth/name"
 msgid "Darth Moth"
-msgstr ""
+msgstr "Polilla Oscura"
 
 #. data/database.json enemies/heat.darth-moth/species #-1
 #: data/database.json+enemies/heat.darth-moth/species+%23-1
@@ -26864,7 +26861,7 @@ msgstr "Una mutación del \\v[combat.name.heat/moth] que de alguna manera ha gan
 #: data/database.json+enemies/heat.special.sand-moth-1/name+%2316357
 msgctxt "data/database.json//enemies/heat.special.sand-moth-1/name"
 msgid "Sandamoth"
-msgstr ""
+msgstr "Polilla Árida"
 
 #. data/database.json enemies/heat.special.sand-moth-1/species #-1
 #: data/database.json+enemies/heat.special.sand-moth-1/species+%23-1
@@ -27192,9 +27189,10 @@ msgstr ""
 
 #. data/database.json enemies/jungle.fish/name #7441
 #: data/database.json+enemies/jungle.fish/name+%237441
+#, fuzzy
 msgctxt "data/database.json//enemies/jungle.fish/name"
 msgid "Angler"
-msgstr ""
+msgstr "Rape"
 
 #. data/database.json enemies/jungle.fish/species #-4
 #: data/database.json+enemies/jungle.fish/species+%23-4
@@ -27212,7 +27210,7 @@ msgstr "Este pez que se acerca a ti desde las profundidades, se ha introducido e
 #: data/database.json+enemies/jungle.special.quest_td_fish_1/name+%2313758
 msgctxt "data/database.json//enemies/jungle.special.quest_td_fish_1/name"
 msgid "Tunnel Angler"
-msgstr ""
+msgstr "Rape del túnel"
 
 #. data/database.json enemies/jungle.special.quest_td_fish_1/species #-4
 #: data/database.json+enemies/jungle.special.quest_td_fish_1/species+%23-4
@@ -27258,7 +27256,7 @@ msgstr ""
 #: data/database.json+enemies/jungle.fish-gear/name+%2316368
 msgctxt "data/database.json//enemies/jungle.fish-gear/name"
 msgid "Leggy Angler"
-msgstr ""
+msgstr "Rape Piernudo"
 
 #. data/database.json enemies/jungle.fish-gear/species #-4
 #: data/database.json+enemies/jungle.fish-gear/species+%23-4
@@ -27276,7 +27274,7 @@ msgstr "Este pez nunca se salta el día de entrenar las piernas."
 #: data/database.json+enemies/jungle.blueray/name+%237745
 msgctxt "data/database.json//enemies/jungle.blueray/name"
 msgid "Blue Ray"
-msgstr ""
+msgstr "Manta Raya Azul"
 
 #. data/database.json enemies/jungle.blueray/species #-4
 #: data/database.json+enemies/jungle.blueray/species+%23-4
@@ -27446,7 +27444,7 @@ msgstr "Encontrados principalmente en cuevas de \\v[area.forest.name], esta ara�
 #: data/database.json+enemies/minibosses.spider-black/name+%2316131
 msgctxt "data/database.json//enemies/minibosses.spider-black/name"
 msgid "War Webster"
-msgstr ""
+msgstr "Tejedora Guerrera"
 
 #. data/database.json enemies/minibosses.spider-black/species #-4
 #: data/database.json+enemies/minibosses.spider-black/species+%23-4
@@ -27464,7 +27462,7 @@ msgstr "Raramente encontrado en cuevas de \\v[area.forest.name], este vil demoni
 #: data/database.json+enemies/arid.rhino/name+%2313554
 msgctxt "data/database.json//enemies/arid.rhino/name"
 msgid "Failed Rhino"
-msgstr ""
+msgstr "Rino Fallido"
 
 #. data/database.json enemies/arid.rhino/species #-1
 #: data/database.json+enemies/arid.rhino/species+%23-1
@@ -27542,9 +27540,10 @@ msgstr "Armado con una boca que hace las veces de pistola de francotirador, este
 
 #. data/database.json enemies/beach.sea-star-heat/name #17244
 #: data/database.json+enemies/beach.sea-star-heat/name+%2317244
+#, fuzzy
 msgctxt "data/database.json//enemies/beach.sea-star-heat/name"
 msgid "Echinoignis"
-msgstr ""
+msgstr "Estrella Ígnea"
 
 #. data/database.json enemies/beach.sea-star-heat/species #-4
 #: data/database.json+enemies/beach.sea-star-heat/species+%23-4
@@ -27564,9 +27563,10 @@ msgstr ""
 
 #. data/database.json enemies/beach.sea-star-cold/name #17243
 #: data/database.json+enemies/beach.sea-star-cold/name+%2317243
+#, fuzzy
 msgctxt "data/database.json//enemies/beach.sea-star-cold/name"
 msgid "Echinonix"
-msgstr ""
+msgstr "Estrella Gélida"
 
 #. data/database.json enemies/beach.sea-star-cold/species #-4
 #: data/database.json+enemies/beach.sea-star-cold/species+%23-4
@@ -27586,9 +27586,10 @@ msgstr ""
 
 #. data/database.json enemies/beach.sea-star-shock/name #17245
 #: data/database.json+enemies/beach.sea-star-shock/name+%2317245
+#, fuzzy
 msgctxt "data/database.json//enemies/beach.sea-star-shock/name"
 msgid "Echinofulgur"
-msgstr ""
+msgstr "Estrella Fulgor"
 
 #. data/database.json enemies/beach.sea-star-shock/species #-4
 #: data/database.json+enemies/beach.sea-star-shock/species+%23-4
@@ -27608,9 +27609,10 @@ msgstr ""
 
 #. data/database.json enemies/beach.sea-star-wave/name #17246
 #: data/database.json+enemies/beach.sea-star-wave/name+%2317246
+#, fuzzy
 msgctxt "data/database.json//enemies/beach.sea-star-wave/name"
 msgid "Echinofluctus"
-msgstr ""
+msgstr "Estrella Fluctuante"
 
 #. data/database.json enemies/beach.sea-star-wave/species #-4
 #: data/database.json+enemies/beach.sea-star-wave/species+%23-4
@@ -28975,7 +28977,7 @@ msgstr "Centinela Guardián"
 #: data/database.json+enemies/cold.turret-monks-invinc/name+%235179
 msgctxt "data/database.json//enemies/cold.turret-monks-invinc/name"
 msgid "Trial Guardians"
-msgstr ""
+msgstr "Guardianes de la Prueba"
 
 #. data/database.json enemies/cold.turret-monks-invinc/species #-2
 #: data/database.json+enemies/cold.turret-monks-invinc/species+%23-2
@@ -28999,7 +29001,7 @@ msgstr "Robot de Mina"
 #: data/database.json+enemies/arid.mega-laser/name+%2313464
 msgctxt "data/database.json//enemies/arid.mega-laser/name"
 msgid "Laser of Doom"
-msgstr ""
+msgstr "Destructor Láser"
 
 #. data/database.json enemies/arid.mega-laser/species #-4
 #: data/database.json+enemies/arid.mega-laser/species+%23-4
@@ -29017,7 +29019,7 @@ msgstr "No cruzar."
 #: data/database.json+enemies/beat-bot/name+%2345
 msgctxt "data/database.json//enemies/beat-bot/name"
 msgid "Cargo Boss Test 2"
-msgstr ""
+msgstr "Prueba del Jefe Cargero 2"
 
 #. data/database.json enemies/beat-bot/species #-1
 #: data/database.json+enemies/beat-bot/species+%23-1
@@ -29053,7 +29055,7 @@ msgstr "Robot Novato"
 #: data/database.json+enemies/boss-extra/name+%2349
 msgctxt "data/database.json//enemies/boss-extra/name"
 msgid "Blue Cargo Crab"
-msgstr ""
+msgstr "Cangrejo Azul Cargero"
 
 #. data/database.json enemies/boss-extra/species #-1
 #: data/database.json+enemies/boss-extra/species+%23-1
@@ -29065,7 +29067,7 @@ msgstr "Mecha Desconocido "
 #: data/database.json+enemies/beat-boss/name+%2343
 msgctxt "data/database.json//enemies/beat-boss/name"
 msgid "Cargo Boss Test 1"
-msgstr ""
+msgstr "Prueba del Jefe Cargero 1"
 
 #. data/database.json enemies/beat-boss/species #-1
 #: data/database.json+enemies/beat-boss/species+%23-1
@@ -29275,7 +29277,7 @@ msgstr "Desconocido"
 #: data/database.json+enemies/jungle.special.aircon/name+%2314070
 msgctxt "data/database.json//enemies/jungle.special.aircon/name"
 msgid "Ultra Cooler"
-msgstr ""
+msgstr "Ultra Enfriador"
 
 #. data/database.json enemies/jungle.special.aircon/species #-1
 #: data/database.json+enemies/jungle.special.aircon/species+%23-1
@@ -29311,7 +29313,7 @@ msgstr "Centinela Guardián"
 #: data/database.json+enemies/turret-bot/name+%2378
 msgctxt "data/database.json//enemies/turret-bot/name"
 msgid "Rhombus Turret 1.0"
-msgstr ""
+msgstr "Torreta Rombo 1.0"
 
 #. data/database.json enemies/turret-bot/species #-1
 #: data/database.json+enemies/turret-bot/species+%23-1
@@ -29323,7 +29325,7 @@ msgstr "Centinela Novato"
 #: data/database.json+enemies/troll-mouse-bot/name+%2376
 msgctxt "data/database.json//enemies/troll-mouse-bot/name"
 msgid "Ultra Mouse"
-msgstr ""
+msgstr "Ratón Ultra"
 
 #. data/database.json enemies/troll-mouse-bot/species #-4
 #: data/database.json+enemies/troll-mouse-bot/species+%23-4
@@ -38431,7 +38433,6 @@ msgstr "¡La máquina de cálculo nueva y mejorada necesita elogios y evaluació
 
 #. data/database.json quests/console-pc-1/name #16430
 #: data/database.json+quests/console-pc-1/name+%2316430
-#, fuzzy
 msgctxt "data/database.json//quests/console-pc-1/name"
 msgid "Best in the West"
 msgstr "El mejor del Oeste"
@@ -39440,7 +39441,6 @@ msgstr "Don Vita Calzone"
 
 #. data/database.json quests/basin-mush-2/description #9475
 #: data/database.json+quests/basin-mush-2/description+%239475
-#, fuzzy
 msgctxt "data/database.json//quests/basin-mush-2/description"
 msgid "Don Vita wants you to find a way past the guards on a special trading route below the city that goes all the way to the infested jungle. Help him and he will grant you a pass to the traders of \\c[3]Pond Slums\\c[0]."
 msgstr "Don Vita quiere que encuentres una forma de pasar por los guardias en una ruta comercial especial debajo de la ciudad que llega hasta la Jungla Infestada. Ayúdalo y te dará un pase para los comerciantes de \\c[3]Marginales del Estanque\\c[0]."
@@ -39489,7 +39489,6 @@ msgstr "Pumpkin Land Superfun"
 
 #. data/database.json quests/halloween/person #8588
 #: data/database.json+quests/halloween/person+%238588
-#, fuzzy
 msgctxt "data/database.json//quests/halloween/person"
 msgid "The Boosi Man"
 msgstr "The Boosi Man"
