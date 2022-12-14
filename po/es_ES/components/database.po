@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-12-14 01:19+0000\n"
+"PO-Revision-Date: 2022-12-14 06:53+0000\n"
 "Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/database/es/>\n"
 "Language: es_ES\n"
@@ -2681,7 +2681,7 @@ msgstr "Originalmente una Mina muy activa con un templo sin descubrir repleto de
 #: data/database.json+areas/evo-village/name+%2316698
 msgctxt "data/database.json//areas/evo-village/name"
 msgid "Homestedt"
-msgstr "Homestedt"
+msgstr "Villa Evotar"
 
 #. data/database.json areas/evo-village/description #16700
 #: data/database.json+areas/evo-village/description+%2316700
@@ -2773,7 +2773,7 @@ msgstr "Viejo Dojo"
 #: data/database.json+areas/forest/landmarks/dojo/description+%2313459
 msgctxt "data/database.json//areas/forest/landmarks/dojo/description"
 msgid "And old training ground build by early settlers."
-msgstr "Un viejo campo de entrenamiento construído por los primeros colonos."
+msgstr "Un viejo campo de entrenamiento construido por los primeros colonos."
 
 #. data/database.json areas/forest/landmarks/upper/name #13438
 #: data/database.json+areas/forest/landmarks/upper/name+%2313438
@@ -3339,7 +3339,7 @@ msgstr "La Última Raid"
 #: data/database.json+chapters/11/name+%2318109
 msgctxt "data/database.json//chapters/11/name"
 msgid "Homestedt"
-msgstr "Homestedt"
+msgstr "Villa Evotar"
 
 #. data/database.json chapters/12/name #18153
 #: data/database.json+chapters/12/name+%2318153
@@ -13098,7 +13098,7 @@ msgstr "¡Es bueno tenerte de vuelta!"
 #: data/database.json+commonEvents/emilie-contact/event/16/thenStep/3/message+%2317396
 msgctxt "data/database.json//commonEvents/emilie-contact/event/16/thenStep/3/message"
 msgid "Anyway, we're in the middle of the Homestedt tour, non?"
-msgstr "De todos modos, estamos en medio de la visita a Homestedt, ¿no?"
+msgstr "En fin, estamos en medio del tour de Villa Evotar, ¿no?"
 
 #. data/database.json commonEvents/emilie-contact/event/17/thenStep/0/message #17397
 #. IF plot.line >= 30000
@@ -15403,7 +15403,7 @@ msgstr "Lo siento Lea, ahora no..."
 #: data/database.json+commonEvents/glasses-join/event/7/thenStep/0/message+%2316835
 msgctxt "data/database.json//commonEvents/glasses-join/event/7/thenStep/0/message"
 msgid "Hey there Lea!\\. I'm currently taking a break in Homestedt."
-msgstr "¡Hola Lea!\\. Estoy tomándome un descanso en Homestedt."
+msgstr "¡Hola Lea!\\. Estoy tomándome un descanso en Villa Evotar."
 
 #. data/database.json commonEvents/glasses-join/event/7/thenStep/1/message #16832
 #. IF plot.line >= 45000 && plot.line < 46000
@@ -17281,7 +17281,7 @@ msgstr "¡Hola Lea!"
 #: data/database.json+commonEvents/schneider-contact/event/12/thenStep/2/message+%2317528
 msgctxt "data/database.json//commonEvents/schneider-contact/event/12/thenStep/2/message"
 msgid "Sorry, I'm currently not offering tours via D-Links."
-msgstr "Lo siento, actualmente no ofrezco visitas a través de Mensajes Directos."
+msgstr "Lo siento, actualmente no ofrezco tours vía MD."
 
 #. data/database.json commonEvents/schneider-contact/event/12/thenStep/3/message #17529
 #. IF plot.line >= 40000
@@ -17289,7 +17289,7 @@ msgstr "Lo siento, actualmente no ofrezco visitas a través de Mensajes Directos
 #: data/database.json+commonEvents/schneider-contact/event/12/thenStep/3/message+%2317529
 msgctxt "data/database.json//commonEvents/schneider-contact/event/12/thenStep/3/message"
 msgid "So you better pay attention to the tour currently taking place in the Playground!"
-msgstr "Así que, ¡Será mejor que prestes atención a la gira que se está llevando a cabo en el Parque!"
+msgstr "¡Así que será mejor que prestes atención al que estoy haciendo ahora mismo en el Campo de Juego!"
 
 #. data/database.json commonEvents/schneider-contact/event/12/thenStep/4/message #17531
 #. IF plot.line >= 40000
@@ -17329,7 +17329,7 @@ msgstr "Te hace pensar que tenía Instatainment planeado hacer con esa construcc
 #: data/database.json+commonEvents/schneider-contact/event/13/thenStep/3/message+%2314975
 msgctxt "data/database.json//commonEvents/schneider-contact/event/13/thenStep/3/message"
 msgid "Anyway! For you it's just about taking on that blue avatar's challenge, right?"
-msgstr "¡Como sea! Para ti solo importa aceptar el desafío de ese avatar azul, ¿no?"
+msgstr "¡En fin! A ti solo te importa aceptar el desafío de ese avatar azul, ¿no?"
 
 #. data/database.json commonEvents/schneider-contact/event/13/thenStep/4/message #14976
 #. IF plot.line >= 30000
@@ -17779,7 +17779,7 @@ msgstr "¡Ey! ¿No te avisó Emilie sobre la reunión?"
 #: data/database.json+commonEvents/schneider-join/event/5/thenStep/1/message+%2316890
 msgctxt "data/database.json//commonEvents/schneider-join/event/5/thenStep/1/message"
 msgid "We're currently in the \\c[3]city hall\\c[0] of \\c[3]Homestedt\\c[0].\\. You should join us!"
-msgstr "Estamos en el \\c[3]ayuntamiento\\c[0] de \\c[3]Homestedt\\c[0].\\. ¡Deberías unírtenos!"
+msgstr "Estamos en el \\c[3]ayuntamiento\\c[0] de \\c[3]Villa Evotar\\c[0].\\. ¡Deberías venir!"
 
 #. data/database.json commonEvents/schneider-join/event/6/thenStep/0/message #16823
 #. IF plot.line >= 41400 && plot.line < 41700
@@ -18614,7 +18614,7 @@ msgstr "De todos modos, Emilie ya me lo dijo."
 #: data/database.json+commonEvents/luke-contact/event/7/thenStep/5/message+%2317575
 msgctxt "data/database.json//commonEvents/luke-contact/event/7/thenStep/5/message"
 msgid "And now everybody is meeting right here in Homestedt to discuss it."
-msgstr "Y ahora todo el mundo se está reuniendo aquí mismo en Homestedt para discutirlo."
+msgstr "Y ahora todo el mundo se está reuniendo aquí mismo en Villa Evotar para discutirlo."
 
 #. data/database.json commonEvents/luke-contact/event/8/thenStep/1/message #17839
 #. IF plot.line >= 46000
@@ -19263,7 +19263,7 @@ msgstr "Lea, ¡querida!\\. ¿Has oído las noticias?\\. ¡Lanzarán un \\c[3]nue
 #: data/database.json+commonEvents/hlin-contact/event/9/thenStep/2/message+%2317712
 msgctxt "data/database.json//commonEvents/hlin-contact/event/9/thenStep/2/message"
 msgid "We're currently meeting in the \\c[3]city hall\\c[0] of \\c[3]Homestedt\\c[0], so we can plan to run the whole dungeon together!"
-msgstr "Actualmente nos estamos reuniendo en el \\c[3]ayuntamiento\\c[0] de \\c[3]Homestedt\\c[0], ¡Para que podamos ir a la mazmorra juntos!"
+msgstr "¡Actualmente nos estamos reuniendo en el \\c[3]ayuntamiento\\c[0] de \\c[3]Villa Evotar\\c[0] para planear una juntada en la mazmorra!"
 
 #. data/database.json commonEvents/hlin-contact/event/9/thenStep/3/message #17713
 #. IF plot.line >= 46200
@@ -19439,7 +19439,7 @@ msgstr "¡Hola!"
 #: data/database.json+commonEvents/hlin-contact/event/14/thenStep/1/message+%2317729
 msgctxt "data/database.json//commonEvents/hlin-contact/event/14/thenStep/1/message"
 msgid "Lea dear, Homestedt really looks lovely, doesn't it?"
-msgstr "Lea querida, Homestedt se ve realmente encantador, ¿no es así?"
+msgstr "Lea querida, la Villa Evotar se ve realmente encantadora, ¿no es así?"
 
 #. data/database.json commonEvents/hlin-contact/event/14/thenStep/2/message #17730
 #. IF plot.line >= 40000
@@ -21351,7 +21351,7 @@ msgstr "¡No puedo esperar a que se abra!"
 #: data/database.json+commonEvents/buggy-contact/event/7/thenStep/4/message+%2317682
 msgctxt "data/database.json//commonEvents/buggy-contact/event/7/thenStep/4/message"
 msgid "We're meeting in the city hall of Homestedt, because we want to run it all together!"
-msgstr "Nos reunimos en el ayuntamiento de Homestedt, ¡Queremos ir todos juntos!"
+msgstr "¡Nos estamos reuniendo en el ayuntamiento de Villa Evotar porque queremos ir todos juntos!"
 
 #. data/database.json commonEvents/buggy-contact/event/8/thenStep/0/message #17683
 #. IF plot.line >= 44400
@@ -31730,7 +31730,7 @@ msgstr "El sur alberga un albergue llamado la \\c[3]Posada de la Cueva\\c[0], qu
 #: data/database.json+lore/evo-village/title+%2317330
 msgctxt "data/database.json//lore/evo-village/title"
 msgid "Homestedt"
-msgstr "Homestedt"
+msgstr "Villa Evotar"
 
 #. data/database.json lore/evo-village/content/page-01-01/content #17331
 #: data/database.json+lore/evo-village/content/page-01-01/content+%2317331
@@ -31740,8 +31740,8 @@ msgid ""
 "As of now the town counts a humble five buildings and is built beside a small lake close to \\c[3]\\v[area.autumn-area.name]\\c[0]. Only certified personnel and players are allowed within the borders however as the place is still in development as \\c[3]\\v[lore.title.dev-company]\\c[0] figures out what to do with the Evotars.\n"
 "\n"
 msgstr ""
-"Homestedt es un pequeño asentamiento hecho específicamente para Evotares. El espacio fue creado con la idea de ampliarlo a medida que se recuperen más Evotares de los datos del servidor recuperado de \\c[3]\\v[area.arid.name]\\c[0].\n"
-"Por ahora la ciudad cuenta con unos humildes cinco edificios y está construida junto a un pequeño lago cerca de \\c[3]\\v[area.autumn-area.name]\\c[0]. Sin embargo, sólo se permite la entrada de personal certificado y de jugadores, ya que el lugar aún está en desarrollo mientras \\c[3]\\v[lore.title.dev-company]\\c[0] averigua qué hacer con los Evotares.\n"
+"La Villa Evotar es un pequeño asentamiento hecho específicamente para Evotares. El espacio fue creado con la idea de ampliarlo a medida que se recuperen más Evotares de los datos del servidor recuperados del \\c[3]\\v[area.arid.name]\\c[0].\n"
+"Por ahora la ciudad cuenta con unos humildes cinco edificios y está construida junto a un pequeño lago cerca de \\c[3]\\v[area.autumn-area.name]\\c[0]. Sin embargo, sólo se permite la entrada a cierto personal y jugadores autorizados, ya que el lugar aún está en desarrollo mientras \\c[3]\\v[lore.title.dev-company]\\c[0] averigua qué hacer con los Evotares.\n"
 "\n"
 
 #. data/database.json lore/beach/title #17332
@@ -31962,7 +31962,7 @@ msgid ""
 "- \\c[3]Rookie Harbor Guards (RHG)\\c[0] in \\c[3]\\v[area.rookie-harbor.name]\\c[0]"
 msgstr ""
 "Las subdivisiones incluyen:\n"
-"- \\c[3]Guardia del Puerto Recluta (RHG)\\c[0] en \\c[3]\\v[area.rookie-harbor.name]\\c[0]"
+"- \\c[3]Guardia del Puerto Recluta (GPR)\\c[0] en \\c[3]\\v[area.rookie-harbor.name]\\c[0]"
 
 #. data/database.json lore/faction-cold-main/content/page-01-03/content #5111
 #: data/database.json+lore/faction-cold-main/content/page-01-03/content+%235111
@@ -31992,7 +31992,7 @@ msgstr "Guardia del Puerto Recluta"
 #: data/database.json+lore/faction-cold-rookieharbor/content/page-01-01/content+%233477
 msgctxt "data/database.json//lore/faction-cold-rookieharbor/content/page-01-01/content"
 msgid "As the subdivision of the \\c[3]Human Preservation Department\\c[0] in \\c[3]\\v[area.rookie-harbor.name]\\c[0], the \\c[3]Rookie Harbor Guard (RHG)\\c[0] is tasked to keep justice and order in \\v[area.rookie-harbor.name] and the surrounding areas like \\v[area.autumn-area.name]. This includes both defending against attacks from the track and solving crimes done by other humans. "
-msgstr "Como subdivisión del \\c[3]Departamento de Preservación Humana\\c[0] en \\c[3]\\v[área.rookie-harbor.name]\\c[0], la \\c[3]Guardia del Puerto Recluta (RHG)\\c[0] tiene la tarea de mantener la justicia y el orden en \\v[área.rookie-harbor.name] y las áreas circundantes como \\v[área.autumn-area.name]. Esto incluye tanto la defensa contra los ataques del Camino como la resolución de los crímenes cometidos por otros humanos. "
+msgstr "Como subdivisión del \\c[3]Departamento de Preservación Humana\\c[0] en \\c[3]\\v[área.rookie-harbor.name]\\c[0], la \\c[3]Guardia del Puerto Recluta (GPR)\\c[0] tiene la tarea de mantener la justicia y el orden en \\v[área.rookie-harbor.name] y las áreas circundantes como \\v[área.autumn-area.name]. Esto incluye tanto la defensa contra los ataques del Camino como la resolución de los crímenes cometidos por otros humanos. "
 
 #. data/database.json lore/faction-cold-rookieharbor/content/page-01-02/content #5112
 #: data/database.json+lore/faction-cold-rookieharbor/content/page-01-02/content+%235112
@@ -40506,28 +40506,28 @@ msgstr "Visita las \\c[3]4 facciones\\c[0] en el \\v[area.rookie-harbor.name]"
 #: data/database.json+quests/faction-tutorial/tasks/0/subtasks/0/text+%236778
 msgctxt "data/database.json//quests/faction-tutorial/tasks/0/subtasks/0/text"
 msgid "Visit the \\c[3]FD\\c[0] HQ southwest of the \\c[3]Market\\c[0]"
-msgstr "Visita la Sede de los \\c[3]FD\\c[0] en el suroeste del \\c[3]Mercado\\c[0]"
+msgstr "Visita la Sede de los \\c[3]CD\\c[0] en el suroeste del \\c[3]Mercado\\c[0]"
 
 #. data/database.json quests/faction-tutorial/tasks/0/subtasks/0/shortText #6779
 #. CONDITION
 #: data/database.json+quests/faction-tutorial/tasks/0/subtasks/0/shortText+%236779
 msgctxt "data/database.json//quests/faction-tutorial/tasks/0/subtasks/0/shortText"
 msgid "Visit the \\c[3]FD\\c[0] HQ"
-msgstr "Visita la Sede de los \\c[3]FD\\c[0]"
+msgstr "Visita la Sede de los \\c[3]CD\\c[0]"
 
 #. data/database.json quests/faction-tutorial/tasks/0/subtasks/1/text #6780
 #. CONDITION
 #: data/database.json+quests/faction-tutorial/tasks/0/subtasks/1/text+%236780
 msgctxt "data/database.json//quests/faction-tutorial/tasks/0/subtasks/1/text"
 msgid "Visit the \\c[3]RHG\\c[0] HQ near the \\c[3]western exit\\c[0]"
-msgstr "Visita la Sede de la \\c[3]PPP\\c[0] cerca de la \\c[3]Salida Oeste\\c[0]"
+msgstr "Visita la Sede de la \\c[3]GPR\\c[0] cerca de la \\c[3]Salida Oeste\\c[0]"
 
 #. data/database.json quests/faction-tutorial/tasks/0/subtasks/1/shortText #6781
 #. CONDITION
 #: data/database.json+quests/faction-tutorial/tasks/0/subtasks/1/shortText+%236781
 msgctxt "data/database.json//quests/faction-tutorial/tasks/0/subtasks/1/shortText"
 msgid "Visit the \\c[3]RHG\\c[0] HQ"
-msgstr "Visita la Sede de la \\c[3]PPP\\c[0]"
+msgstr "Visita la Sede de la \\c[3]GPR\\c[0]"
 
 #. data/database.json quests/faction-tutorial/tasks/0/subtasks/2/text #6782
 #. CONDITION
@@ -40561,7 +40561,7 @@ msgstr "Visita la Sede de los \\c[3]FdO\\c[0]"
 #: data/database.json+quests/faction-tutorial/tasks/1/task+%236786
 msgctxt "data/database.json//quests/faction-tutorial/tasks/1/task"
 msgid "Report back to the \\c[3]Faction Advisor\\c[0] in the \\c[3]Seeker HUB\\c[0]"
-msgstr "Repórtate ante el \\c[3]Tutor de la Facción\\c[0] en el \\c[3]Centro de Buscadores\\c[0]"
+msgstr "Repórtate ante el \\c[3]Asesor de las Facciones\\c[0] en el \\c[3]Centro de Buscadores\\c[0]"
 
 #. data/database.json quests/wa-1-digging/hubSettings/location #12982
 #. IF quest.faction-tutorial.started
@@ -42005,7 +42005,7 @@ msgstr "Mascotas"
 #: data/database.json+shops/homestedtItems/name+%2318375
 msgctxt "data/database.json//shops/homestedtItems/name"
 msgid "Homestedt Items"
-msgstr "Artículos de Homestedt"
+msgstr "Artículos Villa Evotar"
 
 #. data/database.json shops/homestedtItems/pages/0/title #18376
 #: data/database.json+shops/homestedtItems/pages/0/title+%2318376
@@ -42017,7 +42017,7 @@ msgstr "Mercancías Generales"
 #: data/database.json+shops/homestedtWeapons/name+%2318377
 msgctxt "data/database.json//shops/homestedtWeapons/name"
 msgid "Homestedt Weaponry"
-msgstr "Armería de Homestedt"
+msgstr "Armería Villa Evotar"
 
 #. data/database.json shops/homestedtWeapons/pages/0/title #18374
 #: data/database.json+shops/homestedtWeapons/pages/0/title+%2318374
