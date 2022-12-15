@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-12-15 07:31+0000\n"
+"PO-Revision-Date: 2022-12-15 22:54+0000\n"
 "Last-Translator: Kevin Junior Neciosup Galeano <kjneciosup1@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/arena/es/>\n"
 "Language: es_ES\n"
@@ -138,7 +138,7 @@ msgstr "¡Derrota a una versión más fuerte del jefe \\c[3]\\v[combat.name.jung
 #: data/arena/boss-cup.json+rounds/7/name+%2338
 msgctxt "data/arena/boss-cup.json//rounds/7/name"
 msgid "The Ape Warrior"
-msgstr "El Primate Guerrero"
+msgstr "El Guerrero Primate"
 
 #. data/arena/boss-cup.json rounds/7/objective #39
 #. DEFAULT
@@ -776,7 +776,6 @@ msgstr "R.D."
 #. data/arena/rookie-cup.json rounds/0/name #5
 #. DEFAULT
 #: data/arena/rookie-cup.json+rounds/0/name+%235
-#, fuzzy
 msgctxt "data/arena/rookie-cup.json//rounds/0/name"
 msgid "Afternoon Attackers"
 msgstr "Atacantes Tardíos"
@@ -791,7 +790,6 @@ msgstr "¡Derrota a los enemigos de \\c[3]\\v[area.autumn-area.name]\\c[0]!"
 #. data/arena/rookie-cup.json rounds/1/name #22
 #. DEFAULT
 #: data/arena/rookie-cup.json+rounds/1/name+%2322
-#, fuzzy
 msgctxt "data/arena/rookie-cup.json//rounds/1/name"
 msgid "Afternoon Adversaries"
 msgstr "Adversarios Tardíos"
@@ -808,7 +806,7 @@ msgstr "¡Derrota a los enemigos más fuertes de \\c[3]\\v[area.autumn-area.name
 #: data/arena/rookie-cup.json+rounds/2/name+%233
 msgctxt "data/arena/rookie-cup.json//rounds/2/name"
 msgid "Cool Contenders"
-msgstr "Contendientes Geniales"
+msgstr "Contendientes Frescos"
 
 #. data/arena/rookie-cup.json rounds/2/objective #16
 #. DEFAULT
@@ -1004,7 +1002,7 @@ msgstr "¡Derrota a los enemigos más fuertes de \\c[3]\\v[area.autumn-area.name
 #: data/arena/rookie-team-cup.json+rounds/2/name+%233
 msgctxt "data/arena/rookie-team-cup.json//rounds/2/name"
 msgid "Cool Contenders"
-msgstr "Contendientes Geniales"
+msgstr "Contendientes Frescos"
 
 #. data/arena/rookie-team-cup.json rounds/2/objective #16
 #. DEFAULT
@@ -1177,10 +1175,9 @@ msgstr "¡Derrota a los enemigos de \\c[3]\\v[area.cold-dng.name]\\c[0]!"
 #. data/arena/seeker-cup-old.json rounds/1/name #5
 #. DEFAULT
 #: data/arena/seeker-cup-old.json+rounds/1/name+%235
-#, fuzzy
 msgctxt "data/arena/seeker-cup-old.json//rounds/1/name"
 msgid "Hot Hombres"
-msgstr "Hombres de Fuego"
+msgstr "Fuerzas de Faj'ro"
 
 #. data/arena/seeker-cup-old.json rounds/1/objective #21
 #. DEFAULT
@@ -1192,10 +1189,9 @@ msgstr "¡Derrota a los enemigos de \\c[3]\\v[area.heat-dng.name]\\c[0]!"
 #. data/arena/seeker-cup-old.json rounds/2/name #24
 #. DEFAULT
 #: data/arena/seeker-cup-old.json+rounds/2/name+%2324
-#, fuzzy
 msgctxt "data/arena/seeker-cup-old.json//rounds/2/name"
 msgid "Blitz Ballers"
-msgstr "Basquetbolistas Sónicos"
+msgstr "Rayos Pulsantes"
 
 #. data/arena/seeker-cup-old.json rounds/2/objective #25
 #. DEFAULT
@@ -1207,10 +1203,9 @@ msgstr "¡Derrota a los enemigos de \\c[3]\\v[area.shock-dng.name]\\c[0]!"
 #. data/arena/seeker-cup-old.json rounds/3/name #26
 #. DEFAULT
 #: data/arena/seeker-cup-old.json+rounds/3/name+%2326
-#, fuzzy
 msgctxt "data/arena/seeker-cup-old.json//rounds/3/name"
 msgid "Groovy Goofers"
-msgstr "Tontos Maravillosos"
+msgstr "Bufones del Groovy"
 
 #. data/arena/seeker-cup-old.json rounds/3/objective #27
 #. DEFAULT
@@ -1271,10 +1266,9 @@ msgstr "Derrota a una versión más fuerte del jefe \\c[3]\\v[combat.name.heat/s
 #. data/arena/seeker-cup.json rounds/2/name #5
 #. DEFAULT
 #: data/arena/seeker-cup.json+rounds/2/name+%235
-#, fuzzy
 msgctxt "data/arena/seeker-cup.json//rounds/2/name"
 msgid "Hot Hombres"
-msgstr "Hombres de Fuego"
+msgstr "Fuerzas de Faj'ro"
 
 #. data/arena/seeker-cup.json rounds/2/objective #21
 #. DEFAULT
@@ -1300,10 +1294,9 @@ msgstr "Derrota a una versión más fuerte del jefe \\c[3]\\v[combat.name.daft-f
 #. data/arena/seeker-cup.json rounds/4/name #24
 #. DEFAULT
 #: data/arena/seeker-cup.json+rounds/4/name+%2324
-#, fuzzy
 msgctxt "data/arena/seeker-cup.json//rounds/4/name"
 msgid "Blitz Ballers"
-msgstr "Basquetbolistas Sónicos"
+msgstr "Rayos Pulsantes"
 
 #. data/arena/seeker-cup.json rounds/4/objective #25
 #. DEFAULT
@@ -1315,6 +1308,7 @@ msgstr "¡Derrota a los enemigos de \\c[3]\\v[area.shock-dng.name]\\c[0]!"
 #. data/arena/seeker-cup.json rounds/5/name #33
 #. DEFAULT
 #: data/arena/seeker-cup.json+rounds/5/name+%2333
+#, fuzzy
 msgctxt "data/arena/seeker-cup.json//rounds/5/name"
 msgid "The No-Winged Devil"
 msgstr "El Diablo sin alas"
@@ -2545,10 +2539,9 @@ msgstr "Vence a una versión más fuerte del jefe \\c[3]\\v[combat.name.final/gu
 
 #. extension/post-game/data/arena/ancient-boss-cup.json rounds/1/name #67
 #: extension/post-game/data/arena/ancient-boss-cup.json+rounds/1/name+%2367
-#, fuzzy
 msgctxt "extension/post-game/data/arena/ancient-boss-cup.json//rounds/1/name"
 msgid "The Hot Lid"
-msgstr "La Tapa Caliente"
+msgstr "La Cubierta de Fuego"
 
 #. extension/post-game/data/arena/ancient-boss-cup.json rounds/1/objective #68
 #: extension/post-game/data/arena/ancient-boss-cup.json+rounds/1/objective+%2368
@@ -2651,7 +2644,6 @@ msgstr "¡Derrota a los enemigos de \\c[3]\\v[area.beach.name]\\c[0]!"
 
 #. extension/post-game/data/arena/ancient-cup.json rounds/1/name #51
 #: extension/post-game/data/arena/ancient-cup.json+rounds/1/name+%2351
-#, fuzzy
 msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/1/name"
 msgid "Sun Burners"
 msgstr "Quemadores de Sol"
@@ -2724,7 +2716,6 @@ msgstr "¡Derrota a los enemigos de \\c[3]\\v[area.final-dng.name]\\c[0]!"
 
 #. extension/post-game/data/arena/ancient-cup.json rounds/7/name #63
 #: extension/post-game/data/arena/ancient-cup.json+rounds/7/name+%2363
-#, fuzzy
 msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/7/name"
 msgid "Bad News Bearer"
 msgstr "Noticiero Fúnebre"
@@ -2737,7 +2728,6 @@ msgstr "¡Derrota a los enemigos de \\c[3]\\v[area.final-dng.name]\\c[0]!"
 
 #. extension/post-game/data/arena/ancient-cup.json rounds/8/name #67
 #: extension/post-game/data/arena/ancient-cup.json+rounds/8/name+%2367
-#, fuzzy
 msgctxt "extension/post-game/data/arena/ancient-cup.json//rounds/8/name"
 msgid "Stacking Crew"
 msgstr "Tripulación de Apilamiento"
@@ -2783,7 +2773,6 @@ msgstr "¡Derrota a los enemigos de \\c[3]\\v[area.beach.name]\\c[0]!"
 
 #. extension/post-game/data/arena/ancient-team-cup.json rounds/1/name #51
 #: extension/post-game/data/arena/ancient-team-cup.json+rounds/1/name+%2351
-#, fuzzy
 msgctxt "extension/post-game/data/arena/ancient-team-cup.json//rounds/1/name"
 msgid "Sun Burners"
 msgstr "Quemadores de Sol"
@@ -2938,10 +2927,9 @@ msgstr "GFluegel"
 #. extension/post-game/data/arena/faction-cup-3.json rounds/0/name #56
 #. DEFAULT
 #: extension/post-game/data/arena/faction-cup-3.json+rounds/0/name+%2356
-#, fuzzy
 msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/0/name"
 msgid "Sobering Slaughter"
-msgstr "Masacre Consiente"
+msgstr "Masacre Inquietante"
 
 #. extension/post-game/data/arena/faction-cup-3.json rounds/0/objective #57
 #. DEFAULT
@@ -2975,7 +2963,6 @@ msgstr ""
 #. extension/post-game/data/arena/faction-cup-3.json rounds/2/name #58
 #. DEFAULT
 #: extension/post-game/data/arena/faction-cup-3.json+rounds/2/name+%2358
-#, fuzzy
 msgctxt "extension/post-game/data/arena/faction-cup-3.json//rounds/2/name"
 msgid "Ghost of a Chance"
 msgstr "Fantasma Desafortunado"
@@ -3080,15 +3067,13 @@ msgstr "¡Vuelve a pelear varias batallas desafiantes pensadas por nuestros gene
 #. extension/post-game/data/arena/guest-cup-1.json core/creator #50
 #. SOLO_CUSTOM
 #: extension/post-game/data/arena/guest-cup-1.json+core/creator+%2350
-#, fuzzy
 msgctxt "extension/post-game/data/arena/guest-cup-1.json//core/creator"
 msgid "Supporters"
-msgstr "Partidarios"
+msgstr "Patrocinadores"
 
 #. extension/post-game/data/arena/guest-cup-1.json rounds/0/name #44
 #. DEFAULT
 #: extension/post-game/data/arena/guest-cup-1.json+rounds/0/name+%2344
-#, fuzzy
 msgctxt "extension/post-game/data/arena/guest-cup-1.json//rounds/0/name"
 msgid "Some Standard Ninja Dude"
 msgstr "Un Tipo Ninja Común"
