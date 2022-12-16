@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-12-15 07:31+0000\n"
-"Last-Translator: Kevin Junior Neciosup Galeano <kjneciosup1@gmail.com>\n"
+"PO-Revision-Date: 2022-12-16 22:11+0000\n"
+"Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/enemies/es/>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
@@ -367,7 +367,7 @@ msgstr "[Enfocando Sonda]"
 #: data/enemies/autumn-fall/raid-pillar-large.json+actions/SwitchElement/1/thenStep/1/text+%237
 msgctxt "data/enemies/autumn-fall/raid-pillar-large.json//actions/SwitchElement/1/thenStep/1/text"
 msgid "Heat Attacked"
-msgstr "Atacado por Fuego"
+msgstr "Fuego Atacado"
 
 #. data/enemies/autumn-fall/raid-pillar-large.json actions/SwitchElement/2/thenStep/1/text #9
 #. IF entity.attrib.element == "COLD"
@@ -375,7 +375,7 @@ msgstr "Atacado por Fuego"
 #: data/enemies/autumn-fall/raid-pillar-large.json+actions/SwitchElement/2/thenStep/1/text+%239
 msgctxt "data/enemies/autumn-fall/raid-pillar-large.json//actions/SwitchElement/2/thenStep/1/text"
 msgid "Cold Attacked"
-msgstr "Atacado por Hielo"
+msgstr "Hielo Atacado"
 
 #. data/enemies/autumn-fall/raid-pillar-large.json actions/SwitchElement/3/thenStep/1/text #11
 #. IF entity.attrib.element == "SHOCK"
@@ -383,7 +383,7 @@ msgstr "Atacado por Hielo"
 #: data/enemies/autumn-fall/raid-pillar-large.json+actions/SwitchElement/3/thenStep/1/text+%2311
 msgctxt "data/enemies/autumn-fall/raid-pillar-large.json//actions/SwitchElement/3/thenStep/1/text"
 msgid "Shock Attacked"
-msgstr "Atacado por Rayo"
+msgstr "Rayo Atacado"
 
 #. data/enemies/autumn-fall/raid-pillar-large.json actions/SwitchElement/4/thenStep/1/text #12
 #. IF entity.attrib.element == "WAVE"
@@ -391,7 +391,7 @@ msgstr "Atacado por Rayo"
 #: data/enemies/autumn-fall/raid-pillar-large.json+actions/SwitchElement/4/thenStep/1/text+%2312
 msgctxt "data/enemies/autumn-fall/raid-pillar-large.json//actions/SwitchElement/4/thenStep/1/text"
 msgid "Wave Attacked"
-msgstr "Atacado por Pulso"
+msgstr "Pulso Atacado"
 
 #. data/enemies/autumn-fall/raid-pillar-large.json actions/StartReady/2/thenStep/1/text #8
 #. IF entity.attrib.element == "HEAT"
@@ -399,7 +399,7 @@ msgstr "Atacado por Pulso"
 #: data/enemies/autumn-fall/raid-pillar-large.json+actions/StartReady/2/thenStep/1/text+%238
 msgctxt "data/enemies/autumn-fall/raid-pillar-large.json//actions/StartReady/2/thenStep/1/text"
 msgid "Heat Critical"
-msgstr "Crítico de Fuego"
+msgstr "Fuego Crítico"
 
 #. data/enemies/autumn-fall/raid-pillar-large.json actions/StartReady/3/thenStep/1/text #10
 #. IF entity.attrib.element == "COLD"
@@ -407,7 +407,7 @@ msgstr "Crítico de Fuego"
 #: data/enemies/autumn-fall/raid-pillar-large.json+actions/StartReady/3/thenStep/1/text+%2310
 msgctxt "data/enemies/autumn-fall/raid-pillar-large.json//actions/StartReady/3/thenStep/1/text"
 msgid "Cold Critical"
-msgstr "Crítico de Hielo"
+msgstr "Hielo Crítico"
 
 #. data/enemies/autumn-fall/raid-pillar-large.json actions/StartReady/4/thenStep/1/text #13
 #. IF entity.attrib.element == "SHOCK"
@@ -415,7 +415,7 @@ msgstr "Crítico de Hielo"
 #: data/enemies/autumn-fall/raid-pillar-large.json+actions/StartReady/4/thenStep/1/text+%2313
 msgctxt "data/enemies/autumn-fall/raid-pillar-large.json//actions/StartReady/4/thenStep/1/text"
 msgid "Shock Critical"
-msgstr "Crítico de Rayo"
+msgstr "Rayo Crítico"
 
 #. data/enemies/autumn-fall/raid-pillar-large.json actions/StartReady/5/thenStep/1/text #14
 #. IF entity.attrib.element == "WAVE"
@@ -423,7 +423,7 @@ msgstr "Crítico de Rayo"
 #: data/enemies/autumn-fall/raid-pillar-large.json+actions/StartReady/5/thenStep/1/text+%2314
 msgctxt "data/enemies/autumn-fall/raid-pillar-large.json//actions/StartReady/5/thenStep/1/text"
 msgid "Wave Critical"
-msgstr "Crítico de Pulso"
+msgstr "Pulso Crítico"
 
 #. data/enemies/autumn-fall/raid-pillar-small.json actions/StunEnd/3/text #7
 #. SHOW_AR_MSG
