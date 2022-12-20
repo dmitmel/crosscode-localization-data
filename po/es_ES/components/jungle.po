@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-12-17 03:04+0000\n"
+"PO-Revision-Date: 2022-12-20 08:03+0000\n"
 "Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/jungle/es/>\n"
 "Language: es_ES\n"
@@ -653,7 +653,7 @@ msgstr "¡...!"
 #: data/maps/jungle/caves/questcave-snowman-boss.json+entities/23/settings/event/35/message+%23437
 msgctxt "data/maps/jungle/caves/questcave-snowman-boss.json//entities/23/settings/event/35/message"
 msgid "It's finely attuned to Trackwalker, meaning that you, \\v[lore.title.seeker], will be able to control it with your abilities."
-msgstr "Está en perfecta sintonía con los Caminantes, lo que significa que tú, \\v[lore.title.seeker], podrás controlarlo con tus habilidades."
+msgstr "Está en perfecta sintonía con el Camino, lo que significa que tú, \\v[lore.title.seeker], podrás controlarlo con tus habilidades."
 
 #. data/maps/jungle/caves/questcave-snowman-boss.json entities/23/settings/event/36/message #443
 #. EventTrigger heaterScene START IF quest.jungleTrader-2-snowman_thief_2.started
@@ -2132,7 +2132,7 @@ msgstr "Tú, \\v[lore.title.seeker], te limitarás a defenderla de la ola de ene
 #: data/maps/jungle/caves/questcave-td-1.json+entities/48/settings/npcStates/2/event/quest/20/message+%23702
 msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/48/settings/npcStates/2/event/quest/20/message"
 msgid "For that purpose you can use the Trackwalker-compatible defensive system we prepared."
-msgstr "Para ello puedes utilizar el sistema defensivo compatible con Caminantes que hemos preparado."
+msgstr "Para ello puedes utilizar el sistema defensivo compatible con el Camino que hemos preparado."
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/48/settings/npcStates/2/event/quest/21/message #282
 #. NPC npc-techperson
@@ -2522,7 +2522,7 @@ msgstr "\\c[1]¡Rayo y Pulso no están desbloqueados y se establecerán de forma
 #: data/maps/jungle/caves/questcave-td-1.json+entities/48/settings/npcStates/3/event/quest/4/options/0/label+%23539
 msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/48/settings/npcStates/3/event/quest/4/options/0/label"
 msgid "Yes, start the waves"
-msgstr "Sí, empiezan las oleadas"
+msgstr "[Sí, empezar oleadas]"
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/48/settings/npcStates/3/event/quest/4/options/1/label #547
 #. NPC npc-techperson
@@ -2531,7 +2531,7 @@ msgstr "Sí, empiezan las oleadas"
 #: data/maps/jungle/caves/questcave-td-1.json+entities/48/settings/npcStates/3/event/quest/4/options/1/label+%23547
 msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/48/settings/npcStates/3/event/quest/4/options/1/label"
 msgid "No"
-msgstr "No"
+msgstr "[No]"
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/48/settings/npcStates/3/event/quest/4/options/2/label #775
 #. NPC npc-techperson
@@ -4509,7 +4509,7 @@ msgstr ""
 #: data/maps/jungle/caves/questcave-td-2.json+entities/39/settings/npcStates/3/event/quest/4/options/0/label+%23539
 msgctxt "data/maps/jungle/caves/questcave-td-2.json//entities/39/settings/npcStates/3/event/quest/4/options/0/label"
 msgid "Yes, start the waves"
-msgstr "Sí, empiezan las oleadas"
+msgstr "[Sí, empezar oleadas]"
 
 #. data/maps/jungle/caves/questcave-td-2.json entities/39/settings/npcStates/3/event/quest/4/options/1/label #547
 #. NPC npc-techperson
@@ -4518,7 +4518,7 @@ msgstr "Sí, empiezan las oleadas"
 #: data/maps/jungle/caves/questcave-td-2.json+entities/39/settings/npcStates/3/event/quest/4/options/1/label+%23547
 msgctxt "data/maps/jungle/caves/questcave-td-2.json//entities/39/settings/npcStates/3/event/quest/4/options/1/label"
 msgid "No"
-msgstr "No"
+msgstr "[No]"
 
 #. data/maps/jungle/caves/questcave-td-2.json entities/39/settings/npcStates/3/event/quest/4/options/2/label #843
 #. NPC npc-techperson
@@ -5295,7 +5295,7 @@ msgstr "..."
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/3/settings/npcStates/1/event/quest/3/options/0/label+%233
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/3/settings/npcStates/1/event/quest/3/options/0/label"
 msgid "Yes"
-msgstr "Sí"
+msgstr "[Sí]"
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/3/settings/npcStates/1/event/quest/3/options/1/label #4
 #. NPC mick
@@ -5304,7 +5304,7 @@ msgstr "Sí"
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/3/settings/npcStates/1/event/quest/3/options/1/label+%234
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/3/settings/npcStates/1/event/quest/3/options/1/label"
 msgid "No"
-msgstr "No"
+msgstr "[No]"
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/3/settings/npcStates/2/event/quest/2/message #6
 #. NPC mick
@@ -5372,7 +5372,7 @@ msgstr "Entonces no te quedes aquí y encuentra una manera mujer."
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/3/settings/npcStates/2/event/quest/3/options/0/label+%238
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/3/settings/npcStates/2/event/quest/3/options/0/label"
 msgid "Yes"
-msgstr "Sí"
+msgstr "[Sí]"
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/3/settings/npcStates/2/event/quest/3/options/1/label #9
 #. NPC mick
@@ -5381,7 +5381,7 @@ msgstr "Sí"
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/3/settings/npcStates/2/event/quest/3/options/1/label+%239
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/3/settings/npcStates/2/event/quest/3/options/1/label"
 msgid "No"
-msgstr "No"
+msgstr "[No]"
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/16/settings/event/2/message #14
 #. EventTrigger !!!!!!!! START IF tmp.stealth.playerDetected
@@ -5573,7 +5573,7 @@ msgstr "Que le den entonces. Vete. Puedo manejar el resto sin ti."
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/392/settings/event/29/options/0/label+%2335
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/392/settings/event/29/options/0/label"
 msgid "Yes"
-msgstr "Sí"
+msgstr "[Sí]"
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/392/settings/event/29/options/1/label #36
 #. EventTrigger StealthDone START IF map.stealthDone
@@ -5581,7 +5581,7 @@ msgstr "Sí"
 #: data/maps/jungle/caves/smuggle-route-2.json+entities/392/settings/event/29/options/1/label+%2336
 msgctxt "data/maps/jungle/caves/smuggle-route-2.json//entities/392/settings/event/29/options/1/label"
 msgid "No"
-msgstr "No"
+msgstr "[No]"
 
 #. data/maps/jungle/caves/smuggle-route-2.json entities/393/settings/npcStates/1/event/2/message #41
 #. NPC mick2
@@ -18728,7 +18728,7 @@ msgstr "Oh, está bien.\\. Te esperare aqui."
 #: data/maps/jungle/grove/grove-path-02.json+entities/891/settings/npcStates/1/event/quest/7/options/0/label+%23539
 msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/891/settings/npcStates/1/event/quest/7/options/0/label"
 msgid "Yes"
-msgstr "Sí"
+msgstr "[Sí]"
 
 #. data/maps/jungle/grove/grove-path-02.json entities/891/settings/npcStates/1/event/quest/7/options/1/label #547
 #. NPC quest-escortee
@@ -18737,7 +18737,7 @@ msgstr "Sí"
 #: data/maps/jungle/grove/grove-path-02.json+entities/891/settings/npcStates/1/event/quest/7/options/1/label+%23547
 msgctxt "data/maps/jungle/grove/grove-path-02.json//entities/891/settings/npcStates/1/event/quest/7/options/1/label"
 msgid "No"
-msgstr "No"
+msgstr "[No]"
 
 #. data/maps/jungle/grove/grove-path-02.json entities/892/settings/event/12/name #766
 #. EventTrigger questEscort-Start START IF map.questEscort-start
@@ -19172,7 +19172,7 @@ msgstr "Hay marcas extrañas en el costado de la tableta. En el medio hay varios
 #: data/maps/jungle/grove/lost-shrine-01.json+entities/279/settings/interact/event/3/options/0/label+%235
 msgctxt "data/maps/jungle/grove/lost-shrine-01.json//entities/279/settings/interact/event/3/options/0/label"
 msgid "Yes"
-msgstr "Sí"
+msgstr "[Sí]"
 
 #. data/maps/jungle/grove/lost-shrine-01.json entities/279/settings/interact/event/3/options/1/label #6
 #. Prop SPAWN IF !map.riddleSolved
@@ -19180,7 +19180,7 @@ msgstr "Sí"
 #: data/maps/jungle/grove/lost-shrine-01.json+entities/279/settings/interact/event/3/options/1/label+%236
 msgctxt "data/maps/jungle/grove/lost-shrine-01.json//entities/279/settings/interact/event/3/options/1/label"
 msgid "No"
-msgstr "No"
+msgstr "[No]"
 
 #. data/maps/jungle/grove/lost-shrine-01.json entities/279/settings/interact/event/18/options/0/label #9
 #. Prop SPAWN IF !map.riddleSolved
