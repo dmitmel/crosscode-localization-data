@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-12-20 17:37+0000\n"
+"PO-Revision-Date: 2022-12-20 23:55+0000\n"
 "Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/database/es/>\n"
 "Language: es_ES\n"
@@ -3660,8 +3660,8 @@ msgid ""
 "\\c[2]Facility X Key partly decrypted\\c[0]!\n"
 "Progress of decryption: \\c[3]\\v[g.lab.decrypted] / 4\\c[0]"
 msgstr ""
-"¡\\c[2]La Llave de las Instalaciones X ha sido parcialmente desencriptada\\c[0]!\n"
-"Progreso de la desencripción: \\c[3]\\v[g.lab.decrypted] / 4\\c[0]"
+"¡\\c[2]Llave de Instalación X parcialmente desencriptada\\c[0]!\n"
+"Progreso de la desencriptación: \\c[3]\\v[g.lab.decrypted] / 4\\c[0]"
 
 #. data/database.json commonEvents/facility-x-key/event/3/thenStep/1/text #199
 #. IF g.lab.decrypted >= 4
@@ -4452,7 +4452,7 @@ msgstr "Sao"
 #: data/database.json+commonEvents/sao-duel-no-party/event/2/message+%2317736
 msgctxt "data/database.json//commonEvents/sao-duel-no-party/event/2/message"
 msgid "I will only duel you one-on-one."
-msgstr "Solo te batiré en un duelo uno contra uno."
+msgstr "Solo aceptaré un duelo uno contra uno."
 
 #. data/database.json commonEvents/sao-duel-no-party/event/3/message #17737
 #. SHOW_MSG main.lea @EXHAUSTED
@@ -4969,7 +4969,7 @@ msgstr "¡Lea!"
 #: data/database.json+commonEvents/sao-duel-post-fight/event/3/thenStep/5/message+%2317074
 msgctxt "data/database.json//commonEvents/sao-duel-post-fight/event/3/thenStep/5/message"
 msgid "Yes, that's what I said.\n"
-msgstr "Si, eso dije.\n"
+msgstr "Sí, eso dije.\n"
 
 #. data/database.json commonEvents/sao-duel-post-fight/event/4/thenStep/0/message #17075
 #. IF g.sao.defeated == 1
@@ -18339,7 +18339,7 @@ msgstr "..."
 #: data/database.json+commonEvents/shizuka-join/event/7/0_0/0/message+%2317554
 msgctxt "data/database.json//commonEvents/shizuka-join/event/7/0_0/0/message"
 msgid "Uhm...\\. sure!\\. I actually have time now!"
-msgstr "Mmm...\\. ¡Seguro!\\. ¡Actualmente si tengo tiempo!"
+msgstr "Mmm...\\. ¡Seguro!\\. ¡Tengo tiempo ahora mismo!"
 
 #. data/database.json commonEvents/shizuka-join/event/7/0_1/0/message #17555
 #. SELECT_RANDOM
@@ -37399,7 +37399,7 @@ msgstr "Un jugador extraño busca ayuda con un poco de \\c[3]exploración\\c[0],
 #: data/database.json+quests/dekay-quest/briefing+%2316220
 msgctxt "data/database.json//quests/dekay-quest/briefing"
 msgid "You explored quite an extraordinary \\c[3]testing area\\c[0] that no player was ever supposed to see. Also you've defeated an unspeakable horror lurking within! Luckily, no official spotted you in the process."
-msgstr "Exploraste un \\c[3]área de prueba\\c[0] que ningún jugador debería ver jamás. ¡También has derrotado un horror indescriptible que acecha en tu interior! Por suerte, ningún oficial te vio en el proceso."
+msgstr "Exploraste un \\c[3]área de prueba\\c[0] que ningún jugador debería ver jamás. ¡También has derrotado un horror indescriptible que acecha en su interior! Por suerte, ningún moderador te vio hacerlo."
 
 #. data/database.json quests/dekay-quest/tasks/0/task #16232
 #: data/database.json+quests/dekay-quest/tasks/0/task+%2316232
