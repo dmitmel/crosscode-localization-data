@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-12-20 08:03+0000\n"
+"PO-Revision-Date: 2022-12-21 01:03+0000\n"
 "Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/jungle/es/>\n"
 "Language: es_ES\n"
@@ -144,7 +144,7 @@ msgstr "Camino Verdoso"
 #: data/areas/jungle.json+floors/3/maps/3/name+%2331
 msgctxt "data/areas/jungle.json//floors/3/maps/3/name"
 msgid "Drizzle Bosk"
-msgstr "Lovizna Bosk"
+msgstr "Llovizna Bosk"
 
 #. data/areas/jungle.json floors/3/maps/4/name #29
 #: data/areas/jungle.json+floors/3/maps/4/name+%2329
@@ -536,7 +536,7 @@ msgstr "..."
 #: data/maps/jungle/caves/questcave-snowman-boss.json+entities/13/settings/event/4/text+%23461
 msgctxt "data/maps/jungle/caves/questcave-snowman-boss.json//entities/13/settings/event/4/text"
 msgid "There is no way to break that icy wall alone. \\c[3]Report back to Mrs. Basu in \\v[area.jungle-city.name]!\\c[0]"
-msgstr "No hay forma de romper ese muro de hielo solo. \\c[3]¡Informa a la Sra. Basu en \\v[area.jungle-city.name]!\\c[0]"
+msgstr "No hay forma de romper ese muro de hielo por tu cuenta. \\c[3]¡Informa a la Sra. Basu en el \\v[area.jungle-city.name]!\\c[0]"
 
 #. data/maps/jungle/caves/questcave-snowman-boss.json entities/17/settings/event/5/thenStep/0/task #435
 #. EventTrigger init
@@ -548,7 +548,7 @@ msgid ""
 "Use the \\c[3]Hyperforce Plasmaoven\\c[0]  to melt the icy walls.\n"
 "\\c[3]Teleport it with charged Wave projectiles\\c[0] and \\c[3]trigger heat-explosions with repeated Shock attacks\\c[0]."
 msgstr ""
-"Usa el \\c[3]Horno de plasma de Hiperfuerza\\c[0] para derretir las paredes.\n"
+"Usa el \\c[3]Horno de Plasma de Hiperfuerza\\c[0] para derretir las paredes.\n"
 "\\c[3]Teletransportarlo con proyectiles de Pulso cargados\\c[0] y \\c[3]provoca explosiones con repetidos ataques de Pulso\\c[0]."
 
 #. data/maps/jungle/caves/questcave-snowman-boss.json entities/23/settings/event/14/name #426
@@ -573,7 +573,7 @@ msgstr "¡Hola!"
 #: data/maps/jungle/caves/questcave-snowman-boss.json+entities/23/settings/event/17/message+%23313
 msgctxt "data/maps/jungle/caves/questcave-snowman-boss.json//entities/23/settings/event/17/message"
 msgid " S-s-seeker!\\. H-hello.\\. I-it is good to see y-you f-finally arrive."
-msgstr " ¡B-b-buscador!\\. H-hola.\\. E-es bueno ver que finalmente llegas."
+msgstr " ¡B-b-buscadora!\\. H-hola.\\. E-es bueno ver que f-finalmente llegas."
 
 #. data/maps/jungle/caves/questcave-snowman-boss.json entities/23/settings/event/18/message #429
 #. EventTrigger heaterScene START IF quest.jungleTrader-2-snowman_thief_2.started
@@ -589,7 +589,7 @@ msgstr "¿Hola...?"
 #: data/maps/jungle/caves/questcave-snowman-boss.json+entities/23/settings/event/19/message+%23430
 msgctxt "data/maps/jungle/caves/questcave-snowman-boss.json//entities/23/settings/event/19/message"
 msgid "O-oh, I-I am s-sorry.\\. W-waiting in this c-c-cold m-might have g-gotten to m-me.\\. P-please exc-cuse me for a s-second."
-msgstr "O-oh, lo-lo siento.\\. E-esperar en este f-f-frío p-podría haber sido m-mí fin.\\. P-por favor dame un s-segundo."
+msgstr "O-oh, lo-lo siento.\\. E-esperar en este f-f-frío m-me está d-dejando hel-lada.\\. P-por favor dame un s-segundo."
 
 #. data/maps/jungle/caves/questcave-snowman-boss.json entities/23/settings/event/22/name #431
 #. EventTrigger heaterScene START IF quest.jungleTrader-2-snowman_thief_2.started
@@ -605,7 +605,7 @@ msgstr "Forni"
 #: data/maps/jungle/caves/questcave-snowman-boss.json+entities/23/settings/event/24/message+%23432
 msgctxt "data/maps/jungle/caves/questcave-snowman-boss.json//entities/23/settings/event/24/message"
 msgid "Alright, much better.\\. I am sorry, these temperatures may have frozen my professionalism along with my tongue."
-msgstr "Muy bien, mucho mejor.\\. Lo siento, estas temperaturas pueden haber congelado mi profesionalidad junto con mi lengua."
+msgstr "Muy bien, mucho mejor.\\. Lo siento, estas temperaturas pueden haber congelado mi profesionalismo junto con mi lengua."
 
 #. data/maps/jungle/caves/questcave-snowman-boss.json entities/23/settings/event/25/message #317
 #. EventTrigger heaterScene START IF quest.jungleTrader-2-snowman_thief_2.started
@@ -621,7 +621,7 @@ msgstr "..."
 #: data/maps/jungle/caves/questcave-snowman-boss.json+entities/23/settings/event/26/message+%23433
 msgctxt "data/maps/jungle/caves/questcave-snowman-boss.json//entities/23/settings/event/26/message"
 msgid "In any case, \\v[lore.title.seeker], we have work to do!\\. Feast your eyes on this technological marvel!"
-msgstr "En cualquier caso, \\v[lore.title.seeker], ¡Tenemos trabajo que hacer!\\. ¡Deleita tus ojos con esta maravilla tecnológica!"
+msgstr "De todos modos, \\v[lore.title.seeker]a, ¡Tenemos trabajo que hacer!\\. ¡Deleita tus ojos con esta maravilla tecnológica!"
 
 #. data/maps/jungle/caves/questcave-snowman-boss.json entities/23/settings/event/31/name #442
 #. EventTrigger heaterScene START IF quest.jungleTrader-2-snowman_thief_2.started
@@ -637,7 +637,7 @@ msgstr "Forni"
 #: data/maps/jungle/caves/questcave-snowman-boss.json+entities/23/settings/event/33/message+%23436
 msgctxt "data/maps/jungle/caves/questcave-snowman-boss.json//entities/23/settings/event/33/message"
 msgid "Our engineers called it the \\c[3]Hyperforce Plasma Oven\\c[0].\\. A ridiculous name, to be sure, but its heating capacities are truly unmatched."
-msgstr "Nuestros ingenieros lo llamaron \\c[3]Horno de plasma de Hiperfuerza\\c[0].\\. Un nombre ridículo, sin duda, pero sus capacidades de calentamiento son realmente incomparables."
+msgstr "Nuestros ingenieros lo llamaron \\c[3]Horno de Plasma de Hiperfuerza\\c[0].\\. Un nombre ridículo, sin duda, pero sus capacidades de calentamiento son realmente incomparables."
 
 #. data/maps/jungle/caves/questcave-snowman-boss.json entities/23/settings/event/34/message #441
 #. EventTrigger heaterScene START IF quest.jungleTrader-2-snowman_thief_2.started
@@ -653,7 +653,7 @@ msgstr "¡...!"
 #: data/maps/jungle/caves/questcave-snowman-boss.json+entities/23/settings/event/35/message+%23437
 msgctxt "data/maps/jungle/caves/questcave-snowman-boss.json//entities/23/settings/event/35/message"
 msgid "It's finely attuned to Trackwalker, meaning that you, \\v[lore.title.seeker], will be able to control it with your abilities."
-msgstr "Está en perfecta sintonía con el Camino, lo que significa que tú, \\v[lore.title.seeker], podrás controlarlo con tus habilidades."
+msgstr "Está en perfecta sintonía con el Camino, lo que significa que tú, \\v[lore.title.seeker]a, podrás controlarlo con tus habilidades."
 
 #. data/maps/jungle/caves/questcave-snowman-boss.json entities/23/settings/event/36/message #443
 #. EventTrigger heaterScene START IF quest.jungleTrader-2-snowman_thief_2.started
@@ -669,7 +669,7 @@ msgstr "¡...!"
 #: data/maps/jungle/caves/questcave-snowman-boss.json+entities/23/settings/event/37/message+%23438
 msgctxt "data/maps/jungle/caves/questcave-snowman-boss.json//entities/23/settings/event/37/message"
 msgid "It is too heavy to move, but a \\c[3]charged Wave projectile\\c[0] will start a teleportation sequence that \\c[3]relocates it to your position\\c[0]."
-msgstr "Es demasiado pesado para moverlo, pero un \\c[3]proyectil de pulso cargado\\c[0] lo teletransportará y \\c[3]lo reubicará en tu posición\\c[0]."
+msgstr "Es demasiado pesado para moverlo, pero un \\c[3]proyectil de Pulso cargado\\c[0] lo teletransportará y \\c[3]lo reubicará en tu posición\\c[0]."
 
 #. data/maps/jungle/caves/questcave-snowman-boss.json entities/23/settings/event/38/message #439
 #. EventTrigger heaterScene START IF quest.jungleTrader-2-snowman_thief_2.started
@@ -677,7 +677,7 @@ msgstr "Es demasiado pesado para moverlo, pero un \\c[3]proyectil de pulso carga
 #: data/maps/jungle/caves/questcave-snowman-boss.json+entities/23/settings/event/38/message+%23439
 msgctxt "data/maps/jungle/caves/questcave-snowman-boss.json//entities/23/settings/event/38/message"
 msgid "Hitting it with \\c[3]repeated Shock attacks\\c[0] will trigger a powerful \\c[3]heat-explosion\\c[0] that will melt even the thickest ice!"
-msgstr "Golpearlo con \\c[3]ataques de pulso repetidos\\c[0] desencadenará una poderosa \\c[3]explosión de calor\\c[0] que... ¡Derretirá incluso el hielo más grueso!"
+msgstr "¡Golpearlo con \\c[3]repetidos ataques de Rayo\\c[0] desencadenará una poderosa \\c[3]explosión de calor\\c[0] que derretirá incluso el más grueso de los hielos!"
 
 #. data/maps/jungle/caves/questcave-snowman-boss.json entities/23/settings/event/39/message #440
 #. EventTrigger heaterScene START IF quest.jungleTrader-2-snowman_thief_2.started
@@ -685,7 +685,7 @@ msgstr "Golpearlo con \\c[3]ataques de pulso repetidos\\c[0] desencadenará una 
 #: data/maps/jungle/caves/questcave-snowman-boss.json+entities/23/settings/event/39/message+%23440
 msgctxt "data/maps/jungle/caves/questcave-snowman-boss.json//entities/23/settings/event/39/message"
 msgid "Though the machine will enter a \\c[3]short cooldown phase\\c[0] afterwards."
-msgstr "Aunque la máquina tendrá \\c[3]una pausa corta\\c[0] después."
+msgstr "Pero la máquina entrará en una \\c[3]corta fase de enfriamiento\\c[0] luego."
 
 #. data/maps/jungle/caves/questcave-snowman-boss.json entities/23/settings/event/40/message #434
 #. EventTrigger heaterScene START IF quest.jungleTrader-2-snowman_thief_2.started
@@ -733,7 +733,7 @@ msgstr "Darrel"
 #: data/maps/jungle/caves/questcave-snowman-boss.json+entities/23/settings/event/58/message+%23447
 msgctxt "data/maps/jungle/caves/questcave-snowman-boss.json//entities/23/settings/event/58/message"
 msgid "I will be waiting here.\\..\\..\\. In the cold.\\.\\. So please make haste, yes."
-msgstr "Te estaré esperando aquí.\\..\\..\\. En el frío.\\.\\. Así que por favor date prisa, sí."
+msgstr "Te estaré esperando aquí.\\..\\..\\. En el frío.\\.\\. Así que por favor date prisa, ¿sí?"
 
 #. data/maps/jungle/caves/questcave-snowman-boss.json entities/23/settings/event/59/message #448
 #. EventTrigger heaterScene START IF quest.jungleTrader-2-snowman_thief_2.started
@@ -760,8 +760,8 @@ msgid ""
 "Use the \\c[3]Hyperforce Plasma Oven\\c[0]  to melt the icy walls.\n"
 "\\c[3]Teleport it with charged Wave projectiles\\c[0] and \\c[3]trigger heat-explosions with repeated Shock attacks\\c[0]."
 msgstr ""
-"Usa el \\c[3]Horno de plasma de Hiperfuerza\\c[0] para derretir las paredes.\n"
-"\\c[3]Teletransportarlo con proyectiles de Pulso cargados\\c[0] y \\c[3]provoca explosiones con repetidos ataques de Pulso\\c[0]."
+"Usa el \\c[3]Horno de Plasma de Hiperfuerza\\c[0] para derretir las paredes.\n"
+"Puedes \\c[3]teletransportarlo con proyectiles de Pulso cargados\\c[0] y \\c[3]repetidos ataques de Rayo provocarán una explosión de calor\\c[0]."
 
 #. data/maps/jungle/caves/questcave-snowman-boss.json entities/24/settings/analyzable/text #247
 #. NPC heaterGirl
@@ -786,7 +786,7 @@ msgstr "Forni"
 #: data/maps/jungle/caves/questcave-snowman-boss.json+entities/24/settings/npcStates/0/event/2/message+%23449
 msgctxt "data/maps/jungle/caves/questcave-snowman-boss.json//entities/24/settings/npcStates/0/event/2/message"
 msgid "You will be able to control the \\c[3]Hyperforce Plasmaoven\\c[0] with your \\v[lore.title.seeker] abilities."
-msgstr "Podrás controlar el \\c[3]Horno de Plasma de Hiperfuerza\\c[0] con tus habilidades \\v[lore.title.seeker]."
+msgstr "Podrás controlar el \\c[3]Horno de Plasma de Hiperfuerza\\c[0] con tus habilidades de \\v[lore.title.seeker]."
 
 #. data/maps/jungle/caves/questcave-snowman-boss.json entities/24/settings/npcStates/0/event/3/message #450
 #. NPC heaterGirl
@@ -795,7 +795,7 @@ msgstr "Podrás controlar el \\c[3]Horno de Plasma de Hiperfuerza\\c[0] con tus 
 #: data/maps/jungle/caves/questcave-snowman-boss.json+entities/24/settings/npcStates/0/event/3/message+%23450
 msgctxt "data/maps/jungle/caves/questcave-snowman-boss.json//entities/24/settings/npcStates/0/event/3/message"
 msgid "Use \\c[3]charged Wave projectiles\\c[0] to \\c[3]teleport it to your position\\c[0] and \\c[3]repeated Shock attacks\\c[0] will trigger a \\c[3]heat-explosion\\c[0]."
-msgstr "Usa \\c[3]proyectiles de pulso cargados\\c[0] para \\c[3]teletransportarlo a tu posición\\c[0] y \\c[3]ataques de pulso repetidos\\c[0] activarán un \\c[3]explosión de calor\\c[0]."
+msgstr "Usa \\c[3]proyectiles de Pulso cargados\\c[0] para \\c[3]teletransportarlo a tu posición\\c[0] y \\c[3]repetidos ataques de Rayo\\c[0] activarán una \\c[3]explosión de calor\\c[0]."
 
 #. data/maps/jungle/caves/questcave-snowman-boss.json entities/24/settings/npcStates/0/event/4/message #451
 #. NPC heaterGirl
@@ -804,7 +804,7 @@ msgstr "Usa \\c[3]proyectiles de pulso cargados\\c[0] para \\c[3]teletransportar
 #: data/maps/jungle/caves/questcave-snowman-boss.json+entities/24/settings/npcStates/0/event/4/message+%23451
 msgctxt "data/maps/jungle/caves/questcave-snowman-boss.json//entities/24/settings/npcStates/0/event/4/message"
 msgid "But remember that the machine will enter a \\c[3]short cooldown phase\\c[0] after the explosion."
-msgstr "Pero recuerda que la máquina entrará en una \\c[3]fase de enfriamiento corta\\c[0] después de la explosión."
+msgstr "Pero recuerda que la máquina entrará en una \\c[3]corta fase de enfriamiento\\c[0] después de la explosión."
 
 #. data/maps/jungle/caves/questcave-snowman-boss.json entities/24/settings/npcStates/0/event/5/thenStep/0/message #452
 #. NPC heaterGirl
@@ -814,7 +814,7 @@ msgstr "Pero recuerda que la máquina entrará en una \\c[3]fase de enfriamiento
 #: data/maps/jungle/caves/questcave-snowman-boss.json+entities/24/settings/npcStates/0/event/5/thenStep/0/message+%23452
 msgctxt "data/maps/jungle/caves/questcave-snowman-boss.json//entities/24/settings/npcStates/0/event/5/thenStep/0/message"
 msgid "Now use it to melt that icewall.\\. Teleport the oven next to it and then trigger an overcharged explosion!"
-msgstr "Ahora úsalo para derretir esa pared de hielo.\\. ¡Teletransporta el horno junto a él y luego activa una explosión sobrecargada!"
+msgstr "Ahora úsalo para derretir esa pared de hielo.\\. ¡Teletransporta el horno junto a ella y luego causa una explosión!"
 
 #. data/maps/jungle/caves/questcave-snowman-boss.json entities/39/settings/analyzable/text #453
 #. NPC busiDude
@@ -873,7 +873,7 @@ msgstr "Guardia"
 #: data/maps/jungle/caves/questcave-snowman-boss.json+entities/40/settings/npcStates/0/event/2/message+%23458
 msgctxt "data/maps/jungle/caves/questcave-snowman-boss.json//entities/40/settings/npcStates/0/event/2/message"
 msgid "I am protecting the civilians from monsters.\\. Please do your job before the cold gets them."
-msgstr "Estoy protegiendo a los civiles de los monstruos.\\. Por favor, haz tu trabajo antes de que el frío los atrape."
+msgstr "Estoy protegiendo a los civiles de los monstruos.\\. Por favor, haz tu trabajo antes de que el frío nos supere."
 
 #. data/maps/jungle/caves/questcave-snowman-boss.json entities/40/settings/npcStates/0/event/3/message #459
 #. NPC guard
