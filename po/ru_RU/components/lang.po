@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-11 13:04+0000\n"
-"POT-Revision-Date: 2022-12-11 13:04+0000\n"
+"POT-Creation-Date: 2022-12-21 21:04+0000\n"
+"POT-Revision-Date: 2022-12-21 21:04+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -775,6 +775,12 @@ msgctxt "data/lang/sc/gui.en_US.json//labels/arena/menu/roundUnlockCond"
 msgid "Clear the previous round to unlock this round."
 msgstr "Завершите предыдущий раунд, чтобы разблокировать этот раунд."
 
+#. data/lang/sc/gui.en_US.json labels/arena/lvl #0
+#: data/lang/sc/gui.en_US.json+labels/arena/lvl+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/arena/lvl"
+msgid "lvl"
+msgstr "lvl"
+
 #. data/lang/sc/gui.en_US.json labels/dlc/abr #0
 #: data/lang/sc/gui.en_US.json+labels/dlc/abr+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/dlc/abr"
@@ -1014,6 +1020,24 @@ msgstr "FOC"
 msgctxt "data/lang/sc/gui.en_US.json//labels/status-hud/lvl"
 msgid "LVL"
 msgstr "LVL"
+
+#. data/lang/sc/gui.en_US.json labels/status-hud/exp #0
+#: data/lang/sc/gui.en_US.json+labels/status-hud/exp+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/status-hud/exp"
+msgid "EXP"
+msgstr "EXP"
+
+#. data/lang/sc/gui.en_US.json labels/status-hud/hp #0
+#: data/lang/sc/gui.en_US.json+labels/status-hud/hp+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/status-hud/hp"
+msgid "HP"
+msgstr "HP"
+
+#. data/lang/sc/gui.en_US.json labels/status-hud/sp #0
+#: data/lang/sc/gui.en_US.json+labels/status-hud/sp+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/status-hud/sp"
+msgid "SP"
+msgstr "SP"
 
 #. data/lang/sc/gui.en_US.json labels/msg/private #0
 #: data/lang/sc/gui.en_US.json+labels/msg/private+%230
@@ -5206,6 +5230,12 @@ msgstr "Позволяет бегать и совершать любые дей�
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/equip/descriptions/EQUIP_SCALE"
 msgid "Base Parameters of this equipment automatically scale with your current level."
 msgstr "Базовые характеристики этой экипировки автоматически подстраиваются под ваш уровень."
+
+#. data/lang/sc/gui.en_US.json labels/menu/equip/lvl #0
+#: data/lang/sc/gui.en_US.json+labels/menu/equip/lvl+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/menu/equip/lvl"
+msgid "lvl"
+msgstr "lvl"
 
 #. data/lang/sc/gui.en_US.json labels/menu/skill/shade #0
 #: data/lang/sc/gui.en_US.json+labels/menu/skill/shade+%230
