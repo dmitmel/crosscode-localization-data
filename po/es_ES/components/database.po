@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-12-21 00:30+0000\n"
+"PO-Revision-Date: 2022-12-21 01:03+0000\n"
 "Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/database/es/>\n"
 "Language: es_ES\n"
@@ -3473,7 +3473,7 @@ msgstr "¿Más instancias? Te hace pensar por qué nos dividen tanto en un MMO."
 #: data/database.json+commonEvents/call-instance-comments/event/2/8_0/0/message+%2318468
 msgctxt "data/database.json//commonEvents/call-instance-comments/event/2/8_0/0/message"
 msgid "An instance?\\. How very creative."
-msgstr "¿Una instancia?\\. Que creativo, supongo."
+msgstr "¿Una instancia?\\. Muy creativo."
 
 #. data/database.json commonEvents/call-instance-comments/event/2/9_0/0/message #18469
 #. IF party.size > 1
@@ -38954,7 +38954,7 @@ msgstr "Señorita Basu"
 #: data/database.json+quests/jungleTrader-1-snowman_thief_1/description+%2313851
 msgctxt "data/database.json//quests/jungleTrader-1-snowman_thief_1/description"
 msgid "Cooling devices have been stolen from \\v[area.jungle-city.name]. You are tasked to find the thief and bring them back."
-msgstr "Se han robado dispositivos de refrigeración de \\v[area.jungle-city.name]. Encuentra al ladrón y traerlo de vuelta."
+msgstr "Se han robado dispositivos de refrigeración del \\v[area.jungle-city.name]. Encuentra al ladrón y recupera las máquinas."
 
 #. data/database.json quests/jungleTrader-1-snowman_thief_1/briefing #13852
 #: data/database.json+quests/jungleTrader-1-snowman_thief_1/briefing+%2313852
@@ -38984,7 +38984,7 @@ msgstr "Atraviesa \\c[3]la pared helada\\c[0] para atrapar \\c[3]al líder\\c[0]
 #: data/database.json+quests/jungleTrader-1-snowman_thief_1/tasks/3/task+%2313857
 msgctxt "data/database.json//quests/jungleTrader-1-snowman_thief_1/tasks/3/task"
 msgid "Report back to \\c[3]Mrs Basu\\c[0] in the \\c[3]Basin Trader HQ\\c[0]"
-msgstr "Informa a \\c[3]Sra. Basu\\c[0] en \\c[3]Cuartel general de Basin Trader\\c[0]"
+msgstr "Informa a \\c[3]Sra. Basu\\c[0] en la \\c[3]Sede de la Asociación Comercial de la Cuenca\\c[0]"
 
 #. data/database.json quests/jungleTrader-2-snowman_thief_2/hubSettings/location #14202
 #. IF quest.jungleTrader-1-snowman_thief_1.solved && dungeons.shock.beaten && dungeons.wave.beaten
@@ -39039,14 +39039,14 @@ msgstr "Encuentra y derrota al \\c[3]Jefe Karotto\\c[0]"
 #: data/database.json+quests/jungleTrader-2-snowman_thief_2/tasks/3/task+%2314198
 msgctxt "data/database.json//quests/jungleTrader-2-snowman_thief_2/tasks/3/task"
 msgid "Report back to \\c[3]Mrs Basu\\c[0] in the \\c[3]Basin Trader HQ\\c[0]"
-msgstr "Informa a \\c[3]Sra. Basu\\c[0] en \\c[3]Cuartel General de Comerciantes de la Cuenca\\c[0]"
+msgstr "Informa a \\c[3]Sra. Basu\\c[0] en \\c[3]Sede de la Asociación Comercial de la Cuenca\\c[0]"
 
 #. data/database.json quests/jungleTrader-3-shad_fridge_1/hubSettings/location #16697
 #. IF plot.line >= 32000 && quest.jungleTrader-2-snowman_thief_2.solved && extension.post-game.active
 #: data/database.json+quests/jungleTrader-3-shad_fridge_1/hubSettings/location+%2316697
 msgctxt "data/database.json//quests/jungleTrader-3-shad_fridge_1/hubSettings/location"
 msgid "Need sales representative to expand our fridging business! \\c[3]- Basin Trade Partnership HQ\\c[0]"
-msgstr "¡Necesitamos un representante de ventas para expandir nuestro negocio de refrigeración! \\c[3]- Cuartel General de Comerciantes de la Cuenca\\c[0]"
+msgstr "¡Necesitamos un representante de ventas para expandir nuestro negocio de refrigeración! \\c[3]- Sede de la Asociación Comercial de la Cuenca\\c[0]"
 
 #. data/database.json quests/jungleTrader-3-shad_fridge_1/name #16737
 #: data/database.json+quests/jungleTrader-3-shad_fridge_1/name+%2316737
@@ -39124,7 +39124,7 @@ msgstr "Regresa una vez más a \\c[3]Owo'kyari\\c[0] en \\c[3]V'rda Vil Este\\c[
 #: data/database.json+quests/jungleTrader-3-shad_fridge_1/tasks/8/task+%2316705
 msgctxt "data/database.json//quests/jungleTrader-3-shad_fridge_1/tasks/8/task"
 msgid "Report back to \\c[3]Mrs Basu\\c[0] in the \\c[3]Basin Trader HQ\\c[0]"
-msgstr "Informa a \\c[3]Sra. Basu\\c[0] en el \\c[3]Cuartel general de Comerciantes de la Cuenca\\c[0]"
+msgstr "Informa a \\c[3]Sra. Basu\\c[0] en la \\c[3]Sede de la Asociación Comercial de la Cuenca\\c[0]"
 
 #. data/database.json quests/jungleGreens-1-escort_1/hubSettings/location #13879
 #: data/database.json+quests/jungleGreens-1-escort_1/hubSettings/location+%2313879
