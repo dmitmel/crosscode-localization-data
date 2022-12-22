@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-21 21:04+0000\n"
-"POT-Revision-Date: 2022-12-21 21:04+0000\n"
+"POT-Creation-Date: 2022-12-22 11:16+0000\n"
+"POT-Revision-Date: 2022-12-22 11:16+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: uk_UA\n"
@@ -6227,6 +6227,12 @@ msgctxt "data/lang/sc/gui.en_US.json//labels/menu/enemy/noReports"
 msgid "No Report found"
 msgstr "Звіт не знайдено"
 
+#. data/lang/sc/gui.en_US.json labels/menu/enemy/lvl #0
+#: data/lang/sc/gui.en_US.json+labels/menu/enemy/lvl+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/menu/enemy/lvl"
+msgid "lvl"
+msgstr ""
+
 #. data/lang/sc/gui.en_US.json labels/menu/social/tabs/close #0
 #: data/lang/sc/gui.en_US.json+labels/menu/social/tabs/close+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/social/tabs/close"
@@ -6370,6 +6376,12 @@ msgstr "Завершеність"
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/questHub/available"
 msgid "Quests Available"
 msgstr "Доступні завдання"
+
+#. data/lang/sc/gui.en_US.json labels/menu/questHub/lvl #0
+#: data/lang/sc/gui.en_US.json+labels/menu/questHub/lvl+%230
+msgctxt "data/lang/sc/gui.en_US.json//labels/menu/questHub/lvl"
+msgid "LvL"
+msgstr ""
 
 #. data/lang/sc/gui.en_US.json labels/menu/trophies/tabs/GENERAL #0
 #: data/lang/sc/gui.en_US.json+labels/menu/trophies/tabs/GENERAL+%230
@@ -9711,7 +9723,6 @@ msgstr "Техніка кидка"
 
 #. data/lang/sc/gui.en_US.json labels/skills/special-types/ATTACK #0
 #: data/lang/sc/gui.en_US.json+labels/skills/special-types/ATTACK+%230
-#, fuzzy
 msgctxt "data/lang/sc/gui.en_US.json//labels/skills/special-types/ATTACK"
 msgid "Melee Art"
 msgstr "Техніка ближнього бою"
