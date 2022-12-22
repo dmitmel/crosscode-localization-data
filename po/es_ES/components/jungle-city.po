@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-12-22 11:17+0000\n"
+"PO-Revision-Date: 2022-12-22 20:22+0000\n"
 "Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/jungle-city/es/>\n"
 "Language: es_ES\n"
@@ -102,19 +102,19 @@ msgstr "Torre Clipson 1er Piso"
 #: data/areas/jungle-city.json+floors/1/maps/8/name+%2369
 msgctxt "data/areas/jungle-city.json//floors/1/maps/8/name"
 msgid "Basin Police Force HQ"
-msgstr "Sede de la Policía de la Cuenca"
+msgstr "Sede de la Fuerza de Policía de la Cuenca"
 
 #. data/areas/jungle-city.json floors/1/maps/9/name #68
 #: data/areas/jungle-city.json+floors/1/maps/9/name+%2368
 msgctxt "data/areas/jungle-city.json//floors/1/maps/9/name"
 msgid "Woodland Vanguard HQ"
-msgstr "Sede Central de la Vanguardia Forestal"
+msgstr "Sede de la Vanguardia Forestal"
 
 #. data/areas/jungle-city.json floors/1/maps/10/name #72
 #: data/areas/jungle-city.json+floors/1/maps/10/name+%2372
 msgctxt "data/areas/jungle-city.json//floors/1/maps/10/name"
 msgid "Gaia's Gardeners HQ"
-msgstr "Sede de los jardineros de Gaia"
+msgstr "Sede de los Jardineros de Gaia"
 
 #. data/areas/jungle-city.json floors/1/maps/11/name #74
 #: data/areas/jungle-city.json+floors/1/maps/11/name+%2374
@@ -3739,7 +3739,7 @@ msgstr "... ¿Dónde?"
 #: data/maps/jungle-city/interior/calzone-1.json+entities/28/settings/npcStates/1/event/quest/6/0/5/message+%23455
 msgctxt "data/maps/jungle-city/interior/calzone-1.json//entities/28/settings/npcStates/1/event/quest/6/0/5/message"
 msgid "Ah, right.\\. Well, I don't actually know the location of the HQ those birds live in."
-msgstr "Ah cierto.\\. Bueno, en realidad no sé la ubicación del cuartel general en el que viven esos pájaros."
+msgstr "Ah cierto.\\. Bueno, en realidad no sé la ubicación de la Sede en el que viven esos pájaros."
 
 #. data/maps/jungle-city/interior/calzone-1.json entities/28/settings/npcStates/1/event/quest/6/0/6/message #456
 #. NPC birdquestInfo
@@ -4542,7 +4542,7 @@ msgstr "[asiente]"
 #: data/maps/jungle-city/interior/faction-adv-1.json+entities/16/settings/npcStates/0/event/2/message+%23256
 msgctxt "data/maps/jungle-city/interior/faction-adv-1.json//entities/16/settings/npcStates/0/event/2/message"
 msgid "Hey, \\v[lore.title.seeker].\\. These are the headquarters of the Woodland Vanguard.\\. Nice to see you around!"
-msgstr "Hola, \\v[lore.title.seeker]a.\\. Esta es la Sede Central de la Vanguardia Forestal.\\. ¡Es bueno verte por aquí!"
+msgstr "Hola, \\v[lore.title.seeker]a.\\. Esta es la Sede de la Vanguardia Forestal.\\. ¡Es bueno verte por aquí!"
 
 #. data/maps/jungle-city/interior/faction-adv-1.json entities/67/settings/analyzable/text #247
 #. NPC faction-leader
@@ -6140,7 +6140,7 @@ msgstr "Claude Reynes"
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/6/event/2/message+%23610
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/6/event/2/message"
 msgid "Search for the \\c[3]infected \\v[combat.name.jungle/plant]\\c[0] near bodies of water in \\c[3]Western \\v[area.jungle.name]\\c[0]."
-msgstr "Busca los \\v[combat.name.jungle/plant] infectados \\c[0]cerca de cuerpos de agua en \\c[3]el Oeste del \\v[area.jungle.name]\\c[0] ."
+msgstr "Busca los \\c[3]\\v[combat.name.jungle/plant] infectados\\c[0] cerca de cuerpos de agua en \\c[3]el Oeste del \\v[area.jungle.name]\\c[0] ."
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/6/event/3/message #611
 #. NPC leader-greenie
@@ -13614,7 +13614,7 @@ msgstr "Ofc. Nailson"
 #: data/maps/jungle-city/west.json+entities/329/settings/npcStates/4/event/2/message+%23522
 msgctxt "data/maps/jungle-city/west.json//entities/329/settings/npcStates/4/event/2/message"
 msgid "Report back to Sgt. Bronzel at the HQ.\\. I already gave him a summary of your performance."
-msgstr "Reporta al Sgto. Bronzel en el cuartel general.\\. Ya le di un resumen de tu trabajo."
+msgstr "Reporta al Sgto. Bronzel en la Sede.\\. Ya le di un resumen de tu trabajo."
 
 #. data/maps/jungle-city/west.json entities/329/settings/npcStates/4/event/3/message #523
 #. NPC officer-nailson
@@ -13839,7 +13839,7 @@ msgstr "..."
 #: data/maps/jungle-city/west.json+entities/329/settings/npcStates/8/event/quest/8/message+%23593
 msgctxt "data/maps/jungle-city/west.json//entities/329/settings/npcStates/8/event/quest/8/message"
 msgid "Time to go back to Sgt. Bronzel at the HQ.\\. The report of the operations should have already reached him."
-msgstr "Es hora de volver con el Sgto. Bronzel en el cuartel general.\\. El informe de las operaciones ya debería haberle llegado."
+msgstr "Es hora de volver con el Sgto. Bronzel en la Sede.\\. El informe de las operaciones ya debería haberle llegado."
 
 #. data/maps/jungle-city/west.json entities/329/settings/npcStates/8/event/quest/9/message #591
 #. NPC officer-nailson
@@ -13866,7 +13866,7 @@ msgstr "Ofc. Nailson"
 #: data/maps/jungle-city/west.json+entities/329/settings/npcStates/9/event/2/message+%23601
 msgctxt "data/maps/jungle-city/west.json//entities/329/settings/npcStates/9/event/2/message"
 msgid "Return to Sgt. Bronzel at the HQ.\\. The report of this operation should have already reached him."
-msgstr "Vuelve con el Sgto. Bronzel en el cuartel general.\\. El informe de esta operación ya debería haberle llegado."
+msgstr "Vuelve con el Sgto. Bronzel en la Sede.\\. El informe de esta operación ya debería haberle llegado."
 
 #. data/maps/jungle-city/west.json entities/329/settings/npcStates/9/event/3/message #594
 #. NPC officer-nailson
