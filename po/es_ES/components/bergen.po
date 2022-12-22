@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-12-20 08:03+0000\n"
+"PO-Revision-Date: 2022-12-22 20:22+0000\n"
 "Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/bergen/es/>\n"
 "Language: es_ES\n"
@@ -150,13 +150,13 @@ msgstr "Teleféricos"
 #: data/areas/bergen.json+floors/1/maps/14/name+%2342
 msgctxt "data/areas/bergen.json//floors/1/maps/14/name"
 msgid "Digging Mates HQ"
-msgstr "Sede Central de la Compañía Minera"
+msgstr "Sede de los Amigos Mineros"
 
 #. data/areas/bergen.json floors/1/maps/15/name #43
 #: data/areas/bergen.json+floors/1/maps/15/name+%2343
 msgctxt "data/areas/bergen.json//floors/1/maps/15/name"
 msgid "Bergen Guard HQ"
-msgstr "Sede Central de la Guardia de Bergen"
+msgstr "Sede de la Guardia de Bergen"
 
 #. data/areas/bergen.json floors/1/maps/16/name #44
 #: data/areas/bergen.json+floors/1/maps/16/name+%2344
@@ -3966,7 +3966,7 @@ msgstr "Para pasar, necesitas conseguir la \\c[3]\\v[item.225.name]\\c[0]."
 #: data/maps/bergen/elevator.json+entities/223/settings/npcStates/0/event/2/elseStep/3/message+%2393
 msgctxt "data/maps/bergen/elevator.json//entities/223/settings/npcStates/0/event/2/elseStep/3/message"
 msgid "It is given to anyone who completes the \\c[0]\\v[area.cold-dng.name]\\c[0]."
-msgstr "Se la dan a quien complete el \\c[0]\\v[area.cold-dng.name]\\c[0]."
+msgstr "Se la dan a quien complete el \\c[3]\\v[area.cold-dng.name]\\c[0]."
 
 #. data/maps/bergen/elevator.json entities/223/settings/npcStates/0/event/2/elseStep/4/thenStep/0/message #94
 #. NPC
@@ -4409,7 +4409,7 @@ msgstr "A propósito, no necesitas regresar aquí cuando termines."
 #: data/maps/bergen/guild-1.json+entities/76/settings/npcStates/0/event/quest/11/accepted/1/message+%2332
 msgctxt "data/maps/bergen/guild-1.json//entities/76/settings/npcStates/0/event/quest/11/accepted/1/message"
 msgid "The items will be transferred here as soon as you find them."
-msgstr "Cuando encuentres los objetos, estos serán transferidos hasta acá."
+msgstr "Cuando encuentres los objetos, estos serán transferidos hasta aquí."
 
 #. data/maps/bergen/guild-1.json entities/76/settings/npcStates/0/event/quest/11/accepted/2/message #33
 #. NPC general
@@ -6836,7 +6836,7 @@ msgstr "¿...a-adiós?"
 #: data/maps/bergen/inner-faction-miners.json+entities/34/settings/npcStates/1/event/quest/5/message+%23270
 msgctxt "data/maps/bergen/inner-faction-miners.json//entities/34/settings/npcStates/1/event/quest/5/message"
 msgid "Har, that look on your face!\\. The name's Turis McEdinthil, Chief Miner of the Bergen Digging Mates.\\. Welcome to our humble headquarters!"
-msgstr "¡Ja!, ¡Si pudieras verte la cara!\\. Me llamo Turis McEdinthil, soy el jefe de los Amigos Mineros de Bergen.\\. ¡Bienvenida a nuestra humilde central!"
+msgstr "¡Ja, si pudieras verte la cara!\\. Me llamo Turis McEdinthil, soy el jefe de los Amigos Mineros de Bergen.\\. ¡Bienvenida a nuestra humilde central!"
 
 #. data/maps/bergen/inner-faction-miners.json entities/34/settings/npcStates/1/event/quest/7/message #292
 #. NPC leader-turis
@@ -7410,7 +7410,7 @@ msgstr "¡...!"
 #: data/maps/bergen/inner-faction-miners.json+entities/34/settings/npcStates/6/event/quest/9/message+%23326
 msgctxt "data/maps/bergen/inner-faction-miners.json//entities/34/settings/npcStates/6/event/quest/9/message"
 msgid "With any luck, we can finally make some real progress now.\\. You're always welcome to lend us a hand!"
-msgstr "Si tenemos suerte, ahora por fin podremos progresar de verdad.\\. ¡Tu ayuda siempre es bienvenida acá!"
+msgstr "Si tenemos suerte, ahora por fin podremos progresar de verdad.\\. ¡Tu ayuda siempre es bienvenida aquí!"
 
 #. data/maps/bergen/inner-faction-miners.json entities/34/settings/npcStates/6/event/quest/10/message #327
 #. NPC leader-turis
@@ -7815,7 +7815,7 @@ msgstr "Nemuh"
 #: data/maps/bergen/inner-faction-monks.json+entities/29/settings/npcStates/2/event/2/message+%2326
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/29/settings/npcStates/2/event/2/message"
 msgid "Talk to Monk Hasouk to start the trial.\\. They can be found not far from here."
-msgstr "Habla con el Monje Hasouk para comenzar las pruebas.\\. No están tan lejos de acá."
+msgstr "Habla con el Monje Hasouk para comenzar las pruebas.\\. No están tan lejos de aquí."
 
 #. data/maps/bergen/inner-faction-monks.json entities/29/settings/npcStates/3/event/quest/0/name #430
 #. NPC leader-wise
@@ -8334,7 +8334,7 @@ msgstr "Una vez más debes hablar con uno de mis chicos del Camino."
 #: data/maps/bergen/inner-faction-monks.json+entities/29/settings/npcStates/7/event/quest/9/accepted/4/message+%23502
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/29/settings/npcStates/7/event/quest/9/accepted/4/message"
 msgid "The one you seek is named \\c[3]Cratos\\c[0] and he is meditating not far from here."
-msgstr "El que buscas se llama \\c[3]Cratos\\c[0]. Está meditando no lejos de acá."
+msgstr "El que buscas se llama \\c[3]Cratos\\c[0]. Está meditando no lejos de aquí."
 
 #. data/maps/bergen/inner-faction-monks.json entities/29/settings/npcStates/7/event/quest/9/accepted/5/message #503
 #. NPC leader-wise
@@ -8489,7 +8489,7 @@ msgstr "¡Hola!"
 #: data/maps/bergen/inner-faction-monks.json+entities/29/settings/npcStates/9/event/quest/3/message+%23484
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/29/settings/npcStates/9/event/quest/3/message"
 msgid "\\v[lore.title.seeker], your return has already been expected.\\. I could sense your success in that cave even from here."
-msgstr "\\v[lore.title.seeker], tu regreso se había predicho.\\. Incluso desde acá podía sentir tu éxito en esa cueva."
+msgstr "\\v[lore.title.seeker], tu regreso se había predicho.\\. Incluso desde aquí podía sentir tu éxito en esa cueva."
 
 #. data/maps/bergen/inner-faction-monks.json entities/29/settings/npcStates/9/event/quest/4/message #485
 #. NPC leader-wise
@@ -9211,7 +9211,7 @@ msgstr "[asiente]"
 #: data/maps/bergen/inner-faction-monks.json+entities/58/settings/npcStates/1/event/quest/5/message+%23450
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/58/settings/npcStates/1/event/quest/5/message"
 msgid "Very well.\\. But it is not I who will test you but the very Track itself."
-msgstr "Muy bien.\\. Pero yo no seré quien te pondrá a prueba, sino que será el mismo Circuito."
+msgstr "Muy bien.\\. Pero yo no seré quien te pondrá a prueba, sino que será el mismo Camino."
 
 #. data/maps/bergen/inner-faction-monks.json entities/58/settings/npcStates/1/event/quest/6/message #451
 #. NPC hasouk
@@ -9220,7 +9220,7 @@ msgstr "Muy bien.\\. Pero yo no seré quien te pondrá a prueba, sino que será 
 #: data/maps/bergen/inner-faction-monks.json+entities/58/settings/npcStates/1/event/quest/6/message+%23451
 msgctxt "data/maps/bergen/inner-faction-monks.json//entities/58/settings/npcStates/1/event/quest/6/message"
 msgid "For that purpose, we prepared a trial that works in harmony with the Track, deep within these mountains."
-msgstr "Es por ello que preparamos una prueba que se complementa armoniosamente con el Circuito, el cual se encuentra en las profundidades de estas montañas."
+msgstr "Es por ello que preparamos una prueba que se complementa armoniosamente con el Camino, el cual se encuentra en las profundidades de estas montañas."
 
 #. data/maps/bergen/inner-faction-monks.json entities/58/settings/npcStates/1/event/quest/23/name #452
 #. NPC hasouk
@@ -10455,7 +10455,7 @@ msgstr ""
 "Recuerda, nos faltan tres cosas:\\.\\.\n"
 "\\c[3]\\v[item.238.name]s,\\.\n"
 "conjuntos de \\v[item.239.name]\\.\n"
-"y el \\v[item.240.name]\\c[0]."
+"y los \\v[item.240.name]\\c[0]."
 
 #. data/maps/bergen/inner-questhub-1.json entities/89/settings/npcStates/2/event/3/message #29
 #. NPC Mining-Quest
@@ -14902,7 +14902,7 @@ msgstr "..."
 #: data/maps/bergen/special/miners-bombquest-1.json+entities/92/settings/npcStates/9/event/quest/5/message+%23394
 msgctxt "data/maps/bergen/special/miners-bombquest-1.json//entities/92/settings/npcStates/9/event/quest/5/message"
 msgid "Remember, we still got the device here, so we could repeat it as often as we want."
-msgstr "Recuerda, aún tenemos el dispositivo acá, por lo que podríamos repetirlo las veces que queramos."
+msgstr "Recuerda, aún tenemos el dispositivo aquí, por lo que podríamos repetirlo las veces que queramos."
 
 #. data/maps/bergen/special/miners-bombquest-1.json entities/92/settings/npcStates/9/event/quest/6/message #395
 #. NPC miner-darrel
@@ -14971,7 +14971,7 @@ msgstr "¡Hola!"
 #: data/maps/bergen/special/miners-bombquest-1.json+entities/93/settings/event/16/message+%23313
 msgctxt "data/maps/bergen/special/miners-bombquest-1.json//entities/93/settings/event/16/message"
 msgid "Greetings, lass.\\. You must be the \\v[lore.title.seeker] they wanted to send down here. "
-msgstr "Saludos, muchacha.\\. Tú debes ser el \\v[lore.title.seeker] que querían enviarme acá abajo. "
+msgstr "Saludos, muchacha.\\. Tú debes ser el \\v[lore.title.seeker] que querían enviarme aquí abajo. "
 
 #. data/maps/bergen/special/miners-bombquest-1.json entities/93/settings/event/17/message #350
 #. EventTrigger first-enter START IF quest.miners-2-mine_bombing_1.task.0
@@ -14995,7 +14995,7 @@ msgstr "Sin ofender, pero ya era hora de que aparecieras."
 #: data/maps/bergen/special/miners-bombquest-1.json+entities/93/settings/event/19/message+%23316
 msgctxt "data/maps/bergen/special/miners-bombquest-1.json//entities/93/settings/event/19/message"
 msgid "Got a bad feeling about things down here and time's not improving it."
-msgstr "Tengo un mal presentimiento de esto acá abajo y el tiempo no lo está mejorando."
+msgstr "Tengo un mal presentimiento de esto aquí abajo y el tiempo no lo está mejorando."
 
 #. data/maps/bergen/special/miners-bombquest-1.json entities/93/settings/event/20/message #317
 #. EventTrigger first-enter START IF quest.miners-2-mine_bombing_1.task.0
@@ -15274,7 +15274,7 @@ msgstr "Reactivar explosivos"
 #: data/maps/bergen/special/miners-elevator-g.json+entities/8/settings/destinations/0/label+%231
 msgctxt "data/maps/bergen/special/miners-elevator-g.json//entities/8/settings/destinations/0/label"
 msgid "G: HQ"
-msgstr "G: Sede Central"
+msgstr "PB: Sede Central"
 
 #. data/maps/bergen/special/miners-elevator-g.json entities/8/settings/destinations/1/label #2
 #. Elevator elevator
@@ -15282,7 +15282,7 @@ msgstr "G: Sede Central"
 #: data/maps/bergen/special/miners-elevator-g.json+entities/8/settings/destinations/1/label+%232
 msgctxt "data/maps/bergen/special/miners-elevator-g.json//entities/8/settings/destinations/1/label"
 msgid "B1: New Mine #1"
-msgstr "B1: Nueva Mina #1"
+msgstr "S1: Nueva Mina #1"
 
 #. data/maps/bergen/special/miners-elevator-quest1.json entities/5/settings/analyzable/text #251
 #. NPC guardperson
@@ -15306,7 +15306,7 @@ msgstr "Nuestra primera nueva mina está dentro.\\. El minero Darrel siempre nec
 #: data/maps/bergen/special/miners-elevator-quest1.json+entities/6/settings/destinations/0/label+%231
 msgctxt "data/maps/bergen/special/miners-elevator-quest1.json//entities/6/settings/destinations/0/label"
 msgid "G: HQ"
-msgstr "G: Sede Central"
+msgstr "PB: Sede Central"
 
 #. data/maps/bergen/special/miners-elevator-quest1.json entities/6/settings/destinations/1/label #2
 #. Elevator elevator
@@ -15314,7 +15314,7 @@ msgstr "G: Sede Central"
 #: data/maps/bergen/special/miners-elevator-quest1.json+entities/6/settings/destinations/1/label+%232
 msgctxt "data/maps/bergen/special/miners-elevator-quest1.json//entities/6/settings/destinations/1/label"
 msgid "B1: New Mine #1"
-msgstr "B1: Nueva Mina #1"
+msgstr "S1: Nueva Mina #1"
 
 #. data/maps/bergen/special/monks-questcave1-old.json entities/91/settings/event/0/text #2
 #. EventTrigger event-0-endTrigger START IF tmp.0-switchCount>=17
@@ -15347,7 +15347,7 @@ msgstr "¡LISTO!\\. LA MEJOR MISIÓN DE LA HISTORIA, ¿NO?"
 #: data/maps/bergen/special/monks-questcave1.json+entities/2/settings/event/7/thenStep/5/text+%2397
 msgctxt "data/maps/bergen/special/monks-questcave1.json//entities/2/settings/event/7/thenStep/5/text"
 msgid "Deactivate your shield here!"
-msgstr "¡Desactiva tu escudo acá!"
+msgstr "¡Desactiva tu escudo aquí!"
 
 #. data/maps/bergen/special/monks-questcave1.json entities/2/settings/event/8/thenStep/2/titleText #95
 #. EventTrigger map-init
@@ -17274,7 +17274,7 @@ msgstr "Ah, una \\v[lore.title.seeker]a.\\. Es un placer. He estado viendo mucho
 #: data/maps/bergen/trader-1.json+entities/132/settings/npcStates/1/event/quest/4/message+%23388
 msgctxt "data/maps/bergen/trader-1.json//entities/132/settings/npcStates/1/event/quest/4/message"
 msgid "I am Mrs. Summers, holding the position of chairperson in \\c[3]\\v[lore.title.faction-shock-bergen]\\c[0]."
-msgstr "Soy la Sra. Summers, soy la jefa de los \\c[3]\\v[lore.title.faction-shock-bergen]\\c[0]."
+msgstr "Soy la Sra. Summers, soy la jefa de \\c[3]\\v[lore.title.faction-shock-bergen]\\c[0]."
 
 #. data/maps/bergen/trader-1.json entities/132/settings/npcStates/1/event/quest/5/message #389
 #. NPC leader-traders
@@ -17301,7 +17301,7 @@ msgstr "Maravilloso.\\. Sin embargo, no deberíamos desperdiciar tiempo con form
 #: data/maps/bergen/trader-1.json+entities/132/settings/npcStates/1/event/quest/7/message+%23391
 msgctxt "data/maps/bergen/trader-1.json//entities/132/settings/npcStates/1/event/quest/7/message"
 msgid "After all, we businesspeople have as much a responsibility to humanity's progress as any soldier."
-msgstr "Después de todo, nosotros somo tan responsables del progreso de la humanidad como cualquier otro soldado."
+msgstr "Después de todo, nosotros somos tan responsables del progreso de la humanidad como cualquier otro soldado."
 
 #. data/maps/bergen/trader-1.json entities/132/settings/npcStates/1/event/quest/8/message #392
 #. NPC leader-traders
