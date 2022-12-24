@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-12-24 17:33+0000\n"
+"PO-Revision-Date: 2022-12-24 17:57+0000\n"
 "Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/jungle/es/>\n"
 "Language: es_ES\n"
@@ -1026,7 +1026,7 @@ msgstr "¡HIELO disponible!"
 #: data/maps/jungle/caves/questcave-td-1.json+entities/33/settings/event/2/message+%23717
 msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/33/settings/event/2/message"
 msgid "Alright, first one down.\\. The blobs dislike the cold so I will \\c[3]unlock Cold Turrets\\c[0] now."
-msgstr "Muy bien, los primeros en bajar.\\. A los blobs no les gusta el frío, así que \\c[3]soltaré Torretas de hielo\\c[0] ahora."
+msgstr "Muy bien, superamos la primera oleada.\\. A las babas no les gusta el frío, así que \\c[3]habilitaré las Torretas de Hielo\\c[0] ahora."
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/33/settings/event/3/message #718
 #. EventTrigger turretDefenseRound1Wave2 START IF tmp.tdStarted && tmp.tdEnemyRound1Wave1Finished && (tmp.tdCounterWave >= tmp.tdWaveSize) && !quest.jungleAdv-1-turret_defense_1.solved
@@ -1034,7 +1034,7 @@ msgstr "Muy bien, los primeros en bajar.\\. A los blobs no les gusta el frío, a
 #: data/maps/jungle/caves/questcave-td-1.json+entities/33/settings/event/3/message+%23718
 msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/33/settings/event/3/message"
 msgid "Activate them by using a \\c[3]Cold-elemental charged shot\\c[0]."
-msgstr "Actívalas usando un \\c[3]disparo cargado de hielo\\c[0]."
+msgstr "Actívalas usando un \\c[3]disparo cargado de Hielo\\c[0]."
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/33/settings/event/4/message #719
 #. EventTrigger turretDefenseRound1Wave2 START IF tmp.tdStarted && tmp.tdEnemyRound1Wave1Finished && (tmp.tdCounterWave >= tmp.tdWaveSize) && !quest.jungleAdv-1-turret_defense_1.solved
@@ -1050,7 +1050,7 @@ msgstr "Sin embargo, aunque las torretas elementales son \\c[3]más fuertes\\c[0
 #: data/maps/jungle/caves/questcave-td-1.json+entities/33/settings/event/14/task+%23191
 msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/33/settings/event/14/task"
 msgid "Wave 2 incoming!"
-msgstr "¡Se acerca la ola 2!"
+msgstr "¡Se aproxima la oleada 2!"
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/34/settings/event/1/text #194
 #. EventTrigger turretDefenseRound1Wave3 START IF tmp.tdStarted && tmp.tdEnemyRound1Wave2Finished && (tmp.tdCounterWave >= tmp.tdWaveSize) && !quest.jungleAdv-1-turret_defense_1.solved
@@ -1066,7 +1066,7 @@ msgstr "¡FUEGO disponible!"
 #: data/maps/jungle/caves/questcave-td-1.json+entities/34/settings/event/2/message+%23720
 msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/34/settings/event/2/message"
 msgid "Seems like those Plants dislike fire.\\. Unlocking \\c[3]Heat-turrets\\c[0]."
-msgstr "Parece que a esas Plantas no les gusta el fuego.\\. Desbloqueo de \\c[3]Torretas de fuego\\c[0] entonces."
+msgstr "Parece que a esas Plantas no les gusta el fuego.\\. Habilitaré las \\c[3]Torretas de Fuego\\c[0]."
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/34/settings/event/3/message #721
 #. EventTrigger turretDefenseRound1Wave3 START IF tmp.tdStarted && tmp.tdEnemyRound1Wave2Finished && (tmp.tdCounterWave >= tmp.tdWaveSize) && !quest.jungleAdv-1-turret_defense_1.solved
@@ -1074,7 +1074,7 @@ msgstr "Parece que a esas Plantas no les gusta el fuego.\\. Desbloqueo de \\c[3]
 #: data/maps/jungle/caves/questcave-td-1.json+entities/34/settings/event/3/message+%23721
 msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/34/settings/event/3/message"
 msgid "Obviously, you can activate them with \\c[3]charged Heat-elemental shots\\c[0]."
-msgstr "Obviamente, podrás activarlos con \\c[3]disparos de fuego cargados\\c[0]."
+msgstr "Obviamente, podrás activarlas con \\c[3]disparos de Fuego cargados\\c[0]."
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/34/settings/event/4/message #722
 #. EventTrigger turretDefenseRound1Wave3 START IF tmp.tdStarted && tmp.tdEnemyRound1Wave2Finished && (tmp.tdCounterWave >= tmp.tdWaveSize) && !quest.jungleAdv-1-turret_defense_1.solved
@@ -1082,7 +1082,7 @@ msgstr "Obviamente, podrás activarlos con \\c[3]disparos de fuego cargados\\c[0
 #: data/maps/jungle/caves/questcave-td-1.json+entities/34/settings/event/4/message+%23722
 msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/34/settings/event/4/message"
 msgid "They also \\c[3]don't disrupt shields\\c[0], though, so remember to activate some more \\c[3]neutral turrets\\c[0] as well."
-msgstr "Sin embargo, \\c[3]no interrumpen los escudos\\c[0], así que recuerda activar algunas \\c[3]torretas neutrales\\c[0] más."
+msgstr "Sin embargo, \\c[3]no interrumpen los escudos\\c[0], así que recuerda activar algunas \\c[3]torretas neutrales\\c[0] también."
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/34/settings/event/14/task #192
 #. EventTrigger turretDefenseRound1Wave3 START IF tmp.tdStarted && tmp.tdEnemyRound1Wave2Finished && (tmp.tdCounterWave >= tmp.tdWaveSize) && !quest.jungleAdv-1-turret_defense_1.solved
@@ -1090,7 +1090,7 @@ msgstr "Sin embargo, \\c[3]no interrumpen los escudos\\c[0], así que recuerda a
 #: data/maps/jungle/caves/questcave-td-1.json+entities/34/settings/event/14/task+%23192
 msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/34/settings/event/14/task"
 msgid "Wave 3 incoming!"
-msgstr "¡Se acerca la ola 3!"
+msgstr "¡Se aproxima la oleada 3!"
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/35/settings/event/9/task #195
 #. EventTrigger turretDefenseRound1Wave4 START IF tmp.tdStarted && tmp.tdEnemyRound1Wave3Finished && (tmp.tdCounterWave >= tmp.tdWaveSize) && !quest.jungleAdv-1-turret_defense_1.solved
@@ -1098,7 +1098,7 @@ msgstr "¡Se acerca la ola 3!"
 #: data/maps/jungle/caves/questcave-td-1.json+entities/35/settings/event/9/task+%23195
 msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/35/settings/event/9/task"
 msgid "Wave 4 incoming!"
-msgstr "¡Se acerca la ola 4!"
+msgstr "¡Se aproxima la oleada 4!"
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/36/settings/event/0/message #723
 #. EventTrigger turretDefenseRound1Wave5 START IF tmp.tdStarted && tmp.tdEnemyRound1Wave4Finished && (tmp.tdCounterWave >= tmp.tdWaveSize) && !quest.jungleAdv-1-turret_defense_1.solved
@@ -1106,7 +1106,7 @@ msgstr "¡Se acerca la ola 4!"
 #: data/maps/jungle/caves/questcave-td-1.json+entities/36/settings/event/0/message+%23723
 msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/36/settings/event/0/message"
 msgid "A lot of critters incoming!\\. This should be their \\c[3]last assault\\c[0]."
-msgstr "¡Llegan muchos bichos!\\. Este debería ser su \\c[3]último asalto\\c[0]."
+msgstr "¡Vienen muchísimos!\\. Este debería ser su \\c[3]último asalto\\c[0]."
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/36/settings/event/1/message #724
 #. EventTrigger turretDefenseRound1Wave5 START IF tmp.tdStarted && tmp.tdEnemyRound1Wave4Finished && (tmp.tdCounterWave >= tmp.tdWaveSize) && !quest.jungleAdv-1-turret_defense_1.solved
@@ -1114,7 +1114,7 @@ msgstr "¡Llegan muchos bichos!\\. Este debería ser su \\c[3]último asalto\\c[
 #: data/maps/jungle/caves/questcave-td-1.json+entities/36/settings/event/1/message+%23724
 msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/36/settings/event/1/message"
 msgid "I'm gonna put up everything we've got.\\. Put it to good use!"
-msgstr "Voy a poner todo lo que tenemos.\\. ¡Dales un buen uso!"
+msgstr "Habilitaré todo lo que tenemos.\\. ¡Dales un buen uso!"
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/36/settings/event/11/task #196
 #. EventTrigger turretDefenseRound1Wave5 START IF tmp.tdStarted && tmp.tdEnemyRound1Wave4Finished && (tmp.tdCounterWave >= tmp.tdWaveSize) && !quest.jungleAdv-1-turret_defense_1.solved
@@ -1122,7 +1122,7 @@ msgstr "Voy a poner todo lo que tenemos.\\. ¡Dales un buen uso!"
 #: data/maps/jungle/caves/questcave-td-1.json+entities/36/settings/event/11/task+%23196
 msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/36/settings/event/11/task"
 msgid "Final Wave incoming!!!"
-msgstr "¡¡¡Llega la ola final!!!"
+msgstr "¡¡¡Se aproxima la oleada final!!!"
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/37/settings/event/13/text #198
 #. EventTrigger turretDefenseRound1END START IF tmp.tdStarted && tmp.tdEnemyRound1Wave5Finished && (tmp.tdCounterWave >= tmp.tdWaveSize) && !quest.jungleAdv-1-turret_defense_1.solved
@@ -1138,7 +1138,7 @@ msgstr "¡Defensa exitosa!"
 #: data/maps/jungle/caves/questcave-td-1.json+entities/37/settings/event/26/message+%23745
 msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/37/settings/event/26/message"
 msgid "Good job, \\v[lore.title.seeker].\\. \\c[3]Come back here\\c[0], so we can review the results!"
-msgstr "Buen trabajo, \\v[lore.title.seeker].\\. \\c[3]Vuelve aquí\\c[0], ¡así podemos revisar los resultados!"
+msgstr "Buen trabajo, \\v[lore.title.seeker]a.\\. ¡\\c[3]Vuelve aquí\\c[0], así podemos revisar los resultados!"
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/38/settings/event/15/text #200
 #. EventTrigger turretDefenseFail START IF tmp.tdStarted && (tmp.tdLife <= 0) && !quest.jungleAdv-1-turret_defense_1.solved
@@ -1152,10 +1152,9 @@ msgstr "¡¡¡A punto de estallar!!!"
 #. EventTrigger turretDefenseFail START IF tmp.tdStarted && (tmp.tdLife <= 0) && !quest.jungleAdv-1-turret_defense_1.solved
 #. SHOW_AR_MSG
 #: data/maps/jungle/caves/questcave-td-1.json+entities/38/settings/event/24/text+%23177
-#, fuzzy
 msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/38/settings/event/24/text"
 msgid "Pathhacker destroyed!"
-msgstr "¡Pathhacker destruido!"
+msgstr "¡Perturbacamino destruido!"
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/38/settings/event/34/text #176
 #. EventTrigger turretDefenseFail START IF tmp.tdStarted && (tmp.tdLife <= 0) && !quest.jungleAdv-1-turret_defense_1.solved
@@ -1169,7 +1168,7 @@ msgid ""
 msgstr ""
 "\\c[1]MISIÓN FALLIDA\\c[0]\n"
 "\n"
-"Reinicie la tarea para volver a intentarlo"
+"Reinicia la tarea para volver a intentarlo"
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/39/settings/event/4/task #202
 #. EventTrigger turretDefenseTestWaveFishes START IF tmp.tdStarted && tmp.tdWave1-1Startx
@@ -1184,7 +1183,7 @@ msgstr "¡Se aproxima la oleada 1!"
 #: data/maps/jungle/caves/questcave-td-1.json+entities/46/settings/analyzable/text+%23650
 msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/46/settings/analyzable/text"
 msgid "Pathfinder"
-msgstr "Conquistador"
+msgstr "Encuentracamino"
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/46/settings/npcStates/1/event/quest/1/message #825
 #. NPC td-targetEntity-doorOpener
@@ -1211,7 +1210,7 @@ msgstr "... h-hola?"
 #: data/maps/jungle/caves/questcave-td-1.json+entities/46/settings/npcStates/1/event/quest/3/message+%23819
 msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/46/settings/npcStates/1/event/quest/3/message"
 msgid "[ Since you have already successfully used our products, are you interested in their advanced recreational functionality? ]"
-msgstr "[ Dado que ya has utilizado con éxito nuestros productos, ¿estás interesada en una funcionalidad avanzada? ]"
+msgstr "[ Dado que ya ha utilizado con éxito nuestros productos, ¿está interesado en sus funcionalidades avanzadas para uso recreativo? ]"
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/46/settings/npcStates/1/event/quest/4/accepted/2/message #406
 #. NPC td-targetEntity-doorOpener
@@ -1241,7 +1240,7 @@ msgstr "[ DESAFÍO ACEPTADO. Elige \\c[3]Modo Desafío\\c[0] para comenzar. ]"
 #: data/maps/jungle/caves/questcave-td-1.json+entities/46/settings/npcStates/1/event/quest/4/accepted/4/message+%23830
 msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/46/settings/npcStates/1/event/quest/4/accepted/4/message"
 msgid "[ Using this device in such a manner will collect energy from the Track and convert it into \\c[3]special tokens\\c[0]. ]"
-msgstr "[ El uso de este dispositivo de esta manera recolectará energía del Camino y la convertirá en \\c[3]fichas especiales\\c[0]. ]"
+msgstr "[ El uso de este dispositivo en este modo recolectará energía del Camino y la convertirá en \\c[3]fichas especiales\\c[0]. ]"
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/46/settings/npcStates/1/event/quest/4/accepted/5/message #831
 #. NPC td-targetEntity-doorOpener
@@ -1251,7 +1250,7 @@ msgstr "[ El uso de este dispositivo de esta manera recolectará energía del Ca
 #: data/maps/jungle/caves/questcave-td-1.json+entities/46/settings/npcStates/1/event/quest/4/accepted/5/message+%23831
 msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/46/settings/npcStates/1/event/quest/4/accepted/5/message"
 msgid "[ Those can be \\c[3]exchanged for valuable items\\c[0] directly at this device. ]"
-msgstr "[ Esos pueden ser \\c[3]intercambiados por artículos valiosos\\c[0] directamente en este dispositivo. ]"
+msgstr "[ Estas pueden ser \\c[3]intercambiados por artículos valiosos\\c[0] directamente en este dispositivo. ]"
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/46/settings/npcStates/1/event/quest/4/accepted/6/message #832
 #. NPC td-targetEntity-doorOpener
@@ -1271,7 +1270,7 @@ msgstr "¡...!"
 #: data/maps/jungle/caves/questcave-td-1.json+entities/46/settings/npcStates/1/event/quest/4/accepted/7/message+%23821
 msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/46/settings/npcStates/1/event/quest/4/accepted/7/message"
 msgid "[ Thank you for using TURRET products! ]"
-msgstr "[ ¡Gracias por usar los productos tipo TORRETA! ]"
+msgstr "[ ¡Gracias por usar productos TURRET! ]"
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/46/settings/npcStates/1/event/quest/4/accepted/8/message #822
 #. NPC td-targetEntity-doorOpener
@@ -1301,7 +1300,7 @@ msgstr "[niega con la cabeza]"
 #: data/maps/jungle/caves/questcave-td-1.json+entities/46/settings/npcStates/1/event/quest/4/declined/1/message+%23823
 msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/46/settings/npcStates/1/event/quest/4/declined/1/message"
 msgid "[ CHALLENGE DENIED. Please come back when you make up your mind. ]"
-msgstr "[ RETO RECHAZADO. Vuelve cuando te decidas. ]"
+msgstr "[ DESAFÍO RECHAZADO. Vuelva cuando se decida. ]"
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/46/settings/npcStates/1/event/quest/4/declined/2/message #416
 #. NPC td-targetEntity-doorOpener
@@ -1323,7 +1322,7 @@ msgid ""
 "\\s[0]Challenge Highscore:\n"
 "\\c[3]\\v[map.tdHighScore] Points on Wave \\v[map.tdHighWave]\\c[0] "
 msgstr ""
-"\\s[0]Puntuación más alta del desafío:\n"
+"\\s[0]Puntuación más Alta:\n"
 "\\c[3]\\v[map.tdHighScore] Puntos en la Oleada \\v[map.tdHighWave]\\c[0] "
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/46/settings/npcStates/2/event/trade/event/3/0/4/message #758
@@ -1401,7 +1400,7 @@ msgstr "Energía"
 #: data/maps/jungle/caves/questcave-td-1.json+entities/46/settings/npcStates/2/event/trade/event/3/1/4/message+%23755
 msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/46/settings/npcStates/2/event/trade/event/3/1/4/message"
 msgid "[nods challengingly]"
-msgstr "[asiente desafiantemente]"
+msgstr "[asiente desafiante]"
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/46/settings/npcStates/2/event/trade/event/3/2/1/message #569
 #. NPC td-targetEntity-doorOpener
@@ -1449,10 +1448,9 @@ msgstr "Muy bien, te daré un breve resumen de cómo funcionará esto."
 #. SHOW_CHOICE main.lea @DEFAULT
 #. SHOW_MSG adventurers-jungle.female-white-hat @DEFAULT
 #: data/maps/jungle/caves/questcave-td-1.json+entities/46/settings/npcStates/2/event/trade/event/3/2/5/message+%23732
-#, fuzzy
 msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/46/settings/npcStates/2/event/trade/event/3/2/5/message"
 msgid "After I properly activate our Pathhacker here, enemies will \\c[3]attack in waves\\c[0]."
-msgstr "Después de activar correctamente nuestro Pathhacker aquí, los enemigos \\c[3]atacarán en oleadas\\c[0]."
+msgstr "Después de activar correctamente nuestro Perturbacamino de aquí, los enemigos \\c[3]atacarán en oleadas\\c[0]."
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/46/settings/npcStates/2/event/trade/event/3/2/6/message #733
 #. NPC td-targetEntity-doorOpener
@@ -1664,8 +1662,8 @@ msgid ""
 "\\s[0]Challenge Highscore:\n"
 "\\c[3]\\v[map.tdHighScore] Points on Wave \\v[map.tdHighWave]\\c[0] "
 msgstr ""
-"\\s[0]Puntuación más alta del desafío:\n"
-"\\c[3]\\v[map.tdHighScore] Puntos en Oleada \\v[map.tdHighWave]\\c[0] "
+"\\s[0]Puntuación más Alta:\n"
+"\\c[3]\\v[map.tdHighScore] Puntos en la Oleada \\v[map.tdHighWave]\\c[0] "
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/46/settings/npcStates/3/event/trade/event/3/0/4/message #833
 #. NPC td-targetEntity-doorOpener
@@ -1792,7 +1790,7 @@ msgstr "Muy bien, te daré un breve resumen de cómo funcionará esto."
 #: data/maps/jungle/caves/questcave-td-1.json+entities/46/settings/npcStates/3/event/trade/event/3/2/5/message+%23844
 msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/46/settings/npcStates/3/event/trade/event/3/2/5/message"
 msgid "After I properly activate our Pathhacker here, enemies will \\c[3]attack in waves\\c[0]."
-msgstr "Después de activar correctamente nuestro Pathhacker aquí, los enemigos \\c[3]atacarán en oleadas\\c[0]."
+msgstr "Después de activar correctamente nuestro Perturbacamino de aquí, los enemigos \\c[3]atacarán en oleadas\\c[0]."
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/46/settings/npcStates/3/event/trade/event/3/2/6/message #845
 #. NPC td-targetEntity-doorOpener
@@ -2105,7 +2103,7 @@ msgstr "¿Cómo?"
 #: data/maps/jungle/caves/questcave-td-1.json+entities/48/settings/npcStates/2/event/quest/12/message+%23700
 msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/48/settings/npcStates/2/event/quest/12/message"
 msgid "Don't worry, we will leave the complicated part to this technical marvel here."
-msgstr "No te preocupes, te dejaremos la parte complicada para esta gran maravilla tecnológica."
+msgstr "No te preocupes, dejaremos la parte complicada para esta gran maravilla tecnológica."
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/48/settings/npcStates/2/event/quest/18/name #711
 #. NPC npc-techperson
@@ -2123,7 +2121,7 @@ msgstr "Mika"
 #: data/maps/jungle/caves/questcave-td-1.json+entities/48/settings/npcStates/2/event/quest/19/message+%23701
 msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/48/settings/npcStates/2/event/quest/19/message"
 msgid "You, \\v[lore.title.seeker], will simply defend it against the incoming wave of enemies."
-msgstr "Tú, \\v[lore.title.seeker], te limitarás a defenderla de la ola de enemigos que se avecinan."
+msgstr "Tú, \\v[lore.title.seeker]a, te limitarás a defenderla de la oleada de enemigos que se avecinan."
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/48/settings/npcStates/2/event/quest/20/message #702
 #. NPC npc-techperson
@@ -2159,7 +2157,7 @@ msgstr "Mika"
 #: data/maps/jungle/caves/questcave-td-1.json+entities/48/settings/npcStates/2/event/quest/28/message+%23704
 msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/48/settings/npcStates/2/event/quest/28/message"
 msgid "It's just the one for now, but we will spawn more over time."
-msgstr "Por ahora es sólo uno, pero con el tiempo iremos generando más."
+msgstr "Por ahora es sólo uno, pero con el tiempo habilitaremos más."
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/48/settings/npcStates/2/event/quest/29/message #705
 #. NPC npc-techperson
@@ -2168,7 +2166,7 @@ msgstr "Por ahora es sólo uno, pero con el tiempo iremos generando más."
 #: data/maps/jungle/caves/questcave-td-1.json+entities/48/settings/npcStates/2/event/quest/29/message+%23705
 msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/48/settings/npcStates/2/event/quest/29/message"
 msgid "They will automatically attack incoming enemies once you've activated them."
-msgstr "Atacarán automáticamente a los enemigos que se acerquen una vez que los hayas activado."
+msgstr "Atacarán automáticamente a los enemigos que se acerquen una vez que las hayas activado."
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/48/settings/npcStates/2/event/quest/30/message #706
 #. NPC npc-techperson
@@ -2213,7 +2211,7 @@ msgstr "Mika"
 #: data/maps/jungle/caves/questcave-td-1.json+entities/48/settings/npcStates/3/event/quest/2/message+%23654
 msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/48/settings/npcStates/3/event/quest/2/message"
 msgid "Hello, \\v[lore.title.seeker].\\. Ready to defend against the incoming waves?"
-msgstr "Hola, \\v[lore.title.seeker].\\. ¿Preparada para defenderte de las olas que llegan?"
+msgstr "Hola, \\v[lore.title.seeker]a.\\. ¿Lista para defendernos de las próximas oleadas?"
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/48/settings/npcStates/3/event/quest/4/0/1/message #565
 #. NPC npc-techperson
@@ -2233,7 +2231,7 @@ msgstr "[asiente]"
 #: data/maps/jungle/caves/questcave-td-1.json+entities/48/settings/npcStates/3/event/quest/4/0/2/message+%23534
 msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/48/settings/npcStates/3/event/quest/4/0/2/message"
 msgid "Alright.\\. I will start up our generator here in a second."
-msgstr "Muy bien.\\. Pondré en marcha nuestro generador aquí en un segundo."
+msgstr "Muy bien.\\. Pondré en marcha el generador en un momento."
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/48/settings/npcStates/3/event/quest/4/0/9/name #708
 #. NPC npc-techperson
@@ -2253,7 +2251,7 @@ msgstr "Mika"
 #: data/maps/jungle/caves/questcave-td-1.json+entities/48/settings/npcStates/3/event/quest/4/0/10/message+%23709
 msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/48/settings/npcStates/3/event/quest/4/0/10/message"
 msgid "But first, activate that turret by \\c[3]hitting it a few\\c[0] times and then using a \\c[3]charged projectile on it\\c[0]!"
-msgstr "Pero primero, ¡activa esta torreta \\c[3]golpeándola unas cuantas veces\\c[0] y luego usando un \\c[3]proyectil cargado en ella\\c[0]!"
+msgstr "¡Pero primero, activa esa torreta \\c[3]golpeándola unas cuantas veces\\c[0] y luego usando un \\c[3]proyectil cargado en ella\\c[0]!"
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/48/settings/npcStates/3/event/quest/4/0/11/message #710
 #. NPC npc-techperson
@@ -2293,7 +2291,7 @@ msgstr "[niega con la cabeza]"
 #: data/maps/jungle/caves/questcave-td-1.json+entities/48/settings/npcStates/3/event/quest/4/1/1/message+%23575
 msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/48/settings/npcStates/3/event/quest/4/1/1/message"
 msgid "Okay, but please make up your mind soon.\\. We want to be finished here at some point."
-msgstr "De acuerdo, pero por favor, decídete pronto.\\. Queremos terminar esto en algún momento."
+msgstr "De acuerdo, pero por favor date prisa.\\. Queremos acabar con esto pronto."
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/48/settings/npcStates/3/event/quest/4/2/0/message #759
 #. NPC npc-techperson
@@ -2323,7 +2321,7 @@ msgstr "Muy bien, te daré un breve resumen de cómo funcionará esto."
 #: data/maps/jungle/caves/questcave-td-1.json+entities/48/settings/npcStates/3/event/quest/4/2/2/message+%23761
 msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/48/settings/npcStates/3/event/quest/4/2/2/message"
 msgid "After I properly activate our Pathhacker here, enemies will \\c[3]attack in waves\\c[0]."
-msgstr "Después de activar correctamente nuestro Pathhacker aquí, los enemigos \\c[3]atacarán en oleadas\\c[0]."
+msgstr "Después de activar correctamente nuestro Perturbacamino de aquí, los enemigos \\c[3]atacarán en oleadas\\c[0]."
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/48/settings/npcStates/3/event/quest/4/2/3/message #762
 #. NPC npc-techperson
@@ -2433,7 +2431,7 @@ msgstr "Mika"
 #: data/maps/jungle/caves/questcave-td-1.json+entities/48/settings/npcStates/3/event/quest/4/2/22/message+%23772
 msgctxt "data/maps/jungle/caves/questcave-td-1.json//entities/48/settings/npcStates/3/event/quest/4/2/22/message"
 msgid "Anyway, can we start this up already?"
-msgstr "De todos modos, ¿podemos empezar esto ya?"
+msgstr "En fin, ¿podemos empezar de una vez?"
 
 #. data/maps/jungle/caves/questcave-td-1.json entities/48/settings/npcStates/3/event/quest/4/3/0/message #794
 #. NPC npc-techperson
@@ -3374,7 +3372,7 @@ msgstr "¡¡¡A punto de estallar!!!"
 #: data/maps/jungle/caves/questcave-td-2.json+entities/35/settings/event/23/text+%23177
 msgctxt "data/maps/jungle/caves/questcave-td-2.json//entities/35/settings/event/23/text"
 msgid "Pathhacker destroyed!"
-msgstr "¡Pathhacker destruido!"
+msgstr "¡Perturbacamino destruido!"
 
 #. data/maps/jungle/caves/questcave-td-2.json entities/35/settings/event/33/text #176
 #. EventTrigger turretDefenseFail START IF tmp.tdStarted && (tmp.tdLife <= 0) && !quest.jungleAdv-2-turret_defense_2.solved
@@ -3628,7 +3626,7 @@ msgstr "Energía"
 #: data/maps/jungle/caves/questcave-td-2.json+entities/37/settings/npcStates/2/event/trade/event/3/1/4/message+%23877
 msgctxt "data/maps/jungle/caves/questcave-td-2.json//entities/37/settings/npcStates/2/event/trade/event/3/1/4/message"
 msgid "[nods challengingly]"
-msgstr "[asiente desafiantemente]"
+msgstr "[asiente desafiante]"
 
 #. data/maps/jungle/caves/questcave-td-2.json entities/37/settings/npcStates/2/event/trade/event/3/2/1/message #569
 #. NPC doorOpener
@@ -18895,7 +18893,7 @@ msgid ""
 msgstr ""
 "\\c[1]MISIÓN FALLIDA\\c[0]\n"
 "\n"
-"Reinicie la tarea para volver a intentarlo"
+"Reinicia la tarea para volver a intentarlo"
 
 #. data/maps/jungle/grove/grove-path-02.json entities/899/settings/event/1/message #751
 #. EventTrigger escortInspect1 START IF tmp.questEscort-started && tmp.escort-reachGoal && (tmp.escort-goalCount == 2)
