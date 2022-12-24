@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-12-22 03:05+0000\n"
+"PO-Revision-Date: 2022-12-24 18:41+0000\n"
 "Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/enemies/es/>\n"
 "Language: es_ES\n"
@@ -3662,7 +3662,7 @@ msgstr "Escudo Completo Activado"
 #: data/enemies/jungle/special/turret-defense-1.json+actions/ActivationWait/8/text+%2321
 msgctxt "data/enemies/jungle/special/turret-defense-1.json//actions/ActivationWait/8/text"
 msgid "[ACTIVATE WITH CHARGED]"
-msgstr "[ACTIVAR CARGADO]"
+msgstr "[ACTIVAR CON TIRO CARGADO]"
 
 #. data/enemies/jungle/special/turret-defense-1.json actions/Activate/1/thenStep/1/thenStep/1/text #32
 #. IF tmp.tdEnergy >= tmp.tdCostTurret1
@@ -3724,14 +3724,14 @@ msgstr "[ACTIVADO, NEUTRAL]"
 #: data/enemies/jungle/special/turret-defense-1.json+actions/Activate/1/elseStep/0/text+%2324
 msgctxt "data/enemies/jungle/special/turret-defense-1.json//actions/Activate/1/elseStep/0/text"
 msgid "[NOT ENOUGH ENERGY]"
-msgstr "[NO SUFICIENTE ENERGÍA]"
+msgstr "[ENERGÍA INSUFICIENTE]"
 
 #. data/enemies/jungle/special/turret-defense-1.json actions/LacksEnergy/1/text #26
 #. SHOW_AR_MSG
 #: data/enemies/jungle/special/turret-defense-1.json+actions/LacksEnergy/1/text+%2326
 msgctxt "data/enemies/jungle/special/turret-defense-1.json//actions/LacksEnergy/1/text"
 msgid "[NOT ENOUGH ENERGY]"
-msgstr "[NO SUFICIENTE ENERGÍA]"
+msgstr "[ENERGÍA INSUFICIENTE]"
 
 #. data/enemies/jungle/special/turret-defense-1.json actions/ShotNeutral/1/thenStep/0/text #29
 #. IF test && false
@@ -3837,7 +3837,7 @@ msgstr "Escudo Completo Activado"
 #: data/enemies/jungle/special/turret-defense-2.json+actions/ActivationWait/8/text+%2321
 msgctxt "data/enemies/jungle/special/turret-defense-2.json//actions/ActivationWait/8/text"
 msgid "[ACTIVATE WITH CHARGED]"
-msgstr "[ACTIVAR CARGADO]"
+msgstr "[ACTIVAR CON TIRO CARGADO]"
 
 #. data/enemies/jungle/special/turret-defense-2.json actions/Activate/1/thenStep/1/thenStep/1/text #32
 #. IF tmp.tdEnergy >= tmp.tdCostTurret1
@@ -3846,7 +3846,7 @@ msgstr "[ACTIVAR CARGADO]"
 #: data/enemies/jungle/special/turret-defense-2.json+actions/Activate/1/thenStep/1/thenStep/1/text+%2332
 msgctxt "data/enemies/jungle/special/turret-defense-2.json//actions/Activate/1/thenStep/1/thenStep/1/text"
 msgid "[ACTIVATED, HEAT]"
-msgstr "[ACTIVAR, FUEGO]"
+msgstr "[ACTIVADO, FUEGO]"
 
 #. data/enemies/jungle/special/turret-defense-2.json actions/Activate/1/thenStep/1/elseStep/0/thenStep/1/text #33
 #. IF tmp.tdEnergy >= tmp.tdCostTurret1
@@ -3856,7 +3856,7 @@ msgstr "[ACTIVAR, FUEGO]"
 #: data/enemies/jungle/special/turret-defense-2.json+actions/Activate/1/thenStep/1/elseStep/0/thenStep/1/text+%2333
 msgctxt "data/enemies/jungle/special/turret-defense-2.json//actions/Activate/1/thenStep/1/elseStep/0/thenStep/1/text"
 msgid "[ACTIVATED, COLD]"
-msgstr "[ACTIVAR, HIELO]"
+msgstr "[ACTIVADO, HIELO]"
 
 #. data/enemies/jungle/special/turret-defense-2.json actions/Activate/1/thenStep/1/elseStep/0/elseStep/0/thenStep/1/text #34
 #. IF tmp.tdEnergy >= tmp.tdCostTurret1
@@ -3867,7 +3867,7 @@ msgstr "[ACTIVAR, HIELO]"
 #: data/enemies/jungle/special/turret-defense-2.json+actions/Activate/1/thenStep/1/elseStep/0/elseStep/0/thenStep/1/text+%2334
 msgctxt "data/enemies/jungle/special/turret-defense-2.json//actions/Activate/1/thenStep/1/elseStep/0/elseStep/0/thenStep/1/text"
 msgid "[ACTIVATED, SHOCK]"
-msgstr "[ACTIVAR, RAYO]"
+msgstr "[ACTIVADO, RAYO]"
 
 #. data/enemies/jungle/special/turret-defense-2.json actions/Activate/1/thenStep/1/elseStep/0/elseStep/0/elseStep/0/thenStep/1/text #35
 #. IF tmp.tdEnergy >= tmp.tdCostTurret1
@@ -3879,7 +3879,7 @@ msgstr "[ACTIVAR, RAYO]"
 #: data/enemies/jungle/special/turret-defense-2.json+actions/Activate/1/thenStep/1/elseStep/0/elseStep/0/elseStep/0/thenStep/1/text+%2335
 msgctxt "data/enemies/jungle/special/turret-defense-2.json//actions/Activate/1/thenStep/1/elseStep/0/elseStep/0/elseStep/0/thenStep/1/text"
 msgid "[ACTIVATED, WAVE]"
-msgstr "[ACTIVAR, PULSO]"
+msgstr "[ACTIVADO, PULSO]"
 
 #. data/enemies/jungle/special/turret-defense-2.json actions/Activate/1/thenStep/1/elseStep/0/elseStep/0/elseStep/0/elseStep/1/text #25
 #. IF tmp.tdEnergy >= tmp.tdCostTurret1
@@ -3891,7 +3891,7 @@ msgstr "[ACTIVAR, PULSO]"
 #: data/enemies/jungle/special/turret-defense-2.json+actions/Activate/1/thenStep/1/elseStep/0/elseStep/0/elseStep/0/elseStep/1/text+%2325
 msgctxt "data/enemies/jungle/special/turret-defense-2.json//actions/Activate/1/thenStep/1/elseStep/0/elseStep/0/elseStep/0/elseStep/1/text"
 msgid "[ACTIVATED, NEUTRAL]"
-msgstr "[ACTIVAR, NEUTRAL]"
+msgstr "[ACTIVADO, NEUTRAL]"
 
 #. data/enemies/jungle/special/turret-defense-2.json actions/Activate/1/elseStep/0/text #24
 #. IF NOT tmp.tdEnergy >= tmp.tdCostTurret1
@@ -3899,14 +3899,14 @@ msgstr "[ACTIVAR, NEUTRAL]"
 #: data/enemies/jungle/special/turret-defense-2.json+actions/Activate/1/elseStep/0/text+%2324
 msgctxt "data/enemies/jungle/special/turret-defense-2.json//actions/Activate/1/elseStep/0/text"
 msgid "[NOT ENOUGH ENERGY]"
-msgstr "[NO SUFICIENTE ENERGÍA]"
+msgstr "[ENERGÍA INSUFICIENTE]"
 
 #. data/enemies/jungle/special/turret-defense-2.json actions/LacksEnergy/1/text #26
 #. SHOW_AR_MSG
 #: data/enemies/jungle/special/turret-defense-2.json+actions/LacksEnergy/1/text+%2326
 msgctxt "data/enemies/jungle/special/turret-defense-2.json//actions/LacksEnergy/1/text"
 msgid "[NOT ENOUGH ENERGY]"
-msgstr "[NO SUFICIENTE ENERGÍA]"
+msgstr "[ENERGÍA INSUFICIENTE]"
 
 #. data/enemies/jungle/special/turret-defense-2.json actions/ShotNeutral/1/thenStep/0/text #29
 #. IF test
