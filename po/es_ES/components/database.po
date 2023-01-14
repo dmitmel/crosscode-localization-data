@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2023-01-10 19:31+0000\n"
+"PO-Revision-Date: 2023-01-15 20:31+0000\n"
 "Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/database/es/>\n"
 "Language: es_ES\n"
@@ -1786,7 +1786,7 @@ msgstr "Referencias de Gaia"
 #: data/database.json+achievements/landmarks-gaia/description+%2313487
 msgctxt "data/database.json//achievements/landmarks-gaia/description"
 msgid "\\c[3]Find all Landmarks\\c[0] in Gaia's Garden and Basin Keep."
-msgstr "\\c[3]Encuentra todos los Puntos de Referencia\\c[0] en el Jardín de Gaia y Basin Keep."
+msgstr "\\c[3]Encuentra todos los Puntos de Referencia\\c[0] en el Jardín de Gaia y el Torreón de la Cuenca."
 
 #. data/database.json achievements/landmarks-forest/name #13488
 #: data/database.json+achievements/landmarks-forest/name+%2313488
@@ -3392,7 +3392,7 @@ msgstr "..."
 #: data/database.json+commonEvents/quest-sergey-npc_comment/event/6/message+%234132
 msgctxt "data/database.json//commonEvents/quest-sergey-npc_comment/event/6/message"
 msgid "Yes, I am sorry.\\. I will continue working on it now."
-msgstr "Si, perdón.\\. Seguiré trabajando en ello ahora."
+msgstr "Sí, perdón.\\. Seguiré trabajando en ello ahora."
 
 #. data/database.json commonEvents/call-instance-comments/event/2/0_0/0/message #16090
 #. IF party.size > 1
@@ -8554,7 +8554,7 @@ msgstr "Genial...\\. Espero que no sean demasiado asquerosos."
 #: data/database.json+commonEvents/emilie-meerkats-end/event/0/thenStep/0/message+%231164
 msgctxt "data/database.json//commonEvents/emilie-meerkats-end/event/0/thenStep/0/message"
 msgid "Do you ever wonder what kind of music those things are listening to?"
-msgstr "¿Alguna vez te preguntaste qué tipo de música escuchan esas cosas?"
+msgstr "¿Te has preguntado qué tipo de música escuchan esas cosas?"
 
 #. data/database.json commonEvents/emilie-meerkats-end/event/0/thenStep/1/message #3288
 #. IF party.alive.Emilie
@@ -8952,7 +8952,7 @@ msgstr "[asiente]"
 #: data/database.json+commonEvents/emilie-buffalos-end/event/4/thenStep/3/message+%233303
 msgctxt "data/database.json//commonEvents/emilie-buffalos-end/event/4/thenStep/3/message"
 msgid "Wait...\\. Yes.\\. What do you mean by that?"
-msgstr "Espera...\\. Si.\\. ¿Qué quieres decir con eso?"
+msgstr "Espera...\\. Sí.\\. ¿Qué quieres decir con eso?"
 
 #. data/database.json commonEvents/emilie-buffalos2-end/event/0/thenStep/0/message #12014
 #. IF party.alive.Emilie
@@ -11476,7 +11476,7 @@ msgstr "...Ugh, ¡No pude con esto!"
 #: data/database.json+commonEvents/emilie-dies/event/0/0_1/0/message+%233345
 msgctxt "data/database.json//commonEvents/emilie-dies/event/0/0_1/0/message"
 msgid "Sacrebleu! I'm out, Lea!"
-msgstr "¡Sacrebleu! ¡Estoy fuera, Lea!"
+msgstr "¡Sacrebleu!\\. ¡Estoy fuera, Lea!"
 
 #. data/database.json commonEvents/emilie-dies/event/0/0_2/0/message #3346
 #. SELECT_RANDOM
@@ -11508,7 +11508,7 @@ msgstr "¡Mon Dieu! ¡¿Qué está pasando?!"
 #: data/database.json+commonEvents/emilie-revived/event/0/0_0/0/message+%233347
 msgctxt "data/database.json//commonEvents/emilie-revived/event/0/0_0/0/message"
 msgid "I'm back to kick some derrière!"
-msgstr "¡He vuelto a patear algunos derrière!"
+msgstr "¡He vuelto para patear derrière!"
 
 #. data/database.json commonEvents/emilie-revived/event/0/0_1/0/message #3348
 #. SELECT_RANDOM
@@ -11540,7 +11540,7 @@ msgstr "Hmpf... Tengo que practicar más."
 #: data/database.json+commonEvents/emilie-equip-update/event/0/0_0/0/message+%233351
 msgctxt "data/database.json//commonEvents/emilie-equip-update/event/0/0_0/0/message"
 msgid "Excellent! Got new gear to punch enemies even harder!"
-msgstr "¡Excelente! ¡Con este nuevo equipamiento derrotaré a los enemigos en un santiamén!"
+msgstr "¡Excelente! ¡Tengo equipo nuevo para demoler más enemigos!"
 
 #. data/database.json commonEvents/emilie-equip-update/event/0/0_1/0/message #3352
 #. SELECT_RANDOM
@@ -11548,7 +11548,7 @@ msgstr "¡Excelente! ¡Con este nuevo equipamiento derrotaré a los enemigos en 
 #: data/database.json+commonEvents/emilie-equip-update/event/0/0_1/0/message+%233352
 msgctxt "data/database.json//commonEvents/emilie-equip-update/event/0/0_1/0/message"
 msgid "Lea, look at the new stuff I just bought!"
-msgstr "¡Lea, mira las nuevas cosas que me acabo de comprar!"
+msgstr "¡Lea, mira las nuevas cosas que acabo de comprar!"
 
 #. data/database.json commonEvents/emilie-equip-update/event/0/0_2/0/message #3353
 #. SELECT_RANDOM
@@ -11564,7 +11564,7 @@ msgstr "¡Un paso más cerca de ser la destructora definitiva!"
 #: data/database.json+commonEvents/emilie-equip-update/event/0/0_3/0/message+%233354
 msgctxt "data/database.json//commonEvents/emilie-equip-update/event/0/0_3/0/message"
 msgid "I got new gear! Too bad your appearance doesn't change, non?"
-msgstr "¡Tengo nuevo equipamiento! Qué pena que tu apariencia no cambia, ¿non?"
+msgstr "¡Tengo nuevo equipamiento! Qué pena que tu apariencia no cambie, ¿non?"
 
 #. data/database.json commonEvents/glasses-dies/event/0/0_0/0/message #10995
 #. SELECT_RANDOM
@@ -11596,7 +11596,7 @@ msgstr "¡Uf! ¡Estoy fuera, Lea!"
 #: data/database.json+commonEvents/glasses-dies/event/0/1_0/0/message+%2310998
 msgctxt "data/database.json//commonEvents/glasses-dies/event/0/1_0/0/message"
 msgid "Th... That was strange."
-msgstr "Es... Eso fue raro."
+msgstr "Eso... Eso fue raro."
 
 #. data/database.json commonEvents/glasses-dies/event/0/1_1/0/message #10999
 #. SELECT_RANDOM
@@ -11620,7 +11620,7 @@ msgstr "¡Tu mago ha vuelto!"
 #: data/database.json+commonEvents/glasses-revived/event/0/0_1/0/message+%2311001
 msgctxt "data/database.json//commonEvents/glasses-revived/event/0/0_1/0/message"
 msgid "I'm back! I see you're still going strong... right?"
-msgstr "¡He vuelto! Veo que sigues viva... ¿no?"
+msgstr "¡He vuelto! Veo que aún aguantas... ¿eh?"
 
 #. data/database.json commonEvents/glasses-revived/event/0/1_0/0/message #11002
 #. SELECT_RANDOM
@@ -11628,7 +11628,7 @@ msgstr "¡He vuelto! Veo que sigues viva... ¿no?"
 #: data/database.json+commonEvents/glasses-revived/event/0/1_0/0/message+%2311002
 msgctxt "data/database.json//commonEvents/glasses-revived/event/0/1_0/0/message"
 msgid "Looks like I wasn't quite up to the challenge, sorry."
-msgstr "Parece que no pude con el desafío, lo siento."
+msgstr "Parece que no estuve a la altura, lo siento."
 
 #. data/database.json commonEvents/glasses-revived/event/0/1_1/0/message #11003
 #. SELECT_RANDOM
@@ -11644,7 +11644,7 @@ msgstr "Dios... Eso no salió bien... perdón."
 #: data/database.json+commonEvents/glasses-equip/event/0/0_0/0/message+%2311004
 msgctxt "data/database.json//commonEvents/glasses-equip/event/0/0_0/0/message"
 msgid "I got some new gear. Yes, mages have gear, too."
-msgstr "Tengo nuevo equipamiento. Si, los magos tienen equipamiento también."
+msgstr "Tengo nuevo equipamiento.\\. Sí, los magos tienen equipamiento también."
 
 #. data/database.json commonEvents/glasses-equip/event/0/0_1/0/message #11005
 #. SELECT_RANDOM
@@ -11668,7 +11668,7 @@ msgstr "¡Conseguí muy buen equipamiento esta vez!"
 #: data/database.json+commonEvents/glasses-equip/event/0/0_3/0/message+%2311007
 msgctxt "data/database.json//commonEvents/glasses-equip/event/0/0_3/0/message"
 msgid "Got new gear. Though I wonder how those edges and triggers are supposed to improve my magic..."
-msgstr "Tengo nuevo equipamiento. Aunque me pregunto cómo esos bordes y gatillos se suponen que mejoran mi magia..."
+msgstr "Tengo nuevo equipamiento. Pero me pregunto como hacen todas esas espadas para mejorar mi magia..."
 
 #. data/database.json commonEvents/apollo-dies/event/0/0_0/0/message #15860
 #. SELECT_RANDOM
@@ -11684,7 +11684,7 @@ msgstr "¡Estoy fuera!\\. ¡Sigue peleando por la justicia en mi lugar!"
 #: data/database.json+commonEvents/apollo-dies/event/0/0_1/0/message+%2315861
 msgctxt "data/database.json//commonEvents/apollo-dies/event/0/0_1/0/message"
 msgid "I suffered defeat!\\. Keep fighting!\\. For the honor of Spheromancers!"
-msgstr "¡He sufrido una derroa!\\. ¡Sigue peleando!\\. ¡Por el honor de los Spheromancers!"
+msgstr "¡He sufrido una derrota!\\. ¡Sigue peleando!\\. ¡Por el honor de los Spheromancers!"
 
 #. data/database.json commonEvents/apollo-dies/event/0/0_2/0/message #15862
 #. SELECT_RANDOM
@@ -11692,7 +11692,7 @@ msgstr "¡He sufrido una derroa!\\. ¡Sigue peleando!\\. ¡Por el honor de los S
 #: data/database.json+commonEvents/apollo-dies/event/0/0_2/0/message+%2315862
 msgctxt "data/database.json//commonEvents/apollo-dies/event/0/0_2/0/message"
 msgid "I'm out, but don't give up!\\. One Spheromancer can handle any challenge!"
-msgstr "¡Estoy fuera, pero no te rindas!\\. ¡Un Spheromancer puede manejar cualquier problema!"
+msgstr "¡Estoy fuera, pero no te rindas!\\. ¡Un Spheromancer puede con cualquier situación!"
 
 #. data/database.json commonEvents/apollo-dies/event/0/1_0/0/message #15863
 #. SELECT_RANDOM
@@ -11700,7 +11700,7 @@ msgstr "¡Estoy fuera, pero no te rindas!\\. ¡Un Spheromancer puede manejar cua
 #: data/database.json+commonEvents/apollo-dies/event/0/1_0/0/message+%2315863
 msgctxt "data/database.json//commonEvents/apollo-dies/event/0/1_0/0/message"
 msgid "This wasn't right!\\. Why was I defeated?!\\. This smells like cheating!!"
-msgstr "¡Esto no está bien!\\. ¡¿Por qué he sido derrotado?!\\. ¡¡Esto me huele a trampa!!"
+msgstr "¡Esto no está bien!\\. ¡¿Por qué he sido derrotado?!\\. ¡¡Esto huele a trampa!!"
 
 #. data/database.json commonEvents/apollo-dies/event/0/1_1/0/message #15864
 #. SELECT_RANDOM
@@ -11905,7 +11905,7 @@ msgstr "Necesito pasar más tiempo jugando. Me estoy oxidando."
 #: data/database.json+commonEvents/shizuka-equip/event/0/message+%2318513
 msgctxt "data/database.json//commonEvents/shizuka-equip/event/0/message"
 msgid "Got some new gear. Let's see how the powercreep developed."
-msgstr "Tengo equipo nuevo. Veamos qué tan fuerte me volví."
+msgstr "Tengo equipo nuevo. Veamos qué tanto ayuda."
 
 #. data/database.json commonEvents/schneider-dies/event/0/0_0/0/message #18514
 #. SELECT_RANDOM
@@ -11984,7 +11984,7 @@ msgstr "..."
 #: data/database.json+commonEvents/schneider-equip/event/0/message+%2318523
 msgctxt "data/database.json//commonEvents/schneider-equip/event/0/message"
 msgid "Bought some shiny new gear. Wunderbar!"
-msgstr "Compré algunos equipos nuevos y hasta brillan. Wunderbar!"
+msgstr "He comprado equipamiento nuevo. ¡Wunderbar!"
 
 #. data/database.json commonEvents/luke-dies/event/0/0_0/0/message #18524
 #. SELECT_RANDOM
@@ -11992,7 +11992,7 @@ msgstr "Compré algunos equipos nuevos y hasta brillan. Wunderbar!"
 #: data/database.json+commonEvents/luke-dies/event/0/0_0/0/message+%2318524
 msgctxt "data/database.json//commonEvents/luke-dies/event/0/0_0/0/message"
 msgid "Oh. verdammte Axt. Sorry Lea, I need a minute."
-msgstr "Oh. verdammte Axt. Sorry Lea, I need a minute."
+msgstr "Oh. Verdammte Axt. Lo siento Lea, dame un minuto."
 
 #. data/database.json commonEvents/luke-dies/event/0/0_1/0/message #18525
 #. SELECT_RANDOM
@@ -29679,7 +29679,7 @@ msgstr "Después de volver a entrar en CrossWorlds, Lea y Sergey decidieron avan
 #: data/database.json+lore/chapter-04/content/page-02-01/content+%236036
 msgctxt "data/database.json//lore/chapter-04/content/page-02-01/content"
 msgid "On the top of the mountain, Lea finally arrived in Bergen village and at the first real challenge of the Track: The \\c[3]\\v[area.cold-dng.name]\\c[0]. After receiving the key to it bundled with an explanation of its background, both Lea and Emilie were invited by Schneider to join his guild, the \\c[3]First Scholars\\c[0]. So they met their friend in \\v[area.autumn-area.name] to gain entrance to the guild's headquarters."
-msgstr "En la cima de la montaña, Lea finalmente llegó al pueblo de Bergen y al primer desafío real del Camino: El \\c[3]\\v[area.cold-dng.name]\\c[0]. Después de recibir la llave de la misma junto con una explicación de su origen, tanto Lea como Emilie fueron invitadas por Schneider a unirse a su gremio, los \\c[3]Primeros Eruditos\\c[0]. Así que se reunieron con su amigo en \\v[area.autumn-area.name] para entrar en la sede del gremio."
+msgstr "En la cima de la montaña, Lea finalmente llegó a la Aldea de Bergen y al primer desafío real del Camino: El \\c[3]\\v[area.cold-dng.name]\\c[0]. Después de recibir la llave de la misma junto con una explicación de su origen, tanto Lea como Emilie fueron invitadas por Schneider a unirse a su gremio, los \\c[3]Primeros Eruditos\\c[0]. Así que se reunieron con su amigo en \\v[area.autumn-area.name] para entrar en la sede del gremio."
 
 #. data/database.json lore/chapter-04/content/page-02-02/content #6035
 #: data/database.json+lore/chapter-04/content/page-02-02/content+%236035
@@ -31424,7 +31424,7 @@ msgid ""
 "Bergen Trail is a way up \\c[3]Mount Bergen\\c[0] from \\c[3]\\v[area.autumn-area.name]\\c[0], leading to \\c[3]\\v[area.bergen.name]\\c[0].\n"
 "At the foot of the mountain, the path begins with a green, temperate forest of coniferous hardwood trees, though it will inevitably start to snow when moving towards the top."
 msgstr ""
-"El Sendero Bergen es un camino que asciende al \\c[3]monte Bergen\\c[0] desde \\c[3]\\v[area.autumn-area.name]\\c[0], y que conduce al \\c[3]\\v[area.bergen.name]\\c[0].\n"
+"El Sendero de Bergen es un camino que asciende el \\c[3]monte Bergen\\c[0] desde \\c[3]\\v[area.autumn-area.name]\\c[0], y que conduce a la \\c[3]\\v[area.bergen.name]\\c[0].\n"
 "Al pie de la montaña, el camino comienza con un bosque verde y templado de coníferas con una madera muy dura, y luego inevitablemente comenzará a nevar al avanzar hacia la cima."
 
 #. data/database.json lore/bergen-trail/content/page-01-02/content #2852
@@ -34487,7 +34487,7 @@ msgstr "¡Soy un humilde ciudadano que busca ayudar a nuestros queridos Buscador
 #: data/database.json+quests/my-first-quest_2/name+%233498
 msgctxt "data/database.json//quests/my-first-quest_2/name"
 msgid "A Few Steps More"
-msgstr "Un Poco Más"
+msgstr "Unos Pocos Pasos Más"
 
 #. data/database.json quests/my-first-quest_2/person #3499
 #: data/database.json+quests/my-first-quest_2/person+%233499
@@ -34559,7 +34559,7 @@ msgstr "Trae las llaves de vuelta al Capitán en el \\c[3]Viejo Observatorio\\c[
 #: data/database.json+quests/trailblaze-autumn/name+%233706
 msgctxt "data/database.json//quests/trailblaze-autumn/name"
 msgid "Autumn's Rise Trailblazing"
-msgstr "Investigación de Albor Otoñal"
+msgstr "Exploración de Albor Otoñal"
 
 #. data/database.json quests/trailblaze-autumn/person #3707
 #: data/database.json+quests/trailblaze-autumn/person+%233707
@@ -34683,7 +34683,7 @@ msgstr "Derrota enemigos en \\c[3]\\v[area.autumn-area.name]\\c[0]"
 #: data/database.json+quests/trailblaze-autumn-3/name+%233789
 msgctxt "data/database.json//quests/trailblaze-autumn-3/name"
 msgid "Autumn's Rise Landmarks"
-msgstr "Puntos de referencia de Albor Otoñal"
+msgstr "Puntos de Referencia de Albor Otoñal"
 
 #. data/database.json quests/trailblaze-autumn-3/person #3790
 #: data/database.json+quests/trailblaze-autumn-3/person+%233790
@@ -34695,7 +34695,7 @@ msgstr "Henry el Investigador"
 #: data/database.json+quests/trailblaze-autumn-3/description+%233792
 msgctxt "data/database.json//quests/trailblaze-autumn-3/description"
 msgid "Henry the Researcher asked you to find all the landmarks in \\c[3]Autumn's Rise\\c[0]."
-msgstr "Henry te pidió que ubiques todos los puntos de referencia de \\c[3]Albor Otoñal\\c[0]."
+msgstr "Henry el Investigador te pidió que encuentres todos los puntos de referencia de \\c[3]Albor Otoñal\\c[0]."
 
 #. data/database.json quests/trailblaze-autumn-3/briefing #3793
 #: data/database.json+quests/trailblaze-autumn-3/briefing+%233793
@@ -34707,13 +34707,13 @@ msgstr "Encontraste todos los puntos de referencia en \\c[3]Albor Otoñal\\c[0] 
 #: data/database.json+quests/trailblaze-autumn-3/tasks/0/task+%233830
 msgctxt "data/database.json//quests/trailblaze-autumn-3/tasks/0/task"
 msgid "Find all the landmarks in \\c[3]\\v[area.autumn-area.name]\\c[0]"
-msgstr "Encuentras todos los puntos de referencia en \\c[3]\\v[area.autumn-area.name]\\c[0]"
+msgstr "Encuentra todos los puntos de referencia en \\c[3]\\v[area.autumn-area.name]\\c[0]"
 
 #. data/database.json quests/trailblaze-autumn-4/name #3865
 #: data/database.json+quests/trailblaze-autumn-4/name+%233865
 msgctxt "data/database.json//quests/trailblaze-autumn-4/name"
 msgid "Autumn's Rise Data Probe"
-msgstr "Sonda de datos de Albor Otoñal"
+msgstr "Sonda de Datos de Albor Otoñal"
 
 #. data/database.json quests/trailblaze-autumn-4/person #3866
 #: data/database.json+quests/trailblaze-autumn-4/person+%233866
@@ -34725,7 +34725,7 @@ msgstr "Henry el Investigador"
 #: data/database.json+quests/trailblaze-autumn-4/description+%233868
 msgctxt "data/database.json//quests/trailblaze-autumn-4/description"
 msgid "Retrieve the data from a probe Henry installed in \\c[3]Pathway 6\\c[0] of \\c[3]Autumn's Rise\\c[0]. "
-msgstr "Recupere los datos de una sonda que Henry instaló en \\c[3]Camino 6\\c[0] de \\c[3]Albor Otoñal\\c[0]. "
+msgstr "Recupera los datos de una sonda que Henry instaló en el \\c[3]Camino 6\\c[0] de \\c[3]Albor Otoñal\\c[0]. "
 
 #. data/database.json quests/trailblaze-autumn-4/briefing #3869
 #: data/database.json+quests/trailblaze-autumn-4/briefing+%233869
@@ -34737,13 +34737,13 @@ msgstr "Encontraste y recuperaste la sonda de datos."
 #: data/database.json+quests/trailblaze-autumn-4/tasks/0/task+%233874
 msgctxt "data/database.json//quests/trailblaze-autumn-4/tasks/0/task"
 msgid "Find the probe in \\c[3]Pathway 6\\c[0] of \\c[3]\\v[area.autumn-area.name]\\c[0] using your \\c[3]Seeker Senses\\c[0]"
-msgstr "Encuentra la sonda en \\c[3]Camino 6\\c[0] de \\c[3]\\v[area.autumn-area.name]\\c[0] , usa tu \\c[3]Inspección\\c[ 0]"
+msgstr "Encuentra la sonda en el \\c[3]Camino 6\\c[0] de \\c[3]\\v[area.autumn-area.name]\\c[0] utilizando tus \\c[3]Sentidos de Buscador\\c[0]"
 
 #. data/database.json quests/round-and-round/name #178
 #: data/database.json+quests/round-and-round/name+%23178
 msgctxt "data/database.json//quests/round-and-round/name"
 msgid "Round and Round"
-msgstr "Vueltas y vueltas"
+msgstr "Vueltas y Vueltas"
 
 #. data/database.json quests/round-and-round/person #179
 #: data/database.json+quests/round-and-round/person+%23179
@@ -34851,7 +34851,7 @@ msgstr "Sigue a Talatu hasta su casa al norte de \\c[3]\\v[area.rookie-harbor.na
 #: data/database.json+quests/subquest-test/name+%231217
 msgctxt "data/database.json//quests/subquest-test/name"
 msgid "Subquest Test"
-msgstr "Prueba secundaria"
+msgstr "Prueba de Submisión"
 
 #. data/database.json quests/subquest-test/person #1218
 #: data/database.json+quests/subquest-test/person+%231218
@@ -34965,7 +34965,7 @@ msgstr "Resuelve la condición"
 #: data/database.json+quests/timer-test/name+%234043
 msgctxt "data/database.json//quests/timer-test/name"
 msgid "Timer Test Countdown"
-msgstr "Prueba y temporizador, cuenta regresiva"
+msgstr "Prueba de Temporizador"
 
 #. data/database.json quests/timer-test/person #4044
 #: data/database.json+quests/timer-test/person+%234044
@@ -35057,7 +35057,7 @@ msgstr "Explora el \\c[3]Viejo Observatorio\\c[0] en \\c[3]\\v[area.autumn-area.
 #: data/database.json+quests/daft-frobbit/name+%2311919
 msgctxt "data/database.json//quests/daft-frobbit/name"
 msgid "Chase of the Hologram Frobbit"
-msgstr "Persigue ese Ranejo Holográfico"
+msgstr "Persecución del Ranejo Holográfico"
 
 #. data/database.json quests/daft-frobbit/person #11920
 #: data/database.json+quests/daft-frobbit/person+%2311920
@@ -35079,7 +35079,7 @@ msgstr ""
 #: data/database.json+quests/daft-frobbit/briefing+%2311922
 msgctxt "data/database.json//quests/daft-frobbit/briefing"
 msgid "You followed the Hologram Frobbit and passed its final trial."
-msgstr "Seguiste el Holograma del Ranejo y pasaste su prueba final."
+msgstr "Seguiste al Ranejo Holográfico y pasaste su prueba final."
 
 #. data/database.json quests/daft-frobbit/tasks/0/task #11923
 #: data/database.json+quests/daft-frobbit/tasks/0/task+%2311923
@@ -35128,7 +35128,7 @@ msgstr "Desafío. Necesito un desafío. \\c[3]- Bar Arenoso, \\v[area.beach.name
 #: data/database.json+quests/ape-battle/name+%2318361
 msgctxt "data/database.json//quests/ape-battle/name"
 msgid "Beach Fight"
-msgstr "Pelea en la playa"
+msgstr "Pelea en la Playa"
 
 #. data/database.json quests/ape-battle/person #18362
 #: data/database.json+quests/ape-battle/person+%2318362
@@ -35158,7 +35158,7 @@ msgstr "Derrota a \\c[3]\\v[combat.name.beach/ape-beach]\\c[0] en combate singul
 #: data/database.json+quests/trailblaze-bergen/name+%234468
 msgctxt "data/database.json//quests/trailblaze-bergen/name"
 msgid "Bergen Trailblazing"
-msgstr "El pionero de Bergen"
+msgstr "Exploración de Bergen"
 
 #. data/database.json quests/trailblaze-bergen/person #4469
 #: data/database.json+quests/trailblaze-bergen/person+%234469
@@ -35216,7 +35216,7 @@ msgstr "Completa la Misión de la Sonda de Datos"
 #: data/database.json+quests/trailblaze-bergen/tasks/1/task+%234537
 msgctxt "data/database.json//quests/trailblaze-bergen/tasks/1/task"
 msgid "Return to Henry in \\c[3]Bergen Trail - Rising Path 1\\c[0] to show him your findings"
-msgstr "Vuelve con Henry en \\c[3]Sendero Bergen - Camino Ascendente 1\\c[0]"
+msgstr "Vuelve con Henry en \\c[3]Sendero de Bergen - Camino Ascendente 1\\c[0] y muéstrale tus hallazgos"
 
 #. data/database.json quests/trailblaze-bergen-1/name #4515
 #: data/database.json+quests/trailblaze-bergen-1/name+%234515
@@ -35234,7 +35234,7 @@ msgstr "Henry el investigador"
 #: data/database.json+quests/trailblaze-bergen-1/description+%234518
 msgctxt "data/database.json//quests/trailblaze-bergen-1/description"
 msgid "Collect the requested items for Henry in \\c[3]Bergen Trail\\c[0]."
-msgstr "Recoge los objetos solicitados para Henry en \\c[3]Sendero de Bergen\\c[0]."
+msgstr "Recoge los objetos solicitados para Henry en el \\c[3]Sendero de Bergen\\c[0]."
 
 #. data/database.json quests/trailblaze-bergen-1/briefing #4519
 #: data/database.json+quests/trailblaze-bergen-1/briefing+%234519
@@ -35264,7 +35264,7 @@ msgstr "Henry el Investigador"
 #: data/database.json+quests/trailblaze-bergen-2/description+%234522
 msgctxt "data/database.json//quests/trailblaze-bergen-2/description"
 msgid "Collect samples on different enemies by defeating them in \\c[3]Bergen Trail\\c[0]."
-msgstr "Recolecta muestras de diferentes enemigos derrotándolos en \\c[3]Sendero de Bergen\\c[0]."
+msgstr "Recolecta muestras de diferentes enemigos derrotándolos en el \\c[3]Sendero de Bergen\\c[0]."
 
 #. data/database.json quests/trailblaze-bergen-2/briefing #4523
 #: data/database.json+quests/trailblaze-bergen-2/briefing+%234523
@@ -35276,13 +35276,13 @@ msgstr "Has recopilado los datos de los enemigos solicitados."
 #: data/database.json+quests/trailblaze-bergen-2/tasks/0/task+%234539
 msgctxt "data/database.json//quests/trailblaze-bergen-2/tasks/0/task"
 msgid "Defeat enemies in \\c[3]\\v[area.bergen-trails.name]\\c[0]"
-msgstr "Derrota enemigos en \\c[3]\\v[area.bergen-trails.name]\\c[0]"
+msgstr "Derrota enemigos en el \\c[3]\\v[area.bergen-trails.name]\\c[0]"
 
 #. data/database.json quests/trailblaze-bergen-3/name #4524
 #: data/database.json+quests/trailblaze-bergen-3/name+%234524
 msgctxt "data/database.json//quests/trailblaze-bergen-3/name"
 msgid "Bergen Trail Landmarks"
-msgstr "Puntos de referencia del Sendero de Bergen"
+msgstr "Puntos de Referencia del Sendero de Bergen"
 
 #. data/database.json quests/trailblaze-bergen-3/person #4525
 #: data/database.json+quests/trailblaze-bergen-3/person+%234525
@@ -35294,25 +35294,25 @@ msgstr "Henry el Investigador"
 #: data/database.json+quests/trailblaze-bergen-3/description+%234526
 msgctxt "data/database.json//quests/trailblaze-bergen-3/description"
 msgid "Henry the Researcher asked you to find all the landmarks in \\c[3]Bergen Trail\\c[0]."
-msgstr "Henry el Investigador te pidió que encontraras todos los puntos de referencia en \\c[3]Sendero de Bergen\\c[0]."
+msgstr "Henry el Investigador te pidió que encuentres todos los puntos de referencia en el \\c[3]Sendero de Bergen\\c[0]."
 
 #. data/database.json quests/trailblaze-bergen-3/briefing #4527
 #: data/database.json+quests/trailblaze-bergen-3/briefing+%234527
 msgctxt "data/database.json//quests/trailblaze-bergen-3/briefing"
 msgid "You found all Landmarks in \\c[3]Bergen Trail\\c[0] for Henry."
-msgstr "Encontraste todos los puntos de referencia en \\c[3]Sendero de Bergen\\c[0] para Henry."
+msgstr "Encontraste todos los puntos de referencia en el \\c[3]Sendero de Bergen\\c[0] para Henry."
 
 #. data/database.json quests/trailblaze-bergen-3/tasks/0/task #4540
 #: data/database.json+quests/trailblaze-bergen-3/tasks/0/task+%234540
 msgctxt "data/database.json//quests/trailblaze-bergen-3/tasks/0/task"
 msgid "Find all the landmarks in \\c[3]\\v[area.bergen-trails.name]\\c[0]"
-msgstr "Encuentra todos los puntos de referencia en \\c[3]\\v[area.bergen-trails.name]\\c[0]"
+msgstr "Encuentra todos los puntos de referencia en el \\c[3]\\v[area.bergen-trails.name]\\c[0]"
 
 #. data/database.json quests/trailblaze-bergen-4/name #4528
 #: data/database.json+quests/trailblaze-bergen-4/name+%234528
 msgctxt "data/database.json//quests/trailblaze-bergen-4/name"
 msgid "Bergen Trail Data Probe"
-msgstr "Sonda de datos del Sendero de Bergen"
+msgstr "Sonda de Datos del Sendero de Bergen"
 
 #. data/database.json quests/trailblaze-bergen-4/person #4529
 #: data/database.json+quests/trailblaze-bergen-4/person+%234529
@@ -35324,7 +35324,7 @@ msgstr "Henry el Investigador"
 #: data/database.json+quests/trailblaze-bergen-4/description+%234530
 msgctxt "data/database.json//quests/trailblaze-bergen-4/description"
 msgid "Retrieve the data from a probe a player installed for Henry. It's in one of the caves located in \\c[3]Bergen Trail\\c[0]. "
-msgstr "Recupere los datos de una sonda que un jugador instaló para Henry. Está en una de las cuevas ubicadas en \\c[3]Sendero de Bergen\\c[0]. "
+msgstr "Recupera los datos de una sonda que un jugador instaló para Henry. Está en una de las cuevas ubicadas en el \\c[3]Sendero de Bergen\\c[0]. "
 
 #. data/database.json quests/trailblaze-bergen-4/briefing #4531
 #: data/database.json+quests/trailblaze-bergen-4/briefing+%234531
@@ -35441,7 +35441,7 @@ msgstr "Regresa con Jean en el \\c[3]Sendero de Bergen\\c[0]"
 #: data/database.json+quests/legend-bunny/tasks/2/task+%23215
 msgctxt "data/database.json//quests/legend-bunny/tasks/2/task"
 msgid "Collect 5  \\v[item.139.name]s from \\c[3]\\v[combat.name.snowman]s\\c[0]"
-msgstr "Recoge 5 \\v[item.139.name]s de \\c[3]\\v[combat.name.snowman]s\\c[0]"
+msgstr "Recoge 5 Zanahorias Congeladas de \\c[3]\\v[combat.name.snowman]s\\c[0]"
 
 #. data/database.json quests/legend-bunny/tasks/3/task #3505
 #: data/database.json+quests/legend-bunny/tasks/3/task+%233505
@@ -35489,7 +35489,7 @@ msgstr "Lo hiciste otra vez. Parece que en este punto estás haciendo su trabajo
 #: data/database.json+quests/round-and-round-2/tasks/0/task+%236329
 msgctxt "data/database.json//quests/round-and-round-2/tasks/0/task"
 msgid "Start the parkour at the \\c[3]Spike Heights\\c[0] in Bergen Trail."
-msgstr "Comienza el parkour en \\c[3]Alturas Picudas\\c[0] en Bergen Trail."
+msgstr "Comienza el parkour en \\c[3]Alturas Picudas\\c[0] en el Sendero de Bergen."
 
 #. data/database.json quests/round-and-round-2/tasks/1/task #6332
 #: data/database.json+quests/round-and-round-2/tasks/1/task+%236332
@@ -35855,7 +35855,7 @@ msgstr "Darrel"
 #: data/database.json+quests/miners-2-mine_challenge-1/description+%236460
 msgctxt "data/database.json//quests/miners-2-mine_challenge-1/description"
 msgid "Though the area has been cleared, the miner \\c[3]Darrel\\c[0] is worried that the \\c[3]\\v[combat.name.cold/coldbug-quest-bombing-1]s\\c[0] might return. He thus suggested some preemptive measures."
-msgstr "Aunque el área ha sido despejada, el minero \\c[3]Darrel\\c[0] está preocupado porque los \\c[3]\\v[combat.name.cold/coldbug-quest-bombing-1]s\\c[ 0] podrían volver. Por lo tanto, sugirió algunas medidas preventivas."
+msgstr "Aunque el área ha sido despejada, el minero \\c[3]Darrel\\c[0] está preocupado porque los \\c[3]\\v[combat.name.cold/coldbug-quest-bombing-1]s\\c[0] podrían volver. Por lo tanto, sugirió algunas medidas preventivas."
 
 #. data/database.json quests/miners-2-mine_challenge-1/briefing #6461
 #: data/database.json+quests/miners-2-mine_challenge-1/briefing+%236461
@@ -37213,7 +37213,7 @@ msgstr "Termina la Prueba de Perspicacia en \\c[3]\\v[area.forest.name] - Matorr
 #: data/database.json+quests/trailblaze-forest/name+%2314136
 msgctxt "data/database.json//quests/trailblaze-forest/name"
 msgid "Henry Trailblazing"
-msgstr "El pionero Henry"
+msgstr "Explorando Para Henry"
 
 #. data/database.json quests/trailblaze-forest/person #14137
 #: data/database.json+quests/trailblaze-forest/person+%2314137
@@ -37434,7 +37434,7 @@ msgstr "Enfréntate al desafío final en \\c[3]Valle Granate - Prueba Final\\c[0
 #: data/database.json+quests/trailblaze-maroon/name+%2310031
 msgctxt "data/database.json//quests/trailblaze-maroon/name"
 msgid "Maroon Trailblazing"
-msgstr "Pionero Granate"
+msgstr "Exploración Granate"
 
 #. data/database.json quests/trailblaze-maroon/person #10032
 #: data/database.json+quests/trailblaze-maroon/person+%2310032
@@ -37552,13 +37552,13 @@ msgstr "Has recopilado los datos de los enemigos solicitados."
 #: data/database.json+quests/trailblaze-maroon-2/tasks/0/task+%2310045
 msgctxt "data/database.json//quests/trailblaze-maroon-2/tasks/0/task"
 msgid "Defeat enemies in \\c[3]\\v[area.heat-area.name]\\c[0]"
-msgstr "Derrota enemigos en \\c[3]\\v[area.heat-area.name]\\c[0]"
+msgstr "Derrota enemigos en el \\c[3]\\v[area.heat-area.name]\\c[0]"
 
 #. data/database.json quests/trailblaze-maroon-3/name #10046
 #: data/database.json+quests/trailblaze-maroon-3/name+%2310046
 msgctxt "data/database.json//quests/trailblaze-maroon-3/name"
 msgid "Maroon Valley Landmarks"
-msgstr "Puntos de referencia del Valle Granate"
+msgstr "Puntos de Referencia del Valle Granate"
 
 #. data/database.json quests/trailblaze-maroon-3/person #10047
 #: data/database.json+quests/trailblaze-maroon-3/person+%2310047
@@ -37570,7 +37570,7 @@ msgstr "Henry el Investigador"
 #: data/database.json+quests/trailblaze-maroon-3/description+%2310048
 msgctxt "data/database.json//quests/trailblaze-maroon-3/description"
 msgid "Henry the Researcher asked you to find all the landmarks in \\c[3]Maroon Valley\\c[0]."
-msgstr "Henry el Investigador te pidió que encontraras todos los puntos de referencia en \\c[3]Valle Granate\\c[0]."
+msgstr "Henry el Investigador te pidió que encuentres todos los puntos de referencia en el \\c[3]Valle Granate\\c[0]."
 
 #. data/database.json quests/trailblaze-maroon-3/briefing #10049
 #: data/database.json+quests/trailblaze-maroon-3/briefing+%2310049
@@ -37582,13 +37582,13 @@ msgstr "Encontraste todos los puntos de referencia en el \\c[3]Valle Granate\\c[
 #: data/database.json+quests/trailblaze-maroon-3/tasks/0/task+%2310050
 msgctxt "data/database.json//quests/trailblaze-maroon-3/tasks/0/task"
 msgid "Find all the landmarks in \\c[3]\\v[area.heat-area.name]\\c[0]"
-msgstr "Encuentra todos los puntos de referencia en \\c[3]\\v[area.heat-area.name]\\c[0]"
+msgstr "Encuentra todos los puntos de referencia en el \\c[3]\\v[area.heat-area.name]\\c[0]"
 
 #. data/database.json quests/trailblaze-maroon-4/name #10051
 #: data/database.json+quests/trailblaze-maroon-4/name+%2310051
 msgctxt "data/database.json//quests/trailblaze-maroon-4/name"
 msgid "Maroon Valley Data Probe"
-msgstr "Sonda de datos del Valle Granate"
+msgstr "Sonda de Datos del Valle Granate"
 
 #. data/database.json quests/trailblaze-maroon-4/person #10052
 #: data/database.json+quests/trailblaze-maroon-4/person+%2310052
@@ -37600,7 +37600,7 @@ msgstr "Henry el Investigador"
 #: data/database.json+quests/trailblaze-maroon-4/description+%2310053
 msgctxt "data/database.json//quests/trailblaze-maroon-4/description"
 msgid "Retrieve the data from a probe a player installed for Henry. It's in one of the caves located in \\c[3]Maroon Valley\\c[0]. "
-msgstr "Recupere los datos de una sonda que un jugador instaló para Henry. Está en una de las cuevas ubicadas en \\c[3]Valle Granate\\c[0]. "
+msgstr "Recupera los datos de una sonda que un jugador instaló para Henry. Está en una de las cuevas ubicadas en el \\c[3]Valle Granate\\c[0]. "
 
 #. data/database.json quests/trailblaze-maroon-4/briefing #10054
 #: data/database.json+quests/trailblaze-maroon-4/briefing+%2310054
@@ -37612,7 +37612,7 @@ msgstr "Encontraste y recuperaste la sonda de datos."
 #: data/database.json+quests/trailblaze-maroon-4/tasks/0/task+%2310055
 msgctxt "data/database.json//quests/trailblaze-maroon-4/tasks/0/task"
 msgid "Find the probe in a \\c[3]cave\\c[0] of \\c[3]\\v[area.heat-area.name]\\c[0]"
-msgstr "Encuentra la sonda en una \\c[3]cueva\\c[0] de \\c[3]\\v[area.heat-area.name]\\c[0]"
+msgstr "Encuentra la sonda en una \\c[3]cueva\\c[0] del \\c[3]\\v[area.heat-area.name]\\c[0]"
 
 #. data/database.json quests/maroon-tree-defend/name #5641
 #: data/database.json+quests/maroon-tree-defend/name+%235641
@@ -39604,7 +39604,7 @@ msgstr "Examina el extraño dispositivo en \\c[3]V'rda Vil Norte\\c[0] en el \\c
 #: data/database.json+quests/console-playstation-1/tasks/3/task+%2316452
 msgctxt "data/database.json//quests/console-playstation-1/tasks/3/task"
 msgid "Find and enter the \\c[3]Secret Entrance\\c[0] on \\c[3]V'rda Vil North\\c[0] in \\c[3]\\v[area.jungle.name]\\c[0]"
-msgstr "Encuentra e ingresa a la \\c[3]Entrada secreta\\c[0] en \\c[3]V'rda Vil Norte\\c[0] en \\c[3]\\v[area.jungle.name]\\c[ 0]"
+msgstr "Encuentra e ingresa a la \\c[3]Entrada secreta\\c[0] en \\c[3]V'rda Vil Norte\\c[0] en \\c[3]\\v[area.jungle.name]\\c[0]"
 
 #. data/database.json quests/console-playstation-1/tasks/4/task #16453
 #: data/database.json+quests/console-playstation-1/tasks/4/task+%2316453
@@ -39766,7 +39766,7 @@ msgstr "Informa a la Dra. Cretia en su laboratorio en \\c[3]Entrada al Templo Zi
 #: data/database.json+quests/trailblaze-jungle/name+%2312461
 msgctxt "data/database.json//quests/trailblaze-jungle/name"
 msgid "Gaia's Garden Trailblazing"
-msgstr "Pionero del Jardín de Gaia"
+msgstr "Exploración del Jardín de Gaia"
 
 #. data/database.json quests/trailblaze-jungle/person #12462
 #: data/database.json+quests/trailblaze-jungle/person+%2312462
@@ -39842,7 +39842,7 @@ msgstr "Henry el Investigador"
 #: data/database.json+quests/trailblaze-jungle-1/description+%2312473
 msgctxt "data/database.json//quests/trailblaze-jungle-1/description"
 msgid "Collect the requested items for Henry in \\c[3]Gaia's Garden\\c[0]."
-msgstr "Reúne los artículos solicitados por Henry en \\c[3]Gaia's Garden\\c[0]."
+msgstr "Reúne los artículos solicitados por Henry en el \\c[3]Jardín de Gaia\\c[0]."
 
 #. data/database.json quests/trailblaze-jungle-1/briefing #12474
 #: data/database.json+quests/trailblaze-jungle-1/briefing+%2312474
@@ -39872,7 +39872,7 @@ msgstr "Henry el Investigador"
 #: data/database.json+quests/trailblaze-jungle-2/description+%2312478
 msgctxt "data/database.json//quests/trailblaze-jungle-2/description"
 msgid "Collect samples on different enemies by defeating them in \\c[3]Gaia's Garden\\c[0]."
-msgstr "Recolecta muestras de diferentes enemigos derrotándolos en \\c[3]Jardín de Gaia\\c[0]."
+msgstr "Recolecta muestras de diferentes enemigos derrotándolos en el \\c[3]Jardín de Gaia\\c[0]."
 
 #. data/database.json quests/trailblaze-jungle-2/briefing #12479
 #: data/database.json+quests/trailblaze-jungle-2/briefing+%2312479
@@ -39884,13 +39884,13 @@ msgstr "Has recopilado los datos de los enemigos solicitados."
 #: data/database.json+quests/trailblaze-jungle-2/tasks/0/task+%2312480
 msgctxt "data/database.json//quests/trailblaze-jungle-2/tasks/0/task"
 msgid "Defeat enemies in \\c[3]\\v[area.jungle.name]\\c[0]"
-msgstr "Derrota enemigos en \\c[3]\\v[area.jungle.name]\\c[0]"
+msgstr "Derrota enemigos en el \\c[3]\\v[area.jungle.name]\\c[0]"
 
 #. data/database.json quests/trailblaze-jungle-3/name #12481
 #: data/database.json+quests/trailblaze-jungle-3/name+%2312481
 msgctxt "data/database.json//quests/trailblaze-jungle-3/name"
 msgid "Gaia's Garden Landmarks"
-msgstr "Puntos de referencia del Jardín de Gaia"
+msgstr "Puntos de Referencia del Jardín de Gaia"
 
 #. data/database.json quests/trailblaze-jungle-3/person #12482
 #: data/database.json+quests/trailblaze-jungle-3/person+%2312482
@@ -39902,25 +39902,25 @@ msgstr "Henry el Investigador"
 #: data/database.json+quests/trailblaze-jungle-3/description+%2312483
 msgctxt "data/database.json//quests/trailblaze-jungle-3/description"
 msgid "Henry the Researcher asked you to find all the landmarks in \\c[3]Gaia's Garden\\c[0]."
-msgstr "Henry el Investigador te pidió que encontraras todos los puntos de referencia en \\c[3]Jardín de Gaia\\c[0]."
+msgstr "Henry el Investigador te pidió que encuentres todos los puntos de referencia en el \\c[3]Jardín de Gaia\\c[0]."
 
 #. data/database.json quests/trailblaze-jungle-3/briefing #12484
 #: data/database.json+quests/trailblaze-jungle-3/briefing+%2312484
 msgctxt "data/database.json//quests/trailblaze-jungle-3/briefing"
 msgid "You found all Landmarks in \\c[3]Gaia's Garden\\c[0] for Henry."
-msgstr "Encontraste todos los puntos de referencia en \\c[3]Jardín de Gaia\\c[0] para Henry."
+msgstr "Encontraste todos los puntos de referencia en el \\c[3]Jardín de Gaia\\c[0] para Henry."
 
 #. data/database.json quests/trailblaze-jungle-3/tasks/0/task #12485
 #: data/database.json+quests/trailblaze-jungle-3/tasks/0/task+%2312485
 msgctxt "data/database.json//quests/trailblaze-jungle-3/tasks/0/task"
 msgid "Find all the landmarks in \\c[3]\\v[area.jungle.name]\\c[0]"
-msgstr "Encuentra todos los puntos de referencia en \\c[3]\\v[area.jungle.name]\\c[0]"
+msgstr "Encuentra todos los puntos de referencia en el \\c[3]\\v[area.jungle.name]\\c[0]"
 
 #. data/database.json quests/trailblaze-jungle-4/name #12486
 #: data/database.json+quests/trailblaze-jungle-4/name+%2312486
 msgctxt "data/database.json//quests/trailblaze-jungle-4/name"
 msgid "Gaia's Garden Data Probe"
-msgstr "Sonda de datos del Jardín de Gaia"
+msgstr "Sonda de Datos del Jardín de Gaia"
 
 #. data/database.json quests/trailblaze-jungle-4/person #12487
 #: data/database.json+quests/trailblaze-jungle-4/person+%2312487
@@ -39932,7 +39932,7 @@ msgstr "Henry el Investigador"
 #: data/database.json+quests/trailblaze-jungle-4/description+%2312488
 msgctxt "data/database.json//quests/trailblaze-jungle-4/description"
 msgid "Retrieve the data from a probe a player installed for Henry. It's in one of the caves located in \\c[3]Gaia's Garden\\c[0]. "
-msgstr "Recupere los datos de una sonda de Henry. Está en una de las cuevas ubicadas en el \\c[3]Jardín de Gaia\\c[0]. "
+msgstr "Recupera los datos de una sonda que un jugador instaló para Henry. Está en una de las cuevas ubicadas en el \\c[3]Jardín de Gaia\\c[0]. "
 
 #. data/database.json quests/trailblaze-jungle-4/briefing #12489
 #: data/database.json+quests/trailblaze-jungle-4/briefing+%2312489
@@ -39944,7 +39944,7 @@ msgstr "Encontraste y recuperaste la sonda de datos."
 #: data/database.json+quests/trailblaze-jungle-4/tasks/0/task+%2312490
 msgctxt "data/database.json//quests/trailblaze-jungle-4/tasks/0/task"
 msgid "Find the probe in a \\c[3]cave\\c[0] of \\c[3]\\v[area.jungle.name]\\c[0]"
-msgstr "Encuentra la sonda en una \\c[3]cueva\\c[0] de \\c[3]\\v[area.jungle.name]\\c[0]"
+msgstr "Encuentra la sonda en una \\c[3]cueva\\c[0] del \\c[3]\\v[area.jungle.name]\\c[0]"
 
 #. data/database.json quests/jungleAdv-turret_defense_challenge-1/hubSettings/location #16350
 #. IF quest.jungleAdv-1-turret_defense_1.solved
@@ -41369,7 +41369,7 @@ msgstr "El bovino ha sido librado de su dolor. No hará más daño a las tierras
 #: data/database.json+quests/foa-3-buffel_cave/tasks/0/task+%2312458
 msgctxt "data/database.json//quests/foa-3-buffel_cave/tasks/0/task"
 msgid "Enter the \\c[3]Densewater Caverns\\c[0] on \\c[3]Secluded Path\\c[0] in the northeast of \\c[3]\\v[area.autumn-fall.name]\\c[0]"
-msgstr "Entra en \\c[3]Cavernas de Agua Densa\\c[0] en \\c[3]Camino Aislado\\c[0] en el noreste de \\c[3]\\v[area.autumn-fall.name]\\c[ 0]"
+msgstr "Entra en \\c[3]Cavernas de Agua Densa\\c[0] en \\c[3]Camino Aislado\\c[0] en el noreste de \\c[3]\\v[area.autumn-fall.name]\\c[0]"
 
 #. data/database.json quests/foa-3-buffel_cave/tasks/1/task #12459
 #: data/database.json+quests/foa-3-buffel_cave/tasks/1/task+%2312459
@@ -41624,7 +41624,7 @@ msgstr "Joe el Joven"
 #: data/database.json+quests/console-switch-1/description+%2316414
 msgctxt "data/database.json//quests/console-switch-1/description"
 msgid "The Falldiver pioneer \\c[3]Joe the Younger\\c[0] talks about seeing a thus unknown species of \\c[3]Flying type \\v[combat.name.hedgehog]s\\c[0]. You should investigate and find proof of his discovery!"
-msgstr "El pionero de Falldiver \\c[3]Joe el Joven\\c[0] habla de haber visto una especie desconocida de \\c[3]Tipo volador \\v[combat.name.hedgehog]s\\c[0]. ¡Deberías investigar y encontrar pruebas de su descubrimiento!"
+msgstr "El pionero de Caidalero \\c[3]Joe el Joven\\c[0] habla de haber visto una especie desconocida de \\c[3]\\v[combat.name.hedgehog]s Voladores\\c[0]. ¡Deberías investigar y encontrar pruebas de su descubrimiento!"
 
 #. data/database.json quests/console-switch-1/briefing #16415
 #: data/database.json+quests/console-switch-1/briefing+%2316415
