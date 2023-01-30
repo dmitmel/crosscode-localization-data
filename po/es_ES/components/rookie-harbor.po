@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2023-01-17 16:31+0000\n"
-"Last-Translator: Esteban Herrera Ortúzar <estebanherreraortuzar@gmail.com>\n"
+"PO-Revision-Date: 2023-01-31 19:31+0000\n"
+"Last-Translator: Jose de Andrés <joseanan98@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/rookie-harbor/es/>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
@@ -599,8 +599,8 @@ msgid ""
 "If you put water into a fountain...\n"
 "It becomes the fountain."
 msgstr ""
-"Si pones agua en una fuente...\n"
-"Se convierte en la fuente."
+"Una fuente sin agua...\n"
+"No es una fuente."
 
 #. data/maps/rookie-harbor/center.json entities/516/settings/npcStates/0/event/3/thenStep/0/message #48
 #. NPC ZenBademeister
@@ -1160,7 +1160,7 @@ msgstr "Mi lavabo está roto. ¡El dueño parcheará eso!"
 #: data/maps/rookie-harbor/center.json+entities/566/settings/dialog/9/text+%23105
 msgctxt "data/maps/rookie-harbor/center.json//entities/566/settings/dialog/9/text"
 msgid "Stop it, you're making my brain hurt."
-msgstr "Basta, me haces doler la cabeza."
+msgstr "Basta, haces que me duela la cabeza."
 
 #. data/maps/rookie-harbor/center.json entities/574/settings/blockEvent/4/message #280
 #. Door questHUBEntrance
@@ -1869,7 +1869,7 @@ msgstr "..."
 #: data/maps/rookie-harbor/center.json+entities/576/settings/event/0/message+%23146
 msgctxt "data/maps/rookie-harbor/center.json//entities/576/settings/event/0/message"
 msgid "That man just now... \\.\\.\\. He looked like he was wearing gear from each class."
-msgstr "Ese hombre de recién... \\.\\.\\. Parecía que estuviera vistiendo equipamiento de todas las clases."
+msgstr "Ese hombre de antes... \\.\\.\\. Parecía que estuviera vistiendo equipamiento de todas las clases."
 
 #. data/maps/rookie-harbor/center.json entities/576/settings/event/1/message #147
 #. EventTrigger DKarSideMessage START IF map.dkarSideMessageTrigger
@@ -3182,7 +3182,7 @@ msgstr "Sr. Nomsworth"
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/4/event/quest/2/message+%23250
 msgctxt "data/maps/rookie-harbor/center.json//entities/636/settings/npcStates/4/event/quest/2/message"
 msgid "I see you managed to get everything.\\. Quickly, go to the \\c[3]Pub at the Beginner's Arc\\c[0] and give it to the barkeep."
-msgstr "Veo que consegiste todo.\\. Rápido, ve a la \\c[3]Taverna en el Arco Recluta\\c[0] y dáselo al tabernero."
+msgstr "Veo que conseguiste todo.\\. Rápido, ve a la \\c[3]Taberna en el Arco Recluta\\c[0] y dáselo al tabernero."
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/4/event/quest/3/message #263
 #. NPC ctc-questgiver-1
@@ -3757,7 +3757,7 @@ msgstr ".\\..\\.."
 #: data/maps/rookie-harbor/center.json+entities/636/settings/npcStates/12/event/quest/9/message+%23391
 msgctxt "data/maps/rookie-harbor/center.json//entities/636/settings/npcStates/12/event/quest/9/message"
 msgid "Just now I have an unresolved assignment by the Pub for a delivery of mixed food ingredients."
-msgstr "Justamente ahora tengo una asignación sin resolver que me dio la Taverna, acerca de una entrega de varios alimentos."
+msgstr "Justamente ahora tengo una asignación sin resolver que me dio la Taberna, acerca de una entrega de varios alimentos."
 
 #. data/maps/rookie-harbor/center.json entities/636/settings/npcStates/12/event/quest/11/message #416
 #. NPC ctc-questgiver-1
@@ -4736,7 +4736,7 @@ msgstr "¿Qué?\\. Me gusta organizar las cosas."
 #: data/maps/rookie-harbor/central-quest-hub-2.json+entities/57/settings/event/33/task+%2360
 msgctxt "data/maps/rookie-harbor/central-quest-hub-2.json//entities/57/settings/event/33/task"
 msgid "Meet up again with \\c[3]Schneider\\c[0] and \\c[3]Emilie\\c[0] to continue your tour through Rookie Harbor."
-msgstr "Júntate con \\c[3]Schneider\\c[0] y \\c[3]Emilie\\c[0] para continuar con el tour por el Puerto Recluta."
+msgstr "Reúnete con \\c[3]Schneider\\c[0] y \\c[3]Emilie\\c[0] para continuar con el tour por el Puerto Recluta."
 
 #. data/maps/rookie-harbor/central-quest-hub-2.json entities/58/settings/analyzable/text #106
 #. NPC
@@ -6780,7 +6780,7 @@ msgstr "Hola, \\v[lore.title.seeker]a. Bienvenida a la sede central de los \\c[3
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/6/settings/npcStates/0/event/3/message+%233
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/6/settings/npcStates/0/event/3/message"
 msgid "If you are interested in advancing humanity's understanding of this planet, talk to the Chief Woodkeeper."
-msgstr "Si te interesa que la humanidad desarrolle su conocimiento sobre este planeta, habla con el Jefe Woodkeeper."
+msgstr "Si te interesa que la humanidad desarrolle su conocimiento sobre este planeta, habla con el Leñador Jefe."
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/6/settings/npcStates/0/event/4/message #291
 #. NPC receptionist
@@ -6803,7 +6803,7 @@ msgstr "Guardia"
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/analyzable/text+%23247
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/analyzable/text"
 msgid "Chief Woodkeeper Manzana"
-msgstr "Jefe Woodkeeper Manzana"
+msgstr "Leñador Jefe Manzana"
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/0/event/1/name #430
 #. NPC chief-woodkeeper-manzana
@@ -7686,7 +7686,7 @@ msgstr "Manzana"
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/12/event/2/message+%23458
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/npcStates/12/event/2/message"
 msgid "Please quickly meet up with our chief herbalist Helen.\\. You should find her on \\c[3]Path 3 in \\v[area.autumn-area.name]\\c[0]."
-msgstr "Por favor, júntate con nuestra principal herbolaria Helen.\\. Debería estar en el \\c[3]Camino 3 en \\v[area.autumn-area.name]\\c[0]."
+msgstr "Por favor, reúnete con nuestra principal herbolaria Helen.\\. Debería estar en el \\c[3]Camino 3 en \\v[area.autumn-area.name]\\c[0]."
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/13/event/quest/1/name #459
 #. NPC chief-woodkeeper-manzana
@@ -7758,7 +7758,7 @@ msgstr "Manzana"
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/15/event/quest/2/message+%23248
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/npcStates/15/event/quest/2/message"
 msgid "Welcome to our gardens, \\v[lore.title.seeker]. I am Manzana, the Chief Woodkeeper of this branch."
-msgstr "Bienvenida a nuestros jardines, \\v[lore.title.seeker]a. Soy Manzana, el Leñador Líder de esta rama."
+msgstr "Bienvenida a nuestros jardines, \\v[lore.title.seeker]a. Soy Manzana, el Leñador Jefe de esta sucursal."
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/15/event/quest/3/message #252
 #. NPC chief-woodkeeper-manzana
@@ -7803,7 +7803,7 @@ msgstr "Una enfermedad ha infectado a varios árboles en distintas localizacione
 #: data/maps/rookie-harbor/inner-faction-foa-greens.json+entities/58/settings/npcStates/15/event/quest/8/message+%23419
 msgctxt "data/maps/rookie-harbor/inner-faction-foa-greens.json//entities/58/settings/npcStates/15/event/quest/8/message"
 msgid "Would you be able to assist us in stemming it, before it can cause widespread harm?"
-msgstr "¿Podrías ayudarnos en eliminarla, antes de que pueda causar más estragos?"
+msgstr "¿Podrías ayudarnos a eliminarla, antes de que pueda causar más estragos?"
 
 #. data/maps/rookie-harbor/inner-faction-foa-greens.json entities/58/settings/npcStates/15/event/quest/9/accepted/0/message #420
 #. NPC chief-woodkeeper-manzana
@@ -20764,7 +20764,7 @@ msgstr "Ark"
 #: data/maps/rookie-harbor/west.json+entities/311/settings/dialog/0/text+%231
 msgctxt "data/maps/rookie-harbor/west.json//entities/311/settings/dialog/0/text"
 msgid "Man, there are markets literally everywhere in this town."
-msgstr "Hombre, hay mercados literalmente en todas partes en esta ciudad."
+msgstr "Tío, hay mercados literalmente en todas partes en esta ciudad."
 
 #. data/maps/rookie-harbor/west.json entities/311/settings/dialog/1/text #180
 #. XenoDialog
