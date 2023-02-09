@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2023-02-05 01:31+0000\n"
+"PO-Revision-Date: 2023-02-10 17:28+0000\n"
 "Last-Translator: Jose de Andrés <joseanan98@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/bergen-trail/es/>\n"
 "Language: es_ES\n"
@@ -164,7 +164,7 @@ msgstr "Guardia Impostor"
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/18/settings/event/17/message+%231
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/18/settings/event/17/message"
 msgid "Who would have thought that you were the intruder?\\. Can you not let a man and his goats live in peace?"
-msgstr "¿Quién se habría imaginado que tú eras el intruso?\\. ¿No puedes dejar a un hombre y sus cabras vivir feliz?"
+msgstr "¿Quién se habría imaginado que tú eras la intrusa?\\. ¿No puedes dejar a un hombre y sus cabras vivir feliz?"
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/18/settings/event/18/message #2
 #. EventTrigger battleScene-Start START IF tmp.fightStart && quest.bg-2-goat_cave_1.task.2
@@ -329,7 +329,7 @@ msgstr "... Lea."
 #: data/maps/bergen-trail/cave/cave-7-1-1-goat3.json+entities/18/settings/event/45/message+%23448
 msgctxt "data/maps/bergen-trail/cave/cave-7-1-1-goat3.json//entities/18/settings/event/45/message"
 msgid "Say all you want, it won't stop us.\\. Your meddling will end here and now!"
-msgstr "Di lo que quieras, no podrás pararnos.\\. ¡Tú has llegado hasta aquí!"
+msgstr "Di lo que quieras, no podrás pararnos.\\. ¡Esto se acaba aquí!"
 
 #. data/maps/bergen-trail/cave/cave-7-1-1-goat3.json entities/19/settings/event/17/message #4
 #. EventTrigger firstFightEnd-firstTime START IF (tmp.goats >= 8 && quest.bg-2-goat_cave_1.task.2) || tmp.scene
@@ -1597,7 +1597,7 @@ msgstr "Ah, ¿te ha enviado la Srta. Summers para ayudarnos con el generador rot
 #: data/maps/bergen-trail/hermit-1.json+entities/37/settings/npcStates/1/event/quest/6/message+%2323
 msgctxt "data/maps/bergen-trail/hermit-1.json//entities/37/settings/npcStates/1/event/quest/6/message"
 msgid "See, without that generator this room will be pretty chilly soon.\\. And what's the point of it then?"
-msgstr "Verás, sin ese generador la habitación se pondrá bastante... \\c[3]refrescante\\c[0]. ¿Y entonces cual es el punto?"
+msgstr "Verás, sin ese generador la habitación se pondrá bastante... \\c[3]fresquita\\c[0]. Y entonces, ¿qué sentido tendría este sitio?"
 
 #. data/maps/bergen-trail/hermit-1.json entities/37/settings/npcStates/1/event/quest/7/message #63
 #. NPC shop
@@ -1615,7 +1615,7 @@ msgstr "¡...!"
 #: data/maps/bergen-trail/hermit-1.json+entities/37/settings/npcStates/1/event/quest/8/message+%2364
 msgctxt "data/maps/bergen-trail/hermit-1.json//entities/37/settings/npcStates/1/event/quest/8/message"
 msgid "I know, right?\\. So we need some materials to fix that thing and most of them are pretty far away!"
-msgstr "Ya, ¿no?\\. ¡Entonces necesitamos algunos materiales para arreglar esa cosa y la mayoría de ellos están muy lejos!"
+msgstr "Ya, ¿no?\\. Entonces necesitamos algunos materiales para arreglar esa cosa, ¡y la mayoría de ellos están muy lejos!"
 
 #. data/maps/bergen-trail/hermit-1.json entities/37/settings/npcStates/1/event/quest/10/message #65
 #. NPC shop
@@ -1633,7 +1633,7 @@ msgstr "Para empezar, \\c[3]\\v[item.190.name]\\c[0].\\. Hay comerciantes en Ber
 #: data/maps/bergen-trail/hermit-1.json+entities/37/settings/npcStates/1/event/quest/11/message+%2366
 msgctxt "data/maps/bergen-trail/hermit-1.json//entities/37/settings/npcStates/1/event/quest/11/message"
 msgid "Next we need \\c[3]\\v[item.163.name] from the \\v[area.cold-dng.name]\\c[0]..."
-msgstr "Luego necesitamos \\c[3]\\v[item.163.name] proveniente de la \\v[area.cold-dng.name]\\c[0]..."
+msgstr "Luego necesitamos \\c[3]\\v[item.163.name] proveniente del \\v[area.cold-dng.name]\\c[0]..."
 
 #. data/maps/bergen-trail/hermit-1.json entities/37/settings/npcStates/1/event/quest/12/message #67
 #. NPC shop
@@ -6371,7 +6371,7 @@ msgstr "¡G-Gracias, m-muchas gracias por tu a-ayuda!"
 #: data/maps/bergen-trail/path-2.json+entities/292/settings/dialog/1/event/12/0/14/accepted/3/message+%23393
 msgctxt "data/maps/bergen-trail/path-2.json//entities/292/settings/dialog/1/event/12/0/14/accepted/3/message"
 msgid "A-and in case you forgot what the p-probe looks like..."
-msgstr "Y por si te o-olvidaste de c-como se ve la sonda..."
+msgstr "Y por si te o-olvidaste de c-cómo se ve la sonda..."
 
 #. data/maps/bergen-trail/path-2.json entities/292/settings/dialog/1/event/12/0/14/accepted/4/message #394
 #. XenoDialog XenoQuest SPAWN IF !quest.trailblaze-bergen.started && quest.trailblaze-autumn.solved
@@ -6453,7 +6453,7 @@ msgstr "Henry"
 #: data/maps/bergen-trail/path-2.json+entities/293/settings/npcStates/1/event/2/message+%23390
 msgctxt "data/maps/bergen-trail/path-2.json//entities/293/settings/npcStates/1/event/2/message"
 msgid "In c-c-case you forgot what the p-probe looks like..."
-msgstr "Si te p-p-pre-preguntas c-como se ve la s-sonda..."
+msgstr "Si te p-p-pre-preguntas c-cómo se ve la s-sonda..."
 
 #. data/maps/bergen-trail/path-2.json entities/293/settings/npcStates/1/event/3/message #391
 #. NPC henry
