@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2022-12-22 20:22+0000\n"
-"Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
+"PO-Revision-Date: 2023-02-13 14:32+0000\n"
+"Last-Translator: Jose de Andrés <joseanan98@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/arid/es/>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
@@ -132,7 +132,7 @@ msgstr "Río Escarlata"
 #: data/areas/arid.json+floors/2/maps/6/name+%23129
 msgctxt "data/areas/arid.json//floors/2/maps/6/name"
 msgid "River Delta"
-msgstr "Río Delta"
+msgstr "Delta del Río"
 
 #. data/areas/arid.json floors/2/maps/7/name #132
 #: data/areas/arid.json+floors/2/maps/7/name+%23132
@@ -1654,7 +1654,7 @@ msgstr "Mi habitación está por aquí, ¿y la tuya?"
 #: data/maps/arid/interior/barrack-room01.json+entities/27/settings/event/16/message+%236
 msgctxt "data/maps/arid/interior/barrack-room01.json//entities/27/settings/event/16/message"
 msgid "I see.\\. Let's try to rest and meet up tomorrow. We'll see what happens."
-msgstr "Ya veo.\\. Tratemos de descansar, nos encontramos mañana. Ya veremos que sucede."
+msgstr "Ya veo.\\. Tratemos de descansar, nos encontramos mañana. Ya veremos qué sucede."
 
 #. data/maps/arid/interior/barrack-room01.json entities/27/settings/event/17/message #7
 #. EventTrigger GoToBed_Day1 START IF tmp.goToBed && plot.line >= 11100
@@ -1934,7 +1934,7 @@ msgstr "¿Tú también oíste la alarma?"
 #: data/maps/arid/interior/barrack-room02.json+entities/19/settings/event/16/message+%2316
 msgctxt "data/maps/arid/interior/barrack-room02.json//entities/19/settings/event/16/message"
 msgid "I wonder what just happened. Sounded like somebody was fighting within the dormitory."
-msgstr "Me pregunto que habrá pasado. Sonaba como si alguien estuviera peleando en el dormitorio."
+msgstr "Me pregunto qué habrá pasado. Sonaba como si alguien estuviera peleando en el dormitorio."
 
 #. data/maps/arid/interior/barrack-room02.json entities/19/settings/event/17/message #17
 #. EventTrigger SchneiderMeetsDepressedLea START IF plot.line >= 12750
@@ -2918,7 +2918,7 @@ msgstr "..."
 #: data/maps/arid/interior/lobby.json+entities/33/settings/event/27/message+%2316
 msgctxt "data/maps/arid/interior/lobby.json//entities/33/settings/event/27/message"
 msgid "It's...\\. strangely familiar.\\. But I can't quite pinpoint it."
-msgstr "Es...\\. extrañamente familiar.\\. Pero no puedo adivinarlo,"
+msgstr "Es...\\. extrañamente familiar.\\. Pero no logro reconocerlo."
 
 #. data/maps/arid/interior/lobby.json entities/33/settings/event/28/message #17
 #. EventTrigger FirstEnteredWithSchneider
@@ -2966,7 +2966,7 @@ msgstr "..."
 #: data/maps/arid/interior/lobby.json+entities/33/settings/event/39/message+%238
 msgctxt "data/maps/arid/interior/lobby.json//entities/33/settings/event/39/message"
 msgid "It's probably about time for me to log out."
-msgstr "Creo que es tiempo de que me desconecte."
+msgstr "Creo que ya es hora de que me desconecte."
 
 #. data/maps/arid/interior/lobby.json entities/33/settings/event/51/message #23
 #. EventTrigger FirstEnteredWithSchneider
@@ -2982,7 +2982,7 @@ msgstr "Huh...\\. ¿Tan solo teníamos que esperar un poco?"
 #: data/maps/arid/interior/lobby.json+entities/33/settings/event/52/message+%2324
 msgctxt "data/maps/arid/interior/lobby.json//entities/33/settings/event/52/message"
 msgid "So what exactly was the point of all this?"
-msgstr "¿Entonces cual fue el propósito de todo esto?"
+msgstr "¿Entonces cuál fue el propósito de todo esto?"
 
 #. data/maps/arid/interior/lobby.json entities/33/settings/event/53/message #25
 #. EventTrigger FirstEnteredWithSchneider
@@ -3013,7 +3013,7 @@ msgstr "[asiente]"
 #: data/maps/arid/interior/lobby.json+entities/34/settings/teleportLabel+%2311
 msgctxt "data/maps/arid/interior/lobby.json//entities/34/settings/teleportLabel"
 msgid "Back to \\c[3]River Delta\\c[0]"
-msgstr "De vuelta al \\c[3]Río Delta\\c[0]"
+msgstr "De vuelta al \\c[3]Delta del Río\\c[0]"
 
 #. data/maps/arid/interior/lobby.json entities/36/settings/event/0/message #55
 #. LocationEvent Schneider comment START IF party.has.Schneider
@@ -3261,7 +3261,7 @@ msgstr "Esto es estúpido.\\. ¿Sabes qué?\\. Me desconectaré.\\. Ahora mismo.
 #: data/maps/arid/interior/quest-hub.json+entities/59/settings/event/33/message+%2339
 msgctxt "data/maps/arid/interior/quest-hub.json//entities/59/settings/event/33/message"
 msgid "Gotta look up how to get out of this place."
-msgstr "Investigaré como salir de aquí."
+msgstr "Investigaré cómo salir de aquí."
 
 #. data/maps/arid/interior/quest-hub.json entities/59/settings/event/34/message #40
 #. EventTrigger PostQuestResolve_Day1 START IF plot.line >= 10800
@@ -4270,7 +4270,7 @@ msgstr "¿Quién fue el que te conectó de vuelta al juego...?"
 #: data/maps/arid/interior/the-room.json+entities/33/settings/event/31/message+%2339
 msgctxt "data/maps/arid/interior/the-room.json//entities/33/settings/event/31/message"
 msgid "You were not supposed to be... around anymore."
-msgstr "No se supone que estés... dando vueltas por ahí. Ya no."
+msgstr "Se suponía que no deberías estar... dando vueltas por ahí. Ya no."
 
 #. data/maps/arid/interior/the-room.json entities/33/settings/event/32/message #40
 #. EventTrigger GauthamEnters START IF plot.line >= 10110
@@ -4558,7 +4558,7 @@ msgstr "Este lugar se desarrolló originalmente para CrossWorlds, pero el proyec
 #: data/maps/arid/interior/the-room.json+entities/34/settings/event/16/message+%2374
 msgctxt "data/maps/arid/interior/the-room.json//entities/34/settings/event/16/message"
 msgid "They already developed a large part of the environment but ultimately the area was never integrated into the Playground."
-msgstr "Ya estaba muy avanzado, pero nunca se llegó a integrarla al Campo de Juego."
+msgstr "Ya estaba muy avanzado, pero la zona nunca se llegó a integrar al Campo de Juego."
 
 #. data/maps/arid/interior/the-room.json entities/34/settings/event/17/message #75
 #. EventTrigger GoToBed_Day1 START IF plot.line >= 11200
@@ -5190,7 +5190,7 @@ msgstr "De acuerdo, Lea..."
 #: data/maps/arid/interior/the-room.json+entities/35/settings/event/51/message+%23533
 msgctxt "data/maps/arid/interior/the-room.json//entities/35/settings/event/51/message"
 msgid "I think now is the right time to tell you more about yourself."
-msgstr "Creo que es el momento en que debo contarte un poco más de ti."
+msgstr "Creo que ha llegado el momento en el que debo contarte un poco más sobre ti."
 
 #. data/maps/arid/interior/the-room.json entities/35/settings/event/52/message #534
 #. EventTrigger Start_Day2 START IF plot.line >= 11400
@@ -5622,7 +5622,7 @@ msgstr "Y por eso mismo no me puedo permitir manipular los sistemas del juego de
 #: data/maps/arid/interior/the-room.json+entities/36/settings/event/33/message+%23605
 msgctxt "data/maps/arid/interior/the-room.json//entities/36/settings/event/33/message"
 msgid "CrossWorlds is designed with an insane amount of security checks to prevent cheating and other kinds of abuse."
-msgstr "CrossWorlds está tiene una inmensa cantidad de barreras de seguridad para prevenir las trampas y otro tipo de abusos."
+msgstr "CrossWorlds está diseñado con una inmensa cantidad de barreras de seguridad para prevenir las trampas y otro tipo de abusos."
 
 #. data/maps/arid/interior/the-room.json entities/36/settings/event/34/message #606
 #. EventTrigger GoToBed_Day2 START IF plot.line >= 12400
@@ -6198,7 +6198,7 @@ msgstr "[niega con la cabeza]"
 #: data/maps/arid/interior/the-room.json+entities/40/settings/event/107/message+%23677
 msgctxt "data/maps/arid/interior/the-room.json//entities/40/settings/event/107/message"
 msgid "You can deny it all you want.\\. It won't change anything."
-msgstr "Niégalo lo que quieras.\\. No cambiará nada."
+msgstr "Niégalo todo lo que quieras.\\. No cambiará nada."
 
 #. data/maps/arid/interior/the-room.json entities/40/settings/event/108/message #678
 #. EventTrigger ShizukaAppears START IF plot.line >= 12620
@@ -6246,7 +6246,7 @@ msgstr "[niega con la cabeza]"
 #: data/maps/arid/interior/the-room.json+entities/40/settings/event/113/message+%23683
 msgctxt "data/maps/arid/interior/the-room.json//entities/40/settings/event/113/message"
 msgid "The \"next big step\" in artificial intelligence is what they call you."
-msgstr "Se decía que tu eras \"el siguiente gran paso\" de la inteligencia artificial."
+msgstr "Se decía que tú eras \"el siguiente gran paso\" de la inteligencia artificial."
 
 #. data/maps/arid/interior/the-room.json entities/40/settings/event/114/message #684
 #. EventTrigger ShizukaAppears START IF plot.line >= 12620
@@ -6546,7 +6546,7 @@ msgstr "...por qué..."
 #: data/maps/arid/interior/the-room.json+entities/40/settings/event/266/message+%23721
 msgctxt "data/maps/arid/interior/the-room.json//entities/40/settings/event/266/message"
 msgid "Lea, please! You have to get over this!"
-msgstr "¡Lea, por favor! ¡Se fuerte, debes superarlo!"
+msgstr "¡Lea, por favor! ¡Sé fuerte, debes superarlo!"
 
 #. data/maps/arid/interior/the-room.json entities/40/settings/event/267/message #722
 #. EventTrigger ShizukaAppears START IF plot.line >= 12620
@@ -8884,7 +8884,7 @@ msgid ""
 "\\i[arrow-e] Town Center"
 msgstr ""
 "\\i[arrow-n] Lago\n"
-"\\i[arrow-sw] Río Delta\n"
+"\\i[arrow-sw] Delta del Río\n"
 "\\i[arrow-e] Centro"
 
 #. data/maps/arid/river-1.json entities/404/settings/event/0/message #914
@@ -11905,7 +11905,7 @@ msgstr "¡...!"
 #: data/maps/arid/town-1.json+entities/297/settings/event/41/message+%23134
 msgctxt "data/maps/arid/town-1.json//entities/297/settings/event/41/message"
 msgid "It sure was pointless, but I still hope you had a good time!"
-msgstr "Se que fue inútil, ¡pero espero que la hayas pasado bien!"
+msgstr "Sé que fue inútil, ¡pero espero que la hayas pasado bien!"
 
 #. data/maps/arid/town-1.json entities/297/settings/event/42/message #135
 #. EventTrigger SchneiderTourEnd START IF plot.line >= 12200
@@ -13407,7 +13407,7 @@ msgstr "[asiente]"
 #: data/maps/arid/town-2.json+entities/411/settings/event/14/message+%2391
 msgctxt "data/maps/arid/town-2.json//entities/411/settings/event/14/message"
 msgid "Well, at least we won't die in real life when we die in-game. That's something."
-msgstr "Bueno, al menos no moriré en la vida real si muero en el juego. Es algo."
+msgstr "Bueno, al menos no moriré en la vida real si muero en el juego. Algo es algo."
 
 #. data/maps/arid/town-2.json entities/411/settings/event/15/message #92
 #. EventTrigger SchneiderPostMad START IF plot.line >= 11000
@@ -13447,7 +13447,7 @@ msgstr "Ya sé lo que es.\\. No puedo recordar cosas."
 #: data/maps/arid/town-2.json+entities/411/settings/event/19/message+%2396
 msgctxt "data/maps/arid/town-2.json//entities/411/settings/event/19/message"
 msgid "I can't remember what... is outside of the game."
-msgstr "No puedo recordar que... hay fuera del juego."
+msgstr "No puedo recordar qué... hay fuera del juego."
 
 #. data/maps/arid/town-2.json entities/411/settings/event/20/message #97
 #. EventTrigger SchneiderPostMad START IF plot.line >= 11000
