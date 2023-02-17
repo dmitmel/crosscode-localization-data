@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2023-02-10 17:28+0000\n"
+"PO-Revision-Date: 2023-02-18 02:32+0000\n"
 "Last-Translator: Joe Kenwood <Lubkuluk@hotmail.com>\n"
 "Language-Team: Turkish <https://weblate.openkrosskod.org/projects/crosscode/cargo-ship/tr/>\n"
 "Language: tr_TR\n"
@@ -24,55 +24,55 @@ msgstr "Kargo Gemisi"
 #: data/areas/cargo-ship.json+floors/0/name+%232
 msgctxt "data/areas/cargo-ship.json//floors/0/name"
 msgid "Cargo Hold"
-msgstr ""
+msgstr "Yük Ambarı"
 
 #. data/areas/cargo-ship.json floors/0/maps/0/name #15
 #: data/areas/cargo-ship.json+floors/0/maps/0/name+%2315
 msgctxt "data/areas/cargo-ship.json//floors/0/maps/0/name"
 msgid "Teleporter"
-msgstr ""
+msgstr "Işınlayıcı"
 
 #. data/areas/cargo-ship.json floors/0/maps/1/name #17
 #: data/areas/cargo-ship.json+floors/0/maps/1/name+%2317
 msgctxt "data/areas/cargo-ship.json//floors/0/maps/1/name"
 msgid "Cargo Hold 1"
-msgstr ""
+msgstr "Yük Ambarı 1"
 
 #. data/areas/cargo-ship.json floors/0/maps/2/name #18
 #: data/areas/cargo-ship.json+floors/0/maps/2/name+%2318
 msgctxt "data/areas/cargo-ship.json//floors/0/maps/2/name"
 msgid "Cargo Hold 2"
-msgstr "Ş"
+msgstr "Yük Ambarı 2"
 
 #. data/areas/cargo-ship.json floors/0/maps/3/name #19
 #: data/areas/cargo-ship.json+floors/0/maps/3/name+%2319
 msgctxt "data/areas/cargo-ship.json//floors/0/maps/3/name"
 msgid "Cargo Hold 3"
-msgstr ""
+msgstr "Yük Ambarı 3"
 
 #. data/areas/cargo-ship.json floors/0/maps/4/name #20
 #: data/areas/cargo-ship.json+floors/0/maps/4/name+%2320
 msgctxt "data/areas/cargo-ship.json//floors/0/maps/4/name"
 msgid "Cargo Hold 4"
-msgstr ""
+msgstr "Yük Ambarı 4"
 
 #. data/areas/cargo-ship.json floors/0/maps/5/name #21
 #: data/areas/cargo-ship.json+floors/0/maps/5/name+%2321
 msgctxt "data/areas/cargo-ship.json//floors/0/maps/5/name"
 msgid "Cargo Hold 5"
-msgstr ""
+msgstr "Yük Ambarı 5"
 
 #. data/areas/cargo-ship.json floors/0/maps/6/name #22
 #: data/areas/cargo-ship.json+floors/0/maps/6/name+%2322
 msgctxt "data/areas/cargo-ship.json//floors/0/maps/6/name"
 msgid "Cargo Hold Elevator"
-msgstr ""
+msgstr "Yük Ambarı Işınlayıcısı"
 
 #. data/areas/cargo-ship.json floors/1/name #3
 #: data/areas/cargo-ship.json+floors/1/name+%233
 msgctxt "data/areas/cargo-ship.json//floors/1/name"
 msgid "Deck"
-msgstr ""
+msgstr "Güverte"
 
 #. data/areas/cargo-ship.json floors/1/maps/0/name #23
 #: data/areas/cargo-ship.json+floors/1/maps/0/name+%2323
@@ -82,9 +82,10 @@ msgstr "Güverte"
 
 #. data/areas/cargo-ship.json floors/1/maps/1/name #24
 #: data/areas/cargo-ship.json+floors/1/maps/1/name+%2324
+#, fuzzy
 msgctxt "data/areas/cargo-ship.json//floors/1/maps/1/name"
 msgid "Ground Floor Elevator"
-msgstr ""
+msgstr "Zemin Kat Asansör"
 
 #. data/areas/cargo-ship.json floors/2/name #4
 #: data/areas/cargo-ship.json+floors/2/name+%234
@@ -134,7 +135,7 @@ msgstr "Güverte"
 #: data/maps/cargo-ship/boss.json+entities/15/settings/event/17/message+%231
 msgctxt "data/maps/cargo-ship/boss.json//entities/15/settings/event/17/message"
 msgid "What a convenient stage we have here!"
-msgstr ""
+msgstr "Ne elverişli bir sahnemiz var burada!"
 
 #. data/maps/cargo-ship/boss.json entities/15/settings/event/18/message #2
 #. EventTrigger intro
@@ -148,9 +149,10 @@ msgstr "Şimdi sınavın ile yüzleşme zamanın!"
 #. EventTrigger intro
 #. SHOW_MSG antagonists.designer @SHOUT
 #: data/maps/cargo-ship/boss.json+entities/15/settings/event/29/message+%233
+#, fuzzy
 msgctxt "data/maps/cargo-ship/boss.json//entities/15/settings/event/29/message"
 msgid "Let us see if you are the genuine article!"
-msgstr ""
+msgstr "Bakalım bu eşsiz yapı sen misin!"
 
 #. data/maps/cargo-ship/boss.json entities/15/settings/event/30/message #4
 #. EventTrigger intro
@@ -158,7 +160,7 @@ msgstr ""
 #: data/maps/cargo-ship/boss.json+entities/15/settings/event/30/message+%234
 msgctxt "data/maps/cargo-ship/boss.json//entities/15/settings/event/30/message"
 msgid "A display of your talents shall suffice as proof!"
-msgstr "YeteneĞinin bir gösterisi kanIt olarak yeterli olmalI!"
+msgstr "Yeteneğinin bir gösterisi kanıt olarak yeterli olacak!"
 
 #. data/maps/cargo-ship/boss.json entities/15/settings/event/41/message #5
 #. EventTrigger intro
@@ -166,7 +168,7 @@ msgstr "YeteneĞinin bir gösterisi kanIt olarak yeterli olmalI!"
 #: data/maps/cargo-ship/boss.json+entities/15/settings/event/41/message+%235
 msgctxt "data/maps/cargo-ship/boss.json//entities/15/settings/event/41/message"
 msgid "Lea, do you hear me?"
-msgstr ""
+msgstr "Lea beni duyuyor musun?"
 
 #. data/maps/cargo-ship/boss.json entities/15/settings/event/42/message #6
 #. EventTrigger intro
@@ -174,7 +176,7 @@ msgstr ""
 #: data/maps/cargo-ship/boss.json+entities/15/settings/event/42/message+%236
 msgctxt "data/maps/cargo-ship/boss.json//entities/15/settings/event/42/message"
 msgid " I am just as confused about this whole situation as you are..."
-msgstr ""
+msgstr " Bu durum hakkında kafam senin ki kadar karışık..."
 
 #. data/maps/cargo-ship/boss.json entities/15/settings/event/43/message #7
 #. EventTrigger intro
@@ -182,7 +184,7 @@ msgstr ""
 #: data/maps/cargo-ship/boss.json+entities/15/settings/event/43/message+%237
 msgctxt "data/maps/cargo-ship/boss.json//entities/15/settings/event/43/message"
 msgid "It is certainly a mess, but we will get you out of this."
-msgstr ""
+msgstr "Bunun bir sıkıntı olduğu kesin, ama seni bundan çıkaracağız."
 
 #. data/maps/cargo-ship/boss.json entities/15/settings/event/44/message #8
 #. EventTrigger intro
@@ -190,7 +192,7 @@ msgstr ""
 #: data/maps/cargo-ship/boss.json+entities/15/settings/event/44/message+%238
 msgctxt "data/maps/cargo-ship/boss.json//entities/15/settings/event/44/message"
 msgid "For now, take on this challenge and keep him busy."
-msgstr ""
+msgstr "Şuanlık, meydan okumasını kabul et ve onu meşgul tut."
 
 #. data/maps/cargo-ship/boss.json entities/15/settings/event/45/message #9
 #. EventTrigger intro
@@ -198,7 +200,7 @@ msgstr ""
 #: data/maps/cargo-ship/boss.json+entities/15/settings/event/45/message+%239
 msgctxt "data/maps/cargo-ship/boss.json//entities/15/settings/event/45/message"
 msgid "I know, this enemy looks intimidating, but do not lose hope!"
-msgstr ""
+msgstr "Biliyorum bu düşman korkutucu görünüyor ama umudunu kaybetme!"
 
 #. data/maps/cargo-ship/boss.json entities/15/settings/event/46/thenStep/0/message #11
 #. EventTrigger intro
@@ -207,7 +209,7 @@ msgstr ""
 #: data/maps/cargo-ship/boss.json+entities/15/settings/event/46/thenStep/0/message+%2311
 msgctxt "data/maps/cargo-ship/boss.json//entities/15/settings/event/46/thenStep/0/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/cargo-ship/boss.json entities/15/settings/event/46/thenStep/1/message #19
 #. EventTrigger intro
@@ -216,7 +218,7 @@ msgstr ""
 #: data/maps/cargo-ship/boss.json+entities/15/settings/event/46/thenStep/1/message+%2319
 msgctxt "data/maps/cargo-ship/boss.json//entities/15/settings/event/46/thenStep/1/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/cargo-ship/boss.json entities/15/settings/event/46/thenStep/2/message #16
 #. EventTrigger intro
@@ -225,7 +227,7 @@ msgstr ""
 #: data/maps/cargo-ship/boss.json+entities/15/settings/event/46/thenStep/2/message+%2316
 msgctxt "data/maps/cargo-ship/boss.json//entities/15/settings/event/46/thenStep/2/message"
 msgid "What am I saying?\\. You can beat that thing with a \\c[1]single hit\\c[0]."
-msgstr ""
+msgstr "Ben ne diyorum ki?\\. O şeyi \\c[1]tek bir vuruşla\\c[0] halledebilirsin."
 
 #. data/maps/cargo-ship/boss.json entities/15/settings/event/46/thenStep/3/message #17
 #. EventTrigger intro
@@ -234,7 +236,7 @@ msgstr ""
 #: data/maps/cargo-ship/boss.json+entities/15/settings/event/46/thenStep/3/message+%2317
 msgctxt "data/maps/cargo-ship/boss.json//entities/15/settings/event/46/thenStep/3/message"
 msgid "...!"
-msgstr ""
+msgstr "...!"
 
 #. data/maps/cargo-ship/boss.json entities/15/settings/event/46/thenStep/4/message #18
 #. EventTrigger intro
@@ -243,7 +245,7 @@ msgstr ""
 #: data/maps/cargo-ship/boss.json+entities/15/settings/event/46/thenStep/4/message+%2318
 msgctxt "data/maps/cargo-ship/boss.json//entities/15/settings/event/46/thenStep/4/message"
 msgid "Just make sure to hit its weak point."
-msgstr ""
+msgstr "Sadece zayıf noktasına vurduğundan emin ol."
 
 #. data/maps/cargo-ship/boss.json entities/15/settings/event/46/elseStep/0/message #10
 #. EventTrigger intro
@@ -252,7 +254,7 @@ msgstr ""
 #: data/maps/cargo-ship/boss.json+entities/15/settings/event/46/elseStep/0/message+%2310
 msgctxt "data/maps/cargo-ship/boss.json//entities/15/settings/event/46/elseStep/0/message"
 msgid "I am confident you will be able to handle this!"
-msgstr ""
+msgstr "Eminim ki bunu halledebileceksin!"
 
 #. data/maps/cargo-ship/boss.json entities/15/settings/event/46/elseStep/1/message #20
 #. EventTrigger intro
@@ -261,7 +263,7 @@ msgstr ""
 #: data/maps/cargo-ship/boss.json+entities/15/settings/event/46/elseStep/1/message+%2320
 msgctxt "data/maps/cargo-ship/boss.json//entities/15/settings/event/46/elseStep/1/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/cargo-ship/boss.json entities/15/settings/event/46/elseStep/2/thenStep/0/message #22
 #. EventTrigger intro
@@ -271,7 +273,7 @@ msgstr ""
 #: data/maps/cargo-ship/boss.json+entities/15/settings/event/46/elseStep/2/thenStep/0/message+%2322
 msgctxt "data/maps/cargo-ship/boss.json//entities/15/settings/event/46/elseStep/2/thenStep/0/message"
 msgid "As a matter of fact with \\c[1]your level\\c[0] this really should be a piece of cake."
-msgstr ""
+msgstr "İşin doğrusu \\c[1]seviyen ile\\c[0] bu çantada keklik olmalı."
 
 #. data/maps/cargo-ship/boss.json entities/15/settings/event/46/elseStep/2/thenStep/1/message #21
 #. EventTrigger intro
@@ -281,7 +283,7 @@ msgstr ""
 #: data/maps/cargo-ship/boss.json+entities/15/settings/event/46/elseStep/2/thenStep/1/message+%2321
 msgctxt "data/maps/cargo-ship/boss.json//entities/15/settings/event/46/elseStep/2/thenStep/1/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/cargo-ship/boss.json entities/15/settings/event/46/elseStep/2/thenStep/2/message #15
 #. EventTrigger intro
@@ -291,7 +293,7 @@ msgstr ""
 #: data/maps/cargo-ship/boss.json+entities/15/settings/event/46/elseStep/2/thenStep/2/message+%2315
 msgctxt "data/maps/cargo-ship/boss.json//entities/15/settings/event/46/elseStep/2/thenStep/2/message"
 msgid "...!"
-msgstr ""
+msgstr "...!"
 
 #. data/maps/cargo-ship/boss.json entities/15/settings/event/46/elseStep/2/elseStep/0/message #12
 #. EventTrigger intro
@@ -301,7 +303,7 @@ msgstr ""
 #: data/maps/cargo-ship/boss.json+entities/15/settings/event/46/elseStep/2/elseStep/0/message+%2312
 msgctxt "data/maps/cargo-ship/boss.json//entities/15/settings/event/46/elseStep/2/elseStep/0/message"
 msgid "... Because I can see its battle stats.\\. They match your level!"
-msgstr ""
+msgstr "...Çünkü onun savaş istatistiklerini görebiliyorum.\\. Seviyenle eşleşiyor!"
 
 #. data/maps/cargo-ship/boss.json entities/15/settings/event/46/elseStep/2/elseStep/1/message #13
 #. EventTrigger intro
@@ -311,7 +313,7 @@ msgstr ""
 #: data/maps/cargo-ship/boss.json+entities/15/settings/event/46/elseStep/2/elseStep/1/message+%2313
 msgctxt "data/maps/cargo-ship/boss.json//entities/15/settings/event/46/elseStep/2/elseStep/1/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/cargo-ship/boss.json entities/15/settings/event/46/elseStep/2/elseStep/2/message #14
 #. EventTrigger intro
@@ -321,7 +323,7 @@ msgstr ""
 #: data/maps/cargo-ship/boss.json+entities/15/settings/event/46/elseStep/2/elseStep/2/message+%2314
 msgctxt "data/maps/cargo-ship/boss.json//entities/15/settings/event/46/elseStep/2/elseStep/2/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/cargo-ship/boss.json entities/15/settings/event/46/elseStep/2/elseStep/3/message #23
 #. EventTrigger intro
@@ -331,70 +333,70 @@ msgstr ""
 #: data/maps/cargo-ship/boss.json+entities/15/settings/event/46/elseStep/2/elseStep/3/message+%2323
 msgctxt "data/maps/cargo-ship/boss.json//entities/15/settings/event/46/elseStep/2/elseStep/3/message"
 msgid "...!"
-msgstr ""
+msgstr "...!"
 
 #. data/maps/cargo-ship/bridge-floor.json entities/0/settings/destinations/0/label #1
 #. Elevator elevator
 #: data/maps/cargo-ship/bridge-floor.json+entities/0/settings/destinations/0/label+%231
 msgctxt "data/maps/cargo-ship/bridge-floor.json//entities/0/settings/destinations/0/label"
 msgid "3rd floor (cabins)"
-msgstr ""
+msgstr "3. kat (kabinler)"
 
 #. data/maps/cargo-ship/bridge-floor.json entities/0/settings/destinations/1/label #2
 #. Elevator elevator
 #: data/maps/cargo-ship/bridge-floor.json+entities/0/settings/destinations/1/label+%232
 msgctxt "data/maps/cargo-ship/bridge-floor.json//entities/0/settings/destinations/1/label"
 msgid "2nd floor (cabins)"
-msgstr ""
+msgstr "2. kat (kabinler)"
 
 #. data/maps/cargo-ship/bridge-floor.json entities/0/settings/destinations/2/label #3
 #. Elevator elevator
 #: data/maps/cargo-ship/bridge-floor.json+entities/0/settings/destinations/2/label+%233
 msgctxt "data/maps/cargo-ship/bridge-floor.json//entities/0/settings/destinations/2/label"
 msgid "1st floor (deck)"
-msgstr ""
+msgstr "1. kat (güverte)"
 
 #. data/maps/cargo-ship/bridge-floor.json entities/0/settings/destinations/3/label #4
 #. Elevator elevator
 #: data/maps/cargo-ship/bridge-floor.json+entities/0/settings/destinations/3/label+%234
 msgctxt "data/maps/cargo-ship/bridge-floor.json//entities/0/settings/destinations/3/label"
 msgid "Basement floor (cargo hold)"
-msgstr ""
+msgstr "Bodrum katı (yük ambarı)"
 
 #. data/maps/cargo-ship/bridge.json entities/20/settings/destinations/0/label #1
 #. Elevator elevator
 #: data/maps/cargo-ship/bridge.json+entities/20/settings/destinations/0/label+%231
 msgctxt "data/maps/cargo-ship/bridge.json//entities/20/settings/destinations/0/label"
 msgid "4th floor (bridge)"
-msgstr ""
+msgstr "4. kat köprü"
 
 #. data/maps/cargo-ship/bridge.json entities/20/settings/destinations/1/label #2
 #. Elevator elevator
 #: data/maps/cargo-ship/bridge.json+entities/20/settings/destinations/1/label+%232
 msgctxt "data/maps/cargo-ship/bridge.json//entities/20/settings/destinations/1/label"
 msgid "3rd floor (cabins)"
-msgstr ""
+msgstr "3. kat (kabinler)"
 
 #. data/maps/cargo-ship/bridge.json entities/20/settings/destinations/2/label #3
 #. Elevator elevator
 #: data/maps/cargo-ship/bridge.json+entities/20/settings/destinations/2/label+%233
 msgctxt "data/maps/cargo-ship/bridge.json//entities/20/settings/destinations/2/label"
 msgid "2nd floor (cabins)"
-msgstr ""
+msgstr "2. kat (kabinler)"
 
 #. data/maps/cargo-ship/bridge.json entities/20/settings/destinations/3/label #4
 #. Elevator elevator
 #: data/maps/cargo-ship/bridge.json+entities/20/settings/destinations/3/label+%234
 msgctxt "data/maps/cargo-ship/bridge.json//entities/20/settings/destinations/3/label"
 msgid "1st floor (deck)"
-msgstr ""
+msgstr "1. kat (güverte)"
 
 #. data/maps/cargo-ship/bridge.json entities/20/settings/destinations/4/label #5
 #. Elevator elevator
 #: data/maps/cargo-ship/bridge.json+entities/20/settings/destinations/4/label+%235
 msgctxt "data/maps/cargo-ship/bridge.json//entities/20/settings/destinations/4/label"
 msgid "Basement floor (cargo hold)"
-msgstr ""
+msgstr "Bodrum katı (yük ambarı)"
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/10/message #6
 #. EventTrigger firstVisit START IF plot.line >= 100
@@ -402,7 +404,7 @@ msgstr ""
 #: data/maps/cargo-ship/bridge.json+entities/21/settings/event/10/message+%236
 msgctxt "data/maps/cargo-ship/bridge.json//entities/21/settings/event/10/message"
 msgid "Cap, I'm back with the report!"
-msgstr ""
+msgstr "Kaptanım, raporla geri geldim!"
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/14/message #7
 #. EventTrigger firstVisit START IF plot.line >= 100
@@ -410,7 +412,7 @@ msgstr ""
 #: data/maps/cargo-ship/bridge.json+entities/21/settings/event/14/message+%237
 msgctxt "data/maps/cargo-ship/bridge.json//entities/21/settings/event/14/message"
 msgid "I see. Go on."
-msgstr ""
+msgstr "Anlıyorum. Devam et."
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/15/message #8
 #. EventTrigger firstVisit START IF plot.line >= 100
@@ -418,7 +420,7 @@ msgstr ""
 #: data/maps/cargo-ship/bridge.json+entities/21/settings/event/15/message+%238
 msgctxt "data/maps/cargo-ship/bridge.json//entities/21/settings/event/15/message"
 msgid "The initiation? A total cinch."
-msgstr ""
+msgstr "Başlatım mı? Çocuk oyuncağı."
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/17/message #9
 #. EventTrigger firstVisit START IF plot.line >= 100
@@ -426,7 +428,7 @@ msgstr ""
 #: data/maps/cargo-ship/bridge.json+entities/21/settings/event/17/message+%239
 msgctxt "data/maps/cargo-ship/bridge.json//entities/21/settings/event/17/message"
 msgid "Here's the avatar - name's Lea."
-msgstr ""
+msgstr "İşte avatar - adı Lea."
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/18/message #10
 #. EventTrigger firstVisit START IF plot.line >= 100
@@ -434,7 +436,7 @@ msgstr ""
 #: data/maps/cargo-ship/bridge.json+entities/21/settings/event/18/message+%2310
 msgctxt "data/maps/cargo-ship/bridge.json//entities/21/settings/event/18/message"
 msgid "Aye... hard to miss that lass.\\. Hope ye didn't run into everythin' with those horns there."
-msgstr ""
+msgstr "Evet... gözden kaçırması zor kızım.\\. Umarım o boynuzlarla her şeye çarpmamışsındır."
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/19/message #11
 #. EventTrigger firstVisit START IF plot.line >= 100
@@ -442,7 +444,7 @@ msgstr ""
 #: data/maps/cargo-ship/bridge.json+entities/21/settings/event/19/message+%2311
 msgctxt "data/maps/cargo-ship/bridge.json//entities/21/settings/event/19/message"
 msgid "...?"
-msgstr ""
+msgstr "...?"
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/20/message #12
 #. EventTrigger firstVisit START IF plot.line >= 100
@@ -450,7 +452,7 @@ msgstr ""
 #: data/maps/cargo-ship/bridge.json+entities/21/settings/event/20/message+%2312
 msgctxt "data/maps/cargo-ship/bridge.json//entities/21/settings/event/20/message"
 msgid "Wait...\\. don't tell me ya didn't notice the horns 'til now, Lea..."
-msgstr ""
+msgstr "Bir dakika...\\. bana şuana kadar onları fark etmedim deme ya Lea..."
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/21/message #13
 #. EventTrigger firstVisit START IF plot.line >= 100
@@ -458,7 +460,7 @@ msgstr ""
 #: data/maps/cargo-ship/bridge.json+entities/21/settings/event/21/message+%2313
 msgctxt "data/maps/cargo-ship/bridge.json//entities/21/settings/event/21/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/22/message #14
 #. EventTrigger firstVisit START IF plot.line >= 100
@@ -466,7 +468,7 @@ msgstr ""
 #: data/maps/cargo-ship/bridge.json+entities/21/settings/event/22/message+%2314
 msgctxt "data/maps/cargo-ship/bridge.json//entities/21/settings/event/22/message"
 msgid "Anyway, make sure ye clean up that mess ye started down in the cargo hold soon."
-msgstr ""
+msgstr "Neyse, yakında aşağı yük ambarında yaptığınız dağınıklığı topladığından emin ol."
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/24/message #15
 #. EventTrigger firstVisit START IF plot.line >= 100
@@ -474,7 +476,7 @@ msgstr ""
 #: data/maps/cargo-ship/bridge.json+entities/21/settings/event/24/message+%2315
 msgctxt "data/maps/cargo-ship/bridge.json//entities/21/settings/event/24/message"
 msgid "Yes, Cap."
-msgstr ""
+msgstr "Evet kaptan."
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/25/message #16
 #. EventTrigger firstVisit START IF plot.line >= 100
@@ -482,7 +484,7 @@ msgstr ""
 #: data/maps/cargo-ship/bridge.json+entities/21/settings/event/25/message+%2316
 msgctxt "data/maps/cargo-ship/bridge.json//entities/21/settings/event/25/message"
 msgid "I hope Sergey is satisfied.\\. Is he around?"
-msgstr ""
+msgstr "Umarım Sergey memnundur.\\. O buralarda mı?"
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/26/message #17
 #. EventTrigger firstVisit START IF plot.line >= 100
@@ -490,7 +492,7 @@ msgstr ""
 #: data/maps/cargo-ship/bridge.json+entities/21/settings/event/26/message+%2317
 msgctxt "data/maps/cargo-ship/bridge.json//entities/21/settings/event/26/message"
 msgid "Yeah, just give me a sec to set up your headset."
-msgstr ""
+msgstr "Evet, bir saniye ver kulaklığını ayarlayayım."
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/32/message #18
 #. EventTrigger firstVisit START IF plot.line >= 100
@@ -498,7 +500,7 @@ msgstr ""
 #: data/maps/cargo-ship/bridge.json+entities/21/settings/event/32/message+%2318
 msgctxt "data/maps/cargo-ship/bridge.json//entities/21/settings/event/32/message"
 msgid "Hello there, Jet!"
-msgstr ""
+msgstr "Selamlar Jet!"
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/33/message #19
 #. EventTrigger firstVisit START IF plot.line >= 100
@@ -506,7 +508,7 @@ msgstr ""
 #: data/maps/cargo-ship/bridge.json+entities/21/settings/event/33/message+%2319
 msgctxt "data/maps/cargo-ship/bridge.json//entities/21/settings/event/33/message"
 msgid "My good man! It's been a long time."
-msgstr ""
+msgstr "Adamım be! Çok uzun oldu."
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/34/message #20
 #. EventTrigger firstVisit START IF plot.line >= 100
@@ -514,7 +516,7 @@ msgstr ""
 #: data/maps/cargo-ship/bridge.json+entities/21/settings/event/34/message+%2320
 msgctxt "data/maps/cargo-ship/bridge.json//entities/21/settings/event/34/message"
 msgid "Indeed.\\. You are still clinging to that jet pack, I see?"
-msgstr ""
+msgstr "Aynen öyle.\\. Görüyorum ki hala o jet paketine sarılıyorsun?"
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/35/message #21
 #. EventTrigger firstVisit START IF plot.line >= 100
@@ -522,7 +524,7 @@ msgstr ""
 #: data/maps/cargo-ship/bridge.json+entities/21/settings/event/35/message+%2321
 msgctxt "data/maps/cargo-ship/bridge.json//entities/21/settings/event/35/message"
 msgid "Ye know I'd never travel the sea without good ol' Betty."
-msgstr ""
+msgstr "Bilirsin denizi asla eski güzel Betty olmadan gezmem."
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/36/message #22
 #. EventTrigger firstVisit START IF plot.line >= 100
@@ -530,7 +532,7 @@ msgstr ""
 #: data/maps/cargo-ship/bridge.json+entities/21/settings/event/36/message+%2322
 msgctxt "data/maps/cargo-ship/bridge.json//entities/21/settings/event/36/message"
 msgid "Anyway, I hope ye two will be ready to travel on soon. "
-msgstr ""
+msgstr "Her neyse, Umarım siz ikiniz yakında yolculuğa çıkmaya hazırsınızdır. "
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/37/message #23
 #. EventTrigger firstVisit START IF plot.line >= 100
@@ -538,7 +540,7 @@ msgstr ""
 #: data/maps/cargo-ship/bridge.json+entities/21/settings/event/37/message+%2323
 msgctxt "data/maps/cargo-ship/bridge.json//entities/21/settings/event/37/message"
 msgid "Having a darn avatar on board is just callin' for trouble."
-msgstr ""
+msgstr "Güvertede bir lanet avatar olması sadece bela aramaktır."
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/38/message #24
 #. EventTrigger firstVisit START IF plot.line >= 100
@@ -546,7 +548,7 @@ msgstr ""
 #: data/maps/cargo-ship/bridge.json+entities/21/settings/event/38/message+%2324
 msgctxt "data/maps/cargo-ship/bridge.json//entities/21/settings/event/38/message"
 msgid "Of course.\\. We will make this as brief as possible."
-msgstr ""
+msgstr "Tabii ki de.\\. Olabildiğince kısa tutacağız."
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/39/message #25
 #. EventTrigger firstVisit START IF plot.line >= 100
@@ -554,7 +556,7 @@ msgstr ""
 #: data/maps/cargo-ship/bridge.json+entities/21/settings/event/39/message+%2325
 msgctxt "data/maps/cargo-ship/bridge.json//entities/21/settings/event/39/message"
 msgid "Gee, Cap.\\. What kinda welcome is that s'posed to be?"
-msgstr ""
+msgstr "Tanrım, Kaptan.\\. Ne biçim bir karşılama bu öyle?"
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/40/message #26
 #. EventTrigger firstVisit START IF plot.line >= 100
@@ -562,7 +564,7 @@ msgstr ""
 #: data/maps/cargo-ship/bridge.json+entities/21/settings/event/40/message+%2326
 msgctxt "data/maps/cargo-ship/bridge.json//entities/21/settings/event/40/message"
 msgid "Besides, ain't we talkin' to Jet, former VRP dueling champ?"
-msgstr ""
+msgstr "Ayrıca, geçmiş SSM düello şampiyonuna konuşmuyor muyuz?"
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/41/message #27
 #. EventTrigger firstVisit START IF plot.line >= 100
@@ -570,7 +572,7 @@ msgstr ""
 #: data/maps/cargo-ship/bridge.json+entities/21/settings/event/41/message+%2327
 msgctxt "data/maps/cargo-ship/bridge.json//entities/21/settings/event/41/message"
 msgid "You keep telling us all about your combat moves from the old days."
-msgstr ""
+msgstr "Hepimize eski günlerdeki dövüş hamlelerinden bahsedip duruyorsun."
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/42/message #28
 #. EventTrigger firstVisit START IF plot.line >= 100
@@ -578,7 +580,7 @@ msgstr ""
 #: data/maps/cargo-ship/bridge.json+entities/21/settings/event/42/message+%2328
 msgctxt "data/maps/cargo-ship/bridge.json//entities/21/settings/event/42/message"
 msgid "So here I thought maybe you'd want to give Lea a small combat lesson?"
-msgstr ""
+msgstr "O yüzden bende düşündüm ki belki Lea ile küçük bir antrenman dersi yaparsın?"
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/45/message #29
 #. EventTrigger firstVisit START IF plot.line >= 100
@@ -586,7 +588,7 @@ msgstr ""
 #: data/maps/cargo-ship/bridge.json+entities/21/settings/event/45/message+%2329
 msgctxt "data/maps/cargo-ship/bridge.json//entities/21/settings/event/45/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/46/message #30
 #. EventTrigger firstVisit START IF plot.line >= 100
@@ -594,7 +596,7 @@ msgstr ""
 #: data/maps/cargo-ship/bridge.json+entities/21/settings/event/46/message+%2330
 msgctxt "data/maps/cargo-ship/bridge.json//entities/21/settings/event/46/message"
 msgid "Ye're tellin' me that wee lass is up for a battle?"
-msgstr ""
+msgstr "Diyon ki şu ufak kız savaşmak mı istiyor?"
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/47/message #31
 #. EventTrigger firstVisit START IF plot.line >= 100
@@ -602,7 +604,7 @@ msgstr ""
 #: data/maps/cargo-ship/bridge.json+entities/21/settings/event/47/message+%2331
 msgctxt "data/maps/cargo-ship/bridge.json//entities/21/settings/event/47/message"
 msgid "Oh, you bet she is!"
-msgstr ""
+msgstr "Ah, istiyor emin ol!"
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/48/thenStep/0/message #108
 #. EventTrigger firstVisit START IF plot.line >= 100
@@ -611,7 +613,7 @@ msgstr ""
 #: data/maps/cargo-ship/bridge.json+entities/21/settings/event/48/thenStep/0/message+%23108
 msgctxt "data/maps/cargo-ship/bridge.json//entities/21/settings/event/48/thenStep/0/message"
 msgid "Like... she thrashes literally everything with a \\c[1]single hit\\c[0]."
-msgstr ""
+msgstr "Yani... bildiğin her şeyi \\c[1]bir vuruşta\\c[0] çer çöp ediyor."
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/48/thenStep/1/message #111
 #. EventTrigger firstVisit START IF plot.line >= 100
@@ -620,7 +622,7 @@ msgstr ""
 #: data/maps/cargo-ship/bridge.json+entities/21/settings/event/48/thenStep/1/message+%23111
 msgctxt "data/maps/cargo-ship/bridge.json//entities/21/settings/event/48/thenStep/1/message"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/48/thenStep/2/message #109
 #. EventTrigger firstVisit START IF plot.line >= 100
@@ -629,7 +631,7 @@ msgstr ""
 #: data/maps/cargo-ship/bridge.json+entities/21/settings/event/48/thenStep/2/message+%23109
 msgctxt "data/maps/cargo-ship/bridge.json//entities/21/settings/event/48/thenStep/2/message"
 msgid "What?"
-msgstr ""
+msgstr "Ne?"
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/48/thenStep/3/message #110
 #. EventTrigger firstVisit START IF plot.line >= 100
@@ -638,7 +640,7 @@ msgstr ""
 #: data/maps/cargo-ship/bridge.json+entities/21/settings/event/48/thenStep/3/message+%23110
 msgctxt "data/maps/cargo-ship/bridge.json//entities/21/settings/event/48/thenStep/3/message"
 msgid "Yeah..."
-msgstr ""
+msgstr "Evet..."
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/49/message #32
 #. EventTrigger firstVisit START IF plot.line >= 100
@@ -646,7 +648,7 @@ msgstr ""
 #: data/maps/cargo-ship/bridge.json+entities/21/settings/event/49/message+%2332
 msgctxt "data/maps/cargo-ship/bridge.json//entities/21/settings/event/49/message"
 msgid "Right, we'll see about that.\\. Just talk to me later t'day."
-msgstr ""
+msgstr "Pekala, göreceğiz.\\. Bana bugün daha sonra konuşman yeter."
 
 #. data/maps/cargo-ship/bridge.json entities/21/settings/event/50/message #33
 #. EventTrigger firstVisit START IF plot.line >= 100
