@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-22 11:16+0000\n"
-"PO-Revision-Date: 2023-02-19 18:32+0000\n"
+"PO-Revision-Date: 2023-02-20 02:24+0000\n"
 "Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/lang/es/>\n"
 "Language: es_ES\n"
@@ -4900,7 +4900,7 @@ msgstr ""
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/descriptions/maxhp+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/equip/descriptions/maxhp"
 msgid "Maximum amount of Health Points. Determines the damage you can survive and the efficiency of regeneration."
-msgstr "La cantidad máxima de Puntos de Vitalidad. Determina cuanto daño puedes sobrevivir y la eficacia de la regeneración."
+msgstr "La cantidad máxima de Puntos de Vitalidad. Determina cuanto daño puedes recibir y la eficacia de la regeneración."
 
 #. data/lang/sc/gui.en_US.json labels/menu/equip/descriptions/atk #0
 #: data/lang/sc/gui.en_US.json+labels/menu/equip/descriptions/atk+%230
@@ -8764,19 +8764,19 @@ msgstr "En este menú puedes comprar objetos o venderlos si no los necesitas."
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/shop/pages/0/content/3+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/shop/pages/0/content/3"
 msgid "Use \\i[circle-left] and \\i[circle-right] to cycle through the categories or press on the tabs if you use the mouse."
-msgstr "Use \\i[circle-left] y \\i[circle-right] para recorrer las categorías o presione las pestañas si usa el cursor."
+msgstr "Pulsa \\i[circle-left] y \\i[circle-right] para recorrer las categorías o haz click en las pestañas si utilizas el cursor."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/shop/pages/0/content/4 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/shop/pages/0/content/4+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/shop/pages/0/content/4"
 msgid "Press on an item to select the quantity you want to buy. You can use the \\i[up]\\i[left]\\i[down]\\i[right] to change the amount."
-msgstr "Pulse sobre un artículo para seleccionar la cantidad que desea comprar. Puedes usar \\i[up]\\i[left]\\i[down]\\i[right] para cambiar la cantidad."
+msgstr "Pulsa sobre un artículo para seleccionar la cantidad que deseas comprar. Puedes usar \\i[up]\\i[left]\\i[down]\\i[right] para cambiar la cantidad."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/shop/pages/0/content/5 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/shop/pages/0/content/5+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/shop/pages/0/content/5"
 msgid "Press \\i[help2] to open the checkout view when you have at least one item in your cart. Once you sure you want to buy or sell the selected items, press Buy/Sell to confirm."
-msgstr "Presiona \\i[help2] para abrir la vista de pago cuando tengas al menos un objeto en tu carrito. Una vez que estés seguro de tu compra o venta, presione Comprar/Vender para confirmar."
+msgstr "Presiona \\i[help2] para abrir la vista de pago cuando tengas al menos un objeto en tu carrito. Una vez que estés seguro de tu compra o venta, presiona Comprar/Vender para confirmar."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/shop/pages/1/title #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/shop/pages/1/title+%230
@@ -8824,7 +8824,7 @@ msgstr "En este menú puedes guardar tu progreso y ver todos los archivos guarda
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/save/pages/0/content/3+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/save/pages/0/content/3"
 msgid "Scroll through the save slots using \\i[mousewheel] with the mouse or the direction buttons on the gamepad."
-msgstr "Desplácese por las ranuras de guardado usando \\i[mousewheel] con el mouse o los botones de dirección del gamepad."
+msgstr "Desplázate por las ranuras de guardado usando \\i[mousewheel] con el mouse o los botones de dirección del gamepad."
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/save/pages/0/content/4 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/save/pages/0/content/4+%230
@@ -8914,7 +8914,7 @@ msgstr "!!min=-1"
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/load/title+%230
 msgctxt "data/lang/sc/gui.en_US.json//labels/menu/help-texts/load/title"
 msgid "\\c[3]Load Menu\\c[0]"
-msgstr "\\c[3]Menú de cargado\\c[0]"
+msgstr "\\c[3]Menú de Cargado\\c[0]"
 
 #. data/lang/sc/gui.en_US.json labels/menu/help-texts/load/pages/0/content/0 #0
 #: data/lang/sc/gui.en_US.json+labels/menu/help-texts/load/pages/0/content/0+%230
