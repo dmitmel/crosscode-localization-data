@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2023-02-20 02:24+0000\n"
-"Last-Translator: Jose de Andrés <joseanan98@gmail.com>\n"
+"PO-Revision-Date: 2023-02-21 20:32+0000\n"
+"Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/database/es/>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
@@ -12073,7 +12073,7 @@ msgstr "He mejorado mi equipo. Estaría bien si cambiara de aspecto también, pe
 #: data/database.json+commonEvents/all-dng-enter/event/1/thenStep/1/0_0/0/message+%231213
 msgctxt "data/database.json//commonEvents/all-dng-enter/event/1/thenStep/1/0_0/0/message"
 msgid "Lea? Where did you go? Did you just teleport into a dungeon or something?"
-msgstr "¿Lea? ¿Adónde fuiste? ¿Te acabas de teleportar a una mazmorra o algo?"
+msgstr "¿Lea? ¿Adónde fuiste? ¿Te acabas de teletransportar a una mazmorra o algo?"
 
 #. data/database.json commonEvents/all-dng-enter/event/1/thenStep/1/1_0/0/message #15266
 #. IF party.size > 1
@@ -12083,7 +12083,7 @@ msgstr "¿Lea? ¿Adónde fuiste? ¿Te acabas de teleportar a una mazmorra o algo
 #: data/database.json+commonEvents/all-dng-enter/event/1/thenStep/1/1_0/0/message+%2315266
 msgctxt "data/database.json//commonEvents/all-dng-enter/event/1/thenStep/1/1_0/0/message"
 msgid "Lea? This is strange. You just teleported away but we couldn't follow you. Where are you?"
-msgstr "¿Lea? Esto es raro. Te acabas de teleportar pero no te pudimos seguir. ¿Dónde estás?"
+msgstr "¿Lea? Esto es raro. Te acabas de teletransportar pero no te pudimos seguir. ¿Dónde estás?"
 
 #. data/database.json commonEvents/all-dng-enter/event/1/thenStep/1/2_0/0/message #16085
 #. IF party.size > 1
@@ -38982,7 +38982,7 @@ msgstr "Atraviesa \\c[3]la pared helada\\c[0] para atrapar \\c[3]al líder\\c[0]
 #: data/database.json+quests/jungleTrader-1-snowman_thief_1/tasks/3/task+%2313857
 msgctxt "data/database.json//quests/jungleTrader-1-snowman_thief_1/tasks/3/task"
 msgid "Report back to \\c[3]Mrs Basu\\c[0] in the \\c[3]Basin Trader HQ\\c[0]"
-msgstr "Informa a \\c[3]Sra. Basu\\c[0] en la \\c[3]Sede de la Asociación Comercial de la Cuenca\\c[0]"
+msgstr "Informa a la \\c[3]Sra. Basu\\c[0] en la \\c[3]Sede de la Asociación Comercial de la Cuenca\\c[0]"
 
 #. data/database.json quests/jungleTrader-2-snowman_thief_2/hubSettings/location #14202
 #. IF quest.jungleTrader-1-snowman_thief_1.solved && dungeons.shock.beaten && dungeons.wave.beaten
@@ -39037,7 +39037,7 @@ msgstr "Encuentra y derrota al \\c[3]Jefe Karotto\\c[0]"
 #: data/database.json+quests/jungleTrader-2-snowman_thief_2/tasks/3/task+%2314198
 msgctxt "data/database.json//quests/jungleTrader-2-snowman_thief_2/tasks/3/task"
 msgid "Report back to \\c[3]Mrs Basu\\c[0] in the \\c[3]Basin Trader HQ\\c[0]"
-msgstr "Informa a \\c[3]Sra. Basu\\c[0] en \\c[3]Sede de la Asociación Comercial de la Cuenca\\c[0]"
+msgstr "Informa a la \\c[3]Sra. Basu\\c[0] en \\c[3]Sede de la Asociación Comercial de la Cuenca\\c[0]"
 
 #. data/database.json quests/jungleTrader-3-shad_fridge_1/hubSettings/location #16697
 #. IF plot.line >= 32000 && quest.jungleTrader-2-snowman_thief_2.solved && extension.post-game.active
@@ -39122,7 +39122,7 @@ msgstr "Regresa una vez más a \\c[3]Owo'kyari\\c[0] en \\c[3]V'rda Vil Este\\c[
 #: data/database.json+quests/jungleTrader-3-shad_fridge_1/tasks/8/task+%2316705
 msgctxt "data/database.json//quests/jungleTrader-3-shad_fridge_1/tasks/8/task"
 msgid "Report back to \\c[3]Mrs Basu\\c[0] in the \\c[3]Basin Trader HQ\\c[0]"
-msgstr "Informa a \\c[3]Sra. Basu\\c[0] en la \\c[3]Sede de la Asociación Comercial de la Cuenca\\c[0]"
+msgstr "Informa a la \\c[3]Sra. Basu\\c[0] en la \\c[3]Sede de la Asociación Comercial de la Cuenca\\c[0]"
 
 #. data/database.json quests/jungleGreens-1-escort_1/hubSettings/location #13879
 #: data/database.json+quests/jungleGreens-1-escort_1/hubSettings/location+%2313879
@@ -39512,7 +39512,7 @@ msgstr "Habla de nuevo con el \\c[3]Gran Hombre de Negocios\\c[0] en el \\c[3]\\
 #: data/database.json+quests/halloween/tasks/2/task+%238604
 msgctxt "data/database.json//quests/halloween/tasks/2/task"
 msgid "Conduct a test run of the new attraction"
-msgstr "Realizar una prueba de funcionamiento de la nueva atracción"
+msgstr "Realiza una prueba de funcionamiento de la nueva atracción"
 
 #. data/database.json quests/unknown-warrior-4/name #14073
 #: data/database.json+quests/unknown-warrior-4/name+%2314073
@@ -39980,7 +39980,7 @@ msgstr "¡Has demostrado tu habilidad y has superado el desafío! Aunque todaví
 #: data/database.json+quests/jungleAdv-turret_defense_challenge-1/tasks/0/task+%2316111
 msgctxt "data/database.json//quests/jungleAdv-turret_defense_challenge-1/tasks/0/task"
 msgid "Reach \\c[3]500 points\\c[0] in the \\c[3]Turret Defense Challenge\\c[0] in the \\c[3]Grubby Cave\\c[0] on \\c[3]Calm Backyard\\c[0] in \\c[3]\\v[area.jungle.name]\\c[0]"
-msgstr "Alcanza \\c[3]500 puntos\\c[0] en el \\c[3]Desafío de Torreta de Defensa\\c[0] en \\c[3]Cueva Sucia\\c[0] en el \\c[3]Patio Tranquilo\\c[0] en el \\c[3]\\v[area.jungle.name]\\c[0]"
+msgstr "Alcanza \\c[3]500 puntos\\c[0] en el \\c[3]Desafío de la Torreta de Defensa\\c[0] en \\c[3]Cueva Sucia\\c[0] en el \\c[3]Patio Tranquilo\\c[0] en el \\c[3]\\v[area.jungle.name]\\c[0]"
 
 #. data/database.json quests/jungleAdv-turret_defense_challenge-2/hubSettings/location #16106
 #. IF quest.jungleAdv-2-turret_defense_2.solved
@@ -41555,7 +41555,7 @@ msgstr "Recoge \\c[3]\\v[item.88.name]\\c[0], también \\c[3]madera real\\c[0] y
 #: data/database.json+quests/steaks_2/tasks/1/task+%236810
 msgctxt "data/database.json//quests/steaks_2/tasks/1/task"
 msgid "Deliver the items to \\c[3]Ms. Teak\\c[0] \\c[3]near the Weaponstore of \\v[area.rookie-harbor.name]\\c[0]"
-msgstr "Entregar los objetos a la \\c[3]Sra. Teak\\c[0] \\c[3]cerca de la tienda de armas de \\v[area.rookie-harbor.name]\\c[0]"
+msgstr "Entrega los objetos a la \\c[3]Sra. Teak\\c[0] \\c[3]cerca de la tienda de armas de \\v[area.rookie-harbor.name]\\c[0]"
 
 #. data/database.json quests/steaks_3/hubSettings/location #13632
 #. IF quest.steaks_2.solved && dungeons.heat.beaten
@@ -41598,7 +41598,7 @@ msgstr "Recoge un poco de \\c[3]madera vieja\\c[0], \\c[3]miel\\c[0] y \\c[3]man
 #: data/database.json+quests/steaks_3/tasks/1/task+%236816
 msgctxt "data/database.json//quests/steaks_3/tasks/1/task"
 msgid "Deliver the items to \\c[3]Ms. Teak\\c[0] \\c[3]near the Weaponstore of \\v[area.rookie-harbor.name]\\c[0]"
-msgstr "Entregar los objetos a la \\c[3]Sra. Teak\\c[0] \\c[3]cerca de la tienda de armas de \\v[area.rookie-harbor.name]\\c[0]"
+msgstr "Entrega los objetos a la \\c[3]Sra. Teak\\c[0] \\c[3]cerca de la tienda de armas de \\v[area.rookie-harbor.name]\\c[0]"
 
 #. data/database.json quests/console-switch-1/hubSettings/location #16411
 #. IF item.434.amount >= 1
