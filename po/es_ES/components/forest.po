@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2023-02-14 17:45+0000\n"
-"Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
+"PO-Revision-Date: 2023-02-23 03:32+0000\n"
+"Last-Translator: Jose de Andrés <joseanan98@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/forest/es/>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
@@ -3292,7 +3292,7 @@ msgstr "...Toma esta ficha como señal de tu victoria..."
 #: data/maps/forest/caves/spider-cave-01.json+entities/222/settings/npcStates/4/event/0/text+%2327
 msgctxt "data/maps/forest/caves/spider-cave-01.json//entities/222/settings/npcStates/4/event/0/text"
 msgid "...Stay ever vigilant, Seeker..."
-msgstr "...Mantente siempre alerta, Buscador..."
+msgstr "...Mantente siempre alerta, Buscadora..."
 
 #. data/maps/forest/caves/spider-cave-01.json entities/222/settings/npcStates/5/event/quest/1/thenStep/3/text #32
 #. NPC bug
@@ -3919,7 +3919,7 @@ msgstr "Muy bien..."
 #: data/maps/forest/interior/dojo-boss.json+entities/8/settings/npcStates/0/event/quest/6/1/2/message+%2334
 msgctxt "data/maps/forest/interior/dojo-boss.json//entities/8/settings/npcStates/0/event/quest/6/1/2/message"
 msgid "Stay ever vigilant, Seeker."
-msgstr "Mantente siempre alerta, Buscador."
+msgstr "Mantente siempre alerta, Buscadora."
 
 #. data/maps/forest/interior/dojo-boss.json entities/8/settings/npcStates/0/event/quest/6/options/0/label #26
 #. NPC vaga
@@ -4045,7 +4045,7 @@ msgstr "[asiente]"
 #: data/maps/forest/interior/dojo-boss.json+entities/8/settings/npcStates/3/event/9/message+%2354
 msgctxt "data/maps/forest/interior/dojo-boss.json//entities/8/settings/npcStates/3/event/9/message"
 msgid "Stay ever vigilant, Seeker."
-msgstr "Mantente siempre alerta, Buscador."
+msgstr "Mantente siempre alerta, Buscadora."
 
 #. data/maps/forest/interior/dojo-boss.json entities/9/settings/event/2/message #4
 #. EventTrigger EnterRoomWave1 START IF map.enterRoom
@@ -5014,7 +5014,7 @@ msgstr "¿Eh?"
 #: data/maps/forest/interior/inn-01.json+entities/77/settings/dialog/6/event/5/message+%23549
 msgctxt "data/maps/forest/interior/inn-01.json//entities/77/settings/dialog/6/event/5/message"
 msgid "See? Now even this random player here agrees!"
-msgstr "¿Ves? ¡Hasta este jugador al azar está de acuerdo!"
+msgstr "¿Ves? ¡Hasta esta jugadora aleatoria está de acuerdo!"
 
 #. data/maps/forest/interior/inn-01.json entities/77/settings/dialog/6/event/6/message #550
 #. XenoDialog tableFinale SPAWN IF npc.tableChan <= 50
@@ -5198,7 +5198,7 @@ msgstr "¡¡Por fin he podido sincerarme!!"
 #: data/maps/forest/interior/inn-01.json+entities/77/settings/dialog/6/event/47/message+%23572
 msgctxt "data/maps/forest/interior/inn-01.json//entities/77/settings/dialog/6/event/47/message"
 msgid "N-No problem!\\. You definitely seem more happy this way!"
-msgstr "¡N-No hay problema!\\. ¡Se te ve mucho más de esta manera!"
+msgstr "¡N-No hay problema!\\. ¡Se te ve mucho más feliz de esta manera!"
 
 #. data/maps/forest/interior/inn-01.json entities/77/settings/dialog/6/event/48/message #573
 #. XenoDialog tableFinale SPAWN IF npc.tableChan <= 50
@@ -5406,7 +5406,7 @@ msgstr "¡Y no nos arrepentimos! A mi mujer todavía le cuesta acostumbrarse a n
 #: data/maps/forest/interior/inn-01.json+entities/83/settings/dialog/0/text+%23604
 msgctxt "data/maps/forest/interior/inn-01.json//entities/83/settings/dialog/0/text"
 msgid "Now that I think about it, benches in Cross Worlds are very different from other games."
-msgstr "Ahora que lo pienso, las bancas de CrossWorlds son muy diferentes a las de otros juegos."
+msgstr "Ahora que lo pienso, los bancos de CrossWorlds son muy diferentes a las de otros juegos."
 
 #. data/maps/forest/interior/inn-01.json entities/83/settings/dialog/1/text #605
 #. XenoDialog
@@ -5688,7 +5688,7 @@ msgstr "¡Oye, tú!"
 #: data/maps/forest/interior/inn-item.json+entities/20/settings/dialog/2/event/4/message+%23530
 msgctxt "data/maps/forest/interior/inn-item.json//entities/20/settings/dialog/2/event/4/message"
 msgid "Care to spare a poor girl a few thousand credits?"
-msgstr "¿Te importaría ahorrarle a una pobre chica unos cuantos miles de créditos?"
+msgstr "¿Te importaría prestarle a una pobre chica unos cuantos miles de créditos?"
 
 #. data/maps/forest/interior/inn-item.json entities/20/settings/dialog/2/event/5/message #531
 #. XenoDialog regularDiag SPAWN IF !quest.trailblaze-forest.started || quest.trailblaze-forest.currentTask < 2 || quest.trailblaze-forest.solved
@@ -7613,7 +7613,7 @@ msgstr "Mi investigación indicó que la plantilla estaba en algún lugar por aq
 #: data/maps/forest/interior/inn-og-01.json+entities/146/settings/dialog/1/text+%23605
 msgctxt "data/maps/forest/interior/inn-og-01.json//entities/146/settings/dialog/1/text"
 msgid "If I could find it, I could complete my dream of crafting the best Geta ever."
-msgstr "Si pudiera encontrarlo, podría completar mi sueño de fabricar el mejor Geta de la historia."
+msgstr "Si pudiera encontrarla, podría completar mi sueño de fabricar el mejor Geta de la historia."
 
 #. data/maps/forest/interior/inn-og-01.json entities/188/settings/dialog/0/text #614
 #. XenoDialog xenoDaugther1 SPAWN IF map.daugtherPos == 1
@@ -7685,7 +7685,7 @@ msgstr "Aún debo acostumbrarme a las costumbres de su familia..."
 #: data/maps/forest/interior/inn-og-01.json+entities/192/settings/npcStates/0/event/8/message+%23624
 msgctxt "data/maps/forest/interior/inn-og-01.json//entities/192/settings/npcStates/0/event/8/message"
 msgid "One of which is praying for a good day at least once per day."
-msgstr "Una de ellas es rezar al menos una vez al día por un buen día."
+msgstr "Una de ellas es rezar al menos una vez al día para tener un buen día."
 
 #. data/maps/forest/interior/inn-og-01.json entities/192/settings/npcStates/0/event/9/message #625
 #. NPC Inlaw
@@ -9661,7 +9661,7 @@ msgid ""
 "\\i[arrow-e] \\v[area.forest.name] Paths\n"
 msgstr ""
 "\\i[arrow-w] Túnel a \\v[area.autumn-fall.name]\n"
-"\\i[arrow-e] \\v[area.forest.name] Caminos\n"
+"\\i[arrow-e] Caminos de \\v[area.forest.name]\n"
 
 #. data/maps/forest/path-01-entrance.json entities/491/settings/event/2/thenStep/9/message #202
 #. EventTrigger intro
@@ -10557,7 +10557,7 @@ msgstr "Me agradan todos estos faroles.\\. Este lugar tiene muy buena atmósfera
 #: data/maps/forest/path-03.json+entities/837/settings/event/0/message+%23197
 msgctxt "data/maps/forest/path-03.json//entities/837/settings/event/0/message"
 msgid "Wooden arch bridge...\\. Still no laser bridge."
-msgstr "Un puente de madera...\\. Y todavía ni un puente láser."
+msgstr "Un puente de madera...\\. Y todavía ni un puente de luz."
 
 #. data/maps/forest/path-03.json entities/843/settings/event/7/message #198
 #. EventTrigger RescueStart START IF tmp.rescueStart
@@ -12258,7 +12258,7 @@ msgstr "[asiente]"
 #: data/maps/forest/path-04-vaga.json+entities/384/settings/npcStates/1/event/13/message+%2331
 msgctxt "data/maps/forest/path-04-vaga.json//entities/384/settings/npcStates/1/event/13/message"
 msgid "Good. Stay ever vigilant, Seeker."
-msgstr "Bien. Mantente siempre alerta, Buscador."
+msgstr "Bien. Mantente siempre alerta, Buscadora."
 
 #. data/maps/forest/path-04-vaga.json entities/384/settings/npcStates/1/event/14/message #32
 #. NPC vaga
@@ -12438,7 +12438,7 @@ msgstr "Bien. Ahora vete, te veré en el Dojo."
 #: data/maps/forest/path-04-vaga.json+entities/384/settings/npcStates/2/event/quest/22/message+%2365
 msgctxt "data/maps/forest/path-04-vaga.json//entities/384/settings/npcStates/2/event/quest/22/message"
 msgid "Stay ever vigilant, Seeker."
-msgstr "Mantente siempre alerta, Buscador."
+msgstr "Mantente siempre alerta, Buscadora."
 
 #. data/maps/forest/path-04-vaga.json entities/385/settings/event/3/name #67
 #. EventTrigger meetVagabond START IF map.startScene && (!quest.bug-hunting.started && !quest.bug-hunting.solved)
@@ -12478,7 +12478,7 @@ msgstr "La mayoría se ha rendido a estas alturas, no son capaces de controlar e
 #: data/maps/forest/path-04-vaga.json+entities/385/settings/event/8/message+%236
 msgctxt "data/maps/forest/path-04-vaga.json//entities/385/settings/event/8/message"
 msgid "Are you any different, Seeker?"
-msgstr "¿Eres diferente, Buscador?"
+msgstr "¿Acaso tú eres diferente, Buscadora?"
 
 #. data/maps/forest/path-04-vaga.json entities/385/settings/event/9/message #7
 #. EventTrigger meetVagabond START IF map.startScene && (!quest.bug-hunting.started && !quest.bug-hunting.solved)
@@ -12502,7 +12502,7 @@ msgstr "¡...!"
 #: data/maps/forest/path-04-vaga.json+entities/385/settings/event/13/message+%2312
 msgctxt "data/maps/forest/path-04-vaga.json//entities/385/settings/event/13/message"
 msgid "Well, it shall remain to be seen."
-msgstr "Bueno, eso está por verse."
+msgstr "Bueno, eso está por ver."
 
 #. data/maps/forest/path-04-vaga.json entities/385/settings/event/14/message #13
 #. EventTrigger meetVagabond START IF map.startScene && (!quest.bug-hunting.started && !quest.bug-hunting.solved)
@@ -12666,7 +12666,7 @@ msgstr "[asiente]"
 #: data/maps/forest/path-04-vaga.json+entities/385/settings/event/21/accepted/12/message+%2379
 msgctxt "data/maps/forest/path-04-vaga.json//entities/385/settings/event/21/accepted/12/message"
 msgid "Good. Stay ever vigilant, Seeker."
-msgstr "Bien. Mantente siempre alerta, Buscador."
+msgstr "Bien. Mantente siempre alerta, Buscadora."
 
 #. data/maps/forest/path-04-vaga.json entities/385/settings/event/21/accepted/13/message #80
 #. EventTrigger meetVagabond START IF map.startScene && (!quest.bug-hunting.started && !quest.bug-hunting.solved)
@@ -13212,7 +13212,7 @@ msgstr "...Toma esta ficha como señal de tu victoria..."
 #: data/maps/forest/path-05.json+entities/849/settings/npcStates/4/event/1/text+%2347
 msgctxt "data/maps/forest/path-05.json//entities/849/settings/npcStates/4/event/1/text"
 msgid "...Stay ever vigilant, Seeker..."
-msgstr "...Mantente siempre alerta, Buscador..."
+msgstr "...Mantente siempre alerta, Buscadora..."
 
 #. data/maps/forest/path-05.json entities/877/settings/event/14/text #36
 #. EventTrigger timerOut START IF tmp.startChallenge && timers.time.remainingTimeNotNull <= 0 && !tmp.bugFound
@@ -13656,7 +13656,7 @@ msgstr "Espera a que el tubo toque la piedra \\c[3]12 veces\\c[0], luego golpea 
 #: data/maps/forest/path-07.json+entities/548/settings/npcStates/3/event/1/text+%2347
 msgctxt "data/maps/forest/path-07.json//entities/548/settings/npcStates/3/event/1/text"
 msgid "...Stay ever vigilant Seeker..."
-msgstr "...Mantente siempre alerta, Buscador..."
+msgstr "...Mantente siempre alerta, Buscadora..."
 
 #. data/maps/forest/path-07.json entities/578/settings/event/8/text #54
 #. EventTrigger MovedOut START IF tmp.movedOut
@@ -14844,7 +14844,7 @@ msgstr "...Pero ten en cuenta sus trucos..."
 #: data/maps/forest/path-08.json+entities/961/settings/npcStates/2/event/1/text+%2347
 msgctxt "data/maps/forest/path-08.json//entities/961/settings/npcStates/2/event/1/text"
 msgid "...Stay ever vigilant Seeker..."
-msgstr "...Mantente siempre alerta, Buscador..."
+msgstr "...Mantente siempre alerta, Buscadora..."
 
 #. data/maps/forest/path-08.json entities/972/settings/event/7/thenStep/0/message #205
 #. EventTrigger move-3-wrong START IF map.move3Wrong && !quest.bug-hunting-shock.solved && !questVars.forest.bugShock.clear1
