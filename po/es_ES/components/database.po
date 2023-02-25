@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2023-02-24 19:32+0000\n"
+"PO-Revision-Date: 2023-02-25 21:32+0000\n"
 "Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/database/es/>\n"
 "Language: es_ES\n"
@@ -4594,7 +4594,7 @@ msgstr "No..."
 #: data/database.json+commonEvents/sao-duel-pre-fight/event/6/thenStep/5/message+%2317029
 msgctxt "data/database.json//commonEvents/sao-duel-pre-fight/event/6/thenStep/5/message"
 msgid "\"Fighting for\" is like...\\. \"why are you fighting\"...\\. but deep!\n"
-msgstr "\"Para qué peleas\" es como...\\. \"por qué peleas\"...\\. ¡pero profundo!\n"
+msgstr "\"Para qué peleas\" es como...\\. \"por qué peleas\"...\\. ¡pero más intenso!\n"
 
 #. data/database.json commonEvents/sao-duel-pre-fight/event/6/thenStep/6/message #17030
 #. IF g.sao.defeated == 2
@@ -4610,7 +4610,7 @@ msgstr "..."
 #: data/database.json+commonEvents/sao-duel-pre-fight/event/6/thenStep/7/message+%2317031
 msgctxt "data/database.json//commonEvents/sao-duel-pre-fight/event/6/thenStep/7/message"
 msgid "So what is it?\\. Certainly not the sweet, sweet loot and experience, right?"
-msgstr "¿Entonces qué?\\. Ciertamente no el dulce, dulce loot y experiencia, ¿no?"
+msgstr "¿Entonces qué?\\. Ciertamente no las dulces, dulces recompensas ni la experiencia, ¿verdad?"
 
 #. data/database.json commonEvents/sao-duel-pre-fight/event/6/thenStep/8/message #17032
 #. IF g.sao.defeated == 2
@@ -8889,7 +8889,7 @@ msgstr "Oui, estos búfalos son duros en comparación, pero aún así.\\. Me hac
 #: data/database.json+commonEvents/emilie-buffalos-end/event/2/thenStep/0/message+%233296
 msgctxt "data/database.json//commonEvents/emilie-buffalos-end/event/2/thenStep/0/message"
 msgid "I used to see cows every day on my way to school."
-msgstr "Solía ver vacas todos los días camino al colegio."
+msgstr "Solía ver vacas todos los días de camino a la escuela."
 
 #. data/database.json commonEvents/emilie-buffalos-end/event/2/thenStep/1/message #3297
 #. IF party.alive.Emilie
@@ -9984,7 +9984,7 @@ msgstr "Irónicamente, los Pandas solo absorben una pequeña parte de los nutrie
 #: data/database.json+commonEvents/ctron-pandas-end/event/1/thenStep/1/message+%2315894
 msgctxt "data/database.json//commonEvents/ctron-pandas-end/event/1/thenStep/1/message"
 msgid "They barely have spare energy to struggle with fellow pandas...\\. let alone firing homing missiles."
-msgstr "Apenas tienen un poco de energía extra para pelear contra otros pandas...\\. mucho menos para disparar misiles teledirigidos."
+msgstr "Apenas tienen un poco de energía extra para competir contra otros pandas...\\. mucho menos para disparar misiles teledirigidos."
 
 #. data/database.json commonEvents/ctron-seastar-end/event/0/thenStep/0/message #17759
 #. IF party.alive.Glasses
@@ -32613,7 +32613,7 @@ msgid ""
 "The \\c[3]Cross Gear\\c[0] device is used to connect a human to the world of \\c[3]\\v[lore.title.cross-worlds]\\c[0]. Through the \\c[3]\\v[lore.title.com-tech]\\c[0] it is possible to control the character in-game with absolutely zero lag, resulting in great immersion as all senses are tightly connected to the device and thus the game, too.\n"
 "However, the technology used for the gear is still experimental and as such still has issues. A prominent example is the \\c[3]Speech Desynchronisation\\c[0] which happens because of interference between the gear and the \\c[3]\\v[lore.title.avatars]\\c[0] in CrossWorlds."
 msgstr ""
-"El dispositivo \\c[3]Cross Gear\\c[0] se utiliza para conectar a un humano con el mundo de \\c[3]\\v[lore.title.cross-worlds]\\c[0]. A través del \\c[3]\\v[lore.title.com-tech]\\c[0] es posible controlar al personaje en el juego con un lag absolutamente nulo, lo que da lugar a una gran inmersión, ya que todos los sentidos están estrechamente conectados al dispositivo y, por tanto, al juego también.\n"
+"El dispositivo \\c[3]Cross Gear\\c[0] se utiliza para conectar a un humano con el mundo de \\c[3]\\v[lore.title.cross-worlds]\\c[0]. A través del \\c[3]\\v[lore.title.com-tech]\\c[0] es posible controlar al personaje en el juego con mínima latencia, lo que da lugar a una gran inmersión, ya que todos los sentidos están estrechamente conectados al dispositivo y, por tanto, al juego también.\n"
 "Sin embargo, la tecnología utilizada para el equipo es aún experimental y, como tal, todavía tiene problemas. Un ejemplo destacado es la \\c[3]Desincronización del habla\\c[0] que se produce debido a la interferencia entre el equipo y el \\c[3]\\v[lore.title.avatars]\\c[0] en CrossWorlds."
 
 #. data/database.json lore/com-tech/title #2731
@@ -32712,7 +32712,7 @@ msgstr ""
 #: data/database.json+lore/hackerspace/title+%233492
 msgctxt "data/database.json//lore/hackerspace/title"
 msgid "I.H.S.O."
-msgstr "I.H.S.O."
+msgstr "O.I.H.S."
 
 #. data/database.json lore/hackerspace/alternative #14306
 #: data/database.json+lore/hackerspace/alternative+%2314306
@@ -32728,9 +32728,9 @@ msgid ""
 "It's also one of the oldest groups in the galaxy, existing for almost 2000 years in one way or another. \\c[3]\\v[lore.title.dev-company]\\c[0] is just one of many that received help from them.\n"
 "To support the cause, many companies created \"Wanted Lists\" for potential bugs with large bounties for those who can find and fix them."
 msgstr ""
-"El \\c[3]I.H.S.O.\\c[0] es una organización que se dedica a buscar y eliminar todo tipo de exploits y bugs encontrados en los sistemas utilizados por las empresas.\n"
-"También es uno de los grupos más antiguos de la galaxia, ya que existe desde hace casi 2000 años de una forma u otra. \\c[3]\\c[lore.title.dev-company]\\c[0] es sólo uno de los muchos que recibieron ayuda de ellos.\n"
-"Para apoyar la causa, muchas empresas crearon \"Listas de búsqueda\" de posibles bugs con grandes recompensas para aquellos que puedan encontrarlos y arreglarlos."
+"LA \\c[3]O.I.H.S.\\c[0] es una organización que se dedica a buscar y eliminar todo tipo de fallos o errores encontrados en los sistemas utilizados por empresas.\n"
+"También es uno de los grupos más antiguos de la galaxia, ya que existe desde hace casi 2000 años de una forma u otra. \\c[3]\\c[lore.title.dev-company]\\c[0] es sólo uno de los muchos que emplearon sus servicios.\n"
+"Para apoyar la causa, muchas empresas crearon \"Listas de búsqueda\" de posibles fallos con grandes recompensas para aquellos que puedan encontrarlos y arreglarlos."
 
 #. data/database.json lore/logs-header/title #12631
 #: data/database.json+lore/logs-header/title+%2312631
@@ -35037,7 +35037,7 @@ msgstr "El observatorio te reveló su propósito. Aquí los Antiguos miraban las
 #: data/database.json+quests/observatory/tasks/0/task+%2316205
 msgctxt "data/database.json//quests/observatory/tasks/0/task"
 msgid "Ask Hlin about the Observatory in \\c[3]\\v[area.autumn-area.name] - First Scholars HQ\\c[0]"
-msgstr "Pregúntale a Hlin sobre el Observatorio en \\c[3]\\v[area.autumn-area.name] - Primeros Eruditos HQ\\c[0]"
+msgstr "Pregúntale a Hlin sobre el Observatorio en \\c[3]\\v[area.autumn-area.name] - Sede de los Primeros Eruditos\\c[0]"
 
 #. data/database.json quests/observatory/tasks/1/task #16206
 #: data/database.json+quests/observatory/tasks/1/task+%2316206
@@ -36961,31 +36961,31 @@ msgstr "El soldado \\c[3]Bill Masters\\c[0] te asignó una importante misión: D
 #: data/database.json+quests/console-xbox-1/briefing+%2316406
 msgctxt "data/database.json//quests/console-xbox-1/briefing"
 msgid "You retrieved the important military data for the \\v[lore.title.human-government] and also uncovered a secret facility of the \"Heavy Hardware\"-company! Maybe this other new secret facility really exists as well?"
-msgstr "¡Recuperaste los datos militares importantes para \\v[lore.title.human-government] y también descubriste una instalación secreta de la compañía \"Hardware pesado\"! ¿Quizás esta otra nueva instalación secreta realmente exista también?"
+msgstr "¡Recuperaste los datos militares importantes para la \\v[lore.title.human-government] y también descubriste una instalación secreta de la compañía \"Hardware pesado\"! ¿Quizás esta otra nueva instalación secreta realmente exista también?"
 
 #. data/database.json quests/console-xbox-1/tasks/0/task #16443
 #: data/database.json+quests/console-xbox-1/tasks/0/task+%2316443
 msgctxt "data/database.json//quests/console-xbox-1/tasks/0/task"
 msgid "Search for the armed creatures on the \\c[3]Old Plateau\\c[0] in \\c[3]\\v[area.bergen-trails.name]\\c[0]"
-msgstr "Busca las criaturas armadas en \\c[3]Vieja Meseta\\c[0] en \\c[3]\\v[area.bergen-trails.name]\\c[0]"
+msgstr "Busca las criaturas armadas en \\c[3]Vieja Meseta\\c[0] en el \\c[3]\\v[area.bergen-trails.name]\\c[0]"
 
 #. data/database.json quests/console-xbox-1/tasks/1/task #16458
 #: data/database.json+quests/console-xbox-1/tasks/1/task+%2316458
 msgctxt "data/database.json//quests/console-xbox-1/tasks/1/task"
 msgid "Search for the armed creatures at the \\c[3]Bergen Waterfalls\\c[0] in \\c[3]\\v[area.bergen-trails.name]\\c[0]"
-msgstr "Busca las criaturas armadas en las \\c[3]Cascadas de Bergen\\c[0] en \\c[3]\\v[area.bergen-trails.name]\\c[0]"
+msgstr "Busca las criaturas armadas en las \\c[3]Cascadas de Bergen\\c[0] en el \\c[3]\\v[area.bergen-trails.name]\\c[0]"
 
 #. data/database.json quests/console-xbox-1/tasks/2/task #16454
 #: data/database.json+quests/console-xbox-1/tasks/2/task+%2316454
 msgctxt "data/database.json//quests/console-xbox-1/tasks/2/task"
 msgid "Examine the strange device at the \\c[3]Bergen Waterfalls\\c[0] in \\c[3]\\v[area.bergen-trails.name]\\c[0]"
-msgstr "Examina el dispositivo extraño en \\c[3]Cascadas de Bergen\\c[0] en el \\c[3]\\v[area.bergen-trails.name]\\c[0]"
+msgstr "Examina el dispositivo extraño en las \\c[3]Cascadas de Bergen\\c[0] en el \\c[3]\\v[area.bergen-trails.name]\\c[0]"
 
 #. data/database.json quests/console-xbox-1/tasks/3/task #16444
 #: data/database.json+quests/console-xbox-1/tasks/3/task+%2316444
 msgctxt "data/database.json//quests/console-xbox-1/tasks/3/task"
 msgid "Find and enter the \\c[3]Secret Entrance\\c[0] \\c[3]Bergen Waterfalls\\c[0] in \\c[3]\\v[area.bergen-trails.name]\\c[0]"
-msgstr "Encuentra e ingresa la \\c[3]Entrada secreta\\c[0] \\c[3]Cascadas de Bergen\\c[0] en \\c[3]\\v[area.bergen-trails.name]\\c[0]"
+msgstr "Encuentra e ingresa la \\c[3]Entrada secreta\\c[0] en las \\c[3]Cascadas de Bergen\\c[0] en el \\c[3]\\v[area.bergen-trails.name]\\c[0]"
 
 #. data/database.json quests/console-xbox-1/tasks/4/task #16445
 #: data/database.json+quests/console-xbox-1/tasks/4/task+%2316445
@@ -37241,7 +37241,7 @@ msgstr "Marca cada punto de referencia en \\c[3]\\v[area.forest.name]\\c[0]"
 #: data/database.json+quests/trailblaze-forest/tasks/1/task+%2314191
 msgctxt "data/database.json//quests/trailblaze-forest/tasks/1/task"
 msgid "Return to Baxton in \\c[3]\\v[area.forest.name] - Cave Inn\\c[0]"
-msgstr "Regrese a Baxton en \\c[3]\\v[area.forest.name] - Posada de la Cueva\\c[0]"
+msgstr "Regresa a Baxton en \\c[3]\\v[area.forest.name] - Posada de la Cueva\\c[0]"
 
 #. data/database.json quests/trailblaze-forest/tasks/2/task #14187
 #: data/database.json+quests/trailblaze-forest/tasks/2/task+%2314187
@@ -37281,7 +37281,7 @@ msgstr "Pista \"Camino oculto\""
 #: data/database.json+quests/trailblaze-forest/tasks/3/task+%2314192
 msgctxt "data/database.json//quests/trailblaze-forest/tasks/3/task"
 msgid "Return to Baxton in \\c[3]\\v[area.forest.name] - Cave Inn\\c[0]"
-msgstr "Regrese a Baxton en \\c[3]\\v[area.forest.name] - Posada de la Cueva\\c[0]"
+msgstr "Regresa a Baxton en \\c[3]\\v[area.forest.name] - Posada de la Cueva\\c[0]"
 
 #. data/database.json quests/trailblaze-forest/tasks/4/task #14188
 #: data/database.json+quests/trailblaze-forest/tasks/4/task+%2314188
@@ -37396,7 +37396,7 @@ msgstr "Un jugador extraño busca ayuda con un poco de \\c[3]exploración\\c[0],
 #: data/database.json+quests/dekay-quest/briefing+%2316220
 msgctxt "data/database.json//quests/dekay-quest/briefing"
 msgid "You explored quite an extraordinary \\c[3]testing area\\c[0] that no player was ever supposed to see. Also you've defeated an unspeakable horror lurking within! Luckily, no official spotted you in the process."
-msgstr "Exploraste un \\c[3]área de prueba\\c[0] que ningún jugador debería ver jamás. ¡También has derrotado un horror indescriptible que acecha en su interior! Por suerte, ningún moderador te vio hacerlo."
+msgstr "Exploraste un \\c[3]área de prueba\\c[0] que ningún jugador debería ver jamás. ¡También has derrotado un horror indescriptible que acechaba en su interior! Por suerte, ningún moderador te vio hacerlo."
 
 #. data/database.json quests/dekay-quest/tasks/0/task #16232
 #: data/database.json+quests/dekay-quest/tasks/0/task+%2316232
@@ -37826,7 +37826,7 @@ msgstr "La exploración del Templo Árido acabó. Aunque no sabes qué encontras
 #: data/database.json+quests/nomadAdv-3-sandman_tomb_1/tasks/0/task+%2316346
 msgctxt "data/database.json//quests/nomadAdv-3-sandman_tomb_1/tasks/0/task"
 msgid "Revisit the \\c[3]Barren Temple\\c[0] through \\c[3]Torn Road\\c[0] in \\c[3]\\v[area.heat-area.name]\\c[0] and talk with explorer Hira"
-msgstr "Vuelve a visitar el \\c[3]Templo Árido\\c[0] a través de \\c[3]Camino Curvo\\c[0] en \\c[3]\\v[area.heat-area.name]\\c[0] y habla con la exploradora Hira"
+msgstr "Vuelve a visitar el \\c[3]Templo Árido\\c[0] a través del \\c[3]Camino Curvo\\c[0] en \\c[3]\\v[area.heat-area.name]\\c[0] y habla con la exploradora Hira"
 
 #. data/database.json quests/nomadAdv-3-sandman_tomb_1/tasks/1/task #16347
 #: data/database.json+quests/nomadAdv-3-sandman_tomb_1/tasks/1/task+%2316347
@@ -38450,13 +38450,13 @@ msgstr "¡Investigaste el caso de las criaturas diseñadas en \\v[area.heat-area
 #: data/database.json+quests/console-pc-1/tasks/0/task+%2316446
 msgctxt "data/database.json//quests/console-pc-1/tasks/0/task"
 msgid "Search for new species on \\c[3]Overpass\\c[0] in \\c[3]\\v[area.heat-area.name]\\c[0]"
-msgstr "Buscar nuevas especies en \\c[3]Paso Superior\\c[0] en \\c[3]\\v[area.heat-area.name]\\c[0]"
+msgstr "Busca nuevas especies en \\c[3]Paso Superior\\c[0] en \\c[3]\\v[area.heat-area.name]\\c[0]"
 
 #. data/database.json quests/console-pc-1/tasks/1/task #16447
 #: data/database.json+quests/console-pc-1/tasks/1/task+%2316447
 msgctxt "data/database.json//quests/console-pc-1/tasks/1/task"
 msgid "Search for new species on the \\c[3]Long Piece\\c[0] in \\c[3]\\v[area.heat-area.name]\\c[0]"
-msgstr "Busque nuevas especies en \\c[3]Pieza Larga\\c[0] en \\c[3]\\v[area.heat-area.name]\\c[0]"
+msgstr "Busca nuevas especies en \\c[3]Pieza Larga\\c[0] en \\c[3]\\v[area.heat-area.name]\\c[0]"
 
 #. data/database.json quests/console-pc-1/tasks/2/task #16466
 #: data/database.json+quests/console-pc-1/tasks/2/task+%2316466
@@ -38480,7 +38480,7 @@ msgstr "Explora la \\c[3]Instalación Secreta\\c[0]"
 #: data/database.json+quests/console-pc-1/tasks/5/task+%2316434
 msgctxt "data/database.json//quests/console-pc-1/tasks/5/task"
 msgid "Return to \\c[3]Ey'leet\\c[0] in the \\c[3]Market\\c[0] of \\c[3]\\v[area.heat-village.name]\\c[0]"
-msgstr "Regresa a \\c[3]Ey'leet\\c[0] en el \\c[3]Mercado\\c[0] de \\c[3]\\v[area.heat-village.name]\\c[0]"
+msgstr "Regresa con \\c[3]Ey'leet\\c[0] en el \\c[3]Mercado\\c[0] de \\c[3]\\v[area.heat-village.name]\\c[0]"
 
 #. data/database.json quests/infestation-1/name #13657
 #: data/database.json+quests/infestation-1/name+%2313657
@@ -40047,19 +40047,19 @@ msgstr "Finalmente te enteraste de los hijos de Dkar. Resulta que asumió que se
 #: data/database.json+quests/unknown-warrior-5/tasks/0/task+%2316193
 msgctxt "data/database.json//quests/unknown-warrior-5/tasks/0/task"
 msgid "Find the \\c[3]\\v[item.515.name]\\c[0] in \\c[3]\\v[area.forest.name]\\c[0]"
-msgstr "Encuentra \\c[3]\\v[item.515.name]\\c[0] en \\c[3]\\v[area.forest.name]\\c[0]"
+msgstr "Encuentra los \\c[3]\\v[item.515.name]\\c[0] en \\c[3]\\v[area.forest.name]\\c[0]"
 
 #. data/database.json quests/unknown-warrior-5/tasks/1/task #16194
 #: data/database.json+quests/unknown-warrior-5/tasks/1/task+%2316194
 msgctxt "data/database.json//quests/unknown-warrior-5/tasks/1/task"
 msgid "Hand over the \\v[item.515.name] to D'Kar in \\c[3]\\v[area.rhombus-sqr.name] - Books 'n Worms\\c[0]"
-msgstr "Entrega el \\v[item.515.name] a D'Kar en \\c[3]\\v[area.rhombus-sqr.name] -Libros y Gusanos\\c[0]"
+msgstr "Entrega los \\v[item.515.name] a D'Kar en \\c[3]\\v[area.rhombus-sqr.name] - Libros y Gusanos\\c[0]"
 
 #. data/database.json quests/unknown-warrior-5/tasks/2/task #16195
 #: data/database.json+quests/unknown-warrior-5/tasks/2/task+%2316195
 msgctxt "data/database.json//quests/unknown-warrior-5/tasks/2/task"
 msgid "Meet D'Kar at the \\c[3]Observatory in \\v[area.autumn-area.name]\\c[0]"
-msgstr "Reúnase con D'Kar en el \\c[3]Observatorio en \\v[area.autumn-area.name]\\c[0]"
+msgstr "Reúnete con D'Kar en el \\c[3]Observatorio en \\v[area.autumn-area.name]\\c[0]"
 
 #. data/database.json quests/seizui-quest/hubSettings/location #16320
 #. IF plot.line >= 44400
@@ -41617,13 +41617,13 @@ msgstr "Un Cambio de Altitud"
 #: data/database.json+quests/console-switch-1/person+%2316413
 msgctxt "data/database.json//quests/console-switch-1/person"
 msgid "Joe the Younger"
-msgstr "Joe el Joven"
+msgstr "Joe el más Joven"
 
 #. data/database.json quests/console-switch-1/description #16414
 #: data/database.json+quests/console-switch-1/description+%2316414
 msgctxt "data/database.json//quests/console-switch-1/description"
 msgid "The Falldiver pioneer \\c[3]Joe the Younger\\c[0] talks about seeing a thus unknown species of \\c[3]Flying type \\v[combat.name.hedgehog]s\\c[0]. You should investigate and find proof of his discovery!"
-msgstr "El pionero de Caidalero \\c[3]Joe el Joven\\c[0] habla de haber visto una especie desconocida de \\c[3]\\v[combat.name.hedgehog]s Voladores\\c[0]. ¡Deberías investigar y encontrar pruebas de su descubrimiento!"
+msgstr "El pionero de Caidalero \\c[3]Joe el más Joven\\c[0] dice haber visto una especie desconocida de \\c[3]\\v[combat.name.hedgehog]s Voladores\\c[0]. ¡Deberías investigar y encontrar pruebas de su descubrimiento!"
 
 #. data/database.json quests/console-switch-1/briefing #16415
 #: data/database.json+quests/console-switch-1/briefing+%2316415
@@ -41635,13 +41635,13 @@ msgstr "¡Encontraste pruebas de la existencia del \\c[3]tipo volador \\v[combat
 #: data/database.json+quests/console-switch-1/tasks/0/task+%2316439
 msgctxt "data/database.json//quests/console-switch-1/tasks/0/task"
 msgid "Search for new species on \\c[3]Off Road 2\\c[0] in \\c[3]\\v[area.autumn-area.name]\\c[0]"
-msgstr "Busque nuevas especies en \\c[3]Desvío 2\\c[0] en \\c[3]\\v[area.autumn-area.name]\\c[0]"
+msgstr "Busca nuevas especies en \\c[3]Desvío 2\\c[0] en \\c[3]\\v[area.autumn-area.name]\\c[0]"
 
 #. data/database.json quests/console-switch-1/tasks/1/task #16440
 #: data/database.json+quests/console-switch-1/tasks/1/task+%2316440
 msgctxt "data/database.json//quests/console-switch-1/tasks/1/task"
 msgid "Search for new species on the \\c[3]Secluded Path\\c[0] in \\c[3]\\v[area.autumn-fall.name]\\c[0]"
-msgstr "Busque nuevas especies en \\c[3]Camino Aislado\\c[0] en \\c[3]\\v[area.autumn-fall.name]\\c[0]"
+msgstr "Busca nuevas especies en \\c[3]Camino Aislado\\c[0] en \\c[3]\\v[area.autumn-fall.name]\\c[0]"
 
 #. data/database.json quests/console-switch-1/tasks/2/task #16457
 #: data/database.json+quests/console-switch-1/tasks/2/task+%2316457
@@ -41665,7 +41665,7 @@ msgstr "Explora la \\c[3]instalación secreta\\c[0]"
 #: data/database.json+quests/console-switch-1/tasks/5/task+%2316416
 msgctxt "data/database.json//quests/console-switch-1/tasks/5/task"
 msgid "Return to \\c[3]Joe the Younger\\c[0] in the \\c[3]Rookie Harbor Inn\\c[0]"
-msgstr "Vuelve con \\c[3]Joe el Joven\\c[0] en la \\c[3]Posada del Puerto Recluta\\c[0]"
+msgstr "Vuelve con \\c[3]Joe el más Joven\\c[0] en la \\c[3]Posada del Puerto Recluta\\c[0]"
 
 #. data/database.json shops/testshop/name #664
 #: data/database.json+shops/testshop/name+%23664
