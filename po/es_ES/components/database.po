@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-19 22:43+0000\n"
-"PO-Revision-Date: 2023-02-27 00:21+0000\n"
+"PO-Revision-Date: 2023-02-27 23:55+0000\n"
 "Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/database/es/>\n"
 "Language: es_ES\n"
@@ -3098,7 +3098,7 @@ msgstr "Balcón del Cruce Central"
 #: data/database.json+areas/rhombus-sqr/landmarks/crosscentralTop/description+%23835
 msgctxt "data/database.json//areas/rhombus-sqr/landmarks/crosscentralTop/description"
 msgid "The Balcony right above the main teleportation hub of CrossWorlds."
-msgstr "El balcón justo encima del principal centro de teleportación de CrossWorlds."
+msgstr "El balcón justo encima del principal centro de teletransportación de CrossWorlds."
 
 #. data/database.json areas/rhombus-sqr/landmarks/questhub/name #17829
 #: data/database.json+areas/rhombus-sqr/landmarks/questhub/name+%2317829
@@ -3158,7 +3158,7 @@ msgstr "Cruce Central"
 #: data/database.json+areas/rhombus-sqr/landmarks/crosscentralInner/description+%23837
 msgctxt "data/database.json//areas/rhombus-sqr/landmarks/crosscentralInner/description"
 msgid "The main teleportation hub of CrossWorlds and the central entrance to Rhombus Square."
-msgstr "El principal centro de teleportación de CrossWorlds y la entrada central a Plaza Rombo."
+msgstr "El principal centro de teletransportación de CrossWorlds y la entrada central a Plaza Rombo."
 
 #. data/database.json areas/rookie-harbor/name #246
 #: data/database.json+areas/rookie-harbor/name+%23246
@@ -10292,7 +10292,7 @@ msgstr "¿Estás seguro? Se meten en la tierra como si fuera agua, ¿non?"
 #: data/database.json+commonEvents/ctr-emil-drillertoise-end/event/0/thenStep/3/message+%2312044
 msgctxt "data/database.json//commonEvents/ctr-emil-drillertoise-end/event/0/thenStep/3/message"
 msgid "They are called Driller\\c[3]toise\\c[0]..."
-msgstr "Se llaman Taladr\\c[3]ortugas\\c[0]..."
+msgstr "Se llaman \\c[3]Taladro\\c[0]rtugas..."
 
 #. data/database.json commonEvents/ctr-emil-drillertoise-end/event/0/thenStep/4/message #12045
 #. IF party.alive.Glasses && party.alive.Emilie
@@ -24106,7 +24106,7 @@ msgstr "Flor de Cresta Omega"
 #: data/database.json+drops/forest-bush-special/subArea+%2313431
 msgctxt "data/database.json//drops/forest-bush-special/subArea"
 msgid "Rarely found everywhere in higher places. "
-msgstr "Se encuentra raramente en todos lados en tierras altas. "
+msgstr "Se encuentra raramente en tierras altas. "
 
 #. data/database.json drops/forest-crystal-1/name #13502
 #: data/database.json+drops/forest-crystal-1/name+%2313502
@@ -24574,7 +24574,7 @@ msgstr "Planta Controlada por Agua"
 #: data/database.json+enemies/jungle.plant/descriptions/0/text+%23-3
 msgctxt "data/database.json//enemies/jungle.plant/descriptions/0/text"
 msgid "Believe it or not this plant is controlled by sentient water. Researchers believe that NANO-MACHINES have concentrated into a puddle of water which jumped to a plant to form this being. It may look vicious but will only attack when provoked. Using the embedded NANO-MACHINES it can use wave teleportation to trick its enemies and attack from behind. "
-msgstr "Créalo o no, esta planta es controlada por agua viva. Los investigadores creen que unas NANO-MÁQUINAS se han concentrado en un pozo de agua que saltó a la planta para formar este ser. Puede parecer vicioso, pero solo atacará si es provocado. Utilizando las NANO-MÁQUINAS puede usar la teleportación de pulso para engañar a sus enemigos y atacar por atrás. "
+msgstr "Créalo o no, esta planta es controlada por agua viva. Los investigadores creen que unas NANO-MÁQUINAS se han concentrado en un pozo de agua que saltó a la planta para formar este ser. Puede parecer vicioso, pero solo atacará si es provocado. Utilizando las NANO-MÁQUINAS puede usar la teletransportación de pulso para engañar a sus enemigos y atacar por atrás. "
 
 #. data/database.json enemies/jungle.special.quest_td_plant_1/name #13760
 #: data/database.json+enemies/jungle.special.quest_td_plant_1/name+%2313760
@@ -24599,7 +24599,7 @@ msgstr ""
 "Un pariente cercado al \\c[3]\\v[combat.name.jungle/plant]\\c[0] normal, este espécimen prefiere vivir bajo tierra. Usualmente tienen una conexión cercana a puntos intensivos de poder Antiguo que ansían proteger.\n"
 "Uno pensaría que una planta como esta tendría dificultades para sobrevivir sin luz del Sol directa, pero se compensa con una alta concentración de energía del Camino y una dieta de nutritivos insectos de cueva.\n"
 "\n"
-"Cabe aclarar su abilidad para \\c[3]sentir disparos de torreta\\c[0] y \\c[3]esquivarlos\\c[0] usando la teleportación. \\c[3]No puede mantener su escudo mientras lo hace\\c[0], así que un \\c[3]poderoso proyectil puede perturbar su balance en ese periodo\\c[0]."
+"Cabe aclarar su abilidad para \\c[3]sentir disparos de torreta\\c[0] y \\c[3]esquivarlos\\c[0] usando la teletransportación. \\c[3]No puede mantener su escudo mientras lo hace\\c[0], así que un \\c[3]poderoso proyectil puede perturbar su balance en ese periodo\\c[0]."
 
 #. data/database.json enemies/jungle.special.plant-hidden-shock/name #16077
 #: data/database.json+enemies/jungle.special.plant-hidden-shock/name+%2316077
@@ -24643,7 +24643,7 @@ msgid ""
 "Despite that it is pretty weak when fought alone and will not even attack if not startled. In larger groups however it can quickly overwhelm you with group attacks. Use Combat Arts to quickly dispatch them!"
 msgstr ""
 "No puede no tenerse una baba en un RPG, ¿no? Bueno, ¡esta no es una baba! El núcleo de esta criatura es una brillante luz dentro de su masa gelatinosa, totalmente diferente.\n"
-"A pesar de eso es bastante débil cuando pelea sí solo, y ni siquiera atacará si no es provocado. Aunque en grandes grupos pueden fácilmente sobrepasarte. ¡Utiliza artes de combate para quitártelos de encima rápidamente!"
+"A pesar de eso es bastante débil cuando pelea por sí solo, y ni siquiera atacará si no es provocado. Aunque en grandes grupos pueden fácilmente sobrepasarte. ¡Utiliza artes de combate para quitártelos de encima rápidamente!"
 
 #. data/database.json enemies/jungle.blob-wave/name #8733
 #: data/database.json+enemies/jungle.blob-wave/name+%238733
@@ -24766,7 +24766,7 @@ msgstr "Ser Fantasmático"
 #: data/database.json+enemies/jungle.ghost/descriptions/0/text+%23-6
 msgctxt "data/database.json//enemies/jungle.ghost/descriptions/0/text"
 msgid "Born from nightmares the \\v[combat.name.jungle/ghost] will use shock elemental attacks to quickly attack and dodge away, seemingly phasing through your attacks. After using its bolt attack it will cage itself in walls. Use compressed wave balls to stun it, which reveals the actual enemy: A cursed stone that feeds on the bad dreams of the Shad."
-msgstr "Nacido de las pesadillas, el \\v[combat.name.jungle/ghost] utilizará ataques de Electro para atacar y esquivar rápidamente, dando la ilusión de que atraviesa tus ataques. Luego de su ataque de Rayo, se encerrará a si mismo en una celda de paredes. Utiliza bolas de Pulso comprimidas para aturdirlo, lo que revela el verdadero enemigo: Una piedra maldita que se alimenta de las pesadillas de los Shad."
+msgstr "Nacido de las pesadillas, el \\v[combat.name.jungle/ghost] utilizará ataques de Rayo para atacar y esquivar rápidamente, dando la ilusión de que atraviesa tus ataques. Luego de su ataque de Rayo, se encerrará a si mismo en una celda de paredes. Utiliza bolas de Pulso comprimidas para aturdirlo, lo que revela el verdadero enemigo: Una piedra maldita que se alimenta de las pesadillas de los Shad."
 
 #. data/database.json enemies/jungle.special.ghost-toxic/name #17820
 #: data/database.json+enemies/jungle.special.ghost-toxic/name+%2317820
@@ -25050,7 +25050,7 @@ msgstr "Desconocido"
 #: data/database.json+enemies/arid.virus-heat/descriptions/0/text+%23-9
 msgctxt "data/database.json//enemies/arid.virus-heat/descriptions/0/text"
 msgid "A version of the \\v[combat.name.arid/virus-neutral] that uses Heat based attacks. It uses the neutral Viruses as pawns to attack its enemies. However this is also its weak spot. Once the neutral ones are stunned, push them into the Heat Virus to break their shield."
-msgstr "Una versión del \\v[combat.name.arid/virus-neutral] que usa ataques de Fuego. Utiliza a los Virus Neutrales como peones para atacar a sus enemigos. Sin embargo, ese también es su punto débil. Una ve que los virus neutrales han sido aturdidos, empújalos al Virus de Fuego para romper su escudo."
+msgstr "Una versión del \\v[combat.name.arid/virus-neutral] que usa ataques de Fuego. Utiliza a los Virus Neutrales como peones para atacar a sus enemigos. Sin embargo, ese también es su punto débil. Una vez que los virus neutrales han sido aturdidos, empújalos al Virus de Fuego para romper su escudo."
 
 #. data/database.json enemies/arid.virus-cold/name #13461
 #: data/database.json+enemies/arid.virus-cold/name+%2313461
@@ -25068,7 +25068,7 @@ msgstr "Desconocido"
 #: data/database.json+enemies/arid.virus-cold/descriptions/0/text+%23-9
 msgctxt "data/database.json//enemies/arid.virus-cold/descriptions/0/text"
 msgid "A version of the \\v[combat.name.arid/virus-neutral] that uses Cold based attacks. It uses the neutral Viruses as pawns to attack its enemies. However this is also its weak spot. Once the neutral ones are stunned, push them into the Cold Virus to break their shield."
-msgstr "Una versión del \\v[combat.name.arid/virus-neutral] que usa ataques de Hielo. Utiliza a los Virus Neutrales como peones para atacar a sus enemigos. Sin embargo, ese también es su punto débil. Una ve que los virus neutrales han sido aturdidos, empújalos al Virus de Hielo para romper su escudo."
+msgstr "Una versión del \\v[combat.name.arid/virus-neutral] que usa ataques de Hielo. Utiliza a los Virus Neutrales como peones para atacar a sus enemigos. Sin embargo, ese también es su punto débil. Una vez que los virus neutrales han sido aturdidos, empújalos al Virus de Hielo para romper su escudo."
 
 #. data/database.json enemies/arid.dice-mage/name #13462
 #: data/database.json+enemies/arid.dice-mage/name+%2313462
@@ -25988,7 +25988,7 @@ msgid ""
 "This sub-species of the \\v[combat.name.meerkat] wears red headphones instead of green ones. It also shows a more aggressive behavior towards aggressors  by throwing flaming stones at them instead of normal ones.\n"
 "Contrary to popular belief the music it's listening to is smooth jazz."
 msgstr ""
-"Esta sub-especie de la \\v[combat.name.meerkat] usa auriculares rojos, en vez de verdes. También tiene un comportamiento más agresivo a los agresores, ya que tira piedras en llamas en vez de piedras normales.\n"
+"Esta sub-especie de la \\v[combat.name.meerkat] usa auriculares rojos, en vez de verdes. También tiene un comportamiento más agresivo con sus agresores, ya que tira piedras en llamas en vez de piedras normales.\n"
 "Contrario a la creencia popular, la música que escucha es jazz suave."
 
 #. data/database.json enemies/autumn-fall.meerkat-fall/name #5941
@@ -26369,7 +26369,7 @@ msgstr "El Mejor Ave"
 #: data/database.json+enemies/minibosses.penguin-rapper/descriptions/0/text+%23-9
 msgctxt "data/database.json//enemies/minibosses.penguin-rapper/descriptions/0/text"
 msgid "A rare type of \\c[3]Pengpeng\\c[0] that set up a den deep in the mountains of \\c[3]Bergen Trail\\c[0]. When approached it immediately thinks that you want to steal its flow and jumps up to its \"stage\". It will summon Pengpengs and command them to do different attacks based on its temper. Anger it by defeating all Pengpengs to make it jump down."
-msgstr "Un tipo raro de \\c[3]Pingping\\c[0] que ha establecido una guarida en lo profundo de las montañas del \\c[3]Sendero de Bergen\\c[0]. Cuando se le aproxima inmediatamente piensa que te quieres robar su \"flow\" y salta directamente a su escenario. Desde ahí, invocará a otros Pingpings y los guiará para hacer distintos ataques de acuerdo a su tempo. Hazlo enojar eliminando a sus Pingpings para hacerlo bajar."
+msgstr "Un tipo raro de \\c[3]Pingping\\c[0] que ha establecido una guarida en lo profundo de las montañas del \\c[3]Sendero de Bergen\\c[0]. Si te aproximas, inmediatamente cree que te quieres robar su \"flow\" y salta directamente a su escenario. Desde ahí, invocará a otros Pingpings y los guiará para hacer distintos ataques de acuerdo a su tempo. Hazlo enojar eliminando a sus Pingpings para hacerlo bajar."
 
 #. data/database.json enemies/goat/name #56
 #: data/database.json+enemies/goat/name+%2356
@@ -26615,7 +26615,7 @@ msgid ""
 "This more disciplined variant of the \\c[3]\\v[combat.name.heat/scorpion]\\c[0] has been equipped with a light, back-carried artillery launcher.\n"
 "Because the pincers and stinger weren't already scary enough, apparently."
 msgstr ""
-"Esta variante más disciplinada del \\c[3]\\c[combat.name.heat/scorpion]\\c[0] ha sido equipada con un lanzador de artillería ligero que se lleva a la espalda.\n"
+"Esta variante más disciplinada del \\c[3]\\v[combat.name.heat/scorpion]\\c[0] ha sido equipada con un lanzador de artillería ligero que se lleva a la espalda.\n"
 "Porque las pinzas y el aguijón no eran ya lo suficientemente aterradores, al parecer."
 
 #. data/database.json enemies/heat.sandshark/name #4060
@@ -26652,7 +26652,7 @@ msgstr "Pez Fantasma"
 #: data/database.json+enemies/minibosses.ghost-sandshark/descriptions/0/text+%23-7
 msgctxt "data/database.json//enemies/minibosses.ghost-sandshark/descriptions/0/text"
 msgid "A ghostly image formed by the \\v[combat.name.minibosses/cursed-sandshark]. They can't be hurt but you can interrupt their attacks to keep them off you for a while."
-msgstr "Una imagen fantasmagórica formada por los \\v[combat.name.minibosses/cursed-sandshark]. No se les puede hacer daño, pero puedes interrumpir sus ataques para mantenerlos alejados de ti durante un tiempo."
+msgstr "Una imagen fantasmagórica formada por la \\v[combat.name.minibosses/cursed-sandshark]. No se les puede hacer daño, pero puedes interrumpir sus ataques para mantenerlos alejados de ti durante un tiempo."
 
 #. data/database.json enemies/minibosses.cursed-sandshark/name #13517
 #: data/database.json+enemies/minibosses.cursed-sandshark/name+%2313517
@@ -26694,9 +26694,9 @@ msgid ""
 "That does not mean they don't fight! Getting too chummy with them will make them use a stomp attack or throw big stones. \n"
 "A good tactic is to look away from it and use walls to bounce your balls off and hit it as it will be above ground."
 msgstr ""
-"¿Es una piedra o no? Cuando los humanos llegaron por primera vez a \\c[3]\\c[area.heat-area.name]\\c[0] estos reptiles eran difíciles de distinguir, ya que escarbaban bajo tierra y usaban su espalda rocosa para fingir ser una piedra. \n"
+"¿Es una piedra o no? Cuando los humanos llegaron por primera vez a \\c[3]\\v[area.heat-area.name]\\c[0] estos reptiles eran difíciles de distinguir, ya que escarbaban bajo tierra y usaban su espalda rocosa para fingir ser una piedra. \n"
 "Eso no significa que no luchen. Si te confías, te harán un pisotón o lanzarán grandes piedras. \n"
-"Una buena táctica es mirar hacia otro lado y utilizar las paredes para hacer rebotar tus bolas y golpearlas, ya que estarán por encima del suelo."
+"Una buena táctica es mirar hacia otro lado y utilizar las paredes para hacer rebotar tus bolas y golpearles, ya que estarán por encima del suelo."
 
 #. data/database.json enemies/heat.special.drillertoise-quest-heatAdv-1/name #8721
 #: data/database.json+enemies/heat.special.drillertoise-quest-heatAdv-1/name+%238721
@@ -26792,7 +26792,7 @@ msgid ""
 "This bird is often described as the phoenix of \\c[3]\\v[area.heat-area.name]\\c[0]. Until provoked they will usually just fly around and only prey on deceased animals. \n"
 "If you however choose to attack them... get ready for all their flaming wrath. They can use their jet turbines to boost into a flaming dive attack. If you time your guard you can counter and leave them open for big damage! Otherwise you better keep your distance and use ranged attacks whenever you see an opening."
 msgstr ""
-"Esta ave es descrito como el fénix de \\c[3]\\v[area.heat-area.name]\\c[0]. Amenos que sean provocados, por lo general solo volarán y solo se alimentarán de animales muertos.\n"
+"Este ave es descrito como el fénix del \\c[3]\\v[area.heat-area.name]\\c[0]. Amenos que sean provocados, por lo general solo volarán y solo se alimentarán de animales muertos.\n"
 "Sin embargo, si eliges atacarlos... prepárate para toda su ira llameante. Pueden usar sus turbinas para impulsar un ataque en picado en llamas. ¡Si bloqueas correctamente, puedes contraatacar y dejarlos abiertos para un gran daño! Sino, es mejor que uses ataques a distancia cada vez que veas la oportunidad."
 
 #. data/database.json enemies/heat.special.volturbine-cave/name #10299
@@ -26837,7 +26837,7 @@ msgid ""
 "Consequently cold attacks work pretty well against them. Use this in combination with attracting them to poles charged with heat to stun them and get them on the ground!"
 msgstr ""
 "Estas polillas no solo arrojan llamas de sus ojos y viven dentro del \\c[3]\\v[area.heat-dng.name]\\c[0], sino que también se sienten atraídas por los postes elementales cuando están cargadas de calor. Esa es una dedicación seria al fuego mismo.\n"
-"En consecuencia, los ataques fríos funcionan bastante bien contra ellos. ¡Usa esto en combinación con atraerlos a postes cargados de calor para aturdirlos y tirarlos al suelo!"
+"En consecuencia, los ataques fríos funcionan bastante bien contra ellas. ¡Ten esto en cuenta y atráelas a los postes cargados con fuego para aturdirlas y derribarlas al suelo!"
 
 #. data/database.json enemies/heat.darth-moth/name #4223
 #: data/database.json+enemies/heat.darth-moth/name+%234223
@@ -26855,7 +26855,7 @@ msgstr "Polilla"
 #: data/database.json+enemies/heat.darth-moth/descriptions/0/text+%23-3
 msgctxt "data/database.json//enemies/heat.darth-moth/descriptions/0/text"
 msgid "A mutation of the common \\v[combat.name.heat/moth] that has somehow gained the ability to shoot a laser from its eye. That's right, a laser. They're also not fooled easily by the same tricks you could use against its weaker kind. However it still is very vulnerable to cold attacks. Best wait for an opening to throw some icy balls at them."
-msgstr "Una mutación del \\v[combat.name.heat/moth] que de alguna manera ha ganado la capacidad de disparar un láser desde su ojo. Así es, un láser. Tampoco se dejan engañar fácilmente por los mismos trucos que podrías usar contra su tipo más débil. Sin embargo, todavía es muy vulnerable a los ataques de frío. Mejor espera a que haya una oportunidad para lanzarles algunas bolas heladas."
+msgstr "Una mutación de la \\v[combat.name.heat/moth] que de alguna manera ha ganado la capacidad de disparar un láser desde su ojo. Así es, un láser. Tampoco se dejan engañar fácilmente por los mismos trucos que podrías usar contra su tipo más débil. Sin embargo, todavía es muy vulnerable a los ataques de frío. Mejor espera a que haya una oportunidad para lanzarles algunas bolas heladas."
 
 #. data/database.json enemies/heat.special.sand-moth-1/name #16357
 #: data/database.json+enemies/heat.special.sand-moth-1/name+%2316357
@@ -26878,7 +26878,7 @@ msgid ""
 "It's extremely agile and will dodge all attacks thrown at it unless distracted by firing it's powerful guided laserbeam.\n"
 "It might, however, be somewhat easily confused by targets that quickly vanish from its line of sight."
 msgstr ""
-"Una variante antigua del \\v[combat.name.heat/moth] que se siente bien en lugares secos. Es todo un aficionado a la arena, prefiriendo la sensación gruesa y áspera a las texturas que pueden ser más suaves y tersas.\n"
+"Una variante antigua de la \\v[combat.name.heat/moth] que se siente a gusto en lugares secos. Es toda una aficionada a la arena, prefiriendo la sensación gruesa y áspera a texturas más suaves y tersas.\n"
 "\n"
 "Es extremadamente ágil y esquivará todos los ataques que se le lancen a menos que se distraiga disparando su poderoso rayo láser guiado.\n"
 "También podría confundirse fácilmente con objetivos que desaparecen rápidamente de su línea de visión."
@@ -27300,7 +27300,7 @@ msgstr "Simio Hermoso"
 #: data/database.json+enemies/jungle.ape-boss/descriptions/0/text+%23-8
 msgctxt "data/database.json//enemies/jungle.ape-boss/descriptions/0/text"
 msgid "Born atop a mountain from a magic stone, this wise ape serves as the caretaker of both the \\c[3]\\c[3]\\v[area.tree-dng.name]\\c[0]\\c[0] and the \\c[3]\\v[combat.name.jungle/whale-boss]\\c[0]. He will test each Seeker to make sure only the worthy acquire the \\c[3]\\v[item.410.name]\\c[0]. He wields a long staff and flies around on a puffy little cloud. Although his job is to test Seekers, it seems he enjoys a good and honest fight."
-msgstr "Nacido en la cima de una montaña de una piedra mágica, este simio sabio es el cuidador de \\c[3]\\c[3]\\v[area.tree-dng.name]\\c[0]\\c[0] y el \\c[3]\\v[combat.name.jungle/whale-boss]\\c[0]. Probará a cada Buscador para asegurarse de que solo los dignos adquieran el \\c[3]\\v[item.410.name]\\c[0]. Empuña un bastón largo y vuela alrededor de una pequeña nube hinchada. Aunque su trabajo es poner a prueba a los Buscadores, parece que disfruta de una pelea buena y honesta."
+msgstr "Nacido en la cima de una montaña de una piedra mágica, este simio sabio es el cuidador del \\c[3]\\v[area.tree-dng.name]\\c[0] y el \\c[3]\\v[combat.name.jungle/whale-boss]\\c[0]. Probará a cada Buscador para asegurarse de que solo los dignos adquieran la \\c[3]\\v[item.410.name]\\c[0]. Empuña un bastón largo y vuela alrededor de una pequeña nube hinchada. Aunque su trabajo es poner a prueba a los Buscadores, parece que disfruta de una pelea buena y honesta."
 
 #. data/database.json enemies/beach.ape-beach/name #18360
 #: data/database.json+enemies/beach.ape-beach/name+%2318360
@@ -27322,7 +27322,7 @@ msgid ""
 "Though at first glance this lanky primate might lack in style and grace, he is actually much more powerful than his distant cousin, the \\v[3]\\v[combat.name.jungle/ape-boss]\\c[0]. In fact, he is able to skillfully wield \\c[3]all four elements\\c[0], a feat almost unheard of, outside of experienced \\v[lore.title.seeker]s."
 msgstr ""
 "Un simio poderoso que actúa como guardián invicto y campeón de \\c[3]\\v[area.beach.name]\\c[0]. Esta tarea lo ha dejado con una eternidad de tiempo para reflexionar sobre el significado del universo y en este punto está totalmente aburrido y anhela una emocionante pelea.\n"
-"Aunque a primera vista este primate larguirucho puede carecer de estilo y gracia, en realidad es mucho más poderoso que su primo lejano, el \\v[3]\\v[combat.name.jungle/ape-boss]\\c[0]. De hecho, es capaz de manejar hábilmente \\c[3]los cuatro elementos\\c[0], una hazaña casi inaudita, incluso para los \\v[lore.title.seeker]es experimentados."
+"Aunque a primera vista este primate larguirucho puede carecer de estilo y gracia, en realidad es mucho más poderoso que su primo lejano, el \\c[3]\\v[combat.name.jungle/ape-boss]\\c[0]. De hecho, es capaz de manejar hábilmente \\c[3]los cuatro elementos\\c[0], una hazaña casi inaudita, incluso para los \\v[lore.title.seeker]es experimentados."
 
 #. data/database.json enemies/jungle.whale-boss/name #10550
 #: data/database.json+enemies/jungle.whale-boss/name+%2310550
@@ -27340,7 +27340,7 @@ msgstr "Portador de Sabiduría"
 #: data/database.json+enemies/jungle.whale-boss/descriptions/0/text+%23-9
 msgctxt "data/database.json//enemies/jungle.whale-boss/descriptions/0/text"
 msgid "Enlightened and aloof, this wise whale is the true guardian of the \\c[3]\\v[area.tree-dng.name]\\c[0]. Together with the \\v[combat.name.jungle/ape-boss] it will combine wave and shock elemental attacks to test a Seeker. Shock balls will stun it, forcing the ape to try and heal it. Who you attack is your choice..."
-msgstr "Iluminada y distante, esta sabia ballena es la verdadera guardiana del \\c[3]\\v[area.tree-dng.name]\\c[0]. Junto con \\v[combat.name.jungle/ape-boss], combinará ataques elementales de Pulso y Rayo para poner a prueba a un Buscador. Las bolas de Rayo lo aturdirán, lo que obligará al simio a tratar de curarlo. A quién atacar primero es tu elección..."
+msgstr "Iluminada y distante, esta sabia ballena es el verdadero guardián del \\c[3]\\v[area.tree-dng.name]\\c[0]. Junto con el \\v[combat.name.jungle/ape-boss], combinará ataques elementales de Pulso y Rayo para poner a prueba a un Buscador. Las bolas de Rayo lo aturdirán, lo que obligará al simio a tratar de curarlo. A quién atacar primero es tu elección..."
 
 #. data/database.json enemies/forest.bug-samurai-heat/name #13524
 #: data/database.json+enemies/forest.bug-samurai-heat/name+%2313524
@@ -27388,7 +27388,7 @@ msgstr "Este bicho es un auténtico guerrero y maestro de las artes ocultas de l
 #: data/database.json+enemies/forest.bug-samurai-shock/descriptions/1/text+%23-8
 msgctxt "data/database.json//enemies/forest.bug-samurai-shock/descriptions/1/text"
 msgid "Its weapons of choice are dual swords known as \"Moon Blades\". When threatened it can summon a shock barrier and it uses an extremely fast attack that uses both swords to slice through its enemies."
-msgstr "Sus armas preferidas son espadas dobles conocidas como \"Hoja Lunar\". Cuando se ve amenazado, puede invocar una barrera de Rayo y usa un ataque extremadamente rápido que usa ambas espadas para atravesar a sus enemigos."
+msgstr "Sus armas preferidas son espadas dobles conocidas como \"Hojas Lunares\". Cuando se ve amenazado, puede invocar una barrera de Rayo y usa un ataque extremadamente rápido que usa ambas espadas para atravesar a sus enemigos."
 
 #. data/database.json enemies/forest.samurai-boss/name #14044
 #: data/database.json+enemies/forest.samurai-boss/name+%2314044
@@ -27434,7 +27434,7 @@ msgstr "Un claro no error"
 #: data/database.json+enemies/forest.spider/descriptions/0/text+%23-6
 msgctxt "data/database.json//enemies/forest.spider/descriptions/0/text"
 msgid "Mostly found in caves in \\v[area.forest.name], this supersized spider is the nightmare of many miners. It slows downs its prey and then attacks with a deafening scream. In groups it teams up with other \\v[combat.name.forest/spider]s. Watch out as it leaps up with ice cold power."
-msgstr "Encontrados principalmente en cuevas de \\v[area.forest.name], esta araña de gran tamaño es la pesadilla de muchos mineros. Reduce la velocidad de su presa y luego ataca con un grito ensordecedor. Forma equipo con otros \\v[combat.name.forest/spider]s. Cuidado mientras salta con su poder helado."
+msgstr "Encontradas principalmente en cuevas de \\v[area.forest.name], esta araña de gran tamaño es la pesadilla de muchos mineros. Reduce la velocidad de su presa y luego ataca con un grito ensordecedor. Forma equipo con otras \\v[combat.name.forest/spider]s. Cuidado mientras salta con su poder helado."
 
 #. data/database.json enemies/minibosses.spider-black/name #16131
 #: data/database.json+enemies/minibosses.spider-black/name+%2316131
@@ -27452,7 +27452,7 @@ msgstr "Maquina de Guerra"
 #: data/database.json+enemies/minibosses.spider-black/descriptions/0/text+%23-6
 msgctxt "data/database.json//enemies/minibosses.spider-black/descriptions/0/text"
 msgid "Rarely found in caves in \\v[area.forest.name], this vile fiend is a mechanized copy of the \\v[combat.name.forest/spider]. Just like its archetype it can slow down its prey. Instead of Wave-based attacks it uses Shock as its primary element. Groups of them will combine their electric power to send down bolts of lightning."
-msgstr "Raramente encontrado en cuevas de \\v[area.forest.name], este vil demonio es una copia mecanizada del \\v[combat.name.forest/spider]. Al igual que su arquetipo, puede ralentizar a su presa. En lugar de ataques basados en Pulsos, utiliza el Rayo como elemento principal. Grupos de ellos combinarán su energía eléctrica para enviar rayos."
+msgstr "Raramente encontrada en cuevas de \\v[area.forest.name], este vil demonio es una copia mecanizada de la \\v[combat.name.forest/spider]. Al igual que su arquetipo, puede ralentizar a su presa. En lugar de ataques de tipo Pulso, utiliza el Rayo como elemento principal. Cuando se junta en grupos, combina su poder eléctrico para hacer caer rayos."
 
 #. data/database.json enemies/arid.rhino/name #13554
 #: data/database.json+enemies/arid.rhino/name+%2313554
@@ -27491,7 +27491,7 @@ msgid ""
 "A huge snail with an enormous amount of HP. It's slow but it can use its huge body to jump on top of you or spin around the arena leaving an icy trail. It will also spit out slugs that move towards its enemy and explode. Attack its tail to stun it and attack. \n"
 "However, this will not even leave a scratch. You need something better to have a chance at draining its HP pool."
 msgstr ""
-"Un enorme caracol con una enorme cantidad de HP. Es lento, pero puede usar su enorme cuerpo para saltar sobre ti o girar por la arena dejando un enorme rastro de hielo. También escupe babosas que se mueven hacia su enemigo y explotan. Ataca su cola para aturdirlo y atacar. \n"
+"Un enorme caracol con una enorme cantidad de PV. Es lento, pero puede usar su enorme cuerpo para saltar sobre ti o girar por la arena dejando un enorme rastro de hielo. También escupe babosas que se mueven hacia su enemigo y explotan. Ataca su cola para aturdirlo y atacar. \n"
 "Sin embargo, esto no dejará ni un rasguño. Necesitas algo mejor para tener la oportunidad de acabar con sus PV."
 
 #. data/database.json enemies/guest.honeybear/name #16910
@@ -27638,7 +27638,7 @@ msgstr "Pez Flotante"
 #: data/database.json+enemies/beach.fish/descriptions/0/text+%23-31
 msgctxt "data/database.json//enemies/beach.fish/descriptions/0/text"
 msgid "While the \\c[3]\\v[combat.name.jungle/fish]\\c[0] usually become quite loud when forced to fight, these colorful fish will puff up and transform into a literal flamethrower. Keep away from them and use cold based attacks to cool them down. "
-msgstr "Mientras que los \\c[3]\\c[combat.name.jungle/fish]\\c[0] suelen ser bastante ruidosos cuando se ven obligados a luchar, estos coloridos peces se hinchan y se transforman en un lanzallamas. Aléjate de ellos y utiliza ataques basados en el Hielo para enfriarlos. "
+msgstr "Mientras que los \\c[3]\\v[combat.name.jungle/fish]\\c[0] suelen ser bastante ruidosos cuando se ven obligados a luchar, estos coloridos peces se hinchan y se transforman en un lanzallamas. Aléjate de ellos y utiliza ataques basados en el Hielo para enfriarlos. "
 
 #. data/database.json enemies/beach.worm/name #17242
 #: data/database.json+enemies/beach.worm/name+%2317242
@@ -28014,7 +28014,7 @@ msgstr "Robot Novato"
 #: data/database.json+enemies/mouse-bot/descriptions/0/text+%23-3
 msgctxt "data/database.json//enemies/mouse-bot/descriptions/0/text"
 msgid "A small mouse robot used by Carla to teach Lea how to throw at faster moving objects. They won't attack and just run away when you hit them."
-msgstr "Un pequeño robot ratón utilizado por Carla para enseñar a Lea a lanzar a los objetos que se mueven más rápido. No atacan y simplemente huyen cuando les golpeas."
+msgstr "Un pequeño robot ratón utilizado por Carla para enseñar a Lea a lanzar a objetos en movimiento de mayor velocidad. No atacan y simplemente huyen cuando les golpeas."
 
 #. data/database.json enemies/boss-test/name #52
 #: data/database.json+enemies/boss-test/name+%2352
@@ -28161,8 +28161,8 @@ msgid ""
 "Heavily modified turrets made in \\c[3]\\v[area.rhombus-sqr.name]\\c[0] and meant for illegal activities all over \\v[lore.title.planet]. They are equipped with \\c[3]floating devices\\c[0] to cross the ocean on their own and might even have their own \\c[3]shielding system\\c[0].\n"
 "It is advised to only face them with the support of \\c[3]heavy artillery\\c[0]."
 msgstr ""
-"Torretas fuertemente modificadas fabricadas en \\c[3]\\v[area.rhombus-sqr.name]\\c[0] y destinadas a actividades ilegales en todo \\v[lore.title.planet]. Están equipados con \\c[3]dispositivos flotantes\\c[0] para cruzar el océano por su cuenta e incluso podrían tener su propio \\c[3]sistema de blindaje\\c[0].\n"
-"Se aconseja enfrentarse a ellos sólo con el apoyo de la \\c[3]artillería pesada\\c[0]."
+"Torretas altamente modificadas fabricadas en \\c[3]\\v[area.rhombus-sqr.name]\\c[0] y destinadas a actividades ilegales en todo \\v[lore.title.planet]. Están equipadas con \\c[3]dispositivos flotantes\\c[0] para cruzar el océano por su cuenta e incluso podrían tener su propio \\c[3]sistema de blindaje\\c[0].\n"
+"Se aconseja enfrentarse a ellas únicamente con el apoyo de \\c[3]artillería pesada\\c[0]."
 
 #. data/database.json enemies/autumn-rh.suicider_float-quest_naval/name #13527
 #: data/database.json+enemies/autumn-rh.suicider_float-quest_naval/name+%2313527
@@ -28183,8 +28183,8 @@ msgid ""
 "Bombs made in \\c[3]\\v[area.rhombus-sqr.name]\\c[0] and meant for illegal activities all over \\v[lore.title.planet]. They are equipped with \\c[3]floating devices\\c[0] to cross the ocean on their own and might even have their own \\c[3]shielding system\\c[0].\n"
 "Though they can not attack, they will \\c[3]detonate themselves at close range\\c[0] with such a force that they might even be a danger to heavily armored military hardware."
 msgstr ""
-"Bombas fabricadas en \\c[3]\\v[area.rhombus-sqr.name]\\c[0] y destinadas a actividades ilegales en todo \\v[lore.title.planet]. Están equipados con \\c[3]dispositivos flotantes\\c[0] para cruzar el océano por su cuenta e incluso podrían tener su propio \\c[3]sistema de protección\\c[0].\n"
-"Aunque no pueden atacar, \\c[3]detonarán a corta distancia\\c[0] con tal fuerza que incluso podrían ser un peligro para un equipo militar fuertemente blindado."
+"Bombas fabricadas en \\c[3]\\v[area.rhombus-sqr.name]\\c[0] y destinadas a actividades ilegales en todo \\v[lore.title.planet]. Están equipadas con \\c[3]dispositivos flotantes\\c[0] para cruzar el océano por su cuenta e incluso podrían tener su propio \\c[3]sistema de blindaje\\c[0].\n"
+"Aunque no pueden atacar, \\c[3]detonarán a corta distancia\\c[0] con tal fuerza que incluso podrían ser un peligro para un equipo militar altamente blindado."
 
 #. data/database.json enemies/autumn-rh.turret_big_float-quest_naval/name #16683
 #: data/database.json+enemies/autumn-rh.turret_big_float-quest_naval/name+%2316683
@@ -28205,8 +28205,8 @@ msgid ""
 "Large, heavily modified turrets made in \\c[3]\\v[area.rhombus-sqr.name]\\c[0] and meant for illegal activities all over \\v[lore.title.planet]. They are equipped with \\c[3]floating devices\\c[0] to cross the ocean on their own and even have their own \\c[3]shielding system\\c[0].\n"
 "It is advised to only face them with the support of \\c[3]heavy artillery\\c[0]."
 msgstr ""
-"Grandes torretas fuertemente modificadas fabricadas en \\c[3]\\v[area.rhombus-sqr.name]\\c[0] y destinadas a actividades ilegales en todo \\v[lore.title.planet]. Están equipados con \\c[3]dispositivos flotantes\\c[0] para cruzar el océano por su cuenta e incluso tienen su propio \\c[3]sistema de blindaje\\c[0].\n"
-"Se aconseja enfrentarse a ellos sólo con el apoyo de la \\c[3]artillería pesada\\c[0]."
+"Grandes torretas altamente modificadas fabricadas en \\c[3]\\v[area.rhombus-sqr.name]\\c[0] y destinadas a actividades ilegales en todo \\v[lore.title.planet]. Están equipadas con \\c[3]dispositivos flotantes\\c[0] para cruzar el océano por su cuenta e incluso tienen su propio \\c[3]sistema de blindaje\\c[0].\n"
+"Se aconseja enfrentarse a ellas únicamente con el apoyo de \\c[3]artillería pesada\\c[0]."
 
 #. data/database.json enemies/autumn-rh.turret_boss-quest_naval/name #16691
 #: data/database.json+enemies/autumn-rh.turret_boss-quest_naval/name+%2316691
@@ -28332,8 +28332,8 @@ msgid ""
 "Some of them however still lay dormant inside the tunnels and are highly volatile. Once charged with electricity they will initiate a target seeking self-destruction sequence powerful enough to clear loose boulders."
 msgstr ""
 "Este robot olvidado estaba destinado a ser utilizado como herramienta minera para crear nuevos túneles de los que recoger el preciado \\c[3]Zafiro Cobalto\\c[0]. \n"
-"Sin embargo, debido a incidentes en la mina \\c[3]\\v[area.bergen.name], los robots fueron desactivados.\n"
-"Algunos de ellos siguen activos dentro de los túneles y son muy volátiles. Una vez cargados de electricidad, iniciarán una secuencia de autodestrucción en busca de objetivos lo suficientemente potentes como para eliminar rocas sueltas."
+"Sin embargo, debido a incidentes en la \\c[3]Mina de Bergen\\c[0], los robots fueron desactivados.\n"
+"Algunos de ellos siguen activos dentro de los túneles y son muy volátiles. Una vez cargados de electricidad, buscarán objetivos e iniciarán una secuencia de autodestrucción lo suficientemente potente como para derribar rocas sueltas."
 
 #. data/database.json enemies/mine-diggingbot/name #466
 #: data/database.json+enemies/mine-diggingbot/name+%23466
@@ -28503,7 +28503,7 @@ msgid ""
 "Just like the \\c[3]\\v[combat.name.heat/special/jellyfish-booze]\\c[0] it receives a shield from the Distillery that spawned it. Some mechanism must be activated to make it vulnerable again."
 msgstr ""
 "Este gólem, que cobra vida gracias al fuego y a las mejores bebidas espirituosas, arde aún más que sus hermanos más comunes, el \\v[combat.name.heat/heat-golem]. Ha nacido de una destilería de gran potencia y no podría sobrevivir mucho tiempo sin ser alimentado por la energía de la bebida tradicional de los Antiguos.\n"
-"Al igual que el \\c[3]\\c[combat.name.heat/special/jellyfish-booze]\\c[0] recibe un escudo de la destilería que lo engendró. Hay que activar algún mecanismo para que vuelva a ser vulnerable."
+"Al igual que el \\c[3]\\v[combat.name.heat/special/jellyfish-booze]\\c[0] recibe un escudo de la destilería que lo engendró. Hay que activar algún mecanismo para que vuelva a ser vulnerable."
 
 #. data/database.json enemies/autumn-fall.raid-pillar-small/name #12315
 #: data/database.json+enemies/autumn-fall.raid-pillar-small/name+%2312315
@@ -28567,7 +28567,7 @@ msgid ""
 "Anyway, make sure to use wave teleporters to escape their lightning fast shock attack. This leaves them mighty confused and open for some pummeling."
 msgstr ""
 "Los textos antiguos describen a este robot de dos pedales como una de las primeras criaturas creadas por el Camino. Se parece mucho a un pollo y el hecho de que los Antiguos también se parezcan a los pájaros plantea la pregunta: ¿Es así como se veían los antepasados de los Antiguos? ¿O es esto demasiado meta?\n"
-"De todos modos, asegúrese de usar teletransportadores de Pulso para escapar de su ataque de choque tan rápidos como un rayo. Esto los deja muy confundidos y abiertos para algunos golpes."
+"De todos modos, asegúrate de usar teletransportadores de Pulso para escapar de su veloz ataque de Rayo. Esto los deja muy confundidos y abiertos para un contraataque."
 
 #. data/database.json enemies/forest.panda/name #13465
 #: data/database.json+enemies/forest.panda/name+%2313465
@@ -28603,7 +28603,7 @@ msgstr "Panda Mejorado"
 #: data/database.json+enemies/minibosses.panda-boss/descriptions/0/text+%23-13
 msgctxt "data/database.json//enemies/minibosses.panda-boss/descriptions/0/text"
 msgid "An upgraded version of the regular \\v[combat.name.forest/panda]. It can surround itself with large boulders and command multiple \\v[combat.name.minibosses/spider-black]s to attack enemies while it shoots homing mines. When its defences are broken it will resort to an all-out beam attack that is almost impossible to avoid."
-msgstr "Una versión mejorada del \\v[combat.name.forest/panda]. Puede rodearse de grandes rocas y ordenar a varios \\v[combat.name.minibosses/spider-black] que ataquen a los enemigos mientras dispara minas. Cuando se rompen sus defensas, recurre a un ataque con rayos que es casi imposible de evitar."
+msgstr "Una versión mejorada del \\v[combat.name.forest/panda]. Puede rodearse de grandes rocas y ordenar a varias Tejedoras Guerreras que ataquen a los enemigos mientras dispara minas teledirigidas. Cuando se rompen sus defensas, recurre a un ataque láser de gran alcance que es casi imposible de esquivar."
 
 #. data/database.json enemies/arid.shredder-heat/name #13466
 #: data/database.json+enemies/arid.shredder-heat/name+%2313466
@@ -28624,8 +28624,8 @@ msgid ""
 "A heat-based variant of the Security Brute. In patrol mode it will act much like the other ones, only notifying the laser tower and all other brutes when a trespasser has been found.\n"
 "When fighting against it, it will attack with heat-based punch attacks or buff other brutes attack power."
 msgstr ""
-"Una variante basada en el fuego del Destructor. En el modo de patrulla actuará de forma muy parecida a los demás, solo notificará a la torre láser y a todas sus otras variantes cuando encuentre un intruso.\n"
-"Cuando luches contra él, atacará con puñetazos basados en el Fuego o potenciará el ataque de los suyos."
+"Una variante del Destructor basada en el Fuego. En modo patrulla, actuará de forma similar a los demás, solo notificará a la torre láser y al resto de Destructores cuando encuentre un intruso.\n"
+"Cuando luches contra él, atacará con puñetazos de elemento Fuego o potenciará el ataque de sus colegas."
 
 #. data/database.json enemies/arid.shredder-cold/name #13469
 #: data/database.json+enemies/arid.shredder-cold/name+%2313469
@@ -28646,8 +28646,8 @@ msgid ""
 "A cold-based variant of the Security Brute. In patrol mode it will act much like the other ones, only notifying the laser tower and all other brutes when a trespasser has been found.\n"
 "When fighting against it, it will attack with cold-based punch attacks or shield other brutes."
 msgstr ""
-"Una variante basada en el Hielo del Destructor. En el modo de patrulla actuará de forma muy parecida a los demás, solo notificando a la torre láser y a todas sus demás variantes cuando encuentre un intruso.\n"
-"Cuando luches contra él, atacará con puñetazos basados en el Hielo o escudará a los suyos."
+"Una variante del Destructor basada en el Hielo. En modo patrulla, actuará de forma similar a los demás, solo notificará a la torre láser y al resto de Destructores cuando encuentre un intruso.\n"
+"Cuando luches contra él, atacará con puñetazos de elemento Hielo o potenciará la defensa de sus colegas."
 
 #. data/database.json enemies/arid.shredder-shock/name #13467
 #: data/database.json+enemies/arid.shredder-shock/name+%2313467
@@ -28668,8 +28668,8 @@ msgid ""
 "A shock-based variant of the Security Brute. In patrol mode it will act much like the other ones, only notifying the laser tower and all other brutes when a trespasser has been found.\n"
 "When fighting against it, it will attack with shock-based punch attacks or buff other brutes movement speed."
 msgstr ""
-"Una variante basada en el Rayo del Destructor. En el modo de patrulla actuará de forma muy parecida a los demás, solo notificando a la torre láser y a todas sus demás variantes cuando encuentre un intruso.\n"
-"Cuando luches contra él, atacará con golpes basados en el Rayo o aumentará la velocidad de movimiento de los suyos."
+"Una variante del Destructor basada en el Rayo. En modo patrulla, actuará de forma similar a los demás, solo notificará a la torre láser y al resto de Destructores cuando encuentre un intruso.\n"
+"Cuando luches contra él, atacará con puñetazos de elemento Rayo o potenciará la velocidad de movimiento de sus colegas."
 
 #. data/database.json enemies/arid.shredder-wave/name #13468
 #: data/database.json+enemies/arid.shredder-wave/name+%2313468
@@ -28690,8 +28690,8 @@ msgid ""
 "A wave-based variant of the Security Brute. In patrol mode it will act much like the other ones, only notifying the laser tower and all other brutes when a trespasser has been found.\n"
 "When fighting against it, it will attack with wave-based punch attacks or heal other brutes."
 msgstr ""
-"Una variante basada en Pulsos del Destructor. En el modo de patrulla actuará de forma muy parecida a los demás, solo notificando a la torre láser y a todas sus demás variantes cuando encuentre un intruso.\n"
-"Cuando luches contra él, atacará con puñetazos basados en Pulso o curará a los suyos."
+"Una variante del Destructor basada en el Pulso. En modo patrulla, actuará de forma similar a los demás, solo notificará a la torre láser y al resto de Destructores cuando encuentre un intruso.\n"
+"Cuando luches contra él, atacará con puñetazos de elemento Pulso o curará a sus colegas."
 
 #. data/database.json enemies/final.ele-pillar-heat/name #16772
 #: data/database.json+enemies/final.ele-pillar-heat/name+%2316772
@@ -28799,7 +28799,7 @@ msgstr "Centinela Ejecutivo"
 #: data/database.json+enemies/arid.element-turret-boss/descriptions/0/text+%23-7
 msgctxt "data/database.json//enemies/arid.element-turret-boss/descriptions/0/text"
 msgid "Designed by Gautham, these elemental turrets serve as the final test on each element in the \\c[3]\\v[area.arid-dng-2.name]\\c[0]. They can't move but will use various projectiles to keep their foes at bay. "
-msgstr "Diseñadas por Gautham, estas torretas elementales sirven como prueba final de cada elemento en el \\c[3]\\v[area.arid-dng-2.name]\\c[0]. No pueden moverse, pero utilizarán varios proyectiles para mantener a raya a sus enemigos. "
+msgstr "Diseñadas por Gautham, estas torretas elementales sirven como prueba final de cada elemento en la \\c[3]\\v[area.arid-dng-2.name]\\c[0]. No pueden moverse, pero utilizarán varios proyectiles para mantener a raya a sus enemigos. "
 
 #. data/database.json enemies/boss.elephant/name #15217
 #: data/database.json+enemies/boss.elephant/name+%2315217
@@ -29354,8 +29354,8 @@ msgid ""
 "Heavily modified turrets made in \\c[3]\\v[area.rhombus-sqr.name]\\c[0] and meant for illegal activities all over \\v[lore.title.planet]. They are equipped with \\c[3]floating devices\\c[0] to cross the ocean on their own and might even have their own \\c[3]shielding system\\c[0].\n"
 "It is advised to only face them with the support of \\c[3]heavy artillery\\c[0]."
 msgstr ""
-"Torretas fuertemente modificadas fabricadas en \\c[3]\\v[area.rhombus-sqr.name]\\c[0] y destinadas a actividades ilegales en todo \\v[lore.title.planet]. Están equipados con \\c[3]dispositivos flotantes\\c[0] para cruzar el océano por su cuenta e incluso podrían tener su propio \\c[3]sistema de blindaje\\c[0].\n"
-"Se aconseja enfrentarse a ellos sólo con el apoyo de la \\c[3]artillería pesada\\c[0]."
+"Torretas altamente modificadas fabricadas en \\c[3]\\v[area.rhombus-sqr.name]\\c[0] y destinadas a actividades ilegales en todo \\v[lore.title.planet]. Están equipadas con \\c[3]dispositivos flotantes\\c[0] para cruzar el océano por su cuenta e incluso podrían tener su propio \\c[3]sistema de blindaje\\c[0].\n"
+"Se aconseja enfrentarse a ellas únicamente con el apoyo de \\c[3]artillería pesada\\c[0]."
 
 #. data/database.json enemies/autumn-rh.boss_turret-quest_navaloooooo/name #16690
 #: data/database.json+enemies/autumn-rh.boss_turret-quest_navaloooooo/name+%2316690
@@ -31389,7 +31389,7 @@ msgstr "Albor Otoñal"
 #: data/database.json+lore/autumn-rise/content/page-01-01/content+%232187
 msgctxt "data/database.json//lore/autumn-rise/content/page-01-01/content"
 msgid "Autumn's Rise is a temperate area that seems to be in a state of permanent autumn. It's the first area a \\c[3]\\v[lore.title.seeker]\\c[0] has to travel through. The Fauna mainly consists of \\c[3]\\v[combat.name.hedgehog]s\\c[0] and \\c[3]\\v[combat.name.meerkat]s\\c[0] but the area also contains some rather nasty \\c[3]\\v[combat.name.buffalo]s\\c[0] to deal with. "
-msgstr "Albor Otoñal es una zona templada que parece estar en un estado de otoño permanente. Es la primera zona que tiene que recorrer un \\c[3]\\v[lore.title.seeker]\\c[0]. La fauna consiste principalmente en \\c[3]\\c[combat.name.hedgehog]\\c[0]s y \\c[3]\\c[combat.name.meerkat]\\c[0]s, pero la zona también contiene algunos \\c[3]\\c[combat.name.buffalo]\\c[0]s bastante desagradables a los que enfrentarse. "
+msgstr "Albor Otoñal es una zona templada que parece estar en un estado de otoño permanente. Es la primera zona que tiene que recorrer un \\c[3]\\v[lore.title.seeker]\\c[0]. La fauna consiste principalmente en \\c[3]\\v[combat.name.hedgehog]\\c[0]s y \\c[3]\\v[combat.name.meerkat]\\c[0]s, pero la zona también contiene algunos \\c[3]\\v[combat.name.buffalo]\\c[0]s bastante desagradables a los que enfrentarse. "
 
 #. data/database.json lore/autumn-rise/content/page-01-02/content #2848
 #: data/database.json+lore/autumn-rise/content/page-01-02/content+%232848
@@ -32169,7 +32169,7 @@ msgid ""
 "The \\c[3]Amity of Balance (AoB)\\c[0] is a faction mainly responsible for farming, gathering and the research of native life and gaining an understanding of the inner workings of the \\c[3]\\v[lore.title.track-of-ancients]\\c[0].\n"
 "\n"
 msgstr ""
-"La \\c[3]Unión del Equilibrio (UE)\\c[0] es una facción que se encarga principalmente de la agricultura, la recolección y la investigación de la vida de los nativos y de comprender el funcionamiento interno del \\c[3]\\c[lore.title.track-of-ancients]\\c[0].\n"
+"La \\c[3]Unión del Equilibrio (UE)\\c[0] es una facción que se encarga principalmente de la agricultura, la recolección y la investigación de la vida de los nativos y de comprender el funcionamiento interno del \\c[3]\\v[lore.title.track-of-ancients]\\c[0].\n"
 "\n"
 
 #. data/database.json lore/faction-wave-main/content/page-01-02/content #2109
@@ -32536,7 +32536,7 @@ msgstr "La \\c[3]Galaxia de la Vía Láctea\\c[0] es el hogar de la raza humana.
 #: data/database.json+lore/milky-way/content/page-01-02/content+%232730
 msgctxt "data/database.json//lore/milky-way/content/page-01-02/content"
 msgid "Thanks to \\c[3]\\v[lore.title.com-tech]\\c[0], communication between colonies and travel is almost instant, making the galaxy itself the home of the humans."
-msgstr "Gracias a \\c[3]\\c[lore.title.com-tech]\\c[0], la comunicación entre las colonias y los viajes son casi instantáneos, lo que convierte a la propia galaxia en el hogar de los humanos."
+msgstr "Gracias a \\c[3]\\v[lore.title.com-tech]\\c[0], la comunicación entre las colonias y los viajes son casi instantáneos, lo que convierte a la propia galaxia en el hogar de los humanos."
 
 #. data/database.json lore/milky-way/content/page-01-03/content #2744
 #: data/database.json+lore/milky-way/content/page-01-03/content+%232744
@@ -32729,7 +32729,7 @@ msgid ""
 "To support the cause, many companies created \"Wanted Lists\" for potential bugs with large bounties for those who can find and fix them."
 msgstr ""
 "LA \\c[3]O.I.H.S.\\c[0] es una organización que se dedica a buscar y eliminar todo tipo de fallos o errores encontrados en los sistemas utilizados por empresas.\n"
-"También es uno de los grupos más antiguos de la galaxia, ya que existe desde hace casi 2000 años de una forma u otra. \\c[3]\\c[lore.title.dev-company]\\c[0] es sólo uno de los muchos que emplearon sus servicios.\n"
+"También es uno de los grupos más antiguos de la galaxia, ya que existe desde hace casi 2000 años de una forma u otra. \\c[3]\\v[lore.title.dev-company]\\c[0] es sólo uno de los muchos que emplearon sus servicios.\n"
 "Para apoyar la causa, muchas empresas crearon \"Listas de búsqueda\" de posibles fallos con grandes recompensas para aquellos que puedan encontrarlos y arreglarlos."
 
 #. data/database.json lore/logs-header/title #12631
@@ -34837,7 +34837,7 @@ msgstr "Continúa analizando la \\c[3]Flora de CrossWorlds\\c[0]."
 #: data/database.json+quests/botanics/tasks/7/task+%2314250
 msgctxt "data/database.json//quests/botanics/tasks/7/task"
 msgid "Meet Talatu Lips in \\c[3]\\v[area.rookie-harbor.name] - North\\c[0]"
-msgstr "Reúnete con Talatu Lips en \\c[3]\\v[area.rookie-harbor.name] - Centro de Misiones\\c[0]"
+msgstr "Reúnete con Talatu Lips en \\c[3]\\v[area.rookie-harbor.name] - Norte\\c[0]"
 
 #. data/database.json quests/botanics/tasks/8/task #14326
 #: data/database.json+quests/botanics/tasks/8/task+%2314326
