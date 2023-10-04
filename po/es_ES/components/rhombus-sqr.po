@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-10 20:39+0000\n"
-"PO-Revision-Date: 2023-07-06 17:53+0000\n"
-"Last-Translator: Kevin Junior Neciosup Galeano <kjneciosup1@gmail.com>\n"
+"PO-Revision-Date: 2023-10-05 18:23+0000\n"
+"Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
 "Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/rhombus-sqr/es/>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
@@ -13949,7 +13949,7 @@ msgstr "¡\\v[lore.title.seeker] y jefe!\\. ¡Saludos y buenas noticias!"
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/8/settings/event/61/message+%23696
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/8/settings/event/61/message"
 msgid "Yes, good day everyone.\\. We just finished an important meeting and bring a proposition."
-msgstr "Sí, buen día a todos\\. Acabamos de terminar una importante reunión y tenemos una proposición."
+msgstr "Sí, buen día a todos.\\. Acabamos de terminar una importante reunión y tenemos una proposición."
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/8/settings/event/63/text #697
 #. EventTrigger fightBossEnd START IF tmp.bossKill
@@ -14253,7 +14253,7 @@ msgstr "[sonidos de cabra sombría]"
 #: data/maps/rhombus-sqr/interior/goat-quest-building-1.json+entities/19/settings/event/61/text+%23693
 msgctxt "data/maps/rhombus-sqr/interior/goat-quest-building-1.json//entities/19/settings/event/61/text"
 msgid "Too many goat lives have been lost already.\\. I will handle this myself."
-msgstr "Hemos perdido demasiadas vidas cabrinas.\\. Me encargaré de esto yo mismo."
+msgstr "Hemos perdido demasiadas vidas de cabras.\\. Me encargaré de esto yo mismo."
 
 #. data/maps/rhombus-sqr/interior/goat-quest-building-1.json entities/19/settings/event/69/message #664
 #. EventTrigger fightBossStart START IF (tmp.goats >= 7 || (tmp.touchFightBoss && map.checkpoint)) && quest.bg-3-goat_final.currentTask == 6
@@ -18607,7 +18607,7 @@ msgstr "E-El arma en c-cuestión se llam-ma \\c[3]\\v[item.13.name]\\c[0] e-en s
 #: data/maps/rhombus-sqr/interior/tremor-office-g.json+entities/12/settings/npcStates/1/event/quest/13/accepted/6/message+%23611
 msgctxt "data/maps/rhombus-sqr/interior/tremor-office-g.json//entities/12/settings/npcStates/1/event/quest/13/accepted/6/message"
 msgid "B-but w-we w-will also n-need \\c[3]4 \\v[item.381.name]s\\c[0] t-to r-restore t-the w-weapon to its original f-form."
-msgstr "P-Pero t-también n-necesitaremos \\c[3]4 \\v[item.381.name]s\\c[0] p-para r-restaurar s-su f-forma original."
+msgstr "P-Pero t-también n-necesitaremos \\c[3]4 \\v[item.381.name]\\c[0] p-para r-restaurar s-su f-forma original."
 
 #. data/maps/rhombus-sqr/interior/tremor-office-g.json entities/12/settings/npcStates/1/event/quest/13/accepted/7/message #626
 #. NPC tremor-quest
@@ -18695,7 +18695,7 @@ msgstr "N-Necesitaré que c-c-construyas una \\c[3]\\v[item.419.name]\\c[0] a-an
 #: data/maps/rhombus-sqr/interior/tremor-office-g.json+entities/12/settings/npcStates/2/event/trade/3/message+%23545
 msgctxt "data/maps/rhombus-sqr/interior/tremor-office-g.json//entities/12/settings/npcStates/2/event/trade/3/message"
 msgid "Do you need some pointers where to find the \\c[3]\\v[item.381.name]s\\c[0]?"
-msgstr "¿N-Necesitas i-indicaciones para c-conseguir el \\c[3]\\v[item.381.name]s\\c[0]?"
+msgstr "¿N-Necesitas i-indicaciones para c-conseguir el \\c[3]\\v[item.381.name]\\c[0]?"
 
 #. data/maps/rhombus-sqr/interior/tremor-office-g.json entities/12/settings/npcStates/2/event/trade/4/options/0/label #544
 #. NPC tremor-quest
@@ -18740,7 +18740,7 @@ msgstr "N-Necesitaré que c-c-construyas una \\c[3]\\v[item.419.name]\\c[0] a-an
 #: data/maps/rhombus-sqr/interior/tremor-office-g.json+entities/12/settings/npcStates/2/event/trade/event/3/message+%23548
 msgctxt "data/maps/rhombus-sqr/interior/tremor-office-g.json//entities/12/settings/npcStates/2/event/trade/event/3/message"
 msgid "H-have you g-gotten e-everyth-thing or d-do you need s-some p-pointers as t-to w-where to f-find the \\c[3]\\v[item.381.name]s\\c[0]?"
-msgstr "¿L-Lo t-tienes todo o n-necesitas i-indicaciones para c-conseguir el \\c[3]\\v[item.381.name]s\\c[0]?"
+msgstr "¿L-Lo t-tienes todo o n-necesitas i-indicaciones para c-conseguir el \\c[3]\\v[item.381.name]\\c[0]?"
 
 #. data/maps/rhombus-sqr/interior/tremor-office-g.json entities/12/settings/npcStates/2/event/trade/event/5/0/0/message #549
 #. NPC tremor-quest
@@ -18762,7 +18762,7 @@ msgstr "[asiente a intercambios]"
 #: data/maps/rhombus-sqr/interior/tremor-office-g.json+entities/12/settings/npcStates/2/event/trade/event/5/0/1/traded/0/thenStep/0/message+%23550
 msgctxt "data/maps/rhombus-sqr/interior/tremor-office-g.json//entities/12/settings/npcStates/2/event/trade/event/5/0/1/traded/0/thenStep/0/message"
 msgid "Y... y-you got the \\v[item.419.name] c-completed!\\. Heu-... heureka!"
-msgstr "¡T-Tienes el \\v[item.419.name] c-completo!\\. ¡E-Eurec-ca!"
+msgstr "¡T-Tienes la \\v[item.419.name] c-completa!\\. ¡E-Eurec-ca!"
 
 #. data/maps/rhombus-sqr/interior/tremor-office-g.json entities/12/settings/npcStates/2/event/trade/event/5/0/1/traded/0/thenStep/1/message #551
 #. NPC tremor-quest
@@ -18810,7 +18810,7 @@ msgstr "[asiente]"
 #: data/maps/rhombus-sqr/interior/tremor-office-g.json+entities/12/settings/npcStates/2/event/trade/event/5/0/1/traded/0/elseStep/0/message+%23552
 msgctxt "data/maps/rhombus-sqr/interior/tremor-office-g.json//entities/12/settings/npcStates/2/event/trade/event/5/0/1/traded/0/elseStep/0/message"
 msgid "M-making s-some good p-progress t-there.\\. N-need s-some p-pointers to f-find the o-other \\c[3]\\v[item.381.name]s\\c[0]?"
-msgstr "Has hecho b-buen p-progreso.\\. ¿N-Necesitas i-indicaciones para c-conseguir el \\c[3]\\v[item.381.name]s\\c[0]?"
+msgstr "Has hecho b-buen p-progreso.\\. ¿N-Necesitas i-indicaciones para c-conseguir el \\c[3]\\v[item.381.name]\\c[0]?"
 
 #. data/maps/rhombus-sqr/interior/tremor-office-g.json entities/12/settings/npcStates/2/event/trade/event/5/0/1/canceled/0/message #645
 #. NPC tremor-quest
@@ -19032,7 +19032,7 @@ msgstr "Sra. Tremoire"
 #: data/maps/rhombus-sqr/interior/tremor-office-g.json+entities/12/settings/npcStates/3/event/quest/2/message+%23630
 msgctxt "data/maps/rhombus-sqr/interior/tremor-office-g.json//entities/12/settings/npcStates/3/event/quest/2/message"
 msgid "S-so, w-we g-got the \\c[3]\\v[item.419.name] c-completed\\c[0].\\. W-we can t-tackle t-the last p-part now."
-msgstr "As-sí que ya t-tenemos la \\c[3]\\v[item.419.name] c-completo\\c[0].\\. P-Podemos encargarnos de la últ-tima p-parte ahora."
+msgstr "As-sí que ya t-tenemos la \\c[3]\\v[item.419.name] c-completa\\c[0].\\. P-Podemos encargarnos de la últ-tima p-parte ahora."
 
 #. data/maps/rhombus-sqr/interior/tremor-office-g.json entities/12/settings/npcStates/3/event/quest/3/message #493
 #. NPC tremor-quest
