@@ -3,15 +3,16 @@ msgstr ""
 "Project-Id-Version: crosscode 1.4.2-3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-10 20:39+0000\n"
-"POT-Revision-Date: 2023-06-10 20:39+0000\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2023-10-05 18:23+0000\n"
+"Last-Translator: Tomás Ralph <tomasralph2000@gmail.com>\n"
+"Language-Team: Spanish <https://weblate.openkrosskod.org/projects/crosscode/jungle-city/es/>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: \n"
-"X-Generator: crosscode-localization-engine 0.0.0 (f332afe 2022-12-24)\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.5.3\n"
+"POT-Revision-Date: 2023-06-10 20:39+0000\n"
 
 #. data/areas/jungle-city.json name #1
 #: data/areas/jungle-city.json+name+%231
@@ -2486,9 +2487,9 @@ msgid ""
 "\n"
 "\\c[1]It was a scam!\\c[0]"
 msgstr ""
-"El \\c[3]\\v[g.birdScam] \\v[item.623.name]s\\c[0] resultó ser simplemente \\c[3]\\v[item.503.name]\\c[0]!\n"
+"Los \\c[3]\\v[g.birdScam] \\v[item.623.name]\\c[0] resultaron ser simplemente \\c[3]\\v[item.503.name]\\c[0]!\n"
 "\n"
-"\\c[1]¡Fue una estafa!\\c[0]"
+"\\c[1]¡Era una estafa!\\c[0]"
 
 #. data/maps/jungle-city/east.json entities/687/settings/npcStates/0/event/trade/event/9/traded/19/message #442
 #. NPC bird-gangster
@@ -2670,7 +2671,7 @@ msgstr "... "
 #: data/maps/jungle-city/entrance.json+entities/390/settings/event/35/thenStep/5/message+%231768
 msgctxt "data/maps/jungle-city/entrance.json//entities/390/settings/event/35/thenStep/5/message"
 msgid "And you really already fought it before, \\v[lore.title.seeker]??"
-msgstr "¿¿Y me dices que ya has peleado contra ella, \\v[lore.title.seeker]??"
+msgstr "¿¿Y me dices que ya has peleado contra él, \\v[lore.title.seeker]a??"
 
 #. data/maps/jungle-city/entrance.json entities/390/settings/event/35/thenStep/6/message #1769
 #. EventTrigger questGreens3-fight1Boss START IF (map.questPlantLeft && map.questPlantRight && quest.jungleGreens-3-escort_2.currentTask == 0) || tmp.lureBoss
@@ -2688,7 +2689,7 @@ msgstr "[asiente]"
 #: data/maps/jungle-city/entrance.json+entities/390/settings/event/35/thenStep/7/message+%231744
 msgctxt "data/maps/jungle-city/entrance.json//entities/390/settings/event/35/thenStep/7/message"
 msgid "Wow, so impressive!\\.\\. I'll trust you to watch my back then, while I weaken it with our salt!"
-msgstr "Wow, ¡qué impresionante!\\.\\. ¡Entonces confío en que puedas cubrirme mientras la debilito con nuestra sal!"
+msgstr "Wow, ¡qué impresionante!\\.\\. ¡Entonces confío en que puedas cubrirme mientras lo debilito con nuestra sal!"
 
 #. data/maps/jungle-city/entrance.json entities/390/settings/event/35/thenStep/8/message #1770
 #. EventTrigger questGreens3-fight1Boss START IF (map.questPlantLeft && map.questPlantRight && quest.jungleGreens-3-escort_2.currentTask == 0) || tmp.lureBoss
@@ -2733,7 +2734,7 @@ msgstr "Claude Reynes"
 #: data/maps/jungle-city/entrance.json+entities/394/settings/event/30/message+%23560
 msgctxt "data/maps/jungle-city/entrance.json//entities/394/settings/event/30/message"
 msgid "\\v[lore.title.seeker], it's good that you survived this rampage.\\. Are you feeling well?"
-msgstr "\\v[lore.title.seeker], es bueno que hayas sobrevivido a este alboroto.\\. ¿Te sientes bien?"
+msgstr "\\v[lore.title.seeker]a, es bueno que hayas sobrevivido a este alboroto.\\. ¿Te sientes bien?"
 
 #. data/maps/jungle-city/entrance.json entities/394/settings/event/31/message #913
 #. EventTrigger questGreens3-fight1EndEscape START IF tmp.bossFlees || (tmp.bossKill && !quest.jungleGreens-3-escort_2.task.5)
@@ -2938,7 +2939,7 @@ msgstr "Linde"
 #: data/maps/jungle-city/entrance.json+entities/406/settings/npcStates/0/event/quest/7/message+%231734
 msgctxt "data/maps/jungle-city/entrance.json//entities/406/settings/npcStates/0/event/quest/7/message"
 msgid "Hey there, \\v[lore.title.seeker]!\\. Ready to save the city? I sure am!"
-msgstr "¡Hola, \\v[lore.title.seeker]!\\. ¿Listo para salvar la ciudad? ¡Yo sí lo estoy!"
+msgstr "¡Hola, \\v[lore.title.seeker]a!\\. ¿Lista para salvar la ciudad? ¡Yo sí!"
 
 #. data/maps/jungle-city/entrance.json entities/406/settings/npcStates/0/event/quest/9/0/1/message #1735
 #. NPC quest-escortee
@@ -2958,7 +2959,7 @@ msgstr "[asiente]"
 #: data/maps/jungle-city/entrance.json+entities/406/settings/npcStates/0/event/quest/9/0/2/message+%231736
 msgctxt "data/maps/jungle-city/entrance.json//entities/406/settings/npcStates/0/event/quest/9/0/2/message"
 msgid "Alright!\\. I will get all of that ghost's toxic attention so you better be ready!"
-msgstr "¡Muy bien!\\. Voy a conseguir toda la atención tóxica de ese fantasma, ¡así que será mejor que estés preparado!"
+msgstr "¡Muy bien!\\. Voy a conseguir toda la atención tóxica de ese fantasma, ¡así que será mejor que estés preparada!"
 
 #. data/maps/jungle-city/entrance.json entities/406/settings/npcStates/0/event/quest/9/1/0/message #1737
 #. NPC quest-escortee
@@ -2978,7 +2979,7 @@ msgstr "[niega con la cabeza]"
 #: data/maps/jungle-city/entrance.json+entities/406/settings/npcStates/0/event/quest/9/1/1/message+%231738
 msgctxt "data/maps/jungle-city/entrance.json//entities/406/settings/npcStates/0/event/quest/9/1/1/message"
 msgid "Aw, alright.\\. I will wait for you here."
-msgstr "Ah, está bien. \\.Te esperaré aquí."
+msgstr "Oh, está bien.\\. Te esperaré aquí."
 
 #. data/maps/jungle-city/entrance.json entities/406/settings/npcStates/0/event/quest/9/options/0/label #1739
 #. NPC quest-escortee
@@ -3144,7 +3145,7 @@ msgstr "¡Reunir!"
 #: data/maps/jungle-city/entrance.json+entities/411/settings/event/46/message+%231781
 msgctxt "data/maps/jungle-city/entrance.json//entities/411/settings/event/46/message"
 msgid "\\v[lore.title.seeker], this was such a thrill!\\. I was really worried, but you made me pull through, thank you!"
-msgstr "\\v[lore.title.seeker], ¡Fue tan emocionante!\\. Estaba muy preocupada, pero me hiciste salir adelante, ¡gracias!"
+msgstr "¡\\v[lore.title.seeker]a, eso ha sido tan emocionante!\\. Estaba muy preocupada, pero me hiciste salir adelante, ¡gracias!"
 
 #. data/maps/jungle-city/entrance.json entities/411/settings/event/47/message #1784
 #. EventTrigger questGreens3-fightBossEnd START IF tmp.bossKill && quest.jungleGreens-3-escort_2.task.5
@@ -3679,7 +3680,7 @@ msgstr "Así que\\..\\..\\.. Sólo dame \\c[3]7000 créditos\\c[0] y \\c[3]3 Sá
 #: data/maps/jungle-city/interior/calzone-1.json+entities/28/settings/npcStates/1/event/quest/4/elseStep/0/message+%23451
 msgctxt "data/maps/jungle-city/interior/calzone-1.json//entities/28/settings/npcStates/1/event/quest/4/elseStep/0/message"
 msgid "Ah, Ms. \\v[lore.title.seeker]?\\. Changed your mind about my offer?"
-msgstr "Ah, Sra. \\v[lore.title.seeker]?\\. ¿Cambió de opinión acerca de mi oferta?"
+msgstr "Ah, ¿Sra. \\v[lore.title.seeker]a?\\. ¿Cambió de opinión acerca de mi oferta?"
 
 #. data/maps/jungle-city/interior/calzone-1.json entities/28/settings/npcStates/1/event/quest/4/elseStep/1/message #452
 #. NPC birdquestInfo
@@ -6709,7 +6710,7 @@ msgstr "Claude Reynes"
 #: data/maps/jungle-city/interior/faction-greens-1.json+entities/21/settings/npcStates/14/event/2/message+%23648
 msgctxt "data/maps/jungle-city/interior/faction-greens-1.json//entities/21/settings/npcStates/14/event/2/message"
 msgid "Go meet \\c[3]Linde\\c[0] at the \\c[3]city entrance\\c[0]. Together you must lay the toxic spirit to rest!"
-msgstr "Ve a reunirte con \\c[3]Linde\\c[0] en la \\c[3]entrada de la ciudad\\c[0]. ¡Juntos deben hacer que el espíritu tóxico desaparezca!"
+msgstr "Ve a reunirte con \\c[3]Linde\\c[0] en la \\c[3]entrada de la ciudad\\c[0]. ¡Juntas deben hacer que el espíritu tóxico desaparezca!"
 
 #. data/maps/jungle-city/interior/faction-greens-1.json entities/21/settings/npcStates/15/event/quest/0/name #649
 #. NPC leader-greenie
@@ -8287,7 +8288,7 @@ msgstr "Sra. Basu"
 #: data/maps/jungle-city/interior/faction-traders-1.json+entities/21/settings/npcStates/6/event/2/message+%23624
 msgctxt "data/maps/jungle-city/interior/faction-traders-1.json//entities/21/settings/npcStates/6/event/2/message"
 msgid "Go back into the cave in \\c[3]Old Timber\\c[0] in the eastern \\v[area.jungle.name]."
-msgstr "Regrese a la cueva en \\c[3]Madera Vieja\\c[0] en el este del \\v[area.jungle.name]."
+msgstr "Regresa a la cueva en \\c[3]Madera Vieja\\c[0] en el este del \\v[area.jungle.name]."
 
 #. data/maps/jungle-city/interior/faction-traders-1.json entities/21/settings/npcStates/6/event/3/message #625
 #. NPC faction-leader
